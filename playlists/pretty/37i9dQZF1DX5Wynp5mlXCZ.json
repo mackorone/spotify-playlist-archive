@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Irina Rimes & Jerry Heil",
-  "num_followers": 12977,
+  "num_followers": 12980,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -471,18 +471,18 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 223398,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+      "duration_ms": 104400,
+      "name": "De Madrug\u00e1",
+      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 104400,
-      "name": "De Madrug\u00e1",
-      "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 172306,
       "name": "LOVE SONG",
       "url": "https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -615,18 +615,18 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 (\u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb)",
+        "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Alena Omargalieva",
+          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
         }
       ],
-      "duration_ms": 244915,
-      "name": "Vanish Into You",
-      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+      "duration_ms": 223255,
+      "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 - \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb",
+      "url": "https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -647,18 +647,34 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 (\u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb)",
-        "url": "https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "Alena Omargalieva",
-          "url": "https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 223255,
-      "name": "\u041d\u0435 \u041f\u02bc\u044f\u043d\u0430 - \u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0430 - \u0437\u0430 \u0443\u0447\u0430\u0441\u0442\u0456 \u0430\u043d\u0441\u0430\u043c\u0431\u043b\u044e \u00ab\u041a\u0440\u0430\u043b\u0438\u0446\u044f\u00bb",
-      "url": "https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs"
+      "duration_ms": 244915,
+      "name": "Vanish Into You",
+      "url": "https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -687,6 +703,22 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
         "name": "Call Me When You Break Up (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
       },
@@ -707,38 +739,6 @@
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
-        "name": "A Little More",
-        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 192043,
-      "name": "A Little More",
-      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -775,6 +775,22 @@
       "duration_ms": 242584,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 215511,
+      "name": "Camera",
+      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -851,38 +867,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "Don't Cry, Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Don't Cry, Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 215511,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "Golden Tears",
         "url": "https://open.spotify.com/album/3bCkwJ4T9TbvHU6ooA2RKG"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 180350,
       "name": "Golden Tears",
       "url": "https://open.spotify.com/track/4tfMSLesv7YgWZ1Oy0i4NG"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "Don't Cry, Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 231680,
+      "name": "Don't Cry, Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
-        "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 152076,
-      "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
-      "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -967,18 +951,38 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Sasha Norova",
+          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
         }
       ],
-      "duration_ms": 342960,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT"
+      "duration_ms": 132626,
+      "name": "\u0410\u0443 \u0430\u0443",
+      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+        "url": "https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 152076,
+      "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
+      "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
-        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+        "name": "Something Beautiful",
+        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
       "artists": [
         {
-          "name": "Sasha Norova",
-          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 132626,
-      "name": "\u0410\u0443 \u0430\u0443",
-      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+      "duration_ms": 342960,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT"
     },
     {
       "added_at": "2025-12-11 22:00:31",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-12-11 22:00:31",
       "album": {
-        "name": "FENOMENAL'",
-        "url": "https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS"
-      },
-      "artists": [
-        {
-          "name": "DOROFEEVA",
-          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
-        }
-      ],
-      "duration_ms": 177138,
-      "name": "FENOMENAL'",
-      "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
-    },
-    {
-      "added_at": "2025-12-11 22:00:31",
-      "album": {
         "name": "\u0427\u041e\u041c\u0423",
         "url": "https://open.spotify.com/album/0siaXl6Hg3rOEI1CESKefY"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 209300,
       "name": "Earth (Dradada)",
       "url": "https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX"
+    },
+    {
+      "added_at": "2025-12-11 22:00:31",
+      "album": {
+        "name": "FENOMENAL'",
+        "url": "https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "duration_ms": 177138,
+      "name": "FENOMENAL'",
+      "url": "https://open.spotify.com/track/1b977NIX97rPhUrvt57udY"
     },
     {
       "added_at": "2025-12-11 22:00:31",

@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TAEYEON
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: GPP
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,499 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,502 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
+| 1 | [Bring it Back](https://open.spotify.com/track/350cXeeX0qeCdkJ036Lkfb) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [Bring it Back](https://open.spotify.com/album/0Bg4SoxfVEV7jvdDNVj2HK) | 4:11 |
 | 2 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
 | 3 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 | 4 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 7 | [TUNNEL VISION](https://open.spotify.com/track/1XkuFmRm3H4G4nTxsC9inD) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/1NFtkNZ4KqDZ2kd8HqJjhA) | 3:05 |
 | 8 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 |
 | 9 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
-| 10 | [Bring it Back](https://open.spotify.com/track/350cXeeX0qeCdkJ036Lkfb) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [Bring it Back](https://open.spotify.com/album/0Bg4SoxfVEV7jvdDNVj2HK) | 4:11 |
-| 11 | [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 |
-| 12 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
-| 13 | [BURNING UP](https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/7fXV48Cb6oovOhREBeQgaV) | 2:49 |
-| 14 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 |
-| 15 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
-| 16 | [Phase](https://open.spotify.com/track/1WFtVKH8l3B23WkNfWNUtU) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Phase](https://open.spotify.com/album/2e7yRPmtAf65JP43nBkFL5) | 2:58 |
+| 10 | [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 |
+| 11 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
+| 12 | [BURNING UP](https://open.spotify.com/track/0p5xMhVvw441Z10hNWsk5Q) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [BURNING UP](https://open.spotify.com/album/7fXV48Cb6oovOhREBeQgaV) | 2:49 |
+| 13 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 |
+| 14 | [XOXZ](https://open.spotify.com/track/2c6xH9usslUoHnOzsRhpcP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/25Mn0mDW9mFCvnrx9bPqP6) | 2:34 |
+| 15 | [Phase](https://open.spotify.com/track/1WFtVKH8l3B23WkNfWNUtU) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Phase](https://open.spotify.com/album/2e7yRPmtAf65JP43nBkFL5) | 2:58 |
+| 16 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
 | 17 | [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 |
 | 18 | [Reservations](https://open.spotify.com/track/4KF0mDCknSIU4Aq1I9V7wc) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Reservations](https://open.spotify.com/album/4TnbUCuwpSnGWWfCHzUev6) | 2:35 |
 | 19 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [Hello Stranger](https://open.spotify.com/track/2rY9jItQLvMWImHZygEV3d) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Hello Stranger](https://open.spotify.com/album/4fy8OpuY3eepNbp6V0p6Og) | 3:01 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAABfovfJAZB1o6IVF/+ffFoWLtjsq`
+Snapshot ID: `AAAAAPmvhxNJ+dBkaKIMQDbVhy2jt9Xb`

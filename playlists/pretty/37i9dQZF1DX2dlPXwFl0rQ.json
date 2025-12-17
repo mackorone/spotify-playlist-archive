@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada \ud83d\udd25",
-  "num_followers": 3269,
+  "num_followers": 3319,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Pago Por Ver",
+        "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Pago Por Ver",
+      "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Am\u00e9monos de Nuevo",
         "url": "https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 171886,
       "name": "Am\u00e9monos de Nuevo",
       "url": "https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Pago Por Ver",
-        "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Pago Por Ver",
-      "url": "https://open.spotify.com/track/6OrMKlkHsK8T7FnaVOgglZ"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Graciela Beltran 14 Super Exitos",
-        "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 186245,
-      "name": "Estan Lloviendo Lagrimas",
-      "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Graciela Beltran 14 Super Exitos",
+        "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 186245,
+      "name": "Estan Lloviendo Lagrimas",
+      "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Osa Mayor",
+        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 227194,
+      "name": "Locura Autom\u00e1tica",
+      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "NADIE TE NECESITA",
         "url": "https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx"
       },
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Osa Mayor",
-        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 227194,
-      "name": "Locura Autom\u00e1tica",
-      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Yo Ni Te Topo",
         "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
       },
@@ -1707,22 +1707,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Pa' Los Dolidos",
-        "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
+        "name": "Se Dice Facil",
+        "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         },
         {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
         }
       ],
-      "duration_ms": 161927,
-      "name": "Desaires",
-      "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
+      "duration_ms": 155300,
+      "name": "Se Dice Facil",
+      "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
     },
     {
       "added_at": "2025-09-19 06:00:24",

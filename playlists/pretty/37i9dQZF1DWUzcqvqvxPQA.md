@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,262 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,266 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 25 | [Where the Living is Deep](https://open.spotify.com/track/7v4UqCKQqjoWRy8gDfYZq5) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Where the Living is Deep](https://open.spotify.com/album/4Wc2fjWX8CTCCtgqssKadU) | 3:32 |
 | 26 | [This Is My Father's World](https://open.spotify.com/track/05u8IMcOqJAVEX6UAfZLEC) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [This Is My Father's World](https://open.spotify.com/album/4A8Pff3b3brOjA5PXmt24p) | 3:37 |
 | 27 | [Wings](https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [His World](https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq) | 4:27 |
-| 28 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
-| 29 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
+| 28 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
+| 29 | [Homeward Ache](https://open.spotify.com/track/2iEDTIFg9oMHQAq3tlpA1a) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO), [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [Homeward Ache](https://open.spotify.com/album/4iyzKhfv21pH7dPsZN0Kkf) | 4:17 |
 | 30 | [Fork in the Road](https://open.spotify.com/track/0dgbQ7OVTpIzCNMf9BxAQ9) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Fork in the Road \(ft\. Trella\)](https://open.spotify.com/album/1HZbGKCMrnZi1V0EQ5NiJg) | 3:27 |
 | 31 | [More of You](https://open.spotify.com/track/1dtAArEHCsYSgh2A37wmRl) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [More of You](https://open.spotify.com/album/5mBZaygNNHE0X9odhjMzoR) | 2:20 |
 | 32 | [Brittle](https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [Brittle](https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J) | 3:32 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 34 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 | 35 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 |
 | 36 | [back to life](https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [back to life](https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY) | 2:18 |
-| 37 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
-| 38 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
+| 37 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
+| 38 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
 | 39 | [Roseanne](https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Roseanne](https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF) | 3:59 |
 | 40 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
-| 41 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
-| 42 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
+| 41 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
+| 42 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
 | 43 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
 | 44 | [It Is Well](https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [It Is Well](https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY) | 3:20 |
 | 45 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |

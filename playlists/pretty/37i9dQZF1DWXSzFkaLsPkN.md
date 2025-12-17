@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,426 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,435 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 17 | [Paaro](https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Paaro](https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD) | 2:33 |
 | 18 | [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Akash Rajput](https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 |
 | 19 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 |
-| 20 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
-| 21 | [Kehne Lagaa](https://open.spotify.com/track/1TtX2QDYyCkJ0567Fanbas) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa](https://open.spotify.com/album/1hz2oWXnoAibhKR4DSJWyi) | 4:23 |
+| 20 | [Kehne Lagaa](https://open.spotify.com/track/1TtX2QDYyCkJ0567Fanbas) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa](https://open.spotify.com/album/1hz2oWXnoAibhKR4DSJWyi) | 4:23 |
+| 21 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 |
 | 22 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 |
 | 23 | [Lamhey](https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Lamhey](https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA) | 2:28 |
 | 24 | [SHARMEELI](https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [SHARMEELI](https://open.spotify.com/album/2uZeb9NCQY76An8LqPMX5K) | 2:10 |

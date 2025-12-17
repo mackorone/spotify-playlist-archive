@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,611 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,631 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [Mendigo De Amor](https://open.spotify.com/track/1qaZ0SSplJDtkMONFp6MV5) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Sus Primeros Exitos Con Los Hermanos](https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G) | 2:54 |
 | 50 | [Esa Triste Guitarra](https://open.spotify.com/track/5DLkYGsCuWVoNKDCUBZInU) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [30 Anos](https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL) | 3:14 |
 
-Snapshot ID: `aT3+AAAAAABkyBFVocn1kD2lns+AYGcx`
+Snapshot ID: `aT9PgAAAAACMKDDCwlOu9rwKTIuiRw+0`

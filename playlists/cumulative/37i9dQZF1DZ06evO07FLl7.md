@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-127 songs - 7 hr 48 min
+128 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Perigo](https://open.spotify.com/track/4hsE4edYcASyB8zUPzpiWJ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:37 | 2025-11-24 |  |
 | [Perigo](https://open.spotify.com/track/62dj6pA6Tc7PYTpFhn3dLc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:37 | 2023-09-18 | 2025-11-24 |
 | [Pode Me Perdoar](https://open.spotify.com/track/2QmK2weO09GAb4qwCMF2w5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:00 | 2024-03-28 | 2025-11-03 |
-| [Pode Me Perdoar](https://open.spotify.com/track/7g5vBnNx9jBXPDKvDua9NG) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 4:00 | 2025-11-24 |  |
+| [Pode Me Perdoar](https://open.spotify.com/track/7g5vBnNx9jBXPDKvDua9NG) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 4:00 | 2025-11-24 | 2025-12-17 |
 | [Preta](https://open.spotify.com/track/3UfzovrAYda3M8mL3CpGoN) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Selva](https://open.spotify.com/album/5A3ELDQfpzdyD9lAkHmhg5) | 3:35 | 2023-09-18 | 2025-01-22 |
 | [Preta](https://open.spotify.com/track/5vr8UkemCFnCjIfQ4gbTj5) | [TH4I](https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Preta](https://open.spotify.com/album/4DTdTAABJ6pPmbLc3eTaJe) | 3:10 | 2023-10-05 | 2024-09-06 |
 | [Preta D+](https://open.spotify.com/track/1RsXIRweHrvL1MqmxHgiKf) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:14 | 2023-09-18 | 2025-10-11 |
@@ -126,6 +126,7 @@
 | [Só um Tempo](https://open.spotify.com/track/7BCjDIt35oEvhueyt6W26C) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 3:44 | 2025-11-20 |  |
 | [Topo da Minha Cabeça](https://open.spotify.com/track/3uz8LBicFuK4X6tBx5lKXP) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 4:12 | 2025-11-20 |  |
 | [Topo da Minha Cabeça](https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:12 | 2024-09-11 | 2025-11-20 |
+| [Try](https://open.spotify.com/track/0sXJb5D2uFWMfmc0aRCwaX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 3:33 | 2025-12-17 |  |
 | [Try](https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:33 | 2024-01-21 | 2025-11-21 |
 | [Tua](https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 5:50 | 2023-09-18 |  |
 | [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 | 2024-09-11 | 2025-11-21 |

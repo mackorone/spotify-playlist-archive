@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 165127,
+  "num_followers": 165222,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABmtYm927CETbyzGikLaGim",
+  "snapshot_id": "aT9PgAAAAAAcJGD8adSJrGt5nRrxOV7H",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 226800,
       "name": "Billionaires Club",
       "url": "https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Nights In The Sun (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
       "added_at": null,
@@ -439,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Many Ways (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
     },
     {
       "added_at": null,
@@ -703,6 +703,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "IDK (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 233147,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Bad For You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOUTH GIDI",
         "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
       },
@@ -731,62 +787,6 @@
       "duration_ms": 390796,
       "name": "ABANGANI (feat. Daliwonga & Madumane)",
       "url": "https://open.spotify.com/track/19bCtadgZCc7OdqJnITfnG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180638,
-      "name": "IDK (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Bad For You (feat. Jazmine Sullivan)",
-      "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 233147,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 211284,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KANA",
         "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 207378,
       "name": "KANA",
       "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211284,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": null,

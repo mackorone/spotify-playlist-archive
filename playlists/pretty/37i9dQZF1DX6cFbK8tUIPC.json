@@ -1,6 +1,6 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 567472,
+  "num_followers": 567427,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "I Won't Be Your Foe",
-        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 164195,
-      "name": "Maybe October",
-      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "how can i pretend?",
         "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "I Won't Be Your Foe",
+        "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 164195,
+      "name": "Maybe October",
+      "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/7zG2ypB5BAr3bqPWVGVRj3"
     },
     {
-      "added_at": "2025-10-17 10:54:21",
-      "album": {
-        "name": "All is Love and Pain in the Mouse Parade",
-        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 186320,
-      "name": "Tuna in a Can",
-      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
-    },
-    {
       "added_at": "2025-09-23 14:16:54",
       "album": {
         "name": "Now Would Be A Good Time",
@@ -987,6 +971,22 @@
       "duration_ms": 199258,
       "name": "God's A Different Sword",
       "url": "https://open.spotify.com/track/6HnF46ePB8hypcS0q1x9Tn"
+    },
+    {
+      "added_at": "2025-10-17 10:54:21",
+      "album": {
+        "name": "All is Love and Pain in the Mouse Parade",
+        "url": "https://open.spotify.com/album/3EFTmIZhmh99NqPm85vn8b"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 186320,
+      "name": "Tuna in a Can",
+      "url": "https://open.spotify.com/track/5gdyRfsh9WnlmXshalldJ4"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/5W1E1tqlKUl7p6KuyCAhji"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 239120,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3HedB2EwVAj5MAx8xFE1ea"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "The First Train Home",
-        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "The First Train Home",
-      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "The Commons",
         "url": "https://open.spotify.com/album/4K8gqz3BWiZBfkGeoWdg6d"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 324893,
       "name": "The Commons",
       "url": "https://open.spotify.com/track/5PfJka4aeWTPLTpzUaxVrb"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "The First Train Home",
+        "url": "https://open.spotify.com/album/5IJoIoHhgV3xrJDs2SRXHx"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "The First Train Home",
+      "url": "https://open.spotify.com/track/3dhWVDkvWw3CA4xUfuPMjh"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Dream Team",
-        "url": "https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Dream Team",
-      "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
         "name": "Racing Mount Pleasant",
         "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 420458,
       "name": "Call It Easy",
       "url": "https://open.spotify.com/track/57s098FVVLAFdDNINJRogc"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
+        "name": "Dream Team",
+        "url": "https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 188626,
+      "name": "Dream Team",
+      "url": "https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
     },
     {
-      "added_at": "2025-10-17 10:54:21",
-      "album": {
-        "name": "I OWE IT TO YOU",
-        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "I OWE IT TO YOU",
-      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
-    },
-    {
       "added_at": "2025-09-23 14:16:54",
       "album": {
         "name": "Is It?",
@@ -1431,6 +1415,22 @@
       "duration_ms": 315040,
       "name": "Days Of Lantana",
       "url": "https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB"
+    },
+    {
+      "added_at": "2025-10-17 10:54:21",
+      "album": {
+        "name": "I OWE IT TO YOU",
+        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "I OWE IT TO YOU",
+      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
         }
       ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
     },
     {
       "added_at": "2025-09-23 14:16:54",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-09-23 14:16:54",
       "album": {
+        "name": "Cairngorms",
+        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 252878,
+      "name": "Cairngorms",
+      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
+    },
+    {
+      "added_at": "2025-09-23 14:16:54",
+      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
-    },
-    {
-      "added_at": "2025-09-23 14:16:54",
-      "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Tomorrow is Perfect",
-      "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
     },
     {
       "added_at": "2025-10-17 10:54:21",

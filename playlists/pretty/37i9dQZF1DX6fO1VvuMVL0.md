@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,602 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,670 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 24 | [Like Someone In Love](https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:30 |
 | 25 | [Ghost of a Chance](https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM) | [Lennie Tristano](https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e) | [Lennie Tristano / The New Tristano](https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9) | 6:05 |
 | 26 | [How Deep Is The Ocean](https://open.spotify.com/track/6OkDQI3XFhWc4Ui18hi66h) | [Al Cohn](https://open.spotify.com/artist/4yPUoMbYxVJ6XNJWZVJV7Y) | [Tenor Conclave](https://open.spotify.com/album/1tGUz6CL3KTjp0Wm4ouZpY) | 15:03 |
-| 27 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
-| 28 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
+| 27 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
+| 28 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
 | 29 | [Where or When](https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb) | [Johnny Smith](https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q) | [Moonlight In Vermont](https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW) | 2:26 |
 | 30 | [Walkin' Shoes](https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:30 |
 | 31 | [Nancy](https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i) | 6:06 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 33 | [Darn That Dream \- Live At The Tiffany Club, Los Angeles, CA., 1954](https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Live](https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k) | 12:07 |
 | 34 | [Kathy's Waltz](https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u) | 4:47 |
 | 35 | [Waltz Me Blues](https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 2:58 |
-| 36 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
-| 37 | [Under Capricorn](https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx) | [Gil Melle](https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX) | [New Faces \- New Sounds](https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw) | 3:01 |
+| 36 | [Under Capricorn](https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx) | [Gil Melle](https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX) | [New Faces \- New Sounds](https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw) | 3:01 |
+| 37 | [I'll Remember April](https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [September In The Rain](https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142) | 2:46 |
 | 38 | [Just In Time](https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Blowin' Country](https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM) | 3:45 |
 | 39 | [It Could Happen To You](https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [The Ivory Hunters](https://open.spotify.com/album/24rcDSSrgn13oqnqsuJH59) | 7:26 |
 | 40 | [A Handful Of Stars](https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [West Coast Jazz \(Expanded Edition\)](https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y) | 3:23 |

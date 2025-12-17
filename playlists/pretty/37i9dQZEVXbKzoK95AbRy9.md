@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,445 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,494 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 21 | [Bebe e Vem Me Procurar / Quem Ama Sente Saudade \(Ao Vivo\)](https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Turma no Quintal \(Ao Vivo\)](https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu) | 3:36 |
 | 22 | [Tô na Brasilia com o Zigão](https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ) | [DJ Zigão](https://open.spotify.com/artist/7t0BSQtRRdLyO3VseiGBBy), [MC Roger](https://open.spotify.com/artist/6QiUH0jJVJUdnte0jX1Wzj) | [Tô na Brasilia com o Zigão](https://open.spotify.com/album/1Lh4oXo6rrA1u97IUS2IWh) | 2:35 |
 | 23 | [Homem É Homem, Moleque É Moleque](https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Homem É Homem, Moleque É Moleque](https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss) | 2:24 |
-| 24 | [Diário de um Cafajeste](https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Diário de um Cafajeste](https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA) | 5:57 |
+| 24 | [Diário de um Cafajeste](https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p) | [DJ Oreia](https://open.spotify.com/artist/1b8S7EPzdckRyIh0uSbOMI), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP) | [Diário de um Cafajeste](https://open.spotify.com/album/3KcnMYtFSEkkHfNsy6KwuA) | 5:57 |
 | 25 | [12 Horas / Pra Você Acreditar \- Ao Vivo](https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Cê Tá Doido \(São José Do Rio Preto\) \[Ao Vivo\]](https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu) | 4:10 |
 | 26 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |
 | 27 | [MONTAGEM CAMERA LENTA](https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [Dj Rs](https://open.spotify.com/artist/3t0ufVf4b2wFeCG1SVNNWY), [Error Records](https://open.spotify.com/artist/6rZ3QDiOS7SIF82jMrkzq9) | [MONTAGEM CAMERA LENTA](https://open.spotify.com/album/2pdoRydehXDDEYzC6e1uSK) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Ignora \(Ao Vivo\)](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
 | 50 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
 
-Snapshot ID: `MNN+UAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNTNeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

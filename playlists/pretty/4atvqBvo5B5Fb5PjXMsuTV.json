@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 15 Dec 09:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Dec 19:05 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWtfw3sYcCa2UdEkyDE8u95KNzjvSA",
+  "snapshot_id": "AAAWuUP5wNw1GlZD/l1EXT63pH0BxTzf",
   "tracks": [
+    {
+      "added_at": "2025-12-16 14:05:27",
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/5AA7odMaDuEmu2r7MNq0JQ"
+      },
+      "artists": [
+        {
+          "name": "Pitcher56",
+          "url": "https://open.spotify.com/artist/1mHGo3u4qrglh6bFtbk57W"
+        }
+      ],
+      "duration_ms": 296016,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/6Kc6rCzJUgSmthx6h3jDQc"
+    },
+    {
+      "added_at": "2025-12-16 19:05:08",
+      "album": {
+        "name": "The Dream of a Ridiculous Man",
+        "url": "https://open.spotify.com/album/2M1CmTKP6YIRfYe11OFMFo"
+      },
+      "artists": [
+        {
+          "name": "Mirar",
+          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
+        }
+      ],
+      "duration_ms": 272902,
+      "name": "The Dream of a Ridiculous Man",
+      "url": "https://open.spotify.com/track/7lUfoEZ9t4IbmOIyZU8QTN"
+    },
     {
       "added_at": "2025-12-12 23:06:13",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 191053,
       "name": "Letter To My YN",
       "url": "https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl"
+    },
+    {
+      "added_at": "2025-12-16 19:05:08",
+      "album": {
+        "name": "Used To Love",
+        "url": "https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 187218,
+      "name": "Used 2 Love",
+      "url": "https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9"
     },
     {
       "added_at": "2025-12-13 04:05:52",
@@ -175,6 +223,22 @@
       "duration_ms": 162789,
       "name": "Give Me Something (for Arknights Endfield)",
       "url": "https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0"
+    },
+    {
+      "added_at": "2025-12-16 19:05:08",
+      "album": {
+        "name": "Someday at Christmas (Live from the Eiffel Tower)",
+        "url": "https://open.spotify.com/album/2JzM8IFzL14WqqXs20UpzP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 250319,
+      "name": "Someday at Christmas - Live from the Eiffel Tower",
+      "url": "https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs"
     },
     {
       "added_at": "2025-12-12 09:06:07",
@@ -767,74 +831,6 @@
       "duration_ms": 193749,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/6IV9MKVGRlKHcECMKG7obQ"
-    },
-    {
-      "added_at": "2025-11-29 14:04:06",
-      "album": {
-        "name": "Sad Generation",
-        "url": "https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 152103,
-      "name": "Sad Generation",
-      "url": "https://open.spotify.com/track/7wR0zykN2dzYviTGcvV8BH"
-    },
-    {
-      "added_at": "2025-11-29 04:04:03",
-      "album": {
-        "name": "Arms",
-        "url": "https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        },
-        {
-          "name": "Jacob M\u00fchlrad",
-          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
-        }
-      ],
-      "duration_ms": 279033,
-      "name": "Arms",
-      "url": "https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA"
-    },
-    {
-      "added_at": "2025-11-28 09:04:16",
-      "album": {
-        "name": "YCDL",
-        "url": "https://open.spotify.com/album/05LCKxUoZvV33ytK1ZUTWc"
-      },
-      "artists": [
-        {
-          "name": "prettifun",
-          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "YCDL",
-      "url": "https://open.spotify.com/track/6aV4ryo9wMfgbWkfItsWZr"
-    },
-    {
-      "added_at": "2025-11-29 23:04:35",
-      "album": {
-        "name": "SUGAR",
-        "url": "https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ"
-      },
-      "artists": [
-        {
-          "name": "JUNGWOO",
-          "url": "https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "SUGAR",
-      "url": "https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5"
     }
   ],
   "unique_name": "New Singles Now",

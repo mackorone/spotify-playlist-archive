@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: ar tis ta / Foto: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,113 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,109 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 7 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
 | 8 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 9 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 |
-| 10 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
-| 11 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 10 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 11 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 |
 | 12 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 13 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
 | 14 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
-| 15 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
-| 16 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
+| 15 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
+| 16 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 17 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
 | 18 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 19 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 36 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 37 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
 | 38 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 |
-| 39 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
-| 40 | [GIMME MORE](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [GIMME MORE](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
+| 39 | [GIMME MORE](https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [GIMME MORE](https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk) | 3:04 |
+| 40 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 41 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 42 | [Blue Moon](https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:02 |
 | 43 | [In The Dark \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:05 |

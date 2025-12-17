@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 434844,
+  "num_followers": 434883,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "T'estimo tant",
         "url": "https://open.spotify.com/album/5jeVqyBskdQV0FAY82QDxt"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 160695,
       "name": "el sur",
       "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Qui\u00e9n Pensar\u00eda",
+      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -983,22 +999,6 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Qui\u00e9n Pensar\u00eda",
-      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Bones",
         "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1395,6 +1395,26 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Otras 3 Lunas",
+        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Algo que no duele",
+      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1431,26 +1451,6 @@
       "duration_ms": 195700,
       "name": "Una Versi\u00f3n Mejor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7cQGVXDULnR2m9QEYYxEFu"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Otras 3 Lunas",
-        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
-      },
-      "artists": [
-        {
-          "name": "Esp\u00edritu System",
-          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Algo que no duele",
-      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
-      },
-      "artists": [
-        {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
         "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 186000,
       "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
       "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 278373,
       "name": "Ada Road",
       "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Kevin",
-        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 203003,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Te perd\u00ed",
-        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+        "name": "Kevin",
+        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
       "artists": [
         {
-          "name": "V\u00edctor Mart\u00edn",
-          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Te perd\u00ed",
-      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+      "duration_ms": 203003,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1743,6 +1727,22 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Te perd\u00ed",
+        "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Mart\u00edn",
+          "url": "https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Te perd\u00ed",
+      "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1779,22 +1779,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+        "name": "Temblor (Acoustic)",
+        "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+          "name": "Lucas Bun",
+          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
         },
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "Aym\u00ed",
+          "url": "https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS"
         }
       ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
+      "duration_ms": 189000,
+      "name": "Temblor - Acoustic",
+      "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Temblor (Acoustic)",
-        "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
       },
       "artists": [
         {
-          "name": "Lucas Bun",
-          "url": "https://open.spotify.com/artist/7oXdAnN1t1cLruHJWuR7Cx"
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
         },
         {
-          "name": "Aym\u00ed",
-          "url": "https://open.spotify.com/artist/2yqqAZVzblILJYubLxFfeS"
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Temblor - Acoustic",
-      "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Me Tienes Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
-      },
-      "artists": [
-        {
-          "name": "Maifr\u00e9n",
-          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Me Tienes Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Algo F\u00edsico",
         "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 167386,
       "name": "Algo F\u00edsico",
       "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Me Tienes Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
+      },
+      "artists": [
+        {
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Me Tienes Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Lim\u00e3o",
-        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
-      },
-      "artists": [
-        {
-          "name": "navxja",
-          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Lim\u00e3o",
-      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
         "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 195541,
       "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
       "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Lim\u00e3o",
+        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
+      },
+      "artists": [
+        {
+          "name": "navxja",
+          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "Lim\u00e3o",
+      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
     },
     {
       "added_at": "2025-12-04 23:00:16",

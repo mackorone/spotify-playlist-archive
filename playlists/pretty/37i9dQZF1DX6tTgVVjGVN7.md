@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 
 > Bandas legendarias y canciones que hicieron historia\. Foto: Los Prisioneros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,413 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,426 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTgVVjGVN7.md) - [plain]
 | 47 | [Y Que](https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:45 |
 | 48 | [D'yer Mak'er \- Remaster](https://open.spotify.com/track/4ItljeeAXtHsnsnnQojaO2) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Deluxe Edition\)](https://open.spotify.com/album/7gS8ozSkvPW3VBPLnXOZ7S) | 4:22 |
 | 49 | [Aunque no sea conmigo](https://open.spotify.com/track/0dRY4OrSY53yUjVgfgne1W) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Hijos del pueblo](https://open.spotify.com/album/69JZWukakNJGpGhJILhyTl) | 3:32 |
-| 50 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
+| 50 | [Arréglame el Alma \(feat\. Maria Barracuda\) \- En Vivo](https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 4:40 |
 
 Snapshot ID: `AAAAAMakxkD1sbTQ2CL+UZaqxi4qcmsS`

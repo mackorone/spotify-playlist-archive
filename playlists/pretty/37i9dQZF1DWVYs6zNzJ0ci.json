@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Manuel Turizo.",
-  "num_followers": 1179533,
+  "num_followers": 1179430,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -119,18 +119,22 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "Caminar\u00e1s Caminos",
-        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
       },
       "artists": [
         {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 248466,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+      "duration_ms": 259063,
+      "name": "Mi Balcon",
+      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
     },
     {
       "added_at": "2025-11-14 04:59:09",
@@ -159,22 +163,18 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E"
+        "name": "Caminar\u00e1s Caminos",
+        "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 259063,
-      "name": "Mi Balcon",
-      "url": "https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg"
+      "duration_ms": 248466,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
     },
     {
       "added_at": "2025-11-14 04:59:09",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
-    },
-    {
-      "added_at": "2025-11-14 04:59:09",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 227099,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
+    },
+    {
+      "added_at": "2025-11-14 04:59:09",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2025-11-14 04:59:09",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "Sierra del Mar",
-        "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
-        },
-        {
-          "name": "Totidub",
-          "url": "https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt"
-        }
-      ],
-      "duration_ms": 317520,
-      "name": "Sierra del Mar",
-      "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
-    },
-    {
-      "added_at": "2025-11-14 04:59:09",
-      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
+    },
+    {
+      "added_at": "2025-11-14 04:59:09",
+      "album": {
+        "name": "Sierra del Mar",
+        "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        },
+        {
+          "name": "Totidub",
+          "url": "https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt"
+        }
+      ],
+      "duration_ms": 317520,
+      "name": "Sierra del Mar",
+      "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
     },
     {
       "added_at": "2025-11-14 04:59:09",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
-    },
-    {
-      "added_at": "2025-11-14 04:59:09",
-      "album": {
         "name": "Bonito y Cruel",
         "url": "https://open.spotify.com/album/2f3XnCTwhab107XAx7slip"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 220606,
       "name": "Bonito y Cruel",
       "url": "https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx"
+    },
+    {
+      "added_at": "2025-11-14 04:59:09",
+      "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2025-11-14 04:59:09",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "Obvio S\u00ed",
-        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
-      },
-      "artists": [
-        {
-          "name": "Rastacuando",
-          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
-        }
-      ],
-      "duration_ms": 177536,
-      "name": "El Seis",
-      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
-    },
-    {
-      "added_at": "2025-11-14 04:59:09",
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
+    },
+    {
+      "added_at": "2025-11-14 04:59:09",
+      "album": {
+        "name": "Obvio S\u00ed",
+        "url": "https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h"
+      },
+      "artists": [
+        {
+          "name": "Rastacuando",
+          "url": "https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO"
+        }
+      ],
+      "duration_ms": 177536,
+      "name": "El Seis",
+      "url": "https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL"
     },
     {
       "added_at": "2025-11-14 04:59:09",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-14 04:59:09",
       "album": {
-        "name": "Si T\u00fa Me Quieres",
-        "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        }
-      ],
-      "duration_ms": 248780,
-      "name": "Si T\u00fa Me Quieres",
-      "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
-    },
-    {
-      "added_at": "2025-11-14 04:59:09",
-      "album": {
         "name": "Fragmentos del Alma",
         "url": "https://open.spotify.com/album/3dxhNXCDa4yuKZ1BioV7Ua"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 321379,
       "name": "Fragmentos del Alma",
       "url": "https://open.spotify.com/track/02atfXPeeIsceeZ6fuHipQ"
+    },
+    {
+      "added_at": "2025-11-14 04:59:09",
+      "album": {
+        "name": "Si T\u00fa Me Quieres",
+        "url": "https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 248780,
+      "name": "Si T\u00fa Me Quieres",
+      "url": "https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ"
     },
     {
       "added_at": "2025-11-14 04:59:09",

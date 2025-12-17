@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt4VCv1XXbY.md) - [plain]
 
 > The soundtrack to your motive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,773 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,765 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt4VCv1XXbY.md) - [plain]
 | 43 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 |
 | 44 | [Funky Friday](https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Funky Friday](https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf) | 3:02 |
 | 45 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
-| 46 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
-| 47 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
+| 46 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 |
+| 47 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
 | 48 | [Ngozi](https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Trench to Triumph](https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal) | 3:41 |
 | 49 | [Titanium](https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 2:07 |
-| 50 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
+| 50 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
 
 Snapshot ID: `AAAAAIF4Nco1KB3yi2KxIS5I2jKNC3NJ`

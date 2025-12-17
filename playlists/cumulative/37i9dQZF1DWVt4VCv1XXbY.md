@@ -4,7 +4,7 @@
 
 > The soundtrack to your motive.
 
-50 songs - 2 hr 37 min
+51 songs - 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,12 @@
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 | 2024-04-19 |  |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2024-04-19 |  |
 | [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2024-04-19 |  |
+| [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2024-04-19 |  |
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2024-04-19 |  |
 | [Flower](https://open.spotify.com/track/3lNpitDKoysJbHThj9GoKM) | [The Continent\. Live](https://open.spotify.com/artist/3kLjyGr4QxbGCZisf1qfvc), [VONDEE](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR), [Cool Paul](https://open.spotify.com/artist/5s1Xo4HmiGN7i4Fi2rlvlX) | [The Continent Live: First Class Vol\. 1](https://open.spotify.com/album/04XOyfHHNmpBJNmS3p3TrD) | 2:27 | 2024-04-19 |  |
 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2024-04-19 |  |
 | [Funky Friday](https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Funky Friday](https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf) | 3:02 | 2024-04-19 |  |
-| [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 | 2024-04-19 |  |
+| [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 | 2024-04-19 | 2025-12-17 |
 | [Girlfriend](https://open.spotify.com/track/57jUCJelGAISFxuea34lrr) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave \(Deluxe\)](https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg) | 3:16 | 2024-04-19 |  |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2024-04-19 |  |
 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 | 2024-04-19 |  |

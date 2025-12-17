@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 
 > This is Greeicy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,112 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,120 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 21 | [Guatapé](https://open.spotify.com/track/0lLo2KPtFaXcB82klIgMN6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 2:59 |
 | 22 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
 | 23 | [Te Creí](https://open.spotify.com/track/60c5SSCLMt13B27d6Df4dP) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 4:02 |
-| 24 | [KAI](https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [KAI](https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO) | 2:56 |
-| 25 | [Mi Pecadito](https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:17 |
+| 24 | [Mi Pecadito](https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:17 |
+| 25 | [KAI](https://open.spotify.com/track/2phpFeX1XK7nnrEyYouEoQ) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [KAI](https://open.spotify.com/album/5Z4gD8ds2JDSoUYadir9rO) | 2:56 |
 | 26 | [Desesperado \(Voy A Tomar\)](https://open.spotify.com/track/4tvtsvgrIksr7iqzPeADXB) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Desesperado \(Voy A Tomar\)](https://open.spotify.com/album/3zIhxSQpieLvjXLpZSXdDa) | 4:13 |
 | 27 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 |
 | 28 | [Efímero](https://open.spotify.com/track/65752X0pjHO407mHsCTjwn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Efímero](https://open.spotify.com/album/399gq5SAYmEAG8WcmsaSoq) | 3:29 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33YUTu.md) - [plain]
 | 44 | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Micro TDH, Greeicy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5) | 3:38 |
 | 45 | [Contigo](https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 2:51 |
 | 46 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 |
-| 47 | [Lo Malo \- Remix](https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Lo Malo \(Remix\)](https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf) | 3:04 |
-| 48 | [Química](https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:17 |
+| 47 | [Química](https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:17 |
+| 48 | [Lo Malo \- Remix](https://open.spotify.com/track/7vHzOI0lrq6dXsHuQWpBpT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Lo Malo \(Remix\)](https://open.spotify.com/album/35NdeKuRZ9zxd21lvngNxf) | 3:04 |
 | 49 | [Ganas](https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Baila](https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH) | 3:36 |
 | 50 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
 
-Snapshot ID: `aT3+AAAAAACQzAmLw3HqxoIcE/QGALPB`
+Snapshot ID: `aT9PgAAAAAArC3ZgdbdyxkHz6MhHZ9fk`

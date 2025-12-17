@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,721 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,707 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 35 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 36 | [Et un jour une femme](https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Châtelet les Halles](https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB) | 5:19 |
 | 37 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
-| 38 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
-| 39 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
+| 38 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 |
+| 39 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
 | 40 | [La Vie en rose](https://open.spotify.com/track/6RKuyWarJu8SMrflntmyXx) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Eternelle](https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za) | 3:07 |
 | 41 | [Viens on s’aime](https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Solune](https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1) | 3:21 |
 | 42 | [Caroline](https://open.spotify.com/track/7esR7jO5Fyl78B6CwwhZJy) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE) | [Qui sème le vent récolte le tempo](https://open.spotify.com/album/5hM61fBUA5OIMJUUuMrzyH) | 4:43 |

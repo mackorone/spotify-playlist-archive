@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 311165,
+  "num_followers": 311231,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAC2xzdea5WupCc5dIZ5e8IM",
+  "snapshot_id": "aT9PgAAAAABCqTHtH2D/Zb3EHzeHMNE0",
   "tracks": [
     {
       "added_at": null,
@@ -34,15 +34,11 @@
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 170365,
-      "name": "Imag\u00ednate",
-      "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
     },
     {
       "added_at": null,
@@ -106,11 +102,15 @@
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 163411,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
     },
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 194233,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 194233,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193435,
-      "name": "Cuando Me Acerco A Ti",
-      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193435,
+      "name": "Cuando Me Acerco A Ti",
+      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epa Wei",
+        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Epa Wei",
+      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Epa Wei",
-        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Epa Wei",
-      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 309615,
-      "name": "Las estrellas / Si tu me love me",
-      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Puede Pasar",
         "url": "https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC"
       },
@@ -723,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 309615,
+      "name": "Las estrellas / Si tu me love me",
+      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -735,6 +735,26 @@
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
+        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "3AM - TE 100PRE",
+      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
     },
     {
       "added_at": null,
@@ -775,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 200278,
-      "name": "EIVISSA",
-      "url": "https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -811,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
-        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 161454,
-      "name": "3AM - TE 100PRE",
-      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
+      "duration_ms": 200278,
+      "name": "EIVISSA",
+      "url": "https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2"
     },
     {
       "added_at": null,

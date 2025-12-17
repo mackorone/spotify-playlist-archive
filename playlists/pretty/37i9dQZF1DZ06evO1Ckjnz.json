@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACH4IIZ0nbieJZ216KY/r1x",
+  "snapshot_id": "aT9PgAAAAADofEQrNvdOCv5jf5YeyAfY",
   "tracks": [
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+      "duration_ms": 201061,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IPHONE",
         "url": "https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Blow Me",
-      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -759,6 +759,26 @@
       "duration_ms": 136829,
       "name": "STFU",
       "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 109788,
+      "name": "Vaderz (feat. Bktherula)",
+      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
     },
     {
       "added_at": null,
@@ -803,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         }
       ],
-      "duration_ms": 109788,
-      "name": "Vaderz (feat. Bktherula)",
-      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
+      "duration_ms": 167090,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
     },
     {
       "added_at": null,
@@ -843,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
       "artists": [
         {
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 167090,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
+      "duration_ms": 148000,
+      "name": "Let It Out",
+      "url": "https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC"
     },
     {
       "added_at": null,
@@ -879,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
       },
       "artists": [
         {
@@ -888,9 +904,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Let It Out",
-      "url": "https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC"
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 197647,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,

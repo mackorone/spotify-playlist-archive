@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpiXSzWC9nm.md) - [plain]
 
 > Throw it back to the 2010s with this list of classic videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 16 songs - 59 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 301 likes - 16 songs - 59 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpiXSzWC9nm.md) - [plain]
 | 15 | [Stay High \- \(Habits Remix\)](https://open.spotify.com/track/33BruQdi5RdHPu2weA2VKC) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Stay High \(Habits Remix\)](https://open.spotify.com/album/62QXUQgOrYen5gJEUHufjs) | 4:19 |
 | 16 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 |
 
-Snapshot ID: `AAAAAIo7oXvY5g0PPXhe4ssn8ZFTdx3i`
+Snapshot ID: `AAAAAPzMeNtvEXPLO1FIIEHRafNbNF+7`

@@ -1,31 +1,51 @@
 {
   "description": "Les hits du moment au Maroc. Cover: DYSTINCT",
-  "num_followers": 679844,
+  "num_followers": 679891,
   "original_name": "Hot Hits Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM98oGgjOdU62mbfsOSHPbQwge4r",
+  "snapshot_id": "AAAAADyZPxOvOScFKxbpkCEWPR84Ve60",
   "tracks": [
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
-        "name": "Genkidama",
-        "url": "https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde"
+        "name": "YAMA",
+        "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 151487,
-      "name": "Genkidama",
-      "url": "https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht"
+      "duration_ms": 159673,
+      "name": "YAMA",
+      "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
+      "album": {
+        "name": "Bali maak",
+        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
+      },
+      "artists": [
+        {
+          "name": "Amine Farsi",
+          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Bali maak",
+      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
+    },
+    {
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "NGHAMER",
         "url": "https://open.spotify.com/album/1YB96TRIXzeKObuCicLpsX"
@@ -49,75 +69,7 @@
       "url": "https://open.spotify.com/track/0hPCO6nihXwnUyn14kzqQd"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
-      "album": {
-        "name": "YAMA",
-        "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 159673,
-      "name": "YAMA",
-      "url": "https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt"
-    },
-    {
-      "added_at": "2025-12-13 14:14:59",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2025-12-13 14:14:59",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
-    },
-    {
-      "added_at": "2025-12-13 14:14:59",
-      "album": {
-        "name": "Bali maak",
-        "url": "https://open.spotify.com/album/6WtZt1QKkW712bnLox831o"
-      },
-      "artists": [
-        {
-          "name": "Amine Farsi",
-          "url": "https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6"
-        },
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Bali maak",
-      "url": "https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E"
-    },
-    {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "MON B\u00c9B\u00c9",
         "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
@@ -133,7 +85,7 @@
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "BL\u00c9DARD (Deluxe)",
         "url": "https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd"
@@ -149,7 +101,23 @@
       "url": "https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Ya Lmossiba",
         "url": "https://open.spotify.com/album/5dMy0rn1uqWQrMu4SlqdEd"
@@ -165,7 +133,39 @@
       "url": "https://open.spotify.com/track/403uDwdlwGqUXjSfBVVL0H"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
+      "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 151487,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht"
+    },
+    {
+      "added_at": "2025-12-16 16:06:35",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "The Dead Dance",
         "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Quand elle danse",
         "url": "https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Tach",
         "url": "https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "AIR FORCE BLANCHE",
         "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "ENCORE / VIANO",
         "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "TAF TAF",
         "url": "https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/7rfZdgHv51JFwxaQwavGd6"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6zcVRQpHsxfGm90HgnDsjh"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Thunes",
         "url": "https://open.spotify.com/album/4HA7CScPa22I7xf2eoaZsg"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/5WdqTuyAWqIkNJN5L2wlHO"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "CARTA ROUGE",
         "url": "https://open.spotify.com/album/7DmLAQQhaikH0svVdVSlBX"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/2ZzUpYp57Eftn5ueNKxkdW"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "G\u00e9n\u00e9ration impolie",
         "url": "https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "SYMPHONY IX",
         "url": "https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Belbala",
         "url": "https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "SONGI SONGI (ARABIC REMIX)",
         "url": "https://open.spotify.com/album/10YKG6MVhJJPZeRKZqbIA9"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/103iHzuUptY8rjReB2i9rj"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "El Hob Gany",
         "url": "https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "melodrama",
         "url": "https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Sahran lil",
         "url": "https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Tout donner",
         "url": "https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Tsswirtek",
         "url": "https://open.spotify.com/album/1RxCM1YSYCEgnbpwRI0BrO"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/4vmI7UiGUCtavyYHDno3QL"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "S2al",
         "url": "https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Darba Darba",
         "url": "https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "KOUDOUROU X BON COURAGE",
         "url": "https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "RUINART",
         "url": "https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Paradise (with Bipolar Sunshine)",
         "url": "https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "NANCY 11",
         "url": "https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "kafini",
         "url": "https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Tour du monde",
         "url": "https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "RIRI&ROCKY",
         "url": "https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Jedi ou Jedek",
         "url": "https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Mok ya mok",
         "url": "https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Lallahom",
         "url": "https://open.spotify.com/album/74Z0SrQ0AZlCB84ixPVMw3"
@@ -873,7 +873,7 @@
       "url": "https://open.spotify.com/track/2uK5HzKs8LsOsGHs7i8c2M"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Ha Wlidi",
         "url": "https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
     },
     {
-      "added_at": "2025-12-13 14:14:59",
+      "added_at": "2025-12-16 16:06:35",
       "album": {
         "name": "Zina Zina",
         "url": "https://open.spotify.com/album/0M2SI231gHU8QtA31csehN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Robin Schulz x Arkey
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,745 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,758 likes - 90 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 5 | [Cold Outside](https://open.spotify.com/track/6HYDxgaq7vsSD3PKs5VXmJ) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb), [NERIM](https://open.spotify.com/artist/1jxLUmvwunRwK7XNJ6Gh5F) | [Cold Outside](https://open.spotify.com/album/1CXQC3GHKvztZeiWWf98MX) | 2:34 |
 | 6 | [Disco Kissing](https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Disco Kissing](https://open.spotify.com/album/1lmSOfKZKwFR996kNlaEyQ) | 3:05 |
 | 7 | [Crazy](https://open.spotify.com/track/29jEDQRVko0BA60dVk6FOr) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Crazy](https://open.spotify.com/album/2w90QufMeGMuymbsTHO1AX) | 2:50 |
-| 8 | [Don't Stop Believin'](https://open.spotify.com/track/0ZQLzZuoMcFDMgzFngXBCM) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [Richard Goodall](https://open.spotify.com/artist/3UeF4XVJLpW0XNmkjeKJw9) | [Don't Stop Believin'](https://open.spotify.com/album/06eDla28ifTCAYVhRJU3L8) | 2:45 |
+| 8 | [Don't Stop Believin'](https://open.spotify.com/track/0ZQLzZuoMcFDMgzFngXBCM) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [FÄT TONY](https://open.spotify.com/artist/0GB4bpkY7X1MUCCD98huVK), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [Richard Goodall](https://open.spotify.com/artist/0vMCVTrlbrA1Z8iaaqIAqO) | [Don't Stop Believin'](https://open.spotify.com/album/06eDla28ifTCAYVhRJU3L8) | 2:45 |
 | 9 | [Just Like That](https://open.spotify.com/track/2EoUOsGzVZ035Kpn0zgHEF) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Just Like That](https://open.spotify.com/album/5O1f9uGwYWds3uW9EYse2f) | 2:36 |
 | 10 | [To The Moon](https://open.spotify.com/track/1UqrEdmUZallXzeHpUyAkY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [To The Moon](https://open.spotify.com/album/3C961iftDuFI3ZeozGtsGN) | 4:28 |
 | 11 | [Move A Little Closer](https://open.spotify.com/track/0gf1KoU5UhhxoEodDF29Rm) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Move A Little Closer](https://open.spotify.com/album/3W7wRLiuNsiNVvFMCKcuoO) | 2:49 |

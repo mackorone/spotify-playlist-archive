@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 344 songs - 20 hr 24 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 345 songs - 20 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -352,5 +352,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 342 | [Defeated No More](https://open.spotify.com/track/5BITgueR6DF7rAxxvTzmS3) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Edward MacFarlane](https://open.spotify.com/artist/4lDk68AYMR0F8wSNKGmYLt) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 6:07 |
 | 343 | [Simply Won't Do](https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 |
 | 344 | [Lost Soul Down / Floki](https://open.spotify.com/episode/0K8DGfkYymNOtB18XtEpbf) | [ardaxrd](https://open.spotify.com/show/2xF0CyHShTWyAB3Jv8MI23) | [ardaxrd](https://open.spotify.com/album/2xF0CyHShTWyAB3Jv8MI23) | 2:43 |
+| 345 | [Tout donner \(Tiktok version \- Electric guitar\)](https://open.spotify.com/episode/0RnNTDUqrAlctRphk4xSXq) | [Sahari Podcasts ](https://open.spotify.com/show/0HApT3E6cTeAKAbDG7dni3) | [Sahari Podcasts ](https://open.spotify.com/album/0HApT3E6cTeAKAbDG7dni3) | 3:00 |
 
-Snapshot ID: `AAADifgJ/mWaUL/iDalEoMUOSdpPlUkA`
+Snapshot ID: `AAADiol4zuSr4vISGmNi6+A00lz646ik`

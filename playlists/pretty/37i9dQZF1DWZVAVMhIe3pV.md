@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,671 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,707 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 69 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 |
 | 70 | [Shimmer](https://open.spotify.com/track/7kwpnE5W3ugxJ8wZdNYupT) | [Fuel 238](https://open.spotify.com/artist/1kymORp8cdJg1NQgZ7Mr8e) | [Sunburn](https://open.spotify.com/album/2eTRbjHzgrACW2h8U5txhe) | 3:34 |
 | 71 | [$WING](https://open.spotify.com/track/79yXiVM8QbotM46zcevzUO) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [$WING](https://open.spotify.com/album/24nqMPW9CLAZj0rIZL2tB7) | 2:52 |
-| 72 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
-| 73 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
+| 72 | [You’re One Of Us Now](https://open.spotify.com/track/6EwRKnESYfyuqDmMjbDhYw) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:03 |
+| 73 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 74 | [Freaking Out](https://open.spotify.com/track/1OGMyqd5PKvCS45J5AyunP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:35 |
 | 75 | [Remedy](https://open.spotify.com/track/2PhQfN7qTx5JxIAlIGMscf) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/2AHTc1fPhvsiGtXtquK5DO) | 2:57 |
 | 76 | [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 95 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 |
 | 96 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 |
 | 97 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 |
-| 98 | [Heat Seeker](https://open.spotify.com/track/0P9nVsSehdmUwyIQNmtgXM) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Heat Seeker](https://open.spotify.com/album/6n3UM882xPegc0XIZKU7IX) | 2:54 |
-| 99 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
-| 100 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 |
+| 98 | [Moments Of Clarity](https://open.spotify.com/track/4T8GhH9Jz2ZAf8BnE7OXzi) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/135Y92eWcCGg8GeFi5IF3v) | 3:50 |
+| 99 | [If I Could](https://open.spotify.com/track/37mcskMYPUoi0ZlqAPBByr) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 3:31 |
+| 100 | [Heat Seeker](https://open.spotify.com/track/0P9nVsSehdmUwyIQNmtgXM) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Heat Seeker](https://open.spotify.com/album/6n3UM882xPegc0XIZKU7IX) | 2:54 |
 
 Snapshot ID: `AAAAAHVsO+Ny+ASQECiD41ZHq8lm5kBL`

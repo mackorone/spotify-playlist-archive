@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-474 songs - 1 day 3 hr 47 min
+475 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
 | [Besvärjelse \(jag kommer älska dig då\)](https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Lånat](https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A) | 4:17 | 2025-06-05 |  |
 | [Blinka lilla stjärna](https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Blinka lilla stjärna](https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2) | 3:35 | 2024-12-12 | 2025-01-05 |
-| [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 |  |
+| [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 | 2025-12-17 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
 | [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-25 |
@@ -230,6 +230,7 @@
 | [Knowing Me, Knowing You \(7th Heaven Radio Edit\)](https://open.spotify.com/track/1UDh3ZtVpSKjpVarF47xIB) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB), [7th Heaven](https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi) | [Knowing Me, Knowing You](https://open.spotify.com/album/0RsOlovI5yQnhnPPjQLzmZ) | 4:07 | 2024-10-10 | 2024-10-18 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-06-27 | 2024-08-09 |
 | [Korset](https://open.spotify.com/track/41bitrPNojeptAll8T0AQj) | [Staffan Hellstrand](https://open.spotify.com/artist/0smhbmfhr1L1vFZskdZIsl) | [Korset](https://open.spotify.com/album/4j0rXpsNxmIEKq5Ln2qHCH) | 3:09 | 2025-04-03 | 2025-04-11 |
+| [Kvällen är över 2026](https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Kvällen är över 2026](https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3) | 3:45 | 2025-12-11 |  |
 | [Kyrie Eleison](https://open.spotify.com/track/6mCYHkyrrLd5bjgOytKHK2) | [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Kyrie Eleison](https://open.spotify.com/album/2oZbeImzrZwJgFqUfylFJA) | 4:42 | 2024-09-19 | 2024-12-13 |
 | [Känner ni igen er](https://open.spotify.com/track/7CfHRQgFH52hn9gcj5d8Wq) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2) | [Känner ni igen er](https://open.spotify.com/album/5AOSs0BRjVjAZNvIshnVIj) | 4:39 | 2025-03-20 | 2025-10-22 |
 | [Känns så längesen](https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [Lars Winnerbäck](https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI) | [Känns så längesen](https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2) | 3:03 | 2024-07-25 | 2025-04-11 |

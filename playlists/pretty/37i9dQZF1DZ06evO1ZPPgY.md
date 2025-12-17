@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,824 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,845 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 45 | [Girl It's True, Yes I'll Always Love You](https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Stone Gon'](https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR) | 8:40 |
 | 46 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
 | 47 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
-| 48 | [The Right Night](https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:05 |
-| 49 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
+| 48 | [Sha La La Means I Love You](https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Man](https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR) | 7:32 |
+| 49 | [The Right Night](https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:05 |
 | 50 | [I've Got So Much To Give](https://open.spotify.com/track/1p5jtupWpNUuHB9iUenTrx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 8:17 |
 
-Snapshot ID: `aT3+AAAAAADf/NIzLeCZNhEGkdDjB+Gb`
+Snapshot ID: `aT9PgAAAAACIEIlAprwOQTX8yY+wSbw/`

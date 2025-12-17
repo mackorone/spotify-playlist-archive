@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "amber leaf",
+        "url": "https://open.spotify.com/album/1YgrJbcX5jzBFhNSLiuIOg"
+      },
+      "artists": [
+        {
+          "name": "allbelow",
+          "url": "https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "amber leaf",
+      "url": "https://open.spotify.com/track/2n4hOki9aAelRqsVEXxaI0"
+    },
+    {
+      "album": {
         "name": "Among The Stars",
         "url": "https://open.spotify.com/album/6AtGi9oQpMuRBp43ugdxr4"
       },
@@ -1643,6 +1661,24 @@
     },
     {
       "album": {
+        "name": "connection",
+        "url": "https://open.spotify.com/album/7sqgVVrbRdYowtAo6CkNQU"
+      },
+      "artists": [
+        {
+          "name": "eidra",
+          "url": "https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144424,
+      "name": "connection",
+      "url": "https://open.spotify.com/track/1kS8CLPKqnKFxFD4iUbgcJ"
+    },
+    {
+      "album": {
         "name": "The Coachlight Woods",
         "url": "https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4"
       },
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 188499,
       "name": "Dancing In",
       "url": "https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai"
@@ -2112,7 +2148,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 261999,
       "name": "Empty",
       "url": "https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st"

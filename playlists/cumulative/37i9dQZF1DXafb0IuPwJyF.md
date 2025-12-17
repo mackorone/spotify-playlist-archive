@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Official髭男dism
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: HANA
 
-1,673 songs - 4 day 7 hr 35 min
+1,675 songs - 4 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [I Need You](https://open.spotify.com/track/16GmwXr8eice4keZxd1iov) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [I Need You](https://open.spotify.com/album/3WnvIXxIhgRgjfigcVNWx2) | 3:37 | 2022-07-10 | 2022-07-18 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2023-09-17 | 2023-10-16 |
 | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/album/3yMv72mFXC359orTQ2mZHe) | 3:45 | 2022-07-25 | 2022-09-26 |
-| [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 | 2025-11-11 |  |
+| [I Want You Back](https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:ST](https://open.spotify.com/album/5gCWMD9Ib9ZtNDhJlKRVPF) | 2:49 | 2025-11-11 | 2025-12-17 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-23 | 2024-12-18 |
 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 | 2023-06-25 | 2024-01-15 |
 | [I'M A RAT](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-30 | 2023-05-08 |
@@ -643,7 +643,7 @@
 | [Present](https://open.spotify.com/track/52rJ1uFs9NTfLPQ9Zqww71) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Present](https://open.spotify.com/album/2FdY6Tl2bFBWIgp9zqmZTh) | 4:08 | 2024-10-01 | 2025-01-15 |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-10-22 | 2023-11-16 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-17 | 2023-09-25 |
-| [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 | 2025-11-25 |  |
+| [PS118 \- feat\. Rapsody](https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz) | [JURIN ASAYA](https://open.spotify.com/artist/1CHDdqhyEC343e2O8dRo4N), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [PS118 \(feat\. Rapsody\)](https://open.spotify.com/album/3m7AhzkJtlEFJy3F5ekhqG) | 2:40 | 2025-11-25 | 2025-12-17 |
 | [Psycho](https://open.spotify.com/track/3ifDwg8GUpVtBzfk3FBc22) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Psycho](https://open.spotify.com/album/39CCXCE9ccNdvzc00JfYdn) | 2:49 | 2023-08-20 | 2023-09-04 |
 | [PULL UP](https://open.spotify.com/track/7HVA1EkKQi4zNaYwE17Cvo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [PULL UP](https://open.spotify.com/album/4bqkpI02r4Qc2BFrJtHOic) | 2:41 | 2023-02-01 | 2023-02-13 |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-04-02 | 2023-04-10 |
@@ -752,7 +752,7 @@
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-04-23 | 2023-05-23 |
 | [Snake](https://open.spotify.com/track/3gC9PXSvfJuLc6V9NjL9bf) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Snake](https://open.spotify.com/album/0GTl9PHpXPLCJ50xra0AQs) | 3:07 | 2023-09-03 | 2023-09-11 |
 | [snow love](https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [snow love](https://open.spotify.com/album/67HG1uLY4tFmC6L3aNxjmS) | 3:26 | 2023-11-19 | 2023-12-11 |
-| [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 | 2025-09-09 |  |
+| [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 | 2025-09-09 | 2025-12-17 |
 | [so so good](https://open.spotify.com/track/5s1seRzFMfrx5ZTXKo5KEk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Ma\-Nu](https://open.spotify.com/artist/4fEFUz9XWCLMeBJ0JKjzYY) | [IMA](https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl) | 3:27 | 2022-07-10 | 2022-07-18 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-25 | 2024-10-16 |
 | [SONG 4 U](https://open.spotify.com/track/2wzolgBdhVFcfNXcQCxZgS) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [SONG 4 U](https://open.spotify.com/album/5KPA5LHbHHr99cG3b2u1X5) | 3:22 | 2022-12-11 | 2022-12-26 |
@@ -1230,7 +1230,7 @@
 | [ブレーメン](https://open.spotify.com/track/007tbArpeenE3cbJU5I3PL) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ブレーメン](https://open.spotify.com/album/5M3p1zATZMgkEE5CrHu4k0) | 4:34 | 2022-07-10 | 2022-08-01 |
 | [プラトー](https://open.spotify.com/track/5LPyVrjwXEvHE3mcjYrSoT) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [プラトー](https://open.spotify.com/album/41cvPKK46yW4nPUv1N9vb7) | 4:23 | 2021-12-19 | 2022-01-31 |
 | [プラネテス](https://open.spotify.com/track/5ugDd8e8AlZMUYvHTCEyz1) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [プラネテス](https://open.spotify.com/album/5nPYtI4EAPBpu1JlHuYjfc) | 4:40 | 2022-02-27 | 2022-04-18 |
-| [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 | 2025-06-10 | 2025-10-29 |
+| [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 | 2025-06-10 |  |
 | [ベガとアルタイル](https://open.spotify.com/track/7M9E7w9tskTz1Bf2VrNfKy) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [ベガとアルタイル](https://open.spotify.com/album/005VNX1PTHOlstwc3STv09) | 3:55 | 2024-07-02 | 2024-12-04 |
 | [ベテルギウス](https://open.spotify.com/track/2sf18cEv463VgqmdjDsFpw) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ベテルギウス](https://open.spotify.com/album/25FWSs9iK7hQqyK2fdKvSV) | 3:50 | 2021-12-19 | 2022-01-24 |
 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 | 2022-04-17 | 2022-04-25 |
@@ -1615,6 +1615,8 @@
 | [蒲公英](https://open.spotify.com/track/05qgaAIIEFSkrrvxqb5np2) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [蒲公英](https://open.spotify.com/album/1kp6AjG2lydwf5OjfbxENs) | 3:11 | 2023-01-22 | 2023-03-13 |
 | [藍才](https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [藍才](https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1) | 4:16 | 2021-12-19 | 2022-03-07 |
 | [蛍](https://open.spotify.com/track/2U93Qos9BlyUeGU68SRAF7) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [蛍](https://open.spotify.com/album/6nHk2AOBDEv4KNDfbQCPgS) | 4:00 | 2023-07-30 | 2023-08-07 |
+| [蟲](https://open.spotify.com/track/6B6eCDW47Js0weGjB9XQfD) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [蟲](https://open.spotify.com/album/0vuOsyCckYH8Ibw1O2kx4g) | 3:20 | 2025-12-16 |  |
+| [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 | 2025-12-16 |  |
 | [袖のキルト](https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [袖のキルト](https://open.spotify.com/album/2CnTOCTNSyJmZd1DXHVsFT) | 4:15 | 2022-02-13 | 2022-04-04 |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-01-09 | 2022-03-14 |
 | [西方コーストストーリー](https://open.spotify.com/track/1YH7Rv0BpvNyjtno88MxXY) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(半カートン\)](https://open.spotify.com/album/6O5gIlE93Ym8DeAlyJI4P3) | 3:41 | 2023-06-18 | 2023-06-26 |

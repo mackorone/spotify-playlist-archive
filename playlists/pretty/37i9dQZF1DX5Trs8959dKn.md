@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,271 likes - 50 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,304 likes - 50 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 18 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
 | 19 | [Deep and soaking intimate worship](https://open.spotify.com/track/5EWpl1eUGBoOQtd3KDvXYn) | [Ayomide Yusuf](https://open.spotify.com/artist/6d08683Mvz9IwnGXPyAqaS), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Deep and soaking intimate worship](https://open.spotify.com/album/6VrrAiCPR74ufE31vQSR3z) | 23:26 |
 | 20 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 |
-| 21 | [This God Is Too Good \(feat\. Micah Stampley\)](https://open.spotify.com/track/1IxzckvVNIDjmiCy7X76Cx) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:17 |
+| 21 | [Worship Medley Interlude](https://open.spotify.com/track/4naT1LEBGLTj8jPNK2GfwM) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 2:33 |
 | 22 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 |
 | 23 | [You I Live For](https://open.spotify.com/track/7mMwtNX7X3X6NLtkOQextq) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 5:18 |
 | 24 | [Deep Soaking Worship](https://open.spotify.com/track/2mbhSasAcXlIjp5NDWWNyx) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Deep Soaking Worship](https://open.spotify.com/album/544RkVZYv8UUpAJw7NPeXl) | 58:16 |
 | 25 | [Do to Me What You Want](https://open.spotify.com/track/4DubS31RXrubsxE486uBPi) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Do to Me What You Want](https://open.spotify.com/album/5HHnscBoj1SIt7FIDtSi6c) | 11:54 |
 | 26 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 |
-| 27 | [Worship Medley Interlude](https://open.spotify.com/track/4naT1LEBGLTj8jPNK2GfwM) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 2:33 |
+| 27 | [This God Is Too Good \(feat\. Micah Stampley\)](https://open.spotify.com/track/1IxzckvVNIDjmiCy7X76Cx) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [This God Is Too Good](https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg) | 6:17 |
 | 28 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
 | 29 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
 | 30 | [You Have Done Me Well](https://open.spotify.com/track/4j9hSEJPFCUHFIF6qkpzEl) | [Olivertherain](https://open.spotify.com/artist/64E0RwV7Qxl8GSiaHHNbmh), [Pastor Courage](https://open.spotify.com/artist/0ByL5gLiuqqmE6QgZesLbl) | [You Have Done Me Well](https://open.spotify.com/album/2wvMaXM7YTDCE3dE1Aohxt) | 4:56 |

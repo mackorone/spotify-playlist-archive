@@ -16681,6 +16681,24 @@
     },
     {
       "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/3a33t58EOqtPKUBBTI6Q65"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60232,
+      "name": "Introspection",
+      "url": "https://open.spotify.com/track/0Neeh1zkNiymEOb6YNpgpK"
+    },
+    {
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/7djPo84qhFLehc2mdspqOa"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 
 > This is Ella Mai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,556 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,584 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 | 39 | [Switch Sider](https://open.spotify.com/track/65UGfLSTxHAw8CwgkwqeL1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:50 |
 | 40 | [Anymore](https://open.spotify.com/track/2Ymig15Ykfk10tAS3fCoij) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:55 |
 | 41 | [Tiiied \(feat\. 6LACK & Ella Mai\)](https://open.spotify.com/track/4kswfYbJFf6FPzMElZmtve) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 4:04 |
-| 42 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
+| 42 | [Who Knew](https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:43 |
 | 43 | [Old Dog, New Bitch](https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 1:29 |
-| 44 | [Who Knew](https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [CHANGE](https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb) | 3:43 |
+| 44 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
 | 45 | [Breakfast In Bed](https://open.spotify.com/track/2j0FtLNpLPaSX9rKuIdBFH) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:57 |
 | 46 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 3:10 |
-| 47 | [Love Me Like That \(Champion Love\)](https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 3:30 |
-| 48 | [One and Only \(feat\. Ella Mai\)](https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:26 |
+| 47 | [One and Only \(feat\. Ella Mai\)](https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:26 |
+| 48 | [Love Me Like That \(Champion Love\)](https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 3:30 |
 | 49 | [IYKYK \(feat\. Ella Mai & A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 3:03 |
 | 50 | [Surface](https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:14 |
 
-Snapshot ID: `aT3+AAAAAAAJs6OiUVmN6xMZhdoypdm5`
+Snapshot ID: `aT9PgAAAAADDldq7z9/wtNYJgF7oANwb`

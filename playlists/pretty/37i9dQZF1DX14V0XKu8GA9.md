@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: Shoreline Mafia
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,493 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,503 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 32 | [The Dream \(feat\. Timothy Bloom\)](https://open.spotify.com/track/0D95xgpVavXITdRmIe87jf) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Timothy Bloom](https://open.spotify.com/artist/4LF6IqmnCvbErXH89NaMAI) | [The Dream \(feat\. Timothy Bloom\)](https://open.spotify.com/album/1Ed4u4PzUmxc8Gsu9rytwd) | 3:16 |
 | 33 | [Borrowed time](https://open.spotify.com/track/6ZOPO20Ai4WnXC5Efnf6D9) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [Borrowed time](https://open.spotify.com/album/59wph5q8DoP9zhNJQjnidZ) | 3:34 |
 | 34 | [Never Switch](https://open.spotify.com/track/61xKjcHW1wqVcbyWXU9Tg4) | [Khaos $upreme](https://open.spotify.com/artist/71HPYEkTZJ8VJPGAk1v6gG), [Street Active](https://open.spotify.com/artist/5C6FNIcIxaMn3s9HERVnl9), [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip) | [Never Switch](https://open.spotify.com/album/7xvmAKqRJIyJr5G7MeAfJ7) | 2:24 |
-| 35 | [Cowboy In An Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 |
+| 35 | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 |
 | 36 | [gnx \(feat\. hitta j3, youngthreat, peysoh\)](https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Hitta J3](https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI), [YoungThreat](https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:13 |
 | 37 | [Buck Fifty Freestyle](https://open.spotify.com/track/53AZ0rtnXWcjFCBqLUWOjm) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Buck Fifty Freestyle](https://open.spotify.com/album/5fdJqyG6TpCvN3TGRq5an4) | 1:48 |
 | 38 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 |

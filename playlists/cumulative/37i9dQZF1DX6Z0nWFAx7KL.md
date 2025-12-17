@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-345 songs - 17 hr 4 min
+346 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Someday \(Latroit Edition\)](https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp) | [Lliam Taylor](https://open.spotify.com/artist/2n01f3fehDpSvUQB3oYFFe), [Latroit](https://open.spotify.com/artist/4keJDDQx0ac2jhmknbSLFK), [Brea](https://open.spotify.com/artist/5nVSKWXkINmkKxSSWfiPwM) | [Someday \(Latroit Edition\)](https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW) | 3:21 | 2022-09-15 | 2024-04-19 |
 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 | 2024-03-18 | 2024-04-19 |
 | [Something Real](https://open.spotify.com/track/2CDA3hjjG6o8CwrEsRBFjn) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Something Real](https://open.spotify.com/album/2UDAM6b2FOsuHyhdNSRCrT) | 3:49 | 2024-07-26 | 2024-12-13 |
-| [Sona](https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Sona](https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd) | 2:20 | 2025-03-20 |  |
+| [Sona](https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [CassMae](https://open.spotify.com/artist/4n87X0j7v2W2G3HXmFgTjS) | [Sona](https://open.spotify.com/album/4Anf0gFqtpKBzBpdtSXEnd) | 2:20 | 2025-03-20 | 2025-12-17 |
 | [Sorry](https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK) | [MAFQEES](https://open.spotify.com/artist/1Qp9yr4c6X7AWduUBkWhIp) | [Sorry](https://open.spotify.com/album/4TJ3Olg6n07Gv6yba69t9s) | 2:42 | 2022-09-15 | 2024-10-04 |
 | [Spark](https://open.spotify.com/track/0eoErZM1gZ3SXapS7WvLWN) | [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Spark](https://open.spotify.com/album/3LHK2NuRval8ZnVvad8gZ4) | 4:47 | 2025-01-10 | 2025-02-04 |
 | [Start a Thing](https://open.spotify.com/track/2qkq4Trq4Sqd7JdrAhhmfi) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Start a Thing](https://open.spotify.com/album/08sC2eGNObmoeIfRYUgOD1) | 2:56 | 2024-11-08 |  |
@@ -340,6 +340,7 @@
 | [What You Do to Me](https://open.spotify.com/track/44fvlfBmomFkyO0jC7vuWF) | [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [What You Do to Me](https://open.spotify.com/album/33dz95maLS3wwFgdmdBOFO) | 2:44 | 2023-10-02 | 2024-04-19 |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-05-24 | 2024-08-02 |
 | [Where Do We Go](https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts) | [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Where Do We Go](https://open.spotify.com/album/3lUAZ0WPyJAFf3MWMx0UL7) | 2:42 | 2024-10-24 | 2025-12-05 |
+| [Where You Are](https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo) | [Jochem Hamerling](https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p) | [Where You Are](https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb) | 2:28 | 2025-12-04 |  |
 | [Who You](https://open.spotify.com/track/3xPD3JXD8Uni1xcDKo5KJb) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Who You](https://open.spotify.com/album/4vwgBge6JFZbVCT6Y9OXbn) | 3:25 | 2023-07-27 | 2024-12-13 |
 | [Who's Holding You](https://open.spotify.com/track/4ji0j6QV4GgH6fVeEEamrO) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Who's Holding You](https://open.spotify.com/album/1gkWHss0nMUcMSAYvOnX96) | 2:41 | 2022-09-15 | 2023-02-15 |
 | [Why Don't We](https://open.spotify.com/track/6NVi9Z6a2po7wDjwIJoWO7) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392) | [Why Don't We](https://open.spotify.com/album/6VfyQEz774EH7EPKL2g8Je) | 2:17 | 2025-01-23 | 2025-02-28 |

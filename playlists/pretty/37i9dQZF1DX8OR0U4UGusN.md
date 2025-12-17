@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 
 > be on your way with Marsai Martin's curated tunes and see her in "G20," now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,221 likes - 39 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,180 likes - 39 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OR0U4UGusN.md) - [plain]
 | 35 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 |
 | 36 | [Neon Guts \(feat\. Pharrell Williams\)](https://open.spotify.com/track/1MJErNPIQUoEMu4YUUmecm) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 4:18 |
 | 37 | [Play No Games](https://open.spotify.com/track/3rsOs39rDAYxIOrDTHAgR9) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 3:36 |
-| 38 | [Dent Jusay](https://open.spotify.com/track/5jPYTT7rhC2IzRopDMtwyj) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9), [Syd](https://open.spotify.com/artist/06rCaeCVeHYDaURRHW8Ys8), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Drum Chord Theory](https://open.spotify.com/album/2cQVdKJMhGWzuO5QrYFbaS) | 2:37 |
+| 38 | [Dent Jusay](https://open.spotify.com/track/5jPYTT7rhC2IzRopDMtwyj) | [Matt Martians](https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9), [Syd](https://open.spotify.com/artist/46HVyMbMun9ChYI94zrkl9), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Drum Chord Theory](https://open.spotify.com/album/2cQVdKJMhGWzuO5QrYFbaS) | 2:37 |
 | 39 | [Gorgeous](https://open.spotify.com/track/0EytHHNzOxDyxNThyCx9oT) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Best Night Of My Life](https://open.spotify.com/album/3T1fgMprST5C4hhl19Xv40) | 5:02 |
 
 Snapshot ID: `AAAAAE8I+rgTRdpn8VUH3aali/R0/M9E`

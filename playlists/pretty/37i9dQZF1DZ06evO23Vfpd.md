@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,668 likes - 43 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,685 likes - 43 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 10 | [Amen](https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:17 |
 | 11 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 |
 | 12 | [Let It Burn](https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:44 |
-| 13 | [All Men Die \(Freestyle\)](https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:33 |
+| 13 | [Tall Boy](https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:20 |
 | 14 | [A Bar Song \(Tipsy\) \[Remix}](https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah) | 2:43 |
 | 15 | [SWEET ★ HONEY ★ BUCKIIN'](https://open.spotify.com/track/7CA0mEKqEZ0WFAIlTS4uEl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:56 |
 | 16 | [Highway](https://open.spotify.com/track/15EojPOh5L5oFVTk7x8Vub) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 2:42 |
-| 17 | [Tall Boy](https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:20 |
+| 17 | [All Men Die \(Freestyle\)](https://open.spotify.com/track/60aoMGaYBzlNEJPX6w8oAA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:33 |
 | 18 | [Lonely \(with Shaboozey\)](https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:20 |
 | 19 | [Start a Riot](https://open.spotify.com/track/6V81K1OcvYgHEnCA6A2Qx9) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:51 |
 | 20 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/1khLPhobojtGS0jL358B4C) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:56 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 42 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 | 43 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 
-Snapshot ID: `aT3+AAAAAACOB5ASJZe9h079/j1JaSbU`
+Snapshot ID: `aT9PgAAAAAALIYBewSy2Zpv0GG/HqJI1`

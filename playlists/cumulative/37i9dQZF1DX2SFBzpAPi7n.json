@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Silica Gel) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Car, the garden(\uce74\ub354\uac00\ub4e0)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -4431,6 +4431,24 @@
     },
     {
       "album": {
+        "name": "IDOL I Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2wWc6GdNR8MBLvHJGXyVL0"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200379,
+      "name": "Echoes of You",
+      "url": "https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19"
+    },
+    {
+      "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
       },
@@ -7672,7 +7690,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 210000,
       "name": "i feel love (feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/1gfSH49Vpbo76DrDX2zBQy"
@@ -10370,6 +10388,24 @@
       "duration_ms": 280095,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/2CXhXraeRr7EzV6GCBZBy6"
+    },
+    {
+      "album": {
+        "name": "Blue Heart",
+        "url": "https://open.spotify.com/album/2x9kpvzZeiIpStGqulfA50"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193875,
+      "name": "LOVERS",
+      "url": "https://open.spotify.com/track/3vHkz18weVJNZio2bvbg8g"
     },
     {
       "album": {
@@ -17728,7 +17764,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 171000,
       "name": "Velvet Trigger",
       "url": "https://open.spotify.com/track/2i4LJJX4YhL0OtNyarinUg"

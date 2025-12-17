@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > start your day right ☕️ wake up with some calm and slow Jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,735 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,759 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 99 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 |
 | 100 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 |
 
-Snapshot ID: `AAAAAB3aPqkbl302cg4B/iqLvQAkpliM`
+Snapshot ID: `AAAAACvnNNSHon5Rv1PTaYClkUgLdndD`

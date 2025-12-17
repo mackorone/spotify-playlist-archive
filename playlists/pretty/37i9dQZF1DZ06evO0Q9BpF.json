@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49616,
+  "num_followers": 49626,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACTB9v6tBQnfWVQa4MieZgV",
+  "snapshot_id": "aT9PgAAAAAAMipn5Grn/NE/VMg2lhZ0S",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
-        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Mientras Viva",
-      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
+        "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Mientras Viva",
+      "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -767,30 +767,6 @@
       "duration_ms": 301466,
       "name": "Danzando",
       "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 389946,
-      "name": "La Nube De Tu Gloria",
-      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     },
     {
       "added_at": null,
@@ -843,18 +819,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
         }
       ],
-      "duration_ms": 345973,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
+      "duration_ms": 389946,
+      "name": "La Nube De Tu Gloria",
+      "url": "https://open.spotify.com/track/7fePsrgMDddeFrl8nSGLMH"
     },
     {
       "added_at": null,
@@ -875,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
       "artists": [
         {
@@ -884,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         }
       ],
-      "duration_ms": 388853,
-      "name": "Milagros",
-      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
+      "duration_ms": 345973,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
     },
     {
       "added_at": null,
@@ -943,6 +927,22 @@
       "duration_ms": 285040,
       "name": "Luz del Mundo",
       "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 388853,
+      "name": "Milagros",
+      "url": "https://open.spotify.com/track/3zMPmB9PQ0pJR1ZvcXlE2x"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 276480,
       "name": "Cantar de Tu Amor - En Vivo",
       "url": "https://open.spotify.com/track/1x6LGbZbGFm8PYl8QDuVC1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT"
     },
     {
       "added_at": null,

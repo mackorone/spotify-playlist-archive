@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,895 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,107 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 45 | [Elevation](https://open.spotify.com/track/6mpc681Hb9vbr4tFZJ7Jfc) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Babysoul](https://open.spotify.com/album/7zQNd6E29iEUod4hAFmUMs) | 4:44 |
 | 46 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
 | 47 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
-| 48 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 |
-| 49 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
+| 48 | [Revelation Of The Heart](https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv) | [3rd Force](https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm) | [Force Field](https://open.spotify.com/album/3jjkcG2HphY52n82XNUsTc) | 5:09 |
+| 49 | [Pacific Breeze](https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN) | [Gail Jhonson](https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc), [Nelson Braxton](https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt) | [Pearls](https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF) | 3:44 |
 | 50 | [I Feel You](https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:18 |
 | 51 | [Marseille](https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Traveler](https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO) | 5:11 |
-| 52 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 |
-| 53 | [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 |
+| 52 | [Saturday Cool](https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:37 |
+| 53 | [More Or Les Paul](https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy), [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [White Sand](https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8) | 4:39 |
 | 54 | [All Night](https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Jumpin' Off](https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2) | 5:25 |
 | 55 | [Let's Get It Started](https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Creations the Album, Pt\. 1](https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI) | 6:16 |
 | 56 | [Grinnell Street](https://open.spotify.com/track/6DKXxUcWJqGIleYjogIoEQ) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Grinnell Street](https://open.spotify.com/album/70qBNTYFomQkHYnBZvvYcX) | 3:55 |

@@ -559,6 +559,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "..FEISTY",
+      "url": "https://open.spotify.com/track/0aXembK4QS3tJl5qv5sIrA"
+    },
+    {
+      "album": {
         "name": "No Name",
         "url": "https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5"
       },
@@ -11108,10 +11130,28 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9"
+    },
+    {
+      "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/7CDgeHewrX5y3pkFtU3DHG"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138679,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/00AyaBkTC57eh8mprdNtbs"
     },
     {
       "album": {
@@ -13618,6 +13658,24 @@
       "duration_ms": 193384,
       "name": "Careful What You Wish For (the doctor said to)",
       "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/7rbWFdSpf8wyUpkOb7vvD6"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104427,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
     },
     {
       "album": {
@@ -26980,7 +27038,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 377098,
       "name": "For Good",
       "url": "https://open.spotify.com/track/6Axf4FwBQvgcKzRwfm458N"
@@ -28346,7 +28404,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 314623,
       "name": "Gary",
       "url": "https://open.spotify.com/track/5HMmz01XM5IYaGP0KSsDvQ"
@@ -28540,6 +28598,36 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3bJrWZqxmil3GHBrIN5ZXU"
+    },
+    {
+      "album": {
+        "name": "Gehra Hua (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362400,
+      "name": "Gehra Hua (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
     },
     {
       "album": {
@@ -30832,6 +30920,24 @@
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2"
+    },
+    {
+      "album": {
+        "name": "gravity",
+        "url": "https://open.spotify.com/album/5Qix5py1APgc81jMkA9uTd"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "gravity",
+      "url": "https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"
     },
     {
       "album": {
@@ -34252,7 +34358,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 154363,
       "name": "HOES DEPRESSED",
       "url": "https://open.spotify.com/track/3YjVhsdXUG69TeUm0XzIFZ"
@@ -36214,7 +36320,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 219679,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/0l5v3DyJqO2q5Dy6cplOmN"
@@ -37212,6 +37318,28 @@
       "duration_ms": 143298,
       "name": "I Think I Like You Better When You\u2019re Gone",
       "url": "https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT"
+    },
+    {
+      "album": {
+        "name": "i think i'm addicted",
+        "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "i think i'm addicted",
+      "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
     },
     {
       "album": {
@@ -39910,6 +40038,48 @@
       "duration_ms": 312857,
       "name": "Ishq Hai",
       "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/1xF1WULzvp8zdsp60CJh2u"
+        },
+        {
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan",
+      "url": "https://open.spotify.com/track/0qPgK3FPlATwPMZXznLxea"
     },
     {
       "album": {
@@ -47336,7 +47506,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 124462,
       "name": "Love In A Bottle",
       "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
@@ -63762,7 +63932,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 153722,
       "name": "Push It",
       "url": "https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"
@@ -66290,7 +66460,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
@@ -78602,7 +78772,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
@@ -79060,6 +79230,28 @@
       "duration_ms": 241111,
       "name": "The Lost Soul Down - Slowed & Reverb",
       "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
+    },
+    {
+      "album": {
+        "name": "One Helluvalife",
+        "url": "https://open.spotify.com/album/2X4l2SB9tPIYZlOS9gXx76"
+      },
+      "artists": [
+        {
+          "name": "Casper TNG",
+          "url": "https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6"
+        },
+        {
+          "name": "100Bandplan",
+          "url": "https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190383,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/1RLj2wSCWUemxpldfjaDWn"
     },
     {
       "album": {
@@ -89194,7 +89386,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 264666,
       "name": "Winny",
       "url": "https://open.spotify.com/track/1UO1PYJ5sltAPNroys7ArW"

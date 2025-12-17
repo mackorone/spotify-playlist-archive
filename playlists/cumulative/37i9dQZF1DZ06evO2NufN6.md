@@ -4,7 +4,7 @@
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 18 min
+102 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Knock Knock](https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 3:17 | 2023-06-07 | 2025-12-13 |
 | [Knock Knock](https://open.spotify.com/track/4GbazUiaLPKj2VmCVykw53) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru) | 3:17 | 2025-12-13 |  |
 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2023-06-07 | 2025-12-09 |
+| [Kool Aid & Frozen Pizza](https://open.spotify.com/track/3932AyOIsoMQwKjFqaSg4R) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru) | 2:37 | 2025-12-17 |  |
 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 | 2023-06-07 |  |
 | [Loud](https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 2:50 | 2023-06-07 | 2025-12-01 |
 | [Love Lost](https://open.spotify.com/track/1gooIGZGh22TOPqaogU9bs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/0GNGyTAEBRRB98jKmgDwgd) | 2:42 | 2025-12-11 |  |

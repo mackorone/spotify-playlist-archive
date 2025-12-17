@@ -1,12 +1,12 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 198273,
+  "num_followers": 198301,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJRkHtIJwCosT0WNhNQ0YCMK6+w",
+  "snapshot_id": "AAAAAIRhmypCKR9jfiL4MYT/BfhtE7oD",
   "tracks": [
     {
       "added_at": "2025-03-26 13:54:44",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Dein ist mein ganzes Herz",
-        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
-      },
-      "artists": [
-        {
-          "name": "Heinz Rudolf Kunze",
-          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Dein ist mein ganzes Herz",
-      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 212522,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Dein ist mein ganzes Herz",
+        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
+      },
+      "artists": [
+        {
+          "name": "Heinz Rudolf Kunze",
+          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Dein ist mein ganzes Herz",
+      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Mit Dir",
         "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 169500,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
-      },
-      "artists": [
-        {
-          "name": "Andreas Bourani",
-          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Ultraleicht",
-      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Nur kurz gl\u00fccklich",
         "url": "https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 178386,
       "name": "Nur kurz gl\u00fccklich",
       "url": "https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
+      },
+      "artists": [
+        {
+          "name": "Andreas Bourani",
+          "url": "https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "Ultraleicht",
+      "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
     },
     {
       "added_at": "2025-03-26 13:54:44",

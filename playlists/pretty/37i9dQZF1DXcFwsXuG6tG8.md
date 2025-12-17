@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,471 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,484 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 11 | [Por Si las Dudas](https://open.spotify.com/track/58i55N4Ji6BPyvqI4g1HTS) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Por Si las Dudas](https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u) | 2:56 |
 | 12 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
 | 13 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 |
-| 14 | [Solita](https://open.spotify.com/track/4RTYA2tp3QbnClRVZpjD9r) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Solita](https://open.spotify.com/album/430mqknKf6ZV5Ii6tgo3xe) | 3:12 |
+| 14 | [Solita](https://open.spotify.com/track/4RTYA2tp3QbnClRVZpjD9r) | [Anna Sofia](https://open.spotify.com/artist/0X7LJjSw2GxcDonUUbnC4D) | [Solita](https://open.spotify.com/album/430mqknKf6ZV5Ii6tgo3xe) | 3:12 |
 | 15 | [a los 20](https://open.spotify.com/track/7gW7MA6kZEggEhB6mWGEp9) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado A](https://open.spotify.com/album/36O7gM7tEVAtkuWk7HlDbl) | 3:12 |
 | 16 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
-| 17 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
-| 18 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
+| 17 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 |
+| 18 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 |
 | 19 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 20 | [AMOR DE CINE](https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:22 |
 | 21 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 48 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 49 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
 | 50 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
-| 51 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
-| 52 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
+| 51 | [una niña de Venezuela](https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:20 |
+| 52 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 53 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
 | 54 | [\(feliz por ti\)](https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(feliz por ti\)](https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM) | 3:14 |
 | 55 | [rompo esquemas](https://open.spotify.com/track/1WvFuZUZBHrx2JPCn4zEDK) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [rompo esquemas](https://open.spotify.com/album/4sdH0YoWAHoozGAkVDqhpZ) | 3:19 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 61 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
 | 62 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |
 | 63 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
-| 64 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
-| 65 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 64 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 65 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 66 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 67 | [invierno](https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [PÁJARO AZUL](https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO) | 3:01 |
 | 68 | [quise quererte](https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [quise quererte](https://open.spotify.com/album/3iWWKOwiBVw2nDZmU0mCFp) | 3:39 |

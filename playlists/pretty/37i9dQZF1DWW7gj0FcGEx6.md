@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,778 likes - 166 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,771 likes - 166 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 6 | [Lluvia](https://open.spotify.com/track/1t07AT62YtYPqjunostRar) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA) | [Dímelo Bajito \(Prime Video Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22nOuCBeqe4PnrJ5OgLhgZ) | 2:06 |
 | 7 | [L'article](https://open.spotify.com/track/4VvrfCMacfa5oPl7bKA2Sa) | [Superpoze](https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz) | [Louise \(Bande Originale du Film\)](https://open.spotify.com/album/6byr54dxvqleO3Vb8JwQFA) | 3:32 |
 | 8 | [Of the undiscovered country](https://open.spotify.com/track/0PF2ZG8nMgAAcYwWLwYqnM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 5:22 |
-| 9 | [Clothed By The Sun](https://open.spotify.com/track/7oUXP4X9R6WC6YzJGWDhiC) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Clothed by the Sun \(from "The Testament of Ann Lee" Soundtrack\)](https://open.spotify.com/album/74S3OrNWGF5bc31l9c4fIn) | 3:36 |
+| 9 | [Clothed by the Sun](https://open.spotify.com/track/7oUXP4X9R6WC6YzJGWDhiC) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Clothed by the Sun \(from "The Testament of Ann Lee" Soundtrack\)](https://open.spotify.com/album/74S3OrNWGF5bc31l9c4fIn) | 3:36 |
 | 10 | [State Trooper](https://open.spotify.com/track/2lJ8DobKspudEWio9U7Ptb) | [Jeremy Allen White](https://open.spotify.com/artist/02VqsexfI15ZQ7XjBujuNJ) | [Springsteen: Deliver Me From Nowhere \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lB2cA3xGhBlxRle2uKKXB) | 3:13 |
 | 11 | [The Abandons](https://open.spotify.com/track/2se0PtiTNWDjdszmhGr6QU) | [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [The Abandons \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/31cozzxUFbLQq2kKsdfTK5) | 1:18 |
 | 12 | [Five Nights at Freddy's 2](https://open.spotify.com/track/7gazShhai4Dk00TkcSFi4c) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [Five Nights at Freddy's 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gaIouHXUamD1ynx4h8L5M) | 2:19 |

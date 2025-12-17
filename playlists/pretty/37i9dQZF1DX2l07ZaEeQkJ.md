@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 
 > trakas hdsptm 👿👹🍻🍾🫡💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,721 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,781 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l07ZaEeQkJ.md) - [plain]
 | 84 | [Otro Show](https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2) | [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ) | [Otro Show](https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU) | 2:40 |
 | 85 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 |
 | 86 | [TOMMY & PAMELA](https://open.spotify.com/track/22pksIE0wbdDfMXCb65Qt8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [TOMMY & PAMELA](https://open.spotify.com/album/4ze3XGO5e61VP9HKtybdzY) | 3:29 |
-| 87 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 |
-| 88 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
+| 87 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
+| 88 | [El Plumas](https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Plumas](https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp) | 2:30 |
 | 89 | [Hecha Pa' Mí](https://open.spotify.com/track/1uGUbgZuO1kD1JZ0UeFupN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Hecha Pa' Mí](https://open.spotify.com/album/3Z9jjBDBjKUkf7CXPm5aSF) | 3:15 |
 | 90 | [El Boss](https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Boss](https://open.spotify.com/album/6yeUuq8mHmEXuRe4KUiCKk) | 3:45 |
 | 91 | [CHUPON](https://open.spotify.com/track/7v4JGOsUkblqcvOJ0YpNUU) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Gudi](https://open.spotify.com/artist/4bBHOk8nEyfPGCZsDEEZsB), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [CHUPON](https://open.spotify.com/album/6iZo2sL8hRlzjikyJn5vyh) | 3:21 |

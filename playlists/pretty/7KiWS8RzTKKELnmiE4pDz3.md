@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 415 songs - 1 day 0 hr 24 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 416 songs - 1 day 0 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -423,5 +423,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 413 | [Batting Practice](https://open.spotify.com/track/7AtIiXwzq1xOvOPws0NX5T) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:03 |
 | 414 | [Tell Me Who Profits](https://open.spotify.com/track/2HoinVXGivQoUGO49A1HjN) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:01 |
 | 415 | [Let 'Em Know](https://open.spotify.com/track/2CxZESKjoN4Un4rTJYpwu3) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:15 |
+| 416 | [Pass the Plugs](https://open.spotify.com/track/0PHvFewiwm3B9aEmdrcZS9) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 3:29 |
 
-Snapshot ID: `AAAfaOV7D7RtVzzWOENYhEJRpXm0bxaR`
+Snapshot ID: `AAAfaVXVxEp7ZCERESS9yQxR1teCJyQS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 
 > This is ROSALÍA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,606 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,863 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 24 | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Lo Vas A Olvidar \(with ROSALÍA\)](https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew) | 3:23 |
 | 25 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 |
 | 26 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
-| 27 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 |
-| 28 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
+| 27 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
+| 28 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 |
 | 29 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 |
 | 30 | [COMO UN G](https://open.spotify.com/track/7MDfNYdpdohHjmFsYK44KU) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:22 |
 | 31 | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TKN \(feat\. Travis Scott\)](https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i) | 2:09 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lAAFJ.md) - [plain]
 | 46 | [Juro Que](https://open.spotify.com/track/3ZwQCZ2LuYwuQ6R1p1CJ3w) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Juro Que](https://open.spotify.com/album/3XV0gPorxF6TtGScGJChxG) | 2:50 |
 | 47 | [Nothing’s Special](https://open.spotify.com/track/42XBr4TCOHEz2SP4vUsBGp) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:32 |
 
-Snapshot ID: `aT3+AAAAAABEDzSIXBgZj4iKUHNNAFzl`
+Snapshot ID: `aT9PgAAAAAAfi9CNCi059F2T6F1dUJjr`

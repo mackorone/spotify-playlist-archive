@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,722 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,758 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 49 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
 | 50 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
 | 51 | [Bouquet](https://open.spotify.com/track/4l1bdE4tCuuSvQRJ4d2jxJ) | [The Percy Faith Strings](https://open.spotify.com/artist/0s6v2jpUZLV3Qs0xbm1n6f) | [Bouquet](https://open.spotify.com/album/5spJDNuS07TiEXZhYcuneJ) | 3:17 |
-| 52 | [The Joy Of Living](https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Joy Of Living](https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU) | 2:49 |
-| 53 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
+| 52 | [You're My Everything](https://open.spotify.com/track/3M5hwmGftW1vIgEW7to0N3) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Music For Her \(Expanded Edition\)](https://open.spotify.com/album/704P5eHFQFzTh6K0aS0FYH) | 3:45 |
+| 53 | [The Joy Of Living](https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Joy Of Living](https://open.spotify.com/album/5qdPHz5AKuUOVIyGSrcIUU) | 2:49 |
 | 54 | [Capri Serenade](https://open.spotify.com/track/2TUU5umfVQe14sPiWtLRMB) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [West of Sunset](https://open.spotify.com/album/3ybe9VUz7rSLgp6yjQrzE7) | 3:10 |
 | 55 | [The Man That Got Away](https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [The New Limelight](https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID) | 4:07 |
 | 56 | [Buttons and Bows](https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU) | [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Pops Goes West](https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1) | 2:07 |
-| 57 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
-| 58 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
+| 57 | [Majorcan Holiday](https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE) | [Frank Chacksfield Orchestra](https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi) | [Around the World, Vol\. 2](https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e) | 2:28 |
+| 58 | [You And The Night And The Music](https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Hey...Let Yourself Go!](https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3) | 3:37 |
 | 59 | [My Last Affair](https://open.spotify.com/track/6qn13FWqpeXQfeoz7aJrp0) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [Big Band Bash!](https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK) | 2:43 |
 | 60 | [A Lovely Way To Spend An Evening](https://open.spotify.com/track/3sqXSFkQsxfFZiVAF8FYiT) | [Frank Chacksfield](https://open.spotify.com/artist/556bh5qJfhSUkjTluTTyMF) | [Lovely Lady](https://open.spotify.com/album/0itwZ1AGwB7Dd0yP0T84Wy) | 3:30 |
 | 61 | [Love Is a Many Splendoured Thing](https://open.spotify.com/track/5KnNVLAEkIRbNC9FeURva8) | [Stanley Black and his Orchestra](https://open.spotify.com/artist/52ixPxvhj7veiIZLScC9K9) | [Hollywood Love Themes](https://open.spotify.com/album/5EQpdNemXkTVnyV47OAEsZ) | 3:44 |

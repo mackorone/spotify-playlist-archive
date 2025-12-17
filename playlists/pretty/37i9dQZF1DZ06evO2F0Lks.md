@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,728 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,725 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 21 | [Amazing Grace](https://open.spotify.com/track/0i67q5f6SBh6QvDgJV4f1v) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 2:56 |
 | 22 | [Heartbeat](https://open.spotify.com/track/05BgC2247XGi8ySwBzOO0o) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:30 |
 | 23 | [If It Was Up To Me](https://open.spotify.com/track/1fKrN4psGIjlo4sccpisJc) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:14 |
-| 24 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
+| 24 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
 | 25 | [Because He Lives](https://open.spotify.com/track/0IssjoPK88JuZug9zYkwcC) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 4:47 |
 | 26 | [Wasted](https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:34 |
 | 27 | [Out Of That Truck](https://open.spotify.com/track/0NJnqzKuU2zjmd64IXcYqY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 2:57 |
-| 28 | [Little Toy Guns](https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:30 |
+| 28 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
 | 29 | [Nothing But The Blood Of Jesus](https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:30 |
 | 30 | [Southbound](https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:22 |
 | 31 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 49 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
 | 50 | [It Had to Be You](https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:48 |
 
-Snapshot ID: `aT3+AAAAAABE9jftqFX+4m2w4SVmJKGo`
+Snapshot ID: `aT9PgAAAAAD7cu55QcARhKkYjgepH01n`

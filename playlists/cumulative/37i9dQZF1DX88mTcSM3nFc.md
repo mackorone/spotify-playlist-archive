@@ -4,7 +4,7 @@
 
 > christmas always makes me cry
 
-102 songs - 5 hr 29 min
+103 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Christmas Bells](https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Christmas Bells](https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46) | 4:07 | 2024-11-25 |  |
 | [Christmas Dreaming](https://open.spotify.com/track/5qsQZxrp60YK1Fy0xMLfBp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:58 | 2022-10-23 | 2024-04-19 |
 | [Christmas Dreaming](https://open.spotify.com/track/2TJF9IcZcUpM7gDdhHak4T) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Classic Christmas Album](https://open.spotify.com/album/2B9FcHKqz3PWJlh0yGnmM7) | 2:59 | 2022-10-23 | 2022-11-13 |
-| [Christmas Eve Can Kill You](https://open.spotify.com/track/6siVeocuKKnuynQK4PV7AE) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Stories We Could Tell](https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0) | 3:26 | 2022-10-23 |  |
+| [Christmas Eve Can Kill You](https://open.spotify.com/track/6siVeocuKKnuynQK4PV7AE) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Stories We Could Tell](https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0) | 3:26 | 2022-10-23 | 2025-12-17 |
 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 | 2022-11-28 |  |
 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 | 2023-11-21 | 2023-11-25 |
 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 | 2022-10-23 |  |
@@ -38,6 +38,7 @@
 | [Christmas Time Is Here \- Vocal](https://open.spotify.com/track/5fyaOaSQwGgngl20Noexbo) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Christmas With Family](https://open.spotify.com/album/2hs6NBRcFSjC1YiOfmN3In) | 2:46 | 2022-10-23 | 2022-11-13 |
 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 | 2022-11-28 |  |
 | [cindy lou who](https://open.spotify.com/track/15WQ0CnYIbWNCWvwp7IlYr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:01 | 2023-11-21 |  |
+| [Cold December](https://open.spotify.com/track/3PNSNTQMWROPAl3QNSbSww) | [Jenny Yim](https://open.spotify.com/artist/42XzemZAMoZo0UrjvR69Xi) | [Cold December](https://open.spotify.com/album/4HWFTD8xBZ3Qe4sMjfG4Pt) | 4:01 | 2025-12-16 |  |
 | [Coldest Winter](https://open.spotify.com/track/7GZ4WYixf0D6DWvvi60yTM) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 2:28 | 2022-11-28 |  |
 | [Did I Make You Cry On Christmas Day? \(Well, You Deserved It!\)](https://open.spotify.com/track/0ONfnpyVTlpU2wyIouPJ0A) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/2cuvGy1kWrtB3vX04Irpis) | 3:21 | 2022-11-28 | 2023-12-12 |
 | [Every Holiday](https://open.spotify.com/track/2vXWJZVMkidqV3MwMpuw7a) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Every Holiday](https://open.spotify.com/album/5AREDLpKoBwu7fTHBmta2B) | 3:44 | 2022-11-28 | 2024-10-03 |

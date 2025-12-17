@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 18851,
+  "num_followers": 18852,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAvIjmwshXf60ioqUcLE22j",
+  "snapshot_id": "aT9PgAAAAAAozBXXcXmEgKL4z46DHLG5",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna Azul",
         "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
         "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 158373,
       "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
       "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Beso a Medias",
         "url": "https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 233091,
       "name": "Un Beso a Medias",
       "url": "https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "Ac\u00e1 Entre Nos - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "16,437 D\u00edas (Con Majo Aguilar)",
+        "url": "https://open.spotify.com/album/1z1xhHvkd8OQ6fg01d9fqC"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "16,437 D\u00edas (Con Majo Aguilar)",
+      "url": "https://open.spotify.com/track/6H36P2H784fay5czIbRyBw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9jame Vivir",
         "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 222236,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Tu Lado (En Vivo)",
-        "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
     }
   ],
   "unique_name": "This Is Majo Aguilar",

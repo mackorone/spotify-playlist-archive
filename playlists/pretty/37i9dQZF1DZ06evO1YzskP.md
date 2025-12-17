@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,322 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,353 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 49 | [Chavo Félix](https://open.spotify.com/track/5bBpVTkDkvH0FwN7EtPChI) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:54 |
 | 50 | [No Vengas A Buscarme](https://open.spotify.com/track/7JS9AEJmz4Cpriz73u3tmB) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [No Vengas A Buscarme](https://open.spotify.com/album/5horTevZCjGFpqPGXKalaX) | 3:56 |
 
-Snapshot ID: `aT3+AAAAAADUnRQZpkL3EUZDTJXzPb8C`
+Snapshot ID: `aT9PgAAAAAAoD/mr0y2BM3c7bS1z73w2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 
 > celebre seu dia no maior astral!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,610 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,478 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KTVQYEg01L.md) - [plain]
 | 52 | [Some Nights](https://open.spotify.com/track/67WTwafOMgegV6ABnBQxcE) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp) | 4:37 |
 | 53 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 54 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
-| 55 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
-| 56 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
+| 55 | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [RITMO \(Bad Boys For Life\)](https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF) | 3:41 |
+| 56 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/1dnXuEuApvuVqQCn0v9McL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:03 |
 | 57 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 | 58 | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/track/5CLGzJsGqhCEECcpnFQA8x) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [These Days \(feat\. Jess Glynne, Macklemore & Dan Caplen\)](https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW) | 3:30 |
 | 59 | [Yummy](https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:28 |

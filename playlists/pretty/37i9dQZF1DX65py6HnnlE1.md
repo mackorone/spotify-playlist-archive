@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,662 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,701 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 32 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
 | 33 | [Que Vuelva](https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:31 |
 | 34 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
-| 35 | [Se Acabo Lo Bonito](https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 4:07 |
+| 35 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
 | 36 | [Hombre No Muere de Pena](https://open.spotify.com/track/4vVvPFs0eszYfWHO2Qnzau) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Amor Bonito](https://open.spotify.com/album/3PUYcU1iMJDG30dwHgFDsX) | 3:54 |
-| 37 | [No Ha Sido Facil](https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Hoja en Blanco](https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr) | 4:43 |
+| 37 | [Se Acabo Lo Bonito](https://open.spotify.com/track/1kA2zpba5Tg4YsOoeCtD6S) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/0pzlSJUK6V40vKFrZQ6PdO) | 4:07 |
 | 38 | [Se Te Nota](https://open.spotify.com/track/2QesqG94HS8ONoB8yr0vec) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Con Mas Amor](https://open.spotify.com/album/7IXnhyZffZaa9QzAzazORB) | 3:58 |
 | 39 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
 | 40 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 86 | [Frio Frio](https://open.spotify.com/track/3ETEcTlgvCzqyaZAka4E7G) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Areito](https://open.spotify.com/album/7JGSQhEpwG3F1fgIBmi8EX) | 4:05 |
 | 87 | [La Diabla](https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 3:59 |
 | 88 | [Cuando El Amor Se Va](https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mas Bachata](https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW) | 3:55 |
-| 89 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
+| 89 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
 | 90 | [Te Robaré](https://open.spotify.com/track/3fPMRb2gcFTZcYmR0bXnDc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Soy el Mismo](https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe) | 3:39 |
 | 91 | [Yo No Muero en Mi Cama](https://open.spotify.com/track/4WMyTanyayUglX70vm5tCl) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Yo No Muero en Mi Cama \- Single](https://open.spotify.com/album/6Gw6y33bYmAck07ZPjOu1z) | 4:07 |
 | 92 | [Sobredosis \(feat\. Ozuna\)](https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:18 |
 | 93 | [Me Voy De Ti](https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Para Toda La Vida](https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS) | 5:44 |
-| 94 | [Un Beso](https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:23 |
+| 94 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
 | 95 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
 | 96 | [Volvió El Dolor](https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Exitos de Luis Vargas](https://open.spotify.com/album/1s9eT7dhLZqwoqhxhEwGQO) | 3:30 |
 | 97 | [Hilito](https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:54 |

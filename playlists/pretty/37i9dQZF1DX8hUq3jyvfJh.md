@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > A escolha de nossos editores do Melhor de EQUAL Brasil 2025\. Cover: Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,838 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,837 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 16 | [QUEIMANDO ICE](https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Brunoso](https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Gambiarra Chic, Pt\. 2](https://open.spotify.com/album/1cDks8kvbTPzmr8McMduVi) | 3:54 |
 | 17 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
 | 18 | [Pé na Rua \- Ao Vivo](https://open.spotify.com/track/3qsw6I4oLBmuW1XwxA8Uja) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari no Barzinho \(Ao Vivo em BH\)](https://open.spotify.com/album/4PRblm6wGLlXfYT3UfAZrW) | 2:21 |
-| 19 | [Marra de Bandido](https://open.spotify.com/track/1s2nR9gBz50NE7TC3HYotD) | [Ellen Nery](https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Marra de Bandido](https://open.spotify.com/album/2ZbLB7VW1Rxxzbs4BIXyvM) | 1:35 |
-| 20 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
+| 19 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
+| 20 | [Marra de Bandido](https://open.spotify.com/track/1s2nR9gBz50NE7TC3HYotD) | [Ellen Nery](https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Marra de Bandido](https://open.spotify.com/album/2ZbLB7VW1Rxxzbs4BIXyvM) | 1:35 |
 | 21 | [Amor ou Ressentimento](https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Amor ou Ressentimento](https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF) | 2:31 |
 | 22 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
 | 23 | [seis anos depois](https://open.spotify.com/track/4Prv4PDe3KiVJ5BLmTutGo) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [claraboia](https://open.spotify.com/album/78YxhXedN9CkDBEvBW7HNm) | 1:37 |

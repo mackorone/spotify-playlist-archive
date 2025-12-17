@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 74180,
+  "num_followers": 74178,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAos6YMoViukX9PTKCpxCXM",
+  "snapshot_id": "aT9PgAAAAADLqC1q3cMQZQkMRN/D3eF3",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fight For Liberty / Wizard CLUB",
-        "url": "https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 253053,
-      "name": "Fight For Liberty",
-      "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EPIPHANY",
         "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 235893,
       "name": "NO MAP",
       "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fight For Liberty / Wizard CLUB",
+        "url": "https://open.spotify.com/album/01wclIWhWS6QyYNUoqSPL1"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 253053,
+      "name": "Fight For Liberty",
+      "url": "https://open.spotify.com/track/07NMKEDSIgM6W6FvmCIKKa"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 255706,
-      "name": "Fight For Liberty\uff08album ver.\uff09",
-      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
         "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 240640,
       "name": "DEJAVU",
       "url": "https://open.spotify.com/track/4MxC12Xsx3eQtbUO0rRi5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 255706,
+      "name": "Fight For Liberty\uff08album ver.\uff09",
+      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-655 songs - 1 day 17 hr 11 min
+663 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [128](https://open.spotify.com/track/1c5CzEcNAUy2b8O3plzf4l) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:36 | 2024-07-07 |  |
 | [12:51](https://open.spotify.com/track/6Yu1OL8I0D4vjOzYdsXYGK) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:33 | 2024-04-03 |  |
 | [15 Minutes](https://open.spotify.com/track/0Sqi2XLLVk5JGfZnFnidM2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:33 | 2024-04-19 |  |
+| [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2025-12-16 |  |
 | [2 + 2 = 5](https://open.spotify.com/track/4xkcGfpM9RwB4IiQ7yx2dB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Hail To the Thief](https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy) | 3:19 | 2024-12-27 |  |
 | [3 X 3](https://open.spotify.com/track/0KG1naiZG23PdrkpwhcTDU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 2:38 | 2025-12-15 |  |
 | [30 Minute Boyfriend](https://open.spotify.com/track/0ewGf37qQuShGtZqLAuDT9) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:31 | 2024-06-10 |  |
@@ -114,6 +115,7 @@
 | [Cemetry Gates \- 2011 Remaster](https://open.spotify.com/track/03yOjwHoOPDlTUg0NRxN6t) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 2:41 | 2025-12-14 |  |
 | [Champion](https://open.spotify.com/track/4UQMOPSUVJVicIQzjAcRRZ) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 2:47 | 2023-11-14 |  |
 | [Chances](https://open.spotify.com/track/718purgMpFb2Axhuz0Hbq1) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:36 | 2024-05-11 |  |
+| [Children of the Future](https://open.spotify.com/track/6OglVQUqBeozmxbSts7zRf) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:07 | 2025-12-16 |  |
 | [Christmas Treat](https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 3:11 | 2024-06-10 |  |
 | [City Walls](https://open.spotify.com/track/0KSAukJDLhGDWQVN4sQTGd) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:16 | 2024-07-07 |  |
 | [Climbing Up the Walls](https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:45 | 2025-12-13 |  |
@@ -303,6 +305,7 @@
 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 | 2024-06-16 |  |
 | [Late Night Drive](https://open.spotify.com/track/6qJNqxNmOZuQUZckn2dLZB) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Variety Pack](https://open.spotify.com/album/3pmNLRyXB6nnXYditvGTZD) | 3:55 | 2024-12-28 |  |
 | [Lazy Boy](https://open.spotify.com/track/5xXkyBtG1sNIhkpCIxF0Il) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:31 | 2024-06-06 |  |
+| [Leaf Skeleton](https://open.spotify.com/track/5bCiIhO0KqgBCzcNwJTTS6) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four \(Deluxe\)](https://open.spotify.com/album/4u7EXBnQVO2LOhDiziw70R) | 3:39 | 2025-12-16 |  |
 | [Leave Before I Wake](https://open.spotify.com/track/3oZN6PozIq3IzsCUN4kmIT) | [Makeout Reef](https://open.spotify.com/artist/39I2FHig6PNSj3ctNkxX9o) | [Star Power](https://open.spotify.com/album/728YaMJauikKmE5dRQwkTO) | 3:23 | 2025-09-06 |  |
 | [Leave It In My Dreams](https://open.spotify.com/track/31u6rUeIEXGrYVoh10U7eu) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:59 | 2024-06-06 |  |
 | [Left & Right in the Dark](https://open.spotify.com/track/5GWcdCeWCiFK0EcQBmDEk6) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 4:54 | 2024-06-10 |  |
@@ -330,6 +333,7 @@
 | [Mary's](https://open.spotify.com/track/2LBUOrgg17J9WWp9x07ztK) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 2:41 | 2024-12-30 |  |
 | [Me and Michael](https://open.spotify.com/track/0t4z0WaQomQqPONghWn8c2) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:49 | 2024-06-10 |  |
 | [Me and the Farmer](https://open.spotify.com/track/3Vd7Mm3hJNff4r3Ocxe31Z) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 2:54 | 2024-04-08 |  |
+| [Mean](https://open.spotify.com/track/44x2FKtAH95pQBEk45wkOl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four \(Deluxe\)](https://open.spotify.com/album/4u7EXBnQVO2LOhDiziw70R) | 3:27 | 2025-12-16 |  |
 | [Meat Is Murder \- 2011 Remaster](https://open.spotify.com/track/1vAvRteHbPcnq7fTTROnNB) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 6:13 | 2024-04-09 |  |
 | [Meet Me in the Bathroom](https://open.spotify.com/track/08l9WKDuRyGeStQ9ojTlFh) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:56 | 2024-04-09 |  |
 | [Mephisto's Waltz](https://open.spotify.com/track/3KbIU2HvBeSTHsYlmOgtYX) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Mephisto's Waltz](https://open.spotify.com/album/5zieeJGt2EsDz2K20Bfxtk) | 3:30 | 2024-07-31 |  |
@@ -427,6 +431,7 @@
 | [Queen of Hearts](https://open.spotify.com/track/6jYk46oSc16JrL78Lx21hR) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:47 | 2025-02-15 |  |
 | [QYURRYUS](https://open.spotify.com/track/6pMRk6Tr05wmZSSINOqzE3) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:52 | 2024-06-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2023-11-14 |  |
+| [Ratchet](https://open.spotify.com/track/1k5AiK2Gm2TaJtkkDeQnMi) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:18 | 2025-12-16 |  |
 | [Razorblade](https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:28 | 2024-06-10 |  |
 | [Reach](https://open.spotify.com/track/1xUwUFgcNIN5PjroCkkOol) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Kill The Lights](https://open.spotify.com/album/07YRYrOVpy3S6kTnd3A2zO) | 2:55 | 2025-05-31 |  |
 | [Real Talk](https://open.spotify.com/track/2QknWSZNH6qO603rhSDILw) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:13 | 2025-12-15 |  |
@@ -500,6 +505,7 @@
 | [Still Ill \- 2011 Remaster](https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:21 | 2024-04-09 |  |
 | [Stop Me If You Think You've Heard This One Before \- 2011 Remaster](https://open.spotify.com/track/2JN57QFclho4vExKPq6OYg) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:35 | 2024-04-22 |  |
 | [Storm and Stress](https://open.spotify.com/track/0O7ZJ4wdVHJ4q9n6xdnWtU) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Little Thoughts \- EP](https://open.spotify.com/album/4rdldUL6CaQB4mXVqyA32i) | 2:46 | 2025-12-14 |  |
+| [Straight Thru Cru](https://open.spotify.com/track/3Ne8ouAV41rgrX310LQ80I) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Octopus](https://open.spotify.com/album/0KanlBnxb6FIJwgpCxJKnJ) | 3:28 | 2025-12-16 |  |
 | [Street Spirit \(Fade Out\)](https://open.spotify.com/track/2QwObYJWyJTiozvs0RI7CF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:13 | 2025-12-13 |  |
 | [Stretch out and Wait \- 2011 Remaster](https://open.spotify.com/track/0Hpm3tUmlaQs2l517D5GAh) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 2:39 | 2025-12-15 |  |
 | [Stronger](https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 5:11 | 2023-11-14 |  |
@@ -544,6 +550,7 @@
 | [The Glory](https://open.spotify.com/track/0lWjRSzq5chA9fps3pM8Zr) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:32 | 2023-11-14 |  |
 | [The Hand That Rocks the Cradle \- 2011 Remaster](https://open.spotify.com/track/4Xgswinq80oMl4a0xhBMWT) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 4:37 | 2024-04-05 |  |
 | [The Headmaster Ritual \- 2011 Remaster](https://open.spotify.com/track/4tFGNFIIZ9ANSewxGZyiDD) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 4:55 | 2024-04-09 |  |
+| [The Healing](https://open.spotify.com/track/3fh7Uw4tZJpzIpJQiMdzfK) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:19 | 2025-12-16 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-01-05 |  |
 | [The Light Is Always Green](https://open.spotify.com/track/0xs3QgZkE5za2MfugDcjd9) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 3:58 | 2024-04-08 |  |
 | [The Marshalls Are Dead](https://open.spotify.com/track/43MO2TDtbR5X2VnO4tuxjb) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Bloc Party EP](https://open.spotify.com/album/4CD1aUh0batIMz8oWc2tpi) | 3:52 | 2025-12-14 |  |
@@ -650,6 +657,7 @@
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2023-11-19 |  |
 | [Wonderful Woman \- 2008 Remaster](https://open.spotify.com/track/1bNuTve1e53C7OWoX7Kkj3) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Sound of the Smiths \(Deluxe; 2008 Remaster\)](https://open.spotify.com/album/59gl3QDzCgH4GXzXLEwe55) | 3:10 | 2025-12-15 |  |
 | [Work Is a Four\-Letter Word \- 2011 Remaster](https://open.spotify.com/track/6YRTMftgaRzwpnq3VHDtET) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Complete](https://open.spotify.com/album/30g571JKoxs8AnsgAViV2J) | 2:46 | 2025-12-15 |  |
+| [X\-Cutioner's Song \- Bonus Track](https://open.spotify.com/track/0eOHGxAfcwA4jS2QcCbspI) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Nextwave Sessions](https://open.spotify.com/album/7dN12PgmTyMSxiD9Rz1U11) | 2:01 | 2025-12-16 |  |
 | [Xerox](https://open.spotify.com/track/0EH07hS7lnqoNnRet0g2oJ) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 5:05 | 2024-07-07 |  |
 | [Yes, Please, Don't](https://open.spotify.com/track/7KcTTtBkfX5q9x6jloJ1F6) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 3:27 | 2025-02-15 |  |
 | [You & Me](https://open.spotify.com/track/70IxQPO3KJR0cJtUqe3Umi) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 2:52 | 2024-05-24 | 2024-11-20 |

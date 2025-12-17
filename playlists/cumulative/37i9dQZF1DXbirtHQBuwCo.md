@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>KRYSTAL\)
 
-882 songs - 1 day 22 hr 38 min
+883 songs - 1 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,7 +524,7 @@
 | [My Time](https://open.spotify.com/track/2uymLlkO57qpLZUAry8I1R) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [My Time](https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco) | 2:28 | 2023-09-14 | 2023-09-19 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-10 | 2022-06-17 |
 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 | 2023-01-12 | 2023-04-11 |
-| [NAKED](https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H) | [Y:SY](https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA) | [NAKED](https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki) | 3:05 | 2025-11-18 |  |
+| [NAKED](https://open.spotify.com/track/2a6vMQiclAa0ZcBy6zFn4H) | [Y:SY](https://open.spotify.com/artist/6poSAr6d3ycm04lRtcMzxA) | [NAKED](https://open.spotify.com/album/2BXbtEqrsNv1LNV3y4Dtki) | 3:05 | 2025-11-18 | 2025-12-17 |
 | [NAKED](https://open.spotify.com/track/32iWCUWIOhFM2rV5Uqdsry) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [NAKED](https://open.spotify.com/album/72yIggsMNYf64b22AFH1SA) | 2:52 | 2024-10-09 | 2024-10-14 |
 | [NASA](https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:41 | 2024-11-29 | 2025-07-13 |
 | [Natural](https://open.spotify.com/track/3irxOdgyrh21D6Vo2ALbUF) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Natural](https://open.spotify.com/album/4Mb1kBugQHbQp0Euimevri) | 2:46 | 2025-10-18 | 2025-11-19 |
@@ -671,6 +671,7 @@
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-02-15 |
 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-05-14 |  |
 | [Searched your name on instagram](https://open.spotify.com/track/0N9QkwJeveGUGpWvUORlzy) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [Searched your name on instagram](https://open.spotify.com/album/21gf9IgPsdFViKGVZv5GwF) | 2:52 | 2023-01-23 | 2023-02-11 |
+| [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 | 2025-12-16 |  |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-04-25 | 2023-05-24 |
 | [Seesaw \(Feat\. Kim Seheon\)](https://open.spotify.com/track/1yPQEJhbHYJ7U0wUg6dyfR) | [Jxxn](https://open.spotify.com/artist/0yg3ZswlGCiIij5a6bpPQE), [Kim Seheon](https://open.spotify.com/artist/5JX1w3VSSCX5tRzAsxV0WY) | [Cosmic Love Vol.1](https://open.spotify.com/album/4r36Y1U93HmxvMzR4wC4Na) | 3:10 | 2023-01-23 | 2023-02-15 |
 | [Seiren](https://open.spotify.com/track/3TygjfDZ8m6ehJpIGO39CA) | [Seiren](https://open.spotify.com/artist/4gfhlsF2bTM0wS7Y1gvHzL) | [Seiren](https://open.spotify.com/album/1j3OwiDesda3wbEvmtCzBq) | 3:02 | 2022-04-19 | 2022-04-21 |

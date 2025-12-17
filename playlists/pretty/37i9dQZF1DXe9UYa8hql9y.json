@@ -1,6 +1,6 @@
 {
   "description": "puro rol\u00f3n para amanecer y seguirla ",
-  "num_followers": 111618,
+  "num_followers": 111791,
   "original_name": "La Peda ",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
         "name": "Don Juan",
         "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
         "name": "c\u00f3mo dormiste?",
         "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 222306,
       "name": "Reggaet\u00f3n Lento (Bailemos)",
       "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 195314,
-      "name": "Asquerosamente Rico",
-      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1051,18 +1031,22 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 195314,
+      "name": "Asquerosamente Rico",
+      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1087,6 +1071,22 @@
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "Shorty Party",
-        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "La Kelly",
-          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Shorty Party",
-      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
+        "name": "Shorty Party",
+        "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "La Kelly",
+          "url": "https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Shorty Party",
+      "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
         "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
         "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1503,6 +1503,30 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
         "name": "Amapolas",
         "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
       },
@@ -1531,30 +1555,6 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1675,30 +1675,6 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "NUBES",
-        "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 178224,
-      "name": "NUBES",
-      "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -1727,6 +1703,30 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 178224,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
@@ -1743,22 +1743,22 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+        "name": "CLASSY 101",
+        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         }
       ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
+      "duration_ms": 195986,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "CLASSY 101",
-        "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 195986,
-      "name": "CLASSY 101",
-      "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "added_at": "2025-12-12 06:00:33",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-12-12 06:00:33",
       "album": {
-        "name": "Tropicoqueta",
-        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 154817,
-      "name": "Cuando Me Muera Te Olvido",
-      "url": "https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt"
-    },
-    {
-      "added_at": "2025-12-12 06:00:33",
-      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 212151,
       "name": "Julietota",
       "url": "https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ"
+    },
+    {
+      "added_at": "2025-12-12 06:00:33",
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 154817,
+      "name": "Cuando Me Muera Te Olvido",
+      "url": "https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt"
     },
     {
       "added_at": "2025-12-12 06:00:33",

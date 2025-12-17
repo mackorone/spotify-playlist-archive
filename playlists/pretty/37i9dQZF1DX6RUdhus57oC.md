@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,657 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,668 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 34 | [You](https://open.spotify.com/track/1WfuDZ4OFPb1WC76ipdKCW) | [Oliver Peasley](https://open.spotify.com/artist/13EUu6e9QCae6KE3J0glgT) | [You](https://open.spotify.com/album/59xjKBZnOGokehELrAzRo1) | 2:27 |
 | 35 | [Dandelions](https://open.spotify.com/track/1HoCLME8rDSpksyIVgfs5w) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Dandelions](https://open.spotify.com/album/1StyA6SuWHuexqkYAEaJEA) | 2:23 |
 | 36 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
-| 37 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
-| 38 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 |
+| 37 | [Love Me Tender](https://open.spotify.com/track/1cm6DumMSwqKuxZdRjorAl) | [August Ken](https://open.spotify.com/artist/0vAo9it46E8KVcjPHMsur5) | [Love Me Tender](https://open.spotify.com/album/5BsJYGygYBdPK3qxSvoKSw) | 2:00 |
+| 38 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
 | 39 | [Snuggled](https://open.spotify.com/track/75Zh8LLgK1jnGbHsAMN2vv) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Snuggled](https://open.spotify.com/album/3xjUvrQEXkBv2V1NiMw3Pv) | 2:11 |
 | 40 | [Refreshing](https://open.spotify.com/track/6d4hQC6SMrJQayOCwxffSn) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Flourishing](https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8) | 2:27 |
 | 41 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 |
@@ -59,21 +59,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 49 | [Milleniaria](https://open.spotify.com/track/0EmLqKNpKexYXHjw5fqeiW) | [Roland Toubin](https://open.spotify.com/artist/13PVzQGDDypUa5eGfJEVob) | [Milleniaria](https://open.spotify.com/album/29E0EReVASfd4J3qZuJBgT) | 2:57 |
 | 50 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 |
 | 51 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 |
-| 52 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 |
-| 53 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
-| 54 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
+| 52 | [Moments of Joy](https://open.spotify.com/track/4xaWRbNi9BNSCNxNgVUepd) | [Noel Oliver](https://open.spotify.com/artist/60XMGyggu8Xe0jhOQMgXbE) | [Moments of Joy](https://open.spotify.com/album/4SWWC5aBtfZtVkZOozZ7Gf) | 2:15 |
+| 53 | [My Hands](https://open.spotify.com/track/2hsYfmLXWdRWqB2i4LAhp1) | [YARA](https://open.spotify.com/artist/0g3UV4KTsBXySBgxKtNUFG) | [My Hands](https://open.spotify.com/album/0HJvtkOqU2wwL0fldwbDCw) | 3:57 |
+| 54 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 | 55 | [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 |
 | 56 | [Wish Your Way](https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Wish Your Way](https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE) | 2:42 |
 | 57 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 |
 | 58 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 |
-| 59 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 |
-| 60 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
-| 61 | [Wiegenlieden](https://open.spotify.com/track/3U6R2JSOzgPzQo57fZFsDZ) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Wiegenlieden](https://open.spotify.com/album/55EUDdrVTg81REpnhuSwVl) | 2:38 |
+| 59 | [Wiegenlieden](https://open.spotify.com/track/3U6R2JSOzgPzQo57fZFsDZ) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Wiegenlieden](https://open.spotify.com/album/55EUDdrVTg81REpnhuSwVl) | 2:38 |
+| 60 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 |
+| 61 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
 | 62 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 |
 | 63 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 64 | [Across The Fields](https://open.spotify.com/track/2UWdKLbBqqjWjqE7NPLBKH) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Across The Fields](https://open.spotify.com/album/68c3h4zAoaRybQloxoXHOk) | 2:23 |
-| 65 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 |
-| 66 | [Derrière le carreau fermé](https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:11 |
+| 65 | [Derrière le carreau fermé](https://open.spotify.com/track/0PeioVXpgkx0gAjjXWZgrI) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:11 |
+| 66 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 |
 | 67 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 |
 | 68 | [What We Say](https://open.spotify.com/track/5KiGarBX9pitdRxbFRUYAn) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [What We Say](https://open.spotify.com/album/3XrAGJAi6CQKGkRaNRJljd) | 2:47 |
 | 69 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RUdhus57oC.md) - [plain]
 | 71 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
 | 72 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 73 | [Son's and Daughter's](https://open.spotify.com/track/4CTmMZznjMORw49F4HK8u5) | [Meyer Wilen](https://open.spotify.com/artist/4nToVQre9DbvPZG2rBoe6m) | [Son's and Daughter's](https://open.spotify.com/album/6zHhf9wt2HfPQJce7vydk4) | 2:34 |
-| 74 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 |
+| 74 | [She Sleeps](https://open.spotify.com/track/09GlKjOqndkGAXQW6b2YBa) | [Alvair](https://open.spotify.com/artist/3wwqxuKPDc2Lce3y94D48e) | [She Sleeps](https://open.spotify.com/album/24fkh13bTwIZ07ERd2XOg9) | 3:16 |
 | 75 | [Someplace Good](https://open.spotify.com/track/4l2aLCFBcycKU6Scz2esUs) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Someplace Good](https://open.spotify.com/album/4XjLBRHYd7E66x2pXxaDkB) | 3:28 |
-| 76 | [She Sleeps](https://open.spotify.com/track/09GlKjOqndkGAXQW6b2YBa) | [Alvair](https://open.spotify.com/artist/3wwqxuKPDc2Lce3y94D48e) | [She Sleeps](https://open.spotify.com/album/24fkh13bTwIZ07ERd2XOg9) | 3:16 |
+| 76 | [Heavens Night](https://open.spotify.com/track/3Tk6k58gIMjQln4tDhVPQV) | [Sean Larson](https://open.spotify.com/artist/1BSEFOJzY8CtMOSxib4sfZ) | [Heavens Night](https://open.spotify.com/album/16wm0WGGZlJbAWqOrAraRF) | 2:18 |
 | 77 | [Ensamma nätter](https://open.spotify.com/track/7wHSoSqiCeLNn56BjPvece) | [Drömqvist](https://open.spotify.com/artist/1vmjcCxXgIkmW2139Y5nr8) | [Ensamma nätter](https://open.spotify.com/album/498EN0Kfw9NYGlyFzV5ALo) | 2:28 |
 | 78 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
 | 79 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |

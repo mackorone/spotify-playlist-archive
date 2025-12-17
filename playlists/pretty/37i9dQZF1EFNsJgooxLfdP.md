@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,388 likes - 81 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,385 likes - 81 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 80 | [Backyard](https://open.spotify.com/track/1d94OrOOV6cog20FnChbg2) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:36 |
 | 81 | [For The Thrill \(feat\. B.o.B\)](https://open.spotify.com/track/0JnVZIgTuBJvA7ZGKpnX4C) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Nightmares & Lullabies \- Act 1](https://open.spotify.com/album/4w4O6rZqTzxz8yW2dIEnAA) | 3:22 |
 
-Snapshot ID: `AcEUugAAAAADHNRejGDOD5XZBbzt3APH`
+Snapshot ID: `AcEaHgAAAABXV4Abgrx8BAPu+MiIn4FS`

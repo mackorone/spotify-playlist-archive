@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-449 songs - 21 hr 47 min
+450 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Mañana](https://open.spotify.com/track/1WX2iJDChyg6OLZB5MPSJW) | [CeErre](https://open.spotify.com/artist/14PUtYsNTXBYYQKPaNQgVv) | [Ahora](https://open.spotify.com/album/2DcW4zUQhDefr9LFe9zXVj) | 1:58 | 2024-08-09 |  |
 | [Me Encantas](https://open.spotify.com/track/7cnpAfmcqCbqTcBtjIsMTX) | [Piter Lagunas oficial](https://open.spotify.com/artist/1TReGJsyFGbRkcHAWypE94) | [Me Encantas](https://open.spotify.com/album/71ASjM9NcAkN1c2wH46jX3) | 3:01 | 2024-08-05 |  |
 | [Memento Mori](https://open.spotify.com/track/0Jt51OLJ6ypoXnY5d5a9CI) | [Zazu Hilton](https://open.spotify.com/artist/3E4EmgcOFO2b5uOrEOatIp) | [Memento Mori](https://open.spotify.com/album/4qlgHGR7i1vFYZtri4o6xn) | 1:40 | 2024-07-16 |  |
+| [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 | 2025-12-16 |  |
 | [Message Ina Bottle](https://open.spotify.com/track/1ZNqoHYm0FnHkpnQSQYTm5) | [Trey Posey](https://open.spotify.com/artist/5Njg6ICag7NS6DKcmROLbg) | [Message Ina Bottle](https://open.spotify.com/album/2xO66RiV2RwY1rOyFsEFwC) | 2:22 | 2024-08-30 |  |
 | [Microphone Guardians](https://open.spotify.com/track/2AOuqZTBTDtzlrmuwxqYLm) | [Chamon](https://open.spotify.com/artist/5ZXTpRkYKYsDA2wXfIXSYH), [Jak Hellington](https://open.spotify.com/artist/0dIfS1J8VpEb80tcfA3aEN), [Kid Vishis](https://open.spotify.com/artist/3J3bqhNAKIJlFosbr0nFY1) | [Microphone Guardians](https://open.spotify.com/album/6tqpkD5YBJwrkQA9ZfrMvz) | 2:48 | 2024-06-14 |  |
 | [Midnight Madness](https://open.spotify.com/track/7JIIvW2MQheYIffYNMwqlY) | [Izzy TheAdvocate](https://open.spotify.com/artist/5P6MjFxBijXHcGl11wnF6F), [Basically](https://open.spotify.com/artist/3Trh3koi8aNgHkb91XZ62n) | [Road to Gotham 2](https://open.spotify.com/album/0XE7XDYDiaTQV5itDV0u7b) | 3:05 | 2024-06-11 |  |

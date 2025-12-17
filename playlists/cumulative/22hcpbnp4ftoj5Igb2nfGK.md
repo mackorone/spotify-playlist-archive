@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-146 songs - 8 hr 34 min
+147 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [black samuarai.](https://open.spotify.com/track/16JrfiRjHTFahRTV6fPKqQ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 2:54 | 2025-05-02 | 2025-10-01 |
 | [BLOOD.](https://open.spotify.com/track/1n4jwRVXdkK2U34nBDUKKT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 1:58 | 2025-04-21 |  |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-08-24 |  |
+| [Boogieman](https://open.spotify.com/track/1BO2XRaBKzRxdFTA9Uu4fP) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni) | 3:36 | 2025-12-16 |  |
 | [Breathe In Breathe Out](https://open.spotify.com/track/4KFY4EEv9CN6ivrzD6vEvg) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:06 | 2025-08-16 |  |
 | [Caskets](https://open.spotify.com/track/17vv44Grd1z9E78FkUoSsG) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 4:51 | 2025-02-05 | 2025-09-27 |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-03-22 | 2025-05-06 |

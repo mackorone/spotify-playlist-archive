@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 183088,
+  "num_followers": 183113,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAeWUDX1BkeWzCufKjDY3W4",
+  "snapshot_id": "aT9PgAAAAAAwnavaAjcMi6OitDN6Kfaj",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 389040,
-      "name": "Rompe Sarag\u00fcey",
-      "url": "https://open.spotify.com/track/39j6Cy83gG3ZB0KFC98g7c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+        "name": "El Cantante De Los Cantantes",
+        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 427560,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
+      "duration_ms": 389040,
+      "name": "Rompe Sarag\u00fcey",
+      "url": "https://open.spotify.com/track/39j6Cy83gG3ZB0KFC98g7c"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 317813,
       "name": "Eso Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 427560,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,

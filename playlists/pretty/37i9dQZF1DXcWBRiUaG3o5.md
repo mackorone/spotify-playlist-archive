@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,150,325 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,150,160 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 28 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
 | 29 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:05 |
 | 30 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
-| 31 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
-| 32 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
+| 31 | [Sunny Side Up](https://open.spotify.com/track/3bJYnrKcPfmPDmKYPgfwG7) | [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Sunny Side Up](https://open.spotify.com/album/6YFaCSjqJmXLL4UkT2TBQi) | 4:00 |
+| 32 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
 | 33 | [Silk \(feat\. Thelma Plum\)](https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:01 |
 | 34 | [Thousand \- Acoustic](https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(acoustic\)](https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI) | 3:22 |
 | 35 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 39 | [A Sea of Roses](https://open.spotify.com/track/72w7uKE7CkNwpLFUBHqUkC) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:19 |
 | 40 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
 | 41 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
-| 42 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
-| 43 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
+| 42 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
+| 43 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
 | 44 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
-| 45 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
-| 46 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
+| 45 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
+| 46 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
 | 47 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 48 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 49 | [Blanket](https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Nordic Mellow](https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD) | 3:05 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 57 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 58 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 59 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
-| 60 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
-| 61 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
+| 60 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
+| 61 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 62 | [The Wolves \(Reprise\)](https://open.spotify.com/track/4o9p6bikPh105sEZLM3OzK) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:30 |
 | 63 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
 | 64 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |

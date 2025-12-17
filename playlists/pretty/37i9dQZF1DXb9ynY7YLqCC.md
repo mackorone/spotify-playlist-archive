@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,404 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,421 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 36 | [Ventana](https://open.spotify.com/track/0eZFAjtqZSw5cXVb4vmxVx) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Tierra Nueva](https://open.spotify.com/album/3TAG7YqTx1HWro5apt2FWe) | 2:58 |
 | 37 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
 | 38 | [¿A dónde vas?](https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Historias Perdidas](https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX) | 3:43 |
-| 39 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
-| 40 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
+| 39 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
+| 40 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
 | 41 | [Ultraliviano](https://open.spotify.com/track/5YxKjA5ucbct0NveO3OlU4) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Día Fuera Del Tiempo](https://open.spotify.com/album/7m4xVZzJ2B32BwchIPFvI0) | 4:30 |
 | 42 | [no me mires así](https://open.spotify.com/track/6CjDOZBy0rR88f8poJUAgV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [no me mires así](https://open.spotify.com/album/5pSoAsZRO5zgZXQGsQ7tSo) | 2:26 |
 | 43 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 48 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
 | 49 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 |
 | 50 | [Pude](https://open.spotify.com/track/5ZOrGZETv1hh25Rik6I8qF) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Siglo Pánico](https://open.spotify.com/album/27UchZoSpi0sOom9YSaOS4) | 3:08 |
-| 51 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
+| 51 | [\(Sonrisa\)](https://open.spotify.com/track/6KvM9hNOk3Sa7pknGBHHQp) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 4:39 |
 | 52 | [Quién Dice](https://open.spotify.com/track/71j3MkQq2xb0RehQMfJdc2) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Ya No Somos Dos Ahora](https://open.spotify.com/album/3Vb3asHz7rDa6Q55jol7Vt) | 3:05 |
-| 53 | [\(Sonrisa\)](https://open.spotify.com/track/6KvM9hNOk3Sa7pknGBHHQp) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 4:39 |
+| 53 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
 | 54 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
 | 55 | [Probaste un Buen Dolor](https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Venganza Primavera](https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0) | 3:43 |
-| 56 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
-| 57 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
+| 56 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
+| 57 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
 | 58 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |
 | 59 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
 | 60 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |

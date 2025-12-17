@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,084 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,238 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 88 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
 | 89 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 |
 | 90 | [Cuando Estoy Junto a Ti](https://open.spotify.com/track/66uRavAmTHBiGOucX32nTO) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Cuando Estoy Junto a Ti](https://open.spotify.com/album/28lhtgaVirHcGg8TqJX9MB) | 2:43 |
-| 91 | [Solo por Maldad / Aventurera / El negro Cuartetero /Taki TakiI / Mar de Emociones \- En Vivo](https://open.spotify.com/track/2iWTLwvFfXgsyuiWoODEVR) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Trula 40 Años \(Primera Parte \- En Vivo\)](https://open.spotify.com/album/36BKtnAjC8MgiiNmzkJ6BN) | 7:38 |
-| 92 | [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 |
+| 91 | [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 |
+| 92 | [Solo por Maldad / Aventurera / El negro Cuartetero /Taki TakiI / Mar de Emociones \- En Vivo](https://open.spotify.com/track/2iWTLwvFfXgsyuiWoODEVR) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Trula 40 Años \(Primera Parte \- En Vivo\)](https://open.spotify.com/album/36BKtnAjC8MgiiNmzkJ6BN) | 7:38 |
 | 93 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 94 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |
 | 95 | [Princesa \- En Vivo](https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa \(En Vivo\)](https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm) | 2:50 |

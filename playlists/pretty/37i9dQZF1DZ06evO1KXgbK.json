@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254436,
+  "num_followers": 254440,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABkJdqN4LkQLwfY1GE9Twi3",
+  "snapshot_id": "aT9PgAAAAACqCwttc7tzfS2B4pIatPg4",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trackhouse (Daytona 500 Edition)",
-        "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "Powerful Women",
-      "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTX Vol. IV - Classics",
         "url": "https://open.spotify.com/album/00JpoY0ZaQRXTNJUruibfX"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 131883,
       "name": "Jolene (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/4i8xlL0EqaSj9piUVUOQQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trackhouse (Daytona 500 Edition)",
+        "url": "https://open.spotify.com/album/56jg3KJcYmfL7RzYmG2O1Q"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "Powerful Women",
+      "url": "https://open.spotify.com/track/2p0VD8mwgVidhkioB1XNZm"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Trio Collection (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07JRXyOwo8fk5mKuBwpJMa"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
       },
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ricky Van Shelton",
-          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Rockin' Years (with Ricky Van Shelton)",
-      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Only Knows (with Dolly Parton)",
         "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ricky Van Shelton",
+          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Rockin' Years (with Ricky Van Shelton)",
+      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
     },
     {
       "added_at": null,

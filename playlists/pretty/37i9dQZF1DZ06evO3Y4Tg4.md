@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,178 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,296 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 22 | [Streatham](https://open.spotify.com/track/59PUOc7B0WCNNx8Nr4qaA4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:25 |
 | 23 | [Twenty To One](https://open.spotify.com/track/4uwMD6gmDmbwaY2cjqhy7c) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:21 |
 | 24 | [3x](https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:40 |
-| 25 | [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 |
+| 25 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
 | 26 | [Psycho](https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:08 |
 | 27 | [System \(feat\. WizKid\)](https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:01 |
-| 28 | [Meridian](https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Meridian & Special](https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn) | 4:15 |
+| 28 | [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 |
 | 29 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 |
 | 30 | [Disaster \(feat\. J Hus\)](https://open.spotify.com/track/3rqmxZNh2BRgJ3BiCPFTSG) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:00 |
 | 31 | [Clash \(feat\. Stormzy\)](https://open.spotify.com/track/2zxEc1GCSCxbHIXTfhraRC) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Picture Me](https://open.spotify.com/track/7eFZGDVNCjcB6j3WLzHeLR) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Six Paths](https://open.spotify.com/album/5MEImpWt30V3Huwd5n1XM8) | 4:40 |
 | 50 | [Children Of The Internet \- Ezra Collective Remix](https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [Children Of The Internet \(Remixes\)](https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww) | 5:53 |
 
-Snapshot ID: `aT3+AAAAAAAcLNcnNT/BHahhr859D6iK`
+Snapshot ID: `aT9PgAAAAABrNOITk3cutK+eGlT5W1lE`

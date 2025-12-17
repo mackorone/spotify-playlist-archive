@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,175,191 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,174,826 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 43 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 44 | [Red Bull & Hennessy](https://open.spotify.com/track/3rrzbjHWFyKcCpagbbFjrE) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [On the Line](https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy) | 4:48 |
 | 45 | [On The Road Again](https://open.spotify.com/track/6f2o3F3BoPwlicA0ko2gAb) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Calla Lily](https://open.spotify.com/album/44QrG8cDITqHHGZcGfeZWr) | 2:53 |
-| 46 | [Make a Sound](https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [No Earthly Sound](https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI) | 3:21 |
-| 47 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
+| 46 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
+| 47 | [Make a Sound](https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [No Earthly Sound](https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI) | 3:21 |
 | 48 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 49 | [Girlfriend](https://open.spotify.com/track/0usJbmjMMRdC89y8sUsldR) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 2:53 |
 | 50 | [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,913 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,919 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 16 | [Fica Até Umas Hora](https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Fica Até Umas Hora](https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot) | 3:48 |
 | 17 | [Aniversário de Sobriedade](https://open.spotify.com/track/4XYnFH7w6ow89VnSPAN0oU) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 2:44 |
 | 18 | [Na Segunda Vinda](https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 4:28 |
-| 19 | [DEISDAZSEIS \- Ao Vivo](https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 0:53 |
-| 20 | [Nunca Tenha Medo](https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:25 |
+| 19 | [Nunca Tenha Medo](https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 4:25 |
+| 20 | [DEISDAZSEIS \- Ao Vivo](https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 0:53 |
 | 21 | [Au Revoir](https://open.spotify.com/track/1eMNrjIj4yzV2YoJqARMOq) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 3:27 |
 | 22 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 |
 | 23 | [Falando do Meu Bem](https://open.spotify.com/track/2mAenBc4RyeokOVC19oqqa) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:04 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [Homem de Família](https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:32 |
 | 43 | [Quem É Voce?](https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:54 |
 
-Snapshot ID: `aT3+AAAAAADM/F/CM4KCzdXsIzTqnnVX`
+Snapshot ID: `aT9PgAAAAAA2LuW7Nps4Ny9gOXbAA3EB`

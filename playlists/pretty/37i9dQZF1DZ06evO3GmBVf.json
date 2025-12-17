@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 210523,
+  "num_followers": 210564,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAD4hBam5dYECgBqZjML+st6",
+  "snapshot_id": "aT9PgAAAAADdh7JeqZIfeZfWxKlw1JyV",
   "tracks": [
     {
       "added_at": null,
@@ -511,34 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bueno Pa Lo Malo",
-        "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "Sid MSC",
-          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
-        }
-      ],
-      "duration_ms": 399230,
-      "name": "Bueno Pa Lo Malo",
-      "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flaco Pesado (Remix)",
         "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
       },
@@ -563,6 +535,34 @@
       "duration_ms": 227631,
       "name": "Flaco Pesado (Remix)",
       "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bueno Pa Lo Malo",
+        "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        }
+      ],
+      "duration_ms": 399230,
+      "name": "Bueno Pa Lo Malo",
+      "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
     },
     {
       "added_at": null,

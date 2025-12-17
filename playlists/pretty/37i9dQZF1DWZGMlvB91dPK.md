@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,500 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,503 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 23 | [Libère](https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y) | [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [FORÊT](https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9) | 2:52 |
 | 24 | [TIP TOP](https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3) | [GROSSE MAISON](https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb) | 2:43 |
 | 25 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
-| 26 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
-| 27 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
+| 26 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
+| 27 | [Lisusu te](https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Lisusu te](https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ) | 3:54 |
 | 28 | [Rocket](https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB) | [What Can I Test ?](https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D) | 3:44 |
 | 29 | [Ce n'est pas ici, ce n'est pas ailleurs](https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 2:48 |
 | 30 | [HALLELUJAH](https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [HALLELUJAH](https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4) | 3:42 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 45 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 | 46 | [SAM](https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [SAM](https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ) | 4:50 |
 | 47 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
-| 48 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
-| 49 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
+| 48 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
+| 49 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
 | 50 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
 
 Snapshot ID: `AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY`

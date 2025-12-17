@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 173,
+  "num_followers": 174,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACvtRh3BqEEQyImAVv/vgWt",
+  "snapshot_id": "aT9PgAAAAABY0aZEeT1gllOrGYm05e1X",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
+        "name": "Muita Calma",
+        "url": "https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj"
       },
       "artists": [
         {
@@ -308,13 +308,13 @@
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
         }
       ],
-      "duration_ms": 172676,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
+      "duration_ms": 210982,
+      "name": "Muita Calma",
+      "url": "https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR"
     },
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muita Calma",
-        "url": "https://open.spotify.com/album/6pqhOGkkDJkSCSwF4ylGQj"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8"
-        }
-      ],
-      "duration_ms": 210982,
-      "name": "Muita Calma",
-      "url": "https://open.spotify.com/track/6GtFum9gSK5ig4tmZa1kVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pelos Meus Amores",
         "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 227377,
       "name": "Pelos Meus Amores",
       "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/61y0M6ss6NwQcBv52L7vpk"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 172676,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/1u7RX4YgssTUMne4VpbHRU"
     },
     {
       "added_at": null,
@@ -467,34 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Rap \u00e9 PRETO! pt. 2",
-        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
-      },
-      "artists": [
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Dropallien",
-          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 247745,
-      "name": "O Rap \u00e9 PRETO! pt. 2",
-      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry Drummer & Friends, Vol. 2",
         "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
       },
@@ -523,6 +495,34 @@
       "duration_ms": 222142,
       "name": "Perto de Mim",
       "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Rap \u00e9 PRETO! pt. 2",
+        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
+      },
+      "artists": [
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 247745,
+      "name": "O Rap \u00e9 PRETO! pt. 2",
+      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,
@@ -847,6 +847,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DCazz",
+          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Mensagem",
+        "url": "https://open.spotify.com/album/5IZnL82jrW1t4GC7CD5Wlh"
+      },
+      "artists": [
+        {
+          "name": "Jam\u00e9s Ventura",
+          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "ManoWill",
+          "url": "https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY"
+        },
+        {
+          "name": "Dj Novset",
+          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
+        },
+        {
+          "name": "DJ Luciano Rocha",
+          "url": "https://open.spotify.com/artist/75a6pcxdMuGwaN5VUK3stP"
+        },
+        {
+          "name": "DJ RM Brasil",
+          "url": "https://open.spotify.com/artist/1QlWXPc0qr5UJ2QnhR29j5"
+        }
+      ],
+      "duration_ms": 382450,
+      "name": "N\u00f3s Somos Pesados",
+      "url": "https://open.spotify.com/track/3cwrz2YQVXWvN7zhPEUJyN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voando Baixo",
         "url": "https://open.spotify.com/album/0QavGWICZFPuVesowDRq87"
       },
@@ -871,62 +927,6 @@
       "duration_ms": 280037,
       "name": "Nossa Lei",
       "url": "https://open.spotify.com/track/44cliqma2bQWBj3OwXtRzr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DCazz",
-          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selvagem",
-        "url": "https://open.spotify.com/album/4B3wPgCMLWIERh9QfGaYag"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Dory de Oliveira",
-          "url": "https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr"
-        },
-        {
-          "name": "Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
-        },
-        {
-          "name": "Souto MC",
-          "url": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
-        }
-      ],
-      "duration_ms": 264773,
-      "name": "Selvagem",
-      "url": "https://open.spotify.com/track/78NuDNTPOSawuaBrcg7Vqe"
     },
     {
       "added_at": null,
@@ -971,42 +971,6 @@
       "duration_ms": 310105,
       "name": "Coroa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3Ki2TWueyb1AsyK7Rfv5Kw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mensagem",
-        "url": "https://open.spotify.com/album/5IZnL82jrW1t4GC7CD5Wlh"
-      },
-      "artists": [
-        {
-          "name": "Jam\u00e9s Ventura",
-          "url": "https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "ManoWill",
-          "url": "https://open.spotify.com/artist/5nWuBeOezTGIWBvssEnXdY"
-        },
-        {
-          "name": "Dj Novset",
-          "url": "https://open.spotify.com/artist/0AcSEwWPQ2CwRkP2XjHOTD"
-        },
-        {
-          "name": "DJ Luciano Rocha",
-          "url": "https://open.spotify.com/artist/75a6pcxdMuGwaN5VUK3stP"
-        },
-        {
-          "name": "DJ RM Brasil",
-          "url": "https://open.spotify.com/artist/1QlWXPc0qr5UJ2QnhR29j5"
-        }
-      ],
-      "duration_ms": 382450,
-      "name": "N\u00f3s Somos Pesados",
-      "url": "https://open.spotify.com/track/3cwrz2YQVXWvN7zhPEUJyN"
     },
     {
       "added_at": null,
@@ -1059,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chato",
+        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 187634,
+      "name": "Chato",
+      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rimas & Melodias",
         "url": "https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb"
       },
@@ -1103,22 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chato",
-        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 187634,
-      "name": "Chato",
-      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
         "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
       },
@@ -1155,6 +1119,42 @@
       "duration_ms": 187560,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/4PmQCWdTqSIXEUtxxrCsoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selvagem",
+        "url": "https://open.spotify.com/album/4B3wPgCMLWIERh9QfGaYag"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Dory de Oliveira",
+          "url": "https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr"
+        },
+        {
+          "name": "Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
+        },
+        {
+          "name": "Souto MC",
+          "url": "https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4"
+        }
+      ],
+      "duration_ms": 264773,
+      "name": "Selvagem",
+      "url": "https://open.spotify.com/track/78NuDNTPOSawuaBrcg7Vqe"
     },
     {
       "added_at": null,

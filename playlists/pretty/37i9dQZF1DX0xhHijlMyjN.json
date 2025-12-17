@@ -1,12 +1,12 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 329373,
+  "num_followers": 329337,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALf7TzkJtd+s68/qeLwICz61A52f",
+  "snapshot_id": "AAAAAAHS5IN3z2UvEHBVmwcXeV+cAjSM",
   "tracks": [
     {
       "added_at": "2025-07-02 10:54:22",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Por la boca vive el pez",
         "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
@@ -811,18 +827,18 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+        "name": "Ven Dev\u00f3rame Otra Vez (Baile Total)",
+        "url": "https://open.spotify.com/album/59dQPzYAIAs2vdU7tP3wTh"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
         }
       ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
+      "duration_ms": 314013,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -839,22 +855,6 @@
       "duration_ms": 174186,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Ven Dev\u00f3rame Otra Vez (Baile Total)",
-        "url": "https://open.spotify.com/album/59dQPzYAIAs2vdU7tP3wTh"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 314013,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 217426,
-      "name": "Torero",
-      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N"
       },
       "artists": [
         {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
+      "duration_ms": 217426,
+      "name": "Torero",
+      "url": "https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+        "name": "Diez De Corazon",
+        "url": "https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV"
       },
       "artists": [
         {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+          "name": "Camela",
+          "url": "https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG"
         }
       ],
-      "duration_ms": 253133,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
+      "duration_ms": 212400,
+      "name": "Cuando zarpa el amor",
+      "url": "https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Diez De Corazon",
-        "url": "https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV"
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Camela",
-          "url": "https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Cuando zarpa el amor",
-      "url": "https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m"
+      "duration_ms": 253133,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/4dtlsMh8wam865qaU4WEnM"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
+      },
+      "artists": [
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Baila Morena - New Spanish Version",
+      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Rayos de Sol",
         "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 231562,
       "name": "Rayos de Sol",
       "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
-      },
-      "artists": [
-        {
-          "name": "Zucchero",
-          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Baila Morena - New Spanish Version",
-      "url": "https://open.spotify.com/track/0M2YkvoDWKgEvLaCmdH3Gv"
     },
     {
       "added_at": "2025-07-02 10:54:22",

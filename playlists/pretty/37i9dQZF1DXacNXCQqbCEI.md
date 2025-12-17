@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,995 likes - 60 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,978 likes - 60 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 44 | [El Futuro Ya Pasó \(feat\. iLe\)](https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg) | [Trending Tropics](https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Trending Tropics](https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V) | 3:09 |
 | 45 | [Purna Mantra](https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF) | [Manuela Mejia](https://open.spotify.com/artist/3lRxoMB4YMbbCOvvR5dekK) | [Purna Mantra](https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp) | 6:46 |
 | 46 | [¿Qué Jue?](https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [¿Qué Jue?](https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m) | 3:25 |
-| 47 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 |
-| 48 | [A Lo Bien \- CERO39 rmx](https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Remixeado a Lo Bien](https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c) | 5:34 |
+| 47 | [A Lo Bien \- CERO39 rmx](https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Remixeado a Lo Bien](https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c) | 5:34 |
+| 48 | [Mapalé](https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 4:21 |
 | 49 | [Kalimba Nara](https://open.spotify.com/track/7rKkfnMEyHGxy1nPJcDf6f) | [Barulinho](https://open.spotify.com/artist/3ZPJRljYmGJY6dhywLXgkH) | [Siesta](https://open.spotify.com/album/7u4bA8axdYb3VtJGY34Hxf) | 3:53 |
 | 50 | [Las Mellas \- Cerrero Dub Mix](https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO), [Carmelo Torres](https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi), [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6) | [Las Mellas \(Cerrero Dub Mix\)](https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC) | 4:31 |
 | 51 | [Elevation](https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9) | [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Elevation / Baba Meyi](https://open.spotify.com/album/5wpmJ3wcqk4ib1zS8B0Tjs) | 3:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 55 | [Capulí](https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug) | [EVHA](https://open.spotify.com/artist/1HygCjIAH9P70iElFVdubm) | [Capulí](https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz) | 4:53 |
 | 56 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
 | 57 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
-| 58 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
-| 59 | [La rama de tamarindo \(Dengue Dengue Dengue Remix\)](https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY) | [Magín Díaz](https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Y el Sexteto Gamerano](https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy) | 4:00 |
+| 58 | [La rama de tamarindo \(Dengue Dengue Dengue Remix\)](https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY) | [Magín Díaz](https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Y el Sexteto Gamerano](https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy) | 4:00 |
+| 59 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
 | 60 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
 
 Snapshot ID: `AAAAAFBaofeEF39ABXwsbBYV2wV94SMl`

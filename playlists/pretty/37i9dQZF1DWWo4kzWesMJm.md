@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,638 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,647 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 21 | [Paris\-Seychelles](https://open.spotify.com/track/4xSZWcXvu6w4I3dQyQ7QND) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [LØVE](https://open.spotify.com/album/5fdRqRdlIX33J8ruK9jd3I) | 3:17 |
 | 22 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 23 | [Belle demoiselle](https://open.spotify.com/track/4prNHQCgqVpmGJRulNK4zg) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Mon paradis](https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK) | 3:29 |
-| 24 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
-| 25 | [Elle me dit](https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love](https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0) | 3:38 |
+| 24 | [Elle me dit](https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Origin Of Love](https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0) | 3:38 |
+| 25 | [Déjeuner en paix](https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2) | [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Engelberg](https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP) | 3:56 |
 | 26 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 | 27 | [Respire encore](https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:47 |
-| 28 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
-| 29 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
+| 28 | [Dépassé](https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:53 |
+| 29 | [Paris Latino \- Original Version 1983](https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs) | [Bandolero](https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB) | [Best of Bandolero \(Le meilleur des années 80\)](https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX) | 4:03 |
 | 30 | [Tu m'oublieras](https://open.spotify.com/track/616O2jmafiModH0RgonGqf) | [Larusso](https://open.spotify.com/artist/07sMHU0vu01xrz1gnNrNry) | [Simplement](https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW) | 3:39 |
 | 31 | [Léa](https://open.spotify.com/track/709Vk4ahhCM6ENgRVTTYw6) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 3:17 |
 | 32 | [Prière païenne](https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:09 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 36 | [J'ai cherché](https://open.spotify.com/track/1lzRxwbdl86iJlYMz48KoD) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Au coeur de moi](https://open.spotify.com/album/7qmzJKB20IS9non9kBkPgF) | 3:32 |
 | 37 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
 | 38 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |
-| 39 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
-| 40 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
+| 39 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
+| 40 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 41 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
 | 42 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
 | 43 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |

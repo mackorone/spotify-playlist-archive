@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,522 songs - 12 day 20 hr 36 min
+5,523 songs - 12 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2956,7 +2956,7 @@
 | [MAD](https://open.spotify.com/track/6zgvXX52nlSRVsY5mfkT8u) | [EDGAR](https://open.spotify.com/artist/39xSftp91F9zeLu20DMwLc) | [MAD](https://open.spotify.com/album/6ezAMUKxAeflPDY2snEV86) | 2:11 | 2024-11-06 | 2024-11-18 |
 | [Made For You](https://open.spotify.com/track/3B606PqErjw7lH5JX8fu0P) | [Cam Jacob](https://open.spotify.com/artist/2JflNykExIgJnKcH52LF4y) | [Made For You](https://open.spotify.com/album/3FAYXGkcFedqgduRgoIQeD) | 3:42 | 2024-03-29 | 2024-04-21 |
 | [Made It](https://open.spotify.com/track/5aI2VUmejj1Ywzj0tQLYH6) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 3:18 | 2020-08-20 | 2023-08-28 |
-| [Made to Break](https://open.spotify.com/track/6gzMGo0UXNal1s8rZVjabn) | [Maria Marr](https://open.spotify.com/artist/3BHfGA2YnJqPZVkcGuDQ0W) | [Made to Break](https://open.spotify.com/album/67c615HHnkpDwi2B5smz0n) | 3:30 | 2025-12-04 |  |
+| [Made to Break](https://open.spotify.com/track/6gzMGo0UXNal1s8rZVjabn) | [Maria Marr](https://open.spotify.com/artist/3BHfGA2YnJqPZVkcGuDQ0W) | [Made to Break](https://open.spotify.com/album/67c615HHnkpDwi2B5smz0n) | 3:30 | 2025-12-04 | 2025-12-17 |
 | [Madonna](https://open.spotify.com/track/1eCdsyHZVqHSi5jhwc4TLs) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Madonna](https://open.spotify.com/album/2uNNQws3ix4ZyVxueGd2un) | 3:12 | 2022-02-25 | 2022-03-17 |
 | [Madrid](https://open.spotify.com/track/10sylM2mGMVbFFx0j34nOQ) | [Ozin](https://open.spotify.com/artist/3VY9hWsvkxG3zzfoS72U93) | [Madrid](https://open.spotify.com/album/7rtUrDuq6hVwqmOIjUXUIg) | 2:39 | 2023-05-26 | 2023-06-17 |
 | [MADZI HA VIVI WO](https://open.spotify.com/track/2iaMpnTbPqLKhTQtUynBIV) | [MAWUTOR](https://open.spotify.com/artist/0HsQ9qg3fF5Zc7YmN2MVJs) | [MADZI HA VIVI WO](https://open.spotify.com/album/3pxHoL10LypBx8a0uJfwuE) | 5:05 | 2025-03-07 | 2025-03-18 |
@@ -3970,7 +3970,8 @@
 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2025-07-11 | 2025-07-29 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2020-07-12 | 2020-08-20 |
 | [Rockstar Girlfriend](https://open.spotify.com/track/5Amg4Sz1C73WuZVGCIbcI3) | [Leandra Dielle](https://open.spotify.com/artist/4nOJpLcRsMMk2KRhdoMEWh) | [Rockstar Girlfriend](https://open.spotify.com/album/5dcmCvUQbg5RsWGKFzSJlr) | 3:16 | 2024-07-12 | 2024-11-01 |
-| [Role Player](https://open.spotify.com/track/74mFEMhYQctlMKQ3yBbhDk) | [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [Role Player](https://open.spotify.com/album/26suOVEO4z7WvoKtqwe11Q) | 2:35 | 2025-11-14 |  |
+| [Role Player](https://open.spotify.com/track/1KABVFLOVXRoo7g12RSWQt) | [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [Bassman](https://open.spotify.com/album/7ftWWPsDL0HsSlrLUtlYuk) | 2:35 | 2025-12-16 |  |
+| [Role Player](https://open.spotify.com/track/74mFEMhYQctlMKQ3yBbhDk) | [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [Role Player](https://open.spotify.com/album/26suOVEO4z7WvoKtqwe11Q) | 2:35 | 2025-11-14 | 2025-12-17 |
 | [Roll Over](https://open.spotify.com/track/6eHSMoa7NCXTPwocoBB7KT) | [Naomi Yanos](https://open.spotify.com/artist/6eCReEuVa650ZuotJvKksc) | [Roll Over](https://open.spotify.com/album/6vX8Od811goA14xMt03QyW) | 3:21 | 2025-01-12 | 2025-01-24 |
 | [ROLLER DISCO \(SLIDE\)](https://open.spotify.com/track/1eqRSqN8XYcL2mb8f3RDjT) | [Alpha23](https://open.spotify.com/artist/1v6Gttdwys67oMFIWLFoJO) | [ROLLER DISCO \(SLIDE\)](https://open.spotify.com/album/4jQyfgF9AVJILd4kq4avAW) | 3:16 | 2021-09-24 | 2021-10-09 |
 | [Rollercoaster](https://open.spotify.com/track/3Y79pAXS4xP165QWsEnvR6) | [BUFFY](https://open.spotify.com/artist/2YgvjztJnGo4l0QbaR3kwC) | [Rollercoaster](https://open.spotify.com/album/7iSQY8WIIoMl16J2t4Pn1R) | 2:10 | 2024-04-13 | 2024-04-24 |

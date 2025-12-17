@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,335 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,333 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 21 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
 | 22 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 | 23 | [What are we](https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Love Next Door, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S) | 3:37 |
-| 24 | [Fortunate Change \(JOSHUA Solo\)](https://open.spotify.com/track/38Q0fowu5nXnOS14brjEPR) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:37 |
-| 25 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 |
+| 24 | [Love will find a way](https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4RzDYcDedKOdPPMZU0hksv) | 3:43 |
+| 25 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 |
 | 26 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
-| 27 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 |
+| 27 | [Fortunate Change \(JOSHUA Solo\)](https://open.spotify.com/track/38Q0fowu5nXnOS14brjEPR) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 3:37 |
 | 28 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
 | 29 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
 | 30 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |

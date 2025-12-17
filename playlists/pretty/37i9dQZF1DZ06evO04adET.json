@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 837622,
+  "num_followers": 837754,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABEKEarMZt3AGD3bX255Zfp",
+  "snapshot_id": "aT9PgAAAAAA1XnBBWw0GJn63leOqok2J",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 164991,
-      "name": "PRIMO",
-      "url": "https://open.spotify.com/track/7AysIqSEDiwP4CUsAXJwrk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 177580,
       "name": "Giza",
       "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164991,
+      "name": "PRIMO",
+      "url": "https://open.spotify.com/track/7AysIqSEDiwP4CUsAXJwrk"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 142910,
+      "name": "El Drip",
+      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nata Montana",
         "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 182666,
       "name": "Pancake",
       "url": "https://open.spotify.com/track/7ctRhcAiTBQLsH64s93sN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 142910,
-      "name": "El Drip",
-      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
     },
     {
       "added_at": null,

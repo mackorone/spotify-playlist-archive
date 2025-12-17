@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-684 songs - 2 day 9 hr 10 min
+685 songs - 2 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Cover me](https://open.spotify.com/track/2XeZVmhkVS03hMrRgLr1tA) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Cover me](https://open.spotify.com/album/3MHgnwu3BJY5aKnivu0T1C) | 3:08 | 2025-06-06 | 2025-11-22 |
 | [Cover Me](https://open.spotify.com/track/6iBAbMB5ryUQKBFGTj7bvK) | [JohnTenkahkee](https://open.spotify.com/artist/037tuw882iye1AipqgleEN), [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [Cover Me](https://open.spotify.com/album/4a28YXcjrN5sHEiz488fMJ) | 2:17 | 2025-07-18 | 2025-08-06 |
 | [Cover me](https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Cover me](https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs) | 2:37 | 2024-05-24 | 2024-06-07 |
-| [Creation Declares](https://open.spotify.com/track/47IHJyscvvcQUrBHmQJiwa) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Creation Declares](https://open.spotify.com/album/7cSUoIHIwvvpou7rgfhYjY) | 13:36 | 2025-09-26 |  |
+| [Creation Declares](https://open.spotify.com/track/47IHJyscvvcQUrBHmQJiwa) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Creation Declares](https://open.spotify.com/album/7cSUoIHIwvvpou7rgfhYjY) | 13:36 | 2025-09-26 | 2025-12-17 |
 | [CSOG \- Remix](https://open.spotify.com/track/6dJPR3YpMSplOS0EnEKuEq) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Zinny D'more](https://open.spotify.com/artist/6Ryr0ua2vnXgl6UHnwSfyX), [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [CSOG \(Remix\)](https://open.spotify.com/album/7yXOieKaqnHHqbzbY7Mvxe) | 2:36 | 2025-07-18 | 2025-08-06 |
 | [Daily](https://open.spotify.com/track/3zfBfWwXSioHSj1EPA2Bxw) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Daily](https://open.spotify.com/album/7k0hyp9g3BTqxhtr5QMr9u) | 2:57 | 2024-12-13 | 2025-05-30 |
 | [Daily II](https://open.spotify.com/track/3WGasSM3lLRvq4nPi5LUGk) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm), [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [Daily II](https://open.spotify.com/album/1yYpLXtxqLgN4Mo9Wbwz11) | 3:19 | 2025-02-28 | 2025-06-06 |
@@ -310,6 +310,7 @@
 | [Imole Aye](https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Imole Aye](https://open.spotify.com/album/0Iy4b1NOhRiNWSDCURSQCV) | 8:39 | 2025-09-12 |  |
 | [IMPRESS](https://open.spotify.com/track/49po3OfHx8xHkUjWw5Bh3B) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [IMPRESS](https://open.spotify.com/album/0O3deyALXkZUf6jt0mkK6x) | 3:21 | 2025-06-20 | 2025-11-21 |
 | [In My Praise](https://open.spotify.com/track/2CsOARViLxITTo2uE5rwMQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In My Praise](https://open.spotify.com/album/12NeijP8fQUiFXWw1lUHbw) | 5:35 | 2025-05-23 | 2025-06-27 |
+| [In the Blood 2](https://open.spotify.com/track/3moqoaDy2sNTt5zmC6BHNA) | [Gospel boys](https://open.spotify.com/artist/453mSEjGTGcO9idPrxSCkS) | [Father](https://open.spotify.com/album/052C0B2hB66pThBPyTbaaW) | 2:34 | 2025-12-05 |  |
 | [In The Room \(feat\. Annatoria\) \- Afro Beat Version](https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [In The Room \(feat\. Annatoria\) \[Afro Beat Version\]](https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn) | 3:59 | 2024-05-10 | 2025-06-27 |
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 | 2025-05-09 |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-04-16 |

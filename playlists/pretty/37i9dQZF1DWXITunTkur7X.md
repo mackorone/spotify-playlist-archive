@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,175 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,179 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 27 | [Zou Zo Graag](https://open.spotify.com/track/1xnbXJyeHLYvpn5UVJ6h9T) | [Jurk!](https://open.spotify.com/artist/3aTMQXvGDGHPcQFtH2PM28) | [Avondjurk](https://open.spotify.com/album/3gMtg5BXcOuYpR1HKbWXoO) | 3:32 |
 | 28 | [Schouder Aan Schouder](https://open.spotify.com/track/3Zs8NVXn61nMzHwgUdnOw3) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Dromen Durven Delen](https://open.spotify.com/album/1nmOBRgGGHKFxRtkxurEiE) | 3:56 |
 | 29 | [Liefde In De Lucht](https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Joshua Nolet](https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV) | [Liefde In De Lucht](https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3) | 3:32 |
-| 30 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
-| 31 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
+| 30 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
+| 31 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
 | 32 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
 | 33 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
 | 34 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 45 | [Ik Was Toch Je Meisje](https://open.spotify.com/track/7Gr210vstN2K0wL0BZlsp0) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Was Toch Je Meisje](https://open.spotify.com/album/6gVjlMBtptGdZJpHfvW5Wz) | 3:23 |
 | 46 | [Voorbij](https://open.spotify.com/track/5fNrm4tC6DyhfbkzQIDiDd) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Beste Zangers Seizoen 11](https://open.spotify.com/album/4mX49XL3W7DGaF0vykfhui) | 4:01 |
 | 47 | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/track/5P2KHDiu3aEwhMbelyZMQO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Kan Hier Zo Mooi Zijn](https://open.spotify.com/album/5RwvkMbkoo5q9w7oqL70Nq) | 4:18 |
-| 48 | [Holiday In Spain](https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:52 |
-| 49 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
+| 48 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
+| 49 | [Holiday In Spain](https://open.spotify.com/track/0WhEz33qBgz9AFT5D0W2gE) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:52 |
 | 50 | [Zo Stil](https://open.spotify.com/track/3ZcDSojpxWjRrKGw7GjdvT) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:57 |
 | 51 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
 | 52 | [Hoe](https://open.spotify.com/track/6MqFl4zKmk2kaifEkJ9JUN) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Hoe](https://open.spotify.com/album/3uY2iQaemCp5tJ1w5Am4Ui) | 2:49 |

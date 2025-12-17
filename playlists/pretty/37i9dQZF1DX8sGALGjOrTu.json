@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 526763,
+  "num_followers": 526797,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Ride The Wings Of Pestilence",
+      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 222599,
       "name": "Becoming the Bull",
       "url": "https://open.spotify.com/track/4PImbgKXvsKCZatXSPevI1"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
-        "name": "Dear Diary, My Teen Angst Has A Body Count",
-        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
-      },
-      "artists": [
-        {
-          "name": "From First To Last",
-          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Ride The Wings Of Pestilence",
-      "url": "https://open.spotify.com/track/5TljqB3tKMmYMRXUc95mjt"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "What To Do When You Are Dead",
-        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 201026,
-      "name": "Remember To Feel Real",
-      "url": "https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "New Medicines",
         "url": "https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 242040,
       "name": "New Medicines",
       "url": "https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "What To Do When You Are Dead",
+        "url": "https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 201026,
+      "name": "Remember To Feel Real",
+      "url": "https://open.spotify.com/track/249LfLwS8qVzqu61TvBVs0"
     },
     {
       "added_at": "2025-11-24 12:49:27",

@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4403,
+  "num_followers": 4404,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADJCZM1OMu3cPy63SHEE4q6",
+  "snapshot_id": "aT9PgAAAAACi7UpeoKZ3NhPq+UFJYBfJ",
   "tracks": [
     {
       "added_at": null,
@@ -259,30 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Dj Br da Tijuca 2",
         "url": "https://open.spotify.com/album/3dmN6WRod2i9XdRt0vaBnY"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 432367,
       "name": "Set Dj Br da Tijuca 2",
       "url": "https://open.spotify.com/track/17W6xaN2oO4kH5YuTk9PPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
     },
     {
       "added_at": null,
@@ -607,30 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Quero Love",
-        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
-      },
-      "artists": [
-        {
-          "name": "Mc Henny",
-          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 155833,
-      "name": "N\u00e3o Quero Love",
-      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Quero Love",
+        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
+      },
+      "artists": [
+        {
+          "name": "Mc Henny",
+          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 155833,
+      "name": "N\u00e3o Quero Love",
+      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
     },
     {
       "added_at": null,
@@ -863,54 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desfecho",
-        "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 142941,
-      "name": "Desfecho",
-      "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "GAROTAS N\u00c3O NAMOREM RAPPERS",
-      "url": "https://open.spotify.com/track/5RSyuZOrIwDhe2cKRVTOiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Dj Br da Tijuca 4",
         "url": "https://open.spotify.com/album/3X3btr74BX5ictr5bLVdGn"
       },
@@ -979,6 +931,54 @@
       "duration_ms": 387692,
       "name": "Set Dj Br da Tijuca 4",
       "url": "https://open.spotify.com/track/5lKlFz2BGYmW0Aw0oVws6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "GAROTAS N\u00c3O NAMOREM RAPPERS",
+      "url": "https://open.spotify.com/track/5RSyuZOrIwDhe2cKRVTOiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desfecho",
+        "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 142941,
+      "name": "Desfecho",
+      "url": "https://open.spotify.com/track/0tyR7y2Zz9J7BMZ2PqpmN5"
     },
     {
       "added_at": null,
@@ -1247,6 +1247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Decolar",
+        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 196402,
+      "name": "Decolar",
+      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time dos Sonhos",
         "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 411428,
       "name": "Time dos Sonhos",
       "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Decolar",
-        "url": "https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 196402,
-      "name": "Decolar",
-      "url": "https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9"
     },
     {
       "added_at": null,
@@ -1347,26 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Que Vai Ser de Mim",
-        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser de Mim",
-      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tipo Trem Bala",
         "url": "https://open.spotify.com/album/05Dcxnk5vJMRCciw18U0Qc"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 181313,
       "name": "Tipo Trem Bala",
       "url": "https://open.spotify.com/track/0GqJtjzK3DldYq8PQ0ubSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Vai Ser de Mim",
+        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser de Mim",
+      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
     }
   ],
   "unique_name": "This Is Hyperanhas",

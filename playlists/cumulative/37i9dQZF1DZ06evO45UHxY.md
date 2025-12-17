@@ -4,7 +4,7 @@
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-148 songs - 7 hr 19 min
+149 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [En La Esquina](https://open.spotify.com/track/3keUCZz4ZHiFlPcmlJ6Vmj) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Jacarandosa](https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT) | 2:49 | 2022-10-11 | 2023-05-02 |
 | [En Que Fallé](https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Como un Tatuaje](https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX) | 2:46 | 2022-06-01 | 2024-09-16 |
 | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/track/5v3SzNOKysnldqfaKFWkni) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Es Viernes y El Cuerpo Lo Sabe](https://open.spotify.com/album/6azV2ELkuN4DafSlRJkTMN) | 2:48 | 2022-06-01 | 2023-11-11 |
+| [Espíritu de Paz](https://open.spotify.com/track/0rkksBlsgbkBq32PS0uRMi) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Espíritu de Paz](https://open.spotify.com/album/5VNuRD5e8HB8OthFJLrfFb) | 2:46 | 2025-12-17 |  |
 | [Estupendo](https://open.spotify.com/track/5s5i3LqYQ7F6fPdw2reBo2) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Borracho Y Loco](https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k) | 3:13 | 2022-06-01 | 2022-11-15 |
 | [Flor De La Ausencia](https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Flor de la Ausencia](https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn) | 3:06 | 2025-07-20 |  |
 | [Gracias por Ser Mi Mujer](https://open.spotify.com/track/1cYyS7rccvdPHzOgmVOCEf) | [Banda Zeta](https://open.spotify.com/artist/5gBSTBBHaZeIYf5ehqjHug) | [Revolución Tecno 2021](https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p) | 3:27 | 2022-10-17 | 2025-09-16 |

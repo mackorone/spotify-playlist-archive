@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Anuv Jain, Sonu Nigam,  Arijit Singh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,389 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,420 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 43 | [Jogiya \(Bhoomi 2025\)](https://open.spotify.com/track/538w9eujfTBKBruTuj5Tzh) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Jogiya \(Bhoomi 2025\)](https://open.spotify.com/album/2KSpPceIc25p8AtAWTzSz6) | 4:09 |
 | 44 | [Nai Jaana](https://open.spotify.com/track/0YgwOVWiL1RdrsWM0xOda9) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Ashish Bhatia](https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk) | [Nai Jaana](https://open.spotify.com/album/7xaABAMIF46Wc0fVkZ8zzL) | 2:37 |
 | 45 | [Talab](https://open.spotify.com/track/1XF3FfkRHuLJDRdhtTvk27) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Talab](https://open.spotify.com/album/5me0pFKmuY1y3wBhs2Mh9v) | 2:36 |
-| 46 | [MOON](https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [MOON](https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ) | 3:03 |
+| 46 | [MOON \(From "UR Debut"\)](https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [MOON \(From "UR Debut"\)](https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ) | 3:03 |
 | 47 | [Teri Yaad](https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt), [Zia](https://open.spotify.com/artist/0DsXhM2h3rIODiAxuLOb6q) | [Teri Yaad](https://open.spotify.com/album/38ea1ME7inmtnwok4cQSO0) | 4:53 |
 | 48 | [Coca Cola 2 \(Feat\. Neha Kakkar\)](https://open.spotify.com/track/0A2ULST1DFkEEJIvBzwrDW) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Junior](https://open.spotify.com/artist/0Ca2wgWMjAoKtvb0v3tsAI), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Coca Cola 2 \(Feat\. Neha Kakkar\)](https://open.spotify.com/album/7afnK3ZKaJX3LqXMnkMIoQ) | 2:30 |
 | 49 | [Tum Jo Kaho Toh \(From "Bhoomi 2025"\)](https://open.spotify.com/track/2sTRtB12lOopJRGhqkfYyG) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Tum Jo Kaho Toh \(From "Bhoomi 2025"\)](https://open.spotify.com/album/4eMsUZuhMmfQKUUAkJebDx) | 5:00 |

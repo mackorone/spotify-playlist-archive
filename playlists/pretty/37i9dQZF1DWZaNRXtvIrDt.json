@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music.",
-  "num_followers": 130819,
+  "num_followers": 130813,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 462304,
-      "name": "Ethereal Connection",
-      "url": "https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 136406,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 462304,
+      "name": "Ethereal Connection",
+      "url": "https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "The Heads That Know",
         "url": "https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "What You Like (feat. yun\u00e8 pinku)",
+        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "What You Like",
+      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "the floor",
         "url": "https://open.spotify.com/album/6z6zEs1UJmGMxPCT0E5C1L"
       },
@@ -491,42 +511,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "What You Like (feat. yun\u00e8 pinku)",
-        "url": "https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "What You Like",
-      "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "The Way I'm Feeling",
-        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 257766,
-      "name": "The Way I'm Feeling",
-      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "The Way I'm Feeling",
+        "url": "https://open.spotify.com/album/5PHXj0gL9HuEaBPMCIBpFT"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 257766,
+      "name": "The Way I'm Feeling",
+      "url": "https://open.spotify.com/track/5UpvkE3KKwbjOR5cAyzeY4"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
-        "name": "Fuck My Computer",
-        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Fuck My Computer",
-      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
         "name": "Desire to Stay",
         "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 228500,
       "name": "Desire to Stay",
       "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
+        "name": "Fuck My Computer",
+        "url": "https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Fuck My Computer",
+      "url": "https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj"
     },
     {
       "added_at": "2025-10-16 13:00:01",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-10-16 13:00:01",
       "album": {
+        "name": "Wicked Rhythm EP",
+        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
+      },
+      "artists": [
+        {
+          "name": "seKTa",
+          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
+        }
+      ],
+      "duration_ms": 173801,
+      "name": "Wicked Sound",
+      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
+    },
+    {
+      "added_at": "2025-10-16 13:00:01",
+      "album": {
         "name": "Night Moves",
         "url": "https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 224958,
       "name": "You're Not a Popstar",
       "url": "https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA"
-    },
-    {
-      "added_at": "2025-10-16 13:00:01",
-      "album": {
-        "name": "Wicked Rhythm EP",
-        "url": "https://open.spotify.com/album/6MRN1oX33WDwUf9fJGMxNj"
-      },
-      "artists": [
-        {
-          "name": "seKTa",
-          "url": "https://open.spotify.com/artist/06PMrOCpEXRYONKv8KlLXD"
-        }
-      ],
-      "duration_ms": 173801,
-      "name": "Wicked Sound",
-      "url": "https://open.spotify.com/track/6vITRyQ93GruFeNnR6OQ1U"
     },
     {
       "added_at": "2025-10-16 13:00:01",

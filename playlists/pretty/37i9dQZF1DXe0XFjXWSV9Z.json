@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 49688,
+  "num_followers": 49696,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Historia natural",
+        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -539,18 +539,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T"
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
       },
       "artists": [
         {
-          "name": "Swing Original Monks",
-          "url": "https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq"
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
         }
       ],
-      "duration_ms": 228186,
-      "name": "Caminito",
-      "url": "https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL"
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -575,18 +575,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/1nMVeppV67Pys7MZEoLj3T"
       },
       "artists": [
         {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+          "name": "Swing Original Monks",
+          "url": "https://open.spotify.com/artist/1nV4bRtpwOUY2BAoxsLcpq"
         }
       ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
+      "duration_ms": 228186,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/6g0HKbe7QjZTaBLAfgR8yL"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Mar Iguana",
+        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
+      },
+      "artists": [
+        {
+          "name": "\u00c9 Arenas",
+          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
+        }
+      ],
+      "duration_ms": 197821,
+      "name": "Mar Iguana",
+      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Caminito de mi Pueblo",
         "url": "https://open.spotify.com/album/4XCBF0qS4YuvzVekwGRKHo"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 243114,
       "name": "Caminito de mi Pueblo",
       "url": "https://open.spotify.com/track/7dQdBFS066ZEQfiwcZd3Rp"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Mar Iguana",
-        "url": "https://open.spotify.com/album/71Q66YMV49DgniTLiueTnn"
-      },
-      "artists": [
-        {
-          "name": "\u00c9 Arenas",
-          "url": "https://open.spotify.com/artist/5E0nLmsZ3pFpaQBXLYMXpC"
-        }
-      ],
-      "duration_ms": 197821,
-      "name": "Mar Iguana",
-      "url": "https://open.spotify.com/track/2qxsksiArurrQ51Y2gQIxj"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Me Estoy Poniendo Viejo",
-        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
+        "name": "Mi Gran Dolor",
+        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
       },
       "artists": [
         {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
         }
       ],
-      "duration_ms": 234382,
-      "name": "Me Estoy Poniendo Viejo",
-      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+      "duration_ms": 254908,
+      "name": "Mi Gran Dolor",
+      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mi Gran Dolor",
-        "url": "https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y"
+        "name": "Me Estoy Poniendo Viejo",
+        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
       },
       "artists": [
         {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
         }
       ],
-      "duration_ms": 254908,
-      "name": "Mi Gran Dolor",
-      "url": "https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh"
+      "duration_ms": 234382,
+      "name": "Me Estoy Poniendo Viejo",
+      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Mary Sol",
-        "url": "https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh"
-      },
-      "artists": [
-        {
-          "name": "Papi Perez",
-          "url": "https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo"
-        },
-        {
-          "name": "Chirimoyo",
-          "url": "https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Mary Sol",
-      "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Loco Playa",
         "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
       },
@@ -1231,22 +1211,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
-        "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
+        "name": "Mary Sol",
+        "url": "https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh"
       },
       "artists": [
         {
-          "name": "Astros de Mendoza",
-          "url": "https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike"
+          "name": "Papi Perez",
+          "url": "https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo"
         },
         {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Chirimoyo",
+          "url": "https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3"
         }
       ],
-      "duration_ms": 216826,
-      "name": "Lamento en la Selva - Remix",
-      "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
+      "duration_ms": 250000,
+      "name": "Mary Sol",
+      "url": "https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1283,6 +1263,26 @@
       "duration_ms": 173362,
       "name": "BADINERIE",
       "url": "https://open.spotify.com/track/3EKddyjTGCYdQrcpOBitF0"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
+        "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
+      },
+      "artists": [
+        {
+          "name": "Astros de Mendoza",
+          "url": "https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 216826,
+      "name": "Lamento en la Selva - Remix",
+      "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Paganismo (Deluxe)",
         "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 147469,
       "name": "Chucha",
       "url": "https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1659,6 +1659,42 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO"
+      },
+      "artists": [
+        {
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
+        },
+        {
+          "name": "El Grupo Renacimiento",
+          "url": "https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ"
+        }
+      ],
+      "duration_ms": 295552,
+      "name": "Metamorfosis",
+      "url": "https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Shift and Shadow",
+        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Cumbia del Paletero",
+      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Invasi\u00f3n",
         "url": "https://open.spotify.com/album/0ebWSgyvKLGBKOlf2BsMPI"
       },
@@ -1683,42 +1719,6 @@
       "duration_ms": 248610,
       "name": "Invasi\u00f3n",
       "url": "https://open.spotify.com/track/3s7jL9o8vvhLmw4lV3xMHW"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Shift and Shadow",
-        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Cumbia del Paletero",
-      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        },
-        {
-          "name": "El Grupo Renacimiento",
-          "url": "https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ"
-        }
-      ],
-      "duration_ms": 295552,
-      "name": "Metamorfosis",
-      "url": "https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq"
     }
   ],
   "unique_name": "TROPILOCO",

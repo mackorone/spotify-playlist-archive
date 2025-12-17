@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143678,
+  "num_followers": 143682,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAmjmy4J4pEDaDtdrytq/7O",
+  "snapshot_id": "aT9PgAAAAABXOsFV952C1LpxPwE15VX3",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 170026,
-      "name": "El hablador",
-      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
       "artists": [
         {
@@ -596,25 +596,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 325706,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "La fuerza del amor",
-      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
+      "duration_ms": 170026,
+      "name": "El hablador",
+      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 224906,
       "name": "Sara",
       "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "La fuerza del amor",
+      "url": "https://open.spotify.com/track/1BSVbSNl3VW37uB1KvN2Om"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Encuentros cercanos del tercer sexo",
-      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 239360,
       "name": "L\u00e1grimas en la lluvia",
       "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Encuentros cercanos del tercer sexo",
+      "url": "https://open.spotify.com/track/34eXshPC2pco8joDvXjduQ"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 309893,
-      "name": "Un d\u00eda en la vida",
-      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 246960,
       "name": "Caseta de cobro",
       "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 309893,
+      "name": "Un d\u00eda en la vida",
+      "url": "https://open.spotify.com/track/3B9zvy65m9pGZmxu7lQzLd"
     },
     {
       "added_at": null,

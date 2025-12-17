@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,073 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,087 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 11 | [Tangled up in Blue](https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:40 |
 | 12 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:13 |
 | 13 | [I Want You](https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 3:08 |
-| 14 | [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:32 |
+| 14 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:25 |
 | 15 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:00 |
 | 16 | [Subterranean Homesick Blues](https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:19 |
-| 17 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:45 |
-| 18 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:25 |
+| 17 | [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:32 |
+| 18 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:45 |
 | 19 | [Simple Twist of Fate](https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:17 |
 | 20 | [Positively 4th Street](https://open.spotify.com/track/6q9rNSvE59IVT3ZlEorvYb) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan's Greatest Hits](https://open.spotify.com/album/3V3d0884r25OnvSpM8hD0T) | 3:53 |
 | 21 | [One More Cup of Coffee](https://open.spotify.com/track/4WOruM7TiQSETsWYy8bDSX) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 3:46 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 35 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
 | 36 | [Jokerman](https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Infidels](https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy) | 6:18 |
 | 37 | [Meet Me in the Morning](https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:21 |
-| 38 | [One Too Many Mornings](https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 2:42 |
-| 39 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:59 |
-| 40 | [Most of the Time](https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 5:05 |
-| 41 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:57 |
+| 38 | [Maggie's Farm](https://open.spotify.com/track/5rGD8FFgHw74cp3RPhucyg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 3:59 |
+| 39 | [One Too Many Mornings](https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 2:42 |
+| 40 | [Ballad of a Thin Man](https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 5:57 |
+| 41 | [Most of the Time](https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 5:05 |
 | 42 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 |
 | 43 | [Love Minus Zero](https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:50 |
-| 44 | [Ring Them Bells](https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:00 |
-| 45 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 4:09 |
+| 44 | [It Takes a Lot to Laugh, It Takes a Train to Cry](https://open.spotify.com/track/2yaf46YMxA5y6bzmWUKgXC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 4:09 |
+| 45 | [Ring Them Bells](https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:00 |
 | 46 | [Oxford Town](https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 1:50 |
 | 47 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:49 |
-| 48 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:32 |
-| 49 | [Visions of Johanna](https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:34 |
-| 50 | [Tonight I'll Be Staying Here with You](https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:23 |
+| 48 | [Tonight I'll Be Staying Here with You](https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:23 |
+| 49 | [Man in the Long Black Coat](https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 4:32 |
+| 50 | [Visions of Johanna](https://open.spotify.com/track/2rslQV48gNv3r9pPrQFPW1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:34 |
 
-Snapshot ID: `aT3+AAAAAABNZM+3Kp8Ypol2nPtKzfWI`
+Snapshot ID: `aT9PgAAAAABix57Tfqfkif29MfW5QOlC`

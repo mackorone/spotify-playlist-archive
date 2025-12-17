@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 435231,
+  "num_followers": 435258,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
+        "name": "Jazz Lullaby",
+        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
+      },
+      "artists": [
+        {
+          "name": "Ben Paterson",
+          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
+        }
+      ],
+      "duration_ms": 189929,
+      "name": "Frere Jacques",
+      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
+    },
+    {
+      "added_at": "2025-12-05 12:37:38",
+      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
-    },
-    {
-      "added_at": "2025-12-05 12:37:38",
-      "album": {
-        "name": "Jazz Lullaby",
-        "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
-      },
-      "artists": [
-        {
-          "name": "Ben Paterson",
-          "url": "https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG"
-        }
-      ],
-      "duration_ms": 189929,
-      "name": "Frere Jacques",
-      "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
     },
     {
       "added_at": "2025-12-05 12:37:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
-    },
-    {
-      "added_at": "2025-12-05 12:37:38",
-      "album": {
         "name": "When I Fell for You",
         "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 322362,
       "name": "When I Fell for You",
       "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
+    },
+    {
+      "added_at": "2025-12-05 12:37:38",
+      "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
     },
     {
       "added_at": "2025-12-05 12:37:38",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+    },
+    {
+      "added_at": "2025-12-05 12:37:38",
+      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
-    },
-    {
-      "added_at": "2025-12-05 12:37:38",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
-        "name": "Stay a While",
-        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
-      },
-      "artists": [
-        {
-          "name": "Simon Westman Trio",
-          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
-        }
-      ],
-      "duration_ms": 332391,
-      "name": "Jakob\u2019s Happy Song",
-      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
-    },
-    {
-      "added_at": "2025-12-05 12:37:38",
-      "album": {
         "name": "Jazz Impressions Of Japan",
         "url": "https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 279893,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip"
+    },
+    {
+      "added_at": "2025-12-05 12:37:38",
+      "album": {
+        "name": "Stay a While",
+        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
+      },
+      "artists": [
+        {
+          "name": "Simon Westman Trio",
+          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
+        }
+      ],
+      "duration_ms": 332391,
+      "name": "Jakob\u2019s Happy Song",
+      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
     },
     {
       "added_at": "2025-12-05 12:37:38",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
+        "name": "Happy Hours",
+        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        }
+      ],
+      "duration_ms": 397306,
+      "name": "Dear Don",
+      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
+    },
+    {
+      "added_at": "2025-12-05 12:37:38",
+      "album": {
         "name": "Amelia",
         "url": "https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 422506,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64"
-    },
-    {
-      "added_at": "2025-12-05 12:37:38",
-      "album": {
-        "name": "Happy Hours",
-        "url": "https://open.spotify.com/album/3AE4AxxvGo95eLiBVN2Z3r"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Dear Don",
-      "url": "https://open.spotify.com/track/18mNAkKds25U9wwwhiSyU4"
     },
     {
       "added_at": "2025-12-05 12:37:38",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-12-05 12:37:38",
       "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
+    },
+    {
+      "added_at": "2025-12-05 12:37:38",
+      "album": {
         "name": "Diane / Estemporaneo",
         "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 329693,
       "name": "Diane",
       "url": "https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D"
-    },
-    {
-      "added_at": "2025-12-05 12:37:38",
-      "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
     },
     {
       "added_at": "2025-12-05 12:37:38",

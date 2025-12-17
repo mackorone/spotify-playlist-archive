@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,871 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,913 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 9 | [AMIMA](https://open.spotify.com/track/3QUT04HjzHWo2kWMNuT6EM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [AMIMA](https://open.spotify.com/album/3N1xTZlEDsLJb5egIrOJ6M) | 2:19 |
 | 10 | [Canela](https://open.spotify.com/track/592R1yDJZI1NUKHpjyLCua) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/3Xc3k048w8xcsJLnTx4DY6) | 3:24 |
 | 11 | [Invisibles](https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:52 |
-| 12 | [Mi Reina](https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:03 |
-| 13 | [Ya Para Qué](https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:18 |
+| 12 | [Ya Para Qué](https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:18 |
+| 13 | [Mi Reina](https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:03 |
 | 14 | [Nunca Tuve Tanto](https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/0J9MueZfsiHyDIqTZKrj4c) | 2:49 |
 | 15 | [1+1=1](https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [1+1=1](https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b) | 2:43 |
 | 16 | [Flaca](https://open.spotify.com/track/26JLezveasjmj1YypgUGsf) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Flaca](https://open.spotify.com/album/5s9XYiGirdLhc10yXPBoMn) | 3:24 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 24 | [Una Loca Como Tú](https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT) | 3:55 |
 | 25 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 |
 | 26 | [Pelinegra](https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pelinegra](https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK) | 3:37 |
-| 27 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
-| 28 | [Poeta](https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:53 |
+| 27 | [Poeta](https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME) | 3:53 |
+| 28 | [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 |
 | 29 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 |
 | 30 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
 | 31 | [No Es Mía](https://open.spotify.com/track/2vXHwOwUBP3SPhqn19NAxy) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No Es Mía](https://open.spotify.com/album/5R699sUxn6JZHZit9JLLVY) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 |
 | 50 | [No se me Olvida](https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [No se me Olvida](https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd) | 3:07 |
 
-Snapshot ID: `aT3+AAAAAACJk6+tfzVpETGGB+m8QnvV`
+Snapshot ID: `aT9PgAAAAAB90gwLllY5FkZ6+GtTuyUB`

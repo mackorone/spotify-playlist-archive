@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 314795,
+  "num_followers": 314866,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACJPbHaN06ZCH5GO5Ir671F",
+  "snapshot_id": "aT9PgAAAAABNpA5p09HLZxt+tXmARf/H",
   "tracks": [
     {
       "added_at": null,
@@ -756,17 +756,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        },
-        {
-          "name": "Steven Furtick",
-          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 473850,
-      "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
-      "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
+      "duration_ms": 371698,
+      "name": "Owe You Praise",
+      "url": "https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G"
     },
     {
       "added_at": null,
@@ -836,13 +832,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Steven Furtick",
+          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 371698,
-      "name": "Owe You Praise",
-      "url": "https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G"
+      "duration_ms": 473850,
+      "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
+      "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
       "duration_ms": 261678,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 276036,
-      "name": "What I See (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
       "duration_ms": 564423,
       "name": "Wait On You (feat. Dante Bowe & Chandler Moore)",
       "url": "https://open.spotify.com/track/2p3qr3HQBgsjeE5rFobSDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 276036,
+      "name": "What I See (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
     },
     {
       "added_at": null,

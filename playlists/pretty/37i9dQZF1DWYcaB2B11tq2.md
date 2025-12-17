@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 
 > Alaba al Seńor con estas canciones clásicas! Foto: Marcela Gandara
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,207 likes - 100 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,293 likes - 100 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 49 | [Cantamos A Él](https://open.spotify.com/track/77QumYYpnP6uONSEJxSFug) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 6:22 |
 | 50 | [Que Baje la Nube](https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Mujer Frente a la Cruz](https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d) | 6:07 |
 | 51 | [Creyendo En Ti](https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne) | [Roberto Orellana](https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN) | [Coleccion De Oro](https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2) | 4:01 |
-| 52 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
-| 53 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 |
+| 52 | [Vives en Mí](https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS) | [Dorcas Cancel](https://open.spotify.com/artist/0N4rdCv0xy3ontQXyF3iRX), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Vives en Mí](https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4) | 4:08 |
+| 53 | [Humano](https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Humano](https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx) | 3:00 |
 | 54 | [Respiro](https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [Respiro](https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl) | 4:09 |
 | 55 | [Amor Real](https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Amor Real](https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo) | 3:52 |
 | 56 | [Volver a Ti](https://open.spotify.com/track/3VZsvgWzGJ7O72hcY0xMAa) | [Anagrace](https://open.spotify.com/artist/7DmgYRbHlVv86Kc48VeT2w) | [Volver a Ti](https://open.spotify.com/album/2vERRM9qaKZN3UB7lP29Mz) | 4:10 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcaB2B11tq2.md) - [plain]
 | 69 | [Sólo a Ti Jesús](https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Sólo a Ti Jesús](https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc) | 3:36 |
 | 70 | [Mas Profundo](https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU) | [Justin Michael](https://open.spotify.com/artist/1DPzzuw8dqxW47W3uGBzTl) | [Mas Profundo](https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu) | 5:59 |
 | 71 | [El Milagro](https://open.spotify.com/track/3BizEoaDITG8fmlqbvxE3e) | [Kevin Ceballo](https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v) | [El Milagro](https://open.spotify.com/album/00MPz0uPaS7KawOeksLPkM) | 3:54 |
-| 72 | [Nuestro Encuentro](https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx) | [Daniel Piedra Soto](https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF) | [Atracción](https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2) | 6:12 |
-| 73 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
+| 72 | [Bendecir Tu Nombre](https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z) | [Bendecir Tu Nombre](https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9) | 4:26 |
+| 73 | [Nuestro Encuentro](https://open.spotify.com/track/1yX45HBn6NYXFANlxOTugx) | [Daniel Piedra Soto](https://open.spotify.com/artist/5S85r4Nr3HMIhM1HQqkSzF) | [Atracción](https://open.spotify.com/album/5mDp9HC1usq8FW44X3lVQ2) | 6:12 |
 | 74 | [Me Sumerjo en Ti](https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA) | [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Me Sumerjo en Ti](https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4) | 3:22 |
 | 75 | [Tu Luz](https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8) | [Winicius Nathan](https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU), [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK) | [Tu Luz](https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad) | 3:50 |
 | 76 | [Dios Está en Control \- Radio Master](https://open.spotify.com/track/2PQEIqYiwLbQAT3k70Lkd2) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Dios Está en Control 2.0](https://open.spotify.com/album/2izTsmQHPf6BV4snaHjKGk) | 4:30 |

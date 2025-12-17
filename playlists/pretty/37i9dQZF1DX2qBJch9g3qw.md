@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,350 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,337 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 55 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
 | 56 | [Don't Cry Mama](https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4) | [Saskia](https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB) | [Don't Cry Mama](https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77) | 3:37 |
 | 57 | [Diamond Miner](https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Diamond Miner](https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE) | 3:51 |
-| 58 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
-| 59 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
+| 58 | [Is This Real Love? \(feat\. Lucky Daye\) \- Remix](https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Is This Real Love? \(feat\. Lucky Daye\)](https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958) | 2:59 |
+| 59 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
 | 60 | [it all ends with us](https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [it all ends with us](https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J) | 3:46 |
 
 Snapshot ID: `AAAAAOQFPBwsHDOlo/tDpO3aACQgjUzM`

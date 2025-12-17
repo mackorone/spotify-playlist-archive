@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,230 likes - 46 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,231 likes - 46 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 39 | [Trouble Found Me](https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:14 |
 | 40 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
 | 41 | [The Book Of Love \(with Madison Cunningham\)](https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Golden Heart Protector](https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn) | 3:40 |
-| 42 | [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 |
+| 42 | [Send My Regards](https://open.spotify.com/track/52RARR33qj7sGt36uCO9Xk) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [What Plans?](https://open.spotify.com/album/15QjPdc8Tazu5gXvZmuRcB) | 4:07 |
 | 43 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
-| 44 | [In From Japan](https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
-| 45 | [Send My Regards](https://open.spotify.com/track/52RARR33qj7sGt36uCO9Xk) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [What Plans?](https://open.spotify.com/album/15QjPdc8Tazu5gXvZmuRcB) | 4:07 |
+| 44 | [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 |
+| 45 | [In From Japan](https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
 | 46 | [Bound](https://open.spotify.com/track/4O89o2tvx28SkMXe63rTUa) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
 
-Snapshot ID: `aT3+AAAAAACuhnBezi+0XgLCjzdZwH1J`
+Snapshot ID: `aT9PgAAAAAC0Equ+sLu+UGmhxRdeYVqe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,930 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,958 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 46 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
 | 47 | [Wandering Eye](https://open.spotify.com/track/7M1WfoimlU6uZ0LhenVUhx) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Based on a True Story](https://open.spotify.com/album/7eX7m3vqI4ovUBMEh3f4GU) | 9:49 |
 | 48 | [ROLLIN ON](https://open.spotify.com/track/2dynUJpevfv4R12wlQEZ3D) | [Rokkō](https://open.spotify.com/artist/0GyKdT7t2elBNxQV5kCj8b) | [ROLLIN ON](https://open.spotify.com/album/5FbUsSC8Cp296Q09wZXAOU) | 3:16 |
-| 49 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
-| 50 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
-| 51 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 |
+| 49 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
+| 50 | [Darling Angel](https://open.spotify.com/track/6hq4mlXQ4pLqOk2wQaTvhH) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Nothing To Hide](https://open.spotify.com/album/7oRmTwj5o0FGN6TANyL4oX) | 4:05 |
+| 51 | [One Night Dance](https://open.spotify.com/track/4AxBpENBK3iT3uLiKTkm8D) | [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [One Night Dance](https://open.spotify.com/album/4ChcRmEy1d7Nq0OOEDM0hP) | 3:14 |
 | 52 | [If Tomorrow Never Comes](https://open.spotify.com/track/1ixqQJZ8vsFWuSvAJwjNDK) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Lucky Man](https://open.spotify.com/album/5IO8kfqsccFaycfAMe16ZG) | 3:50 |
 | 53 | [Long Ago](https://open.spotify.com/track/2NxGngqV89UZXiiA6eQjjC) | [Herbs](https://open.spotify.com/artist/6GIB5jeCf3U9JJUo2of2bA) | [Sensitive To A Smile](https://open.spotify.com/album/0cDYtksligg0oOsgx43WFg) | 4:19 |
 | 54 | [Be My Lady \(feat\. Pieter Tuhoro & Jah Maoli\)](https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh) | 4:11 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 71 | [Milk & Honey](https://open.spotify.com/track/3FeHLLnTnOvDKuFo46nTKI) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Milk & Honey](https://open.spotify.com/album/2evlCGKSXmun0ByXPY5BY2) | 4:20 |
 | 72 | [Golden Touch](https://open.spotify.com/track/3Bl1qnkuAmKGatG4EE14BI) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [Golden Touch](https://open.spotify.com/album/3uaq36eqrJBts8r3Hu2HUi) | 3:26 |
 | 73 | [Fill up](https://open.spotify.com/track/2UsNajkLbFnlv5W66kye1c) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [High Watah](https://open.spotify.com/artist/2DbSnI45Eg3JrxL9L307hi) | [Fill up](https://open.spotify.com/album/66OW4rYGHM6ZtugV4FIiBL) | 2:55 |
-| 74 | [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 |
-| 75 | [Screems from Da Old Plantation](https://open.spotify.com/track/1DPMqbabMHKm8bN04arwK8) | [King Kapisi](https://open.spotify.com/artist/4f3x4YITcuzveAflxCB8Hd) | [Savage Thoughts](https://open.spotify.com/album/6CmbniAwT57Wrg51lAzXL1) | 4:46 |
+| 74 | [Screems from Da Old Plantation](https://open.spotify.com/track/1DPMqbabMHKm8bN04arwK8) | [King Kapisi](https://open.spotify.com/artist/4f3x4YITcuzveAflxCB8Hd) | [Savage Thoughts](https://open.spotify.com/album/6CmbniAwT57Wrg51lAzXL1) | 4:46 |
+| 75 | [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 |
 
 Snapshot ID: `AAAAABND1UdSRT4J7y1aGtWEmdRnxSXE`

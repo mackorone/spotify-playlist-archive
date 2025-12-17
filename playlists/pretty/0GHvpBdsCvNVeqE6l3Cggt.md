@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 43 songs - 2 hr 42 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

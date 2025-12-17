@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 198206,
+  "num_followers": 198217,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADe1D3fFJjZjnLAXKE7DTRG",
+  "snapshot_id": "aT9PgAAAAAB3n9jdGBEqizi1SmnzuRI7",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pinkerton",
+        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Pink Triangle",
+      "url": "https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pinkerton",
-        "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Pink Triangle",
-      "url": "https://open.spotify.com/track/6qQGxKyy6LcyZVsWn93lyS"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 254333,
-      "name": "Perfect Situation",
-      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -207,28 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All My Favorite Songs (feat. AJR)",
-        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "All My Favorite Songs (feat. AJR)",
-      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
       },
       "artists": [
         {
@@ -236,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 204293,
-      "name": "My Name Is Jonas",
-      "url": "https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w"
+      "duration_ms": 254333,
+      "name": "Perfect Situation",
+      "url": "https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge"
     },
     {
       "added_at": null,
@@ -259,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "My Name Is Jonas",
+      "url": "https://open.spotify.com/track/4nzyOwogJuWn1s6QuGFZ6w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 128400,
       "name": "Why Bother?",
       "url": "https://open.spotify.com/track/43Qr1YBCY3vSVCvZuR0PCb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All My Favorite Songs (feat. AJR)",
+        "url": "https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "All My Favorite Songs (feat. AJR)",
+      "url": "https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 257000,
       "name": "The Good Life",
       "url": "https://open.spotify.com/track/5CjwXdq5Z73Va0XCPFG5Aq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinkerton - Deluxe Edition",
-        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 118653,
-      "name": "You Gave Your Love To Me Softly",
-      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 227733,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pinkerton - Deluxe Edition",
+        "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 118653,
+      "name": "You Gave Your Love To Me Softly",
+      "url": "https://open.spotify.com/track/6nfLKum9Lr2AuLkeDMoJ8e"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 243466,
       "name": "El Scorcho",
       "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Dope Nose",
-      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+      "duration_ms": 172266,
+      "name": "Keep Fishin'",
+      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Keep Fishin'",
-      "url": "https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ"
+      "duration_ms": 137400,
+      "name": "Dope Nose",
+      "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,736 likes - 90 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,746 likes - 90 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 33 | [Para Los Ojos Más Bellos](https://open.spotify.com/track/669cJlmstiDWCFDyef4pil) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT) | [Andando](https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10) | 3:04 |
 | 34 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
 | 35 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/0RseYmZD6vMtoc04LqkG95) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/1rEWtg5n3YqyFUHTGCqmNW) | 3:09 |
-| 36 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
-| 37 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
+| 36 | [Hablan de Ti](https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6) | [Copla alta](https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Hablan de Ti](https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz) | 4:02 |
+| 37 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
 | 38 | [Mucho Más Que Piel](https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Ven Por Mi](https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8) | 5:01 |
 | 39 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
 | 40 | [Eterno Amor](https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Eterno Amor](https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y) | 3:10 |
-| 41 | [Por amarte así](https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Por amarte así](https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7) | 3:32 |
-| 42 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
+| 41 | [Una Noche Más](https://open.spotify.com/track/5zkVIqB0REw19AXIl9rH2q) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Una Noche Más](https://open.spotify.com/album/55VoL4ZTESAMk4zl3lX9IH) | 3:25 |
+| 42 | [Por amarte así](https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Por amarte así](https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7) | 3:32 |
 | 43 | [Canción de Lejos](https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Renacer](https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR) | 3:49 |
 | 44 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 45 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 52 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
 | 53 | [Por las costas entrerrianas](https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Quien Me Quita Lo Cantado](https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf) | 3:21 |
 | 54 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
-| 55 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
-| 56 | [No Te Rindas](https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [No Te Rindas](https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6) | 3:39 |
+| 55 | [No Te Rindas](https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [No Te Rindas](https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6) | 3:39 |
+| 56 | [Devuélveme el Corazón](https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Devuélveme el Corazón](https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0) | 3:00 |
 | 57 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
 | 58 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
 | 59 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
-| 60 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
-| 61 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
+| 60 | [Volver A Verte](https://open.spotify.com/track/0hYf0QFJF6LSSBIWKozpuK) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Volver A Verte](https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4) | 2:16 |
+| 61 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
 | 62 | [Tan Cerca En La Distancia](https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG) | [Los Juncales](https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA) | [Tan Cerca En La Distancia](https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo) | 3:22 |
 | 63 | [Flor Palida](https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Sebastian Llapur](https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 4:28 |
 | 64 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 87 | [Déjame Intentar](https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Déjame Intentar](https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO) | 2:42 |
 | 88 | [Nuestro adiós 24b](https://open.spotify.com/track/4L1JmLqESzxrvlgGCaNOOD) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nuestro adiós](https://open.spotify.com/album/1NaqaiCpHwCT21ZDxcFUks) | 4:08 |
 | 89 | [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 |
-| 90 | [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 |
+| 90 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
 
 Snapshot ID: `AAAAANtt7f+7UZpClHU4Zq9PK89Dp/YE`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,365 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,476 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 16 | [Hip\-Hop \(feat\. BigXthaPlug, Jay Jones\)](https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jay Jones](https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL) | [Tha Carter VI](https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ) | 4:01 |
 | 17 | [Mr.Trouble](https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mr.Trouble](https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd) | 2:02 |
 | 18 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
-| 19 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
-| 20 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
+| 19 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
+| 20 | [Change](https://open.spotify.com/track/4a7CRQloQmNJ2HMPmxQOac) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:13 |
 | 21 | [Take Care](https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:29 |
 | 22 | [PISTOL PACCIN](https://open.spotify.com/track/3ScMs95OaNlkrZuRe7gyYa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Cottonwood 2 \(Deluxe 2.0\)](https://open.spotify.com/album/1ugjPDt5OYUeYmwYkgqEfQ) | 2:29 |
 | 23 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 31 | [Life of a Boss](https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:04 |
 | 32 | [All Gas No Brakes \(feat\. BigXthaPlug\)](https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 2:43 |
 | 33 | [Boy](https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Boy](https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe) | 2:12 |
-| 34 | [Safehouse](https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:16 |
-| 35 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
-| 36 | [Good To Me](https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3) | 3:28 |
+| 34 | [Good To Me](https://open.spotify.com/track/0mptmsUHHZgrxdhcbUwD1O) | [Mykfresh](https://open.spotify.com/artist/67cmVMoqQDWreDXtsIaJdR), [2RawQua](https://open.spotify.com/artist/3DGljPQGDgIsRtIiqetMAo), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Good To Me](https://open.spotify.com/album/1M3XfdyaT9cU4kji29TuO3) | 3:28 |
+| 35 | [Safehouse](https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:16 |
+| 36 | [Big Stepper](https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr) | 2:10 |
 | 37 | [Therapy Session](https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 1:48 |
 | 38 | [Who Run It](https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2) | [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Who Run It](https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI) | 2:43 |
 | 39 | [Rap Niggas](https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [Long Nights \(feat\. Thomas Rhett\)](https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:01 |
 | 50 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
 
-Snapshot ID: `aT3+AAAAAABq8OqUaH0vai7nnfKK1YbY`
+Snapshot ID: `aT9PgAAAAAAw0/uZqv0D+Zi7Q00q3CIw`

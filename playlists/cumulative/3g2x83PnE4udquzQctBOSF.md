@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-434 songs - 1 day 1 hr 50 min
+436 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [NVRBE](https://open.spotify.com/track/5VhcagXIZLl89yVBMKXcdX) | [Nofex](https://open.spotify.com/artist/1wOk03ohfVCzcIxZ8KRwrL) | [Again](https://open.spotify.com/album/3UfZC0DQt2irfvnUWQ8yhW) | 5:25 | 2023-08-06 | 2023-09-26 |
 | [ON YA MARK](https://open.spotify.com/track/70CWkjPF4ETV62o5Hu82SD) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [ON YA MARK](https://open.spotify.com/album/2LTSKqCad4wS9IAWkswsFe) | 6:31 | 2024-04-14 | 2024-07-08 |
 | [Only Love Matters \- Part 1 \- London](https://open.spotify.com/track/6P45k6uEzsbuXlL6t1qEha) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only Love Matters \(Part 1 \- London\)](https://open.spotify.com/album/0nlGjAwuEminR5Nd1i6Cij) | 2:17 | 2025-12-12 |  |
+| [Only love matters \- Part 2 \- Tokyo](https://open.spotify.com/track/4TTtutuSdhUSp1VAs60k3U) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters \(Part 2 \- Tokyo\)](https://open.spotify.com/album/7cVCgIn6MPBDIZoOoNKMVy) | 2:16 | 2025-12-16 |  |
 | [Operator](https://open.spotify.com/track/4g46R8Fz2YR77jXZjw8PJA) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Operator](https://open.spotify.com/album/6k7OxcVJipXt5Y7ySOeNjH) | 5:54 | 2024-03-10 | 2024-04-15 |
 | [Orient Express](https://open.spotify.com/track/293qKOjripajaL2vyZnJkX) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Orient Express](https://open.spotify.com/album/2ZeA0rOASQLqhn8WSKCNqT) | 2:46 | 2023-02-19 | 2023-03-20 |
 | [Outer Space](https://open.spotify.com/track/4acZoDcg5neM4mAtVsTQSK) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Just What The World Needs EP](https://open.spotify.com/album/6Ke2WaFMVNJZviMEJvYoPX) | 4:03 | 2023-01-29 | 2023-02-20 |
@@ -427,6 +428,7 @@
 | [What You Gonna Do](https://open.spotify.com/track/0tXTIMzReuxOi6aK6a45W4) | [Papa Marlin](https://open.spotify.com/artist/1iVXBrMrQuRDgkZLnM7vCR), [Bondar](https://open.spotify.com/artist/2vEw53LUCi53eepaZUzbl8) | [What You Gonna Do](https://open.spotify.com/album/0ys5yYFIWWea3GOjhu6NBE) | 3:40 | 2023-09-17 | 2023-12-14 |
 | [What?!](https://open.spotify.com/track/6OjuhFJWcKpvy9VsCSS0vV) | [Simon Ricci](https://open.spotify.com/artist/0yZzFyRzS1w61VNtQYCagB), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS) | [What?!](https://open.spotify.com/album/61zASyQB1pIxGBOCye0lsE) | 3:22 | 2023-07-16 | 2023-08-28 |
 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 | 2024-10-13 |  |
+| [WITHOUT YOU](https://open.spotify.com/track/2VvUvR1Cet5eNEb8TyjxW7) | [DYEPA'](https://open.spotify.com/artist/7b7hWy8ITrscmKdRb8WjMv) | [WITHOUT YOU](https://open.spotify.com/album/0vW2qzjESsMoebRpfhf3q0) | 3:08 | 2025-12-16 |  |
 | [Work It](https://open.spotify.com/track/7jAbu1bvEH0lgWO6860KXw) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Milano Downtown III](https://open.spotify.com/album/5abIHUF2v00mKzgEqfalya) | 3:12 | 2024-10-13 |  |
 | [Wrop](https://open.spotify.com/track/5Fqu16jHDbR0fNrYkAp9LX) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Wrop](https://open.spotify.com/album/7uLfUrSKlyq6Jii0C05JaH) | 5:43 | 2023-11-26 | 2024-02-05 |
 | [WTF](https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [WTF](https://open.spotify.com/album/4QLYHHjBdOQw0sBE9ZHBtR) | 3:17 | 2023-03-17 | 2024-05-08 |

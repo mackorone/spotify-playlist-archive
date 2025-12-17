@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,747 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,773 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 38 | [Love Will Bring Us Back Together](https://open.spotify.com/track/2LCsNgUX2qsEbKZ9yLRUJq) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 5:55 |
 | 39 | [Serious Drug](https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A) | [Wildcookie](https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG) | [Cookie Dough](https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM) | 2:55 |
 | 40 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
-| 41 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
-| 42 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
+| 41 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
+| 42 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
 | 43 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
 | 44 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
 | 45 | [Apple Green](https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa) | [Mother Earth](https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw) | [The People Tree](https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y) | 4:25 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 67 | [Looking up to You](https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P) | [Made in Sweden](https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y) | 3:54 |
 | 68 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/6OMfk1Gei14BexfcSzjLrB) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/7vJTJEMC5FYSCD61O5KFvf) | 5:19 |
 | 69 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
-| 70 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
-| 71 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
+| 70 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
+| 71 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 72 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
 | 73 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
 | 74 | [Woman Of The Ghetto \- Reimagined](https://open.spotify.com/track/0TPpaCh6kiqIJEZOGosUTg) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Woman Of The Ghetto \(Reimagined\)](https://open.spotify.com/album/2rjniBoJTfY4IIn8aPaR19) | 4:57 |

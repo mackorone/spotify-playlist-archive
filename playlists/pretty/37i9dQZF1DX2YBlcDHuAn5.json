@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33845,
+  "num_followers": 33844,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-12-04 23:00:19",
       "album": {
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
+    },
+    {
+      "added_at": "2025-12-04 23:00:19",
+      "album": {
         "name": "Highway Queen (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 211485,
       "name": "Highway Queen (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
-    },
-    {
-      "added_at": "2025-12-04 23:00:19",
-      "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2025-12-04 23:00:19",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-12-04 23:00:19",
       "album": {
-        "name": "All Behind",
-        "url": "https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ"
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
         }
       ],
-      "duration_ms": 245567,
-      "name": "All Behind",
-      "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
+      "duration_ms": 213726,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
     }
   ],
   "unique_name": "Country & Americana",

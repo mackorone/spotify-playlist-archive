@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-511 songs - 1 day 7 hr 50 min
+512 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Being Home for Christmas](https://open.spotify.com/track/6C5kkTtjWio0ah4AZDEiFS) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Home for Christmas](https://open.spotify.com/album/63XoYgQykqbqTiGa3jBvki) | 4:16 | 2021-12-24 | 2024-11-18 |
 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2021-12-24 | 2025-05-14 |
 | [Born In Bethlehem](https://open.spotify.com/track/0bx2d5fwkiVtipA1JT7Qdm) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Christmas Offerings](https://open.spotify.com/album/0ytvxlV9CcT0IAke7hxdfj) | 3:43 | 2021-12-24 |  |
-| [Born In Bethlehem \(DEMO\)](https://open.spotify.com/track/4hlSRzpsYF9IMO5htmVURt) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Born In Bethlehem \(DEMO\)](https://open.spotify.com/album/5fJRgdNxnj5YerP9t2LSPh) | 3:30 | 2025-12-07 |  |
+| [Born In Bethlehem \(DEMO\)](https://open.spotify.com/track/4hlSRzpsYF9IMO5htmVURt) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Born In Bethlehem \(DEMO\)](https://open.spotify.com/album/5fJRgdNxnj5YerP9t2LSPh) | 3:30 | 2025-12-07 | 2025-12-17 |
 | [Born in Me \(Album Version\)](https://open.spotify.com/track/7xcHCg6V2oVDlfTCmZKNbE) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [JJ Heller Christmas](https://open.spotify.com/album/6xdcCHqI8RfvzVqhE3J320) | 3:03 | 2025-11-16 |  |
 | [Born Is The King \(It's Christmas\)](https://open.spotify.com/track/43mAbdlwkCFKSFF0pvbz4s) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [We Have A Savior](https://open.spotify.com/album/1DltfgAtgRgLmXbhve2g4B) | 3:21 | 2021-12-24 | 2024-08-02 |
 | [Born on That Day](https://open.spotify.com/track/3wlUyTYyx0XBsk2IoKu6R7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:35 | 2021-12-24 |  |
@@ -393,6 +393,7 @@
 | [Rest \(The Song Of The Innkeeper\)](https://open.spotify.com/track/1vF5MppnOia0TBuE4vTaHM) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Christmas Stories: Repeat The Sounding Joy](https://open.spotify.com/album/6etDHwbarfZB28dwYHBbJc) | 3:41 | 2021-12-24 | 2022-07-26 |
 | [Ribbons and Bows](https://open.spotify.com/track/49fP67TftXJyBNY8wkcXIC) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Company Christmas Album](https://open.spotify.com/album/6BWNXJjs3rEavojmBOsocl) | 3:26 | 2024-10-27 |  |
 | [Ring Them Bells](https://open.spotify.com/track/6KLtFiTj68gDr0WXvjpOkt) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Ring Them Bells](https://open.spotify.com/album/0GxLNpsn2hp1oKycqB1Poa) | 3:39 | 2023-12-02 |  |
+| [Savior of the Nations, Come](https://open.spotify.com/track/4zEOFejGGezuHnyxSvUejY) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Hymns IV](https://open.spotify.com/album/65Yv0dk2ynKDYPvLY5Ik86) | 2:08 | 2025-12-12 |  |
 | [Saviour](https://open.spotify.com/track/7g6DscMtOV2ddOUsanh9Eo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Saviour](https://open.spotify.com/album/7noLUyCB1UokVaRfd7Zgom) | 4:18 | 2022-11-26 |  |
 | [Saviour Of The World](https://open.spotify.com/track/48cgU4wfeTp28IrlTVG0MU) | [Brooke Nicholls](https://open.spotify.com/artist/0phq5bIgmJH85OUSjsI8Bg), [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [Saviour Of The World](https://open.spotify.com/album/3yZjjoaKIQxCqoLffDALox) | 3:34 | 2024-08-01 |  |
 | [See Amid the Winter's Snow](https://open.spotify.com/track/54JtqAAE6BMY6h6lLDcVh3) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [See Amid the Winter's Snow](https://open.spotify.com/album/6H89cWcpDOBmOYAUGWYucI) | 3:55 | 2025-11-22 |  |

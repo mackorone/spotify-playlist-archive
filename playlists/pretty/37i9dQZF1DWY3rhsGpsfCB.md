@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,464 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,470 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 55 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 56 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
 | 57 | [Ashimolowo](https://open.spotify.com/track/1dKs7tZ3xfoDn2Ap7tgzRv) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:07 |
-| 58 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 59 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
+| 58 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
+| 59 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 60 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 |
 | 61 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 |
 | 62 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 75 | [ecstasy](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
 | 76 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
 | 77 | [Rock Steady](https://open.spotify.com/track/2ntw401pdhJCTDKRBAT2ZP) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [GOLD II](https://open.spotify.com/album/7gLdGJsMu7LdkvLrzRfBXn) | 3:11 |
-| 78 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
+| 78 | [I Go Nowhere](https://open.spotify.com/track/4e6F0OgG46Fh3mkLBrxoK6) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Master of Ballads](https://open.spotify.com/album/5E9K9Om1ctsEyuI3kPFG6X) | 2:54 |
 | 79 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 |
-| 80 | [I Go Nowhere](https://open.spotify.com/track/4e6F0OgG46Fh3mkLBrxoK6) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Master of Ballads](https://open.spotify.com/album/5E9K9Om1ctsEyuI3kPFG6X) | 2:54 |
+| 80 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
 
 Snapshot ID: `AAAAAPrttRMuDrXQ3bvWheKRJxykxZih`

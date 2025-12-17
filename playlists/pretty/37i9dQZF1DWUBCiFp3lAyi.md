@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 
 > Your personalized GTA radio station.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,182 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,311 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 | 58 | [Hood Gone Love It \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Follow Me Home](https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9) | 4:05 |
 | 59 | [Everything She Wants](https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI) | 5:02 |
 | 60 | [Flex \(feat\. Juice WRLD\)](https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:43 |
-| 61 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 |
-| 62 | [Out of Touch](https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:09 |
+| 61 | [Out of Touch](https://open.spotify.com/track/7o67roCVsFiCt7Cf0ZLOJq) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [The Very Best of Daryl Hall / John Oates](https://open.spotify.com/album/4tUyNf5dGXwY4TaMaxwhqF) | 4:09 |
+| 62 | [More Than This](https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:30 |
 | 63 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 |
 | 64 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 |
 | 65 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBCiFp3lAyi.md) - [plain]
 | 90 | [It's A Vibe](https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Pretty Girls Like Trap Music](https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS) | 3:30 |
 | 91 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 92 | [Gangsta Gangsta](https://open.spotify.com/track/1pOIpxfrQ8AszXZdKR3aH3) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:36 |
-| 93 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 |
+| 93 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
 | 94 | [Ali Bomaye](https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 6:12 |
-| 95 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
+| 95 | [Peace Sells \- Remastered](https://open.spotify.com/track/5a2hIQWInPjqkkFiUEgxoX) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:04 |
 | 96 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
 | 97 | [So Into You](https://open.spotify.com/track/3Sm5TYFgMXyXwgAcY2xweX) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [A Rock And Roll Alternative](https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO) | 4:20 |
 | 98 | [Sister Christian](https://open.spotify.com/track/57trQKFZdJxHia4sMJioWk) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Midnight Madness](https://open.spotify.com/album/0XSzjoQ6rMkWeoOQdQAWRs) | 5:02 |

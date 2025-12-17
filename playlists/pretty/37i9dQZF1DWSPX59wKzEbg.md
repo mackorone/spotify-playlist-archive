@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,850 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,077 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 | 43 | [Winter Wonderland](https://open.spotify.com/track/0Gn78ptOlon3LodbtfUGKY) | [Felix Bernard](https://open.spotify.com/artist/4us59Bx720z6eLFe7FeoEA), [Jonas Kaufmann](https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB), [Cologne Studio Big Band](https://open.spotify.com/artist/0q8Q59M2tTlesHd6xsWAh7), [Wieland Reissmann](https://open.spotify.com/artist/3pWegp2nsK9laZBRNujnAJ) | [It's Christmas!](https://open.spotify.com/album/5c811s084DjncLFm7LBv2q) | 2:18 |
 | 44 | [I Believe In Father Christmas](https://open.spotify.com/track/3aL5PN7zwviscZjvC1WBd5) | [Joe McElderry](https://open.spotify.com/artist/38SqjWcm8au0qiQZvd3FbF) | [Classic Christmas](https://open.spotify.com/album/1ApSL79W5qVeFQUF79qZPV) | 3:09 |
 | 45 | [Trad / Arr Herbert, S.: In Dulci Jubilo](https://open.spotify.com/track/4vvr9NpmgmTdzneh9jsZmx) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Katherine Jenkins](https://open.spotify.com/artist/6dkXCmyrSrQteo0gwOGzFl), [Coro](https://open.spotify.com/artist/10shIkxXXWeAD4AFvW4GJy), [Sally Herbert](https://open.spotify.com/artist/4TtWiCEUhyeiw99Fm4CXbV) | [This Is Christmas](https://open.spotify.com/album/4aVvhGDbVTt9MNDVSpUfAq) | 2:31 |
-| 46 | [The Holly And The Ivy](https://open.spotify.com/track/0l0Q4MhZ9urILJqYCBiW0N) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Martin Neary](https://open.spotify.com/artist/3jmWcWAykr5IzE2K2jaZwk) | [The Carols Album](https://open.spotify.com/album/2VGiXYpSonQmsOBNLPC6Kr) | 3:31 |
+| 46 | [The Holly And The Ivy](https://open.spotify.com/track/0l0Q4MhZ9urILJqYCBiW0N) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Choirboys](https://open.spotify.com/artist/3ZtRtJV4yZOmdWjywEjNND), [Martin Neary](https://open.spotify.com/artist/3jmWcWAykr5IzE2K2jaZwk) | [The Carols Album](https://open.spotify.com/album/2VGiXYpSonQmsOBNLPC6Kr) | 3:31 |
 | 47 | [Angels' Carol](https://open.spotify.com/track/2JC8ZNcUjvQm14Zx94Q76M) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [Meike Leluschko](https://open.spotify.com/artist/3YDLfg7oBsiMjDRzsJN87g), [Pia Viola Buchert](https://open.spotify.com/artist/7ve61lZ4lwDxqJtq6SUbGL), [Jenny Meyer](https://open.spotify.com/artist/7gVh3TODlcEq6DG8FJ8I3o) | [Hear the Angels Sing...](https://open.spotify.com/album/4UyQgLhL0FpDBo2yVyUjrP) | 3:14 |
 | 48 | [The Wexford Carol \(arr\. Cohen\)](https://open.spotify.com/track/2jWmD6HDJhqMsT18wH7Srr) | [Cormac](https://open.spotify.com/artist/5h3EGN6IPU6J9fMWszrNWy) | [Hear My Voice](https://open.spotify.com/album/2x9qhLs6SYPi5vojfOC542) | 3:44 |
 | 49 | [The Lord Bless You and Keep You](https://open.spotify.com/track/1cp9IGUG4RGqwNCH05d4ei) | [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe), [The Choirboys](https://open.spotify.com/artist/3ZtRtJV4yZOmdWjywEjNND) | [The Choir Boys](https://open.spotify.com/album/1gh41SX9mUnUI9jvUD9D3Y) | 2:40 |

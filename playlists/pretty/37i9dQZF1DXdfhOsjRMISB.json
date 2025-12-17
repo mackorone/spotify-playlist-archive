@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Lainey Wilson",
-  "num_followers": 449960,
+  "num_followers": 449989,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
+        "name": "Mud On The Tires",
+        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 259911,
+      "name": "Whiskey Lullaby (feat. Alison Krauss)",
+      "url": "https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 192693,
       "name": "DEVIL YOU KNOW",
       "url": "https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
-        "name": "Mud On The Tires",
-        "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 259911,
-      "name": "Whiskey Lullaby (feat. Alison Krauss)",
-      "url": "https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "This Town's Been Too Good To Us",
-        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 191626,
-      "name": "This Town's Been Too Good To Us",
-      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
         "name": "Unapologetically (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
+        "name": "This Town's Been Too Good To Us",
+        "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
+      },
+      "artists": [
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "This Town's Been Too Good To Us",
+      "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
+        "name": "Coyote Cry",
+        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "duration_ms": 231265,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 210480,
       "name": "Cold Beer Calling My Name",
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
-        "name": "Coyote Cry",
-        "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
-      },
-      "artists": [
-        {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
-        }
-      ],
-      "duration_ms": 231265,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Hell Of A View",
-        "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 175280,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
+      "duration_ms": 224626,
+      "name": "All On Me",
+      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -2183,18 +2183,18 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Dark Horse",
-        "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
+        "name": "Hell Of A View",
+        "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 224626,
-      "name": "All On Me",
-      "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
+      "duration_ms": 175280,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE"
     },
     {
       "added_at": "2025-10-24 04:00:28",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2025-10-24 04:00:28",
       "album": {
-        "name": "Young Love & Saturday Nights",
-        "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 195357,
-      "name": "Young Love & Saturday Nights",
-      "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
-    },
-    {
-      "added_at": "2025-10-24 04:00:28",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 197453,
       "name": "Settling Down",
       "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "added_at": "2025-10-24 04:00:28",
+      "album": {
+        "name": "Young Love & Saturday Nights",
+        "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 195357,
+      "name": "Young Love & Saturday Nights",
+      "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
     },
     {
       "added_at": "2025-10-24 04:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: El Kanka.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,806 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,804 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 94 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
 | 95 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 |
 | 96 | [Pasaba por Aqui](https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:52 |
-| 97 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 |
-| 98 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
+| 97 | [Que yo no lo sabía \(feat\. Antonio Vega\)](https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Gracias](https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd) | 3:51 |
+| 98 | [Querría](https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [De Pana y Rubí](https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9) | 4:09 |
 | 99 | [No Dudaria](https://open.spotify.com/track/1aiq7W0uUtQB70lyNjBpWa) | [Antonio Flores](https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6) | [Esencial Antonio Flores](https://open.spotify.com/album/2tJ9CY3BGUdY8J3J52huZG) | 3:34 |
 | 100 | [Salitre](https://open.spotify.com/track/1MmGTsPVHDjhM5BJLvkFRL) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:40 |
 

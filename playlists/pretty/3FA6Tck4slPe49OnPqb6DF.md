@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3FA6Tck4slPe49OnPqb6DF.md) - [plain]
 
 > A selection of Anjunadeep's most iconic releases\. Find out more: <a href="https://anjunadeep.com/">Website</a> \| <a href="https://www.facebook.com/anjunadeep">Facebook</a> \| <a href="https://www.instagram.com/anjunadeep/?hl=en">Instagram</a> \| <a href="http://anjunastore.com/">Merch</a>
 
-[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 14,991 likes - 30 songs - 2 hr 47 min
+[Anjunadeep](https://open.spotify.com/user/anjunadeep) - 14,989 likes - 30 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

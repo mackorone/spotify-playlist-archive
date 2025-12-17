@@ -1,15 +1,31 @@
 {
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Silica Gel) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 247204,
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Car, the garden(\uce74\ub354\uac00\ub4e0)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "num_followers": 247191,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFCO7r2BDSZIgzJko2pfuwNDc2Ie",
+  "snapshot_id": "AAAAAFl8Paez0iJAxaRmpQTE2BGGd5Do",
   "tracks": [
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "Blue Heart",
+        "url": "https://open.spotify.com/album/2x9kpvzZeiIpStGqulfA50"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 193875,
+      "name": "LOVERS",
+      "url": "https://open.spotify.com/track/3vHkz18weVJNZio2bvbg8g"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "BIG VOID",
         "url": "https://open.spotify.com/album/59Hje4SbnsKpsAWRBZ6IPz"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/5p3BybOa38IjjviVrN9xN1"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "Panorama : The Best of TAEYEON",
-        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Let's Rock",
         "url": "https://open.spotify.com/album/7LZc6bNzhS1wJtjIwANKsZ"
@@ -57,43 +57,39 @@
       "url": "https://open.spotify.com/track/6Aczp9lo3zwB8Sw2MkjlwC"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
-        "name": "EXchange4, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7p7PMm5qs3dpQrIhyxFcbr"
+        "name": "IDOL I Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2wWc6GdNR8MBLvHJGXyVL0"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Velvet Trigger",
-      "url": "https://open.spotify.com/track/2i4LJJX4YhL0OtNyarinUg"
+      "duration_ms": 200379,
+      "name": "Echoes of You",
+      "url": "https://open.spotify.com/track/2KQmPSQqklvugWCGLMyU19"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
-        "name": "i feel love",
-        "url": "https://open.spotify.com/album/0D2vmiOyC7BprkMwPz6ZDm"
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
       },
       "artists": [
         {
-          "name": "YongYong",
-          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
-        },
-        {
-          "name": "Jayci yucca",
-          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 210000,
-      "name": "i feel love (feat. Jayci yucca)",
-      "url": "https://open.spotify.com/track/1gfSH49Vpbo76DrDX2zBQy"
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "dim,",
         "url": "https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN"
@@ -109,7 +105,7 @@
       "url": "https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -125,7 +121,7 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -141,7 +137,7 @@
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -157,7 +153,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
@@ -173,7 +169,7 @@
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
@@ -197,7 +193,7 @@
       "url": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/0sUxlp7O7SrVU6I1Ol6J5H"
@@ -213,7 +209,7 @@
       "url": "https://open.spotify.com/track/3PTQ2rPfaPDxqpXOcRlTsZ"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "eight",
         "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
@@ -233,7 +229,7 @@
       "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Demons [The Seasons: Cantabile of Park Bo Gum]",
         "url": "https://open.spotify.com/album/5azuOkskQCiqXx7SYiHsMa"
@@ -249,7 +245,7 @@
       "url": "https://open.spotify.com/track/30oEeJE3bxNMODjscH9Scl"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
@@ -265,7 +261,7 @@
       "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH"
@@ -281,7 +277,7 @@
       "url": "https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
@@ -297,7 +293,7 @@
       "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Caligo Pt.1",
         "url": "https://open.spotify.com/album/6EgR5UlxMx9JksQUqR9Yep"
@@ -313,7 +309,7 @@
       "url": "https://open.spotify.com/track/2sDcIrosoXqiGv1D5OQUvF"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
@@ -329,7 +325,7 @@
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
@@ -345,7 +341,7 @@
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
@@ -361,7 +357,7 @@
       "url": "https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "EXchange4, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2I17RyVqyk6yJgj3SF4T0T"
@@ -377,23 +373,7 @@
       "url": "https://open.spotify.com/track/1VXv0ltyTJWcRltuEf5Qin"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "Bye, Summer",
-        "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Bye, Summer",
-      "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
@@ -409,7 +389,23 @@
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "Bye, Summer",
+        "url": "https://open.spotify.com/album/42SnKvNnvwpsJju6Uw4BWl"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Bye, Summer",
+      "url": "https://open.spotify.com/track/27x2IrIGwr56QWkqJ4cu9I"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Forever Has Always Been",
         "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
@@ -425,7 +421,7 @@
       "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "I\u2019ll Never Love Again",
         "url": "https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN"
@@ -441,7 +437,7 @@
       "url": "https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn"
@@ -457,7 +453,7 @@
       "url": "https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
@@ -473,87 +469,7 @@
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "Really Like You",
-        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
-      },
-      "artists": [
-        {
-          "name": "Gyubin",
-          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Really Like You",
-      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "Soar - The 2nd Album",
-        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "MOONRISE",
         "url": "https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb"
@@ -569,7 +485,87 @@
       "url": "https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "Really Like You",
+        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
+      },
+      "artists": [
+        {
+          "name": "Gyubin",
+          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Really Like You",
+      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "Soar - The 2nd Album",
+        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "\uc228\ubc14\uaf2d\uc9c8 (Hide and Seek)",
         "url": "https://open.spotify.com/album/0zWJsGW7LN6rg1PwsEHPWc"
@@ -585,7 +581,7 @@
       "url": "https://open.spotify.com/track/50KEW5h9sVUOVOvOB9ZABe"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
@@ -601,55 +597,7 @@
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "To Reach You",
-        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "To Reach You",
-      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
-      },
-      "artists": [
-        {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
-      "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
-    },
-    {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "The Book of Us : The Demon",
         "url": "https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ"
@@ -665,7 +613,39 @@
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "To Reach You",
+        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "To Reach You",
+      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/1ifwystmHNV1dbgLni1hNA"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/6kcXrU60QTkMRBRd3O0Rrq"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
@@ -681,7 +661,23 @@
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
+      "album": {
+        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
+        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
+    },
+    {
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO"
@@ -697,7 +693,7 @@
       "url": "https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -713,7 +709,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
@@ -729,7 +725,7 @@
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "AMNESIA",
         "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
@@ -745,23 +741,23 @@
       "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
-        "name": "ASTERUM : The Shape of Things to Come",
-        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
+        "name": "The DECADE",
+        "url": "https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 223026,
-      "name": "The 6th Summer",
-      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
+      "duration_ms": 180880,
+      "name": "INSIDE OUT",
+      "url": "https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
         "name": "ENTITY",
         "url": "https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E"
@@ -809,20 +805,20 @@
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
     },
     {
-      "added_at": "2025-12-15 06:15:01",
+      "added_at": "2025-12-16 09:25:39",
       "album": {
-        "name": "The DECADE",
-        "url": "https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv"
+        "name": "ASTERUM : The Shape of Things to Come",
+        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 180880,
-      "name": "INSIDE OUT",
-      "url": "https://open.spotify.com/track/29lXkyQjeQGU3auxcbtgV1"
+      "duration_ms": 223026,
+      "name": "The 6th Summer",
+      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

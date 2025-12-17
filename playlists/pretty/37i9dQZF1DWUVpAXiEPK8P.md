@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,128,945 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,128,730 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 23 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
 | 24 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 |
 | 25 | [Lose Yourself](https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Curtain Call: The Hits \(Deluxe Edition\)](https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ) | 5:26 |
-| 26 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
-| 27 | [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 |
+| 26 | [Baby \(Lil Baby feat\. DaBaby\)](https://open.spotify.com/track/5MPPttjfGap2C6j6eKcO6J) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:22 |
+| 27 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 |
 | 28 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 |
 | 29 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
 | 30 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |

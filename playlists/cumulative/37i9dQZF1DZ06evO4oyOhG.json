@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "\u30c4\u30a4\u30f3\u30ba",
+        "url": "https://open.spotify.com/album/6XM10Elj8DVFphy72Z8oAr"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb",
+      "url": "https://open.spotify.com/track/0NCm2n0WChA4NygMl3tkBR"
+    },
+    {
+      "album": {
         "name": "\u6226\u5834\u306e\u83ef",
         "url": "https://open.spotify.com/album/2PsXXWb3mnkVKluUxV1MEh"
       },
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 295653,
       "name": "\u80f8\u30ad\u30e5\u30f3\u30e9\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD"

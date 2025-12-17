@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,871 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,847 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [If You Love Me](https://open.spotify.com/track/52GgzMLY2W5VKqxO7nkQAN) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |
 | 50 | [Iko](https://open.spotify.com/track/4OEXz8a1uvD1oDH7E3TQo7) | [N.A.S.A.](https://open.spotify.com/artist/07WjVPM79OGQLOZ1jfUVk9), [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Iko](https://open.spotify.com/album/6AsMEkH3Q2mZnh5KYguzDC) | 3:31 |
 
-Snapshot ID: `aT3+AAAAAAAQKk1eIZKYFFw0SbIOdL1d`
+Snapshot ID: `aT9PgAAAAAAslQbk/YGfowG5DLgiTfxE`

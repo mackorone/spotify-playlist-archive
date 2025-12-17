@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Sant, L7NNON, Mc Marechal
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,675 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,707 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 67 | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/album/5ao8iMY0a0hONNq1EQwkSk) | 2:33 |
 | 68 | [MARATONA](https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [MARATONA](https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs) | 3:22 |
 | 69 | [Cheiro do Verde](https://open.spotify.com/track/66GOcKAq5WK1ELUuOxuQuU) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE) | [Cheiro do Verde](https://open.spotify.com/album/2nQ3P7HUmmzRlc6bsbQGJS) | 2:38 |
-| 70 | [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 |
+| 70 | [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 |
 | 71 | [OUTRA REALIDADE](https://open.spotify.com/track/28DVvFIEB1NAYcxKL65oMl) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cris SNJ](https://open.spotify.com/artist/69qkC8x2DGT4yjuwXNFQPf), [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Nega Gizza](https://open.spotify.com/artist/3oiQITN04AtBYNL1vRvAZy), [DJ Negrito](https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1) | [OUTRA REALIDADE](https://open.spotify.com/album/0HmLrWoCZvc4d2Cz0cB4Jq) | 4:24 |
 | 72 | [Profissão Perigo](https://open.spotify.com/track/5tF4hsgn1reet6Py7iNpW8) | [B.L.U.N.T](https://open.spotify.com/artist/2vRnpVd35vTr7ZfDvZYnZZ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Denielz Beats](https://open.spotify.com/artist/5qZzjADaukO5c8BNR2FzaV), [Dj Mouse](https://open.spotify.com/artist/4MLQptuXBHuqOfzWHc0OFH) | [Profissão Perigo](https://open.spotify.com/album/0GxR47M6rIC0utccApl5uR) | 4:47 |
 | 73 | [Música pra Mc's](https://open.spotify.com/track/7MNddRTvDuICSbFXn77BSU) | [Cassol](https://open.spotify.com/artist/0hg0SDpSJsbcMjsRoHdnsu), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Nativo](https://open.spotify.com/album/2FGqHsA9CM6A1mPnu53g0k) | 1:48 |

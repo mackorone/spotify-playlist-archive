@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: milet",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u4e8c\u968e\u5802\u548c\u7f8e Nikaido Kazumi",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -788,7 +788,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 290218,
       "name": "3%\u3068\u79c1\u3002",
       "url": "https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt"
@@ -3671,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "BAD Kigen ~ Diary freestyle",
+        "url": "https://open.spotify.com/album/0wIsboGNPwojHE7ZS9hN6x"
+      },
+      "artists": [
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138673,
+      "name": "BAD Kigen",
+      "url": "https://open.spotify.com/track/4zqGtYvWlsOfZaSiCWHNe8"
+    },
+    {
+      "album": {
         "name": "BAD\u30e2\u30fc\u30c9",
         "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
       },
@@ -4272,10 +4290,28 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 146293,
       "name": "BiBi \u3068 BuBu",
       "url": "https://open.spotify.com/track/6mjrKPxWZhzjoVL70yIQoW"
+    },
+    {
+      "album": {
+        "name": "BILLIE",
+        "url": "https://open.spotify.com/album/55JLbSgp21qzXwKlulo1Rc"
+      },
+      "artists": [
+        {
+          "name": "Kazumi Nikaido",
+          "url": "https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231237,
+      "name": "BILLIE",
+      "url": "https://open.spotify.com/track/1xWY4vdMMjXgiEsQSi8krp"
     },
     {
       "album": {
@@ -5338,7 +5374,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 169208,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
@@ -8570,7 +8606,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
@@ -10122,7 +10158,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 292876,
       "name": "Faded tree",
       "url": "https://open.spotify.com/track/08uWKym2ZH3wvIEGyogvxx"
@@ -10696,7 +10732,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 212062,
       "name": "Fix",
       "url": "https://open.spotify.com/track/1q3FcImsV2oy3hNtyVkH3d"
@@ -10938,7 +10974,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 261090,
       "name": "Fog",
       "url": "https://open.spotify.com/track/6018qdYN1hG3y0jPHy9a0v"
@@ -13180,7 +13216,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 199200,
       "name": "HAZY (Prod. A.G.O)",
       "url": "https://open.spotify.com/track/5nX1wS5nBjTpNhnh1JD7fE"
@@ -14980,7 +15016,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 223029,
       "name": "I may",
       "url": "https://open.spotify.com/track/4fhQg66S6O88LxIJhkUTcf"
@@ -15564,7 +15600,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 172399,
       "name": "IIYO",
       "url": "https://open.spotify.com/track/74mY9U7k5ayaOWgZzdi20Z"
@@ -18124,7 +18160,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 288952,
       "name": "La f\u00eate",
       "url": "https://open.spotify.com/track/27uc9Z9IXb63RKh8M9htOX"
@@ -18982,7 +19018,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 184114,
       "name": "Like Gravity",
       "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
@@ -21488,7 +21524,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 255582,
       "name": "Mine or Yours (Yaeji Remix)",
       "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
@@ -22634,7 +22670,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 225474,
       "name": "NAMAE",
       "url": "https://open.spotify.com/track/6Onyn20upVTyo6BVJVQXqX"
@@ -29173,6 +29209,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "REJAY",
+          "url": "https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218263,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/1x7mMdiOrQlq0pjiqty68O"
+    },
+    {
+      "album": {
         "name": "Shampoo (feat. Yu Hayami)",
         "url": "https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8"
       },
@@ -29232,6 +29286,24 @@
       "duration_ms": 249980,
       "name": "Shapes Of Happiness",
       "url": "https://open.spotify.com/track/6d6iKcKMl87NMHakoJfwyl"
+    },
+    {
+      "album": {
+        "name": "Share",
+        "url": "https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237746,
+      "name": "Share",
+      "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"
     },
     {
       "album": {
@@ -30256,7 +30328,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 197905,
       "name": "Snipe the Heart",
       "url": "https://open.spotify.com/track/3AkkSI6l7UWyiGxhxkiAjB"
@@ -30688,7 +30760,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 226591,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0PyM2uuaQ0S8iI4KpElhnX"
@@ -30876,7 +30948,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 177200,
       "name": "Sparkling Wine",
       "url": "https://open.spotify.com/track/4Zs8qpSHIKyHH0jzdj7MTX"
@@ -35406,7 +35478,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 208600,
       "name": "Unmelting Snow",
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
@@ -38616,7 +38688,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 200932,
       "name": "yummy goodday",
       "url": "https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O"
@@ -38652,7 +38724,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 220533,
       "name": "YUUREI",
       "url": "https://open.spotify.com/track/1oAN5mex2e0YWMwfNFagI0"
@@ -38710,6 +38782,24 @@
       "duration_ms": 168139,
       "name": "Zense wa Busho",
       "url": "https://open.spotify.com/track/62bKAd4SfXrLtIUcgwULxD"
+    },
+    {
+      "album": {
+        "name": "ZIDANDA",
+        "url": "https://open.spotify.com/album/4taqmQVuJcAGHs3FjGnOEO"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "ZIDANDA",
+      "url": "https://open.spotify.com/track/1WnO4TBMUXaWVmEvEnYYsE"
     },
     {
       "album": {
@@ -39278,7 +39368,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 235253,
       "name": "\u3042\u307e\u306e\u3058\u3083\u304f\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/7AFG8jESXpvCPo8BM8N9cT"
@@ -41470,7 +41560,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 285000,
       "name": "\u305d\u306e\u307e\u307e\u3067\u3044\u3044\u3088",
       "url": "https://open.spotify.com/track/5SDEBD85iBEEqAjIzeRtMD"
@@ -46068,7 +46158,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 222173,
       "name": "\u30b3\u30fc\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/0B0hgGapjks5x59vJBnUU8"
@@ -46494,7 +46584,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 200526,
       "name": "\u30b7\u30ed\u30ac\u30e9\u30b9",
       "url": "https://open.spotify.com/track/7HClY6Yqc1IaLmDxLg3bbp"
@@ -49964,7 +50054,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 164482,
       "name": "\u30e2\u30ce\u30af\u30ed\u30fc\u30e0\u30e9\u30d6 -Shade of us- (feat. \u8ca1\u6d25\u30de\u30a4)",
       "url": "https://open.spotify.com/track/5upCzvw5syyoDtbSoV8M3J"
@@ -50072,7 +50162,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 128033,
       "name": "\u30e6\u30ad\u304f\u3093\u3042\u306e\u306d",
       "url": "https://open.spotify.com/track/7b9rdb1k6GEAKRes474OaJ"
@@ -50156,7 +50246,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 155859,
       "name": "\u30e8\u30ed\u30e8\u30ed",
       "url": "https://open.spotify.com/track/5hymZMLQWDxDFQM4p1zOEW"
@@ -52526,7 +52616,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 195891,
       "name": "\u5149\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/419PzQnfr2Mod7zwdX7hvo"
@@ -53582,7 +53672,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 205373,
       "name": "\u541b\u304c\u60aa\u3044\u306e\u306b",
       "url": "https://open.spotify.com/track/1T1tmY6XgCn3tkbVY2GkI3"
@@ -55024,7 +55114,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 319920,
       "name": "\u5922\u306e\u5302\u3044",
       "url": "https://open.spotify.com/track/5izU9SsZ7xC649aIOl6kxv"
@@ -58505,6 +58595,24 @@
     },
     {
       "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/4prSarxQwQqDSNEUwxG8XE"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252692,
+      "name": "\u661f\u7d21\u304e",
+      "url": "https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm"
+    },
+    {
+      "album": {
         "name": "\u661f\u8857\u306e\u99c5\u3067 - At Hoshimachi Station",
         "url": "https://open.spotify.com/album/2QC5kpcOy0JltYCGqBlvTv"
       },
@@ -61226,7 +61334,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 232507,
       "name": "\u7279\u7b49\u5e2d",
       "url": "https://open.spotify.com/track/2q3NyVetNxDjSoHGlHCnZ5"
@@ -61460,7 +61568,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 340571,
       "name": "\u751f\u6d3b",
       "url": "https://open.spotify.com/track/04gug3ptajnGRaUxW2csAZ"
@@ -61662,7 +61770,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 165245,
       "name": "\u767e\u9762\u76f8",
       "url": "https://open.spotify.com/track/2yr0m1ru5oyu2shdvDGqe1"
@@ -61814,7 +61922,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 224737,
       "name": "\u771f\u5fc3\u30d6\u30fc\u30b1",
       "url": "https://open.spotify.com/track/6Wv2tKQRJ1kAPBPEZ74ToG"
@@ -63190,7 +63298,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 242258,
       "name": "\u80f8\u3050\u3089",
       "url": "https://open.spotify.com/track/52JzsyJmLHuW4h4FB133sg"
@@ -64222,7 +64330,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 178162,
       "name": "\u8cb4\u65b9\u89b3\u6e2c\u65e5\u548c",
       "url": "https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4"

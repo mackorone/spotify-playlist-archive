@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaThf8nMdW6.md) - [plain]
 
 > Relive Southeast Asia's most adored pop hits from the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,013 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,120 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaThf8nMdW6.md) - [plain]
 | 31 | [Fuck It \(I Don't Want You Back\)](https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [I Don't Want You Back](https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx) | 3:45 |
 | 32 | [F.U.R.B\. \(F U Right Back\)](https://open.spotify.com/track/35Y18Dv2pAiJ7v0Zou9gxI) | [Frankee](https://open.spotify.com/artist/01U4snBkRWq0FBrK3P1mwM) | [F.U.R.B\. \(F U Right Back\)](https://open.spotify.com/album/5NUujDoRxFotxe3cfjXVks) | 3:21 |
 | 33 | [Crazy In Love \(feat\. JAY\-Z\)](https://open.spotify.com/track/0TwBtDAWpkpM3srywFVOV5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 3:55 |
-| 34 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 34 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
 | 35 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
-| 36 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 36 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
 | 37 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
 | 38 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 39 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |

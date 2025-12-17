@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,091 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,108 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 21 | [Padithinammo](https://open.spotify.com/track/3fiN8y8c2EvwCNNvVAERbx) | [Vishwa](https://open.spotify.com/artist/7ozuTyhWJTW9vMrRYijNuR) | [Nenu Naa Raakshasi](https://open.spotify.com/album/2VkPKVHmwhmwJMK7Dl3F8i) | 4:27 |
 | 22 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 |
 | 23 | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/track/0tyHtkMv3PMWIUbK0ZqOHi) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Nandanandanaa \(From "The Family Star"\)](https://open.spotify.com/album/5qYCzmTt8Vnw9B0Ok95HtI) | 4:59 |
-| 24 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
-| 25 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
+| 24 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
+| 25 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 26 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:41 |
 | 27 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
 | 28 | [Vachindamma](https://open.spotify.com/track/6obKaXHU2avqfLZFPjGm4K) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 4:10 |

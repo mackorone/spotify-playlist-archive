@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,639 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,753 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,16 +88,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 78 | [Historia entre tus dedos](https://open.spotify.com/track/2c3c9NYwR9fEZG7EzMHONB) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 4:13 |
 | 79 | [Ayer Bajé De La Sierra](https://open.spotify.com/track/5mVCR3GfsTycFFiLils4s0) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:26 |
 | 80 | [El Niño De Oro](https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z) | [Los Cuen's De Sinaloa](https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2) | [Los Cuen's De Sinaloa](https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0) | 3:03 |
-| 81 | [Dos Seres Que Se Aman](https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Tres Suspiros](https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB) | 2:42 |
+| 81 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
 | 82 | [Tus Verdades](https://open.spotify.com/track/0R2UCKv5qB6H0ENzZqjH2e) | [Los Grandes Del Pardito](https://open.spotify.com/artist/2xAvH1L1bUERbPMBny3EYb) | [De La Sierra A La Playa](https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc) | 2:43 |
 | 83 | [A puro dolor](https://open.spotify.com/track/2ogZkQ1paxVHkOSwbEzmNv) | [Los Paisanos de Sinaloa](https://open.spotify.com/artist/4dxvCbHBu0SFagqc2kM1pZ) | [Como le hago](https://open.spotify.com/album/3Rw3Tq83OofomSXL3L5aZ9) | 3:14 |
-| 84 | [Siempre Te Amaré](https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:30 |
-| 85 | [Llorando Por Ti](https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY) | [Los Students](https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm) | [Para Siempre](https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR) | 3:18 |
+| 84 | [Dos Seres Que Se Aman](https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5) | [Los Dos De La Sierra](https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc) | [Tres Suspiros](https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB) | 2:42 |
+| 85 | [Siempre Te Amaré](https://open.spotify.com/track/2dgAOE1CW61s4pPfrQtgqT) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 2:30 |
 | 86 | [Corrido Del Chapo](https://open.spotify.com/track/7eklxTiqZNbzeGyNClZd9L) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [Ultimas Noticias](https://open.spotify.com/album/3Hl1IiF7mJuQ8GFxojPDaU) | 4:19 |
 | 87 | [De Corazon A Corazon](https://open.spotify.com/track/7fWPcPuDl9hlhcvU7M9UMA) | [Los Reyes De Sinaloa](https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ) | [De Corazon A Corazon](https://open.spotify.com/album/1b86qyLPoQTAluo8PpyAi0) | 3:33 |
 | 88 | [Nunca Mas Podre Olvidarte](https://open.spotify.com/track/0fpOLjg4snwR2CGMcqmUbx) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10 Anos De Exito \- 10TH Anniversary](https://open.spotify.com/album/7qO8xhrtO2OBOH6deh4EM6) | 2:43 |
-| 89 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
-| 90 | [Equivocacion \(En Vivo\)](https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB) | [Los Sierrenos De Sinaloa](https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF) | [En Vivo](https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog) | 3:22 |
+| 89 | [Equivocacion \(En Vivo\)](https://open.spotify.com/track/4SKz9HZareGTqMZqWO09QB) | [Los Sierrenos De Sinaloa](https://open.spotify.com/artist/4BmHA0UC7qRDgmIcSa6tEF) | [En Vivo](https://open.spotify.com/album/4lTCheLmGeDGsSEOtIHKog) | 3:22 |
+| 90 | [Encendido Clavel](https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Grandes Exitos con Tuba, Acordeón y Guitarra Vol\. 1](https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2) | 3:05 |
 | 91 | [Los 4 Grandes \- En Vivo](https://open.spotify.com/track/2O8ytiGfFkRzLD5CxgFS76) | [Los Alteños De La Sierra](https://open.spotify.com/artist/5C4JSfm4IJsyqrngMh1iPK) | [16 Éxitos \(En Vivo\)](https://open.spotify.com/album/0s82a3ioSduBeiOggJx2HA) | 3:35 |
 | 92 | [Medias Negras](https://open.spotify.com/track/4THPXBPEMxUpu2cqzqhJYP) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Aferrado](https://open.spotify.com/album/5cnO4MJMGDjRQ24TYmI6eH) | 2:49 |
 | 93 | [Reflejos del Viejo](https://open.spotify.com/track/4qAMJga3GyOCwOkj40J3j7) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma](https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap) | 3:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,683 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,689 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 33 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 |
 | 34 | [Completamente Enamorados \- Remastered 2021](https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:12 |
 | 35 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:25 |
-| 36 | [Quanto amore sei \(feat\. Giorgia\)](https://open.spotify.com/track/5kdRT85JLbgnvNJ9yqPrHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 4:16 |
-| 37 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
+| 36 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
+| 37 | [Quanto amore sei \(feat\. Giorgia\)](https://open.spotify.com/track/5kdRT85JLbgnvNJ9yqPrHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 4:16 |
 | 38 | [Un Angel No Es](https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre](https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk) | 4:38 |
 | 39 | [La Media Vuelta](https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [México & Amigos](https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo) | 3:18 |
 | 40 | [Por Las Calles Las Canciones \(feat\. Luis Fonsi\)](https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hay Vida](https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC) | 3:30 |
-| 41 | [Domani](https://open.spotify.com/track/25CrsWeYFHP53kf4jwJwIg) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:00 |
-| 42 | [A Medio Camino \- Remastered 2021](https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 5:47 |
+| 41 | [A Medio Camino \- Remastered 2021](https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 5:47 |
+| 42 | [Domani](https://open.spotify.com/track/25CrsWeYFHP53kf4jwJwIg) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:00 |
 | 43 | [Solo junto a ti](https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:43 |
 | 44 | [Solo un volo](https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Un pugno di stelle](https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo) | 4:05 |
-| 45 | [Festa](https://open.spotify.com/track/3hsvT6r5VxXbsLf5wwJdpK) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:25 |
-| 46 | [Fábula \- Remastered 2021](https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 4:37 |
+| 45 | [Fábula \- Remastered 2021](https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(2021 Remastered Version\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 4:37 |
+| 46 | [Festa](https://open.spotify.com/track/3hsvT6r5VxXbsLf5wwJdpK) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:25 |
 | 47 | [Estúpidas palabras románticas](https://open.spotify.com/track/70ilmzIKuBgB4Xb8hP1YUZ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:40 |
 | 48 | [Una Historia Importante \- Remastered 2021](https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:13 |
-| 49 | [Stupide parole romantiche](https://open.spotify.com/track/00lDauTYLXqrhcNPzm0eLx) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:40 |
-| 50 | [Stella gemella](https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove C'è Musica](https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok) | 4:41 |
+| 49 | [Stella gemella](https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove C'è Musica](https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok) | 4:41 |
+| 50 | [Stupide parole romantiche](https://open.spotify.com/track/00lDauTYLXqrhcNPzm0eLx) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:40 |
 
-Snapshot ID: `aT3+AAAAAAALtdDZ3B3Z0ttWqRBOsacv`
+Snapshot ID: `aT9PgAAAAABnQHO0gEnl8qwVoI410jKK`

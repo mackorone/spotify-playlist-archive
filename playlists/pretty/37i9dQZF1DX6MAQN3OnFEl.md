@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 
 > On October 3rd he asked me what day it was
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,100 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,291 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MAQN3OnFEl.md) - [plain]
 | 67 | [Love Don't Cost a Thing](https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 3:41 |
 | 68 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
 | 69 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
-| 70 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
-| 71 | [Survivor](https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294) | 4:14 |
+| 70 | [Survivor](https://open.spotify.com/track/7qtAgn9mwxygsPOsUDVRRt) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/0IVseR3zfrrInlKJQNh294) | 4:14 |
+| 71 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 72 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 |
 | 73 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
 | 74 | [Heartbreaker \(feat\. JAY\-Z\)](https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:45 |

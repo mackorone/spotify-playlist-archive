@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,410 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,421 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 36 | [Angel Night （天使のいる場所）](https://open.spotify.com/track/0ptGT3l9KtWn9ZObisgdB8) | [PSY・S［saiz］](https://open.spotify.com/artist/3zntsh5zPf73xyMnRi91jv) | [劇場版シティーハンター <新宿プライベート・アイズ> \-VOCAL COLLECTION\-](https://open.spotify.com/album/7wUFFg8P5ctTc13EOKCBdy) | 4:28 |
 | 37 | [ぼくドラえもん](https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL) | [大山のぶ代 \(ドラえもん\)](https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj), [こおろぎ'73](https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw) | [テレビアニメ放送40周年記念ドラえもん うたのコレクション](https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx) | 2:17 |
 | 38 | [マジンガーZ \(マジンガーZ\)](https://open.spotify.com/track/3pHRdgmp5uDRJG9kiWebkY) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [Golden Rules](https://open.spotify.com/album/2AljwS5uItEnGlltqBA7m7) | 1:52 |
-| 39 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
-| 40 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
+| 39 | [NIGHT OF SUMMER SIDE](https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH) | [Masanori Ikeda](https://open.spotify.com/artist/2sstBJJ14RDUQ8mg7lUb7F) | [ＱＵＡＲＴＥＲＢＡＣＫ](https://open.spotify.com/album/51V2pnYQn0xrUmqJ6Cm2qP) | 4:05 |
+| 40 | [風の谷のナウシカ\(風の谷のナウシカ\)](https://open.spotify.com/track/2bkOPXOAb0zi6LNt0s72cZ) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs) | [スタジオジブリの歌 －増補盤－](https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5) | 4:07 |
 | 41 | [ゴーゴーヘブン](https://open.spotify.com/track/2PKirbdnc1XrAo3zDETpUP) | [Yoshiyuki Osawa](https://open.spotify.com/artist/6q2ER3oBZtM5EvmDoUz8ek) | [The LEGEND](https://open.spotify.com/album/1FYghKHKG1FGS6Mco7D0LL) | 3:59 |
 | 42 | [ダンバイン とぶ](https://open.spotify.com/track/6Pq75f0vDP0MFY3E4Lp9sx) | [MIO](https://open.spotify.com/artist/7xS1kMp7pTwOKAB5jRCFRh) | [聖戦士ダンバイン オリジナル・サウンドトラック 総音楽集](https://open.spotify.com/album/3toe4GbpIL80W5j2KriGSZ) | 4:16 |
 | 43 | [サザエさん一家](https://open.spotify.com/track/1TgBRjzoQDtyzeVc08FFyI) | [宇野ゆう子](https://open.spotify.com/artist/3vztmeg6tDx8dJohekt4l4) | [サザエさん](https://open.spotify.com/album/0OYfnYKIrEjcvHEPkfSK7n) | 3:28 |

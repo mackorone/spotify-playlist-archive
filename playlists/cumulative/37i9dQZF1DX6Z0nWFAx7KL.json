@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 140400,
       "name": "Sona",
       "url": "https://open.spotify.com/track/5RiBDqZLOcqsvrmlhfGUzv"
@@ -7146,6 +7146,24 @@
       "duration_ms": 162782,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/5aThtYY9UgRrOlto7TlPts"
+    },
+    {
+      "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb"
+      },
+      "artists": [
+        {
+          "name": "Jochem Hamerling",
+          "url": "https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo"
     },
     {
       "album": {

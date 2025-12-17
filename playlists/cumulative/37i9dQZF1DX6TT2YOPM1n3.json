@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to the greatest Pakistani hits \ud83c\udfb6 Cover: Asim Azhar",
+  "description": "Apne mulk ki homegrown hits  \ud83c\udfb6 Cover: AUR",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 343118,
       "name": "Afsanay",
       "url": "https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq"
@@ -1214,6 +1214,24 @@
       "duration_ms": 131641,
       "name": "Darkest Hour - Asim Azhar Version",
       "url": "https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN"
+    },
+    {
+      "album": {
+        "name": "Billo On G.T. Road",
+        "url": "https://open.spotify.com/album/6pAR2w3jVVcpTzzlQzQhRn"
+      },
+      "artists": [
+        {
+          "name": "Abrar Ul Haq",
+          "url": "https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339666,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3UWgZiXCzeySxslhNaXVW1"
     },
     {
       "album": {
@@ -4287,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Purani Jeans",
+        "url": "https://open.spotify.com/album/5dEXK1ATO4a9JQLmw8MvyU"
+      },
+      "artists": [
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243456,
+      "name": "Purani Jeans",
+      "url": "https://open.spotify.com/track/7IIfhhUGDEmSCJeTVCnyNE"
+    },
+    {
+      "album": {
         "name": "Raabta",
         "url": "https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846"
       },
@@ -5512,6 +5548,24 @@
       "duration_ms": 175714,
       "name": "wafa",
       "url": "https://open.spotify.com/track/6e67YKatjuUkPlpey45vVU"
+    },
+    {
+      "album": {
+        "name": "Dastaan",
+        "url": "https://open.spotify.com/album/7JNV0AljF5lFqAegsQoT1N"
+      },
+      "artists": [
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284969,
+      "name": "Walawai",
+      "url": "https://open.spotify.com/track/2hdbLojNwJFkj76vT580Cn"
     },
     {
       "album": {

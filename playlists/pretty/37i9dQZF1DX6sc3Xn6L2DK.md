@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 
 > Boots on the ground, head in the stars
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,228 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,236 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 24 | [Cowboy Dreams \(feat\. Cat Clyde\)](https://open.spotify.com/track/26hA16YOoGwHsBd7NeX2Iu) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Cowboy Dreams \(feat\. Cat Clyde\)](https://open.spotify.com/album/2pKdvcwUbe6dojapgCgw2f) | 3:22 |
 | 25 | [L.A\. Freeway](https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Old No\. 1](https://open.spotify.com/album/0tBjzfZrOEXzj1wcM5HphZ) | 4:56 |
 | 26 | [Let's Move To The Country](https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 3:05 |
-| 27 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 |
-| 28 | [Fire Season](https://open.spotify.com/track/5RWY48Ig7b3wTGqQxcb9vb) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Fire Season](https://open.spotify.com/album/42nv5MwhTWAkvmHI2AHK8a) | 3:53 |
-| 29 | [Torched](https://open.spotify.com/track/1ja3rKFMDc3rap09fXXYNF) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Torched](https://open.spotify.com/album/40YUvluZSJnCtdQoAxSF0N) | 3:02 |
+| 27 | [Torched](https://open.spotify.com/track/1ja3rKFMDc3rap09fXXYNF) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Torched](https://open.spotify.com/album/40YUvluZSJnCtdQoAxSF0N) | 3:02 |
+| 28 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 |
+| 29 | [Fire Season](https://open.spotify.com/track/5RWY48Ig7b3wTGqQxcb9vb) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Fire Season](https://open.spotify.com/album/42nv5MwhTWAkvmHI2AHK8a) | 3:53 |
 | 30 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 |
 | 31 | [Keeper](https://open.spotify.com/track/4ZlqlfrQ3oGKTLY0NlxwfV) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Keeper](https://open.spotify.com/album/0bMsqAoO1cz6ZA2BbAeZlx) | 3:12 |
 | 32 | [Gone](https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8) | [Rambler Kane](https://open.spotify.com/artist/7k8nztcDZOpEF7BO327JCg) | [Gone](https://open.spotify.com/album/6XfYaqvXP5729clabOlMNG) | 3:32 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 39 | [Murmur of Yearning](https://open.spotify.com/track/2JaOVb7WJCcpAe1JRRLTl3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Murmur of Yearning](https://open.spotify.com/album/6VveikqNVl4KGt9UEKTa8L) | 3:50 |
 | 40 | [No Glory in the West](https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [No Glory in the West](https://open.spotify.com/album/24omX21r87XGrfXHSuwEjL) | 4:13 |
 | 41 | [13 Lakes](https://open.spotify.com/track/782wmOBwOEMzGaDxPpollT) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [13 Lakes](https://open.spotify.com/album/0M4ClN7TShkiIqusklnOq2) | 3:17 |
-| 42 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
-| 43 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
+| 42 | [Hearts on Fire \- 2002 Remaster](https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:52 |
+| 43 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 44 | [Green Rocky Road](https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Green Rocky Road](https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8) | 3:21 |
 | 45 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 |
 | 46 | [Thunderbird](https://open.spotify.com/track/36gUdwmMhZXcwOSaUkTPty) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:28 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 59 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 | 60 | [Love Can Find You Anywhere](https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Love Can Find You Anywhere](https://open.spotify.com/album/2nDKXMbt6lOU460Yi30M24) | 3:39 |
 | 61 | [The Wolf](https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg) | [Gill Landry](https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh) | [Skeleton at the Banquet](https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV) | 4:54 |
-| 62 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
-| 63 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 |
+| 62 | [Civilized Hell](https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:50 |
+| 63 | [Are You Listening?](https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Are You Listening?](https://open.spotify.com/album/5ampvyxkZxEpNRy9dE322O) | 3:18 |
 | 64 | [Make My Mind Up](https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:31 |
 | 65 | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X) | [Jeremy Fetzer](https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r) | [Mendocino \(feat\. Duane Eddy\)](https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX) | 3:58 |
 | 66 | [Breakfast](https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY) | [Darrin Bradbury](https://open.spotify.com/artist/7azO8ieqy1sOm6LkfHtH9w) | [Talking Dogs & Atom Bombs](https://open.spotify.com/album/3UTuOx53762H0mBIfB49Ma) | 3:06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Doja Cat. The essential tracks, all in one playlist.",
-  "num_followers": 1087467,
+  "num_followers": 1087531,
   "original_name": "This Is Doja Cat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACoKASK9CwKLsguCQC8J0nC",
+  "snapshot_id": "aT9PgAAAAAAJAZgQZOS7noNycHzRl0a5",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237894,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 219004,
       "name": "Wine Pon You (feat. Konshens)",
       "url": "https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 193786,
-      "name": "AAAHH MEN!",
-      "url": "https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD"
+      "duration_ms": 201173,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
     },
     {
       "added_at": null,
@@ -419,42 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 163167,
-      "name": "Like That (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -475,6 +439,42 @@
       "duration_ms": 230646,
       "name": "Go Girl (with Latto & Doja Cat)",
       "url": "https://open.spotify.com/track/7eCAw2VS0UhbsiSItwWdvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "AAAHH MEN!",
+      "url": "https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 163167,
+      "name": "Like That (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
     },
     {
       "added_at": null,

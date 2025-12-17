@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,061 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,127 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 41 | [Hear Me Now \- Ao Vivo](https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Sex on the Beach \(Ao Vivo\)](https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5) | 3:12 |
 | 42 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 |
 | 43 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
-| 44 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
-| 45 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Pra Dizer Adeus \(Ao Vivo\)](https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx) | 4:13 |
+| 44 | [Pra Dizer Adeus \- Ao Vivo](https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Pra Dizer Adeus \(Ao Vivo\)](https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx) | 4:13 |
+| 45 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 |
 | 46 | [Imprevisível \(Acústico\)](https://open.spotify.com/track/0zo8ZIMMDWQNOmUNS3BIXl) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Imprevisível \(Acústico\)](https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf) | 3:08 |
 | 47 | [With Or Without You \- Songs Of Surrender](https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [With Or Without You \(Songs Of Surrender\)](https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0) | 3:14 |
 | 48 | [O Teatro dos Vampiros](https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Moska Apresenta Zoombido: Dado Villa\-Lobos](https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp) | 3:47 |

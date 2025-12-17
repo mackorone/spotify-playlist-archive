@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 263602,
+  "num_followers": 263630,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAApdEQ4BDZalfyt/AIBvp+g",
+  "snapshot_id": "aT9PgAAAAAA62CUHGi6ZWTyRgrqDKZH+",
   "tracks": [
     {
       "added_at": null,
@@ -339,30 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "The London (feat. J. Cole & Travis Scott)",
-      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "City Girls",
-      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 181626,
       "name": "WE NEED ALL DA VIBES (with Young Thug & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your bias K\-Pop boy group? \(Cover: 시우민 \(XIUMIN\), 이재진 \(FT아일랜드\), 산들, 하성운\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,106 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,118 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 11 | [Soda Pop](https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 2:30 |
 | 12 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 13 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 |
-| 14 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
-| 15 | [CHILLER](https://open.spotify.com/track/0PNOA20FfXz8c1KVaon1ei) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:04 |
+| 14 | [CHILLER](https://open.spotify.com/track/0PNOA20FfXz8c1KVaon1ei) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:04 |
+| 15 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 16 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 |
 | 17 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
 | 18 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 43 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 |
 | 44 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
 | 45 | [Crazy Form](https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.FIN : WILL](https://open.spotify.com/album/1r0F1EzzNOaJyB7U0Jp5RH) | 3:18 |
-| 46 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 |
+| 46 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 47 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 | 48 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 |
 | 49 | [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,632,796 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,632,819 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 49 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
 | 50 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 |
 
-Snapshot ID: `aT3+AAAAAAALYsb0TtCko3DQVuZss0ZQ`
+Snapshot ID: `aT9PgAAAAACPeD/PlkkfeMk8CKERrwf3`

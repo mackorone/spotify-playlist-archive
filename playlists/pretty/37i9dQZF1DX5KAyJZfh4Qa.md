@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,750 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,796 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 55 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 56 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
 | 57 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
-| 58 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
-| 59 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 58 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 59 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 60 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
 | 61 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 62 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |

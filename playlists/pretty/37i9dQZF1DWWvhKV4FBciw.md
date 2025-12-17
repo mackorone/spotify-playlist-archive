@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863,645 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863,739 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 35 | [Rock Your Baby](https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm) | [George McCrae](https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN) | [The Singles 1974 \- 76](https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY) | 3:20 |
 | 36 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
 | 37 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
-| 38 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
-| 39 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
+| 38 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
+| 39 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 40 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
 | 41 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 42 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 54 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 55 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 56 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
-| 57 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
-| 58 | [My Destiny](https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:48 |
+| 57 | [My Destiny](https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:48 |
+| 58 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 | 59 | [Soup for One](https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 5:35 |
 | 60 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
 | 61 | [Proud Mary](https://open.spotify.com/track/4ppxp8rJB8eOhM9TFm6dK2) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Workin' Together](https://open.spotify.com/album/5BFTZqoJ1aCn80FKB0GkXL) | 4:57 |

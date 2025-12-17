@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,646 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,661 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 30 | [El Bolas](https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:51 |
 | 31 | [El Meño](https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:34 |
 | 32 | [El Pato Nada](https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Jando Cartagena](https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW) | [El Pato Nada](https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt) | 2:44 |
-| 33 | [Borracho](https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Borracho](https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU) | 2:57 |
-| 34 | [Corazón Ranchero \(En Vivo\)](https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:41 |
-| 35 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
+| 33 | [Corazón Ranchero \(En Vivo\)](https://open.spotify.com/track/1XFdyarYxFTBtSmB8MpILF) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:41 |
+| 34 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
+| 35 | [Borracho](https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Borracho](https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU) | 2:57 |
 | 36 | [Los Mitotes](https://open.spotify.com/track/0MEHgDJShhpGFQ5DRWEge0) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 3:28 |
 | 37 | [El Amor No Es Para Todos](https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Amor No Es Para Todos](https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES) | 2:22 |
 | 38 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 49 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 |
 | 50 | [La De Rogar](https://open.spotify.com/track/3taWawONNXhJ32XJknMNQB) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:35 |
 
-Snapshot ID: `aT3+AAAAAABnXBumqFsq3Pz4rc+pU2kz`
+Snapshot ID: `aT9PgAAAAABMkPHS7mqMBoOKDYzsQQcV`

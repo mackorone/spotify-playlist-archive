@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,273 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,301 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 4 | [Vielleicht Vielleicht](https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:27 |
 | 5 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
 | 6 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 |
-| 7 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
-| 8 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 7 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
+| 8 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
 | 9 | [Lieblingsmensch](https://open.spotify.com/track/6oHDvarQSp0mf5AD1SyNH0) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz) | [Nador](https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0) | 3:10 |
 | 10 | [Was du Liebe nennst](https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Powerbausa](https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa) | 3:23 |
 | 11 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 17 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
 | 18 | [Jeden Tag mehr](https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [LIEBE IN GEFAHR](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 2:44 |
 | 19 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
-| 20 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
-| 21 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
+| 20 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
+| 21 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
 | 22 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 23 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 |
 | 24 | [Zu dir](https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Zwischen meinen Zeilen \(Deluxe\)](https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd) | 3:03 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 43 | [Morgen](https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Morgen](https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv) | 2:15 |
 | 44 | [Demo \(Letzter Tag\)](https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 3:29 |
 | 45 | [Weißes Kleid](https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Weißes Kleid](https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ) | 2:27 |
-| 46 | [Ultraleicht](https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY) | [Andreas Bourani](https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj) | [Hey](https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l) | 4:25 |
-| 47 | [Nur kurz glücklich](https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe) | [Nur kurz glücklich](https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4) | 2:58 |
+| 46 | [Nur kurz glücklich](https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Max Giesinger](https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe) | [Nur kurz glücklich](https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4) | 2:58 |
+| 47 | [Ultraleicht](https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY) | [Andreas Bourani](https://open.spotify.com/artist/6quRLJ5SiWHgcVMoE9TEJj) | [Hey](https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l) | 4:25 |
 | 48 | [Regen und Meer](https://open.spotify.com/track/6fIGXxeU3C230sAm07WJxY) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Es ist Juli](https://open.spotify.com/album/4TSdsloInMbjQjj1Zf5KOD) | 3:35 |
 | 49 | [Der Weg](https://open.spotify.com/track/7AKqM1fV3UuVDvmfPlGqiU) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg) | [Was Muss Muss \- Best Of](https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM) | 4:19 |
 | 50 | [Für Immer](https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Für Immer](https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf) | 2:08 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 59 | [Sommer](https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq) | [Beatzarre & Djorkaeff](https://open.spotify.com/artist/3j0p8s4ghZuEazM5zyiHsD), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Sommer](https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW) | 3:00 |
 | 60 | [Verliebt](https://open.spotify.com/track/40Coe8lqUkFfDjWWrjx9X6) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Aversion](https://open.spotify.com/album/47nHL2h2ttmF1rOcF75Lm4) | 4:02 |
 
-Snapshot ID: `AAAAADJRkHtIJwCosT0WNhNQ0YCMK6+w`
+Snapshot ID: `AAAAAIRhmypCKR9jfiL4MYT/BfhtE7oD`

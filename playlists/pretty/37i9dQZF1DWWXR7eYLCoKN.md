@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,579 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,601 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 37 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
 | 38 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 39 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
-| 40 | [Qualquer Lugar](https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:58 |
-| 41 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
+| 40 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
+| 41 | [Qualquer Lugar](https://open.spotify.com/track/0irFB9G2EDfiQQgNTpP1AG) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt) | [Passageiro do Bem \- LADO B](https://open.spotify.com/album/2gGACyI1Wo2zUWdFLZfBRJ) | 3:58 |
 | 42 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 43 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
 | 44 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 66 | [Amor Segredo](https://open.spotify.com/track/28FOKdMnKbvcR5J6LGSOhp) | [Nilze Carvalho](https://open.spotify.com/artist/2bKdKvWKErRrUpSrLsDjyH) | [Amor Segredo](https://open.spotify.com/album/22VSxm6dbigc3jK1EimMJh) | 4:18 |
 | 67 | [E o Mundo Não Se Acabou](https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ) | [Mimi Wankenne](https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds) | [E o Mundo Não Se Acabou](https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A) | 2:04 |
 | 68 | [Macieira](https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Macieira](https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ) | 3:23 |
-| 69 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 |
-| 70 | [Pagode da Dandá](https://open.spotify.com/track/3pPsoMcmUHCDApoqyIgfYp) | [Dandá Costa](https://open.spotify.com/artist/7CjGOEIFoeID5Jz2j6fi0a), [Pagode da Dandá](https://open.spotify.com/artist/1t7QHcFkYl3nhY9xVf0MGJ) | [Pagode da Dandá](https://open.spotify.com/album/5Bq1aOjaQ7hp1wTMIWtvmj) | 3:39 |
+| 69 | [Pagode da Dandá](https://open.spotify.com/track/3pPsoMcmUHCDApoqyIgfYp) | [Dandá Costa](https://open.spotify.com/artist/7CjGOEIFoeID5Jz2j6fi0a), [Pagode da Dandá](https://open.spotify.com/artist/1t7QHcFkYl3nhY9xVf0MGJ) | [Pagode da Dandá](https://open.spotify.com/album/5Bq1aOjaQ7hp1wTMIWtvmj) | 3:39 |
+| 70 | [Alegria / o Sol Nascerá](https://open.spotify.com/track/0lI75kXFjBF9FCL7PGWTji) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambas & Bossas](https://open.spotify.com/album/3BmqqPiJw5xmmQBdpr8Q3S) | 4:09 |
 | 71 | [Faz Parte Do Meu Show](https://open.spotify.com/track/4cCwzNl97fBtpTCISj49AA) | [Gina Garcia](https://open.spotify.com/artist/0fAZVlEXJBxtUOx84fw7gj), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Faz Parte Do Meu Show](https://open.spotify.com/album/2fxjbevDgbE6a4QIg4slI3) | 2:41 |
 | 72 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 |
 | 73 | [Gema \- 342 Amazônia ao Vivo no Circo Voador](https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D) | 2:25 |

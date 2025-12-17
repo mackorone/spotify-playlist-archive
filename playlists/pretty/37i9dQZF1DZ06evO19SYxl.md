@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,829 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,830 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 30 | [Blues del Borracho](https://open.spotify.com/track/09Laz5xAi1PJYIMhXima4r) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/7LqMN0wuOj2BD6wfFjuAIN) | 3:08 |
 | 31 | [Ya Te Rogue](https://open.spotify.com/track/3lBWJL1zvWsmLml9uiBjmp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:14 |
 | 32 | [Asesinos del Rock](https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:21 |
-| 33 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
-| 34 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
+| 33 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 |
+| 34 | [Dinero \- En Vivo](https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 4:24 |
 | 35 | [Pancho Panchito](https://open.spotify.com/track/6C6d8o2Hh5wxaYPr76bhMC) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/5BuYyEm2Snig5UeVJZpX0H) | 3:19 |
 | 36 | [Déjame](https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 5:42 |
 | 37 | [4to y 5to Paso](https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 |
 | 50 | [San Francisco](https://open.spotify.com/track/0ZS7t81n7h6VByNbogOOIB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Mágico](https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4) | 1:46 |
 
-Snapshot ID: `aT3+AAAAAABAQ6cIBX5TKVp2PK696woD`
+Snapshot ID: `aT9PgAAAAABv3aZcca3DMmrgY2X6sHbn`

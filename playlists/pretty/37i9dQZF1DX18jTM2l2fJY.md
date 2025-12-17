@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jTM2l2fJY.md) - [plain]
 
 > The most streamed songs of 2025\. Cover: Lady Gaga & Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,453 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,693 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jTM2l2fJY.md) - [plain]
 | 49 | [blue](https://open.spotify.com/track/6W614n8yLUeS3zsZSeBwyq) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:34 |
 | 50 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 
-Snapshot ID: `AAAAABTGyHohsnWhX5s6wA05eG+MLOIW`
+Snapshot ID: `AAAAAGUvLVYahXn52vihRujZlEvf6PSm`

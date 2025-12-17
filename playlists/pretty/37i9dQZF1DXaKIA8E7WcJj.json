@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3191784,
+  "num_followers": 3191791,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 168756,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Heartbreaker - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "The Birds, The Bees, & The Monkees",
         "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Heartbreaker - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1071,22 +1087,6 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Parsley, Sage, Rosemary And Thyme",
-        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 152895,
-      "name": "Homeward Bound",
-      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 152895,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Shut Down, Vol. 2 (Remastered)",
         "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 169933,
       "name": "Don't Worry Baby - Remastered 2001",
       "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Exciting Wilson Pickett",
-        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 146973,
-      "name": "Land of 1000 Dances",
-      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 149160,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Exciting Wilson Pickett",
+        "url": "https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 146973,
+      "name": "Land of 1000 Dances",
+      "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 186200,
       "name": "Wichita Lineman - Remastered 2001",
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Pet Sounds (Original Mono & Stereo Mix)",
         "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 173040,
       "name": "God Only Knows - Mono",
       "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Black Magic Woman",
-      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "Black Magic Woman",
+      "url": "https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Astral Weeks",
-        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 265546,
-      "name": "Sweet Thing - 1999 Remaster",
-      "url": "https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Astral Weeks",
+        "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 265546,
+      "name": "Sweet Thing - 1999 Remaster",
+      "url": "https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 207240,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/44pN9jfSqY3d3lrKuv3QeN"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Moon River And Other Great Movie Themes",
         "url": "https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 162893,
       "name": "Moon River (From \"Breakfast at Tiffany's\")",
       "url": "https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 168455,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Wheatfield Soul",
         "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 226605,
       "name": "These Eyes",
       "url": "https://open.spotify.com/track/5lEyMg4GNKnMbaarvT4sRd"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Crying",
+        "url": "https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 168455,
+      "name": "Crying",
+      "url": "https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9"
     },
     {
       "added_at": "2025-03-02 04:45:52",

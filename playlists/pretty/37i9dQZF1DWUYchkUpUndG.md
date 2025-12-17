@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,014 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,041 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

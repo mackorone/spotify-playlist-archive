@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 3,769 songs - 8 day 7 hr 49 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 3,770 songs - 8 day 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3777,5 +3777,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3767 | [Looking for a Home](https://open.spotify.com/track/3kkgfzAg1Mgmo8VD2E1GdM) | [Raging Depths](https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX) | [Looking for a Home](https://open.spotify.com/album/4u4dXS2eniKX6Djd5dAvgW) | 3:47 |
 | 3768 | [A la playa](https://open.spotify.com/track/3QcNBAgOxBvbfLgspDcMTx) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [A la playa](https://open.spotify.com/album/6POR0VEkDQJ9klsVbVm4dJ) | 3:01 |
 | 3769 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 |
+| 3770 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 |
 
-Snapshot ID: `AAAGQs87PnX90vOWdX0EjgkKi6X95bpb`
+Snapshot ID: `AAAGQyVRsO13Nx+wdzy5hvwZit92iZLf`

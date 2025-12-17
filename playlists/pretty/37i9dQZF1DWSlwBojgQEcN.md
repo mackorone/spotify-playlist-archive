@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,506 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,296 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 34 | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Party of One \(feat\. Sam Smith\)](https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47) | 4:19 |
 | 35 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 36 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 |
-| 37 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 38 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
+| 37 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 |
+| 38 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
 | 39 | [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 |
 | 40 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
 | 41 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 51 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 52 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
 | 53 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 |
-| 54 | [White Fawn](https://open.spotify.com/track/5fvLVlM1doZORDxGVBZlkD) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:06 |
-| 55 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
+| 54 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
+| 55 | [White Fawn](https://open.spotify.com/track/5fvLVlM1doZORDxGVBZlkD) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:06 |
 | 56 | [Hearts](https://open.spotify.com/track/5E8MFkrcyd9w621kmLhDFO) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 4:52 |
 | 57 | [So Are You To Me](https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS) | [Eastmountainsouth](https://open.spotify.com/artist/4H7QVpyCHkaUeEOpCPzZQk) | [Eastmountainsouth](https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp) | 1:57 |
 | 58 | [Don't Get Too Close](https://open.spotify.com/track/7j2HvuXMC7lcU5DpNfDPhG) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Falling Faster Than You Can Run](https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa) | 4:10 |

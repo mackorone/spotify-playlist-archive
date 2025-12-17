@@ -4,7 +4,7 @@
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-98 songs - 6 hr 35 min
+99 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,10 +55,11 @@
 | [In From the Storm \- Live In Maui, 1970](https://open.spotify.com/track/4T63pVTfnB0yqYCxBeNes0) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live In Maui](https://open.spotify.com/album/0LfCx4srto1jxBVvW4uqJy) | 4:25 | 2022-11-04 | 2023-12-14 |
 | [Introduction \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/0bHFzlbjS7LHT1tV2fn6nJ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967](https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP) | 0:58 | 2023-12-13 | 2024-11-07 |
 | [Introduction \- Live at the Los Angeles Forum, Inglewood, CA \- April 26, 1969](https://open.spotify.com/track/2K8x0Nf3AnhDjx9899Bl4Y) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Los Angeles Forum \- April 26, 1969 \(Live\)](https://open.spotify.com/album/2UjqG36E2iVJ14XiJXL7jT) | 2:27 | 2022-11-24 | 2023-12-14 |
+| [Izabella](https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:44 | 2025-12-17 |  |
 | [Izabella \- Live at the Fillmore East, NY \- 12/31/69 \- 1st Set](https://open.spotify.com/track/4qCjs9O9rjhe8YIQgiIswu) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Songs For Groovy Children: The Fillmore East Concerts](https://open.spotify.com/album/1kCKuBSxO5w8MPN31pP9K9) | 3:28 | 2022-11-04 | 2023-12-14 |
 | [Johnny B\. Goode \- Live Berkeley Community Center, Berkeley, CA May 30, 1970](https://open.spotify.com/track/2Evi89iMO3vQMsGPMuSwhx) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Hendrix In The West](https://open.spotify.com/album/0C9zGX5oAjQ87jkSlzXOz1) | 4:43 | 2022-11-04 | 2022-12-01 |
 | [Jungle](https://open.spotify.com/track/4f5nUYzeUioPwNbz2mGx5S) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:28 | 2022-11-04 |  |
-| [Killing Floor \- Live At Monterey](https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 3:14 | 2022-11-04 |  |
+| [Killing Floor \- Live At Monterey](https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 3:14 | 2022-11-04 | 2025-12-17 |
 | [Killing Floor \- Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967](https://open.spotify.com/track/7JAjSAKtzRgfiYnnOyAaWH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Killing Floor \(Live at The Hollywood Bowl, Hollywood, CA \- August 18, 1967\)](https://open.spotify.com/album/2WI9lpUoCz2iXHWfrv2O2q) | 3:43 | 2023-09-21 | 2024-01-28 |
 | [Like A Rolling Stone \- Live At Monterey](https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 7:06 | 2022-11-04 |  |
 | [Little Miss Lover](https://open.spotify.com/track/4pvY1WQBeAgPGMnWglrWY4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 2:21 | 2023-04-02 | 2023-04-04 |

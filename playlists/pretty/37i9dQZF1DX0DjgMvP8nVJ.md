@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,024 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,069 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 38 | [Love Is Wicked](https://open.spotify.com/track/5kEfk2sb4xoEvk2zWbTGpt) | [Brick & Lace](https://open.spotify.com/artist/42zM1Af1Wgt8ftcda1sJxW) | [Love Is Wicked](https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x) | 3:42 |
 | 39 | [Happy Face](https://open.spotify.com/track/3YYTCTlM2K3GoRz3X3d4ES) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I) | 2:49 |
 | 40 | [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:17 |
-| 41 | [Let's Get It Started](https://open.spotify.com/track/37LEkmNdegFwoS55DdL6Ov) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Sport](https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT) | 3:38 |
-| 42 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
+| 41 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
+| 42 | [Let's Get It Started](https://open.spotify.com/track/37LEkmNdegFwoS55DdL6Ov) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Sport](https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT) | 3:38 |
 | 43 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:52 |
 | 44 | [The Way I Do](https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 4:03 |
 | 45 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 70 | [Not Your Fault](https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:02 |
 | 71 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
 | 72 | [Time to Run](https://open.spotify.com/track/0RVVgKICMXl2dc4E62mOWw) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M) | 5:23 |
-| 73 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
-| 74 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 73 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
+| 74 | [Mama Do \(Uh Oh, Uh Oh\)](https://open.spotify.com/track/5xeSDlt3eCxPsWKBhfUJTR) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Turn It Up](https://open.spotify.com/album/4S2rMIWiGeYCe5pxZxycyN) | 3:16 |
 | 75 | [Pristine](https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP) | 4:55 |
 | 76 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
 | 77 | [Shark In The Water](https://open.spotify.com/track/0BLPuaA32HDg6AJTUT4WMl) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/317L0uziX7o0rdlPg2oj9j) | 3:04 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 84 | [JEKYLL & HIDE](https://open.spotify.com/track/3UmBgQiJhbNMmyPVceuH4d) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:16 |
 | 85 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:24 |
 | 86 | [Charlie](https://open.spotify.com/track/2SonpVAvJS3aOi63oEOTlQ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/3YUPGv1HNS6HuFbUFIsfJY) | 3:10 |
-| 87 | [Is It Progression If a Cannibal Uses a Fork?](https://open.spotify.com/track/7n70qPKhBy60qTgvTgTZ7g) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:25 |
-| 88 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
-| 89 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 87 | [breathe again](https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(the beginnings\)](https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4) | 3:49 |
+| 88 | [Is It Progression If a Cannibal Uses a Fork?](https://open.spotify.com/track/7n70qPKhBy60qTgvTgTZ7g) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:25 |
+| 89 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
 | 90 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |
 | 91 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |
 | 92 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
 | 93 | [Celeste](https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste](https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb) | 3:23 |
 | 94 | [Perfect Someone](https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:39 |
-| 95 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 |
-| 96 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
-| 97 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
+| 95 | [Welcome to Your Life](https://open.spotify.com/track/4hAhyE1iL07EIUJnqw2bsV) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Big Mess](https://open.spotify.com/album/6OTry12C08dF4Snq4rcE6E) | 3:47 |
+| 96 | [Shotgun](https://open.spotify.com/track/5gG1tBzjqPWXTevct5kaLX) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 4:10 |
+| 97 | [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 |
 | 98 | [Whistle \(While You Work It\)](https://open.spotify.com/track/5zwwXMjE6OrqfVpYGnA9RW) | [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [Whistle \(While You Work It\)](https://open.spotify.com/album/1C0txQpTvo2z5N6Rrm6Y9D) | 3:35 |
-| 99 | [Unstoppable](https://open.spotify.com/track/7inqk2aOungrJvYeBh2FQ8) | [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk) | [Foxy Shazam](https://open.spotify.com/album/4dhCjrqhvcGuIAcP2JIVaR) | 3:33 |
-| 100 | [enknee1](https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:44 |
+| 99 | [enknee1](https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:44 |
+| 100 | [Unstoppable](https://open.spotify.com/track/7inqk2aOungrJvYeBh2FQ8) | [Foxy Shazam](https://open.spotify.com/artist/5qRXoCC1CDTMTli9gplUvk) | [Foxy Shazam](https://open.spotify.com/album/4dhCjrqhvcGuIAcP2JIVaR) | 3:33 |
 
 Snapshot ID: `AAAAAIwXzuIguuBAz35vh53Y3g4zgqjB`

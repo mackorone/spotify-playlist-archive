@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,841 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,835 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 50 | [Yumbera](https://open.spotify.com/track/1hCjsKGQkWdi551Vgxgjn1) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Incidental Tango](https://open.spotify.com/album/6HL9PB5KmthDOLH8q00Gdg) | 4:12 |
 | 51 | [Cantor \(TANGO\)](https://open.spotify.com/track/6nmNrbsJcqw2AErzjOwqKy) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:35 |
 | 52 | [Mistela](https://open.spotify.com/track/3n2VMpEZW00BKG6MAsJEeo) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Limanueva](https://open.spotify.com/album/1Q1J4JdO0wxNuFgvBsSQYy) | 4:19 |
-| 53 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 |
-| 54 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
+| 53 | [Fueye Mood](https://open.spotify.com/track/7o405CF3y3a0s5nDPQYAlE) | [Supertangox](https://open.spotify.com/artist/0hSsQFYJ0B5MMpjpg9rwKC) | [Fueye Mood](https://open.spotify.com/album/7vrPwQQk9tgwirJXpa8uia) | 3:51 |
+| 54 | [Viaje Sin Luna](https://open.spotify.com/track/1LEU5VOD3tUQabsMTPBY19) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 4:32 |
 | 55 | [Leonel, El Feo](https://open.spotify.com/track/2pOtwVqvY9DvXi0nbVcbRN) | [Luciano Supervielle](https://open.spotify.com/artist/0cVBzbJ1qk2pergJG8jbSC) | [Bajofondo Tango Club Presenta A Supervielle](https://open.spotify.com/album/7tFEuEPPlS8rNpI4iWcJTU) | 2:30 |
 | 56 | [Funky Tango \- Remasterizado 2023](https://open.spotify.com/track/26w0kTFqcEkBN3rI0QIe5n) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG), [Juan Salinas](https://open.spotify.com/artist/3LkShlQRHHeTS7Y6iyOeX8) | [Funky Tango \(Remasterizado 2023\)](https://open.spotify.com/album/7u4d8qxwnhU36rDgz1q81c) | 7:58 |
 | 57 | [Ghost Town](https://open.spotify.com/track/3vEZd9EiNj1fiwY6oFclTu) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh), [Mela Green](https://open.spotify.com/artist/1OoRlzoPBEdN9gPMt7Dx69), [Mermans Mosengo](https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc) | [Ghost Town](https://open.spotify.com/album/3drZDHi0DVKGn6mLwDueij) | 4:29 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 66 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 67 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 |
 | 68 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
-| 69 | [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 |
-| 70 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
+| 69 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
+| 70 | [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 |
 
 Snapshot ID: `AAAAAAru8B9Fy8FH9jIeE848ssDuTYur`

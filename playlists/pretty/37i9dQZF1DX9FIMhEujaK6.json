@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 653378,
+  "num_followers": 653401,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-08-22 11:26:14",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 324590,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
-    },
-    {
-      "added_at": "2025-08-22 11:26:14",
-      "album": {
         "name": "Gaze Up (feat. Antonio Blakstad)",
         "url": "https://open.spotify.com/album/7bcIfbUsLbnYABJtgIocC7"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 210213,
       "name": "Gaze Up (feat. Antonio Blakstad)",
       "url": "https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d"
+    },
+    {
+      "added_at": "2025-08-22 11:26:14",
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
     }
   ],
   "unique_name": "Ibiza Sunset",

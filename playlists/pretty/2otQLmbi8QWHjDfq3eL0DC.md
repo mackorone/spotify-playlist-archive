@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > House Music 2026 🌴 Deep House Classics 🕺 Best Dance Hits ✨ Summer Vibes 💃 Ibiza Party Mix 🌇 Lounge Beats ☀️ Afro &amp; Tech House 🔊 Disco \| Updated 2026 \| EDM \| UK Club Bangers \| TikTok Discoveries \| Top House Songs
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,322,937 likes - 100 songs - 5 hr 1 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,322,859 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,710 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,771 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 69 | [VIAJA CONMIGO](https://open.spotify.com/track/2zr9cOdj6D8mZR25hdWnCa) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 3:21 |
 | 70 | [Dame Un Segundo](https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Dame Un Segundo](https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO) | 2:34 |
 | 71 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
-| 72 | [SI QUIERES ME VOY](https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMAR TE DUELE](https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL) | 3:31 |
-| 73 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 |
+| 72 | [Otra Mentira](https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Otra Mentira](https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl) | 4:18 |
+| 73 | [SI QUIERES ME VOY](https://open.spotify.com/track/4mH1PguBBoWaIzqRle0NVv) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMAR TE DUELE](https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL) | 3:31 |
 | 74 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
 | 75 | [Sin Ti](https://open.spotify.com/track/5nZX1fxWVJyEy0BpjPWfKy) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Sin Ti](https://open.spotify.com/album/0dGYft5LHTTkWRovN2lo4a) | 4:20 |
 | 76 | [Hablemos](https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:04 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 88 | [Sal De Mi Mente](https://open.spotify.com/track/7atCMUpKf4UyJPDJiKHnbk) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Sal De Mi Mente](https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM) | 2:55 |
 | 89 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 |
 | 90 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
-| 91 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
-| 92 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
+| 91 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
+| 92 | [Amor Con Detalle](https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe) | [Fases del Amor](https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5) | 3:36 |
 | 93 | [Verbo](https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Verbo](https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp) | 2:48 |
 | 94 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 95 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |

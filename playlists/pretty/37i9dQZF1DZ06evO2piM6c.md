@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,748 likes - 47 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,895 likes - 47 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 4 | [Your Love Is King](https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:39 |
 | 5 | [Kiss of Life](https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:11 |
 | 6 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 |
-| 7 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 |
-| 8 | [Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:39 |
+| 7 | [Be That Easy](https://open.spotify.com/track/5KADKKJqxxF2d0a9Ir2lK3) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:39 |
+| 8 | [No Ordinary Love](https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 7:20 |
 | 9 | [Paradise](https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:37 |
 | 10 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 11 | [Is It a Crime](https://open.spotify.com/track/1XR1X1VTyTOVdPgH18RdME) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:21 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 46 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
 | 47 | [Give It Up](https://open.spotify.com/track/09HGJT3QCbpKmsowp9el5Q) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 3:50 |
 
-Snapshot ID: `aT3+AAAAAAClzfy/XaQPWrPj80md24h4`
+Snapshot ID: `aT9PgAAAAABmaYTDIDMEAA/X8ZR4LoDH`

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Machos. The essential tracks, all in one playlist.",
-  "num_followers": 67564,
+  "num_followers": 67578,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAJL6/YD1AXqXc8ktnMe0Ov",
+  "snapshot_id": "aT9PgAAAAAD+YNGoH6ONLc6qyTH8KHU6",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pr\u00f3ximo Tonto",
-        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "El Pr\u00f3ximo Tonto",
-      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi chica ideal (Lo B\u00e1sico)",
         "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 172666,
       "name": "Usted",
       "url": "https://open.spotify.com/track/0QTosUG7yMB9UBNzhU4ZmF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "El Pr\u00f3ximo Tonto",
+      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
-        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 231453,
-      "name": "Vivir sin ella",
-      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi chica ideal (Lo B\u00e1sico)",
         "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 178000,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5243Uoy4csPMu7DMoaOJDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Vivir sin ella",
+      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 141093,
-      "name": "El pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS"
+      "duration_ms": 174493,
+      "name": "Esta tristeza m\u00eda",
+      "url": "https://open.spotify.com/track/1OR4HEV1aNbxJiEZuGUd3H"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 174493,
-      "name": "Esta tristeza m\u00eda",
-      "url": "https://open.spotify.com/track/1OR4HEV1aNbxJiEZuGUd3H"
+      "duration_ms": 141093,
+      "name": "El pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/2jZuDQPI6TFiN15wYsmaDS"
     },
     {
       "added_at": null,

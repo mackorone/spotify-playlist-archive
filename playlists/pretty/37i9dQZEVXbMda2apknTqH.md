@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,575 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,582 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 3 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 4 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 |
 | 5 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
-| 6 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 |
+| 6 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 |
 | 7 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 8 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
 | 9 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 |
 | 10 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 11 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
-| 12 | [Holly Jolly Christmas](https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:01 |
+| 12 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
 | 13 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:10 |
 | 14 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 15 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 37 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 38 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 39 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 |
-| 40 | [Winter Wonderland](https://open.spotify.com/track/6eODMWDVi22dpEZJoqg5h7) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0uQi9pGprBB8IEQgjkP1AS) | 2:12 |
+| 40 | [Winter Wonderland](https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:12 |
 | 41 | [Carol of the Bells \(From "Home Alone" Soundtrack\)](https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 1:25 |
 | 42 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 |
 | 43 | [Jingle Bells \- Remastered 1999](https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 | 50 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 
-Snapshot ID: `MNN+UAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNTNeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

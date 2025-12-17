@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 
 > This is Emei\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,565 likes - 33 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,564 likes - 33 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wKHCh.md) - [plain]
 | 29 | [ALL THESE KIDS](https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [ALL THESE KIDS](https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM) | 1:57 |
 | 30 | [Don't Know About The World](https://open.spotify.com/track/7xil2jjcEh4kaU3XXoAPh8) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain](https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v) | 2:23 |
 | 31 | [Human Being \- Demo](https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Scatterbrain \(Deluxe\)](https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5) | 1:59 |
-| 32 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
-| 33 | [Tian Mi Mi \(Your Sweet Smile\)](https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 1:03 |
+| 32 | [Tian Mi Mi \(Your Sweet Smile\)](https://open.spotify.com/track/1wYBTmZ8tBfm7kX3RYkYLZ) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Ginger Tea](https://open.spotify.com/album/3HD6dMq4zT1yMugmUNNZdN) | 1:03 |
+| 33 | [SUNNYD](https://open.spotify.com/track/4vnauoJf6OYYU73jPUJbZa) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [SUNNYD](https://open.spotify.com/album/1D8kmnJy5pX2oxTsydOEYZ) | 2:06 |
 
-Snapshot ID: `aT3+AAAAAACpSwRDsSxLtuMjCb7+OhPK`
+Snapshot ID: `aT9PgAAAAAA4yyg4Wzc5lgR03FpfOeAM`

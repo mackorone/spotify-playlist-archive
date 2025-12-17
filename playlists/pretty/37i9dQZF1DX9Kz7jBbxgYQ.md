@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Parvaaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,959 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,020 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kauaʻi ʻōʻō](https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Kauaʻi ʻōʻō](https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT) | 5:24 |
-| 2 | [Dekha Hi Nahi](https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 3:41 |
-| 3 | [Safar](https://open.spotify.com/track/4Y7lsapW6wDDj2NzugnW9h) | [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [Seventean](https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd), [sherry](https://open.spotify.com/artist/4132g724ofm2OxQ9oJmnQC) | [Safar](https://open.spotify.com/album/7wCKJBWmGZv5vcP8PVWDVO) | 2:19 |
-| 4 | [Fiqr Na Karo](https://open.spotify.com/track/4LAS8j4UMbzX0hnZVUJDZ0) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Fiqr Na Karo](https://open.spotify.com/album/7B5gIstmMrODjIn32kUFVO) | 3:39 |
-| 5 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 |
+| 1 | [Dekha Hi Nahi](https://open.spotify.com/track/5zK7gzWMZlT4TUf2iN2Wjw) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 3:41 |
+| 2 | [Safar](https://open.spotify.com/track/4Y7lsapW6wDDj2NzugnW9h) | [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [Seventean](https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd), [sherry](https://open.spotify.com/artist/4132g724ofm2OxQ9oJmnQC) | [Safar](https://open.spotify.com/album/7wCKJBWmGZv5vcP8PVWDVO) | 2:19 |
+| 3 | [Fiqr Na Karo](https://open.spotify.com/track/4LAS8j4UMbzX0hnZVUJDZ0) | [Omar Mukhtar](https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl) | [Fiqr Na Karo](https://open.spotify.com/album/7B5gIstmMrODjIn32kUFVO) | 3:39 |
+| 4 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 |
+| 5 | [Kauaʻi ʻōʻō](https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Kauaʻi ʻōʻō](https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT) | 5:24 |
 | 6 | [Banda Kaam Ka](https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v) | [Banda Kaam Ka](https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t) | 4:08 |
 | 7 | [Nasha](https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [Nasha](https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG) | 2:25 |
 | 8 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 17 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 |
 | 18 | [Baarish Mein Phir](https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Baarish Mein Phir](https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv) | 2:56 |
 | 19 | [Dil Mere](https://open.spotify.com/track/6ZmtxXUXRVjxOhugKkmerC) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:31 |
-| 20 | [Woh](https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Sthiti](https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw) | [Woh](https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x) | 3:14 |
+| 20 | [Woh](https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY), [Sthiti](https://open.spotify.com/artist/61oEn9Hdu2SCqRWT8E8bVw), [Shruti Prakash Dash](https://open.spotify.com/artist/2FeA4uJpvcZ1uemmSaC1Qj) | [Woh](https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x) | 3:14 |
 | 21 | [taranay](https://open.spotify.com/track/5bgf47eUmxszHhheSkaUZr) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [thikaana](https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe) | 3:49 |
 | 22 | [Kya sach ho tum?](https://open.spotify.com/track/7iQxWIYGzTkkLWlUscD4HP) | [Amna Riaz](https://open.spotify.com/artist/0byL5ltfBQh38KuITEggNl) | [Kya sach ho tum?](https://open.spotify.com/album/0jQ4tYapUB62uhzoIEPE1n) | 3:30 |
 | 23 | [Kaisi Ye Aandhi Thee](https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Kaisi Ye Aandhi Thee](https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU) | 3:48 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 74 | [4U](https://open.spotify.com/track/5E17LNMDov8A01xUxK8Xaf) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [4U](https://open.spotify.com/album/5jCebkfAdctI7zvlgFGv9m) | 3:22 |
 | 75 | [Baarishein](https://open.spotify.com/track/5iCY0TXNImK4hyKfcplQsg) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/4ysOhipyMXKstywus51VXS) | 3:27 |
 
-Snapshot ID: `AAAAAPzSX2ImiTZwAe1DwmuefIQGITiA`
+Snapshot ID: `AAAAANxyH9VvzLSNjTTweXkIjkXGamC5`

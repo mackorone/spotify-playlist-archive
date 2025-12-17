@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1769042,
+  "num_followers": 1769182,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231257,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 295920,
       "name": "All I Want Is You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231257,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": "2023-01-20 17:44:30",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
-    },
-    {
       "added_at": "2024-10-04 04:00:00",
       "album": {
         "name": "Over It",
@@ -1343,6 +1327,22 @@
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Pour It Up",
-      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Ella Mai",
@@ -1491,6 +1475,22 @@
       "duration_ms": 239341,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Pour It Up",
+      "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Time",
@@ -1575,6 +1559,22 @@
       "duration_ms": 264097,
       "name": "She Don't (feat. Ty Dolla $Ign)",
       "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200140,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160172,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Ciara",
@@ -1661,20 +1645,20 @@
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "New Amerykah Part Two: Return Of The Ankh",
-        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 289720,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/74HYrIbnpc2xKCTenv5qKM"
+      "duration_ms": 160172,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2022-09-17 04:26:15",
@@ -1691,6 +1675,22 @@
       "duration_ms": 202434,
       "name": "Kickin\u2019 Back",
       "url": "https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "New Amerykah Part Two: Return Of The Ankh",
+        "url": "https://open.spotify.com/album/1MOub955Uer957RVqqkF2a"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/74HYrIbnpc2xKCTenv5qKM"
     },
     {
       "added_at": "2022-08-21 21:13:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,596 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,602 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 12 | [cumbia](https://open.spotify.com/track/5Quu2pIGvboHPYxJaqFXyE) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vilma Palma E Vampiros, Grandes Exitos](https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2) | 3:05 |
 | 13 | [Salvando Vidas \- En Vivo](https://open.spotify.com/track/7LSJtOR7izWSEljRyLQb8n) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vivo Grandes Exitos en Buenos Aires \(En Vivo\)](https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi) | 3:37 |
 | 14 | [Te Quiero Tanto](https://open.spotify.com/track/3okNQ9w68odjhNWXk6SY1n) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 3:29 |
-| 15 | [Gin Tonic](https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:33 |
+| 15 | [Borracho Hasta El Amanecer](https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:12 |
 | 16 | [Fernet con coca](https://open.spotify.com/track/5MChIGdXC12NGktlS4YGgs) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vilma Palma E Vampiros, Grandes Exitos](https://open.spotify.com/album/0USi7PgdFidMaRIcsjmIy2) | 3:53 |
-| 17 | [Borracho Hasta El Amanecer](https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:12 |
+| 17 | [Gin Tonic](https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:33 |
 | 18 | [Travestis](https://open.spotify.com/track/2OZPsTM3DylfeX7K8UWLSI) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 3:51 |
 | 19 | [No Me Hagas Callar](https://open.spotify.com/track/3ZjkflIADDBkA6jFm5WJBy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 5:17 |
 | 20 | [Vuelve A Comenzar](https://open.spotify.com/track/7MrnizaZmYy9OPY6aAW12l) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Psicótico](https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT) | [ELÍAS](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Psicótico](https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc) | 3:21 |
 | 50 | [Pasará](https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 4:27 |
 
-Snapshot ID: `aT3+AAAAAACS7DgypwmMiumCRGuvidM2`
+Snapshot ID: `aT9PgAAAAACThHvobGXl2R8LJs7pyGpK`

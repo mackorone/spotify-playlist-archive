@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Emma Nolde in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,121 likes - 31 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,120 likes - 31 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

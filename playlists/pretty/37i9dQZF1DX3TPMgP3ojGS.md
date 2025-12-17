@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,369 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,410 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 25 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 |
 | 26 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
 | 27 | [Muse](https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Muse](https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3) | 2:13 |
-| 28 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
-| 29 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
+| 28 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 |
+| 29 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 30 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
 | 31 | [Peace flow](https://open.spotify.com/track/3IwddX0zjnQ7am17WdP66M) | [Jon Albreit](https://open.spotify.com/artist/7HUDHULnPyXARDfZzsx5xc) | [Peace flow](https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm) | 2:17 |
 | 32 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 45 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 |
 | 46 | [Languor](https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Kalmte](https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi) | 2:21 |
 | 47 | [Air from Air](https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Air from Air](https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r) | 3:19 |
-| 48 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
-| 49 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
+| 48 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
+| 49 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 |
 | 50 | [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 |
 | 51 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
 | 52 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 93 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
 | 94 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
 | 95 | [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 |
-| 96 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
-| 97 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 |
+| 96 | [Début](https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk) | [Mélanie Laurent](https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN) | [En t'attendant](https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W) | 2:40 |
+| 97 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 |
 | 98 | [Travelling](https://open.spotify.com/track/2OKEAPTngkO7ogItXRPHwC) | [James Spiteri](https://open.spotify.com/artist/4kJAoV5i0XPIAoGRN4bVJJ) | [A New Beginning](https://open.spotify.com/album/5MtcpLLduxsOal79cT835i) | 3:57 |
 | 99 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
 | 100 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |

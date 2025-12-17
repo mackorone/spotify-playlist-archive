@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > The greatest indie love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,655 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,742 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 25 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 | 26 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 27 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 |
-| 28 | [Live Well](https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 4:09 |
-| 29 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
+| 28 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
+| 29 | [Live Well](https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [So Long Forever](https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y) | 4:09 |
 | 30 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 |
 | 31 | [Use Somebody](https://open.spotify.com/track/2TYC9SaRhYypUQzB1ZVTG2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm) | 3:50 |
 | 32 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 64 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 |
 | 65 | [Not High On Drugz](https://open.spotify.com/track/23nMdV1MgehrYrdwyuIRw3) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Not High On Drugz](https://open.spotify.com/album/3BJnaycz2bP8Z625BytZIF) | 4:12 |
 | 66 | [From Eden](https://open.spotify.com/track/2tKOIBLJ2j384tnunmmKi7) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/4xwoKbj6nNiytuTZqyBGJm) | 3:42 |
-| 67 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
-| 68 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
+| 67 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
+| 68 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 69 | [A Shot in the Arm](https://open.spotify.com/track/7bLiOJtUpzZ1AIBFtCRQYk) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 4:19 |
 | 70 | [Your Hand Holding Mine](https://open.spotify.com/track/0jWHVt7QkVRWCj2Sw2Ncl3) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 4:10 |
 | 71 | [Luv Note](https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:30 |
 | 72 | [Crazy For Your Love](https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Crazy For Your Love](https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ) | 2:21 |
 | 73 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 |
-| 74 | [VCR](https://open.spotify.com/track/65O4mmCwB46tKBNQhY79Ty) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:57 |
-| 75 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 |
+| 74 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 |
+| 75 | [VCR](https://open.spotify.com/track/65O4mmCwB46tKBNQhY79Ty) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:57 |
 
 Snapshot ID: `AAAAAEPQo6F/Vp9yeZiMlBOt/jFdnFkK`

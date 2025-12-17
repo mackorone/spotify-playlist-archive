@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: ivri
 
-197 songs - 11 hr 28 min
+198 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Pool](https://open.spotify.com/track/5cHDAJwQx3CUxRWHfAvbkv) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 4:29 | 2025-07-28 | 2025-08-09 |
 | [Pool \- Stripped](https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Pool](https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss) | 4:03 | 2025-08-08 | 2025-11-13 |
 | [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2025-07-28 |  |
+| [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2025-12-09 |  |
 | [Real Love Baby](https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/75614DWrksimeV4oXUhaYP) | 3:09 | 2023-11-30 |  |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2024-11-25 |  |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-05-20 | 2024-10-18 |
@@ -191,7 +192,7 @@
 | [Venice Bitch](https://open.spotify.com/track/3hwQhakFwm9soLEBnSDH17) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 9:37 | 2025-07-24 | 2025-11-19 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2025-01-13 |  |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-11-29 | 2025-01-07 |
-| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2025-11-18 |  |
+| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2025-11-18 | 2025-12-17 |
 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 | 2023-11-29 |  |
 | [We Hug Now](https://open.spotify.com/track/1In22zMILdinxdZng26irr) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [We Hug Now](https://open.spotify.com/album/6t1nUcAa0nq8wcaxqceHVg) | 4:08 | 2025-02-25 |  |
 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 | 2023-12-11 | 2024-02-13 |

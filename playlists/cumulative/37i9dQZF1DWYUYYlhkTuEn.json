@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Harajuku Daze",
+        "url": "https://open.spotify.com/album/5HIl1LxI20u8Ift4A3wtvw"
+      },
+      "artists": [
+        {
+          "name": "Red Beryl",
+          "url": "https://open.spotify.com/artist/1XpPN3dIQWD9oCxKdXJog3"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Harajuku Daze",
+      "url": "https://open.spotify.com/track/3Ekg5aLHIFWLRsK0fq4zZS"
+    },
+    {
+      "album": {
         "name": "Hidden Garden",
         "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
       },

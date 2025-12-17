@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,631 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,700 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 6 | [Anunciação](https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 4:48 |
 | 7 | [A Gira](https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw) | [Trio Ternura](https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT) | [Trio Ternura \(Compacto 1973\)](https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8) | 3:03 |
 | 8 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
-| 9 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
-| 10 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
+| 9 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 |
+| 10 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 11 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
 | 12 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
 | 13 | [Pretin \(Verão, Pt\. 1\)](https://open.spotify.com/track/4kDGFnLmcAxlWuBpxnQbJz) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [Stereodubs](https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO) | [Flora Matos Vs\. Stereodubs](https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7) | 2:27 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 57 | [Ligeiro](https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [Ligeiro](https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp) | 3:31 |
 | 58 | [São Jorge](https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM) | [Juçara Marçal e Kiko Dinucci](https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m) | [Padê](https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU) | 3:05 |
 | 59 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
-| 60 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
-| 61 | [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 |
+| 60 | [O Amigo De Nova York](https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Mais Que Um Momento](https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq) | 4:12 |
+| 61 | [Aleluia](https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 3:52 |
 | 62 | [Pequim](https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z), [ÀTTØØXXÁ](https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3) | [Pequim](https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz) | 3:18 |
 | 63 | [Pelas Tabelas](https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Braseiro](https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x) | 3:53 |
 | 64 | [Conto De Areia](https://open.spotify.com/track/2BAja01vq4rH7KthUMNGnE) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 3:40 |

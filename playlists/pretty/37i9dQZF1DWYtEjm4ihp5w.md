@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Mons
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,954 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,994 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 12 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 |
 | 13 | [MACHI HAKA](https://open.spotify.com/track/46vZZCyBcvlABmEF57PLBc) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:22 |
 | 14 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
-| 15 | [TAYER](https://open.spotify.com/track/0WGrLatfM7KSRJXmvkiJIp) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 |
+| 15 | [Tayer](https://open.spotify.com/track/0WGrLatfM7KSRJXmvkiJIp) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 |
 | 16 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
 | 17 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 |
 | 18 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |

@@ -4,12 +4,12 @@
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-182 songs - 12 hr 30 min
+183 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Can't Get No\) Satisfaction](https://open.spotify.com/track/5FzBxhIsZBFXDTVGWtV4IQ) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 2:40 | 2022-05-26 |  |
-| [\(We Don't Need This\) Fascist Groove Thang \- Remastered 2006](https://open.spotify.com/track/5U1UqrvzDDj22eyFocTtmr) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [Penthouse And Pavement](https://open.spotify.com/album/662vZghUEjQCywafYimHtK) | 4:21 | 2025-01-14 |  |
+| [\(We Don't Need This\) Fascist Groove Thang \- Remastered 2006](https://open.spotify.com/track/5U1UqrvzDDj22eyFocTtmr) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [Penthouse And Pavement](https://open.spotify.com/album/662vZghUEjQCywafYimHtK) | 4:21 | 2025-01-14 | 2025-12-17 |
 | [A Million Miles Away](https://open.spotify.com/track/3YryVYJcJ9gP8jfUkkbNvm) | [The Plimsouls](https://open.spotify.com/artist/7BnikuGfXRWkGLJCWS1y9P) | [80s Alternative](https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf) | 3:35 | 2022-05-26 | 2022-05-28 |
 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 | 2018-12-14 |  |
 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 | 2020-10-27 |  |
@@ -172,6 +172,7 @@
 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2022-09-08 |  |
 | [Thirteen](https://open.spotify.com/track/14bdkfiD8UAYJalXKFwcwb) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [\#1 Record/Radio City](https://open.spotify.com/album/4lZSX0E1dcg1bi5T4BzWf0) | 2:34 | 2018-12-14 | 2022-07-28 |
 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2022-05-26 |  |
+| [To Cut A Long Story Short](https://open.spotify.com/track/2CfqGS6D9piBWM3SAjbUJM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:21 | 2025-01-14 |  |
 | [Tour de France \- 2009 Remaster](https://open.spotify.com/track/5uNlgK7FEg6r9BGy12P9Sx) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Tour de France \(2009 Remaster\)](https://open.spotify.com/album/6NYyISRJeOlJ1IldQtNvMw) | 5:12 | 2018-12-14 | 2022-05-24 |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2022-05-26 |  |
 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:12 | 2018-12-14 |  |

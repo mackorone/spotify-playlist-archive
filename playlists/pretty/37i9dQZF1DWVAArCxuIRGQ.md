@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,488 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,463 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 70 | [Love Come Down \- Single Version](https://open.spotify.com/track/2RCOWNCxDIphjhqTtkwtwR) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [The Best Of Evelyn "Champagne" King](https://open.spotify.com/album/6W7na0F9qczswPzdb42rZO) | 3:40 |
 | 71 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 |
 | 72 | [Dy\-Na\-Mi\-Tee](https://open.spotify.com/track/3cCjEDTIWSNr5stzGhiRWI) | [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [A Little Deeper](https://open.spotify.com/album/3R6aIbq0UGfht1x0rck5Tn) | 3:37 |
-| 73 | [Shine](https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Cool Summer Reggae](https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji) | 3:46 |
-| 74 | [Can't Hold We Down \(feat\. Popcaan\)](https://open.spotify.com/track/78aWIBZMTcqg4mvPpUdhss) | [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hoodies All Summer](https://open.spotify.com/album/0N6HQ1sWJTf4QJxipeEazS) | 4:27 |
+| 73 | [Can't Hold We Down \(feat\. Popcaan\)](https://open.spotify.com/track/78aWIBZMTcqg4mvPpUdhss) | [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hoodies All Summer](https://open.spotify.com/album/0N6HQ1sWJTf4QJxipeEazS) | 4:27 |
+| 74 | [Shine](https://open.spotify.com/track/1abBJRmGX2jLvE0b0GDmFV) | [Aswad](https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0) | [Cool Summer Reggae](https://open.spotify.com/album/6pQIllBkF56hkziZMSUKji) | 3:46 |
 | 75 | [Rolling](https://open.spotify.com/track/3CQBal6JaIQziWGgX7FUqB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 2:51 |
 
 Snapshot ID: `AAAAANrb+6bp9HldmDPk7FEgWbsb3a0k`

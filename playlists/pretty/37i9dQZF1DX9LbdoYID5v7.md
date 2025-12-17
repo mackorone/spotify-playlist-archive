@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > The iconic indie songs that defined an era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,803 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,885 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 44 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 |
 | 45 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
 | 46 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
-| 47 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
-| 48 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 47 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 48 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
 | 49 | [White Flag](https://open.spotify.com/track/4kbz7rHVbyjKasuuqelccQ) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Life For Rent](https://open.spotify.com/album/0X9QCwbxIRm4MWKWnIHNaA) | 4:00 |
 | 50 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
 | 51 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 66 | [At the Bottom of Everything](https://open.spotify.com/track/39Mzqwp2PBwMy61CVTuLDl) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:33 |
 | 67 | [Breathe In](https://open.spotify.com/track/03kZca43rgVgphYctcopJU) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:37 |
 | 68 | [When Did Your Heart Go Missing?](https://open.spotify.com/track/60okmgzrYnFh2nXfi0XxWR) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Calling The World](https://open.spotify.com/album/1qnCc35z3I85Igk8l7crK1) | 3:33 |
-| 69 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
-| 70 | [Girl](https://open.spotify.com/track/3DgNj1aYbSRVoVO8yX7DRt) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:29 |
+| 69 | [Girl](https://open.spotify.com/track/3DgNj1aYbSRVoVO8yX7DRt) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Guero](https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT) | 3:29 |
+| 70 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 71 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
 | 72 | [Half Mast](https://open.spotify.com/track/0GgAAB0ZMllFhbNc3mAodO) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(Special Edition\)](https://open.spotify.com/album/1GoqBRUPZzBKvMKZxSQ1mp) | 3:54 |
 | 73 | [We Own The Sky](https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:04 |

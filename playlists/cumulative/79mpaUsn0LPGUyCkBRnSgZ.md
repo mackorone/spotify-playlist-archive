@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-989 songs - 2 day 17 hr 11 min
+990 songs - 2 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Conditions Of A Punk](https://open.spotify.com/track/2viUGuVwPAWIZXlOJHLHoO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:36 | 2023-03-19 |  |
 | [Conservation of Two](https://open.spotify.com/track/1EfjX1u3coTBbmkFofxLoj) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 2:41 | 2023-01-07 |  |
 | [Contender](https://open.spotify.com/track/3rDtZRThiTOHw5jDSQ3u6N) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/014VFkpQp37zfAXRyyZmBq) | 2:35 | 2024-09-17 |  |
+| [context](https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 1:59 | 2025-12-16 |  |
 | [Cooking Up Something Good](https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:41 | 2023-12-17 | 2023-12-21 |
 | [Coopers World](https://open.spotify.com/track/6ir2lTufaVrxmGkhA2rr5k) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 5:09 | 2024-03-26 |  |
 | [CORLEONE](https://open.spotify.com/track/5VrKDJsD0VhIfjZxCEUXOI) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 2:28 | 2024-05-27 |  |

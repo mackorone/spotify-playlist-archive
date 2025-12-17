@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,348 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,383 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 38 | [Volveré](https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Grandes Éxitos a Nuestro Estilo, Vol\. 1](https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV) | 3:35 |
 | 39 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
 | 40 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
-| 41 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
-| 42 | [Fue en un Café](https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 2:48 |
+| 41 | [Fue en un Café](https://open.spotify.com/track/7siXhQaEJkIIJQmznXWfCa) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Los Nopales Tienen la Fuerza](https://open.spotify.com/album/6k073KSG69UAlzi10TbWnv) | 2:48 |
+| 42 | [Y Como Es Él](https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS) | [California Blues](https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn) | [15 Éxitos](https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha) | 3:06 |
 | 43 | [Quien Te Cantara](https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:20 |
 | 44 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |
 | 45 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |

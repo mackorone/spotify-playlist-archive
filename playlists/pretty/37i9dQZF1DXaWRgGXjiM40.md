@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,667 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 953,644 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 46 | [Quem É Seu Favorito \- Ao Vivo](https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd) | [Zé Ricardo & Thiago](https://open.spotify.com/artist/4ZUahcHoVxr4lsrfdmhjhV), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ter Amigos É Melhor Que Ter Dinheiro, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn) | 2:42 |
 | 47 | [Bagunça Minha Vida \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/33g4LmRrWddOvMLnynSktj) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Bagunça Minha Vida \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/6Px1WC9c2hYtmrfu6wPNZ4) | 2:25 |
 | 48 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 |
-| 49 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
-| 50 | [Cê Tem o Molho](https://open.spotify.com/track/0QdIRmcmAgBYoUtReHRrbC) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Cê Tem o Molho](https://open.spotify.com/album/2pz2hyMhJErRGw7qUfHaBC) | 2:43 |
+| 49 | [Pega Esse Carro \- Ao Vivo](https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Energia \(Ao Vivo\)](https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y) | 2:45 |
+| 50 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 
 Snapshot ID: `AAAAAAuPJXxVpg6gUUnUKim55QPTAE86`

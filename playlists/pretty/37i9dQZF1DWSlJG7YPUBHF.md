@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 
 > Face\-melters only\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,008 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557,222 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 12 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 13 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 14 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:32 |
-| 15 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
-| 16 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
+| 15 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:48 |
+| 16 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
 | 17 | [Still Got The Blues](https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 6:10 |
 | 18 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
 | 19 | [Floods](https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 6:59 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 30 | [Cliffs Of Dover \- Instrumental](https://open.spotify.com/track/5qm0KiVKMXW1kq6VrnIhz5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Ah Via Musicom](https://open.spotify.com/album/4euX7BHHIVZecdn7Ii3eg2) | 4:09 |
 | 31 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
 | 32 | [Paranoid](https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv) | 2:47 |
-| 33 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
-| 34 | [Hangar 18](https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:14 |
+| 33 | [Hangar 18](https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:14 |
+| 34 | [Lenny](https://open.spotify.com/track/0h4jHdNzUrV9eGR2PT5R8c) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:57 |
 | 35 | [Europa \(Earth's Cry Heaven's Smile\)](https://open.spotify.com/track/5Yp3e8RcjYevBTZYJ7OD7s) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 5:05 |
 | 36 | [Bold as Love](https://open.spotify.com/track/0uco0wQkB909zpPlHvu5Cc) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 4:11 |
 | 37 | [For the Love of God](https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Passion And Warfare](https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45) | 6:03 |

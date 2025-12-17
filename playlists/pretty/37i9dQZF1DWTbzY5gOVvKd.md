@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,807 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,843 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 52 | [Cheek to Cheek](https://open.spotify.com/track/78nzY9fNwCTxpVxjh3ITWn) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Cheek to Cheek](https://open.spotify.com/album/6IRlKG1GX4XDN42ow8V3ot) | 7:03 |
 | 53 | [Mind If I Make Love To You](https://open.spotify.com/track/40DjEEXkrujfsOjeOwwis0) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [True Love: A Celebration Of Cole Porter](https://open.spotify.com/album/0irC2WRtxeSoJ33XpeDwyR) | 3:29 |
 | 54 | [As Time Goes By](https://open.spotify.com/track/4SD2UnbSVWBulYnFMg8KSi) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:31 |
-| 55 | [I'll Love You Just The Same](https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik) | [Kieran Brown](https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ) | [Loving You](https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR) | 3:20 |
-| 56 | [Nobody But You](https://open.spotify.com/track/6aQfv6U5oO42qIdpMCieov) | [Abigail Flowers](https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1) | [Only a Dream](https://open.spotify.com/album/5AUVNVfDNiGbZhhHXxZSZg) | 2:50 |
-| 57 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
-| 58 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ), [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Ali Jackson](https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:56 |
+| 55 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
+| 56 | [I'll Love You Just The Same](https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik) | [Kieran Brown](https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ) | [Loving You](https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR) | 3:20 |
+| 57 | [From This Moment On](https://open.spotify.com/track/70xqHGcL0BI5UCUFXIjqc2) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm), [Stefon Harris](https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ), [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [Reginald Veal](https://open.spotify.com/artist/6yAxgJZxxxrAjplbOglvF4), [Ali Jackson](https://open.spotify.com/artist/5tFHD1Y400oLuqNwWYICkD) | [Bria](https://open.spotify.com/album/1QsBBWWuzjNgoEOZbI8K3N) | 5:56 |
+| 58 | [Nobody But You](https://open.spotify.com/track/6aQfv6U5oO42qIdpMCieov) | [Abigail Flowers](https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1) | [Only a Dream](https://open.spotify.com/album/5AUVNVfDNiGbZhhHXxZSZg) | 2:50 |
 | 59 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 60 | [There Is No Greater Love](https://open.spotify.com/track/1yvDZeqobR7Pv6ZRVHtT9j) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 5:29 |
 | 61 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |

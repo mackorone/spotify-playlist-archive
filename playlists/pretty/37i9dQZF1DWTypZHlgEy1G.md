@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,443 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,426 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 9 | [Love Me, Please Love Me](https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 4:20 |
 | 10 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 |
 | 11 | [La foule](https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 2:58 |
-| 12 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
-| 13 | [L'aigle noir](https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe) | 4:57 |
+| 12 | [L'aigle noir](https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [L'Aigle Noir](https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe) | 4:57 |
+| 13 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 | 14 | [La mauvaise réputation](https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens chante les chansons poétiques \(et souvent gaillardes\) N°1](https://open.spotify.com/album/4qZ1goadMIs9rX2RrF2F8X) | 2:12 |
 | 15 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 16 | [La vie en rose](https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 3:06 |

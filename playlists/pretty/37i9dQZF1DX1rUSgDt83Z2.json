@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 43629,
+  "num_followers": 43634,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-12-10 11:22:17",
       "album": {
+        "name": "Kom Je Me Halen",
+        "url": "https://open.spotify.com/album/2je6JBBO4BeGNLjFDh7h4y"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "duration_ms": 191357,
+      "name": "Kom Je Me Halen",
+      "url": "https://open.spotify.com/track/1PPrrxWinAzb60gdMRSqbq"
+    },
+    {
+      "added_at": "2025-12-10 11:22:17",
+      "album": {
         "name": "Ik Mis Je Nu Wel Hier",
         "url": "https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 184080,
       "name": "Ik Heb Het Altijd Al Geweten",
       "url": "https://open.spotify.com/track/2njW15Fh9UeTzEFof6FTVY"
-    },
-    {
-      "added_at": "2025-12-10 11:22:17",
-      "album": {
-        "name": "Kom Je Me Halen",
-        "url": "https://open.spotify.com/album/2je6JBBO4BeGNLjFDh7h4y"
-      },
-      "artists": [
-        {
-          "name": "BENR",
-          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
-        }
-      ],
-      "duration_ms": 191357,
-      "name": "Kom Je Me Halen",
-      "url": "https://open.spotify.com/track/1PPrrxWinAzb60gdMRSqbq"
     },
     {
       "added_at": "2025-12-10 11:22:17",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-12-10 11:22:17",
       "album": {
+        "name": "Half Open",
+        "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
+      },
+      "artists": [
+        {
+          "name": "Jasmijn Torrico",
+          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Half Open",
+      "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
+    },
+    {
+      "added_at": "2025-12-10 11:22:17",
+      "album": {
         "name": "Beste Zangers 2024 (Aflevering 4- SERA)",
         "url": "https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
-    },
-    {
-      "added_at": "2025-12-10 11:22:17",
-      "album": {
-        "name": "Half Open",
-        "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
-      },
-      "artists": [
-        {
-          "name": "Jasmijn Torrico",
-          "url": "https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ"
-        }
-      ],
-      "duration_ms": 149470,
-      "name": "Half Open",
-      "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
     },
     {
       "added_at": "2025-12-10 11:22:17",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-12-10 11:22:17",
       "album": {
-        "name": "Twee Stappen Voor",
-        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Als Je Gaat",
-      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
-    },
-    {
-      "added_at": "2025-12-10 11:22:17",
-      "album": {
         "name": "Tranen",
         "url": "https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 199074,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
+    },
+    {
+      "added_at": "2025-12-10 11:22:17",
+      "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/75OG2bfTEgaBamluRUEbhS"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Als Je Gaat",
+      "url": "https://open.spotify.com/track/7soDg3f7rFxxqyLus0KGYg"
     },
     {
       "added_at": "2025-12-10 11:22:17",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-12-10 11:22:17",
       "album": {
-        "name": "Seizoenen",
-        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
-      },
-      "artists": [
-        {
-          "name": "Shary-An",
-          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
-        }
-      ],
-      "duration_ms": 187941,
-      "name": "Seizoenen",
-      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
-    },
-    {
-      "added_at": "2025-12-10 11:22:17",
-      "album": {
         "name": "Bennie",
         "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 205472,
       "name": "Droom Een Beetje Meer",
       "url": "https://open.spotify.com/track/31bSYd3Vn2OVmAysLXm3yy"
+    },
+    {
+      "added_at": "2025-12-10 11:22:17",
+      "album": {
+        "name": "Seizoenen",
+        "url": "https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        }
+      ],
+      "duration_ms": 187941,
+      "name": "Seizoenen",
+      "url": "https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT"
     },
     {
       "added_at": "2025-12-10 11:22:17",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-12-10 11:22:17",
       "album": {
-        "name": "La Pression",
-        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
-      },
-      "artists": [
-        {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "La Pression",
-      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
-    },
-    {
-      "added_at": "2025-12-10 11:22:17",
-      "album": {
         "name": "Tijd Genoeg",
         "url": "https://open.spotify.com/album/4A6d7ZUpUrfpmcRG2RdTVF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 171759,
       "name": "Tijd Genoeg",
       "url": "https://open.spotify.com/track/7JGJexoaC9puUyX51N5JJe"
+    },
+    {
+      "added_at": "2025-12-10 11:22:17",
+      "album": {
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
     }
   ],
   "unique_name": "Helemaal NL",

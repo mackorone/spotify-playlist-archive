@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,425 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,431 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 10 | [Nada Es Para Siempre](https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Nada Es Para Siempre](https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI) | 3:15 |
 | 11 | [Prohibida](https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu) | [Prohibida](https://open.spotify.com/album/55RTps2ryHXF5w4lVwzcuk) | 4:26 |
 | 12 | [Desde Cero \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:13 |
-| 13 | [ESCÁPATE](https://open.spotify.com/track/3GZOE8uZZXXdo0uK56NTSG) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 3:00 |
-| 14 | [Yo Seguiré](https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Yo Seguiré](https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN) | 3:52 |
-| 15 | [ASI SOY](https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:56 |
+| 13 | [Yo Seguiré](https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Yo Seguiré](https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN) | 3:52 |
+| 14 | [ASI SOY](https://open.spotify.com/track/7hKQ7zOwIbaWNfOozCK5hC) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:56 |
+| 15 | [ESCÁPATE](https://open.spotify.com/track/3GZOE8uZZXXdo0uK56NTSG) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 3:00 |
 | 16 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
 | 17 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
 | 18 | [Mano a Mano](https://open.spotify.com/track/1VjnloX6zB43pXp7QehKvT) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Lowrider](https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Lowrider](https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf) | 3:15 |
 | 50 | [Fotos y Recuerdos](https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fotos y Recuerdos](https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo) | 3:18 |
 
-Snapshot ID: `aT3+AAAAAAA/bpAHUGdxozAY8xY61kcx`
+Snapshot ID: `aT9PgAAAAABsOP0Yu7yaK3hPzOMleu/r`

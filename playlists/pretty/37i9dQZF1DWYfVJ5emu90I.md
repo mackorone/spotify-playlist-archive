@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,541 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,547 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 28 | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [バグり \(feat\. kZm, Awich, PETZ, MonyHorse & JNKMN\)](https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU) | 3:06 |
 | 29 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 |
 | 30 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
-| 31 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
-| 32 | [Hooligan](https://open.spotify.com/track/3Ijtgzo3xvQx6pScNesUQi) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4TckoJML1WUe5agHaARdri) | 2:37 |
+| 31 | [Hooligan](https://open.spotify.com/track/3Ijtgzo3xvQx6pScNesUQi) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4TckoJML1WUe5agHaARdri) | 2:37 |
+| 32 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
 | 33 | [ヘビー \(feat\. DADA & Watson\)](https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 4:01 |
 | 34 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
 | 35 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |

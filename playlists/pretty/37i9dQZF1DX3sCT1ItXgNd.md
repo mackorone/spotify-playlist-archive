@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Alejandro Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,379 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,273 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [Si Te Vas](https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mixteip](https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS) | 3:18 |
 | 50 | [noche de san juan](https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [a nuevos lugares](https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4) | 2:41 |
 
-Snapshot ID: `AAAAAKtLirapBSHp/1h92vzxdQJ6GZAA`
+Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`

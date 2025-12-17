@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,928 likes - 57 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,943 likes - 57 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 28 | [La Casa de Ramon](https://open.spotify.com/track/6ZGEQPicVG2ERQE763HBAm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [La Casa de Ramon](https://open.spotify.com/album/7Aav5u8nRnCQadbEtDjmjs) | 3:33 |
 | 29 | [Corazón De Nadie](https://open.spotify.com/track/4PtTs7pmraBdfXCYs0qSvn) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:07 |
 | 30 | [Que Cara Mas Bonita](https://open.spotify.com/track/2ALPuLOqlTrfNWzakxRPVT) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [1](https://open.spotify.com/album/6HlZ3WKAPKbnayeXINUk6w) | 4:10 |
-| 31 | [La Quiero a Morir/Si Algún Día la Ves](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 |
-| 32 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
+| 31 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
+| 32 | [La Quiero a Morir/Si Algún Día la Ves](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 |
 | 33 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 34 | [Noches de Fantasía](https://open.spotify.com/track/52HZfvYGAbWx86xzFBeoQh) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Noches de Fantasía](https://open.spotify.com/album/6xDoCwBNbIdKpjSxLlTsLa) | 4:26 |
 | 35 | [La Asesina](https://open.spotify.com/track/5Id9qsENY9T2d71zXuzLD8) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [La Fiesta Esta Buena](https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc) | 4:49 |

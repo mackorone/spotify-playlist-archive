@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 96206,
+  "num_followers": 96317,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAC7Sp+8LqBDOwXlEMPZPH/0",
+  "snapshot_id": "aT9PgAAAAACCKWdQFv+99hnATBv0jLYL",
   "tracks": [
     {
       "added_at": null,
@@ -930,6 +930,10 @@
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
       "duration_ms": 149095,
@@ -959,22 +963,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
+        "name": "Cidade do Pecado",
+        "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
       },
       "artists": [
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew"
         }
       ],
-      "duration_ms": 225877,
-      "name": "O Que Quiser Fazer",
-      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
+      "duration_ms": 217647,
+      "name": "Para\u00edso Que Me Cerca",
+      "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
     },
     {
       "added_at": null,
@@ -999,26 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cidade do Pecado",
-        "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
+        "name": "Um",
+        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
       },
       "artists": [
         {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7hBUpxgSBA5ai8o6vW1Mew"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Para\u00edso Que Me Cerca",
-      "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
+      "duration_ms": 225877,
+      "name": "O Que Quiser Fazer",
+      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
     },
     {
       "added_at": null,

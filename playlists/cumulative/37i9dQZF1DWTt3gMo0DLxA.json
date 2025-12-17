@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Nenu Local",
+        "url": "https://open.spotify.com/album/3CbkxMKW2HV1480mmjdydg"
+      },
+      "artists": [
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236617,
+      "name": "Arere Yekkada",
+      "url": "https://open.spotify.com/track/0G1GYz7LESrRh3FDRFOTld"
+    },
+    {
+      "album": {
         "name": "Arerey Manasa (From \"Falaknuma Das\")",
         "url": "https://open.spotify.com/album/4cAqcskezsUVZjD01vl4Po"
       },
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 215178,
       "name": "GlobeTrotter (From \"Varanasi\")",
       "url": "https://open.spotify.com/track/1yamFTTVl9UymBBKeVRewV"
@@ -2286,11 +2308,15 @@
         {
           "name": "Inno Genga",
           "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
         }
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 271937,
       "name": "Hoyna Hoyna (From \"Gang Leader\")",
       "url": "https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf"
@@ -2610,7 +2636,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 187792,
       "name": "Jajikaya Jajikaya",
       "url": "https://open.spotify.com/track/1DEjDAZvhzPFnW9RxDWve9"
@@ -3210,7 +3236,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 288533,
       "name": "Manase Eduru Tirige",
       "url": "https://open.spotify.com/track/6v8wqAGP1YxEgjVYc8Y1PV"
@@ -3604,7 +3630,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 282680,
       "name": "Naalo Unna Prema",
       "url": "https://open.spotify.com/track/0u8f7CkuVRbGjdFyo7ylUA"
@@ -3716,6 +3742,28 @@
       "duration_ms": 292826,
       "name": "Nee Yadalo Naaku",
       "url": "https://open.spotify.com/track/4wUOdPcYoqYZGM2wSdoLQu"
+    },
+    {
+      "album": {
+        "name": "Neelaveni",
+        "url": "https://open.spotify.com/album/6D183eqQrg3JukJ6usUHth"
+      },
+      "artists": [
+        {
+          "name": "Dilip Devagan",
+          "url": "https://open.spotify.com/artist/7M4wqGl55356348aHifJ74"
+        },
+        {
+          "name": "Jaya Sri",
+          "url": "https://open.spotify.com/artist/6U9zA5xHHSFnmVI5NcW2T9"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243601,
+      "name": "Neelaveni",
+      "url": "https://open.spotify.com/track/56XkR1C99IGZHt8WW8HnWI"
     },
     {
       "album": {
@@ -3914,7 +3962,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 271964,
       "name": "Netho Cheppana",
       "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
@@ -4272,6 +4320,24 @@
       "duration_ms": 356009,
       "name": "Padaharella Vayasu",
       "url": "https://open.spotify.com/track/7wltO5dmURDawoJonX4msC"
+    },
+    {
+      "album": {
+        "name": "Peddi Reddy",
+        "url": "https://open.spotify.com/album/6d7wLtVCJKIPH8D8tkXchK"
+      },
+      "artists": [
+        {
+          "name": "Mamatha Ramesh",
+          "url": "https://open.spotify.com/artist/6mAwVufM5NvlkXnGEg8kJv"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327287,
+      "name": "Peddi Reddy",
+      "url": "https://open.spotify.com/track/3MAiS0Uu8FU2w9nEB3PxgG"
     },
     {
       "album": {
@@ -4914,6 +4980,36 @@
       "duration_ms": 256665,
       "name": "RANU BOMBAI KI RANU",
       "url": "https://open.spotify.com/track/4CMs30Udn5tShfPyF7gYvD"
+    },
+    {
+      "album": {
+        "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
+        "url": "https://open.spotify.com/album/1osZtw9mrsC3MhKFjwCLLr"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Blaaze",
+          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221096,
+      "name": "Rebel Saab (From \"The Rajasaab\") [TELUGU]",
+      "url": "https://open.spotify.com/track/641uWlhT8KRRE74GvDDsxa"
     },
     {
       "album": {

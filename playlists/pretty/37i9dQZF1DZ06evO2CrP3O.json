@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139963,
+  "num_followers": 139981,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACB3x8u2zTdXBs53KE4yv2g",
+  "snapshot_id": "aT9PgAAAAADHerzcVe3GytC3qzrodNcy",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Curse of Blondie",
-        "url": "https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "End to End",
-      "url": "https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Letters",
         "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 168360,
       "name": "Bermuda Triangle Blues - Remastered",
       "url": "https://open.spotify.com/track/4xF8RWpIgK8Axjeo28iXnu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Curse of Blondie",
+        "url": "https://open.spotify.com/album/6fmtjViWZ65ETI9EoXl8kU"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 239040,
+      "name": "End to End",
+      "url": "https://open.spotify.com/track/5xfFKL2AyqvYwx25NAl8fY"
     },
     {
       "added_at": null,

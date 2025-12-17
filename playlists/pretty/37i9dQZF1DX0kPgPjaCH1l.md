@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover:  tml vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,519 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,605 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 24 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 |
 | 25 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 |
 | 26 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 |
-| 27 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 |
+| 27 | [Dupe](https://open.spotify.com/track/4iCUs97QSPyYaFmzDa25Tb) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:42 |
 | 28 | [Waka](https://open.spotify.com/track/0mCBtZyqiep9yhdaGngqkf) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [Jvxn](https://open.spotify.com/artist/525r48qbJRGBtA06GeM0Uk), [Deeno](https://open.spotify.com/artist/38mP0nGEm785AE0rWJeFWj) | [Waka](https://open.spotify.com/album/2pdWKhHyzwc6gO9703TRrA) | 3:02 |
-| 29 | [Dupe](https://open.spotify.com/track/4iCUs97QSPyYaFmzDa25Tb) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:42 |
+| 29 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 |
 | 30 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 |
 | 31 | [Blessing](https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:27 |
 | 32 | [See Me See God \(SMSG\)](https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Barrystar Vol\. 1](https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA) | 3:12 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 42 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 |
 | 43 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 |
 | 44 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 |
-| 45 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 |
-| 46 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
+| 45 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
+| 46 | [Amiri \(Trumpet\)](https://open.spotify.com/track/37arTqMOOr919yJ47a5bBa) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Amiri \(Trumpet\)](https://open.spotify.com/album/2zM1mfrXUWl3Aedhq2xlxC) | 2:42 |
 | 47 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
 | 48 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 |
 | 49 | [iseoluwa](https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:18 |

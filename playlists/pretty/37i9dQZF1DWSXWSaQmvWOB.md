@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,692 likes - 112 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,888 likes - 112 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

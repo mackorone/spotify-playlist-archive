@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,993 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,002 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 31 | [Hypnotic](https://open.spotify.com/track/2zsWRxMcUdGjj8TnWkVKw0) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Kicker](https://open.spotify.com/album/600XgAY1N6sRPVczmBogiF) | 2:56 |
 | 32 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
 | 33 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
-| 34 | [Greek Tragedy](https://open.spotify.com/track/1tTV7mRV9uB2Nr9VcwkuFX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/0XOseclZGO4NnaBz5Shjxp) | 3:29 |
-| 35 | [Technicolour Beat](https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:00 |
-| 36 | [Shine A Light](https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Shine A Light](https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG) | 3:45 |
+| 34 | [Technicolour Beat](https://open.spotify.com/track/5pLpkaIRobcvPnUmclNv6o) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:00 |
+| 35 | [Shine A Light](https://open.spotify.com/track/1fDtoTPDyzkNOfFIRXxsC5) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Shine A Light](https://open.spotify.com/album/5dHZd6w1IlNc4W0JInztkG) | 3:45 |
+| 36 | [Greek Tragedy](https://open.spotify.com/track/1tTV7mRV9uB2Nr9VcwkuFX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug](https://open.spotify.com/album/0XOseclZGO4NnaBz5Shjxp) | 3:29 |
 | 37 | [Oceans](https://open.spotify.com/track/5eXnC2B5RU5fAhfwvV2ABD) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:35 |
 | 38 | [Sedona](https://open.spotify.com/track/65T1aY3I9qfNUDVAnaM9bq) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/13zkonwiXREYVk0vqubjGi) | 3:59 |
 | 39 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 81 | [Leave A Trace](https://open.spotify.com/track/37N1YBZEiOyXK4R9h23RW4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:57 |
 | 82 | [Feel You](https://open.spotify.com/track/6JGZmmiaL64s1AmhEOVvCr) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Have You In My Wilderness](https://open.spotify.com/album/0EiGGBzF9wzJn2X8F0Yvjh) | 4:08 |
 | 83 | [Gone](https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK) | 3:47 |
-| 84 | [OctaHate](https://open.spotify.com/track/6ZPDAipWlULnj5Zso56TIJ) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4y35I9OJ5QD3pvAOIffnmf) | 3:24 |
-| 85 | [Annie](https://open.spotify.com/track/0Zx00us8q9tVSYPIkOQABO) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Vega Intl\. Night School](https://open.spotify.com/album/21Sdg4ERIWBu9zR1Jd8TWU) | 4:02 |
+| 84 | [Annie](https://open.spotify.com/track/0Zx00us8q9tVSYPIkOQABO) | [Neon Indian](https://open.spotify.com/artist/0KydPQPUUoTNhmiHKOg5Er) | [Vega Intl\. Night School](https://open.spotify.com/album/21Sdg4ERIWBu9zR1Jd8TWU) | 4:02 |
+| 85 | [OctaHate](https://open.spotify.com/track/6ZPDAipWlULnj5Zso56TIJ) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4y35I9OJ5QD3pvAOIffnmf) | 3:24 |
 | 86 | [Feeling Ok](https://open.spotify.com/track/0hgsUnkawqDllP4OF4g9MN) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [California Nights](https://open.spotify.com/album/1JIhBE54vvyvz6yqqKKJ1A) | 3:16 |
 | 87 | [Cut Your Bangs](https://open.spotify.com/track/1iDPPa3RRyhzrFS3lG1ZDo) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/6TIZy5ya11Hl7Q5eN4F8xR) | 2:52 |
 | 88 | [How Do You Do It](https://open.spotify.com/track/1spLEdhSKVeh5nsK66tctl) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Me](https://open.spotify.com/album/7yfy9CIVCtTrfl1BrmcmNc) | 3:48 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 92 | [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 |
 | 93 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 |
 | 94 | [Affection](https://open.spotify.com/track/1lusH0zFDRV1ThaFYsUgfi) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 5:11 |
-| 95 | [Painting Greys](https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Painting Greys](https://open.spotify.com/album/3HR8LNAashzW2CdEpW0Pct) | 3:47 |
-| 96 | [First](https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1) | 3:20 |
-| 97 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 |
-| 98 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
+| 95 | [First](https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1) | 3:20 |
+| 96 | [Painting Greys](https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Painting Greys](https://open.spotify.com/album/3HR8LNAashzW2CdEpW0Pct) | 3:47 |
+| 97 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
+| 98 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 |
 | 99 | [The Only Thing](https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 4:44 |
-| 100 | [Tilted](https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine And The Queens](https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG) | 3:53 |
+| 100 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
 
 Snapshot ID: `AAAAAAL559UXc4WzA7nTRhc7372qL3uj`

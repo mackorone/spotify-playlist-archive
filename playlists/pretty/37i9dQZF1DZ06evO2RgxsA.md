@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,704 likes - 50 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,702 likes - 50 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 5 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
 | 6 | [Don't Call Me White](https://open.spotify.com/track/0cntShbC3GmWXygfH98brk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:33 |
 | 7 | [The Separation of Church and Skate](https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:09 |
-| 8 | [Everything in Moderation \(especially moderation\)](https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 1:25 |
+| 8 | [We Called It America](https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:07 |
 | 9 | [Stickin In My Eye](https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:24 |
 | 10 | [Leave It Alone](https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:04 |
 | 11 | [Franco Un\-American](https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 2:25 |
-| 12 | [We Called It America](https://open.spotify.com/track/01ao83UjxvRIQazIxruwmH) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg) | 2:07 |
+| 12 | [Everything in Moderation \(especially moderation\)](https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 1:25 |
 | 13 | [Dinosaurs Will Die](https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:58 |
 | 14 | [72 Hookers](https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM) | 3:36 |
 | 15 | [The Brews](https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [The Moron Brothers](https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 2:26 |
 | 50 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
 
-Snapshot ID: `aT3+AAAAAAD47FeiJ9BdhJpsQNFgk2XA`
+Snapshot ID: `aT9PgAAAAADqNNf/eZM6xTOjelMi0QZ8`

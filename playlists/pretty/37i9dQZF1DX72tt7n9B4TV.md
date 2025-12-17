@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,299 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,291 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 23 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 |
 | 24 | [Silver](https://open.spotify.com/track/09bThZXhtWY4oPvAThoLvj) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/4bH0EjYwaCI4UmjBkq6ScT) | 3:16 |
 | 25 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
-| 26 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
-| 27 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
+| 26 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
+| 27 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
 | 28 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 29 | [You Hear Yes](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |
 | 30 | [Love](https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 3:40 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 40 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 |
 | 41 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 |
 | 42 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
-| 43 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
-| 44 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
+| 43 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
+| 44 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
 | 45 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 46 | [Vertigo](https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 2:28 |
-| 47 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 |
-| 48 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
+| 47 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
+| 48 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 |
 | 49 | [Freak](https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 1:47 |
 | 50 | [I Want You \(Fever\)](https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:37 |
 | 51 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |

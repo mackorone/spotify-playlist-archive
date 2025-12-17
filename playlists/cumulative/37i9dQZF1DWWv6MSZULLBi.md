@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Buffalo Traffic Jam
 
-1,431 songs - 3 day 13 hr 59 min
+1,432 songs - 3 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 | 2023-11-10 | 2024-03-16 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-01-06 | 2023-04-09 |
 | [Chainsmokin Memories](https://open.spotify.com/track/7wOSFDy8zijPSlA3y064Oz) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Chainsmokin Memories](https://open.spotify.com/album/3rt7VMQTX8Iw19AuWgTzOz) | 2:57 | 2025-05-09 | 2025-08-09 |
+| [Challenger](https://open.spotify.com/track/18E1JTva63dkwEtgRSQiEp) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Challenger](https://open.spotify.com/album/0ic2yVzwWkmL0APveGjQAu) | 3:43 | 2025-12-16 |  |
 | [Change](https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:55 | 2022-07-22 | 2022-11-12 |
 | [Change](https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Change](https://open.spotify.com/album/1IQ1ZGGttsawfbItibsBHj) | 4:55 | 2022-05-13 | 2022-07-29 |
 | [Change \(feat\. Remi Wolf\)](https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Spotify Singles](https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U) | 4:49 | 2024-02-02 | 2024-06-22 |

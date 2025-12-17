@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > El soundtrack del verano 2025 🏝️ Cover: ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,570,926 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,570,255 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 16 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 |
 | 17 | [Ahora](https://open.spotify.com/track/5FNAoc8z1ltd823QbS0V5I) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Mauro El Código Secreto](https://open.spotify.com/artist/5WlqTMUK1osjZ3G7cqyC9x) | [Ahora](https://open.spotify.com/album/3GaqBHtHkuMVecx1VRCMiI) | 2:50 |
 | 18 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
-| 19 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
+| 19 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 20 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
-| 21 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
+| 21 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 |
 | 22 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 23 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 |
 | 24 | [Q U E V A S H A C E R H O Y ?](https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:44 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 81 | [QUEMA](https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [QUEMA](https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry) | 2:30 |
 | 82 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
 | 83 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |
-| 84 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
-| 85 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
+| 84 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
+| 85 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
 | 86 | [DROGA](https://open.spotify.com/track/18D0Za12EKUYklBQaJlaDP) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [DROGA](https://open.spotify.com/album/1ZhB52tistanq5hqLu1dsC) | 3:42 |
 | 87 | [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 |
 | 88 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |

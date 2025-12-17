@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,643 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,666 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spirit Guides](https://open.spotify.com/track/6UM2OopA1l0LYDyW5ElxLd) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:52 |
+| 1 | [Spirit Guides](https://open.spotify.com/track/6UM2OopA1l0LYDyW5ElxLd) | [MBS Body & Spirit](https://open.spotify.com/artist/0327vvL2PfdXWsGBZsPg2d) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:52 |
 | 2 | [Eagle Flies High](https://open.spotify.com/track/0dVWvNnTXDmHtQKuQ4xYNu) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Eagle River](https://open.spotify.com/album/4Xr5LjZL78urG5Wv09ewLy) | 3:32 |
 | 3 | [The Two Feathers](https://open.spotify.com/track/41SCDPYvddVF6dVnQ33U18) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9), [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw) | [The Passenger](https://open.spotify.com/album/6BOlCg7eDQ6dECEPIXOuK5) | 3:26 |
 | 4 | [Wind Spirit](https://open.spotify.com/track/4o3bNPUWTYfRbu8hg6j7s9) | [Bill Miller](https://open.spotify.com/artist/2l8E4EL4K1KGVjKbkDKpKP) | [Spirit Songs: The Best Of Bill Miller](https://open.spotify.com/album/6jKizuqUjYCyPbFHvvysKe) | 2:56 |
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 59 | [Native Flute Symphony \- The Journey](https://open.spotify.com/track/0MpgQBGeLGD0HrYYZcAKLM) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Vision Seeker \- A Journey in Native Flute, Drum & Voice](https://open.spotify.com/album/2afkInoGkt2kqrMnWhs0na) | 4:08 |
 | 60 | [Of Shadow and Light](https://open.spotify.com/track/60EPxhYda9FZCgzhxbi3h8) | [John Two\-Hawks](https://open.spotify.com/artist/67Gb7eYu3zEzI8rCg8kpii) | [Hidden Medicine](https://open.spotify.com/album/1NZuFkLtkaStYMRRLXk12a) | 4:40 |
 | 61 | [Hidatsa Garden Song](https://open.spotify.com/track/3T0mXm3Y7wqdivJURhCQMG) | [Keith Bear](https://open.spotify.com/artist/3zRVLB0gPQprgPNXgwZgV4) | [Spirit Mountain \- Authentic Music of the American Indian](https://open.spotify.com/album/2pOoyAl8F3PlNY5aQvVg91) | 3:18 |
-| 62 | [Native American Flute](https://open.spotify.com/track/6oN4n97q8QeKB9rCV53F8g) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:35 |
+| 62 | [Native American Flute](https://open.spotify.com/track/6oN4n97q8QeKB9rCV53F8g) | [MBS Body & Spirit](https://open.spotify.com/artist/0327vvL2PfdXWsGBZsPg2d) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:35 |
 | 63 | [Morning Star](https://open.spotify.com/track/5sfFEw3xJ0gAvBdsUqkjz0) | [Hovia Edwards](https://open.spotify.com/artist/2qEoRYTRLgp3aYECBZxTF2) | [Morning Star](https://open.spotify.com/album/5qny1AWX9IvHbJ0ghPv9QI) | 3:40 |
 | 64 | [Ancient Memories](https://open.spotify.com/track/1OMXoXsL6NMyF1YVuHM3UY) | [Douglas Blue Feather](https://open.spotify.com/artist/2CzwmPhvEfmTQOyEgK0CQR) | [The Best of Douglas Blue Feather](https://open.spotify.com/album/1nuxZgq1q8ZYSPAWvpfFXh) | 5:23 |
 | 65 | [Daybreak Vision](https://open.spotify.com/track/6u7gkxuLH88WxAyUAVMgOT) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 1:49 |
 | 66 | [Elders Speak](https://open.spotify.com/track/2QeZliWDH9IhJxHDGF85Q1) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m), [Darrin Yazzie](https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN) | [Earth Warrior \- Light of our Ancestors](https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr) | 3:55 |
 | 67 | [Lullaby with Flute & Crickets \- Soothing Crickets And Solo Flute](https://open.spotify.com/track/09n5OYAlgClYFQFYtXjVwS) | [Native American Flute](https://open.spotify.com/artist/0VaYChYezacJi7h3aCmcpG) | [Native American Flute: Sleep Music](https://open.spotify.com/album/3t8ECdZ3ZWuDU0ksoaI8Rz) | 4:22 |
 | 68 | [Translucent Shadows](https://open.spotify.com/track/1OmnvhVmoct7xBGdm0VTXD) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/3F54i2mdjYQ7dLWmaZTllR) | 5:59 |
-| 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
+| 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [MBS Body & Spirit](https://open.spotify.com/artist/0327vvL2PfdXWsGBZsPg2d) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Melody](https://open.spotify.com/track/7hjxUyGVA2SYbmgJbZpr6T) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [\(Indian\) Native Flute Ensemble: Spirit Wind \- Native American Flute](https://open.spotify.com/album/3R5UUf6XOznRyhtj7QsKjQ) | 3:14 |
 
 Snapshot ID: `AAAAAJ8g8gNdQX/2VfPuWGgSUrXFkJDX`

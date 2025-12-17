@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-339 songs - 21 hr 5 min
+340 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 | 2022-05-26 |  |
 | [The Bottom of It](https://open.spotify.com/track/4bva6j9FaGs1rdCzScAqLk) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [The Bottom of It](https://open.spotify.com/album/1k4JXPaKc4ZSZPalFAoWRA) | 3:01 | 2021-12-09 | 2022-07-25 |
 | [The Bottom of It](https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp) | 3:01 | 2022-07-21 | 2024-04-19 |
+| [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 | 2025-12-16 |  |
 | [The Love](https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 2:38 | 2022-07-21 | 2024-04-19 |
 | [The Love](https://open.spotify.com/track/62LTppMMcW65EGe7gKs5nL) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [The Love](https://open.spotify.com/album/26cjoxtd6SxMvyy8xzLeXs) | 2:38 | 2021-12-09 | 2022-07-29 |
 | [The Mess We Make](https://open.spotify.com/track/7cetoxbgUuslYQEYkAUBIP) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [The Mess We Make](https://open.spotify.com/album/1BYqmwjC7pRkdJ1742WBNM) | 3:27 | 2022-04-14 | 2022-04-21 |
@@ -317,7 +318,7 @@
 | [There's Nothing In The Water We Can't Fight](https://open.spotify.com/track/3A0rcWDZX9YCYwQmIvhwDl) | [Cloud Control](https://open.spotify.com/artist/5DCtsJfyBEzvZ9qN7jSA6j) | [Bliss Release](https://open.spotify.com/album/0qly5POWuw9cGEi2gJtu3O) | 3:59 | 2023-01-18 | 2023-02-18 |
 | [This Here Island](https://open.spotify.com/track/3eeUu1HT2I2cVKjRLklLUh) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [This Here Island](https://open.spotify.com/album/6dV1f3Xt8yzwj8xYQyLJEQ) | 4:03 | 2021-12-09 |  |
 | [Time Won't Go Slowly](https://open.spotify.com/track/494RirQRobkj9gh2RwkDqi) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Time Won't Go Slowly](https://open.spotify.com/album/597BT7KsEpWxEd2FaPl1Pd) | 3:41 | 2022-04-14 | 2022-04-19 |
-| [tongue\-tied & starry\-eyed](https://open.spotify.com/track/55zZv3cr8mySL0lqzg2Ic0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU), [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [tongue\-tied & starry\-eyed](https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA) | 3:13 | 2024-10-25 |  |
+| [tongue\-tied & starry\-eyed](https://open.spotify.com/track/55zZv3cr8mySL0lqzg2Ic0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU), [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [tongue\-tied & starry\-eyed](https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA) | 3:13 | 2024-10-25 | 2025-12-17 |
 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 | 2022-03-10 |  |
 | [Too Late](https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Too Late](https://open.spotify.com/album/4VhSINv5l9dJN1t781T6sX) | 4:12 | 2022-04-14 | 2022-04-21 |
 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 | 2024-08-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: Skin On Skin
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,648 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,654 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 43 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 |
 | 44 | [WARCRY](https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [LOST IN HEAVEN \(HIGH AS HELL\) \[Deluxe\]](https://open.spotify.com/album/6rcnUgf07ihw83jjuaCXfR) | 3:02 |
 | 45 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 |
-| 46 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
+| 46 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
 | 47 | [Never Love](https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Never Love](https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ) | 3:30 |
-| 48 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
-| 49 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
+| 48 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
+| 49 | [Yougotmefeeling](https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Yougotmefeeling](https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4) | 3:03 |
 | 50 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 |
 | 51 | [U Should Not Be Doing That](https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 3:24 |
-| 52 | [Stay With Me](https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:47 |
+| 52 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 |
 | 53 | [REMIND ME](https://open.spotify.com/track/7hWVFCk6UZf8Pjywuemi6l) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [REMIND ME](https://open.spotify.com/album/5NZLWaWu9JYHR2Vqy5A1Zu) | 3:34 |
-| 54 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 |
+| 54 | [Stay With Me](https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Stay With Me](https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R) | 3:47 |
 | 55 | [GEEKD](https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [GEEKD](https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd) | 2:11 |
 | 56 | [System](https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [System](https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk) | 3:21 |
 | 57 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 70 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |
 | 71 | [This Time For Real](https://open.spotify.com/track/2LDTkxBmLRr4ENG0kNQLum) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [This Time For Real](https://open.spotify.com/album/4Tv8PFvKfr1Bb4dOZq9b8Z) | 3:12 |
 | 72 | [Monsoon](https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [DUMB](https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs) | 2:50 |
-| 73 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
-| 74 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
-| 75 | [Big Ideas](https://open.spotify.com/track/75epmKQsn2S7ZGKKGHiupK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Ideas](https://open.spotify.com/album/7xfeC5mioThYz3byVAIeOO) | 2:39 |
+| 73 | [Give Thanks, Give Praise](https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 3:41 |
+| 74 | [Big Ideas](https://open.spotify.com/track/75epmKQsn2S7ZGKKGHiupK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Ideas](https://open.spotify.com/album/7xfeC5mioThYz3byVAIeOO) | 2:39 |
+| 75 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
 
 Snapshot ID: `AAAAAKKJu6fXytnKNS3p8z0acF8ky4AQ`

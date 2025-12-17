@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-372 songs - 1 day 0 hr 2 min
+373 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Always](https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Always](https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei) | 3:36 | 2025-06-09 | 2025-08-16 |
 | [Amalia Play \(feat\. Amalia\)](https://open.spotify.com/track/4N5J8lR2f0ts6lKJiAWQmk) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Reflections 08](https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP) | 4:15 | 2024-04-15 | 2024-04-20 |
 | [Amber Clouds](https://open.spotify.com/track/0QayVAIaizSP9Wt3t55ce3) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 3:40 | 2024-11-01 | 2025-01-14 |
+| [Amber Sea](https://open.spotify.com/track/3I1dwVKjv8Gr4PkjzInemx) | [Ocean Flor](https://open.spotify.com/artist/0LoAvUve5dlyMSOtpcaAxL) | [Amber Sea](https://open.spotify.com/album/1DCnYRxYIHL8nSCg83PRIT) | 2:54 | 2025-12-16 |  |
 | [Ambient Resonances](https://open.spotify.com/track/4aEXOceIIBTWEMhXQ4ivXz) | [The Floating Whale](https://open.spotify.com/artist/7egG6Bs3yvF8st1lQ1Aa0h), [Hiyasu Cuts](https://open.spotify.com/artist/2Y9fGLK2O6rYdTftrcgKnO) | [Ambient Resonances](https://open.spotify.com/album/0qnDn96QQ9t6c6Q1jifsEr) | 1:45 | 2024-04-26 | 2024-05-24 |
 | [And Yet \- Gold Panda Remix](https://open.spotify.com/track/54g5CPCX4cJIAqNnS772pR) | [Will Samson](https://open.spotify.com/artist/6VBJxxPZ84ty9nR1nFkNNx), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [And Yet \(Gold Panda Remix\)](https://open.spotify.com/album/6LNDNbQAtMzcYwhuuiw8q2) | 3:28 | 2024-01-26 | 2024-05-18 |
 | [Anywhere \(Road Trippin'\) \- Unplugged](https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Beautiful World Field Notes: Unplugged](https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M) | 3:52 | 2024-05-23 | 2024-10-19 |
@@ -271,7 +272,7 @@
 | [Persevere \- An Evening With Wife's Piano Playing](https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu) | [Alex Rusin](https://open.spotify.com/artist/5ncIkDwysG4a84OvqiL4uS) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 2:25 | 2024-07-19 | 2024-10-12 |
 | [Philos \- Edit](https://open.spotify.com/track/6uMuNTt5BKq9Ft0N8StW2T) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Philos](https://open.spotify.com/album/6lm4yj3INP6F6X5L2j4auk) | 3:55 | 2025-07-04 |  |
 | [Piha Lounging](https://open.spotify.com/track/0PYC777EjWywXUnojj0SEB) | [Day We Ran](https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS) | [Piha Lounging](https://open.spotify.com/album/2LxtFbVFwCkI9z8vFtRb4q) | 3:50 | 2025-11-06 |  |
-| [Potential](https://open.spotify.com/track/5cY1HAqMCWX6O8NsmvIaEP) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Potential EP](https://open.spotify.com/album/5sOXGKshInDELSldm7D7Vx) | 3:55 | 2025-06-20 |  |
+| [Potential](https://open.spotify.com/track/5cY1HAqMCWX6O8NsmvIaEP) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Potential EP](https://open.spotify.com/album/5sOXGKshInDELSldm7D7Vx) | 3:55 | 2025-06-20 | 2025-12-17 |
 | [prayers](https://open.spotify.com/track/5sfAgXA73MPNkgXfLMHWOt) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [a liturgy for grief](https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl) | 4:39 | 2025-12-02 | 2025-12-06 |
 | [Push](https://open.spotify.com/track/1R7IHRsBICbt7ye7EihWsS) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Anjunadeep pres\. Reflections Vol\. 3](https://open.spotify.com/album/0OAHHOQXOuk6Srzu8Y8D8k) | 4:28 | 2025-01-13 | 2025-02-22 |
 | [Put You Back Together](https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Put You Back Together](https://open.spotify.com/album/2iE2GaYIZCGqCcJdMBFv3v) | 3:00 | 2024-06-21 | 2024-11-30 |

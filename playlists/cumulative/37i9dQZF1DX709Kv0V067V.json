@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "quiet return",
+        "url": "https://open.spotify.com/album/63LmVpu48R5cVAOQvHNsOl"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204288,
+      "name": "quiet return",
+      "url": "https://open.spotify.com/track/5eBbbu1uhLZdhFmpAu7WOq"
+    },
+    {
+      "album": {
         "name": "Rain Theta 146-151hz",
         "url": "https://open.spotify.com/album/2P86wm0pzidW2gux1YgaaN"
       },
@@ -4766,7 +4784,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 140425,
       "name": "Stay Connected",
       "url": "https://open.spotify.com/track/1KhsDtjzq9r6M4DqNo8Q4M"

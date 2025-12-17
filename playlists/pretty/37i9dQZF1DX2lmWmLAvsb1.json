@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 81432,
+  "num_followers": 81449,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
@@ -335,26 +335,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "Yo x Ti, Tu x Mi",
         "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
-        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "La Mejor Versi\u00f3n de Mi - Remix",
-      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "FANTAS\u00cdA",
         "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 163813,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/2vrpcQNg6itmgVZWsNjWe0"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "La Mejor Versi\u00f3n de Mi (Remix)",
+        "url": "https://open.spotify.com/album/0OChMQnL4dpFZQH93uPb1d"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "La Mejor Versi\u00f3n de Mi - Remix",
+      "url": "https://open.spotify.com/track/2dy3TKVDEbIeWxeIb8JWqZ"
     },
     {
       "added_at": "2024-07-13 01:21:22",

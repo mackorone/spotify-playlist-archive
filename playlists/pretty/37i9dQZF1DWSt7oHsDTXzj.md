@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,520 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,023 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 50 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 51 | [A Little Love](https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [A Little Love \(From The John Lewis & Waitrose Christmas Advert 2020\)](https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4) | 2:58 |
 | 52 | [Angel In The Snow](https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3) | 2:38 |
-| 53 | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 |
-| 54 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
-| 55 | [Another Sappy Xmas Love Song](https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Another Sappy Xmas Love Song](https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS) | 2:24 |
-| 56 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
+| 53 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
+| 54 | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did I Make You Cry on Christmas Day? \(Well, You Deserved it!\)](https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ) | 3:42 |
+| 55 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
+| 56 | [Another Sappy Xmas Love Song](https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Another Sappy Xmas Love Song](https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS) | 2:24 |
 | 57 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 |
 | 58 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 59 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 64 | [Cozy Christmas](https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Cozy Christmas / December Baby](https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe) | 3:57 |
 | 65 | [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 |
 | 66 | [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 |
-| 67 | [Amelia \(A Christmas Carol\)](https://open.spotify.com/track/3es8Mx4rLDVFw6DQBqwCTG) | [Jimmy Kelly](https://open.spotify.com/artist/36HJ2ONaZ9fShnJvgvqFTq) | [Amelia \(A Christmas Carol\)](https://open.spotify.com/album/0JF3CO07Svd1lFLnRWXOdy) | 3:03 |
-| 68 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
-| 69 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
+| 67 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
+| 68 | [Amelia \(A Christmas Carol\)](https://open.spotify.com/track/3es8Mx4rLDVFw6DQBqwCTG) | [Jimmy Kelly](https://open.spotify.com/artist/36HJ2ONaZ9fShnJvgvqFTq) | [Amelia \(A Christmas Carol\)](https://open.spotify.com/album/0JF3CO07Svd1lFLnRWXOdy) | 3:03 |
+| 69 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
 | 70 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 |
 | 71 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
 | 72 | [Christmas Angel](https://open.spotify.com/track/6MBil1JRoxDGcBoAFqrVoW) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Christmas Angel](https://open.spotify.com/album/1FlHC4DRyMXDrg3xsaxh8a) | 2:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Winter Hat](https://open.spotify.com/track/1RhMRGtAwqdLKR4zembdN9) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Winter Hat](https://open.spotify.com/album/3F5Wd8RB1tll3qQn7f1zYx) | 2:54 |
 | 75 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |
 
-Snapshot ID: `AAAAANLnGOwh2DJaLJclgpJw87kq3fjM`
+Snapshot ID: `AAAAANSm03ud3HSMDGYwoOy+sGln7KfA`

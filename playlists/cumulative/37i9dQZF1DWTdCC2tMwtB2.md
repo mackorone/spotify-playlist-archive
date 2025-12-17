@@ -4,7 +4,7 @@
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-52 songs - 2 hr 57 min
+53 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Brown Rang](https://open.spotify.com/track/3yRLROmAcKJBqTrdEczFB8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [International Villager](https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S) | 3:31 | 2025-10-14 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2025-10-14 |  |
 | [Chandni](https://open.spotify.com/track/0t8qUG81HRAzlCpftm8Hlk) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Chandni](https://open.spotify.com/album/4NoXfpBsI0EbAgYk3hLNav) | 4:08 | 2025-10-14 |  |
+| [Charmer](https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:55 | 2025-12-16 |  |
 | [Desi Kalakaar](https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Desi Kalakaar](https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H) | 4:13 | 2025-10-14 |  |
 | [Dheere Dheere](https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Dheere Dheere](https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2) | 3:32 | 2025-10-14 |  |
 | [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:32 | 2025-10-14 |  |
@@ -49,7 +50,7 @@
 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 | 2025-10-14 |  |
 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2025-10-14 |  |
 | [Thoda Thoda Pyaar](https://open.spotify.com/track/7q0XU83dlXOzoAor3sulOM) | [Nilesh Ahuja](https://open.spotify.com/artist/7BTWFChvstLB6ZCvuiUaZV), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq) | [Thoda Thoda Pyaar](https://open.spotify.com/album/4LUJN2b97jHQui8LoQWnxp) | 4:04 | 2025-10-14 |  |
-| [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 | 2025-12-02 |  |
+| [Tu / You](https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Tu/You \- Spotify Singles](https://open.spotify.com/album/4MGu4YPgaKkxwgGf6MaAyn) | 2:22 | 2025-12-02 | 2025-12-17 |
 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 | 2025-10-14 |  |
 | [Tu Hai](https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Tu Hai](https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY) | 2:44 | 2025-10-14 |  |
 | [Tu Jaana Na Piya](https://open.spotify.com/track/4u0D2jZ20wQaEMHBSqsDnZ) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 3:46 | 2025-10-14 |  |

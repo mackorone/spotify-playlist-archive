@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,852 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,850 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 20 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 21 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
 | 22 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
-| 23 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
-| 24 | [Chasing Silhouettes](https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Chasing Silhouettes](https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo) | 2:57 |
+| 23 | [Chasing Silhouettes](https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Chasing Silhouettes](https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo) | 2:57 |
+| 24 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 25 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 26 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
 | 27 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |

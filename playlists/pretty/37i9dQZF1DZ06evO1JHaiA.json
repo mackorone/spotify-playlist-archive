@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAxmrj6v8bp00+SGW07pciq",
+  "snapshot_id": "aT9PgAAAAAAXBvqrycb9G8R6T5rr1OaP",
   "tracks": [
     {
       "added_at": null,
@@ -347,38 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Turn the Hands of Time",
-      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Everyone's a Star",
-      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -403,6 +371,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Everyone's a Star",
+      "url": "https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Turn the Hands of Time",
+      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -415,38 +415,6 @@
       "duration_ms": 208386,
       "name": "To Be Happy Is the Real Thing",
       "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 225027,
-      "name": "This Is My Love Song",
-      "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Energy of Love",
-      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
     },
     {
       "added_at": null,
@@ -475,6 +443,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Energy of Love",
+      "url": "https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 225027,
+      "name": "This Is My Love Song",
+      "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Save the Children",
         "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
       },
@@ -487,38 +487,6 @@
       "duration_ms": 305600,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/0yinyTv5ecDZLLdzOcK2sI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Traveling Home",
-      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Energy of Love",
-        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Lonely Lonely",
-      "url": "https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK"
     },
     {
       "added_at": null,
@@ -543,6 +511,38 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Energy of Love",
+        "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Lonely Lonely",
+      "url": "https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only One",
-        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
+        "name": "Koko-Mojo Diner, Vol. 2 - Cornbread & Cabbage Greens",
+        "url": "https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4"
       },
       "artists": [
         {
           "name": "The Intruders",
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Tommy Brown",
-          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
         }
       ],
-      "duration_ms": 257333,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
+      "duration_ms": 117933,
+      "name": "Fried Eggs",
+      "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
     },
     {
       "added_at": null,
@@ -799,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Koko-Mojo Diner, Vol. 2 - Cornbread & Cabbage Greens",
-        "url": "https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 117933,
-      "name": "Fried Eggs",
-      "url": "https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Guitar Instrumentals: '50s & '60s",
         "url": "https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 151866,
       "name": "Jefferies Rock",
       "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Tommy Brown",
+          "url": "https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
     },
     {
       "added_at": null,

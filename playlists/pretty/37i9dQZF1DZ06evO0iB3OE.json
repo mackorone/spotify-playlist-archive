@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 10368,
+  "num_followers": 10371,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABuak0c0NgLRFhw+ebV9vAX",
+  "snapshot_id": "aT9PgAAAAACMPsQl6a4cKAnSKFSju71d",
   "tracks": [
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni"
         }
       ],
-      "duration_ms": 135673,
-      "name": "Qui\u00e9reme - En Vivo",
-      "url": "https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu"
+      "duration_ms": 227322,
+      "name": "La Muerte de Julio Beltr\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Rancho Bella Vista",
-        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
-      },
-      "artists": [
-        {
-          "name": "Inteligencia Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
-        },
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Rama Seca",
-      "url": "https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Maz Poderoso",
         "url": "https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ"
       },
@@ -803,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Las Tapias",
-        "url": "https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW"
+        "name": "Desde el Rancho Bella Vista",
+        "url": "https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS"
       },
       "artists": [
         {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+          "name": "Inteligencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs"
         },
         {
-          "name": "Los Canelos De Durango",
-          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 189160,
-      "name": "Lamberto Verdugo - En Vivo Desde Las Tapias",
-      "url": "https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE"
+      "duration_ms": 182008,
+      "name": "Rama Seca",
+      "url": "https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle"
     },
     {
       "added_at": null,
@@ -835,6 +815,26 @@
       "duration_ms": 185906,
       "name": "Los Dos Jefes",
       "url": "https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Las Tapias",
+        "url": "https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Los Canelos De Durango",
+          "url": "https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Lamberto Verdugo - En Vivo Desde Las Tapias",
+      "url": "https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE"
     },
     {
       "added_at": null,

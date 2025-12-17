@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: DjRUM
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,870 likes - 102 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,920 likes - 102 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

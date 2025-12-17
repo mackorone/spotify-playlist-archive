@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. Cuco en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,182 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,187 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 8 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
 | 9 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 |
 | 10 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
-| 11 | [Vida Rockstar](https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 3:26 |
+| 11 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
 | 12 | [CENTROAMERICANA](https://open.spotify.com/track/4uXWstWV7YxeoG0kx1Axlr) | [Ben Carrillo](https://open.spotify.com/artist/2LaHOt5YZlFAhZ22KDI5fS) | [CENTROAMERICANA](https://open.spotify.com/album/5kOrfCiHuYXveMaWRUWuiD) | 2:55 |
-| 13 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
+| 13 | [Vida Rockstar](https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 3:26 |
 | 14 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
 | 15 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:43 |
 | 16 | [Morfina \(feat\. Paloma Mami\)](https://open.spotify.com/track/5FJBIe3cG4y9uUaIxuP4vH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:49 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 28 | [En El Olvido](https://open.spotify.com/track/6cj2ifwMpLG8EiOUGfsFX0) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:26 |
 | 29 | [Amor De Verano](https://open.spotify.com/track/1x5grbjg1aTfooGJzTLDL1) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Amor De Verano](https://open.spotify.com/album/4Wo9OY2Ri94UiSAKH54957) | 2:10 |
 | 30 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
-| 31 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
-| 32 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
+| 31 | [Tú Me Llevas a Un Espacio](https://open.spotify.com/track/6nLZNcjF6a9wa0HH17KsF3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Descifrar](https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F) | 3:13 |
+| 32 | [Mexico](https://open.spotify.com/track/4ix1Sthfg7xwrDwM0Zj53k) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Mexico](https://open.spotify.com/album/7CgEURpwKsDNDDQ5NuFZgp) | 3:40 |
 | 33 | [Un Inmigrante](https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [MEMORIAS](https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf) | 3:35 |
 | 34 | [DURO](https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [¡BANG BANG!](https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM) | 2:22 |
 | 35 | [cuida](https://open.spotify.com/track/1CTkL5eli1SYcgTjQDNlC6) | [csndra](https://open.spotify.com/artist/2bVAzXBTTKrvtFlQbe0qwe), [Jandro Blu](https://open.spotify.com/artist/415i66INhubKPIwQhMtRWW) | [cuida](https://open.spotify.com/album/6Gne8FkmQsA4QtRoBTOqb8) | 2:46 |

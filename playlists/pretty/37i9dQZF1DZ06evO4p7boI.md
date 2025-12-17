@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,991 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,995 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 33 | [Vetement Socks](https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:35 |
 | 34 | [Held Me Down](https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:48 |
 | 35 | [ABOUT YOU \(with NAV\)](https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 3:24 |
-| 36 | [Price On My Head \(feat\. The Weeknd\)](https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:37 |
-| 37 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 |
+| 36 | [One Time \(with Don Toliver feat\. Future\)](https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:09 |
+| 37 | [Price On My Head \(feat\. The Weeknd\)](https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:37 |
 | 38 | [Lonely](https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:35 |
 | 39 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 |
 | 40 | [NOTHING 4 FREE \(feat\. NAV\)](https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [No Debate \(feat\. Young Thug\)](https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:08 |
 | 50 | [REAL ME \(WITH METRO BOOMIN\)](https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [REAL ME](https://open.spotify.com/album/0pPQgcXmQXqlFEgYJPMgBX) | 3:07 |
 
-Snapshot ID: `aT3+AAAAAACxjIO2Q6CKYpevoKH7jRmH`
+Snapshot ID: `aT9PgAAAAABQbRdjO4jP9kil+y6Jpy3b`

@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31737,
+  "num_followers": 31740,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAB4z4pq8ydL41aus369kjOI",
+  "snapshot_id": "aT9PgAAAAADK4vwTTja+zGOxbArwrghk",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Polvo de Gigantes",
         "url": "https://open.spotify.com/album/3clfNcjfrCsU8cD0Uvv5ol"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 157066,
       "name": "Polvo de Gigantes",
       "url": "https://open.spotify.com/track/3SiGPL00m2bqQ7HCchTL0F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES"
     },
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo",
         "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 230323,
       "name": "Tengo",
       "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/6gA1VnJMJYUi4kFTg7OqtM"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caminando en Fuego",
         "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 245600,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/2EZeX3b1nCIVyOd215dIhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
     },
     {
       "added_at": null,

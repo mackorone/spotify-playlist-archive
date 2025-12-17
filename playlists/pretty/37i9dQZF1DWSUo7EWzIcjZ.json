@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 387535,
+  "num_followers": 387526,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Rey De Corazones",
-        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
-      },
-      "artists": [
-        {
-          "name": "Manny Manuel",
-          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
-        }
-      ],
-      "duration_ms": 288280,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 278106,
       "name": "Ni Tu Ni Yo",
       "url": "https://open.spotify.com/track/0HXa7KKhJdwU5ypGHvwzBw"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Rey De Corazones",
+        "url": "https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF"
+      },
+      "artists": [
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "duration_ms": 288280,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Ultimate Merengue Party 2000",
-        "url": "https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL"
-      },
-      "artists": [
-        {
-          "name": "The Max Band",
-          "url": "https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Morena Ven",
-      "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 302320,
       "name": "Dile",
       "url": "https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Ultimate Merengue Party 2000",
+        "url": "https://open.spotify.com/album/4cDzLzM1MTi4B0zO205UdL"
+      },
+      "artists": [
+        {
+          "name": "The Max Band",
+          "url": "https://open.spotify.com/artist/0cvniMxWoe3hiblRxmdWsk"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "Morena Ven",
+      "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "La Radio",
-      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Juan and Nelson Records - 20 Exitos",
         "url": "https://open.spotify.com/album/7lgIfFtcDjj5sBH7dSpBGw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 263493,
       "name": "Oye",
       "url": "https://open.spotify.com/track/7nlTAOcOoj9GrWbuVVa0sE"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "La Radio",
+      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
     },
     {
       "added_at": "2024-06-28 21:55:14",

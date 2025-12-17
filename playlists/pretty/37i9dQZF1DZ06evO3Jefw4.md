@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,209 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,191 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [ARTIFICIAL \(feat\. JID\)](https://open.spotify.com/track/3UxPCKSa8fPIhP7KMSD0HW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 2:43 |
 | 50 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 
-Snapshot ID: `aT3+AAAAAADfH0PKeO6vou+amVrbeQU7`
+Snapshot ID: `aT9PgAAAAAAPnrc1naxhMbbvB2pvZ9az`

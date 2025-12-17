@@ -4,7 +4,7 @@
 
 > Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-304 songs - 18 hr 5 min
+310 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,12 @@
 | [Boys and Girls](https://open.spotify.com/track/1pAnXXOqSjzEpked5sS0MT) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 1:49 | 2023-02-27 | 2024-04-19 |
 | [Boys and Girls](https://open.spotify.com/track/5jXFYJmBInrxbbO9cFvoew) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:49 | 2019-07-10 |  |
 | [Breakdown](https://open.spotify.com/track/2Gsn3TlOb7gThstMAv9qff) | [John Harrison](https://open.spotify.com/artist/1YePRxXaCJ2zQKFCImrKw0) | [Day of the Dead \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lwhDBo8FfmRLyHI7iiKT5) | 3:52 | 2019-07-10 |  |
+| [Broadcast 1: Good Morning Hawkins!](https://open.spotify.com/episode/5o2gcZvy2DCjVtmYZBBsbU) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:24 | 2025-12-16 |  |
+| [Broadcast 2: You’re listening to WSQK The Squawk](https://open.spotify.com/episode/3eJRMbhNlQ2DGnTrDSM8Zf) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:13 | 2025-12-16 |  |
+| [Broadcast 3: Don’t turn that dial](https://open.spotify.com/episode/4DkEqAz1xqzYnjAe6kCwl0) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:07 | 2025-12-16 |  |
+| [Broadcast 4: Fellow quarantine compatriots](https://open.spotify.com/episode/22qkOLGOmKLQqyY5lPh1sA) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:34 | 2025-12-16 |  |
+| [Broadcast 5: Did you miss me?](https://open.spotify.com/episode/21ANGuA4iv9E0gsLrwOne7) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:11 | 2025-12-16 |  |
+| [Broadcast 6: Tell ‘em Rockin' Robin sent ya](https://open.spotify.com/episode/3QnXKtQSR3Ck2EuRngeox9) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:36 | 2025-12-16 |  |
 | [Burning Up](https://open.spotify.com/track/0kbzNl8QIYZ6aoZ7zcpNCY) | [Donnell Pitman](https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk) | ["Burning Up" b/w "A Taste of Honey"](https://open.spotify.com/album/0ajbhthTqbrjGkV7mvY6JN) | 4:21 | 2022-05-27 |  |
 | [California Dreamin'](https://open.spotify.com/track/04xLqOwtmMjz74y9bM677s) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:21 | 2022-05-27 |  |
 | [California Dreamin'](https://open.spotify.com/track/37U0SOW7pv9n2NyNmlrMRt) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Made In California](https://open.spotify.com/album/2bNE80uDjuw9kqCjC6cZMR) | 3:24 | 2022-05-27 | 2022-11-14 |

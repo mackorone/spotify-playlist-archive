@@ -1,6 +1,6 @@
 {
   "description": "The indie viral hits you can't escape. Cover: ivri",
-  "num_followers": 619611,
+  "num_followers": 619867,
   "original_name": "Indie that hits different ",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "added_at": "2025-12-09 22:00:14",
+      "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 237026,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2025-12-09 22:00:14",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-12-09 22:00:14",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2025-12-09 22:00:14",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
       "artists": [
         {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 170333,
-      "name": "I Thought I Saw Your Face Today",
-      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2025-12-09 22:00:14",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
-        "name": "songs",
-        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 189464,
-      "name": "forwards beckon rebound",
-      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
-    },
-    {
-      "added_at": "2025-12-09 22:00:14",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 155500,
       "name": "Better in the Dark",
       "url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf"
+    },
+    {
+      "added_at": "2025-12-09 22:00:14",
+      "album": {
+        "name": "songs",
+        "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 189464,
+      "name": "forwards beckon rebound",
+      "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
     },
     {
       "added_at": "2025-12-09 22:00:14",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
-    },
-    {
-      "added_at": "2025-12-09 22:00:14",
-      "album": {
         "name": "Sadnecessary (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 190546,
       "name": "Can I Call You Rose?",
       "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
+      "added_at": "2025-12-09 22:00:14",
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
     },
     {
       "added_at": "2025-12-09 22:00:14",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2025-12-09 22:00:14",
-      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
       },
@@ -1571,22 +1555,6 @@
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
-    },
-    {
-      "added_at": "2025-12-09 22:00:14",
-      "album": {
-        "name": "Stranger in the Alps (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
     },
     {
       "added_at": "2025-12-09 22:00:14",
@@ -1607,6 +1575,38 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+    },
+    {
+      "added_at": "2025-12-09 22:00:14",
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr"
+    },
+    {
+      "added_at": "2025-12-09 22:00:14",
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-12-09 22:00:14",
       "album": {
-        "name": "Dinner in America Soundtrack",
-        "url": "https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd"
+        "name": "Pushing It Down and Praying",
+        "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
       },
       "artists": [
         {
-          "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 110110,
-      "name": "Watermelon",
-      "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
     }
   ],
   "unique_name": "Indie that hits different ",

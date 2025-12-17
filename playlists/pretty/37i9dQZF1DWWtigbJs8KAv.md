@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 
 > Canciones pa’ tra, tra, tra\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,385 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,406 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtigbJs8KAv.md) - [plain]
 | 12 | [ALMAS GEMELAS](https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ALMAS GEMELAS](https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT) | 3:55 |
 | 13 | [Baila Baila Baila \- Remix](https://open.spotify.com/track/7mWFF4gPADjTQjC97CgFVt) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Baila Baila Baila \(Remix\) \[feat\. Farruko, Anuel Aa\]](https://open.spotify.com/album/2njbaonul4fuGOFmPchUgU) | 3:55 |
 | 14 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
-| 15 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 |
-| 16 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 |
+| 15 | [Reloj](https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:51 |
+| 16 | [512](https://open.spotify.com/track/5jzEwSyyymBlf1fa1o39T2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Primer Dia de Clases](https://open.spotify.com/album/5r8T7S23cVDSd7a045h4N5) | 3:13 |
 | 17 | [Party](https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:47 |
 | 18 | [Si Se Da \- Remix](https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Si Se da Remix](https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6) | 5:32 |
 | 19 | [Tú Foto](https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,984 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,961 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 95 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 | 96 | [I Do \- Vandelux Remix](https://open.spotify.com/track/5muXOWzcV0ckxYq0ATO1EW) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [I Do \(Vandelux Remix\)](https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif) | 3:16 |
 | 97 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 |
-| 98 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
-| 99 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 |
+| 98 | [go with u \- Louis La Roche Remix](https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Louis La Roche](https://open.spotify.com/artist/0a03X57i18eG1yBzpmhZAs) | [Someone’s EP II X](https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR) | 4:26 |
+| 99 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
 | 100 | [Canary Islands](https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Canary Islands](https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L) | 3:24 |
 
 Snapshot ID: `AAAAAFm2vnqGrkqTG5W5xNGrGrtZA+6V`

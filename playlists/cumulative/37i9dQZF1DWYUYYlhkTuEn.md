@@ -4,7 +4,7 @@
 
 > Let's flow to the beats of downtempo deep house.
 
-70 songs - 7 hr 6 min
+71 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Forest Of Souls](https://open.spotify.com/track/5YECP7XMRmXLNNA38yhTNU) | [Feinheitsbrei](https://open.spotify.com/artist/5kSE2CEyHc2XC9lQCAH1ET) | [Stateless](https://open.spotify.com/album/31m9s1EjPMS3G9jvfhqngm) | 8:40 | 2023-11-10 | 2024-04-19 |
 | [Forest of Souls](https://open.spotify.com/track/68ivVcTKcwfvTEc8BWRm8b) | [Feinheitsbrei](https://open.spotify.com/artist/5kSE2CEyHc2XC9lQCAH1ET) | [Muscida](https://open.spotify.com/album/6PMIx5rJkJeHhLpGEel7a3) | 8:40 | 2024-02-08 |  |
 | [Hamdouchia \- Yamil Remix](https://open.spotify.com/track/4ZnXnJBnVPEStdMzLTEnfM) | [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Hamdouchia \(Yamil Remix\)](https://open.spotify.com/album/51oPEqh2uOoTNxh7aEO56r) | 6:31 | 2023-11-10 |  |
+| [Harajuku Daze](https://open.spotify.com/track/3Ekg5aLHIFWLRsK0fq4zZS) | [Red Beryl](https://open.spotify.com/artist/1XpPN3dIQWD9oCxKdXJog3) | [Harajuku Daze](https://open.spotify.com/album/5HIl1LxI20u8Ift4A3wtvw) | 3:22 | 2025-12-16 |  |
 | [Hidden Garden](https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Hidden Garden](https://open.spotify.com/album/5ADWAdx830C67511L0FVPj) | 4:57 | 2023-11-10 |  |
 | [Hypnos](https://open.spotify.com/track/7BM6DcS66FsWisqvfXpJvB) | [Acado](https://open.spotify.com/artist/1z6fgjuCMlbaHSM0xqApwM) | [Hypnos](https://open.spotify.com/album/6MCNpLk6dvP47hq2JZ3cxX) | 5:59 | 2023-11-10 |  |
 | [I Am Still Here](https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 4:24 | 2023-11-10 |  |

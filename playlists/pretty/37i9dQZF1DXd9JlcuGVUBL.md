@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: Bella
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,816 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,838 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 33 | [Wherever I Go](https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Wherever I Go](https://open.spotify.com/album/5Bx9iKHs2dMAZ9VkE7or6Q) | 4:11 |
 | 34 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 35 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
-| 36 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
+| 36 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
 | 37 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 |
 | 38 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 39 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |

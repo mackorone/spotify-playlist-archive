@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-125 songs - 6 hr 22 min
+126 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Como É Que A Gente Fica \- Ao Vivo](https://open.spotify.com/track/0zxWyvrKyz031tFfBnkYLr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Novas Histórias \(Ao Vivo\)](https://open.spotify.com/album/4pUsKJjeqLi99MZbRKD03U) | 2:43 | 2023-02-10 | 2024-04-19 |
 | [Contramão \- Ao Vivo](https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Gustavo Mioto Ao Vivo Em São Paulo](https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy) | 3:11 | 2023-02-10 | 2024-04-19 |
 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 | 2023-02-10 | 2025-08-19 |
-| [Cê Tem o Molho](https://open.spotify.com/track/0QdIRmcmAgBYoUtReHRrbC) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Cê Tem o Molho](https://open.spotify.com/album/2pz2hyMhJErRGw7qUfHaBC) | 2:43 | 2025-05-09 |  |
+| [Cê Tem o Molho](https://open.spotify.com/track/0QdIRmcmAgBYoUtReHRrbC) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Cê Tem o Molho](https://open.spotify.com/album/2pz2hyMhJErRGw7qUfHaBC) | 2:43 | 2025-05-09 | 2025-12-17 |
 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \(Ao Vivo Em Manaus\)](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 | 2023-02-10 |  |
 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 | 2023-02-17 | 2024-04-19 |
 | [Declaração pro Bar \- Ao Vivo](https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Amando, Bebendo e Sofrendo \(Ao Vivo\) \- EP 3](https://open.spotify.com/album/5tR4iEANCfJjjUOgxyYhtD) | 2:41 | 2023-07-28 | 2023-12-24 |
@@ -97,6 +97,7 @@
 | [O Que É Que Tem \- Ao Vivo](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall \(Ao Vivo\)](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 | 2023-02-10 | 2025-12-04 |
 | [Para, Pensa e Volta \- Ao Vivo](https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Yasmin Santos Ao Vivo em São Paulo \- EP 2](https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We) | 2:54 | 2024-03-14 | 2024-08-07 |
 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(Ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 | 2023-04-07 |  |
+| [Pega Esse Carro \- Ao Vivo](https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Energia \(Ao Vivo\)](https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y) | 2:45 | 2025-12-12 |  |
 | [Pense Em Mim \- Jorge & Mateus Elétrico](https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Jorge & Mateus Elétrico](https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt) | 3:32 | 2023-02-10 |  |
 | [Pergunta Boba \- Ao Vivo](https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [10 Anos \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm) | 3:48 | 2023-02-10 |  |
 | [Pior Experiência](https://open.spotify.com/track/3p79wqNX0ukgkZnZuxvMRs) | [Marcio e Douglas](https://open.spotify.com/artist/6eQ6iaplLP3xemnZ44t043) | [Pior Experiência](https://open.spotify.com/album/7Er2d9CzqiVnTTT4Jhcp5L) | 2:49 | 2023-02-14 | 2023-02-18 |

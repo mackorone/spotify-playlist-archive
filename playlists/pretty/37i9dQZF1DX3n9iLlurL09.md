@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > The Indie highlights of 2012\. Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,585 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,616 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 43 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 44 | [Sleep Alone](https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/1I1ZFdY9LI6kxPANmduRcN) | 3:56 |
 | 45 | [Fiction](https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:56 |
-| 46 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
-| 47 | [I Will Wait](https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 4:36 |
+| 46 | [I Will Wait](https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 4:36 |
+| 47 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
 | 48 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
 | 49 | [Lazuli](https://open.spotify.com/track/2TIJiqr72Qe9tGd26fStIN) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/600BVck2XflTAsEo0KhIfm) | 5:01 |
 | 50 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
-| 51 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
-| 52 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
+| 51 | [From Nowhere](https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Sweet Disarray](https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y) | 3:16 |
+| 52 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
 | 53 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 54 | [Chained](https://open.spotify.com/track/1E5HgxGmPFETzZp6g929hu) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:47 |
 | 55 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 91 | [Yet Again](https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY) | 5:18 |
 | 92 | [Oblivion](https://open.spotify.com/track/4P6n0udLAnmCNXVcobYbsK) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/48a7rOjTzpD1zzJAteeveE) | 4:11 |
 | 93 | [Default](https://open.spotify.com/track/0d2O5TNHO2T5XR95TVmgfp) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab) | [Django Django](https://open.spotify.com/album/2iKuaJUhHIXk8p9xNFM7d9) | 3:04 |
-| 94 | [Tessellate](https://open.spotify.com/track/1LfKHwrMydWNruvTonm0eO) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:02 |
+| 94 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
 | 95 | [All Of Me](https://open.spotify.com/track/0B4R6lMH2Fsyzcndp4RP4c) | [Tanlines](https://open.spotify.com/artist/7pW390CJdmhakvtcGZIqGP) | [Mixed Emotions](https://open.spotify.com/album/6ilQUgysYUuauHDwqJ0l7L) | 3:50 |
 | 96 | [Man on Fire](https://open.spotify.com/track/5GFfRpAb26A57ao6nxjIIS) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Here](https://open.spotify.com/album/6JyPG8lkkHvE1f76H1fysw) | 4:18 |
 | 97 | [Breathing Underwater](https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Synthetica](https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4) | 3:58 |
 | 98 | [The John Wayne](https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18) | [Little Green Cars](https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy) | [The John Wayne](https://open.spotify.com/album/3DmeelYEmVIPtB9qOLNyMG) | 4:51 |
-| 99 | [Taro](https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 5:14 |
+| 99 | [Tessellate](https://open.spotify.com/track/1LfKHwrMydWNruvTonm0eO) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/2AxfZb5aQHIXgsB1HA6OLL) | 3:02 |
 | 100 | [Good As New](https://open.spotify.com/track/0XIHRIerpIPFLCjlgeLHbN) | [Vacationer](https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7) | [Gone](https://open.spotify.com/album/3Lx8YDSuswGCfV8Tsb6i4E) | 3:24 |
 
 Snapshot ID: `AAAAAI89qLYH5dKkGIyD2Us8sujetmPp`

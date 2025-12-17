@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's original video series OUTSIDE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,120 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,121 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 | 14 | [Drifting \- \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:16 |
 | 15 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 |
 | 16 | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 |
-| 17 | [Cowboy In An Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 |
+| 17 | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 |
 | 18 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 |
 | 19 | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/track/5tZ4CiFTKrcyT2ZQ9Fnges) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/album/4MQ9OhxmmRFMUw91r8bxnP) | 2:46 |
 | 20 | [Flip a Coin \- Spotify OUTSIDE Version \- Live from Burnet, TX](https://open.spotify.com/track/2Hc0gzPRXrmUleRpUwX0sb) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Flip a Coin \(Spotify OUTSIDE Version \- Live from Burnet, TX\)](https://open.spotify.com/album/3SLqSzzUoodKo22UfEOGUd) | 3:32 |

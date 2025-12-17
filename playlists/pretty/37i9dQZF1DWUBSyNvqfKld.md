@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,387 likes - 59 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,389 likes - 59 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

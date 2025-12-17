@@ -1,6 +1,6 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 393478,
+  "num_followers": 393442,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
+        "name": "Into the Depths of Hell",
+        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 171576,
+      "name": "Whiskey Whiskey",
+      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1UGWZxOlDi4dU5GLXbow0b"
       },
@@ -951,6 +967,26 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/5EY9uxrUOSqG64coGCPA6q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 191234,
+      "name": "For All You Give (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/3YRFxtNz0CCiBYmZO0rPdr"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
       },
@@ -971,38 +1007,6 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
-        "name": "Into the Depths of Hell",
-        "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 171576,
-      "name": "Whiskey Whiskey",
-      "url": "https://open.spotify.com/track/0c1rlIZao3TFvRWKBig16H"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
-        "name": "Chemicals",
-        "url": "https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
     }
   ],
   "unique_name": "Rainy Day",

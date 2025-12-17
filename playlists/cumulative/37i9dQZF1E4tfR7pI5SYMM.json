@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, MIK's Reaction, Organoclorados and more",
+  "description": "With AlligatorX, MIK's Reaction, Jon Drake and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 283875,
       "name": "Crush the Destroyer",
       "url": "https://open.spotify.com/track/4OFHNm4uTnZFcmDxjgrhs0"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 226758,
       "name": "Days and Roses",
       "url": "https://open.spotify.com/track/3zpfjxjnfosCaGLfJeZdEf"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 251545,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/4itpcUUnmcsN7PeLohBxoV"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 135600,
       "name": "Ez a gyertya \u00c9rted \u00e9g",
       "url": "https://open.spotify.com/track/7siRurfSaIm2WPd5eRgWLR"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 285326,
       "name": "Hierarchy Error",
       "url": "https://open.spotify.com/track/385v2ocXmuMJFsNj3xvHsV"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 203600,
       "name": "Little Respect - Rock Version",
       "url": "https://open.spotify.com/track/2COYCUPa4gndUQq5Afju5R"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "AREA 52",
+        "url": "https://open.spotify.com/album/4V7eSqNpIdrZV0FZTL4fht"
+      },
+      "artists": [
+        {
+          "name": "noha ichou",
+          "url": "https://open.spotify.com/artist/3o4qmobDaKgjEEBUI8VkLc"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326507,
+      "name": "mosquito's wing",
+      "url": "https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH"
+    },
+    {
+      "album": {
         "name": "Mr. Record Man",
         "url": "https://open.spotify.com/album/0YMnBDoskXpZGHVk8RXr51"
       },
@@ -2166,7 +2184,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 291478,
       "name": "My Mortal Coil",
       "url": "https://open.spotify.com/track/2hmXzT7IFp1nGbbhJqfv7x"
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -2541,6 +2559,24 @@
     },
     {
       "album": {
+        "name": "The Messenger",
+        "url": "https://open.spotify.com/album/5au71R19BKRJTNP74PoCnb"
+      },
+      "artists": [
+        {
+          "name": "Black Swan Lane",
+          "url": "https://open.spotify.com/artist/4yTpcTQPkEjDWR0jhrlPin"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242466,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/0wd5vQAbVsBFxlungrDqlV"
+    },
+    {
+      "album": {
         "name": "Reckoning",
         "url": "https://open.spotify.com/album/6hQPtJEb3f0w627JfOV4fq"
       },
@@ -2606,7 +2642,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 240500,
       "name": "Rockin'n'rollin'",
       "url": "https://open.spotify.com/track/1HwFFjxr6QyZVxRheVVQdA"
@@ -2920,7 +2956,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 251145,
       "name": "Sorry (In Bloom)",
       "url": "https://open.spotify.com/track/1CRjLq6UtODERxslpPHI4O"
@@ -2974,7 +3010,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
@@ -3162,7 +3198,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 254185,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0I1pjXfxBby3nA7zz3lD0t"
@@ -3736,7 +3772,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 232341,
       "name": "What If",
       "url": "https://open.spotify.com/track/0S7wl10vsQMAxp4JP08kEr"
@@ -3776,6 +3812,24 @@
       "duration_ms": 290000,
       "name": "When Everything Is Lost",
       "url": "https://open.spotify.com/track/3u6Hy2HCjmpt98RR57cBOO"
+    },
+    {
+      "album": {
+        "name": "Don't Want to Stop",
+        "url": "https://open.spotify.com/album/3NDv0NRRyl9uSn6SF7USQi"
+      },
+      "artists": [
+        {
+          "name": "Scott Jimmy",
+          "url": "https://open.spotify.com/artist/566O6P9z1Neip0rTk1qYZB"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187409,
+      "name": "Whisper in Storms",
+      "url": "https://open.spotify.com/track/2GLCWPkJT5eL2Zg6TCyi5J"
     },
     {
       "album": {
@@ -3880,7 +3934,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Your way only looks better from your side",
       "url": "https://open.spotify.com/track/0rSnsLri6UiGnugrDWRD9S"

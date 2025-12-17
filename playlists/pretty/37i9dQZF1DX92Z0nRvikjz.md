@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 
 > 他們把音樂給了世界、溫柔給了我們。所有的喜怒哀樂，仍然都會是五月天。
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,554 likes - 41 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,549 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

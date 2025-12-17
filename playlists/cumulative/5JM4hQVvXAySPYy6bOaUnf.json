@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "album": {
         "name": "Descendants Of The Sun Pt.3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu"
       },

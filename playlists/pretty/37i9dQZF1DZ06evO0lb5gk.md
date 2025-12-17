@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,306 likes - 42 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,345 likes - 42 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lb5gk.md) - [plain]
 | 41 | [Lizard Skin](https://open.spotify.com/track/5CPRRhl7cWZPGv9kGISivd) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 4:30 |
 | 42 | [The link](https://open.spotify.com/track/41lvb0OvnkBSDnbSvy3qlt) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The link](https://open.spotify.com/album/5Iu8zwiAb0aKznGs0P1Rrz) | 5:00 |
 
-Snapshot ID: `aT3+AAAAAAAIU0iGWDoUJ4XlkZYUFpU0`
+Snapshot ID: `aT9PgAAAAADmNmAvnvZAZipOeA3D+Ca4`

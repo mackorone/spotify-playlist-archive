@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 96067,
+  "num_followers": 96124,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAD/CeXpjYs8UQGY7fYfYU2u",
+  "snapshot_id": "aT9PgAAAAABpLOT6MhA/QLLgxG3BLhpw",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
+      "duration_ms": 161608,
+      "name": "hi grace",
+      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+        "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 161608,
-      "name": "hi grace",
-      "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
+      "duration_ms": 150320,
+      "name": "Elliot's Song - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe"
     },
     {
       "added_at": null,

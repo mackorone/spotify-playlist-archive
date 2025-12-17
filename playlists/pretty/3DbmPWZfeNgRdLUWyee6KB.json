@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1045,
+  "num_followers": 1052,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAANwmPoQng0HevbzWTUSEo6TR6OqIgm",
+  "snapshot_id": "AAANykSMbPBLa3WIoKz5YsGbYjxxkCVX",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -287,6 +287,22 @@
       "duration_ms": 142080,
       "name": "Lifespan",
       "url": "https://open.spotify.com/track/061iJoemR1JeGwFZa0339j"
+    },
+    {
+      "added_at": "2025-12-16 10:59:47",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 217206,
+      "name": "Candor",
+      "url": "https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2"
     },
     {
       "added_at": "2025-11-11 18:03:31",
@@ -3107,6 +3123,118 @@
       "duration_ms": 204879,
       "name": "Sabor a Caf\u00e9",
       "url": "https://open.spotify.com/track/0EVejdb25HjSn1MEi9N8sw"
+    },
+    {
+      "added_at": "2025-12-16 10:58:54",
+      "album": {
+        "name": "Hi-ya-no",
+        "url": "https://open.spotify.com/album/4lvmA2qn4KzZIomq7u0Rd7"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Tikis",
+          "url": "https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR"
+        }
+      ],
+      "duration_ms": 360960,
+      "name": "Hi-ya-no",
+      "url": "https://open.spotify.com/track/7oGZiK7KTyUjVu5NxHUoQW"
+    },
+    {
+      "added_at": "2025-12-16 10:59:01",
+      "album": {
+        "name": "Freeze the Moment",
+        "url": "https://open.spotify.com/album/5RjMIjmE7E6rPyPi9RNwpZ"
+      },
+      "artists": [
+        {
+          "name": "NuSkript",
+          "url": "https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "Freeze the Moment",
+      "url": "https://open.spotify.com/track/2Gcq7ptfslL7JZWQb80kxo"
+    },
+    {
+      "added_at": "2025-12-16 10:59:03",
+      "album": {
+        "name": "Crawl",
+        "url": "https://open.spotify.com/album/5AdzIhovQDWt5L1JT7o40e"
+      },
+      "artists": [
+        {
+          "name": "Alice Isabella",
+          "url": "https://open.spotify.com/artist/7mJxghz6FKmBNKQoi73xXA"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/0COUEawGGxO0lHL3Yf4FV9"
+    },
+    {
+      "added_at": "2025-12-16 10:59:05",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/46zxO5mYLe4G5FksdFGFma"
+      },
+      "artists": [
+        {
+          "name": "CRUSHES",
+          "url": "https://open.spotify.com/artist/1hKOcHvXIVFgmJdqcYJXuM"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/49MO56FpFGj56tR8SAYIGo"
+    },
+    {
+      "added_at": "2025-12-16 10:59:07",
+      "album": {
+        "name": "Boltneck",
+        "url": "https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ"
+      },
+      "artists": [
+        {
+          "name": "The Trespassers",
+          "url": "https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF"
+        }
+      ],
+      "duration_ms": 260312,
+      "name": "Boltneck",
+      "url": "https://open.spotify.com/track/6igTRenZofbW7sR9zElLja"
+    },
+    {
+      "added_at": "2025-12-16 10:59:09",
+      "album": {
+        "name": "All You'll Ever Be Good For",
+        "url": "https://open.spotify.com/album/3A7FpZAud1r50Gp5Z5Wcf4"
+      },
+      "artists": [
+        {
+          "name": "War Honey",
+          "url": "https://open.spotify.com/artist/3SSgUv1E6o0261Z951v2Na"
+        }
+      ],
+      "duration_ms": 298571,
+      "name": "My Little House",
+      "url": "https://open.spotify.com/track/6swSxpyjkBCXSHDIcKGwor"
+    },
+    {
+      "added_at": "2025-12-16 22:19:24",
+      "album": {
+        "name": "Never Grow Old",
+        "url": "https://open.spotify.com/album/67tAHAkXWexrEUoucXOkao"
+      },
+      "artists": [
+        {
+          "name": "The How",
+          "url": "https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW"
+        }
+      ],
+      "duration_ms": 211018,
+      "name": "Never Grow Old",
+      "url": "https://open.spotify.com/track/3QJfmcr1a0c86MCgLzaHnM"
     }
   ],
   "unique_name": "New Indie Music",

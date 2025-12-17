@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5Se2LB1C5h.md) - [plain]
 
 > Únete a la extravaganza del neón\. TOMORA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,143 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,170 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SENDA](https://open.spotify.com/track/5fswOZtpTleF5VWtB4dfcP) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [SENDA](https://open.spotify.com/album/4y2NyjhWERqyrvA3uiJmOH) | 4:04 |
 | 2 | [VENENO](https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |
 | 3 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 |
-| 4 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
+| 4 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
 | 5 | [Respirar](https://open.spotify.com/track/6LM2zxNsXJ2I42ERHT9CZ6) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [Paco Peña](https://open.spotify.com/artist/6c9o0YxpetYtcltqJuVDql) | [Respirar](https://open.spotify.com/album/70SI0nB6fAcYjTSKaWzNlh) | 3:48 |
 | 6 | [Kill The Vibe](https://open.spotify.com/track/4Mw1vqYfDWL2d8dJLWFYQp) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [Kill The Vibe](https://open.spotify.com/album/3RajPAonNivFPajGSnsh42) | 2:46 |
 | 7 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,071 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,063 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 38 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
 | 39 | [Hate the Club \(feat\. Masego\)](https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 4:38 |
 | 40 | [Valentina](https://open.spotify.com/track/2ax9yh9o3eJWbJZbF8tDvj) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Valentina](https://open.spotify.com/album/3ZzOPT9jEn4oXC2IY5ZP1p) | 2:08 |
-| 41 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 |
-| 42 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
+| 41 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
+| 42 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 |
 | 43 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 |
 | 44 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 45 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 58 | [OpenYourEyes](https://open.spotify.com/track/0wD1hxkixWeoJrQIO81yC6) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [OpenYourEyes](https://open.spotify.com/album/1ZHsJmm8PifUz9CTSRFsLT) | 3:13 |
 | 59 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
 | 60 | [The Rush \(feat\. Nia Long & Amaarae\)](https://open.spotify.com/track/7yLA0kPEYxI4ZEYuBwFecQ) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Nia Long](https://open.spotify.com/artist/6BM4RlXELVhbs7U0H1OlnH) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:43 |
-| 61 | [Sweet](https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Orion](https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl) | 2:54 |
-| 62 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
+| 61 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
+| 62 | [Sweet](https://open.spotify.com/track/4loQPdrZajkHuZTI0Qrhx1) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Orion](https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl) | 2:54 |
 | 63 | [Flounce](https://open.spotify.com/track/2mgiMZ9BFMI8YgGHtIlgmT) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:39 |
 | 64 | [RECLUSE](https://open.spotify.com/track/239VipGSNCZXMhEgVei9g3) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RECLUSE](https://open.spotify.com/album/2WUVOvapEN2Kb2lxoHGW14) | 3:51 |
 | 65 | [Lipstick Lover](https://open.spotify.com/track/0zBVnui5j6g5lDEfPpbobx) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:49 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 71 | [Impact](https://open.spotify.com/track/0QmY6iP25fSvuVwYz0GylI) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:59 |
 | 72 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 |
 | 73 | [BAD HABITS](https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:05 |
-| 74 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
-| 75 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 |
+| 74 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 |
+| 75 | [Heaven feat\. Tinashe](https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Heaven \(feat\. Tinashe\)](https://open.spotify.com/album/6KgSP1vLwIc3xBI7hUTrly) | 2:18 |
 
 Snapshot ID: `AAAAAHFLA9SpMz9mWM8F06/Ady+3M6v7`

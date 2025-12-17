@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Mon Laferte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,481 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,503 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 15 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [HASTA QUE ME ENAMORO](https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q) | 3:00 |
 | 16 | [Da Me](https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Da Me](https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv) | 2:25 |
 | 17 | [Lua Cheia](https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:17 |
-| 18 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
-| 19 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:42 |
+| 18 | [WASSUP](https://open.spotify.com/track/1aDAWD2QuWQUMoadcrr2Ru) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 2:42 |
+| 19 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 20 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 |
 | 21 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 | 22 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |

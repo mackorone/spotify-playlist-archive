@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 NTVG
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,820 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,843 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 38 | [No llora](https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Habla Tu Espejo](https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf) | 4:19 |
 | 39 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 |
 | 40 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 |
-| 41 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
-| 42 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
+| 41 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
+| 42 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
 | 43 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
 | 44 | [Va A Escampar](https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:41 |
 | 45 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 58 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 59 | [El Tiempo No Para \- Live In Buenos Aires / 2001](https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 5:21 |
 | 60 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
-| 61 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
-| 62 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 |
+| 61 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 |
+| 62 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
 | 63 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 |
 | 64 | [Rezo por Vos](https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:29 |
 | 65 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 76 | [Nada Nace](https://open.spotify.com/track/1EvXBtdPJF4QY2PK9XDDwF) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Esencia](https://open.spotify.com/album/5fPro8uymLfadWDm7FzM8B) | 3:33 |
 | 77 | [El Riesgo](https://open.spotify.com/track/7E6ljIUVDjlka1cNGnVg1F) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:28 |
 | 78 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
-| 79 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
-| 80 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
+| 79 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
+| 80 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
 
 Snapshot ID: `AAAAADg2eSPNzhWvupV5aAbTS3nLqA61`

@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 809176,
+  "num_followers": 809219,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 285727,
-      "name": "There's Nothing Better Than Love",
-      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 252613,
       "name": "The Search Is Over",
       "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 285727,
+      "name": "There's Nothing Better Than Love",
+      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "In The Lonely Hour (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
       },
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Take Me Home: Yearbook Edition",
         "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
       },
@@ -2195,6 +2195,22 @@
       "duration_ms": 219640,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2215,18 +2231,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 393640,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2327,22 +2343,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Glenn Medeiros",
         "url": "https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8"
       },
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Rhino Hi-Five: All-4-One",
         "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 292120,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/5IlaV4UNciCTDGxWVPfMKL"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
     }
   ],
   "unique_name": "In the Arms of a Woman",

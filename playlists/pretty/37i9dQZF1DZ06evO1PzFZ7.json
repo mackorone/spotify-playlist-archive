@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152310,
+  "num_followers": 152300,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADMgqhKp75aM7NVAZbox3p6",
+  "snapshot_id": "aT9PgAAAAAD0DZZV2Mz2ooYQS7C2Ej9c",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
       },
       "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 235805,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
+      "duration_ms": 235805,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
     },
     {
       "added_at": null,
@@ -471,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
       "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 170820,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "added_at": null,
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
       "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Geolier in cover della playlist urban più grande d'Italia 🔥
 
-945 songs - 1 day 21 hr 51 min
+946 songs - 1 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Bee](https://open.spotify.com/track/4ZTlsr3kmSylBKSTP7f2oR) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Lamborghini a Via Marina](https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp) | 2:45 | 2024-01-25 | 2024-05-17 |
 | [BELLA](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [BELLA](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-22 | 2023-11-03 |
 | [Bentley \(feat\. Simba La Rue, J Lord\)](https://open.spotify.com/track/4H8mFU6lQDvHVi4pIqrvku) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 1:59 | 2023-10-12 | 2024-01-11 |
+| [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 | 2025-12-17 |  |
 | [BETTY BOOP \(feat\. Artie 5ive\)](https://open.spotify.com/track/2rNxRLShYAjeIUUYA89wUQ) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:30 | 2025-12-15 |  |
 | [Bevendo Fumando](https://open.spotify.com/track/22RkrLiuGv7YGHLl9qTQ3b) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Bevendo Fumando](https://open.spotify.com/album/2tHziGnrc0Fqge0bXQHclo) | 2:12 | 2025-07-24 | 2025-08-01 |
 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 | 2025-01-24 | 2025-07-04 |
@@ -928,7 +929,7 @@
 | [Volgare \(feat\. Lazza\)](https://open.spotify.com/track/708IwQiqAhZMMpLQr41YkD) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:28 | 2023-06-01 | 2023-10-20 |
 | [Vorrei \(feat\. Lazza\)](https://open.spotify.com/track/5IbrGxWxB427KJEDrphgRN) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:11 | 2022-11-24 | 2023-05-26 |
 | [VRP](https://open.spotify.com/track/39aVVheaIKKIbd3iBPYcn3) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [VRP](https://open.spotify.com/album/4oTYBWPm6T9j3VarNwnyy5) | 2:28 | 2024-09-26 | 2025-01-10 |
-| [VVS CARTIER](https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:00 | 2025-05-01 |  |
+| [VVS CARTIER](https://open.spotify.com/track/3FrbT8aqk9xHtTfQc9Z3IR) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:00 | 2025-05-01 | 2025-12-17 |
 | [WAG1 \(feat\. Tedua & Sfera Ebbasta\)](https://open.spotify.com/track/3b98Oa2M44ySipMkHuWgiO) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 3:05 | 2024-10-17 | 2025-01-31 |
 | [WAO](https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [WAO](https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD) | 2:29 | 2023-04-27 | 2023-09-09 |
 | [We Shine](https://open.spotify.com/track/5ZK6qPtcnSOMIzpbuotWd8) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [La Cura](https://open.spotify.com/album/10KgFFVy2vVXp5fNjFebrS) | 2:22 | 2025-11-13 | 2025-11-28 |

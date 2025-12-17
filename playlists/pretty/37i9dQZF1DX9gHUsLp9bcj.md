@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,095 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,113 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 16 | [Cerezo Rosa \- Remastered](https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Sus Éxitos Fabulosos \(Remastered\)](https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf) | 2:47 |
 | 17 | [Ruega por Nosotros](https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:32 |
 | 18 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
-| 19 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
-| 20 | [Aquellos ojos verdes \(bolero\)](https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Alma de negro](https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj) | 2:20 |
+| 19 | [Aquellos ojos verdes \(bolero\)](https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Alma de negro](https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj) | 2:20 |
+| 20 | [Que Rico el Mambo](https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC) | [Pérez Prado y Su Gran Orquesta](https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x) | [El Rey del Mambo](https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7) | 3:08 |
 | 21 | [Usted](https://open.spotify.com/track/20NBwMxhtHrNgnWFIlNeP4) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Canciones De Amor](https://open.spotify.com/album/0aqqz67nPmidIqCUfaO69n) | 3:14 |
 | 22 | [Doce Cascabeles](https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA) | [Los Churumbeles De España](https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4) | [Los Churumbeles](https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3) | 3:12 |
 | 23 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 32 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
 | 33 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
 | 34 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
-| 35 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
-| 36 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
+| 35 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
+| 36 | [Yo](https://open.spotify.com/track/7E94RnuinkUBYSengvutwL) | [Andrés Huesca](https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt) | [México 100 Canciones Vintage](https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd) | 3:07 |
 | 37 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
 | 38 | [Cha\-Cha De Pollos \(Cha\-Cha for Chicks\)](https://open.spotify.com/track/69M6PgRULo02mZYzsN7fq5) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 2:47 |
 | 39 | [Cuban Nightmare](https://open.spotify.com/track/66QFXwU9ctm6PiiBqJrSZV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Hoy y Ayer](https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG) | 3:03 |

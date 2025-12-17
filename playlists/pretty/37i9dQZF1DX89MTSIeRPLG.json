@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23550,
+  "num_followers": 23558,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Freaky As Me",
-        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 129662,
-      "name": "Freaky As Me (feat. latto)",
-      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "My Life 4Hunnid",
         "url": "https://open.spotify.com/album/3g2sgN6wC92EwuEA9hLbH0"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 216953,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/3RniWkfPXJGxxM4IeBBRCe"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
     },
     {
       "added_at": "2022-10-01 20:31:11",

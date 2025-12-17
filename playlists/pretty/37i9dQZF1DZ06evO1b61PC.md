@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,335 likes - 41 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,337 likes - 41 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 2 | [All Your Love](https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [All Your Love](https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD) | 2:08 |
 | 3 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
 | 4 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
-| 5 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
-| 6 | [Indian Summer](https://open.spotify.com/track/05q78FY1IOa85XzPipVmvJ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/19MHrbDm0HLUSXZf9FTjji) | 4:08 |
+| 5 | [Indian Summer](https://open.spotify.com/track/05q78FY1IOa85XzPipVmvJ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Indian Summer](https://open.spotify.com/album/19MHrbDm0HLUSXZf9FTjji) | 4:08 |
+| 6 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
 | 7 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:18 |
 | 8 | [Say My Name](https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [Say My Name](https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI) | 3:30 |
 | 9 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 21 | [We Will Meet Again](https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d) | 3:21 |
 | 22 | [Drivin Thru the Night \- Jai Wolf Remix](https://open.spotify.com/track/1kfP0mK3HLu0VDMrspxIvr) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Parachute Remixes](https://open.spotify.com/album/6JdKGPp0ITpogQQkkqayjR) | 4:09 |
 | 23 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
-| 24 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
-| 25 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
+| 24 | [eye2eye \- Jai Wolf Remix](https://open.spotify.com/track/2SwWCfAwxum7Yl8F6AdDw3) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [eye2eye \(Jai Wolf Remix\)](https://open.spotify.com/album/1MBOL6X1XLaNkqVHrSbgTv) | 4:13 |
+| 25 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
 | 26 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/7bOaDKe3yqgf2on0Od42UF) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 3:06 |
 | 27 | [It All Started With A Feeling](https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 2:56 |
 | 28 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 40 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 41 | [My Tears Could Fill A Well](https://open.spotify.com/track/0zUZgHAxB1CK1wiwvokVZu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 6:06 |
 
-Snapshot ID: `aT3+AAAAAACvqMw0Wo8mr72wpUAVkAr9`
+Snapshot ID: `aT9PgAAAAAADJ6M0ssx5AgXR7sjlKcux`

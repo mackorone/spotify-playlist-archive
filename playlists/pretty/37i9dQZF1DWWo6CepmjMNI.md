@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,568 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,571 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 3 | [ชอบเธอ](https://open.spotify.com/track/0FOc92GRPbae31VCQw0q9K) | [Hoya](https://open.spotify.com/artist/0HyvUBCc0axDJKu9CiMnkb) | [ชอบเธอ](https://open.spotify.com/album/783VUCa1KcyZaRs41IlfSV) | 3:44 |
 | 4 | [วิธีใด \(Don't know how\)](https://open.spotify.com/track/1iCtJ8isZT0K7ih1M6Dqet) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [วิธีใด \(Don't know how\)](https://open.spotify.com/album/6ICvqhL8pIObDoRPsR1B8n) | 4:41 |
 | 5 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
-| 6 | [SUNRISE](https://open.spotify.com/track/01f30vzvsz4vEvv6d1PiVD) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [SUNRISE](https://open.spotify.com/album/3q9PG8rxgAO6FjZppgXbFW) | 4:45 |
+| 6 | [SUNRISE](https://open.spotify.com/track/01f30vzvsz4vEvv6d1PiVD) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [SUNRISE](https://open.spotify.com/album/3q9PG8rxgAO6FjZppgXbFW) | 4:45 |
 | 7 | [ภาพเรา](https://open.spotify.com/track/4IO5XrgTEJmSkeX49WFQa2) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [ภาพเรา](https://open.spotify.com/album/4TyLJsokFClIRkyeurMKjG) | 3:40 |
 | 8 | [โลกที่เปลี่ยนไป \(Peterpan\)](https://open.spotify.com/track/1xzKou9sMjlZ1N6BuS0H77) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [โลกที่เปลี่ยนไป \(Peterpan\)](https://open.spotify.com/album/0tyTMZ04amdX9wY8nOrQow) | 3:00 |
 | 9 | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/track/18GaK3YkcibAY6cHPJQNKF) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/album/62a3Nlpi50Ri3ZqN3nOiOt) | 3:55 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 40 | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/track/0jivjpX81Baork8Sc1qXMr) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/album/2MovYY8AFgs6aeBk4pR9ym) | 5:01 |
 | 41 | [แค่อยากเจอ \(About Fate\)](https://open.spotify.com/track/2HHwVSMuBB8GnI1QjVndzk) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [แค่อยากเจอ \(About Fate\) \- Single](https://open.spotify.com/album/2kZY8JWpqJQ00zYE8faOmj) | 4:41 |
 | 42 | [ตอนจบ \(The End\)](https://open.spotify.com/track/6lryBvGRXzKnBnAqFo5TBh) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [ตอนจบ \(The End\)](https://open.spotify.com/album/10LYLoV3aPCuFF6EQngRJd) | 4:29 |
-| 43 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
+| 43 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
 | 44 | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/album/3yBXxrmy6lqK9IuBpIYoGg) | 4:14 |
 | 45 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 |
 | 46 | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/track/0oP0RgtbFPiTlAWtJ0I7Fa) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ให้มันเป็นแบบนี้แหละดีแล้ว](https://open.spotify.com/album/7JsTa8trDyiihx7pEtzHdM) | 3:41 |

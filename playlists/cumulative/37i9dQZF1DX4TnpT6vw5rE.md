@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-392 songs - 21 hr 50 min
+394 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 | 2021-07-24 | 2025-05-15 |
 | [Algific](https://open.spotify.com/track/29QoOnSfdU6jpzaeDS2UqO) | [Astro II](https://open.spotify.com/artist/31hclQNrBvuWYS1Bw6orHK) | [Algific](https://open.spotify.com/album/5L8ygYB2fsLyqfAOzqFlFe) | 3:04 | 2024-06-10 |  |
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
+| [amber leaf](https://open.spotify.com/track/2n4hOki9aAelRqsVEXxaI0) | [allbelow](https://open.spotify.com/artist/7KbyoaBgM7uMBITNzfHFi4) | [amber leaf](https://open.spotify.com/album/1YgrJbcX5jzBFhNSLiuIOg) | 2:04 | 2025-12-10 |  |
 | [Among The Stars](https://open.spotify.com/track/7axkIOMIOCYECef9H6HbTs) | [Onni](https://open.spotify.com/artist/7A0mACsqOhqMaeKYJfQkbx) | [Among The Stars](https://open.spotify.com/album/6AtGi9oQpMuRBp43ugdxr4) | 2:58 | 2025-10-01 |  |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 | 2023-12-23 |
 | [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 | 2025-05-24 |
@@ -99,12 +100,13 @@
 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 | 2021-11-13 | 2025-04-26 |
 | [Conclusions](https://open.spotify.com/track/0XAITZHrtlpUeRo00FoTLP) | [Ami Sanou](https://open.spotify.com/artist/5Xqwv6jmmqS1Vx9vYJtAzY) | [Conclusions](https://open.spotify.com/album/5ZpLZtogYfd4enMphrDFVt) | 3:22 | 2022-11-11 |  |
 | [Configuration](https://open.spotify.com/track/66QmlqypHwaune2fOlptt5) | [Decanõe](https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA) | [Configuration](https://open.spotify.com/album/0DM9y4ZJrfzrh9M3tItUZk) | 2:50 | 2024-03-14 |  |
+| [connection](https://open.spotify.com/track/1kS8CLPKqnKFxFD4iUbgcJ) | [eidra](https://open.spotify.com/artist/1Mrb5CCW52Mq4NRGb4zYXM) | [connection](https://open.spotify.com/album/7sqgVVrbRdYowtAo6CkNQU) | 2:24 | 2025-12-10 |  |
 | [Contrails](https://open.spotify.com/track/6mInCiYvOXj9jKXJKKMUTG) | [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [The Coachlight Woods](https://open.spotify.com/album/5rvAkp5i9TmfeLkzfV1Ig4) | 4:21 | 2021-01-07 | 2021-05-27 |
 | [Contrasts](https://open.spotify.com/track/7c1hx3D2NzJo4yCCuhde6W) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Contrasts](https://open.spotify.com/album/0lYMr1xleQ7RD4oqvt5ERq) | 2:36 | 2025-02-26 |  |
 | [Cordium](https://open.spotify.com/track/5LZoHuzv06Y3xBID5GWy76) | [Devon Hayes](https://open.spotify.com/artist/3KdbxMFJCUu7a9rIwRA51W) | [Cordium](https://open.spotify.com/album/3e2AjDN08jKM6SuuTLO2nI) | 2:44 | 2024-07-12 | 2025-10-24 |
 | [Crystal Clear](https://open.spotify.com/track/66GTXFs0Q12Z2xsk4Uvc8e) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Marimba Morning](https://open.spotify.com/album/7tFKm8g3vPBaV5GBPu3Had) | 2:15 | 2022-04-21 | 2025-10-06 |
 | [Dalam Masa Ini](https://open.spotify.com/track/3MsXF2oAtKZnb859w0OjRs) | [Waneesa](https://open.spotify.com/artist/62IrHmSFccbsuwIFWQKEgg) | [Dalam Masa Ini](https://open.spotify.com/album/0AMQ4QUXFOThLoI76UxKVA) | 2:14 | 2023-06-23 | 2024-07-25 |
-| [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 |  |
+| [Dancing In](https://open.spotify.com/track/72yToKzlUefPZOmYFd18Ai) | [La Dormilona](https://open.spotify.com/artist/4T6ME5iuu0IEJYNUldQ1u1) | [Dancing In My Dreams](https://open.spotify.com/album/29qcsRC2UteeNJ6qFWvmIK) | 3:08 | 2022-02-04 | 2025-12-17 |
 | [Daphine](https://open.spotify.com/track/0XwJ2kXGE6glUGOg7BrCPB) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Daphine](https://open.spotify.com/album/75JLBXA0qS480JSDRo10ey) | 3:33 | 2021-10-09 | 2025-01-15 |
 | [Darashinai Beach](https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW) | [Kenichiban](https://open.spotify.com/artist/1itUqhqM3DvzOekyR0MFva) | [Darashinai Beach](https://open.spotify.com/album/68t75psR1Te5qVxWdhvDoc) | 3:39 | 2020-12-08\* | 2021-09-17 |
 | [Delicate Dreams](https://open.spotify.com/track/07YnCIEOFsTfnjgWRm1rIU) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Delicate Dreams](https://open.spotify.com/album/4iMk0QHtG45zX77fh5uAtg) | 2:36 | 2025-07-15 |  |
@@ -124,7 +126,7 @@
 | [Dunes](https://open.spotify.com/track/0XY3HwzcxaP1cM1lWR61bE) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Ethereal Dream](https://open.spotify.com/album/3zt0kYKy8vVLE9Px2ZpEOn) | 2:16 | 2021-04-15 | 2025-05-08 |
 | [Dusk](https://open.spotify.com/track/1MPDncDf3d7CkFaqDvUDPW) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Dusk](https://open.spotify.com/album/27qSG3KXFQyhIf1SWRHa8W) | 3:03 | 2025-07-15 |  |
 | [Each And Every One Of Us](https://open.spotify.com/track/3yAkMJkc2Kzn6FCjaMIokZ) | [Mindful Collage](https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M) | [Each And Every One Of Us](https://open.spotify.com/album/0WUsUaFl6iJr3O0dAHT5l6) | 4:04 | 2025-01-14 |  |
-| [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 |  |
+| [Empty](https://open.spotify.com/track/1M0kmnY1ztJC0ZNQxCS7st) | [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Longing EP](https://open.spotify.com/album/0ajy8kD383s9wmYBq4ADnE) | 4:21 | 2025-02-26 | 2025-12-17 |
 | [Enamorados](https://open.spotify.com/track/2VFBT8eSZZ6a9AQ2Kk3qTt) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Enamorados](https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy) | 2:53 | 2020-12-08\* | 2025-07-16 |
 | [Endless Horizons](https://open.spotify.com/track/4aX9oNml3NCLc7BymvyKwi) | [Stellar Luminous](https://open.spotify.com/artist/1dgWSlkCY69O3oTa1u6vKN) | [Endless Horizons](https://open.spotify.com/album/616Kuhwk6PUqLzZwInp9yW) | 2:22 | 2025-02-26 |  |
 | [Entering The Clockwork Halls](https://open.spotify.com/track/0zMVJBjdegDLhwhG0Iu9nS) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Gale](https://open.spotify.com/album/3f8gwakpBwYXt6bIt8YTvR) | 2:18 | 2022-11-22 | 2025-10-23 |

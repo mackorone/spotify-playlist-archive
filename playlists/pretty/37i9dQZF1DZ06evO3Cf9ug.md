@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,020 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,094 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 17 | [First](https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:56 |
 | 18 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 |
 | 19 | [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 |
-| 20 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 |
+| 20 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 21 | [Lagos Love](https://open.spotify.com/track/3AYQsSyM8Mi8GV0OKItsBR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:10 |
-| 22 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
+| 22 | [The Key](https://open.spotify.com/track/4w4EJ9EaeogHLLEYlUXFDo) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:46 |
 | 23 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
 | 24 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 |
 | 25 | [Mine](https://open.spotify.com/track/0fKrZjwdZlwAEYi7S012mN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:40 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cf9ug.md) - [plain]
 | 43 | [Tales By Moonlight](https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 2:48 |
 | 44 | [Trouble](https://open.spotify.com/track/319xYgRF9JFpGLTtiCDhC7) | [DRB Lasgidi](https://open.spotify.com/artist/5jypR313fdSfpa6y1GMLqZ), [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Fresh L.](https://open.spotify.com/artist/5Req3092u4LKlAcv6kZALj), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Pioneers](https://open.spotify.com/album/7tFUesVQ7An8e5pEu7sPYv) | 3:14 |
 | 45 | [Falling](https://open.spotify.com/track/14AZvDYPvlYIGYAFC3GU0F) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [T.A.P \(Talk About Poe\)](https://open.spotify.com/album/3DlhJ97XCthypfMPdgb3Mx) | 3:12 |
-| 46 | [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 |
-| 47 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
+| 46 | [No Woman No Cry](https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:33 |
+| 47 | [Decided](https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Decided](https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4) | 3:00 |
 | 48 | [Ordinary People \(feat\. Tems\) \- Man\-Man Remix](https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Eugene "Man\-Man" Roberts](https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM) | [Get Lifted \(20th Anniversary\)](https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ) | 4:49 |
 | 49 | [Good Time](https://open.spotify.com/track/39uiJ40PjYT9TZTtwGOYcR) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Enjoy Your Life](https://open.spotify.com/album/0NZAQrwyssJG5y6CfGR7eL) | 3:16 |
 
-Snapshot ID: `aT3+AAAAAAAO8plqiqFP1Tz73aZnunCy`
+Snapshot ID: `aT9PgAAAAABvh/GTtb+wyxHnGiqdlmtp`

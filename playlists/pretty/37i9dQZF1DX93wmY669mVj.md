@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,682 likes - 64 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,696 likes - 64 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

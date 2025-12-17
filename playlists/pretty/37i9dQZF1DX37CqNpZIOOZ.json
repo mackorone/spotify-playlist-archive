@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26779,
+  "num_followers": 26784,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -647,34 +647,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Verklarte Nacht",
-        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Artemis Quartet",
-          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
-        },
-        {
-          "name": "Thomas Kakuska",
-          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
-        },
-        {
-          "name": "Valentin Erben",
-          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
-        }
-      ],
-      "duration_ms": 577160,
-      "name": "Strauss: Capriccio, Op. 85: Einleitung",
-      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Momentum [2]: Korngold, Strauss",
         "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
       },
@@ -727,6 +699,34 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Verklarte Nacht",
+        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        },
+        {
+          "name": "Thomas Kakuska",
+          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
+        },
+        {
+          "name": "Valentin Erben",
+          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
+        }
+      ],
+      "duration_ms": 577160,
+      "name": "Strauss: Capriccio, Op. 85: Einleitung",
+      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -907,34 +907,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss, R.: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 330920,
-      "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
-      "url": "https://open.spotify.com/track/0YxLutsTRZMJ1tHwFQiOeK"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/4x850YHmpioj4WsUwiaduE"
       },
@@ -987,6 +959,34 @@
       "duration_ms": 421200,
       "name": "Ariadne auf Naxos, Op. 60 / Opera: Ein Sch\u00f6nes war: hiess Theseus - Ariadne",
       "url": "https://open.spotify.com/track/4HFqlyxdEybDTBMTlR3ETW"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 330920,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
+      "url": "https://open.spotify.com/track/0YxLutsTRZMJ1tHwFQiOeK"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Reger & Strauss: Cello Sonatas",
-        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Emmanuelle Bertrand",
-          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
-        },
-        {
-          "name": "Pascal Amoyel",
-          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
-        }
-      ],
-      "duration_ms": 558666,
-      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
-      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Strauss, R.: Four Last Songs, etc.",
         "url": "https://open.spotify.com/album/0sIuKA8hHwodqk2nQ8qv1k"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 461453,
       "name": "4 Letzte Lieder, TrV 296: No. 4, Im Abendrot",
       "url": "https://open.spotify.com/track/7JVYGlKBO4ZqkH1RB9XV96"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Reger & Strauss: Cello Sonatas",
+        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Emmanuelle Bertrand",
+          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
+        },
+        {
+          "name": "Pascal Amoyel",
+          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
+        }
+      ],
+      "duration_ms": 558666,
+      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
+      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
     },
     {
       "added_at": "2025-12-15 11:35:26",

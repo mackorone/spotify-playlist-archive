@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 
 > This is The Doors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,151 likes - 43 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,186 likes - 43 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,21 +28,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 18 | [Strange Days](https://open.spotify.com/track/4WFVX3E568hdAixIj3U222) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:06 |
 | 19 | [Back Door Man](https://open.spotify.com/track/03By6gD02qhtvIQiK8KidK) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:32 |
 | 20 | [Ghost Song](https://open.spotify.com/track/5XTdMVT5i5qcfyTXWxhxVZ) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 2:50 |
-| 21 | [Break on Through \(To the Other Side\) \- New Stereo Mix](https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 2:26 |
-| 22 | [Indian Summer](https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:34 |
+| 21 | [Indian Summer](https://open.spotify.com/track/2hdeaGl9nT3UoQIgSqctHj) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 2:34 |
+| 22 | [Break on Through \(To the Other Side\) \- New Stereo Mix](https://open.spotify.com/track/3PzsLpCMpHViX7vxPtf4uE) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 2:26 |
 | 23 | [Alabama Song \(Whisky Bar\)](https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 3:17 |
 | 24 | [The Changeling](https://open.spotify.com/track/3uqxwLp7Hs9sJhm4uVF8li) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:19 |
-| 25 | [Moonlight Drive](https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:01 |
-| 26 | [The Spy](https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:15 |
+| 25 | [The Spy](https://open.spotify.com/track/3yDEadQDdmdxYBOeMX6bDW) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:15 |
+| 26 | [Moonlight Drive](https://open.spotify.com/track/0ja1dJM5gBTjk5U9wsMP9r) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:01 |
 | 27 | [Spanish Caravan](https://open.spotify.com/track/32bJv8V2Xgi5mtxdPcsi8B) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:58 |
 | 28 | [Been down so Long](https://open.spotify.com/track/1E7qCptwRPfvZrIDyDDgjh) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 4:39 |
 | 29 | [Gloria \- Live; 2007 Remaster](https://open.spotify.com/track/1b11chGCTSN26rsBt0WNYP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Very Best of the Doors](https://open.spotify.com/album/1YZiR5FINFOlZPGKSVplIY) | 6:18 |
 | 30 | [You're Lost Little Girl](https://open.spotify.com/track/5onlaW8X1ps8VS4DhxpFom) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 3:00 |
 | 31 | [Five to One](https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 4:24 |
 | 32 | [Hyacinth House](https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:10 |
-| 33 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
+| 33 | [Breakn' a Sweat](https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 5:01 |
 | 34 | [When the Music's Over](https://open.spotify.com/track/42dsUTJpzMWUJfEkzsbKWl) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Days](https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf) | 10:59 |
-| 35 | [Breakn' a Sweat](https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 5:01 |
+| 35 | [Yachting \(Hyper\)](https://open.spotify.com/track/0ZNRUtMQGeKqo4YpXBgYcP) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Strange Nights of Stone](https://open.spotify.com/album/7bs3oHD0CaOQxUSdjr3osB) | 0:30 |
 | 36 | [Not to Touch the Earth](https://open.spotify.com/track/4CyqGx74ElL4WC5TaEbx0x) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 3:54 |
 | 37 | [Wild Child](https://open.spotify.com/track/5QTKB8UOaBO9zvWr6ap05R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:35 |
 | 38 | [Bird of Prey](https://open.spotify.com/track/0psPuObi7UupQnXjaex39e) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 1:03 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19UBIk.md) - [plain]
 | 42 | [Shaman's Blues](https://open.spotify.com/track/4MSGvOyqjifxU0TtDxhQil) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 4:47 |
 | 43 | [Wishful Sinful](https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Soft Parade](https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI) | 2:55 |
 
-Snapshot ID: `aT3+AAAAAABGuRf30D86ox8mhb1m2rjq`
+Snapshot ID: `aT9PgAAAAADthAP7S8jDNtF+FE5oIliQ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 119510,
+  "num_followers": 119506,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAeZ3DdNgXVaaEOe487jKNM",
+  "snapshot_id": "aT9PgAAAAACo+n54mxHtYV/HE2fiNB+/",
   "tracks": [
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 230108,
-      "name": "Wherever is Your Heart",
-      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brandi Carlile",
         "url": "https://open.spotify.com/album/2NdmuraIk63vprGfnnr3rD"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 169920,
       "name": "What Can I Say",
       "url": "https://open.spotify.com/track/07WvoBV7oBTonCSw03UCud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 230108,
+      "name": "Wherever is Your Heart",
+      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
     },
     {
       "added_at": null,

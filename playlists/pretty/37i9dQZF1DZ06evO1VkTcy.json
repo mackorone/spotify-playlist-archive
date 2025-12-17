@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22322,
+  "num_followers": 22321,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACo9k98zAabRZtqP6VBHXTx",
+  "snapshot_id": "aT9PgAAAAAC7Je6rOYOHKdln0XqZDgYe",
   "tracks": [
     {
       "added_at": null,
@@ -891,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Maguzinho",
-          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Perfeito",
         "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 191129,
       "name": "Plano Perfeito",
       "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Maguzinho",
+          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tava Tudo Tranquilin",
+        "url": "https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Tava Tudo Tranquilin",
+      "url": "https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tava Tudo Tranquilin",
-        "url": "https://open.spotify.com/album/4vO0BMwWW113aQDfaOhwin"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Tava Tudo Tranquilin",
-      "url": "https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07"
     },
     {
       "added_at": null,
@@ -1267,26 +1267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chore N\u00e3o",
         "url": "https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd"
       },
@@ -1307,6 +1287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake",
         "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
       },
@@ -1323,6 +1323,30 @@
       "duration_ms": 156000,
       "name": "Fake",
       "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Vai Mudar",
+        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 173553,
+      "name": "Tudo Vai Mudar",
+      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,
@@ -1367,30 +1391,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo Vai Mudar",
-        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 173553,
-      "name": "Tudo Vai Mudar",
-      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,

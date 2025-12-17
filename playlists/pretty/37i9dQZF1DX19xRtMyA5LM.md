@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Josylvio
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,047 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,015 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

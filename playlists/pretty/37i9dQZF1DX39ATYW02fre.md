@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,793 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,846 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 28 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
 | 29 | [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 |
 | 30 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
-| 31 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
-| 32 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
+| 31 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
+| 32 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 33 | [If You Love Her](https://open.spotify.com/track/1MaDw1BQ797k8j7xXnH486) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [If You Love Her](https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm) | 2:44 |
 | 34 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 |
 | 35 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 40 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 41 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 | 42 | [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 |
-| 43 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
-| 44 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
+| 43 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
+| 44 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
 | 45 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 | 46 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
-| 47 | [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 |
-| 48 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
+| 47 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
+| 48 | [WORRY.](https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [WORRY.](https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn) | 4:03 |
 | 49 | [Daybreak](https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY) | [Thief Traveler](https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0) | [Daybreak](https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX) | 2:21 |
 | 50 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 

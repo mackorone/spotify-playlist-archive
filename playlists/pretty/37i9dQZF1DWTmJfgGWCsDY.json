@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Mavokali",
-  "num_followers": 8272,
+  "num_followers": 8284,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Afande",
-        "url": "https://open.spotify.com/album/4iSOmAXNWk8IrQDpUeeZ5z"
-      },
-      "artists": [
-        {
-          "name": "Dogo Paten",
-          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
-        },
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 221917,
-      "name": "Afande",
-      "url": "https://open.spotify.com/track/3hn0RXmU65ko4Z0nHbpTTl"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Ma Mkali",
         "url": "https://open.spotify.com/album/6rr9uYBdz4SQhOLswkYAf8"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 173453,
       "name": "Ma Mkali",
       "url": "https://open.spotify.com/track/65a0cI6yNHO7MvH5atTJFF"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Afande",
+        "url": "https://open.spotify.com/album/4iSOmAXNWk8IrQDpUeeZ5z"
+      },
+      "artists": [
+        {
+          "name": "Dogo Paten",
+          "url": "https://open.spotify.com/artist/0IVlD4qNndd1mcbVLILBQ9"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 221917,
+      "name": "Afande",
+      "url": "https://open.spotify.com/track/3hn0RXmU65ko4Z0nHbpTTl"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -571,18 +571,22 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
+        "name": "Si Unajua? Remix",
+        "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
         }
       ],
-      "duration_ms": 200921,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
+      "duration_ms": 198241,
+      "name": "Si Unajua? - Remix",
+      "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -615,22 +619,18 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Si Unajua? Remix",
-        "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
       },
       "artists": [
         {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         }
       ],
-      "duration_ms": 198241,
-      "name": "Si Unajua? - Remix",
-      "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
+      "duration_ms": 200921,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Wanijue",
-        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
-      },
-      "artists": [
-        {
-          "name": "Micky Singer",
-          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "Wanijue",
-      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 314493,
       "name": "Penzi Jipya",
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Wanijue",
+        "url": "https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD"
+      },
+      "artists": [
+        {
+          "name": "Micky Singer",
+          "url": "https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Wanijue",
+      "url": "https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
-        }
-      ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
-        "name": "Shobo",
-        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 186193,
-      "name": "Shobo",
-      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
         "name": "Yaleyale",
         "url": "https://open.spotify.com/album/0Qdy7p98e9Fz9UyTag69RB"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2025-12-05 10:21:49",
       "album": {
+        "name": "Shobo",
+        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "duration_ms": 186193,
+      "name": "Shobo",
+      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
         "name": "Dar Es Salaam",
         "url": "https://open.spotify.com/album/1zbJ41YdrJ9WuOjxcgH4hJ"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 153281,
       "name": "Dar Es Salaam",
       "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
-    },
-    {
-      "added_at": "2025-12-05 10:21:49",
-      "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2025-12-05 10:21:49",
@@ -1367,6 +1351,22 @@
       "duration_ms": 223884,
       "name": "Lipa",
       "url": "https://open.spotify.com/track/7i06Ir6zXiN0gw9FVNVYgB"
+    },
+    {
+      "added_at": "2025-12-05 10:21:49",
+      "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
     },
     {
       "added_at": "2025-12-05 10:21:49",

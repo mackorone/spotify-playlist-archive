@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 136704,
+  "num_followers": 136787,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,30 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Master Trio",
+        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
+        }
+      ],
+      "duration_ms": 349600,
+      "name": "Angel Eyes - Studio",
+      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Blues and Ballads",
         "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
       },
@@ -643,30 +667,6 @@
       "duration_ms": 396626,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/7eYF1tAcKBvhJU4W9K0Uca"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Master Trio",
-        "url": "https://open.spotify.com/album/0O6FZJtO0RcQEDu3t55vF4"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        },
-        {
-          "name": "Ron Carter",
-          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
-        },
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 349600,
-      "name": "Angel Eyes - Studio",
-      "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "My Spanish Heart",
-        "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
+        "name": "The Duke Plays Ellington",
+        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 319066,
-      "name": "Armando's Rhumba",
-      "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
+      "duration_ms": 152886,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Duke Plays Ellington",
-        "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
+        "name": "My Spanish Heart",
+        "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 152886,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
+      "duration_ms": 319066,
+      "name": "Armando's Rhumba",
+      "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Jazz p\u00e5 svenska",
-        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 114693,
-      "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
-      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/61tuvxkgsvrsRQmoMSu6YA"
       },
@@ -887,18 +871,34 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Jazz Moments",
-        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
+        "name": "Jazz p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
       },
       "artists": [
         {
-          "name": "George Shearing Trio",
-          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Makin' Whoopee",
-      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
+      "duration_ms": 114693,
+      "name": "Vall\u00e5t fr\u00e5n J\u00e4mtland",
+      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Shai Maestro Trio",
+        "url": "https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w"
+      },
+      "artists": [
+        {
+          "name": "Shai Maestro",
+          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Angelo",
+      "url": "https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Shai Maestro Trio",
-        "url": "https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w"
+        "name": "Jazz Moments",
+        "url": "https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK"
       },
       "artists": [
         {
-          "name": "Shai Maestro",
-          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+          "name": "George Shearing Trio",
+          "url": "https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT"
         }
       ],
-      "duration_ms": 267533,
-      "name": "Angelo",
-      "url": "https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW"
+      "duration_ms": 240133,
+      "name": "Makin' Whoopee",
+      "url": "https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 372266,
+      "name": "Empty Pockets - Remastered 2007",
+      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "The Best Of Art Tatum",
         "url": "https://open.spotify.com/album/6afOGm8oEosuPK4GweTwms"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 367600,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/4kutk0onBpr8xcwfXItJDJ"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 372266,
-      "name": "Empty Pockets - Remastered 2007",
-      "url": "https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "My Point Of View (Expanded Edition)",
         "url": "https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 499253,
       "name": "Blind Man, Blind Man",
       "url": "https://open.spotify.com/track/7wzPJFQRgx0bsl8QYtIfWR"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Now He Sings, Now He Sobs (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+        "name": "Nightconcert",
+        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 423440,
-      "name": "Now He Sings, Now He Sobs",
-      "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
+      "duration_ms": 333581,
+      "name": "No More Shadows",
+      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Nightconcert",
-        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
+        "name": "Now He Sings, Now He Sobs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 333581,
-      "name": "No More Shadows",
-      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
+      "duration_ms": 423440,
+      "name": "Now He Sings, Now He Sobs",
+      "url": "https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1315,22 +1315,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
+        "name": "Serenade To \"Laura\"",
+        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
       },
       "artists": [
         {
-          "name": "Carla Bley",
-          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 278640,
-      "name": "\u00datviklingssang",
-      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
+      "duration_ms": 160200,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1351,18 +1347,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Serenade To \"Laura\"",
-        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
       },
       "artists": [
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Carla Bley",
+          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
         }
       ],
-      "duration_ms": 160200,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
+      "duration_ms": 278640,
+      "name": "\u00datviklingssang",
+      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
-        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
-      },
-      "artists": [
-        {
-          "name": "James P. Johnson",
-          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Blue Note Boogie",
-      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Crystal Silence",
         "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The John Lewis Piano",
-        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+        "name": "Blue Boogie: Boogie Woogie, Stride And The Piano Blues",
+        "url": "https://open.spotify.com/album/6Lk9CyCY1xTs7ZpKaJ92z5"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "James P. Johnson",
+          "url": "https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
+      "duration_ms": 238840,
+      "name": "Blue Note Boogie",
+      "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1459,6 +1443,22 @@
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The John Lewis Piano",
+        "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Made Possible",
+        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 370133,
+      "name": "Pound For Pound",
+      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Made Possible",
-        "url": "https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs"
-      },
-      "artists": [
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 370133,
-      "name": "Pound For Pound",
-      "url": "https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark Trio",
+          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "Setting Standards - The New York Sessions",
         "url": "https://open.spotify.com/album/1C9O7ymr3OoPhu60riKr8m"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 464693,
       "name": "All The Things You Are",
       "url": "https://open.spotify.com/track/7G47M8ZKK65VBf6tLhJ2ZL"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Sonny Clark Trio (Remastered 2001/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0dSFSlppCQph48h0RE52iH"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark Trio",
-          "url": "https://open.spotify.com/artist/7CZmsRaJUmKd1tGyfveLGw"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Two Bass Hit - Remastered 2001/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5d0hDDVxMASjFroKwSsOZe"
     },
     {
       "added_at": "2024-07-08 06:57:40",

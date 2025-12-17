@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,784 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,842 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 75 | [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 |
 | 76 | [Love Potion No.9](https://open.spotify.com/track/5WAPUAldIHRM28j5fUl1ak) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Love Potion No\. 9](https://open.spotify.com/album/5HbF1nApfbDTgm6Xhmon3Q) | 1:52 |
 | 77 | [Somethin' Else](https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284) | 2:05 |
-| 78 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |
-| 79 | [Ain't Got No Home \- Remastered](https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [The King of Rhythm & Blues \(Remastered\)](https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2) | 2:18 |
+| 78 | [Ain't Got No Home \- Remastered](https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC) | [Clarence "Frogman" Henry](https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf) | [The King of Rhythm & Blues \(Remastered\)](https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2) | 2:18 |
+| 79 | [A Teenager In Love](https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG) | [Marty Wilde](https://open.spotify.com/artist/49Jb7NSMLFMM3n8M7BNRxN) | [The Best of British Rock 'n' Roll / 1956 \- 1959, Vol\. 2](https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK) | 2:21 |
 | 80 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
 | 81 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
 | 82 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 85 | [Bear Cat](https://open.spotify.com/track/3gAYM7PfYIfLvpMTFXfbAM) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Bear Cat / Walkin' in the Rain](https://open.spotify.com/album/6gLOb8YSLT611wsgLZ9E7X) | 2:50 |
 | 86 | [Bring Your Love Back Home](https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV) | [Eddie Snow](https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt) | [Ain't That Right / Bring Your Love Back Home](https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7) | 3:14 |
 | 87 | [Slow Down](https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT) | [Jack Earls](https://open.spotify.com/artist/5oqGu2tDspg5xRwVqqbMpY), [The Jimbos](https://open.spotify.com/artist/2tZSmD1d3c1iYRRDOVhh8F) | [Slow Down / A Fool for Loving You](https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx) | 2:17 |
-| 88 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
-| 89 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
+| 88 | [Drinkin' Wine Spodee\-O\-Dee](https://open.spotify.com/track/591iSuSiJcSIH1ureumYyk) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Drinkin' Wine Spodee\-O\-Dee / Just Rolling Along](https://open.spotify.com/album/6nC3m8DahB7IQpmzfEy3xK) | 2:48 |
+| 89 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
 | 90 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
 | 91 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
 | 92 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |

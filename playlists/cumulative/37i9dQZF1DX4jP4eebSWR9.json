@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Kraftklub",
+  "description": "50 Hits in einer Playlist! Cover: Olivia Dean",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 181820,
       "name": "2 hands",
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
+    {
+      "album": {
+        "name": "24K (Ohne Tabak)",
+        "url": "https://open.spotify.com/album/2w7CPbGvmoqQhFhKPNAf05"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102793,
+      "name": "24K (Ohne Tabak)",
+      "url": "https://open.spotify.com/track/595xnaJaD21Uqfy9lo1fkI"
     },
     {
       "album": {
@@ -4806,7 +4828,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 92029,
       "name": "step up",
       "url": "https://open.spotify.com/track/4KkZR2L1iDl2f9Oi8UyaH2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,833 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,841 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 23 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 |
 | 24 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 25 | [Sons & Daughters](https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9) | [The American Spirit](https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3) | [Spaces](https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j) | 4:02 |
-| 26 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
-| 27 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
+| 26 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
+| 27 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
 | 28 | [Old Time Religion](https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 3:54 |
 | 29 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
 | 30 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
@@ -94,16 +94,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 84 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
 | 85 | [Red Right Hand](https://open.spotify.com/track/7HrpPxCR5OYislYvUT4h79) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:10 |
 | 86 | [Bartholomew](https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV) | [The Silent Comedy](https://open.spotify.com/artist/4s7QvzBMTW4BKWI5pVO2mY) | [Common Faults](https://open.spotify.com/album/5pLjM7AFhHUCFvruCXA1u3) | 3:06 |
-| 87 | [Ain't No Grave](https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken by a Low Sound](https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8) | 3:21 |
-| 88 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
-| 89 | [The Railroad](https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ) | 4:10 |
-| 90 | [Chains](https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:14 |
-| 91 | [Far From Any Road](https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj) | 2:46 |
-| 92 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 |
-| 93 | [Danger and Dread](https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO) | 3:46 |
-| 94 | [Canary](https://open.spotify.com/track/6z2WfgI5lYcq1su1WyOxQ9) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:29 |
-| 95 | [Filthy Dirty South](https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf) | 5:46 |
-| 96 | [Devils](https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe) | 2:24 |
+| 87 | [Devils](https://open.spotify.com/track/4YJpXSRosOLGssNpjIYsUk) | [Amelia Curran](https://open.spotify.com/artist/4ovISfvdFHqGNI4ZuHzh69) | [War Brides](https://open.spotify.com/album/7vxVCBXPKqZ2YKfKFVTLIe) | 2:24 |
+| 88 | [Filthy Dirty South](https://open.spotify.com/track/74Fd1uz6wiTaqDXyWK7AXl) | [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Filthy Dirty South](https://open.spotify.com/album/0jDnfywtNBh634OQD7EOJf) | 5:46 |
+| 89 | [Ain't No Grave](https://open.spotify.com/track/33gHvO5eLnhxKHgGDu6xu9) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken by a Low Sound](https://open.spotify.com/album/6uFn0hAG96lR9aINZ1N8y8) | 3:21 |
+| 90 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 |
+| 91 | [The Railroad](https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ) | 4:10 |
+| 92 | [Chains](https://open.spotify.com/track/7ywUfT35DxrKOoq7ZL0VQ5) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:14 |
+| 93 | [Far From Any Road](https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj) | 2:46 |
+| 94 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 |
+| 95 | [Danger and Dread](https://open.spotify.com/track/2VUA9RXQluo3013YNhDeez) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [The Devil Dancing](https://open.spotify.com/album/674lfymYQKdcMA0kMy2dgO) | 3:46 |
+| 96 | [Canary](https://open.spotify.com/track/6z2WfgI5lYcq1su1WyOxQ9) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:29 |
 | 97 | [My Church Is Black](https://open.spotify.com/track/6CApje4OBrR9y2EQJlu8KJ) | [Me And That Man](https://open.spotify.com/artist/3zhMQz4U8XeOPq1Nphrd6a) | [My Church Is Black](https://open.spotify.com/album/7xGEQewEQ8E74KHmIGDYUG) | 2:58 |
 | 98 | [Snake Song](https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Hawk](https://open.spotify.com/album/0cSyiBaPRl6MG4lMuKYL97) | 2:48 |
 | 99 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |

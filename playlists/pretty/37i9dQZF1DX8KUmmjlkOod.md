@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,292 likes - 80 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,302 likes - 80 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 59 | [Jugo](https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 4:19 |
 | 60 | [El Mono Relojero](https://open.spotify.com/track/2RpzktQlb1SZGJBdC6eNIC) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [A 15 Cm De La Realidad](https://open.spotify.com/album/08Y1kgfEcH11p3hJopWslX) | 3:52 |
 | 61 | [Porque Te Vas...](https://open.spotify.com/track/2y7QsNl3ZEm4DI6ACFxRMV) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Ángeles Caídos](https://open.spotify.com/album/6rRl0e1hPYxM1c2ssIAbs0) | 2:54 |
-| 62 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
-| 63 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 62 | [Chipi\-Chipi](https://open.spotify.com/track/6pCZYiB2ZoLfDuapZbpKl8) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Hija de la Lágrima](https://open.spotify.com/album/1ayedQfx32UihcgGBsb8oA) | 3:06 |
+| 63 | [Mary Poppins y el deshollinador](https://open.spotify.com/track/7xfh6z6YnAFq2Xhp6MNnjd) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 4:07 |
 | 64 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/2p44QtrD16WSiIZxbDOtxg) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Vasos Vacíos](https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4) | 3:59 |
 | 65 | [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 |
 | 66 | [Traición A La Mexicana](https://open.spotify.com/track/3TB8yNtLqwugHCols5sPx3) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc) | [Positiva Vibración](https://open.spotify.com/album/79ObMjPYMUaP3pu8fp7PLd) | 4:10 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 73 | [Nunca Supe Más de Ti](https://open.spotify.com/track/3o9TaOJ5iFjHalmNEgENwj) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [Nunca Supe Más De Ti](https://open.spotify.com/album/2jqxJKn4vvVDcOkdjt1OYg) | 4:01 |
 | 74 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 75 | [Cosa Peligrosa](https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:23 |
-| 76 | [Besándote \- Remastered 2001](https://open.spotify.com/track/0hLkWUECYBHJrzWzdwBiFN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:22 |
-| 77 | [Estamos Juntos](https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres](https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR) | 3:42 |
+| 76 | [Estamos Juntos](https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres](https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR) | 3:42 |
+| 77 | [Besándote \- Remastered 2001](https://open.spotify.com/track/0hLkWUECYBHJrzWzdwBiFN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:22 |
 | 78 | [Angel de los Perdedores](https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP) | [El Soldado](https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Sergio Dawi](https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs) | [Tren de Fugitivos](https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f) | 5:16 |
 | 79 | [Te Quiero Tanto, No Me Preguntes Más](https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:29 |
 | 80 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |

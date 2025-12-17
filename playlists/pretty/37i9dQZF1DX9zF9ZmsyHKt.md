@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,278 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,325 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 40 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
 | 41 | [Falando Com a Lua](https://open.spotify.com/track/3yR9ZKxtkL9Ktx16syW0lr) | [Banda Açaí Pimenta](https://open.spotify.com/artist/11ClmW6GIRiqiQyCwUPyov) | [Tá Ardendo Hein](https://open.spotify.com/album/655rMUuXH3FgoDyVIN6d0b) | 2:32 |
 | 42 | [Teu Sorriso](https://open.spotify.com/track/0ZfWvGIEbc3hhYsNMgMP2b) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [HEIKON](https://open.spotify.com/artist/6oLO9UzEcaMB61uYNVRSWw) | [Teu Sorriso](https://open.spotify.com/album/7lV4fVTPnGuoqg3mQyQGVj) | 2:22 |
-| 43 | [Minha Opção](https://open.spotify.com/track/6qMNqAh6EhFksFp44fPxXZ) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE), [Companhia do Calypso](https://open.spotify.com/artist/0c7uc4pA1hpla0xbbEF5W5) | [Minha Opção](https://open.spotify.com/album/6iwoQBoHZKcvyVOQC1G30E) | 3:00 |
-| 44 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
+| 43 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
+| 44 | [Minha Opção](https://open.spotify.com/track/6qMNqAh6EhFksFp44fPxXZ) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE), [Companhia do Calypso](https://open.spotify.com/artist/0c7uc4pA1hpla0xbbEF5W5) | [Minha Opção](https://open.spotify.com/album/6iwoQBoHZKcvyVOQC1G30E) | 3:00 |
 | 45 | [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 |
 | 46 | [São Amores](https://open.spotify.com/track/48qHCv2FnLa5uVCAcPveU1) | [Banda Quero Mais](https://open.spotify.com/artist/2qKQ4jiEt7kpYuLyTsNQqz) | [São Amores](https://open.spotify.com/album/55Rl0AQKQwbAKyI41H088s) | 3:19 |
 | 47 | [Esperança](https://open.spotify.com/track/65XEiVtu5lTjBqsAfJeafb) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Esperança](https://open.spotify.com/album/2mwMZXG1mfvuSNAGun4qZL) | 2:55 |

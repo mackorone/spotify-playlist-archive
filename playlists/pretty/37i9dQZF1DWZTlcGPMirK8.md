@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,376 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,375 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 32 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
 | 33 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
 | 34 | [Can't Get You out of My Head](https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:50 |
-| 35 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 |
-| 36 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
+| 35 | [20 Good Reasons](https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Slideshows](https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289) | 3:49 |
+| 36 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 |
 | 37 | [Take Me Over](https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [SAFIA](https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB) | [Take Me Over](https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB) | 3:28 |
 | 38 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
 | 39 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 54 | [One Summer](https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Edge](https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF) | 3:42 |
 | 55 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
 | 56 | [Ooh Aah...Just a Little Bit \- Motiv8 Radio Edit](https://open.spotify.com/track/7kyMLaXepcGHIrsLqoiTB8) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8), [Motiv8](https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp) | [Fresh](https://open.spotify.com/album/4wjFfawmUFFk9INKJnnn0o) | 3:23 |
-| 57 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
-| 58 | [So Beautiful \- Single Version](https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:39 |
+| 57 | [So Beautiful \- Single Version](https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Feeler](https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch) | 4:39 |
+| 58 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
 | 59 | [Papercuts \(feat\. Vera Blue\)](https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Two Degrees](https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR) | 4:15 |
 | 60 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 |
 | 61 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |

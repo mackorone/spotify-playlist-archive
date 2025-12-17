@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 
 > 千禧後第一個十年，讓我們藉著旋律回味...Cover: 蔡依林 \(JOLIN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,466 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,511 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 23 | [Melody](https://open.spotify.com/track/6A4wVKbcg0mRriCFjZzX0Z) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:29 |
 | 24 | [三人遊](https://open.spotify.com/track/0ZkoOzNcWkxXaeWzuBFWPU) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [橙月](https://open.spotify.com/album/3uhvDy6obaVBGrYu7FGYYB) | 3:57 |
 | 25 | [黃昏](https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO) | [Transfer](https://open.spotify.com/album/7DpdMbp6mDHG5jJVFppI1p) | 5:44 |
-| 26 | [你要的愛](https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:02 |
-| 27 | [逆光](https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:54 |
+| 26 | [逆光](https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:54 |
+| 27 | [你要的愛](https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:02 |
 | 28 | [想太多](https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:36 |
 | 29 | [珊瑚海](https://open.spotify.com/track/6rbZXBUHrCeh1ba03E5uaY) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:16 |
 | 30 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:25 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 32 | [情歌](https://open.spotify.com/track/5oL7vOxCz2eJKAX6G4Yluh) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [別再為他流淚](https://open.spotify.com/album/46aInqxgXj0syC9RlTghlj) | 4:20 |
 | 33 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 34 | [好久不見](https://open.spotify.com/track/7qtM492xyqdbh2vt5vBKaD) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [認了吧](https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5) | 4:08 |
-| 35 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 |
-| 36 | [我知道](https://open.spotify.com/track/7iXPSlDdL0EQwPFtUR8ye1) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [TWINS](https://open.spotify.com/album/5F52Aeei95YaoFa7yai2Rr) | 4:10 |
+| 35 | [我知道](https://open.spotify.com/track/7iXPSlDdL0EQwPFtUR8ye1) | [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [TWINS](https://open.spotify.com/album/5F52Aeei95YaoFa7yai2Rr) | 4:10 |
+| 36 | [怎樣 ?](https://open.spotify.com/track/7y3ubYh0BR6wgISiALACWQ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [怎樣](https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H) | 4:31 |
 | 37 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
 | 38 | [勇氣](https://open.spotify.com/track/1SNF1IdMuKPDhw9HTrdcvM) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [勇氣](https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN) | 3:59 |
 | 39 | [楓](https://open.spotify.com/track/2lIb7a074DL4RLCPAaGdnu) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/7L8PtRIVYuqIeR9kXwmTek) | 4:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUmQhB7PvFH.md) - [plain]
 | 45 | [七里香](https://open.spotify.com/track/2g1MHSbgxhcOEKpeWG4pZT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 4:57 |
 | 46 | [流星雨](https://open.spotify.com/track/1hPNdCII2b8NOEIqwbbsdG) | [F4](https://open.spotify.com/artist/1JadFMFTjfKAVtOqbrgv0X) | [流星雨](https://open.spotify.com/album/0pjbq9vYCpLsHekvstNM0K) | 4:36 |
 | 47 | [會呼吸的痛](https://open.spotify.com/track/5IgElbSREzVyqgf1OCuKJd) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [崇拜](https://open.spotify.com/album/75wQXImqEikrSo5Uon4Pxr) | 4:32 |
-| 48 | [說愛你](https://open.spotify.com/track/6u4QtlkKJ879ElNlgw0R7M) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 3:46 |
-| 49 | [無底洞](https://open.spotify.com/track/6vJ97QouNlvgs74MMhxdvw) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 4:02 |
+| 48 | [無底洞](https://open.spotify.com/track/6vJ97QouNlvgs74MMhxdvw) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 4:02 |
+| 49 | [說愛你](https://open.spotify.com/track/6u4QtlkKJ879ElNlgw0R7M) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 3:46 |
 | 50 | [二十二](https://open.spotify.com/track/2X8dqN4Jd4A7vnh1GHzPk0) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [黑色柳丁](https://open.spotify.com/album/3u5zGr9TFLRi2wXeHmNclY) | 4:21 |
 
 Snapshot ID: `AAAAAM+AnirMui8xNtTdLV27hxHba85N`

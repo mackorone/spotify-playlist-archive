@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 63590,
+  "num_followers": 63642,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABO61t5F5BK7VQ1fL6YQjdZ",
+  "snapshot_id": "aT9PgAAAAADdztifZ8Hj5j6SCEFQ+j0u",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 211738,
-      "name": "Mississippi Or Me",
-      "url": "https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR"
+      "duration_ms": 195228,
+      "name": "They Don\u2019t Make 'Em Like That No More",
+      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195228,
-      "name": "They Don\u2019t Make 'Em Like That No More",
-      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+      "duration_ms": 211738,
+      "name": "Mississippi Or Me",
+      "url": "https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 198699,
+      "name": "Waitin' All Day",
+      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Mind If I Do (Deluxe)",
         "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 256000,
       "name": "Cowboy As It Gets",
       "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 198699,
-      "name": "Waitin' All Day",
-      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "I Let A Damn Good Woman Leave",
-      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 197400,
       "name": "Reel Problems",
       "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "I Let A Damn Good Woman Leave",
+      "url": "https://open.spotify.com/track/43ooMII6qHAgHEiFNSrtYa"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Bar",
-        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "That\u2019s What I\u2019ve Been Told",
-      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlaws Like Us",
         "url": "https://open.spotify.com/album/6PorC2h1FBX9xatc7ChceS"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 195720,
       "name": "Outlaws Like Us",
       "url": "https://open.spotify.com/track/6vdkRkomwx3z7BR1W0AcO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Behind The Bar",
+        "url": "https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "That\u2019s What I\u2019ve Been Told",
+      "url": "https://open.spotify.com/track/2TjAkXVq0SU5Q25vLXOjib"
     },
     {
       "added_at": null,

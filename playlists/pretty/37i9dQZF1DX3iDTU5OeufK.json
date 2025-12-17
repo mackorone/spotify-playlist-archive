@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 124116,
+  "num_followers": 124139,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 188760,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 167754,
       "name": "ExtraL (feat. Doechii)",
       "url": "https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 188760,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "AyMami",
-        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "AyMami",
-      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Que Se Cuide",
         "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 155624,
       "name": "Que Se Cuide",
       "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "AyMami",
+        "url": "https://open.spotify.com/album/3fBrGEHh5r2Ic10StaNfN7"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "AyMami",
+      "url": "https://open.spotify.com/track/78oH9C1lzeWe3qsD3NRInR"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1523,8 +1523,8 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Stripper",
-        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
       },
       "artists": [
         {
@@ -1532,13 +1532,13 @@
           "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
         },
         {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 166181,
-      "name": "Stripper",
-      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
+      "duration_ms": 184510,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1611,8 +1611,8 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/02HrU7Rw0Gnj6mOi0jMBmP"
+        "name": "Stripper",
+        "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
       },
       "artists": [
         {
@@ -1620,13 +1620,13 @@
           "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
         },
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 184510,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"
+      "duration_ms": 166181,
+      "name": "Stripper",
+      "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 139390,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "pasarella \ud83d\udc60",
         "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
       },
@@ -1791,18 +1775,42 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Latinaje",
-        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 190894,
-      "name": "Mala Suerte",
-      "url": "https://open.spotify.com/track/59Hg9EqA8kEW2pmDNjyIWU"
+      "duration_ms": 139390,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        }
+      ],
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
     }
   ],
   "unique_name": "Playlist de chava ",

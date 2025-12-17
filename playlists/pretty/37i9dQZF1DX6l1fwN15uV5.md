@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,506,912 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,506,920 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 31 | [Every Time You Go Away \- Radio Edit](https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:27 |
 | 32 | [Kingston Town](https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:51 |
 | 33 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
-| 34 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
-| 35 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
+| 34 | [Save a Prayer \- 2009 Remaster](https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:33 |
+| 35 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 |
 | 36 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 |
 | 37 | [Army Dreamers](https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 2:58 |
 | 38 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |

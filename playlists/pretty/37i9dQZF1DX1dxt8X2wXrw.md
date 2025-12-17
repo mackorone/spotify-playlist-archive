@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,583 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,584 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 40 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 41 | [Cross Your Mind](https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly 2](https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX) | 3:48 |
 | 42 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
-| 43 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
-| 44 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 |
+| 43 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 |
+| 44 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 |
 | 45 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 |
 | 46 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
 | 47 | [Gen Z Luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Gen Z Luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 67 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
 | 68 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 |
 | 69 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
-| 70 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
-| 71 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
+| 70 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
+| 71 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
 | 72 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 |
-| 73 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 |
-| 74 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
-| 75 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
+| 73 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 |
+| 74 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
+| 75 | [if this ain't love](https://open.spotify.com/track/2iDAqP8Cf6Co7OHrOit1sG) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [if this ain't love](https://open.spotify.com/album/73UqeuhxfLQ0oDxIl1Oylg) | 3:36 |
 
 Snapshot ID: `AAAAAOqkz/p7yR68f+hCWzBi0KgrASFn`

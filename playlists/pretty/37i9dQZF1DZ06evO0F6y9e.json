@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1084549,
+  "num_followers": 1084812,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAC7B8Uckgt81rykIQBQkiFi",
+  "snapshot_id": "aT9PgAAAAADqwgynuVC6A/CyMS6IhVpp",
   "tracks": [
     {
       "added_at": null,
@@ -359,42 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 30 Aniversario (Vol. 2)",
-        "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Hubi\u00e9ramos",
-      "url": "https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -415,6 +379,42 @@
       "duration_ms": 176000,
       "name": "Coraz\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Hubi\u00e9ramos",
+      "url": "https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis 30 Aniversario (Vol. 2)",
+        "url": "https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC"
     },
     {
       "added_at": null,

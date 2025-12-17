@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADBq7KK0t8W4fTwUt2eRhM7",
+  "snapshot_id": "aT9PgAAAAAAskYpHv8uL8WXLbw1GuQaq",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 191979,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adam Brand and The Outlaws",
         "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 216706,
       "name": "It's Five O'clock Somewhere",
       "url": "https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 191979,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Loud",
-        "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 238240,
-      "name": "This Time Of Year",
-      "url": "https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All or Nothing",
         "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 190754,
       "name": "Changing Tunes",
       "url": "https://open.spotify.com/track/6WRpvScDBQhxZaxopTLvj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 238240,
+      "name": "This Time Of Year",
+      "url": "https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
       "duration_ms": 218666,
       "name": "Love Away The Night",
       "url": "https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "You Are To Me",
-      "url": "https://open.spotify.com/track/1VETQS5PJ9QuEyf0h6mQC9"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "You Are To Me",
+      "url": "https://open.spotify.com/track/1VETQS5PJ9QuEyf0h6mQC9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Speed of Life",
         "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Built For Speed",
-        "url": "https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Dirt Racer",
-      "url": "https://open.spotify.com/track/2EIlEFGjGOOO47769Fv5Uk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get On Your Feet",
         "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 248746,
       "name": "If Heaven Has a Soundtrack",
       "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Dirt Racer",
+      "url": "https://open.spotify.com/track/2EIlEFGjGOOO47769Fv5Uk"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Friends",
-        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "When I Get My Wheels",
-      "url": "https://open.spotify.com/track/128zWWtr1fYyxJNLi0bFYh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Side of the Street",
         "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
       },
@@ -823,28 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Will Settle",
-        "url": "https://open.spotify.com/album/1pHOIYV04PXSNHjwmcZD22"
-      },
-      "artists": [
-        {
-          "name": "The Sunny Cowgirls",
-          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
-        },
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adam Brand (Special Bonus Tour Edition)",
-        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+        "name": "Good Friends",
+        "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
       },
       "artists": [
         {
@@ -852,9 +816,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 207400,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/2eHg7AeicXla6XsfH5G11n"
+      "duration_ms": 216200,
+      "name": "When I Get My Wheels",
+      "url": "https://open.spotify.com/track/128zWWtr1fYyxJNLi0bFYh"
     },
     {
       "added_at": null,
@@ -875,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dust Will Settle",
+        "url": "https://open.spotify.com/album/1pHOIYV04PXSNHjwmcZD22"
+      },
+      "artists": [
+        {
+          "name": "The Sunny Cowgirls",
+          "url": "https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/3SEuFv4bwCh3ImgLJL6ERG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adam Brand and The Outlaws",
         "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 214666,
       "name": "Good Year for the Outlaw",
       "url": "https://open.spotify.com/track/1zow1J6ivxXvaqyEYmxbn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adam Brand (Special Bonus Tour Edition)",
+        "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/2eHg7AeicXla6XsfH5G11n"
     }
   ],
   "unique_name": "This Is Adam Brand",

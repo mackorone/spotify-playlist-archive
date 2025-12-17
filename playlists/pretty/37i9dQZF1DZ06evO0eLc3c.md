@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,280 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,283 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 24 | [Everybody Wants to Rule the World](https://open.spotify.com/track/4LXwDXCJnTPoWexw3BJFVZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:03 |
 | 25 | [Till Victory](https://open.spotify.com/track/0ykdasEHKPJbVFYUibtaap) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 2:47 |
 | 26 | [April Fool](https://open.spotify.com/track/53eJ84ALjlKpU2A2OpohCN) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 3:47 |
-| 27 | [Paths That Cross](https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:20 |
+| 27 | [The Jackson Song](https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 5:27 |
 | 28 | [Gimme Shelter](https://open.spotify.com/track/1ENXYUosf6ifDYaIAj2trr) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:58 |
 | 29 | [Revenge](https://open.spotify.com/track/00QrHgrVlYOsleK3Vb62OJ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 5:04 |
 | 30 | [Pumping](https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:21 |
-| 31 | [The Jackson Song](https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 5:27 |
+| 31 | [Paths That Cross](https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:20 |
 | 32 | [Summer Cannibals](https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 4:11 |
 | 33 | [Hymn](https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 1:12 |
 | 34 | [Poppies](https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 7:06 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 43 | [Beneath the Southern Cross](https://open.spotify.com/track/1KRWRshqiMiYm6cTped4pp) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 4:34 |
 | 44 | [Snowball](https://open.spotify.com/track/4idrWKpqjPzRBE4LLwhSpo) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Snowball](https://open.spotify.com/album/36qDPABaXGNyc4bdbWDjwL) | 3:14 |
 | 45 | [Looking for You \(I Was\)](https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:06 |
-| 46 | [Seneca](https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 5:40 |
+| 46 | [Helpless](https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:02 |
 | 47 | [Gone Again](https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:16 |
-| 48 | [Helpless](https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:02 |
+| 48 | [Seneca](https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 5:40 |
 | 49 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
-| 50 | [Amerigo](https://open.spotify.com/track/1tZ4JHHtnELQC3smRIkJ2q) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:35 |
+| 50 | [Glitter In Their Eyes](https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gung Ho](https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE) | 3:03 |
 
-Snapshot ID: `aT3+AAAAAABV4hvPY/H/4TECZuprI1LY`
+Snapshot ID: `aT9PgAAAAADIV1e5keKkUT43xiuCo2sV`

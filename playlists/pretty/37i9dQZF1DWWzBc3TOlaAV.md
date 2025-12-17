@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,225 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,328 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 82 | [Sweet Caroline \- Single Version](https://open.spotify.com/track/6l7tK5SsMlN8a9ccgeIkpS) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [In My Lifetime](https://open.spotify.com/album/0mfMzPJTJni2cy7O5C2sxi) | 3:21 |
 | 83 | [The Sounds of Silence](https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:04 |
 | 84 | [Gloria \- Stereo Version](https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Gold \(International Version\)](https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH) | 2:36 |
-| 85 | [Wild Thing](https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Hit Single Anthology](https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v) | 2:38 |
+| 85 | [Itchycoo Park](https://open.spotify.com/track/0fYgtNCNCjFDeJWTIMukNU) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Small Faces: The Singles Collection](https://open.spotify.com/album/36kTs3PivuoQFTz102LcCa) | 2:52 |
 | 86 | [Waterloo Sunset](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 |
-| 87 | [Itchycoo Park](https://open.spotify.com/track/0fYgtNCNCjFDeJWTIMukNU) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Small Faces: The Singles Collection](https://open.spotify.com/album/36kTs3PivuoQFTz102LcCa) | 2:52 |
+| 87 | [Wild Thing](https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [Hit Single Anthology](https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v) | 2:38 |
 | 88 | [Hush \- 2014 Remaster](https://open.spotify.com/track/3BaFLw5Tgx42RbedE9gd06) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [A Fire in the Sky](https://open.spotify.com/album/1GKOyRujhEUhhJGwaSifc8) | 4:12 |
 | 89 | [Care Of Cell 44](https://open.spotify.com/track/5QXqz1KDz8Z8DmfQoxWmmy) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/7K6JtyaSSVr7HidQsCHun0) | 3:55 |
 | 90 | [Ticket To Ride \- Remastered 2009](https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 3:09 |

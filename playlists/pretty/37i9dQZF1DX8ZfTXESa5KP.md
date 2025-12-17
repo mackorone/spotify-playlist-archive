@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > A great night for cold beer and country music \- congratulations to all of the winners! Cover: Zach Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,388 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,474 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

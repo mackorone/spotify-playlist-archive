@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,235 likes - 46 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,233 likes - 47 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Ninguém Merece Amar Sozinho](https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Ninguém Merece Amar Sozinho](https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0) | 3:47 |
 | 45 | [Macetando](https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r) | 2:47 |
 | 46 | [Apê 1001](https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 2:51 |
+| 47 | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 |
 
-Snapshot ID: `aT3+AAAAAADjHqUqJLYFL2BEC0mztv9D`
+Snapshot ID: `aT9PgAAAAAANN7KtwV9gpsWalKkY4a2s`

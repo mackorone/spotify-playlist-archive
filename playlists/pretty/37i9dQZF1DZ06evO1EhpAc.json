@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADYZq/68YdPLZZ96dxVRbA7",
+  "snapshot_id": "aT9PgAAAAADWHQk3RCqq7yJBWjIPkHfA",
   "tracks": [
     {
       "added_at": null,
@@ -423,42 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 254507,
-      "name": "Year to Year",
-      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "Submerge FM",
-      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -483,6 +447,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "Submerge FM",
+      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 254507,
+      "name": "Year to Year",
+      "url": "https://open.spotify.com/track/4YRjDIG43mCiJtZ1SjSiKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New York 93 (Baba Stiltz Remix)",
         "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
       },
@@ -503,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Joy",
-        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
       "artists": [
-        {
-          "name": "Ellie Herring",
-          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 208173,
-      "name": "Swim Me",
-      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+        "name": "What a Joy",
+        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
       },
       "artists": [
+        {
+          "name": "Ellie Herring",
+          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+      "duration_ms": 208173,
+      "name": "Swim Me",
+      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
     },
     {
       "added_at": null,
@@ -639,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
       "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 149982,
-      "name": "Enough For Love - Yaeji heart+beat Remix",
-      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
       "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
+      "duration_ms": 149982,
+      "name": "Enough For Love - Yaeji heart+beat Remix",
+      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
     },
     {
       "added_at": null,

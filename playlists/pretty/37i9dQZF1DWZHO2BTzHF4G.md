@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,213 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,246 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 38 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
 | 39 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
 | 40 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
-| 41 | [Second Chance](https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
-| 42 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
+| 41 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
+| 42 | [Second Chance](https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
 | 43 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 |
 | 44 | [I Write Sins Not Tragedies](https://open.spotify.com/track/5cY8y2XgOfkAh4kSWLFKkz) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/01hp4DvayKlnqUQrmk0vvz) | 3:05 |
 | 45 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |

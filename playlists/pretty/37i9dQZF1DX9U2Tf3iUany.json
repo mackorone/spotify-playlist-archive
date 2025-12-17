@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 58987,
+  "num_followers": 58990,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "On The Radio",
-      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "KIDS SEE GHOSTS",
         "url": "https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 324674,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "On The Radio",
+      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
     },
     {
       "added_at": "2022-10-01 16:00:00",

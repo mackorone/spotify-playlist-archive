@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50081,
+  "num_followers": 50076,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAt7+LLYxONDmPyP8a8Auh6",
+  "snapshot_id": "aT9PgAAAAADjJDfbgxrn5nE/KlSt1oh0",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias Mam\u00e1",
+        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Gracias Mam\u00e1",
+      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 202249,
       "name": "Borrachos Por Amor",
       "url": "https://open.spotify.com/track/756car8F1QRXlZBmafNRcV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias Mam\u00e1",
-        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Gracias Mam\u00e1",
-      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
     }
   ],
   "unique_name": "This Is Ulices Chaidez",

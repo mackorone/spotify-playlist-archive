@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,139 songs - 2 day 15 hr 45 min
+1,140 songs - 2 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,7 +723,7 @@
 | [ok](https://open.spotify.com/track/3yDg9UhdWmFlHsaJaN0GRI) | [Enjac](https://open.spotify.com/artist/7iIiRw3JSWI8c9n8CIQS3f) | [ok](https://open.spotify.com/album/3beDdopYTPW97ZlnjWhBzm) | 2:45 | 2023-01-25 | 2023-04-12 |
 | [Old School](https://open.spotify.com/track/4PJ2d3KGZ0goovJMHOpxwr) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Old School](https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV) | 2:42 | 2025-03-10 | 2025-06-04 |
 | [On Lock](https://open.spotify.com/track/62YgrGZTw1c20Juoy7kFUZ) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [On Lock](https://open.spotify.com/album/1WBMCfa1zj68UBeWS6DLLq) | 3:02 | 2025-10-29 |  |
-| [On My Own](https://open.spotify.com/track/74Vj0SPtSEYwBhJIKQiyEG) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [On My Own](https://open.spotify.com/album/4fb1FjRzLhGhweK3Dg0dae) | 2:30 | 2025-09-26 |  |
+| [On My Own](https://open.spotify.com/track/74Vj0SPtSEYwBhJIKQiyEG) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [On My Own](https://open.spotify.com/album/4fb1FjRzLhGhweK3Dg0dae) | 2:30 | 2025-09-26 | 2025-12-17 |
 | [On The Beach](https://open.spotify.com/track/4I9lRMeXjpHClXcwXRi1nF) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0) | [On The Beach](https://open.spotify.com/album/7CPGdJK8NmryBMVN78m7QY) | 3:12 | 2022-07-27 | 2022-10-08 |
 | [On The Inside](https://open.spotify.com/track/7ADnLRvlp5yDkC5VKvigOO) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [On The Inside](https://open.spotify.com/album/6YaqphTghJSjHH0zcUYXq9) | 3:28 | 2023-05-15 | 2023-08-10 |
 | [On The Run](https://open.spotify.com/track/0UABxGfYqdlM8ZorINo9Ia) | [OCULA](https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [On The Run](https://open.spotify.com/album/6S2YvsviemGWWfA7sejZzs) | 4:02 | 2022-11-04 | 2023-01-28 |
@@ -754,10 +754,11 @@
 | [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
 | [Palm Of Your Hand](https://open.spotify.com/track/3mu8f4BXjYVvJNqIOeGqWp) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Palm Of Your Hand](https://open.spotify.com/album/1gopiGew94SqUvLFFbxlio) | 3:35 | 2025-10-10 |  |
 | [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 | 2024-11-23 |
+| [Paradise](https://open.spotify.com/track/0DrCOcgrsmY1fjiDjt3JEN) | [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Silk Selections 06](https://open.spotify.com/album/18ePX3brO8fQvulAwFNvNR) | 2:58 | 2025-12-16 |  |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Pay Respect](https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [FRAXURE](https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Pay Respect](https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G) | 3:40 | 2025-03-28 | 2025-06-24 |
 | [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 | 2024-08-29 | 2024-11-22 |
-| [Perfect](https://open.spotify.com/track/2hxlj6BdJA603Ahho8fLDH) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Perfect](https://open.spotify.com/album/65SyuCYsdqZOb9I2dP0bWF) | 4:04 | 2025-09-25 |  |
+| [Perfect](https://open.spotify.com/track/2hxlj6BdJA603Ahho8fLDH) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Perfect](https://open.spotify.com/album/65SyuCYsdqZOb9I2dP0bWF) | 4:04 | 2025-09-25 | 2025-12-17 |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
 | [Perfect World](https://open.spotify.com/track/3osdj7cdZJyY7eCuTVV0C4) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Perfect World](https://open.spotify.com/album/6LkqmZzjJrOp2x7z1AS1Yk) | 2:55 | 2024-06-20 | 2024-09-17 |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |

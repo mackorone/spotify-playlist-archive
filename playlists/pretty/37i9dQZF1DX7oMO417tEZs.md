@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,727 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,717 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 17 | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/track/2frgkDD0XKvyJ2nVu7s6Ne) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/album/7vVcjP5JwWTQKJNJfU18D8) | 2:24 |
 | 18 | [unmasked society](https://open.spotify.com/track/5oIwPc717ALrlBaV0MQPE5) | [jamvvis](https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF) | [unmasked society](https://open.spotify.com/album/5Ye2p8CnGmAfahUTvcAyiL) | 2:40 |
 | 19 | [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 |
-| 20 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
+| 20 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
 | 21 | [God](https://open.spotify.com/track/678p2xQ2SXuCunDfp9KiPB) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN), [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [Vicious Circles](https://open.spotify.com/album/2h2JIweAbTJosHzw5gwuqW) | 2:54 |
 | 22 | [TASTY](https://open.spotify.com/track/4XqpRH4wcNna6H1fEaSghG) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [TASTY](https://open.spotify.com/album/7zp2TBTMWbmiDWAVh8yfpB) | 2:24 |
 | 23 | [IMPLOSION](https://open.spotify.com/track/5v64rhcXYgkQhdTp2tlVD8) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [IMPLOSION](https://open.spotify.com/album/02uOUfa2VRpL4MMGH9fxU2) | 3:20 |

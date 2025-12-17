@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27437,
+  "num_followers": 27438,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADfebV2TEHKbAGmkHsepRQI",
+  "snapshot_id": "aT9PgAAAAABJu3EL2h2C52Uz/9EArBtP",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kingdom of Jesus",
+        "url": "https://open.spotify.com/album/35z3a11GNkqarQjIml21nM"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Dee Wilson",
+          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
+        }
+      ],
+      "duration_ms": 345815,
+      "name": "That We Might Overcome",
+      "url": "https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -243,34 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kingdom of Jesus",
-        "url": "https://open.spotify.com/album/35z3a11GNkqarQjIml21nM"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Dee Wilson",
-          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
-        }
-      ],
-      "duration_ms": 345815,
-      "name": "That We Might Overcome",
-      "url": "https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wait / Praise The Giver",
         "url": "https://open.spotify.com/album/1trTP6UbgtdJmY2tcyXH1i"
       },
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "What a Friend",
-      "url": "https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 207400,
       "name": "Hold Us Together",
       "url": "https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "What a Friend",
+      "url": "https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 294813,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 288706,
       "name": "In the Room (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 294813,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Burning In My Soul",
-      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sanctuary Songs",
         "url": "https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 228145,
       "name": "Take it Easy",
       "url": "https://open.spotify.com/track/2TfhMkVOjxZ4S0Al2FqRs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Burning In My Soul",
+      "url": "https://open.spotify.com/track/39mcodzxm2M8FgxVsUzV9K"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 359973,
-      "name": "Adoration (Live)",
-      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sanctuary Songs",
         "url": "https://open.spotify.com/album/2xtIB6EI9M4qilg51YSuzB"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 356666,
       "name": "Christ is Lower Still",
       "url": "https://open.spotify.com/track/3Z2KoAJMtXuUUcXRixQWsI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 359973,
+      "name": "Adoration (Live)",
+      "url": "https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leaning (feat. Lizzie Morgan)",
-        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "Lizzie Morgan",
-          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "Leaning (feat. Lizzie Morgan)",
-      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1or, Te Necesito",
         "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
       },
@@ -775,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+        "name": "Leaning (feat. Lizzie Morgan)",
+        "url": "https://open.spotify.com/album/6Dk3GXUdiov6fsnXdELZTi"
       },
       "artists": [
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
         }
       ],
-      "duration_ms": 251680,
-      "name": "Just as I Am",
-      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
+      "duration_ms": 219213,
+      "name": "Leaning (feat. Lizzie Morgan)",
+      "url": "https://open.spotify.com/track/5i4eapszFQYMycVSOiBxHG"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 365880,
       "name": "Your Grace Is Enough/Here I Am Lord (Live)",
       "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Just as I Am",
+      "url": "https://open.spotify.com/track/6gCXdSruNlJtm3guzzlaET"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saints and Sinners",
-        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Abide With Me",
-      "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -863,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saints and Sinners",
+        "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive & Breathing",
         "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 239256,
       "name": "Lord of My Life",
       "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus, Firm Foundation: Hymns of Worship",
-        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Holy, Holy, Holy (God With Us)",
-      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
       "duration_ms": 233160,
       "name": "The Stories I Tell Myself",
       "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus, Firm Foundation: Hymns of Worship",
+        "url": "https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Holy, Holy, Holy (God With Us)",
+      "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
     },
     {
       "added_at": null,

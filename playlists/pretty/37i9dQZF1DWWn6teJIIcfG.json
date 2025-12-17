@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 218911,
+  "num_followers": 218932,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 138040,
       "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1459,22 +1459,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
-        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+        "name": "Telemann Collection",
+        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
         },
         {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+          "name": "Collegium Instrumentale Brugense",
+          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
+        },
+        {
+          "name": "Marc Peire",
+          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
         }
       ],
-      "duration_ms": 150493,
-      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
-      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
+      "duration_ms": 65080,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
+      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1507,26 +1511,22 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Telemann Collection",
-        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
+        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
+        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
       },
       "artists": [
         {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
         },
         {
-          "name": "Collegium Instrumentale Brugense",
-          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
-        },
-        {
-          "name": "Marc Peire",
-          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
         }
       ],
-      "duration_ms": 65080,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
-      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+      "duration_ms": 150493,
+      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
+      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
         "url": "https://open.spotify.com/album/3NYi6pcxNtjPslQOqlT9HM"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1719,30 +1719,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
-      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "She moved through the fair",
         "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
       },
@@ -1775,6 +1751,30 @@
       "duration_ms": 138146,
       "name": "She moved through the fair",
       "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+      "url": "https://open.spotify.com/track/6AG7ekfWoiYTY6gyiEebCN"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
+      },
+      "artists": [
+        {
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2025-07-02 09:25:11",
@@ -1943,30 +1943,6 @@
     {
       "added_at": "2025-07-02 09:25:11",
       "album": {
-        "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
-        "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Carlos Simon",
-          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
-        },
-        {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
-      "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
-    },
-    {
-      "added_at": "2025-07-02 09:25:11",
-      "album": {
         "name": "Telemann Edition, Vol. 1",
         "url": "https://open.spotify.com/album/5cEqeaVOOShRNlsEe4ubLC"
       },
@@ -1987,6 +1963,30 @@
       "duration_ms": 120813,
       "name": "Overture-Suite in G Major, TWV 55:G10: \"Burlesque de Quixotte\": IV. Ses soupirs amoureux apr\u00e8s la princesse Dulcin\u00e9e",
       "url": "https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0"
+    },
+    {
+      "added_at": "2025-07-02 09:25:11",
+      "album": {
+        "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
+        "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Carlos Simon",
+          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
+      "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
     },
     {
       "added_at": "2025-07-02 09:25:11",

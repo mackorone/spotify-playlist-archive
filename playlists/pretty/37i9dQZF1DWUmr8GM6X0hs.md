@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,558 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,567 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 22 | [Total](https://open.spotify.com/track/5nUf759XOaK2vnUws4acJM) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Canta Sus Exitos](https://open.spotify.com/album/7uCFS6G1cwDikioDJhFHO2) | 3:03 |
 | 23 | [Canta Canta](https://open.spotify.com/track/6FmscChYXXYOYMrwMt6CZr) | [Toña "La Negra"](https://open.spotify.com/artist/1SZQKoMtYV7tyEZSagGFio) | [Aquellas Lindas Melodias, Vol\. 9](https://open.spotify.com/album/2gnllsi7CMqa2oo5APO54S) | 2:45 |
 | 24 | [Los Aretes De La Luna](https://open.spotify.com/track/42TjkXmdeykjRoGm8XS2x8) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Vicentico Valdés](https://open.spotify.com/artist/6yQZkZC0BnKuZzuO1DAf3J) | [Vicentico Valdés Con La Sonora Matancera](https://open.spotify.com/album/4ZlrS11JlhwkbtJ3fOglIS) | 2:25 |
-| 25 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
-| 26 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
+| 25 | [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 |
+| 26 | [Loca Ansiedad](https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO) | [Raul Lopez](https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S), [Orquesta de Ricaurte Arias](https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr) | [Loca Ansiedad](https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s) | 2:55 |
 | 27 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 |
 | 28 | [Como Fué](https://open.spotify.com/track/7yvBuMGvWigRvJgwtKEPLD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Benny Moré Mágico](https://open.spotify.com/album/6eR6hzbY2nRAOEn04Ckixb) | 2:58 |
 | 29 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 34 | [Corazón Herido](https://open.spotify.com/track/3VxjKuDkOsSjVv0PLiRytq) | [Gaby Zevallos](https://open.spotify.com/artist/5VYKwJPKsTeY3mcJk7NlTo) | [La Dama del Bolero](https://open.spotify.com/album/0bCz2IkWynHJzOFb6vkYoF) | 3:10 |
 | 35 | [Escándalo / Luz y Sombra](https://open.spotify.com/track/3L1iwOmLRPkzYLf8IPNZuJ) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Mucho Corazón](https://open.spotify.com/album/7vJaotg3rgAIezud8FO4QU) | 3:11 |
 | 36 | [Así](https://open.spotify.com/track/4Est2AoCaL1zVMmU78Qw3H) | [Chivirico Davila](https://open.spotify.com/artist/6RsRDk1TGzoTsaRsLRKfaQ) | [Más Recuerdos Románticos](https://open.spotify.com/album/5DwgXMZWtaRTXfykSwPNVV) | 4:38 |
-| 37 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [La Sonora Malecón Club](https://open.spotify.com/artist/54X5g4szxWMk0W8gIAxCTJ) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 |
-| 38 | [Otra Copa](https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:24 |
+| 37 | [Otra Copa](https://open.spotify.com/track/48L73UQjzeXjq7MjDAe12U) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:24 |
+| 38 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [La Sonora Malecón Club](https://open.spotify.com/artist/54X5g4szxWMk0W8gIAxCTJ) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 |
 | 39 | [Desvelo de Amor](https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:54 |
 | 40 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 41 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |

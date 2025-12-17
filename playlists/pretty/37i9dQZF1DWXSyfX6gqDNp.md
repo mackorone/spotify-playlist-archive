@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 
 > Slow instrumental Jazz for evening listening pleasure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,762 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,788 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSyfX6gqDNp.md) - [plain]
 | 99 | [Being the problem](https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Being the problem](https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T) | 2:56 |
 | 100 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 |
 
-Snapshot ID: `AAAAAGa4XvV6Kfe2vmkUUx5/6CQSPm34`
+Snapshot ID: `AAAAAPS6eZqJKYbV5U2l8qJ7ldCA/zhl`

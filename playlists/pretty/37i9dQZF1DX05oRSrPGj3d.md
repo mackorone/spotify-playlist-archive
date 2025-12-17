@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,831 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,847 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 55 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 56 | [A Life Where We Work Out](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 |
 | 57 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
-| 58 | [Somewhere Down in Texas](https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 5:53 |
-| 59 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
+| 58 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
+| 59 | [Somewhere Down in Texas](https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 5:53 |
 | 60 | [Texas Rain](https://open.spotify.com/track/1FeiPr6d63dl8kLxaw8Of5) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Texas Rain](https://open.spotify.com/album/1Yfx2ZD4HnlQSlPrf2fvBa) | 3:38 |
 | 61 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
 | 62 | [Who I Am](https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Blue Light Live](https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5) | 4:35 |
@@ -99,13 +99,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 89 | [Three Days](https://open.spotify.com/track/0vCfqTdVanc42UWTQmVU2S) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Three Days](https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4) | 3:44 |
 | 90 | [Grow Old with Me](https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:22 |
 | 91 | [Mendocino County Line](https://open.spotify.com/track/41cm0jYZCvTcBeYZQ8lnwV) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Great Divide](https://open.spotify.com/album/3N1fyo5kFjZhMYVsiEsRKB) | 4:32 |
-| 92 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
-| 93 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
+| 92 | [Lovin' Where It's Goin'](https://open.spotify.com/track/2sErEhMGHJsGjm0LFKqesJ) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Lovin' Where It's Goin'](https://open.spotify.com/album/5DmcSJypcNe2D3ljGDyeMA) | 2:59 |
+| 93 | [Kiss Me](https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [All Night Party](https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR) | 3:28 |
 | 94 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 |
 | 95 | [Love](https://open.spotify.com/track/0cif0x9Pl03qzN02YiwCzm) | [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [I Got the Guns](https://open.spotify.com/album/5EdH9V1WdL9hRKEqHKiD4N) | 3:50 |
 | 96 | [Shades of Gray](https://open.spotify.com/track/33CVbDlfnTJa8Fb78HZMLe) | [Jason Boland](https://open.spotify.com/artist/5ez1Ny51KSaouSu8kHZMyy), [Cody Canada](https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO) | [Undone: A Musicfest Tribute to Robert Earl Keen](https://open.spotify.com/album/5K3zDZeAo4tTGKqEmRyJN2) | 6:16 |
-| 97 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
-| 98 | [North Dakota](https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Joshua Judges Ruth](https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB) | 5:42 |
+| 97 | [North Dakota](https://open.spotify.com/track/4JwBDp0psRP2pbmNVjPc8E) | [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es) | [Joshua Judges Ruth](https://open.spotify.com/album/0Q9E2do1DR7QrHyD5BPaZB) | 5:42 |
+| 98 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 |
 | 99 | [Ballad Of Spider John](https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd) | [Willis Alan Ramsey](https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX) | [Willis Alan Ramsey](https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL) | 4:18 |
 | 100 | [With You Gone](https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN) | [David Pugh](https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog) | [With You Gone](https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6) | 4:06 |
 

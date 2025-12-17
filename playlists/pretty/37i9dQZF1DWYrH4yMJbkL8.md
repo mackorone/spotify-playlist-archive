@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by William Prince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,918 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,917 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,664 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,694 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 38 | [Luv Again](https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Luv Again](https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv) | 3:40 |
 | 39 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
 | 40 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
-| 41 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
-| 42 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
+| 41 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
+| 42 | [If You Leave](https://open.spotify.com/track/22ghwAJ3FjBzFGT3CjdCgY) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Only Sad People Smile](https://open.spotify.com/album/1exYw5ltkZK5ie149HCTMP) | 2:43 |
 | 43 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 44 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
 | 45 | [Loner](https://open.spotify.com/track/4VG9WzSYRAsHIVgkZXRX1C) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Loner](https://open.spotify.com/album/3HYQbRL63e1oc98lBQu7gH) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,702 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,723 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 23 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 24 | [Pompeii](https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 25 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e) | 3:41 |
-| 26 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
+| 26 | [Somebody Else](https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 5:47 |
 | 27 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
 | 28 | [The Phoenix](https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
 | 29 | [Walking The Wire](https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:52 |
 | 30 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 |
-| 31 | [Somebody Else](https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 5:47 |
+| 31 | [It's Not Living \(If It's Not With You\)](https://open.spotify.com/track/3TgMcrV32NUKjEG2ujn9eh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:08 |
 | 32 | [For the First Time](https://open.spotify.com/track/49kjlZP49LMD1MrrcvXDET) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/5rtaHEtZdWQSrKJmuqPTB0) | 4:12 |
 | 33 | [Love Runs Out](https://open.spotify.com/track/3cOO5IQtOYs7huq4Z6lYfr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 3:44 |
 | 34 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 81 | [Without You](https://open.spotify.com/track/6R6ux6KaKrhAg2EIB2krdU) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Wide Awake](https://open.spotify.com/album/7h5LfM6tT7v8L2gTyL3Bbz) | 3:48 |
 | 82 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
 | 83 | [Come to Me](https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:45 |
-| 84 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
+| 84 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
 | 85 | [Pocket Full Of Gold](https://open.spotify.com/track/4KSQ9el0QgTKKie5oCtKLe) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 3:00 |
-| 86 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 |
+| 86 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
 | 87 | [Catch Me If You Can](https://open.spotify.com/track/0llbJISuonEwIS4hmdaTz1) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:21 |
 | 88 | [Fire Escape](https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:24 |
 | 89 | [Red Hands](https://open.spotify.com/track/3e5uxnPKYPdNjadbGXjWbP) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [R.E.V.O.](https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP) | 3:00 |

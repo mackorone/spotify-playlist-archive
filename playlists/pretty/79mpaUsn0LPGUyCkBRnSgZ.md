@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 630 songs - 1 day 17 hr 11 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 631 songs - 1 day 17 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -638,5 +638,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 628 | [White Light/White Heat](https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [White Light / White Heat](https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO) | 2:47 |
 | 629 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 |
 | 630 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 |
+| 631 | [context](https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 1:59 |
 
-Snapshot ID: `AAAIK4Vis/ALuR5QGZFFUa7j1cV1vwxG`
+Snapshot ID: `AAAILJF9DWoO5xQlosELJoIst7epJjLS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,352,467 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,352,253 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 43 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 |
 | 44 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |
 | 45 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
-| 46 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
+| 46 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
 | 47 | [Mad Riches](https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:56 |
-| 48 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
+| 48 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
 | 49 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 50 | [WATCH ME](https://open.spotify.com/track/5HQPbxHeSAggz1pMQ2Bh5g) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [FREE](https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35) | 2:10 |
 | 51 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 60 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 61 | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl) | 4:00 |
 | 62 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
-| 63 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
-| 64 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
+| 63 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
+| 64 | [Comfortable](https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Comfortable](https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm) | 4:15 |
 | 65 | [When We](https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [SAVAGE](https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa) | 5:09 |
 | 66 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
 | 67 | [A Night Off \(feat\. Lloyd\)](https://open.spotify.com/track/3lkkkYc1wBj5l3FVlpqvP6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 3:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 93 | [Come See Me](https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:25 |
 | 94 | [Push It](https://open.spotify.com/track/6p5zh0HCAeE5WkWAxSxjeg) | [TWENTY88](https://open.spotify.com/artist/6g8AmloI8egfrr3dm3SnUL) | [TWENTY88](https://open.spotify.com/album/4gqnsOwnA490OYq58VfJV3) | 2:34 |
 | 95 | [Like Her Too](https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Like Her Too](https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe) | 2:57 |
-| 96 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 |
-| 97 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
+| 96 | [Company Pt\. 3](https://open.spotify.com/track/5KYOcGJM1wQHwrE6rVfg9y) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:00 |
+| 97 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 |
 | 98 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:24 |
 | 99 | [Pussy is Mine](https://open.spotify.com/track/0tmQ3hHXa8MGwUKUm6rAyF) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 2:53 |
 | 100 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |

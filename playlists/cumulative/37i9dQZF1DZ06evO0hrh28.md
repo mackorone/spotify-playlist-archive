@@ -4,7 +4,7 @@
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 2 min
+83 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 | 2025-02-23 |  |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-01 |  |
 | [cielo en la mente](https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:49 | 2023-11-10 |  |
-| [como si no importara](https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:53 | 2023-11-10 |  |
+| [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2025-12-17 |  |
+| [como si no importara](https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:53 | 2023-11-10 | 2025-12-17 |
 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 | 2023-11-10 |  |
 | [DAMN GIRL](https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [KUSTOM](https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp) | 3:21 | 2024-10-26 |  |
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2023-11-10 |  |
@@ -48,7 +49,7 @@
 | [Jagger.mp3](https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:35 | 2023-12-13 |  |
 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 | 2024-01-13 | 2024-04-20 |
 | [Já é Tarde \(No Más\)](https://open.spotify.com/track/3zOM8olfYjhEY4gARuV8gU) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Já é Tarde \(No Más\)](https://open.spotify.com/album/52XNWdUMP7Ln42XtpKI33y) | 2:29 | 2023-11-10 | 2024-02-03 |
-| [la balada](https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:45 | 2023-11-10 | 2025-11-22 |
+| [la balada](https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:45 | 2023-11-10 |  |
 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 | 2023-11-10 |  |
 | [La cita](https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 2:38 | 2025-11-23 |  |
 | [La\_Original.mp3](https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:20 | 2023-11-10 |  |

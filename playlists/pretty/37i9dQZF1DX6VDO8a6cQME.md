@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the '90s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,815,022 likes - 75 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,815,233 likes - 75 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 33 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
 | 34 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
 | 35 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
-| 36 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
-| 37 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
+| 36 | [Mary Jane \(All Night Long\)](https://open.spotify.com/track/2zwmugV2IbUwKq5JgOWEpv) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life](https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC) | 4:39 |
+| 37 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
 | 38 | [You're Makin' Me High](https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:27 |
 | 39 | [None Of Ur Friends Business](https://open.spotify.com/track/6t8JpJtI0PgVRSuMDGWZlH) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 6:05 |
 | 40 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 52 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 |
 | 53 | [I Couldn't Love You More](https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:48 |
 | 54 | [Every Little Thing I Do](https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07) | [Soul For Real](https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK) | [Candy Rain](https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp) | 4:20 |
-| 55 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
-| 56 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
+| 55 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
+| 56 | [U Know What's Up \(feat\. Lisa "Left Eye" Lopes\)](https://open.spotify.com/track/5PMKzsUsTpZZGsCcJBuhP2) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B), [Lisa "Left Eye" Lopes](https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:03 |
 | 57 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
 | 58 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
 | 59 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 70 | [Freak Me](https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp) | [Silk](https://open.spotify.com/artist/3Z71jEhwoPE4xzzUNhKKGD) | [Lose Control](https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ) | 4:34 |
 | 71 | [Come and Talk to Me \- Remix](https://open.spotify.com/track/5xE7sFTlv2yrG9mmhDSpdq) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [R&B Hits](https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q) | 4:55 |
 | 72 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
-| 73 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
-| 74 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
+| 73 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
+| 74 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
 | 75 | [Spend My Life With You](https://open.spotify.com/track/58s4iqgXFzXhBndBkg2AaD) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:36 |
 
 Snapshot ID: `AAAAAAP6IJSPbVEEFgA6QpT2TIXQKA6t`

@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。 Cover: 十明
+> Spotifyが注目するニューカマー・プレイリスト。 Cover: 7co
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,217 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,228 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [楓](https://open.spotify.com/track/4tnpmZVD9zVQIMQghpuV8x) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [楓](https://open.spotify.com/album/125rcderxx8IqpMq1qxTWH) | 5:36 |
-| 2 | [僕だけの矛盾](https://open.spotify.com/track/0JbdUM8Bx8ax24Q50EHzB4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [僕だけの矛盾](https://open.spotify.com/album/2H2lOVsdIvonip4PmKqFfW) | 4:14 |
-| 3 | [怪獣とヒーロー](https://open.spotify.com/track/2imsRvMO3fNxMWmJsbNXFD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Dawn](https://open.spotify.com/album/5ueJa5Ve1WSAwbuuH3ede6) | 3:47 |
-| 4 | [big man 2](https://open.spotify.com/track/1ZE2N0EqAonRkTkPE3W55P) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [big man 2 / young boy](https://open.spotify.com/album/3ZTVLKNr2irF0mOiQqK8FS) | 2:48 |
-| 5 | [連れてって](https://open.spotify.com/track/2ucRLbSLvhc5KYkrtg1vG7) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [連れてって](https://open.spotify.com/album/2VxQTWaRsEjABKfrc4PkgD) | 4:04 |
-| 6 | [dead end love](https://open.spotify.com/track/4Z5HsaeVAOxTmHR6783RgE) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [dead end love](https://open.spotify.com/album/7quyEoeWYvX8IWv6i2XW4a) | 2:40 |
-| 7 | [ちょうどいい \(feels just right\)](https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [ちょうどいい \(feels just right\)](https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv) | 3:47 |
-| 8 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 4:16 |
+| 1 | [ZIDANDA](https://open.spotify.com/track/1WnO4TBMUXaWVmEvEnYYsE) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ZIDANDA](https://open.spotify.com/album/4taqmQVuJcAGHs3FjGnOEO) | 2:48 |
+| 2 | [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 |
+| 3 | [僕だけの矛盾](https://open.spotify.com/track/0JbdUM8Bx8ax24Q50EHzB4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [僕だけの矛盾](https://open.spotify.com/album/2H2lOVsdIvonip4PmKqFfW) | 4:14 |
+| 4 | [怪獣とヒーロー](https://open.spotify.com/track/2imsRvMO3fNxMWmJsbNXFD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Dawn](https://open.spotify.com/album/5ueJa5Ve1WSAwbuuH3ede6) | 3:47 |
+| 5 | [big man 2](https://open.spotify.com/track/1ZE2N0EqAonRkTkPE3W55P) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [big man 2 / young boy](https://open.spotify.com/album/3ZTVLKNr2irF0mOiQqK8FS) | 2:48 |
+| 6 | [連れてって](https://open.spotify.com/track/2ucRLbSLvhc5KYkrtg1vG7) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [連れてって](https://open.spotify.com/album/2VxQTWaRsEjABKfrc4PkgD) | 4:04 |
+| 7 | [dead end love](https://open.spotify.com/track/4Z5HsaeVAOxTmHR6783RgE) | [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [dead end love](https://open.spotify.com/album/7quyEoeWYvX8IWv6i2XW4a) | 2:40 |
+| 8 | [Babel \- Re\-recorded](https://open.spotify.com/track/46uupX1PFFJwLeEkm8F2QO) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Babel \(Re\-recorded\)](https://open.spotify.com/album/2JzBeuZ6mo9dWfeD7kcW2Z) | 4:38 |
 | 9 | [感情的侵略](https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [glauben](https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4) | 2:43 |
 | 10 | [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 |
 | 11 | [SCYTHE](https://open.spotify.com/track/4L3Thrp4V13ZOyXPk0bqZa) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [SCYTHE](https://open.spotify.com/album/2s2A8Uf8mMi8JR80X0nbVa) | 2:55 |
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 13 | [べいびーぶれいかー](https://open.spotify.com/track/3ZxuGyczOmQk3b3urUBgIn) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [べいびーぶれいかー](https://open.spotify.com/album/2R0l7B2AaoqXj6cklD4nKc) | 4:33 |
 | 14 | [いつかはね](https://open.spotify.com/track/571BtxDoktJYwbHHRbA3d9) | [スーパー登山部](https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9) | [いつかはね](https://open.spotify.com/album/74FCPYutle8QgzzIAOrYXc) | 3:59 |
 | 15 | [徒然 \- Tsurezure](https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [徒然 \- Tsurezure](https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy) | 2:36 |
-| 16 | [frozen](https://open.spotify.com/track/2DDBkH4P2gJE7JFUb2B4sV) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [frozen](https://open.spotify.com/album/0KmwumEoRrnixx6CS5zjsp) | 3:17 |
+| 16 | [楓](https://open.spotify.com/track/4tnpmZVD9zVQIMQghpuV8x) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [楓](https://open.spotify.com/album/125rcderxx8IqpMq1qxTWH) | 5:36 |
 | 17 | [Footsteps](https://open.spotify.com/track/45TjHYs0MqcXmew445Np3r) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [LOSS](https://open.spotify.com/album/5ahCi5AsIeYnA1AjfzyH0J) | 4:55 |
 | 18 | [I OWN MY ROLE](https://open.spotify.com/track/2KS2rawRcjyUj2NuqGWNWz) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [I OWN MY ROLE](https://open.spotify.com/album/0UG0X1vfl9JTfYkFwv8YXV) | 2:28 |
 | 19 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
@@ -46,27 +46,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 36 | [夢中猫](https://open.spotify.com/track/1FhgrTEc1C96Pm7OeY62RA) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [夢中猫](https://open.spotify.com/album/6CcurU0qUHoUWLhYo9iZyp) | 2:36 |
 | 37 | [Gコード](https://open.spotify.com/track/5zdDbA84kNpVIQrWolQvjR) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [ロックンロール](https://open.spotify.com/album/38uL4vo9OecxFGlGqXLSI4) | 4:48 |
 | 38 | [Shion](https://open.spotify.com/track/5RLXDp8XH7mkZcO77ySKjR) | [Yukiguni](https://open.spotify.com/artist/0N5NrI3hIGrAF4dBOXHYM7) | [shion](https://open.spotify.com/album/1QgD5p6RIf71mh4UrbdXxL) | 10:18 |
-| 39 | [wingbeatFreq](https://open.spotify.com/track/5sVzRYCEey1upsf9WnfqUM) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Spira1oop](https://open.spotify.com/album/5vFrH1kauZ2tb0dKt81lDx) | 7:50 |
-| 40 | [ワァズワァス](https://open.spotify.com/track/0NkTrYxoYJs6NuTsd9ACX2) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [ワァズワァス](https://open.spotify.com/album/3T3VPeYYfnq2b9WYztJEdo) | 3:42 |
-| 41 | [Dance to the Music](https://open.spotify.com/track/7cNTeP5G3Dc3vZrYxxP4nV) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Dance to the Music](https://open.spotify.com/album/7xHWvIUnmDPJaOMS1uRCuI) | 3:12 |
-| 42 | [Bassist](https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Bassist](https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs) | 3:11 |
-| 43 | [gimme!](https://open.spotify.com/track/6MB6t2mU75pcAcQUdV0IS9) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [gimme!](https://open.spotify.com/album/6CYUBLi7tK1NkrPSft3X61) | 2:26 |
-| 44 | [Good Life](https://open.spotify.com/track/785BETMnaavuSW6TJPOoeO) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [Good Life](https://open.spotify.com/album/0Xgnfb01FiYnYl02C6cfsJ) | 3:02 |
-| 45 | [7 minutes](https://open.spotify.com/track/4xvUNJzple6pL5yJjz9dd7) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G) | [7 minutes](https://open.spotify.com/album/3z37n5Twoc3niP80UDXRB0) | 3:35 |
-| 46 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 |
-| 47 | [Into My Name](https://open.spotify.com/track/2viBzmRkwr7l1qYnWUYC0t) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Into My Name](https://open.spotify.com/album/2luqvRAmh8gu3YBXvDlwuu) | 2:08 |
-| 48 | [FLASH BACK!!!!!!!!](https://open.spotify.com/track/65VJ1MYXZOYuRcf1vFna3Z) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [FLASH BACK!!!!!!!!](https://open.spotify.com/album/4yzmhRTHmTSDdlrmRjAaZA) | 3:30 |
-| 49 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
-| 50 | [3時のHey Yo！](https://open.spotify.com/track/4EWBCoXZjKZtxRFeOBaAwX) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [3時のHey Yo！](https://open.spotify.com/album/3oivkA7EaaVZzSdws5tTk1) | 3:28 |
-| 51 | [夕日](https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [夕日](https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik) | 3:29 |
-| 52 | [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 |
-| 53 | [夜に潜って](https://open.spotify.com/track/1Z4NHDfjLlqXw9oaZ5rGn2) | [春風レコード](https://open.spotify.com/artist/22XYJGn2ZmvGfY2FOwTfeD) | [夜に潜って](https://open.spotify.com/album/0m9zPuWR9SiOsd7OlJ7V4B) | 4:11 |
-| 54 | [Last Summer Bye\-bye](https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Last Summer Bye\-bye](https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm) | 5:22 |
-| 55 | [Hello](https://open.spotify.com/track/2QOCRm9aRahoO1482RWZgt) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [Hello](https://open.spotify.com/album/2ZyxXLawndkQCz0XEVnCdB) | 3:09 |
-| 56 | [Goldfish](https://open.spotify.com/track/3otgMiMbW4xRr6iFXckBjh) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Goldfish](https://open.spotify.com/album/4dcfW7cCjIlkqbLBOtWT6y) | 4:13 |
-| 57 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 |
-| 58 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
-| 59 | [One in a million](https://open.spotify.com/track/1XoVx5zm2SYLzILgHReqD1) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [One in a million](https://open.spotify.com/album/26NDlsFpoSUfRL79Ce7A7K) | 4:32 |
-| 60 | [HEA7EN](https://open.spotify.com/track/0SwcRsJukuBm5OECKV6oP5) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [HEA7EN](https://open.spotify.com/album/0kkJC2Il3eHQOBe1IVRQsO) | 2:26 |
+| 39 | [DON'T JUDGE ME](https://open.spotify.com/track/1NXdmNpkC4XSUmisj2TOJE) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [DON'T JUDGE ME](https://open.spotify.com/album/1SDLASqzhbKbqhme7trMjs) | 3:52 |
+| 40 | [wingbeatFreq](https://open.spotify.com/track/5sVzRYCEey1upsf9WnfqUM) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Spira1oop](https://open.spotify.com/album/5vFrH1kauZ2tb0dKt81lDx) | 7:50 |
+| 41 | [ワァズワァス](https://open.spotify.com/track/0NkTrYxoYJs6NuTsd9ACX2) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [ワァズワァス](https://open.spotify.com/album/3T3VPeYYfnq2b9WYztJEdo) | 3:42 |
+| 42 | [Dance to the Music](https://open.spotify.com/track/7cNTeP5G3Dc3vZrYxxP4nV) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Dance to the Music](https://open.spotify.com/album/7xHWvIUnmDPJaOMS1uRCuI) | 3:12 |
+| 43 | [Bassist](https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Bassist](https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs) | 3:11 |
+| 44 | [gimme!](https://open.spotify.com/track/6MB6t2mU75pcAcQUdV0IS9) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [gimme!](https://open.spotify.com/album/6CYUBLi7tK1NkrPSft3X61) | 2:26 |
+| 45 | [Good Life](https://open.spotify.com/track/785BETMnaavuSW6TJPOoeO) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [Good Life](https://open.spotify.com/album/0Xgnfb01FiYnYl02C6cfsJ) | 3:02 |
+| 46 | [7 minutes](https://open.spotify.com/track/4xvUNJzple6pL5yJjz9dd7) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G) | [7 minutes](https://open.spotify.com/album/3z37n5Twoc3niP80UDXRB0) | 3:35 |
+| 47 | [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 |
+| 48 | [Into My Name](https://open.spotify.com/track/2viBzmRkwr7l1qYnWUYC0t) | [lili maua](https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM) | [Into My Name](https://open.spotify.com/album/2luqvRAmh8gu3YBXvDlwuu) | 2:08 |
+| 49 | [FLASH BACK!!!!!!!!](https://open.spotify.com/track/65VJ1MYXZOYuRcf1vFna3Z) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [FLASH BACK!!!!!!!!](https://open.spotify.com/album/4yzmhRTHmTSDdlrmRjAaZA) | 3:30 |
+| 50 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
+| 51 | [3時のHey Yo！](https://open.spotify.com/track/4EWBCoXZjKZtxRFeOBaAwX) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [3時のHey Yo！](https://open.spotify.com/album/3oivkA7EaaVZzSdws5tTk1) | 3:28 |
+| 52 | [夕日](https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg) | [中島 寂](https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL) | [夕日](https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik) | 3:29 |
+| 53 | [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 |
+| 54 | [夜に潜って](https://open.spotify.com/track/1Z4NHDfjLlqXw9oaZ5rGn2) | [春風レコード](https://open.spotify.com/artist/22XYJGn2ZmvGfY2FOwTfeD) | [夜に潜って](https://open.spotify.com/album/0m9zPuWR9SiOsd7OlJ7V4B) | 4:11 |
+| 55 | [Last Summer Bye\-bye](https://open.spotify.com/track/1IkVj8frr0z1b9lYjfxSqg) | [辻井 くぬえ](https://open.spotify.com/artist/3TlnzDv4MPoUbyE3X7djbQ) | [Last Summer Bye\-bye](https://open.spotify.com/album/3SKAgMwyJ5id9vwylWcgwm) | 5:22 |
+| 56 | [Hello](https://open.spotify.com/track/2QOCRm9aRahoO1482RWZgt) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Rikuto Nagira](https://open.spotify.com/artist/1m853g4jSUXHZIrmOZqkPo) | [Hello](https://open.spotify.com/album/2ZyxXLawndkQCz0XEVnCdB) | 3:09 |
+| 57 | [Goldfish](https://open.spotify.com/track/3otgMiMbW4xRr6iFXckBjh) | [望月ヒナタ](https://open.spotify.com/artist/4VGKxbTlK8S2rHhrR6oLh9) | [Goldfish](https://open.spotify.com/album/4dcfW7cCjIlkqbLBOtWT6y) | 4:13 |
+| 58 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 |
+| 59 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
+| 60 | [One in a million](https://open.spotify.com/track/1XoVx5zm2SYLzILgHReqD1) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [One in a million](https://open.spotify.com/album/26NDlsFpoSUfRL79Ce7A7K) | 4:32 |
 
-Snapshot ID: `AAAAAArjTENrZmgR5R2uLyKtOzo8VDnt`
+Snapshot ID: `AAAAAGHxhClttJvJ9wJDJ0AULLnNqWLq`

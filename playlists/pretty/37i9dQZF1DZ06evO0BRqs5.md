@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 33 | [リンドウの花](https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ラピスラズリ](https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G) | 4:45 |
 | 34 | [鼓動](https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [鼓動](https://open.spotify.com/album/3ScfmGFBtfyu9Gsj3yWDU3) | 4:03 |
 | 35 | [青の世界](https://open.spotify.com/track/7LWlnwNCg5OtJynBCSqxzG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 6:00 |
-| 36 | [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 |
-| 37 | [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 |
-| 38 | [フェイスレス](https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:26 |
-| 39 | [HaNaZaKaRi](https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 3:56 |
-| 40 | [FROATIN'](https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 |
-| 41 | [Close Friend](https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アクセンティア](https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo) | 4:29 |
-| 42 | [ロゼ](https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 3:29 |
-| 43 | [ヒトカケラの勇気](https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 3:52 |
+| 36 | [PHOENIX PRAYER](https://open.spotify.com/track/034PmlTJzGmjITEBl80ya8) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER](https://open.spotify.com/album/3sF10xHFVzOntlAtqkuB3Q) | 4:12 |
+| 37 | [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 |
+| 38 | [HaNaZaKaRi](https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 3:56 |
+| 39 | [FROATIN'](https://open.spotify.com/track/712XBKRZlVW0MqXyXPbUMl) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:12 |
+| 40 | [フェイスレス](https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:26 |
+| 41 | [ロゼ](https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 3:29 |
+| 42 | [ヒトカケラの勇気](https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 3:52 |
+| 43 | [Close Friend](https://open.spotify.com/track/0S58WfNGli8Ik6pxCbXowy) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アクセンティア](https://open.spotify.com/album/1l1C3kJKVLamC0jevsP4Xo) | 4:29 |
 | 44 | [アヴァロン・ブルー](https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:49 |
 | 45 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 |
 | 46 | [YeLL](https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 49 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 |
 | 50 | [泡沫](https://open.spotify.com/track/51zZOB0rwq7Hr304eY1pJd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 5:00 |
 
-Snapshot ID: `aT3+AAAAAADeaFItbOTxt0zil4RcZuZ/`
+Snapshot ID: `aT9PgAAAAADXNA960LadHMdOgdAbZAVl`

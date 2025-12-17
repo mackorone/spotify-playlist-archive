@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,916 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,928 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 13 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
 | 14 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
 | 15 | [Brianstorm](https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:52 |
-| 16 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 |
-| 17 | [Red Flag](https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:18 |
+| 16 | [Red Flag](https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent II](https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT) | 3:18 |
+| 17 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 |
 | 18 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 19 | [The Hell Song](https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:18 |
 | 20 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 68 | [These Four Walls](https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp) | [Pretty Vicious](https://open.spotify.com/artist/4KH4eOg39KeBpnfSgvIteD) | [Beauty Of Youth](https://open.spotify.com/album/6am0g93vswJjC98p8mihkF) | 3:47 |
 | 69 | [Hung Up](https://open.spotify.com/track/1W3fMkViHndp2kv7PQNfAQ) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 3:24 |
 | 70 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |
-| 71 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 |
-| 72 | [Bones](https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Bones](https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy) | 3:13 |
+| 71 | [Bones](https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Bones](https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy) | 3:13 |
+| 72 | [Ohms](https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd) | 4:10 |
 | 73 | [You're Gonna Say Yeah](https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO) | [Hushpuppies](https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k) | [The Trap](https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj) | 3:11 |
 | 74 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 | 75 | [Used For Glue](https://open.spotify.com/track/766xo3dFJmkqc9a4tPSlBH) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 3:18 |

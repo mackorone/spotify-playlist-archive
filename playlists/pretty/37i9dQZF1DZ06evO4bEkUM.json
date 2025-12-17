@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 958991,
+  "num_followers": 959096,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACA4xrPrG4cM3xNLSYeap6n",
+  "snapshot_id": "aT9PgAAAAABkBYjqPhcLH05v3STSHn2o",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "I Caught Myself",
+        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 185733,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+      "duration_ms": 235440,
+      "name": "I Caught Myself",
+      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Caught Myself",
-        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "I Caught Myself",
-      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -196,9 +180,25 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+      "duration_ms": 185733,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Rose-Colored Boy",
-      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -260,9 +244,25 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 239173,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
+      "duration_ms": 240040,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "Caught in the Middle",
+      "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 214160,
-      "name": "Caught in the Middle",
-      "url": "https://open.spotify.com/track/27zJBz0YnuZO69U69z96vd"
+      "duration_ms": 239173,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/5wWkbQ18TPaWq2GeJDF2O3"
     },
     {
       "added_at": null,

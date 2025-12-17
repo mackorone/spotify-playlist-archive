@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,187 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,295 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 16 | [Lights And Sounds](https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Lights And Sounds](https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo) | 3:28 |
 | 17 | [High School Never Ends \- Main Version \- Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Great Burrito Extortion Case](https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2) | 3:29 |
 | 18 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
-| 19 | [Anarchy In The UK](https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:32 |
-| 20 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 |
+| 19 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 |
+| 20 | [Anarchy In The UK](https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:32 |
 | 21 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
 | 22 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 23 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 |
-| 24 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 |
-| 25 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
+| 24 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
+| 25 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 |
 | 26 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 27 | [Drain the Blood](https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 3:09 |
 | 28 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 74 | [Sugar Youth](https://open.spotify.com/track/62EiqO4OVS0v4H6Y3DtQ3e) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 1:54 |
 | 75 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
 | 76 | [Failed Imagineer](https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:11 |
-| 77 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
-| 78 | [Wrong Way](https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:16 |
+| 77 | [Wrong Way](https://open.spotify.com/track/5cPfmNMC3AENizySC5oPu2) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 2:16 |
+| 78 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
 | 79 | [Cadillac](https://open.spotify.com/track/2INPZO3P759ZWNgRSmPBUS) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Destination Unknown \(PA Version\)](https://open.spotify.com/album/4UATOCWLlBFbKOvIHo8jOj) | 2:47 |
 | 80 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 |
 | 81 | [Drink](https://open.spotify.com/track/59znVm3764cY4xwUaychMN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Drink](https://open.spotify.com/album/2HLp80sHFphInGSgbTWdqd) | 3:42 |

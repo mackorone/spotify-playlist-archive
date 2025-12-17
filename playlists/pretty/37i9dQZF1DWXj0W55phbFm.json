@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 79726,
+  "num_followers": 79771,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,26 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Squeaky's Blues",
+      "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Daylight Express",
         "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 336266,
       "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Oscar Peterson Trio Plus One",
-        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        },
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Squeaky's Blues",
-      "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Leosia",
         "url": "https://open.spotify.com/album/3MwR2imlhLJiXVk7FPXmY4"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 367093,
       "name": "Die Weisheit von Le Comte Lautr\u00e9amont",
       "url": "https://open.spotify.com/track/1Z9Lk2lp9YYX8wH00qvY03"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "I Am a Man (with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan)",
         "url": "https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Moving Picture",
         "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
       "artists": [
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
         }
       ],
-      "duration_ms": 429666,
-      "name": "Concentric Circles",
-      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1323,6 +1307,22 @@
       "duration_ms": 600493,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 429666,
+      "name": "Concentric Circles",
+      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Big Brass",
-        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
-      },
-      "artists": [
-        {
-          "name": "Benny Bailey",
-          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
-        }
-      ],
-      "duration_ms": 422480,
-      "name": "Tipsy",
-      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Magnetic",
         "url": "https://open.spotify.com/album/7lKQFTVYJ30NpxHhYMIA98"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 479266,
       "name": "Jacob's Ladder",
       "url": "https://open.spotify.com/track/4sdEI4KEYvzon0FkfWvuYA"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Big Brass",
+        "url": "https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM"
+      },
+      "artists": [
+        {
+          "name": "Benny Bailey",
+          "url": "https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb"
+        }
+      ],
+      "duration_ms": 422480,
+      "name": "Tipsy",
+      "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Intimacy Calling - Standard Time Vol. 2",
-        "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 514293,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Selected Recordings",
         "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 552600,
       "name": "Tales For A Girl, 12",
       "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Intimacy Calling - Standard Time Vol. 2",
+        "url": "https://open.spotify.com/album/29wn21i5jOaSZwktC65FMe"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 514293,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/7lG57Wyg0QqT7p1BFIdzoE"
     },
     {
       "added_at": "2025-09-10 12:53:12",

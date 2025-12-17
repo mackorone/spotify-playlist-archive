@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Frank Walker, Josh Ross &amp; Norma Jean Martine.
 
-294 songs - 15 hr 39 min
+295 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Tout le monde est fou \- Club version](https://open.spotify.com/track/1LIl33nypV0BZhHVUZ6dEU) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Tout le monde est fou](https://open.spotify.com/album/121NvqR0PtSYNe3rFP6KnV) | 6:35 | 2025-02-28 |  |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-02-01 |
 | [TURBINA](https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [TURBINA](https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn) | 3:10 | 2024-08-12 | 2025-03-18 |
+| [Turn The Lights Off \(feat\. Jon\) \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 | 2025-12-16 |  |
 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 | 2025-05-02 |  |
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2023-12-08 | 2024-07-03 |
 | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/track/41NSGbhbOsL7E20Vlc7yhx) | [Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Tia Wood](https://open.spotify.com/artist/4JR1NSxLF5bSQ68VGjIv9k) | [Victorious \(feat\. Tia Wood\)](https://open.spotify.com/album/17HTDcqKMpgfhHCqNR4Dl3) | 4:30 | 2025-03-14 | 2025-10-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,563 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,604 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 28 | [Roommates](https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Roommates](https://open.spotify.com/album/0nrSF8Oq2i8QDxvIomHslP) | 3:34 |
 | 29 | [Radio](https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Radio](https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB) | 3:11 |
 | 30 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 |
-| 31 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
-| 32 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
-| 33 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
+| 31 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
+| 32 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
+| 33 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
 | 34 | [if it's not you](https://open.spotify.com/track/6jInHQJR01A97PbhwCwMzP) | [PRYVT](https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT) | [&SCENE](https://open.spotify.com/album/2GjMqRvYHbvtEoTA1CGeRd) | 3:46 |
 | 35 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
 | 36 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 75 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
 | 76 | [Wormwood](https://open.spotify.com/track/3W89enABhR4P2BFYvARctH) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Her and All of My Friends](https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK) | 2:59 |
 | 77 | [moviestar](https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [moviestar](https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW) | 2:18 |
-| 78 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
-| 79 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
+| 78 | [Please](https://open.spotify.com/track/1JYpAqXg2HwCfTMKzr6VXK) | [Esbie Fonte](https://open.spotify.com/artist/6Sh3ahSTQD6LqMh1wMaSLY) | [Please](https://open.spotify.com/album/7D5FN6JVYSzYfHTGWSx5zy) | 3:36 |
+| 79 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 |
 | 80 | [Off and On](https://open.spotify.com/track/40zaUOTsugX2NEBuJ6905s) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Off and On](https://open.spotify.com/album/5VO20TLoge9jkK4SXKPbWU) | 4:10 |
 | 81 | [Oh Well](https://open.spotify.com/track/2nGYf3UkZEsYZ5MfNjPDxx) | [RICEWINE](https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7) | [Oh Well](https://open.spotify.com/album/5RzwMQ6Vz6sRrAEke7rqjL) | 4:53 |
-| 82 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
-| 83 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
+| 82 | [Woman](https://open.spotify.com/track/3Zct7ZYVcLkj3jWi7Ah2B7) | [Baseball Game](https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK) | [Woman](https://open.spotify.com/album/1dImqTh8JMGzVwSpYSSZds) | 3:10 |
+| 83 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 84 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 85 | [Dogfish](https://open.spotify.com/track/0TVMOi7iwDYpgJexAlNtm9) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 1:54 |
 | 86 | [my forever](https://open.spotify.com/track/15clT8j9S3OjjhjGqsoVZv) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [my forever](https://open.spotify.com/album/2JoAyLaBfgrpMtGY7Sbg6U) | 3:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 97 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 |
 | 98 | [What Should I Do?](https://open.spotify.com/track/0pyOM5TLmrs7fhTwgre7TG) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [What Should I Do?](https://open.spotify.com/album/5qWCaXrUCojCxGFsBNFxxr) | 3:03 |
 | 99 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 |
-| 100 | [lovers](https://open.spotify.com/track/0nDPiOmDMOzUBBLdrpnqmM) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [lovers](https://open.spotify.com/album/3oBBhAVngxucbdMcQhFY8k) | 3:50 |
+| 100 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
 
 Snapshot ID: `AAAAAMeA8X6+cd6UGeQXkA0eI8UzFrQY`

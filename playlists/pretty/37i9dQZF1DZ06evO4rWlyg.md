@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,649 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,669 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 27 | [It's Not Up To You](https://open.spotify.com/track/52LVnKB4Vs9XMi4rm4StNT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:08 |
 | 28 | [Scary](https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Bachelorette](https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb) | 2:37 |
 | 29 | [I’ve Seen It All](https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 5:29 |
-| 30 | [All Neon Like](https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 5:53 |
+| 30 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:06 |
 | 31 | [Undo](https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:38 |
 | 32 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
 | 33 | [Oceania](https://open.spotify.com/track/7rE0T7wX1omYDAj2LU7f1z) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:24 |
-| 34 | [Immature \- Mark Bell's Version](https://open.spotify.com/track/1HFvDETKd9km5DRGd4DkrA) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:06 |
+| 34 | [All Neon Like](https://open.spotify.com/track/4PbYKPKq2hpDXV3YckN5tW) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 5:53 |
 | 35 | [Atopos](https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:46 |
 | 36 | [History Of Touches](https://open.spotify.com/track/4Ljm5JMrUZp88Uxq6qioOH) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 3:00 |
 | 37 | [The Gate \- Live](https://open.spotify.com/track/6e7xCrlGPNWWqCmVozr0f8) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 4:50 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 40 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
 | 41 | [Utopia \- Live](https://open.spotify.com/track/5FHy9kZIdf2QVUHMFBH3Tb) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 3:46 |
 | 42 | [Fagurt Er í Fjörðum](https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 0:44 |
-| 43 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
-| 44 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
-| 45 | [Show Me Forgiveness \- Live](https://open.spotify.com/track/6aUT7SsRiPfsTbwBreSujj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 1:50 |
+| 43 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
+| 44 | [Blissing Me](https://open.spotify.com/track/7FViqcH4AgoFG1JbzGk9HC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Utopia](https://open.spotify.com/album/0lCGnNzATPLJ0esTn8FrNs) | 5:05 |
+| 45 | [Family \(intro\) \- Live](https://open.spotify.com/track/45WsC374D9wm7KxRMrlgx6) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 3:47 |
 | 46 | [Ovule](https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 3:38 |
 | 47 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:57 |
-| 48 | [Lionsong](https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:08 |
-| 49 | [Family \(intro\) \- Live](https://open.spotify.com/track/45WsC374D9wm7KxRMrlgx6) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 3:47 |
+| 48 | [Mutual Core](https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:06 |
+| 49 | [Show Me Forgiveness \- Live](https://open.spotify.com/track/6aUT7SsRiPfsTbwBreSujj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 1:50 |
 | 50 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
 
-Snapshot ID: `aT3+AAAAAACHVDF10U8y1ievj6GkUKBQ`
+Snapshot ID: `aT9PgAAAAADPy12H68LGnRU4VV5h+EAq`

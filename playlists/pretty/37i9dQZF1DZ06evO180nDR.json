@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 66313,
+  "num_followers": 66404,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAdEYUCv9zGNC8lfrgAeeHt",
+  "snapshot_id": "aT9PgAAAAAA9WmJMUHr/BsnQJUH/PvUH",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Avioneta",
-        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Wiko",
-          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "La Avioneta",
-      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vi Con \u00c9l",
         "url": "https://open.spotify.com/album/54ZF7BXU10BXqefAZYaWUY"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 187536,
       "name": "Te Vi Con \u00c9l",
       "url": "https://open.spotify.com/track/3pLvf1cD0QOQ6b8JaU6l4t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Avioneta",
+        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "La Avioneta",
+      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
     },
     {
       "added_at": null,

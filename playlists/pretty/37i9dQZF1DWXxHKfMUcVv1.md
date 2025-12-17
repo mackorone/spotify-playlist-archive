@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,592 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,608 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 37 | [Si Tú Te Vas \- Acústico en Vivo](https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S) | [Diego Ríos](https://open.spotify.com/artist/1IYPsxunWpJvDYA1Por8dI), [So pra Voce](https://open.spotify.com/artist/6jxVE6pphzdM6pRIaxKr2y), [Talento De Barrio](https://open.spotify.com/artist/4475BmzzuqYgDqvJZCySZ3) | [Acústico en Paraguay \(En Vivo\)](https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV) | 4:08 |
 | 38 | [Soy Latino](https://open.spotify.com/track/2knkDzKZ4VTwSbdnHxVSbI) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Cruz](https://open.spotify.com/artist/1JZpCeGFkcB3EJi3Dejxlp) | [Soy Latino](https://open.spotify.com/album/1CiFEielADxVaFI0o1cb7e) | 3:09 |
 | 39 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 |
-| 40 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
-| 41 | [Isla del Pacífico](https://open.spotify.com/track/5oOpcWXnLzrPzPCk1upLUw) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Lo Mágico y Lo Místico](https://open.spotify.com/album/4Geye3gQ4G8rz5LTkWCHcL) | 2:51 |
+| 40 | [Isla del Pacífico](https://open.spotify.com/track/5oOpcWXnLzrPzPCk1upLUw) | [La De Roberto](https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Lo Mágico y Lo Místico](https://open.spotify.com/album/4Geye3gQ4G8rz5LTkWCHcL) | 2:51 |
+| 41 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 42 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 |
-| 43 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
-| 44 | [Me Haces Falta](https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG) | [Wildo Samuel](https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Basti](https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb) | [Me Haces Falta](https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW) | 3:24 |
+| 43 | [Me Haces Falta](https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG) | [Wildo Samuel](https://open.spotify.com/artist/3mh9ySoVfvp4pt7HAiflR1), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Basti](https://open.spotify.com/artist/7hLsmdqGDPeCJLiKRGljDb) | [Me Haces Falta](https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW) | 3:24 |
+| 44 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 45 | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Estamos Solos \(Nderehe'y\)](https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH) | 2:54 |
 | 46 | [Dónde está el amor?](https://open.spotify.com/track/0vc4k8TRSYEggDDB2RVUmu) | [Jose Viera](https://open.spotify.com/artist/2Sp7cTDbjsYFB8uzRsnIuR), [Jazmín del Paraguay](https://open.spotify.com/artist/69hJLucbwhNIw8vPF3FzXV) | [Dónde está el amor?](https://open.spotify.com/album/6Va6OpLeZmmzbBjV1CgtWE) | 3:14 |
 | 47 | [Te Quiero](https://open.spotify.com/track/6uAfHK8pf9qZVB1BFMSapl) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW) | [Te Quiero](https://open.spotify.com/album/0IJd9Z5Um4Z1bAL0SNo8M4) | 2:17 |

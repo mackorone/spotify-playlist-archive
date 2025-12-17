@@ -1,6 +1,6 @@
 {
   "description": "The happiest hits to boost your day.",
-  "num_followers": 481805,
+  "num_followers": 481763,
   "original_name": "Good Times",
   "owner": {
     "name": "Spotify",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-11-12 03:53:35",
       "album": {
-        "name": "Descer",
-        "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
-      },
-      "artists": [
-        {
-          "name": "Kew",
-          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
-        },
-        {
-          "name": "Dj LK da Esc\u00f3cia",
-          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
-        }
-      ],
-      "duration_ms": 111653,
-      "name": "Descer",
-      "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
-    },
-    {
-      "added_at": "2025-11-12 03:53:35",
-      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 235328,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w"
+    },
+    {
+      "added_at": "2025-11-12 03:53:35",
+      "album": {
+        "name": "Descer",
+        "url": "https://open.spotify.com/album/3qVMMSS3JJjcYutCfHr38j"
+      },
+      "artists": [
+        {
+          "name": "Kew",
+          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
+        },
+        {
+          "name": "Dj LK da Esc\u00f3cia",
+          "url": "https://open.spotify.com/artist/6WIjKbyqeO9MkfNMFJsF50"
+        }
+      ],
+      "duration_ms": 111653,
+      "name": "Descer",
+      "url": "https://open.spotify.com/track/2OMkXPz6pHdKJSkzxG0MwZ"
     },
     {
       "added_at": "2025-11-12 03:53:35",

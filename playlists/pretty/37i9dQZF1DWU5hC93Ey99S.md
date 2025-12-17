@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,313 likes - 158 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,521 likes - 158 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 157 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 |
 | 158 | [I Can Make It](https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [I Can Make It](https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat) | 4:09 |
 
-Snapshot ID: `AAAAAFJyGcnAh1KYU+Sow1fkj4yczu8d`
+Snapshot ID: `AAAAAD1Bv7VzepswOnz+dZIySB8dln91`

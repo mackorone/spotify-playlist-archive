@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,936 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,957 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 72 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 73 | [Gaslighting](https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Gaslighting](https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf) | 2:51 |
 | 74 | [ecstasy](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
-| 75 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
-| 76 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
-| 77 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
-| 78 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 |
-| 79 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |
-| 80 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 |
+| 75 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 |
+| 76 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
+| 77 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
+| 78 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 79 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 |
+| 80 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |
 
 Snapshot ID: `AAAAALQSQMP18blpgg+6zRP4a/QxT8xs`

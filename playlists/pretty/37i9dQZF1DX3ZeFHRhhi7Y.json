@@ -1,6 +1,6 @@
 {
   "description": "Workout to K-Pop? Count me in! (Cover: aespa) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 1316771,
+  "num_followers": 1316787,
   "original_name": "WOR K  OUT",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-11-21 02:06:59",
       "album": {
-        "name": "Drama - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2025-11-21 02:06:59",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-11-21 02:06:59",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+        "name": "Drama - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+      "duration_ms": 214973,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
     },
     {
       "added_at": "2025-11-21 02:06:59",
@@ -931,38 +931,6 @@
     {
       "added_at": "2025-11-21 02:06:59",
       "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
-    },
-    {
-      "added_at": "2025-11-21 02:06:59",
-      "album": {
-        "name": "FAMOUS",
-        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "FAMOUS",
-      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
-    },
-    {
-      "added_at": "2025-11-21 02:06:59",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -995,6 +963,38 @@
     {
       "added_at": "2025-11-21 02:06:59",
       "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2025-11-21 02:06:59",
+      "album": {
+        "name": "FAMOUS",
+        "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "FAMOUS",
+      "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
+    },
+    {
+      "added_at": "2025-11-21 02:06:59",
+      "album": {
         "name": "I've IVE",
         "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 183853,
       "name": "I AM",
       "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
-    },
-    {
-      "added_at": "2025-11-21 02:06:59",
-      "album": {
-        "name": "Rich Man - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 197578,
-      "name": "Rich Man",
-      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
     },
     {
       "added_at": "2025-11-21 02:06:59",
@@ -1055,6 +1039,22 @@
       "duration_ms": 136627,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2025-11-21 02:06:59",
+      "album": {
+        "name": "Rich Man - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 197578,
+      "name": "Rich Man",
+      "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
     },
     {
       "added_at": "2025-11-21 02:06:59",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-11-21 02:06:59",
       "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
-    },
-    {
-      "added_at": "2025-11-21 02:06:59",
-      "album": {
         "name": "Smart (Remixes)",
         "url": "https://open.spotify.com/album/4IqfdL14SOkeFN2c5ASmGh"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+    },
+    {
+      "added_at": "2025-11-21 02:06:59",
+      "album": {
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
       "added_at": "2025-11-21 02:06:59",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-11-21 02:06:59",
       "album": {
-        "name": "TWS 1st Mini Album 'Sparkling Blue'",
-        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "plot twist",
-      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
-    },
-    {
-      "added_at": "2025-11-21 02:06:59",
-      "album": {
         "name": "REBEL HEART",
         "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
+    },
+    {
+      "added_at": "2025-11-21 02:06:59",
+      "album": {
+        "name": "TWS 1st Mini Album 'Sparkling Blue'",
+        "url": "https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 152400,
+      "name": "plot twist",
+      "url": "https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj"
     },
     {
       "added_at": "2025-11-21 02:06:59",

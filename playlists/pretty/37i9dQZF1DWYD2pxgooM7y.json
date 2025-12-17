@@ -1,6 +1,6 @@
 {
   "description": "why so hot?",
-  "num_followers": 22661,
+  "num_followers": 22658,
   "original_name": "very hot",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -479,6 +479,30 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
       },
@@ -511,26 +535,18 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+      "duration_ms": 158205,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -547,22 +563,6 @@
       "duration_ms": 211920,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
-        "name": "Sundress",
-        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 158205,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "Slow Dancing in a Burning Room",
-      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Slow Dancing in a Burning Room",
+      "url": "https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 212495,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
     },
     {
       "added_at": "2025-02-21 01:51:21",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-02-21 01:51:21",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 186359,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
-    },
-    {
-      "added_at": "2025-02-21 01:51:21",
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2025-02-21 01:51:21",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 186359,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
     },
     {
       "added_at": "2025-02-21 01:51:21",

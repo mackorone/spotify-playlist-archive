@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13134,
+  "num_followers": 13136,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACz/OcdyZxA5MyvPSUwozQa",
+  "snapshot_id": "aT9PgAAAAADRfva1M4/NpvLiXXpHFD5R",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 132501,
+      "name": "All I Know (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Ones Left",
         "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 132501,
-      "name": "All I Know (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -755,42 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "THE ONE & ONLY",
-      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Aint Feeling You (Bonus Edition)",
-        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Flash (feat. Bloodhound Q50)",
-      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -803,38 +767,6 @@
       "duration_ms": 103249,
       "name": "Bigger Than Life Or Death",
       "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165878,
-      "name": "Break Check",
-      "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Plug Motivation",
-      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
     },
     {
       "added_at": null,
@@ -872,45 +804,77 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
+      "duration_ms": 139681,
+      "name": "THE ONE & ONLY",
+      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165878,
+      "name": "Break Check",
+      "url": "https://open.spotify.com/track/0QCiSgw7uR6D9Xq0N2pIMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You (Bonus Edition)",
+        "url": "https://open.spotify.com/album/5fYuVzVAC9wS0m6rOEvwua"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "BloodHound Q50",
+          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Flash (feat. Bloodhound Q50)",
+      "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Plug Motivation",
+      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
       "duration_ms": 165972,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 126835,
-      "name": "Above the Rim 0529",
-      "url": "https://open.spotify.com/track/3RL7cbvac0rJrbilVXs9OK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Esteem Pack (Remixes)",
-        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Self Esteem (featuring EST Gee)",
-      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
     },
     {
       "added_at": null,
@@ -939,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 126835,
+      "name": "Above the Rim 0529",
+      "url": "https://open.spotify.com/track/3RL7cbvac0rJrbilVXs9OK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
       },
@@ -955,18 +935,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+        "name": "Self Esteem Pack (Remixes)",
+        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
       },
       "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 125476,
-      "name": "ESTGee \u2013 Hustle Musik 2025",
-      "url": "https://open.spotify.com/track/2n12Rq4r5mu6WMeFROD8iV"
+      "duration_ms": 197739,
+      "name": "Self Esteem (featuring EST Gee)",
+      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
+        "url": "https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 231085,
+      "name": "Steppers (with Yo Gotti, Moneybagg Yo, 42 Dugg feat. EST Gee, Mozzy, Blac Youngsta, CMG The Label)",
+      "url": "https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx"
     }
   ],
   "unique_name": "This Is EST Gee",

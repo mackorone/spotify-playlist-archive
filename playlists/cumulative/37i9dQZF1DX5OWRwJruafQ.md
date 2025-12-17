@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-759 songs - 1 day 12 hr 12 min
+760 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,11 +302,12 @@
 | [Hip Hop Death Game](https://open.spotify.com/track/4VtTlQV25eXOE1ZISxn9j6) | [JA$$A](https://open.spotify.com/artist/15kMGTugB8ykrokYUF3NAR) | [Hip Hop Death Game](https://open.spotify.com/album/4By4XbdTbYYEaUN18B3aoc) | 2:34 | 2025-05-15 | 2025-06-03 |
 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 | 2024-02-15 | 2024-05-11 |
 | [Hisaab Kitab](https://open.spotify.com/track/2bL287Q0RTDyVpqMjZoSIe) | [Deep Saab](https://open.spotify.com/artist/6udnyEXo26gYI9Cx4G81Py), [Freak singh](https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv), [Mahla Kot](https://open.spotify.com/artist/5kBnS6WReOcjbXrei12di6) | [Hisaab Kitab](https://open.spotify.com/album/10nmf47rEVpfdUiUTAlkzh) | 2:14 | 2024-08-12 | 2024-09-03 |
-| [HITMEN](https://open.spotify.com/track/55fywmOZl9v3jNDRR3b5f2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [HITMEN](https://open.spotify.com/album/1UQybZyBYcj5BigzmChthe) | 2:55 | 2025-11-21 |  |
+| [HITMEN](https://open.spotify.com/track/55fywmOZl9v3jNDRR3b5f2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [HITMEN](https://open.spotify.com/album/1UQybZyBYcj5BigzmChthe) | 2:55 | 2025-11-21 | 2025-12-17 |
 | [Hockiyan](https://open.spotify.com/track/6zgLThpDg8A5LrxacTMm1E) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [Hockiyan](https://open.spotify.com/album/7yvR42jkZ8CuVnPFI76ek2) | 2:42 | 2024-04-11 | 2024-05-09 |
 | [Hold On](https://open.spotify.com/track/1rtqV8vLqY6bvFw1Mna6rs) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:02 | 2023-03-29 | 2023-07-15 |
 | [Hold Your Horses \(Ghodiyan\)](https://open.spotify.com/track/5cImTCNguZxXNpWhaFa3tH) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Hold Your Horses \(Ghodiyan\)](https://open.spotify.com/album/7B2H9YUuyuSzX1vwWzMC5I) | 2:16 | 2024-06-13 | 2024-07-23 |
 | [Holidays](https://open.spotify.com/track/0GQo6bquRdnPjoJhYj89NZ) | [TABBI BRAR](https://open.spotify.com/artist/2ns3ygjlIKLyKE30Sh2ZW9), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [Holidays](https://open.spotify.com/album/0RtgAhFlDfM2ZP2F6lsE7T) | 2:16 | 2024-07-22 | 2024-08-06 |
+| [Hollow Point](https://open.spotify.com/track/4P2Yc0lk4YnOmnppqI1V2i) | [Azaad](https://open.spotify.com/artist/5Tz0mXyP1G7npqZ23vSzbr) | [Hollow Point](https://open.spotify.com/album/3hkKFunGFEpm5czOdnZpLr) | 2:49 | 2025-12-16 |  |
 | [Hollywood](https://open.spotify.com/track/0we5RCdeet7eNtk7WPLuBk) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Hollywood](https://open.spotify.com/album/1jsSLa1KF0jiIF478DuRz2) | 2:26 | 2024-05-10 | 2024-07-27 |
 | [Homies \- Elevate](https://open.spotify.com/track/2h4a0R2LrCsn5h40nY8t5A) | [Dilraj Grewal](https://open.spotify.com/artist/4K57exUc4hdq6l4iaGyTrT), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Homies \- Elevate](https://open.spotify.com/album/5nzcodgiXb2eNy1yKcmqeU) | 2:19 | 2024-03-08 | 2024-04-16 |
 | [Hommies](https://open.spotify.com/track/05JmxIC7eQaFvox3moiwaX) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Immortal](https://open.spotify.com/album/6lp0wgZp5lRwSaICc4k6Yk) | 2:17 | 2025-09-30 | 2025-11-05 |

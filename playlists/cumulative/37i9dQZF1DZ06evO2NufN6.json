@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/3932AyOIsoMQwKjFqaSg4R"
+    },
+    {
+      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
       },

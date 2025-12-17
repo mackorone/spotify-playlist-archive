@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,415 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,358 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 59 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 60 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 |
 | 61 | [$500 Fine](https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 1:22 |
-| 62 | [Giving Up Air](https://open.spotify.com/track/5BnRN1Qqnl7MntWLzsZ9kE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4foiPmpx9aPyoWs37TRVb1) | 4:47 |
-| 63 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
-| 64 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
-| 65 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 |
+| 62 | [Nowhere To Run](https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:40 |
+| 63 | [Giving Up Air](https://open.spotify.com/track/5BnRN1Qqnl7MntWLzsZ9kE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4foiPmpx9aPyoWs37TRVb1) | 4:47 |
+| 64 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 |
+| 65 | [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 |
 | 66 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 |
-| 67 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
-| 68 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
-| 69 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
+| 67 | [Insomnia](https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Insomnia](https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1) | 3:12 |
+| 68 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 |
+| 69 | [I'm In Love With You](https://open.spotify.com/track/12g9IeQzX7xECLNxz8dpb5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:22 |
 | 70 | [Barrio Hustle](https://open.spotify.com/track/6UK4epTqVwWpeFfslXecth) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:14 |
 | 71 | [The Headache](https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Headache](https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj) | 3:19 |
 | 72 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |

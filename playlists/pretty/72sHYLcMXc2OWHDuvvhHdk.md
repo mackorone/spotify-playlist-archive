@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,114 songs - 5 day 3 hr 45 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 552 likes - 2,114 songs - 5 day 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

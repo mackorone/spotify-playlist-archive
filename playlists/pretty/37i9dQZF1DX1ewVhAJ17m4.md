@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,272 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,302 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 47 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
 | 48 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
 | 49 | [Rejects](https://open.spotify.com/track/3I09R9N2WwbP0B1SExxkWq) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Rejects](https://open.spotify.com/album/78grezRlmscONkCdIIvkQa) | 2:54 |
-| 50 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |
-| 51 | [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 |
+| 50 | [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 |
+| 51 | [Better Days](https://open.spotify.com/track/4mjo9U4xfSAtTkLpvQ6QDN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Better Days](https://open.spotify.com/album/3e7vBHspnYuDZsgxkyPsEA) | 2:53 |
 | 52 | [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \[vol\. 5\]](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 |
 | 53 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
 | 54 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 |
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 70 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 |
 | 71 | [Dial Tone](https://open.spotify.com/track/5C915u7Dqs82VDnWrqr9cS) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Dial Tone](https://open.spotify.com/album/2yP3dsGZjp2SMNk0c6X1BH) | 2:39 |
 | 72 | [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 |
-| 73 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
-| 74 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
+| 73 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
+| 74 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
 | 75 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
-| 76 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
-| 77 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
+| 76 | [Swing and Sway](https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Swing and Sway](https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW) | 2:58 |
+| 77 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
 | 78 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |
 | 79 | [Get A Job](https://open.spotify.com/track/1SvWcEk0BXuOmQp25PThtR) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Get A Job](https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG) | 3:06 |
 | 80 | [REACHING FOR THE SKY](https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [REACHING FOR THE SKY](https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo) | 3:55 |

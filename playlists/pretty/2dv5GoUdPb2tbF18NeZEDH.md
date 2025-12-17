@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 
 > Rhythmic afro house driven by deep percussion, organic elements and hypnotic grooves.Submit your music via our Linktree: linktr.ee&\#x2F;gandgfrequency ☝️In collaboration with Deleted Ghost Records.
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 415 likes - 100 songs - 6 hr 44 min
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 420 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,005 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,126 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 43 | [Momentary Bliss \(feat\. slowthai and Slaves\)](https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:41 |
 | 44 | [Kansas](https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:08 |
 | 45 | [Doncamatic \(feat\. Daley\)](https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Doncamatic \(feat\. Daley\) \[The Joker Remix\]](https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W) | 3:22 |
-| 46 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
+| 46 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 |
 | 47 | [Désolé \(feat\. Fatoumata Diawara\) \- Extended Version](https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 5:33 |
 | 48 | [Magic City](https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:59 |
-| 49 | [Busted and Blue](https://open.spotify.com/track/04zxGiXcmNQ0m9oDXtwo18) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:37 |
-| 50 | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH) | [Damascus \(feat\. Omar Souleyman and Yasiin Bey\)](https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot) | 4:04 |
+| 49 | [Revolving Doors](https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Fall](https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah) | 3:26 |
+| 50 | [Busted and Blue](https://open.spotify.com/track/04zxGiXcmNQ0m9oDXtwo18) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:37 |
 
-Snapshot ID: `aT3+AAAAAADBUxf8z1xr2G6YFhPgFW+k`
+Snapshot ID: `aT9PgAAAAABxGXrB+ijnl0G630oVB1tY`

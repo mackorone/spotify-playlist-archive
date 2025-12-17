@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Koki LS & Lucho SSJ en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,638 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,601 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 4 | [Birthday](https://open.spotify.com/track/484Lk6xEch6e8KiYFkdM0E) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk) | [Birthday](https://open.spotify.com/album/283HcuPoVq51wecnUX268Q) | 2:38 |
 | 5 | [Instante](https://open.spotify.com/track/6DLgDBSKFVHDfuYImcGGnd) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Instante](https://open.spotify.com/album/302Zbx2vZfh6e0g8ttkMx5) | 3:14 |
 | 6 | [TRAPIMELO](https://open.spotify.com/track/3XTBcMOjLHxKaiMYI0UoS3) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [SATURACIÓN POP](https://open.spotify.com/album/1qJFiJVEUSIZE8JrPK6RY6) | 3:04 |
-| 7 | [el + puro](https://open.spotify.com/track/7AqS1h2YyDus82FUPiVRhp) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [el + puro](https://open.spotify.com/album/6Z7t93qqKoI6eslXlBUDlk) | 4:13 |
+| 7 | [el + puro](https://open.spotify.com/track/7AqS1h2YyDus82FUPiVRhp) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [el + puro](https://open.spotify.com/album/6Z7t93qqKoI6eslXlBUDlk) | 4:13 |
 | 8 | [Tony Montana](https://open.spotify.com/track/2QlBGi84n6EiW0MOTh62KY) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Tony Montana](https://open.spotify.com/album/6GcvxxMeI4jvd3e8J0iyX8) | 2:08 |
 | 9 | [DON´T SAY THAT](https://open.spotify.com/track/6TcXyWakzd8t9q9QjJu8Cu) | [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o) | [BACKSTAGE COVER VOL\. 1](https://open.spotify.com/album/2loqWNVvSbY09nN5x63DzU) | 2:20 |
 | 10 | [Constelación](https://open.spotify.com/track/4T4DDAlkxdzD3DDtitfOrQ) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Constelación](https://open.spotify.com/album/4uAzHlmhBptssGbzn3qib3) | 2:56 |

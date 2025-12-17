@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4lgseztVwmKQ8MNETPVIny.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 193 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

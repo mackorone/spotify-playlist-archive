@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28735,
+  "num_followers": 28738,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACJ3KhI19Ru7zR9cfm/HcLZ",
+  "snapshot_id": "aT9PgAAAAAC/CWjWowo+i3K+06I8KLxl",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 133659,
-      "name": "Blue Strips (feat. Sexyy Red) - Remix",
-      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHAKE SUMN (with Sexyy Red) [REMIX]",
         "url": "https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN (with Sexyy Red) - REMIX",
       "url": "https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Strips (Remix) (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6ILm92QdF5a6w58j7xb7so"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 133659,
+      "name": "Blue Strips (feat. Sexyy Red) - Remix",
+      "url": "https://open.spotify.com/track/1GLJ9AZrhDpU32WQirWBzV"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For No Reason",
+        "url": "https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 159568,
+      "name": "For No Reason",
+      "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
         "url": "https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 147600,
       "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
       "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For No Reason",
-        "url": "https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 159568,
-      "name": "For No Reason",
-      "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
     },
     {
       "added_at": null,

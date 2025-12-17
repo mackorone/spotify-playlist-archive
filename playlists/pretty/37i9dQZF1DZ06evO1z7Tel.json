@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 37910,
+  "num_followers": 37914,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABNev9/34A+eXHwVvmEqjr3",
+  "snapshot_id": "aT9PgAAAAACGaeqXNSCWjGBbEzyj+OQJ",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 142160,
-      "name": "El Taxista Enamorado",
-      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 158800,
       "name": "Corrido De Armando Mart\u00ednez",
       "url": "https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 142160,
+      "name": "El Taxista Enamorado",
+      "url": "https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noches Eternas",
-        "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 149826,
-      "name": "El Sauce Y La Palma",
-      "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vienen Los Recuerdos",
         "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 193600,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noches Eternas",
+        "url": "https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 149826,
+      "name": "El Sauce Y La Palma",
+      "url": "https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3"
     },
     {
       "added_at": null,

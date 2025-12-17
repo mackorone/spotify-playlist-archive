@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,496 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,600 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,18 +84,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 74 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
 | 75 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 |
 | 76 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
-| 77 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
-| 78 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
-| 79 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
-| 80 | [ロビンソン](https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ハチミツ](https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd) | 4:20 |
+| 77 | [ロビンソン](https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ハチミツ](https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd) | 4:20 |
+| 78 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
+| 79 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 80 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
 | 81 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
 | 82 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 |
 | 83 | [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 |
 | 84 | [打上花火](https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:49 |
-| 85 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
+| 85 | [花に亡霊](https://open.spotify.com/track/3FUqp10RhCmMjyyB9extmo) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:01 |
 | 86 | [いつか](https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [カントリーロード](https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y) | 4:34 |
-| 87 | [花に亡霊](https://open.spotify.com/track/3FUqp10RhCmMjyyB9extmo) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:01 |
-| 88 | [好きだから。](https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [好きだから。](https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS) | 4:58 |
+| 87 | [好きだから。](https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [好きだから。](https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS) | 4:58 |
+| 88 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 89 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 90 | [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 4:54 |
 | 91 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 |

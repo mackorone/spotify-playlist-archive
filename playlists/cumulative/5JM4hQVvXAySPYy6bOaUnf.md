@@ -4,7 +4,7 @@
 
 > For the quiet hours when the world sleeps, and your thoughts speak the loudest.
 
-49 songs - 3 hr 1 min
+50 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Lover](https://open.spotify.com/track/5ME9rtHtKKPK0TbkJ3CI6u) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Lover](https://open.spotify.com/album/1tU880ZtAzaaZQWPUhYADS) | 3:39 | 2021-03-15 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/5K3mMpiWtKvCplBl7ov4Q9) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3qpW8wthyuHiLxiFrMIfrG) | 4:00 | 2025-06-07 |  |
 | [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 | 2025-06-17 |  |
+| [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2025-12-16 |  |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2025-06-05 |  |
 | [Turning Page](https://open.spotify.com/track/2kfGoV9a5dbSKCNmUWH2ZF) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Turning Page](https://open.spotify.com/album/7lh3v8GsuH6TKFQcTimkji) | 4:15 | 2025-06-15 |  |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2025-09-12 |  |

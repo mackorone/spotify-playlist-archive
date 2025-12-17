@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 256178,
+  "num_followers": 256296,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAcLNcnNT/BHahhr859D6iK",
+  "snapshot_id": "aT9PgAAAAABrNOITk3cutK+eGlT5W1lE",
   "tracks": [
     {
       "added_at": null,
@@ -459,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Professor X",
-        "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
       },
       "artists": [
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 217704,
-      "name": "Professor X",
-      "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
+        "name": "Professor X",
+        "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
       },
       "artists": [
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
+      "duration_ms": 217704,
+      "name": "Professor X",
+      "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
     },
     {
       "added_at": null,

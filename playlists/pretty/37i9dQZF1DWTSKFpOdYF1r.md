@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,029,395 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030,069 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 64 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
 | 65 | [Love Plus One](https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd) | [Haircut 100](https://open.spotify.com/artist/6imyM8T1Xbe8v2iZe41dR7) | [Pelican West Plus](https://open.spotify.com/album/6VIiHu2RCwWo4151YCG7ND) | 3:32 |
 | 66 | [Wishing \(If I Had a Photograph of You\)](https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Playlist: The Very Best of A Flock of Seagulls](https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb) | 5:30 |
-| 67 | [E=MC2](https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x) | [Big Audio Dynamite](https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI) | [This Is Big Audio Dynamite](https://open.spotify.com/album/7hPrpRim9NirEQiF4nXi7B) | 5:54 |
-| 68 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5bzuQPsEqTyx4STVopRV4w) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:14 |
-| 69 | [Peek\-A\-Boo](https://open.spotify.com/track/3VkyKA0iCT1ABwaSjb0kpf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:12 |
-| 70 | [Fade To Grey](https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [The Damned Don't Cry](https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt) | 3:49 |
+| 67 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/5bzuQPsEqTyx4STVopRV4w) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Pure..\. Alternative 80s](https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX) | 3:14 |
+| 68 | [E=MC2](https://open.spotify.com/track/52WaKEZpbiD6aBkmENlj6x) | [Big Audio Dynamite](https://open.spotify.com/artist/7hqZBHSgDs1odG9aupMzEI) | [This Is Big Audio Dynamite](https://open.spotify.com/album/7hPrpRim9NirEQiF4nXi7B) | 5:54 |
+| 69 | [Fade To Grey](https://open.spotify.com/track/06LHESr4LTtnbZJ4R0xxrG) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [The Damned Don't Cry](https://open.spotify.com/album/2961MpxUFLATeTqNbb6zLt) | 3:49 |
+| 70 | [Peek\-A\-Boo](https://open.spotify.com/track/3VkyKA0iCT1ABwaSjb0kpf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Peepshow \(Remastered And Expanded\)](https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp) | 3:12 |
 | 71 | [Theme For Great Cities](https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Sons And Fascination/Sister Feelings Call](https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq) | 5:51 |
 | 72 | [\(Keep Feeling\) Fascination](https://open.spotify.com/track/3zLZ7AVfbYuy0BnRWLafZg) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [The Greatest Hits](https://open.spotify.com/album/4Mu7aaT2AUrNVL2WQ29kAk) | 3:45 |
 | 73 | [Happy Hour](https://open.spotify.com/track/0kpmeoNfuZ0cys5tCEBCXZ) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [Now That's What I Call Quite Good](https://open.spotify.com/album/60b7ulDviqm8obALV5JDI9) | 2:22 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 77 | [I Want Candy](https://open.spotify.com/track/60UZlV9G08xkjcmwsiVteK) | [Bow Wow Wow](https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT) | [Love, Peace & Harmony The Best Of Bow Wow Wow](https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF) | 2:41 |
 | 78 | [I Love a Man in a Uniform](https://open.spotify.com/track/2o4O4AJgwbiWUVVXQ0sq7O) | [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Songs Of The Free](https://open.spotify.com/album/7HRzIhQYVnaXqpvTTeeb3q) | 4:07 |
 | 79 | [The King of Rock 'N' Roll](https://open.spotify.com/track/6tlkqWfm6E2inCkvQZMUsf) | [Prefab Sprout](https://open.spotify.com/artist/4w3QqrcmBv8dasemwBXmxf) | [A Life Of Surprises: The Best Of Prefab Sprout](https://open.spotify.com/album/0W1lMfOHYxHxWKHlwPdQnq) | 4:23 |
-| 80 | [Because You're Frightened \- Remastered 2007](https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc) | [Magazine](https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs) | [The Correct Use Of Soap](https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08) | 3:57 |
+| 80 | [Dreaming](https://open.spotify.com/track/4qaG0dyK5mPXqynUrQ0vCi) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Translucence](https://open.spotify.com/album/7AG2w0blIElVtSU3i4VxZ7) | 3:48 |
 
 Snapshot ID: `AAAAANV8Lna9OKhyP+OdB50rQZPqRLDq`

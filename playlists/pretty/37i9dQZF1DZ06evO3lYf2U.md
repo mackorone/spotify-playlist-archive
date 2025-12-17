@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,259 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,387 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 43 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 |
 | 44 | [Ruby](https://open.spotify.com/track/107TX4vj1U8We3uqDmb9oO) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:25 |
 | 45 | [Mrs](https://open.spotify.com/track/0yRsHuqDYOeug4ACp38Rjt) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:28 |
-| 46 | [Molly](https://open.spotify.com/track/5WO3QkGOymQew1hH2A6oNY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Molly](https://open.spotify.com/album/5pfYw1PMmQg5qJvmBgCKyQ) | 3:21 |
-| 47 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
+| 46 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
+| 47 | [Molly](https://open.spotify.com/track/5WO3QkGOymQew1hH2A6oNY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Molly](https://open.spotify.com/album/5pfYw1PMmQg5qJvmBgCKyQ) | 3:21 |
 | 48 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 | 49 | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/track/1JeLx7sGn3LzHLwCzd6swY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/album/1FBhWfdHQnqphA5Dk1KFhx) | 4:38 |
 | 50 | [Me & You](https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Me & You](https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42) | 3:07 |
 
-Snapshot ID: `aT3+AAAAAADSO6TrnD5oDCczIELayCtu`
+Snapshot ID: `aT9PgAAAAAByliC7evcgA2XWE2nx9q+1`

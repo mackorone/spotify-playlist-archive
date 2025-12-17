@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Highlights from EQUAL in 2025, listen to women at full volume\. Cover: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,708 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,655 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 29 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
 | 30 | [Ups and downs](https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:15 |
 | 31 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 |
-| 32 | [節約用愛](https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [節約用愛](https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK) | 4:05 |
-| 33 | [Let Me Love You](https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:32 |
-| 34 | [Scotland In The Snow](https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Scotland In The Snow](https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT) | 4:08 |
+| 32 | [Scotland In The Snow](https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Scotland In The Snow](https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT) | 4:08 |
+| 33 | [節約用愛](https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [節約用愛](https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK) | 4:05 |
+| 34 | [Let Me Love You](https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:32 |
 | 35 | [Él No Es Tuyo](https://open.spotify.com/track/5i9CVrrJKPeF4qsUAR0kEw) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [De Chava](https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn) | 3:36 |
 | 36 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 |
 | 37 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 62 | [Asteromata](https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:55 |
 | 63 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
 | 64 | [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 |
-| 65 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
-| 66 | [日落](https://open.spotify.com/track/6PHyNPr7hwdYwiDnesWsyb) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [日落](https://open.spotify.com/album/7pTK57Zq3LQk1fUSpoO0HY) | 4:09 |
+| 65 | [日落](https://open.spotify.com/track/6PHyNPr7hwdYwiDnesWsyb) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [日落](https://open.spotify.com/album/7pTK57Zq3LQk1fUSpoO0HY) | 4:09 |
+| 66 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
 | 67 | [Haule Haule](https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Haule Haule](https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys) | 4:03 |
 | 68 | [Katabi](https://open.spotify.com/track/6NDOMT855o4eT2qUUhUSfZ) | [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [Katabi](https://open.spotify.com/album/7nRmOH1RzQUrXWtgWccB08) | 3:31 |
 | 69 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 |

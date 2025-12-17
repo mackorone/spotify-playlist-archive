@@ -1,6 +1,6 @@
 {
   "description": "Glasgow's finest. Here we, here we... Cover: SOPHIE",
-  "num_followers": 17846,
+  "num_followers": 17847,
   "original_name": "We Are Glasgow",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
+        "name": "Everything Burns",
+        "url": "https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "duration_ms": 172172,
+      "name": "Everything Burns",
+      "url": "https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
         "name": "Millennials",
         "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
       },
@@ -359,18 +375,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Everything Burns",
-        "url": "https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH"
+        "name": "Freie Interpreten",
+        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
       },
       "artists": [
         {
-          "name": "Dead Pony",
-          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+          "name": "Vincent J\u00e4ger",
+          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
         }
       ],
-      "duration_ms": 172172,
-      "name": "Everything Burns",
-      "url": "https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk"
+      "duration_ms": 229262,
+      "name": "State of Blue",
+      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -391,22 +407,6 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Lovin\u2019",
-        "url": "https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE"
-      },
-      "artists": [
-        {
-          "name": "Cara Rose",
-          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Lovin\u2019",
-      "url": "https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
         "name": "LEMONADE",
         "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
       },
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Freie Interpreten",
-        "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
+        "name": "Lovin\u2019",
+        "url": "https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE"
       },
       "artists": [
         {
-          "name": "Vincent J\u00e4ger",
-          "url": "https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft"
+          "name": "Cara Rose",
+          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
         }
       ],
-      "duration_ms": 229262,
-      "name": "State of Blue",
-      "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+      "duration_ms": 181894,
+      "name": "Lovin\u2019",
+      "url": "https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5"
     },
     {
       "added_at": "2024-12-03 14:53:37",

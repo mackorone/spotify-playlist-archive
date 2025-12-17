@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 75183,
+  "num_followers": 75191,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADq4T34rSYfUmacGlaWs6Q5",
+  "snapshot_id": "aT9PgAAAAACTmiU8csRCld8RZxLzBy6g",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "A Que Sabes",
+      "url": "https://open.spotify.com/track/6gw5op96WEbp8y4nT19Mdg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "A Que Sabes",
-      "url": "https://open.spotify.com/track/6gw5op96WEbp8y4nT19Mdg"
     },
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 243460,
-      "name": "Rolling One",
-      "url": "https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joaqu\u00edn",
         "url": "https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 209625,
       "name": "Joaqu\u00edn",
       "url": "https://open.spotify.com/track/4DnNXHM9LiwuC1jZtXLI0w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 243460,
+      "name": "Rolling One",
+      "url": "https://open.spotify.com/track/40hjNYfeyudUJU3QHGW0t1"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Gente del General",
-      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 250368,
       "name": "Otro Perdedor",
       "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Gente del General",
+      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180384,
-      "name": "Soy Mencho",
-      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos Adelante",
         "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180384,
+      "name": "Soy Mencho",
+      "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200070,
-      "name": "El de la Gorra 27",
-      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 167439,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "El de la Gorra 27",
+      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "C\u00f3mo Los Vaqueros",
-      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "C\u00f3mo Los Vaqueros",
+      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 139668,
       "name": "Cuando Andaba Recio (El Cholo)",
       "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Recuerdos del R",
-      "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz De Dia",
         "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 197421,
       "name": "Luz De Dia",
       "url": "https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180250,
+      "name": "Recuerdos del R",
+      "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"
     },
     {
       "added_at": null,

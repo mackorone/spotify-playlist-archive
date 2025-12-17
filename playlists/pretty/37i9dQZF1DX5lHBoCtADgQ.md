@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,487 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,509 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 25 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 |
 | 26 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
 | 27 | [Suhe Ve Cheere Waliya](https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Suhe Ve Cheere Waliya](https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln) | 3:13 |
-| 28 | [Lok Boliyan](https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4) | [Pal Singh Samaon](https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu), [Harinder Hundal](https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm) | [Lok Boliyan](https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR) | 9:26 |
-| 29 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
+| 28 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
+| 29 | [Lok Boliyan](https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4) | [Pal Singh Samaon](https://open.spotify.com/artist/2Pgn0xL8DGJifVaYpNS5hu), [Harinder Hundal](https://open.spotify.com/artist/2uOb2bGHA6O4ERId5WWAGm) | [Lok Boliyan](https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR) | 9:26 |
 | 30 | [Mirza Saiba](https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Modern Punjab](https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R) | 4:45 |
 | 31 | [Jagga](https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN) | [Sarbjit Cheema](https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 4:03 |
 | 32 | [Ambarsare De Papad](https://open.spotify.com/track/49bXk2lnRjY3C0myxuLXax) | [Dolly Guleria](https://open.spotify.com/artist/28nSGXatO17yTeB0JYoCmQ) | [Nikka Jeha](https://open.spotify.com/album/19ItxZADz3IyG1J177PgqO) | 5:14 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 42 | [Chan Kithan](https://open.spotify.com/track/3V94RK5PxcSSRCxhEWBIuQ) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Chan Kithan](https://open.spotify.com/album/34bEDfoNeAjmHWnkmPT5ky) | 3:51 |
 | 43 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
 | 44 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
-| 45 | [Chitta Kukkad](https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG) | [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Wedding Songs](https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF) | 2:46 |
-| 46 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 |
+| 45 | [Ve Gurdit Deya Lalaa](https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Geet Shagna De](https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j) | 2:30 |
+| 46 | [Chitta Kukkad](https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG) | [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Wedding Songs](https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF) | 2:46 |
 | 47 | [Charkha Chanan Da](https://open.spotify.com/track/0xzWSIQUvzSZT49sucvUiO) | [Vanitaa Pande](https://open.spotify.com/artist/3eQvg7bacPWnBBn8rMjlZH) | [Charkha Chanan Da \- Single](https://open.spotify.com/album/0VwoU2f8ytfmsO4qdsU0db) | 2:41 |
 | 48 | [Jutti Kasuri](https://open.spotify.com/track/6MgpNbDOfA93e1YusNgGnl) | [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr) | [Jutti Kasuri](https://open.spotify.com/album/4RTIs4jzPWT8vA4ZEtHowD) | 3:16 |
 | 49 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
-| 50 | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY) | 2:27 |
+| 50 | [Punjabi Wedding Boliyan](https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Mehndi \(Punjabi Wedding Songs\)](https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S) | 4:21 |
 
 Snapshot ID: `AAAAANArfZbZ3DkiNSxDEdPw5lmmDTbb`

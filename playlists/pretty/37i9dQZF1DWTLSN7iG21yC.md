@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,898 likes - 127 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,792 likes - 127 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 80 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 |
 | 81 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 82 | [East Coast](https://open.spotify.com/track/5vZ46Y2lI7dfF1a3dV3HZ0) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Prequel](https://open.spotify.com/album/3EkjlTMu4IDVHz759li7FO) | 4:02 |
-| 83 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 |
-| 84 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 83 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
+| 84 | [When I Get There](https://open.spotify.com/track/74d3yEyNl807mtzttoKTbK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [When I Get There](https://open.spotify.com/album/7JlQ5Gfci8WZDHIKdmFl1G) | 3:20 |
 | 85 | [All My Life](https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:53 |
 | 86 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
 | 87 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 |
@@ -130,10 +130,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 120 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 |
 | 121 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
 | 122 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 |
-| 123 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 |
-| 124 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 |
-| 125 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 |
-| 126 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 |
+| 123 | [evergone](https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [evergone](https://open.spotify.com/album/7acKjQss2YDHbg5Wx0gxdL) | 3:29 |
+| 124 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 |
+| 125 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 |
+| 126 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 |
 | 127 | [go \(feat\. Sam Fischer\)](https://open.spotify.com/track/3ZqohZNsr8U58usomfXpCO) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [go \(feat\. Sam Fischer\)](https://open.spotify.com/album/28U01akPQLKmVWm7Hwhu8A) | 3:35 |
 
 Snapshot ID: `AAAAAEMCw4i1ldTWDj1q3ITvKHH1m6WF`

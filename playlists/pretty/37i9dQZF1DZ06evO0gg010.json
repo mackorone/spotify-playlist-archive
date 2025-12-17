@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 741330,
+  "num_followers": 741916,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADaEgUKUEaJI9r0v6GJRAuu",
+  "snapshot_id": "aT9PgAAAAABc+bjCbg8dt7wf/HuGFygY",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billete Grande (En Vivo)",
+        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 163940,
+      "name": "Billete Grande (En Vivo)",
+      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billete Grande (En Vivo)",
-        "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 163940,
-      "name": "Billete Grande (En Vivo)",
-      "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONDEADO$",
         "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208800,
       "name": "ULTIMAMENTE",
       "url": "https://open.spotify.com/track/22znRIyi8hIkD07fsAwo7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 166821,
-      "name": "Igualito a Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 140987,
       "name": "Fresas Con Crema",
       "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 166821,
+      "name": "Igualito a Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TQM",
+        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 158964,
+      "name": "TQM",
+      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 134624,
       "name": "Modo Maldito",
       "url": "https://open.spotify.com/track/2VmeNiaRsq0Z2gcMcQvHb8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TQM",
-        "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 158964,
-      "name": "TQM",
-      "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 172056,
-      "name": "Mi Terre CLN",
-      "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "911 (En Vivo)",
         "url": "https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 175424,
       "name": "911 - En Vivo",
       "url": "https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 172056,
+      "name": "Mi Terre CLN",
+      "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 136913,
-      "name": "Ch y la Pizza",
-      "url": "https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 169020,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 136913,
+      "name": "Ch y la Pizza",
+      "url": "https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,076 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,133 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 67 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
 | 68 | [Big Boy Tracks](https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Big Boy Tracks](https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK) | 3:41 |
 | 69 | [Fun Times](https://open.spotify.com/track/7LD3zycYhQNEkvSaDXwFv2) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Fun Times](https://open.spotify.com/album/6cNNIC4lX9MjSyGTXLA1MS) | 4:13 |
-| 70 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
-| 71 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
+| 70 | [2 Go](https://open.spotify.com/track/0OEdFRb2jr5dNF4kOfl8aq) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 4:06 |
+| 71 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 |
 | 72 | [Are We There](https://open.spotify.com/track/4IC12iWEBhquqm9xcWI7nY) | [Breaka](https://open.spotify.com/artist/2hTtDy5yaNWqVmBj7EpaAq) | [Aeoui](https://open.spotify.com/album/7GiryhyiYis1NEfjEAb4tv) | 4:45 |
 | 73 | [Que Isso](https://open.spotify.com/track/5S9GRasmX7UTbYHq2aluMn) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Que Isso](https://open.spotify.com/album/0RWmxVvoTvE1B4H0FDiprK) | 3:18 |
 | 74 | [L F G](https://open.spotify.com/track/3oaDqABHAzKwOXdLbuPdgd) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS) | [Relentless](https://open.spotify.com/album/2E55tzIeMiNScqBLX7rF9T) | 4:26 |

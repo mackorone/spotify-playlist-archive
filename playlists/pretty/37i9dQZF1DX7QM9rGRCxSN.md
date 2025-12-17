@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,550 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,567 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 15 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
 | 16 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 17 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
-| 18 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
-| 19 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
+| 18 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
+| 19 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 | 20 | [Incendio de Amor](https://open.spotify.com/track/6UpTLTfmAeC1IHIsBHcNYd) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d), [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Mixarama](https://open.spotify.com/album/7td4ZCxydvmaFLyQRl4Bzg) | 4:55 |
 | 21 | [La Caja Del Diablo](https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 9:12 |
 | 22 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 31 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
 | 32 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
 | 33 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 |
-| 34 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 |
-| 35 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
+| 34 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
+| 35 | [En Medio](https://open.spotify.com/track/2cB4PvkqmSASF4YfGTAOwO) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [En Medio](https://open.spotify.com/album/6e0VAj0pMV7BqLz2MAwkAt) | 5:34 |
 | 36 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 |
 | 37 | [etérea](https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [sky of fading lights](https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N) | 8:30 |
 | 38 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 46 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
 | 47 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
 | 48 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
-| 49 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
-| 50 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
+| 49 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
+| 50 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
 
 Snapshot ID: `AAAAAM4NLxEWDCOBK4mwZ0bqgRCpIf8X`

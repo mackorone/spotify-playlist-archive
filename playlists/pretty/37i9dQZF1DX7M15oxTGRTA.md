@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,521 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,577 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 35 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
 | 36 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 37 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
-| 38 | [Come Get To This](https://open.spotify.com/track/622DQPLumfjBW0sDd7XGFO) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On](https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b) | 2:41 |
+| 38 | [Trouble Man](https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Trouble Man: 40th Anniversary Expanded Edition](https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB) | 3:48 |
 | 39 | [You Are My Lady](https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [Rock Me Tonight](https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV) | 4:44 |
 | 40 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
 | 41 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 64 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
 | 65 | [Someday We'll All Be Free](https://open.spotify.com/track/0iJP3XxZNE8tP7YnB23J1r) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 4:10 |
 | 66 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
-| 67 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 68 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
+| 67 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
+| 68 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 69 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
 | 70 | [Don't Ask My Neighbors](https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 4:27 |
 | 71 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |

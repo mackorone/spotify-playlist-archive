@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3S03NWbWkrR1e7DPH9rf9Z.md) - cumulative - [plain](/playlists/plain/3S03NWbWkrR1e7DPH9rf9Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3S03NWbWkrR1e7DPH9rf9Z)
 
-### [Big Room 2025 🔥 Bigroom Mainstage](https://open.spotify.com/playlist/3S03NWbWkrR1e7DPH9rf9Z)
+### [Big Room 2026 🔥 Bigroom Mainstage](https://open.spotify.com/playlist/3S03NWbWkrR1e7DPH9rf9Z)
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 

@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 56782,
+  "num_followers": 56783,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -539,30 +539,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Frage",
-        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "Gerold Huber",
-          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
-        }
-      ],
-      "duration_ms": 110773,
-      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
-      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Dichterliebe & Kerner-Lieder",
         "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 136320,
       "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
       "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Gerold Huber",
+          "url": "https://open.spotify.com/artist/76BGE6sNIHPvJejRb7mkVI"
+        }
+      ],
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
-        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Jo\u00e3o Pires",
-          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
-      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Mendelssohn, Goodyear & Schumann: Piano Concerti",
         "url": "https://open.spotify.com/album/27Yf1gmEWozEBLB1HD3sEj"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 320666,
       "name": "Piano Concerto in A Minor, Op. 54: II. Intermezzo. Andantino grazioso",
       "url": "https://open.spotify.com/track/4HkRZJM99jxwC8DKFbShOC"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
+        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
+      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
     },
     {
       "added_at": "2025-12-15 12:40:07",

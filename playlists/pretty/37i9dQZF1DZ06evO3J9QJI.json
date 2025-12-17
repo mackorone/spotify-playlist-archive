@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAJQdmt5W36lpemS8RY2shM",
+  "snapshot_id": "aT9PgAAAAADdY/1moedt6de2Os/Rtmpr",
   "tracks": [
     {
       "added_at": null,
@@ -318,15 +318,11 @@
         {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
-        },
-        {
-          "name": "Black Child",
-          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 169560,
-      "name": "O.G. - Remix",
-      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
+      "duration_ms": 229333,
+      "name": "Poverlous",
+      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
     },
     {
       "added_at": null,
@@ -342,11 +338,15 @@
         {
           "name": "Caddillac Tah",
           "url": "https://open.spotify.com/artist/4a7eqaOZbZrEj2J37FzJvl"
+        },
+        {
+          "name": "Black Child",
+          "url": "https://open.spotify.com/artist/6X2NavlZruxomYkfSaZiwN"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Poverlous",
-      "url": "https://open.spotify.com/track/71xeqdNfrcUdBMAOA2YdRX"
+      "duration_ms": 169560,
+      "name": "O.G. - Remix",
+      "url": "https://open.spotify.com/track/6HWd3U8RC5hXcfj3c3Snfn"
     }
   ],
   "unique_name": "This Is Irv Gotti",

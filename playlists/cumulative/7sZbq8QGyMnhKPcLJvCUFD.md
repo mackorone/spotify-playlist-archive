@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-803 songs - 1 day 16 hr 7 min
+804 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [When I'm With You \- EMIDEX Remix](https://open.spotify.com/track/5bFtowNLiwn67wZUDhF8Cl) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [EMIDEX](https://open.spotify.com/artist/7394eHssATloNg9MDOPTnJ) | [When I’m With You \- Remixes](https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3) | 3:03 | 2022-12-09 | 2023-01-13 |
 | [When I'm With You \- NCKD Remix](https://open.spotify.com/track/7Gx8d9XPQMLgTVx1vFtHAy) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [NCKD](https://open.spotify.com/artist/3OadzdD3LvpCfIRqgUCB4P) | [When I’m With You \- Remixes](https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3) | 2:48 | 2022-12-09 | 2023-04-28 |
 | [When I'm With You \- T\-Rice Remix](https://open.spotify.com/track/199yqPnwlybLMjMNY5Hjxy) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [T\-Rice](https://open.spotify.com/artist/2zw4hJvsdFtEk6i2FLa1Uw) | [When I’m With You \- Remixes](https://open.spotify.com/album/18Iio2vivHJXPkK6AjgHM3) | 3:02 | 2022-12-09 | 2023-01-13 |
+| [Where We Are](https://open.spotify.com/track/3GYqn2Vl2JMTqi129cML3z) | [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Triangle](https://open.spotify.com/artist/5VIY8D1hZVFHP9AUWR4iRo), [Eytan Peled](https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj) | [Where We Are](https://open.spotify.com/album/4zSBd7jkLGjl1fkBSrcfef) | 2:06 | 2025-12-16 |  |
 | [Where We Started](https://open.spotify.com/track/3m71VLuekxke2MO8yHkOYg) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Where We Started](https://open.spotify.com/album/00cF1cvOq2v6K0roASUiWX) | 3:42 | 2023-08-08 | 2023-12-14 |
 | [Whiplash](https://open.spotify.com/track/64spXyGyh0oONfSnNvuz12) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v), [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:31 | 2025-07-25 |  |
 | [whole](https://open.spotify.com/track/06rm9eTLNGv1a8AgKszcAh) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl), [just alex](https://open.spotify.com/artist/5uSqBdEd1pGLkqnqdSEKVu) | [whole](https://open.spotify.com/album/3AB9SGBNNZqSYrcUdzU4oX) | 2:13 | 2023-12-13 | 2024-04-03 |

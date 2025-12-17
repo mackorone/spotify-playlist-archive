@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Toni Braxton
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,717 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,878 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 3 | [Folded \(Remix\) \[feat\. Brandy\]](https://open.spotify.com/track/4Mn0tbmlOsYFSWoo4rJbnI) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Folded Homage Pack](https://open.spotify.com/album/0ERSLETUQi9BIfH0evmmjm) | 4:19 |
 | 4 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 5 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
-| 6 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
+| 6 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 7 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
-| 8 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
+| 8 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
 | 9 | [Hard Part \(feat\. Lucky Daye\)](https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
 | 10 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 11 | [Tell Her](https://open.spotify.com/track/5OPjAIP9JeWQ7z15FCxAcv) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Tell Her](https://open.spotify.com/album/1Sr1nrKVq8nYCrxvjPiHcA) | 3:19 |

@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: MINHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,810 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,804 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 |
+| 1 | [TEMPO](https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [TEMPO](https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W) | 2:45 |
 | 2 | [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 |
 | 3 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 |
 | 4 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 |
 | 5 | [Fame](https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH) | 2:56 |
 | 6 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 |
 | 7 | [Handz In My Pocket](https://open.spotify.com/track/35m8Dt5Pnnth0k17UIgEZ3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Handz In My Pocket](https://open.spotify.com/album/4HHaxkowWdzWA7sX4CaXPs) | 2:49 |
-| 8 | [TEMPO](https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [TEMPO](https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W) | 2:45 |
+| 8 | [LAVALAVA](https://open.spotify.com/track/0JZCdHGFgJ3GaYIWMQXOyw) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ \(Deluxe\)](https://open.spotify.com/album/0fgCO7l43wg9ebODXb7Pw2) | 3:12 |
 | 9 | [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 |
-| 10 | [LAVALAVA](https://open.spotify.com/track/0JZCdHGFgJ3GaYIWMQXOyw) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ \(Deluxe\)](https://open.spotify.com/album/0fgCO7l43wg9ebODXb7Pw2) | 3:12 |
-| 11 | [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 |
-| 12 | [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 |
-| 13 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
-| 14 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
-| 15 | [Future In My Pocket \- feat\. TAIKI \(STARGLOW\), GOICHI \(STARGLOW\)](https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP), [GOICHI](https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr) | [Success Is The Best Revenge](https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe) | 2:48 |
-| 16 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
+| 10 | [LOOK AT ME](https://open.spotify.com/track/1COvoUtzqdwASp3zHc5bPe) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/7N0xYciFgPt2Et3k5NCiUx) | 2:39 |
+| 11 | [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 |
+| 12 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
+| 13 | [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 |
+| 14 | [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 |
+| 15 | [Beat\-Boxer](https://open.spotify.com/track/4X8JreC8HgOwxmh0bRjQ4w) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Beat\-Boxer](https://open.spotify.com/album/6SPjS2fx5nvWvmhWfJjAHi) | 2:35 |
+| 16 | [Future In My Pocket \- feat\. TAIKI \(STARGLOW\), GOICHI \(STARGLOW\)](https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP), [GOICHI](https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr) | [Success Is The Best Revenge](https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe) | 2:48 |
 | 17 | [Lovin' the Christmas](https://open.spotify.com/track/6Ws8iBdUJWu9XGsTGvQoEa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Lovin' the Christmas](https://open.spotify.com/album/0n2rbF9KvlhkViJeW0JD8S) | 3:01 |
 | 18 | [サンタさんへ。](https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [サンタさんへ。](https://open.spotify.com/album/335QvsExORHN7FSMC2xxOs) | 3:55 |
 | 19 | [Backseat Promises](https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PULSEPHASE](https://open.spotify.com/album/3Bl7sxTZ5nnIxkblxJ6gmp) | 3:34 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 |
 | 80 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 |
 
-Snapshot ID: `AAAAAIwz/2dITY1v1fFwvp/XbGmL/vXG`
+Snapshot ID: `AAAAAOlPSoEndf3EGxPROkiAJskMDmBC`

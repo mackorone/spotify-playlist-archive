@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,045 likes - 90 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,205 likes - 90 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 62 | [Ese Hombre](https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:40 |
 | 63 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 64 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
-| 65 | [A Donde Iras](https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:06 |
-| 66 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
+| 65 | [Temperatura](https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Picadillo A La Criolla](https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv) | 4:50 |
+| 66 | [A Donde Iras](https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Exitos y Mas](https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD) | 5:06 |
 | 67 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
 | 68 | [Casi un Hechizo](https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 3:43 |
 | 69 | [Cachondea](https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:57 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 84 | [El Paso De Encarnación](https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 5:14 |
 | 85 | [Dicen Que Soy](https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:41 |
 | 86 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 87 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
-| 88 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
+| 87 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
+| 88 | [Periódico De Ayer](https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 6:49 |
 | 89 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
 | 90 | [Comerte a Besos \- Salsa Version](https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Mario de Jesús](https://open.spotify.com/artist/6XjFh7IQknY7HAncX72nCU), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Por Tu Placer](https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f) | 4:29 |
 

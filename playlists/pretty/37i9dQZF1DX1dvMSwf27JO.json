@@ -1,6 +1,6 @@
 {
   "description": "music to get fly to ft. Erykah Badu",
-  "num_followers": 560499,
+  "num_followers": 560461,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Fisherrr (Remix)",
-        "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        }
-      ],
-      "duration_ms": 235354,
-      "name": "Fisherrr - Remix",
-      "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 252733,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/47htv7rED6WpgrPFM4J9pS"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Fisherrr (Remix)",
+        "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "duration_ms": 235354,
+      "name": "Fisherrr - Remix",
+      "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Ritual Union",
-        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 289400,
-      "name": "Crystalfilm",
-      "url": "https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 188800,
       "name": "Protect My Energy",
       "url": "https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Ritual Union",
+        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 289400,
+      "name": "Crystalfilm",
+      "url": "https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Star Girl",
-        "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Star Girl",
-      "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Coven Music Session, Vol. 1",
         "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 58801,
       "name": "60 Seconds",
       "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Star Girl",
+        "url": "https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Star Girl",
+      "url": "https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc"
     },
     {
       "added_at": "2024-08-23 04:00:00",

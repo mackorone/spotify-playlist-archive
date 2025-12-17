@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 오존 \(O3ohn\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,950 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,954 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 38 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 39 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 |
 | 40 | [42](https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [42](https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc) | 2:32 |
-| 41 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
-| 42 | [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 |
+| 41 | [Yours Sincerely](https://open.spotify.com/track/5qwR0wO4SgTyg70ob5Gb3I) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:02 |
+| 42 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 |
 | 43 | [it's you](https://open.spotify.com/track/19VPsz9u0PnHoIJoTPnIZz) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [it's you](https://open.spotify.com/album/5Vz21Tl66jUraTeMUT5vH5) | 3:02 |
 | 44 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 45 | [When The Wind Blows](https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [When The Wind Blows \- SM STATION](https://open.spotify.com/album/75G5LZd0ANy97a9M7PlKwm) | 3:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 47 | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/track/3i6tUg0L5wVklyUfZ1igji) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2), [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Mirror Love \(Feat\. NIve\)](https://open.spotify.com/album/0LYqX9fGYTTCJvMg6ehcVq) | 3:59 |
 | 48 | [NEO EUI HYANG GI](https://open.spotify.com/track/3lkgebBeuOGpGWUPqCYXwD) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 3:54 |
 | 49 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
-| 50 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
+| 50 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
 
 Snapshot ID: `AAAAAJBbbfAow4LyXqItzrsEYRTuUUdD`

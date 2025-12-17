@@ -4,7 +4,7 @@
 
 > New stunning releases in modern soul\. Cover: Latanya Alberto
 
-603 songs - 1 day 10 hr 58 min
+605 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [champion](https://open.spotify.com/track/0JrralS6u3HaFgwLFb4FoH) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [champion](https://open.spotify.com/album/3q5jZB9NtbZGU7jM4cEXmq) | 3:40 | 2023-04-26 | 2024-05-24 |
 | [Chanel Pearls \(with Jill Scott\)](https://open.spotify.com/track/3jWkuKai8qoTRvshbkxh0A) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 3:18 | 2022-02-24 | 2023-02-18 |
 | [Change](https://open.spotify.com/track/0enybYuVnqE8N83Ot1KPFc) | [Mufaro](https://open.spotify.com/artist/6rCjN8curntY3lqk8cLnlU) | [Change](https://open.spotify.com/album/5O38MActB1mTAL8nmGOsQY) | 2:15 | 2025-07-04 |  |
+| [Change Me](https://open.spotify.com/track/1N2T53a0By0Bek0jS3zqrW) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [It Starts With Us](https://open.spotify.com/album/01mAiwqFG2n1zfTvMZ9bWa) | 3:22 | 2025-12-16 |  |
 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 | 2024-01-17 | 2024-11-14 |
 | [Chasing](https://open.spotify.com/track/7sGKEO3p8Bcr83ije4BoFK) | [EMY](https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG) | [Chasing](https://open.spotify.com/album/3mNWyf9QBXfnuXJCYeImt1) | 2:38 | 2022-08-23 | 2022-12-03 |
 | [Cheirinho \- Feat\. YOÙN](https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Cheirinho \(Feat\. YOÙN\)](https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw) | 2:53 | 2025-08-08 |  |
@@ -407,6 +408,7 @@
 | [Put D'Angelo On](https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s) | 3:07 | 2022-06-16 | 2023-07-28 |
 | [Put D'Angelo On](https://open.spotify.com/track/21ZFqw29FHcfR50XTuuTIK) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Put D'Angelo On](https://open.spotify.com/album/5q2vdfrE0ISHmaP8IsBLAt) | 3:07 | 2023-07-10 | 2023-08-16 |
 | [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-22 | 2023-10-12 |
+| [Rain Down](https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Rain Down](https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL) | 4:38 | 2025-12-16 |  |
 | [Rare](https://open.spotify.com/track/1rzoDdjdZw1vAemS0KOvPS) | [Radiant Children](https://open.spotify.com/artist/2e0Bkreg0zzfE5umvfKQXf) | [Rare](https://open.spotify.com/album/4U4m7pO3EBcUqmeNWthFii) | 2:57 | 2021-12-16 | 2022-01-26 |
 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 | 2024-02-16 | 2024-12-21 |
 | [Real Good](https://open.spotify.com/track/4ScOLLhNjhOJWobYBgkQqv) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Jerome Thomas](https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:27 | 2022-12-05 | 2023-07-08 |

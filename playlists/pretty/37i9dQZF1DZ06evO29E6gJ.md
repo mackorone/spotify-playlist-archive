@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,595 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,599 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Mesera](https://open.spotify.com/track/5bA44PbrSBhdzYJ4jw3ERO) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 3:01 |
-| 2 | [Moneda Sin Valor](https://open.spotify.com/track/3fRqJK9IGjuPFlbFbxCzl6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 3:09 |
-| 3 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
+| 2 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 |
+| 3 | [Moneda Sin Valor](https://open.spotify.com/track/3fRqJK9IGjuPFlbFbxCzl6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 3:09 |
 | 4 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
 | 5 | [Ojitos Verdes](https://open.spotify.com/track/7276TUfLJbqMyzxDqXevrA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:48 |
 | 6 | [Cuatro Milpas](https://open.spotify.com/track/4dvpL6KEvqwcibf5Sm7TqU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [El Rosalito](https://open.spotify.com/album/2k8xoNgEwu8xMeZ6FaC9FZ) | 2:26 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 27 | [Margarita](https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [LA TRAICIONERA \(Remastered\)](https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq) | 2:00 |
 | 28 | [La Martina](https://open.spotify.com/track/4JdIlTrvfAv3IAamg7Asgg) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ), [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [Los Alegres De Terán, Sus Mejores Corridos Y Rancheras Contestadas](https://open.spotify.com/album/43Eu9c8JiKyvuWMAnJCuxc) | 2:47 |
 | 29 | [Por El Amor A Mi Madre](https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:48 |
-| 30 | [Lucecita De Mi Alma](https://open.spotify.com/track/0PRtOcjYNqHuWavzXchHjp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:31 |
+| 30 | [Cariño Sin Condicion](https://open.spotify.com/track/3EYKM9dXqvnnTpqEt4PnRG) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Pensando en Tu Dia Vol\. 3](https://open.spotify.com/album/6keKSJlgpHyjPRjUci7qjO) | 2:50 |
 | 31 | [Vino Maldito](https://open.spotify.com/track/0SG5Pj8V7JhcK99z9m9vYe) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:10 |
-| 32 | [Cariño Sin Condicion](https://open.spotify.com/track/3EYKM9dXqvnnTpqEt4PnRG) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Pensando en Tu Dia Vol\. 3](https://open.spotify.com/album/6keKSJlgpHyjPRjUci7qjO) | 2:50 |
+| 32 | [Lucecita De Mi Alma](https://open.spotify.com/track/0PRtOcjYNqHuWavzXchHjp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Alegres De Terán](https://open.spotify.com/album/6sOGprinuy8hdIHdEf4wAZ) | 2:31 |
 | 33 | [Corazoncito Tirano](https://open.spotify.com/track/6WDO9b672nRsA3W3FtPlLU) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Ojos De Pancha](https://open.spotify.com/album/3wFMgp4RVQF5AoCmgjseWX) | 2:48 |
 | 34 | [La Pajarera](https://open.spotify.com/track/3lljQzKEcHzw2uXl9JJ9rk) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Fogata Norteña](https://open.spotify.com/album/779btSeHZhLy2Bam2WAHAj) | 3:11 |
 | 35 | [Alma Rendida](https://open.spotify.com/track/4Sc7z9IWXG1XbwCYKEByFX) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:21 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 48 | [Los Pilares de la Cárcel](https://open.spotify.com/track/3kx7GR0EaE6LOaVQYEYKB5) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 1](https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR) | 2:47 |
 | 49 | [Una Sola Caída \- Ranchera](https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:50 |
 
-Snapshot ID: `aT3+AAAAAAChZ4mLrbddwGvZGbiMDVHX`
+Snapshot ID: `aT9PgAAAAAChMvrX/fQ5CnfzJ+QxJuno`

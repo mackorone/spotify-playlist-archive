@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,474 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,474 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 34 | [Slow Divers \- Live](https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:35 |
 | 35 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 |
 | 36 | [Trip Away](https://open.spotify.com/track/7KAm9ZLmSaqFnbHBGQx2M8) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:34 |
-| 37 | [Curiosity Kills](https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 4:29 |
+| 37 | [Splash A Little Water On It](https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 5:13 |
 | 38 | [So What!](https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:19 |
 | 39 | [Been Caught Stealing \- Studio Out\-Take](https://open.spotify.com/track/2ingbF0o8bNLy68jUCqahX) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:20 |
 | 40 | [City \- Soul Kiss 88](https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 2:30 |
 
-Snapshot ID: `aT3+AAAAAABbn/BPj17RmLwpfW8+i1cs`
+Snapshot ID: `aT9PgAAAAAA2iZ+FwHZwHfIkgxnGmfGO`

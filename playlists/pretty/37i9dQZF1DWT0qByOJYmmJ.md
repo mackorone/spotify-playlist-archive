@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,521 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,499 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chachachá](https://open.spotify.com/track/6aommJFM8i3iT4inKuDSXh) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:35 |
 | 2 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 |
-| 3 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
+| 3 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
 | 4 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
-| 5 | [Luna \- En Vivo](https://open.spotify.com/track/7b3k8I1fncAzbk9PHnLkbX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 4:40 |
+| 5 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
 | 6 | [contenta,](https://open.spotify.com/track/1YlXMOHqJVWzFaaQLeekPt) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [eduardo](https://open.spotify.com/album/6ylPT54V3iwJY2trdxTzTX) | 3:46 |
 | 7 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 |
 | 8 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 43 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
 | 44 | [Quién Dice](https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Quién Dice](https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK) | 3:45 |
 | 45 | [Amar](https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Amar](https://open.spotify.com/album/2WLYPoynzvRPOPBtdXaPrj) | 2:59 |
-| 46 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 |
+| 46 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
 | 47 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 |
-| 48 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 |
+| 48 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 |
 | 49 | [Lágrimas De Miel](https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Lágrimas De Miel](https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh) | 3:48 |
 | 50 | [Si Nos Volvemos A Encontrar](https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Si Nos Volvemos A Encontrar](https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC) | 3:24 |
 | 51 | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/track/3nTeLDqZebdpIdB9uRJJk1) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Fuentes de Ortíz \(Live session\)](https://open.spotify.com/album/3hckHlpN6ERKTcGMFrV9ui) | 2:59 |

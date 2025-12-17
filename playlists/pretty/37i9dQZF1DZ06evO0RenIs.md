@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 32 | [Fior di Latte](https://open.spotify.com/track/7rYI7SpOhyz5nVvp0w994V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 4:03 |
 | 33 | [Heatwave](https://open.spotify.com/track/2W1ehC1GNSvUlWCKE5FSI5) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Heatwave](https://open.spotify.com/album/2fts6dbm4Wbd37s3YQSzXH) | 4:19 |
 | 34 | [S.O.S In Bel Air](https://open.spotify.com/track/6V5z0wPN6HRK56Q17pgOzL) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 3:43 |
-| 35 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 |
+| 35 | [Season 2](https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:47 |
 | 36 | [Goodbye Soleil](https://open.spotify.com/track/1HENaoJQR9wPP97goBwQsX) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/2Hr5EY19Y7gV7K7ogk9QcR) | 3:55 |
 | 37 | [Summer Days](https://open.spotify.com/track/1g50RH5iSvlFwhHsRRNP9D) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:15 |
 | 38 | [Bourgeois](https://open.spotify.com/track/394RDQPrHMS7EFSODaVn62) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 4:53 |
-| 39 | [Season 2](https://open.spotify.com/track/4Dy26AYLOdCjqSadkaTYJN) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 2:47 |
+| 39 | [Identical](https://open.spotify.com/track/33FQ0dWX1P2EqlGkBVLPbD) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 5:02 |
 | 40 | [Rally](https://open.spotify.com/track/2n21r18BendiM8hynbe7XJ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:16 |
 | 41 | [\(You Can't Blame It On\) Anybody](https://open.spotify.com/track/1kVa8X5Ifr6XVmn8XvC1iu) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 3:33 |
 | 42 | [Honeymoon](https://open.spotify.com/track/5dtTD2LIqWk1GsB8y0zDur) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 5:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 49 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 | 50 | [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 |
 
-Snapshot ID: `aT3+AAAAAABpAmScEy2REpC4VALLv400`
+Snapshot ID: `aT9PgAAAAAB4wNqdsz6MIOipsY3q4vJi`

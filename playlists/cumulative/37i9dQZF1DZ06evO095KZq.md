@@ -4,7 +4,7 @@
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-92 songs - 4 hr 21 min
+93 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El Bélico](https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Carteles](https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq) | 2:05 | 2023-08-08 |  |
 | [El Capitán](https://open.spotify.com/track/79yEzqwIgNaVrwbPBrlZP2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Capitán](https://open.spotify.com/album/2j9yGj01H5wTFfGK99Lx2E) | 2:31 | 2025-06-30 | 2025-07-23 |
 | [El Ceja Levantada](https://open.spotify.com/track/6QdZj30JB1Va41Pn75Km1B) | [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Ceja Levantada](https://open.spotify.com/album/3N9aY6oiHHrSYmXO8ccJvr) | 2:54 | 2025-06-01 | 2025-11-29 |
-| [El Chavo](https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Chavo](https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb) | 3:46 | 2023-08-08 |  |
+| [El Chavo](https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Chavo](https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb) | 3:46 | 2023-08-08 | 2025-12-17 |
 | [El Circo](https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 2:17 | 2023-08-08 |  |
 | [El Exitoso](https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh) | 3:42 | 2023-12-25 | 2025-04-07 |
 | [El Exitoso](https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 3:42 | 2023-12-13 | 2023-12-18 |
@@ -51,6 +51,7 @@
 | [El Viejo del Monte](https://open.spotify.com/track/3yL05KM2udEL7lEKVw8pkm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:09 | 2023-12-13 | 2025-12-12 |
 | [El Zoológico \- En Vivo](https://open.spotify.com/track/4wykN4k8kWJeI37FjcjzeB) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Zoológico \(En Vivo\)](https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC) | 3:39 | 2024-03-07 |  |
 | [El Zorro](https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Varones de Culiacan](https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d) | [El Zorro](https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ) | 3:59 | 2023-08-08 |  |
+| [Ella](https://open.spotify.com/track/14uHKZWp2QjJUG0pgK9nWH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Nostalgia](https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr) | 2:39 | 2025-12-17 |  |
 | [En El Camino](https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:48 | 2023-08-08 |  |
 | [En Esta Vida](https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 2:33 | 2023-08-08 |  |
 | [Encantadora](https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Encantadora](https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe) | 2:24 | 2023-08-08 | 2025-02-07 |

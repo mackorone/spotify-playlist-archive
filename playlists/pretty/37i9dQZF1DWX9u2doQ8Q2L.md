@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,771 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,777 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 44 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 45 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 46 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 |
-| 47 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 |
+| 47 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 |
 | 48 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 49 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 50 | [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 54 | [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 |
 | 55 | [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 |
 | 56 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 |
-| 57 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 |
+| 57 | [僕にはどうしてわかるんだろう](https://open.spotify.com/track/6l9uVfPEhdfE50mTPgnE0W) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [僕にはどうしてわかるんだろう](https://open.spotify.com/album/5EFBhxOKxYiZl5k5xQZGxl) | 4:19 |
 | 58 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 |
 | 59 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |
 | 60 | [Perfect Blue](https://open.spotify.com/track/4isltDchfXCDrGCNd8iupg) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [RYO\-Z](https://open.spotify.com/artist/4sAapCy25wlBnkilgKmtgK) | [Perfect Blue](https://open.spotify.com/album/54xd4oRJbt6MQJUpbqLcL9) | 3:22 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 70 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 71 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
 | 72 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
-| 73 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 |
-| 74 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 |
+| 73 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 |
+| 74 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 |
 | 75 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 |
 | 76 | [by my side](https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt) | [by my side](https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6) | 4:49 |
 | 77 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |

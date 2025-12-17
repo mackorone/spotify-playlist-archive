@@ -598,7 +598,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -5928,7 +5928,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -9466,7 +9466,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -12448,7 +12448,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
@@ -14386,6 +14386,32 @@
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
+    },
+    {
+      "album": {
+        "name": "HOPI SEND\u00c9",
+        "url": "https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192111,
+      "name": "LA VILLA",
+      "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
     },
     {
       "album": {
@@ -18846,7 +18872,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 225654,
       "name": "NO ME QUIERO CASAR",
       "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
@@ -21886,7 +21912,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -23168,7 +23194,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
@@ -24270,7 +24296,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 155265,
       "name": "SANKA",
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
@@ -30996,7 +31022,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 129705,
       "name": "Yo s\u00e9",
       "url": "https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbck8sFsEQGj.md) - [plain]
 
 > Hottest tracks from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,258 likes - 45 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,405 likes - 45 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

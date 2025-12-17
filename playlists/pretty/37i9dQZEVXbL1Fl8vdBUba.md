@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,470 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,485 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [URUS BLUE](https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 3:27 |
 | 50 | [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 |
 
-Snapshot ID: `MNN+UAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNTNeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-25",
-  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: yama",
+  "description": "\u4eca\u3001\u65e5\u672c\u306e\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30e3\u30fc\u306b\u8074\u304b\u308c\u3066\u3044\u308b\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u3053\u3063\u3061\u306e\u3051\u3093\u3068",
   "name": "Teen Culture",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 203380,
       "name": "1000\u65e5\u9593",
       "url": "https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi"
@@ -532,6 +532,28 @@
       "duration_ms": 176600,
       "name": "ACTOR",
       "url": "https://open.spotify.com/track/7DU9Ttw5ugUKXo8LqwO6M6"
+    },
+    {
+      "album": {
+        "name": "ADHD (feat. Benjazzy)",
+        "url": "https://open.spotify.com/album/5nOp64sEesDY127FbuUzzb"
+      },
+      "artists": [
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170257,
+      "name": "ADHD (feat. Benjazzy)",
+      "url": "https://open.spotify.com/track/2XkY9qd0pw40fGhjlHx1CJ"
     },
     {
       "album": {
@@ -4038,7 +4060,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 231168,
       "name": "Eden No Heya",
       "url": "https://open.spotify.com/track/0e1ZlFD5tsOZApk8HMRCng"
@@ -4770,6 +4792,32 @@
       "duration_ms": 146213,
       "name": "Full Bet",
       "url": "https://open.spotify.com/track/6l7ePtr8Z2YMsoNS1nimMr"
+    },
+    {
+      "album": {
+        "name": "Success Is The Best Revenge",
+        "url": "https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe"
+      },
+      "artists": [
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        },
+        {
+          "name": "TAIKI",
+          "url": "https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP"
+        },
+        {
+          "name": "GOICHI",
+          "url": "https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168097,
+      "name": "Future In My Pocket - feat. TAIKI (STARGLOW), GOICHI (STARGLOW)",
+      "url": "https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp"
     },
     {
       "album": {
@@ -8339,6 +8387,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273353,
+      "name": "Massara",
+      "url": "https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO"
+    },
+    {
+      "album": {
         "name": "Masterplan",
         "url": "https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz"
       },
@@ -9252,6 +9318,24 @@
       "duration_ms": 136740,
       "name": "Naiya",
       "url": "https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2"
+    },
+    {
+      "album": {
+        "name": "Nakuna Tokyo",
+        "url": "https://open.spotify.com/album/7tYY6HL4gPl8FnctStuBut"
+      },
+      "artists": [
+        {
+          "name": "Blue Mash",
+          "url": "https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207763,
+      "name": "Nakuna Tokyo",
+      "url": "https://open.spotify.com/track/2D8PKEIMZcbe5MK08ek27J"
     },
     {
       "album": {
@@ -10461,6 +10545,24 @@
     },
     {
       "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/2e7yRPmtAf65JP43nBkFL5"
+      },
+      "artists": [
+        {
+          "name": "IS:SUE",
+          "url": "https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/1WFtVKH8l3B23WkNfWNUtU"
+    },
+    {
+      "album": {
         "name": "PIECES (STARGLOW Ver.)",
         "url": "https://open.spotify.com/album/2OX4YJRS8z8ad58YjMeacS"
       },
@@ -11048,7 +11150,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 201960,
       "name": "REAL",
       "url": "https://open.spotify.com/track/6UIhFUYpyk55YwQi1JecSS"
@@ -13056,7 +13158,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 171706,
       "name": "Summer Ride - feat. \u00a5ellow Bucks",
       "url": "https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6"
@@ -13534,7 +13636,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 240166,
       "name": "THE REVO",
       "url": "https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h"
@@ -15290,6 +15392,24 @@
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
+    },
+    {
+      "album": {
+        "name": "ZIDANDA",
+        "url": "https://open.spotify.com/album/4taqmQVuJcAGHs3FjGnOEO"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "ZIDANDA",
+      "url": "https://open.spotify.com/track/1WnO4TBMUXaWVmEvEnYYsE"
     },
     {
       "album": {
@@ -17098,7 +17218,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 193400,
       "name": "\u3082\u3057\u3082\u306e\u304c\u305f\u308a",
       "url": "https://open.spotify.com/track/1wLrBCgGJcK5PNm0slZey9"
@@ -19597,6 +19717,28 @@
     },
     {
       "album": {
+        "name": "\u30d3\u30ea\u30d3\u30ea",
+        "url": "https://open.spotify.com/album/2tIYnKhuHx1IE8UvBKcl9W"
+      },
+      "artists": [
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        },
+        {
+          "name": "JESSE",
+          "url": "https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204863,
+      "name": "\u30d3\u30ea\u30d3\u30ea",
+      "url": "https://open.spotify.com/track/42SUu53IgJVMMA5Uux2NyK"
+    },
+    {
+      "album": {
         "name": "\u97ff",
         "url": "https://open.spotify.com/album/4ttLt1ZktC5gPJ0v4lzlm3"
       },
@@ -19652,6 +19794,24 @@
       "duration_ms": 220146,
       "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30ed\u30de\u30f3\u30b5\u30fc",
       "url": "https://open.spotify.com/track/63aIvzCIMfbE5H8ZcGXxNy"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/17ocFn4qlIefJ2jXudvGVt"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165189,
+      "name": "\u30d4\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/05G88tVpMwGWl9wlhzRcdD"
     },
     {
       "album": {
@@ -20568,7 +20728,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 215744,
       "name": "\u30e6\u30fc\u30d5\u30a9\u30fc\u3092\u898b\u306b\u3044\u3053\u3046",
       "url": "https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n"
@@ -21004,7 +21164,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 193000,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
       "url": "https://open.spotify.com/track/22pvB1aTKGV0YWSPnOEW1C"

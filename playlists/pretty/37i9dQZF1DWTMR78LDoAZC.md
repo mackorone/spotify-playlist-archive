@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Perfume Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,734 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,731 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

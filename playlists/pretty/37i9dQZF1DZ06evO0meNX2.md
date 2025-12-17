@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,738 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,761 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [Mimimi](https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mimimi](https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0) | 2:59 |
 | 50 | [El Motor](https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 2:59 |
 
-Snapshot ID: `aT3+AAAAAAAC3mgUNST3qFTDa7V25hvQ`
+Snapshot ID: `aT9PgAAAAAArxqLKCLtaTSJxfQxfGFwt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino, con Becky G en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,633,901 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,633,768 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

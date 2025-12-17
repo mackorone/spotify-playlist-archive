@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 532592,
+  "num_followers": 532854,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAARK8+a5d7FQ9w2cs65rdtp",
+  "snapshot_id": "aT9PgAAAAACEKpfYqBJo1HY68gBdshbG",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1969 - Siempre en Vivo Desde Monterrey, Parte 1",
-        "url": "https://open.spotify.com/album/34y1fpvbIDLpFoarLds4vo"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 30466,
-      "name": "Outro - En Vivo Desde Monterrey 2012",
-      "url": "https://open.spotify.com/track/5OcrFnx88HXpXago422tk4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Gran Se\u00f1ora (Banda)",
         "url": "https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 248000,
       "name": "El Amor (feat. Jenni Rivera)",
       "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1969 - Siempre en Vivo Desde Monterrey, Parte 1",
+        "url": "https://open.spotify.com/album/34y1fpvbIDLpFoarLds4vo"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 30466,
+      "name": "Outro - En Vivo Desde Monterrey 2012",
+      "url": "https://open.spotify.com/track/5OcrFnx88HXpXago422tk4"
     }
   ],
   "unique_name": "This Is Jenni Rivera",

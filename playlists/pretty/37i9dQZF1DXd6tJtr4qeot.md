@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > All the of punk rock that you need in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,332 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,301 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 19 | [All Day and All of the Night](https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:22 |
 | 20 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
 | 21 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 |
-| 22 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 |
-| 23 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
+| 22 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
+| 23 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 |
 | 24 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 25 | [High School Never Ends \- Main Version \- Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [The Great Burrito Extortion Case](https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2) | 3:29 |
 | 26 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 43 | [Vicious](https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 2:59 |
 | 44 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
 | 45 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
-| 46 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 47 | [Celebration Song](https://open.spotify.com/track/1uDhHTNIBF5BJQWTjKnCoa) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Here's To The Mourning](https://open.spotify.com/album/1RfWXKUSOPbeggQ04lXABC) | 3:40 |
+| 46 | [Celebration Song](https://open.spotify.com/track/1uDhHTNIBF5BJQWTjKnCoa) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Here's To The Mourning](https://open.spotify.com/album/1RfWXKUSOPbeggQ04lXABC) | 3:40 |
+| 47 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
 | 48 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:20 |
 | 49 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
 | 50 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |

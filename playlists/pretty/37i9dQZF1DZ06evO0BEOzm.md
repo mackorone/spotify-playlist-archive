@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,792 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,798 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/0W7R5wlb4rjvowSPOY7c8m) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 3:07 |
 | 50 | [Like a Freak](https://open.spotify.com/track/5xTmKnPWXX4FcYgpxjXTrD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:16 |
 
-Snapshot ID: `aT3+AAAAAABYkRRh7kTcFcmxrzxTdYNw`
+Snapshot ID: `aT9PgAAAAADSILowNKqAzPLHrAiGZJ8X`

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain](/playlists/plain/3S03NWbWkrR1e7DPH9rf9Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3S03NWbWkrR1e7DPH9rf9Z)
 
-### [Big Room 2025 🔥 Bigroom Mainstage](https://open.spotify.com/playlist/3S03NWbWkrR1e7DPH9rf9Z)
+### [Big Room 2026 🔥 Bigroom Mainstage](https://open.spotify.com/playlist/3S03NWbWkrR1e7DPH9rf9Z)
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 212,617 likes - 200 songs - 9 hr 50 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 212,610 likes - 200 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 | 199 | [Breathless](https://open.spotify.com/track/1kaKPvkPPFugFENneFGFUV) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [Skazi](https://open.spotify.com/artist/0YAmYesPdjvMPgnLKcDHR3) | [Breathless](https://open.spotify.com/album/0Pdpz82RXIEhEIyjpZbFkm) | 2:52 |
 | 200 | [We Are Free](https://open.spotify.com/track/36vCzShuqcVtAikqtpPTmT) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [We Are Free](https://open.spotify.com/album/3PynmYXtpWvXeiabyyBH6k) | 2:42 |
 
-Snapshot ID: `AAAV0Cr7eo/bEQUULV1ghLAQ740GzvSQ`
+Snapshot ID: `AAAV0V7N5Y8h48YG3uJUD26LcKL4PYgm`

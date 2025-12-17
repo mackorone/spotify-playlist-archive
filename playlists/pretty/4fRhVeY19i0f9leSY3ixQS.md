@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,061 likes - 278 songs - 16 hr 4 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,062 likes - 301 songs - 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -286,5 +286,28 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 276 | [It’s True, It’s True](https://open.spotify.com/track/3hrog7tImbKHvNMpH0PzGP) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:03 |
 | 277 | [Dance With Me](https://open.spotify.com/track/6OmQaUueJoPh8sPO4QnRi0) | [VƟIZ](https://open.spotify.com/artist/4iRLEpQZPZqtRG4TEROB5o) | [Dance With Me](https://open.spotify.com/album/7sHR6SRXD5QR84E2EiztUu) | 3:20 |
 | 278 | [Way She Goes](https://open.spotify.com/track/6RxRMnvwRMrygN4baCLMKb) | [KAY BRETTE](https://open.spotify.com/artist/5upymWMVUM7pZ2XvrUDyZo) | [Way She Goes](https://open.spotify.com/album/2Kc0j3Pq0ydAw6VlWU1GTK) | 3:31 |
+| 279 | [curveball](https://open.spotify.com/track/67kzadXXKhMDpXBmN0tqqD) | [Donzii](https://open.spotify.com/artist/6ezSXwGUhE3a3g6uEr38oU) | [curveball](https://open.spotify.com/album/4jcGuHtzWlzpZoGyvmsWfA) | 2:54 |
+| 280 | [Pure Connection](https://open.spotify.com/track/2QtjbnkPLZHdW378rFQYQe) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:08 |
+| 281 | [Straight Edging \- Live](https://open.spotify.com/track/1T6ZLrCMzvIyXqam5lfGoF) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Giant DeNiro \(Live\)](https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8) | 3:13 |
+| 282 | [Wasn't Born To Follow](https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [Wasn't Born To Follow](https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa) | 3:21 |
+| 283 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 |
+| 284 | [Alyssa](https://open.spotify.com/track/0HGOkwJzqaO6ilOTMNHk7C) | [Monolicht](https://open.spotify.com/artist/2RCneawcOEWUfUueJolrJN) | [Alyssa](https://open.spotify.com/album/5dM9t3adi7NlhXYtoVqozd) | 5:20 |
+| 285 | [Surrender](https://open.spotify.com/track/65kUw5myYaKQwQeBLfQdRF) | [ESCAPIST](https://open.spotify.com/artist/0gHf4UG4SWKibPdJvcT0Jp) | [Surrender](https://open.spotify.com/album/00pirzIp0hUasAcjGrNDy9) | 4:48 |
+| 286 | [Elons Neuragazm](https://open.spotify.com/track/3vuNKGnwDSYiIJNYByIaGO) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK), [Tom Hey](https://open.spotify.com/artist/0pE8OHVLedNBkAIjFdx3lS) | [Colonize Mars](https://open.spotify.com/album/0mGkAzYFpSo0HKxxON0wqS) | 2:34 |
+| 287 | [Biting Nails](https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Biting Nails](https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi) | 1:56 |
+| 288 | [Golden Bloom](https://open.spotify.com/track/6Ejw0TslqjsDLClAL3skkJ) | [Reverends](https://open.spotify.com/artist/7fHhc2SKnOHwFMjkr0TlCt) | [Golden Bloom](https://open.spotify.com/album/39PBq7PV4fgMRqBwMJdK7I) | 4:51 |
+| 289 | [Static](https://open.spotify.com/track/5pSR8SSwrjmBiLUj3QNMow) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:52 |
+| 290 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 |
+| 291 | [Bright Cage](https://open.spotify.com/track/1Ia9J1id6IATwq69K6lumD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Bright Cage](https://open.spotify.com/album/0YDGcRYWG4prbDIQgFSznC) | 5:22 |
+| 292 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 |
+| 293 | [Control Z](https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P) | 3:10 |
+| 294 | [Immortalized](https://open.spotify.com/track/4kk2VWSqNOb6vL7N0id4tn) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [Good for Nothing](https://open.spotify.com/album/1G7PsPs1tq25rNBTAPBSjr) | 3:18 |
+| 295 | [Ghost is Worn](https://open.spotify.com/track/4W10VgYJxuZHDNMkAFxGG7) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Ghost is Worn](https://open.spotify.com/album/2GXth5jI8gVaHj9usItgyF) | 2:51 |
+| 296 | [ponte a pensar](https://open.spotify.com/track/7lrX4uvZ2jAxkYztRmb9T6) | [MARCADODEESO](https://open.spotify.com/artist/6opl25ebP1jA6bVWfI21JL) | [ponte a pensar](https://open.spotify.com/album/1noVGcsDJs7DHKturu2d5J) | 3:36 |
+| 297 | [Stagnant](https://open.spotify.com/track/4KQy7bQLLzAitasfVzXUsI) | [The Ginger Twins](https://open.spotify.com/artist/2gjKEs7JL8SZxFCyDWWQiV) | [Stagnant](https://open.spotify.com/album/5ySuK3Ml7GLKyIqBhSP6wH) | 2:58 |
+| 298 | [Suits & Ties](https://open.spotify.com/track/0xdGJHJZTsMiLPeOSdgw44) | [Arcane Bloom](https://open.spotify.com/artist/20ynOuSCxqxVr8Bp8NgUMy) | [ONE WAY TICKET](https://open.spotify.com/album/7273XFCUKmNqzJnU7h1d4V) | 4:12 |
+| 299 | [Sleepless](https://open.spotify.com/track/4n2nKaVvxVhxFrcMYvpTMl) | [Video Store](https://open.spotify.com/artist/3NXHe22MQyzptnFeVFnU3S) | [Everything looks better at night](https://open.spotify.com/album/6ontrKAUA6W1pds4yBSgTl) | 3:41 |
+| 300 | [The Dominant](https://open.spotify.com/track/4zzlCCVf3tJiwwyaGpYTUo) | [Global Plague](https://open.spotify.com/artist/3l3qDiPbgEPAjeegMe88cV) | [The Dominant](https://open.spotify.com/album/4wcgqZHVG6EyyXnur9LbQU) | 2:17 |
+| 301 | [Fake Hippie](https://open.spotify.com/track/0tU2knWLxqTGkbpdzRzXeo) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 3:04 |
 
-Snapshot ID: `AAAIZ8Be45WkjoxmvSi5ERqsq5UNdTvY`
+Snapshot ID: `AAAIftZ01NBjwUJqJy9F/BgpSVMpHVjh`

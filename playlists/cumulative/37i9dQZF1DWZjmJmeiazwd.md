@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-585 songs - 1 day 10 hr 46 min
+587 songs - 1 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adrenaline](https://open.spotify.com/track/5iaTwwgtEyJ7cy6lLTlGBb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [...If You Don’t Save Yourself](https://open.spotify.com/album/3k7YVehp4DBwLxQlRAQOAL) | 3:24 | 2022-07-28 | 2023-12-19 |
 | [Afterlife](https://open.spotify.com/track/7ridH3hy4aXG6Kn1XomKrO) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [The Greatest Mistake of My Life](https://open.spotify.com/album/4qY3S2Iz6VpAa2EzhWkrpo) | 3:46 | 2022-04-22 | 2022-05-21 |
 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 | 2025-04-21 |  |
+| [Afterlife \(Gunship Remix\) \- Spotify Singles](https://open.spotify.com/track/0SOyTeewK1hwBvNuPONbwr) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Afterlife \(Gunship Remix\) \- Spotify Singles](https://open.spotify.com/album/3LyTuSkt83krM3FPHOyzHl) | 4:15 | 2025-12-16 |  |
 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 | 2020-06-29 | 2022-02-26 |
 | [Alive](https://open.spotify.com/track/2l1ZqaEr1fyFfHSudE7uSU) | [Tigress](https://open.spotify.com/artist/4wJ6pekF4hqpKdlXco2rJN) | [Human](https://open.spotify.com/album/7en8TRthEp3WueOnNV6zlN) | 2:47 | 2020-06-29 | 2022-07-29 |
 | [All I Want](https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [What Separates Me From You](https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm) | 3:22 | 2022-11-29 | 2023-11-18 |
@@ -247,6 +248,7 @@
 | [I CHANGED \(I'M UP\)](https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [THOSE WHO ARE AGAINST US ALL THE TIME](https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK) | 3:21 | 2025-12-02 |  |
 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 | 2020-06-29 | 2022-02-26 |
 | [I Hate You](https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [I Hate You](https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX) | 2:42 | 2022-05-20 | 2022-07-29 |
+| [I Really Want To Stay At Your House \- Spotify Singles](https://open.spotify.com/track/56ICLIImbKCDtbGoD9UaTk) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [I Really Want To Stay At Your House \(Spotify Singles\)](https://open.spotify.com/album/1ToZ7KGqlGlFoB0eelWFlB) | 3:56 | 2025-12-16 |  |
 | [I Wanna Know Your Name](https://open.spotify.com/track/19tXItIUKllqyQZSda7XWc) | [The Mock\-Ups](https://open.spotify.com/artist/4Wq4lfGxNIb0mhNNnL4ECh) | [I Wanna Know Your Name](https://open.spotify.com/album/6BZC4x2kAFdTiBdFLwal78) | 2:26 | 2025-09-19 | 2025-10-19 |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2024-01-19 |  |
 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 | 2025-02-21 |  |
@@ -326,7 +328,7 @@
 | [Ludens](https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Ludens](https://open.spotify.com/album/4IojpVltvdlDvlQ6uC6iVW) | 4:40 | 2020-06-29 | 2024-06-15 |
 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 | 2020-06-29 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-07-12 | 2025-01-22 |
-| [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 | 2025-02-21 |  |
+| [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 | 2025-02-21 | 2025-12-17 |
 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 | 2025-10-10 |  |
 | [Massacre, The New American Dream](https://open.spotify.com/track/0NflwidhwbOHB9tBesSQrx) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Massacre, The New American Dream](https://open.spotify.com/album/5fx7p0vA2al3xUtzHRUJ6N) | 3:05 | 2020-06-29 | 2022-07-29 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-06-16 | 2022-11-07 |
@@ -394,7 +396,7 @@
 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 | 2020-06-29 |  |
 | [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-06-14 | 2025-02-28 |
 | [Pray To The Hunter \- The Elder Scrolls Online](https://open.spotify.com/track/6HydrRCoO5kRpB7a7XeK05) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Pray To The Hunter \(The Elder Scrolls Online\)](https://open.spotify.com/album/1gS2HRB3La2cwpovw1Jr7n) | 3:53 | 2022-06-10 | 2025-04-17 |
-| [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-19 |  |
+| [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-19 | 2025-12-17 |
 | [Promise Everything](https://open.spotify.com/track/2KerlpO7VnoIiE69HUiiro) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything](https://open.spotify.com/album/4d0pAmKRk2SfZtSXg5eSgv) | 2:36 | 2020-06-29 | 2022-07-27 |
 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 | 2024-01-12 | 2025-09-20 |
 | [PSYCHO](https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [PSYCHO](https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd) | 3:18 | 2024-07-12 | 2024-09-28 |

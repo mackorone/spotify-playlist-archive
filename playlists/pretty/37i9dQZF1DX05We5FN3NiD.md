@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > The Indie highlights of 2019\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,867 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,875 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 8 | [Happiness is a butterfly](https://open.spotify.com/track/3lG6OtGDsYAOALxEmubQQm) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:32 |
 | 9 | [Seventeen](https://open.spotify.com/track/7yMYqHqzye8vtyiHqdVlZw) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/2dvXk4nacVRmDSnbKniwrS) | 4:25 |
 | 10 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
-| 11 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
-| 12 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
+| 11 | [Imagination](https://open.spotify.com/track/2flxduIqEbsicdmPyj1WVW) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Imagination](https://open.spotify.com/album/5LbiR8iqC4hYeIKifnmVqc) | 4:16 |
+| 12 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 |
 | 13 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
 | 14 | [Remember When](https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:35 |
 | 15 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 61 | [You Had Your Soul With You](https://open.spotify.com/track/5cBrqDgmdbgH6ncuy1hGDs) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:26 |
 | 62 | [Bad To Worse](https://open.spotify.com/track/4nxz8xCp2BFPdZLqKNyUN8) | [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Superbloom](https://open.spotify.com/album/0FV6wApDnoIGhEbS3DzZi4) | 4:18 |
 | 63 | [Your Light](https://open.spotify.com/track/6vYRwtuNmaQJg7SlcrMdPs) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Your Light](https://open.spotify.com/album/08Ry44RWNOnXiw7gZlBXkg) | 5:07 |
-| 64 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
-| 65 | [The Barrel](https://open.spotify.com/track/1Z7AGDlHCGjOOOF6sc4OMr) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:59 |
+| 64 | [The Barrel](https://open.spotify.com/track/1Z7AGDlHCGjOOOF6sc4OMr) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/5KIGF4CBVpQv2NknBTa3Gu) | 4:59 |
+| 65 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 66 | [bad idea!](https://open.spotify.com/track/1M4Ud66z18wuIq3oOxqVHa) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/6riOnMD3YhF8kGpAXpxbdj) | 3:39 |
 | 67 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 |
 | 68 | [Let You Know](https://open.spotify.com/track/7p0tz5SeCrSxTLSvwR8W3D) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Let You Know](https://open.spotify.com/album/0JWZvxiJLvRQwqKL2IhcD0) | 3:19 |
-| 69 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
-| 70 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
+| 69 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 |
+| 70 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
 | 71 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 |
 | 72 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 |
 | 73 | [Friends](https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Friends](https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz) | 3:43 |

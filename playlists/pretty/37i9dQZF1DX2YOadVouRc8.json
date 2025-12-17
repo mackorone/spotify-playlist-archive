@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 42936,
+  "num_followers": 42957,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 195816,
       "name": "Verily",
       "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     }
   ],
   "unique_name": "Afro Chill",

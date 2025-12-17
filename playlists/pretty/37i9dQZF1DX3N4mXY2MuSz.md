@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,116 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,436 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 40 | [Jingle Bells \- Punk Rock Version](https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Henry Rollins](https://open.spotify.com/artist/6Jm8KViMNCuYjzrO1hJkcT) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 3:19 |
 | 41 | [Holiday Records](https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Holiday Records](https://open.spotify.com/album/4xrqHer0s9cTXkL0VyGgYx) | 3:03 |
 | 42 | [Please Come Home for Christmas](https://open.spotify.com/track/2S8rCnJHO2Gbj6648CrDyf) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Punk Rock Christmas](https://open.spotify.com/album/0t4F6flsnJPTxR6sJOzE2X) | 2:02 |
-| 43 | [Christmas Vacation](https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:39 |
-| 44 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [A Kamakazi Christmas](https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
+| 43 | [It's Beginning to Look a Lot Like Shitmas](https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d) | [A Kamakazi Christmas](https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR) | [A More Angry Than Naughty Kamakazi Christmas](https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk) | 0:52 |
+| 44 | [Christmas Vacation](https://open.spotify.com/track/2adeKu82XJFCPInfady2Gt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:39 |
 | 45 | [Merry Flippin' Christmas \(Happy Freakin' New Year\)](https://open.spotify.com/track/5vcL0Ml7xEiZysuAMmK4zF) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Merry Flippin' Christmas Vol\. 1 and 2](https://open.spotify.com/album/6tGUcaUMbNomtYJrYNLlmj) | 2:44 |
 | 46 | [Rudy Christmas A Jail](https://open.spotify.com/track/1iICcD096UT9ckrlTent5j) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Christma\-ska](https://open.spotify.com/album/01WaNurRP5USodwR1m67tU) | 2:39 |
 | 47 | [Black Christmas](https://open.spotify.com/track/4KBMP1TjinUxc6HAZZU51L) | [Poly Styrene](https://open.spotify.com/artist/13atKTjsSA6qCKesNBBQXq) | [Black Christmas](https://open.spotify.com/album/3AiM0vW6bds2RNDKIgHZY9) | 3:23 |

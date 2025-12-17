@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 61443,
+  "num_followers": 61465,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABdq80ZpU/AUfLbX/uEbHS2",
+  "snapshot_id": "aT9PgAAAAABzeHlHxcQN/P8U0cH4E6V4",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,26 @@
       "duration_ms": 183400,
       "name": "Los Genios de la Botella - Remix Gambeta",
       "url": "https://open.spotify.com/track/7kBckkrfCOkhmgiWkxxKiB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estetograma",
+        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Estetograma",
+      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
     },
     {
       "added_at": null,

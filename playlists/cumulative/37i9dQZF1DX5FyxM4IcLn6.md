@@ -4,7 +4,7 @@
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-882 songs - 2 day 11 hr 9 min
+883 songs - 2 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-11-08 | 2025-11-08 |
 | [guidance](https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [guidance](https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs) | 3:35 | 2024-11-08 | 2025-11-08 |
 | [Guinnevere](https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ) | 10:53 | 2021-03-10 | 2022-03-30 |
+| [Hallelujah](https://open.spotify.com/track/7KCJoT0jvvnQ9Bs6CUIvlN) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love](https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5) | 6:45 | 2025-11-12 |  |
 | [Handel: Agrippina, HWV 6: Sinfonia](https://open.spotify.com/track/3bhvFxavNxwoo7mG1xdj2l) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Joyce DiDonato](https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE), [Maxim Emelyanychev](https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Handel: Agrippina](https://open.spotify.com/album/5LFC0Mw8mAidV9m5iLPyYE) | 3:37 | 2021-03-10 | 2022-03-30 |
 | [Happens to the Heart](https://open.spotify.com/track/2DkpoHJ1h88e9dyc6SFIm2) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Thanks for the Dance](https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb) | 4:33 | 2021-03-10 | 2022-03-30 |
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2022-03-29 | 2022-11-24 |
@@ -471,7 +472,7 @@
 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 | 2022-11-24 | 2023-08-05 |
 | [Loading](https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Loading](https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0) | 4:44 | 2023-11-10 | 2024-11-09 |
 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 | 2021-03-10 | 2022-03-30 |
-| [LONELY AVENUE \(feat\. Randy Newman\)](https://open.spotify.com/track/1PynLU5Ki2eCwmGIM7cGcU) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 3:40 | 2025-11-07 |  |
+| [LONELY AVENUE \(feat\. Randy Newman\)](https://open.spotify.com/track/1PynLU5Ki2eCwmGIM7cGcU) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 3:40 | 2025-11-07 | 2025-12-17 |
 | [LORD FORGIVE ME](https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 3:24 | 2022-11-24 | 2023-11-11 |
 | [Lord Send Revival \- Live](https://open.spotify.com/track/2bwhBn3W0xFftyRu6mBdDZ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends](https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO) | 6:44 | 2021-03-10 | 2022-03-30 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-11-08 | 2025-11-08 |

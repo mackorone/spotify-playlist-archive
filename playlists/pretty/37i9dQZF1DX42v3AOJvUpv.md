@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,790 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,793 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 46 | [Empire State](https://open.spotify.com/track/6z6kzUXX7kw93lDf84ofIX) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Fabiana Cantilo y Los Perros Calientes \(Remastered\)](https://open.spotify.com/album/3oa1nnrWDy6CfdZx7VooQt) | 2:52 |
 | 47 | [Solo En Una Noche De Jazz](https://open.spotify.com/track/7nZvD8LeEV8S6LFvUPZjPW) | [Identikit](https://open.spotify.com/artist/5v4okqoEFb82y0x5WnJg5i) | [Identikit](https://open.spotify.com/album/4QW2T17PbPWQUAG6A2vMjy) | 3:16 |
 | 48 | [La Bestia Pop](https://open.spotify.com/track/5WeBnrDPyLhxruxVryHCkn) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Gulp!](https://open.spotify.com/album/5UATn22oJa1cBrnbnZ88eA) | 4:07 |
-| 49 | [No Me Dejan Salir](https://open.spotify.com/track/1D4tG72gv14PUOULq956MC) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/096OFfKPOmDcri7OsQkEga) | 4:23 |
+| 49 | [Sin Gamulán](https://open.spotify.com/track/0XYQ2iZKwBWmO0cs86fx9j) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Abuelos 1982 / 1987](https://open.spotify.com/album/5wOUXzZWvXZUGk1SfMOenf) | 3:12 |
 | 50 | [Exhibición Condicionada \- Remastered 2017](https://open.spotify.com/track/1CJjSh11qRfVtlu291T8LO) | [Graffiti](https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj) | [Exhibición Condicionada \(Remastered 2017\)](https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o) | 3:58 |
 
 Snapshot ID: `AAAAAKraWAnd0mymWHxxH4NjnDAXtf+8`

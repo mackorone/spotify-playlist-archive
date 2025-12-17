@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,848 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,831 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 35 | [you and me eternal summer \(feat\. Jin Hwi PARK\)](https://open.spotify.com/track/4tn2F1d9H1uFn0mCbaRbp0) | [Choi Yoon Young](https://open.spotify.com/artist/2SAaO0ut9ykA6nsqWl2wXg), [jin hwi Park](https://open.spotify.com/artist/3N8d18Fo639EVPilBSukBx) | [you and me eternal summer \(feat\. Jin Hwi PARK\)](https://open.spotify.com/album/48uHd68qRAU8PtzlI25KPG) | 4:24 |
 | 36 | [Mouse](https://open.spotify.com/track/3Xz3KJ4ZsFmiwRcrzuXV3m) | [Lee go do](https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm) | [Mouse](https://open.spotify.com/album/7qOgTG0UtYwFhp2SDJb5bs) | 3:58 |
 | 37 | [boy](https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:53 |
-| 38 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 |
-| 39 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
+| 38 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
+| 39 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 |
 | 40 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
 | 41 | [want YOU](https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w) | [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU) | [want YOU](https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1) | 2:34 |
 | 42 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 47 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 48 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 |
 | 49 | [나는 볼 수 없던 이야기](https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [로맨스는 별책부록 OST Part.1](https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R) | 3:44 |
-| 50 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
+| 50 | [Smile for me](https://open.spotify.com/track/6xDaCAazC3QiKNj2hpr4yM) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [Motel California OST Part.5](https://open.spotify.com/album/0M5gdfhPsi2g6FAoBWludH) | 3:35 |
 
 Snapshot ID: `AAAAAD+Fvyan/QL8L+PYHZ64AgSVg+ec`

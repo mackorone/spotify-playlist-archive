@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABDNKur81I+R73QOikuWLJd",
+  "snapshot_id": "aT9PgAAAAADjGwMnZSiP5M4S8peH4iJB",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 334840,
+      "name": "Obra Prima",
+      "url": "https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cad\u00ea o vencedor?",
         "url": "https://open.spotify.com/album/07yxyLlox691nqPNZDyvNq"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 222602,
       "name": "N\u00e3o pare (Participa\u00e7\u00e3o especial de Damares)",
       "url": "https://open.spotify.com/track/1vZgOwVMWo33msljJa4h5t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 334840,
-      "name": "Obra Prima",
-      "url": "https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TAEYEON
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: GPP
 
 1,632 songs - 3 day 14 hr 25 min
 

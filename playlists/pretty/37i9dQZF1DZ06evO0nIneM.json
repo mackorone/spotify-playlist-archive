@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92995,
+  "num_followers": 93001,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACbw9U7kYV4eF1L6UazwjnL",
+  "snapshot_id": "aT9PgAAAAADfdHVG7Vu26IPBCj2irQUH",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Berlijn",
         "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alles Blijft Anders",
+        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 365026,
+      "name": "Was Je Maar Hier",
+      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Umoja",
         "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
       },
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Blijft Anders",
-        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 365026,
-      "name": "Was Je Maar Hier",
-      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Op Concert At Sea 2023",
+        "url": "https://open.spotify.com/album/2o19Ls84H4haIAYaO65a1S"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Spijt Heb Je Morgen Maar (Live op Concert at SEA 2023)",
+      "url": "https://open.spotify.com/track/3NuhiR3IqVg55Jw6inh2jx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 198826,
       "name": "Vroeg of Laat",
       "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live Op Concert At Sea 2023",
-        "url": "https://open.spotify.com/album/2o19Ls84H4haIAYaO65a1S"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Spijt Heb Je Morgen Maar (Live op Concert at SEA 2023)",
-      "url": "https://open.spotify.com/track/3NuhiR3IqVg55Jw6inh2jx"
     },
     {
       "added_at": null,

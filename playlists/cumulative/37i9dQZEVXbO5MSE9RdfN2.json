@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "..FEISTY",
+      "url": "https://open.spotify.com/track/0aXembK4QS3tJl5qv5sIrA"
+    },
+    {
+      "album": {
         "name": "1 AM",
         "url": "https://open.spotify.com/album/0ebGXft8hjxmul9DxLK4bJ"
       },
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 154990,
       "name": "99 Eyes",
       "url": "https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg"
@@ -2140,7 +2162,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 193901,
       "name": "All I Really Want",
       "url": "https://open.spotify.com/track/0EQL9rp9Y1a8j7MfEmq62Q"
@@ -5962,7 +5984,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 158838,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/0l6JC8K9Z4n9Gj4KBfgSvA"
@@ -9714,6 +9736,24 @@
       "duration_ms": 221711,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/5E2y5TSb2RJNCO01QjkgLf"
+    },
+    {
+      "album": {
+        "name": "Days Like This",
+        "url": "https://open.spotify.com/album/5vFiOscQdWP3U1xs2h7crJ"
+      },
+      "artists": [
+        {
+          "name": "Late Night Thoughts",
+          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174775,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/0M1evXRJCazgbsSjloZ8yh"
     },
     {
       "album": {
@@ -13552,7 +13592,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 377098,
       "name": "For Good",
       "url": "https://open.spotify.com/track/6Axf4FwBQvgcKzRwfm458N"
@@ -14590,6 +14630,36 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3bJrWZqxmil3GHBrIN5ZXU"
+    },
+    {
+      "album": {
+        "name": "Gehra Hua (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362400,
+      "name": "Gehra Hua (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
     },
     {
       "album": {
@@ -15778,6 +15848,24 @@
       "duration_ms": 199690,
       "name": "gossip",
       "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
+    },
+    {
+      "album": {
+        "name": "gravity",
+        "url": "https://open.spotify.com/album/5Qix5py1APgc81jMkA9uTd"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "gravity",
+      "url": "https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"
     },
     {
       "album": {
@@ -19417,6 +19505,28 @@
     },
     {
       "album": {
+        "name": "i think i'm addicted",
+        "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        },
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "i think i'm addicted",
+      "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
+    },
+    {
+      "album": {
         "name": "I Think They Call This Love",
         "url": "https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu"
       },
@@ -19852,6 +19962,24 @@
       "duration_ms": 139429,
       "name": "I'm Not There For You",
       "url": "https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp"
+    },
+    {
+      "album": {
+        "name": "I'm On Fire (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/52IclF8hrZg23Fg9AtOOOn"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226246,
+      "name": "I'm On Fire - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6CwpCPP44q3C2E5LcTNGxA"
     },
     {
       "album": {
@@ -24550,7 +24678,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 124462,
       "name": "Love In A Bottle",
       "url": "https://open.spotify.com/track/7u3BVQ9DG1KA9c3Q8W3BLr"
@@ -35984,7 +36112,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 247586,
       "name": "Silence - Dimension Remix",
       "url": "https://open.spotify.com/track/2AUVVfU9CmmbWcudIAJ5vD"
@@ -37442,7 +37570,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 247280,
       "name": "Stand By Me - Live at The Print Shop",
       "url": "https://open.spotify.com/track/72RX8sK4OKFnUX2MBDOdBD"
@@ -40618,7 +40746,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"

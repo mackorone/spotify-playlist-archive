@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,707 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,731 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 85 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 86 | [Lost \(feat\. The Kid LAROI\)](https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Different Night Same Rodeo](https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P) | 3:16 |
 | 87 | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/track/4cLC8gydI0O78g8chZugS4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hard Fought Hallelujah \(with Jelly Roll\)](https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY) | 5:16 |
-| 88 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
+| 88 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
 | 89 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 |
 | 90 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 91 | [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 |
 | 92 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/6p6iLtRA7a93kXhkomJUPo) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:06 |
-| 93 | [Smile](https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Smile](https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX) | 3:44 |
+| 93 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 |
 | 94 | [OIL MONEY](https://open.spotify.com/track/1HZECMqLKSh22jwPv3yRYm) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [OIL MONEY](https://open.spotify.com/album/75bYoZnWWvzPWIQgTDuSFx) | 2:58 |
 | 95 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 96 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |

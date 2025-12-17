@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 115285,
+  "num_followers": 115412,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Jolie",
+        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "Jolie",
+      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Jolie",
-        "url": "https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "Jolie",
-      "url": "https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -295,18 +295,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Unintentional",
-        "url": "https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb"
+        "name": "[I.N.I.T] In Nasboi I Trust",
+        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
       "artists": [
         {
-          "name": "Njerae",
-          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+          "name": "Nasboi",
+          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 183031,
-      "name": "Aki Sioni",
-      "url": "https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e"
+      "duration_ms": 137962,
+      "name": "Could This Be Love",
+      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -327,22 +331,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "[I.N.I.T] In Nasboi I Trust",
-        "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
+        "name": "Unintentional",
+        "url": "https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb"
       },
       "artists": [
         {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
         }
       ],
-      "duration_ms": 137962,
-      "name": "Could This Be Love",
-      "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
+      "duration_ms": 183031,
+      "name": "Aki Sioni",
+      "url": "https://open.spotify.com/track/0U9jyVnEkmWryh7sJpMS5e"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -683,6 +683,30 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "To the World & Beyond",
+        "url": "https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Simmy",
+          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "Kwalula",
+      "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Imizwa",
         "url": "https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 335466,
       "name": "Easy to Love",
       "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "To the World & Beyond",
-        "url": "https://open.spotify.com/album/7gERIWecqik3KK62zUvXJc"
-      },
-      "artists": [
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "Simmy",
-          "url": "https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "Kwalula",
-      "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
-      },
-      "artists": [
-        {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
-        }
-      ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "uThando",
         "url": "https://open.spotify.com/album/3iFIu4LucpvAw23loKDVOk"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 484285,
       "name": "uThando",
       "url": "https://open.spotify.com/track/17gVmpZcORWwkNnDLoqgC2"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+        }
+      ],
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
-      },
-      "artists": [
-        {
-          "name": "Internet Athi",
-          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
-        }
-      ],
-      "duration_ms": 270652,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
       },
       "artists": [
         {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+          "name": "Internet Athi",
+          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
         }
       ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+      "duration_ms": 270652,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1179,6 +1163,22 @@
       "duration_ms": 212009,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/6yQoz9BSOipTVzIsvngIYl"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "More Of You",
-        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "More Of You",
-      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Songs in The Key of Love",
         "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 222000,
       "name": "Ndicel'ikiss",
       "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL"
     },
     {
       "added_at": "2025-07-11 08:09:25",

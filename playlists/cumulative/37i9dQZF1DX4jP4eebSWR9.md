@@ -2,15 +2,16 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Kraftklub
+> 50 Hits in einer Playlist! Cover: Olivia Dean
 
-299 songs - 14 hr 14 min
+300 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Unzensiert](https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0) | 3:42 | 2025-11-04 | 2025-12-10 |
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-09-09 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-19 | 2024-12-12 |
+| [24K \(Ohne Tabak\)](https://open.spotify.com/track/595xnaJaD21Uqfy9lo1fkI) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [24K \(Ohne Tabak\)](https://open.spotify.com/album/2w7CPbGvmoqQhFhKPNAf05) | 1:42 | 2025-12-16 |  |
 | [25grad](https://open.spotify.com/track/5UCcH62PMCio1kiV14zcEU) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [25grad](https://open.spotify.com/album/5wWy3JKVtp8E70RHHWtjjc) | 1:50 | 2025-05-13 | 2025-06-11 |
 | [3 Uhr Nachts](https://open.spotify.com/track/3UYxIENAasKz3LVwOnTeLX) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [3 Uhr Nachts](https://open.spotify.com/album/7jNfteIpvg0fWLB3HVJu2a) | 2:11 | 2025-09-05 |  |
 | [30 mal am Tag](https://open.spotify.com/track/7qDxU1TuxrCBTWs0FrRQj8) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [30 mal am Tag](https://open.spotify.com/album/7c5AP8EY2Ra1ufcizYCfVb) | 2:31 | 2025-07-29 | 2025-09-17 |
@@ -243,7 +244,7 @@
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-04-22 | 2025-09-17 |
 | [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-28 | 2025-02-26 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-09-10 | 2024-11-20 |
-| [step up](https://open.spotify.com/track/4KkZR2L1iDl2f9Oi8UyaH2) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [junge ceos 1](https://open.spotify.com/album/5TBmws55nbERqZgYuoY4uB) | 1:32 | 2025-11-26 |  |
+| [step up](https://open.spotify.com/track/4KkZR2L1iDl2f9Oi8UyaH2) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [junge ceos 1](https://open.spotify.com/album/5TBmws55nbERqZgYuoY4uB) | 1:32 | 2025-11-26 | 2025-12-17 |
 | [STREIT](https://open.spotify.com/track/2uj2UZwhooohVKQREM7Wx8) | [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [STREIT](https://open.spotify.com/album/7eLC3rF5nbATqQQrA2zUYz) | 3:32 | 2025-03-12 | 2025-06-11 |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-09-23 | 2025-11-27 |
 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 | 2025-07-01 | 2025-07-16 |

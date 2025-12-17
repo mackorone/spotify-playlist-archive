@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Hazar Altın
 
-454 songs - 22 hr 48 min
+455 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Her İki Durumda](https://open.spotify.com/track/0UCXX2vvVqhoFVdFL4XZa5) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Her İki Durumda](https://open.spotify.com/album/4O8buhpWrEtD6bvEeoGf8o) | 3:10 | 2025-09-04 |  |
 | [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 | 2025-09-25 | 2025-10-10 |
 | [Herhalde](https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Herhalde](https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO) | 4:32 | 2024-06-27 | 2025-08-10 |
+| [Herkes Gibi](https://open.spotify.com/track/6zBdAOcSXzPiwxXllOlZmp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Herkes Gibi](https://open.spotify.com/album/2FzyGoAXFyzdlLemRucz7F) | 2:59 | 2025-12-11 |  |
 | [Heyecan](https://open.spotify.com/track/7L3GLSWe2zd1YPwHLxJvR7) | [Tefo](https://open.spotify.com/artist/5bKfDewWHUg0VqXqRX1low), [Seko](https://open.spotify.com/artist/5ExPDJ7ouyX5oURLZ7VcAh), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Heyecan](https://open.spotify.com/album/2E94wziZW75uLBhC4P71gh) | 2:50 | 2025-07-31 |  |
 | [Hiç De Öyle Olmadı](https://open.spotify.com/track/5A6w9QZiCTTyS799dfHDeF) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 2:41 | 2025-08-21 | 2025-10-17 |
 | [HODRİ MEYDAN](https://open.spotify.com/track/7IVyGl2LapK633TQEhn6rz) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [HODRİ MEYDAN](https://open.spotify.com/album/3jwcQNmy7GNGjY3gfQ4PTZ) | 2:00 | 2024-12-19 | 2025-03-03 |
@@ -367,7 +368,7 @@
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
 | [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 | 2025-12-11 |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 | 2025-12-13 |
-| [Tam Da Şu Anda](https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Tam Da Şu Anda](https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt) | 2:19 | 2025-05-01 |  |
+| [Tam Da Şu Anda](https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Tam Da Şu Anda](https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt) | 2:19 | 2025-05-01 | 2025-12-17 |
 | [Tane Tane](https://open.spotify.com/track/0vaQeqqDD8f6Bx5IZWg2Ld) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [\#SOLO](https://open.spotify.com/album/0JZ9dahUOYdeNATgNMLvwS) | 2:40 | 2025-11-13 |  |
 | [Tanrıçalar Memleketi \- Yenge](https://open.spotify.com/track/1Ryq7tkaCuKbwNvE62Nhgm) | [Ceylan Ertem](https://open.spotify.com/artist/2crPPfVdmrxn5yUHLQVqOI) | [Sana Rağmen](https://open.spotify.com/album/12l5mGd9dNfG2BsFYQ76gE) | 3:14 | 2025-02-06 | 2025-03-03 |
 | [Tavan](https://open.spotify.com/track/5sv3lmlUBl6A8A7W9H3ZEg) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Tavan](https://open.spotify.com/album/4n9WkOP2pL03tFdRCgidvb) | 3:43 | 2024-08-22 | 2024-08-27 |

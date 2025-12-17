@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 228243,
+  "num_followers": 228260,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAcqR3YxgaiNMKF+suk4UAk",
+  "snapshot_id": "aT9PgAAAAADUctRVY1AA2S1qCRUjtuKO",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From Day 1",
         "url": "https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 211293,
       "name": "Ayy Ladies (feat. Tyga)",
       "url": "https://open.spotify.com/track/4P6BuLsqtg5uISdE77ypI9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop It Off",
-        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Pop It Off",
-      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 145813,
       "name": "Blessed (with Tyga)",
       "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop It Off",
+        "url": "https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Pop It Off",
+      "url": "https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL"
     },
     {
       "added_at": null,

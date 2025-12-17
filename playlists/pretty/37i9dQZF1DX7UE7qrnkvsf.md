@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,403 likes - 200 songs - 11 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,398 likes - 200 songs - 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 | 199 | [Someone To Watch Over Me](https://open.spotify.com/track/6idTshNWsrWkNUrJYgzs3v) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 4:08 |
 | 200 | [Simple Pleasures](https://open.spotify.com/track/6T8bDagGPseQN443XT93yr) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Simple Pleasures](https://open.spotify.com/album/7y61HScW0XVioiqKAIakYy) | 4:51 |
 
-Snapshot ID: `AAAAAEQCB/oMm+A8xDWMpUF8obuQX6l7`
+Snapshot ID: `AAAAAPXIVctffdaPMpi66vhBSXpIyDgT`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 707232,
+  "num_followers": 707305,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAVHt0siWxzGKyEqdRlI4ZC",
+  "snapshot_id": "aT9PgAAAAAA0Q64rNi4p/XLyJTo5TP5D",
   "tracks": [
     {
       "added_at": null,
@@ -983,26 +983,6 @@
       "duration_ms": 156173,
       "name": "On The Road Again - Live",
       "url": "https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Small Town Hypocrite",
-        "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 241899,
-      "name": "Small Town Hypocrite",
-      "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
     }
   ],
   "unique_name": "This Is Chris Stapleton",

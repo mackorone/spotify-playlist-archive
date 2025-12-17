@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > ¡Las mujeres de la Música Mexicana! Yuridia en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,664 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,703 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 12 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 |
 | 13 | [Déjame Vivir \(with Juan Gabriel\)](https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 3:42 |
 | 14 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 |
-| 15 | [Besos Y Copas](https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:02 |
-| 16 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
+| 15 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
+| 16 | [Besos Y Copas](https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:02 |
 | 17 | [Qué Manera de Perder](https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:28 |
 | 18 | [Dos Gotas De Agua](https://open.spotify.com/track/7iQe3AR9ZsQpJ2OEzQBV6u) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 2:31 |
 | 19 | [Si No Piensas Cambiar](https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 4:17 |

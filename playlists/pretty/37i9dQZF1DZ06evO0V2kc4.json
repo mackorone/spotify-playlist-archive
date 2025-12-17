@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73294,
+  "num_followers": 73304,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADHJ2M+cLYzDZuNZwDQEued",
+  "snapshot_id": "aT9PgAAAAABWMbhTvQYGwvhnuHDArpMd",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
-        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+        "name": "No Kings (feat. Joan Baez)",
+        "url": "https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
         },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 231773,
-      "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
-      "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
+      "duration_ms": 171706,
+      "name": "No Kings (feat. Joan Baez)",
+      "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
     },
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
+        "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
+      "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Gold Castle Masters",
         "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 306120,
       "name": "Brothers in Arms",
       "url": "https://open.spotify.com/track/4xFsqBho4pb6caTAredS1r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Kings (feat. Joan Baez)",
-        "url": "https://open.spotify.com/album/6XJBVOUONYdjZWLio9emIz"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        },
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "No Kings (feat. Joan Baez)",
-      "url": "https://open.spotify.com/track/3TQeJtbJjv8Q4V0a7f5NvT"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 268173,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 139240,
       "name": "Daddy, You Been On My Mind",
       "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 268173,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
     },
     {
       "added_at": null,
@@ -546,11 +546,15 @@
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mimi Fari\u00f1a",
+          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Joe Hill - Live",
-      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+      "duration_ms": 281000,
+      "name": "I Am A Poor Wayfaring Stranger",
+      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
     },
     {
       "added_at": null,
@@ -610,15 +614,11 @@
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Mimi Fari\u00f1a",
-          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
         }
       ],
-      "duration_ms": 281000,
-      "name": "I Am A Poor Wayfaring Stranger",
-      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
+      "duration_ms": 181000,
+      "name": "Joe Hill - Live",
+      "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 263893,
-      "name": "Prison Trilogy (Billy Rose)",
-      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
     },
     {
       "added_at": null,

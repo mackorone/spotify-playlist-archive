@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,553 likes - 90 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,630 likes - 90 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 45 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 |
 | 46 | [Cuando Nos Volvamos a Encontrar \(feat\. Marc Anthony\)](https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Más + Corazón Profundo](https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX) | 4:38 |
 | 47 | [Cuando Calienta El Sol](https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:56 |
-| 48 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 49 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 48 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
+| 49 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
 | 50 | [Amor Secreto](https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:04 |
 | 51 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
 | 52 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
-| 53 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
-| 54 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
+| 53 | [Es Mejor Así](https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Un Segundo En El Tiempo](https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw) | 3:57 |
+| 54 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
 | 55 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
 | 56 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 57 | [Los Caminos De La Vida](https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5) | [La Tropa Vallenata](https://open.spotify.com/artist/6ESzKdcEDKvhUek4ZaHruk) | [Los Caminos De La Vida](https://open.spotify.com/album/2I72wA4qxK4ur3biscv0hv) | 4:51 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bl63ywBBgC.md) - [plain]
 | 69 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 70 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 71 | [A Donde Iras Ahora](https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3) | [Campeche Show](https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh) | [30 Aniversario \(Edición Limitada\)](https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG) | 3:05 |
-| 72 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
-| 73 | [Como Tú](https://open.spotify.com/track/1Zv7PhLP7ohXZ2rIrsnT3R) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La Vida Al Viento](https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp) | 3:37 |
+| 72 | [Como Tú](https://open.spotify.com/track/1Zv7PhLP7ohXZ2rIrsnT3R) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [La Vida Al Viento](https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp) | 3:37 |
+| 73 | [Cara de Niño](https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:56 |
 | 74 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 75 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 76 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |

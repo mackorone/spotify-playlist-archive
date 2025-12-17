@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,378 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,401 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 46 | [Complicated \(with Fridayy\)](https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Complicated \(with Fridayy\)](https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3) | 4:30 |
 | 47 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 |
 | 48 | [Thus Far](https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs) | [Colours of the Sky](https://open.spotify.com/album/79F4YnYB1ZN0eo4baMeLh5) | 3:51 |
-| 49 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
-| 50 | [Gaze Up \(feat\. Antonio Blakstad\)](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE), [Antonio Blakstad](https://open.spotify.com/artist/5aNIhH9sWOZyV7T0uWc855) | [Gaze Up \(feat\. Antonio Blakstad\)](https://open.spotify.com/album/7bcIfbUsLbnYABJtgIocC7) | 3:30 |
+| 49 | [Gaze Up \(feat\. Antonio Blakstad\)](https://open.spotify.com/track/0TpGRIvJhZuNpGbZ79nM2d) | [Rosbeh](https://open.spotify.com/artist/3TvVhn8o9gFioBKqBxEScE), [Antonio Blakstad](https://open.spotify.com/artist/5aNIhH9sWOZyV7T0uWc855) | [Gaze Up \(feat\. Antonio Blakstad\)](https://open.spotify.com/album/7bcIfbUsLbnYABJtgIocC7) | 3:30 |
+| 50 | [Under The Surface](https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Under The Surface](https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1) | 5:24 |
 
 Snapshot ID: `AAAAADXiggjAmXFsW6PMBSwX/5ux6qj8`

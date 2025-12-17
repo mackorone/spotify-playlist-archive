@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to keep the vibes chill. \n",
-  "num_followers": 49707,
+  "num_followers": 49772,
   "original_name": "Boom Bap Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDoMkdoNhWlch0au6kZaUdh+0Ln",
+  "snapshot_id": "AAAAAH7mp3suwO3ulQrjmSh141kFPiAW",
   "tracks": [
     {
       "added_at": "2024-06-24 18:43:09",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl"
     },
     {
+      "added_at": "2024-12-16 17:37:39",
+      "album": {
+        "name": "Short Stories #8",
+        "url": "https://open.spotify.com/album/6UL8DzD1lwGsePfoZpt6Ky"
+      },
+      "artists": [
+        {
+          "name": "Snares",
+          "url": "https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D"
+        }
+      ],
+      "duration_ms": 214336,
+      "name": "Zeckenbiss",
+      "url": "https://open.spotify.com/track/7gnES6NOL0gFwPhJzkKCEg"
+    },
+    {
       "added_at": "2024-06-24 18:43:09",
       "album": {
         "name": "In and of Itself (Instrumental)",
@@ -427,22 +443,6 @@
       "duration_ms": 171439,
       "name": "Leave A Message",
       "url": "https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE"
-    },
-    {
-      "added_at": "2024-12-16 17:37:39",
-      "album": {
-        "name": "Short Stories #8",
-        "url": "https://open.spotify.com/album/6UL8DzD1lwGsePfoZpt6Ky"
-      },
-      "artists": [
-        {
-          "name": "Snares",
-          "url": "https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D"
-        }
-      ],
-      "duration_ms": 214336,
-      "name": "Zeckenbiss",
-      "url": "https://open.spotify.com/track/7gnES6NOL0gFwPhJzkKCEg"
     },
     {
       "added_at": "2025-05-09 17:26:40",
@@ -563,6 +563,106 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/5YFuPF7T8Qf1Mln3HJydpX"
+      },
+      "artists": [
+        {
+          "name": "Palpal",
+          "url": "https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb"
+        },
+        {
+          "name": "Danny Ghost",
+          "url": "https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF"
+        }
+      ],
+      "duration_ms": 167124,
+      "name": "Before Summer",
+      "url": "https://open.spotify.com/track/1jnWjDA9rRION0bHhA6N51"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "RIDING AROUND",
+        "url": "https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK"
+      },
+      "artists": [
+        {
+          "name": "Sarah, the Illstrumentalist",
+          "url": "https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6"
+        }
+      ],
+      "duration_ms": 128869,
+      "name": "Look How Pretty Today Is",
+      "url": "https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "belief tree",
+        "url": "https://open.spotify.com/album/0BgIDqOrGPMFtBQW7N2LWS"
+      },
+      "artists": [
+        {
+          "name": "Bullseye Release",
+          "url": "https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "belief tree",
+      "url": "https://open.spotify.com/track/4sT5NZD0cHvpB3fcDkrGpD"
+    },
+    {
+      "added_at": "2025-02-07 21:18:38",
+      "album": {
+        "name": "all love.",
+        "url": "https://open.spotify.com/album/7fdzbUdKADmbLh9fYPMPGp"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "all love.",
+      "url": "https://open.spotify.com/track/5MuK3IJqHnDPNUTqNnsjMo"
+    },
+    {
+      "added_at": "2025-04-25 17:56:22",
+      "album": {
+        "name": "someday.",
+        "url": "https://open.spotify.com/album/2kF3JmPOQuZPJr3vldagaB"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 127826,
+      "name": "someday.",
+      "url": "https://open.spotify.com/track/735q2A0WjM11tZNlXfwlC4"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Shurikens",
+        "url": "https://open.spotify.com/album/4aQbHdptXmNmMQEH0e2aAm"
+      },
+      "artists": [
+        {
+          "name": "Kuartz",
+          "url": "https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Aiiiight",
+      "url": "https://open.spotify.com/track/2Kkl0EsJVwofWofMJMYmlO"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
         "name": "apple pie",
         "url": "https://open.spotify.com/album/3zpDTfWA9GQqDNaVRKPpzO"
       },
@@ -609,74 +709,6 @@
       "url": "https://open.spotify.com/track/3SJaPZuiVpXs2FTWkPTlBP"
     },
     {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Never Stop Rockin'",
-        "url": "https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5"
-      },
-      "artists": [
-        {
-          "name": "Beamic",
-          "url": "https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Never Stop Rockin'",
-      "url": "https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/5YFuPF7T8Qf1Mln3HJydpX"
-      },
-      "artists": [
-        {
-          "name": "Palpal",
-          "url": "https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb"
-        },
-        {
-          "name": "Danny Ghost",
-          "url": "https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF"
-        }
-      ],
-      "duration_ms": 167124,
-      "name": "Before Summer",
-      "url": "https://open.spotify.com/track/1jnWjDA9rRION0bHhA6N51"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "RIDING AROUND",
-        "url": "https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK"
-      },
-      "artists": [
-        {
-          "name": "Sarah, the Illstrumentalist",
-          "url": "https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6"
-        }
-      ],
-      "duration_ms": 128869,
-      "name": "Look How Pretty Today Is",
-      "url": "https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Halftime EP",
-        "url": "https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Halftime - Instrumental",
-      "url": "https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY"
-    },
-    {
       "added_at": "2025-05-17 19:28:14",
       "album": {
         "name": "Jazzy Village Vol. 5",
@@ -695,38 +727,6 @@
       "duration_ms": 158100,
       "name": "Interdimensional wanderer",
       "url": "https://open.spotify.com/track/4A4GFlRkIFMSN9NFSmOUHj"
-    },
-    {
-      "added_at": "2024-08-14 17:43:09",
-      "album": {
-        "name": "Boat Milk",
-        "url": "https://open.spotify.com/album/3u3N27byTbYbzTCygIneSd"
-      },
-      "artists": [
-        {
-          "name": "Jobii",
-          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
-        }
-      ],
-      "duration_ms": 163710,
-      "name": "Boat Milk",
-      "url": "https://open.spotify.com/track/54yuzll85z9HIliCaVBKUC"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "belief tree",
-        "url": "https://open.spotify.com/album/0BgIDqOrGPMFtBQW7N2LWS"
-      },
-      "artists": [
-        {
-          "name": "Bullseye Release",
-          "url": "https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "belief tree",
-      "url": "https://open.spotify.com/track/4sT5NZD0cHvpB3fcDkrGpD"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -791,22 +791,6 @@
       "duration_ms": 179821,
       "name": "Don't U Kno (Instrumental)",
       "url": "https://open.spotify.com/track/5rMTikALrtzbfNsqP7Ewgt"
-    },
-    {
-      "added_at": "2025-02-07 21:18:38",
-      "album": {
-        "name": "all love.",
-        "url": "https://open.spotify.com/album/7fdzbUdKADmbLh9fYPMPGp"
-      },
-      "artists": [
-        {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "all love.",
-      "url": "https://open.spotify.com/track/5MuK3IJqHnDPNUTqNnsjMo"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -957,22 +941,6 @@
       "url": "https://open.spotify.com/track/3lnehwcx8TU534hIPcZHYk"
     },
     {
-      "added_at": "2025-04-25 17:56:22",
-      "album": {
-        "name": "someday.",
-        "url": "https://open.spotify.com/album/2kF3JmPOQuZPJr3vldagaB"
-      },
-      "artists": [
-        {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
-        }
-      ],
-      "duration_ms": 127826,
-      "name": "someday.",
-      "url": "https://open.spotify.com/track/735q2A0WjM11tZNlXfwlC4"
-    },
-    {
       "added_at": "2024-06-24 18:43:09",
       "album": {
         "name": "The SP1200 Project: A Re-Awakening",
@@ -1079,22 +1047,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "The Coming (25th Anniversary Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 280173,
-      "name": "It's A Party (Instrumental)",
-      "url": "https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "Next Year in Rio",
         "url": "https://open.spotify.com/album/5DMrA7hp0yLp0rG11RNRe0"
       },
@@ -1123,22 +1075,6 @@
       "duration_ms": 257573,
       "name": "Masta I.C. (Instrumental)",
       "url": "https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7"
-    },
-    {
-      "added_at": "2025-04-25 14:35:05",
-      "album": {
-        "name": "Ultimo",
-        "url": "https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 155778,
-      "name": "Ultimo",
-      "url": "https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm"
     },
     {
       "added_at": "2024-08-14 17:43:09",
@@ -1211,22 +1147,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "Do You Believe? EP",
-        "url": "https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak"
-      },
-      "artists": [
-        {
-          "name": "The Beatnuts",
-          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Do You Believe? - Instrumental",
-      "url": "https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "Cloudfiles",
         "url": "https://open.spotify.com/album/6JLHKaczyeK3RfC9CdWuag"
       },
@@ -1239,22 +1159,6 @@
       "duration_ms": 196374,
       "name": "Flava for Your Mind",
       "url": "https://open.spotify.com/track/3vcxZojZDMdjBEdeWFDr9h"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Shurikens",
-        "url": "https://open.spotify.com/album/4aQbHdptXmNmMQEH0e2aAm"
-      },
-      "artists": [
-        {
-          "name": "Kuartz",
-          "url": "https://open.spotify.com/artist/0roAKfNbTJmGGWCoR7WYAc"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Aiiiight",
-      "url": "https://open.spotify.com/track/2Kkl0EsJVwofWofMJMYmlO"
     },
     {
       "added_at": "2024-06-26 14:46:24",
@@ -1299,130 +1203,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "The Original Baby Pa (Instrumentals)",
-        "url": "https://open.spotify.com/album/4JJDJVKT5CvoPGFJxbY2WQ"
-      },
-      "artists": [
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        },
-        {
-          "name": "Deda",
-          "url": "https://open.spotify.com/artist/4CmnGcmdU93HGJ06KXWM4o"
-        }
-      ],
-      "duration_ms": 259609,
-      "name": "Baby Pa - Instrumental",
-      "url": "https://open.spotify.com/track/2SwQYZdDQBBsyFZ1zjuuWh"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "The Elmatic Instrumentals",
-        "url": "https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo"
-      },
-      "artists": [
-        {
-          "name": "Will Sessions",
-          "url": "https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB"
-        }
-      ],
-      "duration_ms": 295840,
-      "name": "The World Is Yours",
-      "url": "https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "1999 / Like They Used To Say (Remixes)",
-        "url": "https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 256093,
-      "name": "1999 - Instrumental",
-      "url": "https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux"
-    },
-    {
-      "added_at": "2025-06-06 14:58:12",
-      "album": {
-        "name": "Not Tonight EP",
-        "url": "https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD"
-      },
-      "artists": [
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "Drugs - Instrumental",
-      "url": "https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P"
-    },
-    {
-      "added_at": "2025-02-07 21:37:32",
-      "album": {
-        "name": "How High",
-        "url": "https://open.spotify.com/album/4qlXsDXdQMHdWWZzqf6Hzm"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "How High - Instrumental",
-      "url": "https://open.spotify.com/track/4HGXJaw3H9ED4ACfYd6ZhV"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Fantastic, Vol.2: Vinyl Instrumentals",
-        "url": "https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 187547,
-      "name": "Fall In Love (Instrumental)",
-      "url": "https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
-        "name": "Yancey Boys (Instrumentals)",
-        "url": "https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "DFTF (J Dilla instrumental)",
-      "url": "https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "One Man Band",
         "url": "https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2"
       },
@@ -1455,38 +1235,6 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "The Funk Lord Instrumentals",
-        "url": "https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0"
-      },
-      "artists": [
-        {
-          "name": "Erick Sermon",
-          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
-        }
-      ],
-      "duration_ms": 182414,
-      "name": "Tonights Da Night - Instrumental",
-      "url": "https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26"
-    },
-    {
-      "added_at": "2024-08-21 20:05:55",
-      "album": {
-        "name": "Without A Doubt",
-        "url": "https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L"
-      },
-      "artists": [
-        {
-          "name": "Black Sheep",
-          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Without A Doubt - Salaam's Instrumental",
-      "url": "https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP"
-    },
-    {
-      "added_at": "2024-06-24 18:43:09",
-      "album": {
         "name": "Fantastic, Vol. 2.10",
         "url": "https://open.spotify.com/album/3bF7UefpUmG1BAriPPLLez"
       },
@@ -1503,18 +1251,94 @@
     {
       "added_at": "2024-06-24 18:43:09",
       "album": {
-        "name": "The Awakening [25th Anniversary (Remaster)]",
-        "url": "https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q"
+        "name": "Do You Believe? EP",
+        "url": "https://open.spotify.com/album/0TWSUGFl8CfJo4HDYnGcak"
       },
       "artists": [
         {
-          "name": "Lord Finesse",
-          "url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
+          "name": "The Beatnuts",
+          "url": "https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX"
         }
       ],
-      "duration_ms": 243340,
-      "name": "Hip 2 Da Game - Instrumental",
-      "url": "https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi"
+      "duration_ms": 221840,
+      "name": "Do You Believe? - Instrumental",
+      "url": "https://open.spotify.com/track/5wB50WI6crBSLs29UZFFCH"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Yancey Boys (Instrumentals)",
+        "url": "https://open.spotify.com/album/2gdTpQn3jIAWM9ybgwqPLM"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        },
+        {
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "DFTF (J Dilla instrumental)",
+      "url": "https://open.spotify.com/track/0i3TqaKNngr64Tw3WgVsR2"
+    },
+    {
+      "added_at": "2025-02-07 21:37:32",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/4qlXsDXdQMHdWWZzqf6Hzm"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "How High - Instrumental",
+      "url": "https://open.spotify.com/track/4HGXJaw3H9ED4ACfYd6ZhV"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Elmatic Instrumentals",
+        "url": "https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo"
+      },
+      "artists": [
+        {
+          "name": "Will Sessions",
+          "url": "https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB"
+        }
+      ],
+      "duration_ms": 295840,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Original Baby Pa (Instrumentals)",
+        "url": "https://open.spotify.com/album/4JJDJVKT5CvoPGFJxbY2WQ"
+      },
+      "artists": [
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        },
+        {
+          "name": "Deda",
+          "url": "https://open.spotify.com/artist/4CmnGcmdU93HGJ06KXWM4o"
+        }
+      ],
+      "duration_ms": 259609,
+      "name": "Baby Pa - Instrumental",
+      "url": "https://open.spotify.com/track/2SwQYZdDQBBsyFZ1zjuuWh"
     },
     {
       "added_at": "2024-06-24 18:43:09",
@@ -1547,6 +1371,182 @@
       "duration_ms": 138045,
       "name": "Meteora",
       "url": "https://open.spotify.com/track/40TYtRpNh71p9XOZGuZMKG"
+    },
+    {
+      "added_at": "2024-08-21 20:05:55",
+      "album": {
+        "name": "Without A Doubt",
+        "url": "https://open.spotify.com/album/1R5aQuxBBfgZCWpJdNwM0L"
+      },
+      "artists": [
+        {
+          "name": "Black Sheep",
+          "url": "https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Without A Doubt - Salaam's Instrumental",
+      "url": "https://open.spotify.com/track/6xTaxuMvkwei3jUvURKALP"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Fantastic, Vol.2: Vinyl Instrumentals",
+        "url": "https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 187547,
+      "name": "Fall In Love (Instrumental)",
+      "url": "https://open.spotify.com/track/5mJ96Y7ZTc7SukGLGFMjEz"
+    },
+    {
+      "added_at": "2025-06-06 14:58:12",
+      "album": {
+        "name": "Not Tonight EP",
+        "url": "https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD"
+      },
+      "artists": [
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "Drugs - Instrumental",
+      "url": "https://open.spotify.com/track/4BnqIkoyrxpQZFO6xSmE3P"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Awakening [25th Anniversary (Remaster)]",
+        "url": "https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q"
+      },
+      "artists": [
+        {
+          "name": "Lord Finesse",
+          "url": "https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi"
+        }
+      ],
+      "duration_ms": 243340,
+      "name": "Hip 2 Da Game - Instrumental",
+      "url": "https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi"
+    },
+    {
+      "added_at": "2025-04-25 14:35:05",
+      "album": {
+        "name": "Ultimo",
+        "url": "https://open.spotify.com/album/7cK8rxHPtgIYcp417wQg2V"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 155778,
+      "name": "Ultimo",
+      "url": "https://open.spotify.com/track/1eiVzLJEZ9Fn3ubDec4Vnm"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Never Stop Rockin'",
+        "url": "https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5"
+      },
+      "artists": [
+        {
+          "name": "Beamic",
+          "url": "https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Never Stop Rockin'",
+      "url": "https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "Halftime EP",
+        "url": "https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Halftime - Instrumental",
+      "url": "https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY"
+    },
+    {
+      "added_at": "2024-08-14 17:43:09",
+      "album": {
+        "name": "Boat Milk",
+        "url": "https://open.spotify.com/album/3u3N27byTbYbzTCygIneSd"
+      },
+      "artists": [
+        {
+          "name": "Jobii",
+          "url": "https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE"
+        }
+      ],
+      "duration_ms": 163710,
+      "name": "Boat Milk",
+      "url": "https://open.spotify.com/track/54yuzll85z9HIliCaVBKUC"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Coming (25th Anniversary Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 280173,
+      "name": "It's A Party (Instrumental)",
+      "url": "https://open.spotify.com/track/3HKBkOqQ5YJ8tU5oWmpccV"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "The Funk Lord Instrumentals",
+        "url": "https://open.spotify.com/album/3k2ZKHGhbrrlU7PVVTlRr0"
+      },
+      "artists": [
+        {
+          "name": "Erick Sermon",
+          "url": "https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ"
+        }
+      ],
+      "duration_ms": 182414,
+      "name": "Tonights Da Night - Instrumental",
+      "url": "https://open.spotify.com/track/60hLJXYdOCpciq4I1Fce26"
+    },
+    {
+      "added_at": "2024-06-24 18:43:09",
+      "album": {
+        "name": "1999 / Like They Used To Say (Remixes)",
+        "url": "https://open.spotify.com/album/2byo9R6o9jefFbDe5AUUYf"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 256093,
+      "name": "1999 - Instrumental",
+      "url": "https://open.spotify.com/track/0ebcW3QhEaMXocUXXUvEux"
     }
   ],
   "unique_name": "Boom Bap Relax",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,694 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,698 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 12 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 |
 | 13 | [Completamente Blindada](https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:41 |
 | 14 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
-| 15 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 |
+| 15 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
 | 16 | [Si Me Tenías](https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:53 |
-| 17 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
+| 17 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 |
 | 18 | [Procuro Olvidarte](https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:05 |
 | 19 | [Entiende Que Ya](https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 2:46 |
 | 20 | [Sin Ti \(feat\. Edith Márquez\)](https://open.spotify.com/track/7dAa9LiVslrY0BNp1Yb4Hy) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Triología](https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 49 | [Fue Un Placer Conocerte](https://open.spotify.com/track/0m7Ihm7rkUqeMxYdY7zOqt) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 3:08 |
 | 50 | [Tengo todo excepto a ti](https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mejores Baladas del Pop](https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0) | 4:18 |
 
-Snapshot ID: `aT3+AAAAAADHW3UiDtB75M7uO3851nkC`
+Snapshot ID: `aT9PgAAAAAD5/+5clfg9WMxwYC5njG8x`

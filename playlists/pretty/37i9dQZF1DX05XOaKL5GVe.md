@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 
 > Tesoros musicales del ayer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,685 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,798 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 18 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
 | 19 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
 | 20 | [Pídeme la Luna](https://open.spotify.com/track/3DDtJh2PeHXUQ90uSZOoyg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como un León](https://open.spotify.com/album/2xkmMiyxa7mp0kjX2OYH9P) | 3:42 |
-| 21 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 21 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 22 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
-| 23 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
+| 23 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
 | 24 | [Me Llamas](https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:35 |
 | 25 | [Siempre en Mi Mente](https://open.spotify.com/track/5vmqRHDrMgdbw3CIvQycbj) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre En Mi Mente](https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm) | 3:25 |
-| 26 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 |
-| 27 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
+| 26 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
+| 27 | [Castillos](https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 2](https://open.spotify.com/album/2FR08dbmd2F3NNSwx92jzO) | 4:21 |
 | 28 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
 | 29 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
 | 30 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05XOaKL5GVe.md) - [plain]
 | 51 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 |
 | 52 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 53 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
-| 54 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
+| 54 | [Bésame Mucho](https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 3:00 |
 | 55 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 |
-| 56 | [Bésame Mucho](https://open.spotify.com/track/5lqY7EmoAu9rwV4hHxhEzB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Historia De Un Amor](https://open.spotify.com/album/6ZqE68apCVUrnZh0nRe5x5) | 3:00 |
+| 56 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
 | 57 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
 | 58 | [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 |
-| 59 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
-| 60 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
+| 59 | [Soy Yo](https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Éxitos De Oro](https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9) | 3:33 |
+| 60 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 61 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 62 | [Gema](https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:32 |
 | 63 | [Amor, Amor](https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Amor Amor](https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ) | 4:29 |

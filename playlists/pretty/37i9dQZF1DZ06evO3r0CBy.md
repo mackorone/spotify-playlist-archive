@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,020 likes - 21 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,024 likes - 21 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 12 | [Somebody to Love](https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 4:01 |
 | 13 | [Rich Folks Hoax](https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:05 |
 | 14 | [Sandrevan Lullaby \- Lifestyles](https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 6:37 |
-| 15 | [Ecuador \(feat\. Rodriguez\) \- Single Mix](https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [QMusic Top 500 van de 90's](https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB) | 3:31 |
+| 15 | [La Vida Es Una](https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX), [E\-LA](https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9), [Ander & Rossi](https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz) | [Latinos del Mundo](https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG) | 3:25 |
 | 16 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
 | 17 | [Inner City Blues](https://open.spotify.com/track/1pU1pXG43llTiLi1JXl57c) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 3:26 |
 | 18 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 20 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
 | 21 | [To Whom It May Concern](https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:21 |
 
-Snapshot ID: `aT3+AAAAAADScMgs3flzZEfvGOvXtp3I`
+Snapshot ID: `aT9PgAAAAACNgyV0hN5BkuTNysXHx6ja`

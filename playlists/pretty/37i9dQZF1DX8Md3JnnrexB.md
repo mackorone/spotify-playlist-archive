@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,113 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,125 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 33 | [Moody's Mood](https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Give Me the Night](https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh) | 3:24 |
 | 34 | [Simply Beautiful](https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Simply Beautiful](https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc) | 4:18 |
 | 35 | [Hurt](https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 3:01 |
-| 36 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 |
+| 36 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
 | 37 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 |
-| 38 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
+| 38 | [Starting All Over Again](https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3) | [Mel & Tim](https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL) | [Stax Volt Chartbusters Vol 1](https://open.spotify.com/album/17V0RTHI4GvWwGIIpPnVqE) | 3:50 |
 | 39 | [Been and Gone](https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Wallace](https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa) | [Been and Gone](https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89) | 4:40 |
 | 40 | [Through The Test Of Time](https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Love Is Gonna Getcha](https://open.spotify.com/album/709eBqOXOnZfdMts8husvP) | 5:07 |
 | 41 | [I'M A MAN \- MIDNIGHT VERSION](https://open.spotify.com/track/14oq1cUEatPCsQOf4thM2e) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [OLD SONGS, SAME LOVE](https://open.spotify.com/album/3tDfghLtrCoet9dLKdYWR5) | 2:50 |
 | 42 | [New York State Of Mind](https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:33 |
-| 43 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
-| 44 | [Float On](https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 4:10 |
+| 43 | [Float On](https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 4:10 |
+| 44 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
 | 45 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
 | 46 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
 | 47 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |

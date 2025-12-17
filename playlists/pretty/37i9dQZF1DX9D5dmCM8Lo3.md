@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,196 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,283 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 24 | [Eternal.Temp](https://open.spotify.com/track/2OevwlY38EvcDDPsRWfHye) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:36 |
 | 25 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
 | 26 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
-| 27 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
-| 28 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 27 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 28 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
 | 29 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
 | 30 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 31 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 36 | [Triple Helix](https://open.spotify.com/track/2tqObZaOXyL8KKSME0nmxT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:35 |
 | 37 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 |
 | 38 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |
-| 39 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
-| 40 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
+| 39 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
+| 40 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 41 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
 | 42 | [Angel](https://open.spotify.com/track/7GdAzd0WQypZOd7pcwUhxf) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Angel](https://open.spotify.com/album/5dkVASayX6wbSxD3ZWWsuB) | 2:17 |
 | 43 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 |
-| 44 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
-| 45 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
+| 44 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |
+| 45 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
 | 46 | [Lovemall](https://open.spotify.com/track/4nLeOsqSVIVyF96ir7oD1u) | [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc) | [Divinity](https://open.spotify.com/album/4K86mL8fddCmKNsMTX3Guo) | 2:12 |
 | 47 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 |
 | 48 | [Deep Swim](https://open.spotify.com/track/4dphZi2G4KizVeWWbPMzHZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Enchanted Instrumentals and Whispers](https://open.spotify.com/album/4JLZmlctwzJ6wnrkc3pu7N) | 4:16 |

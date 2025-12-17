@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Leon Vynehall
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,380 likes - 70 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,392 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 49 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 50 | [Notorious](https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Notorious](https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG) | 2:55 |
 | 51 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
-| 52 | [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve +1](https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ) | 3:08 |
+| 52 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 |
 | 53 | [Running](https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Running](https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM) | 3:09 |
-| 54 | [Hold On](https://open.spotify.com/track/5HEx0ZwJEmZhvjlrMYnSuf) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Hold On](https://open.spotify.com/album/7d9whArUbh3cK93jfmS3Ui) | 2:18 |
+| 54 | [Handsup](https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve +1](https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ) | 3:08 |
 | 55 | [Damaged Goods](https://open.spotify.com/track/4k1d1w9S7qxxMcPwvz4THV) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Damaged Goods](https://open.spotify.com/album/2c8qaZHyi7bMwh0iQpHRo0) | 4:38 |
 | 56 | [Song for You](https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Song for You / The Wizard](https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l) | 3:33 |
 | 57 | [Shallow Water](https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Shallow Water](https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w) | 3:22 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 67 | [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 |
 | 68 | [I Have a Love \(Overmono Remix\)](https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [I Have a Love \(Overmono Remix\)](https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA) | 6:06 |
 | 69 | [Back Of My Mind](https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Back Of My Mind](https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4) | 4:26 |
-| 70 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 |
+| 70 | [24h In A Disco](https://open.spotify.com/track/1W56N5mZJxIzbPqrrcv452) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24h In A Disco](https://open.spotify.com/album/7M9gwnOZBOAmPpOR8rnLeS) | 3:15 |
 
 Snapshot ID: `AAAAAGhT3Q0teX5m1LwE22rYvmIzGobo`

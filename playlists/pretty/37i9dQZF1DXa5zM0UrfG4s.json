@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116576,
+  "num_followers": 116577,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-11-06 23:00:18",

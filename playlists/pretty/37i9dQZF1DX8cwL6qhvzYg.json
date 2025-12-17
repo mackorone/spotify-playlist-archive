@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 435205,
+  "num_followers": 435282,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,38 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "El List\u00f3n De Tu Pelo",
+      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Vaquero (Remix)",
         "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
@@ -427,38 +459,6 @@
       "duration_ms": 300000,
       "name": "Vaquero - Remix",
       "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "El List\u00f3n De Tu Pelo",
-      "url": "https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "A Todo Galope",
-        "url": "https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "El Botecito",
         "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 150360,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "A Todo Galope",
+        "url": "https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -1931,22 +1947,6 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
         "name": "Grandes Temas Latinos para Bailar y Alegrar",
         "url": "https://open.spotify.com/album/41zzdhXHDQ7RnY7mGsE0ud"
       },
@@ -1959,22 +1959,6 @@
       "duration_ms": 244963,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/1XZVhSjF9rbiKgcqsuTQmj"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
         }
       ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2039,6 +2023,22 @@
       "duration_ms": 271766,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2024-10-04 20:34:22",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2024-10-04 20:34:22",
       "album": {
+        "name": "Las Compuse para Ti",
+        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "La Mushasha Shula",
+      "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
+    },
+    {
+      "added_at": "2024-10-04 20:34:22",
+      "album": {
         "name": "Puro Tejano Gold",
         "url": "https://open.spotify.com/album/7IWL9rNxAZfi7DC4RfPSB2"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 233168,
       "name": "La Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/0HwlxSs5mE9BQisZHxEzZD"
-    },
-    {
-      "added_at": "2024-10-04 20:34:22",
-      "album": {
-        "name": "Las Compuse para Ti",
-        "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "La Mushasha Shula",
-      "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
     }
   ],
   "unique_name": "Fiesta de Barrio",

@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 258871,
+  "num_followers": 258913,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACJk6+tfzVpETGGB+m8QnvV",
+  "snapshot_id": "aT9PgAAAAAB90gwLllY5FkZ6+GtTuyUB",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 198656,
+      "name": "Ya Para Qu\u00e9",
+      "url": "https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFROROCKSTAR",
         "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 198656,
-      "name": "Ya Para Qu\u00e9",
-      "url": "https://open.spotify.com/track/3KmPDFJeamrxeUknSDqsfk"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A la antigua",
         "url": "https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 162162,
       "name": "A la antigua",
       "url": "https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 233642,
-      "name": "Poeta",
-      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
     },
     {
       "added_at": null,

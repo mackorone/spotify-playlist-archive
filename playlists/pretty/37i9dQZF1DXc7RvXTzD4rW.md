@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 楠木ともり Tomori Kusunoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,791 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,788 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

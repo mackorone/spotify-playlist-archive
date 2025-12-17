@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,685 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,695 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 61 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 |
 | 62 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 |
 | 63 | [Slow Dancing In A Burning Room \- Spotify Singles](https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Slow Dancing In A Burning Room \(Spotify Singles\)](https://open.spotify.com/album/1apmKnloK5S1j6lovAqcad) | 3:42 |
-| 64 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
-| 65 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
+| 64 | [Better Together](https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl) | [Us The Duo](https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl) | [Better Together](https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc) | 3:20 |
+| 65 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
 | 66 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
 | 67 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 68 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 > Los corridos más placosos que suenan en las calles\. Junior H en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,190 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,703,257 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

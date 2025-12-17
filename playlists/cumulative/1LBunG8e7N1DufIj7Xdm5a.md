@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,732 songs - 8 day 5 hr 58 min
+3,733 songs - 8 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2541,6 +2541,7 @@
 | [Quarz](https://open.spotify.com/track/5pgRxx6vP81lugd4WhQUG7) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Hex](https://open.spotify.com/album/1pi1sqdxt3KndTYmJJ7Pye) | 4:21 | 2025-11-24 |  |
 | [QUELLO SBAGLIATO \(feat\. Nina Zilli\)](https://open.spotify.com/track/1Epvn9ddRoVGvTWrcWLwXR) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [QUELLO SBAGLIATO \(feat\. Nina Zilli\)](https://open.spotify.com/album/48kOjh22Rad3pBtkO4fcGk) | 2:40 | 2025-06-01 |  |
 | [Questo film non sarà un sequel](https://open.spotify.com/track/5JhuwyPOKmvdga9dPxoQFP) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Questo film non sarà un sequel](https://open.spotify.com/album/38xZjbzv1qkKDI7546Janb) | 2:30 | 2025-05-23 |  |
+| [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 | 2025-12-16 |  |
 | [Quiet Between](https://open.spotify.com/track/3Z7n4oo9FZ8yKENSV0xlFX) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:12 | 2025-07-03 |  |
 | [quiet turn up](https://open.spotify.com/track/4q4tt8UF7zOCroURwNNB06) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [quiet turn up](https://open.spotify.com/album/4gD07RlKnNehTzPkUH1kFm) | 1:50 | 2025-07-28 |  |
 | [Qué bonita era La Habana](https://open.spotify.com/track/02AZmqZRqgzs0v1E7H4LpB) | [CAPITÁN MOSCÚ](https://open.spotify.com/artist/2lsoOFuNDdLyToS0R3M05p) | [Qué bonita era La Habana](https://open.spotify.com/album/7LnZ1gBKDGZwKFs5dSmRpj) | 4:10 | 2025-06-25 |  |

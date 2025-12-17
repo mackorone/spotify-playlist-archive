@@ -1172,8 +1172,8 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
-      "duration_ms": 153986,
+      "date_removed": null,
+      "duration_ms": 152608,
       "name": "6 Litri",
       "url": "https://open.spotify.com/track/3qkl7SKtPTcfrXxib13xjp"
     },
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 185960,
       "name": "AMBRA (feat. Tedua)",
       "url": "https://open.spotify.com/track/2bzsS7p3b4s6eeZu0ZGQyj"
@@ -9282,7 +9282,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 172471,
       "name": "Cattivo Esempio",
       "url": "https://open.spotify.com/track/3mFkVLJagE7HIgipgbvL4I"
@@ -13570,7 +13570,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 186040,
       "name": "Dancing With The Devil Pt.2",
       "url": "https://open.spotify.com/track/0C4xnuVf0ovtfGV90Ynjld"
@@ -14110,7 +14110,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Dentro Lo Store (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/3UsRu2Mcr28wcHrsHypBWM"
@@ -16110,7 +16110,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -16930,7 +16930,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -17358,7 +17358,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -18460,7 +18460,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -23060,7 +23060,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -25878,7 +25878,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -25922,7 +25922,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -29914,7 +29914,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -36652,7 +36652,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 223834,
       "name": "Nessuna",
       "url": "https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd"
@@ -39706,11 +39706,15 @@
         {
           "name": "Salmo",
           "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "DJ 2P",
+          "url": "https://open.spotify.com/artist/3cHtXBLCuSZ6uLmxuMnFQx"
         }
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 188063,
       "name": "Old School",
       "url": "https://open.spotify.com/track/2oSwLZOzR4hWtesAFyB4kx"
@@ -49034,7 +49038,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"

@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 46095,
+  "num_followers": 46113,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "El Rey del Mambo",
-        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado y Su Gran Orquesta",
-          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
-        }
-      ],
-      "duration_ms": 188840,
-      "name": "Que Rico el Mambo",
-      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Alma de negro",
         "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 140146,
       "name": "Aquellos ojos verdes (bolero)",
       "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "El Rey del Mambo",
+        "url": "https://open.spotify.com/album/3cyW7js4KZs8LZ9tMHESy7"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/0LIjbauWCv9ccbewmWnV5x"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "Que Rico el Mambo",
+      "url": "https://open.spotify.com/track/4XgsTDM3I0T6D0hvWBVWOC"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "M\u00e9xico 100 Canciones Vintage",
-        "url": "https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Huesca",
-          "url": "https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt"
-        }
-      ],
-      "duration_ms": 187988,
-      "name": "Yo",
-      "url": "https://open.spotify.com/track/7E94RnuinkUBYSengvutwL"
-    },
-    {
-      "added_at": "2024-04-24 22:38:01",
-      "album": {
         "name": "Jos\u00e9 Luis Y Su Guitarra. Todos Sus Primeros EP's En Discos Philips (1958-1960)",
         "url": "https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 156800,
       "name": "Mariquilla (remastered)",
       "url": "https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45"
+    },
+    {
+      "added_at": "2024-04-24 22:38:01",
+      "album": {
+        "name": "M\u00e9xico 100 Canciones Vintage",
+        "url": "https://open.spotify.com/album/20OYDA6NCIXxUFuprskMbd"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Huesca",
+          "url": "https://open.spotify.com/artist/1orgmwm2zOE5T4HJQWOuAt"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Yo",
+      "url": "https://open.spotify.com/track/7E94RnuinkUBYSengvutwL"
     },
     {
       "added_at": "2024-04-24 22:38:01",

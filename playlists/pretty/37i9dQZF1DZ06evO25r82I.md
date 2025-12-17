@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,808 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,812 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 44 | [Through](https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 2:51 |
 | 45 | [Call It In The Air](https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 3:00 |
 | 46 | [Love Never](https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 2:54 |
-| 47 | [Damage](https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:07 |
+| 47 | [Telepath](https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Telepath](https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s) | 3:38 |
 | 48 | [You With Me](https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 5:18 |
 | 49 | [What Would I Say To You Now](https://open.spotify.com/track/6oqqQReeSBmu1TwSjtj1Vc) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 2:34 |
-| 50 | [Telepath](https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Telepath](https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s) | 3:38 |
+| 50 | [Damage](https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:07 |
 
-Snapshot ID: `aT3+AAAAAACyVIfG6ZeHOVhIY9owVk7k`
+Snapshot ID: `aT9PgAAAAAB5/1fq9XtspILyH+f8zFcz`

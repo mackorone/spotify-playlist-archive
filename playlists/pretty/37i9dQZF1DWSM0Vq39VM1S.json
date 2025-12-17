@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388621,
+  "num_followers": 388613,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "The Hudson",
         "url": "https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -311,22 +311,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Boyish",
-          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         }
       ],
-      "duration_ms": 119140,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -347,18 +343,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Boyish",
+          "url": "https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3"
         }
       ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+      "duration_ms": 119140,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "you chose this",
-        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "you chose this",
-      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 142097,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Yours Or Mine",
         "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 230977,
       "name": "Yours Or Mine",
       "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 142097,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 188037,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "The Eyes Of C\u00e9cilia",
         "url": "https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 236346,
       "name": "Us",
       "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

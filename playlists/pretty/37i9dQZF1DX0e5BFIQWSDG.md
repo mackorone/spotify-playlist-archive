@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: FLY LO, SNIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,479 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,459 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [90th Floor](https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [90th Floor](https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq) | 2:35 |
+| 1 | [90th FLOOR](https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [90th FLOOR](https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq) | 2:35 |
 | 2 | [Lete Lete](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Lete Lete](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |
 | 3 | [RAMBO](https://open.spotify.com/track/1FmrVwzwIBnd2DEcWL9XkW) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Destiny](https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky) | [CAPO DEI CAPI \(Deluxe\)](https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50) | 2:37 |
 | 4 | [Ntolia](https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Ntolia](https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs) | 3:34 |

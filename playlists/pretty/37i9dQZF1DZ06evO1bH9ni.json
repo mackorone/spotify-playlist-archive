@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 347519,
+  "num_followers": 347557,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACLx7BpjjVCEJXsNxJafIte",
+  "snapshot_id": "aT9PgAAAAAAdtWgzoss6xnxEejGapvms",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "El Bendecido",
+        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+      "duration_ms": 158022,
+      "name": "El Bendecido",
+      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Bendecido",
-        "url": "https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 158022,
-      "name": "El Bendecido",
-      "url": "https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o"
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Con Olor a Monte (En Vivo)",
-        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 205543,
-      "name": "Kil\u00f3metro 11-60 - En Vivo",
-      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Hierba, Polvo y Plomo",
         "url": "https://open.spotify.com/album/25O9BK0aHeYxq9ch47BP9Q"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 215594,
       "name": "Entre Hierba, Polvo y Plomo",
       "url": "https://open.spotify.com/track/0bgQuxSZZRVfivdXROLy1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Con Olor a Monte (En Vivo)",
+        "url": "https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 205543,
+      "name": "Kil\u00f3metro 11-60 - En Vivo",
+      "url": "https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Foto de Perfil",
+        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 171833,
+      "name": "Sin Foto de Perfil",
+      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Pa' la Historia",
         "url": "https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 149707,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/0r8VAv8wyvxJn27Nj0pQqs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Foto de Perfil",
-        "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 171833,
-      "name": "Sin Foto de Perfil",
-      "url": "https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX"
     },
     {
       "added_at": null,

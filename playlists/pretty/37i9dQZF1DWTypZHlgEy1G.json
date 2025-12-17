@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 534443,
+  "num_followers": 534426,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Du c\u00f4te de chez Swann",
-      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "L'Aigle Noir",
         "url": "https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 297426,
       "name": "L'aigle noir",
       "url": "https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Du c\u00f4te de chez Swann",
+      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
       "added_at": "2024-07-25 13:22:22",

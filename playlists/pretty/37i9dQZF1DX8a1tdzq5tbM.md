@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,754,010 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,754,229 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 74 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
 | 75 | [Changed the Way You Kiss Me \- Radio Edit](https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Playing In The Shadows](https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN) | 3:15 |
 | 76 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |
-| 77 | [Better Off Alone \- 1999 Original Hit Radio](https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo) | [Alice DJ](https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl) | [Better Off Alone \(Laidback Luke Remix\)](https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb) | 3:35 |
+| 77 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
 | 78 | [Ready Steady Go \- Extended Mix](https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Ashley Walters](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 4:13 |
-| 79 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
+| 79 | [Better Off Alone \- 1999 Original Hit Radio](https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo) | [Alice DJ](https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl) | [Better Off Alone \(Laidback Luke Remix\)](https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb) | 3:35 |
 | 80 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
 | 81 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
 | 82 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |

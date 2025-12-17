@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/1BO2XRaBKzRxdFTA9Uu4fP"
+    },
+    {
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },

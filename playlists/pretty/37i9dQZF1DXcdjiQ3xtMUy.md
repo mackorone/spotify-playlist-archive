@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Stavento, Anastasia
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,386 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,388 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

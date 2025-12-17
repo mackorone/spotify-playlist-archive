@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Ryan Castro & Manuel Turizo",
-  "num_followers": 399106,
+  "num_followers": 399095,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
         "name": "PB.DB. The Mixtape",
         "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 224786,
       "name": "La Temperatura (feat. Eli Palacios)",
       "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 283866,
       "name": "Cachamba",
       "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Sac\u00fadelo Que Tiene Arena",
-        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Ay!",
-      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/4imN7ZQVUp0Q5sZyV7mK23"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 199240,
       "name": "KLK",
       "url": "https://open.spotify.com/track/3MJsu3EPgf2EFmzn4pVZYp"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
+        "name": "Sac\u00fadelo Que Tiene Arena",
+        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -819,18 +819,22 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
+        "name": "El Pich\u00f3n",
+        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
       "artists": [
         {
-          "name": "Johnny Ventura",
-          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         }
       ],
-      "duration_ms": 275186,
-      "name": "Patac\u00f3n Pisao",
-      "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+      "duration_ms": 171200,
+      "name": "El Bote",
+      "url": "https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -851,6 +855,22 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
+      },
+      "artists": [
+        {
+          "name": "Johnny Ventura",
+          "url": "https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Patac\u00f3n Pisao",
+      "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
         "name": "BIZUM (Qu\u00e9 tienen tus ojos)",
         "url": "https://open.spotify.com/album/7m1OVmMBat3C7VO0cUf6Po"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 136917,
       "name": "BIZUM (Qu\u00e9 tienen tus ojos)",
       "url": "https://open.spotify.com/track/6lowoKt4hZs7L3oc8iDUO4"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "El Pich\u00f3n",
-        "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "El Bote",
-      "url": "https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "Cutibili Pacha",
+      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
+    },
+    {
+      "added_at": "2025-10-14 14:45:32",
+      "album": {
         "name": "Esta Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 214145,
       "name": "Esta Canci\u00f3n",
       "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
-    },
-    {
-      "added_at": "2025-10-14 14:45:32",
-      "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 280533,
-      "name": "Cutibili Pacha",
-      "url": "https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Moriso\u00f1ando, Vol. 1",
-        "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
+        "name": "Back In Town",
+        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
       "artists": [
         {
-          "name": "Gabriel Pagan",
-          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
-        },
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
         }
       ],
-      "duration_ms": 230819,
-      "name": "Another Night",
-      "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
+      "duration_ms": 258746,
+      "name": "Jilila Kimbolo",
+      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1291,18 +1287,22 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Back In Town",
-        "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
+        "name": "Moriso\u00f1ando, Vol. 1",
+        "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
       },
       "artists": [
         {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        },
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
         }
       ],
-      "duration_ms": 258746,
-      "name": "Jilila Kimbolo",
-      "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+      "duration_ms": 230819,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
-        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
+        "name": "Tus Mentiras",
+        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
       },
       "artists": [
         {
-          "name": "Rey Casas",
-          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
         }
       ],
-      "duration_ms": 148986,
-      "name": "El Costo De La Vida",
-      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+      "duration_ms": 163349,
+      "name": "Tus Mentiras",
+      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
     },
     {
       "added_at": "2025-10-14 14:45:32",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2025-10-14 14:45:32",
       "album": {
-        "name": "Tus Mentiras",
-        "url": "https://open.spotify.com/album/6NRvNitD7WdrrbxsVZ0MFZ"
+        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
+        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
       },
       "artists": [
         {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+          "name": "Rey Casas",
+          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
         }
       ],
-      "duration_ms": 163349,
-      "name": "Tus Mentiras",
-      "url": "https://open.spotify.com/track/2g9FBhKSP6mM0WYaButfgA"
+      "duration_ms": 148986,
+      "name": "El Costo De La Vida",
+      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
     },
     {
       "added_at": "2025-10-14 14:45:32",

@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 114062,
+  "num_followers": 114061,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACW22NQ1lrYugUd+VWS7FFO",
+  "snapshot_id": "aT9PgAAAAADEwwq5HW6M5jxvl3ka8v6X",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 198799,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into the Wild Life (Deluxe)",
         "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 178226,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6WXN5Pvim9BKB6Wb765II5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 198799,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
     },
     {
       "added_at": null,

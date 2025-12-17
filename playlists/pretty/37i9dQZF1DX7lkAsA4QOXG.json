@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 153860,
+  "num_followers": 153879,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Steer Your Way",
+        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Steer Your Way (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Joshua Redman",
         "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 277960,
       "name": "Heart Shaped Box",
       "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Steer Your Way",
-        "url": "https://open.spotify.com/album/7oQZl2Z301VOlKr77DgtEm"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 288880,
-      "name": "Steer Your Way (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/1rMrh2p6xDuKywDZZPZgmp"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
-        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "For No One",
-      "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 358453,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
+        "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 148120,
+      "name": "For No One",
+      "url": "https://open.spotify.com/track/1fszxlX9SnaiWOZvIEjGFq"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "If It's Magic",
         "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 209338,
       "name": "If It's Magic",
       "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "What's It All About?",
-        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Timeless Tales [For Changing Times]",
         "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 526533,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4q5KE7ma9YYDNg18K3KKyU"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "What's It All About?",
+        "url": "https://open.spotify.com/album/7H6c6F19uEEhjjLpDhufoh"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/0XzpDgmYTLiStmuNhU4rWx"
     },
     {
       "added_at": "2025-03-13 14:12:56",

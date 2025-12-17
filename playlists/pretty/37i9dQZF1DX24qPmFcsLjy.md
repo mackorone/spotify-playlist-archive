@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,072 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,098 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 64 | [Je Loog Tegen Mij](https://open.spotify.com/track/53348QPO1Bhkd8oFABaGYK) | [Drukwerk](https://open.spotify.com/artist/5k1FBxAglBtDC8H26LOo4F) | [Drukwerk](https://open.spotify.com/album/4P5Qfh2yBKzZrBJ5OoC9KL) | 3:26 |
 | 65 | [Over De Muur](https://open.spotify.com/track/5rAG0XusRfyLrzYV7A7lBL) | [Klein Orkest](https://open.spotify.com/artist/2jtIQ2r2x8P4I23sIDDL3n) | [Het Beste Van Klein Orkest](https://open.spotify.com/album/4s3BG8LwbkOcQ5ktxjt5wf) | 3:29 |
 | 66 | [Belgie ..\. \(Is Er Leven Op Pluto ...\)](https://open.spotify.com/track/0otIFwtEKqrDBGb3cvLRu4) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 6:00 |
-| 67 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
-| 68 | [I Won't Let You Down](https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0) | [Ph.D.](https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO) | [I Won't Let You Down](https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95) | 4:02 |
+| 67 | [I Won't Let You Down](https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0) | [Ph.D.](https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO) | [I Won't Let You Down](https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95) | 4:02 |
+| 68 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/2x45xqISlmmDJqxOqr8BuS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:55 |
 | 69 | [Africa](https://open.spotify.com/track/5tJjo5JDF9zhzYD7yQfATH) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Hold The Line: The Ultimate Toto Collection](https://open.spotify.com/album/2suiqJpTmKoWWY84sOT3XN) | 4:56 |
 | 70 | [In The Army Now](https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now \- The Collection](https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg) | 4:41 |
 | 71 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,293 songs - 5 day 3 hr 12 min
+2,297 songs - 5 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Blvd\. Nights](https://open.spotify.com/track/7xDAU9IAMyWjl7ia3hRxs7) | [Team Sleep](https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7) | [Team Sleep \(U.S\. Release\)](https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP) | 3:08 | 2023-06-06 |  |
 | [Bob](https://open.spotify.com/track/6U38iaRKXpoaCp8n5kJ0tB) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 0:49 | 2021-11-14 |  |
 | [Bodak Yellow](https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:43 | 2021-08-05 |  |
+| [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 | 2025-12-16 |  |
 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 | 2021-08-05 |  |
 | [Body](https://open.spotify.com/track/0VmREvheUiN0xgM5fJYQqp) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:33 | 2022-04-03 |  |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2021-08-05 |  |
@@ -576,6 +577,7 @@
 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 | 2021-08-05 |  |
 | [Don't You Dare Forget the Sun](https://open.spotify.com/track/4JIYKZzKnlPhL28h0uixzZ) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Built for Blame, Laced With Shame \- Spotify Exclusive](https://open.spotify.com/album/2ofURnpkPHvzfkFfNT5xo7) | 3:13 | 2021-08-05 |  |
 | [Don’t Call Me Angel \(Charlie’s Angels\) \(with Miley Cyrus & Lana Del Rey\)](https://open.spotify.com/track/6zegtH6XXd2PDPLvy1Y0n2) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 3:10 | 2021-08-05 |  |
+| [Doschitai](https://open.spotify.com/track/5X59Gh7j0so6cDqrFdvDDS) | [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc) | [Irak](https://open.spotify.com/album/23lhxikSw5MpkrfDNoJm3K) | 4:41 | 2025-12-16 |  |
 | [Double Helix](https://open.spotify.com/track/2SWHZzjaqBuWYUUuxjdeBG) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:40 | 2021-11-30 |  |
 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 | 2021-12-30 |  |
 | [Drama Club](https://open.spotify.com/track/6FcNLunvzsHCVVf4TGYULM) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:45 | 2021-08-05 |  |
@@ -769,6 +771,7 @@
 | [Full Circle](https://open.spotify.com/track/7GSfkeT2OcsPln1L8onHXm) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 3:41 | 2022-11-24 |  |
 | [FVN!](https://open.spotify.com/track/2irPnUxnpZdd1J0rurJgxW) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [PLAY](https://open.spotify.com/album/69k3PIjF6T9POAX0WCRpNC) | 3:07 | 2025-03-18 |  |
 | [G.R.E.Y.G.O.D.S.](https://open.spotify.com/track/2AD0AClM5SLRuw6N5J0tFi) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [G.R.E.Y.G.O.D.S.](https://open.spotify.com/album/2MNt1A6zTasukEQpd8QCoc) | 2:33 | 2021-08-05 |  |
+| [Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:37 | 2025-12-17 |  |
 | [GAME OVER](https://open.spotify.com/track/1bTmG9Oir37ggslW0sl4c6) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [GAME OVER](https://open.spotify.com/album/4Si8ak6IhfNjzpfl9fSJ9R) | 2:20 | 2021-08-05 |  |
 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-11-25 |  |
 | [GASLIGHT!](https://open.spotify.com/track/6OCbBpYhFHbBbfdnaoEsZ1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:28 | 2022-11-10 |  |
@@ -1793,6 +1796,7 @@
 | [Shut Me Up](https://open.spotify.com/track/3oZUlZMXkj51AyYG8lGaE7) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel to Anything \(Expanded and Remastered 2008\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 2:48 | 2023-04-05 |  |
 | [Shut Up and Dance](https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:19 | 2021-08-05 |  |
 | [Si Tu Novio Te Deja Sola](https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Si Tu Novio Te Deja Sola](https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa) | 4:03 | 2025-01-01 | 2025-02-07 |
+| [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2025-12-17 |  |
 | [Sick Feeling](https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:35 | 2021-08-05 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2021-08-05 |  |
 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 | 2025-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-289 songs - 14 hr 13 min
+290 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Astral Shore](https://open.spotify.com/track/6TwKx5FT7krdphWDcq2S9V) | [Soothe My Soul](https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T) | [Astral Shore](https://open.spotify.com/album/20WsWxa6BNAjMEHhbDlgUs) | 3:36 | 2025-09-30 |  |
 | [Aube](https://open.spotify.com/track/0JJo7BXhf7g11EwOk6OSK7) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Aube](https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy) | 3:00 | 2024-06-10 |  |
 | [Bare](https://open.spotify.com/track/2PWkjTnM1UiuLMBiBdwimc) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Bare](https://open.spotify.com/album/2AIXNyefzl7rb661tgI5YE) | 2:48 | 2025-01-14 |  |
-| [Bare dreams](https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bare dreams](https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS) | 2:39 | 2024-08-28 |  |
+| [Bare dreams](https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bare dreams](https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS) | 2:39 | 2024-08-28 | 2025-12-17 |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2022-07-05 | 2024-12-12 |
 | [Between Galaxies](https://open.spotify.com/track/6DXhWt90wnGcyL6W7GIwwk) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Between Galaxies](https://open.spotify.com/album/4LWYVa3ShlnbxP9ohY0lri) | 2:43 | 2025-09-30 |  |
 | [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 | 2022-07-05 | 2025-11-25 |
@@ -163,6 +163,7 @@
 | [Mist Over Mountains](https://open.spotify.com/track/5zPxf9oBbQmYGBUn3aZb7d) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Mist Over Mountains](https://open.spotify.com/album/6q4ETkytWnXwoVMLTF4bdG) | 2:48 | 2025-06-17 |  |
 | [Moments Paisibles](https://open.spotify.com/track/42sns5w7tsWuupnjuCBfre) | [Lucas Delphy](https://open.spotify.com/artist/5bgAHbDkNceLzoE0bFMeVr) | [Moments Paisibles](https://open.spotify.com/album/5b2MLIV4hkMQkFlvfWFxtV) | 2:44 | 2024-06-10 | 2024-08-29 |
 | [Monument](https://open.spotify.com/track/4Uah7cyX4bQKjb3eo0tDLp) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Cosmos](https://open.spotify.com/album/3N1aInFPkG6qobY6L6osk6) | 3:58 | 2023-08-25 | 2025-03-20 |
+| [Moon Over Quiet Hills](https://open.spotify.com/track/743BKP04wOpRGyt9uK7DVH) | [Tellus Gardens](https://open.spotify.com/artist/1e1Bytfbq91eNVqA8V65NT) | [Moon Over Quiet Hills](https://open.spotify.com/album/7EynO0IlSdNkdh2H6PA31L) | 3:39 | 2025-12-02 |  |
 | [Moonchild's First Flight](https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011) | [Amos Stremann](https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV) | [Moonchild's First Flight](https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc) | 2:52 | 2022-07-05 | 2025-07-25 |
 | [Moonlit](https://open.spotify.com/track/1QHE6Ou7sUHXSS9y7eKVR8) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/39mlZc7KmKoHZ8jiGancz3) | 2:38 | 2022-11-11 | 2024-04-19 |
 | [Moonlit](https://open.spotify.com/track/67cHf1VdUczVmY1nD8gdos) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Moonlit](https://open.spotify.com/album/1tbaoKLRFMdl6vhDO63LN9) | 2:38 | 2022-07-19 | 2022-07-29 |

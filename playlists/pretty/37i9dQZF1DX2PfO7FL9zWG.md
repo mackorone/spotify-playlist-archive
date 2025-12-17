@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Leif Vollebekk
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,539 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,544 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 37 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
 | 38 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 39 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
-| 40 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
-| 41 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
-| 42 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
+| 40 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 |
+| 41 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
+| 42 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
 | 43 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 44 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 |
 | 45 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 87 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 |
 | 88 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
 | 89 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
-| 90 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 |
+| 90 | [Better Off](https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Better Off](https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3) | 3:15 |
 | 91 | [Over My Shoulder](https://open.spotify.com/track/0FqF6EXmup1hbfNItEIiaJ) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB), [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p), [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Over My Shoulder](https://open.spotify.com/album/50bEcqe8ypWaGnyW8o3SKu) | 5:02 |
-| 92 | [Better Off](https://open.spotify.com/track/2oBzsiZT8qmlovYS1FMf06) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Better Off](https://open.spotify.com/album/6a9bsIUvtXmqj6HaEOIAq3) | 3:15 |
+| 92 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 |
 | 93 | [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 |
 | 94 | [Drugstore Houses](https://open.spotify.com/track/2vOWeduJdE3pDR3c8uCE7Z) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Drugstore Houses](https://open.spotify.com/album/1tCGIJAUNK3k6JVRL62UO6) | 3:02 |
 | 95 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 |

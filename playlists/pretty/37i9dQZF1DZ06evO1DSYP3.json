@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACS+GRCL85BKUl1f1IpmQ1D",
+  "snapshot_id": "aT9PgAAAAABRLZQwGEr7+nAkv68LKuEs",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Ain't Nothin",
-        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
-      },
-      "artists": [
-        {
-          "name": "ATM Danny",
-          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "It Ain't Nothin",
-      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 120512,
       "name": "Good (feat. Larry June)",
       "url": "https://open.spotify.com/track/5xMGrKAdfo5RDUychxfMYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Ain't Nothin",
+        "url": "https://open.spotify.com/album/2CSm8CtXCnwr3d3hQpWsQF"
+      },
+      "artists": [
+        {
+          "name": "ATM Danny",
+          "url": "https://open.spotify.com/artist/3ZFJTwsF0Eye3a5l3ZKxMD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "It Ain't Nothin",
+      "url": "https://open.spotify.com/track/3Fuoa0izWFVmfKzXSg37To"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 198165,
       "name": "GIVE ME A BEAT!",
       "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What's That?",
-        "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
-      },
-      "artists": [
-        {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "What's That?",
-      "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 169566,
       "name": "WHO ELSE YOU KNOW!?",
       "url": "https://open.spotify.com/track/2MFzLd6FjVkUQzQIolalpO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What's That?",
+        "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "What's That?",
+      "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "drink bleach",
+        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "shake ya ass (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "drink bleach",
-        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "shake ya ass (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
     },
     {
       "added_at": null,
@@ -747,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Connected And Respected",
-        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "B-Legit",
-          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 221287,
-      "name": "Boy (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Connected And Respected",
+        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "B-Legit",
+          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 221287,
+      "name": "Boy (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
     },
     {
       "added_at": null,

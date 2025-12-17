@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,339 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,331 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

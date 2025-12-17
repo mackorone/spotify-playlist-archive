@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emre Fel, Tarkan, Ezhel ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,515 likes - 127 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,495 likes - 127 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

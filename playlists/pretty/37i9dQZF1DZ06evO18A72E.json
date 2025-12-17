@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777490,
+  "num_followers": 777506,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABTQi9gUaEGezsuvkJIs7pX",
+  "snapshot_id": "aT9PgAAAAAAIwsSDxU0CN+WTE3iN0k82",
   "tracks": [
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 246413,
-      "name": "Tonight, Tonight - Live In Denver",
-      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
+      "duration_ms": 160746,
+      "name": "King of the Clouds",
+      "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 160746,
-      "name": "King of the Clouds",
-      "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
+      "duration_ms": 246413,
+      "name": "Tonight, Tonight - Live In Denver",
+      "url": "https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5"
     },
     {
       "added_at": null,

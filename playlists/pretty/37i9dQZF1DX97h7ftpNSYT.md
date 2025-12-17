@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,209 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,260 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 32 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 |
 | 33 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 | 34 | [Pure Cocaine](https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 2:34 |
-| 35 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 |
-| 36 | [Practice](https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:57 |
+| 35 | [Practice](https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:57 |
+| 36 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 |
 | 37 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 |
 | 38 | [Transportin'](https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:49 |
 | 39 | [Freestyle](https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:42 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 72 | [Faneto](https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/4ofXNc9mk1eIeXSqHoYd1h) | 3:26 |
 | 73 | [Lord Pretty Flacko Jodye 2 \(LPFJ2\)](https://open.spotify.com/track/1j6kDJttn6wbVyMaM42Nxm) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 2:06 |
 | 74 | [Walk It Talk It](https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:36 |
-| 75 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |
-| 76 | [First Day Out](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My Moment](https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn) | 4:14 |
+| 75 | [First Day Out](https://open.spotify.com/track/3muBQDekYAg7jm6hDu6R0Z) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [My Moment](https://open.spotify.com/album/6074OsmUN1PdFgy0zTP4Fn) | 4:14 |
+| 76 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |
 | 77 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 78 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 |
 | 79 | [Codeine Crazy](https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:46 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 86 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 87 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
 | 88 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
-| 89 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
-| 90 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
+| 89 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
+| 90 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
 | 91 | [X \(feat\. Future\)](https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:18 |
 | 92 | [Studio](https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:38 |
 | 93 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:13 |

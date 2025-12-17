@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,628 likes - 75 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,729 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 67 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
 | 68 | [Crystalline](https://open.spotify.com/track/40Wmu8qja6oJYzDsZ4jek5) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Crystalline](https://open.spotify.com/album/4qhT2L4SCZdvBz51rkdJ6u) | 5:48 |
 | 69 | [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 |
-| 70 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
+| 70 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
 | 71 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
-| 72 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
+| 72 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
 | 73 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
 | 74 | [Inceptus](https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf) | [Arcana](https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le) | [As Bright as a Thousand Suns](https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx) | 6:29 |
-| 75 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 |
+| 75 | [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 |
 
 Snapshot ID: `AAAAAOIaNZmlIkqLyHeTv3KMI2LpJtjY`

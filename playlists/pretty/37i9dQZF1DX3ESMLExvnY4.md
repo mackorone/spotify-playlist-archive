@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ESMLExvnY4.md) - [plain]
 
 > The very best songs from a huge year for indie, according to Spotify editors\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,724 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,135 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

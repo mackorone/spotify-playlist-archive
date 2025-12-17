@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,311 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,280 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 22 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
 | 23 | [Poppies](https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [News of the Universe](https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft) | 3:32 |
 | 24 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
-| 25 | [Soft Rock Band](https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Soft Rock Band](https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m) | 8:12 |
-| 26 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
+| 25 | [Mystic Rabbit](https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI) | [Mystic Braves](https://open.spotify.com/artist/2EfFOe92ZZHE2lpappD8js) | [Mystic Braves](https://open.spotify.com/album/5CCSf3Ggf0oPVMC3arbLck) | 4:03 |
+| 26 | [Soft Rock Band](https://open.spotify.com/track/5XufqHphZkJhIkc5wlEST7) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Soft Rock Band](https://open.spotify.com/album/5iovC6HGeUUD5S8cahSw0m) | 8:12 |
 | 27 | [So Excited](https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [So Excited](https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8) | 4:00 |
 | 28 | [Riding the Wind](https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM) | [Offthewally](https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD) | [Bouquet](https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew) | 2:51 |
 | 29 | [Sun Rise Swell](https://open.spotify.com/track/5L6sVTCur1s0IuB7Nvs3pA) | [Santino Surfers](https://open.spotify.com/artist/0rhvpJA9qFkdTot8R8AdaQ) | [Santino Surfers](https://open.spotify.com/album/2gsKWl57HFPxbEooYtC3aP) | 6:17 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 31 | [Yes](https://open.spotify.com/track/1s0EhxGMlnR0E47dRmwFZe) | [Room Service](https://open.spotify.com/artist/2uUXIzIj1xEIyauiajWeyo) | [Things Left to Do](https://open.spotify.com/album/5kR8QkF6vQ2M8eFsiRiWSg) | 3:40 |
 | 32 | [Killin' the Vibe](https://open.spotify.com/track/4NcYXkAAvldlvl7esKz5A3) | [Ducktails](https://open.spotify.com/artist/5FQbU5Lrb4pFcW45ZgZzMx) | [III: Arcade Dynamics](https://open.spotify.com/album/1qJHtKPrmdreEmFOPPrTcf) | 4:19 |
 | 33 | [Sunlight](https://open.spotify.com/track/7nH4MetArjcIwGgZ4TBLYj) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Sunlight](https://open.spotify.com/album/4UevxgkjqAx6rBhGlA28Yl) | 3:51 |
-| 34 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
+| 34 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
 | 35 | [State Of Hawaii](https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [State Of Hawaii](https://open.spotify.com/album/5541RSz3RaWpTrymgn7c9h) | 4:15 |
-| 36 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
-| 37 | [Out Of Here](https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Out Of Here](https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx) | 2:31 |
+| 36 | [Thrift Store](https://open.spotify.com/track/1KjWTtDZa378N0C9Ug8SoH) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Thrift Store](https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ) | 2:14 |
+| 37 | [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 |
 | 38 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 39 | [I AM NOT SO TALL](https://open.spotify.com/track/6i2pZl5STYPFqQSigNa8Tt) | [Camp Blu](https://open.spotify.com/artist/6ABdWlgN5QfjDsCacBn6Nt) | [I AM NOT SO TALL](https://open.spotify.com/album/5pyo8OoK8CVAAX6193lM0U) | 2:54 |
 | 40 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 |

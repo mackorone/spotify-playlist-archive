@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,374 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,332 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 12 | [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 |
 | 13 | [Journey](https://open.spotify.com/track/070DusgGH4WJKyRIXrZz6u) | [Tim Schaufert](https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC) | [Journey](https://open.spotify.com/album/0arLnM5zOVRFXCMpFPJi0p) | 4:00 |
 | 14 | [Sunrays \[Strings\]](https://open.spotify.com/track/3dPjBWHW8rgJFFhy5MulzC) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [\[Strings\]](https://open.spotify.com/album/7wimi5iKffa1xaBMjGL6tw) | 3:29 |
-| 15 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
+| 15 | [past reality](https://open.spotify.com/track/3RViAza4cOPuDOYPjrHSxn) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [past reality](https://open.spotify.com/album/6fP98Qf3uKjiuhKIFOh8ZY) | 1:40 |
 | 16 | [Feather](https://open.spotify.com/track/08STAp6b8XFXxAVGhYQ5Oj) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb), [Thousand Giants](https://open.spotify.com/artist/4DE6KGYc9WvDoDy3F8trt9) | [Feather](https://open.spotify.com/album/4wpiQyWAeTMivcNHAEYXCg) | 1:50 |
-| 17 | [past reality](https://open.spotify.com/track/3RViAza4cOPuDOYPjrHSxn) | [a vow](https://open.spotify.com/artist/03vWQx7x09Nqiv7Ks0HC7C) | [past reality](https://open.spotify.com/album/6fP98Qf3uKjiuhKIFOh8ZY) | 1:40 |
+| 17 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
 | 18 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 | 19 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
 | 20 | [Easier Together](https://open.spotify.com/track/5Ld5t8mpxgLRitIEEgJkbm) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2) | [Easier Together](https://open.spotify.com/album/6CYe2W8fP2MmnSJVm0Ei8X) | 2:41 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 31 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
 | 32 | [Chaos in Calm](https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Chaos in Calm](https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam) | 4:44 |
 | 33 | [One Last Stand](https://open.spotify.com/track/6Pz5Uucqu9D4XAysJMUxTA) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [One Last Stand](https://open.spotify.com/album/0N38YlPeHTvHw9B8xf6rou) | 2:17 |
-| 34 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |
-| 35 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
+| 34 | [\#3](https://open.spotify.com/track/3QIpnNYnUMe1lrr5LJTStk) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works Volume II \(Expanded Edition\)](https://open.spotify.com/album/7gpblNxStuPCUouPvlyf2i) | 7:44 |
+| 35 | [Cloud Nine](https://open.spotify.com/track/4YUYErWWA2fRJOFwYUThBX) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Cloud Nine](https://open.spotify.com/album/4ZEj9V2IDWZUyESpDlraBg) | 3:12 |
 | 36 | [i feel lost \- orchestral reprise](https://open.spotify.com/track/7l2XviJ7uk4cijQXPd7uEO) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [Dan Heath](https://open.spotify.com/artist/0DHqlyxrbPpHcR8MQqP14P) | [Astral Projection \(Deluxe Edition\)](https://open.spotify.com/album/3GILJJDr4pbDI3pH8lNyJr) | 2:44 |
 | 37 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
 | 38 | [Autumn Star](https://open.spotify.com/track/5EiQP0rUHERC8QP1OT3TrH) | [RRAREBEAR](https://open.spotify.com/artist/3CodOUadRrQoRrbcPIGLWm) | [Autumn Star](https://open.spotify.com/album/6pJnyOJKtRPq4Zfsr6rW38) | 3:39 |

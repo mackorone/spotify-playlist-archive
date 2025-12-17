@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833,528 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,833,452 likes - 40 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Hirap Kalimutan](https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Hirap Kalimutan](https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C) | 2:53 |
 | 40 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
 
-Snapshot ID: `AAAAAMOJgS/ohFXyHlY6njgq0C5W57Da`
+Snapshot ID: `AAAAAAQXuKalukOBXCq8mIKbv8y9O60P`

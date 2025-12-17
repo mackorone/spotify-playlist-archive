@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 52841,
+  "num_followers": 52845,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADX1NNb+IkNEtAA7hw9EuvT",
+  "snapshot_id": "aT9PgAAAAABjH8Fzo+AJO0+Ab/QjM682",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -231,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/5B1XEvV3NaVPulBCafMGZg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -258,11 +258,15 @@
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 248013,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
+      "duration_ms": 176733,
+      "name": "Vivo Sohando - Stereo Version",
+      "url": "https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG"
     },
     {
       "added_at": null,
@@ -330,15 +334,11 @@
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Vivo Sohando - Stereo Version",
-      "url": "https://open.spotify.com/track/6bGoOBQ8bAorlQ5LoEOdiG"
+      "duration_ms": 248013,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "E Luxo So",
-      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -627,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
@@ -636,29 +616,13 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 389640,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/0qZItwF1HNXBno45TrdBSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stan Getz And The Cool Sounds",
-        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
+      "duration_ms": 220493,
+      "name": "E Luxo So",
+      "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
     },
     {
       "added_at": null,
@@ -687,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz With Guest Artist Laurindo Almeida",
-        "url": "https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9"
+        "name": "Stan Getz And The Cool Sounds",
+        "url": "https://open.spotify.com/album/4wTBjSOFmJQ0IWTdulEFVU"
       },
       "artists": [
         {
           "name": "Stan Getz",
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Laurindo Almeida",
-          "url": "https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk"
         }
       ],
-      "duration_ms": 402506,
-      "name": "Once Again (feat. Laurindo Almeida)",
-      "url": "https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg"
+      "duration_ms": 199440,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/1MWgBm6oR6sVhNwwh1roUh"
     },
     {
       "added_at": null,
@@ -720,9 +680,29 @@
           "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN"
+      "duration_ms": 389640,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/0qZItwF1HNXBno45TrdBSS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz With Guest Artist Laurindo Almeida",
+        "url": "https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Laurindo Almeida",
+          "url": "https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk"
+        }
+      ],
+      "duration_ms": 402506,
+      "name": "Once Again (feat. Laurindo Almeida)",
+      "url": "https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg"
     },
     {
       "added_at": null,
@@ -759,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jazz Samba Encore!",
         "url": "https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 413466,
       "name": "O Morro Nao Tem Vez",
       "url": "https://open.spotify.com/track/1Rs9fhY6wmDNVodvMPhdWN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 346160,
-      "name": "Ballad",
-      "url": "https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s"
     },
     {
       "added_at": null,
@@ -827,6 +807,26 @@
       "duration_ms": 251137,
       "name": "Chega De Saudade",
       "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 346160,
+      "name": "Ballad",
+      "url": "https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Band Bossa Nova",
         "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 349218,
       "name": "Manha De Carnaval",
       "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stan Getz Plays",
+        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/5E3iFJgQfgXojFieNg9C2w"
     },
     {
       "added_at": null,
@@ -939,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stan Getz Plays",
-        "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
+      "duration_ms": 368266,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/52g9vHlua2MBt6PhkZfUrT"
     }
   ],
   "unique_name": "This Is Stan Getz",

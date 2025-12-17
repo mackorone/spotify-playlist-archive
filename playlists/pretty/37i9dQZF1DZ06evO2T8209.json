@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 733226,
+  "num_followers": 733281,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAGIFyk4/5hwoESRJEVubCb",
+  "snapshot_id": "aT9PgAAAAAA+TScp7IGdItRbF2QnN2oh",
   "tracks": [
     {
       "added_at": null,
@@ -152,13 +152,21 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 197019,
-      "name": "St. Chroma (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "added_at": null,
@@ -228,21 +236,13 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+      "duration_ms": 197019,
+      "name": "St. Chroma (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
     },
     {
       "added_at": null,

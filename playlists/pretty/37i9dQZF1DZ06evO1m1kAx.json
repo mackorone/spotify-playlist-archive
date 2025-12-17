@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7870,
+  "num_followers": 7873,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAABEzqjGOS/2E38HJqUv8rqh",
+  "snapshot_id": "aT9PgAAAAADtOCVHJ1JQxTfohS0u3hoC",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balling",
+        "url": "https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "Balling",
+      "url": "https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "[I.N.I.T] In Nasboi I Trust",
         "url": "https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt"
       },
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balling",
-        "url": "https://open.spotify.com/album/1PkExWiua4WPctupFbAIBx"
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
       },
       "artists": [
         {
@@ -544,29 +544,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 170204,
-      "name": "Balling",
-      "url": "https://open.spotify.com/track/07NNN8R6nPalmCcJM8u4Ix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 228571,
-      "name": "Dance Go (Eau De Vie)",
-      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
       "added_at": null,
@@ -603,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+        "name": "Face 2 Face 10.0",
+        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
       "artists": [
         {
@@ -612,61 +592,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 225827,
-      "name": "We Must Groove (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gaga Shuffle",
-        "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 221584,
-      "name": "Gaga Shuffle",
-      "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 191425,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+      "duration_ms": 228571,
+      "name": "Dance Go (Eau De Vie)",
+      "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
     },
     {
       "added_at": null,
@@ -691,22 +623,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
         }
       ],
-      "duration_ms": 288920,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
+      "duration_ms": 191425,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gaga Shuffle",
+        "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 221584,
+      "name": "Gaga Shuffle",
+      "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
     },
     {
       "added_at": null,
@@ -731,6 +675,62 @@
       "duration_ms": 193044,
       "name": "Worry Me",
       "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 225827,
+      "name": "We Must Groove (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 288920,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
     },
     {
       "added_at": null,
@@ -851,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 140412,
       "name": "Troblem",
       "url": "https://open.spotify.com/track/12DX8rPfhrIm1Cs1FPE3Bk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 193939,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,

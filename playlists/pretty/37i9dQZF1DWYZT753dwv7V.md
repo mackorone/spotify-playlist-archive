@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,500 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,494 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 54 | [Per tutta la vita](https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Sulla Mia Pelle](https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3) | 3:12 |
 | 55 | [Amore Di Plastica](https://open.spotify.com/track/4Phog5jQ2VeTPevfFH0UcH) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Due Parole](https://open.spotify.com/album/5uNzCs9eLmDcUn7DtZvhq7) | 4:04 |
 | 56 | [Non amarmi](https://open.spotify.com/track/0YRMOyyJw458JBQhZMEvce) | [Francesca Alotta](https://open.spotify.com/artist/4GcNZfx2mvaMpGL76GAqBE), [Aleandro Baldi](https://open.spotify.com/artist/07RQpJUe4UmtHuLO7X17l4) | [Italian Love Songs](https://open.spotify.com/album/1og5fGuVXjSWeAGQMkfLrX) | 4:56 |
-| 57 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
-| 58 | [Noi Ragazzi Di Oggi](https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Canta En Italiano](https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz) | 3:41 |
-| 59 | [Siamo uguali](https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [1995](https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD) | 4:10 |
+| 57 | [Noi Ragazzi Di Oggi](https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Canta En Italiano](https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz) | 3:41 |
+| 58 | [Siamo uguali](https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [1995](https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD) | 4:10 |
+| 59 | [Pazza](https://open.spotify.com/track/1MwyUklCSLF8heoph2ttFe) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Pazza](https://open.spotify.com/album/3IGUYanHxdk5DX7aB8e3lv) | 2:48 |
 | 60 | [Ti regalerò una rosa](https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz) | [Dall'altra parte del cancello](https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw) | 3:48 |
 | 61 | [Ciao Ciao](https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [My Mamma](https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx) | 3:04 |
 | 62 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Le Robe Che Ha Detto Adriano](https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte) | 4:15 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 68 | [Se stiamo insieme](https://open.spotify.com/track/3V2TMVsl5LlDvEVff9hw31) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Tutti I Miei Sogni](https://open.spotify.com/album/0tkQys6CWErjTUroTILFsA) | 4:39 |
 | 69 | [E poi](https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 4:27 |
 | 70 | [Dieci](https://open.spotify.com/track/2lBLzzEARN8mGgHFaXYKKk) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Dieci](https://open.spotify.com/album/4FggiQxPJcGvwiRCpNhdx7) | 3:18 |
-| 71 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 |
-| 72 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
+| 71 | [Cosa hai messo nel caffè?](https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa) | [Riccardo Del Turco](https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq) | [Riccardo Del Turco](https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO) | 3:33 |
+| 72 | [VOCE](https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [VOCE](https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ) | 3:31 |
 | 73 | [Glicine](https://open.spotify.com/track/7g1MeIDCN0R36wi4bNarbN) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Glicine](https://open.spotify.com/album/1zKdr84teaXQZuQiOUjscD) | 3:37 |
 | 74 | [Per sentirmi vivo](https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Per sentirmi vivo](https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa) | 2:59 |
 | 75 | [L'ADDIO](https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [L'ADDIO](https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ) | 3:27 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 93 | [Contessa \- Original Version 1980](https://open.spotify.com/track/0CWJIpU0D8Bk78H1k7ELC6) | [Decibel](https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R) | [Le origini \- Gli anni d'oro \(1978 \- 1982\)](https://open.spotify.com/album/3u9mKrMogJjg9W0Y8tYKMH) | 3:03 |
 | 94 | [Come saprei](https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [Greatest Hits \(Le Cose Non Vanno Mai come Credi\)](https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm) | 5:00 |
 | 95 | [Portami via](https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Portami via](https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP) | 3:16 |
-| 96 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
+| 96 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |
 | 97 | [Salirò](https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe) | [Daniele Silvestri](https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF) | [Monetine](https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ) | 3:57 |
-| 98 | [Il mondo prima di te](https://open.spotify.com/track/6dNtIe63iTj60GXprm8H4j) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Il mondo prima di te](https://open.spotify.com/album/4FuHwClY6AO9CEyCigVoXJ) | 3:40 |
+| 98 | [I Tuoi Particolari](https://open.spotify.com/track/524euygKKFWurhvIdSrkg6) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [I Tuoi Particolari](https://open.spotify.com/album/6sbV5tigkQuCteprgk9pwd) | 3:39 |
 | 99 | [Cosa ti aspetti da me](https://open.spotify.com/track/7CwSOlR99SUUjNrO4qbAXj) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Cosa ti aspetti da me](https://open.spotify.com/album/10H82zO9BPH0aJSpaqu1hC) | 3:44 |
 | 100 | [Dio come ti amo!](https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 2:31 |
 

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAD5SUz9XceKvnX0yEKqgMrW",
+  "snapshot_id": "aT9PgAAAAABcXaWDRMQMOoUX8oQKJTmO",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "S\u00f3 Quero Viajar",
+        "url": "https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 213997,
+      "name": "S\u00f3 Quero Viajar",
+      "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica Paris",
         "url": "https://open.spotify.com/album/1sCto8C5QNFJF3zUZNwxXH"
       },
@@ -339,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Quero Viajar",
-        "url": "https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 213997,
-      "name": "S\u00f3 Quero Viajar",
-      "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Valho Nada",
         "url": "https://open.spotify.com/album/511Et9PDDBj9qlrYttpUgx"
       },
@@ -379,6 +379,26 @@
       "duration_ms": 197076,
       "name": "Eu N\u00e3o Valho Nada",
       "url": "https://open.spotify.com/track/1Ko3CMKQkQJs51ubIM61k9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O LEGADO",
+        "url": "https://open.spotify.com/album/5rzrUgRwczGE0Lf81h826e"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 202706,
+      "name": "Nunca Esquecer Voc\u00ea",
+      "url": "https://open.spotify.com/track/4Micu1ss30fVwGFI2Eo09W"
     },
     {
       "added_at": null,
@@ -407,26 +427,6 @@
       "duration_ms": 237065,
       "name": "Olhares",
       "url": "https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O LEGADO",
-        "url": "https://open.spotify.com/album/5rzrUgRwczGE0Lf81h826e"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 202706,
-      "name": "Nunca Esquecer Voc\u00ea",
-      "url": "https://open.spotify.com/track/4Micu1ss30fVwGFI2Eo09W"
     },
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jurei Part 2",
-        "url": "https://open.spotify.com/album/1rFSdmt0U74X5r6UBm4tnK"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Barromeo",
-          "url": "https://open.spotify.com/artist/2f6SGZWJaB1JFHOTuYJJci"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Jurei Part 2",
-      "url": "https://open.spotify.com/track/1r7a50jC6ztmKBsHexhDqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Mundo da Lua / Abra\u00e7o",
         "url": "https://open.spotify.com/album/37nOw9dRbFcZIftIN1b4P0"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 180032,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jurei Part 2",
+        "url": "https://open.spotify.com/album/1rFSdmt0U74X5r6UBm4tnK"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Barromeo",
+          "url": "https://open.spotify.com/artist/2f6SGZWJaB1JFHOTuYJJci"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Jurei Part 2",
+      "url": "https://open.spotify.com/track/1r7a50jC6ztmKBsHexhDqc"
     },
     {
       "added_at": null,

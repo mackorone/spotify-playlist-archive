@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 10 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 13 likes - 10 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZJWBxAfzpO.md) - [plain]
 | 6 | [Ep\. 19: Si Abi Marquez AKA Lumpia Queen is the Lea Salonga of Pinoy cooking content\. Paano niya na collab si Gordon Ramsey, Nigel Ng, ATBP?](https://open.spotify.com/episode/2ohVYaO19QU3KjxUAT2yk0) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 49:29 |
 | 7 | [K's Drama S3E3: The Healing Power of Books with Korean Author Hwang Bo\-reum](https://open.spotify.com/episode/1JBrij9U2Q6Z2OfNqXRfs0) | [K's Drama](https://open.spotify.com/show/71lx8xSpslbjlYJGVCoieI) | [K's Drama](https://open.spotify.com/album/71lx8xSpslbjlYJGVCoieI) | 28:04 |
 | 8 | [DAGOK TIME \- ISTURII EPISODE 37](https://open.spotify.com/episode/0fzFGvTcGKmMxXvJDBuWeO) | [DAGOK TIME!](https://open.spotify.com/show/0lAfs5tpnJwfAcX5M0cYXo) | [DAGOK TIME!](https://open.spotify.com/album/0lAfs5tpnJwfAcX5M0cYXo) | 50:23 |
-| 9 | [EP 42: In Aid of Alien: Ang Dating Doon Reunion \(with guests Caesar Cosme, Isko Salvador, & Chito Francisco\)](https://open.spotify.com/episode/2CWsnRRmVsifOTIU3Gnkno) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 48:17 |
+| 9 | [EP 42: In Aid of Alien: Ang Dating Doon Reunion \(with guests Caesar Cosme, Isko Salvador, & Chito Francisco\)](https://open.spotify.com/episode/2CWsnRRmVsifOTIU3Gnkno) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 47:16 |
 | 10 | [Gabi Ng What Ifs?](https://open.spotify.com/episode/6UYWoXHyS6G9G1huJWr811) | [yani’s room](https://open.spotify.com/show/4X9zEtsaAuEvicwvj2MGFD) | [yani’s room](https://open.spotify.com/album/4X9zEtsaAuEvicwvj2MGFD) | 55:43 |
 
 Snapshot ID: `AAAAAEgOOVax+bclH4B0NEDabMNkU+2H`

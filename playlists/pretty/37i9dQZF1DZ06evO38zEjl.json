@@ -1,12 +1,12 @@
 {
   "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
-  "num_followers": 3301,
+  "num_followers": 3300,
   "original_name": "This Is Jon Hassell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAkNG9AnX4M31LtmjDz8EXZ",
+  "snapshot_id": "aT9PgAAAAACGs5l6Ert97p88iC/Vebg+",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 177480,
-      "name": "Unknown Wish",
-      "url": "https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey"
+      "duration_ms": 105533,
+      "name": "Cool Down Coda",
+      "url": "https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 105533,
-      "name": "Cool Down Coda",
-      "url": "https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka"
+      "duration_ms": 177480,
+      "name": "Unknown Wish",
+      "url": "https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 344653,
-      "name": "Manga Scene",
-      "url": "https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI"
+      "duration_ms": 358506,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/41OlvYdgxc3cVkhzKrhCUg"
     },
     {
       "added_at": null,
@@ -651,6 +651,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 427533,
+      "name": "Power Spot",
+      "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 344653,
+      "name": "Manga Scene",
+      "url": "https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 392933,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Utopies",
         "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
       },
@@ -679,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listening To Pictures (Pentimento Volume One)",
-        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Al Kongo Udu",
-      "url": "https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seeing Through Sound (Pentimento Volume Two)",
-        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 392933,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Power Spot",
         "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
       },
@@ -723,6 +739,38 @@
       "duration_ms": 261173,
       "name": "Miracle Steps",
       "url": "https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Empire II",
+      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 1314912,
+      "name": "Vernal Equinox",
+      "url": "https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z"
     },
     {
       "added_at": null,
@@ -759,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
       },
       "artists": [
         {
@@ -768,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 1314912,
-      "name": "Vernal Equinox",
-      "url": "https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z"
+      "duration_ms": 325786,
+      "name": "Passage D.E.",
+      "url": "https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk"
     },
     {
       "added_at": null,
@@ -784,25 +832,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 293973,
-      "name": "Empire II",
-      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Power Spot",
-        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 427533,
-      "name": "Power Spot",
-      "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
+      "duration_ms": 429133,
+      "name": "Empire III",
+      "url": "https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg"
     },
     {
       "added_at": null,
@@ -859,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aka / Darbari / Java",
-        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 429133,
-      "name": "Empire III",
-      "url": "https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Power Spot",
         "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
       },
@@ -884,69 +900,9 @@
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
         }
       ],
-      "duration_ms": 325786,
-      "name": "Passage D.E.",
-      "url": "https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound (2023 Remaster)",
-        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "J.A. Deane",
-          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
-        },
-        {
-          "name": "Jean-Philippe Rykiel",
-          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
-        },
-        {
-          "name": "Michael Brook",
-          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
-        }
-      ],
-      "duration_ms": 429381,
-      "name": "Hamburg - 2023 Remaster",
-      "url": "https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siwan",
-        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
-      },
-      "artists": [
-        {
-          "name": "Jon Balke",
-          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
-        },
-        {
-          "name": "Amina Alaoui",
-          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
-        },
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Kheir Eddine M'Kachiche",
-          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
-        },
-        {
-          "name": "Bjarte Eike",
-          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
-        }
-      ],
-      "duration_ms": 270040,
-      "name": "Ondas Do Mar De Vigo",
-      "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
+      "duration_ms": 320266,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
     },
     {
       "added_at": null,
@@ -963,6 +919,22 @@
       "duration_ms": 220533,
       "name": "Empire V",
       "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "duration_ms": 475706,
+      "name": "New Gods",
+      "url": "https://open.spotify.com/track/6B3A4jhHUQ9m4hOROhvo8p"
     }
   ],
   "unique_name": "This Is Jon Hassell",

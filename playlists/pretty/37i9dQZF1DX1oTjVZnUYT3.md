@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,115 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,144 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 20 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
 | 21 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
 | 22 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
-| 23 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
-| 24 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
+| 23 | [Olhos Coloridos](https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Sandra de Sá \- 1982](https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol) | 4:27 |
+| 24 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
 | 25 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
 | 26 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 27 | [Jorge Maravilha](https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Umas E Outras](https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG) | 3:40 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 47 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
 | 48 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
 | 49 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
-| 50 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
-| 51 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
+| 50 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
+| 51 | [Vaca Profana](https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Canta Caetano](https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV) | 4:44 |
 | 52 | [Como Vovó Já Dizia \(Óculos Escuros\)](https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [20 Grandes Sucessos De Raul Seixas](https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU) | 3:21 |
 | 53 | [Beleza Rara \- Ao Vivo](https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:35 |
 | 54 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |

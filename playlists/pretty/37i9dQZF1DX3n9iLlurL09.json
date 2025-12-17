@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 107585,
+  "num_followers": 107616,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 276720,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Mature Themes",
         "url": "https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 287426,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 276720,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/4kbYevkszYmMhoQcwnR7cZ"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH"
-      },
-      "artists": [
-        {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
-        }
-      ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Sweet Disarray",
         "url": "https://open.spotify.com/album/2qg3JERQKBjZXvMBtvKR0y"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196848,
       "name": "From Nowhere",
       "url": "https://open.spotify.com/track/5c9YHjSjEZxaCxsF1Gy5Jt"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1540,9 +1540,9 @@
           "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 182666,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/1LfKHwrMydWNruvTonm0eO"
+      "duration_ms": 314986,
+      "name": "Taro",
+      "url": "https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 314986,
-      "name": "Taro",
-      "url": "https://open.spotify.com/track/7EDMvrb5PA5TP0VQ8z9p82"
+      "duration_ms": 182666,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/1LfKHwrMydWNruvTonm0eO"
     },
     {
       "added_at": "2025-03-14 12:16:12",

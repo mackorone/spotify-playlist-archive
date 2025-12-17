@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,083 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,086 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 59 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
 | 60 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
 | 61 | [RAIN](https://open.spotify.com/track/0aFUi8kAIUcLEaM6LylNui) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [RAIN](https://open.spotify.com/album/6opQlVBxjiPp5WS0QCuOe3) | 5:06 |
-| 62 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
-| 63 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
+| 62 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
+| 63 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 64 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 |
 | 65 | [朝顔](https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [朝顔](https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e) | 5:36 |
 | 66 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |

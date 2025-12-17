@@ -1,6 +1,6 @@
 {
   "description": "Canciones de rock dignas de festival para dedicarle a tu media naranja.",
-  "num_followers": 144943,
+  "num_followers": 144974,
   "original_name": "Amor Festivalero",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-09-05 06:00:12",
       "album": {
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 290063,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
+    },
+    {
+      "added_at": "2025-09-05 06:00:12",
+      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 280080,
       "name": "Arr\u00e9glame el Alma (feat. Maria Barracuda) - En Vivo",
       "url": "https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z"
-    },
-    {
-      "added_at": "2025-09-05 06:00:12",
-      "album": {
-        "name": "Igual Que Ayer",
-        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 290063,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD"
     },
     {
       "added_at": "2025-09-05 06:00:12",

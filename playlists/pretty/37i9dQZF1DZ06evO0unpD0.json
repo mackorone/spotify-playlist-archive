@@ -1,12 +1,12 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 13376,
+  "num_followers": 13378,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAARlFak7JomTEa+qst4YYV2",
+  "snapshot_id": "aT9PgAAAAADRTDgMeF+5imazWsQoux7x",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tal\u00e9",
-        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+        "name": "So Kono",
+        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Tal\u00e9",
-      "url": "https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32"
+      "duration_ms": 327040,
+      "name": "Awa",
+      "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Kono",
-        "url": "https://open.spotify.com/album/3Kp6AmA5EEW5vKwU8qAJmY"
+        "name": "Tal\u00e9",
+        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 327040,
-      "name": "Awa",
-      "url": "https://open.spotify.com/track/75G3E59I9CGpFQMgtdahOk"
+      "duration_ms": 249600,
+      "name": "Tal\u00e9",
+      "url": "https://open.spotify.com/track/5Z279TzbPAtGQNRpcfxq32"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "N B'I Fe",
-      "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 267693,
       "name": "Folon",
       "url": "https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "N B'I Fe",
+      "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
     },
     {
       "added_at": null,
@@ -763,54 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Karifa",
-      "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 378706,
-      "name": "Nyanyama",
-      "url": "https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tal\u00e9",
-        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "A demain",
-      "url": "https://open.spotify.com/track/6vIUiseKiLL1KJ7gS6pmM1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Betece - All Stars",
         "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
       },
@@ -847,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tal\u00e9",
+        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "A demain",
+      "url": "https://open.spotify.com/track/6vIUiseKiLL1KJ7gS6pmM1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 378706,
+      "name": "Nyanyama",
+      "url": "https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moffou (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 273306,
       "name": "Iniagige",
       "url": "https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Karifa",
+      "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2025 yazına damga vuran şarkılar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,597 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,562 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

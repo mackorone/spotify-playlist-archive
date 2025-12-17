@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,401 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,403 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 3 | [Radio](https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK) | 4:41 |
 | 4 | [Private Eye](https://open.spotify.com/track/3pKd2WdIgHxw9ztbAjWUJ6) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 3:30 |
 | 5 | [Time to Waste](https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Crimson](https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F) | 4:11 |
-| 6 | [Bleeding Out](https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bleeding Out](https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO) | 3:01 |
-| 7 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
+| 6 | [Calling All Skeletons](https://open.spotify.com/track/5wietlPYUdZe5MEPOrrvww) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Agony & Irony \(Deluxe Edition\)](https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l) | 3:20 |
+| 7 | [Bleeding Out](https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bleeding Out](https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO) | 3:01 |
 | 8 | [Armageddon](https://open.spotify.com/track/4vjr73F3KT000ii3fzPrib) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [From Here to Infirmary](https://open.spotify.com/album/7gtS3OJQlbZg16KZ59Qyhh) | 2:49 |
 | 9 | [Surprise Surprise](https://open.spotify.com/track/3pM6JXD9ELe2GATA6NXyQt) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Surprise Surprise](https://open.spotify.com/album/0FDA1qgav59oEQxtu8fZBc) | 4:13 |
 | 10 | [This Could Be Love](https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Good Mourning](https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [Cringe](https://open.spotify.com/track/7ybKcYQZbAF7QGSovgqwPQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Goddamnit!](https://open.spotify.com/album/6600hazblXXS27uIdcPLBs) | 2:23 |
 | 50 | [Wash Away](https://open.spotify.com/track/5twG8E8B7HbzSkwiRhU8j4) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 3:27 |
 
-Snapshot ID: `aT3+AAAAAACOWF+2Kt7L4qoUpV0o1DnL`
+Snapshot ID: `aT9PgAAAAABfpfy3YDtSdUXYxxapVNu+`

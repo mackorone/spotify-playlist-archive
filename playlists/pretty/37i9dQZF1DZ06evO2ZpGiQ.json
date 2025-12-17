@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 472573,
+  "num_followers": 472618,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADnIDFhtXAsthUGihtC59z7",
+  "snapshot_id": "aT9PgAAAAACLJFVHn7tgpGDar6UF0e9a",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter IV (Explicit Version)",
         "url": "https://open.spotify.com/album/2YL3ddwHuiBGumvzcGHyjT"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 305840,
       "name": "She Will",
       "url": "https://open.spotify.com/track/78O33U6jbQtNiNfbkZudpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
     },
     {
       "added_at": null,
@@ -403,30 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Scared of the Dark (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 222586,
       "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
       "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Scared of the Dark (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
     },
     {
       "added_at": null,
@@ -931,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Three Ringz (Thr33 Ringz) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/2J2PDIvk1YCTFy0HbJjyr7"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "Can't Believe It (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 309026,
       "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Three Ringz (Thr33 Ringz) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/2J2PDIvk1YCTFy0HbJjyr7"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "Can't Believe It (feat. Lil' Wayne)",
-      "url": "https://open.spotify.com/track/4D2cYdHqk8tu65jUig4OcN"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Gimme That Remix (feat. Lil' Wayne)",
-      "url": "https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 321080,
       "name": "The Real Her",
       "url": "https://open.spotify.com/track/74atKkOasLOVzvqB6mYgga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Gimme That Remix (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb"
     },
     {
       "added_at": null,

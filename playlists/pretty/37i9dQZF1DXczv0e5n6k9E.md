@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Dani Gambino, Nume
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,729 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,727 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adeies Verantes](https://open.spotify.com/track/4d2L1ntfgswj1aVWdnb5RO) | [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Nume](https://open.spotify.com/artist/62tV1e6rfkhuGPewxuOsjD), [Kaist](https://open.spotify.com/artist/4imUIlkV0mdCbhSPRMyclz) | [Adeies Verantes](https://open.spotify.com/album/6pUyHBROOwX0JjMLO5KhYz) | 4:07 |
 | 2 | [LADY DIOR](https://open.spotify.com/track/0dDlLhfgHqLLWyvKGDAzxD) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Kest](https://open.spotify.com/artist/2EnhdBc8wuBfUBIWDBVjEv), [Adams](https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv) | [CAPO DEI CAPI \(Deluxe\)](https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50) | 3:06 |
 | 3 | [SEIRA](https://open.spotify.com/track/1zT7YyT8AUaYIriXCN7nWY) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [SEIRA](https://open.spotify.com/album/45FUklLice74eFv7rpNnAM) | 2:24 |
-| 4 | [90th Floor](https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [90th Floor](https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq) | 2:35 |
+| 4 | [90th FLOOR](https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [90th FLOOR](https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq) | 2:35 |
 | 5 | [Lete Lete](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Lete Lete](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |
 | 6 | [CHOCO FRESH](https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [CHOCO FRESH](https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv) | 3:41 |
 | 7 | [Ntolia](https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Ntolia](https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs) | 3:34 |

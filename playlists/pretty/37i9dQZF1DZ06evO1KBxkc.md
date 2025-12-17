@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,199 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,213 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 49 | [Beast Mode \(feat\. PnB Rock & YoungBoy Never Broke Again\)](https://open.spotify.com/track/1AH60dMaEfNjzDoUIFwIQi) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 4:18 |
 | 50 | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Horses \(with PnB Rock, Kodak Black & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv) | 4:09 |
 
-Snapshot ID: `aT3+AAAAAAAf20iosRnflLOrz+r2PHu+`
+Snapshot ID: `aT9PgAAAAAAMi8pkIWnhCim4vQolHHC2`

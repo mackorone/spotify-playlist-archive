@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 16175,
+  "num_followers": 16183,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADuy6ETRKmPlg/2xC2a+p7L",
+  "snapshot_id": "aT9PgAAAAAC37hHaQV1XSwWz/IIht3BQ",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 217000,
-      "name": "That Lucky Old Sun",
-      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jail",
-        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Oh Happy Day",
-      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+      "duration_ms": 217000,
+      "name": "That Lucky Old Sun",
+      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
+      "duration_ms": 199133,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 199133,
-      "name": "I Need Your Love",
-      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
-        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 357600,
-      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
-      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 568560,
       "name": "Mixed Up Feeling",
       "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
     },
     {
       "added_at": null,

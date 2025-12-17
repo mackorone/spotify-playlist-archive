@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Ankhoï & Luch hypes us up for Tulum 26'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,003 likes - 376 songs - 1 day 0 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,023 likes - 376 songs - 1 day 0 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

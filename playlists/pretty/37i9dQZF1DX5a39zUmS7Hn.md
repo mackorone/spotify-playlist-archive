@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Buckingham Nicks
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,226 likes - 80 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,401 likes - 80 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 52 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 53 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
 | 54 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
-| 55 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
-| 56 | [Firestarter](https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP) | 4:39 |
+| 55 | [Firestarter](https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP) | 4:39 |
+| 56 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 57 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 |
 | 58 | [Songbird \- 2004 Remaster](https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:20 |
 | 59 | [Ashes to Ashes \- 2017 Remaster](https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters \(And Super Creeps\) \[2017 Remaster\]](https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0) | 4:26 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 76 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
 | 77 | [One Day Like This](https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid](https://open.spotify.com/album/25KJ3Be6nm3mvFOOKZU2TE) | 6:34 |
 | 78 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
-| 79 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
+| 79 | [The Wizard \- 2009 Remaster](https://open.spotify.com/track/02VKxjok07ypt3oFlGRjmH) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 4:22 |
 | 80 | [Love Spreads](https://open.spotify.com/track/6JvEXmRh3l2acBzvqavgT9) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [Second Coming](https://open.spotify.com/album/3DE7aixVSE6DZ6ALYIztT0) | 5:47 |
 
 Snapshot ID: `AAAAAL59f72el3Xa43/DQEBqJ2MkNkqc`

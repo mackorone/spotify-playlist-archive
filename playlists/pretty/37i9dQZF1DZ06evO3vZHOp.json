@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 372787,
+  "num_followers": 372818,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAZpTrn18UDcKZ/XTwwf8SF",
+  "snapshot_id": "aT9PgAAAAAAPUNdJugBY9p/OT0Uwxm7b",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 173524,
+      "name": "La Canci\u00f3n Feliz Del Disco",
+      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
       },
@@ -739,42 +775,6 @@
       "duration_ms": 288282,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 173524,
-      "name": "La Canci\u00f3n Feliz Del Disco",
-      "url": "https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Hugo",
-      "url": "https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt"
     },
     {
       "added_at": null,

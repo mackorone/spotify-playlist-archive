@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: Snõõper
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,553 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,548 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 48 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
 | 49 | [Bite Me](https://open.spotify.com/track/0Gs26tFXxFrZNZm2lXQfDg) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Bite Me](https://open.spotify.com/album/1GhiWvB9ZkwfYakj9PyG0j) | 2:07 |
 | 50 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
-| 51 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
-| 52 | [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 |
+| 51 | [Stupid](https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Stupid](https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB) | 2:25 |
+| 52 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
 | 53 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
 | 54 | [Spineless](https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Keep Planting Flowers](https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR) | 3:23 |
 | 55 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 75 | [Mirror Muscles](https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Mirror Muscles](https://open.spotify.com/album/7t0LEMUQbVJ6VaEGQSGSbG) | 2:43 |
 | 76 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |
 | 77 | [HARDSTYLE](https://open.spotify.com/track/5GmH8zSn6ri8ftbJDR8rE7) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:28 |
-| 78 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
-| 79 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
+| 78 | [GROWING UP ON THE INTERNET](https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:19 |
+| 79 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 80 | [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 |
 
 Snapshot ID: `AAAAAH0EIKNLwbJS7MUxz7eow2Y51gvB`

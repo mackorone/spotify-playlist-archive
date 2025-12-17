@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 12827,
+  "num_followers": 12825,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADun0sVXL9T2j97fhLu+eEN",
+  "snapshot_id": "aT9PgAAAAAAiG8qDkRqthlHB3/iXZwmV",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 252567,
-      "name": "Let It Begin",
-      "url": "https://open.spotify.com/track/3dd7wLbejZqli43R7MBalG"
+      "duration_ms": 244780,
+      "name": "Constantly",
+      "url": "https://open.spotify.com/track/1CZXdJLXpC5ZwFl2caa3sV"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 244780,
-      "name": "Constantly",
-      "url": "https://open.spotify.com/track/1CZXdJLXpC5ZwFl2caa3sV"
+      "duration_ms": 252567,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/3dd7wLbejZqli43R7MBalG"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Come To Life: The Redeemed Edition",
+        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 288060,
+      "name": "No Other Name",
+      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 193760,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/0gUyORfzmUVj2WrpuUh0fD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Come To Life: The Redeemed Edition",
-        "url": "https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 288060,
-      "name": "No Other Name",
-      "url": "https://open.spotify.com/track/12R460xrc3YK1V7PUYK6nz"
     },
     {
       "added_at": null,

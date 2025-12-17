@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,846 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,847 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 18 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 |
 | 19 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 20 | [Hello](https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Bad With Names](https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3) | 2:55 |
-| 21 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 |
-| 22 | [Everything Burns](https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Everything Burns](https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH) | 2:52 |
-| 23 | [The Heat](https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [The Heat](https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe) | 2:16 |
-| 24 | [Lovin’](https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Lovin’](https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE) | 3:01 |
+| 21 | [Everything Burns](https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Everything Burns](https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH) | 2:52 |
+| 22 | [Circles](https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millennials](https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF) | 4:06 |
+| 23 | [State of Blue](https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [Freie Interpreten](https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu) | 3:49 |
+| 24 | [The Heat](https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [The Heat](https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe) | 2:16 |
 | 25 | [LEMONADE](https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [LEMONADE](https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3) | 1:58 |
-| 26 | [State of Blue](https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [Freie Interpreten](https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu) | 3:49 |
+| 26 | [Lovin’](https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Lovin’](https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE) | 3:01 |
 | 27 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |
 | 28 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 |
 | 29 | [Lose It](https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:30 |

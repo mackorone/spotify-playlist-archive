@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Offset",
-  "num_followers": 506060,
+  "num_followers": 506039,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,30 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -479,30 +491,18 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+      "duration_ms": 239266,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "Fetty Wap (Deluxe)",
-        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
-      },
-      "artists": [
-        {
-          "name": "Fetty Wap",
-          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Trap Queen",
-      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
         "name": "TEC",
         "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 144390,
       "name": "500lbs",
       "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
+        "name": "Fetty Wap (Deluxe)",
+        "url": "https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw"
+      },
+      "artists": [
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Trap Queen",
+      "url": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 190666,
       "name": "Big Dawgs",
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
         "name": "SLUT SZN",
         "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -1111,42 +1111,6 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -1171,18 +1135,58 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 238249,
-      "name": "DUMBO",
-      "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
+      "duration_ms": 246133,
+      "name": "MELTDOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "Love Sick (Deluxe)",
-        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 192693,
-      "name": "Embarrassed (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
+        "name": "Love Sick (Deluxe)",
+        "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Embarrassed (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6w9GrSUaQQIaMBYtabge7p"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -1279,22 +1299,6 @@
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": "2025-12-15 19:16:36",
@@ -1731,26 +1735,6 @@
     {
       "added_at": "2025-12-15 19:16:36",
       "album": {
-        "name": "Texas Technician",
-        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Twisting Fingers (with Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
-    },
-    {
-      "added_at": "2025-12-15 19:16:36",
-      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -1767,6 +1751,26 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2025-12-15 19:16:36",
+      "album": {
+        "name": "Texas Technician",
+        "url": "https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Twisting Fingers (with Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh"
     },
     {
       "added_at": "2025-12-15 19:16:36",

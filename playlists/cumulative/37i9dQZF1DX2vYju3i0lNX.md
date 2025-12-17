@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,279 songs - 3 day 3 hr 12 min
+1,280 songs - 3 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,7 +824,7 @@
 | [Old Person Eyes](https://open.spotify.com/track/34jngIAweykNyuwP52VCaQ) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Old Person Eyes](https://open.spotify.com/album/34x4zL9sqIP8YGfbRwxX3v) | 3:39 | 2022-05-24 | 2023-03-03 |
 | [Omväg](https://open.spotify.com/track/0MZ7p6un0inDbapCDPPIcP) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [Omväg](https://open.spotify.com/album/0CAWcpiAZQyHUwHVVHx62D) | 2:48 | 2021-12-07 | 2022-11-25 |
 | [On A Clear Day](https://open.spotify.com/track/2rtTRNbX2fRQGsLBje9YHS) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [On A Clear Day](https://open.spotify.com/album/3hLEkeJRG2VTK3M7015jt0) | 2:37 | 2022-10-13 | 2025-11-19 |
-| [On A Roll](https://open.spotify.com/track/11FJDa7Vlnr5WRdCK8T3Zx) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [On A Roll](https://open.spotify.com/album/79K7tU27iF9pm3yhtZ5Npk) | 4:01 | 2025-02-24 |  |
+| [On A Roll](https://open.spotify.com/track/11FJDa7Vlnr5WRdCK8T3Zx) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [On A Roll](https://open.spotify.com/album/79K7tU27iF9pm3yhtZ5Npk) | 4:01 | 2025-02-24 | 2025-12-17 |
 | [On A Winter's Eve](https://open.spotify.com/track/5mkqrH1MDW53r0XGfYIwvp) | [Malcolm Edmonstone Trio](https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H) | [On A Winter's Eve](https://open.spotify.com/album/1LaEKMLPcsKAK2ljs9u3fE) | 4:19 | 2025-01-07 | 2025-03-25 |
 | [On My Own](https://open.spotify.com/track/4wEbOI5l8rNidBk2BeNmo7) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [On My Own](https://open.spotify.com/album/2Jmi6zdQVavjTu69m8JARk) | 3:46 | 2024-04-16 | 2025-07-24 |
 | [On Repeat](https://open.spotify.com/track/0DH1r35QPYQGWSVWiPb8nC) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [On Repeat](https://open.spotify.com/album/4vKULVroJWpWyQ6KnlxZSd) | 3:24 | 2023-09-22 | 2025-11-19 |
@@ -1221,6 +1221,7 @@
 | [When Love Is Gone](https://open.spotify.com/track/2Nczjj8yaXkh6Q3w68N2Q6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [When Love Is Gone](https://open.spotify.com/album/7oTWawtHkR0ZoDl63wlXBl) | 3:35 | 2023-09-22 | 2025-01-21 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2021-12-07 | 2022-08-31 |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 | 2024-10-02 |
+| [When We Fall In To Blue](https://open.spotify.com/track/46o29rDFwnxjklHJ3oklgB) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [When We Fall In To Blue](https://open.spotify.com/album/6wo0eYdXoYs7cOkePxTKsY) | 3:28 | 2025-12-16 |  |
 | [When We Meet Again](https://open.spotify.com/track/62zUCKGWHoXzoFYxnhOYoq) | [Hamilton Reed Quartet](https://open.spotify.com/artist/5wrghSelzLqPiapSBx7fsu) | [When We Meet Again](https://open.spotify.com/album/2nb45llfMChiQ2ef1HRyL0) | 3:22 | 2025-01-14 |  |
 | [When We Used to Dance](https://open.spotify.com/track/5Id5aycj6xfkbsFnPPkGpM) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [When We Used to Dance](https://open.spotify.com/album/5n7kAGhnRuq6125wXayPR4) | 3:09 | 2025-03-03 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 | 2025-03-19 |

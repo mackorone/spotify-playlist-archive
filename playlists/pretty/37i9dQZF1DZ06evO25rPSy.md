@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,038 likes - 39 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,040 likes - 39 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cuéntame](https://open.spotify.com/track/76KLnsqCiFEFTEQp2Vaf8R) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:58 |
 | 2 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 |
 | 3 | [Los Globos del Cielo](https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:59 |
-| 4 | [Como las Mariposas](https://open.spotify.com/track/0WOLFak8lmmotq3HbWRd8r) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 3:49 |
+| 4 | [Lo Olvidé](https://open.spotify.com/track/2Xxx8Xv7DLXHRYtL1i76jy) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 3:58 |
 | 5 | [Si Escuchas a un Angel](https://open.spotify.com/track/4OZN1r8FyvLXnaZhdZH4f6) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:01 |
 | 6 | [Degeneración Actual](https://open.spotify.com/track/58t9Q8VqXGhaqtilMkIkRx) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 5:16 |
 | 7 | [Me Estoy Enamorando](https://open.spotify.com/track/4COvULULVKLsMKMRKIiXUa) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 4:46 |
-| 8 | [Lo Olvidé](https://open.spotify.com/track/2Xxx8Xv7DLXHRYtL1i76jy) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 3:58 |
+| 8 | [Como las Mariposas](https://open.spotify.com/track/0WOLFak8lmmotq3HbWRd8r) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 3:49 |
 | 9 | [No Pensé Que Era Amor](https://open.spotify.com/track/7jXYUkQiz302VHuZjmMuyI) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:53 |
 | 10 | [Alquien Que Bese Como Tu](https://open.spotify.com/track/3yX13QX2pqJP55Q0Tg8Pm5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 6:06 |
 | 11 | [Te Siento de Sólo Pensar](https://open.spotify.com/track/2w1rwzelNTt9VKdh9tHGO5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:22 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 38 | [Túnel del Tiempo](https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:16 |
 | 39 | [El Triunfo Tan Soñado](https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 4:22 |
 
-Snapshot ID: `aT3+AAAAAAAbSsELAXEeqFBprT5V9F/d`
+Snapshot ID: `aT9PgAAAAAAacJbn69NiFdszios+ORGL`

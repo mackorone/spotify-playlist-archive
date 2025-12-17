@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783 likes - 19 songs - 45 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 19 songs - 45 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 18 | [Breaking Horses](https://open.spotify.com/track/2skAWuKTCEDglrXJtHD0Dv) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 5:58 |
 | 19 | [Saint Luke's](https://open.spotify.com/track/4LgoROt9rZS81HR1rlCjZd) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:43 |
 
-Snapshot ID: `aT3+AAAAAADkDVPzNIlnnVmU6hwhRLaG`
+Snapshot ID: `aT9PgAAAAAChhfZ4n2yBQCdboYjsBANz`

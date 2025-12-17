@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 
 > The essential pop rock songs from the 2000s\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,148 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,393 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vEn8vBG5Y1.md) - [plain]
 | 55 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 56 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 |
 | 57 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
-| 58 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
-| 59 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
+| 58 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
+| 59 | [Superman \(It's Not Easy\)](https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [America Town](https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY) | 3:41 |
 | 60 | [I'm A Believer](https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh) | 3:05 |
 | 61 | [Nothing In My Way](https://open.spotify.com/track/7falOwHJ9MjskdcNehIh79) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Under The Iron Sea](https://open.spotify.com/album/02Ird1pnGUdA6ruy87cxVa) | 4:00 |
 | 62 | [Stop And Stare](https://open.spotify.com/track/0pg4ptWsO9eMH6nEhrM9fD) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV) | 3:43 |

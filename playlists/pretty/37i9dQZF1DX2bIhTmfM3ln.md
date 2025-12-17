@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,340 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,360 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 27 | [Only God Can Save Me](https://open.spotify.com/track/3S3i0KI1QrbRbmdqS5zr9a) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:43 |
 | 28 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 29 | [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 |
-| 30 | [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 |
-| 31 | [Could This Be Love](https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 2:17 |
+| 30 | [Could This Be Love](https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 2:17 |
+| 31 | [Only Fans](https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Only Fans](https://open.spotify.com/album/2JEoO3X2c9JShuhcsDFiBu) | 2:29 |
 | 32 | [Ring](https://open.spotify.com/track/1uREOYREV020F3QOGENSMI) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ring](https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg) | 2:35 |
 | 33 | [Hildabaci \- Remix](https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Hildabaci \(Remix\)](https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z) | 3:12 |
 | 34 | [Shayo](https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [High Spirit](https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj) | 2:49 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 39 | [Best Whine](https://open.spotify.com/track/5yR8rJt2YTqaKGO7ADZboE) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Call My Name / Best Whine](https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1) | 2:50 |
 | 40 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 41 | [Princess Treatment](https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Love & Hustle](https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7) | 3:00 |
-| 42 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 |
-| 43 | [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 |
+| 42 | [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 |
+| 43 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 |
 | 44 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
 | 45 | [numero](https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [numero](https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV) | 2:27 |
-| 46 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
-| 47 | [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 |
+| 46 | [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 |
+| 47 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
 | 48 | [Dudu](https://open.spotify.com/track/6b56cSwwp8JXDQiZ4dXkBf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 2:55 |
 | 49 | [Diamond](https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 3:04 |
 | 50 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |

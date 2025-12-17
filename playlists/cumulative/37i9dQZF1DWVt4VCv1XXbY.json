@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -290,7 +312,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 196156,
       "name": "Ginger (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"

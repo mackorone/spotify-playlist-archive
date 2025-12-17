@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40913,
+  "num_followers": 40919,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADM/F/CM4KCzdXsIzTqnnVX",
+  "snapshot_id": "aT9PgAAAAAA2LuW7Nps4Ny9gOXbAA3EB",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 53488,
-      "name": "DEISDAZSEIS - Ao Vivo",
-      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ant\u00eddoto Pra Todo Tipo de Veneno",
         "url": "https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 265088,
       "name": "Nunca Tenha Medo",
       "url": "https://open.spotify.com/track/3D0HjV2V8ZEYA2Vcq3Dbum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 53488,
+      "name": "DEISDAZSEIS - Ao Vivo",
+      "url": "https://open.spotify.com/track/3IcmVwyD3LKYE23vsuoTU4"
     },
     {
       "added_at": null,

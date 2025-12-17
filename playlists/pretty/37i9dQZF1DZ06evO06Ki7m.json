@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 409364,
+  "num_followers": 409381,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACKhSMha0Fi4/JnWuNej4eR",
+  "snapshot_id": "aT9PgAAAAADgw9Tl1gNgIp+8AOD9sHUA",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 268844,
+      "name": "GANG OVER EVERYTHING",
+      "url": "https://open.spotify.com/track/7HExHQIm3xYYizsQdMVmu7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 254320,
       "name": "All to Myself",
       "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT HAPPENED TO THE STREETS?",
-        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 268844,
-      "name": "GANG OVER EVERYTHING",
-      "url": "https://open.spotify.com/track/7HExHQIm3xYYizsQdMVmu7"
     },
     {
       "added_at": null,

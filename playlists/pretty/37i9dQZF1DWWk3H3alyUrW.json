@@ -399,22 +399,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Vahdet S\u0131rr\u0131n\u0131n Sadas\u0131 \"Tanbur\"",
-        "url": "https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3"
-      },
-      "artists": [
-        {
-          "name": "Murat Salim Tokac",
-          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "U\u015f\u015fak Saz Semaisi",
-      "url": "https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Itri & Bach",
         "url": "https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w"
       },
@@ -439,6 +423,22 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
+        "name": "Vahdet S\u0131rr\u0131n\u0131n Sadas\u0131 \"Tanbur\"",
+        "url": "https://open.spotify.com/album/2CUmXFVg3WeHbCM0QKBEM3"
+      },
+      "artists": [
+        {
+          "name": "Murat Salim Tokac",
+          "url": "https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "U\u015f\u015fak Saz Semaisi",
+      "url": "https://open.spotify.com/track/7ElMdLmlsr5AKm4LyGJPZP"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
         "name": "Osmanl\u0131 Saray\u0131 Musikisi",
         "url": "https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9"
       },
@@ -455,38 +455,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
-      },
-      "artists": [
-        {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
-        }
-      ],
-      "duration_ms": 227974,
-      "name": "Nihavend Saz Semaisi",
-      "url": "https://open.spotify.com/track/3s5MUsla602JbLy9TFLUl4"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
-        "name": "Sevda Yolunda",
-        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnip Utand\u0131",
-          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
-        }
-      ],
-      "duration_ms": 99120,
-      "name": "H\u00fcseyni Pe\u015frev",
-      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
         "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
       },
@@ -499,6 +467,22 @@
       "duration_ms": 110248,
       "name": "Tanburi Taksimi",
       "url": "https://open.spotify.com/track/5Q1RDEu5zzGbcMrpfnOcc4"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
+      },
+      "artists": [
+        {
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
+        }
+      ],
+      "duration_ms": 227974,
+      "name": "Nihavend Saz Semaisi",
+      "url": "https://open.spotify.com/track/3s5MUsla602JbLy9TFLUl4"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -523,6 +507,22 @@
       "duration_ms": 103164,
       "name": "Segah Salat-\u0131 \u00dcmmiye",
       "url": "https://open.spotify.com/track/0Tbe6GqO843vSMeiHu0yU9"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Sevda Yolunda",
+        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnip Utand\u0131",
+          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
+        }
+      ],
+      "duration_ms": 99120,
+      "name": "H\u00fcseyni Pe\u015frev",
+      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
-      },
-      "artists": [
-        {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
-        }
-      ],
-      "duration_ms": 213577,
-      "name": "Hicaz Pe\u015frev",
-      "url": "https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Itri & Bach",
         "url": "https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 293939,
       "name": "Buselik Beste 'Her G\u00f6rd\u00fc\u011f\u00fc Periye G\u00f6n\u00fcl M\u00fcptela Olur'",
       "url": "https://open.spotify.com/track/4Hwx1AaqcuwDjramuaGqXj"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
+      },
+      "artists": [
+        {
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
+        }
+      ],
+      "duration_ms": 213577,
+      "name": "Hicaz Pe\u015frev",
+      "url": "https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
-      },
-      "artists": [
-        {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
-        }
-      ],
-      "duration_ms": 200110,
-      "name": "Nikriz Sirto",
-      "url": "https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
         "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 249754,
       "name": "Suzidilara Saz Semaisi",
       "url": "https://open.spotify.com/track/01GOqOsRD21di19O0uvTd3"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
+      },
+      "artists": [
+        {
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
+        }
+      ],
+      "duration_ms": 200110,
+      "name": "Nikriz Sirto",
+      "url": "https://open.spotify.com/track/12FUbeXrIS60ZTYpwO29yf"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
-        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
-      },
-      "artists": [
-        {
-          "name": "Emirgan Ensemble",
-          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
-        }
-      ],
-      "duration_ms": 334414,
-      "name": "Sazkar Pe\u015frev",
-      "url": "https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Tanburi Cemil Bey - Pe\u015frev ve Saz Semaileri",
         "url": "https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 142060,
       "name": "Hicazkar Pe\u015frevi",
       "url": "https://open.spotify.com/track/4wMMqnw9FAJRIgWSIK1iYP"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Klasik Osmanl\u0131 M\u00fczi\u011fi",
+        "url": "https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy"
+      },
+      "artists": [
+        {
+          "name": "Emirgan Ensemble",
+          "url": "https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb"
+        }
+      ],
+      "duration_ms": 334414,
+      "name": "Sazkar Pe\u015frev",
+      "url": "https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn"
     },
     {
       "added_at": "2025-01-28 09:40:02",

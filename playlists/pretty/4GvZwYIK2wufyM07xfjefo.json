@@ -6,8 +6,96 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGBTUK/TlbgiC2Shn9jZq0Tg/d0VpS",
+  "snapshot_id": "AAAGFJwizD3VRtODmBH3/OCSr7Jf4JiI",
   "tracks": [
+    {
+      "added_at": "2025-12-16 08:01:29",
+      "album": {
+        "name": "\u3048\u3047.",
+        "url": "https://open.spotify.com/album/1lwr4p3CHfyWR3A1sS9DCh"
+      },
+      "artists": [
+        {
+          "name": "TakoyakiKZY",
+          "url": "https://open.spotify.com/artist/6r4rZhVWa9yEgNw3HPk3oZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "\u3048\u3047. (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5YURc3MNNwflB38kStOyhn"
+    },
+    {
+      "added_at": "2025-12-16 08:01:43",
+      "album": {
+        "name": "La Gaita de la VTuber",
+        "url": "https://open.spotify.com/album/0JOhmUZzAJN2StNYk0FsG8"
+      },
+      "artists": [
+        {
+          "name": "AlexTrip Sands",
+          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 267245,
+      "name": "La Gaita de la VTuber (feat. \u521d\u97f3\u30df\u30af&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u91cd\u97f3\u30c6\u30c8&\u5bae\u821e\u30e2\u30ab&\u590f\u8272\u82b1\u68a8&\u6c37\u5c71\u30ad\u30e8\u30c6\u30eb)",
+      "url": "https://open.spotify.com/track/2ZvrlH0SCa3dBuGRhHDC0Z"
+    },
+    {
+      "added_at": "2025-12-16 08:01:55",
+      "album": {
+        "name": "\u30a8\u30b8\u30bd\u30f3",
+        "url": "https://open.spotify.com/album/53CY8MO7KYo8JnYyjnNQBD"
+      },
+      "artists": [
+        {
+          "name": "cat nap",
+          "url": "https://open.spotify.com/artist/5kcEo2AxXur3mNk3c1R7N7"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "\u30a8\u30b8\u30bd\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0TJJq2XpVEchMD28UKiJI3"
+    },
+    {
+      "added_at": "2025-10-14 08:13:51",
+      "album": {
+        "name": "\u591c\u306b\u89e6\u308c\u308b",
+        "url": "https://open.spotify.com/album/2H1IsAFdbV4e3QiMtC9DkQ"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30de\u30a4\u30b5\u30c8\u30e8",
+          "url": "https://open.spotify.com/artist/0BFiFpBePU2Z0KpHG66pcI"
+        }
+      ],
+      "duration_ms": 193939,
+      "name": "\u591c\u306b\u89e6\u308c\u308b",
+      "url": "https://open.spotify.com/track/6sYIIyguGT3usrR3u8bA7U"
+    },
+    {
+      "added_at": "2025-12-16 08:02:45",
+      "album": {
+        "name": "\u5e78\u305b\u306b\u5c4a\u304f\u307e\u3067",
+        "url": "https://open.spotify.com/album/20x2sKBZHEi28y9MRA06rF"
+      },
+      "artists": [
+        {
+          "name": "_yura",
+          "url": "https://open.spotify.com/artist/1jxGAfQMLbetiCQqXToD8z"
+        }
+      ],
+      "duration_ms": 222653,
+      "name": "silent siren",
+      "url": "https://open.spotify.com/track/6Sl29lZlzwOKA2x3xqDHEi"
+    },
     {
       "added_at": "2025-12-02 08:25:07",
       "album": {
@@ -601,22 +689,6 @@
       "url": "https://open.spotify.com/track/7oACBRAmDWInnwOa1mbjvY"
     },
     {
-      "added_at": "2025-10-14 08:13:51",
-      "album": {
-        "name": "\u591c\u306b\u89e6\u308c\u308b",
-        "url": "https://open.spotify.com/album/2H1IsAFdbV4e3QiMtC9DkQ"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30de\u30a4\u30b5\u30c8\u30e8",
-          "url": "https://open.spotify.com/artist/0BFiFpBePU2Z0KpHG66pcI"
-        }
-      ],
-      "duration_ms": 193939,
-      "name": "\u591c\u306b\u89e6\u308c\u308b",
-      "url": "https://open.spotify.com/track/6sYIIyguGT3usrR3u8bA7U"
-    },
-    {
       "added_at": "2025-10-14 08:14:03",
       "album": {
         "name": "Blank page",
@@ -681,7 +753,7 @@
       "url": "https://open.spotify.com/track/1dUyZRxEkTeWhQyf1GkrWB"
     },
     {
-      "added_at": "2025-10-07 08:20:53",
+      "added_at": "2025-12-16 08:04:09",
       "album": {
         "name": "\u93e1\u306e\u30d5\u30ea\u3057\u305f\u65e5\u3005\u304c\u3042\u308b",
         "url": "https://open.spotify.com/album/3DoxMLY8x6QYdLfFmQf0xy"
@@ -699,86 +771,6 @@
       "duration_ms": 232881,
       "name": "\u304a\u306f\u3088\u3046 (feat. \u9cf4\u82b1\u30df\u30b3\u30c8)",
       "url": "https://open.spotify.com/track/7DTEC5g6aQFrRFp4Gw2StZ"
-    },
-    {
-      "added_at": "2025-10-07 08:21:06",
-      "album": {
-        "name": "\u58f0\u3092\u307b\u3069\u304f\u58f0",
-        "url": "https://open.spotify.com/album/19jzJtyVjhgbCAi1ABxZmY"
-      },
-      "artists": [
-        {
-          "name": "yamichrome",
-          "url": "https://open.spotify.com/artist/56btWLEbaEfENYnHHcXN4m"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "\u30ef\u30f3\u30c0\u30ea\u30f3\u30b0\u30b8\u30e3\u30fc\u30cb\u30fc (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/6HXX93gtY51kr6hmiIl87C"
-    },
-    {
-      "added_at": "2025-10-07 08:21:18",
-      "album": {
-        "name": "Amnesia: Y que recuerdes (Version Mariachi)",
-        "url": "https://open.spotify.com/album/0eO88LRw0f86EpKflvj1bz"
-      },
-      "artists": [
-        {
-          "name": "AlexTrip Sands",
-          "url": "https://open.spotify.com/artist/5MKEh6IaFZK3knCjCok3rI"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 309494,
-      "name": "Amnesia: Y que recuerdes (Version Mariachi) (feat. \u521d\u97f3\u30df\u30af&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9&\u91cd\u97f3\u30c6\u30c8&\u5bae\u821e\u30e2\u30ab&\u6c37\u5c71\u30ad\u30e8\u30c6\u30eb)",
-      "url": "https://open.spotify.com/track/2ILwD1koOuxjDJE7FfNm2q"
-    },
-    {
-      "added_at": "2025-10-07 08:21:32",
-      "album": {
-        "name": "\u967d\u3060\u307e\u308a\u306e\u4e2d\u3078",
-        "url": "https://open.spotify.com/album/0Uui57otPk9K6dVuhwTMsD"
-      },
-      "artists": [
-        {
-          "name": "kijima",
-          "url": "https://open.spotify.com/artist/1SgONA50hAdrYYYtBnxC4n"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 185047,
-      "name": "\u967d\u3060\u307e\u308a\u306e\u4e2d\u3078 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/32SN57fuStF1X8zgTbd9zE"
-    },
-    {
-      "added_at": "2025-10-07 08:21:44",
-      "album": {
-        "name": "Faint Surface",
-        "url": "https://open.spotify.com/album/6Meek95cAB60RakS6QU8zj"
-      },
-      "artists": [
-        {
-          "name": "Clean Tears",
-          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 263914,
-      "name": "Lapse (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/02u10DAPZSqvCKbZB1c91K"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

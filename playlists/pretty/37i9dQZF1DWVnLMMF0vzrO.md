@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnLMMF0vzrO.md) - [plain]
 
 > All the music from Narcos: Mexico, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,922 likes - 167 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,924 likes - 167 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

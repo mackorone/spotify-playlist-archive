@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-409 songs - 23 hr 43 min
+411 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Los! Los! Los!](https://open.spotify.com/track/4M5WCAgpMCbBYwaQerEkMo) | [ターニャ・デグレチャフ\(CV:悠木碧\)](https://open.spotify.com/artist/6swJSqM6NMF0u3kslRDRwu) | [TVアニメ「幼女戦記」エンディングテーマ「Los! Los! Los!」](https://open.spotify.com/album/3zfMMMTn2pp4sd2a7wln92) | 3:37 | 2024-06-10 |  |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-05-05 |  |
 | [Love I Need](https://open.spotify.com/track/1pvjgrDx35jAt5FOcdrsuT) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Love I Need](https://open.spotify.com/album/7oQqmAf8OR0zfW5wbZIVH4) | 3:12 | 2022-08-04 |  |
+| [LoveXposer](https://open.spotify.com/track/21HFzQoAX8BQdJncyeY9R0) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Nostalzia](https://open.spotify.com/album/1rS3kndeYmd17NDCKHW1Pj) | 2:29 | 2025-12-16 |  |
 | [Lunatic Crazy](https://open.spotify.com/track/14miRMV78M1iWIr4hIUlel) | [lapix](https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC), [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1), [PANXI](https://open.spotify.com/artist/3Qk3X6M4odVeDUv8rr7arJ) | [Lunatic Crazy](https://open.spotify.com/album/2vAmVOCw26noicE9CmBQsE) | 3:06 | 2024-06-05 |  |
 | [Ma Chérie](https://open.spotify.com/track/2O4LWfEyyuOl4QYXzycM0r) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Ma Chérie](https://open.spotify.com/album/0R46cDVpHKEJn5VkVnjpEN) | 5:23 | 2025-08-28 |  |
 | [Machina in the brain \(feat\. KAFU\)](https://open.spotify.com/track/41IgLoZErPsZzAixZ8Mk7s) | [Folicca](https://open.spotify.com/artist/5XIRgaAF0uYvbtnKQNPOoW), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [City in the Brain](https://open.spotify.com/album/5W9zumOT376LaVx9Dj23wR) | 2:24 | 2024-07-01 |  |
@@ -354,6 +355,7 @@
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:02 | 2024-10-28 | 2024-11-28 |
 | [夜になったら耿十八は](https://open.spotify.com/track/67m8OAMRKgo4zhTFoKinW3) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3F8Y95zceuJs2RWgn5VQwS) | 3:37 | 2025-10-08 |  |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2022-11-25 |  |
+| [夢のあと](https://open.spotify.com/track/7ftpoSSMQCb3ijQUJ8tIfR) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 5:03 | 2025-12-16 |  |
 | [失楽園ダイブ](https://open.spotify.com/track/7910oN5hlBbGcphkOvfvvh) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [失楽園ダイブ](https://open.spotify.com/album/6jtMVhjo3bDtacfNHGJrGn) | 3:05 | 2025-04-01 |  |
 | [好きって言って](https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I) | [ちいたな](https://open.spotify.com/artist/2Ge3g79AyrNekwSaHTu2GF) | [アリアノート](https://open.spotify.com/album/3cRxEHd2WLiBOQqpAR0jlH) | 3:12 | 2022-12-24 |  |
 | [存在A](https://open.spotify.com/track/1QbIt51B9yck9AJLRyFlt2) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [存在A](https://open.spotify.com/album/0SUtRT1ULnZyvMjvBGvUZB) | 3:15 | 2025-07-28 |  |

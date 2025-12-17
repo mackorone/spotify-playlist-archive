@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "5-7",
       "url": "https://open.spotify.com/track/3IEvQ1CzszUJtTRLmmMJ2X"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 151202,
       "name": "Blancanieves",
       "url": "https://open.spotify.com/track/3BZUM1xojiL3TvRo3T50R9"
@@ -12406,7 +12406,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -16110,7 +16110,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 194605,
       "name": "No Capea",
       "url": "https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8"
@@ -17372,6 +17372,28 @@
       "duration_ms": 149538,
       "name": "PASAJERO",
       "url": "https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv"
+    },
+    {
+      "album": {
+        "name": "Pase y Toque",
+        "url": "https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3"
+      },
+      "artists": [
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Pase y Toque",
+      "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
     },
     {
       "album": {
@@ -23646,7 +23668,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 162648,
       "name": "TRES BOTELLAS",
       "url": "https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5"

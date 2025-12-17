@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,429 likes - 75 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,482 likes - 75 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 60 | [Sê Valente / Deus Vai Te Guiar / O Cego De Jericó \(Ao Vivo\)](https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3) | [Michele do Pandeiro](https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn) | [Jesus, Eu, Vocês E O Pandeiro \(Ao Vivo\)](https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL) | 5:52 |
 | 61 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 |
 | 62 | [Pai Presente](https://open.spotify.com/track/17A6kCom591jICydbChxCk) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Pai Presente](https://open.spotify.com/album/682eYG75UszY1zmE0yHhys) | 4:53 |
-| 63 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
-| 64 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 |
+| 63 | [O Maior Troféu](https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:11 |
+| 64 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
 | 65 | [Tu És Santo](https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tu És Santo](https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO) | 3:40 |
 | 66 | [No Caminho do Milagre](https://open.spotify.com/track/2PA760uz4zfHLhmbwpcArL) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [No Caminho do Milagre \- Ao Vivo](https://open.spotify.com/album/4b76pdbnjJ6Ur7x7VDOxmZ) | 6:05 |
 | 67 | [De Quem É? \- studio](https://open.spotify.com/track/35KS4m2ecXMwiyqk1sL55p) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG) | [Meu Mestre](https://open.spotify.com/album/4RCLWOpMlP0424CDa4TK3Z) | 4:08 |

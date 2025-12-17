@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 68385,
+  "num_followers": 68405,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 389706,
+      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 389706,
-      "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
-      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -823,34 +823,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
-        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        },
-        {
-          "name": "Columbia Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
-        },
-        {
-          "name": "Vladimir Golschmann",
-          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
-        }
-      ],
-      "duration_ms": 481160,
-      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
-      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -875,6 +847,34 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+        }
+      ],
+      "duration_ms": 481160,
+      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
+      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
     },
     {
       "added_at": "2025-01-24 04:00:20",

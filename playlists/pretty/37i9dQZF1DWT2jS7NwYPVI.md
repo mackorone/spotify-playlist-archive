@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Dirt Buyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,614 likes - 125 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,598 likes - 125 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

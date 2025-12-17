@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Paul Kim \(폴킴\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Cloud Koh \(구름\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,626 songs - 4 day 9 hr 36 min
+1,630 songs - 4 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Dear Love](https://open.spotify.com/track/6rR8TIrMrrMOZ72xf81H5I) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [\#ff00ff](https://open.spotify.com/album/5PAqvFOTIUDAPpujNE54Rr) | 4:15 | 2023-02-14 | 2023-03-28 |
 | [Dear My Love](https://open.spotify.com/track/6QdzLFR1l1GP4OoiJAZNtF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [When the Weather is fine OST Part.4](https://open.spotify.com/album/2OMholRSxY7jILMGLWXuJD) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-08-12 | 2022-12-27 |
+| [December 32 days](https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [December 32 days](https://open.spotify.com/album/78QCfGI4tbL1ifynZHcwlK) | 4:46 | 2025-12-16 |  |
 | [December's Spring\(Prod\. Sam Kim\)](https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN) | [YUN HU](https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp) | [December's Spring](https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A) | 3:30 | 2023-01-10 | 2023-02-25 |
 | [December\. 24](https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [December\. 24](https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut) | 3:30 | 2022-12-05 | 2023-01-21 |
 | [Decision to leave](https://open.spotify.com/track/0qP6zleSUcWWlS3Q5Ikoj6) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Decision to leave](https://open.spotify.com/album/5omlHbU5tSowwzqJ1QCFem) | 3:08 | 2023-06-13 | 2023-10-20 |
@@ -793,6 +794,7 @@
 | [Look into eyes say it](https://open.spotify.com/track/47KIdFLacEnfEzVNCxs80H) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Again,Star \#2](https://open.spotify.com/album/4BqNdozu75WCs9C07CjPl0) | 3:56 | 2023-09-18 | 2023-12-14 |
 | [Looking at the Photo](https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Looking at the Photo \(REVIBE Vol.2\)](https://open.spotify.com/album/25JKB4F13k0KyACimQx081) | 4:39 | 2021-12-20 | 2022-05-25 |
 | [Looking for you](https://open.spotify.com/track/5ub0sMPEBU7J5yXrd7xFEF) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Looking for you](https://open.spotify.com/album/7L2uNsrUyZJzYbVdW6vGN1) | 3:49 | 2023-12-13 | 2024-05-01 |
+| [lost & found](https://open.spotify.com/track/1Qn1DdATozoac8hFISJg4z) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [airplane mode](https://open.spotify.com/album/1gOHT9m9f3C8lrhaLDslBV) | 3:36 | 2025-12-16 |  |
 | [Lost mind](https://open.spotify.com/track/4qp9FmYIcnvJQKuYM1DyF8) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Lost mind \(Made in 4MEN\)](https://open.spotify.com/album/1pTC8VGMlc8vQ181lKJJwL) | 3:31 | 2023-03-31 | 2023-08-25 |
 | [Love](https://open.spotify.com/track/4C4NgO8wekPIHieKk7apfA) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Move On](https://open.spotify.com/album/0SMuKynMzf8sA5gxAq6BbN) | 3:53 | 2023-08-07 | 2023-10-17 |
 | [LOVE](https://open.spotify.com/track/4i1LAgQdsq1D28nPiFKPyh) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [LOVE](https://open.spotify.com/album/7FIXWzYrIEkGVh0jMkyBEz) | 4:19 | 2025-05-30 | 2025-10-23 |
@@ -1335,6 +1337,7 @@
 | [Things that I couldn't say](https://open.spotify.com/track/5zoZS4ftaNWJF1KYKRhV0M) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [The Secret Romantic Guesthouse Part.4](https://open.spotify.com/album/5HDtIOffRpLI8XUNdtuBXo) | 3:55 | 2023-04-26 | 2023-09-12 |
 | [Things We Took For Granted](https://open.spotify.com/track/0AWL2pfPLApKBhV8p6XezU) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Things We Took For Granted](https://open.spotify.com/album/75GSaOr3SumTiFaHCzYVSD) | 3:21 | 2021-12-23 | 2022-06-04 |
 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 | 2022-01-27 | 2022-06-24 |
+| [Think About You](https://open.spotify.com/track/7ldVvgxxR9DFYq8UJoBnud) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA), [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/0uyAAuymKHKZEY3813rk05) | 3:32 | 2025-12-16 |  |
 | [Thinkin' about you](https://open.spotify.com/track/1YnxyYkJbOyadMFzn103v3) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Thinkin' about you \(Our Pie X Tophyun\)](https://open.spotify.com/album/4bE5JIK5wQr9u0482QwHPv) | 3:43 | 2024-05-17 | 2024-08-11 |
 | [third farewell](https://open.spotify.com/track/6gxgcuTRE8V8Un6qJUuRp7) | [dawon you](https://open.spotify.com/artist/3sorJaK11BPQosaTaZkuhk) | [third farewell](https://open.spotify.com/album/1BoA7LtCfEtme5gb5aC6A8) | 3:43 | 2023-02-24 | 2023-06-23 |
 | [This night](https://open.spotify.com/track/1q2S2sHR7dPTUq27eBh6dk) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT) | [Candle](https://open.spotify.com/album/2umy3WPBMznBRpOluylVSI) | 3:52 | 2024-01-08 | 2024-06-05 |
@@ -1456,6 +1459,7 @@
 | [Whenever Wherever](https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Whenever Wherever](https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5) | 4:05 | 2021-12-23 | 2022-06-18 |
 | [Where are you](https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Where are you \(The Last 10 Years X Heize\)](https://open.spotify.com/album/4RTM2qAV0gjLnjnkt5CkHI) | 3:53 | 2024-05-08 | 2024-10-17 |
 | [WHERE GOODBYE STOPS](https://open.spotify.com/track/7w5VUPT3Vcci4WkpS6MG3P) | [Kwon Euibin](https://open.spotify.com/artist/2jzzW4w2JlDd1GIP0MSlv8) | [WHERE GOODBYE STOPS](https://open.spotify.com/album/7F5sYAwhgQSHEEmDe5RckX) | 4:02 | 2025-11-02 | 2025-12-03 |
+| [Where I Need To Be](https://open.spotify.com/track/2C151QUNLM45qeIBdsOmGR) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:37 | 2025-12-16 |  |
 | [Where Love Stays](https://open.spotify.com/track/4qqGAdsC1b8W9k7R30h0sG) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Where Love Stays](https://open.spotify.com/album/5SxmexvqG0zsQZmYT1kX0d) | 4:15 | 2025-04-11 | 2025-08-04 |
 | [Where To Go](https://open.spotify.com/track/22fw3hgodLJIAhx6SbUKGZ) | [LEENU](https://open.spotify.com/artist/7bJwBnsHWKpUkugnVkM8N1) | [Where To Go](https://open.spotify.com/album/2penGoGwAnZhWQNj9KxU1s) | 3:47 | 2023-06-13 | 2023-09-19 |
 | [While The Memory Fall A Sleep](https://open.spotify.com/track/0WwLjYKOdbpSzhFyHfi3F2) | [강승식](https://open.spotify.com/artist/545wFEUgGmJwArSU0zjemI) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6gkzelq3vDZGSNnFDdllkF) | 4:26 | 2022-03-24 | 2022-04-11 |

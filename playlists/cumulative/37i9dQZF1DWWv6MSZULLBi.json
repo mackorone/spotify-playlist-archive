@@ -3921,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "Challenger",
+        "url": "https://open.spotify.com/album/0ic2yVzwWkmL0APveGjQAu"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223207,
+      "name": "Challenger",
+      "url": "https://open.spotify.com/track/18E1JTva63dkwEtgRSQiEp"
+    },
+    {
+      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },

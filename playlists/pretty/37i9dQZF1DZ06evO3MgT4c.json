@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 437697,
+  "num_followers": 437715,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADZ19HdDVQvfW9RsQy7P75L",
+  "snapshot_id": "aT9PgAAAAADjrAyZMEf6h3b8ejIzEbmP",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 297800,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 206271,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4KD0lLJ4OGonZhBeKtct9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 297800,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 255023,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 295997,
       "name": "Too Hotty",
       "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255023,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/15EH2glphTjcarRjAsc0EB"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 1",
-        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 241505,
-      "name": "Bosses Don't Speak",
-      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 262340,
       "name": "Antisocial (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 241505,
+      "name": "Bosses Don't Speak",
+      "url": "https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 207682,
-      "name": "Freak No More",
-      "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture",
         "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 248506,
       "name": "What the Price",
       "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 207682,
+      "name": "Freak No More",
+      "url": "https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 222424,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 216677,
       "name": "RAW SHIT (feat. Migos)",
       "url": "https://open.spotify.com/track/1CCDIow4pPYyJYzhtTUYz2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 222424,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za"
     },
     {
       "added_at": null,

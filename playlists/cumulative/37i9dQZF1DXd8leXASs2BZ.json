@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AOTO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Masato Hayashi",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 189430,
       "name": "(no sweet)",
       "url": "https://open.spotify.com/track/30guOXCvXk7jezpQHKZAP1"
+    },
+    {
+      "album": {
+        "name": "0000",
+        "url": "https://open.spotify.com/album/5tjfxtDazA8voJOe1n5ibn"
+      },
+      "artists": [
+        {
+          "name": "Masato Hayashi",
+          "url": "https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "0000",
+      "url": "https://open.spotify.com/track/6RjybEGkjLTRmhuWUlupUe"
     },
     {
       "album": {
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 158936,
       "name": "3layer",
       "url": "https://open.spotify.com/track/6UO1UID2ax80nPLPvwNJbc"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 92832,
       "name": "6mg",
       "url": "https://open.spotify.com/track/0h3259Ydh8XCHG6D5bMkD7"
@@ -1522,7 +1540,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 185739,
       "name": "Allright",
       "url": "https://open.spotify.com/track/4L9H1KQ1Up7debjuULAzq9"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 154952,
       "name": "Banger",
       "url": "https://open.spotify.com/track/1yJI2VJhtQhdRci22Po7p0"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 175915,
       "name": "BIGGUWAPSHIT",
       "url": "https://open.spotify.com/track/6orKdpjY52CGDBRsv7sbVs"
@@ -3014,6 +3032,24 @@
       "duration_ms": 139867,
       "name": "Bite Down",
       "url": "https://open.spotify.com/track/3Xw9ZuvJ9Hhk7cj64QZBYZ"
+    },
+    {
+      "album": {
+        "name": "Kiannacore 3",
+        "url": "https://open.spotify.com/album/6JSTrZQd5jLgVQffAAKNWr"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132467,
+      "name": "blah blah",
+      "url": "https://open.spotify.com/track/5VBRvtwLvmNRxHZwAzAzbt"
     },
     {
       "album": {
@@ -4285,6 +4321,32 @@
     },
     {
       "album": {
+        "name": "Cho Raku (feat. Sad Kid Yaz & Ixtab)",
+        "url": "https://open.spotify.com/album/7KjGSqX0dhDsXKLrqBVWop"
+      },
+      "artists": [
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        },
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        },
+        {
+          "name": "Ixtab",
+          "url": "https://open.spotify.com/artist/0VBbezRopMonCtaD56KN5p"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132791,
+      "name": "Cho Raku (feat. Sad Kid Yaz & Ixtab)",
+      "url": "https://open.spotify.com/track/2zelIt7h09su9qcL08NHLI"
+    },
+    {
+      "album": {
         "name": "chocomimi (feat. Manaka)",
         "url": "https://open.spotify.com/album/23iqFhCnwZXpmfhr8WQCJC"
       },
@@ -4656,6 +4718,28 @@
       "duration_ms": 147800,
       "name": "Crown (feat. 7)",
       "url": "https://open.spotify.com/track/2Q0Yo5PjgoMNw5QWKUeySD"
+    },
+    {
+      "album": {
+        "name": "Cumshot",
+        "url": "https://open.spotify.com/album/4AxABvoXL5mVB5tvb60sn6"
+      },
+      "artists": [
+        {
+          "name": "Hanemii",
+          "url": "https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150913,
+      "name": "Cumshot",
+      "url": "https://open.spotify.com/track/08QALAzPUBVmn2ugt75jAf"
     },
     {
       "album": {
@@ -5701,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "Dont Need Toxic",
+        "url": "https://open.spotify.com/album/2igPlQkF3bjPx0bTRdmspc"
+      },
+      "artists": [
+        {
+          "name": "YungFLX",
+          "url": "https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Dont Need Toxic",
+      "url": "https://open.spotify.com/track/2D1t4U9JkECmJRcUZhbKtg"
+    },
+    {
+      "album": {
         "name": "DONZOKO",
         "url": "https://open.spotify.com/album/71KcrHwW5XTus1EOeyFAwH"
       },
@@ -5856,6 +5958,28 @@
       "duration_ms": 143982,
       "name": "DOUGH? feat. BENXNI, TAHITI",
       "url": "https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr"
+    },
+    {
+      "album": {
+        "name": "Baskin Tape",
+        "url": "https://open.spotify.com/album/6y8eNOM9SH7ZZMo8UBkXnM"
+      },
+      "artists": [
+        {
+          "name": "ROBBIN",
+          "url": "https://open.spotify.com/artist/3x0ONZtLLBmpLuHfvod49l"
+        },
+        {
+          "name": "M3R",
+          "url": "https://open.spotify.com/artist/22N6T5zwzJBtmRYkCEvqCu"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114324,
+      "name": "Dragons (feat. M3R)",
+      "url": "https://open.spotify.com/track/708lkmQqeD8ZWephuIOZia"
     },
     {
       "album": {
@@ -7022,7 +7146,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 96780,
       "name": "FEEL LIKE THIS",
       "url": "https://open.spotify.com/track/3kzHFjDretlH3uM6MpbdlZ"
@@ -8220,7 +8344,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 209200,
       "name": "GIMME",
       "url": "https://open.spotify.com/track/4rFd8qYq6Zvvf2l3iUjMKv"
@@ -8334,7 +8458,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 172151,
       "name": "Glo the streets",
       "url": "https://open.spotify.com/track/5nQxXDVmfmqs4KfiEJ4htf"
@@ -8374,6 +8498,28 @@
       "duration_ms": 179555,
       "name": "Go",
       "url": "https://open.spotify.com/track/4DvVZ6f8ETjA6URCYR6gyn"
+    },
+    {
+      "album": {
+        "name": "Skipping Tape Vol.4",
+        "url": "https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        },
+        {
+          "name": "Sad Kid Yaz",
+          "url": "https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198095,
+      "name": "Go Taxi (feat. Sad Kid Yaz)",
+      "url": "https://open.spotify.com/track/4sNVvVBzcDViCGMgUO7wqA"
     },
     {
       "album": {
@@ -8626,7 +8772,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 182000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/785BETMnaavuSW6TJPOoeO"
@@ -9337,6 +9483,24 @@
     },
     {
       "album": {
+        "name": "ROMAN'S",
+        "url": "https://open.spotify.com/album/4gBrtaMv5Y2Ps7cnWqGSml"
+      },
+      "artists": [
+        {
+          "name": "Asougi",
+          "url": "https://open.spotify.com/artist/1KICWO3SII80oAWVoWIodN"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "HIKARI",
+      "url": "https://open.spotify.com/track/6IekZDM4tNXxiVsfjMs3zy"
+    },
+    {
+      "album": {
         "name": "HIKOUKI (feat. GOLD DIGGA)",
         "url": "https://open.spotify.com/album/6YNCx8q6UTD3SWLRYec98b"
       },
@@ -9820,6 +9984,24 @@
       "duration_ms": 108035,
       "name": "I don't like",
       "url": "https://open.spotify.com/track/3yJtT8dYke5Pp5Df1G4mKW"
+    },
+    {
+      "album": {
+        "name": "I feel love",
+        "url": "https://open.spotify.com/album/2NOXFIOrjIbIETuYfjkCJ9"
+      },
+      "artists": [
+        {
+          "name": "sh1t",
+          "url": "https://open.spotify.com/artist/3IchFX2kpT6ARyP7hURWyo"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139847,
+      "name": "I feel love",
+      "url": "https://open.spotify.com/track/7m3F68v18EFjVUDEytZKXc"
     },
     {
       "album": {
@@ -12217,6 +12399,24 @@
     },
     {
       "album": {
+        "name": "22MIX",
+        "url": "https://open.spotify.com/album/667iN9Jjhroj0aI8LZolPi"
+      },
+      "artists": [
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Limited",
+      "url": "https://open.spotify.com/track/6dIAf5gs0Mhwe5QoXEXOiz"
+    },
+    {
+      "album": {
         "name": "Do it now",
         "url": "https://open.spotify.com/album/0guwjO3nZH0OVe9eE1eKPm"
       },
@@ -12452,7 +12652,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 218185,
       "name": "Long way (feat. ELIONE)",
       "url": "https://open.spotify.com/track/2PKZz86dIEUf0KSGN0SWT3"
@@ -12674,7 +12874,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 152374,
       "name": "LUV HOOD BABY 2",
       "url": "https://open.spotify.com/track/75sNN4fi6uDXbu4lK86C8m"
@@ -13320,7 +13520,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 172168,
       "name": "Miracle Body",
       "url": "https://open.spotify.com/track/6r89aYI6Z3JduJQPcRooEW"
@@ -14461,6 +14661,24 @@
     },
     {
       "album": {
+        "name": "NIKO NIKO",
+        "url": "https://open.spotify.com/album/2tBce5VO1mscRvf2dqpFaq"
+      },
+      "artists": [
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148629,
+      "name": "NIKO NIKO",
+      "url": "https://open.spotify.com/track/5n2Jx8KPW46z8QXuOMsSmc"
+    },
+    {
+      "album": {
         "name": "ROOKIES",
         "url": "https://open.spotify.com/album/1aQcQUwNkH4rCqFW9NGIgZ"
       },
@@ -15215,6 +15433,24 @@
     },
     {
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2ITObQLGNC6LWatwLnlkRD"
+      },
+      "artists": [
+        {
+          "name": "Rama Pantera",
+          "url": "https://open.spotify.com/artist/5JwO8WIXo7CUi9Ib7Wrek0"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205937,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/79Rt9uybHReZvhZLDNGke5"
+    },
+    {
+      "album": {
         "name": "On Ma HOOD",
         "url": "https://open.spotify.com/album/3eojasFEDq2h2RZ6RmOb7k"
       },
@@ -15930,7 +16166,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 206204,
       "name": "Part of my past",
       "url": "https://open.spotify.com/track/42n08wwe5MmWySlKAlk1Om"
@@ -17879,6 +18115,24 @@
     },
     {
       "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv"
+      },
+      "artists": [
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127799,
+      "name": "Sawajiri Erika",
+      "url": "https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ"
+    },
+    {
+      "album": {
         "name": "SCAR",
         "url": "https://open.spotify.com/album/6Vls2N2jVxxPigSKT9ecZb"
       },
@@ -19001,6 +19255,46 @@
     },
     {
       "album": {
+        "name": "BIG SODA MONEY",
+        "url": "https://open.spotify.com/album/4yOTQbAOTuDH0ErWF3OOoU"
+      },
+      "artists": [
+        {
+          "name": "Yamiboi To$",
+          "url": "https://open.spotify.com/artist/27MxRYUqOp5h0sY4T9u5es"
+        },
+        {
+          "name": "00maybach",
+          "url": "https://open.spotify.com/artist/5KkWVcVIU5ACvSrcJQ6cbU"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167175,
+      "name": "SODA FREESTYLE",
+      "url": "https://open.spotify.com/track/1g4oKjilXn3HagxtGYZXDE"
+    },
+    {
+      "album": {
+        "name": "Solo Walk",
+        "url": "https://open.spotify.com/album/5V04d55yyL9Z3Y5CCSVXcU"
+      },
+      "artists": [
+        {
+          "name": "GOUU",
+          "url": "https://open.spotify.com/artist/21sZk9baIpQaCtFxFoFg73"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Solo Walk",
+      "url": "https://open.spotify.com/track/5bEnQhB26ITJmxK4ftpEPL"
+    },
+    {
+      "album": {
         "name": "sora",
         "url": "https://open.spotify.com/album/6tvyTj8QS2AgiOEimPLkbo"
       },
@@ -19238,7 +19532,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 209000,
       "name": "Stand Tall",
       "url": "https://open.spotify.com/track/7s3MRARUHP9ki4QGxmKROz"
@@ -20260,6 +20554,28 @@
       "duration_ms": 138731,
       "name": "Tekipaki",
       "url": "https://open.spotify.com/track/0Khin4BcBYK1gszibOya7j"
+    },
+    {
+      "album": {
+        "name": "tell me why? (feat. ramtboy)",
+        "url": "https://open.spotify.com/album/5jzVGACD6ZpJJQiDtucjmY"
+      },
+      "artists": [
+        {
+          "name": "EL Mosh",
+          "url": "https://open.spotify.com/artist/6VU2ko8f1SVTXZVFOjMoSp"
+        },
+        {
+          "name": "ramtboy",
+          "url": "https://open.spotify.com/artist/3KFHI5g9XuSTjbQPcsXy2w"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153109,
+      "name": "tell me why? (feat. ramtboy)",
+      "url": "https://open.spotify.com/track/5NFiS9OzwVLxiups34cLcW"
     },
     {
       "album": {
@@ -21315,6 +21631,32 @@
     },
     {
       "album": {
+        "name": "UNKNOWN (feat. Siero & Madaler Kid)",
+        "url": "https://open.spotify.com/album/4Q5YXt2nu8wLRDDNgKxcvk"
+      },
+      "artists": [
+        {
+          "name": "BLOOD BOY",
+          "url": "https://open.spotify.com/artist/0B4Ip4gJuVpsC0K23CWfxt"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "Madaler kid",
+          "url": "https://open.spotify.com/artist/26gz2kPkLB9i1BorB05UZJ"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "UNKNOWN (feat. Siero & Madaler Kid)",
+      "url": "https://open.spotify.com/track/1omwPNvz1sBkbVZiePbzxP"
+    },
+    {
+      "album": {
         "name": "untake",
         "url": "https://open.spotify.com/album/2Cz41J6eyR4PzKVt3dtMlB"
       },
@@ -21886,7 +22228,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 146666,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/7j2CumhXcOyrRLy56yTi1F"
@@ -22338,7 +22680,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 114022,
       "name": "WHY DO WE FALL?",
       "url": "https://open.spotify.com/track/3NOQkx4EG39w85YGD7EvKV"
@@ -23265,6 +23607,24 @@
     },
     {
       "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/4yRiYUWPSUF9n6tWewwlap"
+      },
+      "artists": [
+        {
+          "name": "ESTEY",
+          "url": "https://open.spotify.com/artist/5xOWjigTHU7QSkpbTQeY4L"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180625,
+      "name": "\u3042\u306e\u65e5",
+      "url": "https://open.spotify.com/track/2fyulb2NJ5VyVqHWJUidAq"
+    },
+    {
+      "album": {
         "name": "\u3044\u3044\u611f\u3058",
         "url": "https://open.spotify.com/album/3M17P8h56sgp6Y3UUklYqd"
       },
@@ -23902,7 +24262,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 213084,
       "name": "\u4e0d\u5b89\u306a\u591c\u3078",
       "url": "https://open.spotify.com/track/0FWJCYskUHi31uvkGOZOoI"
@@ -24618,7 +24978,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 192857,
       "name": "\u76f8\u53cd",
       "url": "https://open.spotify.com/track/0SpxourGWz3v5sIOT54c6M"

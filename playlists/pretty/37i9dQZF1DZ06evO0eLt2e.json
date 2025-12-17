@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31446,
+  "num_followers": 31449,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAVKnSREaoLRyVDZH7HAq+y",
+  "snapshot_id": "aT9PgAAAAABFfUcTlyXzQUus+mqG4ThH",
   "tracks": [
     {
       "added_at": null,
@@ -791,38 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highwayman",
-        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 227878,
-      "name": "Deportee (Plane Wreck at Los Gatos)",
-      "url": "https://open.spotify.com/track/0SjDshX9dKeY73Pf512FMU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boulder To Birmingham (Live)",
         "url": "https://open.spotify.com/album/01TfnbqEmjUZO7WlGGqWOr"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 227878,
+      "name": "Deportee (Plane Wreck at Los Gatos)",
+      "url": "https://open.spotify.com/track/0SjDshX9dKeY73Pf512FMU"
     },
     {
       "added_at": null,
@@ -1199,8 +1199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 188241,
-      "name": "Jody and the Kid",
-      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
     },
     {
       "added_at": null,
@@ -1263,8 +1263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
       "artists": [
         {
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Who's to Bless and Who's to Blame",
-      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
+      "duration_ms": 188241,
+      "name": "Jody and the Kid",
+      "url": "https://open.spotify.com/track/3D4NVXvo8IETdwdS31gmC8"
     },
     {
       "added_at": null,

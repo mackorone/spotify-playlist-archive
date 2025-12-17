@@ -1,6 +1,6 @@
 {
   "description": "ok, lets party.. fred, hit the track",
-  "num_followers": 3905670,
+  "num_followers": 3905023,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -327,18 +327,26 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L"
         }
       ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -423,26 +431,18 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kyla",
-          "url": "https://open.spotify.com/artist/6TK7fjRPdy2GW2pJzNF23L"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 173986,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -999,18 +999,22 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+      "duration_ms": 175238,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2025-12-05 05:00:24",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2025-12-05 05:00:24",
+      "album": {
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2025-12-05 05:00:24",
-      "album": {
         "name": "TYLA +",
         "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2025-12-05 05:00:24",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2025-12-05 05:00:24",
@@ -1935,22 +1935,26 @@
     {
       "added_at": "2025-12-05 05:00:24",
       "album": {
-        "name": "It Depends (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 271875,
-      "name": "It Depends (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+      "duration_ms": 132485,
+      "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+      "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
     }
   ],
   "unique_name": "Party Hits",

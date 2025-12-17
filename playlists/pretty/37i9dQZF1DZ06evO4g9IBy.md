@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,792 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,800 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 17 | [Remedy \(feat\. Stevie Nicks\)](https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 2:29 |
 | 18 | [Crying in the Night](https://open.spotify.com/track/3FBJq7wLTogeipvXMbTNrU) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:59 |
 | 19 | [After the Glitter Fades \- 2016 Remaster](https://open.spotify.com/track/0JHm1MZjQ1smYmD8XCGx11) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:30 |
-| 20 | [Nightbird \- 2016 Remaster](https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 5:01 |
+| 20 | [I Will Run to You \- 2016 Remaster](https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 3:21 |
 | 21 | [Has Anyone Ever Written Anything for You](https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Rock a Little](https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc) | 4:39 |
 | 22 | [Without a Leg to Stand On](https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:10 |
 | 23 | [Kind of Woman \- 2016 Remaster](https://open.spotify.com/track/0ehVk4Py6iyLpfruxVYq4S) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 3:12 |
-| 24 | [I Will Run to You \- 2016 Remaster](https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 3:21 |
+| 24 | [Nightbird \- 2016 Remaster](https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Wild Heart \(2016 Remastered\)](https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s) | 5:01 |
 | 25 | [Planets of the Universe](https://open.spotify.com/track/2TctyZ6BMrifNwN3iL7DFJ) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Trouble in Shangri\-La](https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg) | 4:45 |
 | 26 | [Stephanie](https://open.spotify.com/track/1iAJwQdCZBswDjjcCd06LG) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 2:13 |
 | 27 | [Dreams \(with Deep Dish\)](https://open.spotify.com/track/6ztHD7TBXLxAaPxJ3sO8a4) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4g9IBy.md) - [plain]
 | 49 | [The Dealer](https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [24 Karat Gold: Songs from the Vault](https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R) | 4:38 |
 | 50 | [Sleeping Angel \(From Fast Times at Ridgemont High\) \- 2016 Remaster](https://open.spotify.com/track/35I5lX6yE00YSu7PEgES54) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 4:40 |
 
-Snapshot ID: `aT3+AAAAAABnEd5qJYPQevJ9LazOq5fq`
+Snapshot ID: `aT9PgAAAAACujX5WmA1XA9oGJnPXe8Ii`

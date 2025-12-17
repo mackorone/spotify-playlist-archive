@@ -4,11 +4,12 @@
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-128 songs - 6 hr 15 min
+129 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 | 2024-10-17 |  |
+| [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 | 2025-12-15 |  |
 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 | 2024-10-17 |  |
 | [A Night To Remember](https://open.spotify.com/track/2rNZgCXOKKQQh70tYCtPkS) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [A Night To Remember](https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ) | 3:20 | 2025-12-01 |  |
 | [A Wishful Night](https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [A Wishful Night](https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA) | 2:27 | 2024-10-17 |  |
@@ -118,7 +119,7 @@
 | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/track/2MIp26Tb64YMUqpmYtyPiW) | [Kim Winther](https://open.spotify.com/artist/7FWhfI8n42MsvBQaXphr3N) | [Tomorrow Shall Be My Dancing Day](https://open.spotify.com/album/33ubXsrOIKgfeQtPAZDlBH) | 2:50 | 2024-10-17 | 2025-09-05 |
 | [Toyland](https://open.spotify.com/track/3frljinYzzUNd5YRIF6xhj) | [Eli Starr Trio](https://open.spotify.com/artist/5oITtTq61bt7N9ZvaJf7G7) | [Happy Christmas](https://open.spotify.com/album/0vaiiGYLM0VxFC0Krfd1zq) | 3:53 | 2024-10-17 | 2024-12-13 |
 | [Toyland](https://open.spotify.com/track/2Q8Ua4DHBYbBkMoOIjIPUz) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Toyland](https://open.spotify.com/album/0Ip22YliAz4GmMcDOdK08i) | 2:55 | 2024-12-12 | 2024-12-21 |
-| [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 | 2024-10-17 |  |
+| [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 | 2024-10-17 | 2025-12-17 |
 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 | 2024-10-17 |  |
 | [We Three Kings](https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [We Three Kings](https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH) | 2:59 | 2025-10-17 |  |
 | [We Three Kings \(Jazz Version\)](https://open.spotify.com/track/5uIylVaLyLDOe3YQTo9Arc) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [A Jazzy Little Christmas](https://open.spotify.com/album/3dEp0spQB8Yz3vPr2PUWc3) | 3:08 | 2024-10-17 | 2025-10-18 |

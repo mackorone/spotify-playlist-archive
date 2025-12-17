@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,147 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,641 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 29 | [Fall in Love at Christmas](https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Fall in Love at Christmas](https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI) | 5:08 |
 | 30 | [I Can Hardly Wait 'Til Christmas](https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Home For Christmas](https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw) | 4:47 |
 | 31 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 5:18 |
-| 32 | [I Saw Mommy Kissing Santa Claus \- Live At Union Chapel / BBC Radio 2](https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [I Saw Mommy Kissing Santa Claus \(Live At Union Chapel / BBC Radio 2\)](https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj) | 2:12 |
-| 33 | [All I Want For Christmas Is You \(feat\. Stokley\)](https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:22 |
+| 32 | [All I Want For Christmas Is You \(feat\. Stokley\)](https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Stokley](https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:22 |
+| 33 | [I Saw Mommy Kissing Santa Claus \- Live At Union Chapel / BBC Radio 2](https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [I Saw Mommy Kissing Santa Claus \(Live At Union Chapel / BBC Radio 2\)](https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj) | 2:12 |
 | 34 | [Every Year, Every Christmas](https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Classic Christmas Album](https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5) | 5:05 |
 | 35 | [presents \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [A Different Christmas](https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu) | 2:40 |
 | 36 | [I Want To Come Home For Christmas](https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Another Kind Of Christmas](https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe) | 3:40 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 92 | [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 |
 | 93 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd) | 2:31 |
 | 94 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
-| 95 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 |
-| 96 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
+| 95 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
+| 96 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 |
 | 97 | [To: You](https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [To: You \(a holiday joint\)](https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df) | 3:12 |
 | 98 | [Someday At Christmas](https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Someday At Christmas](https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq) | 3:23 |
 | 99 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 |
 | 100 | [My Only Christmas Wish](https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Christmas 3 Pack](https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2) | 3:33 |
 
-Snapshot ID: `AAAAANg3K3+7JjzWb9K+q0Yp7+UXAChM`
+Snapshot ID: `AAAAAMhSzi9GdzfsKKMeNm2ArAC9N0RD`

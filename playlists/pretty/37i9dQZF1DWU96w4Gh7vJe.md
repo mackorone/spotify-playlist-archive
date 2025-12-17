@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,257 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,237 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,16 +22,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 12 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 |
 | 13 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 |
 | 14 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
-| 15 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 |
-| 16 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
+| 15 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
+| 16 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 |
 | 17 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |
 | 18 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 19 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
 | 20 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
 | 21 | [Ikaw Lang Patutunguhan](https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Ikaw Lang Patutunguhan](https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG) | 5:26 |
 | 22 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
-| 23 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
-| 24 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 23 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 24 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 |
 | 25 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
 | 26 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
 | 27 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 39 | [Dati \(feat\. Skusta Clee\)](https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Byahe](https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b) | 3:17 |
 | 40 | [Paru\-Paro](https://open.spotify.com/track/4vJoaI1445sreRuSYAdaLW) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:21 |
 | 41 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
-| 42 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
-| 43 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
-| 44 | [Piliin](https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Piliin](https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ) | 4:39 |
+| 42 | [Piliin](https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Piliin](https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ) | 4:39 |
+| 43 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
+| 44 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
 | 45 | [Panata](https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Panata](https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u) | 4:35 |
 | 46 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
 | 47 | [tila tala](https://open.spotify.com/track/4ESVeOSa7asoWhkAg6aTB2) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [tila tala](https://open.spotify.com/album/5leaLgCdTTc6idyVEdBEGP) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 49 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 |
 | 50 | [Set You Free](https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD) | [Side A](https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [The Platinum Collection](https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz) | 4:33 |
 
-Snapshot ID: `AAAAAARhvtyao/v/59C5jdQRDeyyrcoC`
+Snapshot ID: `AAAAAI9Ml2MTxK6SbfqvQoD1riYupnn5`

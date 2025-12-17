@@ -1,6 +1,6 @@
 {
   "description": "Nosotros ponemos la m\u00fasica y t\u00fa los pasos ;)\nCan't stop, won't stop dancing!",
-  "num_followers": 1830881,
+  "num_followers": 1830777,
   "original_name": "\u00a1Baila Sin Parar!",
   "owner": {
     "name": "Spotify",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2025-11-21 15:12:14",
       "album": {
+        "name": "Escasez de Besos",
+        "url": "https://open.spotify.com/album/7hu8S7ZNiakxzrN3K1sljS"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 200827,
+      "name": "Escasez de Besos",
+      "url": "https://open.spotify.com/track/2kEC8t2FoGrN5H9FxnNBJn"
+    },
+    {
+      "added_at": "2025-11-21 15:12:14",
+      "album": {
         "name": "Guaro con Ron",
         "url": "https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 148454,
       "name": "Guaro con Ron",
       "url": "https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM"
-    },
-    {
-      "added_at": "2025-11-21 15:12:14",
-      "album": {
-        "name": "Escasez de Besos",
-        "url": "https://open.spotify.com/album/7hu8S7ZNiakxzrN3K1sljS"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 200827,
-      "name": "Escasez de Besos",
-      "url": "https://open.spotify.com/track/2kEC8t2FoGrN5H9FxnNBJn"
     },
     {
       "added_at": "2025-11-21 15:12:14",

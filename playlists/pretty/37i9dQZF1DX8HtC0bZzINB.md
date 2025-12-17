@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,341 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,332 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 9 | [Bul Beni](https://open.spotify.com/track/6ipyu0Am4avjFkBcFAhVAz) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bul Beni](https://open.spotify.com/album/2M1LgLBJVDPsiYRGHwDfoQ) | 2:34 |
 | 10 | [Bi Sonraki Hayatımda Gel](https://open.spotify.com/track/4q9DUJOFEJJtFXB4mtePhV) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Made In Turkey](https://open.spotify.com/album/1mDlX2DdJbX7FzqWTpCvIl) | 2:47 |
 | 11 | [ıslak kum](https://open.spotify.com/track/3XeMdSHi48X0XsDHckDhIM) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [ıslak kum](https://open.spotify.com/album/3EYBLj3sg0egpnL9Dhwmdh) | 3:06 |
-| 12 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 |
-| 13 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 |
+| 12 | [EVA & MIA](https://open.spotify.com/track/2FuWptjK1pc0rkVpF5O0CG) | [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [EVA & MIA](https://open.spotify.com/album/2PAswF8uCkTTTPyThWEXRE) | 2:54 |
+| 13 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 |
 | 14 | [Pofuduk](https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Pofuduk](https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu) | 2:22 |
 | 15 | [Favela](https://open.spotify.com/track/0OSmjU2982agUzLQ08Wqkl) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Favela](https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm) | 3:41 |
 | 16 | [Sağlam Kalça](https://open.spotify.com/track/01zrETrdU6ywRoqXZXBfbV) | [Borqy](https://open.spotify.com/artist/6wOhMMln8EAGF1fJz5bn78) | [Sağlam Kalça](https://open.spotify.com/album/0zAEWHyqzqzLNxKEbteeHk) | 2:14 |

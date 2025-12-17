@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 
 > Warm familiar pop you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,767,675 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,767,929 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwnEm1IYyoj.md) - [plain]
 | 96 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
 | 97 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 |
 | 98 | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [10,000 Hours \(with Justin Bieber\)](https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY) | 2:47 |
-| 99 | [Part Of Me](https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:36 |
-| 100 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:05 |
+| 99 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/2y5aJvzXhHPA94U5GFAcXe) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi) | 4:05 |
+| 100 | [Part Of Me](https://open.spotify.com/track/6yARPLK0PV4heEyh7pVMGz) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 3:36 |
 
 Snapshot ID: `AAAAAB9PNneZcDD8uqr0XeKWZlB9+Jnp`

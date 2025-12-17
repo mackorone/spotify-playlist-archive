@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,195,803 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,195,851 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 |
+| 1 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
 | 2 | [Terserah](https://open.spotify.com/track/4opS1cEuIRYchI8O85kZ0r) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:00 |
 | 3 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 |
 | 4 | [Semusim](https://open.spotify.com/track/0F0usCZL8B4ichHqUWAAI2) | [Tohpati](https://open.spotify.com/artist/5XyX171jkcvGEx4jkcZeLN), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Semusim](https://open.spotify.com/album/2SwklQLPnXVIJIS0ZqIlrL) | 4:14 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 14 | [Berkaca\-kaca](https://open.spotify.com/track/6qGiArzJsuYwtoeVLZyBUl) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g) | [Berkaca\-kaca](https://open.spotify.com/album/1hmZkPnKiiWzd7zZ67b8dl) | 3:51 |
 | 15 | [Terapi Hati](https://open.spotify.com/track/1kdgOWjhVQMhXFP8W0H3Pv) | [Aan Story](https://open.spotify.com/artist/21delmj7yVs6NDL6o1CPbk), [Vionita](https://open.spotify.com/artist/2dyCbip3jAVmQNAs7Sg8Y9) | [Terapi Hati](https://open.spotify.com/album/3BenZSY1REHnUr79QNojR9) | 3:32 |
 | 16 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 |
-| 17 | [Dan...](https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:48 |
+| 17 | [Rumah Ke Rumah](https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 4:37 |
 | 18 | [Harus Terpisah](https://open.spotify.com/track/4h5HFfqHYTtZRIIecbFqj6) | [Eltasya](https://open.spotify.com/artist/2P2UGpXHlefVMXpiA5LcBZ) | [Harus Terpisah](https://open.spotify.com/album/3nst6mJgipzEfL2bx5VjtI) | 3:52 |
 | 19 | [Bertaut](https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 5:15 |
 | 20 | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/track/1mruWrUwAVe2XkksUQiaHK) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f), [Audy](https://open.spotify.com/artist/611ajYp7fMbkU5CYF08tje) | [Selamat \(Selamat Tinggal\)](https://open.spotify.com/album/6osB48b3PzrABxdspbyYkd) | 5:13 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 25 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 |
 | 26 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 27 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 |
-| 28 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
-| 29 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 |
+| 28 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 |
+| 29 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
 | 30 | [Tetap Bukan Kamu \(feat\. Rony Parulian\)](https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 |
 | 31 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 |
 | 32 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 |

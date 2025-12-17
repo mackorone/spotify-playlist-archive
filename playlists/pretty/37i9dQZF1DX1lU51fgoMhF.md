@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: DAYOUNG\(다영\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,139 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,128 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 60 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 |
 | 61 | [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 |
 | 62 | [Ice Cream](https://open.spotify.com/track/6rXZhduf6TZb1mS1RjkHQ0) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Ice Cream](https://open.spotify.com/album/5Q41ZTpaEpDVtgu1yAtAPR) | 3:00 |
-| 63 | [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 |
-| 64 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 |
+| 63 | [Lil’ Touch](https://open.spotify.com/track/4D5Ode2OfZMxIwQyvmhUe8) | [Girls' Generation\-Oh!GG](https://open.spotify.com/artist/1foL9hLC9M6U94dINtOYfb) | [Lil' Touch \- The 1st Single](https://open.spotify.com/album/6369mPjmE105oD1ECF7WiA) | 3:09 |
+| 64 | [SWEAT](https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SWEAT](https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG) | 3:11 |
 | 65 | [I'm so sick](https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [ONE & SIX](https://open.spotify.com/album/6XrOYOghCOtUlWYXxB4cAm) | 3:19 |
 | 66 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 67 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 |

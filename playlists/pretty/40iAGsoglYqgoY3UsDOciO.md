@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 535 likes - 449 songs - 21 hr 47 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 537 likes - 450 songs - 21 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -457,5 +457,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 447 | [Christmas in Tha Hood](https://open.spotify.com/track/60MyC7swQn3EX4N16tWsCx) | [Ill Slim Collin](https://open.spotify.com/artist/6QmYQPrILpatGcjIQthHGl), [Blackwater Kaos](https://open.spotify.com/artist/7yY7WVqmm1I9e4ES6H81uS), [Desert Rose](https://open.spotify.com/artist/7A6bQSz6W0eWxgXL7TLYPg) | [Christmas in Tha Hood](https://open.spotify.com/album/072ydZagb8RYYeBbiAe0n8) | 3:56 |
 | 448 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 |
 | 449 | [kodiene..](https://open.spotify.com/track/0eP8IpPYW4KYjnxL1rfdc6) | [Prince Svmuel](https://open.spotify.com/artist/6hIBjDmrpN4kk59bVhJeiv) | [kodiene..](https://open.spotify.com/album/4eQfII3EpM70m5plJAvdvV) | 2:20 |
+| 450 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
 
-Snapshot ID: `AAABYaWPtT0gvT/fMzwjfy/W2fcYzVDz`
+Snapshot ID: `AAABYjDZtcwotXKNnFBpOTHoJLWlU+AM`

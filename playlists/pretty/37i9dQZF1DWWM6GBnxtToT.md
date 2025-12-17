@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,201 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,176 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 78 | [Take Me Out](https://open.spotify.com/track/3QfDceqmFnYDJi87fwI3lK) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Take Me Out](https://open.spotify.com/album/2YCBz7N0Lrdagv6Fym6a8e) | 4:55 |
 | 79 | [Waiting for a Sign](https://open.spotify.com/track/6cZArZnUd1oNPMX5vFyRSF) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw), [Joe Traxler](https://open.spotify.com/artist/6uKhANzXcfTiGJ9ulZDBno) | [Waiting for a Sign](https://open.spotify.com/album/6wkzOEFkPUQs8DFqmlosVz) | 2:58 |
 | 80 | [Passion](https://open.spotify.com/track/3T2Jz53hAdqMuJhEo3nYkF) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion](https://open.spotify.com/album/63j7U3jLepWFG6sSbxVwuP) | 3:41 |
-| 81 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
-| 82 | [You Are Entering The Human Heart](https://open.spotify.com/track/4BenuknMGlePyfb7VcJinW) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [You Are Entering The Human Heart](https://open.spotify.com/album/3vVoyRVSZHm55WiywJQ6c9) | 3:22 |
+| 81 | [You Are Entering The Human Heart](https://open.spotify.com/track/4BenuknMGlePyfb7VcJinW) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [You Are Entering The Human Heart](https://open.spotify.com/album/3vVoyRVSZHm55WiywJQ6c9) | 3:22 |
+| 82 | [The Canary Inukh](https://open.spotify.com/track/6zXe5eScWYkjQ59bcDETWf) | [Keope](https://open.spotify.com/artist/4PLAd936ZTS6KSJtiSsqDX) | [The Canary Inukh](https://open.spotify.com/album/3R3ClYQ14WTH7jyc1x8TbY) | 3:58 |
 | 83 | [Power of Denial](https://open.spotify.com/track/6gKEM5PLDjH2WsInN5JroT) | [Pool](https://open.spotify.com/artist/1yZ0q0QsxwvyY6odzRxUuX) | [Power of Denial](https://open.spotify.com/album/6Evnriuz8ieQypvk4V2OJT) | 5:14 |
 | 84 | [Zeus](https://open.spotify.com/track/0RQxUDg6l0yLtdjGsByaRX) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Zeus](https://open.spotify.com/album/35VinbtlSAyJGLF8lrazez) | 3:18 |
 | 85 | [Are You OK?](https://open.spotify.com/track/13AYk3zwAtSuuu1t9GTf7n) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/1wLarLGfSpVvudyJE7BiG9) | 4:23 |

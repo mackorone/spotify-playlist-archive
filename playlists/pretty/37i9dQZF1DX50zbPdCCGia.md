@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Jimmy Buffett
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,679 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,737 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 63 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |
 | 64 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
 | 65 | [Summer, Highland Falls](https://open.spotify.com/track/4850v7DuT7raVYAWc1ODPv) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turnstiles](https://open.spotify.com/album/7GiLfxL1su3MSqz7pmKMZi) | 3:20 |
-| 66 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
-| 67 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
+| 66 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
+| 67 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
 | 68 | [It's A Long Way There \- Remastered 2022](https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Little River Band \(Remastered 2022\)](https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC) | 8:42 |
 | 69 | [Don't Let Me Be Lonely Tonight \- 2019 Remaster](https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [One Man Dog \(2019 Remaster\)](https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE) | 2:35 |
 | 70 | [Bitter with the Sweet](https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:27 |

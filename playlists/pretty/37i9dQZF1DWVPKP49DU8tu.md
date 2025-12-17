@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Noi e il tuo specchio non ti giudicheremo mai, promesso 🤞🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,829 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,830 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 97 | [COME UN TUONO \(feat\. Guè\)](https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:55 |
 | 98 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
 | 99 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 |
-| 100 | [Cuore Rotto](https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Cuore Rotto](https://open.spotify.com/album/4Ytu4wfLAjT4nNVaQ1Gdl8) | 2:28 |
+| 100 | [Scrivile Scemo](https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:34 |
 
 Snapshot ID: `AAAAAC0Qv+sNVD9x4WmVBIEGcGh3bDsx`

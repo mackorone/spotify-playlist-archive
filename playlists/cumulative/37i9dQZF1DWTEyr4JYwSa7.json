@@ -329,7 +329,7 @@
     },
     {
       "album": {
-        "name": "Au Royaume de Bonhomme Hiver",
+        "name": "Au Royaume du Bonhomme Hiver",
         "url": "https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85"
       },
       "artists": [
@@ -340,9 +340,9 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 151594,
-      "name": "Au Royaume de Bonhomme Hiver",
+      "name": "Au Royaume du Bonhomme Hiver",
       "url": "https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9"
     },
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 235923,
       "name": "Aujourd'hui, il est n\u00e9",
       "url": "https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 205514,
       "name": "Dehors",
       "url": "https://open.spotify.com/track/7mhZardfXbJ6vsEBiBxngd"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 182866,
       "name": "Minuit, toi et moi",
       "url": "https://open.spotify.com/track/7p3q2kaPrvlnv0wUOoYKYo"

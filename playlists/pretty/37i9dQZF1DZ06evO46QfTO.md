@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,089 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,090 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [lemonade](https://open.spotify.com/track/6qF2SapjKCkp3ZOtzh3bBr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:58 |
 | 50 | [The Feels](https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:07 |
 
-Snapshot ID: `aT3+AAAAAAAIfU3iJtuALOrNSeo9ecSc`
+Snapshot ID: `aT9PgAAAAAD8ZusodxB+J26sp9X0D2C1`

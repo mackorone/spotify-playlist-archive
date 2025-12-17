@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,143 likes - 80 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,169 likes - 80 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 16 | [Find You Again](https://open.spotify.com/track/5BIYQro4nYhTcTEfMLhZZB) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity \(Deluxe Edition\)](https://open.spotify.com/album/64Z7e0YTTtoa7dRhpQb6kv) | 5:29 |
 | 17 | [Tarcu](https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Tarcu](https://open.spotify.com/album/3AE8hCcO0uSlP37iOO1stA) | 3:58 |
 | 18 | [Millenium \- Edit](https://open.spotify.com/track/2MCpIMRHhdN7ua7RlDWKFm) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Millenium \(Edit\)](https://open.spotify.com/album/3Iz0Ry755mM73t5s4h6iWf) | 3:40 |
-| 19 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
+| 19 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
 | 20 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 |
-| 21 | [June \- Mees Salomé Remix](https://open.spotify.com/track/2cet6WbkvQDj3iyQ58eoDt) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73), [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L) | [June \(Mees Salomé Remix\)](https://open.spotify.com/album/3sQGTd9PQdgzLAIFcM7pcJ) | 7:28 |
+| 21 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
 | 22 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
 | 23 | [Scarper](https://open.spotify.com/track/4RJz6UMktOxRng1j0mvrY1) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/31pmASRti6IjbYo67KbrJi) | 3:47 |
 | 24 | [Unlocked](https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Infinity](https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK) | 7:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 34 | [Meertraum](https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY) | [Azaleh](https://open.spotify.com/artist/3yNkKjNBiX09eHZ4EQ3lJY) | [Meertraum](https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1) | 6:34 |
 | 35 | [Odyssey](https://open.spotify.com/track/7jw452od74FzquMBqkUXiY) | [Daniel Portman](https://open.spotify.com/artist/2HnZ1elnutngLH1BFwV1kM) | [Odyssey](https://open.spotify.com/album/1JlK6KU1YKQ9gcahuFPFE7) | 4:17 |
 | 36 | [Purple Days](https://open.spotify.com/track/5oNeuOOo0U05wdEUbwOghM) | [KlangTherapeuten](https://open.spotify.com/artist/54gKd6ck4Kz5pigQLZUbkW), [Max Manie](https://open.spotify.com/artist/0esUZwk3FcZiAH1fXa66dU) | [Purple Days & Purple Nights](https://open.spotify.com/album/7oKLl9fSeBhHl4XYIBJADm) | 4:29 |
-| 37 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
-| 38 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
+| 37 | [Nebula](https://open.spotify.com/track/7BhSM2dw0NUbhFSarMICfr) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Nebula](https://open.spotify.com/album/6sIs8vP0ctpyBmJ8jFhQP9) | 3:08 |
+| 38 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
 | 39 | [Dea Dia](https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Dea Dia](https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh) | 8:50 |
 | 40 | [Wadi Dana](https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW) | [Corren Cavini](https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8) | [Wadi Dana](https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN) | 4:09 |
 | 41 | [Sora](https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv), [9hearts](https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt) | [Sora](https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0) | 3:32 |
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 44 | [Postquam](https://open.spotify.com/track/3uz86uuWkk7oyJs5pOTN3b) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Postquam](https://open.spotify.com/album/53S7Jd7k0K4mC2vg28j99p) | 8:18 |
 | 45 | [Hipotez](https://open.spotify.com/track/6HAOuGhIdNkoiUcSJiZUI2) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Hipotez](https://open.spotify.com/album/6RxQ3jqiZUN5jtYc3w4sDf) | 5:52 |
 | 46 | [Cliff \- Einmusik Remix](https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Cliff \(Einmusik Remix\)](https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy) | 7:24 |
-| 47 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
-| 48 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 47 | [Equinox](https://open.spotify.com/track/7e0hiWq3L9YJWb5PI4Wd85) | [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Equinox](https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln) | 6:53 |
+| 48 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 | 49 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
 | 50 | [Hailstorm \- Ann Clue Remix](https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Hailstorm \(Ann Clue Remix\)](https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76) | 6:22 |
 | 51 | [Solid](https://open.spotify.com/track/62DY8pd5ZcJSgytchGNuzP) | [Benzsoul](https://open.spotify.com/artist/0XXC5Wa9jqrU83q3lwGAhf) | [Solid](https://open.spotify.com/album/1okpvJ1vOGSnq0BGJgVcxy) | 6:44 |
-| 52 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
-| 53 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
-| 54 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 |
+| 52 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 |
+| 53 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
+| 54 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 |
 | 55 | [Run](https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF) | [Haddadi Von Engst](https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5) | [Run](https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a) | 5:08 |
 | 56 | [Ceremony](https://open.spotify.com/track/42VWlnp5ndV2kapnMvXmV1) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ceremony](https://open.spotify.com/album/0NsSwQGz2XD39C5pLEUinH) | 7:58 |
 | 57 | [End of Line](https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB) | [oddchapters](https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc) | [End of Line](https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3) | 4:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 10058,
+  "num_followers": 10070,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 151988,
+      "name": "LA NENA DE ARGENTINA",
+      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
         "name": "intoxicao",
         "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 168510,
       "name": "intoxicao",
       "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 151988,
-      "name": "LA NENA DE ARGENTINA",
-      "url": "https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -947,18 +947,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+        "name": "Te Cura (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
         }
       ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+      "duration_ms": 150612,
+      "name": "Te Cura",
+      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
     }
   ],
   "unique_name": "Con B de Bichota",

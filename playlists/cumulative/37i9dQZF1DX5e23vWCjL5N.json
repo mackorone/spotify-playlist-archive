@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132705,
+      "name": "Berserker",
+      "url": "https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv"
+    },
+    {
+      "album": {
         "name": "Canerandagio",
         "url": "https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR"
       },

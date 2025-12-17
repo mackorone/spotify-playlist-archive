@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Ee Nagaraniki Emaindi",
+        "url": "https://open.spotify.com/album/32d5QBhgMyJZhQEXn0R3KC"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Aagi Aagi",
+      "url": "https://open.spotify.com/track/0AUvrBetu1Rqd63yokSg82"
+    },
+    {
+      "album": {
         "name": "Ishq - Not A Love Story",
         "url": "https://open.spotify.com/album/4S1FWZaXzEt3MXbzChYDkR"
       },
@@ -338,7 +360,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 282222,
       "name": "Aradhya",
       "url": "https://open.spotify.com/track/3nCqpSpwxuO4gYF1wGS6WM"
@@ -790,7 +812,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 237263,
       "name": "Bullet song (From \"The Warriorr\")(Telugu)",
       "url": "https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa"
@@ -1150,7 +1172,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 202111,
       "name": "Choosi Chudangane",
       "url": "https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF"
@@ -2006,7 +2028,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 246412,
       "name": "Hey Sita Hey Rama (From \"Sita Ramam (Tamil)\")",
       "url": "https://open.spotify.com/track/27KG5tsJVk9cmC0JbDsEq8"
@@ -2608,7 +2630,7 @@
       },
       "artists": [
         {
-          "name": "Kalyani Malik",
+          "name": "Kalyani Mallik",
           "url": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
         },
         {
@@ -2616,13 +2638,13 @@
           "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
         },
         {
-          "name": "Lipsika",
+          "name": "Lipsika Bhashyam",
           "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
         }
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-04",
+      "date_removed": null,
       "duration_ms": 261012,
       "name": "Kanula Chatu Meghama",
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
@@ -3202,7 +3224,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 299290,
       "name": "Meghaalu Lekunna",
       "url": "https://open.spotify.com/track/4YpxBrMONvVqbmXmYI2P5M"
@@ -3228,7 +3250,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 205769,
       "name": "Mental Madhilo",
       "url": "https://open.spotify.com/track/2Va6TzJJ7hKVjV4n2uB3ne"
@@ -3518,7 +3540,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 184476,
       "name": "Nannaku",
       "url": "https://open.spotify.com/track/0cNP1OEXFDKiC2vmUfoWdr"
@@ -3704,7 +3726,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 234883,
       "name": "Ninnila",
       "url": "https://open.spotify.com/track/2DDOQBKGmkv7bPoYF1bELz"
@@ -3814,6 +3836,32 @@
       "duration_ms": 314342,
       "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
       "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
+    },
+    {
+      "album": {
+        "name": "Month Of Madhu",
+        "url": "https://open.spotify.com/album/1AhmzluHPzzD5bO8i8RKRK"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224554,
+      "name": "Oh Na Madhu",
+      "url": "https://open.spotify.com/track/46WainWGEgKqmUpnfEnzlH"
     },
     {
       "album": {
@@ -4616,7 +4664,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 223961,
       "name": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Panteon Rococo en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,555 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,552 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 79 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 80 | [Skinhead](https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Godfather Of Ska Anthology](https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp) | 4:40 |
 | 81 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
-| 82 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
-| 83 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
-| 84 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/5SkGKY8rSkaiC0DqfHuPbY) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 |
+| 82 | [Stepping Out](https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6) | [Big D and the Kids Table](https://open.spotify.com/artist/5SkGKY8rSkaiC0DqfHuPbY) | [Stomp](https://open.spotify.com/album/6smpibJ3RlcnBDdHi7dINI) | 3:01 |
+| 83 | [Underdog](https://open.spotify.com/track/7eBpiWpRPUlRUeCZ8oGpbo) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Flyover Renaissance](https://open.spotify.com/album/1FEQqvt2lIqv9nWAhDKBGK) | 3:24 |
+| 84 | [Morbid Obsessions](https://open.spotify.com/track/22gBwKtpb1qgBNS7l5feMh) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Ordinary Life](https://open.spotify.com/album/6gbRX2quEui9NXZu5ogvz9) | 3:02 |
 | 85 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 |
 | 86 | [Fat Randy](https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:03 |
 | 87 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
 | 88 | [Losing Touch](https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp) | [Codename Colin](https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB) | [Escape from Everything](https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy) | 3:41 |
-| 89 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
-| 90 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
+| 89 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
+| 90 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
 | 91 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
-| 92 | [See You Again](https://open.spotify.com/track/7z2fjnCzlQ9T7Nt52FjF5i) | [La Familia Torelli](https://open.spotify.com/artist/1ZmEQ1IO0MarUWP3wVO2XY), [Anna Millo](https://open.spotify.com/artist/5iYKTpMQBUVCsvPJrj2BeN) | [See You Again](https://open.spotify.com/album/0gIN5MH2JCJwBfSmYasAR7) | 2:54 |
-| 93 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |
+| 92 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |
+| 93 | [See You Again](https://open.spotify.com/track/7z2fjnCzlQ9T7Nt52FjF5i) | [La Familia Torelli](https://open.spotify.com/artist/1ZmEQ1IO0MarUWP3wVO2XY), [Anna Millo](https://open.spotify.com/artist/5iYKTpMQBUVCsvPJrj2BeN) | [See You Again](https://open.spotify.com/album/0gIN5MH2JCJwBfSmYasAR7) | 2:54 |
 | 94 | [Así No Se Puede Querer](https://open.spotify.com/track/2qqql02hJQMtSmBprjvj3e) | [Los Inconformes](https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy) | [Así No Se Puede Querer](https://open.spotify.com/album/7hZn0928vV65wuZLP8PgRw) | 3:36 |
 | 95 | [Desert Rose](https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Clive Hunt](https://open.spotify.com/artist/0TYvtIjZSDStLhh3wfKHy8) | [Desert Rose](https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5) | 4:00 |
 | 96 | [The Sweat](https://open.spotify.com/track/577X4F4HAZZUVzvT7wml4E) | [The Supervillains](https://open.spotify.com/artist/0LN8DYo6VtPVK0WQ3g6AXJ) | [Nice Things](https://open.spotify.com/album/5tNQBbbRsvoCDgJA8WA91T) | 2:21 |

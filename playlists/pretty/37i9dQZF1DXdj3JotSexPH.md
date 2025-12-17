@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,096 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,093 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 18 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
 | 19 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 20 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 |
-| 21 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
-| 22 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/0wH3O1Z1MJXYrl2BVENPD4) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
+| 21 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/0wH3O1Z1MJXYrl2BVENPD4) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1) | 2:43 |
+| 22 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
 | 23 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 | 24 | [Annihilate \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, Lil Wayne, Offset\)](https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:51 |
 | 25 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 |

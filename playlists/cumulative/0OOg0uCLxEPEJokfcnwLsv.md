@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-167 songs - 10 hr 9 min
+168 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Favourite Saprophyte](https://open.spotify.com/track/2niIeFW2oI4tAX3Q5EagTO) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [Tolerance Paradox](https://open.spotify.com/album/2Muk0rClwsvYyVGFBIGzJO) | 2:23 | 2025-12-13 |  |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-13 |  |
 | [Fly Away](https://open.spotify.com/track/1BPtiYG6hIuxlT79bPrvny) | [Springs of Autumn](https://open.spotify.com/artist/253bfrIVnxW1lBfhpvWijM) | [Fourteen](https://open.spotify.com/album/4qumeJ6UqZFk1aISguQLW8) | 3:35 | 2025-11-11 | 2025-12-12 |
+| [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 | 2025-12-16 |  |
 | [Get Down](https://open.spotify.com/track/0hxmmV26stWU0p7nMENjt5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Get Down](https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm) | 2:24 | 2025-12-03 |  |
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 | 2025-12-12 |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |

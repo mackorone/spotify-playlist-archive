@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,831 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,849 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 27 | [The Rising](https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Rising](https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d) | 4:50 |
 | 28 | [Johnny 99](https://open.spotify.com/track/2ohcpZDvcIRdCE3lWxu6Tc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 3:42 |
 | 29 | [The Promised Land](https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:29 |
-| 30 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
-| 31 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 30 | [Nightshift](https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 4:56 |
+| 31 | [Tenth Avenue Freeze\-Out](https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:11 |
 | 32 | [Highway Patrolman](https://open.spotify.com/track/408tTuSDxIr3zDR90Zmcw2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6) | 5:40 |
 | 33 | [Losin' Kind \- Nebraska Outtakes](https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 5:00 |
 | 34 | [The Ghost of Tom Joad](https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 4:26 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 40 | [Pink Cadillac \- Single B\-Side \- 1984](https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks](https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2) | 3:36 |
 | 41 | [Backstreets](https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 6:31 |
 | 42 | [Darkness On the Edge of Town](https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:30 |
-| 43 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
-| 44 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:04 |
+| 43 | [Rosalita \(Come Out Tonight\)](https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Wild, the Innocent & The E Street Shuffle](https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608) | 7:04 |
+| 44 | [Because the Night](https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 3:25 |
 | 45 | [Blood Brothers](https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG) | 4:34 |
 | 46 | [Prove It All Night](https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Darkness On the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc) | 4:00 |
-| 47 | [Gun in Every Home \- Nebraska Outtakes](https://open.spotify.com/track/0yXxTdtAn5WQiLXpoxMkbl) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 2:30 |
-| 48 | [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 |
-| 49 | [Youngstown](https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 3:57 |
+| 47 | [Letter To You](https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 4:55 |
+| 48 | [Youngstown](https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Ghost Of Tom Joad](https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl) | 3:57 |
+| 49 | [Gun in Every Home \- Nebraska Outtakes](https://open.spotify.com/track/0yXxTdtAn5WQiLXpoxMkbl) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska '82: Expanded Edition](https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM) | 2:30 |
 | 50 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:27 |
 
-Snapshot ID: `aT3+AAAAAABAQ5USknb1onbBCnGAMP0v`
+Snapshot ID: `aT9PgAAAAAAQv6XAv0PtschN51U5N+SJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,144 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,174 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 29 | [HOW ARE YOU](https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [HOW ARE YOU](https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs) | 2:38 |
 | 30 | [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 |
 | 31 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 |
-| 32 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
+| 32 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
 | 33 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 34 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 |
-| 35 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
+| 35 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
 | 36 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 |
 | 37 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 |
 | 38 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |

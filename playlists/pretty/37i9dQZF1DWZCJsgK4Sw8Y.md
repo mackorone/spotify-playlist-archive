@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,129 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,122 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 29 | [Collapsing \(feat\. Björn "Speed" Strid\)](https://open.spotify.com/track/2WVQXKecFNKwjfJab3M2xc) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [The World Is a Thorn \(Deluxe Edition\)](https://open.spotify.com/album/735AGDPrJkkaFEnl4UjlfN) | 3:38 |
 | 30 | [To Hell with the Devil](https://open.spotify.com/track/4t8OmZERfkdkRr4aoYa2h1) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [To Hell With The Devil](https://open.spotify.com/album/4LAVjeUmJl3h3U44sMRrfm) | 4:04 |
 | 31 | [Kings & Queens](https://open.spotify.com/track/3N8L7MZktWeZquTAWQ2oY8) | [Audio Adrenaline](https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER) | [Kings & Queens](https://open.spotify.com/album/1NcSOkBUqSXxFiRZxSL24d) | 3:49 |
-| 32 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 |
-| 33 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
+| 32 | [Take the Bullets Away \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR) | [We As Human](https://open.spotify.com/artist/6FFTGpuvFDztqTz4t1Hqy9), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [We As Human](https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea) | 3:31 |
+| 33 | [Deeper Waters](https://open.spotify.com/track/3TyXxUT1D3EiATkn4g5vJ6) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters](https://open.spotify.com/album/6FYE1tFCtHcIWTRGjy19zB) | 2:36 |
 | 34 | [Never Alone](https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL) | [BarlowGirl](https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi) | [BarlowGirl](https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr) | 4:30 |
 | 35 | [I Get Wicked \- Reignited](https://open.spotify.com/track/6X0sPx7iFn3xeZOZz8I2V5) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr), [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [I Get Wicked](https://open.spotify.com/album/1UIXC237ONFCTd5RE2011V) | 3:33 |
 | 36 | [Broken Heart](https://open.spotify.com/track/2YD9ge4vpiztCSCLfRWzMn) | [Falling Up](https://open.spotify.com/artist/0qJxsH9kWhslWau4Ork4Zm) | [Crashings](https://open.spotify.com/album/11IdVYUil7tSZcx3x8AH81) | 3:07 |

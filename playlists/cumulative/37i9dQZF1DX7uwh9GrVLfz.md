@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Arakezuri
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Hi\-STANDARD
 
-864 songs - 1 day 21 hr 41 min
+865 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [So tough & So tough](https://open.spotify.com/track/36SZggM1TD3tlZuUa6relW) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [So tough & So tough](https://open.spotify.com/album/5kT1YYk3YMGdzJbtmXOsGy) | 2:07 | 2023-02-10 | 2023-04-12 |
 | [Solar Kids](https://open.spotify.com/track/7vXdLVD0HARmB959nS0zuP) | [Wienners](https://open.spotify.com/artist/5NNgHGA4nj68wC8K3lR0n0) | [Treasure](https://open.spotify.com/album/3vhZFWyTLK9RGZD5ieQxR6) | 3:54 | 2022-07-19 | 2022-08-19 |
 | [SOLIDARITY](https://open.spotify.com/track/7zVYKpL0lfJ5I4og1vC00S) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [SOLIDARITY](https://open.spotify.com/album/7qg0TONqiLBSqLHkmJnIoS) | 2:54 | 2022-05-12 | 2022-07-24 |
+| [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 | 2025-12-16 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/1OACi7kjZbYeMzHBrVGKcB) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Sorry Not Sorry](https://open.spotify.com/album/0KzLQCUmZ0wLFtMDj6O5Mq) | 3:09 | 2024-12-17 | 2025-07-09 |
 | [Soundtrack](https://open.spotify.com/track/5JAVgsqh3TQDFWdPOgy3qe) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Life In The Sun World Edition](https://open.spotify.com/album/639Xs8APvvha9KM1BlrnrF) | 2:39 | 2022-05-19 | 2022-07-25 |
 | [SPANKY ALIEN](https://open.spotify.com/track/6mVkWvOcJbXAAWxM7mfCBS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [SPANKY ALIEN](https://open.spotify.com/album/4GmCJFE6FVDsPzt56f6hzG) | 3:35 | 2023-06-06 | 2023-12-06 |
@@ -722,7 +723,7 @@
 | [バイバイ、僕の恋人。](https://open.spotify.com/track/4i8d4saakaXrCEOrX0tFiM) | [The コットンクラブ](https://open.spotify.com/artist/4oBFYe6sg5cUiw70Weu1l6) | [バイバイ、僕の恋人。](https://open.spotify.com/album/2UmsrxD48XfQTeBHYOqwu9) | 2:48 | 2022-08-18 | 2022-09-07 |
 | [バトルカメ](https://open.spotify.com/track/3VUs83asTlXKRp8Q1T1bmi) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [バトルカメ](https://open.spotify.com/album/2hpvAXCw3KkAk16HvjMnOZ) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [パンクロックが鳴る夜に](https://open.spotify.com/track/6Ej9KwxT2SidCUHm8vBic7) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [陽はまた昇る](https://open.spotify.com/album/2tLjocfsUK0d21YTfRnwgT) | 3:28 | 2022-06-28 | 2022-07-18 |
-| [ヒトリセカイ](https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:20 | 2022-05-12 |  |
+| [ヒトリセカイ](https://open.spotify.com/track/5SmwhHaS2hK13aL6oDVZYD) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 4:20 | 2022-05-12 | 2025-12-17 |
 | [ピーチ♡いちごアメ](https://open.spotify.com/track/14JarMQZIr1Lfsw6DeGef5) | [BAKUDAN JOHNNY](https://open.spotify.com/artist/5esUkhRmBCoNxNobiBrCkG) | [爆弾ジョニー](https://open.spotify.com/album/23RW1MVkvvv6iIPGsnpHeX) | 2:56 | 2022-05-17 | 2022-07-29 |
 | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/track/2GkhyE56m5OaP5YjKXpFmo) | [SHAKILAMO!](https://open.spotify.com/artist/3YLOZgsxlza27wQlWilcmT) | [ファッ菌 Part.2 \~愛と哀しみのマンボウ\~](https://open.spotify.com/album/6oeSvxiZ9xQuNrJMq1I8b8) | 3:18 | 2022-05-12 | 2022-07-29 |
 | [フランス料理](https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [君の飼い犬は、可愛くて最悪。](https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98) | 4:43 | 2025-02-25 |  |

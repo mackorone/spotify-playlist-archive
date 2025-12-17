@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain]
 
 > Spotify redacteuren kiezen de beste Nederlandse liedjes van 2025\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,454 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain]
 | 49 | [Lil Freakje](https://open.spotify.com/track/7tqg41RdA6MLUrUbcNrFoJ) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lil Freakje](https://open.spotify.com/album/5qSSgAxAPQ4tfDeodFFc7A) | 3:34 |
 | 50 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx) | 2:32 |
 
-Snapshot ID: `AAAAAAADqdMFLQevHyjHE/k4bE65pbwR`
+Snapshot ID: `AAAAAN86sCvZ84FkCionbxT8p0khkXzy`

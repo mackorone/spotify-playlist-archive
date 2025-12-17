@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 
 ### [Classiques du Rap FR](https://open.spotify.com/playlist/37i9dQZF1DWSrqNVMcxGKc)
 
-> Tous les classiques du rap français dans une seule playlist ! Photo : 113
+> Tous les classiques du rap français dans une seule playlist ! Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,169 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,182 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 | 40 | [Mon papa à moi est un gangster](https://open.spotify.com/track/230WQfgxWrDowOttZT7Lhq) | [Stomy Bugsy](https://open.spotify.com/artist/6vDYFCXQbWPqlUEyBaVbMW) | [Le calibre qu'il te faut](https://open.spotify.com/album/5IuN6I7Al7EaSNEhlE2SMe) | 6:01 |
 | 41 | [Undaground connexion](https://open.spotify.com/track/0HHG5v9DKrvsCuXG1pUJ5p) | [Assasin](https://open.spotify.com/artist/5Rvs4rQWz3s8S1U9HQDJXO), [Supernatural](https://open.spotify.com/artist/3imos1CMHVKIIqsh3RWcl9) | [100% Classique Rap Français, vol\. 1](https://open.spotify.com/album/52EIzWwL809gvcGzoVGCrr) | 6:13 |
 | 42 | [Ma destinée](https://open.spotify.com/track/7aRLhyupq4euxoT5lSGHvw) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [À chaque frère](https://open.spotify.com/album/5QrkRiQ9eqm5reEYeETYFH) | 4:11 |
-| 43 | [L'impertinent](https://open.spotify.com/track/4noS6GiHvecd2uXwYJBPR0) | [Fabe](https://open.spotify.com/artist/5Jh4UFOCWwleD3kcd88xyh) | [Détournement de son](https://open.spotify.com/album/0Xm6bbsRBZq7puPAveJF0a) | 3:50 |
+| 43 | [L'impertinent](https://open.spotify.com/track/4noS6GiHvecd2uXwYJBPR0) | [Fabe](https://open.spotify.com/artist/3OBzP5L4BmynNauIhgvHQu) | [Détournement de son](https://open.spotify.com/album/0Xm6bbsRBZq7puPAveJF0a) | 3:50 |
 | 44 | [Les jeunes de l'univers](https://open.spotify.com/track/1p3Xdm0lPy9EQ3OtISAkcE) | [Rocca](https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD) | [Entre Deux Mondes](https://open.spotify.com/album/4glAMOQYgESV2rePwx0pEK) | 4:24 |
 | 45 | [Dans ma rue \- High for the Chronic !](https://open.spotify.com/track/3DTl0VOkyprQN95ljYlHDj) | [Doc Gynéco](https://open.spotify.com/artist/4GX9CqwqWtb76wuXwbXR6b) | [Première consultation \(Edition 20ème anniversaire\)](https://open.spotify.com/album/0VB37oH6NUjdAlKlpU40yn) | 4:01 |
 | 46 | [L'enfant seul](https://open.spotify.com/track/3hR6FtDMsgTIO3a4VIucIK) | [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O) | [Opera Puccino](https://open.spotify.com/album/1j19ltx8inseOGYmKaLO5Q) | 4:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,416 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,419 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 9 | [Wo Ntaban](https://open.spotify.com/track/1QBnMo0xD8wSDpgM9xh9uo) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 7:07 |
 | 10 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 11 | [Mo Ne Yo](https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 4:29 |
-| 12 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
-| 13 | [Afurumuba](https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj) | [Cecilia Marfo](https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:18 |
+| 12 | [Afurumuba](https://open.spotify.com/track/2XQijOC2m8i0kCwP43quJj) | [Cecilia Marfo](https://open.spotify.com/artist/2ruygXlfagVfWzDhyNooZo) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:18 |
+| 13 | [Hymm](https://open.spotify.com/track/5ccfgPC6IyCS3AEqD1cMVE) | [Evangelist Diana Asamoah](https://open.spotify.com/artist/4Ww81OPkdNxP7jsBIn6sOJ) | [Pentecost Soree Nwom](https://open.spotify.com/album/4hdA0dUWWABTxLgZvwX285) | 5:54 |
 | 14 | [Bebre](https://open.spotify.com/track/0AqVbvy316jvn30WplrcQF) | [Daughters of Glorious Jesus](https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy) | [Aseda](https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ) | 6:35 |
 | 15 | [Mema Meni So](https://open.spotify.com/track/3Rr1Y9nXzMpjqZcsKvzydb) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Holy Ghost](https://open.spotify.com/album/2QrY1DPOzjjcnglsiYPsn0) | 5:18 |
 | 16 | [Obi Nyanime](https://open.spotify.com/track/2viwGf2amzhI31dEOx9Zc5) | [Patience Nyarko](https://open.spotify.com/artist/1PN3MECm6tJsYl7UB9wiYI) | [Obi Nyanime](https://open.spotify.com/album/529oA87giAzWVG0dCQfOaZ) | 6:14 |
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 34 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |
 | 35 | [Meda Wase](https://open.spotify.com/track/70KR4uRhhDOjBYv8fK50SL) | [Hannah Marfo](https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK) | [Akristofoo Adooso](https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw) | 5:07 |
 | 36 | [Bo Noo Ni \(feat\. Luigi Maclean\)](https://open.spotify.com/track/7eirw5Zy1bUWOka5g2HWrb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [LUIGI MACLEAN](https://open.spotify.com/artist/4gzBsQLndSUq2uUislBcq6) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:48 |
-| 37 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 |
+| 37 | [Ayeyi](https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:31 |
 | 38 | [Yesu Do](https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [Yesu Do](https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k) | 5:50 |
 | 39 | [Nyame Eguamba](https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 5:05 |
 | 40 | [Akristofoo Adooso](https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH) | [Hannah Marfo](https://open.spotify.com/artist/6ayFJ67xxcAHoxGySRqLeK) | [Akristofoo Adooso](https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw) | 7:22 |
 | 41 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
-| 42 | [Ayeyi](https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:31 |
+| 42 | [Ebenezer](https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt) | [Stella Seal](https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI) | [Afe Ato Me](https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q) | 5:14 |
 | 43 | [Ayeyi](https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd), [Joyce Blessing](https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI) | [I Am Noble](https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF) | 4:04 |
 | 44 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
 | 45 | [Wobeye Kese \- Version 1](https://open.spotify.com/track/5M1pUiWe3yAVTVMQE3ZM31) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s) | [Wobeye Kese](https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT) | 4:58 |

@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1142299,
+  "num_followers": 1142548,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,30 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 207301,
+      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-        "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207301,
-      "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
-      "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "Mi\u00e9nteme",
+        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "\u00d1ero Session 16",
         "url": "https://open.spotify.com/album/0xi9kxStnEU6zWr9aC9eK1"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 137406,
       "name": "\u00d1ero Session 16",
       "url": "https://open.spotify.com/track/2HBOtZ9ev6cNO9EnRO4JP3"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "Mi\u00e9nteme",
-        "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -1547,42 +1547,6 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Dile A \u00c9L (Remix)",
-        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 220189,
-      "name": "Dile A \u00c9L (Remix)",
-      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
         "name": "SEH",
         "url": "https://open.spotify.com/album/2lAmmJJWHbI05riBMKScF1"
       },
@@ -1603,6 +1567,42 @@
       "duration_ms": 163846,
       "name": "SEH",
       "url": "https://open.spotify.com/track/0RF0uI6eeHrlYW8rGdN9K0"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
+        "name": "Dile A \u00c9L (Remix)",
+        "url": "https://open.spotify.com/album/0BZAoYC5AYtNrddg8MjCdI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 220189,
+      "name": "Dile A \u00c9L (Remix)",
+      "url": "https://open.spotify.com/track/4IlyL83AOQFFVfx0pgYyFZ"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
+        "name": "La T\u00f3xica",
+        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 180520,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
+    },
+    {
+      "added_at": "2025-12-12 06:00:31",
+      "album": {
         "name": "Chosen Few: Grandes Exitos",
         "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
       },
@@ -2095,38 +2111,30 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "La T\u00f3xica",
-        "url": "https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx"
+        "name": "Maquillaje (feat. Yexel) [Remix]",
+        "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 180520,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv"
-    },
-    {
-      "added_at": "2025-12-12 06:00:31",
-      "album": {
-        "name": "BB (with Blessd)",
-        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+          "name": "Renn",
+          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
         },
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
         }
       ],
-      "duration_ms": 180000,
-      "name": "BB (with Blessd)",
-      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
+      "duration_ms": 286283,
+      "name": "Maquillaje - Remix",
+      "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
     },
     {
       "added_at": "2025-12-12 06:00:31",
@@ -2175,30 +2183,22 @@
     {
       "added_at": "2025-12-12 06:00:31",
       "album": {
-        "name": "Maquillaje (feat. Yexel) [Remix]",
-        "url": "https://open.spotify.com/album/59Ji10hPziKlf6wB8N2KFZ"
+        "name": "BB (with Blessd)",
+        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
       },
       "artists": [
         {
-          "name": "Renn",
-          "url": "https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 286283,
-      "name": "Maquillaje - Remix",
-      "url": "https://open.spotify.com/track/1eMXh9WqMtnmeyZnig2NUA"
+      "duration_ms": 180000,
+      "name": "BB (with Blessd)",
+      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
     }
   ],
   "unique_name": "La Casa del Perreo",

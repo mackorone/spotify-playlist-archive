@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,791 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,780 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 16 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 17 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 |
 | 18 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
-| 19 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
+| 19 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
 | 20 | [Za kulisami](https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Umiem kochać Cię tak całkiem na poważnie](https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom) | 2:41 |
 | 21 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 |
-| 22 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
+| 22 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
 | 23 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
 | 24 | [Komu miałabym powiedzieć?](https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Komu miałabym powiedzieć?](https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI) | 2:32 |
 | 25 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 41 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |
 | 42 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 43 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
-| 44 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
-| 45 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
-| 46 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 |
-| 47 | [TV](https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [TV](https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R) | 2:43 |
-| 48 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 44 | [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 |
+| 45 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
+| 46 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
+| 47 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
+| 48 | [TV](https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [TV](https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R) | 2:43 |
 | 49 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
 | 50 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 |
 

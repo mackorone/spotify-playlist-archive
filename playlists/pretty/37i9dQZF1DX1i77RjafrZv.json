@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317721,
+  "num_followers": 317707,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "Je sais pas",
+      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273133,
-      "name": "Je sais pas",
-      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
     },
     {
       "added_at": "2024-10-15 19:50:17",

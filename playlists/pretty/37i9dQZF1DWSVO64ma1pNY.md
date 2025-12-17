@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,472 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,466 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 43 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 |
 | 44 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 45 | [Something from Nothing](https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 4:48 |
-| 46 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
+| 46 | [Everything I Do Is For You](https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Everything I Do Is For You](https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC) | 2:36 |
 | 47 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
-| 48 | [Everything I Do Is For You](https://open.spotify.com/track/1BO9znQb8BbJ5W8KPAqgWE) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Everything I Do Is For You](https://open.spotify.com/album/1isIpqlAXx9y1Q5JVTGiVC) | 2:36 |
+| 48 | [hot girl bummer](https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [hot girl bummer](https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT) | 3:05 |
 | 49 | [Revelations](https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:12 |
 | 50 | [Life Support](https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Life Support / Ms\. Supernova](https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy) | 3:11 |
 | 51 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 54 | [Overcome](https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Overcome](https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W) | 3:34 |
 | 55 | [Isolation](https://open.spotify.com/track/5G2c0FDSToVnmhrk9EJuv2) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [AB III](https://open.spotify.com/album/5k9IKUeX7Czrh9BzhUGT86) | 4:13 |
 | 56 | [Parallax Error](https://open.spotify.com/track/361VLQqrej2KgPNvjK344Q) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [What Does Your Soul Look Like](https://open.spotify.com/album/6SMBc0IPPwSrlqx9meQOeV) | 3:24 |
-| 57 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
-| 58 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 |
+| 57 | [The Pod](https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 4:37 |
+| 58 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
 | 59 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
 | 60 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 61 | [Falling Apart](https://open.spotify.com/track/1oFe7QvpwY3xZVyABI2TXP) | [TRUSTcompany](https://open.spotify.com/artist/21ALJSG7U07dShegeJQ2xA) | [The Lonely Position Of Neutral](https://open.spotify.com/album/2fjLRxrWTlE20dPbICrNnh) | 3:28 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 89 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 |
 | 90 | [Fail You](https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Fail You](https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur) | 3:06 |
 | 91 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 |
-| 92 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
-| 93 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
+| 92 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
+| 93 | [Let You Down](https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Poison The Parish](https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58) | 4:10 |
 | 94 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 |
 | 95 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |
 | 96 | [Two Toned](https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu) | [Deadshowws](https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU) | [Two Toned // She Said](https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B) | 3:46 |

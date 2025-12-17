@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > alt, folk, and indie rock sprinkled into this sonic melting pot\. Cover: Goldie Boutilier
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,098 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,046 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 21 | [Same Old Song](https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Same Old Song](https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN) | 2:54 |
 | 22 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 23 | [Take a Look Inside \(Feat Jim James\)](https://open.spotify.com/track/2mGu072NOCSsXH4jZtPOwV) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Take a Look Inside](https://open.spotify.com/album/3rrqFkapcMjBtwh7PsoQSH) | 4:28 |
-| 24 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
-| 25 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 |
+| 24 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 |
+| 25 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 |
 | 26 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
 | 27 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 28 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 89 | [Mistakes](https://open.spotify.com/track/5Pdy7tkX4AjEEN9zlAlWUu) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Mistakes / Fairview Feeling](https://open.spotify.com/album/1hvZoZcwgET0uCQLnENLWr) | 3:18 |
 | 90 | [Violet](https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 |
 | 91 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
-| 92 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
-| 93 | [Brand New](https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:31 |
+| 92 | [Brand New](https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Flood](https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok) | 3:31 |
+| 93 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 |
 | 94 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 95 | [Prove It To You](https://open.spotify.com/track/0w9eE1YhhHG4pTGK2eaWhs) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:20 |
 | 96 | [Scared](https://open.spotify.com/track/3CT0G578DbsSd3jBhL5Vup) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Scared](https://open.spotify.com/album/6Yh42b3yIFoN3F2x3GKLju) | 3:27 |

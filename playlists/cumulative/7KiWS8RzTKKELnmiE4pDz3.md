@@ -4,7 +4,7 @@
 
 > 
 
-1,264 songs - 2 day 17 hr 46 min
+1,265 songs - 2 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -837,6 +837,7 @@
 | [Parking Lot](https://open.spotify.com/track/5zyySSTcBpXQ8gSbuONRH7) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:54 | 2025-12-02 |  |
 | [Party Girlz](https://open.spotify.com/track/6LQvGtDpDMTnn3zWOBQzOx) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:12 | 2023-01-20 | 2023-04-12 |
 | [Pass It Pass It](https://open.spotify.com/track/7iitOVmSpBt9QDqnLM1oLf) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [R&G \(Rhythm & Gangsta\): The Masterpiece \[Explicit Version\]](https://open.spotify.com/album/34GxD8gBcVX4CkJRJP73Ph) | 4:32 | 2025-08-21 |  |
+| [Pass the Plugs](https://open.spotify.com/track/0PHvFewiwm3B9aEmdrcZS9) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 3:29 | 2025-12-16 |  |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2025-11-29 |  |
 | [Patience \(feat\. Don Toliver\)](https://open.spotify.com/track/05grSYrVwYw58YMOdJceyz) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:22 | 2023-07-12 | 2023-12-14 |
 | [PC5](https://open.spotify.com/track/6i8v5yhol3QkMSnUJJvL8b) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:18 | 2025-08-06 |  |

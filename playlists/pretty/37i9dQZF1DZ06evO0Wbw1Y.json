@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29085,
+  "num_followers": 29083,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAJN/AtzLGodBtGjv3nPBSd",
+  "snapshot_id": "aT9PgAAAAAA/+fMC7zFYy54+VBDh7ttX",
   "tracks": [
     {
       "added_at": null,
@@ -686,11 +686,15 @@
         {
           "name": "Caracol Televisi\u00f3n",
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
+        },
+        {
+          "name": "Santiago Deluchi",
+          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
         }
       ],
-      "duration_ms": 158297,
-      "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+      "duration_ms": 174259,
+      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
     },
     {
       "added_at": null,
@@ -754,15 +758,11 @@
         {
           "name": "Caracol Televisi\u00f3n",
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
-        },
-        {
-          "name": "Santiago Deluchi",
-          "url": "https://open.spotify.com/artist/4FDLd6nJ3NvbKRSORCS8yD"
         }
       ],
-      "duration_ms": 174259,
-      "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
+      "duration_ms": 158297,
+      "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 163210,
-      "name": "Stop",
-      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cu\u00e1nto Me Duele",
         "url": "https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 233755,
       "name": "Cu\u00e1nto Me Duele",
       "url": "https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 163210,
+      "name": "Stop",
+      "url": "https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo"
     },
     {
       "added_at": null,

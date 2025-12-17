@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 163304,
+  "num_followers": 163305,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAClkZm6yd3IgQgA3CEt/Szj",
+  "snapshot_id": "aT9PgAAAAAAecK4XAJcJBRylBUsjXb9E",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Made A Way",
+        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Bear Bailey",
+          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
+        }
+      ],
+      "duration_ms": 379082,
+      "name": "Praise You Through It",
+      "url": "https://open.spotify.com/track/0vejLtgneNNOwcfT3E7ma0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 492415,
       "name": "God Will Work It Out (feat. Naomi Raine, Israel Houghton & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/0cquJ3BPyFKQALxOMsl7m3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Made A Way",
-        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Bear Bailey",
-          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
-        }
-      ],
-      "duration_ms": 379082,
-      "name": "Praise You Through It",
-      "url": "https://open.spotify.com/track/0vejLtgneNNOwcfT3E7ma0"
     },
     {
       "added_at": null,
@@ -923,54 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Musica",
-          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Karen Espinosa",
-          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
-        },
-        {
-          "name": "Johnny Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
-        }
-      ],
-      "duration_ms": 469125,
-      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
-      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingdom Book One",
-        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 421165,
-      "name": "My Life Is In Your Hands (feat.Chandler Moore)",
-      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAVHOUSE",
         "url": "https://open.spotify.com/album/5zsTw8kLaUnl9xkwxmW49g"
       },
@@ -999,6 +951,54 @@
       "duration_ms": 225768,
       "name": "Well, Well, Well (feat. Nick Day, Roman Collins & Za Smith)",
       "url": "https://open.spotify.com/track/1Uxa2NtfjBIOravMz0ZQF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kingdom Book One",
+        "url": "https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 421165,
+      "name": "My Life Is In Your Hands (feat.Chandler Moore)",
+      "url": "https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple Adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Musica",
+          "url": "https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Karen Espinosa",
+          "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Johnny Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/02vFhaWs4QCenZimcS7FTG"
+        }
+      ],
+      "duration_ms": 469125,
+      "name": "Yeshua (feat. Karen Espinosa & Johnny Pe\u00f1a)",
+      "url": "https://open.spotify.com/track/2RwWBMeU9g4KaOHxQchJ4e"
     },
     {
       "added_at": null,

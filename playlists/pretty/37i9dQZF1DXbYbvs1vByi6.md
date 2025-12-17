@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 
 > Non\-stop energy, riffs and belters.\. for all you rock'n'roll stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,916 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,919 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYbvs1vByi6.md) - [plain]
 | 37 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
 | 38 | [Reservoir](https://open.spotify.com/track/762XA3FNEU90kTdj2ABSrz) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [PUP](https://open.spotify.com/album/2i0sTsyZZGEGcakLqHFcyw) | 3:16 |
 | 39 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 |
-| 40 | [Marks To Prove It](https://open.spotify.com/track/5VR7bYgk4TaJ1ZyNScT1sm) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Marks To Prove It](https://open.spotify.com/album/7oHYVWE7EH2WFdZ36N2rEU) | 4:14 |
-| 41 | [Two Steps, Twice](https://open.spotify.com/track/2K1upo7TEAIMVd9D9FDhrx) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 4:39 |
+| 40 | [Two Steps, Twice](https://open.spotify.com/track/2K1upo7TEAIMVd9D9FDhrx) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 4:39 |
+| 41 | [Marks To Prove It](https://open.spotify.com/track/5VR7bYgk4TaJ1ZyNScT1sm) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Marks To Prove It](https://open.spotify.com/album/7oHYVWE7EH2WFdZ36N2rEU) | 4:14 |
 | 42 | [Explore](https://open.spotify.com/track/1SvBMXnCRBMqO2UIPk8lR3) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 4:05 |
 | 43 | [Puppets](https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Puppets](https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw) | 2:29 |
 | 44 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |

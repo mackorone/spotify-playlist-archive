@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 569 songs - 1 day 11 hr 59 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 577 songs - 1 day 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -577,5 +577,13 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 567 | [V.A.L.I.S.](https://open.spotify.com/track/11oUMXbkJZAfidj6tinjKS) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 3:20 |
 | 568 | [Team A](https://open.spotify.com/track/7feZIKKpQ8egcciU61ITzs) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:36 |
 | 569 | [Truth](https://open.spotify.com/track/2LeKS9zLNBY2GwUCC4BSZJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:00 |
+| 570 | [The Healing](https://open.spotify.com/track/3fh7Uw4tZJpzIpJQiMdzfK) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four](https://open.spotify.com/album/0AGiSBsS2q6BXgfDHNy9kb) | 4:19 |
+| 571 | [Mean](https://open.spotify.com/track/44x2FKtAH95pQBEk45wkOl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four \(Deluxe\)](https://open.spotify.com/album/4u7EXBnQVO2LOhDiziw70R) | 3:27 |
+| 572 | [Leaf Skeleton](https://open.spotify.com/track/5bCiIhO0KqgBCzcNwJTTS6) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Four \(Deluxe\)](https://open.spotify.com/album/4u7EXBnQVO2LOhDiziw70R) | 3:39 |
+| 573 | [Ratchet](https://open.spotify.com/track/1k5AiK2Gm2TaJtkkDeQnMi) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:18 |
+| 574 | [Children of the Future](https://open.spotify.com/track/6OglVQUqBeozmxbSts7zRf) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [FOUR \(Deluxe Version\)](https://open.spotify.com/album/4T5NbYNbGEgTF3SbTQH0rT) | 3:07 |
+| 575 | [X\-Cutioner's Song \- Bonus Track](https://open.spotify.com/track/0eOHGxAfcwA4jS2QcCbspI) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Nextwave Sessions](https://open.spotify.com/album/7dN12PgmTyMSxiD9Rz1U11) | 2:01 |
+| 576 | [Straight Thru Cru](https://open.spotify.com/track/3Ne8ouAV41rgrX310LQ80I) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Octopus](https://open.spotify.com/album/0KanlBnxb6FIJwgpCxJKnJ) | 3:28 |
+| 577 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 |
 
-Snapshot ID: `AAAV4RzdfAUWrk6cx3KYoZJxBkGZvcBA`
+Snapshot ID: `AAAV6ZamkHbKuXqRKvvxKrM2fU5aRuLo`

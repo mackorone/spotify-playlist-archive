@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-87 songs - 5 hr 17 min
+91 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cold as Ice](https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Cold as Ice](https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM) | 3:07 | 2025-09-08 |  |
 | [Control Z](https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P) | 3:10 | 2025-11-26 |  |
 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2025-11-27 |  |
+| [Cut the Music](https://open.spotify.com/track/0kub1ztt7OU6gzch4MpEjU) | [Evan Rotella](https://open.spotify.com/artist/01UvushZJthpdyuMbDFpDS) | [Cut the Music](https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv) | 4:06 | 2025-12-16 |  |
 | [Desde Que Te Vi](https://open.spotify.com/track/4zRfPFZQJ3FgXY6fYPVyee) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Desde Que Te Vi](https://open.spotify.com/album/0BeMj6uXo1D1ew6FgT9210) | 4:10 | 2025-10-30 |  |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 |  |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 |  |
@@ -57,6 +58,7 @@
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-11-18 |  |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 |  |
+| [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 | 2025-12-16 |  |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2025-11-04 |  |
 | [New Age](https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age: The Age of Karyttah](https://open.spotify.com/album/2vjajlHIgc0ihbc6RP3Ri8) | 6:04 | 2025-11-11 |  |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-09-25 |  |
@@ -74,9 +76,11 @@
 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 | 2025-12-05 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 |  |
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 |  |
+| [Savage Reservation](https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Neanderthal](https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN) | 1:48 | 2025-12-16 |  |
 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-09-08 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 |  |
+| [Still](https://open.spotify.com/track/7jaJmDGkrPIlAA6IlyiYa3) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:30 | 2025-12-16 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 |  |
 | [Sugar Husk](https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [Sugar Husk](https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh) | 2:13 | 2025-10-31 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 325176,
+  "num_followers": 325267,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAAGA9WD3ZwQbq1bvTvp5U2T",
+  "snapshot_id": "aT9PgAAAAADi/1qtii5dj1E2IjeH57pl",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 163103,
+      "name": "Hate Goes On",
+      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 192969,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 163103,
-      "name": "Hate Goes On",
-      "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
       "duration_ms": 322492,
       "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
       "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waylon & Willie IV",
-        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
-      },
-      "artists": [
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197343,
-      "name": "My Only Enemy",
-      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 280647,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie IV",
+        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197343,
+      "name": "My Only Enemy",
+      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
     },
     {
       "added_at": null,

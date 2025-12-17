@@ -547,13 +547,21 @@
     {
       "added_at": "2013-06-30 21:27:05",
       "album": {
-        "name": "Eyes Wide Open (feat. Kate Elsworth) - Single",
+        "name": "Eyes Wide Open (feat. Kate Elsworth)",
         "url": "https://open.spotify.com/album/3CWn9LLJ4d0M8JA94cYrnw"
       },
       "artists": [
         {
-          "name": "Dirty South & Thomas Gold",
-          "url": "https://open.spotify.com/artist/5zF5WftJkZwKGcFaiTQNkG"
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        },
+        {
+          "name": "Kate Elsworth",
+          "url": "https://open.spotify.com/artist/3lHI0h5NymKIJmDOxqHIgJ"
         }
       ],
       "duration_ms": 322617,

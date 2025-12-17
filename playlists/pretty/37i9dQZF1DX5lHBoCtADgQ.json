@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 45487,
+  "num_followers": 45509,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
+        "name": "Din Shagna",
+        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 229135,
+      "name": "Din Shagna",
+      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
         "name": "Lok Boliyan",
         "url": "https://open.spotify.com/album/1Msqy9vME2sjOzJVvkfWAR"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 566160,
       "name": "Lok Boliyan",
       "url": "https://open.spotify.com/track/3GPib79uCC9JiaBRGSiaU4"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
-        "name": "Din Shagna",
-        "url": "https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 229135,
-      "name": "Din Shagna",
-      "url": "https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Wedding Songs",
-        "url": "https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF"
-      },
-      "artists": [
-        {
-          "name": "Musarrat Nazir",
-          "url": "https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t"
-        }
-      ],
-      "duration_ms": 166295,
-      "name": "Chitta Kukkad",
-      "url": "https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG"
-    },
-    {
-      "added_at": "2025-08-14 12:50:24",
-      "album": {
         "name": "Geet Shagna De",
         "url": "https://open.spotify.com/album/0PrTCTodwMPGbsGWGc6s7j"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 150586,
       "name": "Ve Gurdit Deya Lalaa",
       "url": "https://open.spotify.com/track/4Xs5ktOy57oQ1hPtLrzcVy"
+    },
+    {
+      "added_at": "2025-08-14 12:50:24",
+      "album": {
+        "name": "Wedding Songs",
+        "url": "https://open.spotify.com/album/4YltGLl6l1gU75ReNwWAeF"
+      },
+      "artists": [
+        {
+          "name": "Musarrat Nazir",
+          "url": "https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t"
+        }
+      ],
+      "duration_ms": 166295,
+      "name": "Chitta Kukkad",
+      "url": "https://open.spotify.com/track/54G9mqDZwyFqDxjvWz0fuG"
     },
     {
       "added_at": "2025-08-14 12:50:24",
@@ -915,26 +915,18 @@
     {
       "added_at": "2025-08-14 12:50:24",
       "album": {
-        "name": "Suhe Ve Cheere Waliya Chill Flip",
-        "url": "https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY"
+        "name": "Mehndi (Punjabi Wedding Songs)",
+        "url": "https://open.spotify.com/album/3uqDkiSkf0KaM4ViZevq1S"
       },
       "artists": [
         {
-          "name": "Mann Taneja",
-          "url": "https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW"
-        },
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        },
-        {
-          "name": "Prakash Kaur",
-          "url": "https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh"
+          "name": "Madan Bala Sindhu",
+          "url": "https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv"
         }
       ],
-      "duration_ms": 147500,
-      "name": "Suhe Ve Cheere Waliya Chill Flip",
-      "url": "https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU"
+      "duration_ms": 261378,
+      "name": "Punjabi Wedding Boliyan",
+      "url": "https://open.spotify.com/track/7napdOdfCC2xlqoOUlRz7j"
     }
   ],
   "unique_name": "Folk Punjabi",

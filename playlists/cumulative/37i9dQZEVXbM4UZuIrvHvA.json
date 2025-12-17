@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -8180,7 +8180,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
@@ -8944,7 +8944,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track",
       "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
@@ -8990,7 +8990,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -11200,7 +11200,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -12536,7 +12536,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -13536,7 +13536,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -15486,7 +15486,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -15504,7 +15504,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -18087,6 +18087,48 @@
     },
     {
       "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+        },
+        {
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan",
+      "url": "https://open.spotify.com/track/7DonHcAdu5FHzLNESEEOuj"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -18134,7 +18176,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -18204,7 +18246,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -21931,6 +21973,24 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
       },
@@ -23496,7 +23556,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 299055,
       "name": "Minnalvala",
       "url": "https://open.spotify.com/track/7f88cYg6oaAaSJMfF2GANl"
@@ -23602,7 +23662,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -24426,7 +24486,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX"
@@ -25540,7 +25600,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -30956,7 +31016,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -38792,7 +38852,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -38810,7 +38870,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

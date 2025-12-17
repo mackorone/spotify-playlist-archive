@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-993 songs - 2 day 10 hr 10 min
+994 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-20 |  |
 | [Juliana](https://open.spotify.com/track/54qfiHthTAtNrhaW7mT9tS) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Sweet Apple](https://open.spotify.com/album/5g2sMG9I7tK6T5SYraZLTW) | 3:40 | 2022-11-10 | 2025-01-08 |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-08-10 | 2022-12-24 |
-| [Just a Light Beauty](https://open.spotify.com/track/6NrUTGEMrBPrh5LX7cR2Hh) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Just a Light Beauty](https://open.spotify.com/album/7guE58VKo80dau4Lp2iJTQ) | 3:22 | 2024-09-03 |  |
+| [Just a Light Beauty](https://open.spotify.com/track/6NrUTGEMrBPrh5LX7cR2Hh) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Just a Light Beauty](https://open.spotify.com/album/7guE58VKo80dau4Lp2iJTQ) | 3:22 | 2024-09-03 | 2025-12-17 |
 | [Just For Tonight](https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Just For Tonight](https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH) | 2:44 | 2023-03-23 | 2025-06-06 |
 | [Just Friends](https://open.spotify.com/track/2cByyV8EU1bya9sT6BYRuR) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [Just Friends](https://open.spotify.com/album/0UuUidgi3I2YfRwng3Cdhr) | 2:35 | 2022-12-22 | 2024-05-11 |
 | [Just one more day](https://open.spotify.com/track/4emBEJT3aAZgFzWdzndt0Y) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Just one more day](https://open.spotify.com/album/5ExGiez4mIo8Np2B8Rf9bq) | 2:47 | 2024-05-23 | 2025-08-20 |
@@ -945,6 +945,7 @@
 | [When Silence Speaks](https://open.spotify.com/track/36kEtyMYuf6rIcDRDB7u8F) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [When Silence Speaks](https://open.spotify.com/album/2PiLhlUYUDzuAdDIv6Wv9f) | 3:08 | 2025-11-03 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-04-11 | 2024-05-24 |
 | [When we danced](https://open.spotify.com/track/2pcDGklI3mOVMZrvnUF2t5) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [When we danced](https://open.spotify.com/album/1nx9sZzwa022j2IF1leM6D) | 4:29 | 2022-11-17 | 2025-09-24 |
+| [When We Fall In To Blue](https://open.spotify.com/track/46o29rDFwnxjklHJ3oklgB) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [When We Fall In To Blue](https://open.spotify.com/album/6wo0eYdXoYs7cOkePxTKsY) | 3:28 | 2025-12-16 |  |
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 | 2024-06-12 |
 | [When We Were Young](https://open.spotify.com/track/30UZLHtCtfBOQy6TAnivr2) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [When We Were Young](https://open.spotify.com/album/33LjvM51YwNH5PgqXgSOxu) | 3:34 | 2022-04-11 | 2025-01-21 |
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-04-11 | 2022-09-21 |

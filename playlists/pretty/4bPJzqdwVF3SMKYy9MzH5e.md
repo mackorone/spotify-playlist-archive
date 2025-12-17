@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,267 songs - 5 day 1 hr 32 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,271 songs - 5 day 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2275,5 +2275,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2265 | [rayquaza ex](https://open.spotify.com/track/1IhLQFzL8gWnyUUVAap7qi) | [Exodia](https://open.spotify.com/artist/0ndWKGm6Kl92RMNKdEsco1) | [rayquaza ex](https://open.spotify.com/album/6rbdJMeEdLoE9ZHlEwLp3q) | 3:28 |
 | 2266 | [Crazy](https://open.spotify.com/track/4CVqYMpHOozDjjdkb32QQY) | [False Persona](https://open.spotify.com/artist/0o9eLbvKL4PGG549qygy1o), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Crazy](https://open.spotify.com/album/4YgiVywFl6ZUK85JZQK4lL) | 4:29 |
 | 2267 | [Manalive](https://open.spotify.com/track/10anCiNBXXeO8bwcOZj0x5) | [Devilfish](https://open.spotify.com/artist/17tAp4OPhYcNmdAq1m7UNW) | [Justin Robertson: Imprint](https://open.spotify.com/album/5o4xfTM7Y9ZVVBrE5JBeI6) | 3:22 |
+| 2268 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
+| 2269 | [Doschitai](https://open.spotify.com/track/5X59Gh7j0so6cDqrFdvDDS) | [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc) | [Irak](https://open.spotify.com/album/23lhxikSw5MpkrfDNoJm3K) | 4:41 |
+| 2270 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
+| 2271 | [Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:37 |
 
-Snapshot ID: `AAAE1bVMHRY06FUem6adKX+60E7ckSuL`
+Snapshot ID: `AAAE2i+v/Dr/DjxVvR3nthr3G0r8W/gm`

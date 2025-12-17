@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,495 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,462 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 30 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 31 | [Fire!](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 32 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
-| 33 | [Dancing in love](https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:36 |
-| 34 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
+| 33 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
+| 34 | [Dancing in love](https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:36 |
 | 35 | [Moonshine](https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Moonshine](https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN) | 2:40 |
 | 36 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 |
 | 37 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
 | 50 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 
-Snapshot ID: `aT3+AAAAAADSazcS76bKBV0cvuaZ1XKj`
+Snapshot ID: `aT9PgAAAAABP5nVqSKmEdaTtNCTwvwze`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,326 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,042,497 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 71 | [Celos](https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:41 |
 | 72 | [No Se Murió El Amor](https://open.spotify.com/track/6SgL4u341uV0EkVWQNLDRA) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Amor Y Rock 'N' Roll](https://open.spotify.com/album/7fgyyg4HgaOsvd0j1adJbt) | 3:53 |
 | 73 | [Ámame Hasta Con Los Dientes](https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 8](https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU) | 2:54 |
-| 74 | [Decidete](https://open.spotify.com/track/0t4Z131i0IVcWfSvCxSeZd) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Decidete](https://open.spotify.com/album/3mO9TKGfnyfWGionNCwYvq) | 3:03 |
+| 74 | [Isabel](https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 2:37 |
 | 75 | [Fue un Placer Conocerte](https://open.spotify.com/track/21mG4EMCJcsA04nzV2MHbn) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:00 |
 | 76 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
 | 77 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5779505,
+  "num_followers": 5779653,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 201373,
       "name": "She's Always a Woman",
       "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 155973,
-      "name": "Boys Don't Cry",
-      "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Elton John",
         "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 241786,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Rock Of The Westies",
         "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -711,6 +695,22 @@
       "duration_ms": 146250,
       "name": "Immigrant Song - Remaster",
       "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 257157,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 257157,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 211680,
       "name": "Ventura Highway",
       "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're So Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're So Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+        "name": "Baby I'm-a Want You",
+        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
       "artists": [
         {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+          "name": "Bread",
+          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
         }
       ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+      "duration_ms": 187000,
+      "name": "Everything I Own",
+      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Baby I'm-a Want You",
-        "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
       "artists": [
         {
-          "name": "Bread",
-          "url": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Everything I Own",
-      "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 211708,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 215319,
       "name": "Blame It on the Boogie",
       "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Staying Alive (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6iqFb4EhmlHHjJGFcRgJmQ"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 92866,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/4UDmDIqJIbrW0hMBQMFOsM"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -2107,18 +2091,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
       "artists": [
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2135,6 +2119,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Pieces Of Eight",
         "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
     },
     {
       "added_at": "2025-05-28 20:15:31",

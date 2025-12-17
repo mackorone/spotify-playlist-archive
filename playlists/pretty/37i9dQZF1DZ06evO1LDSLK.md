@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,212 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,206 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 17 | [Some Weird Sin](https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 3:41 |
 | 18 | [Les Feuilles Mortes](https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 3:55 |
 | 19 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 |
-| 20 | [Lust For Life \- The Prodigy Remix](https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Liam Howlett](https://open.spotify.com/artist/3UKIiIkOIj6NEzAPClAM3t) | [Lust For Life \(The Prodigy Remix\)](https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd) | 5:00 |
+| 20 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
 | 21 | [Sixteen](https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 2:26 |
-| 22 | [Beside You](https://open.spotify.com/track/2KZYHks9fBXCX1Ac8McutM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 4:29 |
+| 22 | [Lust For Life \- The Prodigy Remix](https://open.spotify.com/track/5JLrVTFMGGeeB5Iz4Oci0R) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Liam Howlett](https://open.spotify.com/artist/3UKIiIkOIj6NEzAPClAM3t) | [Lust For Life \(The Prodigy Remix\)](https://open.spotify.com/album/4qHxDHh1Go7ZR6d8fPC2Pd) | 5:00 |
 | 23 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 |
 | 24 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
 | 25 | [Everybody's Talkin'](https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 41 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 |
 | 42 | [Louie Louie](https://open.spotify.com/track/15e3sz0HdP1TXxSdZV7bQc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [American Caesar](https://open.spotify.com/album/3f3HzLIKkqOGDAL0Iy0woi) | 3:48 |
 | 43 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
-| 44 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 |
-| 45 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
+| 44 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
+| 45 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 |
 | 46 | [Personal Jesus](https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX) | [Trevor Horn](https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [ECHOES – ANCIENT & MODERN](https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq) | 3:26 |
-| 47 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
-| 48 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 |
-| 49 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
+| 47 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
+| 48 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
+| 49 | [Sunday](https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 6:06 |
 | 50 | [Supermarket](https://open.spotify.com/track/21AfGXS5oiWXpLxllErl9o) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Skull Ring](https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu) | 3:01 |
 
-Snapshot ID: `aT3+AAAAAADatmcTHertr3Pfch6cRjh7`
+Snapshot ID: `aT9PgAAAAABxnussRn+sVl1XgXjYIFpZ`

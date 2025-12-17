@@ -215,6 +215,32 @@
     },
     {
       "album": {
+        "name": "AURA",
+        "url": "https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/1F2sn8iJA607Xfz1K3d9dJ"
+    },
+    {
+      "album": {
         "name": "Desi Kalakaar",
         "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
       },
@@ -902,7 +928,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 142511,
       "name": "Tu / You",
       "url": "https://open.spotify.com/track/4L6hCEc9xFf01U4d66JzK0"

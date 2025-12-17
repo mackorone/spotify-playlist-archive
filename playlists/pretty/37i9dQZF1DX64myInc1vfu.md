@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: iLe
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,070 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,081 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 33 | [Fantasías](https://open.spotify.com/track/5eHegIfGPku1Jo70rRzv6k) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Fantasías](https://open.spotify.com/album/5JF53e3hNvCz7FQXWqhLZG) | 3:46 |
 | 34 | [Un Amor Que Se Termina](https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Un Amor Que Se Termina](https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI) | 2:36 |
 | 35 | [Hola Perdido](https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Hola Perdido](https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV) | 3:05 |
-| 36 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
-| 37 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
+| 36 | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/track/6wZ5T64zJdYE5eyAailiIi) | [Karla Christina](https://open.spotify.com/artist/6oqN5DUzIm9sGSX3KpFQBP) | [Por Qué Me Fui A Enamorar De Ti](https://open.spotify.com/album/4iEOANj4Ybn1DYEX3CC9RU) | 4:05 |
+| 37 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
 | 38 | [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 |
 | 39 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 40 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |

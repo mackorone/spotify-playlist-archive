@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ไฮไลท์ Fresh Finds Thailand ปี 2025 โดย Spotify Editor\. ปก: GOODMOOD\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,514 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,515 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 38 | [ผู้ชม \(feat\. Khem FREEHAND\)](https://open.spotify.com/track/23hHRScGll3GDtCcfVxeAv) | [World Nopparuj](https://open.spotify.com/artist/4YJf8IYiDgp0THhDwwRodb) | [ผู้ชม \(feat\. Khem FREEHAND\)](https://open.spotify.com/album/1aoBuh75sH3YVll8tj4eDu) | 5:40 |
 | 39 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 |
 | 40 | [ฝนจะไม่ตกตลอดไป](https://open.spotify.com/track/1yf30VjNdpvJIGeqjcF5De) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [ฝนจะไม่ตกตลอดไป](https://open.spotify.com/album/5S9vxzDyMDymHz20bqJJQs) | 3:15 |
-| 41 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
+| 41 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
 | 42 | [พอยัง](https://open.spotify.com/track/3GBhLaZdvzrTaUc5Ct0gdE) | [M DAOSAI](https://open.spotify.com/artist/6AYjq5OjoAXZN8wdlBmC5v) | [พอยัง](https://open.spotify.com/album/75ExCLzX59ZH8UGNC9XbA7) | 4:42 |
 | 43 | [ถ้าฝืนต่อไป](https://open.spotify.com/track/7DCkQV8yTFU2GXRPE5Esee) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ถ้าฝืนต่อไป](https://open.spotify.com/album/3rc2O4iD98qieCxdxFVtKm) | 4:07 |
 | 44 | [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 |

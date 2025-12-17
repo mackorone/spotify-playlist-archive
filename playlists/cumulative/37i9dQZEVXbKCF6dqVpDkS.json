@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -7704,7 +7704,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -7926,7 +7926,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -12498,7 +12498,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -12646,7 +12646,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -17468,7 +17468,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -17504,7 +17504,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -20432,7 +20432,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -20468,7 +20468,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -20494,7 +20494,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -21360,7 +21360,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 207530,
       "name": "Kan Je Me Zien",
       "url": "https://open.spotify.com/track/1jKuRFbCCTkzSC119cXcLd"
@@ -23832,7 +23832,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 213160,
       "name": "Lonely This Christmas",
       "url": "https://open.spotify.com/track/5DMItYJluCFc7YtFdP4aXo"
@@ -26838,7 +26838,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -27544,6 +27544,28 @@
       "duration_ms": 147116,
       "name": "Niet Genoeg (feat. Idaly)",
       "url": "https://open.spotify.com/track/5NNcU38EVLajKZbYydu6tR"
+    },
+    {
+      "album": {
+        "name": "Niet Nodig",
+        "url": "https://open.spotify.com/album/4bo2xHn60vQOvWphKHzt7u"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163130,
+      "name": "Niet Nodig",
+      "url": "https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M"
     },
     {
       "album": {
@@ -30794,7 +30816,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
@@ -33302,7 +33324,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -33962,7 +33984,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 232213,
       "name": "Shake Up Christmas",
       "url": "https://open.spotify.com/track/1NghHeg0wE32eBYrQBVQXL"
@@ -44220,7 +44242,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 154062,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"

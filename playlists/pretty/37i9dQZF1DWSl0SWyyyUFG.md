@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,291 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,398 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 39 | [Cuatro Milpas](https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:35 |
 | 40 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
 | 41 | [Como Este Loco](https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:41 |
-| 42 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
+| 42 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
 | 43 | [Las Nachas](https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:15 |
 | 44 | [Mi Ranchito](https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:04 |
-| 45 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
+| 45 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
 | 46 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
 | 47 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 48 | [Un indio quiere llorar](https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:49 |

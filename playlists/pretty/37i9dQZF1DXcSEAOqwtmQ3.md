@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,076 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,106 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 14 | [Collabo](https://open.spotify.com/track/0hp62UwmajmzAjXkMKznhD) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Double Trouble](https://open.spotify.com/album/27Jz5SHt1hamUx7fD9A6VC) | 3:43 |
 | 15 | [Leg Over](https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 3:17 |
 | 16 | [Gbona](https://open.spotify.com/track/0DrzsBstN5rObzTuX8DSro) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:07 |
-| 17 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
-| 18 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
+| 17 | [KANA](https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [KANA](https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC) | 3:27 |
+| 18 | [Fever](https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Fever](https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2) | 4:12 |
 | 19 | [Ma Lo](https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Spellz](https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J) | [Sugarcane](https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo) | 3:02 |
 | 20 | [If](https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [If](https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx) | 3:57 |
 | 21 | [Anybody](https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |

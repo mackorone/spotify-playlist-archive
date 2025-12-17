@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,169 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,186 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

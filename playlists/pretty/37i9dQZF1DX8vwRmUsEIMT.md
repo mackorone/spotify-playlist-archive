@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,655 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,652 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 27 | [Little House](https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 2:30 |
 | 28 | [White Rabbit](https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [White Rabbit](https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N) | 3:05 |
 | 29 | [Winny](https://open.spotify.com/track/4qhrMsB4w2pHYB3BhX5WPr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Winny](https://open.spotify.com/album/63ITryjqkiwjmk3GABslAj) | 4:24 |
-| 30 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
+| 30 | [RING THE ALARM](https://open.spotify.com/track/3R5DTC9H0bV0UZkq0IfGiP) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/2S1fF7oAMf7weRhTEZD5ET) | 5:31 |
 | 31 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [Come Closer EP](https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz) | 3:26 |
 | 32 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 33 | [What's Good?](https://open.spotify.com/track/1cgCdZT8tfdtNDTIbt5zVA) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [What's Good?](https://open.spotify.com/album/5AgPQFMIbH3uxH16asz5eE) | 2:32 |

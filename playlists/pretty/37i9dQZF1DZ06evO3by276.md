@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 
 > This is Rihanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,196,635 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,196,801 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 | 16 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 17 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:41 |
 | 18 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:26 |
-| 19 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
+| 19 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |
 | 20 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
-| 21 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 |
+| 21 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 |
 | 22 | [Diamonds](https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:45 |
 | 23 | [Run This Town](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:27 |
 | 24 | [Hate That I Love You](https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:38 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 | 40 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 |
 | 41 | [Princess of China](https://open.spotify.com/track/4HXOBjwv2RnLpGG4xWOO6N) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 3:59 |
 | 42 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
-| 43 | [California King Bed](https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:11 |
-| 44 | [Who's That Chick? \(feat\. Rihanna\)](https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [One More Love](https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n) | 3:21 |
+| 43 | [Who's That Chick? \(feat\. Rihanna\)](https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [One More Love](https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n) | 3:21 |
+| 44 | [California King Bed](https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:11 |
 | 45 | [Te Amo](https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:28 |
 | 46 | [Bitch Better Have My Money](https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Bitch Better Have My Money](https://open.spotify.com/album/4S8F794ucXJcAtycwOZgR9) | 3:39 |
 | 47 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 | 49 | [Russian Roulette](https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:47 |
 | 50 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 |
 
-Snapshot ID: `aT3+AAAAAABrOkRiHJxvf0TQbMbaU9x9`
+Snapshot ID: `aT9PgAAAAAC7KjBYYeCwXhaMsptD4qk4`

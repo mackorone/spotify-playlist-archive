@@ -1,12 +1,12 @@
 {
   "description": "This is Racionais MC's. The essential tracks, all in one playlist.",
-  "num_followers": 578911,
+  "num_followers": 578865,
   "original_name": "This Is Racionais MC's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADlnXVja7vzSd8ojnn5imUV",
+  "snapshot_id": "aT9PgAAAAAATI3RuMTemEHaj+u68lGX8",
   "tracks": [
     {
       "added_at": null,
@@ -270,11 +270,15 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        },
+        {
+          "name": "DJ CIA",
+          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 159902,
-      "name": "Voc\u00ea Me Deve",
-      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
+      "duration_ms": 67429,
+      "name": "Somos o Que Somos",
+      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
     },
     {
       "added_at": null,
@@ -350,15 +354,11 @@
         {
           "name": "Racionais MC's",
           "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        },
-        {
-          "name": "DJ CIA",
-          "url": "https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL"
         }
       ],
-      "duration_ms": 67429,
-      "name": "Somos o Que Somos",
-      "url": "https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P"
+      "duration_ms": 159902,
+      "name": "Voc\u00ea Me Deve",
+      "url": "https://open.spotify.com/track/5G4rIw7lHwmxQUADg2lnWo"
     },
     {
       "added_at": null,

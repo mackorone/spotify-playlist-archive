@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Gecko&Tokage Parade",
+  "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
   "name": "Jazz Fusion Japan",
   "tracks": [
     {
@@ -680,7 +680,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 294706,
       "name": "El Ron Zacapa",
       "url": "https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC"
@@ -1168,6 +1168,24 @@
       "duration_ms": 246000,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO"
+    },
+    {
+      "album": {
+        "name": "Mid Summer Shuffle feat. Toshiki Kadomatsu",
+        "url": "https://open.spotify.com/album/7sbJS96u8p27zFRyJfIDyH"
+      },
+      "artists": [
+        {
+          "name": "Akira Jimbo",
+          "url": "https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "Mid Summer Shuffle feat. Toshiki Kadomatsu",
+      "url": "https://open.spotify.com/track/31wRy64OKfga3gncOQBq2U"
     },
     {
       "album": {

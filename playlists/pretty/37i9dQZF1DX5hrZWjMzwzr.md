@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,659 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,658 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 38 | [młody gandolfini](https://open.spotify.com/track/3tf8gSdD6Ch9Rz4H2uJKOO) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [młody gandolfini](https://open.spotify.com/album/3hzZqUcymHfXpnuo9Czhig) | 2:32 |
 | 39 | [Ty Wiesz](https://open.spotify.com/track/0QfTXFJdnx42T8DeTWWwN6) | [Oliwka Brazil](https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs), [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN), [Jakub Laszuk](https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ) | [Ty Wiesz](https://open.spotify.com/album/3WMrFBSnIzZOucQTEy0uBU) | 2:49 |
 | 40 | [JOHNNY DANG](https://open.spotify.com/track/2Q8WXdzGE4okUzDWbzKH48) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft) | [JOHNNY DANG](https://open.spotify.com/album/37cllReDw2lRsZsOdUl2lT) | 3:00 |
-| 41 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
-| 42 | [Techno](https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Techno](https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j) | 3:15 |
+| 41 | [Techno](https://open.spotify.com/track/7j5lyR5RW7JLzXayM4zr8q) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Techno](https://open.spotify.com/album/6Ng4npzmFeqsysgEQgus6j) | 3:15 |
+| 42 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
 | 43 | [Wszystkoholik](https://open.spotify.com/track/0I0DpAq8dp1D7pK2ayI5sZ) | [Floral Bugs](https://open.spotify.com/artist/7e6iH8brpvXHIcxlK8WHZK) | [S.I.M.P](https://open.spotify.com/album/4uWRoauI8CergH5xsXTrgN) | 2:12 |
 | 44 | [HUTA \(gasną światła\)](https://open.spotify.com/track/0LvnOg56hsjISUvWuq1xMa) | [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN) | [RYK](https://open.spotify.com/album/3HBYk01U0ewV3afzMm8zGH) | 2:07 |
 | 45 | [DresKot](https://open.spotify.com/track/4qTdBXG8gJPVd07jVzuDIY) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99) | [DresKot](https://open.spotify.com/album/2ihF9wkzHATrtn42gNB0uD) | 2:59 |

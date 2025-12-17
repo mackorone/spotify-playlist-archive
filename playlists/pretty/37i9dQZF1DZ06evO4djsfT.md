@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,937 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,940 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 29 | [Long Live the Champion](https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Yariel](https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T) | [Long Live the Champion](https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW) | 4:23 |
 | 30 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 |
 | 31 | [Yes Song](https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:45 |
-| 32 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 |
-| 33 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
+| 32 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
+| 33 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 |
 | 34 | [Danza](https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:23 |
 | 35 | [This Is Life](https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:27 |
 | 36 | [Santo \(HLY FOREVER\)](https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Santo \(HLY FOREVER\)](https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
 | 50 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 |
 
-Snapshot ID: `aT3+AAAAAADo9w6ZHZ/7VyfiCP73AA+S`
+Snapshot ID: `aT9PgAAAAAAxZkOLT+k2luMdQh8tMrKv`

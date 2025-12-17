@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,476 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,520 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 31 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 |
 | 32 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 33 | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4) | 2:42 |
-| 34 | [Options](https://open.spotify.com/track/6v9mfppMGeusTxuauQ4r2P) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Options](https://open.spotify.com/album/6O6QQyRj5A4lRMIwrE7Wlr) | 2:40 |
+| 34 | [Options](https://open.spotify.com/track/6v9mfppMGeusTxuauQ4r2P) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Eight9FLY](https://open.spotify.com/artist/2sihWpnEorLd86tRAaDUrc), [Crumz](https://open.spotify.com/artist/5nt98wJxVusArWyEJuNymn) | [Options](https://open.spotify.com/album/6O6QQyRj5A4lRMIwrE7Wlr) | 2:40 |
 | 35 | [RAINING IN HOUSTON](https://open.spotify.com/track/2xxb5zW09uwbgyLprALi9E) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:04 |
 | 36 | [again](https://open.spotify.com/track/7FwgafuJFYX2M5CrEVfN4M) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:00 |
 | 37 | [Drunk Sex](https://open.spotify.com/track/7IaUQ5gFilm6gCdmzEaI6L) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Drunk Sex](https://open.spotify.com/album/13jgn0pGFcJeFlOIQzGC9d) | 3:46 |

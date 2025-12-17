@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,084,549 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084,812 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 16 | [Todavía Te Amo](https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:32 |
 | 17 | [Felicidades](https://open.spotify.com/track/3RxqFMGljx897MC9yApidW) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Felicidades](https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl) | 3:09 |
 | 18 | [Decide Tú](https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda la Sinaloense de Alex Ojeda](https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf) | [Decide Tú](https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4) | 3:52 |
-| 19 | [Música Romántica](https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mis 30 Aniversario \(Vol\. 2\)](https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx) | 3:52 |
+| 19 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
 | 20 | [Hubiéramos](https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:49 |
-| 21 | [Corazón \(En Vivo\)](https://open.spotify.com/track/1DXl17aTwuvzZ9T2AXiKZM) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7) | [Arriba La Moyombiza \(En Vivo\)](https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs) | 2:56 |
+| 21 | [Música Romántica](https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mis 30 Aniversario \(Vol\. 2\)](https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx) | 3:52 |
 | 22 | [Cuánto Cuesta](https://open.spotify.com/track/7bcIXJ7FXmAxPxjP2dbt1M) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Cuánto Cuesta](https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf) | 2:54 |
 | 23 | [Descuide](https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Descuide](https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK) | 3:25 |
 | 24 | [Segundas Partes](https://open.spotify.com/track/5YZfVtBFzbVvOsXRkQHd3M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [El Roto \(En Vivo\)](https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [El Roto \(En Vivo\)](https://open.spotify.com/album/3wVwuq9AQvjM2duYyhQrCJ) | 3:13 |
 | 50 | [Las Heladas \(En Vivo\)](https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 2:46 |
 
-Snapshot ID: `aT3+AAAAAAC7B8Uckgt81rykIQBQkiFi`
+Snapshot ID: `aT9PgAAAAADqwgynuVC6A/CyMS6IhVpp`

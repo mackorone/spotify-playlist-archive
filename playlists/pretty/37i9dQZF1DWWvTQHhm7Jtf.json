@@ -211,6 +211,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Talk from Home",
+        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
+        }
+      ],
+      "duration_ms": 249704,
+      "name": "Renee Sleeping",
+      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Between No Things",
         "url": "https://open.spotify.com/album/6OQwiuvocNlEp7D9nIBOjj"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 235717,
       "name": "On Plateau",
       "url": "https://open.spotify.com/track/5SpQc9ByjLPrycqSBdPRKU"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Talk from Home",
-        "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 249704,
-      "name": "Renee Sleeping",
-      "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1053,6 +1053,30 @@
       "url": "https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Missing Pages",
+        "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
+      },
+      "artists": [
+        {
+          "name": "Lars Bartkuhn",
+          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
+        },
+        {
+          "name": "The First Minute of a New Day",
+          "url": "https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq"
+        },
+        {
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
+        }
+      ],
+      "duration_ms": 339440,
+      "name": "June 26th",
+      "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
+    },
+    {
       "added_at": "2023-11-15 16:20:30",
       "album": {
         "name": "Hypermyth",
@@ -1079,30 +1103,6 @@
       "duration_ms": 357256,
       "name": "Tide Pool Portals to Another World",
       "url": "https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Missing Pages",
-        "url": "https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c"
-      },
-      "artists": [
-        {
-          "name": "Lars Bartkuhn",
-          "url": "https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW"
-        },
-        {
-          "name": "The First Minute of a New Day",
-          "url": "https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq"
-        },
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
-        }
-      ],
-      "duration_ms": 339440,
-      "name": "June 26th",
-      "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
     },
     {
       "added_at": "2024-01-03 18:03:36",

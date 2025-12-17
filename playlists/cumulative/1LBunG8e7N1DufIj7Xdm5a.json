@@ -46479,6 +46479,32 @@
     },
     {
       "album": {
+        "name": "Lo primero que se te ocurra",
+        "url": "https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mol",
+          "url": "https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx"
+        },
+        {
+          "name": "Lorenzo Graef",
+          "url": "https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW"
+        },
+        {
+          "name": "Pat Quinteros",
+          "url": "https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326688,
+      "name": "Quiero vivir en el espacio",
+      "url": "https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh"
+    },
+    {
+      "album": {
         "name": "Soft Steps",
         "url": "https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3"
       },

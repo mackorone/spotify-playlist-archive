@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,808 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,819 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 6 | [Wrong or Right](https://open.spotify.com/track/1vPPjIPCxbioBx2vSSSWSk) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl) | [Wrong or Right](https://open.spotify.com/album/4zeW17YCaboRUofvFYLvhQ) | 3:00 |
 | 7 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 8 | [Witchoo](https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Witchoo](https://open.spotify.com/album/1WtWOewkBtB1IhbVzTeRmT) | 3:42 |
-| 9 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
+| 9 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 10 | [Trust Me](https://open.spotify.com/track/7AWQMv4shieEuCNsH8lxkF) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:50 |
-| 11 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
+| 11 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
 | 12 | [Time](https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:30 |
 | 13 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 |
 | 14 | [Gtg \(feat\. reina\)](https://open.spotify.com/track/29SLKg5p3n89krHVS3mrn1) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Gtg](https://open.spotify.com/album/0E7kv5bWhxRpjSv6gy5Z4T) | 3:42 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 37 | [Feel Missing](https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:18 |
 | 38 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 |
 | 39 | [You and I](https://open.spotify.com/track/2RjsAYVbdZPISqnsWd3Hup) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:42 |
-| 40 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
-| 41 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
+| 40 | [Good Care](https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [asiatic.wav](https://open.spotify.com/artist/3tGCfr3ALXtQrYHPOm9OTx) | [Good Care](https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d) | 3:14 |
+| 41 | [Next To You](https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Next To You](https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D) | 4:05 |
 | 42 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 |
 | 43 | [Late Night](https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:57 |
 | 44 | [Supernova](https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Supernova](https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe) | 2:21 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 57 | [Temptress](https://open.spotify.com/track/3oRXIgoaxiemxMk3uXmH7N) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:56 |
 | 58 | [Enchanté](https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Enchanté](https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM) | 2:42 |
 | 59 | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 |
-| 60 | [\*\*GOLIATH\*\*](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
+| 60 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
 
 Snapshot ID: `AAAAAI2j9RoRiD+yqhN4cVRSQu2vgQR/`

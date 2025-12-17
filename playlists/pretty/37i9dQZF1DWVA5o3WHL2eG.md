@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,337 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,346 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 51 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
 | 52 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 53 | [kissing you at midnight](https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:13 |
-| 54 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
-| 55 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 54 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 55 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
 | 56 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
 | 57 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 | 58 | [i love you don't worry xx](https://open.spotify.com/track/5EA6isOGU7VqSlVzOuvTmT) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 3:05 |

@@ -16331,6 +16331,32 @@
     },
     {
       "album": {
+        "name": "Where We Are",
+        "url": "https://open.spotify.com/album/4zSBd7jkLGjl1fkBSrcfef"
+      },
+      "artists": [
+        {
+          "name": "Sync",
+          "url": "https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13"
+        },
+        {
+          "name": "Triangle",
+          "url": "https://open.spotify.com/artist/5VIY8D1hZVFHP9AUWR4iRo"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126623,
+      "name": "Where We Are",
+      "url": "https://open.spotify.com/track/3GYqn2Vl2JMTqi129cML3z"
+    },
+    {
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/00cF1cvOq2v6K0roASUiWX"
       },

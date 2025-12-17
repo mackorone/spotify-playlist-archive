@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19224,
+  "num_followers": 19221,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Telling Lies",
-      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "We Belong (feat. Corrella & L.A.B)",
         "url": "https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Telling Lies",
+      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 260088,
-      "name": "Ocean Demon",
-      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 232615,
       "name": "Hell Of A Night",
       "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 260088,
+      "name": "Ocean Demon",
+      "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -835,6 +835,30 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Maumahara Noa Ahau",
+        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        },
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        },
+        {
+          "name": "Brannigan Kaa",
+          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
+        }
+      ],
+      "duration_ms": 170691,
+      "name": "Maumahara Noa Ahau",
+      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
       },
@@ -899,30 +923,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Maumahara Noa Ahau",
-        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        },
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        },
-        {
-          "name": "Brannigan Kaa",
-          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
-        }
-      ],
-      "duration_ms": 170691,
-      "name": "Maumahara Noa Ahau",
-      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Metal",
         "url": "https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
-      },
-      "artists": [
-        {
-          "name": "Jon Toogood",
-          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
-        }
-      ],
-      "duration_ms": 214624,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "look what you're doing to me",
         "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
       },
@@ -967,6 +951,38 @@
       "duration_ms": 264289,
       "name": "look what you're doing to me",
       "url": "https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Toogood",
+          "url": "https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8"
+        }
+      ],
+      "duration_ms": 214624,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+        "name": "Chantilly",
+        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+      "duration_ms": 213459,
+      "name": "Chantilly",
+      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1031,22 +1047,6 @@
       "duration_ms": 196547,
       "name": "Rosie's Friend",
       "url": "https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Chantilly",
-        "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 213459,
-      "name": "Chantilly",
-      "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Problem",
-        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 238481,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Problem",
+        "url": "https://open.spotify.com/album/4PJPq7BIK2LvUE59pJfVcD"
+      },
+      "artists": [
+        {
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
+        }
+      ],
+      "duration_ms": 238481,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/7Ir0Knh7XigLnRpTH1GyQc"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "pinky girl",
         "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 193987,
       "name": "Don't You Die",
       "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+      },
+      "artists": [
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        },
+        {
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+        }
+      ],
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     }
   ],
   "unique_name": "The Local List Aotearoa",

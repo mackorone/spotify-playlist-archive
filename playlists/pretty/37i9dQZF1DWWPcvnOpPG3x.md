@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 
 > Run to the world of R&B and hip\-hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,061 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,118 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 29 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 30 | [First Class](https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:53 |
 | 31 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
-| 32 | [Come Get Her](https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:32 |
-| 33 | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI) | 3:06 |
+| 32 | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM) | [Witt Lowry](https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Into Your Arms \(feat\. Ava Max\)](https://open.spotify.com/album/0boA7GUGSxOMWwdnnTR0yI) | 3:06 |
+| 33 | [Come Get Her](https://open.spotify.com/track/1Ser4X0TKttOvo8bgdytTP) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:32 |
 | 34 | [Like That \(feat\. Gucci Mane\)](https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:43 |
 | 35 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
 | 36 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |

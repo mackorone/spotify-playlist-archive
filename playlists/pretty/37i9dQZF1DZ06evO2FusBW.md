@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,059 likes - 45 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,058 likes - 45 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 10 | [American Dream](https://open.spotify.com/track/1MBtE58NNe3XbqBowp88nW) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [American Dream](https://open.spotify.com/album/22Quof4Cjt5ab9SpaBXG0S) | 3:32 |
 | 11 | [Theme Music for a Dream](https://open.spotify.com/track/1k3ZB5BjdvFTsryiCjbVkd) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:29 |
 | 12 | [New York](https://open.spotify.com/track/1DJFBjtxPwiTlHFpBnp7kp) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:30 |
-| 13 | [La Vernatelle](https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:50 |
-| 14 | [Memory of Water](https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 2:17 |
+| 13 | [Memory of Water](https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 2:17 |
+| 14 | [La Vernatelle](https://open.spotify.com/track/1uZfUDfJEWrpjFAtGbosU1) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:50 |
 | 15 | [New World](https://open.spotify.com/track/7yB0uTtiY9jrTMzWpbnn1r) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 3:47 |
 | 16 | [Golden Gate](https://open.spotify.com/track/2iitWYam80TwVGAlLF97Q3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:47 |
 | 17 | [Twilight Meditation](https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 333](https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf) | 4:58 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 44 | [Nocturne](https://open.spotify.com/track/0UnEijGhzKgmRUJ3I7OtXM) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:13 |
 | 45 | [SAMADHI](https://open.spotify.com/track/5kpxoIRcgQAg9psNWHsFm8) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 432](https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC) | 4:34 |
 
-Snapshot ID: `aT3+AAAAAABT0zSktDJv23DGvzryhgzz`
+Snapshot ID: `aT9PgAAAAADKgtdaqnocgNjyz4s0LSvf`

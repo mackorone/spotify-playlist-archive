@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 510 likes - 87 songs - 5 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 509 likes - 88 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 85 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 |
 | 86 | [Savour the Moment](https://open.spotify.com/track/17UGHhObyxa60YWJ2orxpc) | [Attic Theory](https://open.spotify.com/artist/0oOXpZTNdHDl8M1S3xQhhN) | [Savour the Moment](https://open.spotify.com/album/1fqJuxBHmwMD5EyEtmouKH) | 4:06 |
 | 87 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 |
+| 88 | [Fool Me](https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [In from the shadows](https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5) | 2:50 |
 
-Snapshot ID: `AAAEL7O6n5F7MWHTLfZIJT0ER744+AZm`
+Snapshot ID: `AAAEMPYsSi1nJESmVL6lGPRROdBeFuMY`

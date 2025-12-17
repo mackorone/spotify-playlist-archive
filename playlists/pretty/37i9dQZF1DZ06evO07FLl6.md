@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,887 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,903 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 45 | [The Pan Piper](https://open.spotify.com/track/2bQqOVOml9LQYfyjO3BbOW) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Sketches of Spain](https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD) | 3:56 |
 | 46 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
 | 47 | [Airegin \- RVG Remaster](https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:59 |
-| 48 | [Studio Discussion \- One](https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Complete Columbia Studio Recordings](https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz) | 0:30 |
-| 49 | [Dune Mosse](https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Zu & Co.](https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt) | 5:44 |
+| 48 | [Dune Mosse](https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Zu & Co.](https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt) | 5:44 |
+| 49 | [Studio Discussion \- One](https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Complete Columbia Studio Recordings](https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz) | 0:30 |
 | 50 | [Violets \(feat\. Phonte\)](https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:23 |
 
-Snapshot ID: `aT3+AAAAAABqUqvrMdvZT66bKiKsIpiB`
+Snapshot ID: `aT9PgAAAAACKEOIUZ2YEvrlPHmpr68c3`

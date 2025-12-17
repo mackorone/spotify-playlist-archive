@@ -4,7 +4,7 @@
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 15 min
+76 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Hood Gone Love It \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Follow Me Home](https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9) | 4:05 | 2024-05-02 |  |
 | [How Much A Dollar Cost](https://open.spotify.com/track/4tQcyj5488alHT1ZgFduzn) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:21 | 2024-05-18 | 2024-06-06 |
 | [HUMBLE.](https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:57 | 2024-05-02 |  |
-| [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 | 2024-05-02 |  |
+| [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 | 2024-05-02 | 2025-12-17 |
 | [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x) | 3:51 | 2024-05-02 |  |
 | [Institutionalized](https://open.spotify.com/track/4oFtLSgHyZPNYDCcANhTnO) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:31 | 2024-05-02 | 2024-07-13 |
 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 | 2024-05-02 |  |
@@ -58,6 +58,7 @@
 | [Money Trees](https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u) | 6:26 | 2024-05-02 |  |
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2024-05-02 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-07 |  |
+| [Now Or Never \- Bonus Track](https://open.spotify.com/track/4KjnaUNYPwGnJjoeTFlt91) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 4:16 | 2025-12-17 |  |
 | [P&P 1.5](https://open.spotify.com/track/6TRVvpoVFwyYyIGTFh0Y7P) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Overly Dedicated](https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC) | 6:01 | 2025-10-03 | 2025-10-17 |
 | [peekaboo \(feat\. azchike\)](https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:35 | 2024-12-19 |  |
 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 | 2024-05-02 |  |

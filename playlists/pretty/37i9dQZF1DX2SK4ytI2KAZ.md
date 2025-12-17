@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,062 likes - 125 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,037 likes - 125 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 59 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 |
 | 60 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 | 61 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
-| 62 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 |
-| 63 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
+| 62 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 |
+| 63 | [Loving You](https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:14 |
 | 64 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 |
 | 65 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 66 | [Another World](https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Again](https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq) | 2:37 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 83 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 84 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
 | 85 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |
-| 86 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
-| 87 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
+| 86 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
+| 87 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 88 | [Control](https://open.spotify.com/track/6TDl9RlC2udRlAyxDwEm7H) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/05eCZ53ezt3hInqJu980ro) | 3:04 |
 | 89 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 |
 | 90 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
@@ -107,10 +107,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 97 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 |
 | 98 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 |
 | 99 | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/track/38Cz00CoSHqfhlTrpRjAAf) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Sorry I'm Late, I Didn't Want To Come](https://open.spotify.com/album/0L0HjrYb1wTsyzwwe1qgy2) | 3:19 |
-| 100 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
-| 101 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
-| 102 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
-| 103 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
+| 100 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 101 | [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 2:55 |
+| 102 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
+| 103 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 104 | [Brighter Day](https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Brighter Day](https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT) | 3:13 |
 | 105 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 |
 | 106 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 121 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
 | 122 | [New York](https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [New York](https://open.spotify.com/album/0fi5QEzJUB4aSYoRNTGqVa) | 2:43 |
 | 123 | [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 |
-| 124 | [Ready Aim Fire](https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [100 Cowboys](https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV) | 2:34 |
-| 125 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
+| 124 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 |
+| 125 | [Ready Aim Fire](https://open.spotify.com/track/10eyhDAjsfbZHb1rJ1S2WH) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [100 Cowboys](https://open.spotify.com/album/7uhZ3e0aRY6u3qXG393pPV) | 2:34 |
 
 Snapshot ID: `AAAAAOomu/NFp0OgpCrmncLJT7TsX0Qx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,357 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,426 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 31 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 32 | [Pa' ti](https://open.spotify.com/track/0sIWKDUhI7tC60Vsa3Jslf) | [Koi No Yokani](https://open.spotify.com/artist/0HmvasS3WEgZ11kXZ3lHmt), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Besasa](https://open.spotify.com/artist/7K3q9xfxjmU07gyu0MdFOS) | [Ya no es invierno del '06 \(Deluxe\)](https://open.spotify.com/album/1DIRyNp1nfqdReTrsF4YcJ) | 2:50 |
 | 33 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
-| 34 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
-| 35 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
+| 34 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
+| 35 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
 | 36 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
 | 37 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
 | 38 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 68 | [Counting Sheep](https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Macro](https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj) | 3:59 |
 | 69 | [Loveher](https://open.spotify.com/track/75PNzduM0yViwNeye50xdP) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Loveher](https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX) | 3:49 |
 | 70 | [Asking To Break](https://open.spotify.com/track/1NoxZc2x2Y7eX1U5wHj6hr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 2:52 |
-| 71 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
-| 72 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
-| 73 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
+| 71 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
+| 72 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
+| 73 | [www.malcriadamusic.com](https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [\#dreamcore](https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw) | 3:44 |
 | 74 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
 | 75 | [Look To Him](https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Look To Him](https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1) | 4:11 |
 | 76 | [To Unknownia](https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [To Unknownia](https://open.spotify.com/album/55ScptS5oIVplKya1URUXP) | 4:03 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 88 | [Skylight](https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 4:00 |
 | 89 | [Virtual U](https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Virtual U](https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj) | 5:02 |
 | 90 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 |
-| 91 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
-| 92 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
+| 91 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
+| 92 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 |
 | 93 | [Colores Del Mar](https://open.spotify.com/track/0bYNCS0c6Uimpjcr2gswF0) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 3:44 |
 | 94 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 |
 | 95 | [Drifting Out](https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:39 |

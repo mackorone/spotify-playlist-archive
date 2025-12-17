@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > I sit in parks, it breaks my heart 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,577 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,634 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 6 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 7 | [White Horse \(Taylor’s Version\)](https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:54 |
 | 8 | [Mercy](https://open.spotify.com/track/2VIPU72L6tIR4w8J8ap6Kp) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:37 |
-| 9 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
-| 10 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
-| 11 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
+| 9 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
+| 10 | [Die From A Broken Heart](https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
+| 11 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 |
 | 12 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
 | 13 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
 | 14 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 28 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
 | 29 | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB) | 9:58 |
 | 30 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
-| 31 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 32 | [Every Little Thing](https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:00 |
+| 31 | [Every Little Thing](https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:00 |
+| 32 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 33 | [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 |
 | 34 | [You’re Not Sorry \(Taylor’s Version\)](https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:21 |
 | 35 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |

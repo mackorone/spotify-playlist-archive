@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,914 likes - 47 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,922 likes - 47 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 5 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 6 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 |
 | 7 | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Sweetness \(feat\. Leon Thomas\)](https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE) | 4:11 |
-| 8 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
+| 8 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
 | 9 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 |
 | 10 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
 | 11 | [Marking My Time \- BADBADNOTGOOD Edit](https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Marking My Time \(BADBADNOTGOOD Edit\)](https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz) | 4:12 |
-| 12 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
+| 12 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 13 | [TLC](https://open.spotify.com/track/2qbSJynY7eXE7bsXd9pjr9) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 3:20 |
 | 14 | [Avalon](https://open.spotify.com/track/3QB0oJEsLNewHu8ZvVtRwY) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 2:47 |
 | 15 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 46 | [Breaking Point \- Live From Brussels](https://open.spotify.com/track/5dWRG9Zv96UKVcOxVLlxZK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From Brussels](https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU) | 3:18 |
 | 47 | [About Us](https://open.spotify.com/track/0CePgbdhXaopN3T58u4fEU) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:19 |
 
-Snapshot ID: `aT3+AAAAAAAM1n5wcokzM77HNWwwsPSS`
+Snapshot ID: `aT9PgAAAAAAjVLPugbsTrMipxlEwMrED`

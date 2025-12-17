@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 60553,
+  "num_followers": 60565,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACbyPXs38aSceWJY4xTvgQI",
+  "snapshot_id": "aT9PgAAAAAC2ALHIzMov9Aw5AZ76edCy",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 290133,
-      "name": "Great Things",
-      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psalm 8 (Hall\u00e9)",
         "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 228133,
       "name": "Psalm 8 (Hall\u00e9)",
       "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 290133,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "It's Always Been You",
+      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The King Is Still The King",
         "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 299459,
       "name": "He Has Done Great Things",
       "url": "https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "It's Always Been You",
-      "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People Of Heaven",
         "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God",
         "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 227810,
-      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Earth",
         "url": "https://open.spotify.com/album/1REUtxsMboujnyPU1laW6v"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 244546,
       "name": "Heaven Song",
       "url": "https://open.spotify.com/track/39yNGLlopJa3q3brHLUrlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 227810,
+      "name": "ISN'T HE GOOD \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1GAFOmypjsOrqP95SXPKxc"
     },
     {
       "added_at": null,

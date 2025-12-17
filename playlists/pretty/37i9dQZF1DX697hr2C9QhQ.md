@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,754 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,770 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 17 | [Almost \(Sweet Music\)](https://open.spotify.com/track/7uttm8Iurm5uK67Vr9G2Sp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 3:37 |
 | 18 | [Chasing Cars](https://open.spotify.com/track/5GuZz08qie5efPtqsQFsdT) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 4:25 |
 | 19 | [Whiskey In The Jar](https://open.spotify.com/track/2uLx3Gka9TGCz9Zgu7Uwav) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Shades Of A Blue Orphanage \(Deluxe\)](https://open.spotify.com/album/6jXNB46aXlL2oWY03GtFHy) | 5:45 |
-| 20 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
-| 21 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
+| 20 | [Sally MacLennane](https://open.spotify.com/track/2779hybiMKwid1gcrFVMzH) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Rum Sodomy & The Lash \(Expanded Edition\)](https://open.spotify.com/album/2wRH4pcI8TIQFCK1MeByWO) | 2:45 |
+| 21 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
 | 22 | [Jackie And Wilson](https://open.spotify.com/track/5xo1Gj4WTssjQgQ0w03cf2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:43 |
 | 23 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/24rv66H94QGVqIXHjA3kn6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 3:48 |
 | 24 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |

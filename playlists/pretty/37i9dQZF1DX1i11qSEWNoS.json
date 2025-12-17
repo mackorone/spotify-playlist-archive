@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 637621,
+  "num_followers": 637641,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -499,42 +499,6 @@
     {
       "added_at": "2025-12-11 11:54:36",
       "album": {
-        "name": "Wackelkontakt",
-        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
-      },
-      "artists": [
-        {
-          "name": "Oimara",
-          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
-        }
-      ],
-      "duration_ms": 168801,
-      "name": "Wackelkontakt",
-      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
-    },
-    {
-      "added_at": "2025-12-11 11:54:36",
-      "album": {
-        "name": "LET'S GO",
-        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
-      },
-      "artists": [
-        {
-          "name": "Jaden Bojsen",
-          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
-        },
-        {
-          "name": "Sami Brielle",
-          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
-        }
-      ],
-      "duration_ms": 193091,
-      "name": "LET'S GO",
-      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
-    },
-    {
-      "added_at": "2025-12-11 11:54:36",
-      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -567,6 +531,42 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2025-12-11 11:54:36",
+      "album": {
+        "name": "LET'S GO",
+        "url": "https://open.spotify.com/album/7sma9kYAXjPX6ABANXmCbe"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "Sami Brielle",
+          "url": "https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK"
+        }
+      ],
+      "duration_ms": 193091,
+      "name": "LET'S GO",
+      "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "added_at": "2025-12-11 11:54:36",
+      "album": {
+        "name": "Wackelkontakt",
+        "url": "https://open.spotify.com/album/2ntNmfYAflWmhxMiX9sReB"
+      },
+      "artists": [
+        {
+          "name": "Oimara",
+          "url": "https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Wackelkontakt",
+      "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
     },
     {
       "added_at": "2025-12-11 11:54:36",
@@ -867,26 +867,6 @@
     {
       "added_at": "2025-12-11 11:54:36",
       "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2025-12-11 11:54:36",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2025-12-11 11:54:36",
+      "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2025-12-11 11:54:36",
@@ -1523,6 +1523,30 @@
     {
       "added_at": "2025-12-11 11:54:36",
       "album": {
+        "name": "Kann nix sehen (fast life fast lane)",
+        "url": "https://open.spotify.com/album/1ahhmZrqQpCfQMjA6V0ezj"
+      },
+      "artists": [
+        {
+          "name": "NSLZ",
+          "url": "https://open.spotify.com/artist/6jOvaPYH1SCOGCM1um3RaU"
+        },
+        {
+          "name": "Polarise",
+          "url": "https://open.spotify.com/artist/3CH37rQ2ujTHt0mCtv2xKR"
+        },
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Kann nix sehen (fast life fast lane)",
+      "url": "https://open.spotify.com/track/00rKVLJBnmP9WHlQoRRyTJ"
+    },
+    {
+      "added_at": "2025-12-11 11:54:36",
+      "album": {
         "name": "Biertornado",
         "url": "https://open.spotify.com/album/7kqjQTEMO3k9IhKa41ADZK"
       },
@@ -1575,26 +1599,18 @@
     {
       "added_at": "2025-12-11 11:54:36",
       "album": {
-        "name": "Kann nix sehen (fast life fast lane)",
-        "url": "https://open.spotify.com/album/1ahhmZrqQpCfQMjA6V0ezj"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
       },
       "artists": [
         {
-          "name": "NSLZ",
-          "url": "https://open.spotify.com/artist/6jOvaPYH1SCOGCM1um3RaU"
-        },
-        {
-          "name": "Polarise",
-          "url": "https://open.spotify.com/artist/3CH37rQ2ujTHt0mCtv2xKR"
-        },
-        {
-          "name": "Tom Hengst",
-          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
         }
       ],
-      "duration_ms": 179727,
-      "name": "Kann nix sehen (fast life fast lane)",
-      "url": "https://open.spotify.com/track/00rKVLJBnmP9WHlQoRRyTJ"
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2025-12-11 11:54:36",
@@ -1619,22 +1635,6 @@
       "duration_ms": 145241,
       "name": "Gianna - Harris & Ford x BIG TIM Remix",
       "url": "https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4"
-    },
-    {
-      "added_at": "2025-12-11 11:54:36",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2025-12-11 11:54:36",

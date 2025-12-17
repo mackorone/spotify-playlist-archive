@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,178 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,197 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 45 | [Zula](https://open.spotify.com/track/2OC0kob06GxOeWL9TxCHds) | [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U), [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT) | [Zula](https://open.spotify.com/album/4MPX4o0L94BZs0wNQXpMA7) | 2:10 |
 | 46 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
 | 47 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |
-| 48 | [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 |
-| 49 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
-| 50 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
+| 48 | [MIND GAMES](https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [MIND GAMES](https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c) | 3:34 |
+| 49 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
+| 50 | [Day Dreams of Beaches](https://open.spotify.com/track/3GL1f0x7YP9nGTpjWLx3RK) | [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [After Five EP](https://open.spotify.com/album/7qxveTR1w2VTKHwks2odXA) | 7:49 |
 | 51 | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B) | 4:26 |
 | 52 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 53 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 |

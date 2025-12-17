@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,133 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,137 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

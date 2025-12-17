@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Santa RM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,372 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,373 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 39 | [Mi Primer Carrito](https://open.spotify.com/track/46NA4y6yCAD7Mar1zqQXan) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Mi Primer Carrito](https://open.spotify.com/album/5UbcRsJvKUoUE0CgA2ppTk) | 3:31 |
 | 40 | [Azpero Session 9](https://open.spotify.com/track/4GrnNauEKO8408ur2MGHMg) | [Azpero Session](https://open.spotify.com/artist/0mcb4OFs702BnTTsRWnykk), [Mseco](https://open.spotify.com/artist/6U7GcNNSbalfDizUblYENU), [Primobeatz](https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG), [Tatiana Gomez Rap](https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI), [Joes Yawar Cru](https://open.spotify.com/artist/1g3olTTEwu0Dn2kVBpZ6oK), [The Catedral Rec](https://open.spotify.com/artist/4aaomQIO4zDgEfXJkeoCYg) | [Azpero Session 9](https://open.spotify.com/album/3dxv3wLq7PTxe4RedTZhxs) | 3:02 |
 | 41 | [Cafeína](https://open.spotify.com/track/766ffrUujYNZW4USIW1hgx) | [Coffeeling Prole](https://open.spotify.com/artist/3wlCU4QtplTOnrJ0P12d7p), [Keenwan](https://open.spotify.com/artist/4PFLDBt40fJC0OvKfYqaa5), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [Blackmen](https://open.spotify.com/artist/4SY0eqKwNmc3bgCbtNmUMv) | [Cafeína](https://open.spotify.com/album/0PThziMCdTS8FjdPDklUSB) | 2:45 |
-| 42 | [Sin Perder la Esencia](https://open.spotify.com/track/4d35u556bmr1MZWycYbdxC) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Panda Beard](https://open.spotify.com/artist/7tVIHxdBdoQb4eYXyzLwZh) | [Sin Perder la Esencia](https://open.spotify.com/album/41U8Jkzs06FgL3iva7RLti) | 2:38 |
+| 42 | [Sin Perder la Esencia](https://open.spotify.com/track/4d35u556bmr1MZWycYbdxC) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Sin Perder la Esencia](https://open.spotify.com/album/41U8Jkzs06FgL3iva7RLti) | 2:38 |
 | 43 | [Dime La Verdad](https://open.spotify.com/track/4FjsEP8swtQLI8icevxHyY) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Dime La Verdad](https://open.spotify.com/album/0R0ziXujpdkX57IXG05fyb) | 3:18 |
 | 44 | [Tiempo Sin Verte Mami](https://open.spotify.com/track/5bChAHzrV4tTBNY9YBo39H) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Tiempo Sin Verte Mami](https://open.spotify.com/album/60mboMPXzEPTWWJJU6RQoP) | 2:34 |
 | 45 | [Sintonía](https://open.spotify.com/track/6uOZQ4GpA285DcqT1rU0yp) | [Giru Mad Fleiva](https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5), [Vincez](https://open.spotify.com/artist/0VyUlaSkXDdEZGkK91mUHt), [Dj Mistico](https://open.spotify.com/artist/0S9p7oLWMbMKZC7ZWFe5Yi) | [Sintonía](https://open.spotify.com/album/6eY8ohFlMtdnRrwl1uTO8f) | 3:04 |

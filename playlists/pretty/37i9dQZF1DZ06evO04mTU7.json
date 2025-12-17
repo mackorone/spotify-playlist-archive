@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 11683,
+  "num_followers": 11703,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACtmZEMc0qR5BBuSTHVcNR6",
+  "snapshot_id": "aT9PgAAAAACVBwHGp8W1T2gi7m+PmleH",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+        "name": "O Tipo de Garota",
+        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
       },
       "artists": [
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
         }
       ],
-      "duration_ms": 163934,
-      "name": "Marido de Bandida",
-      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
+      "duration_ms": 203352,
+      "name": "O Tipo de Garota",
+      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tipo de Garota",
-        "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
       "artists": [
         {
           "name": "AJULIACOSTA",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
         }
       ],
-      "duration_ms": 203352,
-      "name": "O Tipo de Garota",
-      "url": "https://open.spotify.com/track/2HdViad1em77egtiCxsNiW"
+      "duration_ms": 163934,
+      "name": "Marido de Bandida",
+      "url": "https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF"
     },
     {
       "added_at": null,

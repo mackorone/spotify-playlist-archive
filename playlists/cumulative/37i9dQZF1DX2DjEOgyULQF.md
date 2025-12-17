@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-304 songs - 14 hr 37 min
+305 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-04-28 | 2025-05-22 |
 | [Celestial Incandescence \- Spa](https://open.spotify.com/track/7CxSyjymXR6bquZA2Mj7BS) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Celestial Incandescence](https://open.spotify.com/album/4cWd16fQU6DEnYmJ45IhQT) | 3:28 | 2023-04-28 | 2024-06-04 |
 | [chammomile](https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Body Scan](https://open.spotify.com/album/7zDsE6swmHKUn6hNktcOPU) | 3:16 | 2023-08-18 |  |
-| [Chitwan Longing](https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Chitwan Longing](https://open.spotify.com/album/6m6lONbEzbgiXCspvdaZ92) | 2:54 | 2023-04-28 |  |
+| [Chitwan Longing](https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Chitwan Longing](https://open.spotify.com/album/6m6lONbEzbgiXCspvdaZ92) | 2:54 | 2023-04-28 | 2025-12-17 |
 | [Circle](https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Circle](https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3) | 2:19 | 2023-06-30 | 2025-10-16 |
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2023-04-28 | 2025-05-22 |
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-04-28 |  |
@@ -58,6 +58,7 @@
 | [Corales \(Forest\)](https://open.spotify.com/track/1Q7PRNKkTFUWdm8OEcv9dq) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [Corales \(Forest\)](https://open.spotify.com/album/6Vk9EcP1P9eZbY4EKPS0j4) | 2:39 | 2024-04-01 | 2025-10-16 |
 | [Cottonia Creek](https://open.spotify.com/track/0dCUcvksazRPUy1ld5xab6) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Cottonia Creek](https://open.spotify.com/album/58BGziZfUqc7JGY5AW0Y0r) | 2:59 | 2023-04-28 | 2025-05-22 |
 | [Coupled](https://open.spotify.com/track/1LneJ82CsAFh6VyZkOUbKC) | [Everly Hess](https://open.spotify.com/artist/67t6YRbij8vz9jrlPu8ozo) | [Coupled](https://open.spotify.com/album/0KB3Ihcz08CkBd5xmernNT) | 2:02 | 2023-05-22 |  |
+| [Crystal Shore](https://open.spotify.com/track/1B7gbkPVwmZdCE0PZpglzl) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Crystal Shore](https://open.spotify.com/album/1MzwRWG0fx48OoxyeuXqY8) | 2:40 | 2025-10-24 |  |
 | [Dawnings](https://open.spotify.com/track/7vNmI7V8ml6ZIh6CJbIne3) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Dawnings](https://open.spotify.com/album/712CI19yCTwKGG1FIgxYR3) | 3:20 | 2023-04-28 | 2025-05-22 |
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 | 2024-06-04 |
 | [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 | 2024-04-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,372 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,371 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 32 | [Seaside](https://open.spotify.com/track/0cw83fumWofmtmNd2hVAPr) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:20 |
 | 33 | [El Tejano](https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:11 |
 | 34 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 |
-| 35 | [Gotta Be Patient](https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Gotta Be Patient](https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7) | 2:40 |
-| 36 | [Esa Parte de Mí](https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte de Mí](https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd) | 3:35 |
+| 35 | [Esa Parte de Mí](https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Esa Parte de Mí](https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd) | 3:35 |
+| 36 | [Gotta Be Patient](https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Gotta Be Patient](https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7) | 2:40 |
 | 37 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 |
 | 38 | [Whoppa \(feat\. Sofia Reyes and Farina\)](https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Whoppa \(feat\. Sofia Reyes and Farina\)](https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp) | 3:37 |
 | 39 | [La Bachata](https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 49 | [coRaZÓn fRíO](https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [coRaZÓn fRíO](https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn) | 3:24 |
 | 50 | [Muevelo \(feat\. Wisin\)](https://open.spotify.com/track/5Ra1n0XZPneh64gdF3Jv0g) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:32 |
 
-Snapshot ID: `aT3+AAAAAABMy8f2tByfZ3A73rK3ak7M`
+Snapshot ID: `aT9PgAAAAADZdeL5mjbwFcgJbz6P0s9V`

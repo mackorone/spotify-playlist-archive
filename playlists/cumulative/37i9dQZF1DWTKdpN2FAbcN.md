@@ -4,7 +4,7 @@
 
 > When you're thinking of the one who gives you the butterflies.
 
-150 songs - 8 hr 9 min
+151 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-21 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-07-12 |  |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-07-27 | 2025-07-30 |
-| [Hands To Myself](https://open.spotify.com/track/1LoriJC05IrHIDwj3q0KC1) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:20 | 2024-10-04 |  |
+| [Hands To Myself](https://open.spotify.com/track/1LoriJC05IrHIDwj3q0KC1) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:20 | 2024-10-04 | 2025-12-17 |
 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 | 2023-07-12 |  |
 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 | 2023-07-12 | 2025-09-22 |
 | [His Loss](https://open.spotify.com/track/5JoippRoB40L2kD9WBydn7) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [His Loss](https://open.spotify.com/album/1pyc1F50zOzklKlCaX1OEn) | 2:30 | 2025-09-12 | 2025-10-04 |
@@ -132,6 +132,7 @@
 | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/track/19luLEZUisg9MQtfLz489o) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Spring Rush \(a hot platonic subatomic crush\)](https://open.spotify.com/album/38giCJV9UkDE9U3059Ev4e) | 2:49 | 2025-06-08 | 2025-06-28 |
 | [Stephanie](https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [Stephanie](https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk) | 2:06 | 2025-02-11 |  |
 | [Still Beating](https://open.spotify.com/track/4LpUpiYoZ2M3Z1kmhn4EQo) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:01 | 2023-07-12 |  |
+| [Still into You](https://open.spotify.com/track/3SXXFIZel1VQQ4ENiqozxi) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:36 | 2025-02-11 |  |
 | [striptease](https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR) | 2:40 | 2023-07-14 | 2023-07-22 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2023-07-12 |  |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2023-07-12 |  |

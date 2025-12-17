@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 92039,
+  "num_followers": 92062,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "\u00c1n tillits",
-        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
-      },
-      "artists": [
-        {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 152234,
-      "name": "M\u00f3gr\u00e1",
-      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/6AiknykE2ZoEnvkBTgqzQF"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 320171,
       "name": "September",
       "url": "https://open.spotify.com/track/3Ks8ruwJLImfbGwnDbamBW"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "\u00c1n tillits",
+        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
+      },
+      "artists": [
+        {
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 152234,
+      "name": "M\u00f3gr\u00e1",
+      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Adam",
-        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 498112,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Perfectly Unhappy",
         "url": "https://open.spotify.com/album/51q7Giz2TKWZIGJA37CEXY"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 336533,
       "name": "Naked Trees",
       "url": "https://open.spotify.com/track/7c37pjEMpRpKyTSF3Yrz2f"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/3JdlwqWaOER9SFebfkfPEw"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 498112,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/0Z1HYUBv1DXB2lnT2M1yFU"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "Innr\u00f8nt",
+        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        },
+        {
+          "name": "Erland Dahlen",
+          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Innr\u00f8nt",
+      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Reflections and Odysseys",
         "url": "https://open.spotify.com/album/4zTsD1CmVivVkizao8YOjf"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 415186,
       "name": "The Lugubrious Youth Of Lucky Luke",
       "url": "https://open.spotify.com/track/4KOGxrdk7NVm63Ea9ZkbIi"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Innr\u00f8nt",
-        "url": "https://open.spotify.com/album/5XxapXEuQvu4X612Z2k9Ug"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        },
-        {
-          "name": "Erland Dahlen",
-          "url": "https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Innr\u00f8nt",
-      "url": "https://open.spotify.com/track/3snqukZaYsLcc1C9wJUftT"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "The Soundtrack of My Home",
-        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Jerve",
-          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
-        }
-      ],
-      "duration_ms": 240390,
-      "name": "Iben",
-      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Touch of Time",
         "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 526520,
       "name": "Redream",
       "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "The Soundtrack of My Home",
+        "url": "https://open.spotify.com/album/1VBHoTWea9O1DftbQQZ85U"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Jerve",
+          "url": "https://open.spotify.com/artist/1LdI3wdD3YgxQnTTVbqR9A"
+        }
+      ],
+      "duration_ms": 240390,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1411,30 +1411,26 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Sharing",
-        "url": "https://open.spotify.com/album/0QkNdXxtPmsaKGKrn0B5fb"
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
       "artists": [
         {
-          "name": "Thomas Fonnesb\u00e6k Trio",
-          "url": "https://open.spotify.com/artist/36UwgzVKus1vsMYse3SJVk"
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
         },
         {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
         },
         {
-          "name": "Justin Kauflin",
-          "url": "https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU"
-        },
-        {
-          "name": "Billy Williams",
-          "url": "https://open.spotify.com/artist/7ceeHyhYS3BEfprSJX9WwT"
+          "name": "Paolo Vinaccia",
+          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
         }
       ],
-      "duration_ms": 528100,
-      "name": "Point of no return",
-      "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
+      "duration_ms": 335320,
+      "name": "Rossetti",
+      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1463,26 +1459,30 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
+        "name": "Sharing",
+        "url": "https://open.spotify.com/album/0QkNdXxtPmsaKGKrn0B5fb"
       },
       "artists": [
         {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+          "name": "Thomas Fonnesb\u00e6k Trio",
+          "url": "https://open.spotify.com/artist/36UwgzVKus1vsMYse3SJVk"
         },
         {
-          "name": "Tommy Smith",
-          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
         },
         {
-          "name": "Paolo Vinaccia",
-          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
+          "name": "Justin Kauflin",
+          "url": "https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU"
+        },
+        {
+          "name": "Billy Williams",
+          "url": "https://open.spotify.com/artist/7ceeHyhYS3BEfprSJX9WwT"
         }
       ],
-      "duration_ms": 335320,
-      "name": "Rossetti",
-      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
+      "duration_ms": 528100,
+      "name": "Point of no return",
+      "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Cirkel",
         "url": "https://open.spotify.com/album/3iGpwXE8cKFIXeVjAF7svY"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 269258,
       "name": "I Kirken",
       "url": "https://open.spotify.com/track/7sEygfTquCCu3h5wGsMJeF"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Jan Garbarek: Works",
-        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Svevende",
-      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "When shadows dance",
         "url": "https://open.spotify.com/album/4SLMUd9aFAzqP4jCSL6XNy"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 278693,
       "name": "When shadows dance",
       "url": "https://open.spotify.com/track/6XZ5SLSJ5G9ZgDYZnFIULd"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Jan Garbarek: Works",
+        "url": "https://open.spotify.com/album/5gBKCpTf5pPauJ5jOG9DaX"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Svevende",
+      "url": "https://open.spotify.com/track/7yvX6vySEFHb22V8Lu4I0Y"
     },
     {
       "added_at": "2025-09-26 11:32:08",

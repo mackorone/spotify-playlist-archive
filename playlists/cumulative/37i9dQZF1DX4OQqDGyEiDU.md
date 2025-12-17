@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-645 songs - 1 day 12 hr 4 min
+647 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,10 +228,11 @@
 | [いますぐ輪廻](https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [いますぐ輪廻](https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe) | 2:02 | 2025-09-16 |  |
 | [うらやみしい \- feat\. Kai,初音ミク,可不](https://open.spotify.com/track/0m5i8xeVVUeDs3m3A2V6es) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [Kai](https://open.spotify.com/artist/3pstnSha9lNrdYVfFTUucR), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [うらやみしい \(feat\. Kai,初音ミク,可不\)](https://open.spotify.com/album/46CCqNpwGw3LRgENm97aGk) | 2:43 | 2024-02-27 | 2024-03-01 |
 | [おどりゃんせ](https://open.spotify.com/track/4OdbLnJJ3fWwaOdfOz2lEB) | [Yurry Canon](https://open.spotify.com/artist/1m34pv256vfYU7zY1vozJT) | [Kardia](https://open.spotify.com/album/17rzpn70qSeZYKC1QY1eir) | 3:23 | 2022-07-12 | 2022-07-20 |
-| [お呪い](https://open.spotify.com/track/59ojJ2W9aV1BpYogNMycAF) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [お呪い](https://open.spotify.com/album/3gOIqdMqe8hz5xeXHJyaOr) | 1:57 | 2025-09-16 |  |
+| [お呪い](https://open.spotify.com/track/59ojJ2W9aV1BpYogNMycAF) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [お呪い](https://open.spotify.com/album/3gOIqdMqe8hz5xeXHJyaOr) | 1:57 | 2025-09-16 | 2025-12-17 |
 | [からくりピエロ \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/0f6Z1Kbo3PzA1sTtoaBbqK) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 3:15 | 2022-06-21 | 2022-07-29 |
 | [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 | 2022-06-09 |  |
 | [ぎゅって](https://open.spotify.com/track/769ISKdISCYhy6OoMaQaQw) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd) | [ぎゅって](https://open.spotify.com/album/10PE8hE6oXfIVwKvuMk7Wv) | 2:02 | 2022-06-21 | 2022-07-27 |
+| [くるみ割り女王](https://open.spotify.com/track/28pyRtDvblWqbhflI7HuXh) | [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [くるみ割り女王](https://open.spotify.com/album/75lUGnMSDpXIkll6vJNtp9) | 2:20 | 2025-12-16 |  |
 | [ごめんごめん](https://open.spotify.com/track/5EJmQHqTGkMvJuxZIYhQXm) | [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [\[Others\]](https://open.spotify.com/album/25LGqPioJgsG8wMRwkvyN2) | 2:28 | 2022-06-30 | 2022-07-25 |
 | [さる](https://open.spotify.com/track/07nkUID2uOhDorHup53dJL) | [虻瀬](https://open.spotify.com/artist/3YIQKMfnZY6lNTDNUJ7wUX) | [OMOIBANA](https://open.spotify.com/album/1rKsgM93PgXaEIUItdd34G) | 3:58 | 2022-06-30 | 2022-07-03 |
 | [しかばねの踊り](https://open.spotify.com/track/6a0G8hYEyxqvEkebVLU5VK) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 3:48 | 2022-07-26 | 2022-10-14 |
@@ -249,7 +250,7 @@
 | [ちょっとあざとい](https://open.spotify.com/track/6lKi5mDCJPM8Dz1RcOGmIQ) | [才歌](https://open.spotify.com/artist/1ByLc2E4MXlH56Zaw7zcei) | [ちょっとあざとい](https://open.spotify.com/album/5R3UtCFAUjBfCXNUjMG58Z) | 2:01 | 2022-06-14 | 2022-07-03 |
 | [つらい! やばい! つらい!](https://open.spotify.com/track/1jtYqkgBBidddVbNpydmsy) | [薄塩指数](https://open.spotify.com/artist/6W7cJRHAi6IqLw2vCp6jAR), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [!?](https://open.spotify.com/album/52L5d2w3YzFHkGXGhc64nm) | 2:46 | 2022-07-19 | 2022-07-22 |
 | [どりーみんチュチュ](https://open.spotify.com/track/5so7F3hsNWmSpjyQ4dSr2W) | [Emon](https://open.spotify.com/artist/3eISwXCy8xsH790miZ2t3j) | [どりーみんチュチュ](https://open.spotify.com/album/0gDKtnl12zIMnT40j7q4wF) | 4:22 | 2022-06-30 | 2022-07-04 |
-| [どりーむもーど](https://open.spotify.com/track/0FmRL2BZ1Iv5VYlbi2zMZO) | [Atena](https://open.spotify.com/artist/5vJxDR4n9HuNyEqOxv4PzS) | [どりーむもーど](https://open.spotify.com/album/7d8L9iI25zwgdxfXrEFpRx) | 2:20 | 2025-12-02 |  |
+| [どりーむもーど](https://open.spotify.com/track/0FmRL2BZ1Iv5VYlbi2zMZO) | [Atena](https://open.spotify.com/artist/5vJxDR4n9HuNyEqOxv4PzS) | [どりーむもーど](https://open.spotify.com/album/7d8L9iI25zwgdxfXrEFpRx) | 2:20 | 2025-12-02 | 2025-12-17 |
 | [なりすましゲンガー](https://open.spotify.com/track/6kJdC5hkwFoy30ShI2MAvj) | [KulfiQ](https://open.spotify.com/artist/0SEaoamxCexsrip7WU4gbQ) | [BRAVERLIZE](https://open.spotify.com/album/5utcmoxSI4ISYqdbGTu0ND) | 3:45 | 2022-06-23 | 2022-07-28 |
 | [にっこり^^調査隊のテーマ \(feat\. 鏡音リン&鏡音レン\)](https://open.spotify.com/track/4QpUnxO9WKTwu9NNa5G06p) | [Wonderful★opportunity!](https://open.spotify.com/artist/114kd9ePvOgHBUp18vMF4B) | [にっこり^^調査隊のテーマ](https://open.spotify.com/album/3PkOsGLe03ztzlZ6F6ovG9) | 3:28 | 2022-06-09 | 2022-07-17 |
 | [ぬるぬるうなぎ feat.音街ウナ](https://open.spotify.com/track/0uhgoOt34CygC9P83MLt85) | [子牛](https://open.spotify.com/artist/0nxhaMVeVxjTcyQhBjhInn), [音街ウナ](https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA) | [Una\-Chance!2 feat.音街ウナ](https://open.spotify.com/album/0KaFZoGeNKrREsSijgK3BT) | 2:39 | 2023-06-13 | 2023-07-21 |
@@ -572,6 +573,7 @@
 | [才能なんか](https://open.spotify.com/track/3bSwUCPEIWpEs7rtqY3kBF) | [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp), [葵木ゴウ](https://open.spotify.com/artist/2IBtJvUFPoqgtm0cfENAde) | [午後の葵木](https://open.spotify.com/album/3kC0lnA0vlHFURaSVFEk8d) | 4:10 | 2022-06-14 | 2022-07-29 |
 | [拝啓、何者にもなれなかった僕へ。](https://open.spotify.com/track/3Nm3uFDJ2elU5oeYi8wFLj) | [PolyphonicBranch](https://open.spotify.com/artist/2wlgxcLUDaeSoqEcdYtmLN) | [拝啓、何者にもなれなかった僕へ。](https://open.spotify.com/album/5lArx2pMXTG3tpcl4O356d) | 4:01 | 2022-06-14 | 2022-06-16 |
 | [揺らいでいた feat\. 可不](https://open.spotify.com/track/4UR4WxFbRtUfQXZ1kBQri2) | [Camelots](https://open.spotify.com/artist/6DwQ6z61cKT6313XP3Acui), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [揺らいでいた](https://open.spotify.com/album/0flp1t3H1ecDIBmCazWnhJ) | 3:44 | 2025-08-05 | 2025-08-20 |
+| [散歩の邪魔](https://open.spotify.com/track/03LKxyUbFKaVSfxCbDI0Qf) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [散歩の邪魔](https://open.spotify.com/album/3PRgwCMZpDUBEetbvQsbs8) | 3:01 | 2025-12-16 |  |
 | [新人類](https://open.spotify.com/track/2HnAB3jqNvnzphxB8AqZDK) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [鏡音リン](https://open.spotify.com/artist/50sbi4xBlZS6PS1ggRjAZf) | [新人類](https://open.spotify.com/album/43TriX8Pn7p36c51igwPTv) | 2:36 | 2023-04-11 | 2023-10-18 |
 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 | 2022-06-09 |  |
 | [春嵐 \- 8bit ver.](https://open.spotify.com/track/40xahZrxji5uRzTxxUZTgV) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [john 8bit](https://open.spotify.com/album/4CQlYtxSGbxNOYMAwfFkoL) | 2:38 | 2022-06-23 | 2022-07-21 |

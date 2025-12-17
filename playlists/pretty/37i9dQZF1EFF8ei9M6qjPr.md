@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 170 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 170 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 169 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 170 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcEUnAAAAABcIXFcHlWeZPJ7ktEZK5nY`
+Snapshot ID: `AcEaPAAAAAAu4KvdGgptCwnd3JdYNMKP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,506 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,507 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 22 | [Muita Unção](https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:05 |
 | 23 | [Deus Tem Poder](https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 4:08 |
 | 24 | [Uma Flor Gloriosa](https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:12 |
-| 25 | [Todo Poderoso](https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:49 |
+| 25 | [Sementes da Fé](https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 6:04 |
 | 26 | [Não Reclame](https://open.spotify.com/track/79kb4y6EtyBwDjBNhWrwRd) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:26 |
-| 27 | [Sementes da Fé](https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 6:04 |
+| 27 | [Todo Poderoso](https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:49 |
 | 28 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
-| 29 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
-| 30 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 |
-| 31 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
+| 29 | [O Abraço do Noivo](https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 7:26 |
+| 30 | [A Face Adorada de Jesus](https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.2](https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r) | 5:37 |
+| 31 | [Te Louvarei \- Ao Vivo](https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Te Louvarei \(Ao Vivo\)](https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i) | 5:34 |
 | 32 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 |
 | 33 | [Nada Pode Calar Um Adorador + Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Nada Pode Calar Um Adorador + Com Muito Louvor \(Ao Vivo\)](https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy) | 6:13 |
-| 34 | [Deus Responde](https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:32 |
-| 35 | [Louve Sempre](https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 5:22 |
+| 34 | [Louve Sempre](https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 5:22 |
+| 35 | [Deus Responde](https://open.spotify.com/track/6wDT07mGxHH9JbZiwt76bI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 4:32 |
 | 36 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
 | 37 | [A Cura](https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 6:51 |
 | 38 | [Ele Tem Poder](https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Marca o Meu Coração](https://open.spotify.com/track/61aeQsEdTS9jNUYjtbnnh9) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Marca o Meu Coração](https://open.spotify.com/album/1MKcpoNwxkKkkYKVpQFKeg) | 4:49 |
 | 50 | [Campeões da Luz](https://open.spotify.com/track/2zLqUAhjORZnQHjZYIbZxL) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 3:47 |
 
-Snapshot ID: `aT3+AAAAAACPSlLIaI97SnfqNASc0G3J`
+Snapshot ID: `aT9PgAAAAACFnFWFqEiclI6L2o+LVlfw`

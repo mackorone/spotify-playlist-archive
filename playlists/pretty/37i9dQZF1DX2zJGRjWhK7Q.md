@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,574 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,646 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 10 | [Fuego En El 23](https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Fuego En El 23](https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f) | 4:44 |
 | 11 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
 | 12 | [Popurri Navideño / Estrellas De Oriente \(De Tierras Lejanas\) / Noche De Paz / La Virgen Maria / La Tierra Mia](https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño Deluxe Edition](https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo) | 3:36 |
-| 13 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |
-| 14 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
-| 15 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 |
-| 16 | [Periodico De Ayer](https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy) | 6:47 |
+| 13 | [Periodico De Ayer](https://open.spotify.com/track/3Hv1DCU3Z0mPJa7UjqD0IG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/79ww1pmfO8Y9fvZeSlSHFy) | 6:47 |
+| 14 | [Lejos De Ti](https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ) | [Angel Canales](https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB) | [Sabor](https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH) | 4:15 |
+| 15 | [Quimbara](https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia y Johnny](https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg) | 4:51 |
+| 16 | [Senor Sereno](https://open.spotify.com/track/4DP2GpPC1F8tFyGRMY4fbA) | [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Oportunidad](https://open.spotify.com/album/2HeEHgCPC1b1mPUBfv37rK) | 5:31 |
 | 17 | [Que Pena](https://open.spotify.com/track/7H6TbcATjUfP6gkJ7vxfp5) | [Lebrón Brothers](https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam) | [Loco Por Ti](https://open.spotify.com/album/4xDo2losNBAidTX68sPdeM) | 4:55 |
 | 18 | [Vamonos Pal Monte](https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vamonos Pal' Monte](https://open.spotify.com/album/5H4Hl0KVngkCy1h6Z7jrYM) | 7:06 |
 | 19 | [Lluvia Con Nieve](https://open.spotify.com/track/1bTfh8IF7GIOuxtQcfXMF4) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx) | [Que Gente Averigua](https://open.spotify.com/album/7mpXUilEGA93vFJDrpQEaK) | 2:57 |

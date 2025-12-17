@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Official\u9aed\u7537dism",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: HANA",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -7098,7 +7098,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 169400,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/3R6oFy7EQiWhqJagxIblHM"
@@ -12438,7 +12438,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 160919,
       "name": "PS118 - feat. Rapsody",
       "url": "https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz"
@@ -14500,7 +14500,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 239520,
       "name": "SO BAD",
       "url": "https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU"
@@ -23556,7 +23556,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 178380,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC"
@@ -30632,6 +30632,42 @@
       "duration_ms": 240226,
       "name": "\u86cd",
       "url": "https://open.spotify.com/track/2U93Qos9BlyUeGU68SRAF7"
+    },
+    {
+      "album": {
+        "name": "\u87f2",
+        "url": "https://open.spotify.com/album/0vuOsyCckYH8Ibw1O2kx4g"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200885,
+      "name": "\u87f2",
+      "url": "https://open.spotify.com/track/6B6eCDW47Js0weGjB9XQfD"
+    },
+    {
+      "album": {
+        "name": "\u8857\u706f",
+        "url": "https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "\u8857\u706f",
+      "url": "https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522617,
+  "num_followers": 522623,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAA5aEAfIEinpyxszCvyYm7C",
+  "snapshot_id": "aT9PgAAAAAC1Gvp048Y8DBg8P5N2vVS+",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jet Love",
         "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 203193,
       "name": "Cinco Horas Menos",
       "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Mar\u00eda (with Natalia Lafourcade) - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 198653,
       "name": "Luz de Luna (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Antes de Huir",
-      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
     },
     {
       "added_at": null,

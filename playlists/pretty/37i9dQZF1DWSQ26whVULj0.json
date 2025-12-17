@@ -1,6 +1,6 @@
 {
   "description": "Explore the familiar tunes of Mendelssohn.",
-  "num_followers": 53398,
+  "num_followers": 53411,
   "original_name": "This Is Mendelssohn",
   "owner": {
     "name": "Spotify",
@@ -1060,26 +1060,6 @@
       "added_at": "2025-09-15 14:00:15",
       "album": {
         "name": "Mendelssohn: Lieder ohne Worte",
-        "url": "https://open.spotify.com/album/5cSQn0KiIUdfGxAOsOp1pb"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 121226,
-      "name": "Lieder ohne Worte, Op. 30: 3. Adagio non troppo",
-      "url": "https://open.spotify.com/track/5l8nCU5X72v5tTgiLNU4OV"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
-        "name": "Mendelssohn: Lieder ohne Worte",
         "url": "https://open.spotify.com/album/5BM9jAYRdlQF9DnQHi8VRE"
       },
       "artists": [
@@ -1095,6 +1075,26 @@
       "duration_ms": 113640,
       "name": "Lieder ohne Worte III, Op. 38: II. Allegro non troppo, MWV U115 \"Lost Happiness\"",
       "url": "https://open.spotify.com/track/1vtFtaHrJ5AZLgP994Naes"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Mendelssohn: Lieder ohne Worte",
+        "url": "https://open.spotify.com/album/5cSQn0KiIUdfGxAOsOp1pb"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 121226,
+      "name": "Lieder ohne Worte, Op. 30: 3. Adagio non troppo",
+      "url": "https://open.spotify.com/track/5l8nCU5X72v5tTgiLNU4OV"
     },
     {
       "added_at": "2025-09-15 14:00:15",

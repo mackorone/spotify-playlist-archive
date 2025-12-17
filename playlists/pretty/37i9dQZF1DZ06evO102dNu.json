@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1222841,
+  "num_followers": 1222916,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACtS3pqkTXpOgHOEiYmu6pZ",
+  "snapshot_id": "aT9PgAAAAABkRheo3DmEv9/6O5Eal6W3",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
       },
       "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Change Partners",
-      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilogy: Past, Present & Future",
-        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
       "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Theme From New York, New York",
-      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+      "duration_ms": 163186,
+      "name": "Change Partners",
+      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highlights From Duets",
-        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 165213,
       "name": "Quiet Nights of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highlights From Duets",
+        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,878 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,943 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 2 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 3 | [Buckle](https://open.spotify.com/track/0JAaTG7sEjukCjC8X58puq) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:23 |
 | 4 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
-| 5 | [Shake It Out](https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:37 |
-| 6 | [Florida!!! \(feat\. Florence + The Machine\)](https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:35 |
+| 5 | [Florida!!! \(feat\. Florence + The Machine\)](https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:35 |
+| 6 | [Shake It Out](https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:37 |
 | 7 | [Sympathy Magic](https://open.spotify.com/track/6ExwNwWLXvvKr5hk6lkHUY) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:28 |
 | 8 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
-| 9 | [Never Let Me Go](https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:30 |
-| 10 | [Reflections Laughing \(feat\. Travis Scott, Florence + The Machine\)](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
+| 9 | [Reflections Laughing \(feat\. Travis Scott, Florence + The Machine\)](https://open.spotify.com/track/2gyHr9WqZeMtzJOpWGuGo6) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:51 |
+| 10 | [Never Let Me Go](https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:30 |
 | 11 | [The Old Religion](https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:40 |
 | 12 | [Spectrum \(Say My Name\) \- Calvin Harris Remix](https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Ceremonials](https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g) | 3:38 |
 | 13 | [Cosmic Love](https://open.spotify.com/track/1myEOhXztRxUVfaAEQiKkU) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 49 | [No Choir](https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 2:29 |
 | 50 | [You've Got The Dirtee Love \- Live At The Brit Awards / 2010](https://open.spotify.com/track/2eovlgeUHNixXIKLT8u8rj) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 3:41 |
 
-Snapshot ID: `aT3+AAAAAAALrkXYiAObH27yjhrScDe5`
+Snapshot ID: `aT9PgAAAAAAY9yuJgHrMXE+kG3XISt4z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 
 > This is Khruangbin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,097 likes - 48 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,139 likes - 48 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 6 | [People Everywhere \(Still Alive\)](https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 2:39 |
 | 7 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 |
 | 8 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
-| 9 | [August 10](https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:25 |
+| 9 | [A Calf Born In Winter](https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Calf Born in Winter](https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM) | 3:29 |
 | 10 | [Two Fish and an Elephant](https://open.spotify.com/track/7c8ISSqmH7CdamWa5iSvxM) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 3:33 |
-| 11 | [A Calf Born In Winter](https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A Calf Born in Winter](https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM) | 3:29 |
+| 11 | [August 10](https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:25 |
 | 12 | [Balls and Pins ii](https://open.spotify.com/track/6Kayxmc2Q0XYXc2CcxNP0C) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:36 |
 | 13 | [Midnight](https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 5:14 |
 | 14 | [Dern Kala](https://open.spotify.com/track/4Fx8dpPrAtwSlg1XEwxMUF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/32MaUU5gk5Ig0nHC9G5VNX) | 3:39 |
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 35 | [Juegos y Nubes](https://open.spotify.com/track/231a0JtwO0iYOeHsjbFVzI) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:04 |
 | 36 | [Cómo Me Quieres](https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:45 |
 | 37 | [Master Of Life](https://open.spotify.com/track/7yvwoYqlw8t1piF4spNPsV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Infamous Bill](https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB) | 3:01 |
-| 38 | [Connaissais de Face](https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:20 |
-| 39 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 |
-| 40 | [Evan Finds the Third Room](https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:00 |
-| 41 | [Ada Jean](https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:19 |
-| 42 | [Father Bird, Mother Bird](https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 3:05 |
-| 43 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
-| 44 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
-| 45 | [Farolim de Felgueiras](https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:00 |
-| 46 | [Right](https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Modern Love](https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT) | 5:08 |
-| 47 | [Tongo Barra](https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:33 |
+| 38 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 |
+| 39 | [Connaissais de Face](https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:20 |
+| 40 | [Ada Jean](https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:19 |
+| 41 | [Evan Finds the Third Room](https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:00 |
+| 42 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
+| 43 | [Father Bird, Mother Bird](https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 3:05 |
+| 44 | [Farolim de Felgueiras](https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:00 |
+| 45 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
+| 46 | [Tongo Barra](https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:33 |
+| 47 | [Right](https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Modern Love](https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT) | 5:08 |
 | 48 | [Cómo Te Quiero](https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:02 |
 
-Snapshot ID: `aT3+AAAAAAD6l8dmaa3cF4w42H/O1SKE`
+Snapshot ID: `aT9PgAAAAAD+NTSCjs6iwfxK9fNWZ7sK`

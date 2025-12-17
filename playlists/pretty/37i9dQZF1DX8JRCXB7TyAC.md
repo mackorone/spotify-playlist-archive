@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,058 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,081 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 36 | [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 |
 | 37 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/7xThNFckeyb6roLYdLmyEm), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 |
 | 38 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
-| 39 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
-| 40 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
-| 41 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
+| 39 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
+| 40 | [Jat Supremacy](https://open.spotify.com/track/5H8UVQwQKebV6PaB6iTQX8) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Jat Supremacy](https://open.spotify.com/album/3rDnXnhPvYyPVj0uT4MMzl) | 2:38 |
+| 41 | [Koi Na](https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Uchana Amit](https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Koi Na](https://open.spotify.com/album/7106si82R8FQw7KApQKk2n) | 2:39 |
 | 42 | [Haryana Side](https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP) | [Ash Bhardwaj](https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5), [Dhruv Balyaan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Haryana Side](https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use) | 2:46 |
 | 43 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 | 44 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |

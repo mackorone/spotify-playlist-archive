@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACboaIbB0ARkH/UPhrISTkq",
+  "snapshot_id": "aT9PgAAAAABl4QJd6hfYUG7PDXeTkvOF",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Remember Mama",
         "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 382866,
       "name": "I Remember Mama",
       "url": "https://open.spotify.com/track/1tqxg3dZ16BSRvm0xbkuYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/1mVrWsQdeFn2EPFJGOdb6e"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/0NCWc2gtH3rNkq18osObXe"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greenleaf (Gospel Companion Soundtrack, Vol. 1)",
-        "url": "https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Satan, We're Gonna Tear Your Kingdom Down",
-      "url": "https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Miracle In Harlem",
         "url": "https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 340200,
       "name": "Strong Man",
       "url": "https://open.spotify.com/track/226jnN4L43ACMq1CdP96py"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greenleaf (Gospel Companion Soundtrack, Vol. 1)",
+        "url": "https://open.spotify.com/album/2xj2A5RnxObTXmKuntq1NZ"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Satan, We're Gonna Tear Your Kingdom Down",
+      "url": "https://open.spotify.com/track/6Dr0lUGOB35TMDetHWds1b"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Can Make It",
+        "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 391706,
+      "name": "You Can Make It",
+      "url": "https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live... In Chicago",
         "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
       },
@@ -439,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can Make It",
-        "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
+        "name": "Stand Still",
+        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
       },
       "artists": [
         {
@@ -448,41 +464,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 391706,
-      "name": "You Can Make It",
-      "url": "https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fill This House",
-        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 372407,
-      "name": "Fill This House",
-      "url": "https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live... In Chicago",
-        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 292706,
-      "name": "Peace In the Midst of the Storm - Live",
-      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
+      "duration_ms": 395973,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Still",
-        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
+        "name": "Live... In Chicago",
+        "url": "https://open.spotify.com/album/02gvjMeXIaqn9VO9ADaDGF"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 395973,
-      "name": "Just As I Am",
-      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
+      "duration_ms": 292706,
+      "name": "Peace In the Midst of the Storm - Live",
+      "url": "https://open.spotify.com/track/0f73golLehVjv0VfF3eUaI"
     },
     {
       "added_at": null,
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 296422,
-      "name": "Mother Emanuel",
-      "url": "https://open.spotify.com/track/17kWKng8MleiWw6gI4dHBV"
+      "duration_ms": 372407,
+      "name": "Fill This House",
+      "url": "https://open.spotify.com/track/2CVAt6sqmfJBlNTi9RaCs9"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 296422,
+      "name": "Mother Emanuel",
+      "url": "https://open.spotify.com/track/17kWKng8MleiWw6gI4dHBV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sailin'",
         "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
       },
@@ -612,9 +612,25 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 381933,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
+      "duration_ms": 291586,
+      "name": "Jesus Is Everywhere",
+      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
     },
     {
       "added_at": null,
@@ -631,6 +647,38 @@
       "duration_ms": 288800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Lady",
+        "url": "https://open.spotify.com/album/33gmAEyhugtmYHY1rIXSzG"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Faded Rose",
+      "url": "https://open.spotify.com/track/0fhRNF9TdDDOG5hrAadZ50"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 381933,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/0ZvtrA7yHqvOrkVcuAUXlV"
     },
     {
       "added_at": null,
@@ -655,54 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "The Lord Will Make a Way",
-      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 291586,
-      "name": "Jesus Is Everywhere",
-      "url": "https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Lady",
-        "url": "https://open.spotify.com/album/33gmAEyhugtmYHY1rIXSzG"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Faded Rose",
-      "url": "https://open.spotify.com/track/0fhRNF9TdDDOG5hrAadZ50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fill This House",
         "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
       },
@@ -715,22 +715,6 @@
       "duration_ms": 266607,
       "name": "He Won't Fail You",
       "url": "https://open.spotify.com/track/6iYaGbh3Ula7xJY5XVmlMi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 400013,
-      "name": "When You Pray God Answers",
-      "url": "https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 230266,
       "name": "Satan, You're a Liar",
       "url": "https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 400013,
+      "name": "When You Pray God Answers",
+      "url": "https://open.spotify.com/track/4mwePLS7333YpCOEhLsk35"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Remember Mama",
+        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 280066,
+      "name": "I Cannot Stop Praising Him",
+      "url": "https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart to Yours",
         "url": "https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 207960,
       "name": "Steal Away to Jesus",
       "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Remember Mama",
-        "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 280066,
-      "name": "I Cannot Stop Praising Him",
-      "url": "https://open.spotify.com/track/0CKSOJQVkh2LXng6tOigLa"
     }
   ],
   "unique_name": "This Is Shirley Caesar",

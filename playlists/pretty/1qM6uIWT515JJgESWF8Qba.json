@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 257,
+  "num_followers": 258,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA2jCsy2fYED88marRhzHeZ/RjCyZe",
+  "snapshot_id": "AAAA3mDOvtPbs1yQJ4kw3WnKZ/sYbJeW",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1367,6 +1367,70 @@
       "duration_ms": 126700,
       "name": "XOX",
       "url": "https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm"
+    },
+    {
+      "added_at": "2025-12-16 15:19:39",
+      "album": {
+        "name": "Neanderthal",
+        "url": "https://open.spotify.com/album/39y2S1RQh7MTKi753MYlUN"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "duration_ms": 108426,
+      "name": "Savage Reservation",
+      "url": "https://open.spotify.com/track/0Pydl87io7bMSRj3pA27eH"
+    },
+    {
+      "added_at": "2025-12-16 15:19:53",
+      "album": {
+        "name": "Reformat",
+        "url": "https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn"
+      },
+      "artists": [
+        {
+          "name": "Mumbler (UK)",
+          "url": "https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j"
+        }
+      ],
+      "duration_ms": 270026,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7jaJmDGkrPIlAA6IlyiYa3"
+    },
+    {
+      "added_at": "2025-12-16 15:23:15",
+      "album": {
+        "name": "Mother Resides",
+        "url": "https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD"
+      },
+      "artists": [
+        {
+          "name": "Mother Resides",
+          "url": "https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Mother Resides",
+      "url": "https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz"
+    },
+    {
+      "added_at": "2025-12-16 15:42:42",
+      "album": {
+        "name": "Cut the Music",
+        "url": "https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv"
+      },
+      "artists": [
+        {
+          "name": "Evan Rotella",
+          "url": "https://open.spotify.com/artist/01UvushZJthpdyuMbDFpDS"
+        }
+      ],
+      "duration_ms": 246052,
+      "name": "Cut the Music",
+      "url": "https://open.spotify.com/track/0kub1ztt7OU6gzch4MpEjU"
     }
   ],
   "unique_name": "Local Rock Bands",

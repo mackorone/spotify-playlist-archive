@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95991,
+  "num_followers": 95995,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAACxjIO2Q6CKYpevoKH7jRmH",
+  "snapshot_id": "aT9PgAAAAABQbRdjO4jP9kil+y6Jpy3b",
   "tracks": [
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits (Deluxe)",
-        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 217775,
-      "name": "Price On My Head (feat. The Weeknd)",
-      "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demons Protected By Angels",
         "url": "https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 189320,
       "name": "One Time (with Don Toliver feat. Future)",
       "url": "https://open.spotify.com/track/0WA4APfzK7Y1pdzhvyhSwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits (Deluxe)",
+        "url": "https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 217775,
+      "name": "Price On My Head (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/4hqOmrCCJKyiuwDexd8c2t"
     },
     {
       "added_at": null,

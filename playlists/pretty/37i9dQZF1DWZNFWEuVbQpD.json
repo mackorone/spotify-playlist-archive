@@ -1,6 +1,6 @@
 {
   "description": "It\u2019s Only Rock 'n' Roll (But We Like It)! \ud83d\udd25 Cover: The Beatles",
-  "num_followers": 366271,
+  "num_followers": 366254,
   "original_name": "Rock: i Classici",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Willy And The Poor Boys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Willy And The Poor Boys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 140773,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 215096,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 215096,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Jeremy",
         "url": "https://open.spotify.com/album/1WJ3UbOi2QYGuRgXCc9FIV"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
         }
       ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -879,18 +863,18 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -907,6 +891,22 @@
       "duration_ms": 354636,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261495,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 247420,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+      "duration_ms": 261495,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1083,6 +1067,22 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 247420,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "The Game (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Another One Bites The Dust - Remastered 2011",
-      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+        "name": "The Game (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 269932,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+      "duration_ms": 214653,
+      "name": "Another One Bites The Dust - Remastered 2011",
+      "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1195,6 +1179,22 @@
       "duration_ms": 211708,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 255875,
-      "name": "Walk On the Wild Side",
-      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Physical Graffiti (Deluxe Edition)",
         "url": "https://open.spotify.com/album/26tH0kjUhkxBEd3ipGkx3Y"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 517125,
       "name": "Kashmir - Remaster",
       "url": "https://open.spotify.com/track/6Vjk8MNXpQpi0F4BefdTyq"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 255875,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 199703,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 145866,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 168756,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 168756,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2024-06-03 12:42:57",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-03 12:42:57",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2024-06-03 12:42:57",
-      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 212600,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+    },
+    {
+      "added_at": "2024-06-03 12:42:57",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-06-03 12:42:57",

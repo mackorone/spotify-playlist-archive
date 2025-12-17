@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Sala, Paky, Gemitaiz, Promessa e molti altri.
 
-6,562 songs - 12 day 2 hr 36 min
+6,564 songs - 12 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [BENZEMA](https://open.spotify.com/track/4bLJ1NanwGeEFykHpXYnad) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [BENZEMA](https://open.spotify.com/album/1SfYlkyQ3AZco2XfRI4nYS) | 3:02 | 2022-07-21 | 2022-08-13 |
 | [Benzinaio](https://open.spotify.com/track/1ofNolLTgWp1CqUNNaNQCn) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [Benzinaio](https://open.spotify.com/album/6kD3rfrEE63in9nRYXhXIP) | 2:22 | 2025-08-07 | 2025-09-05 |
 | [BERLINER BOY](https://open.spotify.com/track/1rWiroIOngUXYaIh6cbsh1) | [elliot](https://open.spotify.com/artist/3qeFjeE8OEYCyQFZtKOoDb), [IMAGE](https://open.spotify.com/artist/5yoQorniq2A9X70OIRU7c2) | [BERLINER BOY](https://open.spotify.com/album/4sdD0ASMMDLr9Im2J6uNiL) | 2:05 | 2025-06-06 | 2025-06-27 |
+| [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 | 2025-12-17 |  |
 | [Best in TO](https://open.spotify.com/track/3bmy4Iw88wFKTzSF7RtRQx) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [Best in TO](https://open.spotify.com/album/4G6dLoktjTmhxOMkReD46k) | 2:47 | 2024-10-17 | 2024-11-14 |
 | [Best Life](https://open.spotify.com/track/67Zlg1f5akUasCKntOpkWl) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Best Life](https://open.spotify.com/album/6ZVBD4uIocmIjaMNVZVUKr) | 2:19 | 2022-06-22 | 2022-07-22 |
 | [BESTIE](https://open.spotify.com/track/5w7CRd0cMtqL8XbEmafl4c) | [Erness](https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58) | [BESTIE](https://open.spotify.com/album/4bwubRxR4a2VlLnCiIc1HA) | 2:29 | 2024-12-06 | 2024-12-13 |
@@ -4170,6 +4171,7 @@
 | [Nueva Obsesión \(160\)](https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Nueva Obsesión \(160\)](https://open.spotify.com/album/6WBkDIDZxkIOo3juYr9zKT) | 3:03 | 2023-07-13 | 2023-07-28 |
 | [NULLA](https://open.spotify.com/track/1ccgziuUPYlQX7gKRWFwB0) | [PLAYBOIKIRA](https://open.spotify.com/artist/4SXKXgZLapOYWThvUIpZpV), [Koth](https://open.spotify.com/artist/4qRFAlz5qeR0IDhEsOoQ4a) | [NULLA](https://open.spotify.com/album/6Cx4MH12hFs8Dh9ge0II55) | 2:06 | 2024-03-28 | 2024-04-19 |
 | [NULLA ACCADE \(feat\. Capo Plaza\)](https://open.spotify.com/track/7aE74PfRukjvuBqte3f0hs) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MOTIVATION 4 THE STREETZ](https://open.spotify.com/album/4kzJg7hnr56yGMMsvV23rL) | 2:54 | 2023-12-07 | 2024-01-12 |
+| [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 | 2025-12-17 |  |
 | [Nullatenente \(feat\. Massimo Pericolo, Jake La Furia\)](https://open.spotify.com/track/6b4LiHZBLYb4OSOxXDgteU) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Nullatenente \(feat\. Massimo Pericolo, Jake La Furia\)](https://open.spotify.com/album/2SZvwWw3A6lDB1jjTWMNUi) | 3:38 | 2025-04-03 | 2025-05-02 |
 | [Nun Er Io](https://open.spotify.com/track/7L3mdptbFCpk9aEl7d8J9r) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Nun Er Io](https://open.spotify.com/album/3EGmwF0W0895Km6BAjKJqS) | 2:39 | 2025-11-14 | 2025-12-05 |
 | [Nun Fnesc Maje](https://open.spotify.com/track/7FHytoNhmmm2pEfqva5wIR) | [ALTACARATURA](https://open.spotify.com/artist/4FBfE5lWE8eGkPuUTXzRNr), [zafina](https://open.spotify.com/artist/0xtREruxB0K1dTUYdNCGe1) | [Nun Fnesc Maje](https://open.spotify.com/album/1cenxPvbwkYZAqoYlqKwY9) | 3:15 | 2025-01-17 | 2025-02-07 |

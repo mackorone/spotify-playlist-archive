@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,845 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,846 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 11 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 |
 | 12 | [No Te Quiero Quemar](https://open.spotify.com/track/6CpJeEDXJGxiCBmmjMN59K) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:36 |
 | 13 | [Entre Besos Y Copas](https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:10 |
-| 14 | [FLORES](https://open.spotify.com/track/1GrRXD8ZggZvsGEIOdoafP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:39 |
-| 15 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:57 |
+| 14 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/5tToNjJK3lXfBqsvY51deQ) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:57 |
+| 15 | [FLORES](https://open.spotify.com/track/1GrRXD8ZggZvsGEIOdoafP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:39 |
 | 16 | [Diamante](https://open.spotify.com/track/5eRN0FLIkrRDbpOBZtH6bi) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 2:41 |
 | 17 | [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 |
 | 18 | [55](https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [55](https://open.spotify.com/album/4yYClOIkFf8IgNNkZUhmax) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [Madre Tierra \(Interlude\)](https://open.spotify.com/track/4S99EA8o3QqzBGz7bPYJIT) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 0:46 |
 | 50 | [La Que Está De Moda Soy Yo](https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:17 |
 
-Snapshot ID: `aT3+AAAAAAAdmkLgh5LB7kZB2dsAo2bG`
+Snapshot ID: `aT9PgAAAAADA9jltTWwAtYfIzkmh632/`

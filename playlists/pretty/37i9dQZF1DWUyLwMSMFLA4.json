@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 639957,
+  "num_followers": 639997,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
+        "name": "Ni Una Ni Dos",
+        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 158535,
+      "name": "Ni Una Ni Dos",
+      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
         "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
         "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
-        "name": "Ni Una Ni Dos",
-        "url": "https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 158535,
-      "name": "Ni Una Ni Dos",
-      "url": "https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
-        "name": "HOLA PERDIDA",
-        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 166536,
-      "name": "HOLA PERDIDA",
-      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
+        "name": "HOLA PERDIDA",
+        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -911,30 +911,6 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
-        "name": "Lo Mismo Que A M\u00ed",
-        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Lo Mismo Que A M\u00ed",
-      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -967,6 +943,30 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
+        "name": "Lo Mismo Que A M\u00ed",
+        "url": "https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Lo Mismo Que A M\u00ed",
+      "url": "https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
+        "name": "Regalo de Dios",
+        "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 178893,
+      "name": "Esa Te Dej\u00f3",
+      "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
         "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
-        "name": "Regalo de Dios",
-        "url": "https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Esa Te Dej\u00f3",
-      "url": "https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
+        "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
+        "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 143813,
+      "name": "Te Perdon\u00e9 Tantas Veces",
+      "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
         "name": "A PRUEBA DE BALAS",
         "url": "https://open.spotify.com/album/0oaPAjkswlNaZHAfamcO5L"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
-        "name": "La Diosa - Los 20 \u00c9xitos M\u00e1s Pedidos",
-        "url": "https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 143813,
-      "name": "Te Perdon\u00e9 Tantas Veces",
-      "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
         "name": "KaKa Nene",
         "url": "https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 246240,
       "name": "Traigo Una Rosa",
       "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
-        "name": "Altos Cumbieros - Cumbia Villera",
-        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
-      },
-      "artists": [
-        {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "No voy a llorar",
-      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -1191,22 +1175,18 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
-        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+        "name": "Altos Cumbieros - Cumbia Villera",
+        "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
         }
       ],
-      "duration_ms": 153665,
-      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
-      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
+      "duration_ms": 188720,
+      "name": "No voy a llorar",
+      "url": "https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -1223,6 +1203,26 @@
       "duration_ms": 236840,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
+        "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+        "url": "https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 153665,
+      "name": "DJ ALEX, LA JOAQUI - TU AMOR | E7",
+      "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
     },
     {
       "added_at": "2025-11-20 11:58:41",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-11-20 11:58:41",
       "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
-    },
-    {
-      "added_at": "2025-11-20 11:58:41",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2025-11-20 11:58:41",
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
     },
     {
       "added_at": "2025-11-20 11:58:41",

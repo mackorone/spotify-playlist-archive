@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Khaid
 
-110 songs - 5 hr 26 min
+111 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Fuji Fusion](https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [K1 De Ultimate](https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 3:15 | 2025-10-24 | 2025-12-05 |
 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-10-24 |  |
 | [Giddem](https://open.spotify.com/track/4g52MWu8RhJYIkM9NdLvUN) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Giddem](https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH) | 2:58 | 2025-10-24 |  |
-| [Gimme Your Love](https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Gimme Your Love](https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2) | 2:52 | 2025-10-24 |  |
+| [Gimme Your Love](https://open.spotify.com/track/7EzWkg2eZjwXwHEEhVcnxJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Gimme Your Love](https://open.spotify.com/album/5HyN0UpkYplYLLbcu5n3S2) | 2:52 | 2025-10-24 | 2025-12-17 |
 | [Give U](https://open.spotify.com/track/5wjTaDHumqCrhhZVK1ign5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [King Carsley](https://open.spotify.com/artist/7fj63M0dam8Ydp9TUrXrkZ) | [Give U](https://open.spotify.com/album/2mxQrdagZVtcd1RDWJF0fb) | 2:32 | 2025-12-12 |  |
 | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Happiness \(feat\. Asake & Gunna\)](https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf) | 2:54 | 2025-10-24 |  |
 | [Happy Day](https://open.spotify.com/track/6x1R2hxbuFu8SfwnfuEddZ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Happy Day](https://open.spotify.com/album/7cxmSJpET0841ZDTBy1zVz) | 2:45 | 2025-10-24 |  |
@@ -68,6 +68,7 @@
 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 | 2025-10-24 |  |
 | [Laye Mi](https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Laye Mi](https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd) | 3:24 | 2025-10-24 |  |
 | [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 | 2025-12-05 | 2025-12-12 |
+| [Lifestyle](https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Lifestyle](https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq) | 2:45 | 2025-12-12 |  |
 | [LIKE ME \(ft\. taves\)](https://open.spotify.com/track/0j210DUB9vfWCNVW4BjK7Z) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 3:04 | 2025-11-14 | 2025-12-05 |
 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 | 2025-12-05 |  |
 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 | 2025-10-24 | 2025-12-05 |

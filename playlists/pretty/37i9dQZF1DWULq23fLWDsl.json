@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 348433,
+  "num_followers": 348474,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 315585,
-      "name": "Odessa",
-      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Star of Love",
         "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 230480,
       "name": "Plage",
       "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 315585,
+      "name": "Odessa",
+      "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Fields",
-        "url": "https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 164207,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/2PsotMzKAdxPzpsEJYQd4Z"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Journal of Ardency",
         "url": "https://open.spotify.com/album/0yTVrdU4jqSHyrh6VCQ8Cw"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 225233,
       "name": "Journal of Ardency",
       "url": "https://open.spotify.com/track/3vc0dm7NHZTProvlYlkhmh"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Fields",
+        "url": "https://open.spotify.com/album/7LMaY3Yah3TMepmzWWYGll"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 164207,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/2PsotMzKAdxPzpsEJYQd4Z"
     },
     {
       "added_at": "2025-03-14 11:46:42",

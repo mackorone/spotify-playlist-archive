@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 2 | [Шиншиллы](https://open.spotify.com/track/7igRCIpWVfpWTbhfsfn7su) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [Судный день](https://open.spotify.com/album/7moQvYps22c4nv2wyKWu6P) | 2:29 |
 | 3 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 |
 | 4 | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 |
-| 5 | [СВЕТЛАНА!](https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL) | 1:36 |
+| 5 | [СВЕТЛАНА!](https://open.spotify.com/track/6YY8y3YF9XvOkdaJ5TFb9k) | [MysticDreamer](https://open.spotify.com/artist/11S3qVIWD9uwJ1MnBQwYfV) | [СВЕТЛАНА!](https://open.spotify.com/album/2anHhnGcRaPfLbcESOmuc7) | 1:36 |
 | 6 | [овердоз](https://open.spotify.com/track/6oQ3B198ElQsJD2YZDIRkX) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [овердоз](https://open.spotify.com/album/0VsjlZ2HDquI2h2DB0XcGe) | 1:28 |
 | 7 | [так похуй](https://open.spotify.com/track/1dpHnn6eh4Pz55UproSdJv) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [sexyswag](https://open.spotify.com/album/40FhIwRsb0iaAUEinayobc) | 1:48 |
 | 8 | [MARTINE ROSE](https://open.spotify.com/track/5AVrwT3q2nFWHDwuPILwrf) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L) | [MARTINE ROSE](https://open.spotify.com/album/7Je8rk60eM7LPvvZj9FiDy) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Top Dawg](https://open.spotify.com/track/10PhhJwLrsPxEZThat4V3x) | [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq), [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [QUATTRO: La Famiglia](https://open.spotify.com/album/6UfdZh3lDmENHY9IOMHW67) | 2:27 |
 | 50 | [Беспечный рыцарь тьмы](https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [PAYCHECK](https://open.spotify.com/album/6ZZtoqsZlMQKf1EooeK9RA) | 3:53 |
 
-Snapshot ID: `MNN+UAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNTNeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

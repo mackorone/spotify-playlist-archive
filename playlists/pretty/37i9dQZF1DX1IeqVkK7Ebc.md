@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 
 > Softer pop vibes 💫
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,223 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,211 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 31 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 |
 | 32 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 |
 | 33 | [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 |
-| 34 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
-| 35 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 |
+| 34 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 |
+| 35 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 36 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 |
 | 37 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
 | 38 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IeqVkK7Ebc.md) - [plain]
 | 70 | [Camera \- Unplugged](https://open.spotify.com/track/3LGcolProZ9dVz33pOSh1t) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Camera \(Unplugged\)](https://open.spotify.com/album/0i3yVznQnq0h5g9Pn6Q6pl) | 3:33 |
 | 71 | [Letters From The Day](https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Letters From The Day](https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP) | 4:19 |
 | 72 | [ORIGAMI](https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [SINK NOW, SWIM LATER](https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k) | 3:02 |
-| 73 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
-| 74 | [Trippin](https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Trippin](https://open.spotify.com/album/2v6SjGWldikliw4sKC7BkQ) | 2:09 |
+| 73 | [Trippin](https://open.spotify.com/track/5uSu5qSPTshlm0LK52mEkz) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Trippin](https://open.spotify.com/album/2v6SjGWldikliw4sKC7BkQ) | 2:09 |
+| 74 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
 | 75 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 76 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 77 | [Fleeting](https://open.spotify.com/track/0irXFjfMY0YDUpudTgkJef) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/7s4OI9VpYZaaDjwujZTWDJ) | 3:39 |

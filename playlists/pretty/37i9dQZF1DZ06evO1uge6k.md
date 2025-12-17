@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,371 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,398 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 10 | [Legs \(2008 Remaster\)](https://open.spotify.com/track/11oBg7EA3BgPLWrIx4Rv7D) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:33 |
 | 11 | [Sharp Dressed Man](https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [The Baddest](https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ) | 2:59 |
 | 12 | [Waitin' for the Bus \(2006 Remaster\)](https://open.spotify.com/track/2zNkzCAijAuCYWzxKJeYO2) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 2:53 |
-| 13 | [I Gotsta Get Paid](https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:03 |
+| 13 | [Brown Sugar](https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 5:24 |
 | 14 | [Got Me Under Pressure \(2008 Remaster\)](https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 4:03 |
-| 15 | [Brown Sugar](https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 5:24 |
+| 15 | [I Gotsta Get Paid](https://open.spotify.com/track/7rwM67LyGTDIq33h3Ukc6Y) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura](https://open.spotify.com/album/6x2lSp3LAyn3GgB0E7rD4L) | 4:03 |
 | 16 | [Beer Drinkers & Hell Raisers \(2006 Remaster\)](https://open.spotify.com/track/3Oeuxw27oYmLF3jflwVK4F) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX) | 3:25 |
 | 17 | [I'm Bad, I'm Nationwide](https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 4:46 |
 | 18 | [I Need You Tonight \(2008 Remaster\)](https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK) | 6:18 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 26 | [Chartreuse](https://open.spotify.com/track/6Q1zqRC5160b9hIlSaZndu) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [La Futura \(Deluxe Version\)](https://open.spotify.com/album/3BS9MUmVKghsOa7Y3otqpE) | 2:57 |
 | 27 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2) | 7:20 |
 | 28 | [Arrested for Driving While Blind](https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tejas](https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K) | 3:06 |
-| 29 | [Viva Las Vegas \- 2003 Remaster](https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9) | 4:43 |
-| 30 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
+| 29 | [Give It Up](https://open.spotify.com/track/40IMYicpMrM9ziQIbFtfNY) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq) | 3:29 |
+| 30 | [Viva Las Vegas \- 2003 Remaster](https://open.spotify.com/track/7hB5TG3xxRBvBxX4ROayVL) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Chrome Smoke & BBQ: The ZZ Top Box](https://open.spotify.com/album/21XjbuoMaBrSjokj63ekw9) | 4:43 |
 | 31 | [I Thank You](https://open.spotify.com/track/2qkNefGxORk8kimPaTfvzD) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 3:24 |
 | 32 | [Stages](https://open.spotify.com/track/6DjbtbgegRkzPjNJpm48Dh) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm) | 3:32 |
 | 33 | [Just Got Back from Baby's](https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [ZZ Top's First Album](https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Nasty Dogs and Funky Kings \(2005 Remaster\)](https://open.spotify.com/track/3yyTDQYVGLWn5J4UHBE4qj) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Fandango! \(Expanded 2006 Remaster\)](https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV) | 2:42 |
 | 50 | [She Loves My Automobile](https://open.spotify.com/track/6KSOiVNjYx0DTq4WqcsLqk) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Deguello](https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ) | 2:23 |
 
-Snapshot ID: `aT3+AAAAAACmb/kfZYtO04wqbJcLLaFA`
+Snapshot ID: `aT9PgAAAAAB0pO5U5nrQVJ1NNSs3M5us`

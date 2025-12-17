@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > We're celebrating the 20th anniversary of Miranda Lambert's hit album "Kerosene" on 2000s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,948 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,069 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 69 | [Nothing On But The Radio](https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [See If I Care](https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG) | 3:32 |
 | 70 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:48 |
 | 71 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
-| 72 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
-| 73 | [Love Like Crazy](https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Love Like Crazy](https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8) | 3:37 |
-| 74 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
+| 72 | [Love Like Crazy](https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Love Like Crazy](https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8) | 3:37 |
+| 73 | [Don't Think I Don't Think About It](https://open.spotify.com/track/0XfFxeXzMkIy5SWAVpOQin) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:03 |
+| 74 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
 | 75 | [Nothin' To Lose](https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Josh Gracin](https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0) | 2:36 |
-| 76 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 76 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
 | 77 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
 | 78 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
 | 79 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 82 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 83 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
 | 84 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
-| 85 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
+| 85 | [Some Beach](https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton's Barn & Grill](https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA) | 3:24 |
 | 86 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
-| 87 | [Some Beach](https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton's Barn & Grill](https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA) | 3:24 |
+| 87 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
 | 88 | [Consider Me Gone](https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Keep On Loving You](https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W) | 3:40 |
 | 89 | [Mr\. Mom](https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Let's Be Us Again](https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY) | 3:28 |
 | 90 | [Wasted](https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:34 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 109 | [Where I Come From](https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:59 |
 | 110 | [I Need You](https://open.spotify.com/track/18wDkct4lkK046D6gcCASs) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Let It Go](https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo) | 4:08 |
 | 111 | [Love Don't Live Here](https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Lady Antebellum](https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh) | 3:50 |
-| 112 | [Making Memories Of Us](https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:56 |
-| 113 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
+| 112 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
+| 113 | [Making Memories Of Us](https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:56 |
 | 114 | [Mud On the Tires](https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Hits Alive](https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS) | 3:26 |
 | 115 | [Red Ragtop](https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 4:43 |
 | 116 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |

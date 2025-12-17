@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-131 songs - 8 hr 30 min
+132 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [ラズベリー\*モンスター](https://open.spotify.com/track/6SWKum6nA51oLqGuyphmVX) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Nostalgic Rainfall](https://open.spotify.com/album/0QpbVRBPVn89jFRMSoXAJx) | 2:55 | 2023-09-21 | 2024-01-13 |
 | [ラズベリー＊モンスター](https://open.spotify.com/track/19oCEhJcUnJjFWnJ8tAnvL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール](https://open.spotify.com/album/4PV8u7OxMEUJqFA1lFvNh7) | 2:55 | 2022-06-09 |  |
 | [ラブホイッスル](https://open.spotify.com/track/1d0Drv3qKZWEZiUhh563HC) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:41 | 2022-07-13 | 2022-10-12 |
+| [ラブホイッスル](https://open.spotify.com/track/0NCm2n0WChA4NygMl3tkBR) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ツインズ](https://open.spotify.com/album/6XM10Elj8DVFphy72Z8oAr) | 3:44 | 2025-12-17 |  |
 | [ラブホイッスル Alert！](https://open.spotify.com/track/2ANSraa99rjGkCJeXN9O8L) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [戦場の華](https://open.spotify.com/album/2PsXXWb3mnkVKluUxV1MEh) | 2:58 | 2025-10-31 |  |
 | [リベンジゲーム](https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [リベンジゲーム](https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX) | 3:17 | 2022-10-24 | 2022-12-13 |
 | [リベンジゲーム](https://open.spotify.com/track/3Ja6w6E7PvMzvJajdu3tM5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:17 | 2022-12-12 |  |
@@ -133,7 +134,7 @@
 | [私、アイドル宣言](https://open.spotify.com/track/4NQMAgIVoHsYURmYPzsRM9) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 4:27 | 2023-09-21 | 2023-11-11 |
 | [私、アイドル宣言](https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:27 | 2022-06-09 |  |
 | [私、アイドル宣言](https://open.spotify.com/track/7bxdPnZ1FOjnhEdDkbHMhH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 4:27 | 2023-11-10 | 2024-01-13 |
-| [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 | 2022-06-09 |  |
+| [胸キュンライト](https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt) | 4:55 | 2022-06-09 | 2025-12-17 |
 | [胸キュンライト](https://open.spotify.com/track/3GFlv5161WZ6F2h8yf9tNU) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:55 | 2023-09-21 | 2024-01-13 |
 | [胸キュンライト \-Instrumental\-](https://open.spotify.com/track/7Cb4IGEjTC85pxqSezdnO1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [決戦スピリット](https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD) | 4:54 | 2023-09-21 | 2024-01-13 |
 | [醜い生き物](https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [醜い生き物](https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD) | 3:40 | 2022-06-09 |  |

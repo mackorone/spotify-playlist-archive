@@ -4,7 +4,7 @@
 
 > Really lovely songs.
 
-504 songs - 1 day 6 hr 31 min
+505 songs - 1 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [I've Got Feelings](https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [I've Got Feelings](https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1) | 4:01 | 2025-03-29 |  |
 | [Icarus](https://open.spotify.com/track/7mnnCaWiLtsbOQEExjWeHc) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/6TpdsAKl6qB08qTqkerwZw) | 3:54 | 2022-03-19 | 2022-07-27 |
 | [IDK](https://open.spotify.com/track/6MAzWiyrMZYQiVzfuxPXl2) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [IDK](https://open.spotify.com/album/35wBHI3Cd4k6FrzvwLXosY) | 3:27 | 2022-03-19 | 2022-04-14 |
-| [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-11-12 |  |
+| [If Only](https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [If Only](https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy) | 3:22 | 2021-11-12 | 2025-12-17 |
 | [If You Need Someone](https://open.spotify.com/track/76UnqLEbklk07LOjmv6Pma) | [The Field Mice](https://open.spotify.com/artist/3KH6DLHeoFZgVbtKiLXb6L) | [Coastal](https://open.spotify.com/album/52GbpLnPBE37cLcyrqCwsD) | 3:44 | 2022-03-19 | 2022-07-05 |
 | [Ignorant Boy, Beautiful Girl \(Namanama\)](https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH) | 3:58 | 2022-03-19 |  |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2024-03-22 | 2025-03-30 |
@@ -384,6 +384,7 @@
 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 | 2024-02-18 | 2024-02-22 |
 | [Sleep Talk](https://open.spotify.com/track/0yDdaDzHXrisGbhm7mvZ0v) | [Patricia Lalor](https://open.spotify.com/artist/2m3JT2tJH5hDWkHsPwTdSd) | [Fall Back Asleep](https://open.spotify.com/album/5qLtchUaugg04COY4RE1rT) | 3:11 | 2021-11-12 | 2022-06-24 |
 | [Slow \(feat\. Henjila\)](https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX), [Henjila](https://open.spotify.com/artist/5pYcIcxfIowCcvR2wNxy0l) | [Slow \(feat\. Henjila\)](https://open.spotify.com/album/5RPGyfvn8loHLsU2riyKRw) | 3:13 | 2021-11-12 | 2022-12-19 |
+| [Smile For The Camera](https://open.spotify.com/track/1LmNzbOQTfzP1a5TSFMYbg) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Heart\-Shaped Bruise](https://open.spotify.com/album/5VtC9ZmocqMVXz0s7Tz7Ne) | 3:12 | 2025-03-29 |  |
 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 | 2022-03-19 |  |
 | [Smithereens](https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Smithereens](https://open.spotify.com/album/7x8m7TXlUS70vEyOb82cii) | 2:20 | 2022-02-04 | 2022-07-26 |
 | [Snooza](https://open.spotify.com/track/1e7Uf0Y3ce3grVrZYmiF8N) | [Säkert!](https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx) | [Däggdjur](https://open.spotify.com/album/3bSgmderTD253oYZN3HdTr) | 3:42 | 2022-03-19 | 2022-04-16 |

@@ -2783,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "album": {
         "name": "Get Happy (NVDES Edit) [feat. Blu DeTiger]",
         "url": "https://open.spotify.com/album/1eYHNv4azTXo1Gpzfe2OKl"
       },
@@ -4252,7 +4270,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 183247,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
@@ -4376,6 +4394,24 @@
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143593,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
     },
     {
       "album": {
@@ -7986,7 +8022,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"

@@ -1,6 +1,6 @@
 {
   "description": "Si te quieres divertir... y sudar al ritmo latino \ud83c\udf36\ufe0f",
-  "num_followers": 433883,
+  "num_followers": 433942,
   "original_name": "Workout Latino",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,30 @@
     {
       "added_at": "2025-10-17 09:57:57",
       "album": {
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2025-10-17 09:57:57",
+      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
-    },
-    {
-      "added_at": "2025-10-17 09:57:57",
-      "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2025-10-17 09:57:57",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2025-10-17 09:57:57",
       "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+    },
+    {
+      "added_at": "2025-10-17 09:57:57",
+      "album": {
         "name": "Volv\u00ed",
         "url": "https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2025-10-17 09:57:57",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
     },
     {
       "added_at": "2025-10-17 09:57:57",

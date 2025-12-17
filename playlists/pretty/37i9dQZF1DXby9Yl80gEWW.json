@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 60239,
+  "num_followers": 60247,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "Moon in Motion 1",
         "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 251000,
       "name": "Moon in Motion 1",
       "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 269733,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/7AcJDi9pjGHLE1OMiWmLED"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
         }
       ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
       "artists": [
         {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -747,22 +763,6 @@
       "duration_ms": 231000,
       "name": "Old Hickory",
       "url": "https://open.spotify.com/track/3F3Z9tXg4iCPWGgf31Nihv"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
+        "name": "58957: The Bluegrass Guitar Collection",
+        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
+      },
+      "artists": [
+        {
+          "name": "Tony Rice Unit",
+          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
+        }
+      ],
+      "duration_ms": 156932,
+      "name": "Blackberry Blossom",
+      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -923,22 +939,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "58957: The Bluegrass Guitar Collection",
-        "url": "https://open.spotify.com/album/2Ii3WXidbwtPzdiWEmDOmG"
-      },
-      "artists": [
-        {
-          "name": "Tony Rice Unit",
-          "url": "https://open.spotify.com/artist/4Of7rb2VkamHYwHhBjbwYg"
-        }
-      ],
-      "duration_ms": 156932,
-      "name": "Blackberry Blossom",
-      "url": "https://open.spotify.com/track/3rGzzWcBktMg6x1yyTiTLA"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Your Daughters & Your Sons",
-        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
-      },
-      "artists": [
-        {
-          "name": "The Duhks",
-          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
-      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 213400,
       "name": "Icebound",
       "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Your Daughters & Your Sons",
+        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
+      },
+      "artists": [
+        {
+          "name": "The Duhks",
+          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
+      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
         "name": "Marigold Hair",
         "url": "https://open.spotify.com/album/494Hi8VBSjlfPs8a7BKKtZ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 153622,
       "name": "Marigold Hair",
       "url": "https://open.spotify.com/track/4evoXHr5WuKuSWR7nAFAtD"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1763,38 +1763,6 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Team Hoover",
-        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 341546,
-      "name": "Team Hoover",
-      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Carolina Avenue",
-        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 275146,
-      "name": "Carolina Avenue",
-      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
         "name": "EMD",
         "url": "https://open.spotify.com/album/6EvXb5NjFdjQfLGIPttxcF"
       },
@@ -1831,6 +1799,38 @@
       "duration_ms": 229480,
       "name": "EMD",
       "url": "https://open.spotify.com/track/2VLV2108fW3ZwYIAYpZYHb"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Carolina Avenue",
+        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 275146,
+      "name": "Carolina Avenue",
+      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
+        "name": "Team Hoover",
+        "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 341546,
+      "name": "Team Hoover",
+      "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
     },
     {
       "added_at": "2025-12-05 05:00:20",

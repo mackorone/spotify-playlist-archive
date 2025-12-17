@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- Shinda Kahlon & AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,085 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,611 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

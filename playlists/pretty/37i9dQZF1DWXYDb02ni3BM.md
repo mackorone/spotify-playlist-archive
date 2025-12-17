@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYDb02ni3BM.md) - [plain]
 
 > Las divas del pop latino de ayer y hoy\. Foto: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,441 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,458 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

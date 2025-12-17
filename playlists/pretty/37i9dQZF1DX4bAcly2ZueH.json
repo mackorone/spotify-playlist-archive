@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54181,
+  "num_followers": 54196,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,22 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+        "name": "Two Breath EP",
+        "url": "https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
         }
       ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
+      "duration_ms": 233846,
+      "name": "Two Breath",
+      "url": "https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -583,6 +587,22 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -635,22 +655,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "KUMORI",
-        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "KUMORI",
-      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Day Trip",
         "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
       },
@@ -663,6 +667,22 @@
       "duration_ms": 137000,
       "name": "Day Trip",
       "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "KUMORI",
+        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "KUMORI",
+      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -699,26 +719,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "Two Breath EP",
-        "url": "https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi"
-      },
-      "artists": [
-        {
-          "name": "WAZGOGG",
-          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
-        },
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Two Breath",
-      "url": "https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Sushi In Tokyo",
         "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "rias",
-        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 283170,
-      "name": "rias",
-      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "\u5c71\u6708",
         "url": "https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 193384,
       "name": "\u5c71\u6708",
       "url": "https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "rias",
+        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 283170,
+      "name": "rias",
+      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 154482,
       "name": "Cristo Redentor",
       "url": "https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "flowingtime",
-        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
-      },
-      "artists": [
-        {
-          "name": "Otokaze",
-          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Colony",
-      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "flowingtime",
+        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
+      },
+      "artists": [
+        {
+          "name": "Otokaze",
+          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Colony",
+      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "fresh",
-        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
-      },
-      "artists": [
-        {
-          "name": "sukima",
-          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
-        }
-      ],
-      "duration_ms": 263341,
-      "name": "fresh",
-      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Blue Notes",
         "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 198369,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "fresh",
+        "url": "https://open.spotify.com/album/1jPDEpX44oh4LSGLGq7Ba6"
+      },
+      "artists": [
+        {
+          "name": "sukima",
+          "url": "https://open.spotify.com/artist/14UDG7R7vy6OLbND3Va4Rc"
+        }
+      ],
+      "duration_ms": 263341,
+      "name": "fresh",
+      "url": "https://open.spotify.com/track/4j4zVQJTlAiyUgrHeWSEHm"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
+      },
+      "artists": [
+        {
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
-      },
-      "artists": [
-        {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "Beacon of Hope",
-        "url": "https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo"
-      },
-      "artists": [
-        {
-          "name": "Johannes Bornl\u00f6f",
-          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
-        }
-      ],
-      "duration_ms": 220873,
-      "name": "Beacon of Hope",
-      "url": "https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/2nYqG1ZkEXoeg67nTRWmfy"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 247000,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/1Iwk3LLqidlOEx1NQcEiqT"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "Beacon of Hope",
+        "url": "https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo"
+      },
+      "artists": [
+        {
+          "name": "Johannes Bornl\u00f6f",
+          "url": "https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV"
+        }
+      ],
+      "duration_ms": 220873,
+      "name": "Beacon of Hope",
+      "url": "https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "Snow Magic",
-        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+        "name": "asobiba",
+        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
       },
       "artists": [
         {
-          "name": "Grey October Sound",
-          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
-        },
-        {
-          "name": "GOODSHIT",
-          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+          "name": "chanoma",
+          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
         }
       ],
-      "duration_ms": 182684,
-      "name": "Snow Magic",
-      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+      "duration_ms": 185000,
+      "name": "asobiba",
+      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1487,6 +1483,26 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
+        "name": "Snow Magic",
+        "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
+      },
+      "artists": [
+        {
+          "name": "Grey October Sound",
+          "url": "https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76"
+        },
+        {
+          "name": "GOODSHIT",
+          "url": "https://open.spotify.com/artist/1IMKwKbUaQp1JbSXwWDr4v"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "Snow Magic",
+      "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
         "name": "see",
         "url": "https://open.spotify.com/album/7D9pjJFXLOmanknWbHK0FQ"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 207613,
       "name": "see",
       "url": "https://open.spotify.com/track/4QyoRESAvIOPWYXtIpOGCr"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
-        "name": "asobiba",
-        "url": "https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox"
-      },
-      "artists": [
-        {
-          "name": "chanoma",
-          "url": "https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "asobiba",
-      "url": "https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "last winter / pool",
-        "url": "https://open.spotify.com/album/45G6qoJIxHlz5cWzK2MMzn"
-      },
-      "artists": [
-        {
-          "name": "mato kiyokawa",
-          "url": "https://open.spotify.com/artist/4BjoUtMcYFgWQaBY1Ys7a5"
-        }
-      ],
-      "duration_ms": 203479,
-      "name": "last winter",
-      "url": "https://open.spotify.com/track/3yx1fT4YAHSWqrSuDGTrxz"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Who.",
         "url": "https://open.spotify.com/album/3ulL6H4gTjz6Sz0o40qMRB"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 120791,
       "name": "Who.",
       "url": "https://open.spotify.com/track/7FwMwoFxhZPEEAEHxp2bSH"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "last winter / pool",
+        "url": "https://open.spotify.com/album/45G6qoJIxHlz5cWzK2MMzn"
+      },
+      "artists": [
+        {
+          "name": "mato kiyokawa",
+          "url": "https://open.spotify.com/artist/4BjoUtMcYFgWQaBY1Ys7a5"
+        }
+      ],
+      "duration_ms": 203479,
+      "name": "last winter",
+      "url": "https://open.spotify.com/track/3yx1fT4YAHSWqrSuDGTrxz"
     },
     {
       "added_at": "2025-12-10 02:02:08",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-10 02:02:08",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
-    },
-    {
-      "added_at": "2025-12-10 02:02:08",
-      "album": {
         "name": "Continue",
         "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 232066,
       "name": "Continue",
       "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
+    },
+    {
+      "added_at": "2025-12-10 02:02:08",
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
     },
     {
       "added_at": "2025-12-10 02:02:08",

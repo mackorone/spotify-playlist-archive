@@ -928,13 +928,13 @@
       },
       "artists": [
         {
-          "name": "Dozy FX",
-          "url": "https://open.spotify.com/artist/3LErbZP1QobnVRGGCDaRdK"
+          "name": "Sounds Caused By Lightning",
+          "url": "https://open.spotify.com/artist/5VGzMbTA9KIcP8GcG0KTaY"
         }
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 129045,
       "name": "Dozy White Noise",
       "url": "https://open.spotify.com/track/3Z0PCugUi5AKwPBJuMacQH"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-17",
       "duration_ms": 198818,
       "name": "White Noise Retreat",
       "url": "https://open.spotify.com/track/38LDKVgDA7DlB4eMuB8rxF"

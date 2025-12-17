@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,298 likes - 70 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,301 likes - 70 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 55 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
 | 56 | [Ask & You Shall Receive](https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8) | 3:19 |
 | 57 | [The Weekend](https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Imran](https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv) | [Oldschool Love](https://open.spotify.com/album/6uwelipskyMH8GsmE6zbGa) | 2:34 |
-| 58 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
-| 59 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
+| 58 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 |
+| 59 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
 | 60 | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/track/3hJmzuKkiCtLDTANdB52Hm) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Butterflies \(feat\. FLETCHER\)](https://open.spotify.com/album/3Li6WQzAn1Jdf947DyHanb) | 3:11 |
 | 61 | [I swear to god](https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH) | [Maël & Jonas](https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp) | [I swear to god](https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY) | 2:35 |
 | 62 | [Change Your Mind](https://open.spotify.com/track/4kOlyvj9WiPrI4zpmzKAeA) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Change Your Mind](https://open.spotify.com/album/60PSfBhVSZFJj302rOs4DY) | 2:53 |

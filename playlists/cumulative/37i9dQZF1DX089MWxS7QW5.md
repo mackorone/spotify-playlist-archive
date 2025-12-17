@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: JUNNY\(주니\)\)
 
-591 songs - 1 day 7 hr 49 min
+592 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 |  |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-08-18 |
 | [Scream TT](https://open.spotify.com/track/1Rbbsova3KJ0dwqF79rtbZ) | [SUZU](https://open.spotify.com/artist/0zlvwCaqdYsdSrr5ZD22d5) | [B2B](https://open.spotify.com/album/581IpgL4QvytkHGGNCUjxo) | 2:01 | 2025-08-05 |  |
+| [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 | 2025-12-16 |  |
 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 | 2024-10-23 | 2025-03-13 |
 | [See through \(Feat\. Michelle\)](https://open.spotify.com/track/7mvrsDEEEvR7sRapkxsjDg) | [gani](https://open.spotify.com/artist/4ZslxGFMt5d6axpVivGwZr), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [See through \(Feat\. Michelle\)](https://open.spotify.com/album/6cunlL6umFfwNoHhSJQWJz) | 2:48 | 2025-04-18 | 2025-08-21 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2023-10-17 |

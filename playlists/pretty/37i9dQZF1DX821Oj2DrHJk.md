@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 
 > Rock on repeat during the summers of the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,478 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,481 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 36 | [Love Her Madly](https://open.spotify.com/track/3MFFDRC4wTN9JNGtzXsZlN) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [L.A\. Woman](https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS) | 3:18 |
 | 37 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 38 | [Fly Like An Eagle](https://open.spotify.com/track/3e0FzZjTXOUtiJGSClOBrI) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 4:42 |
-| 39 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
+| 39 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 40 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 |
-| 41 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
+| 41 | [Hot Blooded](https://open.spotify.com/track/6xMHglHoafdDFGXS6qfwSH) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Double Vision \(Expanded\)](https://open.spotify.com/album/6lu6DYE0eHHp1gd3QGUYhu) | 4:28 |
 | 42 | [I Shot The Sheriff](https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:23 |
 | 43 | [Take The Money And Run](https://open.spotify.com/track/1ZhrREyOOeFV6TxDOyiPwu) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 2:50 |
 | 44 | [Come Sail Away](https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [The Grand Illusion](https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU) | 6:07 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX821Oj2DrHJk.md) - [plain]
 | 94 | [Jesus Just Left Chicago \- 2006 Remaster](https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:30 |
 | 95 | [D'yer Mak'er \- 1990 Remaster](https://open.spotify.com/track/6UCb3me83cyCV19sjvucte) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(1994 Remaster\)](https://open.spotify.com/album/5phxHbK2GSr7hEu4orLywP) | 4:21 |
 | 96 | [Live And Let Die](https://open.spotify.com/track/2TEW9YkQDKRHUxCHbEn0Gk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Live And Let Die \(Soundtrack\)](https://open.spotify.com/album/6DGYoKsdFqgsSAJf6dDN7O) | 3:14 |
-| 97 | [48 Crash](https://open.spotify.com/track/5DPVU9xTKDC2CizYp5WXT2) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:53 |
-| 98 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 |
+| 97 | [Rubber Bullets](https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [10cc](https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH) | 5:18 |
+| 98 | [48 Crash](https://open.spotify.com/track/5DPVU9xTKDC2CizYp5WXT2) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Suzi Quatro](https://open.spotify.com/album/06HJVlWlwBfMKf8BE0eAHW) | 3:53 |
 | 99 | [Substitute](https://open.spotify.com/track/5po2HCMZvJ0aPSxRRGKm3p) | [Clout](https://open.spotify.com/artist/1Y9R6sacgLlWFGYFGK9M0P) | [Since We've Been Gone](https://open.spotify.com/album/7zRC8iLx8ixniN0rfJwdzc) | 3:29 |
 | 100 | [Bad Bad Boy](https://open.spotify.com/track/3w5sVhdCNzQyCx0aANMMmD) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Razamanaz](https://open.spotify.com/album/19kMBEeYJUwXUI92KPCGeg) | 3:58 |
 

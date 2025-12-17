@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. el Xava Drago por siempre
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,469 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,478 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 43 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
 | 44 | [Nalguita](https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Tasty + B Sides](https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M) | 4:14 |
 | 45 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
-| 46 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
-| 47 | [Dead \- En Vivo](https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:57 |
+| 46 | [Dead \- En Vivo](https://open.spotify.com/track/7xFn3dihBf60SS4m1wDDt5) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:57 |
+| 47 | [Hoy Tengo Miedo](https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Wow \(87\-04\)](https://open.spotify.com/album/5SH9zH7m4u4p2gURDZ73Lj) | 4:29 |
 | 48 | [Solín](https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 3:11 |
 | 49 | [Peligroso Pop](https://open.spotify.com/track/5lwPvoxq9H3eAawY4236zP) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Hola Chicuelos](https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf) | 3:36 |
 | 50 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
-| 51 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
-| 52 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
-| 53 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
+| 51 | [Reptilectric](https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:52 |
+| 52 | [Mamá](https://open.spotify.com/track/2oA3tCnnhyMaCVzS5MLZZY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Rock En Espanol \- Lo Mejor De Los Amantes De Lola](https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG) | 3:46 |
+| 53 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
 | 54 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 55 | [Siento Que...](https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [Restaurant](https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c) | 3:29 |
 | 56 | [Vaquero Rockanrolero](https://open.spotify.com/track/6imxKxbwy0GI2nU5tfIs27) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:15 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 84 | [Estático](https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Maquillaje](https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu) | 4:00 |
 | 85 | [Jurame](https://open.spotify.com/track/6IjLhntekHrzJ8E2lSaqgb) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Ely Guerra](https://open.spotify.com/album/4UNaTWjut4UfHwNhGyzcc8) | 4:35 |
 | 86 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |
-| 87 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
-| 88 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
+| 87 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
+| 88 | [Infiernos](https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Infiernos](https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm) | 4:53 |
 | 89 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
 | 90 | [Gavilán o Paloma \- Resmasterizado](https://open.spotify.com/track/0iOassZEfvSk8Z7nkrRgGI) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [Lupitología](https://open.spotify.com/album/7cYGeuZBjKK4Ftvr0DpiGL) | 3:56 |
 | 91 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,662 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,737 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 57 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 58 | [Take Your Mama](https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM) | 4:31 |
 | 59 | [Hard to Beat](https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W) | [Hard\-Fi](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 4:13 |
-| 60 | [L.E.S Artistes](https://open.spotify.com/track/1SvIUtl5QuOTJhKNVikt6m) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU) | 3:26 |
-| 61 | [My Delirium](https://open.spotify.com/track/1YhzlKAGZCgFmu3maqDQtl) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke \(Deluxe Edition\)](https://open.spotify.com/album/31AFNVRlzhlhqX9LCwPfHF) | 4:14 |
+| 60 | [My Delirium](https://open.spotify.com/track/1YhzlKAGZCgFmu3maqDQtl) | [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [Ladyhawke \(Deluxe Edition\)](https://open.spotify.com/album/31AFNVRlzhlhqX9LCwPfHF) | 4:14 |
+| 61 | [L.E.S Artistes](https://open.spotify.com/track/1SvIUtl5QuOTJhKNVikt6m) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4TGvBVWFdYgARvdajEfAkU) | 3:26 |
 | 62 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
 | 63 | [You've Got The Love](https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [You've Got The Love](https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU) | 2:48 |
 | 64 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 71 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
 | 72 | [Feels Just Like it Should](https://open.spotify.com/track/6xQqhKp7gHlBBb0OLI9BuY) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW) | 4:32 |
 | 73 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
-| 74 | [Pass It On](https://open.spotify.com/track/5uB85PzlWrnNnxL2A1TcKD) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [Magic & Medicine](https://open.spotify.com/album/3vd7xfTaPLTZZFIfSOzxLp) | 2:19 |
-| 75 | [Shark In The Water](https://open.spotify.com/track/0TcFqXBMga80dWkWbzIl7p) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/65NVbd6VHdUFzRKfgtmmVu) | 3:04 |
+| 74 | [Shark In The Water](https://open.spotify.com/track/0TcFqXBMga80dWkWbzIl7p) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/65NVbd6VHdUFzRKfgtmmVu) | 3:04 |
+| 75 | [Pass It On](https://open.spotify.com/track/5uB85PzlWrnNnxL2A1TcKD) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [Magic & Medicine](https://open.spotify.com/album/3vd7xfTaPLTZZFIfSOzxLp) | 2:19 |
 | 76 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 77 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |
 | 78 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |

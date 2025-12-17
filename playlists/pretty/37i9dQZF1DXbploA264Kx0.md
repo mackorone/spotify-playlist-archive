@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: JUD \(陳泳希\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,308 likes - 56 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,309 likes - 56 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

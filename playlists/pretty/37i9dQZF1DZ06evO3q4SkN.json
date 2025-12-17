@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAADV7ChCJ4jOh/OhINAgDuIs",
+  "snapshot_id": "aT9PgAAAAAB/AUuhT7mlbJRX9zoiRMVh",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 196213,
-      "name": "Abre Los Ojos",
-      "url": "https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7"
+      "duration_ms": 46040,
+      "name": "\u00a1Hola Casita!",
+      "url": "https://open.spotify.com/track/5X1kTi7KqUrAbQBohSV68x"
     },
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
       "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 125159,
-      "name": "Her Racing Heartbeat",
-      "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
+      "duration_ms": 71853,
+      "name": "Dora and the Lost City of Gold",
+      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
     },
     {
       "added_at": null,
@@ -84,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 46040,
-      "name": "\u00a1Hola Casita!",
-      "url": "https://open.spotify.com/track/5X1kTi7KqUrAbQBohSV68x"
+      "duration_ms": 196213,
+      "name": "Abre Los Ojos",
+      "url": "https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7"
     },
     {
       "added_at": null,
@@ -123,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
       "artists": [
-        {
-          "name": "John Debney",
-          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
-        },
         {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 113493,
-      "name": "New Cave",
-      "url": "https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b"
+      "duration_ms": 188800,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
     },
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 382120,
-      "name": "Spring Peach Tree Blossoms",
-      "url": "https://open.spotify.com/track/5p5f3NLKUOBm7xSYu5WjfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
@@ -204,9 +188,33 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 71853,
-      "name": "Dora and the Lost City of Gold",
-      "url": "https://open.spotify.com/track/3Y5eHVnO7FFsVH0sjo5r3t"
+      "duration_ms": 113493,
+      "name": "New Cave",
+      "url": "https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Federico Ramos",
+          "url": "https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm"
+        },
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        },
+        {
+          "name": "Gabriela Martinez",
+          "url": "https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk"
+        }
+      ],
+      "duration_ms": 144250,
+      "name": "No Me Dejes Atr\u00e1s (feat. Gabriela Martinez)",
+      "url": "https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr"
     },
     {
       "added_at": null,
@@ -259,26 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
       "artists": [
         {
-          "name": "Federico Ramos",
-          "url": "https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm"
-        },
-        {
           "name": "Germaine Franco",
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        },
-        {
-          "name": "Gabriela Martinez",
-          "url": "https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk"
         }
       ],
-      "duration_ms": 144250,
-      "name": "No Me Dejes Atr\u00e1s (feat. Gabriela Martinez)",
-      "url": "https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr"
+      "duration_ms": 119346,
+      "name": "History of Lone Pine Falls",
+      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
       },
       "artists": [
         {
@@ -324,41 +324,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/3aEvSGLsszY6CHUjoI8ayJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 119346,
-      "name": "History of Lone Pine Falls",
-      "url": "https://open.spotify.com/track/57OTA1cCqy9ao89B4Epyw1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 130639,
-      "name": "The Ultimate Vision",
-      "url": "https://open.spotify.com/track/6H3MJlrliScYcpPfGLwPis"
+      "duration_ms": 167316,
+      "name": "Tango De Las Mujeres",
+      "url": "https://open.spotify.com/track/5juqZzFeCNW7xsY2FS82e5"
     },
     {
       "added_at": null,
@@ -383,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 130639,
+      "name": "The Ultimate Vision",
+      "url": "https://open.spotify.com/track/6H3MJlrliScYcpPfGLwPis"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 382120,
+      "name": "Spring Peach Tree Blossoms",
+      "url": "https://open.spotify.com/track/5p5f3NLKUOBm7xSYu5WjfV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mother (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
@@ -399,22 +399,6 @@
       "duration_ms": 160786,
       "name": "Mother Daughter Theme - Solo Piano Version",
       "url": "https://open.spotify.com/track/7qMxlJ1K6Px8awhdYV1lny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 167316,
-      "name": "Tango De Las Mujeres",
-      "url": "https://open.spotify.com/track/5juqZzFeCNW7xsY2FS82e5"
     },
     {
       "added_at": null,
@@ -451,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 294146,
-      "name": "Agent Down",
-      "url": "https://open.spotify.com/track/2yXVQ7k2Z4kiNf2G5IQxL7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Curious George: Royal Monkey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf"
       },
@@ -479,6 +447,22 @@
       "duration_ms": 92773,
       "name": "Ted And Felipe Arrive",
       "url": "https://open.spotify.com/track/5luoWuuRXpjursM5bDKtGN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 294146,
+      "name": "Agent Down",
+      "url": "https://open.spotify.com/track/2yXVQ7k2Z4kiNf2G5IQxL7"
     },
     {
       "added_at": null,
@@ -515,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mother (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 114920,
-      "name": "A Life Apart",
-      "url": "https://open.spotify.com/track/7DWCtu846C9kSdacjgLycc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Margarita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "Lavando Trastos",
-      "url": "https://open.spotify.com/track/6yjlcMP1WhucM1AUDP7kVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dora and the Lost City of Gold (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p"
       },
@@ -567,6 +519,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 102600,
+      "name": "Mother To Mother",
+      "url": "https://open.spotify.com/track/0PCLZXHh7EiqzaL5kwYoPX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 172750,
+      "name": "Lavando Trastos",
+      "url": "https://open.spotify.com/track/6yjlcMP1WhucM1AUDP7kVk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
       },
@@ -579,22 +563,6 @@
       "duration_ms": 129973,
       "name": "Ginny's Home",
       "url": "https://open.spotify.com/track/3LZEdjxVerAfGds8a2ddJW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
-        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
-      },
-      "artists": [
-        {
-          "name": "Germaine Franco",
-          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
-        }
-      ],
-      "duration_ms": 123480,
-      "name": "The Legend Of The Phoenix",
-      "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
     },
     {
       "added_at": null,
@@ -623,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+        "name": "The Mother (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp"
       },
       "artists": [
         {
@@ -632,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 143946,
-      "name": "The Stampede",
-      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
+      "duration_ms": 125159,
+      "name": "Her Racing Heartbeat",
+      "url": "https://open.spotify.com/track/0Wy0I9wbbX7CPIwU5pu8G2"
     },
     {
       "added_at": null,
@@ -648,9 +616,25 @@
           "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
         }
       ],
-      "duration_ms": 123533,
-      "name": "Legend Of The Tortoise",
-      "url": "https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc"
+      "duration_ms": 123480,
+      "name": "The Legend Of The Phoenix",
+      "url": "https://open.spotify.com/track/7jAuPo2gGQJGKCT9iDW1MQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Curious George: Go West Go Wild (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4snKihviTiBrKpMdv39si2"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 143946,
+      "name": "The Stampede",
+      "url": "https://open.spotify.com/track/0CN3pQ1L8cJb7TQFNQH39f"
     },
     {
       "added_at": null,
@@ -671,6 +655,38 @@
       "duration_ms": 111066,
       "name": "And You Are Not Going",
       "url": "https://open.spotify.com/track/54udISeAGguLtkCncTE6Y4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Margarita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 55481,
+      "name": "La Ultima Mirada",
+      "url": "https://open.spotify.com/track/7pBrGQmZxzXbsg8qfuIYAD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kung Fu Panda: Land Of Awesomeness (Music From Universal Beijing Resort's)",
+        "url": "https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "duration_ms": 123533,
+      "name": "Legend Of The Tortoise",
+      "url": "https://open.spotify.com/track/0sB4nZMAssgGXb2hEp9Cdc"
     },
     {
       "added_at": null,

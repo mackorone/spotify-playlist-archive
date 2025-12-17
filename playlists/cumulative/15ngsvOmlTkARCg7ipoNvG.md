@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,037 songs - 1 day 17 hr 5 min
+2,038 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [Into Deep Silence](https://open.spotify.com/track/0D9IlNDQ3hS2Kv09YPb1gn) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Into Deep Silence](https://open.spotify.com/album/1zkUdKqnpmFcTFQVo6HA1S) | 1:02 | 2022-06-29 | 2024-01-30 |
 | [Into Light](https://open.spotify.com/track/6WIydiKfTJ33O2kTxd1UGu) | [Wonder In Serenity](https://open.spotify.com/artist/1ClhpZHK4uyN4gCCU5Mll4) | [Into Light](https://open.spotify.com/album/4QZMW9xEiLRU2LlxM3zyMs) | 1:01 | 2025-10-04 |  |
 | [Into The Mist](https://open.spotify.com/track/6y6RXt55CyDvP1UMlZqbbL) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Into The Mist](https://open.spotify.com/album/5afET5QBXLhus0ZDFwH4yG) | 1:00 | 2025-03-06 |  |
+| [Introspection](https://open.spotify.com/track/0Neeh1zkNiymEOb6YNpgpK) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Introspection](https://open.spotify.com/album/3a33t58EOqtPKUBBTI6Q65) | 1:00 | 2025-12-16 |  |
 | [Intuition](https://open.spotify.com/track/3s1S3QuTAr1dHbyGblXGva) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Intuition](https://open.spotify.com/album/7djPo84qhFLehc2mdspqOa) | 1:00 | 2024-08-02 |  |
 | [Inwards](https://open.spotify.com/track/3WhMZVh6PBF9QuNchZOWlv) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Inwards](https://open.spotify.com/album/3POwaXKumtkbjhQ70te8oP) | 1:00 | 2025-02-18 |  |
 | [Iris](https://open.spotify.com/track/0vI4uoKdVgqmJJ6CIXBjz7) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Innerscape](https://open.spotify.com/album/7Irucj3F7RZXtGA5ePsBig) | 1:17 | 2022-01-12 |  |

@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "In from the shadows",
+        "url": "https://open.spotify.com/album/3y0LCtWXVV5iNvWV3liWW5"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170386,
+      "name": "Fool Me",
+      "url": "https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm"
       },

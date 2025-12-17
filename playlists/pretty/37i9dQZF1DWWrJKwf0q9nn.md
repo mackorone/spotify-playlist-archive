@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: BLOND:ISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,884 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,932 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 
 > Listen to all of her hits right here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,090 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,175 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzoMWoVzs9W.md) - [plain]
 | 79 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 |
 | 80 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 |
 
-Snapshot ID: `AAAAAG0CNq/28f7hUORG9F/cTJmPcZC7`
+Snapshot ID: `AAAAALE+f9abPtNYNbNmTFYthDdkIUjI`

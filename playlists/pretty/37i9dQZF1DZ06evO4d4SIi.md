@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,301 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,323 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 9 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 |
 | 10 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 | 11 | [A Little Lime](https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:39 |
-| 12 | [Ain't Enough Road](https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:59 |
+| 12 | [Ain't A Bad Life](https://open.spotify.com/track/59Wet0esLvTyJBhCjpXuUe) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:07 |
 | 13 | [Almost Maybes](https://open.spotify.com/track/1BVzLiBS3MWmXzqcxBFJDt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:59 |
 | 14 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
-| 15 | [Ain't A Bad Life](https://open.spotify.com/track/59Wet0esLvTyJBhCjpXuUe) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:07 |
+| 15 | [Ain't Enough Road](https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:59 |
 | 16 | [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 |
 | 17 | [Trying](https://open.spotify.com/track/2mWp5olnLmpzAReIGK18dA) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:56 |
 | 18 | [Banks](https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 3:41 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 41 | [Buy Dirt](https://open.spotify.com/track/0pvwG3L9KMrWFQItEnimaa) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Among Friends](https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT) | 2:46 |
 | 42 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 |
 
-Snapshot ID: `aT3+AAAAAAAbLlGr9S8cbgF917Zb8JtB`
+Snapshot ID: `aT9PgAAAAABeY2SkqajssEL31UU7rhJI`

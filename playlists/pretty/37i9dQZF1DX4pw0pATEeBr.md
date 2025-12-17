@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,847 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,908 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 48 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 49 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 |
 | 50 | [Ojos Tumbados](https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ojos Tumbados](https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9) | 4:22 |
-| 51 | [Esta Vida Me Encanta \(feat\. Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 4:07 |
-| 52 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 |
+| 51 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 |
+| 52 | [Esta Vida Me Encanta \(feat\. Don Aero\)](https://open.spotify.com/track/2WNPCBgCQmcKqbFJQC9pK8) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Don Aero](https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv) | [Voy Por El Sueno de Muchos](https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P) | 4:07 |
 | 53 | [Ella No Es Tuya \- Remix](https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ella No Es Tuya \(Remix\)](https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA) | 3:38 |
 | 54 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 |
 | 55 | [Aleman: Bzrp Music Sessions, Vol\. 15/66](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15/66](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |

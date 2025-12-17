@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAA1aqfFl06bq+m8eVcuFycp",
+  "snapshot_id": "aT9PgAAAAAAjYAPzarC/pl9sewF1IroA",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time To Say Goodbye",
-        "url": "https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY"
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 188468,
-      "name": "Time To Say Goodbye",
-      "url": "https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy"
+      "duration_ms": 217131,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+        "name": "Time To Say Goodbye",
+        "url": "https://open.spotify.com/album/7A84WRvV1EJzbcGAQkmanY"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 217131,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/3AfcCZtlstI2rIorom3CbD"
+      "duration_ms": 188468,
+      "name": "Time To Say Goodbye",
+      "url": "https://open.spotify.com/track/7afNGpGU4kfwKYG5RBqaFy"
     },
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+        "name": "Ghost World",
+        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+      "duration_ms": 193500,
+      "name": "Latest Ghost",
+      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
     },
     {
       "added_at": null,
@@ -159,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost World",
-        "url": "https://open.spotify.com/album/7xBZ124291hllgvV3jPLL3"
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Latest Ghost",
-      "url": "https://open.spotify.com/track/1eH3x83ILpL75tdfPBQqq0"
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 202848,
-      "name": "Suddenly Strangers",
-      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
+      "duration_ms": 216578,
+      "name": "Kicks",
+      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 216578,
-      "name": "Kicks",
-      "url": "https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD"
+      "duration_ms": 202848,
+      "name": "Suddenly Strangers",
+      "url": "https://open.spotify.com/track/73B6PiZ2UDUss37GmbI5cQ"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 258598,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
+      "duration_ms": 239468,
+      "name": "How Would You Like It?",
+      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 239468,
-      "name": "How Would You Like It?",
-      "url": "https://open.spotify.com/track/2hew0QHOWxyf7JoiP8LVSI"
+      "duration_ms": 258598,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni"
     },
     {
       "added_at": null,

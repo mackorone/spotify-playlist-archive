@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste Indie & Alternative\. Cover: Dressed Like Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,771 likes - 60 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,763 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 59 | [Wake Me Up](https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [21st Century Fiction](https://open.spotify.com/album/6PXuxQUn7Ar2AKt2BSseX2) | 5:20 |
 | 60 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |
 
-Snapshot ID: `AAAAADFJTQlBbjGGesP//TK3hQHxvdOF`
+Snapshot ID: `AAAAALjJ58OaexYBXt9fQIUTR9ctysrw`

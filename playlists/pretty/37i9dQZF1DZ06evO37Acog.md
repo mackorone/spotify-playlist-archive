@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,038 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,055 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 21 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
 | 22 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
 | 23 | [Qué Casualidad](https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Qué Casualidad](https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w) | 3:03 |
-| 24 | [Chaparra De Mi Amor](https://open.spotify.com/track/6nNwN8kpW1QR23FuhOQMMR) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [De La Película: Dinastía De La Muerte](https://open.spotify.com/album/6dvSyr6svrpvg4PPaVT3RQ) | 3:11 |
-| 25 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
-| 26 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
+| 24 | [Mi Piquito De Oro](https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [MI PIQUITO DE ORO \(Grabación Original Remasterizada\)](https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr) | 2:08 |
+| 25 | [Chaparra De Mi Amor](https://open.spotify.com/track/6nNwN8kpW1QR23FuhOQMMR) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [De La Película: Dinastía De La Muerte](https://open.spotify.com/album/6dvSyr6svrpvg4PPaVT3RQ) | 3:11 |
+| 26 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
 | 27 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
 | 28 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 |
 | 29 | [Recuerdos Tristes](https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 |
 | 50 | [Hasta Que Te Perdí](https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Gaviota](https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy) | 2:34 |
 
-Snapshot ID: `aT3+AAAAAABt4ANvVl9oH3S1Z7JVxOzX`
+Snapshot ID: `aT9PgAAAAAAM1CZG5haj/jY6MkG8lO7w`

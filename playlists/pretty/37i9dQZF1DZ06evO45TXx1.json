@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 15382,
+  "num_followers": 15386,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAB9iXymekNjdfiiseP4dtFl",
+  "snapshot_id": "aT9PgAAAAAD2nEF6vfJHdfvXvh75gU9k",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quase Pronta Mixtape",
+        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "YORI",
+          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Sexo Hot",
+      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas no Topo 3",
         "url": "https://open.spotify.com/album/59B1Leein60p2cEODo6OHl"
       },
@@ -351,34 +379,6 @@
       "duration_ms": 374400,
       "name": "Poetisas no Topo 3",
       "url": "https://open.spotify.com/track/3tW24NTLSEjFSeIFW1EZQE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quase Pronta Mixtape",
-        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "YORI",
-          "url": "https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Sexo Hot",
-      "url": "https://open.spotify.com/track/0zWOyz2VVnt9gg5kHaqroK"
     },
     {
       "added_at": null,
@@ -815,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ai Caralh*",
-        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
-      },
-      "artists": [
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Ai Caralh*",
-      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set da Menorzinha 1.0",
         "url": "https://open.spotify.com/album/6eYWnseUbpgOGdYDFyzHBz"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 324986,
       "name": "Set da Menorzinha 1.0",
       "url": "https://open.spotify.com/track/4PIZkFECempgwhCiCGiTjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ai Caralh*",
+        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
+      },
+      "artists": [
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Ai Caralh*",
+      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
     },
     {
       "added_at": null,

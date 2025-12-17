@@ -2,9 +2,9 @@
 
 ### [Jazz Fusion Japan](https://open.spotify.com/playlist/37i9dQZF1DWXHgXkgBOlTI)
 
-> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Gecko&Tokage Parade
+> ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 神保彰
 
-151 songs - 11 hr 24 min
+152 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 | 2024-09-18 | 2025-12-09 |
 | [Dusty Future](https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Dusty Future / Struggle](https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL) | 3:41 | 2024-11-26 | 2025-02-21 |
 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 | 2023-03-14 | 2024-09-19 |
-| [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 | 2025-02-20 |  |
+| [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 | 2025-02-20 | 2025-12-17 |
 | [Ephemeral summer](https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:20 | 2024-02-27 |  |
 | [Fanfare](https://open.spotify.com/track/53q80WeNxUnyi3YDm3PPhp) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [Fanfare](https://open.spotify.com/album/6tkKpYubLhXjkc4sqf2DtM) | 4:17 | 2023-03-14 | 2023-09-27 |
 | [Fleeting](https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Fleeting](https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP) | 3:56 | 2025-01-29 | 2025-09-20 |
@@ -71,6 +71,7 @@
 | [massive](https://open.spotify.com/track/5ZLhUcvJ8XVOQ8syjyPYod) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [GOOD LUCK SOUND TRACKS 2](https://open.spotify.com/album/5BDrpgNmD2rtFlLr6zKj2P) | 3:51 | 2025-02-12 | 2025-02-21 |
 | [merry pitch'n](https://open.spotify.com/track/13N5C1T7JzgtabFHDOVOlN) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [merry pitch'n](https://open.spotify.com/album/1vA6gYERxgJGNTcr0SHLtl) | 3:44 | 2025-02-20 | 2025-03-30 |
 | [Metamorphosis](https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Metamorphosis](https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO) | 4:06 | 2024-01-30 | 2024-08-14 |
+| [Mid Summer Shuffle feat\. Toshiki Kadomatsu](https://open.spotify.com/track/31wRy64OKfga3gncOQBq2U) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [Mid Summer Shuffle feat\. Toshiki Kadomatsu](https://open.spotify.com/album/7sbJS96u8p27zFRyJfIDyH) | 3:46 | 2025-12-16 |  |
 | [Moment of Clarity](https://open.spotify.com/track/3DC2AEoH1yjL60FRRaEIRZ) | [colspan](https://open.spotify.com/artist/0vjyVjLLoaqpkOUQWpOtOi) | [Moment of Clarity](https://open.spotify.com/album/3DfsBjwKqAYJCC24LsQfbL) | 4:44 | 2023-11-21 | 2025-01-09 |
 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 | 2023-03-14 |  |
 | [MotherLake](https://open.spotify.com/track/4uRF6ePZegS9RLDRzTDaRp) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 4:53 | 2023-04-04 | 2024-04-19 |

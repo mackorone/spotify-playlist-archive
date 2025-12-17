@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,091 likes - 74 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,375 likes - 74 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 17 | [Because Of You](https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:26 |
 | 18 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 19 | [Won't Go Home Without You](https://open.spotify.com/track/6WEBwvsmpaoGxka0tSh5a7) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [It Won't Be Soon Before Long \(International Version\)](https://open.spotify.com/album/2RUHJZ3raiIDsR3yX4JXf5) | 3:51 |
-| 20 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
-| 21 | [Let Me Love You](https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/0aihmuRLi1gBkxk4mbNfcv) | 4:09 |
+| 20 | [Let Me Love You](https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/0aihmuRLi1gBkxk4mbNfcv) | 4:09 |
+| 21 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 |
 | 22 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
-| 23 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
-| 24 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
+| 23 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 |
+| 24 | [By Your Side](https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
 | 25 | [Because of You](https://open.spotify.com/track/0gJvqi9QyASOCtJu99tytc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/20jYcJane0oI7VoMNoEOJU) | 3:39 |
 | 26 | [Hate That I Love You](https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:38 |
-| 27 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 |
-| 28 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
+| 27 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
+| 28 | [No Air \(feat\. Chris Brown\)](https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Jordin Sparks](https://open.spotify.com/album/6JCNOvp9UeMrFuXwNW0JW6) | 4:24 |
 | 29 | [Lucky](https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 3:09 |
 | 30 | [When You Say Nothing At All](https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 4:16 |
 | 31 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 68 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 |
 | 69 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 |
 | 70 | [Too Serious Too Soon](https://open.spotify.com/track/3dLoqgmXNaloiPpue3AxSA) | [Gareth Gates](https://open.spotify.com/artist/4nNwfeVaNJlfz8RdCT5MJO) | [What My Heart Wants To Say](https://open.spotify.com/album/6qjh64nv2k5MIrjewpj0Vv) | 3:43 |
-| 71 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 |
-| 72 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 |
+| 71 | [The Reason](https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/7EtK7XiObsZGF6oBKLrvKH) | 3:52 |
+| 72 | [Make You Feel My Love](https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:32 |
 | 73 | [Have You Ever](https://open.spotify.com/track/2wkoy95ZlmANduYJcq5v6K) | [S Club](https://open.spotify.com/artist/0HNGrIbq1ZNO2mTp3tMW4L) | [Sunshine](https://open.spotify.com/album/1JXF1JKw7WPhqvBO8t8oPl) | 3:21 |
 | 74 | [No Promises](https://open.spotify.com/track/0RwbDO8xyF9vhZFZd9kdel) | [Shayne Ward](https://open.spotify.com/artist/6H4lieipng8aGu3Hbd1UeJ) | [Shayne Ward](https://open.spotify.com/album/50OfJiV0FdR199eCQ18WTw) | 3:42 |
 

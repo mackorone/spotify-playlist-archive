@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-822 songs - 2 day 5 hr 13 min
+824 songs - 2 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Question Time](https://open.spotify.com/track/4Y4mzdWc0uxqUPtxlzF7Fd) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Question](https://open.spotify.com/album/6AzfN90FLmg2Mnq2sHIDXh) | 4:31 | 2022-06-24 | 2022-06-29 |
 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 | 2024-01-09 | 2024-02-01 |
 | [Rapport](https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [Rapport](https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm) | 3:37 | 2022-06-03 | 2022-11-13 |
+| [Rashisa](https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rashisa](https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV) | 5:02 | 2025-12-16 |  |
 | [Ready Set Go!!](https://open.spotify.com/track/1Mg2xpVLUfGkSYF33v3o2A) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [Ready Set Go!!](https://open.spotify.com/album/18lCeDN7w8m2xqm0CAlM4N) | 3:51 | 2022-06-24 | 2022-07-27 |
 | [realitYhurts.](https://open.spotify.com/track/5TcBpp37mTlEGhDRp9T8iy) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [realitYhurts.](https://open.spotify.com/album/1oPQjjPHehiERqQ2HQil7Y) | 2:31 | 2025-04-08 | 2025-04-14 |
 | [Realize](https://open.spotify.com/track/1vbWvIDfJYYyLVke6I3Vwk) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」](https://open.spotify.com/album/10yod2vdNVJ4gtLT79TdLR) | 4:04 | 2022-06-03 | 2022-07-27 |
@@ -351,7 +352,7 @@
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-03 | 2022-10-19 |
 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 | 2024-07-02 |  |
 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 | 2023-10-08 | 2025-04-19 |
-| [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-07-14 |  |
+| [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-07-14 | 2025-12-17 |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-14 | 2022-06-18 |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 | 2022-10-19 |
 | [Stormy](https://open.spotify.com/track/7FDgraktDTcuA8uc8ixBM6) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Stormy](https://open.spotify.com/album/4hwKWHczO6iNFJtdaxNuD7) | 3:24 | 2024-06-25 | 2024-08-06 |
@@ -816,10 +817,11 @@
 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-07-09 | 2024-08-16 |
 | [雲外憧憬](https://open.spotify.com/track/0hoDK2KuG46nECLXOellqq) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [雲外憧憬](https://open.spotify.com/album/75HOex15jymUudlA2nMFTJ) | 3:46 | 2022-06-14 | 2022-07-25 |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2024-01-19 |  |
-| [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 | 2025-07-14 |  |
+| [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 | 2025-07-14 | 2025-12-17 |
 | [青春コンプレックス](https://open.spotify.com/track/0jpP8AlQLVtaMwA3vQYpYB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [青春コンプレックス](https://open.spotify.com/album/3yiMrbhmz7rqjTW3AgmG9W) | 3:25 | 2023-02-02 | 2025-05-04 |
 | [青春永遠](https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT) | [Shonan No Kaze](https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [青春永遠](https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF) | 4:25 | 2025-11-11 | 2025-11-19 |
 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-07-01 | 2024-07-16 |
+| [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 | 2025-12-16 |  |
 | [頑張っている君だから](https://open.spotify.com/track/1mRNjvJAijIBaKOhUUqSy8) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD), [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK), [内村史子](https://open.spotify.com/artist/0AvJfmoAGItgNqzqyJbrrE) | [頑張っている君だから](https://open.spotify.com/album/5JASlLK3A1mNfLbHH10Nh8) | 4:37 | 2022-06-24 | 2022-06-28 |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-07-14 | 2022-07-25 |
 | [風に吹かれて](https://open.spotify.com/track/4BQgbUodnb7th8UhjX8nuZ) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/0APY6iqv5wrIhRvBPBzx5C) | 4:31 | 2022-07-07 | 2022-07-10 |

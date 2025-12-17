@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,844 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,860 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 38 | [Way Out](https://open.spotify.com/track/5NWLroOOcY9s6sBMT4BbAI) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 3:57 |
 | 39 | [L'Amour à la française](https://open.spotify.com/track/6XGmPf0kuUwakHNnLB30mH) | [Les Fatals Picards](https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz) | [Pamplemousse Mécanique \(Edition Eurovision + 1 titre bonus\)](https://open.spotify.com/album/58SdE4Iofh5Y1jZi5HRDBu) | 2:42 |
 | 40 | [Révolution.com](https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Revolution.com](https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo) | 3:27 |
-| 41 | [Qu'est\-ce qu'on va faire de toi](https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA) | [Alister](https://open.spotify.com/artist/1xouBaP3PomCmnS8kv2loT) | [Aucun mal ne vous sera fait](https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW) | 4:02 |
-| 42 | [La croisée](https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [L'Homme Fleur](https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM) | 4:27 |
+| 41 | [La croisée](https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE) | [Blankass](https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03) | [L'Homme Fleur](https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM) | 4:27 |
+| 42 | [Qu'est\-ce qu'on va faire de toi](https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA) | [Alister](https://open.spotify.com/artist/1xouBaP3PomCmnS8kv2loT) | [Aucun mal ne vous sera fait](https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW) | 4:02 |
 | 43 | [Si c'est bon comme ça](https://open.spotify.com/track/6lHHjwoRmbQkQcni9EOj3H) | [Sinclair](https://open.spotify.com/artist/27DUNSbKmWQsjfXFjCv3Q4) | [La bonne attitude](https://open.spotify.com/album/7COmZfBtnEJ1BAdk0bX1If) | 4:56 |
 | 44 | [Ghost](https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h) | 3:08 |
 | 45 | [Raisonne](https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Aston Villa](https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm) | 5:07 |

@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-863 songs - 1 day 17 hr 7 min
+864 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [jumpin' \- H3nry Thr!ll Version](https://open.spotify.com/track/7CtTW08xlFcsBHmnsvAMtF) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [LOGE](https://open.spotify.com/artist/30Qk0xWOa5BOa4ARg9gY1x), [H3nry Thr!ll](https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5) | [jumpin' \(H3nry Thr!ll Version\)](https://open.spotify.com/album/31LdRZWMKj1JavRbTpX8xS) | 2:13 | 2024-12-06 | 2025-01-15 |
 | [Just like Marvin](https://open.spotify.com/track/0nlauzP2BOuRb4QxjsUzpq) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Just like Marvin](https://open.spotify.com/album/2MML57Zxl0b2o0QM3L2hVP) | 2:10 | 2023-08-11 | 2023-11-03 |
 | [Keep Going](https://open.spotify.com/track/54hXDJQ2KX68JUBJN8T92x) | [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1) | [Lightchild](https://open.spotify.com/album/6hAtXCrwWc4hBgXL9Ax5FQ) | 2:39 | 2024-11-08 |  |
-| [Keep Going High](https://open.spotify.com/track/3ZxI58HpXQpq6STPReH067) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [God is Iconic](https://open.spotify.com/album/2oEyCsPPHDBmN7yRjI9pkp) | 2:13 | 2024-06-07 |  |
+| [Keep Going High](https://open.spotify.com/track/3ZxI58HpXQpq6STPReH067) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [God is Iconic](https://open.spotify.com/album/2oEyCsPPHDBmN7yRjI9pkp) | 2:13 | 2024-06-07 | 2025-12-17 |
 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 | 2022-02-04 | 2024-01-13 |
 | [Keep On Movin \- Zed Bias Remix](https://open.spotify.com/track/4mJvhJqBMvyIXRWFSDK594) | [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [RE//CHOIRED](https://open.spotify.com/album/3qSgBlnR7TknyBhQ7B7AkP) | 5:18 | 2022-03-23 | 2022-04-28 |
 | [KEEPER](https://open.spotify.com/track/0Nki8E9SuPPACfXghDz3q8) | [Amar](https://open.spotify.com/artist/6EzcG2756Gcv7qEmZmnjl2), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP) | [KEEPER](https://open.spotify.com/album/6zNdGUzCMIPdyrPozkUxDV) | 3:58 | 2024-02-02 | 2024-04-05 |
@@ -812,6 +812,7 @@
 | [WaveWalker](https://open.spotify.com/track/1y0Fq8z3sVmQ9bHbT3r5Zy) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Bart Millard](https://open.spotify.com/artist/6l0FgdMZNMgMjph2DdwKP9) | [WaveWalker](https://open.spotify.com/album/6CViRKQjb2VqUGnNCWo9X1) | 3:13 | 2022-02-04 | 2022-07-15 |
 | [Wavy](https://open.spotify.com/track/61hTCLVKXkvxQKRiTFOwd1) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Wavy](https://open.spotify.com/album/6eqCJGPpG3ShFA5WSXQlKg) | 2:44 | 2024-02-02 | 2024-04-29 |
 | [WAY MAKER](https://open.spotify.com/track/6uCuqwcNem1t2usnC0g6tG) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [Kelo](https://open.spotify.com/artist/1vqpLv0kaTCxTjWFhM7Mxv) | [WAY MAKER](https://open.spotify.com/album/1LdX5o7JHm0pujCgSkahI9) | 2:43 | 2022-05-28 | 2024-01-13 |
+| [WDGS?](https://open.spotify.com/track/2zUNPs0yTdzmkSPe2hOnoG) | [Errol Allen](https://open.spotify.com/artist/0vPHZqFce2oHEMQfTL6Ohc) | [WDGS?](https://open.spotify.com/album/6ys5cQLc7b5UwcV6xkUTRV) | 2:22 | 2025-12-12 |  |
 | [we are not the same.](https://open.spotify.com/track/6SCth7RiNdzmiouRdKkFhm) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Pishko](https://open.spotify.com/artist/16dnHAXP1cxzQJkiPqp6eS) | [we are not the same.](https://open.spotify.com/album/0plwRQPja2ffJTaV456WSx) | 1:53 | 2022-04-30 | 2023-11-03 |
 | [We Been Here](https://open.spotify.com/track/0TjqCwN9MubG45YGafYWF6) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [We Been Here \(feat\. Aaron Cole\)](https://open.spotify.com/album/46Tquj31IesFnU2WHgoQXj) | 2:58 | 2022-02-04 | 2023-08-12 |
 | [We Live](https://open.spotify.com/track/2yqrIdVi0bXjwxNjMYhiZR) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [We Live](https://open.spotify.com/album/42N6RZcioo83Ys8AS6ZN2y) | 2:33 | 2024-07-05 | 2025-02-08 |

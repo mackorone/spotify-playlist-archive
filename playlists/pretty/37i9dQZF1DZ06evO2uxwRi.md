@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 12 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 |
 | 13 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 |
 | 14 | [King Of Wishful Thinking](https://open.spotify.com/track/4hnNT1qx5OpLgdMVDochHI) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:40 |
-| 15 | [Laugh It Off](https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Laugh It Off](https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85) | 3:38 |
+| 15 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
 | 16 | [My Heart Will Go On](https://open.spotify.com/track/1WVtn3yjabxY2016Lv96Ma) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 3:03 |
-| 17 | [100%](https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [100%](https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv) | 3:28 |
+| 17 | [Laugh It Off](https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Laugh It Off](https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85) | 3:38 |
 | 18 | [Eye of the Tiger](https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:24 |
 | 19 | [Head On Collision](https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:46 |
 | 20 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Party On Apocalypse](https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:23 |
 | 50 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
 
-Snapshot ID: `aT3+AAAAAAArrrH3vvNFxEcBsHcFGSOS`
+Snapshot ID: `aT9PgAAAAAAKkKR1soB0dHhaJSQDUJTa`

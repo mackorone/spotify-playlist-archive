@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1105983,
+  "num_followers": 1106141,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAC+eA9Rb5qOnTxjTP0IJY+T",
+  "snapshot_id": "aT9PgAAAAAD7AaFRgPjLXNDVKYMyEnoi",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154420,
-      "name": "Secuelas De Amor",
-      "url": "https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154420,
+      "name": "Secuelas De Amor",
+      "url": "https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Palabra De To's",
         "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 154525,
       "name": "Decret\u00e9",
       "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost In Translation",
-        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "Lost In Translation",
-      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 212222,
       "name": "DUE\u00d1O DE TI",
       "url": "https://open.spotify.com/track/3fVoK5VLXYksHYMDf16RIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
     },
     {
       "added_at": null,

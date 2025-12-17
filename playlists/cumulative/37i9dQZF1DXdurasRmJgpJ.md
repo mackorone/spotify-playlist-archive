@@ -212,7 +212,7 @@
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2023-12-12 | 2024-03-27 |
 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 | 2023-12-12 | 2024-02-10 |
 | [Slow & Easy](https://open.spotify.com/track/4b5oBON2DgamONUxvP4JyQ) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Slow & Easy](https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8) | 3:35 | 2025-07-18 | 2025-08-18 |
-| [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 | 2025-09-18 |  |
+| [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 | 2025-09-18 | 2025-12-17 |
 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 | 2024-07-28 | 2025-02-03 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-12 | 2024-02-28 |
 | [Spacecraft](https://open.spotify.com/track/5pg2M78HkonLV5EMddMEYy) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Spacecraft / Sailing](https://open.spotify.com/album/7t2KBW7fFGH4OzsmGBosKY) | 3:13 | 2025-02-06 | 2025-06-10 |
@@ -458,6 +458,6 @@
 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 | 2024-10-26 | 2025-09-19 |
 | [駄叉](https://open.spotify.com/track/0qYFLPgDBTCF4jCNM5tImu) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [駄叉](https://open.spotify.com/album/5qTt4dRAWF5PZt7jxk79I9) | 4:13 | 2024-07-18 | 2024-08-08 |
 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [友成空](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 | 2024-01-22 | 2025-03-11 |
-| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 | 2025-12-14 |
+| [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 | 2024-10-04 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

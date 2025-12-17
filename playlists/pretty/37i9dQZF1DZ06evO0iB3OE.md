@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 
 > This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,368 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,371 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iB3OE.md) - [plain]
 | 36 | [El Hueso Del Perron](https://open.spotify.com/track/2Ej3bkt5TJ5fGeSeQTYvjD) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:11 |
 | 37 | [El Cisne](https://open.spotify.com/track/6g0K3GQUs8rtY3p2nGUxL0) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 3:01 |
 | 38 | [Que No Se Apague la Lumbre](https://open.spotify.com/track/5Bwet1Stw98vVFi2kNX5uZ) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 3:06 |
-| 39 | [Quiéreme \- En Vivo](https://open.spotify.com/track/4oDxtA4tXtw5gsVqM3twSu) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 2:15 |
+| 39 | [La Muerte de Julio Beltrán \- En Vivo](https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:47 |
 | 40 | [El Mes De Enero](https://open.spotify.com/track/0UuZpS71KT3ezLp8tdC5Ru) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Déjame Vacío](https://open.spotify.com/album/1V6lmb3Q26D49Lgx83k4hU) | 3:36 |
 | 41 | [El Compa Many \- En Vivo](https://open.spotify.com/track/6HABzIziCLuoHMYX6vTJQ7) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Compa Many \(En Vivo\)](https://open.spotify.com/album/347Aramha2pgLe10iD53CD) | 2:51 |
 | 42 | [Mi Ranchito Querido](https://open.spotify.com/track/5NBqQ42L9zHfCb3NJV1HEP) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:16 |
-| 43 | [Rama Seca](https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:02 |
-| 44 | [Gente del Macho](https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:22 |
-| 45 | [Tiro de Gracia](https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:32 |
-| 46 | [Lamberto Verdugo \- En Vivo Desde Las Tapias](https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [En Vivo Desde Las Tapias](https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW) | 3:09 |
-| 47 | [Los Dos Jefes](https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:05 |
+| 43 | [Gente del Macho](https://open.spotify.com/track/5genkMFK6tqWI8I57ZdIic) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Maz Poderoso](https://open.spotify.com/album/1EzS2DlYdpDPPSfLAWOanJ) | 2:22 |
+| 44 | [Tiro de Gracia](https://open.spotify.com/track/57SQ2W3VEQ0PMcUKrcMY2H) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Y Sigue la Mata Dando](https://open.spotify.com/album/4o1K7sFLLwNlDP5OwjnVUb) | 2:32 |
+| 45 | [Rama Seca](https://open.spotify.com/track/4yMAAZOj15S6bPnnPqNYle) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Desde el Rancho Bella Vista](https://open.spotify.com/album/20GF4g2iAks0eQTatS6fAS) | 3:02 |
+| 46 | [Los Dos Jefes](https://open.spotify.com/track/4JOlwQcpmx3YhVUd5YfxR2) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:05 |
+| 47 | [Lamberto Verdugo \- En Vivo Desde Las Tapias](https://open.spotify.com/track/7gUCp7tdGA63B6VqXvTjyE) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [En Vivo Desde Las Tapias](https://open.spotify.com/album/6yBguv4iIwJlyhhglOcPsW) | 3:09 |
 | 48 | [El Cargamento Del Diablo](https://open.spotify.com/track/7sGWaqVuPGvfmXtnF71frT) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:51 |
 | 49 | [Por Que No Vienes](https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:29 |
 | 50 | [El Ingeniero](https://open.spotify.com/track/1WBlUy4TmAtgPuxEYUlkqN) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Jerarquia de Corridos con Power Sinaloense! \(Edited Version\)](https://open.spotify.com/album/760dpWpOhMO2dcbqR6cNoA) | 2:53 |
 
-Snapshot ID: `aT3+AAAAAABuak0c0NgLRFhw+ebV9vAX`
+Snapshot ID: `aT9PgAAAAACMPsQl6a4cKAnSKFSju71d`

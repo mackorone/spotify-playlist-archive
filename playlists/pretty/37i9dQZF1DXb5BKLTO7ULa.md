@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Samuel Welten, Broederliefde, Josylvio, Becky G en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,013 likes - 74 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,994 likes - 74 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

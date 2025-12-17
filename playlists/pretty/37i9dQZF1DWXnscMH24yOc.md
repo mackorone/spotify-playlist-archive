@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,048 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,082 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 57 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
 | 58 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 59 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 |
-| 60 | [Country Roads](https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4), [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Country Roads](https://open.spotify.com/album/2htGdWsy7NuxdwLs0tA3Y4) | 3:13 |
-| 61 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
+| 60 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
+| 61 | [Country Roads](https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4), [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Country Roads](https://open.spotify.com/album/2htGdWsy7NuxdwLs0tA3Y4) | 3:13 |
 | 62 | [Lover](https://open.spotify.com/track/0foJgbkqIYjC8WfEOMMw3i) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Lover](https://open.spotify.com/album/2b5ee3XpZQqmVpHC7gV9Vj) | 2:43 |
 | 63 | [you broke me first](https://open.spotify.com/track/0KAFjeQ6jpmtKP4CW9m5X6) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [you broke me first](https://open.spotify.com/album/0xo6qHMKN7rvr49SAV9imz) | 3:10 |
 | 64 | [Honesty](https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY) | [WesternBoy](https://open.spotify.com/artist/2tDK1KYXsOsqTe2ln3We4E) | [Honesty](https://open.spotify.com/album/2otA7Hgaul96xbL6C30GO8) | 3:45 |
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 85 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |
 | 86 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
 | 87 | [Hope She'll Be Happier \- Spotify Singles](https://open.spotify.com/track/3PcdHJLrbpfXhfSmbWpIRL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Spotify Singles](https://open.spotify.com/album/19dMFBXNyn1ZCQ1pxhg8nV) | 4:09 |
-| 88 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
-| 89 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |
+| 88 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |
+| 89 | [Funeral Singers](https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv), [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Funeral Singers](https://open.spotify.com/album/3sxhYvPOJo2WYjEhvCaA2n) | 3:39 |
 | 90 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
-| 91 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
-| 92 | [What Is Love](https://open.spotify.com/track/2cbUbYYjFEXJucB4YXLWtf) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Hideaway](https://open.spotify.com/album/5WyTbS28X2D8bkGSw0dlq3) | 3:07 |
+| 91 | [What Is Love](https://open.spotify.com/track/2cbUbYYjFEXJucB4YXLWtf) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Hideaway](https://open.spotify.com/album/5WyTbS28X2D8bkGSw0dlq3) | 3:07 |
+| 92 | [The Greatest](https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Trauma \- Chansons De La Série Tv](https://open.spotify.com/album/2V0Pn1tlcuIPy3yf2T1MVK) | 3:25 |
 | 93 | [Pleasure](https://open.spotify.com/track/0ASjmESaww4tLMSDBzTu3U) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Pleasure](https://open.spotify.com/album/25tWNWuK5mFsxlpnA7IWxd) | 4:15 |
 | 94 | [She's Not There \- \(The Zombies cover\)](https://open.spotify.com/track/0dz9cFDDSyj2VFqzXkzmx1) | [Owlle](https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8) | [France](https://open.spotify.com/album/6poorXKsPRsrowWfn97Sel) | 2:55 |
 | 95 | [Harvest Moon](https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Harvest Moon](https://open.spotify.com/album/27PWE1Iu1njLcflbD8mfbw) | 4:07 |
