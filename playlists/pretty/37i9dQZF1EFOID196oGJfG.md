@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 11 | [Scared to Be Happy](https://open.spotify.com/track/22gqgp77iH9XnPTjs4U6JM) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Scared to Be Happy](https://open.spotify.com/album/3jwBuaG80L637u5zCIYegb) | 2:37 |
 | 12 | [Good For You](https://open.spotify.com/track/5pn9ofs8pPX6bFZO3Dzg6i) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Good For You](https://open.spotify.com/album/3CBgdlkaFZHwyfrrHVQ0WD) | 2:50 |
 | 13 | [Look At Me Now](https://open.spotify.com/track/7lPb9P7WJ0PX4DcJxFQjqn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 3:09 |
-| 14 | [Stare](https://open.spotify.com/track/3qJolzSTXB91zil3ZXwspT) | [Rory Adams](https://open.spotify.com/artist/5nf5lJ3cik78BBntVGecWx) | [Stare](https://open.spotify.com/album/4JOgEZjd8KPfqIXwblB7Z1) | 3:24 |
-| 15 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
+| 14 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
+| 15 | [Stare](https://open.spotify.com/track/3qJolzSTXB91zil3ZXwspT) | [Rory Adams](https://open.spotify.com/artist/5nf5lJ3cik78BBntVGecWx) | [Stare](https://open.spotify.com/album/4JOgEZjd8KPfqIXwblB7Z1) | 3:24 |
 | 16 | [Til You're Ready](https://open.spotify.com/track/3wLlzPPBUJ7ThhmWD4l4gg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Til You're Ready](https://open.spotify.com/album/79rKnowuMb3EDJJ061glp3) | 2:58 |
 | 17 | [body](https://open.spotify.com/track/6Vei3kKN9pPMpBZ9kgF1w8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [body](https://open.spotify.com/album/1Ys8zFS9GLkPWlTnVX0n7b) | 3:51 |
 | 18 | [Ease Up](https://open.spotify.com/track/3qEAjqlxlh0L8Xvd1LNj4M) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Black Out \- The 1st Mini Album](https://open.spotify.com/album/2QjGuxIooOrv113vp3PAwf) | 2:50 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 37 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 38 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcEaPAAAAAApclC87VWqidwRiAMGKICH`
+Snapshot ID: `AcEfyAAAAAD6UV6LxPyIXqb1Jcqrv4Tj`

@@ -25160,7 +25160,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -27082,7 +27082,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -30824,7 +30824,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -51576,7 +51576,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 163000,
       "name": "Zlat\u00e1 karta",
       "url": "https://open.spotify.com/track/0SyLfxMFeHyiLrFQUDtvgM"
@@ -52548,6 +52548,24 @@
     {
       "album": {
         "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/2anHhnGcRaPfLbcESOmuc7"
+      },
+      "artists": [
+        {
+          "name": "MysticDreamer",
+          "url": "https://open.spotify.com/artist/11S3qVIWD9uwJ1MnBQwYfV"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/6YY8y3YF9XvOkdaJ5TFb9k"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
         "url": "https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL"
       },
       "artists": [
@@ -52558,7 +52576,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 96001,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"

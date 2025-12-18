@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "I successi di Carla Boni",
+        "url": "https://open.spotify.com/album/5iQDowbRw3l2FORnZBj73n"
+      },
+      "artists": [
+        {
+          "name": "Carla Boni",
+          "url": "https://open.spotify.com/artist/2J7iEpAkPqe41okCsm4Ja5"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "Acquerello napoletano",
+      "url": "https://open.spotify.com/track/4Pr8sMtLizOCKtAslU7f4N"
+    },
+    {
+      "album": {
         "name": "Carla Boni con Angelini",
         "url": "https://open.spotify.com/album/55jSs8KhXVChUs430bgkez"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 188035,
       "name": "Acquerello Napoletano",
       "url": "https://open.spotify.com/track/4J1fAfXhkKmFb7n66dgodJ"
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 178386,
       "name": "Begin The Beguine - Versi\u00f3n Alternativa",
       "url": "https://open.spotify.com/track/5b0sXfcHJQESX3cqzNlS1C"
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 178386,
       "name": "Beguin The Beguin",
       "url": "https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 119106,
       "name": "Come Along With Me",
       "url": "https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 119173,
       "name": "Come Along with Me",
       "url": "https://open.spotify.com/track/39cAmciNkzB7L2HueHCqAv"
@@ -3156,7 +3174,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 176000,
       "name": "Find Me a Primitive Man (feat. the Colonial Club Orchestra)",
       "url": "https://open.spotify.com/track/1DjI0r0argzbW9d9zRWsWe"
@@ -3938,7 +3956,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 171120,
       "name": "Hot-House Rose",
       "url": "https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF"
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 171686,
       "name": "Hot-House Rose",
       "url": "https://open.spotify.com/track/56L2eKVuAaPkzLJxf7zF70"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 9 hr 8 min
+181 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,13 +59,14 @@
 | [Drei Uhr Nachts](https://open.spotify.com/track/6NMA5MsBDOqwQuVT3IbwNj) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [MUSKETIERE](https://open.spotify.com/album/0EbLUbzQzBFpAbyGjfDnAE) | 2:40 | 2024-01-29 |  |
 | [Drop It Down](https://open.spotify.com/track/7oHdGobTs66dcu7lA4TEWd) | [MALUGI](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6) | [Drop It Down](https://open.spotify.com/album/6B8cJuwQEZFN0jmxs7X5EF) | 2:12 | 2024-02-27 |  |
 | [Drunk On You](https://open.spotify.com/track/25HWrN7rPVMy7r7JlYZvsC) | [Zookeepers](https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC) | [Drunk On You](https://open.spotify.com/album/7oAvImtminoHsBgJFgKgCd) | 3:28 | 2024-01-29 |  |
-| [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 | 2025-11-13 |  |
+| [Du Fehlst Hier](https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Du Fehlst Hier](https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2) | 2:49 | 2025-11-13 | 2025-12-18 |
+| [Du Fehlst Hier](https://open.spotify.com/track/5qD7oqZsxQ7JPSB4LE6EK8) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Halbzeit](https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5) | 2:49 | 2025-12-17 |  |
 | [Dye My Hair](https://open.spotify.com/track/6iOeQNXb0fFP3TDCzVPts8) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:27 | 2024-01-29 |  |
 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 | 2024-01-29 |  |
 | [Einfach](https://open.spotify.com/track/4AsCLebVfa8IMmrUfG3VF7) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:24 | 2024-01-29 |  |
 | [End Of Summer](https://open.spotify.com/track/5WwYpTV8EzS7kZroKoseeT) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [End Of Summer](https://open.spotify.com/album/0YljhV1EY8OEGvIUexadPW) | 3:34 | 2024-01-29 |  |
 | [Et voilà \- Aus Sing meinen Song, Vol\. 7](https://open.spotify.com/track/5KgO77fFcPz4dLvuATJaJo) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/62lOkmFDHhhMcaYrolIJVF) | 3:24 | 2024-01-29 |  |
-| [Et Voilà \- Single Version](https://open.spotify.com/track/18qSU7tip6OICrRexkTWDI) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Et Voilà](https://open.spotify.com/album/2UMly7hyu2Yp6nEjfexhUD) | 3:12 | 2024-01-29 |  |
+| [Et Voilà \- Single Version](https://open.spotify.com/track/18qSU7tip6OICrRexkTWDI) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Et Voilà](https://open.spotify.com/album/2UMly7hyu2Yp6nEjfexhUD) | 3:12 | 2024-01-29 | 2025-12-18 |
 | [Fahrrad](https://open.spotify.com/track/2fnB0RA5PObYJW3M1djHg1) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei](https://open.spotify.com/album/5pKFqWVE4YFUINqUeRPypU) | 3:05 | 2024-01-29 |  |
 | [Falsche Helden](https://open.spotify.com/track/6y2X2xdJajRaJrrheIxqUs) | [Liquit Walker](https://open.spotify.com/artist/0YNzU2wAec5bWsn3eQgB7q) | [Trümmerkönig](https://open.spotify.com/album/7g7FlU71zkw5T6MWQyh92g) | 3:45 | 2025-01-09 | 2025-04-12 |
 | [Finger auf die Lippen](https://open.spotify.com/track/7c9jHNrmnzs9SJjDd2zfvi) | [YAENNIVER](https://open.spotify.com/artist/62yGrNS5EcrAnBVlDtlBEw) | [NACKT](https://open.spotify.com/album/2VCBmTgQym5OlZ9LxEs2AU) | 2:57 | 2025-01-09 | 2025-04-12 |

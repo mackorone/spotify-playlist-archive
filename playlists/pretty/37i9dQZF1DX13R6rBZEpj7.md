@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,744 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,785 likes - 68 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 29 | [I Wanna Feel](https://open.spotify.com/track/12ZH1XMqc7f9bGbVKawv47) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [I Wanna Feel](https://open.spotify.com/album/21JGUmeznYAUfMYEzcmehG) | 2:04 |
 | 30 | [Eskimo](https://open.spotify.com/track/78FRJd1KwrS9YVCoSunbsv) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN), [Kast](https://open.spotify.com/artist/6WLAalXCIN6c4BTXBGIe18), [Hyperactive World](https://open.spotify.com/artist/1cD4j4ONkF6a7wHQH1HxmJ) | [Eskimo](https://open.spotify.com/album/1Y0kZHSeN822nNHFHd6gIg) | 2:12 |
 | 31 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 |
-| 32 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 |
-| 33 | [Talk That Talk](https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Talk That Talk](https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ) | 2:19 |
+| 32 | [Talk That Talk](https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Talk That Talk](https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ) | 2:19 |
+| 33 | [P.S 2023 \(Bassline Remix\)](https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt) | [Burgaboy](https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda), [Lauren Mason](https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh) | [P.S Remix \(2023\)](https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft) | 3:24 |
 | 34 | [I Only Smoke When I Drink \- Badger Remix](https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 2:11 |
 | 35 | [Watch The Skank](https://open.spotify.com/track/49zk3dTYmYjtXK6UnG18Er) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Tempa T](https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq) | [Watch The Skank](https://open.spotify.com/album/01CQfqMHQFq4S0ogijNGwJ) | 3:01 |
 | 36 | [Front to Back](https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Front to Back](https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3) | 2:27 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 64 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
 | 65 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 | 66 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
-| 67 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
-| 68 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
+| 67 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
+| 68 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
 
 Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

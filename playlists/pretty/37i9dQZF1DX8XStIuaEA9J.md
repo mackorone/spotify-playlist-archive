@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: こっちのけんと
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,963 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,960 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 13 | [偉生人](https://open.spotify.com/track/3g1Ca8PPhR4FBN6a66wkyq) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [偉生人](https://open.spotify.com/album/63x5RuS6pMjBokIF7E7qBw) | 3:28 |
 | 14 | [僕だけの矛盾](https://open.spotify.com/track/0JbdUM8Bx8ax24Q50EHzB4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [僕だけの矛盾](https://open.spotify.com/album/2H2lOVsdIvonip4PmKqFfW) | 4:14 |
 | 15 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 |
-| 16 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [](https://open.spotify.com/album/null) | 4:33 |
+| 16 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
 | 17 | [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 |
 | 18 | [サンタさんへ。](https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [サンタさんへ。](https://open.spotify.com/album/335QvsExORHN7FSMC2xxOs) | 3:55 |
 | 19 | [Future In My Pocket \- feat\. TAIKI \(STARGLOW\), GOICHI \(STARGLOW\)](https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP), [GOICHI](https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr) | [Success Is The Best Revenge](https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe) | 2:48 |

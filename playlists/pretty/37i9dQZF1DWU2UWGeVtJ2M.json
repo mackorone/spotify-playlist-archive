@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168243,
+  "num_followers": 168251,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 185991,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 169273,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 185991,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 216524,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 216524,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
-        "name": "Fair",
-        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-      },
-      "artists": [
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 184012,
-      "name": "Fair",
-      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
         "name": "It's Not This",
         "url": "https://open.spotify.com/album/5XbxaUEQQ7jTJ5zBa19pjY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190769,
       "name": "It's Not This",
       "url": "https://open.spotify.com/track/12ZC7GrMQNo6xXJdN89d8P"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
+        "name": "Fair",
+        "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 184012,
+      "name": "Fair",
+      "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 216961,
       "name": "What About Me (feat. Sosamann)",
       "url": "https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
+      },
+      "artists": [
+        {
+          "name": "Beauty's Confusion",
+          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
+        }
+      ],
+      "duration_ms": 294186,
+      "name": "Moments Like These",
+      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
-      },
-      "artists": [
-        {
-          "name": "Beauty's Confusion",
-          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
-        }
-      ],
-      "duration_ms": 294186,
-      "name": "Moments Like These",
-      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
         "name": "Wave002",
         "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 167766,
       "name": "Free Form",
       "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
+        "name": "Scarlet Lamb",
+        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "duration_ms": 253417,
+      "name": "Reckless Sensation",
+      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 199680,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
-        "name": "Scarlet Lamb",
-        "url": "https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3"
-      },
-      "artists": [
-        {
-          "name": "yun\u00e8 pinku",
-          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
-        }
-      ],
-      "duration_ms": 253417,
-      "name": "Reckless Sensation",
-      "url": "https://open.spotify.com/track/0IrQ7lMoICf8rBCho8ZMgK"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
+        "name": "Acchordance",
+        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
+      },
+      "artists": [
+        {
+          "name": "Doctor Flake",
+          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
+        },
+        {
+          "name": "Malika",
+          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
+        }
+      ],
+      "duration_ms": 276154,
+      "name": "Lonely Road",
+      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
         "name": "Luster",
         "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
       },
@@ -1495,26 +1515,6 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
-        "name": "Acchordance",
-        "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
-      },
-      "artists": [
-        {
-          "name": "Doctor Flake",
-          "url": "https://open.spotify.com/artist/5DZr9dQj9KPd62WuMeIPqK"
-        },
-        {
-          "name": "Malika",
-          "url": "https://open.spotify.com/artist/4kEd51gggillWwuzr1rpM6"
-        }
-      ],
-      "duration_ms": 276154,
-      "name": "Lonely Road",
-      "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1527,22 +1527,6 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
     },
     {
       "added_at": "2025-12-15 02:42:56",
@@ -1587,6 +1571,42 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
+        "name": "Emo Regulation",
+        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Ydegirl",
+          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Spirals On My Tongue",
+      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
         "name": "Build",
         "url": "https://open.spotify.com/album/6ASizE9wRKuBUsgARpMrkh"
       },
@@ -1627,42 +1647,6 @@
     {
       "added_at": "2025-12-15 02:42:56",
       "album": {
-        "name": "Emo Regulation",
-        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
-      },
-      "artists": [
-        {
-          "name": "RIP Swirl",
-          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
-        },
-        {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Spirals On My Tongue",
-      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "honeymoon - Spotify Singles",
-      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
-    },
-    {
-      "added_at": "2025-12-15 02:42:56",
-      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2025-12-15 02:42:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
     },
     {
       "added_at": "2025-12-15 02:42:56",

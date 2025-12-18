@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 368316,
+  "num_followers": 368354,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAABQRGqOwUQlFPbVNlQeZD9v",
+  "snapshot_id": "aUChAAAAAAB2CqiAnFB8TjpuyGziL1Sg",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "Mar y Arena",
-      "url": "https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 208946,
       "name": "Hechizo",
       "url": "https://open.spotify.com/track/3BrrnpQ2p1WeXmtNYs5b0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "Mar y Arena",
+      "url": "https://open.spotify.com/track/1HbyxkzMjXKIuyiZ5Xn4nB"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Canta A Mexico",
-        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Voy a Ser",
-      "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dulce y Salado",
         "url": "https://open.spotify.com/album/1nliaUsH6tH6XRbmH9wsKF"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 213586,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/3BsrquAE2Ht4J10yTzniEs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Reina Canta A Mexico",
+        "url": "https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Voy a Ser",
+      "url": "https://open.spotify.com/track/0WaCinH2B4I2m2XuM5ULKM"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Propuesta - En Vivo - Remasterizado",
-      "url": "https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 206746,
       "name": "Yo Te Perdono",
       "url": "https://open.spotify.com/track/4Q7BUP4smQmQV6gSDOcMjW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Propuesta - En Vivo - Remasterizado",
+      "url": "https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ"
     }
   ],
   "unique_name": "This Is Ana Gabriel",

@@ -4,7 +4,7 @@
 
 > All your favorite Disney hits, including classics from Encanto, Descendants, Frozen, Mufasa: The Lion King, and Lilo & Stitch.
 
-261 songs - 13 hr 18 min
+262 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:30 | 2022-07-22 | 2024-07-11 |
 | [Zero To Hero](https://open.spotify.com/track/4InER8nvZnn3nt56anVVNO) | [Chorus \- Hercules](https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Roz Ryan](https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Tawatha Agee](https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7z46fPkl9344yv05HT1Uoq) | 2:20 | 2022-04-01 | 2022-07-29 |
 | [Zero To Hero](https://open.spotify.com/track/4zDfgax6Ihb0UWdour1ZEs) | [Chorus \- Hercules](https://open.spotify.com/artist/2pLvZNFSNqj5ggB8cPK7ki), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Roz Ryan](https://open.spotify.com/artist/66mvEj9XSF89tUj87Y3HDu), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Tawatha Agee](https://open.spotify.com/artist/26j9y8Rq679tININ1Mt4ZV), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 2:20 | 2022-07-22 |  |
-| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-10-10 |  |
+| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-17 |  |
+| [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-10-10 | 2025-12-18 |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

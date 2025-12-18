@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 72476,
+  "num_followers": 72638,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAAw0/uZqv0D+Zi7Q00q3CIw",
+  "snapshot_id": "aUChAAAAAACgog+XZiGlvrdwv4LukRZG",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+      "duration_ms": 122266,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 122266,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Primetime",
+      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 226063,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Primetime",
-      "url": "https://open.spotify.com/track/59KVCenC1HM8IXeHmY19nK"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Badu Flow",
+      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Orange Tape",
         "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 107520,
       "name": "Microwave",
       "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Badu Flow",
-      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 136098,
-      "name": "Safehouse",
-      "url": "https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Stepper",
         "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 130774,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 136098,
+      "name": "Safehouse",
+      "url": "https://open.spotify.com/track/260XeZ5B5iyXTxVmSpks4K"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "I Hope You're Happy (feat. Darius Rucker)",
-      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BIGGEST",
         "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 163715,
       "name": "'02 Lakers (feat. Ro$ama)",
       "url": "https://open.spotify.com/track/04IDH5UZTNO5RdWpPwebnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "I Hope You're Happy (feat. Darius Rucker)",
+      "url": "https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Long Nights (feat. Thomas Rhett)",
-      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BIGGEST",
         "url": "https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 170106,
       "name": "Climate (feat. Offset)",
       "url": "https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Long Nights (feat. Thomas Rhett)",
+      "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

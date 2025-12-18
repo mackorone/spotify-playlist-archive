@@ -4,7 +4,7 @@
 
 > This is Stevie Nicks\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 37 min
+65 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Crystal](https://open.spotify.com/track/6wZaKZs7XsMzAOu9yp8dUN) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 5:57 | 2025-03-08 |  |
 | [Django](https://open.spotify.com/track/7fAXIDhI8ZZ0toKSQnjkCO) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Buckingham Nicks](https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv) | 1:02 | 2025-09-21 | 2025-11-16 |
 | [Don't Let Me Down Again](https://open.spotify.com/track/1oi6TYjH4KGNSEJ8vxHZCR) | [Buckingham Nicks](https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Don't Let Me Down Again](https://open.spotify.com/album/3YPEsq0WJuPWPNngxVYniJ) | 3:51 | 2025-08-15 | 2025-10-06 |
-| [Dreams \(with Deep Dish\)](https://open.spotify.com/track/6ztHD7TBXLxAaPxJ3sO8a4) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 4:39 | 2025-03-08 |  |
+| [Dreams \(with Deep Dish\)](https://open.spotify.com/track/6ztHD7TBXLxAaPxJ3sO8a4) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Crystal Visions...The Very Best of Stevie Nicks](https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL) | 4:39 | 2025-03-08 | 2025-12-18 |
+| [Dreams \- Album Mix](https://open.spotify.com/track/7sAnK4CFoiYmJRGiAF00xs) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [George Is On](https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT) | 4:39 | 2025-12-18 |  |
 | [Edge of Midnight \(Midnight Sky Remix\) \(feat\. Stevie Nicks\)](https://open.spotify.com/track/1Tip6R4swhC7E6hgILBjrE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:40 | 2025-03-08 |  |
 | [Edge of Seventeen](https://open.spotify.com/track/3OeHBpJwMsIGcdumxCtzte) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Timespace \- The Best Of Stevie Nicks](https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB) | 5:27 | 2025-03-08 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 | 2025-03-08 |  |

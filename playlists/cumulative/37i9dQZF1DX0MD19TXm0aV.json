@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: EAZ",
+  "description": "Switzerland's biggest hits right now. Cover: Tame Impala",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -2451,6 +2451,28 @@
     },
     {
       "album": {
+        "name": "Aura X G-wave",
+        "url": "https://open.spotify.com/album/19oWIQY8EuiAaxbS7Atbga"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141389,
+      "name": "G\u00e9n\u00e9ration impolie",
+      "url": "https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk"
+    },
+    {
+      "album": {
         "name": "Happy Here",
         "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
       },
@@ -3106,7 +3128,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 209076,
       "name": "Lamine",
       "url": "https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ"
@@ -5061,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "REQUIEM",
+        "url": "https://open.spotify.com/album/11kuHYchPFBUAsGHDWDbsu"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "SIERRA LEONE",
+      "url": "https://open.spotify.com/track/0MsHYntRES1QW1VtuhfdUk"
+    },
+    {
+      "album": {
         "name": "Sigma Boy (\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439)",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
       },
@@ -5156,7 +5196,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 204664,
       "name": "Soleil levant",
       "url": "https://open.spotify.com/track/0vb64YtrfDaYRoUopAkQw9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! &lt;3
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,192 likes - 97 songs - 4 hr 51 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,191 likes - 98 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 95 | [More](https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Zans](https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x) | [More](https://open.spotify.com/album/3UA4zhPsqRHungaY4m9hp3) | 2:38 |
 | 96 | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/track/0AYCnIKzZirVfRWMsJBiXf) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/album/768XqVjukIkYWblWNq4WAa) | 2:56 |
 | 97 | [Happy New Year \(feat\. Love Harder\) \- Takis Remix](https://open.spotify.com/track/4WASHXk0rOyvyJwRXLRxDH) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Happy New Year \(feat\. Love Harder\) \[Takis Remix\]](https://open.spotify.com/album/6Nwo5ElKMCkMwhoeDVrNYZ) | 3:05 |
+| 98 | [Falling Forever](https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Falling Forever](https://open.spotify.com/album/7c78ZXT2DkAeYmvsurQl9u) | 2:38 |
 
-Snapshot ID: `AAALBc+OQ7DSzKt549lqIGp3gwkQjUrj`
+Snapshot ID: `AAALBg92f0kRNCGvdUYqXQMiOSNya2aU`

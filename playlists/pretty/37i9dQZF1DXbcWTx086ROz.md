@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain]
 
 > Dive into '00s nostalgia with these iconic videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267 likes - 22 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 22 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcWTx086ROz.md) - [plain]
 | 21 | [Fireflies](https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes](https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS) | 3:48 |
 | 22 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
 
-Snapshot ID: `AAAAAFY8Mw7ZupFucPev/8EkXIgfuF9X`
+Snapshot ID: `AAAAAHRAg5JvMSMJefbFzTygbQnz6bX0`

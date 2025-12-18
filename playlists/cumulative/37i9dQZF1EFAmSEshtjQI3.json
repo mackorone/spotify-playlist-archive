@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Cualquiera",
+        "url": "https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211169,
+      "name": "Cualquiera",
+      "url": "https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN"
+    },
+    {
+      "album": {
         "name": "Si Te Soy M\u00e1s Sincera",
         "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 211169,
       "name": "Cualquiera",
       "url": "https://open.spotify.com/track/4Eg9hFB7IyPX5o8bzVCY7B"
@@ -328,6 +346,24 @@
       "duration_ms": 152413,
       "name": "Fui Lo Que Soy",
       "url": "https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn"
+    },
+    {
+      "album": {
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32000,
+      "name": "Interludio",
+      "url": "https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh"
     },
     {
       "album": {
@@ -668,6 +704,24 @@
     {
       "album": {
         "name": "Si Te Soy M\u00e1s Sincera",
+        "url": "https://open.spotify.com/album/6WXESBAoeujrFeIigHNL5w"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/3ncIYCJwMwDr3utfwl0SXy"
+    },
+    {
+      "album": {
+        "name": "Si Te Soy M\u00e1s Sincera",
         "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
       },
       "artists": [
@@ -678,7 +732,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5"

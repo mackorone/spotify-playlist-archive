@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-118 songs - 5 hr 30 min
+119 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [TIK TAK](https://open.spotify.com/track/4VCZQcDUZhRWpothRqqI7A) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [TIK TAK](https://open.spotify.com/album/4ClBHOlRXu010U7o5jdnQ3) | 2:49 | 2024-01-29 |  |
 | [Timer](https://open.spotify.com/track/4Yl58FfvAErT4p7fLTJUsh) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg) | [Timer](https://open.spotify.com/album/1Rv2Nfm9uDn5G3g4sXqYfq) | 2:01 | 2024-01-29 |  |
 | [Trap Phone \(feat\. Caza\)](https://open.spotify.com/track/3lZOPG6RD2hgFJimX0YK5z) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 3:02 | 2024-01-29 |  |
+| [TUTU](https://open.spotify.com/track/2oUnwTaoc2fcyunjJqpGYF) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TUTU](https://open.spotify.com/album/0UUKnRb8XZFEgB9gEpUXvM) | 2:18 | 2025-12-17 |  |
 | [Twerk](https://open.spotify.com/track/0adPF4B9G5KhKY2m4zc5m7) | [Fabiola](https://open.spotify.com/artist/6CA2eS7cImKROD1MxahLgU) | [Stripper Body](https://open.spotify.com/album/7r1U399vMcdRfuJeikDLcB) | 1:57 | 2024-01-29 |  |
 | [Undress](https://open.spotify.com/track/10UALmShvACDGdJyeYIVKf) | [Dyna](https://open.spotify.com/artist/0icP5fTpaY52Ll9QHNRrFT), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Chase](https://open.spotify.com/artist/1hFYYkuhPdOjsSG8rs2u4u) | [Undress](https://open.spotify.com/album/5b4uCmM1uSQiZpgn99PN63) | 2:54 | 2024-01-29 | 2025-09-05 |
 | [Verrader](https://open.spotify.com/track/41ftob2dyXVwsrC3Q5oNIq) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Verrader](https://open.spotify.com/album/3LxnX0bz2R5b5CWsUE3PN6) | 2:42 | 2024-02-27 |  |

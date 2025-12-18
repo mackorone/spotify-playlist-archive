@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-212 songs - 10 hr 32 min
+213 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Him](https://open.spotify.com/track/50XKj7DDE5cFGpV6z90SD9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:40 | 2022-11-04 | 2022-12-20 |
 | [History](https://open.spotify.com/track/1NGOnyxsMjFJ2TOttcjMQV) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:46 | 2022-10-28 | 2022-12-05 |
 | [hmm…BD](https://open.spotify.com/track/0BJxFuVQIxaeAezRErWGHr) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [hmm…BD](https://open.spotify.com/album/04sMVbbQ24aeuHtIaplR8z) | 2:59 | 2024-07-08 | 2024-09-11 |
-| [Hold My Hand \(Bonus\)](https://open.spotify.com/track/52gy4DU9VxOh487XDNM4q6) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 2:45 | 2025-11-18 |  |
+| [Hold My Hand \(Bonus\)](https://open.spotify.com/track/52gy4DU9VxOh487XDNM4q6) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb \(Extended\)](https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi) | 2:45 | 2025-11-18 | 2025-12-18 |
 | [Honestly \(feat\. Juice WRLD\)](https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Swervo](https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE) | 3:34 | 2022-10-28 |  |
 | [Hood Cycle \(Bonus\)](https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:39 | 2022-10-28 | 2025-04-19 |
 | [Hot Summer \(feat\. G Herbo\)](https://open.spotify.com/track/66F8wUZW98EOg0CfSa6ILI) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:57 | 2022-10-28 | 2022-12-02 |
@@ -124,6 +124,7 @@
 | [No Te Veo](https://open.spotify.com/track/2iUb6SjtowOleA5KrKvjdh) | [Amaru Cloud](https://open.spotify.com/artist/06ezMzQs6hP65feMAjteNY), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [No Te Veo](https://open.spotify.com/album/0wT5Pk945dl41rZGzS7J04) | 2:26 | 2023-06-05 | 2023-09-16 |
 | [Nosey](https://open.spotify.com/track/7aXyHLZlfVYtkSuSeYdbMB) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Nosey](https://open.spotify.com/album/7tUFeoopazwZiMSjfi8Z6i) | 1:48 | 2024-10-05 | 2024-11-13 |
 | [Nothin](https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 2:52 | 2024-11-03 | 2024-12-08 |
+| [Nu Devils](https://open.spotify.com/track/05LERuwwJC1kG4r9THLAah) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [You Can't Kill God With Bullets](https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG) | 5:21 | 2025-12-18 |  |
 | [Off Days](https://open.spotify.com/track/5DqzcJHpURu7rq5uUj5ce4) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:21 | 2023-04-30 | 2023-05-18 |
 | [On Yo Ass](https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 2:37 | 2022-10-28 |  |
 | [One Blood](https://open.spotify.com/track/1crTP3xQj3Z7ipjSDmIlXR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:08 | 2025-04-12 | 2025-08-05 |

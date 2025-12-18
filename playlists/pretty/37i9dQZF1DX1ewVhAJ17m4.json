@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Yellowcard",
-  "num_followers": 599302,
+  "num_followers": 599335,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Get A Job",
         "url": "https://open.spotify.com/album/4J4wfSzNBR5hBABl1dgcYG"
       },
@@ -1339,18 +1323,34 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "REACHING FOR THE SKY",
-        "url": "https://open.spotify.com/album/5u5UM6N0ydEZD7A3rB2RPo"
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
       },
       "artists": [
         {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 235900,
-      "name": "REACHING FOR THE SKY",
-      "url": "https://open.spotify.com/track/5Ow6O5uZGEiCcaYi980V3N"
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "third degree",
+        "url": "https://open.spotify.com/album/21DyQCFJhDNPIzX4HB79kH"
+      },
+      "artists": [
+        {
+          "name": "davvn",
+          "url": "https://open.spotify.com/artist/1QF0qdoDTPGn3h3zl3YIpT"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "third degree",
+      "url": "https://open.spotify.com/track/2tAvRoEE2g5IukKQlHhdvm"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

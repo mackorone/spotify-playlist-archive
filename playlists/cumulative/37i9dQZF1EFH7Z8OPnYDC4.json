@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 115680,
       "name": "A Wonderful Guy",
       "url": "https://open.spotify.com/track/6QcTbqnjImEsi8Qa0VxB6d"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 115696,
       "name": "A Wonderful Guy",
       "url": "https://open.spotify.com/track/7DKjnQH7yeCUPXX88Hh12p"
@@ -6018,7 +6018,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 195440,
       "name": "Ten Cents a Dance",
       "url": "https://open.spotify.com/track/3VdeI5BS6OVO9K28zG6KoW"
@@ -6036,7 +6036,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 195466,
       "name": "Ten Cents a Dance",
       "url": "https://open.spotify.com/track/1I06bhpXDt43BoVkRrwD8g"
@@ -6619,6 +6619,36 @@
     },
     {
       "album": {
+        "name": "The Sound of Music (Original Broadway Cast 1959)",
+        "url": "https://open.spotify.com/album/21s4nbxQDUTDgqvpFewP0k"
+      },
+      "artists": [
+        {
+          "name": "Mark Hellinger Theatre Orchestra",
+          "url": "https://open.spotify.com/artist/27ARc5Svme0s5yXIuUnse6"
+        },
+        {
+          "name": "Frederick Dvonch",
+          "url": "https://open.spotify.com/artist/3PTEv5PB7Y60Xs26d5OE9f"
+        },
+        {
+          "name": "Mark Hellinger Theatre Cast Ensemble",
+          "url": "https://open.spotify.com/artist/1b9pnt4AsTyHWWQSenDTFG"
+        },
+        {
+          "name": "Mary Martin",
+          "url": "https://open.spotify.com/artist/5s5YiEevlFdOSFbJB0UBqw"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163049,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/1PSnRPPB8jxLwu6OyMplq3"
+    },
+    {
+      "album": {
         "name": "Peter Pan: The Original Soundtrack",
         "url": "https://open.spotify.com/album/393HwN4vEc4re8hw0NAW5G"
       },
@@ -6630,7 +6660,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 169466,
       "name": "The Sound of Music",
       "url": "https://open.spotify.com/track/17YYqSgjvlXlOlbEEeKLMO"

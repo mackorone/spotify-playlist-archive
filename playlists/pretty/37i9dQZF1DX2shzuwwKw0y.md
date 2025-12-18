@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Victor Valverde
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,461,767 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,461,712 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:44 |
+| 1 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:45 |
 | 2 | [El Del Palenque](https://open.spotify.com/track/7y9W0RzHm4UvCRmI2VFrG6) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [El Del Palenque](https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn) | 3:12 |
 | 3 | [M&M](https://open.spotify.com/track/3t72JCbFJ3syOhFC7x9Pa4) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 2:46 |
 | 4 | [DIOS POR DELANTE](https://open.spotify.com/track/2oh3rdSZ0fqQvqzid13VXr) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [DIOS POR DELANTE](https://open.spotify.com/album/4PBB0Wb7N36zvNXWmooaYu) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > The best country songs from new, independent artists in 2025, as chosen by our editors\. <br/>Cover:  Solon Holt, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,710 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,717 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

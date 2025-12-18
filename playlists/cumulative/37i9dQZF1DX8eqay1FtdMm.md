@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover: 태연\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Klozer, Danny Koo\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-624 songs - 1 day 16 hr 49 min
+625 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,9 +539,10 @@
 | [voKal\_Kim Kyung Ho](https://open.spotify.com/track/3ZljB1BOL6kHZU0O5gNn0w) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [v o K a l Audio Liners](https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f) | 0:03 | 2024-05-29 | 2024-06-06 |
 | [voKal\_Kim Kyung Ho](https://open.spotify.com/track/3EnUqfVZyac1sDXMN1Hshp) | [Kim Kyung Ho](https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl) | [v o K a l Audio Liners](https://open.spotify.com/album/7pZLUC0UxIdCEbbwUmtY1f) | 0:04 | 2024-05-29 | 2024-06-06 |
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-12 | 2024-02-21 |
+| [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH) | [Klozer](https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/album/2UE0mGldffDWffKQLNIDuQ) | 3:41 | 2025-12-18 |  |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 | 2025-10-03 |
 | [Walking Slowly](https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Faith OST](https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd) | 4:27 | 2022-04-01 | 2023-10-11 |
-| [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 |  |
+| [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 | 2021-12-20 | 2025-12-18 |
 | [We Are Broken Up](https://open.spotify.com/track/5B2Ly3nOWf6MCb5yRxBX9O) | [Lim Sa Rang](https://open.spotify.com/artist/5fRgaatTAoOJk24oK86Bjo) | [We Are Broken Up](https://open.spotify.com/album/4N43CJ7mRyOu38sw4f4ioh) | 3:27 | 2022-08-18 | 2022-10-06 |
 | [We Should've Been Friends](https://open.spotify.com/track/6UHNQXx91lUEULQty8XgJR) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [We Should've Been Friends](https://open.spotify.com/album/1hV0jEXi9ZEtwSoUkv1wgv) | 4:31 | 2022-04-21 | 2022-06-28 |
 | [What If](https://open.spotify.com/track/6K39bcks5wn5oCtTGl6UCf) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [What If](https://open.spotify.com/album/0IXJjQbwEaAx1asY1fWiVR) | 4:32 | 2023-05-03 | 2023-07-12 |

@@ -4,7 +4,7 @@
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 29 min
+94 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [CONFIO](https://open.spotify.com/track/2fHTORsrb3R6bc3LeNVynN) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [PADRIM](https://open.spotify.com/album/2nVbPjjv5bDVVbetaBBVZC) | 3:36 | 2023-12-30 |  |
 | [Disco](https://open.spotify.com/track/2vORCqoVPhttMKn1qvun2g) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Condessa](https://open.spotify.com/album/56GC33MRAGNUmiZ2gDulgf) | 2:14 | 2023-12-30 | 2024-04-19 |
 | [Disco](https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:14 | 2024-04-19 |  |
+| [Dona de Casa](https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Dona de Casa](https://open.spotify.com/album/59YfQZNocygHKxxJ7DEaAQ) | 1:08 | 2025-12-18 |  |
 | [ELAS PINTAM](https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [ELAS PINTAM](https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7) | 3:14 | 2023-12-30 |  |
 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 | 2023-12-30 | 2025-11-28 |
 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/6CEo5VbkRxIZdZMQfq0uz9) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/4iRuZbXWns0pQx1hpb5Baj) | 3:31 | 2025-11-28 |  |

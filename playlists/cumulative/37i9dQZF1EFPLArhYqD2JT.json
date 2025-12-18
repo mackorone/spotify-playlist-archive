@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 199226,
       "name": "For the Very First Time",
       "url": "https://open.spotify.com/track/0PCqGHk6i8ddceCHgLf2TG"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 199273,
       "name": "For the Very First Time",
       "url": "https://open.spotify.com/track/03X4gm8MbeUclQFjEa9Ked"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 166933,
       "name": "He's a Devil in His Own Home Town",
       "url": "https://open.spotify.com/track/30RH4nNxfOLRoksilPwIgM"
@@ -2376,7 +2376,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 166948,
       "name": "He's a Devil In His Own Home Town (Recorded 1914)",
       "url": "https://open.spotify.com/track/2bBWFa7vnwhixRaTmsG2Io"
@@ -2468,6 +2468,24 @@
     {
       "album": {
         "name": "1917-36",
+        "url": "https://open.spotify.com/album/3jgqADR5t7Fr7OLlnxAsbE"
+      },
+      "artists": [
+        {
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163160,
+      "name": "Home Again Blues (Introducing \"Lindy\")",
+      "url": "https://open.spotify.com/track/6APp76TyLWKQXehxz5EuM2"
+    },
+    {
+      "album": {
+        "name": "1917-36",
         "url": "https://open.spotify.com/album/0g0gji3OCW8pwChWytqc9s"
       },
       "artists": [
@@ -2478,7 +2496,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 165893,
       "name": "Home Again Blues (Introducing \"Lindy\")",
       "url": "https://open.spotify.com/track/0P6JBQG2e4EuRuWlCbm5eb"
@@ -2702,7 +2720,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 197280,
       "name": "I Can't Remember",
       "url": "https://open.spotify.com/track/0KdlDVIvKgT5cFLE58IVLM"
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 197320,
       "name": "I Can't Remember",
       "url": "https://open.spotify.com/track/3kJZbWkmO6T6x04M7kHsh7"
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 178653,
       "name": "I'll See You in C-U-B-A",
       "url": "https://open.spotify.com/track/5DuLXthSYkYfd7y7h5kSg4"
@@ -3559,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Echoes from the 1920s",
+        "url": "https://open.spotify.com/album/15oWeIGC2r5MsswmDHCvda"
+      },
+      "artists": [
+        {
+          "name": "Billy Murray",
+          "url": "https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178700,
+      "name": "I`ll See You In C-U-B-A",
+      "url": "https://open.spotify.com/track/6vOGNoROmFnQZ369cBghpk"
+    },
+    {
+      "album": {
         "name": "Die Welt des Musicals",
         "url": "https://open.spotify.com/album/4erDphekf2vDX0N3JeXtZF"
       },
@@ -3846,7 +3882,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 169640,
       "name": "It All Belongs to Me",
       "url": "https://open.spotify.com/track/7snLfaheB7IZMBcjR2pf1R"
@@ -3864,7 +3900,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 169667,
       "name": "It All Belongs to Me (Recorded 1927)",
       "url": "https://open.spotify.com/track/2wdPgsaTQTN9zcRKiuKG2F"
@@ -6696,7 +6732,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 405019,
       "name": "Suite - Annie Get Your Gun",
       "url": "https://open.spotify.com/track/37Oyzi88xRp83vA5CgiRKK"
@@ -7840,7 +7876,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 177093,
       "name": "They Were All Out of Step But Jim",
       "url": "https://open.spotify.com/track/2tLjzmjTjSD2VDRT3HIurc"
@@ -7876,7 +7912,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 177084,
       "name": "They Were All Out of Step But Jim (World War 1) [Recorded 1918]",
       "url": "https://open.spotify.com/track/3ahMxjkWRiCzBDfTlGg2MN"
@@ -8740,7 +8776,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-09",
+      "date_removed": null,
       "duration_ms": 229760,
       "name": "Whisper It",
       "url": "https://open.spotify.com/track/0LTQ7Ck8YvmTWnzeankYSZ"
@@ -9092,7 +9128,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 218359,
       "name": "You Can't Get a Man with a Gun",
       "url": "https://open.spotify.com/track/0cNqWJwgj4VEBMq6CcAzDl"
@@ -9154,7 +9190,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 218738,
       "name": "You Can't Get a Man with a Gun",
       "url": "https://open.spotify.com/track/6H40h72CS63cZ3nhgtPsJ1"

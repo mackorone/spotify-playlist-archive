@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,586 likes - 311 songs - 16 hr 54 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,591 likes - 315 songs - 17 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,5 +319,9 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 309 | [Talking To Jesus](https://open.spotify.com/track/3910xJJOdR2Dgl4z73tBRk) | [Mr\. Frey](https://open.spotify.com/artist/24FXPv9FNWKUE0JKex6P5S) | [Talking To Jesus](https://open.spotify.com/album/4usI3DjcdoLXhkT7EymYpe) | 2:59 |
 | 310 | [Can't Stop Smiling](https://open.spotify.com/track/1kPfgvriOwem5fhgf4Q82V) | [Koko Marz](https://open.spotify.com/artist/5NjPSmnnxmBZL60TOGz3eY) | [Can't Stop Smiling](https://open.spotify.com/album/1zwxHfYJNZB8Plb7Wfp3Fu) | 2:57 |
 | 311 | [Tangled](https://open.spotify.com/track/2Hsr98aM6wikvSOuqb4fv9) | [A\-C Leonte](https://open.spotify.com/artist/5IbQeVtelOe0CyCTUrKWgt) | [Now to Now](https://open.spotify.com/album/0RjTXmsNVea4Jne0Vob5zI) | 4:10 |
+| 312 | [Come for You](https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Come for You](https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR) | 2:43 |
+| 313 | [Thought](https://open.spotify.com/track/0f0ZrkUkTHuacGAfINhShF) | [Childish X](https://open.spotify.com/artist/6s8bC9wfenuVk1QjX1Edz7) | [Thought](https://open.spotify.com/album/0VddMn6aynC0g9LBlyyj8c) | 2:10 |
+| 314 | [F OFF](https://open.spotify.com/track/1WUlN1rbPF7NyAFBAQiE7R) | [Lexi Algar](https://open.spotify.com/artist/1xkXyIA1x78HueOxnV67pE) | [F OFF](https://open.spotify.com/album/5luj2dJYcKx6tgoIVdbBh5) | 2:34 |
+| 315 | [Trust your light](https://open.spotify.com/track/32HkxQwRLlHeOObWb1sZpk) | [TwoNames](https://open.spotify.com/artist/2NVBsCklQDkpTijPfqqlLI) | [Trust your light](https://open.spotify.com/album/2Lt5jvum82KtNsrDGGKiwJ) | 4:59 |
 
-Snapshot ID: `AAAyoMNG15nBAXLHkz5irzpmRN2iT2l3`
+Snapshot ID: `AAAypCHZdRUhsud4DX+tAhusoONOBDal`

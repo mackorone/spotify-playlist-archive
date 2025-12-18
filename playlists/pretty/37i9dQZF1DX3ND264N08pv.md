@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,731 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,770 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 39 | [Paint It Black](https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Paint It Black](https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp) | 3:18 |
 | 40 | [Another Club Banger](https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Another Club Banger EP](https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd) | 4:21 |
 | 41 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
-| 42 | [Internet Hooligan](https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Internet Hooligan](https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ) | 2:17 |
-| 43 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
+| 42 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
+| 43 | [Internet Hooligan](https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Internet Hooligan](https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ) | 2:17 |
 | 44 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |
 | 45 | [Trip to Tortuga](https://open.spotify.com/track/0cfun8g45RZ32siq8LuaoA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Vernex](https://open.spotify.com/artist/5OaeD9pHLRaEXNf6qZtgmC), [Bassrunner](https://open.spotify.com/artist/2SjRurwyM0sEwhxk9YjWwU) | [Tripping with Dr\. Peacock](https://open.spotify.com/album/48YFvNNXY78tFt1Rwr8QUe) | 2:48 |
 | 46 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |

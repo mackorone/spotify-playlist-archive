@@ -2658,10 +2658,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 186973,
       "name": "Pull-Up",
       "url": "https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5"
+    },
+    {
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/6YGzNQqE7DjyJ0Q3RdhkKA"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Pull-Up",
+      "url": "https://open.spotify.com/track/1nxwzEdLLtvk3KmEwPdSnr"
     },
     {
       "album": {

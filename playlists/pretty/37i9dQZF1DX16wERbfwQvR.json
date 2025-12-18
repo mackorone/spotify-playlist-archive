@@ -1,6 +1,6 @@
 {
   "description": "Father of the symphony and string quartet, and teacher to both Mozart and Beethoven. This is Haydn.",
-  "num_followers": 87509,
+  "num_followers": 87531,
   "original_name": "This Is Haydn",
   "owner": {
     "name": "Spotify",
@@ -799,30 +799,6 @@
     {
       "added_at": "2025-09-15 14:00:13",
       "album": {
-        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
-        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
-      },
-      "artists": [
-        {
-          "name": "Joseph Haydn",
-          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 479681,
-      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
-      "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
-    },
-    {
-      "added_at": "2025-09-15 14:00:13",
-      "album": {
         "name": "Haydn: Masses",
         "url": "https://open.spotify.com/album/546Sw0Tal4QjDL77WH35T8"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 266066,
       "name": "Haydn: Mass in D Minor, Hob. XXII:11 \"Nelson Mass\": Kyrie",
       "url": "https://open.spotify.com/track/7k22R54vbVSv6QnPVLHjBW"
+    },
+    {
+      "added_at": "2025-09-15 14:00:13",
+      "album": {
+        "name": "Haydn: Symphonies Nos. 92, 93, & 97-99",
+        "url": "https://open.spotify.com/album/6MW6687ZuwLgLwbOJ9U5j3"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 479681,
+      "name": "Symphony No. 92 in G Major, Hob. 1:92 \"Oxford Symphony\": I. Adagio - Allegro spiritoso",
+      "url": "https://open.spotify.com/track/6su8WsxgKHN7wm93zIZQ7q"
     },
     {
       "added_at": "2025-09-15 14:00:13",

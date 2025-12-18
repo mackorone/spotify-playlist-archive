@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-236 songs - 13 hr 51 min
+237 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Strange Without You](https://open.spotify.com/track/3o3HcXTDlmO1mUDb2f6Zqb) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chill Executive Officer \(CEO\), Vol\. 8 \[Selected by Maykel Piron\]](https://open.spotify.com/album/2GWbdANbXBXg9uFBf6fAnc) | 3:33 | 2025-07-18 |  |
 | [Strangers](https://open.spotify.com/track/4yMHaZOLDSDSDrQDj5hr4D) | [Sam Wiseman](https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47), [ANDREWBATES](https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv) | [Strangers](https://open.spotify.com/album/1sjYj345gHTVjhelEKkR8S) | 3:02 | 2025-07-18 | 2025-09-05 |
 | [Subterranean \- Chill Mix](https://open.spotify.com/track/6T4v5vAdSRMJs3NsHbf1WE) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Armada Electronic Elements \- Essentials 2024](https://open.spotify.com/album/0wAAs3GYLNR21J1Ym4OxEG) | 3:04 | 2025-06-19 |  |
+| [Sun Is Shining \- Kato Remix](https://open.spotify.com/track/53Z3R7mfgRgMp92TgnYSAo) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A) | [Sun Is Shining \(Kato Remix\)](https://open.spotify.com/album/0bPSH8gHTb5LpJmJUmCh1W) | 3:06 | 2025-12-17 |  |
 | [Sunday](https://open.spotify.com/track/72hlIMZzH5uKjddm1BHqIl) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG) | [Circle Line](https://open.spotify.com/album/0tVzr7LmiN8OoWuRPcoCgx) | 3:58 | 2025-07-18 | 2025-09-05 |
 | [Sunrise](https://open.spotify.com/track/7CXD0SFVhMXi7z898a6fxs) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Sunrise](https://open.spotify.com/album/2gpx29vJMTMNlYxN9CIcsE) | 3:04 | 2025-06-19 |  |
 | [Sunset Drive](https://open.spotify.com/track/7zybSU9tFO9HNlwmGF7stc) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 3:54 | 2025-07-18 |  |

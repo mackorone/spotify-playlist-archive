@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 42957,
+  "num_followers": 42974,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,26 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Look To You (feat. Llona)",
+      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Look To You (feat. Llona)",
-      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2025-12-12 00:01:28",
@@ -1359,6 +1359,42 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
+        "name": "Gaslighting",
+        "url": "https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf"
+      },
+      "artists": [
+        {
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        }
+      ],
+      "duration_ms": 171748,
+      "name": "Gaslighting",
+      "url": "https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
         "name": "US",
         "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
       },
@@ -1395,26 +1431,6 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
-        "name": "Gaslighting",
-        "url": "https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf"
-      },
-      "artists": [
-        {
-          "name": "Lemon Adisa",
-          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
-        },
-        {
-          "name": "Lyta",
-          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
-        }
-      ],
-      "duration_ms": 171748,
-      "name": "Gaslighting",
-      "url": "https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 151788,
       "name": "Suns Out",
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 155094,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
     },
     {
       "added_at": "2025-12-12 00:01:28",
@@ -1483,22 +1499,6 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
-        "name": "Intentions",
-        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 155094,
-      "name": "Intentions",
-      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
     },
     {
       "added_at": "2025-12-12 00:01:28",

@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 199524,
+  "num_followers": 199542,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAACEcChiSJ+8AwqwmQVYsjBT",
+  "snapshot_id": "aUChAAAAAACxD0i+Wfi65pCIBLZ4cGlB",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Stay up Late - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 313000,
       "name": "Swamp - 2005 Remaster",
       "url": "https://open.spotify.com/track/43AZqEOln2jAIvuYYUBy2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Stay up Late - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 129800,
-      "name": "Thank You for Sending Me an Angel - Live",
-      "url": "https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 345573,
       "name": "Moon Rocks - 2005 Remaster",
       "url": "https://open.spotify.com/track/1jDit1o3MxkQxFDVNdYX9v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 129800,
+      "name": "Thank You for Sending Me an Angel - Live",
+      "url": "https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 387560,
-      "name": "The Great Curve - 2005 Remaster",
-      "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 354213,
       "name": "Making Flippy Floppy - 2005 Remaster",
       "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 387560,
+      "name": "The Great Curve - 2005 Remaster",
+      "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seen and Not Seen - 2005 Remaster",
-      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 178000,
       "name": "Love \u2192 Building on Fire - 2004 Remaster",
       "url": "https://open.spotify.com/track/6io3AG4PaHu5Ksx41r4zHw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seen and Not Seen - 2005 Remaster",
+      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
     },
     {
       "added_at": null,

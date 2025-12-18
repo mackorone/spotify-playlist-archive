@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Adamant",
+        "url": "https://open.spotify.com/album/1UBqbNktKJVgCHo5m3nq1A"
+      },
+      "artists": [
+        {
+          "name": "Myriad Bard",
+          "url": "https://open.spotify.com/artist/7FroVjfQ0JPoekdOC6U6Jh"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182849,
+      "name": "Adamant",
+      "url": "https://open.spotify.com/track/1nb3cIqR2QZwwgqKJjVanT"
+    },
+    {
+      "album": {
         "name": "Aeolian Echoes",
         "url": "https://open.spotify.com/album/1K5aPVNeOqduH6HOjgoJqy"
       },
@@ -3360,6 +3378,24 @@
       "duration_ms": 152861,
       "name": "Snowlight",
       "url": "https://open.spotify.com/track/1gDvxMJeiGD9lDo0TyTIIF"
+    },
+    {
+      "album": {
+        "name": "Soft Breath",
+        "url": "https://open.spotify.com/album/3YWo2awwIzJLU8xLXlrndU"
+      },
+      "artists": [
+        {
+          "name": "Parting Clouds",
+          "url": "https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Soft Breath",
+      "url": "https://open.spotify.com/track/1GSjgekBv2Ot2Efv3L8jzN"
     },
     {
       "album": {

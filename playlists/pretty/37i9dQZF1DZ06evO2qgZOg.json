@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 318399,
+  "num_followers": 318464,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADhKhA4foQ/jzu9U39f5Ime",
+  "snapshot_id": "aUChAAAAAADq81YYOutuFgP2qmZ5vmd3",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take It All Back",
-        "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Davies.",
-          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
         }
       ],
-      "duration_ms": 204634,
-      "name": "Take It All Back",
-      "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
+      "duration_ms": 190360,
+      "name": "Sick of It",
+      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
     },
     {
       "added_at": null,
@@ -291,18 +283,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+        "name": "Take It All Back",
+        "url": "https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU"
       },
       "artists": [
         {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Davies.",
+          "url": "https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8"
         }
       ],
-      "duration_ms": 190360,
-      "name": "Sick of It",
-      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
+      "duration_ms": 204634,
+      "name": "Take It All Back",
+      "url": "https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj"
     },
     {
       "added_at": null,

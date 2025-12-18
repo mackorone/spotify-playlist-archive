@@ -6876,7 +6876,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 407936,
       "name": "Bhampa",
       "url": "https://open.spotify.com/track/7G14szC3tfEvsLGcsEGhkU"
@@ -9554,7 +9554,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -13858,7 +13858,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 270315,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/0LseYDHkn75CjuExrf1XRz"
@@ -23734,7 +23734,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 394285,
       "name": "Iphupho (feat. Thatohatsi)",
       "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
@@ -23822,7 +23822,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -30212,7 +30212,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 240326,
       "name": "Luyazenzela",
       "url": "https://open.spotify.com/track/18z13CvLX9wuxVfbE3Lhnv"
@@ -31304,7 +31304,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -35962,7 +35962,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 298187,
       "name": "Ngixolele Mtanami (Remix) Footsteps",
       "url": "https://open.spotify.com/track/0fFPn9tEmTuHGxOpg96u7H"
@@ -53330,7 +53330,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 285231,
       "name": "Umaqondana",
       "url": "https://open.spotify.com/track/5cFN0WZ3cv5buMI4hpIpNm"
@@ -54462,7 +54462,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 239259,
       "name": "Ushwebile (feat. Mjolisi)",
       "url": "https://open.spotify.com/track/7xhd84IlV2WBbsOnQukuoh"
@@ -55862,7 +55862,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 297903,
       "name": "Wa Inama",
       "url": "https://open.spotify.com/track/4BVq8iuuhqjcwhHh6t8SP9"
@@ -56452,7 +56452,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 280398,
       "name": "Warning",
       "url": "https://open.spotify.com/track/5JjQdivvXPrnjeEoxE16WD"
@@ -56650,7 +56650,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 312293,
       "name": "Wayengenalutho",
       "url": "https://open.spotify.com/track/6VBfzBgHu8tFeeg2ZQO4gH"
@@ -56966,6 +56966,24 @@
       "duration_ms": 280005,
       "name": "We're All Alone",
       "url": "https://open.spotify.com/track/22agj1ppHejR41cUyf7k6v"
+    },
+    {
+      "album": {
+        "name": "Unamagqubu",
+        "url": "https://open.spotify.com/album/1VLcOburufLSyk0HhztmnV"
+      },
+      "artists": [
+        {
+          "name": "MENZI MUSIC",
+          "url": "https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211565,
+      "name": "We-Skhinkily",
+      "url": "https://open.spotify.com/track/0MBvgnHXWHA9iusb7TZb9K"
     },
     {
       "album": {

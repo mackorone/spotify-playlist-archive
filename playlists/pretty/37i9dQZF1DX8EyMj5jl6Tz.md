@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8EyMj5jl6Tz.md) - [plain]
 
 > Dance remixes of popular songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,811 likes - 150 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,046 likes - 150 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

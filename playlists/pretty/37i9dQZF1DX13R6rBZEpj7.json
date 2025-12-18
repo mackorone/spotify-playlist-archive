@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 272744,
+  "num_followers": 272785,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-11-27 15:07:22",
       "album": {
-        "name": "P.S Remix (2023)",
-        "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
-      },
-      "artists": [
-        {
-          "name": "Burgaboy",
-          "url": "https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda"
-        },
-        {
-          "name": "Lauren Mason",
-          "url": "https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "P.S 2023 (Bassline Remix)",
-      "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 139392,
       "name": "Talk That Talk",
       "url": "https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "P.S Remix (2023)",
+        "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
+      },
+      "artists": [
+        {
+          "name": "Burgaboy",
+          "url": "https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda"
+        },
+        {
+          "name": "Lauren Mason",
+          "url": "https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "P.S 2023 (Bassline Remix)",
+      "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
     },
     {
       "added_at": "2025-11-27 15:07:22",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-11-27 15:07:22",
       "album": {
-        "name": "Baddie Bassline",
-        "url": "https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR"
-      },
-      "artists": [
-        {
-          "name": "Chad Harrison",
-          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "Make A Fool",
-      "url": "https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O"
-    },
-    {
-      "added_at": "2025-11-27 15:07:22",
-      "album": {
         "name": "Big Truck",
         "url": "https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 111428,
       "name": "Big Truck",
       "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"
+    },
+    {
+      "added_at": "2025-11-27 15:07:22",
+      "album": {
+        "name": "Baddie Bassline",
+        "url": "https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Make A Fool",
+      "url": "https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O"
     }
   ],
   "unique_name": "Bassline Bangers",

@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-279 songs - 13 hr 4 min
+280 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Final Step](https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Final Step](https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r) | 2:36 | 2024-08-23 |  |
 | [First And Foremost](https://open.spotify.com/track/7gZ40dl8LTUpm3cW8pjpZ2) | [Amaury Arceneaux](https://open.spotify.com/artist/5gBtN59LUe1KoY7cg5HBcp) | [First And Foremost](https://open.spotify.com/album/1CCpDBjJQFPzi2DmfoZpGZ) | 3:01 | 2024-06-03 | 2025-06-12 |
 | [Flod](https://open.spotify.com/track/2WniKdcdwp2nsEz22BpsgM) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Flod](https://open.spotify.com/album/3X1AMeGSmFecsjCrPQasc5) | 2:42 | 2025-02-21 |  |
+| [Florentis](https://open.spotify.com/track/7BgPkHOrBSKx9i5yaTb87V) | [Euloria](https://open.spotify.com/artist/0bvbu0duux79xFOXVaaozq) | [Florentis](https://open.spotify.com/album/3pqBWV3lk99dUPIq8NLvEA) | 2:07 | 2025-12-03 |  |
 | [Flying Wireless](https://open.spotify.com/track/63EfgFrmklwDHZe6bNQl7Y) | [Lila Diminuto](https://open.spotify.com/artist/6GpY1TtFO3dfey4NKW7Iqm) | [Flying Wireless](https://open.spotify.com/album/5vR779W9Z1GkqQatPy1Ti5) | 4:13 | 2024-05-15 | 2025-02-07 |
 | [Forelsket \(Forest\)](https://open.spotify.com/track/0zFOeiohiKokdL3k4wka7J) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [Forelsket \(Forest\)](https://open.spotify.com/album/0UVFZXy1YjkkbfvIUwlRrK) | 2:30 | 2024-09-04 | 2025-09-25 |
 | [Forest at Dusk](https://open.spotify.com/track/1oQLQpGlbI8gIAUsehqcju) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest at Dusk](https://open.spotify.com/album/6EB4bE9wJ3NYhdg5J3nOZr) | 2:28 | 2025-01-15 |  |
@@ -193,7 +194,7 @@
 | [Portobelloh](https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Portobelloh](https://open.spotify.com/album/6sQqMQqYtyXGBT7mJHW2M3) | 2:56 | 2025-09-24 |  |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-03 | 2025-05-08 |
 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
-| [Raindrop Manor](https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Raindrop Manor](https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO) | 2:37 | 2025-12-03 |  |
+| [Raindrop Manor](https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Raindrop Manor](https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO) | 2:37 | 2025-12-03 | 2025-12-18 |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Rakapar](https://open.spotify.com/track/3gHOHwVZudqg5q3GEszdHL) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Rakapar](https://open.spotify.com/album/1cPajSjSWgSSApGAzREwb5) | 3:15 | 2024-11-22 |  |
 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 | 2023-03-03 | 2025-05-17 |

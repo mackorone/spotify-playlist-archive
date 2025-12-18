@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-405 songs - 1 day 1 hr 42 min
+406 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Be Good To Me](https://open.spotify.com/track/4pWHjlzm9bamcwnPlNgKf3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:56 | 2023-12-30 |  |
 | [Beautiful](https://open.spotify.com/track/1HR2CTi0ytRJIcik1QKdOa) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 6:32 | 2023-12-30 |  |
 | [Beautiful Calm Driving](https://open.spotify.com/track/3vn3tYZAJ3h95G9JSsKJv9) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 5:02 | 2023-12-30 |  |
+| [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-12-17 |  |
 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 | 2023-12-30 |  |
 | [Best Day Ever](https://open.spotify.com/track/6XaTwM6s2IXD6btpRLVN2Z) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 3:58 | 2023-12-30 |  |
 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 | 2023-12-30 |  |
@@ -404,7 +405,7 @@
 | [You Don't Know](https://open.spotify.com/track/7fCWkqJLVGhGKBGuE511fl) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Milow](https://open.spotify.com/album/1qh6lFASwV7pqaGfUbHhEn) | 2:47 | 2023-12-30 | 2025-07-01 |
 | [You Don't Know](https://open.spotify.com/track/1nkRwGuEnySwY2PbdT25Hb) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [The Bigger Picture](https://open.spotify.com/album/5shtXocLO7yZoLsztFHhqF) | 2:47 | 2025-07-05 |  |
 | [You Have Been Loved](https://open.spotify.com/track/4tr2T0FIHxaWYkIUcaFMfG) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 4:23 | 2023-12-30 |  |
-| [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 | 2023-12-30 |  |
+| [You Lost Me](https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:17 | 2023-12-30 | 2025-12-18 |
 | [You Lost Me](https://open.spotify.com/track/30LX4w8a4TAtpQUbgfvFTm) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [You Lost Me \(Official Video\)](https://open.spotify.com/album/0vuo1uIZ9DWsBO3x318QFm) | 4:25 | 2024-01-02 | 2024-02-02 |
 | [You Lost Me](https://open.spotify.com/track/0lYyvXtcfPP8oA51fsQ85J) | [Liv Skotte](https://open.spotify.com/artist/2BdJOtQ2kOCA2KA9H7lHQA) | [Voice \- Live Show 18\. Feb\. 2012 \(Danmarks Største Stemme fra TV2\)](https://open.spotify.com/album/179MAVuEp3ztrlTt9kJXC4) | 4:14 | 2023-12-30 |  |
 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 | 2023-12-30 |  |

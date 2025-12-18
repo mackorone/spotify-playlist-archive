@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/2PopoCtWAatwb4QCeL1t0N"
+      },
+      "artists": [
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118321,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/3CSJDCWrSI2ps00cXr5dbP"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/1To7kv722A8SpZF789MZy7"
       },

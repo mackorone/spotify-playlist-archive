@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124659,
+  "num_followers": 124655,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU8X8iOBr8Zl0nJ2GmKHOz1Dm8bkym",
+  "snapshot_id": "AAAU8ocjx4iF7ZQuIRHOWGcpHHjlGboX",
   "tracks": [
+    {
+      "added_at": "2025-12-17 14:49:32",
+      "album": {
+        "name": "The Six Of Wands",
+        "url": "https://open.spotify.com/album/3AbNqSOILxIqYT7plJQ8El"
+      },
+      "artists": [
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "duration_ms": 233139,
+      "name": "The Six Of Wands",
+      "url": "https://open.spotify.com/track/3KbkG7dIQUJhTA3kiOw1ly"
+    },
     {
       "added_at": "2025-12-16 15:32:23",
       "album": {

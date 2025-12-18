@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-1,087 songs - 2 day 10 hr 7 min
+1,088 songs - 2 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Astro Del Ciel \(with Trace Adkins\)](https://open.spotify.com/track/72Mfc71WKvlPmb57PivYYv) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Astro Del Ciel \(with Trace Adkins\)](https://open.spotify.com/album/11xHn2gWglX86c796yw0ua) | 3:26 | 2023-11-17 | 2024-08-31 |
 | [At Christmas](https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [At Christmas](https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1) | 2:22 | 2022-12-02 | 2023-10-10 |
 | [At Least I Have Santa](https://open.spotify.com/track/78InQyI314pCq9GVTrUBib) | [Jackie Evancho](https://open.spotify.com/artist/7FukyKMUPL10mDN9LgAngI) | [At Least I Have Santa](https://open.spotify.com/album/6cpaLiEmVaQrpPUPiAePDF) | 3:24 | 2023-10-27 | 2024-08-31 |
+| [Ave Maria](https://open.spotify.com/track/1F0yahgwR4oR9uOGU6SxNa) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Ave Maria](https://open.spotify.com/album/1IHnuhUXcl3LjZEhYLrBTe) | 3:22 | 2025-12-16 |  |
 | [Ave Maria](https://open.spotify.com/track/0ipi2o4i8CXREQ3HQD9BkI) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Ave Maria](https://open.spotify.com/album/6kiCVjkuVeFX9mhib5aDDH) | 2:38 | 2025-12-05 |  |
 | [B.Y.O.B\. \(It's Christmas Time\)](https://open.spotify.com/track/1aK6lMT4LLr0zB3aHCrjA4) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [B.Y.O.B\. \(It's Christmas Time\)](https://open.spotify.com/album/7mx1ioS3IU9GhypF16mnO7) | 2:58 | 2025-12-16 |  |
 | [Baby Doll](https://open.spotify.com/track/4C1wHfdwErRlzICLKBW1uE) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Essential Christmas](https://open.spotify.com/album/5YDQLysdnsIzRxAFCazMIO) | 2:09 | 2023-10-09 | 2024-08-31 |

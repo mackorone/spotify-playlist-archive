@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Naska in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,363 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,353 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 14 | [Ritmo Lento](https://open.spotify.com/track/3v5EEAqc29kj2zvzFXhdgv) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ritmo Lento](https://open.spotify.com/album/2bcQDosnSgYGhFWPHX8oqi) | 3:00 |
 | 15 | [PINOCCHIO](https://open.spotify.com/track/0VK2yA5a91TrFAaufvT1o8) | [SI! BOOM! VOILÀ!](https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy) | [PINOCCHIO](https://open.spotify.com/album/1bPTQJSrWiVqjICYSg0ruS) | 3:21 |
 | 16 | [Serpentine](https://open.spotify.com/track/6eU6gD1w66PLzXDmjZVx8P) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK), [Devin Yü](https://open.spotify.com/artist/7qEJrBA7hqNGlQIejxNtFK), [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Serpentine](https://open.spotify.com/album/3eIQ9xm8EcVTJN4eWgVDkS) | 4:22 |
-| 17 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:36 |
+| 17 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:34 |
 | 18 | [Angel](https://open.spotify.com/track/6wDQcTK4vvhC5EfrnbkCBH) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Stanzini Can Be Allright](https://open.spotify.com/album/4CxrXcjntFNu4AdiD0gxuB) | 3:39 |
 | 19 | [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 |
 | 20 | [new tattoo](https://open.spotify.com/track/50wWPWpPSumhqaimfSkI8z) | [georgia, georgia](https://open.spotify.com/artist/08O0sKRCrDDxVnduKUQNH6) | [new tattoo](https://open.spotify.com/album/1CDXSA2wbcytZpToTKdumn) | 3:10 |

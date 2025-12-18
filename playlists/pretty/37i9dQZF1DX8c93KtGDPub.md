@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,846 likes - 142 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,208 likes - 142 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8c93KtGDPub.md) - [plain]
 | 141 | [The Brightest Star](https://open.spotify.com/track/40qglXyFrw1Nar0beLlzJQ) | [Jim Avett](https://open.spotify.com/artist/1Pv7Pz9LKcQBJUDCgJHVwA) | [My Favorite Gifts \- Christmas Album](https://open.spotify.com/album/1vp1t3L2xcRoCz9HuFJSDN) | 4:14 |
 | 142 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/7juPV71vBY8V28CVWVh9RE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy) | [Now That's What I Call Christmas!](https://open.spotify.com/album/1km0joFMskuCnAz5qQOMb0) | 3:32 |
 
-Snapshot ID: `AAAAALliiiHf9h6E1h8KLaE/5ejZOCfN`
+Snapshot ID: `AAAAAGr9GaF+fE7K1JMc75xCXgY7U/8R`

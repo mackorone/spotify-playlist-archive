@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,065 songs - 2 day 17 hr 30 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,066 songs - 2 day 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1073,5 +1073,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1063 | [Elektrik](https://open.spotify.com/track/4ONQgNfbJwqkGUvUJp6NEh) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [The Power To Believe](https://open.spotify.com/album/5D3w5uBWyFouzXYVh5no66) | 8:00 |
 | 1064 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
 | 1065 | [Happy Nightmare \- Mescaline](https://open.spotify.com/track/5wNkgpr8qA3viiIWdJif7T) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [In And Out Of Focus](https://open.spotify.com/album/5AteSiIZMyjzqApnZw2xCb) | 3:59 |
+| 1066 | [ALIVE](https://open.spotify.com/track/3CSJDCWrSI2ps00cXr5dbP) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ALIVE](https://open.spotify.com/album/2PopoCtWAatwb4QCeL1t0N) | 1:58 |
 
-Snapshot ID: `AAAH07UX/gx9THrX9Fh4ubZDAE6KOQME`
+Snapshot ID: `AAAH1HznnX2DPriYoT55l3Y09Hn2+IWv`

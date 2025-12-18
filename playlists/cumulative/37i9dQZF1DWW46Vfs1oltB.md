@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ksmartboi\(김상민그는감히전설이라고할수있다\)\)
 
-1,712 songs - 3 day 19 hr 25 min
+1,713 songs - 3 day 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -953,6 +953,7 @@
 | [MIC SWG \(feat\. Deepflow, Dragon A.T\)](https://open.spotify.com/track/3T3P7EyWyK05xOklzDcbBk) | [J'Kyun](https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Dragon A.T](https://open.spotify.com/artist/7DZu4zslJGMzcsNaQDz9oz) | [Talk Less, Do More Part 1](https://open.spotify.com/album/2Q8XNYUYAxSgTGUJdspDI3) | 3:54 | 2025-04-23 | 2025-07-06 |
 | [Michael Jackson Remix \(Feat\. Jay Park\)](https://open.spotify.com/track/74cH1EoFKnaVJmqdU5fLR5) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Michael Jackson Remix](https://open.spotify.com/album/5WPTXczlD1GpoA7j2KelrH) | 3:58 | 2023-04-27 | 2023-06-14 |
 | [MICHELIN CYPHER](https://open.spotify.com/track/41J6fcsioFDdh410It3BUt) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [PUMP COLLECTOR’S EDITION](https://open.spotify.com/album/7r8pyl0ry9r6GVoTWu8OTw) | 3:10 | 2024-10-18 | 2025-01-25 |
+| [MIDNIGHT SKY](https://open.spotify.com/track/2edpFQH2dVevhKbJyRQPLi) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [BURN PART.1](https://open.spotify.com/album/7av4qtKNpEzK87yFu6kFBU) | 2:54 | 2025-12-18 |  |
 | [Million / Warrior](https://open.spotify.com/track/6G8N7aoDHlkEPOtIxOfonN) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [RAD MILLI](https://open.spotify.com/album/3K6rQw58z3oIzrPlvS63Dg) | 2:46 | 2024-08-30 | 2024-11-28 |
 | [Mine \(Prod\. Seong Guk, Matt, niceshotnick\)](https://open.spotify.com/track/1bx3jwrwobANkqaV4sglkC) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [Jeffrey White](https://open.spotify.com/artist/2CzJxatdtHWmZzJf1iZZBi), [MASON HOME](https://open.spotify.com/artist/6fUWivVaWaEgN2G0m7c0Wa), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [kweeel](https://open.spotify.com/artist/4W4TBHaPbtdJrXapmnUTdO) | [Monthly AP \- August, 2023](https://open.spotify.com/album/574cfUj6CqO31ASwf0jGUx) | 3:59 | 2023-08-24 | 2023-11-16 |
 | [Mint Condition](https://open.spotify.com/track/3kcQHARwuV6u46zZ9gbgFs) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mint Condition](https://open.spotify.com/album/7gMpIdUlwWtAGf1I8fO9ZF) | 3:16 | 2022-03-26 | 2022-06-26 |

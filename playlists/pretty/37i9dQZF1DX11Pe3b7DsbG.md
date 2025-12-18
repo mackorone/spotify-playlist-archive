@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,031 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,050 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 43 | [Coração Leviano](https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Coração Leviano](https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy) | 2:52 |
 | 44 | [Partideiro Sem Nó Na Garganta](https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Marcelo D2 \- Canta Bezerra Da Silva](https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP) | 3:42 |
 | 45 | [É Corpo, É Alma, É Religião \- Ao Vivo Na Lapa](https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [O Samba Em Mim \(Ao Vivo Na Lapa\)](https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr) | 3:46 |
-| 46 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
-| 47 | [Meu Pitel](https://open.spotify.com/track/7uTGKM0QXSukI6UMMOzXu8) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Meu Pitel](https://open.spotify.com/album/4h1iJEXqxsKiqaqcXwfkm5) | 4:16 |
+| 46 | [Meu Pitel](https://open.spotify.com/track/7uTGKM0QXSukI6UMMOzXu8) | [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Meu Pitel](https://open.spotify.com/album/4h1iJEXqxsKiqaqcXwfkm5) | 4:16 |
+| 47 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
 | 48 | [Samba Pras Moças \- Remastered 2020](https://open.spotify.com/track/6yzCe61NytUn7FXQAneiLr) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Samba Pras Moças \(Remastered\)](https://open.spotify.com/album/1r0CyGhPtjXHJgkiGS6Xii) | 4:58 |
 | 49 | [Na veia \(Participação especial de Marcelo D2\)](https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Na Veia](https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH) | 3:08 |
 | 50 | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \- 20 anos de História, Ao Vivo](https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu) | [Gabrielzinho Do Irajá](https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA), [Enzo Belmonte](https://open.spotify.com/artist/7ze7TSj6bDuk5OUNp9HjMJ) | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \(20 anos de História, Ao Vivo\)](https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR) | 5:25 |

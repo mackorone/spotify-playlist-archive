@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Nehaal Naseem
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,347 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,438 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 89 | [shutup call](https://open.spotify.com/track/2YUgUYAXNCrhF7t9Bk9qQH) | [Jevin Gill](https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [one sided luv](https://open.spotify.com/album/67nGwhTZPGYt0LqA9ftQoZ) | 3:07 |
 | 90 | [MF Gabhru!](https://open.spotify.com/track/5KLohKNLMLibqnG0FdmbvX) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:20 |
 
-Snapshot ID: `AAAAALlIsgZdPwq2BgQhIwFgMWSbwLkD`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

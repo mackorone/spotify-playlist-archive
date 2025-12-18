@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Becky G, ROA, Maria Becerra & Jay Wheeler, Ivan Cornejo and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,594 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,616 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 26 | [Reloj](https://open.spotify.com/track/5qQtwtKAu9tHfJUTr4yJC0) | [Baby Rasta y Gringo](https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7) | [El Final](https://open.spotify.com/album/5QenSs27LeEQAd2TDpWxtr) | 2:54 |
 | 27 | [Tal para cual](https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Musica para Bailar](https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY) | 2:54 |
 | 28 | [PONTE](https://open.spotify.com/track/1E3IMRKUsW429PonNxrfxC) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [PONTE](https://open.spotify.com/album/1mRgSfhu4lHriQudexxaft) | 2:24 |
-| 29 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:44 |
+| 29 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:45 |
 | 30 | [Cuero](https://open.spotify.com/track/1bcI8QUbJ4M4QydpAFlpPi) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [Cuero](https://open.spotify.com/album/7foYHAyQEwsoq4kmuMbVKn) | 2:26 |
 | 31 | [Intenciones](https://open.spotify.com/track/0Od7RJBTj7Sqo2EW7KMAeL) | [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b) | [Intenciones](https://open.spotify.com/album/6Me7DElwOUEsrupHZS9vZy) | 3:22 |
 | 32 | [LADRON](https://open.spotify.com/track/2NMctdE1VuUUc4VctEqamB) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [LADRON](https://open.spotify.com/album/4rhn6ysDub2uGc0HJq4AF2) | 1:54 |

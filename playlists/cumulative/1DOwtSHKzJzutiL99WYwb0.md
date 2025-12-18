@@ -4,7 +4,7 @@
 
 > Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: CHA EUN\-WOO
 
-290 songs - 14 hr 59 min
+292 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Good Thing](https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/4vj008nVDYfO4m75ZT1VBu) | 2:34 | 2025-05-30 |  |
 | [Goodbyes and Sad Eyes](https://open.spotify.com/track/39eHEOhXdVh3tsxDyiAXnI) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [laundri](https://open.spotify.com/album/0sxsewzGDZxhfVDklmezGT) | 3:30 | 2025-08-21 |  |
 | [GOTCHA](https://open.spotify.com/track/02rhdB4VphNx89HO1ER4cN) | [ALL\(H\)OURS](https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO) | [ALL OURS](https://open.spotify.com/album/0YMO8e9YT76Dz4HQxW4gQn) | 3:13 | 2024-01-22 | 2025-05-31 |
-| [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-11-01 |  |
+| [GPT](https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [...l](https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0) | 3:08 | 2024-11-01 | 2025-12-18 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-08-21 | 2024-09-07 |
 | [Gum](https://open.spotify.com/track/6QJEWaTiiBSYPHr6FrZ8vu) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Gum](https://open.spotify.com/album/3y6bGlIVIIOQbOgQDRSw1T) | 2:42 | 2023-10-31 | 2025-05-31 |
 | [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-21 |  |
@@ -206,6 +206,7 @@
 | [Pop? Pop!](https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9) | [CSR](https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC) | [Sequence : 7272](https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo) | 3:35 | 2022-07-29 | 2024-07-02 |
 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-05-30 |  |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-11-01 |  |
+| [Promise](https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Promise](https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu) | 3:32 | 2025-12-17 |  |
 | [PULL UP](https://open.spotify.com/track/4Jmrkz9hytD3jaLDkZ7Qvc) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 3rd Mini Album 'VarioUS'](https://open.spotify.com/album/2XZJWoPAW0Ah1msTIFXFSt) | 2:55 | 2023-02-13 | 2024-08-27 |
 | [PUSH BACK](https://open.spotify.com/track/2GjJ0GSfei7RnAapwC5ZUB) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/6acXfqJsV2PKpybx7MutV7) | 2:42 | 2025-11-21 |  |
 | [Put It Back](https://open.spotify.com/track/5KW3MHVuikZqVrsB0wsFpv) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [UNBROKEN](https://open.spotify.com/album/6yD33RyTJLyUPrz4gto6zV) | 2:49 | 2025-11-21 |  |
@@ -257,6 +258,7 @@
 | [Taxi Blurr \(Feat\. NATTY of KISS OF LIFE\)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [Jay Park Season 2](https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR) | 3:50 | 2024-06-14 | 2025-07-23 |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-16 | 2024-09-07 |
 | [Tell My Momma](https://open.spotify.com/track/4PAMDOg5KBjnzocJ60eMpl) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 7th Mini Album 'Where To Now? \(Part.1 : Yellow Light\)'](https://open.spotify.com/album/0eXeBtUotmPrJtREbEa3nE) | 3:35 | 2024-08-26 | 2025-11-22 |
+| [TEMPO](https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [TEMPO](https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W) | 2:45 | 2025-12-17 |  |
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-03-18 | 2023-11-10 |
 | [That’s That](https://open.spotify.com/track/2Sf6SXb3LAq4aWq6Pm9akt) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [LOUD & PROUD](https://open.spotify.com/album/4s6H9i2JkMF58sij9Xa26W) | 3:15 | 2025-08-21 |  |
 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 | 2025-05-30 |  |
@@ -266,7 +268,7 @@
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-05-30 |  |
 | [Too Bad](https://open.spotify.com/track/4Xv8foqi6HXnQURBR0FdAZ) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.1 : First Love](https://open.spotify.com/album/77eiNb82HouMWEiK2xe3sp) | 3:16 | 2022-03-18 | 2023-11-10 |
 | [TRICKY HOUSE](https://open.spotify.com/track/2MeEPaL5HsW9njvrtP0Agj) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [HOUSE OF TRICKY : Doorbell Ringing](https://open.spotify.com/album/6AO0SV6HUmKSu85OECxtYK) | 3:04 | 2023-08-21 | 2024-10-11 |
-| [TRIGGER](https://open.spotify.com/track/0KSkclPEYcFuBIC0SOGXLp) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9th MINI ALBUM \[導火線 \(TRIGGER\)\]](https://open.spotify.com/album/2UsJY5vQEYesJJ9iTnm9UW) | 3:14 | 2024-11-01 |  |
+| [TRIGGER](https://open.spotify.com/track/0KSkclPEYcFuBIC0SOGXLp) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 9th MINI ALBUM \[導火線 \(TRIGGER\)\]](https://open.spotify.com/album/2UsJY5vQEYesJJ9iTnm9UW) | 3:14 | 2024-11-01 | 2025-12-18 |
 | [Undercover](https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/5b2HT9dEEZptUsusV1Klc5) | 3:07 | 2022-04-29 | 2024-03-25 |
 | [Unending Days](https://open.spotify.com/track/3XZJZvwp6B6NFJYsrNAchp) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [COLORS](https://open.spotify.com/album/0PwtzRZxpKmozYdYQdcAgp) | 3:07 | 2024-12-02 |  |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-10 | 2025-11-28 |

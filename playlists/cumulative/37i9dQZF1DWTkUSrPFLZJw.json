@@ -84,16 +84,16 @@
           "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
         },
         {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
           "name": "SAMA'",
           "url": "https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM"
         },
         {
           "name": "Oseikrom Sikanii",
           "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
         }
       ],
       "date_added": "2025-12-05",
@@ -124,6 +124,36 @@
       "duration_ms": 176000,
       "name": "Bienvenue",
       "url": "https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR"
+    },
+    {
+      "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
+      },
+      "artists": [
+        {
+          "name": "Omar Sterling",
+          "url": "https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164844,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z"
     },
     {
       "album": {
@@ -672,7 +702,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"

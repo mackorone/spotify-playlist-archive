@@ -4,7 +4,7 @@
 
 > This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-97 songs - 7 hr 35 min
+98 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Chao Contigo](https://open.spotify.com/track/5P3qMFkwljuv7WzIap2Hdx) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños De Colombia](https://open.spotify.com/album/1vuMn7RizfL3iML7zpD81q) | 5:37 | 2022-12-16 | 2024-10-15 |
 | [Compadre](https://open.spotify.com/track/4v6T7dXpZPyXafu6Pl66VN) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Éxitos Originales](https://open.spotify.com/album/2P1HY1xrchi0lvhyEfyi1V) | 3:37 | 2025-06-07 | 2025-07-04 |
 | [Cuando Llora El Corazón](https://open.spotify.com/track/1vsWun46LmODh9NAjxgbZP) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 4:54 | 2022-12-16 | 2024-09-27 |
-| [Cuando Llora El Corazón](https://open.spotify.com/track/5gz1ypTLyxXujLlGNcAf8T) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:54 | 2025-09-09 |  |
+| [Cuando Llora El Corazón](https://open.spotify.com/track/5gz1ypTLyxXujLlGNcAf8T) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:54 | 2025-09-09 | 2025-12-18 |
 | [Cuando Te Vayas](https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 4:41 | 2024-10-15 |  |
 | [Cuanto Te Amo](https://open.spotify.com/track/2A0HoB15jVgk4oiMeSvtCZ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:30 | 2022-12-16 | 2024-10-16 |
 | [Cuanto Te Amo](https://open.spotify.com/track/3rGW31Pn5BKVDs1VZHzAU8) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:30 | 2024-10-16 |  |
@@ -43,6 +43,7 @@
 | [Me Duele Tanto](https://open.spotify.com/track/1zwn8JE6FyQ5FX4p8KutHi) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños de Colombia](https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia) | 5:03 | 2024-10-17 |  |
 | [Me Duele Tanto](https://open.spotify.com/track/79uBJc5O5X73EpTaBIf5Tj) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Sueños De Colombia](https://open.spotify.com/album/1vuMn7RizfL3iML7zpD81q) | 5:03 | 2022-12-16 | 2024-10-15 |
 | [Me Matará El Sentimiento](https://open.spotify.com/track/2QJHTS9SihbPj9wKN0oa9C) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Buenos Tiempos](https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv) | 5:00 | 2024-10-13 |  |
+| [Mejor No Somos Nada](https://open.spotify.com/track/79hTMWqclcQbxfs8dMpPG3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 5:17 | 2025-12-18 |  |
 | [Mejor No Somos Nada](https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi) | 5:17 | 2022-12-16 | 2024-10-11 |
 | [Mi Dulce Amor](https://open.spotify.com/track/1cfPm4pUffGbFCIyXxBHpH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU) | 5:06 | 2024-10-17 |  |
 | [Mi Dulce Amor](https://open.spotify.com/track/4ZSvjWWlGJo0x4D9ukmtxU) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Por Siempre](https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH) | 5:06 | 2022-12-16 | 2024-10-17 |

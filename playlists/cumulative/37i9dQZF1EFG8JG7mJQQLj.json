@@ -1614,10 +1614,56 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 182706,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/4HzDvg3XL4jTdb6UhCKSHL"
+    },
+    {
+      "album": {
+        "name": "The Roaring 20s Year-By-Year: 1920 to 1929, The Number One Hits of the Decade",
+        "url": "https://open.spotify.com/album/4AcLDEEtYVp0RYDfPhmC4M"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Al Jolson",
+          "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
+        },
+        {
+          "name": "Cliff Edwards",
+          "url": "https://open.spotify.com/artist/0aeRagbqQCOKkVURrvcMrn"
+        },
+        {
+          "name": "Eddie Cantor",
+          "url": "https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L"
+        },
+        {
+          "name": "Billy Jones",
+          "url": "https://open.spotify.com/artist/6zjCA3n8DwVeTC5zwAQ4jT"
+        },
+        {
+          "name": "Vernon Dalhart",
+          "url": "https://open.spotify.com/artist/1hnGjQYIeEHbqWKwh10Oz6"
+        },
+        {
+          "name": "Johnny Marvin",
+          "url": "https://open.spotify.com/artist/1uMpnC5saduDB7LY5aRwgB"
+        },
+        {
+          "name": "Gene Austin",
+          "url": "https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/123d4qi0Hnk8PGbjFq2Tse"
     },
     {
       "album": {
@@ -2106,6 +2152,24 @@
       "duration_ms": 165706,
       "name": "DARC ROOM",
       "url": "https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171014,
+      "name": "Dear god",
+      "url": "https://open.spotify.com/track/7CmQjA7j6CxyPBkH3tP95W"
     },
     {
       "album": {
@@ -3734,7 +3798,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 261160,
       "name": "Halo",
       "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
@@ -3788,7 +3852,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
@@ -3806,7 +3870,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/63Gb6d3wW0J6BwWiaeQKDp"
@@ -5991,6 +6055,24 @@
     },
     {
       "album": {
+        "name": "Lucky (from Now You See Me: Now You Don\u2019t)",
+        "url": "https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148538,
+      "name": "Lucky - from Now You See Me: Now You Don\u2019t",
+      "url": "https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe"
+    },
+    {
+      "album": {
         "name": "Overexposed Track By Track",
         "url": "https://open.spotify.com/album/6ijGiBcBfUwkoyHn5VUHU2"
       },
@@ -6202,6 +6284,24 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/4a3LvPpAj6ogH7qSuPr5H6"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175892,
+      "name": "Means I care",
+      "url": "https://open.spotify.com/track/63bgBHUBX1rutghlrXZrvp"
     },
     {
       "album": {
@@ -6556,7 +6656,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
@@ -6726,7 +6826,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 170097,
       "name": "No I'm not in love",
       "url": "https://open.spotify.com/track/3BBRp97DTo6gN0BIwFkX3t"
@@ -7381,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148866,
+      "name": "please don't call (333)",
+      "url": "https://open.spotify.com/track/7ojbGazd9kFVlqLYMDilXm"
+    },
+    {
+      "album": {
         "name": "Songs For You, Truths For Me (International Exclusive Bundle)",
         "url": "https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7"
       },
@@ -7688,6 +7806,24 @@
       "duration_ms": 183530,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/78BT9bXdqEV2EqpmDkLm0m"
+    },
+    {
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180032,
+      "name": "Revolving door",
+      "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
     },
     {
       "album": {
@@ -10396,6 +10532,28 @@
     {
       "album": {
         "name": "Vita mia",
+        "url": "https://open.spotify.com/album/0g66qSxNRdiY2gtftrzbB6"
+      },
+      "artists": [
+        {
+          "name": "Arianna",
+          "url": "https://open.spotify.com/artist/3EXJ8NNRFsjxtnqErEZ2jv"
+        },
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "Vita mia",
+      "url": "https://open.spotify.com/track/0Y5D2eNdOD0OaohlrHADBY"
+    },
+    {
+      "album": {
+        "name": "Vita mia",
         "url": "https://open.spotify.com/album/7D7xv6vOP9Y72AdQF7hgiv"
       },
       "artists": [
@@ -10410,7 +10568,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 199047,
       "name": "Vita mia",
       "url": "https://open.spotify.com/track/5hCavKp6KRvtKq1HPwVkOf"

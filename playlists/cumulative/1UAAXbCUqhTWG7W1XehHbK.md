@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-144 songs - 8 hr 25 min
+147 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Earth Music](https://open.spotify.com/track/32R25ieUaEujfOUMyotW4d) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [akaFayaven](https://open.spotify.com/artist/18pLFv41vMDF3xdE7ZKnjr) | [What Happens On Earth...](https://open.spotify.com/album/6BcrIJf4D3A53w6gjgaC28) | 3:11 | 2025-10-01 | 2025-12-17 |
 | [Eerie Todd](https://open.spotify.com/track/6whH6etmbTlFgATsxMF7oC) | [Opal Tribe](https://open.spotify.com/artist/1bBQKUoCtoYlgz24976Jvd) | [Eerie Todd](https://open.spotify.com/album/51YZe3vuCfsYdtqJnHMxTd) | 4:30 | 2025-12-10 |  |
 | [El Roi](https://open.spotify.com/track/6Xbm6m9V6j9WUSv4FpJ0R5) | [Philippa](https://open.spotify.com/artist/6uDsHBWnieot7YLed6WKxH) | [El Roi](https://open.spotify.com/album/6Y4jD74w37QHqwuf0zFD9y) | 5:52 | 2025-08-07 |  |
+| [El Último Te Amo](https://open.spotify.com/track/40UIMV9iL8ZJcPCPWm4eEB) | [Ictiandro](https://open.spotify.com/artist/0365tcdDwVM8LlpEBnVWvD) | [El Último Te Amo](https://open.spotify.com/album/2XhAsiav3xMp7EQDyuoli4) | 4:43 | 2025-12-17 |  |
 | [Empírico \- Raw](https://open.spotify.com/track/2OuIW1NQwfLm3Z8imOi6w7) | [Charl´s Tone](https://open.spotify.com/artist/0pmheYtMCd7dDJsAfDEAcn) | [Empírico \(Raw\)](https://open.spotify.com/album/4iXlegXlBkb5vBMK4EnY8x) | 2:44 | 2025-11-11 |  |
 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-20 |  |
 | [Everything Changes](https://open.spotify.com/track/0YpNMMUadqpDh3aU9B8saW) | [Odin Johnson](https://open.spotify.com/artist/2087tuEavxDEuenZBYbPNF) | [Everything Changes](https://open.spotify.com/album/64iZS9Rc8mVQKycjeQ8qdN) | 2:42 | 2025-07-21 |  |
@@ -78,6 +79,7 @@
 | [Longlist](https://open.spotify.com/track/1sW8K2lXzHIXH19gT1OToP) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Hometown](https://open.spotify.com/album/1D8nC9VavWlypXWsPomp0Z) | 4:31 | 2025-10-03 |  |
 | [Lost Treasure](https://open.spotify.com/track/4eEpb5RY5a7ShP6MysMpiY) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Lost Treasure](https://open.spotify.com/album/0cVssofpvNMlCU8H0RYUbi) | 1:39 | 2025-12-06 |  |
 | [Love On The Brain](https://open.spotify.com/track/6YrIDvPwRNEf2CDsQxbMma) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV), [N Castillo](https://open.spotify.com/artist/1E7el4DK1FhfE6VIL07Bxa), [Lena Kurosaki](https://open.spotify.com/artist/55UCDOAn6DVoTRJhUUmoUK) | [Love On The Brain](https://open.spotify.com/album/1Fd7U1tzEhGhHJO74JTuRG) | 3:28 | 2025-10-09 |  |
+| [Love Song](https://open.spotify.com/track/0JWENUKGs4umfJXDGjLWgt) | [Elsie James](https://open.spotify.com/artist/1XnjpLYi1xOZpPCR7V75dY) | [Love Song](https://open.spotify.com/album/5WrEZeKjk6Esle5BZ2bofl) | 3:05 | 2025-12-17 |  |
 | [Marlee](https://open.spotify.com/track/3jjTjNKbH7JqnSWMDQ8QCl) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Like a Glove](https://open.spotify.com/album/1I21cLUqN3XjdiFzqpSi0f) | 2:33 | 2025-11-10 |  |
 | [may be](https://open.spotify.com/track/2fbhU9BAN9DMHUJmVd2WER) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [may be](https://open.spotify.com/album/3r5LuwbKuUEhGt1fO0q0Z6) | 3:27 | 2025-12-03 |  |
 | [Moon Dog](https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:28 | 2025-11-13 |  |
@@ -93,6 +95,7 @@
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2025-10-10 |  |
 | [Nonsense](https://open.spotify.com/track/1MhYUZfR3D8m5pgzzgLvzx) | [Luan Luan](https://open.spotify.com/artist/1TRI5G2cp3GkZ2itd8IIMG) | [Nonsense](https://open.spotify.com/album/0Rjqc7fYh8vM6lj1flG5FN) | 3:49 | 2025-08-27 | 2025-12-17 |
 | [Nuketown City](https://open.spotify.com/track/63kddsUAEtv9gPiicmeDZm) | [OGSxAnt](https://open.spotify.com/artist/7Mi8rowQ9Rko1bysn6cJ5X) | [Nuketown City](https://open.spotify.com/album/0ohAthOe1kAWeYU0HFlYtb) | 2:35 | 2025-11-07 |  |
+| [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 |  |
 | [One of a Kind](https://open.spotify.com/track/711P5S0uw1PSzAgKthYcTP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [One of a Kind](https://open.spotify.com/album/2nA99Zidxymb7TVHgygcnp) | 3:59 | 2025-10-13 |  |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-21 |  |
 | [Pain](https://open.spotify.com/track/5lM1ra5MW9om3OC4aquhOD) | [Apo\-Calypto](https://open.spotify.com/artist/7byyZ7HJDAp9iR1IhdDaW4) | [Pain](https://open.spotify.com/album/5lKXK0eA4xjXTt01Md8sOS) | 5:51 | 2025-11-18 |  |

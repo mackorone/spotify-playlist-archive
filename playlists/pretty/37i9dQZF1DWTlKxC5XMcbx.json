@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61828,
+  "num_followers": 61830,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "I'll Give You My Heartache",
-        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
       },
       "artists": [
         {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
         }
       ],
-      "duration_ms": 227202,
-      "name": "I'll Give You My Heartache",
-      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
+      "duration_ms": 118400,
+      "name": "Forenet",
+      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+        "name": "I'll Give You My Heartache",
+        "url": "https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE"
       },
       "artists": [
         {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
         }
       ],
-      "duration_ms": 118400,
-      "name": "Forenet",
-      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
+      "duration_ms": 227202,
+      "name": "I'll Give You My Heartache",
+      "url": "https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Trio 99-00",
-        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Trio",
-          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "Travels",
-      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Phil's Mood",
         "url": "https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 394920,
       "name": "Blue Ballad",
       "url": "https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Trio 99-00",
+        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Trio",
+          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "Travels",
+      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "A Hundred Dreams from Now",
         "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 206040,
       "name": "A Hundred Dreams from Now",
       "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "Doubts 2",
-      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Solo Guitar",
         "url": "https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 299880,
       "name": "Send In The Clowns",
       "url": "https://open.spotify.com/track/6Raz653SzfvRokSgYg9yxY"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "Doubts 2",
+      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 303160,
+      "name": "Tranquillity - Remastered 1994",
+      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
-        }
-      ],
-      "duration_ms": 303160,
-      "name": "Tranquillity - Remastered 1994",
-      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
-      },
-      "artists": [
-        {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
+      },
+      "artists": [
+        {
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Plays Ballads",
-        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 385219,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Plays Ballads",
+        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 385219,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2025-11-24 03:04:51",

@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 183113,
+  "num_followers": 183146,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAAwnavaAjcMi6OitDN6Kfaj",
+  "snapshot_id": "aUChAAAAAAAZP6BZcDr4aiillFXUvCdE",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 387600,
+      "name": "D\u00e9jala Que Siga",
+      "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "49 Minutes",
         "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 459880,
       "name": "Vamos A Re\u00edr Un Poco",
       "url": "https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 387600,
-      "name": "D\u00e9jala Que Siga",
-      "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
     },
     {
       "added_at": null,

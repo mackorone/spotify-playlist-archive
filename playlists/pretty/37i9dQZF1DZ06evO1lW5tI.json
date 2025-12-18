@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 252139,
+  "num_followers": 252201,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAD+NTSCjs6iwfxK9fNWZ7sK",
+  "snapshot_id": "aUChAAAAAABCeU9eE+PpTU2mg/EAvs6r",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 234913,
+      "name": "Shida",
+      "url": "https://open.spotify.com/track/4dqaY6UynbiblKm3GSjtwg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 267200,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3PURbsY67tLMyausOABtit"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 234913,
-      "name": "Shida",
-      "url": "https://open.spotify.com/track/4dqaY6UynbiblKm3GSjtwg"
     },
     {
       "added_at": null,

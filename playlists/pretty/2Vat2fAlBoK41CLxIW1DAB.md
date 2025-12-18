@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,607 likes - 794 songs - 2 day 1 hr 50 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,606 likes - 801 songs - 2 day 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -802,5 +802,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 792 | [Echoes](https://open.spotify.com/track/1AVKALpjBXkLrXlKwaugEN) | [ElectricDust](https://open.spotify.com/artist/315lu2eEs9iMeyfZFGpiz7) | [Echoes](https://open.spotify.com/album/14wRsCKTqFRUJIB13EAJS8) | 5:33 |
 | 793 | [Angelus Furor](https://open.spotify.com/track/7tzajWlUdUrhdSx4X1SB8a) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Legions of the Fallen](https://open.spotify.com/album/7dRhnzbDSIJe8YodIT6G7Y) | 4:38 |
 | 794 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 |
+| 795 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 |
+| 796 | [Batteries Are Not Included](https://open.spotify.com/track/5Yvf4ahxBIsMkQ9PWjSpT8) | [WakeUpCall](https://open.spotify.com/artist/3Gcd8bWz8E9Kwmk0DgESve) | [Batteries Are Not Included](https://open.spotify.com/album/6ZuVQpTUoh1HIrftDoxiH8) | 3:31 |
+| 797 | [Lucky Eight](https://open.spotify.com/track/3N12sKNtWiyV2nIr2Bsr1T) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 4:00 |
+| 798 | [Know Thyself](https://open.spotify.com/track/0NsdQxyf7OexDbjzlYReRP) | [Lunaverra](https://open.spotify.com/artist/3RgfpfmGKe3xV4a7VwuN1P) | [Know Thyself](https://open.spotify.com/album/2Nf4njSkt5bbgbwHQxG6gI) | 3:42 |
+| 799 | [Post Teens](https://open.spotify.com/track/5tjZ91tbeZIssQRgaHnG3r) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Post Teens](https://open.spotify.com/album/7lqpOdUkBqgjko7FTFOyq3) | 3:56 |
+| 800 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 |
+| 801 | [Welt aus Papier](https://open.spotify.com/track/55n7QKGMwlKgcuhfFzCdY6) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Impartments](https://open.spotify.com/album/4WVCTDY3bZDiTnK5246kRT) | 6:00 |
 
-Snapshot ID: `AAADNEYJkqOqzwlp9qMTTxPYZjO5US9s`
+Snapshot ID: `AAADO/95sjDyfOMmp/t6ufm0ChRwZ1LF`

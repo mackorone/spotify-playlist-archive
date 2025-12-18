@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,835 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,840 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 8 | [Tic Toc Toc](https://open.spotify.com/track/6LbAefeQKQUgx77v18BL3q) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Tic Toc Toc](https://open.spotify.com/album/2KgO323uBA7a3EoxIDmPdY) | 2:23 |
 | 9 | [Los Vino´](https://open.spotify.com/track/4t65nqFwjv921ocsNlhUg5) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Dos](https://open.spotify.com/album/2K6RrzfNNlFq8dUOLkpzL5) | 2:43 |
 | 10 | [Vi Luz y Subí](https://open.spotify.com/track/1iJqnTaBrKQKGWMU7DNzx0) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 3:16 |
-| 11 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 |
-| 12 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 |
+| 11 | [Regina](https://open.spotify.com/track/4HJaTZTBxNZ7kxZExuMMDr) | [Electrocutango](https://open.spotify.com/artist/2cj1R53AEPGh3hNvipWs0i) | [Felino](https://open.spotify.com/album/2fCOloYpBVq62UjAz24FhS) | 5:43 |
+| 12 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 |
 | 13 | [QUE NADIE SEPA MI SUFRIR](https://open.spotify.com/track/2I2nyvTQkdl4UR03Rumkx2) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [ACTOS DE GENTILEZA](https://open.spotify.com/album/60zLloJjOO0RtrBvnufUMl) | 3:01 |
 | 14 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
 | 15 | [Chiqué](https://open.spotify.com/track/11XWTsiSeaIhv6nvYoaKIP) | [Ramiro Boero](https://open.spotify.com/artist/06yGc3ObG7hzni93vyv6Gb) | [Chiqué](https://open.spotify.com/album/5pxeddULMTojRNkSmSJyjB) | 3:42 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 41 | [Caminito](https://open.spotify.com/track/4TiYDx9Msjyk3ZxWaiEq1h) | [Sudestada Tango](https://open.spotify.com/artist/3wIDWa1hCa2EFZJKOjgS1S), [Chino Laborde](https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP) | [Otoño](https://open.spotify.com/album/0e6nn83SoAOV6XeWDAUNkn) | 4:23 |
 | 42 | [Sube Y Baja](https://open.spotify.com/track/4W6EyV83P9GxKHGiQ2uoUQ) | [MLNGA CLUB](https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh) | [Mlnga Club](https://open.spotify.com/album/1WuCYVq8MBofBOluFpLK73) | 4:04 |
 | 43 | [El Vino Triste](https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [El Vino Triste \(feat\. Raúl Lavié\)](https://open.spotify.com/album/07G5T8FaZTFYRNtawKaPHQ) | 2:53 |
-| 44 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
-| 45 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
+| 44 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
+| 45 | [Transtango](https://open.spotify.com/track/6ajUXYpxjeP6PrjJOoY0b2) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Reinventango](https://open.spotify.com/album/5jwhQjcZ5sIiNos3OfLwxi) | 4:19 |
 | 46 | [SOLO](https://open.spotify.com/track/6XdSYm8aBk5cp4tAA8Cgie) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:33 |
 | 47 | [La Última Copa](https://open.spotify.com/track/5QWi1iGvTappdOGes0CAPE) | [Mauricio Junior Lescano](https://open.spotify.com/artist/0InckL49BuCjxQZuSPg9DV) | [Modo Tango](https://open.spotify.com/album/5hztYEebSTjDTFEV1gO9hK) | 2:35 |
 | 48 | [Veinte Veinte](https://open.spotify.com/track/7ubSJ86N9Lzzt3qYL58ZNV) | [BIFE](https://open.spotify.com/artist/1UmyLRbgkEd90qEvMECEzk), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF) | [Veinte Veinte](https://open.spotify.com/album/6ky4237OIoampV0wzjCYyG) | 2:48 |

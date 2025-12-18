@@ -1,12 +1,12 @@
 {
   "description": "This is Angie Stone. The essential tracks, all in one playlist.",
-  "num_followers": 25739,
+  "num_followers": 25741,
   "original_name": "This Is Angie Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAABbJzzoi26Pey0NqZAYdsoV",
+  "snapshot_id": "aUChAAAAAAD9OUjYJHsfx0tEFZj2VbP7",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+        "name": "All I'm Missing",
+        "url": "https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD"
       },
       "artists": [
         {
@@ -360,13 +360,17 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         },
         {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+          "name": "J. Brown",
+          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
+        },
+        {
+          "name": "Jaunita Wynn",
+          "url": "https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69"
         }
       ],
-      "duration_ms": 290093,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
+      "duration_ms": 160671,
+      "name": "All I'm Missing",
+      "url": "https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT"
     },
     {
       "added_at": null,
@@ -403,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All I'm Missing",
-        "url": "https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD"
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
       "artists": [
         {
@@ -412,17 +416,13 @@
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         },
         {
-          "name": "J. Brown",
-          "url": "https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb"
-        },
-        {
-          "name": "Jaunita Wynn",
-          "url": "https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69"
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
         }
       ],
-      "duration_ms": 160671,
-      "name": "All I'm Missing",
-      "url": "https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT"
+      "duration_ms": 290093,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
     },
     {
       "added_at": null,
@@ -635,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
-        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 322360,
-      "name": "Since I Lost My Baby",
-      "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
+      "duration_ms": 238220,
+      "name": "Gonna Have to Be You",
+      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
     },
     {
       "added_at": null,
@@ -667,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So Amazing: An All-Star Tribute To Luther Vandross",
+        "url": "https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 322360,
+      "name": "Since I Lost My Baby",
+      "url": "https://open.spotify.com/track/60sfBPovUoGakpff86kf9F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 236533,
       "name": "U-Haul",
       "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "Gonna Have to Be You",
-      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angie Stone - Wish I Didn't Miss You (IQ Musique House Remix)",
         "url": "https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 321295,
       "name": "Angie Stone - IQ Musique House Mix",
       "url": "https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,
@@ -807,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Dave Hollister",
+          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 176426,
-      "name": "Red, Red Wine",
-      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
+      "duration_ms": 243641,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
     },
     {
       "added_at": null,
@@ -843,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Dave Hollister",
-          "url": "https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm"
         }
       ],
-      "duration_ms": 243641,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
+      "duration_ms": 176426,
+      "name": "Red, Red Wine",
+      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
       "duration_ms": 206786,
       "name": "I Ain\u2019t Hearin\u2019 U",
       "url": "https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 209345,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5RMf9Fc1U4x7kHgx5Swb7H"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
       "duration_ms": 295266,
       "name": "My Nutmeg Phantasy (featuring Angie Stone & Mos Def) (feat. Angie Stone & Mos Def)",
       "url": "https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"
     }
   ],
   "unique_name": "This Is Angie Stone",

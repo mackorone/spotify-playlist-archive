@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-289 songs - 17 hr 8 min
+291 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [CANDY](https://open.spotify.com/track/5TbybBJ0kD7c9ktScfrHrZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CANDY \(Official Video\)](https://open.spotify.com/album/0jt5jPQAFA0c25EWHsNEzA) | 2:41 | 2023-12-13 | 2024-02-02 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2023-12-19 |  |
 | [Cardigan](https://open.spotify.com/track/0Li1OuXXfi7950ilZUFGkF) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:38 | 2023-12-13 |  |
+| [Casual Encounter](https://open.spotify.com/track/6lyAknGETv4M6UBqJyXy8B) | [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [Casual Encounter](https://open.spotify.com/album/4M0rxKyC5TgzKos1FFZOTr) | 3:37 | 2025-12-17 |  |
 | [Celebrate \(feat\. Travis Scott & Post Malone\)](https://open.spotify.com/track/0b6UoVjUzFyZNpHI0aAhKt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:26 | 2023-12-13 |  |
 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 | 2023-12-13 |  |
 | [Charge It To The Rap Game](https://open.spotify.com/track/4qQePxheRSXNd2lqlvgGYd) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Ludaversal \(Deluxe\)](https://open.spotify.com/album/2KlVwY7H9B9KvFXJglqzWq) | 3:50 | 2023-12-13 |  |
@@ -152,6 +153,7 @@
 | [It’s Nice To Have A Friend](https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:30 | 2023-12-13 |  |
 | [Jo Bros](https://open.spotify.com/track/6RMNFacCLVjpthfp62orGz) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [One Night Only](https://open.spotify.com/album/6GdJPhGu12KSZ7KdgBfye1) | 3:35 | 2023-12-13 |  |
 | [Kaleidoscope](https://open.spotify.com/track/7dndtqc3GFAVCuzwccRXgv) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 7:06 | 2023-12-13 |  |
+| [Keep Your Head Up](https://open.spotify.com/track/71E4gfiZhVJF9xfzP9u2SR) | [Doug Shorts](https://open.spotify.com/artist/0Mqy0WLIhiV2g1WanUInzx) | [Casual Encounter](https://open.spotify.com/album/4M0rxKyC5TgzKos1FFZOTr) | 3:29 | 2025-12-17 |  |
 | [Kids](https://open.spotify.com/track/0iUxQW0LRXKHcnur6CGu2c) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq) | 4:30 | 2024-01-24 |  |
 | [Kids](https://open.spotify.com/track/5zXK1z8U96zU3tZlFFXYdH) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [The Sailor](https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d) | 4:30 | 2023-12-13 | 2024-01-25 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2023-12-13 |  |

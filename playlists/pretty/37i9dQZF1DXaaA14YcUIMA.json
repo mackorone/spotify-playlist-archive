@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 629672,
+  "num_followers": 629870,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "No Tengo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Pero No Me Dejes",
         "url": "https://open.spotify.com/album/7IyaFTtjDY7iOUQAJ8YXfZ"
       },
@@ -855,18 +855,34 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
       "artists": [
         {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
         }
       ],
-      "duration_ms": 167093,
-      "name": "No Tengo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
+      "duration_ms": 212253,
+      "name": "Dos Cartas y una Flor",
+      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -903,22 +919,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "En La Luna",
-        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
-      },
-      "artists": [
-        {
-          "name": "Los Carlos",
-          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "P\u00eddeme La Luna",
-      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+        "name": "En La Luna",
+        "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
       "artists": [
         {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+          "name": "Los Carlos",
+          "url": "https://open.spotify.com/artist/1tVpZyBwLklWcc4BnEEveq"
         }
       ],
-      "duration_ms": 212253,
-      "name": "Dos Cartas y una Flor",
-      "url": "https://open.spotify.com/track/08ewluhsdwbAnooftJw0ly"
+      "duration_ms": 192029,
+      "name": "P\u00eddeme La Luna",
+      "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "35 Aniversario",
-        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 227933,
-      "name": "Actos De Un Tonto",
-      "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Coraz\u00f3n Rom\u00e1ntico... Los Exitos",
         "url": "https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 222200,
       "name": "Cuatro Palabras",
       "url": "https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "35 Aniversario",
+        "url": "https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Actos De Un Tonto",
+      "url": "https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
-      },
-      "artists": [
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Una Carta",
         "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 204916,
       "name": "Una Carta",
       "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+      },
+      "artists": [
+        {
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+        }
+      ],
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2024-08-28 00:51:57",

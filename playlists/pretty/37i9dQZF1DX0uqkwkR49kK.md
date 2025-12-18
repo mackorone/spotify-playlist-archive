@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,650 likes - 60 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,684 likes - 60 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 33 | [Hand Cannot Erase](https://open.spotify.com/track/2xW0vkJgBLFlnUVq60vhaO) | [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [Hand Cannot Erase \(Super Deluxe\)](https://open.spotify.com/album/1XJq9D6FTbGCogLupqHtW0) | 4:13 |
 | 34 | [Moonshake](https://open.spotify.com/track/6ACXIPu0jhLDriV5sjrWtb) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Future Days \(Remastered Version\)](https://open.spotify.com/album/22ZgHorVJzcZ4m8YBZCw4w) | 3:02 |
 | 35 | [The Lamb Lies Down on Broadway \- 2007 Stereo Mix](https://open.spotify.com/track/10birs3L6T1PnvDwk4NXuf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Lamb Lies Down on Broadway \(2007 Stereo Mix\)](https://open.spotify.com/album/49BxISwAbZZfmlhqD6Vh88) | 4:53 |
-| 36 | [Phasors On Stun](https://open.spotify.com/track/5BY8dGGf3BaJ3isf87Gi8e) | [FM](https://open.spotify.com/artist/0WOZYC6Auxvg8pb6m15Wow) | [Black Noise](https://open.spotify.com/album/0rlAUicBfsAHnq0oUuWYTX) | 3:48 |
+| 36 | [Phasors On Stun](https://open.spotify.com/track/5BY8dGGf3BaJ3isf87Gi8e) | [FM](https://open.spotify.com/artist/0VHzqKNJJx6Ntinmwa9gtP) | [Black Noise](https://open.spotify.com/album/0rlAUicBfsAHnq0oUuWYTX) | 3:48 |
 | 37 | [World of the Void](https://open.spotify.com/track/2rYIPIXL0b8oVMvsZAoF1J) | [Kaipa](https://open.spotify.com/artist/2pD2PTwYf1XJQth2hSEmpa) | [Sattyg](https://open.spotify.com/album/32uueAtXcDeYIQ2I26qFo0) | 7:51 |
 | 38 | [Migration](https://open.spotify.com/track/1QYpsiC3a6kg1mrWKZ9PHK) | [Camel](https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P) | [The Snow Goose](https://open.spotify.com/album/7ny9OWZ336Y4gGSSgHlkFB) | 2:01 |
 | 39 | [Have a Cigar](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:07 |

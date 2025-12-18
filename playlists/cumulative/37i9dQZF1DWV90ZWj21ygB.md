@@ -4,7 +4,7 @@
 
 > Relax to the roaring sound of crashing waves.
 
-263 songs - 12 hr 39 min
+264 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,11 +18,11 @@
 | [Atlanic Waves](https://open.spotify.com/track/3oCsOtGbEeWgSl1pCMy5WU) | [Groundwater Gabriel](https://open.spotify.com/artist/7D6h05H8UYNdbP6bE5OFoG) | [I Can Wave](https://open.spotify.com/album/0ZbwLMSNTL2l9fZYFVg4sy) | 1:31 | 2022-08-03 | 2023-06-20 |
 | [Atlantic Night Waves](https://open.spotify.com/track/4kOY2xfpY5LlNDvNhmkz2g) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Cape Waves \(Ocean Waves\)](https://open.spotify.com/album/4DI1eJ6qRCNobtKsSGQndV) | 2:40 | 2022-08-03 | 2025-10-29 |
 | [Atlantic Ocean Waves](https://open.spotify.com/track/6MpfbMkZ5WdBYlePHnNC0M) | [Lakoustiks](https://open.spotify.com/artist/3D8fqVzEmlJnUq50MV3aJl) | [Atlantic Ocean Waves](https://open.spotify.com/album/2DYak3NDDIGoWlej68PjAb) | 3:19 | 2024-04-15 |  |
-| [Atlantic Sunrise VI](https://open.spotify.com/track/7cJsGKinQt3j182hplq5yo) | [Broadsand](https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv) | [Atlantic Sunrise VI](https://open.spotify.com/album/27gHAOW8hrdwTNWFLWWOV4) | 2:54 | 2025-10-14 |  |
+| [Atlantic Sunrise VI](https://open.spotify.com/track/7cJsGKinQt3j182hplq5yo) | [Broadsand](https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv) | [Atlantic Sunrise VI](https://open.spotify.com/album/27gHAOW8hrdwTNWFLWWOV4) | 2:54 | 2025-10-14 | 2025-12-18 |
 | [Atlantic Sunrise VII](https://open.spotify.com/track/4XOu6EbqQrdNxjeV6EgwEp) | [Broadsand](https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv) | [Atlantic Sunrise VII](https://open.spotify.com/album/6yICH1GmlLCOUjNj0vGoRp) | 2:46 | 2025-09-23 |  |
 | [Atlantic Sunrise VIII](https://open.spotify.com/track/4YbjzBacCqUZ1sDyf8u8JA) | [Broadsand](https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv) | [Atlantic Sunrise VIII](https://open.spotify.com/album/3pqsA5Knby1DYDi63luO7g) | 2:54 | 2025-09-23 |  |
 | [Atlantic Waves](https://open.spotify.com/track/6i8IQQ6FmgU7Y0ESccYchH) | [Waves of Atlantic](https://open.spotify.com/artist/4rSV2yuDQBYqICEXgemgir) | [Atlantic Waves](https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1) | 3:41 | 2022-08-03 |  |
-| [Atlantic Waves](https://open.spotify.com/track/3O13orieNSsuObfPFS8BwG) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 2:51 | 2022-08-03 |  |
+| [Atlantic Waves](https://open.spotify.com/track/3O13orieNSsuObfPFS8BwG) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 2:51 | 2022-08-03 | 2025-12-18 |
 | [Autumn Waves](https://open.spotify.com/track/6oCqjV6lUfshELuSM090YF) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Ocean Dreams](https://open.spotify.com/album/40kzA9PJTw3WsbUhG1HjLe) | 2:19 | 2024-03-18 |  |
 | [Bali Beach Waves](https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Coastal Clifftop Waves](https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj) | 4:10 | 2022-08-03 | 2023-06-20 |
 | [Baltic Ocean Wave Sounds](https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Ocean Sounds Vol\. 1](https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59) | 2:55 | 2022-08-03 |  |
@@ -67,6 +67,7 @@
 | [Dark Blue Waves](https://open.spotify.com/track/2lre6qQ75iYsyvmwlORmBQ) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Dark Blue Waves](https://open.spotify.com/album/4pCi31FZoYt4MMgMFfRlQi) | 2:38 | 2024-03-18 |  |
 | [Dark Winds And Stormy Ocean](https://open.spotify.com/track/5bJFDUtTqtkDMgDjklrC9J) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [Ocean HD Vol\. 4](https://open.spotify.com/album/7fFcVyns1uBinjiBOGbcbv) | 2:43 | 2024-04-15 | 2025-09-24 |
 | [Daytona Beach Waves](https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:23 | 2022-08-03 | 2023-06-20 |
+| [Deep Misty Ocean](https://open.spotify.com/track/7BWAdCuEOBcOWL9lWfi6ib) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Deep Misty Ocean](https://open.spotify.com/album/59w2WOOcMhVXB4GjKWpk7Z) | 2:29 | 2025-11-10 |  |
 | [Distan Winds And Wave Sounds](https://open.spotify.com/track/2gGxWhcOJ40DncuogOXdmh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 2:43 | 2022-08-03 | 2024-04-19 |
 | [Distant Waves](https://open.spotify.com/track/4Ql30uKSojQ49MCRV7IMV5) | [Michael Pole](https://open.spotify.com/artist/5QOg8xdFwY9ttJgSXlp8Jk) | [Ocean Beach Samples](https://open.spotify.com/album/0rp2448Xx1xBQrHCRGdlcX) | 1:42 | 2022-08-03 | 2023-06-20 |
 | [Distant Waves Pt\. 2](https://open.spotify.com/track/6gj55yZkNA0UA9XDO4PXof) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Oceanic Breeze](https://open.spotify.com/album/57LHRRqc9ItBhuwmRFEMqp) | 2:48 | 2022-08-03 | 2024-03-23 |
@@ -110,7 +111,7 @@
 | [Mediterranean Sea](https://open.spotify.com/track/06OXGSu3HfaLcct0AX51Y7) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Mediterranean Sea](https://open.spotify.com/album/26HRhpTI4y75eprIhUeZya) | 2:22 | 2025-11-10 |  |
 | [Miami Beach Waves](https://open.spotify.com/track/12Dq3g5lnKjg6sgtQITuUw) | [Chill Bees](https://open.spotify.com/artist/317OsNvmAmolBVu7dLWhhD) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:23 | 2022-08-03 |  |
 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 | 2022-08-03 |  |
-| [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2022-08-03 | 2025-11-15 |
+| [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2022-08-03 |  |
 | [Naples Beach](https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 2:02 | 2022-08-03 |  |
 | [Nature: Depths of Softness](https://open.spotify.com/track/52HbaYhiH5xewPRQdbEBvB) | [Lush Waves Creators](https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:20 | 2022-08-03 |  |
 | [Ocean Dreams](https://open.spotify.com/track/2VhxisRDxlAS8kcHgMzbl2) | [Waveseekers](https://open.spotify.com/artist/02ucRkp1Tm4yA5ZZwfG184) | [Ocean Dreams](https://open.spotify.com/album/40kzA9PJTw3WsbUhG1HjLe) | 3:00 | 2024-03-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 
 > Listen to the best Rock musics🔥.
 
-[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 821 likes - 515 songs - 1 day 7 hr 10 min
+[BLX RECORDS](https://open.spotify.com/user/31kk7jt42cb2wl27pkokzrwdsl7q) - 820 likes - 515 songs - 1 day 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,7 +196,7 @@ pretty - [cumulative](/playlists/cumulative/71OJHVz8ygWcijadEcB3uD.md) - [plain]
 | 186 | [No Me Conoces](https://open.spotify.com/track/3ZHDeswK0zUqn3AFj80y3C) | [The Saint Daniel Project](https://open.spotify.com/artist/3KfVAnSb4K79mP9lRZ5cJ0) | [Todo Otra Vez](https://open.spotify.com/album/3RiEzVKmXEkurp8uKLc6YP) | 2:16 |
 | 187 | [Mystery](https://open.spotify.com/track/61aPtG4pJO8LF2ZoXUXbJ0) | [Brady Dallas Jones](https://open.spotify.com/artist/1rIwijYA6jhIQo7VBVNuCT) | [Mystery](https://open.spotify.com/album/0nGZAwJWuYILovf6jrrZk0) | 3:31 |
 | 188 | [Sii sveglio](https://open.spotify.com/track/6UJgsjdT7QYC2NpLF9UXmu) | [Progetto Formativo](https://open.spotify.com/artist/07bCzhj60V0cp4FIyM260p) | [Moda](https://open.spotify.com/album/6KQrFKAAjfqRSXnCldvEGt) | 2:34 |
-| 189 | [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [Glows Vent](https://open.spotify.com/artist/6ER67V0fl4INMQvugwO9md) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 |
+| 189 | [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [DESVASTARDOS](https://open.spotify.com/artist/42yvmSe4biIZio90cwI2EN) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 |
 | 190 | [Fall in Love](https://open.spotify.com/track/32qVQMSMbA6vzWKHaWsuCJ) | [Star Crystal](https://open.spotify.com/artist/0heeideNtetIRa4LIz2kO5) | [Revival of Glam](https://open.spotify.com/album/7shuzVo9YS8Lfbw7RjhuU9) | 5:25 |
 | 191 | [Never Forget](https://open.spotify.com/track/36CCAICDSUn2zE8sEASqHT) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [Never Forget](https://open.spotify.com/album/2cOPbtSoU8u66kEaRTwAeL) | 3:32 |
 | 192 | [Things Won't Be The Same](https://open.spotify.com/track/6hZM4lUIc7x72NIaDn59l3) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Things Won't Be The Same](https://open.spotify.com/album/3d0nPUL8AjoeHdqFaOAgj1) | 3:21 |

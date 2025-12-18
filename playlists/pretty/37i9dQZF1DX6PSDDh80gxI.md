@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Marco Castello ha uscito un nuovo album, ah quantu è beddu 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,486 likes - 83 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,456 likes - 83 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 54 | [REPLAY](https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [REPLAY](https://open.spotify.com/album/5dm3wk4h6JCZzM46lImPIP) | 2:07 |
 | 55 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 |
 | 56 | [Addiaccio](https://open.spotify.com/track/7uFeGyXsHE5yBmulyXptlh) | [Marco Giudici](https://open.spotify.com/artist/04hb6csoUymn42lRJg8fFy) | [Trovarsi soli all'improvviso](https://open.spotify.com/album/3bwH0VsP6E2geTBAAmE8Eo) | 3:34 |
-| 57 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:36 |
+| 57 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:34 |
 | 58 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 |
 | 59 | [Mal di te](https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Mal di te](https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA) | 2:59 |
 | 60 | [Tuttoscorre](https://open.spotify.com/track/39syG1EEGZECGdb4Us59DH) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: V\-Be
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,148 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,160 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 13 | [All My Enemies Are Suffering](https://open.spotify.com/track/2KtuNqz9wE23Uy0VVS8izJ) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All My Enemies Are Suffering](https://open.spotify.com/album/3hWcG5eyPdchM0oGNmTwqg) | 3:14 |
 | 14 | [Sway](https://open.spotify.com/track/4FhJEUaMwfzY010aLZAnIn) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Sway](https://open.spotify.com/album/1Ae24WJAJzBLGcxto5SQzl) | 3:10 |
 | 15 | [Server](https://open.spotify.com/track/3hG3x8Msj5c4X86oJAuRms) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Server](https://open.spotify.com/album/3sQWGx5e4dRVztWo72Qahl) | 4:05 |
-| 16 | [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:50 |
+| 16 | [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:52 |
 | 17 | [Donjo Maber](https://open.spotify.com/track/0Qiy6PYDxjkkvB7e5KfHtk) | [Iyanii](https://open.spotify.com/artist/3gLHw3c6qPeJFMmgyZYfmr), [Dufla](https://open.spotify.com/artist/4GoDK9fd6jIRjetgGZnmnC) | [Donjo Maber](https://open.spotify.com/album/75FCGkhyIFaW0kc6HqLe8y) | 3:13 |
 | 18 | [Mangware](https://open.spotify.com/track/3aiwhTT14AcGxTAmw42GBm) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Mangware](https://open.spotify.com/album/2khrWO6bJ7SgSy7sL1oq43) | 3:43 |
 | 19 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 |

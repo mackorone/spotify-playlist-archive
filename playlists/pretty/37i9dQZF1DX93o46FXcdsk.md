@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,102 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,105 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 21 | [Zij](https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:05 |
 | 22 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
 | 23 | [Stilte In De Storm](https://open.spotify.com/track/39ZTmjrBK4tM2tlohOpmkF) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:16 |
-| 24 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
-| 25 | [Tranen Gelachen](https://open.spotify.com/track/31TZG9ivW7nWl14OWVoCak) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:25 |
+| 24 | [Tranen Gelachen](https://open.spotify.com/track/31TZG9ivW7nWl14OWVoCak) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:25 |
+| 25 | [Een Wereld](https://open.spotify.com/track/0ydAL1Cfrj9hYcaamOvN1r) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:54 |
 | 26 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 |
-| 27 | [Een Wereld](https://open.spotify.com/track/0ydAL1Cfrj9hYcaamOvN1r) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:54 |
+| 27 | [Wêr Bisto](https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK) | [Twarres](https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF) | [Stream](https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0) | 3:46 |
 | 28 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 |
-| 29 | [Hald Mich 'S Vas](https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE) | [Neet oét Lottum](https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY) | [Krak](https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2) | 4:10 |
-| 30 | [De Weg](https://open.spotify.com/track/635SzX3i16N8h7Ry8pl8Re) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 4:27 |
+| 29 | [De Weg](https://open.spotify.com/track/635SzX3i16N8h7Ry8pl8Re) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 4:27 |
+| 30 | [Hald Mich 'S Vas](https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE) | [Neet oét Lottum](https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY) | [Krak](https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2) | 4:10 |
 | 31 | [De Kapitein Deel II](https://open.spotify.com/track/25v3woD9LIoL8wJZDu7HId) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/6YQnL0M6jruuuSuppGh1rb) | 3:01 |
 | 32 | [My Way](https://open.spotify.com/track/2PSAQqjeeDG3QKWv8Jaiz5) | [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [My Way \- The Hits](https://open.spotify.com/album/17byQ9D5BJbBWK6VT6BgGD) | 4:43 |
 | 33 | [Uit de Schaduw](https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Uit de schaduw](https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC) | 3:49 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 36 | [Ren Lenny Ren](https://open.spotify.com/track/7bDI0xPdgGJIq6j8Gueqhj) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Adem](https://open.spotify.com/album/4JSTsGRrrd5yBnNtzPsnlO) | 3:53 |
 | 37 | [Dat Zou Mooi Zijn](https://open.spotify.com/track/0GkwHMM9VGkIf3d6mJqZdp) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Muzikanten Dansen Niet](https://open.spotify.com/album/0oVWWldlWhw01N8NyEbCCy) | 3:19 |
 | 38 | [Onderweg](https://open.spotify.com/track/1EtcyegB7JLkAwwqiPyeJ6) | [Abel](https://open.spotify.com/artist/4jZgb7ktwlvOA56nlmbaFH) | [De Stilte Voorbij](https://open.spotify.com/album/1aUGHhcpj1sfNQlcsd0UL2) | 3:09 |
-| 39 | [Blijf Bij Mij](https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Blijf Bij Mij](https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5) | 4:01 |
+| 39 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 |
 | 40 | [Alles Is Liefde](https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:29 |
-| 41 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 |
+| 41 | [Blijf Bij Mij](https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Blijf Bij Mij](https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5) | 4:01 |
 | 42 | [Slaap Lekker \(Fantastig Toch\)](https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA), [Eva De Roovere](https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD) | [Lange Nachten, Korte Dagen](https://open.spotify.com/album/5zGatNPECcHQZyLwSLEFDN) | 3:43 |
 | 43 | [Rosanne](https://open.spotify.com/track/3uVStmfnvh0lT4ispLGvt5) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/61Hj7eJ70YRLYd8XOMCVHt) | 2:39 |
 | 44 | [November](https://open.spotify.com/track/7wRDVmQSzKN7wq1zYG3EJk) | [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Saus](https://open.spotify.com/album/2tw8rXiHgAyKZNm4j3XmxA) | 5:09 |

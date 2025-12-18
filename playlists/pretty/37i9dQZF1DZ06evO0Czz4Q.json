@@ -1,12 +1,12 @@
 {
   "description": "This is Luther Vandross. The essential tracks, all in one playlist.",
-  "num_followers": 136802,
+  "num_followers": 136812,
   "original_name": "This Is Luther Vandross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAAg1WSaFIO7Amuz2o+QBgqZ",
+  "snapshot_id": "aUChAAAAAACsUVMN8ttx4fFuKjSuFYZT",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luther Vandross",
-        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 319800,
-      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
-      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Night With You: The Best Of Love, Volume 2",
         "url": "https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 327920,
       "name": "It's All About You",
       "url": "https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luther Vandross",
+        "url": "https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 319800,
+      "name": "Hearts Get Broken All The Time (But The Problem Is, This Time It's Mine)",
+      "url": "https://open.spotify.com/track/0Ox37YuxVMuX5F95OgoqQo"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 287592,
-      "name": "Give Me the Reason",
-      "url": "https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST"
+      "duration_ms": 375791,
+      "name": "Because It's Really Love",
+      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 375791,
-      "name": "Because It's Really Love",
-      "url": "https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4"
+      "duration_ms": 287592,
+      "name": "Give Me the Reason",
+      "url": "https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever, For Always, For Love",
-        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+        "name": "The Night I Fell In Love",
+        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 383548,
-      "name": "Forever, for Always, for Love",
-      "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
+      "duration_ms": 245551,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Night I Fell In Love",
-        "url": "https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY"
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 245551,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3"
+      "duration_ms": 383548,
+      "name": "Forever, for Always, for Love",
+      "url": "https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J"
     },
     {
       "added_at": null,

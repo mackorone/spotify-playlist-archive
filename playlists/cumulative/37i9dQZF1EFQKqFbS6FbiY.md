@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-723 songs - 1 day 11 hr 13 min
+724 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Mando Ou Não Mando \- Ao Vivo](https://open.spotify.com/track/6z4VYiyrY1EtQ7gfmISxPs) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [De Copo Em Copo \(Ao Vivo\)](https://open.spotify.com/album/5L89EcPmG4pLubz7jsmGmi) | 2:59 | 2023-12-30 |  |
 | [Marchate Ahora](https://open.spotify.com/track/4y0e3ExELaugYrkwhAeAAB) | [Juan Salguero](https://open.spotify.com/artist/0Or76RlOCqhutBjAF4WoB0) | [Marchate Ahora](https://open.spotify.com/album/5MSJnuj00fZCevgiGPcAFQ) | 4:07 | 2023-12-30 |  |
 | [Mariana \- Ao Vivo](https://open.spotify.com/track/10hgJEcUvOAFbSOvwlZpZv) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [João Gabriel: Ao Vivo em Goiânia](https://open.spotify.com/album/7kYGk5VsNaBwa3OuVsKmlI) | 3:20 | 2023-12-30 |  |
+| [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 | 2025-12-17 |  |
 | [Marquinha da Calcinha](https://open.spotify.com/track/3ZfJimxLvdK30kf8BOOlmA) | [Pedro Iba](https://open.spotify.com/artist/3DlFYbpyLum6Mnrl1alnMy) | [Aumenta o Som, Pt\. 1](https://open.spotify.com/album/5An5cjKPGLmpJucvtyFGdR) | 2:32 | 2023-12-30 |  |
 | [Matando Cachorro a Grito \- Ao Vivo](https://open.spotify.com/track/5rBrvn6O2iLFGh68Wgo38Y) | [Karol Reis](https://open.spotify.com/artist/0QrcTUZe7ZeNbmS3AGX5Rs) | [Detalhes \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/25I8iYeYoaZZ3rdfRqx4mG) | 2:47 | 2023-12-30 |  |
 | [Me Ajuda Aí Mô](https://open.spotify.com/track/4tD6iNo8P21uUHVMbHquhN) | [Wlad Borges](https://open.spotify.com/artist/0StY0HK5P4b2mYAt5NShkW), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Me Ajuda Aí Mô](https://open.spotify.com/album/6lP14svqo35sDYjzX2aBC0) | 3:03 | 2023-12-30 |  |

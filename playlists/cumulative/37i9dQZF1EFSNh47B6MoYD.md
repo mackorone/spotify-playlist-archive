@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 10 hr 55 min
+178 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/2vPmivEKAgdBY9WiOeKBIi) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/1eYDmaDVd5ZcIgbKh4pLOT) | 3:54 | 2025-12-06 |  |
 | [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/58leE3SqJv2Ol8OYiKiSfS) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/4ANRnYE30UumUjxlvIHrzS) | 3:54 | 2023-03-09 | 2025-12-07 |
 | [Déjame Ser](https://open.spotify.com/track/1ulFHInMGgimr006vDUa8c) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Soy](https://open.spotify.com/album/7IIOcMIp2AYlxgJQ0Ql7YR) | 3:44 | 2025-01-09 | 2025-04-12 |
-| [Echa P'aca \(a/k/a Déjate Llevar\)](https://open.spotify.com/track/0cGFKKxMuMdRfwtaOGNCVQ) | [Donato Poveda](https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP) | [Bohemio Enamorado](https://open.spotify.com/album/5nKzMMs0MfZrUSuXicagfG) | 4:34 | 2023-03-09 |  |
+| [Echa P'aca \(a/k/a Déjate Llevar\)](https://open.spotify.com/track/3f3p2YkAEuSAE8eNyaylBg) | [Donato Poveda](https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP) | [Bohemio Enamorado](https://open.spotify.com/album/3gnVDTcJK3MHV7tIU1ZJv4) | 4:31 | 2025-12-17 |  |
+| [Echa P'aca \(a/k/a Déjate Llevar\)](https://open.spotify.com/track/0cGFKKxMuMdRfwtaOGNCVQ) | [Donato Poveda](https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP) | [Bohemio Enamorado](https://open.spotify.com/album/5nKzMMs0MfZrUSuXicagfG) | 4:34 | 2023-03-09 | 2025-12-18 |
 | [Efecto Secundario](https://open.spotify.com/track/1lr19xYTvsSH5Vf819bMAG) | [Marger](https://open.spotify.com/artist/69thfQCn68arnQ31jxF2gN) | [Como Te Digo](https://open.spotify.com/album/6P0o98lx8qGwSkdyE9Y1ji) | 3:33 | 2023-03-09 |  |
 | [El Lugar Que Me Vio Nacer](https://open.spotify.com/track/3YBfSs056lKJKGMPgCjjDF) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 4:39 | 2023-03-09 |  |
 | [El Mejor de Mis Errores \- En Vivo](https://open.spotify.com/track/5moGJ1dvkgR1U9OeLheYBV) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:19 | 2023-03-09 |  |

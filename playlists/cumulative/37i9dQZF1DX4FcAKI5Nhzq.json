@@ -21685,6 +21685,24 @@
     },
     {
       "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211425,
+      "name": "SEASONS",
+      "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"
+    },
+    {
+      "album": {
         "name": "Second",
         "url": "https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ"
       },

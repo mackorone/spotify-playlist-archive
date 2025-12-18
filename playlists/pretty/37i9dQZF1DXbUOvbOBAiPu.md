@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from DJ Licious, 21 Savage, Becky G, Iskander Moon and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,078 likes - 77 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,071 likes - 77 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 121383,
+  "num_followers": 121434,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAACGdVRvzEljKDO5rohwXHR96Wpvw",
   "tracks": [
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 199333,
       "name": "El Columpio",
       "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Las Tres Tumbas",
-      "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "Rancher\u00edsimo, Vol. 2",
         "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 195117,
       "name": "El Hijo Desobediente",
       "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Las Tres Tumbas",
+      "url": "https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -291,8 +291,8 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Pacas De A Kilo",
-      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
+      "duration_ms": 193106,
+      "name": "Pedro Y Pablo",
+      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Pedro Y Pablo",
-      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
+      "duration_ms": 214000,
+      "name": "Pacas De A Kilo",
+      "url": "https://open.spotify.com/track/4mBRMSabjk5OFpwAyZyHOI"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Era Cabron El Viejo",
+        "url": "https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Era Cabr\u00f3n El Viejo",
+      "url": "https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "La Caspa Del Diablo-Corridos A Toda Ley",
         "url": "https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 156160,
       "name": "La Caspa Del Diablo",
       "url": "https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "Era Cabron El Viejo",
-        "url": "https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6"
-      },
-      "artists": [
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Era Cabr\u00f3n El Viejo",
-      "url": "https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Con La Nueva Federaci\u00f3n",
-        "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "Comandos Del M.P (500 Balazos)",
-      "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "El Hijo Del Viejo",
         "url": "https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 187520,
       "name": "Chevrolet Cuatro por Cuatro",
       "url": "https://open.spotify.com/track/5K8fmjSkNpJzCyaCmY5DMS"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Con La Nueva Federaci\u00f3n",
+        "url": "https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 139493,
+      "name": "Comandos Del M.P (500 Balazos)",
+      "url": "https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Con Banda Y De Parranda",
-        "url": "https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR"
-      },
-      "artists": [
-        {
-          "name": "Los Razos",
-          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "M\u00e1s Ching\u00f3n Que Ese Buey",
-      "url": "https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "21 Black Jack",
         "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 164386,
       "name": "Que No Se Apague La Lumbre",
       "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "Con Banda Y De Parranda",
+        "url": "https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR"
+      },
+      "artists": [
+        {
+          "name": "Los Razos",
+          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "M\u00e1s Ching\u00f3n Que Ese Buey",
+      "url": "https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "El Ultimo Cartucho",
+      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "Quince Madrazos Con Sus Compas",
         "url": "https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 209773,
       "name": "Chingon De Chingones",
       "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "20 Corridos Bien Perrones",
-        "url": "https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "Se Mam\u00f3 El Becerro",
         "url": "https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 204146,
       "name": "Se Mam\u00f3 El Becerro",
       "url": "https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "Corridos Volumen 1",
-        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "El Ultimo Cartucho",
-      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "CORRIDOS FAMOSOS VOL. 2 (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 207751,
-      "name": "Corrido de Chito Cano",
-      "url": "https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 194653,
       "name": "El Ultimo Contrabando",
       "url": "https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "CORRIDOS FAMOSOS VOL. 2 (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 207751,
+      "name": "Corrido de Chito Cano",
+      "url": "https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "El Cartel de Los Cielos",
-        "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
-      },
-      "artists": [
-        {
-          "name": "Los Cachorros de Juan Villarreal",
-          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Regalo Caro",
-      "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "A Las Damas Tambi\u00e9n Les Gustan Los Corridos",
         "url": "https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 175908,
       "name": "El Penal De La Loma",
       "url": "https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "El Cartel de Los Cielos",
+        "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "Sim\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "20 Corridos Valientes",
         "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 192522,
       "name": "Kil\u00f3metro 1160",
       "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Sim\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 145360,
-      "name": "Sucedio en el Aguaje",
-      "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
         "name": "El Mero Chaka",
         "url": "https://open.spotify.com/album/3mFKkfROmn7VUiZq3y7f5Q"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 144200,
       "name": "Pakas De A Kilo",
       "url": "https://open.spotify.com/track/3qCcaEfYemFDg1T1qCGUUD"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "Sucedio en el Aguaje",
+      "url": "https://open.spotify.com/track/6tyNlDonoU3GnU6fqnjCWD"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Los Corridos Favoritos Del Jefe",
+        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 219360,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "Por Las Damas",
         "url": "https://open.spotify.com/album/7f9iAg217HyY4rY0f6760q"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
-        "name": "Los Corridos Favoritos Del Jefe",
-        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
+        "name": "20 Exitos de Coleccion las Tres Mujeres",
+        "url": "https://open.spotify.com/album/3b54hAhWMtyTyGsHUy6rXR"
       },
       "artists": [
         {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+          "name": "Saul Viera El Gavilancillo",
+          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
         }
       ],
-      "duration_ms": 219360,
-      "name": "El Bazucazo",
-      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
+      "duration_ms": 180653,
+      "name": "Las Tres Mujeres",
+      "url": "https://open.spotify.com/track/2gDESZOQKJK91LYAdtBRu1"
     },
     {
       "added_at": "2024-11-18 18:28:40",
@@ -1659,22 +1675,6 @@
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/5GTtj2q0psedXHdUnFG4z3"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "20 Exitos de Coleccion las Tres Mujeres",
-        "url": "https://open.spotify.com/album/3b54hAhWMtyTyGsHUy6rXR"
-      },
-      "artists": [
-        {
-          "name": "Saul Viera El Gavilancillo",
-          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
-        }
-      ],
-      "duration_ms": 180653,
-      "name": "Las Tres Mujeres",
-      "url": "https://open.spotify.com/track/2gDESZOQKJK91LYAdtBRu1"
     }
   ],
   "unique_name": "We Love Corridos Viejitos ",

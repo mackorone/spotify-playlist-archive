@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Spanish Leather",
+        "url": "https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV"
+      },
+      "artists": [
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166068,
+      "name": "BABIECA!",
+      "url": "https://open.spotify.com/track/45VlOHY7pEd6IC3plYeKZ3"
+    },
+    {
+      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20500,
+  "num_followers": 20496,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADstIgP17owZCkflYOls9y1",
+  "snapshot_id": "aUChAAAAAAA1xEIjQWtpdxAqYuCBi8Sg",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 201786,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2np4WdbdOjxmm3gByJQnj4"
+      "duration_ms": 253480,
+      "name": "Beyond the Universe",
+      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 205920,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
+      "duration_ms": 222466,
+      "name": "China Heart",
+      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 253480,
-      "name": "Beyond the Universe",
-      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
+      "duration_ms": 201786,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2np4WdbdOjxmm3gByJQnj4"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 222466,
-      "name": "China Heart",
-      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
+      "duration_ms": 205920,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "The Deer & the Wolf",
+      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 227000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/409E7VEl0dAqHw5wk5gdvM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,

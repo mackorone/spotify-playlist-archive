@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 552 likes - 2,114 songs - 5 day 3 hr 45 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 552 likes - 2,123 songs - 5 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1432,7 +1432,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1422 | [Feeling Groovy](https://open.spotify.com/track/1xAWneajd7QgeG1sCKvNq0) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Feeling Groovy](https://open.spotify.com/album/7tpkD1G11DBGWLxqkUGjzP) | 3:01 |
 | 1423 | [En mi Vida](https://open.spotify.com/track/19cPxrpCnVEhdJFopBq77h) | [Ay Gregorio!](https://open.spotify.com/artist/7JWYz76kcuMX1ZpdgQKGhs) | [En mi Vida](https://open.spotify.com/album/313CCvByz5yiSX7D4mnOLy) | 6:01 |
 | 1424 | [I'm Letting Go Again](https://open.spotify.com/track/1K2gsduHo8kb8jieHHSnci) | [Jesse Lee Smith](https://open.spotify.com/artist/4bvC48Yls5GRDe3Xh1j7ya) | [I'm Letting Go Again](https://open.spotify.com/album/5U2BL2FzswgEL5YB1u9IXL) | 2:43 |
-| 1425 | [Victoria](https://open.spotify.com/track/4S2QfQYhyuZINfItAncUyM) | [Glows Vent](https://open.spotify.com/artist/6ER67V0fl4INMQvugwO9md) | [Desfogue Ardiente](https://open.spotify.com/album/7Dsa2Ler09K6CL3OeUE6sa) | 3:51 |
+| 1425 | [Victoria](https://open.spotify.com/track/4S2QfQYhyuZINfItAncUyM) | [DESVASTARDOS](https://open.spotify.com/artist/42yvmSe4biIZio90cwI2EN) | [Desfogue Ardiente](https://open.spotify.com/album/7Dsa2Ler09K6CL3OeUE6sa) | 3:51 |
 | 1426 | [Adah](https://open.spotify.com/track/49SOZROOZoIVDaxFQC4PF3) | [Jesse Lee Smith](https://open.spotify.com/artist/4bvC48Yls5GRDe3Xh1j7ya) | [Adah](https://open.spotify.com/album/4ECWamQo1cI4ODUfCZn41y) | 3:39 |
 | 1427 | [Just Another Fool](https://open.spotify.com/track/3jE9wpVjuJk5C1D7bpOhiB) | [Max Hixon](https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM) | [Just Another Fool](https://open.spotify.com/album/3gONwQ5qhADyyS0eHUAHsD) | 2:00 |
 | 1428 | [Try Again](https://open.spotify.com/track/1hMnOlwDgBiC19y9uPknaE) | [nick.v](https://open.spotify.com/artist/3bWyig2OvG0L1hqNML9QGR), [FuegoSan](https://open.spotify.com/artist/6A3tFjZAtzgVWrgjGgaFzo) | [Try Again](https://open.spotify.com/album/4PBGc4GXKma6g77s7hJIvM) | 2:59 |
@@ -2122,5 +2122,14 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2112 | [Pure Stories](https://open.spotify.com/track/4DV2F6Frxxni0uxjN9WoIL) | [Karthik Subramany](https://open.spotify.com/artist/0aU3cqtaIrxBAgQDaSwO7f) | [Pure Stories](https://open.spotify.com/album/5xoGYJJyKTF6rdGlxc7Vft) | 2:54 |
 | 2113 | [Food and Water](https://open.spotify.com/track/4kDMBWH4Rq1bTDUvY34NUD) | [Rigsi](https://open.spotify.com/artist/4HG4SAWvg6XEbmtHXpQrcu) | [Food and Water](https://open.spotify.com/album/7IUS9S8uYOJ1U4YiVZJMCL) | 3:10 |
 | 2114 | [far away](https://open.spotify.com/track/7no5sbLRWmxsu5ryemYMnv) | [Laurent](https://open.spotify.com/artist/4RJ3EhIdFPrOxuXuEn0GHC) | [far away](https://open.spotify.com/album/3fIRzV8NoszCcZK6UMdBQr) | 2:51 |
+| 2115 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 |
+| 2116 | [When We're Together](https://open.spotify.com/track/6CcXcuXcwLYAm456bczWHX) | [Tanner Carlson](https://open.spotify.com/artist/4Ksn3ZYq2hClDXBStnMB23) | [When We're Together](https://open.spotify.com/album/7wkiCNWRJQjkanQbAvFShF) | 4:01 |
+| 2117 | [D'un altre món](https://open.spotify.com/track/6ypiXjYUJ05uh6x3XJKhXp) | [Artur Álvarez](https://open.spotify.com/artist/2PDXzFxJWQeo6znRVBxEtT) | [D'UN ALTRE MÓN](https://open.spotify.com/album/1kcMciaRd0p0kDna9znaPf) | 3:29 |
+| 2118 | [Planting Lies](https://open.spotify.com/track/1RupRobeRR4wnYC1ToofkH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:17 |
+| 2119 | [Behind Every Light](https://open.spotify.com/track/2xDrlOKDnYtXAntJMV1iM6) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 1:58 |
+| 2120 | [Whale Song](https://open.spotify.com/track/01VdbGVabL2gCIz8X6I9Xq) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG), [Alpha Minus](https://open.spotify.com/artist/5HGjTPVOowX6pSn3znXFI9) | [Whale Song](https://open.spotify.com/album/53Xx5WBJGiHLXmmX1E8A7F) | 4:08 |
+| 2121 | [La Vida](https://open.spotify.com/track/2PbuWZdbOiv5p0jsMQ2Uer) | [YOKO.T](https://open.spotify.com/artist/0owpiSKDES7JkZqJScsB9l) | [La Vida](https://open.spotify.com/album/7vBu4hGAscg7ZwTFivU12x) | 4:07 |
+| 2122 | [J'ai la banane!](https://open.spotify.com/track/6YpvrH0TqcPg6B3UpwOwh7) | [Jibb Valley](https://open.spotify.com/artist/4QAMcP1l4n3nw5vuXXTNUe) | [J'ai la banane!](https://open.spotify.com/album/72b64b1hczPUrqK1KqqutD) | 2:34 |
+| 2123 | [Mezizo](https://open.spotify.com/track/1F9sXer73S35659fpHOqBV) | [Adam Earl](https://open.spotify.com/artist/1ERzVV2A4MGs51nLyKBgOt) | [Brighter Than Red Water](https://open.spotify.com/album/1spALnb9wQYX4Feq3OBlCq) | 3:32 |
 
-Snapshot ID: `AAAI01zsa5w8LV7lEOIs6ZhqI4lRei9G`
+Snapshot ID: `AAAI3PLtSHYbNz+eudWZLuN7gfKE1Zfs`

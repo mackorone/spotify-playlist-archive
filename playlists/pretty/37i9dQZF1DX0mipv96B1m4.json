@@ -387,18 +387,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
       },
       "artists": [
         {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
         }
       ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -423,6 +427,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Bajooga",
         "url": "https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 175072,
       "name": "Bajooga",
       "url": "https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2024-03-01 12:07:08",

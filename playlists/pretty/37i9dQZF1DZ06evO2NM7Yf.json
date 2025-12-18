@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADkEfojpaWEhMDRreBSTrU3",
+  "snapshot_id": "aUChAAAAAAAWmvt9Hh84qLTIDzq1z9fk",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 166873,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gospel According to Meg Smith",
         "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 180992,
       "name": "jesus christ in a mini skirt",
       "url": "https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 166873,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "breakup with a friend",
-        "url": "https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "breakup with a friend",
-      "url": "https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gospel According to Meg Smith",
         "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 178743,
       "name": "blasphemy!",
       "url": "https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "breakup with a friend",
+        "url": "https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "breakup with a friend",
+      "url": "https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "emotional punching bag",
-        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 176030,
-      "name": "Emotional Punching Bag",
-      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gospel According to Meg Smith",
         "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 181749,
       "name": "emotional affair",
       "url": "https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "emotional punching bag",
+        "url": "https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 176030,
+      "name": "Emotional Punching Bag",
+      "url": "https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "you fake your british accent",
+      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nosebleeds: Encore",
         "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 164213,
       "name": "Sideways (feat. Meg Smith)",
       "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "you fake your british accent",
-      "url": "https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Hit Wonder",
-        "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 200345,
-      "name": "One Hit Wonder",
-      "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gospel According to Meg Smith",
         "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 153777,
       "name": "poltergeist",
       "url": "https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Hit Wonder",
+        "url": "https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 200345,
+      "name": "One Hit Wonder",
+      "url": "https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gospel According to Meg Smith",
+        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 177808,
+      "name": "DO YOU LIKE ME?",
+      "url": "https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cautiously Optimistic",
         "url": "https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x"
       },
@@ -383,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gospel According to Meg Smith",
-        "url": "https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa"
+        "name": "Cool 4 U",
+        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
       },
       "artists": [
         {
@@ -392,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 177808,
-      "name": "DO YOU LIKE ME?",
-      "url": "https://open.spotify.com/track/3apkBldyjHqAn57yzVtYGH"
+      "duration_ms": 139666,
+      "name": "Cool 4 U",
+      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
       "duration_ms": 187839,
       "name": "guitar center",
       "url": "https://open.spotify.com/track/2KL350smdGutz70FYGjVkP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cool 4 U",
-        "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 139666,
-      "name": "Cool 4 U",
-      "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
     },
     {
       "added_at": null,

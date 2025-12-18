@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72328,
+  "num_followers": 72330,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "Autumn Whispers",
-        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
-      },
-      "artists": [
-        {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "Autumn Whispers",
-      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
         "name": "The Music Of The Night",
         "url": "https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "Autumn Whispers",
+        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "Autumn Whispers",
+      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
         "name": "First Sunrise",
         "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 230000,
       "name": "Say You Wont Let Go",
       "url": "https://open.spotify.com/track/4eyOZVDzYlVslh6POZ9AVP"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
-      },
-      "artists": [
-        {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
         "name": "Deck the Halls ~ Solo Piano Christmas",
         "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 220466,
       "name": "Deck the Halls",
       "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+      },
+      "artists": [
+        {
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
-      },
-      "artists": [
-        {
-          "name": "Benjamine Hans",
-          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Last Summer",
-      "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Hans",
+          "url": "https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Last Summer",
+      "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
+        "name": "All Alone",
+        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Elovsson",
+          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Afterhours",
+      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "All Alone",
-        "url": "https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ"
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
       },
       "artists": [
         {
-          "name": "Robert Elovsson",
-          "url": "https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx"
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Afterhours",
-      "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
+        "name": "Sleepy Mountains",
+        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+      },
+      "artists": [
+        {
+          "name": "Charlie Key",
+          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+        }
+      ],
+      "duration_ms": 224741,
+      "name": "Evening Message",
+      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
         "name": "Origins",
         "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
       },
@@ -1303,18 +1319,66 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "Sleepy Mountains",
-        "url": "https://open.spotify.com/album/74eOnV6G980gcwP4iU0ofr"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
       "artists": [
         {
-          "name": "Charlie Key",
-          "url": "https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM"
+          "name": "Rand Aldo",
+          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
         }
       ],
-      "duration_ms": 224741,
-      "name": "Evening Message",
-      "url": "https://open.spotify.com/track/1KvZBw7bPWws38At1IVRbU"
+      "duration_ms": 145533,
+      "name": "Dream in Eb",
+      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "Tulip",
+        "url": "https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8"
+      },
+      "artists": [
+        {
+          "name": "Steve Jones Swiff",
+          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
+        }
+      ],
+      "duration_ms": 123941,
+      "name": "Tulip",
+      "url": "https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+      },
+      "artists": [
+        {
+          "name": "Alec Windt",
+          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+        }
+      ],
+      "duration_ms": 135261,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "10 Ways Of Canon In D By Johann Pachelbel",
+        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
+      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -1351,66 +1415,18 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm"
+        "name": "In The Dark Hours",
+        "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
       },
       "artists": [
         {
-          "name": "Alec Windt",
-          "url": "https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW"
+          "name": "Anon Berg",
+          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
         }
       ],
-      "duration_ms": 135261,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
-        "name": "Tulip",
-        "url": "https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8"
-      },
-      "artists": [
-        {
-          "name": "Steve Jones Swiff",
-          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
-        }
-      ],
-      "duration_ms": 123941,
-      "name": "Tulip",
-      "url": "https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
-      },
-      "artists": [
-        {
-          "name": "Rand Aldo",
-          "url": "https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Dream in Eb",
-      "url": "https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
-        "name": "10 Ways Of Canon In D By Johann Pachelbel",
-        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
-      },
-      "artists": [
-        {
-          "name": "Johann Pachelbel",
-          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
-      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
+      "duration_ms": 175416,
+      "name": "In The Dark Hours",
+      "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -1431,22 +1447,6 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "In The Dark Hours",
-        "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
-      },
-      "artists": [
-        {
-          "name": "Anon Berg",
-          "url": "https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg"
-        }
-      ],
-      "duration_ms": 175416,
-      "name": "In The Dark Hours",
-      "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
         "name": "Fall Pieces",
         "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
@@ -1459,6 +1459,38 @@
       "duration_ms": 231148,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "Birdman",
+        "url": "https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF"
+      },
+      "artists": [
+        {
+          "name": "Abbie Lou Johnston",
+          "url": "https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo"
+        }
+      ],
+      "duration_ms": 201734,
+      "name": "Birdman",
+      "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
+        "name": "Looking Forward, Looking Backward",
+        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
+      },
+      "artists": [
+        {
+          "name": "Robin Bennich",
+          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+        }
+      ],
+      "duration_ms": 177875,
+      "name": "Looking Forward, Looking Backward",
+      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -1483,54 +1515,6 @@
       "duration_ms": 284640,
       "name": "Orfeo et Eurydice: M\u00e9lodie for Piano Solo",
       "url": "https://open.spotify.com/track/3DnLGuX4YU3PGein8vo5Zt"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
-        "name": "Looking Forward, Looking Backward",
-        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
-      },
-      "artists": [
-        {
-          "name": "Robin Bennich",
-          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
-        }
-      ],
-      "duration_ms": 177875,
-      "name": "Looking Forward, Looking Backward",
-      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
-        "name": "Birdman",
-        "url": "https://open.spotify.com/album/545Py5RMl9HVcHEIvGXnzF"
-      },
-      "artists": [
-        {
-          "name": "Abbie Lou Johnston",
-          "url": "https://open.spotify.com/artist/4rc9dcTUGouPU90UA8Kwjo"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Birdman",
-      "url": "https://open.spotify.com/track/6baoHqXdPuEnkmBUazVpoO"
-    },
-    {
-      "added_at": "2025-12-15 02:55:30",
-      "album": {
-        "name": "A Time For Love",
-        "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sanders",
-          "url": "https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe"
-        }
-      ],
-      "duration_ms": 364000,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
     },
     {
       "added_at": "2025-12-15 02:55:30",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sanders",
+          "url": "https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe"
+        }
+      ],
+      "duration_ms": 364000,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p"
+    },
+    {
+      "added_at": "2025-12-15 02:55:30",
+      "album": {
         "name": "Valse De Beaufort",
         "url": "https://open.spotify.com/album/71ywywv3R4nZ4HzUeaokZQ"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-12-15 02:55:30",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+        "name": "Wake Up In Spring",
+        "url": "https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS"
       },
       "artists": [
         {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+          "name": "Bill Swindon",
+          "url": "https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Pour Vous",
-      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
+      "duration_ms": 153518,
+      "name": "Wake Up In Spring",
+      "url": "https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

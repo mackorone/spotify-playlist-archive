@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 52201,
+  "num_followers": 52209,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "El Cantante de los Cantantes",
         "url": "https://open.spotify.com/album/1uj6t6QrkyuyeHdHcKporK"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Fuego En El 23",
-        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+        "name": "A Man And His Music",
+        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
       },
       "artists": [
         {
-          "name": "Sonora Ponce\u00f1a",
-          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 284653,
-      "name": "Fuego En El 23",
-      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+      "duration_ms": 230573,
+      "name": "El Raton",
+      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1035,22 +1051,6 @@
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Joe Cuba - El Alcalde Del Barrio",
-        "url": "https://open.spotify.com/album/5A204B0ZpW2ZYANvA4tSyL"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
-        }
-      ],
-      "duration_ms": 248213,
-      "name": "Bang! Bang!",
-      "url": "https://open.spotify.com/track/7wguzZQ79ZzR1WljM25BD6"
     },
     {
       "added_at": "2024-09-24 21:05:36",

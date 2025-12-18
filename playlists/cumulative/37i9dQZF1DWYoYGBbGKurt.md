@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,086 songs - 3 day 8 hr 44 min
+2,089 songs - 3 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Blue Skies](https://open.spotify.com/track/0tDRTPduFjI70EiYXNN92W) | [Aoko](https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO), [brass.beats](https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So) | [Blue Skies](https://open.spotify.com/album/2lOJHbB1CbKAX7zpHI5riG) | 2:36 | 2022-09-16 | 2022-12-24 |
 | [Blue Sky](https://open.spotify.com/track/72wU2pULJn543SMa52Y0lH) | [.GR](https://open.spotify.com/artist/1OMpdIjoqWbL5f559HWCA9) | [Blue Sky](https://open.spotify.com/album/5u6mLR1LxLF2XFILsJCerf) | 2:19 | 2022-09-23 | 2022-12-24 |
 | [Blueberry](https://open.spotify.com/track/0VEOJhK5Pf6HLKD5a9FHVN) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Blueberry](https://open.spotify.com/album/5uab19M3OkQEGScyvDvkXu) | 1:42 | 2023-03-01 | 2023-08-22 |
-| [Blume](https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Blume](https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B) | 2:34 | 2025-06-06 |  |
+| [Blume](https://open.spotify.com/track/3grDCNoz10P59lIs1JLbvi) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Blume](https://open.spotify.com/album/1Xw7vn8RhXcRoCBIEMkB0B) | 2:34 | 2025-06-06 | 2025-12-18 |
 | [Blunda](https://open.spotify.com/track/2FSe6GnnmKmeGu1EsnA15L) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Blunda](https://open.spotify.com/album/2KyA0n5ZLSF56hjHqCh8Ll) | 2:22 | 2024-07-05 | 2025-08-21 |
 | [Blunotte](https://open.spotify.com/track/425HNsoUUAUGNPFbPZuyE2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Insomnia](https://open.spotify.com/album/0B79D0ahoTfJSul9Gx7SIJ) | 2:22 | 2023-10-20 | 2024-02-09 |
 | [Blunotte](https://open.spotify.com/track/7xJ9d7j9fcB2czQyPbLyhy) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Blunotte](https://open.spotify.com/album/5U5C9RGGsnUR5okigKTANF) | 2:22 | 2023-06-05 | 2023-10-22 |
@@ -837,6 +837,7 @@
 | [Homesick](https://open.spotify.com/track/1tunIrMoyuW5xRYQbViTPQ) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Homesick](https://open.spotify.com/album/0ZOiLib3wIbXTce9luU49t) | 1:44 | 2023-02-07 | 2023-09-22 |
 | [Honestly](https://open.spotify.com/track/5CzVTEr2Ue7Ac7CFKLp75Y) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Honestly](https://open.spotify.com/album/7q0tXoUWaZ2CYQX8itV794) | 2:07 | 2024-07-05 | 2025-08-30 |
 | [honestly](https://open.spotify.com/track/5zCa75jnSOrgap5EaAW7zI) | [dirtybirdie](https://open.spotify.com/artist/757oyVLql8wYqYzOEz7BIT) | [honestly](https://open.spotify.com/album/4zIdz6orD5zDjyknExQwxk) | 1:38 | 2022-05-27 | 2024-04-13 |
+| [Honey](https://open.spotify.com/track/3Jj1gRE6z2ol17ACDz0rXx) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Honey](https://open.spotify.com/album/3rJWwUFoZVtEWhfZcG5NIR) | 3:00 | 2025-12-17 |  |
 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 | 2022-07-01 | 2023-08-22 |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2021-12-07 | 2022-09-23 |
 | [Hopeful](https://open.spotify.com/track/2qPns3m7FxOgrFBPxLT1PG) | [another night](https://open.spotify.com/artist/4jnXjSSUawBRoBGYAFYyGH) | [Hopeful](https://open.spotify.com/album/4D0C2VTgpwJxJs0X1THJde) | 2:32 | 2025-09-05 |  |
@@ -950,7 +951,7 @@
 | [Kaleidoscope](https://open.spotify.com/track/4vkRG4t72qXal8bLjBPXEm) | [Deusdosol](https://open.spotify.com/artist/5J1SXWQKT7R9wGscoLxDQn) | [Kaleidoscope](https://open.spotify.com/album/1YMt5wDkvJonSe6wZddPgk) | 2:33 | 2022-06-03 | 2022-11-26 |
 | [Kaleidoscope](https://open.spotify.com/track/08jWAM8hNWyZnwg80m7pHr) | [Tonion](https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Kaleidoscope](https://open.spotify.com/album/3eyuANtThILIa8R3v10cCE) | 2:42 | 2022-07-29 | 2022-10-14 |
 | [Kanashi](https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu) | [Saint Totoro](https://open.spotify.com/artist/4w13HtawCKjVZFCb60zMbM) | [Kanashi](https://open.spotify.com/album/0cC5AFwmnMaAc7GzXFzrRY) | 2:24 | 2021-12-07 | 2022-04-22 |
-| [Kanto](https://open.spotify.com/track/0cXj6Yndfr7rEPQdpVOI9i) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Kanto](https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk) | 2:24 | 2024-03-08 |  |
+| [Kanto](https://open.spotify.com/track/0cXj6Yndfr7rEPQdpVOI9i) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Kanto](https://open.spotify.com/album/0qmxDXFHv4Mck22uyBoAuk) | 2:24 | 2024-03-08 | 2025-12-18 |
 | [Karma With Some Fries](https://open.spotify.com/track/6aYmDGMiG4WILsQ2xrRAyN) | [Origami Boy](https://open.spotify.com/artist/6AXuEi329nYd2kt46evInQ) | [Karma With Some Fries](https://open.spotify.com/album/40dzxlX6cYHgOsh3k4XeML) | 2:25 | 2024-11-08 | 2025-05-24 |
 | [keep it rollin'](https://open.spotify.com/track/3P1JkE4mXTXZyua1mIKBWf) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [keep it rollin'](https://open.spotify.com/album/3QuGLBlxAYYfhtp52kKH8H) | 3:12 | 2024-03-22 | 2025-06-07 |
 | [Keep This Up \- Lo\-Fi](https://open.spotify.com/track/402DiXncs9aahnqrxurdg3) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg), [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [Keep This up / High Regard / Empty Space \(Lo\-Fi\)](https://open.spotify.com/album/03YkledkBTxa5CC2NaqWhO) | 2:28 | 2021-12-07 | 2022-06-03 |
@@ -1472,6 +1473,7 @@
 | [Rare Rocks That Look Like David Letterman](https://open.spotify.com/track/5tHoLQiFtgJLLSsRIS2YqK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Fuchsia Badusha](https://open.spotify.com/album/3OPJ6lE0knNq6E7q5YSITv) | 2:29 | 2021-12-07 | 2022-07-01 |
 | [reading](https://open.spotify.com/track/5cnwPn0MKDPnu2rUamIRgb) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/2YVst3ngUsry3PB4Gz3JWN) | 2:41 | 2024-01-12 |  |
 | [reading](https://open.spotify.com/track/3w2Yi3R4KMv4XvYTbMDxgR) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [reading](https://open.spotify.com/album/6PVQb5IcN1NBMA3dTMflEL) | 2:41 | 2024-03-08 | 2024-03-24 |
+| [Reboot](https://open.spotify.com/track/74ShLjHTOr2HEnFwSBPQZ2) | [Mambojambo](https://open.spotify.com/artist/5adQ9F1bTccUHKfePr6khI) | [Reboot](https://open.spotify.com/album/293JqYDQTdhRhnYTWerlxR) | 2:44 | 2025-12-17 |  |
 | [Rebrov](https://open.spotify.com/track/4iBjkytItSWcqF0Na6LcNL) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Rebrov](https://open.spotify.com/album/1MCAd7spOJILM7kYtU8PUN) | 2:12 | 2023-08-21 | 2024-02-09 |
 | [Recline](https://open.spotify.com/track/0Y8P2H4bpffasm29zQX9yp) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Campsite Snoozin](https://open.spotify.com/album/2HVRqebZ0uIOpz5phHwtTv) | 2:26 | 2021-12-07 | 2022-06-10 |
 | [Recollect](https://open.spotify.com/track/5GTOEsVsbky5UWwdtRut1F) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [Recollect](https://open.spotify.com/album/6zg5JmEHQEDJrFhW6redDJ) | 2:41 | 2022-08-12 | 2022-10-29 |
@@ -1536,6 +1538,7 @@
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-17 | 2025-07-12 |
 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 | 2021-12-07 | 2023-08-22 |
 | [Sap Green](https://open.spotify.com/track/7uaFkXXFrkRUFRXnhnsqnn) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Sap Green](https://open.spotify.com/album/7KZDCmPLTdS0z0TNBaUeDi) | 1:41 | 2024-05-13 |  |
+| [Sapphire Skies](https://open.spotify.com/track/7F3QuxLWUqRc09YQdaLqFH) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [Sapphire Skies](https://open.spotify.com/album/2oHYOTLdimhGWEmCTEmL8y) | 2:24 | 2025-12-17 |  |
 | [Satisfaction](https://open.spotify.com/track/0Etu29i3NNSXE2KufX3xC2) | [Mysterybops](https://open.spotify.com/artist/3Kz2x1edaxHzoe69LxWK4n) | [Satisfaction](https://open.spotify.com/album/2MeZ3MCw3QFquMCctLFokJ) | 1:52 | 2022-07-08 | 2023-09-02 |
 | [Sauce](https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7) | 2:48 | 2022-07-29 | 2022-09-10 |
 | [Sauce](https://open.spotify.com/track/6GiRftZTCnVyud4cn07ZHM) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/2RzIYqmu81Xyjj3bc6v5wY) | 2:48 | 2021-12-07 | 2022-07-29 |
@@ -2093,6 +2096,6 @@
 | [Zephyr](https://open.spotify.com/track/28VwDI1i3vtqn0csWOig5G) | [zxry.](https://open.spotify.com/artist/2KDok9fxr255I38HflZAzC) | [Zephyr](https://open.spotify.com/album/01lJTebBu7GNUKFmLds5Yz) | 2:52 | 2022-06-03 | 2022-11-26 |
 | [zuriel](https://open.spotify.com/track/3V2OHUAvBcaXyF2D7GCERq) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [ballaton & zuriel](https://open.spotify.com/album/7cujZGj0lzqZx8Ehv5jTPR) | 2:13 | 2023-03-08 | 2024-08-24 |
 | [Zzz](https://open.spotify.com/track/54VhpeIRKA1qJx5WOo8pw9) | [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB), [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [Zzz](https://open.spotify.com/album/30Bg5GVZHtsSBa49weSasw) | 2:41 | 2025-10-08 |  |
-| [énouement](https://open.spotify.com/track/2NWAI9czEGyyB9WZvMgFkI) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [énouement](https://open.spotify.com/album/0lteQYcob7SA7hu6uy2G7u) | 2:13 | 2024-11-22 |  |
+| [énouement](https://open.spotify.com/track/2NWAI9czEGyyB9WZvMgFkI) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [énouement](https://open.spotify.com/album/0lteQYcob7SA7hu6uy2G7u) | 2:13 | 2024-11-22 | 2025-12-18 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

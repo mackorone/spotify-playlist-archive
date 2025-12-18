@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 323992,
+  "num_followers": 324005,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAC1voZdum1x4BO/ZcD/Ajlh",
+  "snapshot_id": "aUChAAAAAABOF5BAWltsy9eDVZrpNczm",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Free / Up From The Skies (Demo)",
-        "url": "https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 137053,
-      "name": "Stone Free / Up From The Skies - Demo",
-      "url": "https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People, Hell & Angels",
         "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 224653,
       "name": "Izabella",
       "url": "https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Killing Floor - Live At Monterey",
+      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

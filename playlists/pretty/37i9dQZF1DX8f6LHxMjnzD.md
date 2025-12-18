@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Disclosure & Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,848 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 913,765 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 29 | [Maybe, Finally](https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd) | 3:05 |
 | 30 | [risky](https://open.spotify.com/track/5yz9WYVGhteTugXMM1WmGG) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [risky](https://open.spotify.com/album/1ZQ8UxrinfnaemqED89I4X) | 2:35 |
 | 31 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 |
-| 32 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
+| 32 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:26 |
 | 33 | [Everybody's Calm](https://open.spotify.com/track/0Iic2wxy9aXBWz6LtwdDVF) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Flowers For Every Occasion](https://open.spotify.com/album/7M4LJQK8IKyFePEyhKcGo8) | 2:51 |
 | 34 | [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 |
 | 35 | [Last Drink](https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Last Drink](https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu) | 2:36 |

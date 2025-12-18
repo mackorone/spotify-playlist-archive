@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-326 songs - 18 hr 55 min
+331 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 | 2024-03-07 |  |
 | [12065](https://open.spotify.com/track/0wwA0ZXgJTcuIWZrBP6G96) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:06 | 2025-03-30 |  |
 | [4 Letter Word](https://open.spotify.com/track/58uR3kZLQecc31yol8Ryqq) | [Tish Hyman](https://open.spotify.com/artist/6WzffCtFJ1iDsAwEV35h6K) | [Dedicated To:](https://open.spotify.com/album/25VjYN3RwJfVIfF9r83tuZ) | 3:23 | 2024-03-07 |  |
-| [5000 Miles](https://open.spotify.com/track/23DIKne9C2VXKhMQTFd4VW) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:31 | 2024-03-07 |  |
+| [5000 Miles](https://open.spotify.com/track/1BlxRw4sjdcY2XkIReXs0q) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/6qbT3AEKNboKlotkOo6Yfr) | 3:31 | 2025-12-17 |  |
+| [5000 Miles](https://open.spotify.com/track/23DIKne9C2VXKhMQTFd4VW) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:31 | 2024-03-07 | 2025-12-18 |
 | [A Little Bit](https://open.spotify.com/track/3CZbSBVBt5QK9Zr0QJYqsL) | [Dusky Grey](https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol) | [A Little Bit](https://open.spotify.com/album/4c5MwXOSpIS0YqSi4XRJMm) | 2:57 | 2024-03-07 |  |
 | [After the Party Ends](https://open.spotify.com/track/2wI5fUOIy8CBbyCmggzPWR) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Lemoncholy](https://open.spotify.com/album/13g4jcDiWCFYH8KbFDnyW4) | 3:10 | 2024-03-07 |  |
 | [Against The Time](https://open.spotify.com/track/6p2LimQV9g83taNMnafoxX) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 4:10 | 2024-03-07 |  |
@@ -124,7 +125,8 @@
 | [Ghost \(feat\. Hardy Caprio\) \- Refix](https://open.spotify.com/track/1MwFviJGRINOL8hQHJuw2j) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Hardy Caprio](https://open.spotify.com/artist/7FqkRutc4zWMrnEAUv3Xwd) | [Ground Control](https://open.spotify.com/album/201chlVCJuhQvGZXB0wRn0) | 3:13 | 2025-01-05 |  |
 | [Girl Of My Dreams](https://open.spotify.com/track/6BYYyhZk9fJEWo8OcKxQB9) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 3:32 | 2024-03-07 |  |
 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 | 2024-03-07 |  |
-| [Give Me The Keys](https://open.spotify.com/track/13MQ5ZJrwqW8CW3eMehlqv) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 2:43 | 2024-03-07 |  |
+| [Give Me The Keys](https://open.spotify.com/track/13MQ5ZJrwqW8CW3eMehlqv) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 2:43 | 2024-03-07 | 2025-12-18 |
+| [Give Me The Keys](https://open.spotify.com/track/2TGPnJP0GKNFOlbJKWaDpN) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/6qbT3AEKNboKlotkOo6Yfr) | 2:43 | 2025-12-17 |  |
 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 | 2024-03-07 |  |
 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 | 2024-03-07 |  |
 | [GOLD](https://open.spotify.com/track/5XV3bQOM9IoZVxQSD0a6yb) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GOLD](https://open.spotify.com/album/7EUIivZlOlSqQbFYZxNig9) | 3:07 | 2024-10-19 |  |
@@ -182,8 +184,10 @@
 | [Kills Me To Be Kind](https://open.spotify.com/track/5iup3v0ACOZxhjmEa1Uc1z) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 4:40 | 2024-03-07 |  |
 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 | 2024-03-07 |  |
 | [Knock Yourself Out](https://open.spotify.com/track/5GyXZ7DiUmJPdZnO0syfVA) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 4:04 | 2024-03-07 |  |
+| [Landline](https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Landline](https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR) | 3:04 | 2025-12-17 |  |
 | [Last First Kiss](https://open.spotify.com/track/2BkTfuyjLkLn9uA45nRu5H) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Forever](https://open.spotify.com/album/3XZSdDA1pUrZaDpK1QSjgq) | 3:14 | 2024-08-21 |  |
-| [Lie Out Loud](https://open.spotify.com/track/4r3OHHoR6JoSFaHjZCAq6N) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:02 | 2024-03-07 |  |
+| [Lie Out Loud](https://open.spotify.com/track/4r3OHHoR6JoSFaHjZCAq6N) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:02 | 2024-03-07 | 2025-12-18 |
+| [Lie Out Loud](https://open.spotify.com/track/54OUpkNtcM2JVX9XjKdjMp) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/6qbT3AEKNboKlotkOo6Yfr) | 3:02 | 2025-12-17 |  |
 | [Lie To Me](https://open.spotify.com/track/4KRdv66BiKGL4wNEhKmGYW) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Open Up Your Head](https://open.spotify.com/album/65YsNAuX9dJ7fVIKicT0d1) | 3:19 | 2024-03-07 |  |
 | [Life](https://open.spotify.com/track/3awb095cQIAqy6d0T0E7uX) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:39 | 2024-03-07 |  |
 | [like a woman](https://open.spotify.com/track/0vj40dnn4QFxBJPKyYKMW8) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:08 | 2024-03-07 |  |
@@ -223,7 +227,8 @@
 | [Nothing But A Sad Face On](https://open.spotify.com/track/2JoWbiR6mX7FyzIZyzuTOK) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 3:26 | 2025-04-14 |  |
 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 | 2024-03-07 |  |
 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 | 2024-03-07 |  |
-| [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 | 2024-03-07 |  |
+| [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 | 2024-03-07 | 2025-12-18 |
+| [Off My Mind](https://open.spotify.com/track/6hDyNGNAg3OM1ITL6MAhwv) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/6qbT3AEKNboKlotkOo6Yfr) | 3:09 | 2025-12-17 |  |
 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 | 2024-03-07 |  |
 | [P.O.Y.F](https://open.spotify.com/track/4cQRnjPfvjMdykfI6adfma) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 2:49 | 2024-03-07 |  |
 | [Part of Me](https://open.spotify.com/track/5MeJdfZ0TTyTHR9TkKawTU) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:41 | 2024-03-07 |  |

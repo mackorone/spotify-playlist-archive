@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYM6nVKMXBtM.md) - [plain]
 
 > Ini dia video podcast terbaru yang wajib banget ada di radar kamu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118 likes - 10 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 10 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

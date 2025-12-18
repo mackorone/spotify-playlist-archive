@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,804 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,822 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Galavar Khali \- Remix](https://open.spotify.com/track/6vaP1f4kGH0Pp7PYrg3IFb) | [Swapnil Bandodkar](https://open.spotify.com/artist/5yHnIri2Bj5Ysuaki6VOVy), [Philip Larsen](https://open.spotify.com/artist/36HGWVjzOS2QP0sv1d4cws) | [Galavar Khali \- Single](https://open.spotify.com/album/4RH0XzRqLlC3GHDNGrL9SY) | 5:11 |
 | 43 | [Dhuvun Taak](https://open.spotify.com/track/6GWKXINigx4Pf7yuqRHgq3) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Mauli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7mZGc0WvyyQznsSo2L7Rwg) | 3:34 |
 
-Snapshot ID: `AAAAAFFniASLtUksc8yfDtVo6hb6w3Rj`
+Snapshot ID: `AAAAAKOrAIxKk9bPGPHTSf5TKDGvNdyW`

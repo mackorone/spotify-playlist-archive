@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "The best new electronic indie music. Cover: Leon Vynehall",
+  "description": "The best new electronic indie music. Cover: TEED",
   "name": "Indie Electronic ",
   "tracks": [
     {
@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+    },
+    {
+      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 278709,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/6i2p0UJkSQp9YCTKT4Civf"

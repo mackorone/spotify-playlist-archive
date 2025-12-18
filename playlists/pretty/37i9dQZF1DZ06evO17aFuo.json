@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 313087,
+  "num_followers": 313134,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAABYa5mvxd/ZQ6l4S4FeT6gc",
+  "snapshot_id": "aUChAAAAAABsNsOi4f1uhxeASFPUUMic",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 327600,
-      "name": "Addicted To Chaos - Remastered 2004",
-      "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 178466,
       "name": "Poison Was The Cure",
       "url": "https://open.spotify.com/track/5ONVnHYT7srwxU9UDsJH2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 327600,
+      "name": "Addicted To Chaos - Remastered 2004",
+      "url": "https://open.spotify.com/track/4Ka1hOiCQw1a5RVyzW4Xu1"
     },
     {
       "added_at": null,

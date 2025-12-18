@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Carin León
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,171 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,252 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 10 | [Tu Regalo Se Quedó En El Arbolito](https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Tu Regalo Se Quedó En El Arbolito](https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j) | 4:03 |
 | 11 | [Cosas De Borrachera \(En Vivo\)](https://open.spotify.com/track/05rGX2P3QuJoTuXUEZhLjI) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Alfonso Muñoz](https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:04 |
 | 12 | [De Mexico Para El Mundo](https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O) | [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Mexico Para El Mundo](https://open.spotify.com/album/20eOV7sZ0hZxn7mWeUmyCl) | 2:28 |
-| 13 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:44 |
+| 13 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:45 |
 | 14 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
 | 15 | [La Plebita](https://open.spotify.com/track/2gBVfSDHKcQDdAvfdCLv4j) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [La Plebita](https://open.spotify.com/album/2hSrRgIRu6wWd4iuPPmXax) | 2:54 |
 | 16 | [Ni El 20%](https://open.spotify.com/track/7aew9x5bCNEWYidohq6JNj) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [Ni El 20%](https://open.spotify.com/album/12kvVNDbKPzI8PXyhJ4vFO) | 4:46 |

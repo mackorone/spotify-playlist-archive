@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Tarkan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,681 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,677 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 13 | [Senin Olan Her Şey](https://open.spotify.com/track/5kiR33bd1DaabByTGUYauR) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Senin Olan Her Şey](https://open.spotify.com/album/7mPhT9j5c79Yded5mC4Clx) | 2:41 |
 | 14 | [evvel ezel](https://open.spotify.com/track/5g5qz9ITYSc7N7r0G05cob) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [evvel ezel](https://open.spotify.com/album/0aeneVMdfTNUQrbnwh5aKT) | 3:39 |
 | 15 | [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [4K](https://open.spotify.com/album/1mPLFeBrXi3wjDJWTqjI70) | 2:38 |
-| 16 | [Estiğimin Rüzgarı](https://open.spotify.com/track/4cjjgWYuKMw7UOmKMiuQQD) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Ali Sher](https://open.spotify.com/artist/1cq1LlWDEfXZ0w8nrUVQUZ) | [Estiğimin Rüzgarı](https://open.spotify.com/album/4oggasI6N7u87hHbrxzIPR) | 3:10 |
+| 16 | [Estiğimin Rüzgarı](https://open.spotify.com/track/4cjjgWYuKMw7UOmKMiuQQD) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Alisher](https://open.spotify.com/artist/5iRt7AsoFwiKcAfv0EWgP1) | [Estiğimin Rüzgarı](https://open.spotify.com/album/4oggasI6N7u87hHbrxzIPR) | 3:10 |
 | 17 | [Tanrı Misafiri](https://open.spotify.com/track/31aR9GW585yf3QUDpFmZcY) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Yeniden Söylüyor](https://open.spotify.com/album/4l8vxQ7MUjHd2wJPpc5Po1) | 3:43 |
 | 18 | [Geçici Heves](https://open.spotify.com/track/6M5H5kmVKNIFjigLjENjUP) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Geçici Heves](https://open.spotify.com/album/6crH2gCQzjwTN5Tm0YK4U1) | 3:28 |
 | 19 | [Geçemiyorum](https://open.spotify.com/track/5ILB4hWjDB5d7VGY9WcEUh) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Geçemiyorum](https://open.spotify.com/album/7hLoIbPzPKQEbzkceTqgDk) | 3:20 |

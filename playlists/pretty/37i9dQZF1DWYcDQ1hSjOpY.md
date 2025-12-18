@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090,782 likes - 356 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090,874 likes - 356 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -365,4 +365,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 355 | [Jákvæð](https://open.spotify.com/track/1uqPoBuNXpJ6UsEf8bj4vL) | [Hugleiösla](https://open.spotify.com/artist/0ckEoQesFtWdmchnO9RmIg) | [Jákvæð](https://open.spotify.com/album/0E8U4MXhURoj9gzmF0bd6N) | 3:16 |
 | 356 | [Dark Lines](https://open.spotify.com/track/2Sc7CxUDp0zCpJeLNUkK2P) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Dark Lines](https://open.spotify.com/album/0jUS6bsTaTgcwyn0E3OQUY) | 2:50 |
 
-Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`
+Snapshot ID: `AAAAALG5d9A8qdhF74JuwSJczOdO/2C+`

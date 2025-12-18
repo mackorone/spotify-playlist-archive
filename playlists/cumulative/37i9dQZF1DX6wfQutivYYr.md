@@ -4,7 +4,7 @@
 
 > Annalisa sulla cover della playlist più grande in Italia 🔥
 
-267 songs - 13 hr 48 min
+268 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-06-28 | 2025-02-14 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-28 | 2024-09-28 |
 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 | 2025-04-21 |  |
+| [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 | 2025-12-17 |  |
 | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [BIANCA \(feat\. Kid Yugi\)](https://open.spotify.com/album/2IE8pMvL0GmykYaNLOP8S0) | 2:40 | 2025-01-24 | 2025-03-28 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-28 | 2025-02-12 |
 | [Black Nirvana](https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Black Nirvana](https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd) | 3:04 | 2024-06-28 | 2024-11-22 |
@@ -217,7 +218,7 @@
 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 | 2024-08-01 | 2025-03-15 |
 | [ROSSOFUOCO](https://open.spotify.com/track/48I2h2HnPqS1CMSlz7bZ7E) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [IL SOLE DENTRO](https://open.spotify.com/album/50LwyAhGEJXyf8EZW3dIAa) | 2:42 | 2024-06-28 | 2024-09-06 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-11-15 | 2025-02-13 |
-| [Sant'allegria \- con Mahmood](https://open.spotify.com/track/5eHKwCgsc0oJgRe3nOO5lA) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Diverse](https://open.spotify.com/album/7sDxy69OT8VTIMrNdSnWBo) | 2:44 | 2025-11-26 |  |
+| [Sant'allegria \- con Mahmood](https://open.spotify.com/track/5eHKwCgsc0oJgRe3nOO5lA) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Diverse](https://open.spotify.com/album/7sDxy69OT8VTIMrNdSnWBo) | 2:44 | 2025-11-26 | 2025-12-18 |
 | [Sant'allegria \- Jack Sani Remix](https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Jack Sani](https://open.spotify.com/artist/7CRwZOgk6IQ8Y6ABhwrpDN) | [Sant'allegria \(Jack Sani Remix\)](https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w) | 2:27 | 2024-11-07 | 2025-03-28 |
 | [Scarabocchi](https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 | 2024-11-07 | 2025-09-07 |
 | [SCELTE STUPIDE](https://open.spotify.com/track/2SvLptBWezeSPSpfhL4XC7) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [SCELTE STUPIDE](https://open.spotify.com/album/59e4UUIcMrjKlsO9lIj0Q3) | 2:59 | 2025-05-08 | 2025-11-28 |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 212031,
+  "num_followers": 212025,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-12-11 23:00:17",
       "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
+    },
+    {
+      "added_at": "2025-12-11 23:00:17",
+      "album": {
         "name": "Cut the shit",
         "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 170146,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf"
-    },
-    {
-      "added_at": "2025-12-11 23:00:17",
-      "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
     },
     {
       "added_at": "2025-12-11 23:00:17",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-12-11 23:00:17",
       "album": {
+        "name": "Okej att d\u00f6",
+        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "FaceTime",
+      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
+    },
+    {
+      "added_at": "2025-12-11 23:00:17",
+      "album": {
         "name": "players (feat. Ari Bajgora)",
         "url": "https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 151693,
       "name": "players (feat. Ari Bajgora)",
       "url": "https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6"
-    },
-    {
-      "added_at": "2025-12-11 23:00:17",
-      "album": {
-        "name": "Okej att d\u00f6",
-        "url": "https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "FaceTime",
-      "url": "https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK"
     }
   ],
   "unique_name": "ung, dum & lovende",

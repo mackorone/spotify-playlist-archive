@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 146670,
+  "num_followers": 146717,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "New Faces - New Sounds",
-        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
-      },
-      "artists": [
-        {
-          "name": "Gil Melle",
-          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Under Capricorn",
-      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
       },
@@ -691,22 +675,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+        "name": "New Faces - New Sounds",
+        "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
       },
       "artists": [
         {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+          "name": "Gil Melle",
+          "url": "https://open.spotify.com/artist/7zaZzk9UMSUyFMX1zxUraX"
         }
       ],
-      "duration_ms": 225160,
-      "name": "Just In Time",
-      "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
+      "duration_ms": 181674,
+      "name": "Under Capricorn",
+      "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -727,6 +707,26 @@
       "duration_ms": 446066,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/10fMVCkTiTE1sLvd5ypZTD"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
+      },
+      "artists": [
+        {
+          "name": "Dave Pell",
+          "url": "https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN"
+        }
+      ],
+      "duration_ms": 339053,
+      "name": "Angle Eyes",
+      "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Subconscious-Lee",
         "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 265360,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY"
-      },
-      "artists": [
-        {
-          "name": "Dave Pell",
-          "url": "https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN"
-        }
-      ],
-      "duration_ms": 339053,
-      "name": "Angle Eyes",
-      "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Meet the Jazztet",
+        "url": "https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson",
+          "url": "https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Very Cool + Tranquillity",
         "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 463346,
       "name": "The Eagle Flies",
       "url": "https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Meet the Jazztet",
-        "url": "https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer & Benny Golson",
-          "url": "https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC"
     },
     {
       "added_at": "2024-07-08 07:01:17",

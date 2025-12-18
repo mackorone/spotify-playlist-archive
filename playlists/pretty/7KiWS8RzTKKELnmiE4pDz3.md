@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 416 songs - 1 day 0 hr 27 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 422 songs - 1 day 0 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -424,5 +424,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 414 | [Tell Me Who Profits](https://open.spotify.com/track/2HoinVXGivQoUGO49A1HjN) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:01 |
 | 415 | [Let 'Em Know](https://open.spotify.com/track/2CxZESKjoN4Un4rTJYpwu3) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:15 |
 | 416 | [Pass the Plugs](https://open.spotify.com/track/0PHvFewiwm3B9aEmdrcZS9) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 3:29 |
+| 417 | [It's A Boy](https://open.spotify.com/track/4eT8MOHlnz15aSwMmmtRj4) | [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1) | [Behind Bars](https://open.spotify.com/album/5NRnE7jLiB8MC1xZbDFwcg) | 4:01 |
+| 418 | [360 Degrees \(What Goes Around\) \- SD50 Remix](https://open.spotify.com/track/27DB28oeXHbHFNKNfhZVo2) | [Grand Puba](https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K) | [Reel to Reel](https://open.spotify.com/album/5C8UbMlNrzXTcPFZcSn5YW) | 4:00 |
+| 419 | [Millie Pulled a Pistol on Santa](https://open.spotify.com/track/7J59BVihv9RRuaSj5d3tMD) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 4:09 |
+| 420 | [Oodles of O's](https://open.spotify.com/track/5osR0iuDUu5iFGYW8cbRgQ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 3:32 |
+| 421 | [Pease Porridge](https://open.spotify.com/track/2SeYGmG9phGcOKAYz1B9lm) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 5:01 |
+| 422 | [Only so Much Oil in the Ground](https://open.spotify.com/track/4L6cv7W4EpaB62kPoyCQK7) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Urban Renewal](https://open.spotify.com/album/6KRdd8gy9afiJSXS0uK3Rd) | 3:48 |
 
-Snapshot ID: `AAAfaVXVxEp7ZCERESS9yQxR1teCJyQS`
+Snapshot ID: `AAAfb/m8ZtBoRnf8LWSAKy44ziIfxIh2`

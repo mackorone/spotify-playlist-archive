@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sala, Paky, Gemitaiz, Promessa e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,171 likes - 129 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,184 likes - 129 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

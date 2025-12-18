@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,062 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,163 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 39 | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0) | 3:44 |
 | 40 | [TERE HO KE](https://open.spotify.com/track/6MVCtoSNhJY9hTYfoF4Pst) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 3:43 |
 | 41 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
-| 42 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
-| 43 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
+| 42 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
+| 43 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
 | 44 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
 | 45 | [Dhokebaaz](https://open.spotify.com/track/2QASXYEGqKhN7jnr07c9hP) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Dhokebaaz](https://open.spotify.com/album/4rcQ3AXRzfNkH8tUOz6DeF) | 4:25 |
 | 46 | [Dil Lauta Do](https://open.spotify.com/track/1VfUpyKz9uN7et8t6Qhe7v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lauta Do](https://open.spotify.com/album/2VfuGeouepkWV0dsSoHZD8) | 5:02 |

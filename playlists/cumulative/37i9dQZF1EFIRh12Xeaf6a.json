@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-12",
+      "date_removed": null,
       "duration_ms": 168573,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0wxVFIGfvpbkK1Q7TL8RL5"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 168573,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3oKZoKI2ROktaQJBoZ2KGs"
@@ -1407,6 +1407,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Hits Vol. 1",
+        "url": "https://open.spotify.com/album/29JhBdtiRHwYqClsCCih2R"
+      },
+      "artists": [
+        {
+          "name": "Steve Lawrence",
+          "url": "https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132093,
+      "name": "Go Away Little Girl",
+      "url": "https://open.spotify.com/track/0xx4lbu88MyZRjq8f45B0e"
+    },
+    {
+      "album": {
         "name": "The Myth of Steve Lawrence",
         "url": "https://open.spotify.com/album/0rnEhJ3BRFjsPOtQhEydmD"
       },
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 134040,
       "name": "Go Away Little Girl",
       "url": "https://open.spotify.com/track/5wumm6TVaKYbfZo5hCcE4l"
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 147053,
       "name": "I've Got Bonnie",
       "url": "https://open.spotify.com/track/3AmqQEXvDpn80hlXUXlndT"
@@ -2468,7 +2486,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 147733,
       "name": "I've Got Bonnie",
       "url": "https://open.spotify.com/track/21iXuOwL7IQSqNevv4ClS0"
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 177706,
       "name": "Just a Little Girl",
       "url": "https://open.spotify.com/track/0nrcvwY0ZK9slURiw5iDca"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 177706,
       "name": "Just a Little Girl",
       "url": "https://open.spotify.com/track/3Y6H909lnm9lKTvRrt74dU"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 152006,
       "name": "Keep Your Hands off My Baby",
       "url": "https://open.spotify.com/track/5jq0N3md5T4Y0Wwp944KcI"
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 152093,
       "name": "Keep Your Hands off My Baby",
       "url": "https://open.spotify.com/track/4NkklQ3D3TjFGUVmj72EsU"
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 168733,
       "name": "Let's Start the Party Again",
       "url": "https://open.spotify.com/track/0JvPb6ORbV97cYyvtZsqSP"
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 168733,
       "name": "Let's Start the Party Again",
       "url": "https://open.spotify.com/track/1CQwSqdeaVhoAAFcxRhyaq"
@@ -3102,7 +3120,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 149400,
       "name": "Look Down",
       "url": "https://open.spotify.com/track/5zaZKkJouElNFx6sGviJZG"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2024-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 149440,
       "name": "Look Down",
       "url": "https://open.spotify.com/track/0KKaTx4F9g6noYqiYeyeEH"
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 133560,
       "name": "Randy",
       "url": "https://open.spotify.com/track/4SA9V9mLo4atqeNEf3x9f7"
@@ -3946,7 +3964,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 133560,
       "name": "Randy",
       "url": "https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg"
@@ -5216,7 +5234,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 174333,
       "name": "They're Jealous of Me",
       "url": "https://open.spotify.com/track/187xOao5osxvhgVktYCEyC"
@@ -5234,7 +5252,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 174333,
       "name": "They're Jealous Of Me",
       "url": "https://open.spotify.com/track/2QGrKWSgmY1ENXWdIB0V91"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 119066,
       "name": "What I Gotta Do (To Make You Jealous)",
       "url": "https://open.spotify.com/track/3Teai99AZXsrvgQXq5SdJU"
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 119080,
       "name": "What I Gotta Do (To Make You Jealous)",
       "url": "https://open.spotify.com/track/2xW1KIGPsLf2oORmvAEsvQ"
@@ -5940,7 +5958,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 153623,
       "name": "Will Power",
       "url": "https://open.spotify.com/track/1b2HHmaOgkeDAVqH2RjDe5"
@@ -5976,7 +5994,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 155906,
       "name": "WILL POWER",
       "url": "https://open.spotify.com/track/7mNpxgGJxcdoggf4VK6sy4"

@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Al James
 
-350 songs - 19 hr 33 min
+352 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [EMPILIGHT](https://open.spotify.com/track/6liHmUVmfhbXFG45ybCr96) | [Jonas Dichoso](https://open.spotify.com/artist/6Owr8RDbHYlbDwh1EMzEVS) | [EMPILIGHT](https://open.spotify.com/album/1KDtgR9GpE4cHonerqkrPn) | 3:19 | 2023-09-20 | 2023-11-02 |
 | [Eyes Can't Lie](https://open.spotify.com/track/2DDIub6xJaks22EFdK2oRm) | [RAPROJECT SIX](https://open.spotify.com/artist/02QBz6b5fpeADDbuTE1C59) | [Eyes Can't Lie](https://open.spotify.com/album/3AcgWtmJwCYOQpze0Kswbg) | 4:33 | 2025-08-20 |  |
 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 | 2023-12-20 | 2025-04-17 |
+| [Feelin' Me](https://open.spotify.com/track/0Z6qCvAEZk84wBuVfT3pg9) | [Eloy](https://open.spotify.com/artist/2PRONdEFScNIwqtVvrorTy) | [Feelin' Me](https://open.spotify.com/album/7d76KkjGicNDMZ7T22R9t8) | 3:01 | 2025-12-17 |  |
 | [Fetty](https://open.spotify.com/track/1O26SjawSDVCpikl9nNUyp) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Fetty](https://open.spotify.com/album/6H8VIr3GCleqBUGRalNd6H) | 3:26 | 2023-09-20 | 2024-02-08 |
 | [Flyshit](https://open.spotify.com/track/25zFVqeiwRuHK9M8bPsZm1) | [LON Daniel](https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Flyshit](https://open.spotify.com/album/4O1ELZTOr8Ofh4TyVN4MT0) | 2:21 | 2023-12-06 | 2024-02-29 |
 | [Flyshit](https://open.spotify.com/track/3NQpu0tBPbIcmN3MlY2Dlx) | [LON Daniel](https://open.spotify.com/artist/2oBLRRTHdxf7AeYRlaogfx), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [Flyshit](https://open.spotify.com/album/3NLlRiJZVzSS1read9nb7w) | 2:21 | 2023-10-18 | 2023-12-09 |
@@ -142,7 +143,7 @@
 | [HU$$](https://open.spotify.com/track/46GSqzkjGkGndIi5ZFJH5O) | [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [HU$$](https://open.spotify.com/album/0uPolw7itxHskTKq9PKE4B) | 1:48 | 2025-07-30 |  |
 | [Huli Na](https://open.spotify.com/track/3tOxw3kjwNNfzENNoVqD2E) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Blue](https://open.spotify.com/album/65DQTnPzbVKoflMgS2Kxlh) | 2:58 | 2023-09-20 | 2023-12-30 |
 | [Huling Tagay Ng Taon](https://open.spotify.com/track/5E5M1Wp2O6irWYFjCBtlMg) | [Smugglaz](https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq) | [Huling Tagay Ng Taon](https://open.spotify.com/album/0PiXcd0A5efAt6wEOWUaks) | 3:24 | 2025-01-01 | 2025-02-20 |
-| [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 | 2025-09-24 |  |
+| [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 | 2025-09-24 | 2025-12-18 |
 | [I can be the one](https://open.spotify.com/track/4rgexTquOBLYzQWusUsLyb) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [I can be the one](https://open.spotify.com/album/1A8lPVdz7nGht81w9PrwKo) | 3:45 | 2025-07-23 |  |
 | [I Dior U](https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [I Dior U](https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo) | 3:15 | 2024-11-28 | 2025-03-06 |
 | [Iba Pa Yon](https://open.spotify.com/track/5Zd7WR5fEg8gJoPLFRf475) | [Lightskeen Baby](https://open.spotify.com/artist/5ZpjkPLzL9439XJbt7wffG) | [Iba Pa Yon](https://open.spotify.com/album/7k28FL99HOqppKSNOhBxDB) | 2:34 | 2024-01-17 | 2024-03-07 |
@@ -198,6 +199,7 @@
 | [Ma.](https://open.spotify.com/track/7Hmh3SZMR6wlZEBzdNS15v) | [Matt White](https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93), [THUGSTA](https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x) | [Ma.](https://open.spotify.com/album/3sKPCiCUEUsdQdjYeH8bH1) | 2:36 | 2025-08-27 | 2025-10-16 |
 | [Maangas](https://open.spotify.com/track/1jmPPLAdpImu4QbtVqzCEZ) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Supafly](https://open.spotify.com/artist/0bbjxSgn1aNUZAOKimusAS) | [1st](https://open.spotify.com/album/7cU2q1gYDzrkRQVuW8bHFN) | 3:13 | 2024-02-14 | 2024-05-24 |
 | [MAANGAS](https://open.spotify.com/track/0BiPjrz0Qi4NGHNnIqv31N) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [MAANGAS](https://open.spotify.com/album/2N5u5EQoEM4vjO4x0sIcXM) | 2:56 | 2025-09-17 |  |
+| [Mabisang Pinay](https://open.spotify.com/track/5A1pJBomlHhK7WAP6vo9N8) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf) | [Mabisang Pinay](https://open.spotify.com/album/6BIFKGUV1BdXX15YnxAO7J) | 2:32 | 2025-12-17 |  |
 | [Madamot Ka](https://open.spotify.com/track/3sFotCpWY1e84X0YixN4jw) | [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [Madamot Ka](https://open.spotify.com/album/483qTGkYt70DoGsnQMLGRB) | 2:15 | 2024-12-11 | 2025-01-02 |
 | [Magayon](https://open.spotify.com/track/7cUIOnAk37Um6uDf2KnIc4) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd) | [Magayon](https://open.spotify.com/album/58Lko625huyRSLhO0G9Dea) | 2:39 | 2025-10-01 |  |
 | [Maharot](https://open.spotify.com/track/3kQoCtlLR0q4inrgAzFA6k) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Maharot](https://open.spotify.com/album/0qICM7AAGrKNLRuOdh2Pdv) | 3:29 | 2025-01-01 | 2025-04-03 |
@@ -233,7 +235,7 @@
 | [Nicotine](https://open.spotify.com/track/62etNFfOoyyiFcMRUjFMiI) | [SAJKA](https://open.spotify.com/artist/4oGMjYFfUBJlMIhrDdJhyL) | [Weed&Melodies](https://open.spotify.com/album/2IrxgetYn3rrxtQWrNOpRI) | 2:00 | 2025-05-14 |  |
 | [No Info](https://open.spotify.com/track/0CIcL4xXLR72hf1awf7S9y) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2) | [No Info](https://open.spotify.com/album/5Ol4icbXjBlR1FsC1GeMLi) | 3:04 | 2025-04-30 | 2025-08-21 |
 | [No Snitches](https://open.spotify.com/track/1wYjp1056yxvsgrjJ3G7L8) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [No Snitches](https://open.spotify.com/album/5DcgRKuAgYIHCCPxgeZ2CX) | 3:42 | 2025-02-19 | 2025-05-29 |
-| [Nothin Less](https://open.spotify.com/track/3nOlp2H5OxaX2ZT4Y1MINR) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [FUND CONTROL PROJECT](https://open.spotify.com/album/2uoopBJfDtybuSqICb43Qs) | 2:46 | 2025-09-17 |  |
+| [Nothin Less](https://open.spotify.com/track/3nOlp2H5OxaX2ZT4Y1MINR) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [FUND CONTROL PROJECT](https://open.spotify.com/album/2uoopBJfDtybuSqICb43Qs) | 2:46 | 2025-09-17 | 2025-12-18 |
 | [Oh Yeah](https://open.spotify.com/track/61MHqRAgaKsh69Nm6vgAyX) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Oh Yeah](https://open.spotify.com/album/1HAXe1xCvQUNvRJ3vcVPdT) | 3:44 | 2024-04-17 | 2024-07-04 |
 | [ON LY](https://open.spotify.com/track/3CpZiVFZTld1E9U9esag6m) | [J emm Dahon](https://open.spotify.com/artist/0RptGZKWMZM1HX8SK3bEcm), [King Lheanard](https://open.spotify.com/artist/1ugycLfwsjOuoRT0y8DZMj), [Kushin](https://open.spotify.com/artist/4hOq1IlgRnPNjsbJRCgK0B) | [ON LY](https://open.spotify.com/album/1dTBjVhAh2CVzVGmeXUqQv) | 2:54 | 2023-12-27 | 2024-01-25 |
 | [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-04-02 | 2025-07-03 |

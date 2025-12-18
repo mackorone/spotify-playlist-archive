@@ -247,8 +247,8 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
+        "name": "Ausencia",
+        "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 213720,
-      "name": "Gallo Ciego - Instrumental",
-      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
+      "duration_ms": 175626,
+      "name": "Desde El Alma - Instrumental",
+      "url": "https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -367,8 +367,8 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Ausencia",
-        "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
         }
       ],
-      "duration_ms": 175626,
-      "name": "Desde El Alma - Instrumental",
-      "url": "https://open.spotify.com/track/7hc9R31zHkGP84yPheNFFG"
+      "duration_ms": 213720,
+      "name": "Gallo Ciego - Instrumental",
+      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Castiellos",
-        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
-      },
-      "artists": [
-        {
-          "name": "Cucuza Castiello",
-          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 241546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "A los Cantores (En Vivo)",
         "url": "https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 167200,
       "name": "Barrio de Tango - En Vivo",
       "url": "https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Castiellos",
+        "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
+      },
+      "artists": [
+        {
+          "name": "Cucuza Castiello",
+          "url": "https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        }
+      ],
+      "duration_ms": 241546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "El Mundo De La Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
-      },
-      "artists": [
-        {
-          "name": "Cacho Casta\u00f1a",
-          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "El Mundo De La Fantas\u00eda",
-      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
         "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 133760,
       "name": "Si Tu Quisieras",
       "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "El Mundo De La Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
+      },
+      "artists": [
+        {
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "El Mundo De La Fantas\u00eda",
+      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "Doce Milongas de Amor y un Tango Desesperado",
-        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
-      },
-      "artists": [
-        {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "The Horacio Avilano Guitar Quartet",
-          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Barrio de Tango",
-      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2025-12-05 15:53:48",
-      "album": {
         "name": "Intimos, Vol. 1 en vivo en Bebop",
         "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 236708,
       "name": "Quedemonos Aqui - En Vivo",
       "url": "https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz"
+    },
+    {
+      "added_at": "2025-12-05 15:53:48",
+      "album": {
+        "name": "Doce Milongas de Amor y un Tango Desesperado",
+        "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
+      },
+      "artists": [
+        {
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "The Horacio Avilano Guitar Quartet",
+          "url": "https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Barrio de Tango",
+      "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
     },
     {
       "added_at": "2025-12-05 15:53:48",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-12-05 15:53:48",
       "album": {
-        "name": "... Tangamente",
-        "url": "https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu"
+        "name": "La Tana Con Todo",
+        "url": "https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 164312,
-      "name": "Como Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj"
+      "duration_ms": 237226,
+      "name": "Malevaje",
+      "url": "https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG"
     },
     {
       "added_at": "2025-12-05 15:53:48",

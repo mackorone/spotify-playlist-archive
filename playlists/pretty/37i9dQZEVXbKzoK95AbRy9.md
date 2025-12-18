@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,494 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,511 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Ignora \(Ao Vivo\)](https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Velhos Hábitos Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5yHzNUDYfdl02KiOqld5mm) | 2:59 |
 | 50 | [Cópia Proibida](https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08) | [Obrigado Deus](https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG) | 2:39 |
 
-Snapshot ID: `MNTNeAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNYe+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

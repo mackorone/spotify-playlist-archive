@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Sienna Spiro
 
-1,219 songs - 2 day 14 hr 10 min
+1,220 songs - 2 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-11-06 |  |
 | [Bathroom Floor](https://open.spotify.com/track/3QFFda4IODSKbT839NW6BR) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Bathroom Floor](https://open.spotify.com/album/0L1NH4UV8rgpGo7kW948X8) | 2:56 | 2025-11-20 |  |
 | [beat up car](https://open.spotify.com/track/7FBsCEfKsrj5hbcn5PZDyP) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [beat up car](https://open.spotify.com/album/4SOi9qG5Lv1vDedaGGQlwu) | 3:34 | 2024-03-28 | 2024-06-25 |
-| [Beautiful Mistakes](https://open.spotify.com/track/6F1IFGkvNtxXpP2jURbpnF) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Beautiful Mistakes](https://open.spotify.com/album/5CXs93vkBIQpnVWIk2O3ho) | 2:56 | 2025-09-18 |  |
+| [Beautiful Mistakes](https://open.spotify.com/track/6F1IFGkvNtxXpP2jURbpnF) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Beautiful Mistakes](https://open.spotify.com/album/5CXs93vkBIQpnVWIk2O3ho) | 2:56 | 2025-09-18 | 2025-12-18 |
 | [Beautiful Ride](https://open.spotify.com/track/1gjb1qgh4RscpV6pw1SDS0) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Beautiful Ride](https://open.spotify.com/album/4cmInBpca99plIAdky3xbW) | 3:45 | 2023-03-30 | 2023-04-09 |
 | [Beautiful Ride](https://open.spotify.com/track/4en3INf63kkTfxu9OqusdO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:45 | 2023-04-06 | 2023-06-23 |
 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2025-01-06 | 2025-03-14 |
@@ -203,6 +203,7 @@
 | [Coma](https://open.spotify.com/track/10qbuooTRQ2xgc5mWNLShX) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma](https://open.spotify.com/album/1dDxtEPO5Ih2dRKyd1LBHY) | 3:07 | 2025-02-13 | 2025-05-02 |
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-20 | 2025-05-30 |
 | [Coming of Age \(feat\. Melle\)](https://open.spotify.com/track/7Did4KpyQRorJo0L3k8zx5) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL), [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Out of the blue](https://open.spotify.com/album/31KrWGRwKiI6ZLjStdSZ1V) | 2:48 | 2024-02-05 | 2024-04-13 |
+| [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 | 2025-12-17 |  |
 | [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 |  |
 | [Con Calma](https://open.spotify.com/track/2z4t6UgsOQeuzWF4CN6RWu) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Con Calma](https://open.spotify.com/album/63jwtYCNzu0DgoOYt6LXVi) | 2:36 | 2025-03-13 | 2025-05-23 |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-13 | 2023-08-04 |

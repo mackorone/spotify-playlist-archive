@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 61 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 62 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 14 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
 | 15 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/5HHqox80tEzKiorzCVkSp6) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:11 |
 | 16 | [Lonely Night](https://open.spotify.com/track/5eG7Ow1ozFYjsz1xF5CKy0) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Fifth Harmony](https://open.spotify.com/album/506tSgFO28YCEALMLihVPB) | 3:25 |
-| 17 | [Wondering](https://open.spotify.com/track/0LsLfkwQYTQ010Ml9B3I4I) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:07 |
-| 18 | [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 |
+| 17 | [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 |
+| 18 | [Wondering](https://open.spotify.com/track/0LsLfkwQYTQ010Ml9B3I4I) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:07 |
 | 19 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 20 | [Do You Mind?](https://open.spotify.com/track/6fYefaw0KturTfuRNTKFbX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:27 |
 | 21 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 |
@@ -66,8 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJQjo66KwDYO.md) - [plain]
 | 56 | [Get Goofy](https://open.spotify.com/track/7iao35v39ey2yAZHoTzmnf) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Hotel Koko](https://open.spotify.com/album/7j8cYYFqnoyHaRCxoSuCv1) | 3:08 |
 | 57 | [Empress Me \(feat\. Dyo\)](https://open.spotify.com/track/6rdskhVMqqNi9bmLunVNlL) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Tales of a Miracle](https://open.spotify.com/album/70OYBk5OZSBZT3KkdQMc2K) | 3:25 |
 | 58 | [Real \(2020\)](https://open.spotify.com/track/21lMuDsWYxMxgj7e3CJYHP) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 2:09 |
-| 59 | [Plans](https://open.spotify.com/track/5DUGZnE66obIeRT6efLd1q) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 2:51 |
-| 60 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
-| 61 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
+| 59 | [Conceited](https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 2:34 |
+| 60 | [Plans](https://open.spotify.com/track/5DUGZnE66obIeRT6efLd1q) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Dyologue](https://open.spotify.com/album/79O86TfpcdYXEbfCb10iWh) | 2:51 |
+| 61 | [TRU RIDDIM](https://open.spotify.com/track/62pCWKXxzz85jX9lZ8cxAB) | [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [MOREFIRE 2](https://open.spotify.com/album/3ddg45dZCiS99mmdepomv4) | 2:28 |
+| 62 | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/track/0IxYapIhhD1ofLxT2q46Dp) | [Kevin The Bear](https://open.spotify.com/artist/7csX8zBobpO7iDI59JfY3C), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Never Speak \(feat\. Dyo & Moelogo\)](https://open.spotify.com/album/5KPvNHiy9PiKkNQggvWtx2) | 1:51 |
 
-Snapshot ID: `AcEaPAAAAACQKAGMhxLNAuU1NXCasKWj`
+Snapshot ID: `AcEf3AAAAAD6Sn+yox2DJ6nreelp/wnR`

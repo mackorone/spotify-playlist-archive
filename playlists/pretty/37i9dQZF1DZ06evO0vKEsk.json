@@ -1,33 +1,13 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132982,
+  "num_followers": 132978,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAB7EBVxUAyU7uHL1nHNxdJJ",
+  "snapshot_id": "aUChAAAAAAAXWBdry3OvhiE0fdSC0QnE",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9s T\u00e3o Bom Pra Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3v9hoGavReHSoahcu0XslI"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        }
-      ],
-      "duration_ms": 370313,
-      "name": "\u00c9s T\u00e3o Bom Pra Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/6HgRRfX5JmBMhe51bqbO4G"
-    },
     {
       "added_at": null,
       "album": {
@@ -451,26 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aba Pai",
-        "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
+        "name": "\u00c9s T\u00e3o Bom Pra Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3v9hoGavReHSoahcu0XslI"
       },
       "artists": [
-        {
-          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
-          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 483498,
-      "name": "Tua Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5O1BkaUFKd3nKZiOuvaO4e"
+      "duration_ms": 370313,
+      "name": "\u00c9s T\u00e3o Bom Pra Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/6HgRRfX5JmBMhe51bqbO4G"
     },
     {
       "added_at": null,
@@ -503,6 +479,30 @@
       "duration_ms": 265032,
       "name": "Aceito o Teu Chamado",
       "url": "https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aba Pai",
+        "url": "https://open.spotify.com/album/5UTcreVUafGcw1fYul4z8C"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Nova Jerusal\u00e9m",
+          "url": "https://open.spotify.com/artist/6Eikwdu8Tl78UPdJezEX9g"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "duration_ms": 483498,
+      "name": "Tua Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5O1BkaUFKd3nKZiOuvaO4e"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Dia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 414761,
+      "name": "Um Novo Dia - Ao Vivo",
+      "url": "https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alegria Real",
         "url": "https://open.spotify.com/album/6Rn8MMSrj193ofYERw8Osp"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 419263,
       "name": "Maranata (Vem Emanuel) (Ao Vivo)",
       "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Dia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 414761,
-      "name": "Um Novo Dia - Ao Vivo",
-      "url": "https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN"
     },
     {
       "added_at": null,

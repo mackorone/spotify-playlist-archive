@@ -4,7 +4,7 @@
 
 > 
 
-272 songs - 15 hr 32 min
+275 songs - 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abisal](https://open.spotify.com/track/43OsqrHR26eUixOEJZjgah) | [Midori Viper](https://open.spotify.com/artist/7iGw4ZPC4Q96gUdi8CXzx3) | [Abisal](https://open.spotify.com/album/756k2Erz2fROzqxFSEniT6) | 4:07 | 2025-03-18 |  |
 | [Abusadora](https://open.spotify.com/track/45ldpj8lPTTGnPYXfecLkT) | [Afd](https://open.spotify.com/artist/790m3H8XONRYeX6S5iMDgu), [Holguin MC](https://open.spotify.com/artist/3sXx92rwnOvp3KZ1omO0L3) | [Conexión](https://open.spotify.com/album/37uaRiPHReev8QYujJmpmD) | 3:09 | 2025-03-21 |  |
 | [Acid Bells](https://open.spotify.com/track/5eEg8n5UedCcmMmlf5pYtE) | [Maxito](https://open.spotify.com/artist/58rz1Rxm9nSYnFzXhp34GR) | [Acid Bells](https://open.spotify.com/album/436pPFF2r9lA3EY3xoX5mW) | 2:16 | 2025-03-18 |  |
+| [Ageless and Evergreen](https://open.spotify.com/track/53wavi3G6qo2YaTXeOInZl) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Ageless and Evergreen](https://open.spotify.com/album/4EkG6nIOlVAyi5yoJqFvXy) | 3:06 | 2025-12-17 |  |
 | [Aguacero \(Paisaje en Ruinas\)](https://open.spotify.com/track/2mS4dpRhbOvqCqVIvDvdmG) | [Detrapo](https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Aguacero \(Paisaje en Ruinas\)](https://open.spotify.com/album/02qP2SC6wWDsDAntFBxCjJ) | 4:58 | 2025-06-15 |  |
 | [Amargo Necesario](https://open.spotify.com/track/2x4mtdidiPj1USHdmnOVi0) | [Agua Brava](https://open.spotify.com/artist/6OqhcLozmF3LVegZEhPf8u) | [Amargo Necesario](https://open.spotify.com/album/6y89ptIe7mkHfF3CZP81lY) | 3:50 | 2025-02-20 |  |
 | [Amor](https://open.spotify.com/track/0wxsASvjlNJ7Tld2Mnyd94) | [Alex Payró](https://open.spotify.com/artist/7MnamQUTTBuEmvTdxnJV9w) | [Amor](https://open.spotify.com/album/2jAk7bJjWtamQxA7qyI8cH) | 3:00 | 2025-07-12 |  |
@@ -39,6 +40,7 @@
 | [Bottle](https://open.spotify.com/track/0ALEEEJpa5IrHiDHChwxzD) | [Will Bug](https://open.spotify.com/artist/787owa96ARxJr783hk9PxH) | [Bottle](https://open.spotify.com/album/7A9FCoPUovvrhJhIZk9SNh) | 2:47 | 2025-01-26 |  |
 | [BOYS AIN'T SH!T](https://open.spotify.com/track/4O5wyCOELZYIvJEmVxTjdc) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [BOYS AIN'T SH!T](https://open.spotify.com/album/6ctzNWIwaSYhxlqruhtM4B) | 4:02 | 2025-02-01 |  |
 | [Brand New Summer Day](https://open.spotify.com/track/2Z9HPl7uKx1fFtDYZv4vi5) | [Eddy Willemsen](https://open.spotify.com/artist/66l6yInrt4qUcvAICPaR7t) | [Brand New Summer Day](https://open.spotify.com/album/5XQ7pg3uzeJZuttpRaJ5fR) | 1:55 | 2025-01-25 |  |
+| [Brandos Espaços Brancos](https://open.spotify.com/track/6bfFQDzW9b717Obk9UZDVM) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Nuances](https://open.spotify.com/album/14pzQStt2oOEUVjFe2bcSJ) | 4:17 | 2025-12-17 |  |
 | [Buitre](https://open.spotify.com/track/5nxUPbg1pnv58NpTLOAQHD) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Buitre](https://open.spotify.com/album/6H5XztWhk6kZApudObpKCW) | 4:13 | 2025-09-13 |  |
 | [Burning Soul](https://open.spotify.com/track/07JAFOVPFj7HLNGspfJPMR) | [David Lenoc](https://open.spotify.com/artist/0bwgixs0srFeTkbOEA7CvJ) | [Burning Soul](https://open.spotify.com/album/4mrAj3lYWjzYIhnuS1dplA) | 3:08 | 2025-01-25 |  |
 | [Büitre](https://open.spotify.com/track/2SbXb00q4taXT4ewzyTVug) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [La Fuerza](https://open.spotify.com/album/5emGsXnZncj5fo2kVb2DId) | 4:12 | 2025-09-13 |  |
@@ -120,6 +122,7 @@
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2025-01-24 |  |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2025-01-24 |  |
 | [Irie Kilele](https://open.spotify.com/track/0nn77exK1ErfF5sP2EyznA) | [Munna Sound System](https://open.spotify.com/artist/6KqgD2tDajHkchXY1kgMsv) | [Irie Kilele](https://open.spotify.com/album/5Q9tzgoXsn0qSjcJ9ccDQI) | 2:50 | 2025-04-07 |  |
+| [It's Beginning to Look a Lot Like Christmas \- Live](https://open.spotify.com/track/5qicKEeKmLPWH6qRxfpcIx) | [David Zurita](https://open.spotify.com/artist/5XGAdmgRO0PKYzCHtO8qbx), [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Christmas Acoustic Sessions](https://open.spotify.com/album/3E1mzOZq2T7fgzVO13KkPu) | 3:10 | 2025-12-17 |  |
 | [Jardin](https://open.spotify.com/track/4Ui9Ect1oc0a7qOp5U7C2C) | [Afternoon Cocktail](https://open.spotify.com/artist/208Lok5tojubG2pQcyN3IY) | [Jardin](https://open.spotify.com/album/38sYRstMv3NvVVZTaZY7lk) | 3:59 | 2025-06-01 |  |
 | [Jodida Ironía](https://open.spotify.com/track/6dNXlDXLAONY2tPgfIP0ZT) | [SANGRE ÁCIDA](https://open.spotify.com/artist/5jnpAyC3qAfR6KfzZQNAtY) | [Cuervos en el Final](https://open.spotify.com/album/3EKDwbHDJCqeI6g57hFy00) | 3:27 | 2025-06-28 |  |
 | [Just a Stranger](https://open.spotify.com/track/1tCYwECqDFPbMaSszXd8mg) | [Eugenie Tan](https://open.spotify.com/artist/1JiYDZsZx0YBGkSiLNEKip) | [Just a Stranger](https://open.spotify.com/album/13bHm1uNtabEpmTTgisTtK) | 3:44 | 2025-02-01 |  |

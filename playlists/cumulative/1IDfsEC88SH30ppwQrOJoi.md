@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! &lt;3
 
-457 songs - 23 hr 31 min
+458 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [EXTASI](https://open.spotify.com/track/6ORtRmV7rswtzcMZZ4sl2o) | [Dibona](https://open.spotify.com/artist/6fxpScTzxpssTBbxQSpPVY) | [EXTASI](https://open.spotify.com/album/2lu7qZsqPBEGx0mghY3mgN) | 3:47 | 2024-01-19 | 2024-03-14 |
 | [Eyes On You](https://open.spotify.com/track/3u36EF49p2ysKoof6CLQL5) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You](https://open.spotify.com/album/5ftgTZhsh7UGGgYmhmD2Xt) | 2:38 | 2023-07-07 | 2024-03-14 |
 | [Falling](https://open.spotify.com/track/3sfkfL1jjKMSWbPgDr4Bu1) | [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Falling](https://open.spotify.com/album/7eZtyBYCVpNAh6nRVqWqIu) | 2:57 | 2024-11-13 | 2025-10-15 |
+| [Falling Forever](https://open.spotify.com/track/3BHkirzjmCsPVi1b6HTTBH) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Falling Forever](https://open.spotify.com/album/7c78ZXT2DkAeYmvsurQl9u) | 2:38 | 2025-12-17 |  |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-04-26 | 2024-05-01 |
 | [Fed Up](https://open.spotify.com/track/0W2FEBuoaaipzs6pMLJEbu) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [Fed Up](https://open.spotify.com/album/3476yoDproOwL6af1dZKgH) | 2:33 | 2024-08-16 | 2024-10-19 |
 | [Feel My Needs](https://open.spotify.com/track/38D7JeZb1SZfzZo6wGJGae) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Feel My Needs](https://open.spotify.com/album/4611D7Vc8zCLn49NiKqpjn) | 2:30 | 2025-01-30 |  |

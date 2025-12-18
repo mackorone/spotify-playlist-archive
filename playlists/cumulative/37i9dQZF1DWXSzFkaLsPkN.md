@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
-309 songs - 16 hr 59 min
+310 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Piya](https://open.spotify.com/track/3dA2C0JVTXRS43erFqVLRy) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Piya](https://open.spotify.com/album/4BHubnTh605e8B4KdYgTYP) | 2:47 | 2024-06-18 | 2025-09-17 |
 | [Piya Se Mila De](https://open.spotify.com/track/4Z2MfpavuPU4dNJUohBGRo) | [Ujwal Nagar](https://open.spotify.com/artist/09GQxWaCQICsreFokLcbzc), [Anindo Bose](https://open.spotify.com/artist/1G2v9z0cxtBy5FMHvZB5Hr) | [Piya Se Mila De](https://open.spotify.com/album/6Kr7joSInnPV3gWBRj5xN2) | 4:26 | 2024-01-09 | 2024-02-27 |
 | [Pukaroge](https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Pukaroge](https://open.spotify.com/album/6oT1IdHJahyT5GLigdFYyq) | 3:57 | 2023-05-02 | 2025-07-26 |
+| [Pyari Amaanat](https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK) | [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [A.O.D.](https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft), [Angad Virk](https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg) | [Keychain Laalu](https://open.spotify.com/album/6T7m3kftaThjsAMvBZVvjp) | 3:08 | 2025-12-17 |  |
 | [Qissa](https://open.spotify.com/track/0It2E7X6pVAGBUllqfsjbp) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Qissa](https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6) | 2:05 | 2023-08-09 | 2023-11-02 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
 | [Raaton Mein Ojhal](https://open.spotify.com/track/2Y4JIYsQApYzzmvCWo9r2z) | [Antara Ansuna](https://open.spotify.com/artist/0l9ZEXWJf65ojEUN4goWLq) | [Raaton Mein Ojhal](https://open.spotify.com/album/3dpOjEIxsKy5hn3DzbcEvs) | 3:50 | 2024-02-15 | 2024-06-12 |
@@ -241,7 +242,7 @@
 | [Saawariya](https://open.spotify.com/track/4WUjl8l3t5yg2JCGeYa7DV) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Saawariya](https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha) | 3:22 | 2023-05-02 | 2023-06-12 |
 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 | 2025-06-25 |  |
 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 | 2023-09-27 | 2024-12-09 |
-| [Sabki Kahani](https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l) | [Sabki Kahani](https://open.spotify.com/album/5SkGyMMb683cW0GehC4BPA) | 3:47 | 2025-11-07 |  |
+| [Sabki Kahani](https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l) | [Sabki Kahani](https://open.spotify.com/album/5SkGyMMb683cW0GehC4BPA) | 3:47 | 2025-11-07 | 2025-12-18 |
 | [Sada](https://open.spotify.com/track/05eP30BPjlH3llu7v2MY1f) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mann](https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup) | 4:32 | 2023-08-30 | 2025-07-29 |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-26 | 2025-07-26 |
 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 | 2024-01-05 |  |

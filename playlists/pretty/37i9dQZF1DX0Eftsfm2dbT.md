@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: kZm
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,553 likes - 91 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,596 likes - 91 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 53 | [8UP](https://open.spotify.com/track/1zaoqL7kjrrKiMuMqhH65C) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [8UP](https://open.spotify.com/album/1L3pPangBpYOvdgTLZHai2) | 2:43 |
 | 54 | [GUNSO LYFE STYLE](https://open.spotify.com/track/3HA5RVJURsK4gsQXoxXryC) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI), [ENEL](https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg) | [GUNSO LYFE STYLE](https://open.spotify.com/album/0bmYLx8qhUW2h8Wx4EuUEx) | 3:17 |
 | 55 | [Honne](https://open.spotify.com/track/10R8AMJHO6PKoe2aYJRgFi) | [ARuM](https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx) | [Still ARuM](https://open.spotify.com/album/1A578mlTwyO6TBGYRoCXlh) | 2:44 |
-| 56 | [Dragons \(feat\. M3R\)](https://open.spotify.com/track/708lkmQqeD8ZWephuIOZia) | [ROBBIN](https://open.spotify.com/artist/3x0ONZtLLBmpLuHfvod49l), [M3R](https://open.spotify.com/artist/22N6T5zwzJBtmRYkCEvqCu) | [Baskin Tape](https://open.spotify.com/album/6y8eNOM9SH7ZZMo8UBkXnM) | 1:54 |
+| 56 | [Dragons \(feat\. M3R\)](https://open.spotify.com/track/708lkmQqeD8ZWephuIOZia) | [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB), [M3R](https://open.spotify.com/artist/22N6T5zwzJBtmRYkCEvqCu) | [Baskin Tape](https://open.spotify.com/album/6y8eNOM9SH7ZZMo8UBkXnM) | 1:54 |
 | 57 | [AREA06](https://open.spotify.com/track/06njbm0asAVl8tq5LxyqIv) | [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5) | [Japanism](https://open.spotify.com/album/6Ib4FWoVRVAVZQNKVmYaDl) | 1:59 |
 | 58 | [Rainy \(feat\. Bene Baby\)](https://open.spotify.com/track/2y7KKhdAXZcSTyPru5ChN9) | [X 1ark](https://open.spotify.com/artist/1ffob9pTIlEgfHmllUD6U9), [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Rainy \(feat\. Bene Baby\)](https://open.spotify.com/album/2mWMUdFmxmPQrwkZFbTHis) | 3:01 |
 | 59 | [バイオリン](https://open.spotify.com/track/0b19ZdZoxf3lmGSEVnHIWr) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [バイオリン](https://open.spotify.com/album/1NgNWtG58r30GoNe5fdUpw) | 2:25 |
 | 60 | [RudeBadBoy \(feat\. テークエム\)](https://open.spotify.com/track/5YvJStzEundTaGq8mtKcWn) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [COLORFUL](https://open.spotify.com/album/5A9p2KaNc80uIQPEgeyyHF) | 3:11 |
-| 61 | [飛ばそう](https://open.spotify.com/track/26MKgas9iJixm7pnYmNRqt) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [](https://open.spotify.com/album/null) | 3:10 |
+| 61 | [飛ばそう](https://open.spotify.com/track/26MKgas9iJixm7pnYmNRqt) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [不屈の男達の物語 ～The Story Of Indomitable Men～](https://open.spotify.com/album/0LNvN6XE7fC6RTyQ4e3Kl5) | 3:10 |
 | 62 | [GENZAI \- Remix](https://open.spotify.com/track/5Xw2PBolh02ty5HylmuKXW) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [LiL HiTUMABUSHi](https://open.spotify.com/artist/4rBlypcYZnbusrEjfibXZr) | [GENZAI \(Remix\)](https://open.spotify.com/album/19aBHCF7QdSdSNwxIG2H76) | 2:38 |
 | 63 | [Highway](https://open.spotify.com/track/1P5HbCjaBYE3R8bYYNZtu5) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [En](https://open.spotify.com/album/5KMluwmONyrgB1PJT6PYFS) | 2:27 |
 | 64 | [Takusan Eye Clear II \(feat\. BIM\)](https://open.spotify.com/track/3nATEyyDYRAx4DKjdRcEYE) | [C6ix](https://open.spotify.com/artist/4g0NGiHJAVMSqJKTCtzZzE), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Takusan Eye Clear II \(feat\. BIM\)](https://open.spotify.com/album/6aLAon0euPoHjefETtcGYT) | 2:34 |

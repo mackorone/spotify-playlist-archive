@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 
 > We just handed the Grim Reaper's first apprentice the AUX cord! All songs curated by Vtuber star Mori Calliope.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,358 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,448 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

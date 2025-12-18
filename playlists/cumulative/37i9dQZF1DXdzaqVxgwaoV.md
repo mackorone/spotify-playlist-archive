@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-367 songs - 22 hr 22 min
+368 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [El Negro Picante](https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm) | [Jose A\. Bedoya y Su Conjunto](https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh) | [Que Gran Relajo](https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1) | 2:53 | 2023-02-03 | 2024-09-01 |
 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 | 2023-02-03 | 2024-09-02 |
 | [El Pegao](https://open.spotify.com/track/6BIJjj0GaPbmDXMTbLG6kt) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 3:10 | 2023-12-15 | 2024-01-10 |
-| [El Pescador de Barú](https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [Éxitos los Warahuaco & Hernán Rojas](https://open.spotify.com/album/1TtaDXi6YdjxUJo4ri7aTJ) | 2:50 | 2024-09-01 |  |
+| [El Pescador de Barú](https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy) | [Los Warahuaco](https://open.spotify.com/artist/06phV7fzCjfgTxdJ9MQeSQ), [Hernán Rojas](https://open.spotify.com/artist/3dkjB35iFamrfo9flhThs7) | [Éxitos los Warahuaco & Hernán Rojas](https://open.spotify.com/album/1TtaDXi6YdjxUJo4ri7aTJ) | 2:50 | 2024-09-01 | 2025-12-18 |
 | [El Pesebre \- Instrumental](https://open.spotify.com/track/5KNKiro57zPRBSqZQswpOi) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [En Navidad: Grandes Éxitos de Todos los Tiempos](https://open.spotify.com/album/5CARr705cUfbuyHUVvmu35) | 2:43 | 2024-10-17 | 2024-11-17 |
 | [El Pichón](https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 3:11 | 2023-12-15 |  |
 | [El Porteñito](https://open.spotify.com/track/1jJnywpOLOkrdQK3loWnxZ) | [Banda La Bocana](https://open.spotify.com/artist/2mNk9YrmPJ7DsCKqQsYEEF) | [Grandes Éxitos](https://open.spotify.com/album/1hrtxfYCglIx47SZN8CVI1) | 5:49 | 2023-12-20 | 2025-11-28 |
@@ -207,6 +207,7 @@
 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 | 2023-02-03 |  |
 | [Las Cuatro Fiestas](https://open.spotify.com/track/3rUkVsBsJ2LjnSd6Sf8TVv) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Fiesta Vallenata Vol\. 19 1993](https://open.spotify.com/album/0Hw00shVJOHB8v6O7aMTwt) | 4:38 | 2025-09-09 | 2025-10-04 |
 | [Las Dos Camisas](https://open.spotify.com/track/5WBONPqKLcu4Mhd6qNyJ6M) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Al Que Le Gusta...Le Sabe](https://open.spotify.com/album/6rl4jrERozHBK1svCyNUyJ) | 4:05 | 2024-11-01 |  |
+| [Las Pilanderas](https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Pilanderas](https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma) | 3:19 | 2025-12-17 |  |
 | [Las Tapas](https://open.spotify.com/track/4cH62g06fG7WsLuxiyNaD7) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 3:46 | 2025-09-09 | 2025-10-04 |
 | [Limoncito Con Ron](https://open.spotify.com/track/1zuYAoErXNMglROSHkY50S) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414) | [De Regreso \- Tropical y Original](https://open.spotify.com/album/16UOHeOPrpAQ9rwoY8hHFH) | 4:20 | 2024-09-01 | 2025-07-09 |
 | [Linda](https://open.spotify.com/track/7MLex61Szt77tNNnF4CRqE) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Linda](https://open.spotify.com/album/5iokP9D0XddoVfhjNMg7UK) | 2:58 | 2025-12-12 |  |

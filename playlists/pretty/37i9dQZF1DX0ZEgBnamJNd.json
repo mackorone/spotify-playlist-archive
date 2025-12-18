@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 53139,
+  "num_followers": 53149,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
+        "name": "Golden Years Of Dutch Pop Music",
+        "url": "https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y"
+      },
+      "artists": [
+        {
+          "name": "Golden Earring",
+          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
+        }
+      ],
+      "duration_ms": 135173,
+      "name": "If You Leave Me",
+      "url": "https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Golden Years Of Dutch Pop Music",
-        "url": "https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y"
-      },
-      "artists": [
-        {
-          "name": "Golden Earring",
-          "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
-        }
-      ],
-      "duration_ms": 135173,
-      "name": "If You Leave Me",
-      "url": "https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d"
     },
     {
       "added_at": "2020-04-20 05:39:13",

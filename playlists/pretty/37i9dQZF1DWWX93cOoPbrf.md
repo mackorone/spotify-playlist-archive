@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Saul Villareal en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,760 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,835 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OTRO PEX](https://open.spotify.com/track/2O9Pzialgs77haC4E364QU) | [Saul Villarreal](https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K) | [OTRO PEX](https://open.spotify.com/album/4wqbqpi95oygtVcikfchj5) | 2:34 |
 | 2 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
-| 3 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:44 |
+| 3 | [Plomo y Letra](https://open.spotify.com/track/3Cml07noHvReE1LyQIouig) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Plomo y Letra](https://open.spotify.com/album/5b8wT4woMT3W9Kbg74TIcG) | 2:45 |
 | 4 | [Chiclona](https://open.spotify.com/track/0Gfj3PJYYEXmhV0Qla5HQc) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Chiclona](https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3) | 2:40 |
 | 5 | [Perfil Bajo](https://open.spotify.com/track/04ErN8a15ohwOQrvqvGPaT) | [Cheluis](https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [JR](https://open.spotify.com/artist/5lVrLnOGxIY3q8TTqDd5m2) | [Perfil Bajo](https://open.spotify.com/album/0Q576qmi6iiNEOkRfDOR7b) | 2:05 |
 | 6 | [El Chavalón](https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Chavalón](https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq) | 2:54 |

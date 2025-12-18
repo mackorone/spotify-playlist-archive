@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: Saucy Dog \*👉 <a href="https://spice.eplus.jp/articles/342641">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: Saucy Dog \*👉 <a href="https://spice.eplus.jp/articles/342790">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,334 likes - 72 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,335 likes - 72 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [2025/12/17 Awichロングインタビュー配信！Saucy Dog、SKY\-HI、REJAYの新作をピックアップ！『Spotify On Stage Tokyo 2025\-Year\-End Special\-』現場で収録したライブレポも！](https://open.spotify.com/episode/2RhKnDixwdWWPGgL7gsbWZ) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:28:42 |
-| 2 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [](https://open.spotify.com/album/null) | 4:33 |
+| 2 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
 | 3 | [USD](https://open.spotify.com/track/2zV8MKRonSmOYVAYVgZJAW) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [USD](https://open.spotify.com/album/7wyyvWAdaUwE7ZXBBqs0kr) | 3:42 |
 | 4 | [Share](https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Share](https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE) | 3:57 |
 | 5 | [ADHD \(feat\. Benjazzy\)](https://open.spotify.com/track/2XkY9qd0pw40fGhjlHx1CJ) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [ADHD \(feat\. Benjazzy\)](https://open.spotify.com/album/5nOp64sEesDY127FbuUzzb) | 2:50 |
 | 6 | [Blue Hour](https://open.spotify.com/track/0exxhpqav8zfuz1sGcWPz7) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [BERLINETTA BOY NEEDS TOO MUCH MONEY](https://open.spotify.com/artist/0VSDjQze2bHTTfAVjgzIgk), [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [Blue Hour](https://open.spotify.com/album/4xN879Ajx367eznHMordyZ) | 4:00 |
 | 7 | [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 |
-| 8 | [Shaky](https://open.spotify.com/track/1x7mMdiOrQlq0pjiqty68O) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [](https://open.spotify.com/album/null) | 3:38 |
+| 8 | [Shaky](https://open.spotify.com/track/1x7mMdiOrQlq0pjiqty68O) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 3:38 |
 | 9 | [Future In My Pocket \- feat\. TAIKI \(STARGLOW\), GOICHI \(STARGLOW\)](https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP), [GOICHI](https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr) | [Success Is The Best Revenge](https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe) | 2:48 |
 | 10 | [JUMP](https://open.spotify.com/track/6xRERWQf3rTMWhWq6CVoAA) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [ILL SWAG GAGA](https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc), [YugaSoda](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [HATCH](https://open.spotify.com/artist/3DawzHJWiaOYtFRfvqXmIM) | [JUMP](https://open.spotify.com/album/03WYGuneefzuZC2XhkZHiF) | 3:42 |
 | 11 | [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 43 | [天使になった日](https://open.spotify.com/track/3Aa2tIjWUg467qjQ7qnJbO) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [TORIGUNI](https://open.spotify.com/album/3CC2FIeklE98O5lhOXqS8z) | 2:43 |
 | 44 | [星の詩](https://open.spotify.com/track/3OkyR4ye7tWuFZbNE0rvc3) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC) | [星の詩](https://open.spotify.com/album/0rvZbzzB3Xc7WLSzVnpSME) | 3:23 |
 | 45 | [TEMPO](https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [TEMPO](https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W) | 2:45 |
-| 46 | [PAINT](https://open.spotify.com/track/5GMUNV5yI9nPYimBkJ7Px4) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [](https://open.spotify.com/album/null) | 3:37 |
+| 46 | [PAINT](https://open.spotify.com/track/5GMUNV5yI9nPYimBkJ7Px4) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [6IX PIECE](https://open.spotify.com/album/5l1PcMGmzRMJH4PJx0XT0N) | 3:37 |
 | 47 | [Bring it Back](https://open.spotify.com/track/350cXeeX0qeCdkJ036Lkfb) | [GPP](https://open.spotify.com/artist/4fR2iaFrQ8dSkIaKHQYYzw) | [Bring it Back](https://open.spotify.com/album/0Bg4SoxfVEV7jvdDNVj2HK) | 4:11 |
 | 48 | [cycle](https://open.spotify.com/track/3DE4QaNmaAS40ol8YrxQPV) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [cycle](https://open.spotify.com/album/6o2lM7f2MHL9sH9bbo7goi) | 3:13 |
-| 49 | [飛ばそう](https://open.spotify.com/track/26MKgas9iJixm7pnYmNRqt) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [](https://open.spotify.com/album/null) | 3:10 |
+| 49 | [飛ばそう](https://open.spotify.com/track/26MKgas9iJixm7pnYmNRqt) | [Rappagariya](https://open.spotify.com/artist/2AIgd1f6tXGh7TALqY7uQm) | [不屈の男達の物語 ～The Story Of Indomitable Men～](https://open.spotify.com/album/0LNvN6XE7fC6RTyQ4e3Kl5) | 3:10 |
 | 50 | [助けてウェイパー](https://open.spotify.com/track/0HQR5eaUiWHXVuFTaNXcYs) | [すてぃぎもろく](https://open.spotify.com/artist/3maOtCevILAXRauVeWhJ2D), [毎日ユニーク](https://open.spotify.com/artist/3ozNqNNLtBozfYz8xU8BP2) | [助けてウェイパー](https://open.spotify.com/album/6eLHsxAl9JRzWxVkaJDRqD) | 4:13 |
 | 51 | [PLEASE](https://open.spotify.com/track/4ZuVbax3qfswHKKe1XCP9X) | [橘慶太](https://open.spotify.com/artist/0WSrosideBq776LQIhBWqO) | [PLEASE](https://open.spotify.com/album/153bo79oJ9yijWzNOs6dxD) | 2:43 |
 | 52 | [Align](https://open.spotify.com/track/2c7kYyXCrgfeKK8dET009i) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [MAGenter](https://open.spotify.com/album/5hIqFmBFKmakk5UdnhgWJe) | 3:15 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 57 | [わるいくせ](https://open.spotify.com/track/3cKQ51hK6oLQLJXyIguuSU) | [Grape Kiki](https://open.spotify.com/artist/4s0fPwSHwBDhTMlsN24Jht) | [わるいくせ](https://open.spotify.com/album/7vpEfaA3nlbRZ5OZP2ZY2x) | 3:37 |
 | 58 | [エンドロール](https://open.spotify.com/track/6vIwKLsUcUj3ISqQ2WqkEH) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [エンドロール](https://open.spotify.com/album/58WdVP8DntfxHSPY8E89ZY) | 4:08 |
 | 59 | [逆さ月 \(Reverse Moon\) feat\. asmi](https://open.spotify.com/track/68rid6qen81zUDXd70gT6i) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [逆さ月 \(Reverse Moon\) feat\. asmi](https://open.spotify.com/album/4yMaQODK7r8WFY7aILe2Hh) | 2:42 |
-| 60 | [あのミュージシャンのせいで](https://open.spotify.com/track/5S6lNreXraqjuECewjMFTT) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [](https://open.spotify.com/album/null) | 4:04 |
+| 60 | [あのミュージシャンのせいで](https://open.spotify.com/track/5S6lNreXraqjuECewjMFTT) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [LAST PLANET](https://open.spotify.com/album/4cHX7F9PXd9mFtUcfWBXFz) | 4:04 |
 | 61 | [Ghost](https://open.spotify.com/track/19IzZzljOLMVFW1DUIRKqb) | [36km/h](https://open.spotify.com/artist/11PZZfQ3tYjjwB3oCjQQwV) | [Around us](https://open.spotify.com/album/7Fsayv7l348KtJPWrXqWoa) | 4:03 |
 | 62 | [Ayatsunagi](https://open.spotify.com/track/5grQQK8iCsqDuwj2IgvQtf) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [Ayatsunagi](https://open.spotify.com/album/7en1OvDGyIYuTeL6OIyjYI) | 4:30 |
 | 63 | [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [DON'T JUDGE ME](https://open.spotify.com/track/1NXdmNpkC4XSUmisj2TOJE) | [Doona](https://open.spotify.com/artist/5yxztrzs8fDGEQh8VSwSsp) | [DON'T JUDGE ME](https://open.spotify.com/album/1SDLASqzhbKbqhme7trMjs) | 3:52 |
 | 72 | [ツーツー屋](https://open.spotify.com/track/0Z2LiP4hQMwRva52AmQiOC) | [物品販売](https://open.spotify.com/artist/3jS76RqAY0x19NmWbGhXV6) | [ツーツー屋](https://open.spotify.com/album/2VRVd5X1lrKWfDJk1E46LF) | 3:05 |
 
-Snapshot ID: `AAAAAOGzVQARF80IuSJyaemwLV1NOfVt`
+Snapshot ID: `AAAAAK9o8DprOWnO3GDeqA2oI/Zc+9Ax`

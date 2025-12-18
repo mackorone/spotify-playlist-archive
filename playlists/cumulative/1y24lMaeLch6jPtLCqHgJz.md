@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1y24lMaeLch6jPtLCqHgJz.md) - cumulative - [plain](/playlists/plain/1y24lMaeLch6jPtLCqHgJz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1y24lMaeLch6jPtLCqHgJz)
 
-### [Summer Festival 2025 💥 Festival Summer Music](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
+### [Summer Festival 2026 💥 Festival Summer Music](https://open.spotify.com/playlist/1y24lMaeLch6jPtLCqHgJz)
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 

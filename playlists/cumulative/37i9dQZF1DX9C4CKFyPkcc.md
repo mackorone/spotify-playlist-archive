@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-400 songs - 23 hr 11 min
+401 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-12-11 | 2025-05-17 |
 | [GREATEST GIFT](https://open.spotify.com/track/5rLiwgAOamh13OSk9PDNYg) | [James Bakian](https://open.spotify.com/artist/6r8QEHkxWjN4t2HemWAMyN) | [GREATEST GIFT](https://open.spotify.com/album/7sbbCekpluQfu1HmSJHSL8) | 2:28 | 2025-12-12 |  |
 | [Hallelujah \- Acoustic](https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Hallelujah \(Acoustic\)](https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN) | 2:53 | 2023-12-02 |  |
+| [Hallelujah Hope](https://open.spotify.com/track/3OuLmgD7E64nrijVUHwnua) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Hallelujah Hope](https://open.spotify.com/album/7wXbY8k2dC40klWbAyAU72) | 3:21 | 2025-12-12 |  |
 | [Hallelujah Our King](https://open.spotify.com/track/0Zy6MFHQQv5saKuM0vxAli) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 4:07 | 2022-11-26 |  |
 | [Hark the Herald Angels Sing](https://open.spotify.com/track/453bOJVzeCVXuQU4RXboyp) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Abby Randolph](https://open.spotify.com/artist/3q2FBte7n4cmspGBKivY1f) | [Here Comes the King](https://open.spotify.com/album/1SqJCGyOwcVtiqWJyT7L1T) | 5:17 | 2024-11-29 | 2025-05-05 |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/7ry33QJNnX9YJFEo51yUQK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 4:04 | 2023-11-03 |  |
@@ -373,7 +374,7 @@
 | [We Three Kings](https://open.spotify.com/track/6c1nLodkZR8OMwI89lQLoY) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [We Three Kings](https://open.spotify.com/album/0zc404XWRURPZZK4RuMJxp) | 3:52 | 2024-11-29 |  |
 | [We Wish You A Merry Christmas \- His Gift Version](https://open.spotify.com/track/1HoVVfoVv3nSnvudzqeWxt) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:27 | 2023-12-15 |  |
 | [Welcome to Our World](https://open.spotify.com/track/1wAMMKFVZJ3AHgGCvYMBpK) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Welcome To Our World](https://open.spotify.com/album/2Xl3s1pssq11jtDsQYOEdm) | 4:07 | 2022-12-11 |  |
-| [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 | 2024-07-29 |  |
+| [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 | 2024-07-29 | 2025-12-18 |
 | [What Child is This](https://open.spotify.com/track/4KKbPfcERrgrkG2WcsxVFL) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [What Child is This](https://open.spotify.com/album/6N3UHeRjI6Knjr5QKqJckj) | 2:47 | 2024-11-29 | 2025-04-18 |
 | [What Child Is This?](https://open.spotify.com/track/5rM3dXlmgy5BtkamHPxdQl) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Morgan Ranney](https://open.spotify.com/artist/4NAuhahng7kSZqvfIXHFR9) | [What Child Is This?](https://open.spotify.com/album/2ZbATgq2AqrhhftlpkC0eb) | 2:16 | 2021-12-24 |  |
 | [What Child Is This?](https://open.spotify.com/track/40yGytsNbQqnBAjbeSMqqd) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [What Child Is This?](https://open.spotify.com/album/1SpBRT3ApZfJ2EtZADdA8f) | 3:21 | 2024-11-29 | 2025-04-14 |

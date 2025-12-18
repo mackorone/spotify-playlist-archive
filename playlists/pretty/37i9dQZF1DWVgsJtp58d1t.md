@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 ### [Best of Frequency 2025](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best of Black music in 2025
+> The best of Black music in 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,820 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,817 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

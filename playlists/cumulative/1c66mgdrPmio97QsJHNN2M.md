@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-633 songs - 1 day 11 hr 0 min
+637 songs - 1 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-11-18 |  |
 | [Colors](https://open.spotify.com/track/7Ft680NqP2xHz3O0NDZpIe) | [Axel Villagomez](https://open.spotify.com/artist/2ZgnRgyzvOwqnf6mKY5Cqb) | [Colors](https://open.spotify.com/album/7aWnewTxN4gGY7fMSegLxi) | 3:25 | 2025-10-24 | 2025-11-26 |
 | [COLORS \- Radio Edit](https://open.spotify.com/track/67miMAxbYUnC94C4YW01UD) | [Jil Kommer](https://open.spotify.com/artist/1QNtshiqgHorjRGCrQBobb) | [COLORS \(Radio Edit\)](https://open.spotify.com/album/74Z5NRfibVwnQBK7tslKFG) | 2:47 | 2025-11-10 | 2025-12-11 |
+| [Come for You](https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Come for You](https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR) | 2:43 | 2025-12-17 |  |
 | [Comet](https://open.spotify.com/track/34fvTZ7WedEbhWfbsTZ8Fp) | [Joshua Scarpaci](https://open.spotify.com/artist/0wJ6cH1pehhasDf6q0GRS0) | [Effigy](https://open.spotify.com/album/1NVuDe3ln3ktAQ9toLGYfe) | 5:50 | 2025-12-01 |  |
 | [Como Un Niño](https://open.spotify.com/track/10n2PuAwQs1p1UFQjGtcKr) | [Mario Galvan](https://open.spotify.com/artist/7zitMF4XpjAZO6e13aELko) | [Como Un Niño](https://open.spotify.com/album/6YqbaxFV4WjgEcgGCbZyrn) | 2:56 | 2025-12-07 |  |
 | [Confidence](https://open.spotify.com/track/1ar3gYsWn4lgL6OLGm37HU) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Confidence](https://open.spotify.com/album/5BDT4XiSR1kk8ou5JFaCkL) | 3:45 | 2025-10-04 |  |
@@ -170,6 +171,7 @@
 | [Everybody Lies to Me](https://open.spotify.com/track/3Kc3osvQeJPciU8r5UbiSz) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [Everybody Lies to Me](https://open.spotify.com/album/2eDqGxn9E7TZ6VYVFeTTco) | 3:29 | 2025-11-24 |  |
 | [Everybody's Business](https://open.spotify.com/track/0Yx0phQIGa1IjiRKJqgfT6) | [Electric Monday](https://open.spotify.com/artist/6eXClfddZLIoxMJe7gQpt1) | [Everybody's Business](https://open.spotify.com/album/35QTvpPefoyXSaopiPHvVk) | 4:21 | 2025-11-10 | 2025-12-11 |
 | [Except You](https://open.spotify.com/track/3ZlsmpFpgBZ3ivWLloHErK) | [Arsham noor](https://open.spotify.com/artist/1FVEdeAjUpIm2T64VzIcD7) | [Except You](https://open.spotify.com/album/6TIgqSpgGF1OufG0sF6kwk) | 3:19 | 2025-12-15 |  |
+| [F OFF](https://open.spotify.com/track/1WUlN1rbPF7NyAFBAQiE7R) | [Lexi Algar](https://open.spotify.com/artist/1xkXyIA1x78HueOxnV67pE) | [F OFF](https://open.spotify.com/album/5luj2dJYcKx6tgoIVdbBh5) | 2:34 | 2025-12-17 |  |
 | [Face It Love](https://open.spotify.com/track/673S6yRDrwrsQTpQv171wY) | [Larsen West](https://open.spotify.com/artist/4sd6e8vSVD12MVX21jTlDO) | [Face It Love](https://open.spotify.com/album/1jkQZbb0jeIctIpGpibUsb) | 4:16 | 2025-10-25 | 2025-11-26 |
 | [Faith In You](https://open.spotify.com/track/2gUXvRPLAN3YqNK4fL4PyF) | [Nostalgia](https://open.spotify.com/artist/2Ff11vHH453r07VJTC1PiL), [Medha](https://open.spotify.com/artist/2sAmPWwBMVdtunTnAPqBnD) | [Faith In You](https://open.spotify.com/album/4pc59iOgsryeMFIRLpAxvQ) | 3:44 | 2025-11-14 |  |
 | [Falling](https://open.spotify.com/track/61Wr1dRcru5AA5iHqsARBJ) | [Snow Sol](https://open.spotify.com/artist/30LUphTYNt6hlgloXLv5lj) | [Falling](https://open.spotify.com/album/3ZOtXqjTygqkJmuHGu2Vht) | 3:17 | 2025-10-22 | 2025-11-23 |
@@ -562,6 +564,7 @@
 | [This is Love](https://open.spotify.com/track/0WVahHutaHt8VNacElY2us) | [Magic Ruud](https://open.spotify.com/artist/1VZtOpULUxftLi9HOTJ9qW) | [This is Love](https://open.spotify.com/album/18L0aa5ggajmlOEnJDlsMv) | 3:26 | 2025-11-24 |  |
 | [This Is Our Summer \- Radio Remix](https://open.spotify.com/track/3o753J40HokJ3qNZ0Pm2TG) | [Pink Peaches](https://open.spotify.com/artist/6aYTftFJlm73s2Xjf4qLUF) | [This Is Our Summer \(Radio Remix\)](https://open.spotify.com/album/5MyB8kdUBPKZjokv4FDl9Y) | 3:24 | 2025-11-17 |  |
 | [This Is the Christ](https://open.spotify.com/track/7ojPhNBdb2hqxy3NfxuhME) | [Think Cello\-stial](https://open.spotify.com/artist/59uJbt0vEgCtPskbyutjy4) | [This Is the Christ](https://open.spotify.com/album/4zHEvyLy2yc316ghWqHO5s) | 2:25 | 2025-11-19 |  |
+| [Thought](https://open.spotify.com/track/0f0ZrkUkTHuacGAfINhShF) | [Childish X](https://open.spotify.com/artist/6s8bC9wfenuVk1QjX1Edz7) | [Thought](https://open.spotify.com/album/0VddMn6aynC0g9LBlyyj8c) | 2:10 | 2025-12-17 |  |
 | [Tiktok Rythm](https://open.spotify.com/track/4BAA6UtOFadQqXuo2O8KkI) | [GHANAPAQ](https://open.spotify.com/artist/26O4R4Y3SD2KQ6KUqwGeIB) | [Tiktok Rythm](https://open.spotify.com/album/4RIbdbjRuWTyS0JIsytvLD) | 4:28 | 2025-10-28 | 2025-11-30 |
 | [Time for Tea \(Lee\)](https://open.spotify.com/track/3VT1tJqT1kgeFSYRFzDnKx) | [grade A star](https://open.spotify.com/artist/4XGG3okRDXxHA3zcuwTsDl) | [Time for Tea \(Lee\)](https://open.spotify.com/album/19qh45axUQpa5Rl9E5TuKT) | 3:01 | 2025-12-02 |  |
 | [Time Of The Signs](https://open.spotify.com/track/5V1d3crhF0teIm5yUIjaeO) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [Anything According To Plan](https://open.spotify.com/album/27vc2qCIKAumr15deHbdc3) | 3:01 | 2025-11-12 | 2025-12-15 |
@@ -578,6 +581,7 @@
 | [Totally Twisted](https://open.spotify.com/track/0RFNGRsq9Yytiq4HV5iqt9) | [Mr\. Frey](https://open.spotify.com/artist/24FXPv9FNWKUE0JKex6P5S) | [Totally Twisted](https://open.spotify.com/album/1VTWcHRrym18G65GuSrMy0) | 3:16 | 2025-12-16 |  |
 | [Trochilidae](https://open.spotify.com/track/11UZ50Oeg3WIcU5jpXQlbO) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Trochilidae](https://open.spotify.com/album/3Rq94kfHgxnkB7jJo9y75E) | 8:53 | 2025-11-21 |  |
 | [Tropical Freak](https://open.spotify.com/track/60t44DquyB0lnTTSwm3NIY) | [Gaiatech](https://open.spotify.com/artist/5mRwmWFJaLGhSEQpvYDclR) | [Tropical Freak](https://open.spotify.com/album/2v6iWNgaKueiriFWZAA3uR) | 5:33 | 2025-12-02 |  |
+| [Trust your light](https://open.spotify.com/track/32HkxQwRLlHeOObWb1sZpk) | [TwoNames](https://open.spotify.com/artist/2NVBsCklQDkpTijPfqqlLI) | [Trust your light](https://open.spotify.com/album/2Lt5jvum82KtNsrDGGKiwJ) | 4:59 | 2025-12-17 |  |
 | [Try](https://open.spotify.com/track/5cYA17uhwfFZhW32gPYhMm) | [Salasnich](https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2), [NICH \(T\)](https://open.spotify.com/artist/0ba1U7Kn9lLmGN3kR7aCKi) | [Rugiada EP](https://open.spotify.com/album/0PbKBUySxq2hXJTDUnZgZB) | 3:09 | 2025-12-03 |  |
 | [U + I](https://open.spotify.com/track/2AydFARM4UabJVmzxp7Yei) | [Tonwerck](https://open.spotify.com/artist/1l2WLqM42y6NaJy6pQWvtQ) | [Old Boy](https://open.spotify.com/album/3pgiYge4ok1ggzjutroRxk) | 3:08 | 2025-12-15 |  |
 | [Una noche mi amor](https://open.spotify.com/track/4F6Rw0R2695hoy762pfaaP) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Paraíso de Amor](https://open.spotify.com/album/6PZP1QEimz77FwpycZgVPJ) | 2:46 | 2025-10-31 | 2025-12-01 |

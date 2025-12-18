@@ -1332,6 +1332,24 @@
     {
       "album": {
         "name": "Bohemio Enamorado",
+        "url": "https://open.spotify.com/album/3gnVDTcJK3MHV7tIU1ZJv4"
+      },
+      "artists": [
+        {
+          "name": "Donato Poveda",
+          "url": "https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271040,
+      "name": "Echa P'aca (a/k/a D\u00e9jate Llevar)",
+      "url": "https://open.spotify.com/track/3f3p2YkAEuSAE8eNyaylBg"
+    },
+    {
+      "album": {
+        "name": "Bohemio Enamorado",
         "url": "https://open.spotify.com/album/5nKzMMs0MfZrUSuXicagfG"
       },
       "artists": [
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 274040,
       "name": "Echa P'aca (a/k/a D\u00e9jate Llevar)",
       "url": "https://open.spotify.com/track/0cGFKKxMuMdRfwtaOGNCVQ"

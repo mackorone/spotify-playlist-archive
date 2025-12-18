@@ -4,20 +4,22 @@
 
 > ニコニコ動画上におけるVOCALOID曲の人気を測るチャート。動画再生数や、作成数、コメント数、いいね数などのデータにビルボードが独自開発した係数を乗じて上位20位までのランキングを生成しています。Supported by ニコニコ
 
-32 songs - 1 hr 36 min
+34 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [IMAWANOKIWA](https://open.spotify.com/track/1gStV6Xw1MRITx0y7rQTkr) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [ねむるピンクノイズ](https://open.spotify.com/album/1NNcuKA3cpkH88r8trOCBy) | 4:13 | 2025-12-10 |  |
 | [PPPP \(feat\. Hatsune Miku, Kasane Teto\)](https://open.spotify.com/track/6J3pPfXLujwsWQpvR6XMgC) | [TAK](https://open.spotify.com/artist/51Ce3GImOKK2xAGi3HiNns), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [PPPP](https://open.spotify.com/album/2YpnTJLH8a1xxEL3HXAWQQ) | 2:34 | 2025-10-29 |  |
 | [いますぐ輪廻](https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [いますぐ輪廻](https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe) | 2:02 | 2025-08-06 |  |
-| [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 | 2025-10-22 | 2025-11-27 |
+| [きゅうくらりん](https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [きゅうくらりん](https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9) | 3:37 | 2025-10-22 |  |
 | [くるみ割り女王](https://open.spotify.com/track/28pyRtDvblWqbhflI7HuXh) | [NanahoshiKangengakudan](https://open.spotify.com/artist/546Z4c3hsgGSbpUKi298Oo) | [くるみ割り女王](https://open.spotify.com/album/75lUGnMSDpXIkll6vJNtp9) | 2:20 | 2025-12-03 | 2025-12-11 |
 | [ころしちゃった! \(feat\. 初音ミク\)](https://open.spotify.com/track/4d1CObMrwGif0yDhphYeO1) | [夏山よつぎ](https://open.spotify.com/artist/30DNiO9bddagJDpXa4LMYQ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ころしちゃった!](https://open.spotify.com/album/5PNDRomD3yZGskUq8huaxq) | 3:15 | 2025-11-19 |  |
 | [どりーむもーど](https://open.spotify.com/track/0FmRL2BZ1Iv5VYlbi2zMZO) | [Atena](https://open.spotify.com/artist/5vJxDR4n9HuNyEqOxv4PzS) | [どりーむもーど](https://open.spotify.com/album/7d8L9iI25zwgdxfXrEFpRx) | 2:20 | 2025-11-12 | 2025-11-20 |
 | [アベリア \(feat\. 初音ミク\)](https://open.spotify.com/track/14hFT8bRvY7mAykTdKLSmQ) | [Aliey:S](https://open.spotify.com/artist/4H1m2OzE9Gd2TjBlfNLbaT), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アベリア](https://open.spotify.com/album/6DwPvle2YcoELGuASNUZEG) | 3:37 | 2025-12-10 |  |
+| [アヴァート](https://open.spotify.com/track/2DzCfvlMnSkXDN673Mrmt3) | [32ki](https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX) | [アヴァート](https://open.spotify.com/album/6tjcL58JcghZh1NSS2jhm1) | 3:29 | 2025-12-17 |  |
 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 | 2025-09-10 | 2025-11-27 |
 | [カイコ](https://open.spotify.com/track/6Srgvq9ryPxhr2coAYl7RZ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [カイコ](https://open.spotify.com/album/1CyTTexVALoCVp7qJfuBZu) | 2:31 | 2025-11-12 | 2025-11-27 |
+| [ダイアグラム](https://open.spotify.com/track/1CrXIlN3XgJmjalpTf8isB) | [あばらや](https://open.spotify.com/artist/62BcD1onjN2mkljVC74jeJ) | [ダイアグラム](https://open.spotify.com/album/6Ykf0KneyBACJbXBD2XnLH) | 3:31 | 2025-12-17 |  |
 | [チェリーポップ](https://open.spotify.com/track/6yID3RbYKiwn2p2LPz0OkK) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [チェリーポップ](https://open.spotify.com/album/7zdVJKpYBZ7sytGi2EGUPh) | 2:18 | 2025-11-19 | 2025-11-27 |
 | [テトリス](https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [テトリス](https://open.spotify.com/album/2oyxublk7MjXShFbm7ca0S) | 2:22 | 2025-09-10 |  |
 | [テレパシ](https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [テレパシ](https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh) | 2:17 | 2025-11-12 | 2025-11-27 |
@@ -32,12 +34,12 @@
 | [ユニークエンド \(feat\. 初音ミク\)](https://open.spotify.com/track/6rSNGXvkn48P6kdiuBJ5cs) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ユニークエンド \(feat\. 初音ミク\)](https://open.spotify.com/album/0YZE1p5iOqcGtHs1FAcUjh) | 3:17 | 2025-12-03 | 2025-12-11 |
 | [ループザルーム \(feat\. 初音ミク\)](https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF) | [ルシノ](https://open.spotify.com/artist/5gwVYKw4Bhbk1rGz37O3fy), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [ループザルーム / ランベントアリア](https://open.spotify.com/album/2hslbovaWV2N1qxZJbZFiz) | 2:14 | 2025-12-03 | 2025-12-11 |
 | [ロウワー](https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [ロウワー](https://open.spotify.com/album/47wjnpsptGxku8RY0i8Gup) | 3:50 | 2025-11-19 | 2025-11-27 |
-| [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 | 2025-11-19 | 2025-11-27 |
+| [千本桜](https://open.spotify.com/track/38mUTswfszVFQ952r89AP8) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [千本桜](https://open.spotify.com/album/6Wop7Hk2r89DysfUe0USkh) | 4:12 | 2025-11-19 |  |
 | [愛属性](https://open.spotify.com/track/2salLUQo8z7f4oCutH0T4B) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [愛属性](https://open.spotify.com/album/1EvsuF6rHsiX3T5V5a5O90) | 2:53 | 2025-10-08 | 2025-11-27 |
-| [愛迷エレジー \(Reloaded\)](https://open.spotify.com/track/2wGXFbY7uHhsnj69MNpR2q) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [愛迷エレジー \(Reloaded\)](https://open.spotify.com/album/7v6Kjjdg07znAp4xBDUrPj) | 2:43 | 2025-12-10 |  |
+| [愛迷エレジー \(Reloaded\)](https://open.spotify.com/track/2wGXFbY7uHhsnj69MNpR2q) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [愛迷エレジー \(Reloaded\)](https://open.spotify.com/album/7v6Kjjdg07znAp4xBDUrPj) | 2:43 | 2025-12-10 | 2025-12-18 |
 | [散歩の邪魔](https://open.spotify.com/track/03LKxyUbFKaVSfxCbDI0Qf) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [散歩の邪魔](https://open.spotify.com/album/3PRgwCMZpDUBEetbvQsbs8) | 3:01 | 2025-12-03 |  |
 | [星涙哀歌](https://open.spotify.com/track/7owpNuv8VcWa0vXMEAIZML) | [MIMI](https://open.spotify.com/artist/7EuEZrjIoRurVFLtItafTA) | [よるつむぎ](https://open.spotify.com/album/4dZw65evulj7MRAL7RArdd) | 2:58 | 2025-12-10 |  |
-| [熱異常 \(feat\. 足立レイ\)](https://open.spotify.com/track/7zlsqQxGfiWIkctQDeTvmv) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU), [足立レイ](https://open.spotify.com/artist/09LPuYjoLMEJWne9bpvIBG) | [熱異常 \(feat\. 足立レイ\)](https://open.spotify.com/album/7AAKGn0ffMdRy0GCeFijg6) | 3:59 | 2025-11-12 |  |
+| [熱異常 \(feat\. 足立レイ\)](https://open.spotify.com/track/7zlsqQxGfiWIkctQDeTvmv) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU), [足立レイ](https://open.spotify.com/artist/09LPuYjoLMEJWne9bpvIBG) | [熱異常 \(feat\. 足立レイ\)](https://open.spotify.com/album/7AAKGn0ffMdRy0GCeFijg6) | 3:59 | 2025-11-12 | 2025-12-18 |
 | [目撃！テト31世 \(feat\. 重音テト & 雨衣\)](https://open.spotify.com/track/7996vwXg0kRNxpIfa4zNEm) | [はろける](https://open.spotify.com/artist/0ylNiGoYUvxyWdDXthEDhF), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR), [雨衣](https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK) | [目撃！テト31世 \(feat\. 重音テト & 雨衣\)](https://open.spotify.com/album/1ucimndIy6wDPsS3r2IZKY) | 2:21 | 2025-11-19 |  |
 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 | 2025-11-12 | 2025-11-20 |
 

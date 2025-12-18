@@ -5276,7 +5276,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 110668,
       "name": "down the street",
       "url": "https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ"
@@ -10008,7 +10008,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 133787,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm"
@@ -17203,6 +17203,24 @@
     },
     {
       "album": {
+        "name": "raindance",
+        "url": "https://open.spotify.com/album/0nMIcz9pkKQtd78NuHbzVz"
+      },
+      "artists": [
+        {
+          "name": "Ali Kaj",
+          "url": "https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136142,
+      "name": "raindance",
+      "url": "https://open.spotify.com/track/720sJmHXRC3ZGzgE6BoO3X"
+    },
+    {
+      "album": {
         "name": "rainy day",
         "url": "https://open.spotify.com/album/68Tu5Ec4RPtuoHQ4s1asl1"
       },
@@ -18046,6 +18064,24 @@
       "duration_ms": 167750,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1q2JKbcSANVM51vo7ZcNGZ"
+    },
+    {
+      "album": {
+        "name": "Sapphire Skies",
+        "url": "https://open.spotify.com/album/2oHYOTLdimhGWEmCTEmL8y"
+      },
+      "artists": [
+        {
+          "name": "Tooslo",
+          "url": "https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sapphire Skies",
+      "url": "https://open.spotify.com/track/7F3QuxLWUqRc09YQdaLqFH"
     },
     {
       "album": {

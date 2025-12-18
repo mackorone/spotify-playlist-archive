@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 325267,
+  "num_followers": 325361,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADi/1qtii5dj1E2IjeH57pl",
+  "snapshot_id": "aUChAAAAAAAmyTD1XGoNRJUd4TQ+eBF6",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 149669,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "added_at": null,
@@ -135,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
       },
       "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
+      "duration_ms": 149669,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapeutic Music 5",
-        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Smoking Section",
-      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 220013,
       "name": "Church",
       "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapeutic Music 5",
+        "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Smoking Section",
+      "url": "https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
       "duration_ms": 193880,
       "name": "Past Yesterday (with Skylar Grey)",
       "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living Proof (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 218986,
-      "name": "Living Proof (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Living Proof (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 218986,
+      "name": "Living Proof (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie 2",
         "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
       },
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 192969,
-      "name": "Cowboys",
-      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
         "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 322492,
       "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
       "url": "https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "duration_ms": 192969,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 169258,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waylon & Willie IV",
         "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 197343,
       "name": "My Only Enemy",
       "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 169258,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
     }
   ],
   "unique_name": "This Is Jelly Roll",

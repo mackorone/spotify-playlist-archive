@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2000s. Cover: Cam'ron",
-  "num_followers": 408375,
+  "num_followers": 408619,
   "original_name": "2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,18 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Paid Tha Cost To Be Da Bo$$",
-        "url": "https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI"
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 298306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -711,18 +703,26 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+        "name": "Paid Tha Cost To Be Da Bo$$",
+        "url": "https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
         }
       ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+      "duration_ms": 298306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Detroit Deli (A Taste Of Detroit)",
-        "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 212146,
       "name": "Slow Jamz (feat. Kanye West & Jamie Foxx)",
       "url": "https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Detroit Deli (A Taste Of Detroit)",
+        "url": "https://open.spotify.com/album/2mpzeA7pHNIDAPii4EEKsB"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/7sZCAHP2duHwr5M5K7lHsb"
     },
     {
       "added_at": "2024-12-06 05:00:00",

@@ -2,9 +2,9 @@
 
 ### [Indie Electronic ](https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj)
 
-> The best new electronic indie music\. Cover: Leon Vynehall
+> The best new electronic indie music\. Cover: TEED
 
-386 songs - 1 day 0 hr 5 min
+387 songs - 1 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Be That to You](https://open.spotify.com/track/6PRyHlrx4t9nj96pDRc00d) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [nomorejacketsplease](https://open.spotify.com/album/0FIC7MqBXHof4Q52dI0GEz) | 3:59 | 2025-10-03 |  |
 | [Berlin 1 \- Mixed](https://open.spotify.com/track/0x6cSnc6JKP77iC3FCRLzk) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [DJ\-Kicks: DJ BORING](https://open.spotify.com/album/5S9zX1tXzvezEW6m1Mvcp1) | 5:33 | 2024-07-26 | 2025-02-14 |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-07-03 | 2025-08-08 |
+| [Better Let It Go](https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Curses Broken](https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY) | 4:37 | 2025-12-17 |  |
 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 | 2024-06-21 | 2025-05-30 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-05-24 | 2025-02-19 |
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-07-03 | 2025-02-28 |
@@ -66,7 +67,7 @@
 | [Caramel](https://open.spotify.com/track/6pgL9mKrHp24ZcamJAPphX) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Caramel](https://open.spotify.com/album/08Q2dB31BHpDJXBQy76wwy) | 3:09 | 2024-04-12 | 2024-06-21 |
 | [Caramel](https://open.spotify.com/track/72EJgG1QY9Y1kU4T6Dqe8a) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Caramel](https://open.spotify.com/album/1rYaNphrfP2pefyeHorXuR) | 3:09 | 2021-10-28 | 2024-04-19 |
 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-17 | 2025-07-31 |
-| [Carried Away](https://open.spotify.com/track/6i2p0UJkSQp9YCTKT4Civf) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [Danke](https://open.spotify.com/artist/2Lku3KiL3gUkByXJgkqjzK) | [Carried Away](https://open.spotify.com/album/1nijlIpT14FlyVPli9eLWY) | 4:38 | 2025-11-27 |  |
+| [Carried Away](https://open.spotify.com/track/6i2p0UJkSQp9YCTKT4Civf) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [Danke](https://open.spotify.com/artist/2Lku3KiL3gUkByXJgkqjzK) | [Carried Away](https://open.spotify.com/album/1nijlIpT14FlyVPli9eLWY) | 4:38 | 2025-11-27 | 2025-12-18 |
 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 | 2025-10-16 |  |
 | [Changes](https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Changes](https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk) | 3:38 | 2024-04-12 |  |
 | [Chasing Thrills](https://open.spotify.com/track/1ce0YjciXVfVjzQtAYWHoL) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Chasing Thrills](https://open.spotify.com/album/4OEZyk2librDK5xV4NH0Es) | 3:06 | 2025-01-17 | 2025-02-14 |

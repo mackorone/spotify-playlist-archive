@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpWmOk6Nyf.md) - [plain]
 
 > 영탁의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요! \(Enjoy the YOUNGTAK Seoul concert LIVE SET including the voices of them on stage!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22 likes - 18 songs - 42 min 57 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 18 songs - 42 min 57 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

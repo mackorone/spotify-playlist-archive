@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzgEiZRwgzYp.md) - [plain]
 | 17 | [GASOLINA](https://open.spotify.com/track/0N6VAZz7lTO4GFti940NrQ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:34 |
 | 18 | [MENTAL](https://open.spotify.com/track/0Ae47q0eaoxM13FE6aTlCZ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
 | 19 | [FUCK ME](https://open.spotify.com/track/2JsjvfQA6WD8aMpUH9CZed) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 0:42 |
-| 20 | [ANGER](https://open.spotify.com/track/2rrrJY1m0G5vjUGC1cjQnO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 6:29 |
-| 21 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
+| 20 | [CUTE](https://open.spotify.com/track/7MrH3OjcIy8FPRaKlZWvFx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 3:00 |
+| 21 | [ANGER](https://open.spotify.com/track/2rrrJY1m0G5vjUGC1cjQnO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 6:29 |
 
-Snapshot ID: `AcEaHgAAAAC6T2TU/j84Q4Sh0F9C+teW`
+Snapshot ID: `AcEf0gAAAABhLEX3lQYWmxGofzAQnXnb`

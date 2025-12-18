@@ -447,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Toronto / Paris (Red Bull Music)",
+        "url": "https://open.spotify.com/album/5GKpHjnrNn8kelT9A5h5bn"
+      },
+      "artists": [
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        },
+        {
+          "name": "WondaGurl",
+          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142510,
+      "name": "Coquillage",
+      "url": "https://open.spotify.com/track/1nn31ReOKTm1G1wXMUqSNz"
+    },
+    {
+      "album": {
         "name": "Magna Carta... Holy Grail",
         "url": "https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi"
       },
@@ -984,6 +1006,28 @@
       "duration_ms": 164861,
       "name": "MOTOWN",
       "url": "https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ"
+    },
+    {
+      "album": {
+        "name": "BLACK STAR",
+        "url": "https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Naomi Campbell",
+          "url": "https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "ms60 (with Naomi Campbell)",
+      "url": "https://open.spotify.com/track/0o7tLK6IhK97l3d6pRy2Xs"
     },
     {
       "album": {

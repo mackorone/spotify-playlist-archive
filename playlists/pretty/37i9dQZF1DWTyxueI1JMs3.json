@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40453,
+  "num_followers": 40450,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! SUNNY SPRING EP",
-        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
-      },
-      "artists": [
-        {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        }
-      ],
-      "duration_ms": 261440,
-      "name": "\u521d\u604bX",
-      "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! Blooming WINTER EP",
         "url": "https://open.spotify.com/album/2k2gFUguLzu5KkUZXHgaiT"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 170253,
       "name": "\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! SUNNY SPRING EP",
+        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
+      },
+      "artists": [
+        {
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
+        }
+      ],
+      "duration_ms": 261440,
+      "name": "\u521d\u604bX",
+      "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
     },
     {
       "added_at": "2025-04-22 19:04:27",
@@ -835,26 +835,6 @@
     {
       "added_at": "2025-04-22 19:04:27",
       "album": {
-        "name": "A3! VIVID SPRING EP",
-        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30ba\u30ef\u30eb\u30c9 [\u536f\u6728\u5343\u666f (CV: \u7fbd\u591a\u91ce\u6e09)]",
-          "url": "https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI"
-        },
-        {
-          "name": "\u30ea\u30c3\u30af[\u4f50\u4e45\u9593\u54b2\u4e5f (CV: \u9152\u4e95\u5e83\u5927)]",
-          "url": "https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
-      "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
-    },
-    {
-      "added_at": "2025-04-22 19:04:27",
-      "album": {
         "name": "A3! EVER LASTING LP",
         "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 220293,
       "name": "The Contract",
       "url": "https://open.spotify.com/track/5IcQkN0mvtQSl8Txoky4WI"
+    },
+    {
+      "added_at": "2025-04-22 19:04:27",
+      "album": {
+        "name": "A3! VIVID SPRING EP",
+        "url": "https://open.spotify.com/album/4c25HmOFJqSRpmD9sBbKJC"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30ba\u30ef\u30eb\u30c9 [\u536f\u6728\u5343\u666f (CV: \u7fbd\u591a\u91ce\u6e09)]",
+          "url": "https://open.spotify.com/artist/5OX5gf7ZcZ4jZUMaNO9bCI"
+        },
+        {
+          "name": "\u30ea\u30c3\u30af[\u4f50\u4e45\u9593\u54b2\u4e5f (CV: \u9152\u4e95\u5e83\u5927)]",
+          "url": "https://open.spotify.com/artist/37PJ0FdW8NE0Muyx8zY1Cp"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
     },
     {
       "added_at": "2025-04-22 19:04:27",

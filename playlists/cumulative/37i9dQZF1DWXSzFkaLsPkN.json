@@ -4285,6 +4285,32 @@
     },
     {
       "album": {
+        "name": "Keychain Laalu",
+        "url": "https://open.spotify.com/album/6T7m3kftaThjsAMvBZVvjp"
+      },
+      "artists": [
+        {
+          "name": "Arpit Bala",
+          "url": "https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9"
+        },
+        {
+          "name": "A.O.D.",
+          "url": "https://open.spotify.com/artist/3dQqKPsJgPw8xesDAv86ft"
+        },
+        {
+          "name": "Angad Virk",
+          "url": "https://open.spotify.com/artist/5rfeGbPb9yN5NcjSmBAhCg"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Pyari Amaanat",
+      "url": "https://open.spotify.com/track/2W5VC6Rgb8LONHLW8iIYeK"
+    },
+    {
+      "album": {
         "name": "Qissa",
         "url": "https://open.spotify.com/album/0xMq75IL6dwy0eDgUNRlR6"
       },
@@ -4758,7 +4784,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 227878,
       "name": "Sabki Kahani",
       "url": "https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw"

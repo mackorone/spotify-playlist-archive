@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Kelsea Ballerini",
-  "num_followers": 54212,
+  "num_followers": 54229,
   "original_name": "Editors' Picks: Best Songs of November",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
+        "name": "Do It",
+        "url": "https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 213145,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
     },
     {
       "added_at": "2025-12-01 17:54:59",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
-        "name": "Unforgiven",
-        "url": "https://open.spotify.com/album/2a0rNOt4wqvjUcGKnjsdTi"
-      },
-      "artists": [
-        {
-          "name": "doggone",
-          "url": "https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Unforgiven",
-      "url": "https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
         "name": "gutta child",
         "url": "https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 108609,
       "name": "gutta child",
       "url": "https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
+        "name": "Unforgiven",
+        "url": "https://open.spotify.com/album/2a0rNOt4wqvjUcGKnjsdTi"
+      },
+      "artists": [
+        {
+          "name": "doggone",
+          "url": "https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Unforgiven",
+      "url": "https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH"
     },
     {
       "added_at": "2025-12-01 17:54:59",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-12-01 17:54:59",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+    },
+    {
+      "added_at": "2025-12-01 17:54:59",
+      "album": {
         "name": "Beck n Call",
         "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 203320,
       "name": "Beck n Call",
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
-      "added_at": "2025-12-01 17:54:59",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2025-12-01 17:54:59",

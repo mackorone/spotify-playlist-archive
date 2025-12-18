@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-206 songs - 12 hr 58 min
+209 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,12 +25,14 @@
 | [Blissful Dream](https://open.spotify.com/track/4UYdG82h9r44t22kqDezMX) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Blissful Dream](https://open.spotify.com/album/7IKxNs1OlfJprRXySgvkF7) | 2:12 | 2025-06-18 |  |
 | [Blossom](https://open.spotify.com/track/3NDKacIupHEbaXig16Rd96) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Blossom](https://open.spotify.com/album/7ICFrUMGEsDYWx3XehREpH) | 3:21 | 2022-05-13 | 2024-03-09 |
 | [Blue Reef](https://open.spotify.com/track/5yBb7oxuiAdSsNZE0khsWi) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Beneath The Waves](https://open.spotify.com/album/1q3YBwjO55Cwlx5oRZnT17) | 3:06 | 2023-01-13 |  |
+| [Breaking The Habit](https://open.spotify.com/track/7wW73IvUBzo7HYUzKVBeRK) | [Jo Mar Fred](https://open.spotify.com/artist/4qc5t8tVmhwpYYTCcEz8Wz) | [Breaking The Habit](https://open.spotify.com/album/1qdQIi9GoMV3Nm30LcR1Ib) | 2:51 | 2025-12-17 |  |
 | [Breath of Bliss](https://open.spotify.com/track/7qaG9fUxYl5gTqQgTfz50I) | [Ladakh](https://open.spotify.com/artist/3Z5oaV8vqWSsdxJbWoWc4P) | [Breath of Bliss](https://open.spotify.com/album/1JzOTsgVrlRcU688eDxQ7K) | 2:57 | 2024-03-26 |  |
 | [Breathe](https://open.spotify.com/track/4K3hd7S53f3HiYN7LggDWL) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Breathe](https://open.spotify.com/album/4L1ZCIt38M2mnII7Sn87ca) | 6:10 | 2022-12-16 | 2023-01-14 |
 | [Breaths of life](https://open.spotify.com/track/43EVUTCXYzdXz85tBxm0v8) | [Rani Williams](https://open.spotify.com/artist/028c02Vw8VUBiITiYeRXQU) | [Breaths of life](https://open.spotify.com/album/5sxPw4oBdFC2McZLBqA88n) | 3:03 | 2023-01-13 |  |
 | [Buddha's Enlightenment](https://open.spotify.com/track/1uBtnXRDYdkAAFPwpwyoOU) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0) | [Buddha's Enlightenment](https://open.spotify.com/album/6AugonglkPNBx08Dzgt4Uq) | 3:02 | 2023-03-07 |  |
 | [Butterfly Kisses](https://open.spotify.com/track/6gU1KxLaLZ6qUSMQtPyUxy) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Butterfly Kisses](https://open.spotify.com/album/6hL0TZRUEM5WLrQR9bqkOC) | 8:21 | 2022-05-13 | 2023-01-14 |
 | [By Nightfall \- 2Hz Delta Waves](https://open.spotify.com/track/7HEb0RAKvRXBmSeSKczqBz) | [Jijivisha](https://open.spotify.com/artist/0W3mFGcxXtnwkpgphwjYxk) | [By Nightfall \- 2Hz Delta Waves](https://open.spotify.com/album/4fMBn3FQMaPxe6CPOuIUCu) | 5:52 | 2022-05-13 | 2023-02-11 |
+| [Calm Cycles](https://open.spotify.com/track/6Kis6YUsSrMZ6opTwcMTR6) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Calm Cycles](https://open.spotify.com/album/6QrxZk3VYzn06kCmtaKxDo) | 2:48 | 2025-12-17 |  |
 | [Carousel](https://open.spotify.com/track/0N0g6pm3rg3ileUj6lmAMe) | [Kiran Skaar](https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju) | [Carousel](https://open.spotify.com/album/4kInP4JToOqJmeeURxk4fm) | 2:29 | 2025-05-16 |  |
 | [Chakra](https://open.spotify.com/track/47uKvPCd0cD5emAaGzlL7k) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Chakra](https://open.spotify.com/album/6YM7VOFDYMWqDMLp0hbiZH) | 4:55 | 2023-01-13 | 2024-03-09 |
 | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/track/6rNmdoYbDXjqnslT2NbJTK) | [CALMING & PEACEFUL VIBES](https://open.spotify.com/artist/0Kzexs0X9tAOobFWG68J7x) | [CHAKRA HEALING \(Meditation Music\)](https://open.spotify.com/album/2X1JJ00htpKDWqWNCMPN1N) | 4:21 | 2022-05-13 | 2023-09-06 |
@@ -63,6 +65,7 @@
 | [Ekant Ki Yatra](https://open.spotify.com/track/2jEYDA7LW1fp9IU6ykZdwm) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Ekant Ki Yatra](https://open.spotify.com/album/0DGupzwuawS9kMzilfSteW) | 4:29 | 2024-03-08 | 2024-03-27 |
 | [Empire](https://open.spotify.com/track/1yzxtY3hYi6RJNQNLsomhm) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Majestica](https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K) | 3:00 | 2023-08-16 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 | 2022-12-17 |
+| [Far Away](https://open.spotify.com/track/4ZRpfCGxEUUlBnAiJUnZUC) | [Jasper Oaks](https://open.spotify.com/artist/73JsvU8g0A36N6Kfptpd2B) | [Far Away](https://open.spotify.com/album/0I8Hjv8t8jkuDPD4Zyc5aE) | 2:49 | 2025-12-17 |  |
 | [Flowing](https://open.spotify.com/track/1ABO9u5DInggeXPXoLFlwc) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Flowing](https://open.spotify.com/album/4NjvXffhghZfJ3PEKNJObF) | 2:21 | 2022-10-24 |  |
 | [Fly On A Moonbeam](https://open.spotify.com/track/5gmWEw49oWPrVMbmz6cU21) | [KunDharma](https://open.spotify.com/artist/3NhCohtDbc2pjX9myuU2YJ) | [Quietly Floating](https://open.spotify.com/album/0FKe3yn57VfwLfe170ZFeB) | 3:16 | 2022-09-06 |  |
 | [Focus Ten](https://open.spotify.com/track/6rtxEcszeVD0j86GJc2ZvQ) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Ten](https://open.spotify.com/album/0KBrHAUFZ5cmLuu5jx65xM) | 2:50 | 2025-06-18 |  |

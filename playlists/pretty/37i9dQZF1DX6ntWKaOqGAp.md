@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Novel Core
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,103 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,120 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [](https://open.spotify.com/album/null) | 4:33 |
+| 1 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
 | 2 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [physical mind](https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz) | 3:25 |
 | 3 | [Song About Fat Mike](https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Screaming Newborn Baby](https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE) | 2:56 |
 | 4 | [ビリビリ](https://open.spotify.com/track/42SUu53IgJVMMA5Uux2NyK) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [ビリビリ](https://open.spotify.com/album/2tIYnKhuHx1IE8UvBKcl9W) | 3:24 |

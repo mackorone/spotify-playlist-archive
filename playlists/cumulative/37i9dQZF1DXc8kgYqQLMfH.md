@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,292 songs - 2 day 1 hr 25 min
+1,294 songs - 2 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [dotted patterns](https://open.spotify.com/track/4Fwg4pKDRfFUVetKK1xPQK) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [dotted patterns](https://open.spotify.com/album/6KiGjR8rUyJmrVNYrTXl0V) | 2:08 | 2022-11-25 | 2025-06-28 |
 | [Double Space X](https://open.spotify.com/track/6sN8hNfLvBLGPr7leeL9tR) | [Filippinoboh](https://open.spotify.com/artist/0wJZLo1pCWYUKTaWe4JLZc) | [Double Space X](https://open.spotify.com/album/3DOga8y8M4FYdAxzfGFunt) | 1:50 | 2022-07-15 | 2023-09-29 |
 | [Down By The Docks](https://open.spotify.com/track/5llK7Ua6MiBxZouPpwPm5r) | [Blue Sirens](https://open.spotify.com/artist/3YwGWRtqEYqYHrz7mmz9aM) | [Down By The Docks](https://open.spotify.com/album/5eWu3EphAuVNzkhp7MAyu8) | 3:01 | 2022-07-22 | 2023-10-06 |
-| [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 |  |
+| [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 | 2022-12-16 | 2025-12-18 |
 | [down the street](https://open.spotify.com/track/5E7hJkb2dFowgpt07HXlqu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/6lNeiBPEdFCb7jLPursJUo) | 1:50 | 2023-02-07 | 2024-04-19 |
 | [Downer](https://open.spotify.com/track/0TPzDCw6QUzz3dYPeKpWT2) | [whiteglass](https://open.spotify.com/artist/6FrISpMCXqXSsCsqhTxnL2) | [Downer](https://open.spotify.com/album/0xaHTyClq6XBNIZLbyxnr8) | 2:04 | 2022-07-01 | 2025-01-11 |
 | [Dream](https://open.spotify.com/track/3UZRaD4uMrOxrhtIOTuXqU) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Dream](https://open.spotify.com/album/3Rr00QtKnBESSJttIaw0mk) | 2:30 | 2025-08-01 | 2025-08-29 |
@@ -534,7 +534,7 @@
 | [In Komplete Kontrol](https://open.spotify.com/track/5KvEw38ZCklqFAXlzBAIc5) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [In Komplete Kontrol](https://open.spotify.com/album/2WSUUFCgNI37r6djGyl5If) | 2:29 | 2023-02-17 | 2025-04-13 |
 | [In Limbo & Loving It](https://open.spotify.com/track/5kIsqbXbUNwaxQH1anoJ64) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [In Limbo & Loving It](https://open.spotify.com/album/19JbKTPT8GbfSv35qhY9Jq) | 2:43 | 2021-11-10 | 2022-07-22 |
 | [In motion](https://open.spotify.com/track/55tZAgea8vpky8Dgk5drC9) | [kdj\_77](https://open.spotify.com/artist/0gOMLuuQAYeuZZxFsS6AcO) | [In motion](https://open.spotify.com/album/6sfR2zcbUl3xBriQgY5OMq) | 2:53 | 2025-08-28 | 2025-09-26 |
-| [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 |  |
+| [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 | 2022-11-11 | 2025-12-18 |
 | [In Parallell](https://open.spotify.com/track/2CV7GxX3vg5GYqBORRdCpR) | [Interscope](https://open.spotify.com/artist/288kcmSAmoRYgLiRKXTeZt) | [In Parallell](https://open.spotify.com/album/0GLUqN8vKfHSPsYsDwcWM1) | 1:46 | 2021-11-10 | 2022-06-10 |
 | [In Perpetuum](https://open.spotify.com/track/3ImHLPyqf739WgzXKjPqfU) | [beauBAE](https://open.spotify.com/artist/5f2AVkePCObkkyEwAx4jef) | [In Perpetuum](https://open.spotify.com/album/2dou5NJzqX9nWvR6eoamLM) | 1:52 | 2022-02-18 | 2023-03-18 |
 | [In The Sky](https://open.spotify.com/track/2t8xuOOSyDjt1jDhUjoNGO) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN) | [In The Sky](https://open.spotify.com/album/6KPHCCekZmbCHQihlMB1Pm) | 2:12 | 2022-06-03 | 2023-08-04 |
@@ -913,6 +913,7 @@
 | [Quali Spec](https://open.spotify.com/track/1LrS2RIkDI9paZTReBpufA) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07) | [Quali Spec](https://open.spotify.com/album/2quruZML6dfErb679MJ6Yl) | 2:46 | 2024-09-13 | 2025-07-16 |
 | [quetzal](https://open.spotify.com/track/1agUl7NQusmxiJtbLm9oRS) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [quetzal](https://open.spotify.com/album/4TzETeuVh0EakHs2gihYhu) | 2:12 | 2024-05-13 | 2024-06-22 |
 | [Rain Relaxation](https://open.spotify.com/track/4UNI7NvY0ti3jJikm4f4ld) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Rain Relaxation](https://open.spotify.com/album/12rvDONgzBXcUOS62Z1GZZ) | 3:00 | 2021-11-10 | 2025-11-21 |
+| [raindance](https://open.spotify.com/track/720sJmHXRC3ZGzgE6BoO3X) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [raindance](https://open.spotify.com/album/0nMIcz9pkKQtd78NuHbzVz) | 2:16 | 2025-12-17 |  |
 | [rainy day](https://open.spotify.com/track/2WUCGxGlpQdxjSLXyzsSBN) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [rainy day](https://open.spotify.com/album/68Tu5Ec4RPtuoHQ4s1asl1) | 2:17 | 2023-01-06 | 2024-05-14 |
 | [rainy night](https://open.spotify.com/track/1lKjy0ktW6cm4JLivAAD6K) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [Hello Winter '23](https://open.spotify.com/album/50Guwkw2IvGqa6jMLjzjKl) | 1:46 | 2022-12-16 | 2025-07-16 |
 | [rainy nights](https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy) | [qchill](https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E), [DI3GO](https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ) | [rainy nights](https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U) | 2:12 | 2022-11-11 |  |
@@ -958,6 +959,7 @@
 | [saffron](https://open.spotify.com/track/1rac3Jn0FNPe9VknXZDWZk) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [saffron](https://open.spotify.com/album/1M0SfN1MyqyCak13jImMKq) | 1:17 | 2021-11-10 | 2023-05-20 |
 | [Same Cycle Different Day](https://open.spotify.com/track/76vtRLq3IV9aA1UyYXMvbv) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Same Cycle Different Day](https://open.spotify.com/album/0g3qUzGW7J7VioeqxPbYek) | 2:14 | 2021-11-10 | 2022-04-08 |
 | [Sanctuary](https://open.spotify.com/track/1q2JKbcSANVM51vo7ZcNGZ) | [Hoverchild](https://open.spotify.com/artist/4fCWcDzEkEqgDNUq1OiOwc) | [Sanctuary](https://open.spotify.com/album/1Ud5Pk8XpdnN39zNiT0i5S) | 2:47 | 2022-10-15 | 2023-10-06 |
+| [Sapphire Skies](https://open.spotify.com/track/7F3QuxLWUqRc09YQdaLqFH) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [Sapphire Skies](https://open.spotify.com/album/2oHYOTLdimhGWEmCTEmL8y) | 2:24 | 2025-12-17 |  |
 | [Saturnal Blues](https://open.spotify.com/track/18sgLHkXTlOtE2ukdMWyRH) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Steve Nguyen](https://open.spotify.com/artist/0uWdW9U87jBwkzaz0Ts8p6) | [Space Out](https://open.spotify.com/album/5V3mW1xg5zvjVk47BzLOYN) | 2:16 | 2022-12-09 |  |
 | [Saudade](https://open.spotify.com/track/5RjQIXVt5Bgg25rwyrPow6) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Saudade](https://open.spotify.com/album/2rbaRvCC6gtcdGLZ8IlS3p) | 2:25 | 2022-12-09 | 2025-07-16 |
 | [Sauna](https://open.spotify.com/track/6xCrkGWiatvVdJjma5yAzz) | [Ho\-Sook](https://open.spotify.com/artist/2VL9E8RlHOxu1wRjG3StPV) | [Sauna](https://open.spotify.com/album/3OpYcRJ7yKSH6uGJpfbHbI) | 2:21 | 2021-11-10 | 2023-05-20 |

@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me Before I Die",
+        "url": "https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg"
+      },
+      "artists": [
+        {
+          "name": "DJ Connery",
+          "url": "https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253085,
+      "name": "Kiss Me Before I Die",
+      "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
+    },
+    {
+      "album": {
         "name": "Lose Your Head",
         "url": "https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3"
       },

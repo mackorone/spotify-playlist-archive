@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 94 | [New Wave](https://open.spotify.com/track/1NB1NajzztHLM3s1b6xNxb) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [New Wave](https://open.spotify.com/album/1sLMeUdZZFw0Jtn9haCuIl) | 4:04 |
 | 95 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
 
-Snapshot ID: `AAAHrU0YaA4CCAxDHA940opGLkoYcu+Q`
+Snapshot ID: `AAAHrwQPN4841dVpKvf2iuzpB2ilw2Kz`

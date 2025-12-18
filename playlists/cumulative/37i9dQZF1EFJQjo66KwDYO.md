@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-70 songs - 3 hr 35 min
+71 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Can't Buy My Love](https://open.spotify.com/track/3hSIPdRYLbvfsx7JLaXc6v) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [Can't Buy My Love](https://open.spotify.com/album/1Ihv1m7tx6llJBcunYo2ot) | 2:40 | 2024-08-07 |  |
 | [Careless](https://open.spotify.com/track/5PvkALN63JsKpLL6uRxtZn) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Careless](https://open.spotify.com/album/21DtFhR9FY6p2fFCwUdy0w) | 2:48 | 2024-08-07 |  |
 | [Cloud 9](https://open.spotify.com/track/64Ro5vbtGnPaxm38QgtLAv) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:08 | 2024-08-07 |  |
+| [Conceited](https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 2:34 | 2025-12-17 |  |
 | [Do You Mind?](https://open.spotify.com/track/6fYefaw0KturTfuRNTKFbX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:27 | 2024-08-07 |  |
 | [Down With You \(feat\. Dyo\)](https://open.spotify.com/track/2VLigO9xmafdZGx9KdsBGf) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb) | [About 30](https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo) | 2:58 | 2024-08-07 |  |
 | [Drive](https://open.spotify.com/track/4DFhK8Ir9LuzDYDRfVaoU3) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Drive](https://open.spotify.com/album/2eG9IWHSefV6uhnhmZJWos) | 3:36 | 2024-08-07 |  |

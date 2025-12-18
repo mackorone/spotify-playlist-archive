@@ -2,7 +2,7 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Kevin Kaarl en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
 247 songs - 16 hr 7 min
 

@@ -2,7 +2,7 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> IceSpice's got that big energy.
+> PEEKABOO, Skrillex, Flowdan and Fireboy DML 's got that big energy.
 
 599 songs - 1 day 5 hr 58 min
 

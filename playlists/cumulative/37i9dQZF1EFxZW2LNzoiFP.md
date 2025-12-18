@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-312 songs - 17 hr 48 min
+314 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Temptation](https://open.spotify.com/track/3hwo0FI3ZX7HuI1i1va9hL) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 5:29 | 2024-05-01 | 2024-12-12 |
 | [Temptation](https://open.spotify.com/track/2GU4Z4apsGkS3YRUewQYU6) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 5:29 | 2024-12-11 |  |
 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 | 2024-05-01 |  |
+| [teya teya](https://open.spotify.com/track/3PPcYJR6ASVxK7VKFVlPxw) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [teya teya](https://open.spotify.com/album/2gTAk0cukmal4jaqAhvRUA) | 2:53 | 2025-12-17 |  |
 | [That's Being You](https://open.spotify.com/track/5hKkEEiLxz5kJSMZblMOep) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [That's Being You](https://open.spotify.com/album/2XUDKyZObzSKbR0TmBtBlC) | 3:50 | 2025-08-07 | 2025-09-11 |
 | [That's Being You](https://open.spotify.com/track/7KJyt8FcIvUvU0ZWaslGob) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 3:50 | 2025-09-10 |  |
 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 | 2024-05-01 |  |
@@ -283,6 +284,7 @@
 | [Tokyo](https://open.spotify.com/track/0sKPeFueWGKbLDxd6DkTzu) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Tokyo](https://open.spotify.com/album/53HIhnB6r9p1JUh6fTY4J5) | 4:13 | 2024-05-01 |  |
 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 | 2024-05-01 |  |
 | [Tools](https://open.spotify.com/track/5r4DoowFEsJnhJLbZP2peg) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Tools](https://open.spotify.com/album/41L5bBrS0JOtEIU8xleJTZ) | 4:20 | 2024-05-01 |  |
+| [Turquoise Eyes](https://open.spotify.com/track/2dTZHlfHdzh7mWiZhSGVBh) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 5:49 | 2025-12-17 |  |
 | [Twelvemonth](https://open.spotify.com/track/06Szv3oSZ2KINnzvjM2lCd) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:08 | 2024-05-01 |  |
 | [ultimatejutsu\_1644.wav](https://open.spotify.com/track/1tuXIa2dInm5AE4Prxyhbi) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ultimate jutsu](https://open.spotify.com/album/2K6f6oH8L3oKQlObx3Huds) | 2:49 | 2024-05-01 |  |
 | [untangle me](https://open.spotify.com/track/4vea5nsz7JIZSeuVjoNhTh) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [untangle me](https://open.spotify.com/album/33kXDytIFx1v9FgmYcj0oB) | 1:45 | 2024-05-01 |  |

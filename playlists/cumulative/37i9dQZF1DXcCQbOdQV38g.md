@@ -4,7 +4,7 @@
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-74 songs - 3 hr 31 min
+75 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 | 2025-07-01 |  |
 | [Pepas](https://open.spotify.com/track/7BGLmRLEfZC58QPAPAikIb) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Pepas](https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4) | 3:18 | 2025-07-01 |  |
 | [Piña Colada](https://open.spotify.com/track/7ySlaQ9Dy3uy05wULpznrQ) | [Jeffrey Heesen](https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp) | [Piña Colada](https://open.spotify.com/album/0UVquSaaVSh0kmYlesx2oZ) | 2:46 | 2025-07-01 |  |
-| [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2025-07-01 |  |
+| [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2025-07-01 | 2025-12-18 |
 | [Rendez\-Vous](https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Rendez\-Vous](https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7) | 3:18 | 2025-07-01 |  |
 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 | 2025-07-01 |  |
 | [Seizoenen](https://open.spotify.com/track/4GrHcWRKOwq3DWu8F9OryT) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Seizoenen](https://open.spotify.com/album/6O6pOwgtsdIF0CioNutqV0) | 3:07 | 2025-07-01 |  |
@@ -74,6 +74,7 @@
 | [Viva Cerveza](https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Viva Cerveza](https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD) | 3:26 | 2025-07-01 |  |
 | [Waar Ga Je Heen](https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Waar Ga Je Heen](https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl) | 2:59 | 2025-07-01 |  |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-07-01 |  |
+| [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz) | 3:01 | 2025-10-16 |  |
 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 | 2025-07-01 |  |
 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 | 2025-07-01 |  |
 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/1UgLT5FEpuMklqAaMrt4bh) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Zelfs Je Naam Is Mooi](https://open.spotify.com/album/6NdMpCP40nHM23j9XfRL8z) | 2:46 | 2025-07-01 | 2025-08-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Shallipopi ",
-  "num_followers": 200886,
+  "num_followers": 201049,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 206968,
-      "name": "BIG TIME (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 206968,
+      "name": "BIG TIME (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
         "name": "Muhammad Ali (Can't Relate)",
         "url": "https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 159183,
       "name": "Muhammad Ali (Can't Relate)",
       "url": "https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 163481,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
         "name": "Cash Flow (feat. Wizkid)",
         "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 174628,
       "name": "Cash Flow (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 163481,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
         "name": "Che Che (feat. Asake)",
         "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 169911,
       "name": "Che Che (feat. Asake)",
       "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
-        "name": "Shakabulizzy",
-        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Shakabulizzy",
-      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 218947,
       "name": "Despacito (feat. FOLA)",
       "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
-        "name": "Coco Money",
-        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 136707,
-      "name": "Coco Money",
-      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
         "name": "HAUSAPIANO (Remix)",
         "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 125284,
       "name": "Hey Jago",
       "url": "https://open.spotify.com/track/4xVj25uTjTZCaHbSFbYwAE"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
+        "name": "Coco Money",
+        "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 136707,
+      "name": "Coco Money",
+      "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
     },
     {
       "added_at": "2025-12-12 00:01:27",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-12-12 00:01:27",
       "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 184591,
+      "name": "Ordinary Things",
+      "url": "https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO"
+    },
+    {
+      "added_at": "2025-12-12 00:01:27",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2025-12-12 00:01:27",
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 184591,
-      "name": "Ordinary Things",
-      "url": "https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO"
     },
     {
       "added_at": "2025-12-12 00:01:27",

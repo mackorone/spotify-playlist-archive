@@ -2357,6 +2357,28 @@
     },
     {
       "album": {
+        "name": "House featuring John Cale",
+        "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197593,
+      "name": "House featuring John Cale",
+      "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
+    },
+    {
+      "album": {
         "name": "True Romance",
         "url": "https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu"
       },

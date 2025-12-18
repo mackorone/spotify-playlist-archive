@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Charlotte Day Wilson and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,294 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,297 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 |
 | 2 | [HOWWEFLOW](https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [HOWWEFLOW](https://open.spotify.com/album/7CPafRVIO0pXc6WMkKzYnv) | 2:41 |
-| 3 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
+| 3 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:26 |
 | 4 | [BE MY GOD](https://open.spotify.com/track/6IZpOwBDrimZ10k2qkpk6f) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr) | [WHERE THE HEART IS \(DELUXE EDITION\)](https://open.spotify.com/album/6V7ZpN7jn92p17ON9Jy744) | 2:46 |
 | 5 | [Going Home](https://open.spotify.com/track/4h78oPMoSU1khs6uhDGUyZ) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Going Home](https://open.spotify.com/album/3WawvUoyqt2PD2rz6MnMTZ) | 4:02 |
 | 6 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |

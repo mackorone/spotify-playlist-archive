@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126872,
+  "num_followers": 126877,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADcsbztnRPzQB4EJGWyE2i9",
+  "snapshot_id": "aUChAAAAAAArTgyLNVaEMxegoX1CKBdW",
   "tracks": [
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Perdedor",
-        "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
-      },
-      "artists": [
-        {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 228687,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mecha Corta",
         "url": "https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA"
       },
@@ -935,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "#LQMQ",
-        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
+        "name": "El Perdedor",
+        "url": "https://open.spotify.com/album/0J3NgEahBI5Hst8QJEY821"
       },
       "artists": [
         {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
         },
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 211440,
-      "name": "#LQMQ",
-      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
+      "duration_ms": 228687,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/5QKymytqsCOJX5Jw7vQYCi"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 323964,
       "name": "La Misi\u00f3n (Episodio 2)",
       "url": "https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "#LQMQ",
+        "url": "https://open.spotify.com/album/2wlQGKcIoJ2rm7dvgmTanP"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "#LQMQ",
+      "url": "https://open.spotify.com/track/2U05xDmQBWf3nY01ZUTLPp"
     },
     {
       "added_at": null,

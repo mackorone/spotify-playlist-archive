@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Eliza Maturan
 
-674 songs - 1 day 17 hr 51 min
+675 songs - 1 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Bighani](https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Bighani](https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd) | 3:55 | 2024-11-22 | 2025-02-26 |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-08 | 2024-09-25 |
 | [Biglaan](https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Biglaan](https://open.spotify.com/album/65ZsDDYYF9faaSYfDfuJ0O) | 3:48 | 2025-12-15 |  |
+| [Bikini](https://open.spotify.com/track/03Tt2qPSQKaXMkLtZ3Zwg9) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 2:09 | 2025-12-17 |  |
 | [Bitin](https://open.spotify.com/track/6pJzf9R1mN0C2BdIf5KI02) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Bitin](https://open.spotify.com/album/5eGgyL3tzV8xSWAiljWlFZ) | 3:47 | 2025-05-02 | 2025-07-19 |
 | [Bittersweet](https://open.spotify.com/track/2shSyMcN6RhgJsPxhrWE0i) | [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV) | [Bittersweet](https://open.spotify.com/album/5Ybza4wV7jnIfWw3zNHjnI) | 2:57 | 2024-08-21 | 2024-11-21 |
 | [Bituin](https://open.spotify.com/track/5hvqC3Xiz3Ll2yZtaBPnvi) | [Letters From June](https://open.spotify.com/artist/0S19WmQWKCpBiKIbDJOmeC) | [Bituin](https://open.spotify.com/album/5L9nPMD38a9DkRzyfIFOtT) | 4:47 | 2024-09-25 | 2025-03-01 |
@@ -390,7 +391,7 @@
 | [Naguguluhan](https://open.spotify.com/track/31FVAqbnQyl75EXunOj9P2) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Naguguluhan](https://open.spotify.com/album/1lDPsstoNpXWJB2iylCTIk) | 3:51 | 2025-08-01 | 2025-11-22 |
 | [Nahanap Din Kita](https://open.spotify.com/track/3pfi3bvPA83jW2c7rHcbXp) | [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY) | [Nahanap Din Kita](https://open.spotify.com/album/3ZBpiF0jnWAYP8xb4VCkPi) | 4:13 | 2025-06-20 | 2025-10-25 |
 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 | 2025-04-25 | 2025-07-19 |
-| [Nahihiya](https://open.spotify.com/track/5jnguhkFqipMdzBfu5jJbD) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Nahihiya](https://open.spotify.com/album/5KUGAemrEcNvLizkRXmgVz) | 3:27 | 2025-10-31 |  |
+| [Nahihiya](https://open.spotify.com/track/5jnguhkFqipMdzBfu5jJbD) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Nahihiya](https://open.spotify.com/album/5KUGAemrEcNvLizkRXmgVz) | 3:27 | 2025-10-31 | 2025-12-18 |
 | [Nahuhulog](https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a) | [JUSWA](https://open.spotify.com/artist/22yUwz3v65LeUJSHC3DeGs) | [Nahuhulog](https://open.spotify.com/album/2oPM69Xyu6aJUBWKJPzyMU) | 3:10 | 2025-12-08 |  |
 | [Nahulog](https://open.spotify.com/track/3rv7NlbjyX6HBeeZu7Fj0q) | [LUMI](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA) | [Intimate](https://open.spotify.com/album/5VBeXv1y9mlRoFxl6ItveU) | 3:48 | 2025-09-19 | 2025-11-29 |
 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 | 2025-04-29 | 2025-07-13 |

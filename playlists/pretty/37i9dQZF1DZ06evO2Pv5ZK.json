@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 110319,
+  "num_followers": 110326,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAB7YjWVyn87Ja6wLQT+l9k7",
+  "snapshot_id": "aUChAAAAAAAqLQilG8WKYP+qUM0by9lP",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 300773,
-      "name": "L'enfant - Remastered",
-      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+      "duration_ms": 223866,
+      "name": "Aquatic Dance",
+      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Aquatic Dance",
-      "url": "https://open.spotify.com/track/3FqkOf0gZvWbUmmAUA9Ao8"
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Early Years",
-      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 185226,
-      "name": "La mort du loup - Remastered",
-      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 340426,
       "name": "Memories of Blue",
       "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 53160,
+  "num_followers": 53171,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAACKSOfQ1v9ViPwsYSFUGZ9s",
+  "snapshot_id": "aUChAAAAAAALLn6gOdnXqow93CZ/f2Wq",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Tatuados",
-        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 188836,
-      "name": "Besos Tatuados",
-      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triunfador",
         "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 172805,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Tatuados",
+        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 188836,
+      "name": "Besos Tatuados",
+      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 205213,
       "name": "Mayor de Edad (Banda)",
       "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
     },
     {
       "added_at": null,

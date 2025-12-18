@@ -2,7 +2,7 @@
 
 ### [Best of Frequency 2025](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> The best of Black music in 2025
+> The best of Black music in 2025.
 
 5,583 songs - 11 day 19 hr 7 min
 

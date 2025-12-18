@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Tyla
 
-582 songs - 1 day 7 hr 40 min
+583 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2024-01-17 | 2024-04-10 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-14 | 2024-09-12 |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-01-22 | 2025-02-22 |
-| [beautiful disaster](https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [beautiful disaster](https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId) | 3:24 | 2025-11-05 |  |
+| [beautiful disaster](https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [beautiful disaster](https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId) | 3:24 | 2025-11-05 | 2025-12-18 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-24 | 2024-09-12 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-04 | 2024-12-12 |
 | [Before i leave](https://open.spotify.com/track/2IeZiPqF5dW3Ar0Stn0Las) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Before i leave](https://open.spotify.com/album/7mawlJhUwLI7JyjI5xbeo7) | 3:23 | 2025-08-20 |  |
@@ -81,6 +81,7 @@
 | [call it love](https://open.spotify.com/track/2oyKUJQ58lxzDufBlIgkJE) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [call it love](https://open.spotify.com/album/0jnkYZJRh4mkAtvlvA0rEl) | 2:11 | 2024-06-26 | 2024-07-18 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3) | 2:06 | 2025-03-05 | 2025-04-10 |
 | [Camera](https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:35 | 2025-09-11 | 2025-11-27 |
+| [can we start again?](https://open.spotify.com/track/5KLsWrx2OWuW8FAWX0lsNl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [can we start again?](https://open.spotify.com/album/5rnh9GR2iyypl6D1ffifhO) | 4:28 | 2025-12-17 |  |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2024-01-17 | 2024-05-16 |
 | [Centre of Attention](https://open.spotify.com/track/087AOY4fMpZo1DgroSr6fv) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Swim, Swim](https://open.spotify.com/album/3spFKVTaFAJ9vbx76Yg71e) | 3:03 | 2025-04-09 | 2025-05-08 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-12 |  |

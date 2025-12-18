@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-562 songs - 1 day 8 hr 1 min
+563 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Colour](https://open.spotify.com/track/7nnoV1ckXaU97Ij2AoimH4) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Colour](https://open.spotify.com/album/5VsT3qJVgsG0TqpVsyKKIo) | 4:01 | 2023-12-14 | 2024-02-02 |
 | [Come Up \(feat\. Unknown T\)](https://open.spotify.com/track/4qeZto6Q6AEuyvSM3TLNbu) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [2 in 1](https://open.spotify.com/album/6m3JcqnSzHmJhCMobWya2d) | 3:24 | 2022-12-15 | 2025-06-28 |
 | [Common Emotion \(feat\. MNEK\) \- The Golden Pony Remix](https://open.spotify.com/track/2Uu7xInCLYm2pgjNhBw909) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [The Golden Pony](https://open.spotify.com/artist/4nsYiXTOF3R7mfla5uxrTZ) | [Common Emotion \(feat\. MNEK\) \[Remixes\]](https://open.spotify.com/album/2FA9nxa3KLuiYtkoZj6WPd) | 4:11 | 2022-09-08 |  |
+| [Conceited](https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 2:34 | 2025-12-17 |  |
 | [Confetti](https://open.spotify.com/track/5zQ00D9j9MkQbsd9qmenBa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:47 | 2022-09-08 | 2023-06-23 |
 | [Confetti](https://open.spotify.com/track/1IsPPqD3imYYapeCbI6Bgx) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Confetti \(Official Audio Video Version\)](https://open.spotify.com/album/3gjkUPY8zC0TozjbO8FcvT) | 3:19 | 2023-12-16 | 2024-02-01 |
 | [Confetti](https://open.spotify.com/track/4MRHfc2LNFRoXJrrt33DiR) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Confetti \(Official Video\)](https://open.spotify.com/album/34tIlktFA0OLI2OI80zWyV) | 5:57 | 2023-12-21 | 2024-01-31 |

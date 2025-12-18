@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,372 likes - 84 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,645 likes - 84 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 83 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
 | 84 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 
-Snapshot ID: `AAAAAI3l0bmukxYCg6FPR+iL8Yfzdc+c`
+Snapshot ID: `AAAAABROLV7lMhiddsMIpRG4L4P3kRIe`

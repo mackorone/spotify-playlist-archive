@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 242702,
+  "num_followers": 242727,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "VETRI NERI",
         "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 164776,
       "name": "VETRI NERI",
       "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -803,42 +803,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
-        "name": "Re Mida",
-        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 145640,
-      "name": "Morto Mai",
-      "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "Senza Di Me",
         "url": "https://open.spotify.com/album/1RIFJfcfz9CgzSER8yweTm"
       },
@@ -859,6 +823,42 @@
       "duration_ms": 201961,
       "name": "Senza Di Me (feat. Venerus & Franco126)",
       "url": "https://open.spotify.com/track/3xGD5KhnizETt7KQwxtUAc"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "Re Mida",
+        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 145640,
+      "name": "Morto Mai",
+      "url": "https://open.spotify.com/track/2Ri0436JKFUsd3B3xa2jCe"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
-        "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
+        "name": "Noi Siamo Il Club (Reloaded Edition)",
+        "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
       },
       "artists": [
         {
           "name": "Club Dogo",
           "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
         }
       ],
-      "duration_ms": 205188,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/6Iyc8ShbNrYHWsCkgvd922"
+      "duration_ms": 228906,
+      "name": "P.E.S.",
+      "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1803,22 +1807,18 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Noi Siamo Il Club (Reloaded Edition)",
-        "url": "https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8"
+        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
+        "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
       },
       "artists": [
         {
           "name": "Club Dogo",
           "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
         }
       ],
-      "duration_ms": 228906,
-      "name": "P.E.S.",
-      "url": "https://open.spotify.com/track/4M8filny20Mwlc2gnvtcgU"
+      "duration_ms": 205188,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/6Iyc8ShbNrYHWsCkgvd922"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Io In Terra",
-        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Milano Bachata",
-      "url": "https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 211498,
       "name": "TU MI HAI CAPITO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "Io In Terra",
+        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 167346,
+      "name": "Milano Bachata",
+      "url": "https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O"
     },
     {
       "added_at": "2025-11-20 13:34:18",

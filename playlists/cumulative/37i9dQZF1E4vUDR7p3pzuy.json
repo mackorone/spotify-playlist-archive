@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Black Angel, JUST LIZZY, Jamie Rust and more",
+  "description": "With Black Angel, Rob Harrowven, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 294155,
       "name": "A Love So Bold",
       "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 259000,
       "name": "Armour Hill",
       "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "When I Die",
+        "url": "https://open.spotify.com/album/6KnUQkIUSSoAjUJG2Q7VsZ"
+      },
+      "artists": [
+        {
+          "name": "When I Die",
+          "url": "https://open.spotify.com/artist/0Rj8U4S2EIexTJS7ZZSmed"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317997,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/6CiJ6Qx5lFZDbd0o8JCziN"
+    },
+    {
+      "album": {
         "name": "Bleed (Everything You Bury)",
         "url": "https://open.spotify.com/album/05E5jSpT2crmSYNwzV8eO0"
       },
@@ -436,6 +454,24 @@
       "duration_ms": 222578,
       "name": "Blue Snapper",
       "url": "https://open.spotify.com/track/6qjztmcgsHKO92QyMaH4q4"
+    },
+    {
+      "album": {
+        "name": "UNITED",
+        "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291272,
+      "name": "Breaking (UNITED)",
+      "url": "https://open.spotify.com/track/3rqeeCPdwK1LCPxLrTe5t9"
     },
     {
       "album": {
@@ -757,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Crumbs and Morsels (The Meek Are Getting Ready Pt IV)",
+        "url": "https://open.spotify.com/album/5DHHnCcKn4uOnH48gNReG1"
+      },
+      "artists": [
+        {
+          "name": "Asthma Kids",
+          "url": "https://open.spotify.com/artist/3psZ8Fo5DWq7GWqv436dlu"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128840,
+      "name": "Crumbs and Morsels (The Meek Are Getting Ready Pt IV)",
+      "url": "https://open.spotify.com/track/5tp7JzjgHFi03GKxX5czxA"
+    },
+    {
+      "album": {
         "name": "Dagger In The Heart",
         "url": "https://open.spotify.com/album/6YTA2XpXcFxs4LxhoVMrmI"
       },
@@ -924,7 +978,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1184,7 +1238,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 162725,
       "name": "forever world",
       "url": "https://open.spotify.com/track/2z3YRcH9TkTGDuhI80Z7tB"
@@ -1596,7 +1650,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 203866,
       "name": "I Never Looked In My Eyes",
       "url": "https://open.spotify.com/track/6OtvTvJ4Wf3YpHvZjwhNUo"
@@ -1686,7 +1740,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 180800,
       "name": "Innocent Smile - Radio Edit",
       "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
@@ -1726,7 +1780,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/0cQVbQqiMtwCKJA4O19Jqc"
@@ -1744,7 +1798,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 267666,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/6H1K4Ub2BVNy01Nb2dz1Ac"
@@ -1780,7 +1834,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 187118,
       "name": "Just Saying - Single Edit",
       "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
@@ -1914,7 +1968,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Least",
       "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
@@ -2366,7 +2420,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 268500,
       "name": "Once and Once Again",
       "url": "https://open.spotify.com/track/3eniaJ714Mz0wGC91ZYwpy"
@@ -2384,7 +2438,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 239023,
       "name": "Paid Holiday",
       "url": "https://open.spotify.com/track/59dhbpfiXKglPqd1atkVKw"
@@ -2998,7 +3052,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 266456,
       "name": "Sound of Thunder - Radio Edit",
       "url": "https://open.spotify.com/track/3QJDyrIU7rskPtL9LWNbef"
@@ -3096,6 +3150,24 @@
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
+    },
+    {
+      "album": {
+        "name": "Mourning Light",
+        "url": "https://open.spotify.com/album/7pMOOX2pDgm0Ltgtwo1l91"
+      },
+      "artists": [
+        {
+          "name": "Muertonaut",
+          "url": "https://open.spotify.com/artist/3I7LbI8uhC6kpsLWeKLzQd"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227294,
+      "name": "Sugar Dead",
+      "url": "https://open.spotify.com/track/5oJHsvkfpk34v3MJHrwO5k"
     },
     {
       "album": {
@@ -3353,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "All Geared Up",
+        "url": "https://open.spotify.com/album/3jXpY7wUHMPara6PtDVITL"
+      },
+      "artists": [
+        {
+          "name": "DanielTidwell14",
+          "url": "https://open.spotify.com/artist/3KAA7RvgIRc1KagYTCCw8e"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Through The Sand - LP Edition",
+      "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
+    },
+    {
+      "album": {
         "name": "All We Want All at Once",
         "url": "https://open.spotify.com/album/1GEtz9yxnB21lYYPZhNpOr"
       },
@@ -3364,7 +3454,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 181502,
       "name": "Throwaway",
       "url": "https://open.spotify.com/track/53KQdJR9d6tw2p8Jmgzobx"
@@ -3382,7 +3472,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 248054,
       "name": "Tied to the Shore",
       "url": "https://open.spotify.com/track/5ycUs5ortovDDRlHs3jbu6"
@@ -3400,7 +3490,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 253456,
       "name": "Time",
       "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
@@ -3458,7 +3548,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 204000,
       "name": "Tr\u00e4nen Aus Blut",
       "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"

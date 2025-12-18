@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno$
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,098 likes - 69 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,114 likes - 69 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 68 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 |
 | 69 | [Lucid Dreams \(feat\. Lil Uzi Vert\) \- Remix](https://open.spotify.com/track/1jKlRcH7X78ps1yKBTWyUV) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Goodbye & Good Riddance \(Anniversary\)](https://open.spotify.com/album/7aObAFaIOcczMSDnfXz5z6) | 4:00 |
 
-Snapshot ID: `AAAAAMsjaz9FgKGuBa87U+btAi0bx3XK`
+Snapshot ID: `AAAAAGR719Qbs4Y9nW/kaacE78Vuijd6`

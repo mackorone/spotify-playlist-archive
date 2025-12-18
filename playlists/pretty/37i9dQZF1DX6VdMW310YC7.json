@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3922005,
+  "num_followers": 3922032,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 358983,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 198764,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 358983,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -635,26 +635,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Stay Still, A Little While",
-        "url": "https://open.spotify.com/album/3dCJW7g5MkeE9p7X4h4sjd"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 320640,
-      "name": "Stay Still, A Little While",
-      "url": "https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Holding On To You",
         "url": "https://open.spotify.com/album/6VvZQ2f9QdblEkGsbngGmW"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 226352,
       "name": "Holding On To You",
       "url": "https://open.spotify.com/track/2oHXwRlyCSsLUroGC0rLtH"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Stay Still, A Little While",
+        "url": "https://open.spotify.com/album/3dCJW7g5MkeE9p7X4h4sjd"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 320640,
+      "name": "Stay Still, A Little While",
+      "url": "https://open.spotify.com/track/6qbdnKNznLiwqplr35yb1n"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Childish",
-        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 331935,
-      "name": "The Deep",
-      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 279120,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 331935,
+      "name": "The Deep",
+      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "together (we are more)",
-        "url": "https://open.spotify.com/album/1e7y7ATfvcyV3uU40giIuz"
-      },
-      "artists": [
-        {
-          "name": "Leaving Laurel",
-          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "together (we are more)",
-      "url": "https://open.spotify.com/track/3HEOKmWHkZctt9iyaiqMSI"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "DESCEND",
         "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "We Are Always Under The Same Sky",
-        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
+        "name": "together (we are more)",
+        "url": "https://open.spotify.com/album/1e7y7ATfvcyV3uU40giIuz"
       },
       "artists": [
         {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        },
-        {
-          "name": "Josie Man",
-          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
         }
       ],
-      "duration_ms": 249479,
-      "name": "Wayside",
-      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
+      "duration_ms": 223689,
+      "name": "together (we are more)",
+      "url": "https://open.spotify.com/track/3HEOKmWHkZctt9iyaiqMSI"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -983,22 +963,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+        "name": "We Are Always Under The Same Sky",
+        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         },
         {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
+      "duration_ms": 249479,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1019,6 +999,26 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
-      },
-      "artists": [
-        {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 244000,
       "name": "I Just Needed This",
       "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1Fc98rv9NAxiO0RiDOtNIl"
       },
       "artists": [
         {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
         }
       ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+      "duration_ms": 256721,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1475,22 +1479,34 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1Fc98rv9NAxiO0RiDOtNIl"
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
       },
       "artists": [
         {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
         }
       ],
-      "duration_ms": 256721,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e"
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1511,22 +1527,6 @@
       "duration_ms": 296597,
       "name": "Diamonds (Further Than I Ever Was)",
       "url": "https://open.spotify.com/track/25Zv9R5lGEZIQkUtERSFeo"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Senses of Comfort",
+        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Senses of Comfort",
+      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/4NaRLbBHxXA9nqPSwm7ELk"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 230035,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6PhDLktpvEInsEyJlStBdf"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Senses of Comfort",
-        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Senses of Comfort",
-      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/0CT0ofStdh15crKzer9dcg"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 265099,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/09DCeFRfvS9l9jMJ4deHnr"
-      },
-      "artists": [
-        {
-          "name": "16BL",
-          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
-        },
-        {
-          "name": "Nour",
-          "url": "https://open.spotify.com/artist/0CbCM5ggbLC8exHu291wO9"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/4t6E5uNN3z10uKMbfhnD7l"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0LjOwDYvZGhQ6qcjy49ijr"
       },
@@ -1887,6 +1867,26 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/09DCeFRfvS9l9jMJ4deHnr"
+      },
+      "artists": [
+        {
+          "name": "16BL",
+          "url": "https://open.spotify.com/artist/0u2qG4roqULELVVO9fMgSG"
+        },
+        {
+          "name": "Nour",
+          "url": "https://open.spotify.com/artist/0CbCM5ggbLC8exHu291wO9"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/4t6E5uNN3z10uKMbfhnD7l"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Postcards / All Access",
         "url": "https://open.spotify.com/album/2ldKEjyuNyzWPhYmE7Pjrk"
       },
@@ -1899,26 +1899,6 @@
       "duration_ms": 213750,
       "name": "Postcards",
       "url": "https://open.spotify.com/track/68lz5UGhqfbGivPA6BCDWF"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Everlight",
-        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 249553,
-      "name": "High & Low",
-      "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1939,6 +1919,26 @@
       "duration_ms": 273442,
       "name": "Heal",
       "url": "https://open.spotify.com/track/5NX2oe1rMMAprjsbKbWEGS"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 249553,
+      "name": "High & Low",
+      "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
     }
   ],
   "unique_name": "Chill Tracks",

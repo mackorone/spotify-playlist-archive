@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Colter Wall",
-  "num_followers": 69374,
+  "num_followers": 69377,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -793,22 +793,6 @@
       "url": "https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 158224,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93"
-    },
-    {
       "added_at": "2025-10-09 21:40:25",
       "album": {
         "name": "A Crater Wide",
@@ -823,6 +807,22 @@
       "duration_ms": 190781,
       "name": "Heavy, Heavy Love",
       "url": "https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 158224,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -981,10 +981,10 @@
       "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
     },
     {
-      "added_at": "2025-11-07 00:01:44",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "She Got Away",
-        "url": "https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks"
+        "name": "Misty Morning",
+        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
         }
       ],
-      "duration_ms": 164240,
-      "name": "She Got Away",
-      "url": "https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct"
+      "duration_ms": 182866,
+      "name": "Misty Morning",
+      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1061,10 +1061,10 @@
       "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
+      "added_at": "2025-11-07 00:01:44",
       "album": {
-        "name": "Misty Morning",
-        "url": "https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W"
+        "name": "She Got Away",
+        "url": "https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks"
       },
       "artists": [
         {
@@ -1072,25 +1072,9 @@
           "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Misty Morning",
-      "url": "https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc"
-    },
-    {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Church & State",
-        "url": "https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 258233,
-      "name": "Church & State",
-      "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
+      "duration_ms": 164240,
+      "name": "She Got Away",
+      "url": "https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct"
     },
     {
       "added_at": "2025-12-05 05:01:35",
@@ -1107,6 +1091,22 @@
       "duration_ms": 199679,
       "name": "Let 'Em Go",
       "url": "https://open.spotify.com/track/4nBtsK1aqOGnd1Te6Aaizc"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Church & State",
+        "url": "https://open.spotify.com/album/4mSxlj7I4IMesbwpS28EU0"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 258233,
+      "name": "Church & State",
+      "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1209,6 +1209,22 @@
       "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
     },
     {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Goldie Montana",
+        "url": "https://open.spotify.com/album/1yU6oeWp9QFRGZO4hwRQYk"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 245076,
+      "name": "Goldie Montana",
+      "url": "https://open.spotify.com/track/5vKml30abCjY2IAlborIm2"
+    },
+    {
       "added_at": "2025-10-09 21:40:25",
       "album": {
         "name": "Knuckles",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Goldie Montana",
-        "url": "https://open.spotify.com/album/1yU6oeWp9QFRGZO4hwRQYk"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 245076,
-      "name": "Goldie Montana",
-      "url": "https://open.spotify.com/track/5vKml30abCjY2IAlborIm2"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Give Me One Reason",
         "url": "https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 189882,
       "name": "Give Me One Reason",
       "url": "https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1307,6 +1291,22 @@
       "duration_ms": 190026,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Light In a Dark Place",
-        "url": "https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr"
-      },
-      "artists": [
-        {
-          "name": "Adam Wendler",
-          "url": "https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94"
-        }
-      ],
-      "duration_ms": 156676,
-      "name": "Light In a Dark Place",
-      "url": "https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Shoulda Listened",
         "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
+        "name": "Light In a Dark Place",
+        "url": "https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr"
+      },
+      "artists": [
+        {
+          "name": "Adam Wendler",
+          "url": "https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94"
+        }
+      ],
+      "duration_ms": 156676,
+      "name": "Light In a Dark Place",
+      "url": "https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
         "name": "Save Your Soul / Say Goodbye, Tell No One",
         "url": "https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 212120,
       "name": "Save Your Soul",
       "url": "https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Colorado, TX",
+        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
+      },
+      "artists": [
+        {
+          "name": "Mah Moud",
+          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Colorado, TX",
+      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Colorado, TX",
-        "url": "https://open.spotify.com/album/5FXdudccssLwPECirvslKG"
-      },
-      "artists": [
-        {
-          "name": "Mah Moud",
-          "url": "https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Colorado, TX",
-      "url": "https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "One More Dance Around The Sun",
         "url": "https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS"
       },
@@ -1535,22 +1535,6 @@
       "duration_ms": 286211,
       "name": "One More Dance Around The Sun",
       "url": "https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74"
-    },
-    {
-      "added_at": "2025-11-07 00:01:44",
-      "album": {
-        "name": "Nomads (Timelines)",
-        "url": "https://open.spotify.com/album/41a62fpVlKPzWMx0zD3IB3"
-      },
-      "artists": [
-        {
-          "name": "Aysanabee",
-          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
-        }
-      ],
-      "duration_ms": 224552,
-      "name": "Nomads - Timelines Acoustic",
-      "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
     },
     {
       "added_at": "2025-10-17 08:01:09",
@@ -1587,6 +1571,22 @@
       "duration_ms": 186912,
       "name": "Walking Home",
       "url": "https://open.spotify.com/track/642xXLrYiRYONlIDAVpJZE"
+    },
+    {
+      "added_at": "2025-11-07 00:01:44",
+      "album": {
+        "name": "Nomads (Timelines)",
+        "url": "https://open.spotify.com/album/41a62fpVlKPzWMx0zD3IB3"
+      },
+      "artists": [
+        {
+          "name": "Aysanabee",
+          "url": "https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5"
+        }
+      ],
+      "duration_ms": 224552,
+      "name": "Nomads - Timelines Acoustic",
+      "url": "https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Home Front",
-        "url": "https://open.spotify.com/album/4blqqHdmSZJRL56US4mo8N"
-      },
-      "artists": [
-        {
-          "name": "Terra Lightfoot",
-          "url": "https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq"
-        }
-      ],
-      "duration_ms": 179559,
-      "name": "A Good Sign",
-      "url": "https://open.spotify.com/track/71bZM5Ds5U2sXxZJ30gsRO"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Everybody Loves My Little Darling",
@@ -1683,6 +1667,22 @@
       "duration_ms": 130880,
       "name": "Everybody Loves My Little Darling",
       "url": "https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Home Front",
+        "url": "https://open.spotify.com/album/4blqqHdmSZJRL56US4mo8N"
+      },
+      "artists": [
+        {
+          "name": "Terra Lightfoot",
+          "url": "https://open.spotify.com/artist/2LnGGtWA0aGHKW0hRghrWq"
+        }
+      ],
+      "duration_ms": 179559,
+      "name": "A Good Sign",
+      "url": "https://open.spotify.com/track/71bZM5Ds5U2sXxZJ30gsRO"
     }
   ],
   "unique_name": "Renegades",

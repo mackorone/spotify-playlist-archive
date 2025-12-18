@@ -238,20 +238,28 @@
       },
       "artists": [
         {
-          "name": "Christian Borle",
-          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
-        },
-        {
           "name": "Erika Henningsen",
           "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
         },
         {
           "name": "Jeremy Jordan",
           "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
         },
         {
-          "name": "Amir Talai",
-          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         },
         {
           "name": "Stephanie Beatriz",
@@ -274,16 +282,12 @@
           "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
         },
         {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
         },
         {
-          "name": "Keith David",
-          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
         }
       ],
       "date_added": "2024-02-05",
@@ -1096,6 +1100,10 @@
         {
           "name": "Sam Haft",
           "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
         }
       ],
       "date_added": "2024-02-05",

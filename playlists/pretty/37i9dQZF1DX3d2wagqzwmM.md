@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,233 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,356 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 53 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
 | 54 | [Raving](https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Raving](https://open.spotify.com/album/7ILVMHef9eJsQi27KM56Hf) | 2:18 |
 | 55 | [Samba De Janeiro](https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/4JeaZAgY2Z83xKTc7Elk9M) | 2:24 |
-| 56 | [Retrograde 2025](https://open.spotify.com/track/5RRVVrmluz0g0mIkrcEGZ9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde 2025](https://open.spotify.com/album/0057TNNKlKuFIE0QaP8OjW) | 2:41 |
-| 57 | [Bad](https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bad](https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9) | 2:32 |
+| 56 | [Bad](https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bad](https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9) | 2:32 |
+| 57 | [Retrograde 2025](https://open.spotify.com/track/5RRVVrmluz0g0mIkrcEGZ9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde 2025](https://open.spotify.com/album/0057TNNKlKuFIE0QaP8OjW) | 2:41 |
 | 58 | [MONEY ON THE DASH \- Armin van Buuren Remix](https://open.spotify.com/track/4JikZDJOw5YICLoqTWn9pX) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [MONEY ON THE DASH \- Armin van Buuren Remix](https://open.spotify.com/album/6iX8QGLkFvYsU48BkOStVP) | 2:19 |
 | 59 | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/track/11MH2tLS3KlEUaHbQWdSyP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Take Over Control \(feat\. Eva Simons\) \[Maddix Remix\]](https://open.spotify.com/album/08q8nOP5k4WMNdwA0PKPNx) | 3:06 |
 | 60 | [Dance All Night](https://open.spotify.com/track/3OJENYg8GhnZnEQ5yEABB3) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Dance All Night](https://open.spotify.com/album/6YHaZMaNVJA45a1ocs6mmX) | 2:52 |

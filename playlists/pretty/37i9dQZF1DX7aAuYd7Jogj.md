@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,879,928 likes - 377 songs - 17 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880,264 likes - 377 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -386,4 +386,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 376 | [Better Rest](https://open.spotify.com/track/6PlSS5EqEsFslVqcNcHClm) | [Opal Skies](https://open.spotify.com/artist/0xrdCwjtVAWzIdto3Ww9a7) | [Better Rest](https://open.spotify.com/album/0ZMGKrnT4IIp9QQtMLRx77) | 3:31 |
 | 377 | [Connect](https://open.spotify.com/track/5PaqIM0QfRRj3ue6YBuTZy) | [Revivo Wide](https://open.spotify.com/artist/43IhMvQXxJBfmuxfYsVBCD) | [Connect](https://open.spotify.com/album/4YEcQ7e2RYGFAH1ChJCHas) | 2:36 |
 
-Snapshot ID: `AAAAAPeJ8e3hnBJX+F6Eg5RVqZb1Fz9T`
+Snapshot ID: `AAAAAGCtSKpE335PBEKX+D1yGK+kqZEE`

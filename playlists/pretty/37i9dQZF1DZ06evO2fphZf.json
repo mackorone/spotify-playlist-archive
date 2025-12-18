@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12463,
+  "num_followers": 12468,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT3+AAAAAAC7oGZv4bg+Mqxk5fCrAeih",
+  "snapshot_id": "aUChAAAAAADo1anmUPO8a/7/mkN4Fq7D",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "cloud 11",
-      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "snowing in LA",
         "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 205400,
       "name": "snowing in LA",
       "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "cloud 11",
+      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 171951,
       "name": "Criminal (Over You)",
       "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wish list",
-        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newly",
-        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+        "name": "holiday szn",
+        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
       },
       "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 177828,
-      "name": "Newly",
-      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
+      "duration_ms": 167352,
+      "name": "holiday szn",
+      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "holiday szn",
-        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
       },
       "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 167352,
-      "name": "holiday szn",
-      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+      "duration_ms": 168000,
+      "name": "x's & o's (feat. DCMBR)",
+      "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
     },
     {
       "added_at": null,
@@ -607,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "DCMBR",
-          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
         }
       ],
-      "duration_ms": 168000,
-      "name": "x's & o's (feat. DCMBR)",
-      "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
       "added_at": null,

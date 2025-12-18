@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,545 songs - 10 day 8 hr 36 min
+4,546 songs - 10 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1998,6 +1998,7 @@
 | [In the Night](https://open.spotify.com/track/3Vhox1L8KHru7BCZXrG0gQ) | [Augusto Pondrelli](https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s) | [In the Night](https://open.spotify.com/album/4vk3pqVav1hvacAFjDMHtD) | 4:05 | 2025-12-12 |  |
 | [In The Silence](https://open.spotify.com/track/1HvIaSAxtZ9Pu6PJ9FNveB) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [LEA KEY](https://open.spotify.com/artist/7KK5z5gfYj2vrLRZeeH7Py) | [In The Silence](https://open.spotify.com/album/4XHx2yKRlZKMGwfLrLozY1) | 3:35 | 2024-10-31 | 2024-11-09 |
 | [In The Sky](https://open.spotify.com/track/56GCtbkFhreHRCoWSHyCdU) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4), [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [In The Sky](https://open.spotify.com/album/1p1RMEGUc8DMOpVEu9CcLc) | 3:31 | 2024-06-20 | 2024-06-29 |
+| [In Time](https://open.spotify.com/track/3mnpSSxLv5Y2nVBQOc8pom) | [Augusto Pondrelli](https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s) | [In Time](https://open.spotify.com/album/6nhDsdHvf3v10bbMq1Wq6Q) | 2:58 | 2025-12-17 |  |
 | [In Your Eyes](https://open.spotify.com/track/2h8Us5BGjc5sEUxdoYqixc) | [Kosimo](https://open.spotify.com/artist/01tarNGsg4dinY1iJPHZBq), [Elong Wong](https://open.spotify.com/artist/6jX5GFQtZdqEWq7VwK5ubA), [B2AIR](https://open.spotify.com/artist/50lLKknoBlYc8aulLuGiyj) | [In Your Eyes](https://open.spotify.com/album/0uyCV7HVMJ9NssGs9wikR0) | 2:15 | 2025-10-10 | 2025-10-28 |
 | [In Your Face \- Hard Driver Rework](https://open.spotify.com/track/1N0hazmkXNh25V42cgSQzb) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl) | [In Your Face \(Hard Driver Rework\)](https://open.spotify.com/album/0boYbEj78P7kNTNG6u8cHs) | 2:37 | 2025-06-13 | 2025-06-21 |
 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-20 | 2024-09-27 |

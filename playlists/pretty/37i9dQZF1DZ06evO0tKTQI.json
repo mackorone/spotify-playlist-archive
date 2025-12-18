@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13579,
+  "num_followers": 13580,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAAUnREiAWGM7lfvkZWoPaK8",
+  "snapshot_id": "aUChAAAAAADjSFniBm4pYvh4ZVrqHXhs",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -479,6 +463,26 @@
       "duration_ms": 138866,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Things will be fine (Bratty Remix)",
+        "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Things will be fine - Bratty Remix",
+      "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
     },
     {
       "added_at": null,
@@ -515,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things will be fine (Bratty Remix)",
-        "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Things will be fine - Bratty Remix",
-      "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u307e\u305f\u540c\u3058\u65e5",
         "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 145705,
       "name": "\u307e\u305f\u540c\u3058\u65e5",
       "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
     },
     {
       "added_at": null,

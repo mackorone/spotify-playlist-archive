@@ -801,6 +801,32 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3zltPmOeb6jwbDxwE8yd2z"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183048,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0szaILbfBYQ8rO5h8bHLLv"
+    },
+    {
+      "album": {
         "name": "Funny Friends",
         "url": "https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr"
       },

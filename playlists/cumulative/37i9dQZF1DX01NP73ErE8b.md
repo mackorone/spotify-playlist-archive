@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  eroCaddeo in cover
 
-466 songs - 23 hr 54 min
+467 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [DÉSOLÉE](https://open.spotify.com/track/2bT6QX29M7GLSuTDSirwaS) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [DÉSOLÉE](https://open.spotify.com/album/14aEL5lLrcr9ohOnpdIeVi) | 2:39 | 2025-06-12 | 2025-11-21 |
 | [ECO](https://open.spotify.com/track/6QCTxkk1mFF54CMNROO8A9) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ECO](https://open.spotify.com/album/3S37iz4O7LuteCbsheta2d) | 2:09 | 2025-09-11 | 2025-10-03 |
 | [Eco](https://open.spotify.com/track/3ycj36w66i2rIGJli4Ruhi) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Eco](https://open.spotify.com/album/4iCnGvbZKQwj252lciCfLc) | 3:14 | 2025-02-12 | 2025-04-11 |
-| [Effetto Michelangelo](https://open.spotify.com/track/0gjhofGQhOfHRPIMUm4xZR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Effetto Michelangelo](https://open.spotify.com/album/6UW5e6nybaoQxKWj6rlhFc) | 3:12 | 2025-11-13 |  |
+| [Effetto Michelangelo](https://open.spotify.com/track/0gjhofGQhOfHRPIMUm4xZR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Effetto Michelangelo](https://open.spotify.com/album/6UW5e6nybaoQxKWj6rlhFc) | 3:12 | 2025-11-13 | 2025-12-18 |
 | [empatia](https://open.spotify.com/track/0sWiecm525PD2vpkNOHeCf) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [empatia](https://open.spotify.com/album/38KYjXQOxft9XwFPxGULO6) | 2:40 | 2025-04-17 | 2025-05-02 |
 | [ERAVAMO NOI](https://open.spotify.com/track/38wsjARxC8QjPPOvjaIpCb) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [ERAVAMO NOI](https://open.spotify.com/album/3uttVXC1dH9oLKUhlrP522) | 3:46 | 2025-04-17 | 2025-05-08 |
 | [Esibizionista](https://open.spotify.com/track/16mdISuTFms1vnxc8gXyQu) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:27 | 2025-10-15 |  |
@@ -140,6 +140,7 @@
 | [Estate Punk](https://open.spotify.com/track/181vQEd9wIPSt6fueg21zP) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [Estate Punk](https://open.spotify.com/album/6eWeNu1YkHXIjk8PZTOv9C) | 3:30 | 2024-09-26 | 2024-12-12 |
 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 | 2025-05-08 | 2025-06-04 |
 | [Ex \(feat\. Elodie\)](https://open.spotify.com/track/3mrlxIf9tSeQmcmkRPtiRY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Ex \(feat\. Elodie\)](https://open.spotify.com/album/3w47sEM0wJrlEl9Ma2FTjG) | 3:04 | 2025-08-28 |  |
+| [Facciamo a metà](https://open.spotify.com/track/2PAZ4v3LrSLjEUdE9CAuJP) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/161wzAhcVaxA9SipWiTF6n) | 3:33 | 2025-12-17 |  |
 | [Fanculo \(feat\. Marracash\)](https://open.spotify.com/track/2smcrTWrF4aEbuHz60x03f) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [La Cura](https://open.spotify.com/album/6w0sqUb9pXtssmiDxmd8LK) | 2:52 | 2025-10-02 |  |
 | [Fango in Paradiso](https://open.spotify.com/track/7Co4JFHHRVoAf9lCx37aGx) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Fango in Paradiso](https://open.spotify.com/album/3eFNcxTdVUPRkwWFPTc6PO) | 3:29 | 2025-02-12 | 2025-03-21 |
 | [Favola](https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Favola](https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8) | 2:37 | 2025-11-27 | 2025-12-12 |

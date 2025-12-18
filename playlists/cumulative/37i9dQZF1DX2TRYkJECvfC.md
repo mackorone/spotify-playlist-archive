@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-657 songs - 2 day 6 hr 8 min
+658 songs - 2 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Ona Ona](https://open.spotify.com/track/3yu5LUE62gGNZOzq1FtzFE) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Ona Ona](https://open.spotify.com/album/14CT2Ia6QvxCP9W4zrb3fa) | 6:12 | 2024-04-12 |  |
 | [Onda](https://open.spotify.com/track/2vHPrrFhhiSH5GZZcGRSFm) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Onda](https://open.spotify.com/album/6SieZ45Tx2LVy0ezpzX290) | 4:11 | 2021-12-08 | 2023-06-01 |
 | [One And Only](https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [good guy mikesh](https://open.spotify.com/artist/5F1botl1yQKgaFE4AFz4ZH), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [One And Only](https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8) | 3:42 | 2025-04-04 |  |
-| [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 |  |
+| [One Sunrise At A Time](https://open.spotify.com/track/3rgFqdD4inybMUne06ZubD) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [One Sunrise At A Time](https://open.spotify.com/album/615YUEpbaWtii06WTIBWPK) | 5:43 | 2024-07-12 | 2025-12-18 |
 | [One\-Sided Love](https://open.spotify.com/track/3mwjb8Ft1DJMOhqfW75Wac) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/6PrH4wM9PByiCKEBDe68FF) | 6:25 | 2022-05-03 | 2024-04-13 |
 | [One\-Sided Love](https://open.spotify.com/track/4HdZwmqBAAwmZ2nMkMJw4k) | [Claes Rosen](https://open.spotify.com/artist/0DJbbindURDhi6N4cRf48d) | [Diverse](https://open.spotify.com/album/0HgafCZBcFvtTLvlLz2tJB) | 6:25 | 2021-12-08 | 2022-07-29 |
 | [Opal \- Four Tet Remix](https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Opal \(Four Tet Remix\)](https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN) | 8:14 | 2022-01-14 | 2022-02-22 |
@@ -448,6 +448,7 @@
 | [Please \- Jeff Samuel Remix](https://open.spotify.com/track/5hNNUmZYDpn3ECksD3SxoB) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Jeff Samuel](https://open.spotify.com/artist/2kSdN6nN2KC4Lz0F4soiU2) | [Blood Remixed](https://open.spotify.com/album/1NAMSrLzMJw5BlVeHn8Nqy) | 7:07 | 2021-12-08 | 2022-07-27 |
 | [Poison Of Choice](https://open.spotify.com/track/72zZ2KOn7JbTFsALUmhpt0) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Poison Of Choice](https://open.spotify.com/album/0OyTVoG2ISGrLG3UNnLicA) | 4:01 | 2024-04-12 |  |
 | [potluck](https://open.spotify.com/track/0DeAJmckih4dColRzcdHrA) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [potluck](https://open.spotify.com/album/7z61N7PSOhMOFWpnF7uDvb) | 4:36 | 2024-08-09 | 2025-01-11 |
+| [Procession](https://open.spotify.com/track/4e2xo3upMAjIPywjFUSDBp) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Procession](https://open.spotify.com/album/0b7H7ebK3ojenHC2MiCdfA) | 5:16 | 2025-12-12 |  |
 | [Protection \- Hold Me Rework](https://open.spotify.com/track/1WZeyPexMk2LSa7ABz9wdZ) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Protection](https://open.spotify.com/album/5sGuW9SXq65vmKq2UdFl4z) | 7:05 | 2021-12-08 | 2023-05-06 |
 | [Pulse](https://open.spotify.com/track/0yiDIWdcHNeXfDwdeCMxsR) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/3rXWQmHvNCyvpRm48CsYwP) | 4:43 | 2023-12-01 | 2024-04-13 |
 | [Pulse](https://open.spotify.com/track/6KqC7YNOcqYh5J5cNb1gbw) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Take Flight](https://open.spotify.com/album/0d6ky7EGJ0DBxCsSR9R5SR) | 4:43 | 2022-05-03 | 2023-11-04 |

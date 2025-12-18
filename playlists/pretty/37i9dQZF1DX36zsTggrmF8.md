@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36zsTggrmF8.md) - [plain]
 
 > PUTTY SATIN BLUSH, curated by <a href="https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ?si=n\-YJoeRsSj2XHTG\_NmkGDQ">Charles Jeffrey</a> 💋 Queer cult classics to post punk jewels and cinematic music that will make you laugh or cry!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115 likes - 44 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116 likes - 44 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

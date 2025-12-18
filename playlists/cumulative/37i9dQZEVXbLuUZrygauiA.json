@@ -2146,7 +2146,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 126186,
       "name": "Adios Reyna del Cielo",
       "url": "https://open.spotify.com/track/0lkDCt9t2sCyj3aFkR3OZs"
@@ -8632,7 +8632,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 274839,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/76UQp51WwKuxoGxMe2OMNR"
@@ -11928,7 +11928,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 183873,
       "name": "Cholo 2",
       "url": "https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN"
@@ -30050,6 +30050,24 @@
     {
       "album": {
         "name": "Jesse Pinkman",
+        "url": "https://open.spotify.com/album/3dMCARrlXf5OVNk7huXcAH"
+      },
+      "artists": [
+        {
+          "name": "Belikin",
+          "url": "https://open.spotify.com/artist/4U8Rmmfw1PGmwcMGEcz5yj"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114674,
+      "name": "Jesse Pinkman",
+      "url": "https://open.spotify.com/track/15XAme3p69G5JJ5YnYnPYi"
+    },
+    {
+      "album": {
+        "name": "Jesse Pinkman",
         "url": "https://open.spotify.com/album/27ukKPxDi8V6kbdspUDob8"
       },
       "artists": [
@@ -40512,7 +40530,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 72727,
       "name": "Montagem Miau",
       "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
@@ -60290,6 +60308,24 @@
       "duration_ms": 285106,
       "name": "Te Amo Mam\u00e1",
       "url": "https://open.spotify.com/track/5cUeyXKmaqNctvDDo3cftd"
+    },
+    {
+      "album": {
+        "name": "Linda Mujer",
+        "url": "https://open.spotify.com/album/5T8dK0xt8rYynYjnKbPFAO"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211114,
+      "name": "Te Amo y Me Amas",
+      "url": "https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo"
     },
     {
       "album": {

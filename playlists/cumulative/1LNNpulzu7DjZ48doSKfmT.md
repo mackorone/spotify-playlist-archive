@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-448 songs - 23 hr 18 min
+450 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Love me, don’t let me go](https://open.spotify.com/track/2geAO0XnaZciPsD5NOssR1) | [Don't Speak English](https://open.spotify.com/artist/7CQJgSLaVdzWxH5VVP00CC) | [The Hideout of the Blue Unicorns](https://open.spotify.com/album/6SevB7N7vpFPWVh909twFE) | 2:52 | 2025-10-27 |  |
 | [Love, Rust & Gasoline](https://open.spotify.com/track/0fxB0KQTD41KkZ5dyKJ1o1) | [Jan Solstrand](https://open.spotify.com/artist/3GHy7wDLi5aQvsi6Nqo1cW) | [Love, Rust & Gasoline](https://open.spotify.com/album/35eff5enXdmAKspOKKeXu1) | 3:39 | 2025-10-23 |  |
 | [Lovin' You \- Remastered Version](https://open.spotify.com/track/1WRomqrYwQ0QMVKZr6RjfS) | [Sasha Raven](https://open.spotify.com/artist/1c80HYK6hsVcb8NalIs1az) | [Lovin' You \(Remastered Version\)](https://open.spotify.com/album/49k6OJN09fGulbVKprthw6) | 3:50 | 2025-11-14 |  |
+| [Luna Gris](https://open.spotify.com/track/015azgJHfiBts3JSUIcafT) | [Mr\. Distronic](https://open.spotify.com/artist/33sLH5zVP9K4l4CchpDYEG) | [Luna Gris](https://open.spotify.com/album/1wqxNNyJ4aYekwr5TZwYyy) | 5:14 | 2025-12-17 |  |
 | [Lux Æcademia: Androids Forever](https://open.spotify.com/track/31X6rWs3L404onztbBLs2B) | [ΠϢΑϪЄ](https://open.spotify.com/artist/3MkDPKEYw7KgH2WZuCvrPO) | [The First Explorers Of Earth](https://open.spotify.com/album/0tpJ21XRrenBcwj5wGWUMa) | 3:08 | 2025-11-16 |  |
 | [Límite \- Remix](https://open.spotify.com/track/6nJU2atw4dO9QUrWUbTwtA) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX), [Insi](https://open.spotify.com/artist/3EM8X2biSQbmXUiC1WmfsD) | [Límite \(Remix\)](https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3) | 3:03 | 2025-10-23 |  |
 | [Mais dit moi si je peux?](https://open.spotify.com/track/2E0aDOnkReNifuaaf0WbXm) | [Ragstyle](https://open.spotify.com/artist/3n2IRZuVUY7Gr7Os8Cc5SS) | [Mais dit moi si je peux?](https://open.spotify.com/album/0ve3aV4agPBhW172FTI3qu) | 2:48 | 2025-11-14 |  |
@@ -433,6 +434,7 @@
 | [Windsor](https://open.spotify.com/track/4z0JKsFYC8kNo229Wvl5aW) | [Komlan](https://open.spotify.com/artist/1MZCCsCiamm32gPGIQLEMb) | [Windsor](https://open.spotify.com/album/5CRFD8Lnpmo0H4Ky6Y9RLL) | 2:41 | 2025-11-10 |  |
 | [Wonder Why](https://open.spotify.com/track/4NLhC4qN9hagEV5LFYhCZY) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Wonder Why](https://open.spotify.com/album/56AFzt3kCvJJS0APSBrZK8) | 1:30 | 2025-11-04 |  |
 | [Worth the Struggle](https://open.spotify.com/track/13cMbzMIydItAmlWYm3L3U) | [David Collins](https://open.spotify.com/artist/61YQF8YHJz9zynwC5I4Gz2) | [Keeper](https://open.spotify.com/album/50qbCRb25OS6DNpNqVaxbm) | 3:14 | 2025-09-17 |  |
+| [Wrong Side of Town](https://open.spotify.com/track/6PFtKPTuRw2ttS4a8NvvKD) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Wrong Side of Town](https://open.spotify.com/album/3lvBLHmcqvTtYQCVzsnY8O) | 4:45 | 2025-12-17 |  |
 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 | 2025-09-11 |  |
 | [xxx$.Black Airforce 55515.$xxx](https://open.spotify.com/track/7losgIZqg8yCbBjV38iGFP) | [A Gxd Named Gawd](https://open.spotify.com/artist/4zoT5ZrAVFrTeRe1vNlQ2q) | [xxx$.Black Airforce 55515.$xxx](https://open.spotify.com/album/523XC5mqSAmgIWJIJBQm27) | 2:10 | 2025-10-29 |  |
 | [Yesterday's Red Pill Pt.2 \[with Kaje Jones & Ana Maria Lombo\]](https://open.spotify.com/track/4UEyB0K325FziwgGmKrbNW) | [AtariJones](https://open.spotify.com/artist/56z648PaYM48U4OLCtuClS), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP), [Bankroll Fresh](https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS), [CallTheShoota](https://open.spotify.com/artist/70wUKexMiT263v5WF0CeDb), [Freezer Beats](https://open.spotify.com/artist/4WkFBTbNH6nbbGheB78Ez8) | [Crimson Veil & Aether Keys](https://open.spotify.com/album/0cAxlmsvuQZkDv7WZh74vz) | 2:47 | 2025-09-23 |  |

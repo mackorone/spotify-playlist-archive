@@ -2,9 +2,9 @@
 
 ### [Serene Ocean Music](https://open.spotify.com/playlist/37i9dQZF1DXcECZl1cQzi5)
 
-> Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
+> Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-197 songs - 9 hr 25 min
+199 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,9 +29,11 @@
 | [Awavey](https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Awavey](https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS) | 2:35 | 2024-10-09 | 2025-12-02 |
 | [Balanced Tides](https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Balanced Tides](https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W) | 2:22 | 2025-01-15 |  |
 | [Beachey](https://open.spotify.com/track/0F8RVIXHBqb7EuDOtyxDEM) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Beachey](https://open.spotify.com/album/4FUYl46HwtSxQvxiFhPenk) | 2:19 | 2025-02-18 |  |
+| [beneath the surface](https://open.spotify.com/track/0T7wCl62dvvGjyrY5k11w3) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [beneath the surface](https://open.spotify.com/album/30O32KZJTfrFf7pvu9VpXt) | 2:36 | 2025-12-17 |  |
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-10-23 | 2025-11-01 |
 | [Blue Dreams](https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum) | [Peaceful Island](https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh) | [Blue Dreams](https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j) | 2:22 | 2025-05-21 |  |
 | [Blue Horizon](https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc) | [Frederic Stelliard](https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc) | [Blue Horizon](https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz) | 2:39 | 2024-10-09 |  |
+| [Blue Horizon](https://open.spotify.com/track/3Iy6m07CH1B8CzNcIY6gZc) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Blue Horizon](https://open.spotify.com/album/0Zwcm2Cw9QaJ33ozm0CAfA) | 2:28 | 2025-12-17 |  |
 | [Blue Sky \(by the Ocean\) \- Piano](https://open.spotify.com/track/7zrogcxka5pmhoeBhJicES) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ocean Lullaby](https://open.spotify.com/album/7356b9TsGhH8iAxUjWuVEp) | 2:12 | 2024-04-01 | 2024-07-09 |
 | [Breath](https://open.spotify.com/track/3ynjx5qNqunqg3x9HxW01h) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-10-23 |  |
 | [Breathe \(In\)](https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI) | [JourneyBox](https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1) | [Synchrony](https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0) | 4:08 | 2025-02-18 |  |
@@ -64,7 +66,7 @@
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-10-23 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2023-10-23 |  |
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-10-23 |  |
-| [Distant Cave](https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Cave](https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL) | 2:35 | 2024-05-01 |  |
+| [Distant Cave](https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Cave](https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL) | 2:35 | 2024-05-01 | 2025-12-18 |
 | [Dream Ripples](https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY) | [Lusunzi](https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE) | [Dream Ripples](https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF) | 2:28 | 2023-10-23 | 2024-08-23 |
 | [Drift at Sea](https://open.spotify.com/track/1YdgBkhDrwpKcxSTg179mf) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Drift at Sea](https://open.spotify.com/album/4FqYXt6nTVyn6aNJaStLjx) | 2:38 | 2024-04-01 | 2024-09-05 |
 | [Driftveil](https://open.spotify.com/track/0pFELtLCEaOdB6ZHBWhCFt) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Driftveil](https://open.spotify.com/album/1L9zDQ5RlIsS4QYcQvxI31) | 2:55 | 2025-10-02 |  |
@@ -156,7 +158,7 @@
 | [Santanyi](https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Santanyi](https://open.spotify.com/album/3P91FU1iT0YVMETaIE1isA) | 2:41 | 2023-10-23 |  |
 | [Scenery](https://open.spotify.com/track/7pbqUZV3IVADNfLD4pa0tc) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Scenery](https://open.spotify.com/album/5I4EmI8sSubdnIiei3i154) | 2:45 | 2024-11-22 | 2024-12-02 |
 | [Seaesta](https://open.spotify.com/track/3URABoQxXx1Grenb3NDklF) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Seaesta](https://open.spotify.com/album/2Dyt2lLbfcgvtTjSPS0jKQ) | 2:29 | 2025-10-02 |  |
-| [Seas in Balance](https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH) | [Yin Canopy](https://open.spotify.com/artist/0Noyn207iScjKuf0Rzbe5s) | [Seas in Balance](https://open.spotify.com/album/448smD1wZADRppxWq8tmS4) | 2:22 | 2025-10-02 |  |
+| [Seas in Balance](https://open.spotify.com/track/3nZWbaCeHbuczBt6KrgerH) | [Yin Canopy](https://open.spotify.com/artist/0Noyn207iScjKuf0Rzbe5s) | [Seas in Balance](https://open.spotify.com/album/448smD1wZADRppxWq8tmS4) | 2:22 | 2025-10-02 | 2025-12-18 |
 | [Sedated](https://open.spotify.com/track/0ZSyO3bqGpDxGioVHLXbjr) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Sedated](https://open.spotify.com/album/4V3KjRIT8asHHUS1rXlgUm) | 2:44 | 2024-08-22 |  |
 | [Shoreline Serenity](https://open.spotify.com/track/4pJ0qiET0w17eYIangFjDo) | [Carmela Zavala](https://open.spotify.com/artist/00OuphZkinOuOhenMlndwQ) | [Shoreline Serenity](https://open.spotify.com/album/5tlda8TQsXWnCNf2isVNxg) | 2:48 | 2025-06-23 |  |
 | [Shores of Serenity](https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Shores of Serenity](https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5) | 2:32 | 2023-10-23 | 2024-08-23 |

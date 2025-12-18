@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Fulkultur",
-        "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
-      "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
         "name": "Vilja Bli",
         "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 193360,
       "name": "Fr\u00e5n och med Du",
       "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
+        "name": "Fulkultur",
+        "url": "https://open.spotify.com/album/5S7JB8Sx5tVQGIewXZlr9X"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Sl\u00e5 mig h\u00e5rt i ansiktet",
+      "url": "https://open.spotify.com/track/2Lv9FudgITbthtKK1B5wxY"
     },
     {
       "added_at": "2024-06-24 11:47:22",

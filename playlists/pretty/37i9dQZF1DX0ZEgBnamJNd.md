@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 
 > Allerbeste songs uit de 60's\. Cover: Shocking Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,139 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,149 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZEgBnamJNd.md) - [plain]
 | 94 | [Keep On Trying](https://open.spotify.com/track/6VSXC6SvYdypAhGbjAADZa) | [The Outsiders](https://open.spotify.com/artist/0GNQIRU9f9Zf2aQqErkDYu) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8) | 2:58 |
 | 95 | [Adagio](https://open.spotify.com/track/1RaOhyXRMVEvK2OgRfuwp6) | [Ekseption](https://open.spotify.com/artist/6M0BcAcPSDpABYnNPf8oQE) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/7eRovpHKZNEsz3keP5wT4J) | 3:45 |
 | 96 | [Golden Earrings](https://open.spotify.com/track/6Y2fPMHkSeMT3a7ojGIBE6) | [Frans Krassenburg](https://open.spotify.com/artist/29iQXirYC9nAv1M7ZOqcmb) | [Golden Years Of Dutch Pop Music \- The Sixties Part 2](https://open.spotify.com/album/6YX9hisdPCAHXQmF8vh0UW) | 1:59 |
-| 97 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
-| 98 | [If You Leave Me](https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y) | 2:15 |
+| 97 | [If You Leave Me](https://open.spotify.com/track/7ctxraleUGNB0HdFCWoK5d) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/55BmSET4xNWy6V60sQ3Y4Y) | 2:15 |
+| 98 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
 | 99 | [I've Been Loving You So Long](https://open.spotify.com/track/2N18lIjY5OMHEJoW0f7PBO) | [The Outsiders](https://open.spotify.com/artist/0GNQIRU9f9Zf2aQqErkDYu) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/0yU3RDsvuuY2rtfmKUxDR8) | 3:18 |
 | 100 | [Back Home](https://open.spotify.com/track/1G0cjvfO783vTJbxs9U3h4) | [Cuby & The Blizzards](https://open.spotify.com/artist/1cxNemZ9o1ObvAbgq4WzvQ) | [Cuby \- Collected](https://open.spotify.com/album/1FX0zx769ckZgOnVssCY7W) | 4:34 |
 

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-82 songs - 3 hr 50 min
+84 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 | 2023-06-29 |  |
 | [My Almost Forever](https://open.spotify.com/track/57VDBMxzvYq9jhuD2ISTrR) | [Jonathan Baily](https://open.spotify.com/artist/1QfgytrRilvQ1HVXZGFJji) | [My Almost Forever](https://open.spotify.com/album/41tFrGMv7y47SiR6VvxBmU) | 2:52 | 2025-06-15 |  |
 | [My Fault](https://open.spotify.com/track/1YcoVVvOeJRCPD8P7zvvmX) | [Jenna Lotti](https://open.spotify.com/artist/7dIm02RDiyp2Nmdsx4H8Gc) | [My Fault](https://open.spotify.com/album/6AZqYYArJb8u4E6hilDreL) | 1:57 | 2023-06-29 |  |
+| [Myself](https://open.spotify.com/track/1Qm7cfRHqVuyclKIOPfeKO) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:20 | 2025-12-17 |  |
 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:45 | 2023-06-29 |  |
 | [Nicht Ich](https://open.spotify.com/track/0mmxpWqh2KJgrjWMqNkgB7) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:41 | 2024-02-10 |  |
 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 | 2023-06-29 |  |
@@ -74,6 +75,7 @@
 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 | 2023-06-29 |  |
 | [Samba](https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Samba](https://open.spotify.com/album/2XNZaIXWrcFCxoc7xJACTt) | 2:27 | 2023-06-29 |  |
 | [Seventeen](https://open.spotify.com/track/14q1di5KECs3R2KmH9fG98) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Seventeen](https://open.spotify.com/album/6OBbmaYcACR9czAXelEMod) | 2:51 | 2023-06-29 |  |
+| [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 | 2025-12-17 |  |
 | [Something About You](https://open.spotify.com/track/0lMXvD8xbeX0QZCineyxbm) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Something About You](https://open.spotify.com/album/4MOtzDnGKybtKJsoWypDu9) | 2:54 | 2023-06-29 |  |
 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 | 2023-06-29 |  |
 | [Tears In The Morning](https://open.spotify.com/track/3LQcSr9IlOZNrDGq4zmBBP) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Tears In The Morning](https://open.spotify.com/album/1X0BxsZZVRJteTY5avuwUS) | 2:20 | 2023-06-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7995,
+  "num_followers": 8013,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADnUQW9FiAAIe6PizJTSq2K",
+  "snapshot_id": "aUChAAAAAAAa2fXthXBFaPx6APCuv80R",
   "tracks": [
     {
       "added_at": null,
@@ -831,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.T.P ( Sauce of the Party )",
-        "url": "https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M"
-      },
-      "artists": [
-        {
-          "name": "G.O.E",
-          "url": "https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9"
-        },
-        {
-          "name": "Temadey",
-          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "S.O.T.P ( Sauce of the Party )",
-      "url": "https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Stop Vol. 1",
         "url": "https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 149786,
       "name": "Overload (Kala)",
       "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.O.T.P ( Sauce of the Party )",
+        "url": "https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M"
+      },
+      "artists": [
+        {
+          "name": "G.O.E",
+          "url": "https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9"
+        },
+        {
+          "name": "Temadey",
+          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "S.O.T.P ( Sauce of the Party )",
+      "url": "https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 3,770 songs - 8 day 7 hr 55 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 3,771 songs - 8 day 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -542,7 +542,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 532 | [Party Freaky and Going Down](https://open.spotify.com/track/6vUFaNR1e1vdFapvgwSQoO) | [Stranger X](https://open.spotify.com/artist/234NoLDVRk3ZHzuerwiU8B) | [Party Freaky and Going Down](https://open.spotify.com/album/0GVDvtdz5iFmAVKcu4gsgd) | 2:44 |
 | 533 | [Somehow i manage](https://open.spotify.com/track/5XQLf0iWXFXpmR4N3ULyOJ) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [Somehow i manage](https://open.spotify.com/album/4REBIog42thZXKfZPSLZ7n) | 4:04 |
 | 534 | [Nada](https://open.spotify.com/track/4lNqyhOCGxRjj9JsAGOkxg) | [Daño Colateral](https://open.spotify.com/artist/2kS7t6PZhLX5JzG0RhuKuU) | [Cada Parte De Mí Gritó](https://open.spotify.com/album/4DNObayxK7Z5mVLqfdv9oM) | 4:26 |
-| 535 | [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [Glows Vent](https://open.spotify.com/artist/6ER67V0fl4INMQvugwO9md) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 |
+| 535 | [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [DESVASTARDOS](https://open.spotify.com/artist/42yvmSe4biIZio90cwI2EN) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 |
 | 536 | [Nikey](https://open.spotify.com/track/3HY4PJXfqVUuazDMdUfmGc) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Nikey](https://open.spotify.com/album/17REJyp3KXhgb4RQ1m1UCd) | 1:48 |
 | 537 | [mosquito's wing](https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH) | [noha ichou](https://open.spotify.com/artist/3o4qmobDaKgjEEBUI8VkLc) | [AREA 52](https://open.spotify.com/album/4V7eSqNpIdrZV0FZTL4fht) | 5:26 |
 | 538 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 |
@@ -3778,5 +3778,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3768 | [A la playa](https://open.spotify.com/track/3QcNBAgOxBvbfLgspDcMTx) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [A la playa](https://open.spotify.com/album/6POR0VEkDQJ9klsVbVm4dJ) | 3:01 |
 | 3769 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 |
 | 3770 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 |
+| 3771 | [Better Day](https://open.spotify.com/track/6noFVkavNOXKDrLGDY8TwZ) | [Guilherme Resende](https://open.spotify.com/artist/3WTCGIL67DASnxYb76coyw) | [Better Day](https://open.spotify.com/album/01zk0chCLxGkzycreINElD) | 5:12 |
 
-Snapshot ID: `AAAGQyVRsO13Nx+wdzy5hvwZit92iZLf`
+Snapshot ID: `AAAGROwWUYQif8D4inhSzzbsuS5zNzfZ`

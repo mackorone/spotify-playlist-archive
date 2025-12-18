@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 257281,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/1TWhHnLrwWPts8mQMWseQ3"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 255792,
       "name": "Revolution (feat. Stumpgets)",
       "url": "https://open.spotify.com/track/4dtR7Ehj8jzXcQxqQBnKfb"
@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 199760,
       "name": "The Last Outlaw",
       "url": "https://open.spotify.com/track/1R8XCN2fVWrQWOUYE8YIx0"
@@ -3116,6 +3116,32 @@
       "duration_ms": 174979,
       "name": "Want It",
       "url": "https://open.spotify.com/track/5hBQcL2Zoo21tjkq8yMZfr"
+    },
+    {
+      "album": {
+        "name": "The Lost Songs Volume Three",
+        "url": "https://open.spotify.com/album/2mXQcTkRFoil2aA8kRkV5D"
+      },
+      "artists": [
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        },
+        {
+          "name": "Stormey",
+          "url": "https://open.spotify.com/artist/0Z5MEwUyNwGshWkU6blepx"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Wash Away",
+      "url": "https://open.spotify.com/track/2AyX7tJhWY71uTMkqFOpiv"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 60565,
+  "num_followers": 60583,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAC2ALHIzMov9Aw5AZ76edCy",
+  "snapshot_id": "aUChAAAAAAB4Ht7i36Gfeavf5FHlP8Nh",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 270560,
-      "name": "Where I'm Standing Now (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX"
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -307,24 +303,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
+      "duration_ms": 270560,
+      "name": "Where I'm Standing Now (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+        "name": "Psalm 8 (Hall\u00e9)",
+        "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
+      "duration_ms": 228133,
+      "name": "Psalm 8 (Hall\u00e9)",
+      "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psalm 8 (Hall\u00e9)",
-        "url": "https://open.spotify.com/album/52RP6I8Cdgw9OG4u8vqqJm"
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Psalm 8 (Hall\u00e9)",
-      "url": "https://open.spotify.com/track/5gpm7e3PJgsxHH8bLKNAwC"
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "People Of Heaven",
         "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 252624,
       "name": "People Of Heaven",
       "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
     },
     {
       "added_at": null,
@@ -859,18 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
       "artists": [
         {
+          "name": "Brandon Engman",
+          "url": "https://open.spotify.com/artist/08dhzQWNxcqgrEgagEPdXP"
+        },
+        {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 310240,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/27NoSqxy4e3idBQMObWCjh"
+      "duration_ms": 216427,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/710bT4vGLhWflF4z0cE9cQ"
     }
   ],
   "unique_name": "This Is Phil Wickham",

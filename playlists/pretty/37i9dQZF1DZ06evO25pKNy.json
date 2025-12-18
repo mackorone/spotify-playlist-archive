@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 5940,
+  "num_followers": 5946,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAABg8qKj02S3Ym04POPEZMyB",
+  "snapshot_id": "aUChAAAAAABrLDrrOD1juPcfcsPM98Sy",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Bohemio de Afici\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 149984,
       "name": "Jardin Verde",
       "url": "https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Bohemio de Afici\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Taliban",
-        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "El Taliban",
-      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAJITA LA TENAZA",
         "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "48th Piso",
-        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
+        "name": "El Taliban",
+        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 122047,
-      "name": "48th Piso",
-      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
+      "duration_ms": 184560,
+      "name": "El Taliban",
+      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
       "duration_ms": 167408,
       "name": "6 Colores",
       "url": "https://open.spotify.com/track/74B8W79gWO3nswzkVE7vLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "48th Piso",
+        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 122047,
+      "name": "48th Piso",
+      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
     },
     {
       "added_at": null,
@@ -779,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Los 90's",
+        "url": "https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH"
       },
       "artists": [
+        {
+          "name": "Voces Del Rancho",
+          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
+        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 226986,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
+      "duration_ms": 199138,
+      "name": "Contrato Con La Muerte",
+      "url": "https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP"
     },
     {
       "added_at": null,
@@ -811,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Los 90's",
-        "url": "https://open.spotify.com/album/1osJOSkOwfD5UBZ50ksQsH"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
       "artists": [
-        {
-          "name": "Voces Del Rancho",
-          "url": "https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 199138,
-      "name": "Contrato Con La Muerte",
-      "url": "https://open.spotify.com/track/7KFDZYka1XWE7a6RIrdmaP"
+      "duration_ms": 226986,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 297492,
+  "num_followers": 297485,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -223,42 +223,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Y Ca\u00edste",
-        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 292846,
-      "name": "Y Ca\u00edste",
-      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
-        "name": "Magia Blanca",
-        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 220927,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
         "url": "https://open.spotify.com/album/1U0tpWjhDwrh09V9UnQtaU"
       },
@@ -283,6 +247,42 @@
       "duration_ms": 215394,
       "name": "F\u00edsica o Qu\u00edmica (feat. Enol, Hens, Walls)",
       "url": "https://open.spotify.com/track/4dqrBXSWOaaEI1jlPegcQz"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Magia Blanca",
+        "url": "https://open.spotify.com/album/3BPnsVrQpM8EijT2e2LnaZ"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 220927,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/1MIRcKbka31tCqgjPLD4q4"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Y Ca\u00edste",
+        "url": "https://open.spotify.com/album/1mRK52YC5AHfqLV2AizYyD"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 292846,
+      "name": "Y Ca\u00edste",
+      "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
     },
     {
       "added_at": "2025-08-15 04:00:29",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-08-15 04:00:29",
       "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 213371,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
-    },
-    {
-      "added_at": "2025-08-15 04:00:29",
-      "album": {
         "name": "Una noche m\u00e1s (feat. Bruses)",
         "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/4IuGpxnXOixlrvvA8Q3ruQ"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 213371,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/7j0k11HlS0Xemv5tAQw4GV"
     },
     {
       "added_at": "2025-08-15 04:00:29",

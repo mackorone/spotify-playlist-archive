@@ -18645,6 +18645,28 @@
     },
     {
       "album": {
+        "name": "Party Out",
+        "url": "https://open.spotify.com/album/22TJwoQuZnXx8k0XbmGUCz"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "A+",
+          "url": "https://open.spotify.com/artist/0QUIxJh1rw7FrbtvG6BbnA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209374,
+      "name": "Party Out",
+      "url": "https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk"
+    },
+    {
+      "album": {
         "name": "Party Starter",
         "url": "https://open.spotify.com/album/7jSNvVIJkXi1wFQBbqzIXc"
       },
@@ -23362,7 +23384,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 154354,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"

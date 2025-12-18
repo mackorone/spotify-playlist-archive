@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,431 songs - 3 day 20 hr 39 min
+2,433 songs - 3 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [Don\*t ask](https://open.spotify.com/track/1Gk7ZiotJNIysZW5HUXTC8) | [Delbaz](https://open.spotify.com/artist/7awZp2VSR238uWEYBWVA1R) | [Don\*t ask](https://open.spotify.com/album/1guH5RZV3kqLb1mzxtwxhk) | 2:14 | 2025-02-28 | 2025-04-26 |
 | [Dont Go](https://open.spotify.com/track/7m7yVthruWNGZ6WkvJnjxo) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [Dont Go](https://open.spotify.com/album/4oTo2WXUFmG27DQHcfqSr0) | 1:58 | 2022-11-25 | 2025-07-11 |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 | 2025-07-11 |
-| [Donuts](https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Donuts](https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr) | 2:21 | 2023-10-06 |  |
+| [Donuts](https://open.spotify.com/track/29aKlnFemuICJhqZPuZ1po) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Donuts](https://open.spotify.com/album/0Us2I3jTIZ3q18uoyhVjvr) | 2:21 | 2023-10-06 | 2025-12-18 |
 | [Don’t Forget Me](https://open.spotify.com/track/3OjultkM3CXtK0JFmCO5Ux) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Don’t Forget Me](https://open.spotify.com/album/6x2eS7AgwuPqpGkbb3jloG) | 1:49 | 2022-05-27 | 2024-05-14 |
 | [dopeness miles](https://open.spotify.com/track/3WdRc55dm15xX1Zxg96UvA) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [dopeness miles](https://open.spotify.com/album/2ugL8lln8USmINc7mCE93l) | 2:17 | 2023-01-20 | 2023-10-13 |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-04-15 | 2022-05-27 |
@@ -909,7 +909,7 @@
 | [hangover](https://open.spotify.com/track/3Aj99QBnPuowk3n6bkFciI) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [hangover](https://open.spotify.com/album/6k7G39ATeXkoPjsU3rAEZ8) | 1:49 | 2022-04-15 | 2022-09-17 |
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2022-04-15 | 2022-08-19 |
 | [Happy Camper](https://open.spotify.com/track/65Aih3UTZ71FYy1IFX9yai) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Happy Camper](https://open.spotify.com/album/0dGweGrhJHrI7b2aZzrlbP) | 2:00 | 2023-06-06 | 2023-12-08 |
-| [Happy Celebration](https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Happy Celebration](https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh) | 3:10 | 2025-10-02 |  |
+| [Happy Celebration](https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Happy Celebration](https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh) | 3:10 | 2025-10-02 | 2025-12-18 |
 | [happy moggie](https://open.spotify.com/track/6mnuzqUm6MObdHHk59Tg4E) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [happy moggie](https://open.spotify.com/album/5HRw1jjjlShVFhlyNlyjpi) | 2:18 | 2023-12-08 |  |
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 | 2024-05-14 |
 | [Hash with 2,8](https://open.spotify.com/track/3OruYgXvTvTVVSKwSY71VD) | [Krims Krams](https://open.spotify.com/artist/2h9Xl98MO21fGnWbheeKuu) | [Hash with 2,8](https://open.spotify.com/album/1tt6e06BzChloRVr08jC2K) | 2:13 | 2023-07-13 | 2025-11-26 |
@@ -1113,6 +1113,7 @@
 | [Laetitia](https://open.spotify.com/track/6lcvkdN5JRolZaCnTliLaV) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Laetitia](https://open.spotify.com/album/00j8hPTsA3MayLAPppYbQp) | 2:13 | 2022-12-23 | 2023-03-25 |
 | [Laid Back](https://open.spotify.com/track/4pL2JWxZR2LyzCHVw2KXdA) | [Ghost Beats](https://open.spotify.com/artist/3Zbr6wvGLnivTIpJ05DGFY) | [Laid Back](https://open.spotify.com/album/2mcTE8vGAokL4i8ytHwNXB) | 2:47 | 2022-11-18 | 2025-07-11 |
 | [Laidback Ristretto](https://open.spotify.com/track/7K3RFlAkVqPrcWIWSQeghj) | [Dynambo](https://open.spotify.com/artist/6uZfrhCAKRffswkc73hqZV) | [Laidback Ristretto](https://open.spotify.com/album/6RtgJVvMReNt3867YTi7dr) | 3:19 | 2022-04-15 | 2022-05-27 |
+| [Lake](https://open.spotify.com/track/1snpWCtr5ZtIwfgWaaxLcq) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Lake](https://open.spotify.com/album/5OAoaLmDSFq6wobwbrFS8A) | 2:27 | 2025-12-17 |  |
 | [Lamplight](https://open.spotify.com/track/5FAI58CsAJSZm5WityWEfN) | [Catchaser](https://open.spotify.com/artist/2SP58Wk0YjobckhSvIMJo3) | [Cookies & Cream](https://open.spotify.com/album/2pIy3Hqv4nunY3V0AlHIf1) | 3:41 | 2022-04-15 | 2022-09-23 |
 | [landscape](https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [landscape](https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY) | 2:42 | 2022-11-11 | 2025-07-11 |
 | [Lantern](https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [Lantern](https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk) | 2:12 | 2025-08-01 |  |
@@ -1290,6 +1291,7 @@
 | [Marbles](https://open.spotify.com/track/4JwQjAOrGDCQEpySgCAEtl) | [Maggotts&Becketts](https://open.spotify.com/artist/5KcHdaJD7z9518eYGaAh07), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Marbles](https://open.spotify.com/album/54iZQMfNa484KcQjlkM9yF) | 2:11 | 2023-11-17 | 2025-11-26 |
 | [Marco Polo](https://open.spotify.com/track/6pDvKciVGMRqcSygBHjQI0) | [Miss Misaki](https://open.spotify.com/artist/72WUl0K33i5N2nHaAeOw0M) | [Marco Polo](https://open.spotify.com/album/4pQXvEAVYt1AFmPrRJ0BRb) | 2:54 | 2022-06-10 | 2023-03-25 |
 | [Marea](https://open.spotify.com/track/4nPJAiifMgtT3zE3gN1aFk) | [O\. Cas](https://open.spotify.com/artist/0ojvGNOvlXCd3MUxbXnffM), [Illya Lukyanov](https://open.spotify.com/artist/5ePF2pPizD0HZPo11EhHOB), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Ola](https://open.spotify.com/album/0WjhtNJefalnRHPsUgxmLv) | 1:51 | 2022-09-02 | 2022-12-24 |
+| [Marigold](https://open.spotify.com/track/4jmy83rM8j9ld8yU2kcIEe) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [rabson beats](https://open.spotify.com/artist/3VzEgExSrnP1wtVR9i841V) | [Marigold](https://open.spotify.com/album/5s9HWjsgAuuSvhE4em6409) | 1:46 | 2025-12-17 |  |
 | [Marry U](https://open.spotify.com/track/4ocgsMhlAL6GfXDDom2NnS) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Marry U](https://open.spotify.com/album/4pG9IOY1zvKu62w7Jf13TP) | 2:18 | 2022-04-15 | 2022-05-13 |
 | [marzipan shuffle](https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [marzipan shuffle](https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF) | 2:36 | 2024-03-01 | 2025-11-26 |
 | [maseru](https://open.spotify.com/track/1OqjCvgq2huHFm5YuL6A8G) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [maseru](https://open.spotify.com/album/15h3ZjC8ZpBiDyWuJGap7f) | 1:53 | 2022-04-15 | 2023-03-02 |

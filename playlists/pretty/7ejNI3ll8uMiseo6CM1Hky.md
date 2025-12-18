@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,857 likes - 171 songs - 9 hr 42 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,858 likes - 171 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 149 | [BUBIBU](https://open.spotify.com/track/08Az8oHUOLj2TjMSYtWCd5) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [UNE ANNEE](https://open.spotify.com/album/5vR2VgZoh5ONYUABC9xdtF) | 3:39 |
 | 150 | [I Stink](https://open.spotify.com/track/2y5Pg9yWLSI5CS7RldBgau) | [AI Gems](https://open.spotify.com/artist/5NwnFlLnUf1PehOfgiFONc) | [I Stink](https://open.spotify.com/album/2zQvD7H4UcyoMTM34qFgAy) | 2:20 |
 | 151 | [I'm Something Else](https://open.spotify.com/track/3zRgdfwiFzHeDq4VYOpYpk) | [SomeThingElseyt](https://open.spotify.com/artist/1lVDBUHFHFGNogAAqnmYDN) | [I'm Something Else](https://open.spotify.com/album/3Ha6PNJ8OeBT8DSdzWTlsO) | 2:24 |
-| 152 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 |
+| 152 | [Loser, Baby](https://open.spotify.com/track/6zJjw0iXY0aMBEUyCG1NsA) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:55 |
 | 153 | [Mr\. Please](https://open.spotify.com/track/2CmbRvQvLiNoYb7MCNwnUb) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [The Human Animal](https://open.spotify.com/album/25o0yLGRjV45PhksQjxvAD) | 2:33 |
 | 154 | [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/6NsZCEmTqHL2z7wOu1LQ9L) | 3:58 |
 | 155 | [Paradise Plaza \(feat\. TOFUKU\) \- TOFUKU Remix](https://open.spotify.com/track/759W36MHTZwVO8Fd1cu1Jm) | [BLOOD CODE](https://open.spotify.com/artist/3yNDCk0iRKefkfpiPhaVPv), [Cosmicosmo](https://open.spotify.com/artist/6JtJWLtwanDAmk4UMLFJ2v), [TOFUKU](https://open.spotify.com/artist/3hg9J1p0uyzhuLwMic8pvW) | [Paradise Plaza \(feat\. TOFUKU\): The Remixes](https://open.spotify.com/album/1TXmMU7aszrjpr70BjJnmB) | 2:38 |

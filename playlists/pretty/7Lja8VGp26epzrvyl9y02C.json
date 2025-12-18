@@ -1,6 +1,6 @@
 {
   "description": "Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.",
-  "num_followers": 53230,
+  "num_followers": 53226,
   "original_name": "PlayStation Year In Music",
   "owner": {
     "name": "PlayStation\u00ae\ufe0f",
@@ -796,16 +796,20 @@
       },
       "artists": [
         {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
           "name": "Sam Haft",
           "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
         },
         {
           "name": "Andrew Underberg",
           "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
         }
       ],
       "duration_ms": 127689,

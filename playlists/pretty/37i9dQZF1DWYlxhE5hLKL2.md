@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 
 > Digging old Japanese records and flipping them into something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,446 likes - 67 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,453 likes - 67 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 | 23 | [Skyline](https://open.spotify.com/track/2pXpXI9uoZ7CeBooe1NpIL) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Night Tempo](https://open.spotify.com/album/3Sg1ELxekhLpbMiEMBNsk3) | 2:05 |
 | 24 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 |
 | 25 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
-| 26 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
+| 26 | [September Rain \- 2018 Remaster](https://open.spotify.com/track/25z4QmWYR2stp1xbVcG51J) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [FIRST LIGHT \(+1; 2018 Remaster\)](https://open.spotify.com/album/6iHAKqapZLwgw9yIrVgsUT) | 4:29 |
 | 27 | [Green Beach Cruiser](https://open.spotify.com/track/6g4we8BgUTDA35aIpJZGbk) | [Left Lane Didon](https://open.spotify.com/artist/47om1DzL90ZqrQFbYq4Qey), [Benji Socrates](https://open.spotify.com/artist/3ga4HdLuvf7EGEGfT5aXju), [All Hail Y.T.](https://open.spotify.com/artist/3mi9ln2L0spbrK2Bw3NjPX) | [Destini's Cove](https://open.spotify.com/album/08TZQYYNgRbOBKx7eXMlkW) | 3:24 |
 | 28 | [LOVE TRIP](https://open.spotify.com/track/1Jq89qHEa2S1bu9ah1wavm) | [間宮貴子](https://open.spotify.com/artist/4rVB9YY0kKlV5iBATVGxQy) | [LOVE TRIP](https://open.spotify.com/album/5c3jWgs4SyWQPyqjKhgXrR) | 4:00 |
 | 29 | [Scratch](https://open.spotify.com/track/1VbuczXfotK8FDycoVcw9M) | [6ixtys](https://open.spotify.com/artist/4gKUDnwVF9A7fmLdnio0AW) | [Scratch](https://open.spotify.com/album/0oW8vdUQsoCcdyjzNUaKue) | 2:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 
 > Go back in time with these video throwbacks\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU7evGQPnBQj.md) - [plain]
 | 19 | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/track/4cmcEv0JgFugg83rlkL7x2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Eres para Mí \(with Anita Tijoux\)](https://open.spotify.com/album/4l4PJEkHF3ch8E7zWBbmf2) | 3:17 |
 | 20 | [Tú de Qué Vas](https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 3:58 |
 
-Snapshot ID: `AAAAAIhbOomYgmSewh2bnF2p/iDvpnlJ`
+Snapshot ID: `AAAAAPaV/c9jrWVtra6yaU9xDLY+u+ZW`

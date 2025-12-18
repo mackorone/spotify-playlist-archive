@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 9 hr 41 min
+176 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Pray](https://open.spotify.com/track/0QiUEowZX0wzCOePBOHgs6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I Don't Wanna Grow Up](https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE) | 3:47 | 2022-06-04 |  |
 | [Pretty Sure](https://open.spotify.com/track/3E7iBLJHRfDoDqKwgxEsHo) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Pretty Sure](https://open.spotify.com/album/2LKxTFUbRQ8XzNHgXfOb88) | 3:01 | 2022-06-04 |  |
 | [Psycho](https://open.spotify.com/track/11mnze67X02I4q190PXVxo) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [FWA](https://open.spotify.com/album/2wVTLpA19kpk5qmkTASir0) | 4:07 | 2022-06-04 |  |
-| [Pull\-Up](https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:06 | 2022-06-04 |  |
+| [Pull\-Up](https://open.spotify.com/track/1SYqEFrLotYNBTJbNXKEa5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI) | 3:06 | 2022-06-04 | 2025-12-18 |
+| [Pull\-Up](https://open.spotify.com/track/1nxwzEdLLtvk3KmEwPdSnr) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Everything Is 4](https://open.spotify.com/album/6YGzNQqE7DjyJ0Q3RdhkKA) | 3:06 | 2025-12-17 |  |
 | [Question](https://open.spotify.com/track/6FHukarWlx7lSrlaN17OkP) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [Question](https://open.spotify.com/album/2q7r92YA7Hy4VlxrohdOFc) | 3:45 | 2022-06-04 |  |
 | [Rather Be Alone](https://open.spotify.com/track/3OtK6JOnTe7kGdlmUtSEYf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 2:51 | 2022-06-04 |  |
 | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/track/4dNZUNpTSaQWvOJ8U5zttp) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM) | [Rear View \(feat\. August Alsina\)](https://open.spotify.com/album/1hSNGgqMnZ5jksP3aLOxMp) | 4:09 | 2022-06-04 |  |

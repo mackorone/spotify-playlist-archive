@@ -4,7 +4,7 @@
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-82 songs - 4 hr 6 min
+85 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [963 Hz Coyuntura](https://open.spotify.com/track/3meLZFGFHBrdMa00aGwM4S) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [Solfeggio Ondas](https://open.spotify.com/album/5UmaBX9C27Np8TepecsPBc) | 2:55 | 2023-07-13 |  |
 | [963 Hz Deep Breathing](https://open.spotify.com/track/0pY9RfLWbqMKguhWXrCCQ3) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [963 Hz Deep Breathing](https://open.spotify.com/album/4gVsivQcSQfT3oEkMGtNJ5) | 2:38 | 2023-11-30 |  |
 | [963 Hz El Futuro](https://open.spotify.com/track/1gZLAuULPzhxNgbNXSAqfG) | [Paz Interna](https://open.spotify.com/artist/1Btjq0uMBQTfsHKxyknM7G) | [963 Hz El Futuro](https://open.spotify.com/album/0Z0bvs4In2QVbuhu2MnjGh) | 2:50 | 2023-07-13 |  |
+| [963 Hz Inhale](https://open.spotify.com/track/0L0dmegEHf7Gnl7zyLssRg) | [Hugo Falkman](https://open.spotify.com/artist/6nLo9HoDwesK6BJRG4vSV6) | [963 Hz Inhale](https://open.spotify.com/album/44m2WKjejqu6wWq9pDVurj) | 2:57 | 2025-12-17 |  |
 | [963 Hz Intuition](https://open.spotify.com/track/5G1cDOqdUzaVatIG1M0Bqf) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [963 Hz Intuition](https://open.spotify.com/album/6ZSSObWQiCdayfLPyMZmIp) | 3:26 | 2024-03-13 |  |
 | [963 Hz Is Calling](https://open.spotify.com/track/0BKMdZRdTWjBwrOaqQLt6S) | [Piers Donnelly](https://open.spotify.com/artist/5SUne9EFTpqn7n0J1zmDB3) | [963 Hz Is Calling](https://open.spotify.com/album/2ZGxg9XLho0bhWa8bgmXuY) | 2:38 | 2025-10-14 |  |
 | [963 Hz One Rejuvenation](https://open.spotify.com/track/40VO0IZClFoOLaAjDmi6SH) | [Solflorescence](https://open.spotify.com/artist/3Lpl331u3pFn4uzd3sx6my) | [963 Hz One Rejuvenation](https://open.spotify.com/album/4D3aBGCcBLkRi7Hl2pC8k4) | 2:42 | 2025-05-14 |  |
@@ -67,6 +68,7 @@
 | [Lotus \(963Hz\)](https://open.spotify.com/track/6adD7Hdwn5UZHdlWPjoM3e) | [Wyndon](https://open.spotify.com/artist/1BqAkR85z3mqqeQcCaHUpa) | [Lotus \(963Hz\)](https://open.spotify.com/album/3qEPU2gGsi7boRBowYoEC4) | 2:31 | 2023-11-30 |  |
 | [Love Without Judgement](https://open.spotify.com/track/3DGqfaVcobXCuWdCw8p0Sq) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [963 Path to Awakening](https://open.spotify.com/album/38EYnM2FRNvBw9PB7veE1R) | 1:19 | 2023-07-13 | 2024-03-14 |
 | [Miracles 963 Hz](https://open.spotify.com/track/2nPdV0GQD5RZoCRdHRLvKE) | [Drone\-Dax](https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ) | [Miracles 963 Hz](https://open.spotify.com/album/7LXqzXuY3fzG7cY0gOYEQJ) | 2:45 | 2023-07-13 |  |
+| [Modulation 936 Hz](https://open.spotify.com/track/1pU8MyUHJpkzSAAeRrSYJk) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [Modulation 936 Hz](https://open.spotify.com/album/5zGmJRB6wUZdSnEMCylxQX) | 2:30 | 2025-12-17 |  |
 | [Nagnallar](https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE) | [Sahasrara Beats](https://open.spotify.com/artist/4KAmS7nBbav0B58adlaCJa) | [Nagnallar](https://open.spotify.com/album/7mc0YuErrVKMLdfWw16lOP) | 2:28 | 2023-07-13 |  |
 | [oneness 963 Hz](https://open.spotify.com/track/7E2SLBUBKXxlaDfLgjfGVC) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:44 | 2023-07-13 | 2025-03-15 |
 | [Orange Waves 963 hz](https://open.spotify.com/track/7puC3J72XiYjIrlAPsg4YP) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:40 | 2023-07-13 |  |
@@ -78,6 +80,7 @@
 | [Schumann 432\-7 Crown Chakra](https://open.spotify.com/track/38VUED3x2xdXRyTTX3mscG) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:59 | 2023-07-13 | 2023-12-01 |
 | [settledown](https://open.spotify.com/track/3BI9RpTqlOwDWtd07DwwTG) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [eight gates](https://open.spotify.com/album/4Am2qvDvSMGEsezSLsUH0z) | 2:43 | 2023-07-13 |  |
 | [Seven Dimensions \- 963Hz](https://open.spotify.com/track/7hNQgBNm55Ot40FuRA0KRZ) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Seven Dimensions \- 963Hz](https://open.spotify.com/album/4iuAqV1cfUjjoxCG9HZspl) | 2:50 | 2025-01-09 |  |
+| [Snowmelt Serenade 963 Hz](https://open.spotify.com/track/5rlKmcUYPMRAPHqgF3quXR) | [Cosmic Sooth](https://open.spotify.com/artist/5ozCJLjahj9KK6MX8isMc7) | [Snowmelt Serenade 963 Hz](https://open.spotify.com/album/2TvRNfmx9rMlKrTDRxnERe) | 3:07 | 2025-12-17 |  |
 | [Solar Waves](https://open.spotify.com/track/6BFqFROUN0ZSAwqT6HIODe) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Solar Waves](https://open.spotify.com/album/46PDkEIZsT8l84S8YKj23H) | 3:36 | 2023-07-13 |  |
 | [Solfeggio Frequencies 963 Hz](https://open.spotify.com/track/2gHFh7SkAwBy3ORnk3TCqv) | [Miracle Tones](https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4), [Solfeggio Healing Frequencies MT](https://open.spotify.com/artist/5R9eOlQf7HGzD6srMeJKio) | [963 Hz Returning to Oneness](https://open.spotify.com/album/4sOv6RfJastljQWgYeLFzW) | 2:38 | 2023-07-13 |  |
 | [Spiritual Connection \- 963Hz](https://open.spotify.com/track/2Hg9zXiCO2TV9NBeXbFXEn) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Spiritual Connection \- 963Hz](https://open.spotify.com/album/6olr1fxyePg6UmYUMf9OFQ) | 2:43 | 2024-05-11 | 2025-03-15 |

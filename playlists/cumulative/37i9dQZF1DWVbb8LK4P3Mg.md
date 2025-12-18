@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
 
-244 songs - 14 hr 14 min
+245 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Christmas Time](https://open.spotify.com/track/0vDKTkWeDQETxVlr23XkkC) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb), [BOYFRIEND](https://open.spotify.com/artist/2Pw8E6zZoeuksVWtyZPnzd), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD), [YOO SEUNGWOO](https://open.spotify.com/artist/6pR1ySndn2rTiCX0izqJU9), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB), [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN), [DUETTO](https://open.spotify.com/artist/6PvXDvysAc002NKTISIYBV), [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [STARSHIP PLANET 2018](https://open.spotify.com/album/6UPvFQ3Lhi5x6W7vCq0Zaq) | 4:01 | 2021-12-21 |  |
 | [Christmas Time](https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Christmas Time](https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA) | 3:50 | 2023-12-27 | 2025-12-17 |
 | [Christmas Train](https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB) | [Linus' Blanket](https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy) | [Semester](https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy) | 3:39 | 2021-12-21 | 2022-12-16 |
-| [Christmas With You](https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Christmas With You](https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ) | 3:54 | 2024-12-18 |  |
+| [Christmas With You](https://open.spotify.com/track/5b8VfM4pIknpsNH93pEp5x) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [Christmas With You](https://open.spotify.com/album/2Gl0CRia4oSIdPf1d565pZ) | 3:54 | 2024-12-18 | 2025-12-18 |
 | [Christmas without You](https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [This Christmas – Winter is Coming](https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx) | 4:19 | 2021-12-21 |  |
 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 | 2021-12-21 |  |
 | [Confession Song](https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk) | 3:32 | 2023-01-10 | 2024-04-19 |
@@ -193,6 +193,7 @@
 | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [The Carol 2.0 \(ViVi, Choerry, Yves\)](https://open.spotify.com/album/4a8IIN37HSD7SuDWuyNSs9) | 3:26 | 2021-12-21 | 2025-12-17 |
 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 | 2023-01-10 |  |
 | [THE CHRISTMAS SONG](https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:10 | 2021-12-21 | 2025-11-07 |
+| [THE CHRISTMAS SONG](https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS) | [Wooseok Byeon](https://open.spotify.com/artist/73XnhTLe7F55vqqCr0qL7a) | [Shin Wooseok's Urban Fairy Tale EP.1 'The Christmas Song'](https://open.spotify.com/album/7MJZs2gPJpAkFdtXQRszOI) | 4:56 | 2025-12-16 |  |
 | [The First Noel + Oh Holy Night](https://open.spotify.com/track/0ZZk4Jkdp1Zb98dZ1fyQKQ) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Season](https://open.spotify.com/album/1dK8iMaUFTMEHmRfcwb2zi) | 3:27 | 2021-12-21 | 2022-11-11 |
 | [The First Noel + Oh Holy Night](https://open.spotify.com/track/5dy4boImHwApBOQQxdO5QJ) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ) | [Winter](https://open.spotify.com/album/3Sv9Di6p9mZbJAuYFt8Ado) | 3:27 | 2021-12-21 | 2022-07-29 |
 | [The First Snow](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Miracles in December](https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM) | 3:27 | 2021-12-21 |  |

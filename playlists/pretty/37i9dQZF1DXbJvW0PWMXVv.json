@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78122,
+  "num_followers": 78117,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,26 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "A Dan\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "A Dan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
         "url": "https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 169546,
       "name": "S\u00f3 Quero Ver",
       "url": "https://open.spotify.com/track/18z8Px2zIsaQrtszgWdVZn"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "A Dan\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "A Dan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 190092,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 431494,
       "name": "AO TEU LADO",
       "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 190092,
-      "name": "Transe",
-      "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Pagode da Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Rea\u00e7\u00f5es Adversas / Ao Persistirem os Sintomas",
         "url": "https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 189374,
       "name": "Salto",
       "url": "https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Pagode da Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Cenas Infantis",
+        "url": "https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu"
+      },
+      "artists": [
+        {
+          "name": "Palavra Cantada",
+          "url": "https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT"
+        }
+      ],
+      "duration_ms": 192231,
+      "name": "Liberem os Brigadeiros Antes dos Parab\u00e9ns",
+      "url": "https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Manual Pr\u00e1tico Do Novo Samba Tradicional, Vol. 2: TIA DARCI",
         "url": "https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 233496,
       "name": "NASCENTE DA PAZ",
       "url": "https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Cenas Infantis",
-        "url": "https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu"
-      },
-      "artists": [
-        {
-          "name": "Palavra Cantada",
-          "url": "https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT"
-        }
-      ],
-      "duration_ms": 192231,
-      "name": "Liberem os Brigadeiros Antes dos Parab\u00e9ns",
-      "url": "https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu"
     },
     {
       "added_at": "2025-09-17 15:00:09",

@@ -1332,6 +1332,24 @@
     {
       "album": {
         "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/1IHnuhUXcl3LjZEhYLrBTe"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202440,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/1F0yahgwR4oR9uOGU6SxNa"
+    },
+    {
+      "album": {
+        "name": "Ave Maria",
         "url": "https://open.spotify.com/album/6kiCVjkuVeFX9mhib5aDDH"
       },
       "artists": [

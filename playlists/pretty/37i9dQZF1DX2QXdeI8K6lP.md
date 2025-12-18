@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,369 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,399 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 24 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 25 | [Candilejas](https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb) | 2:45 |
 | 26 | [Estoy Perdido](https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 3:13 |
-| 27 | [¿Cómo Fue?](https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [RCA 100 Años De Musica](https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO) | 2:55 |
-| 28 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 |
+| 27 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 |
+| 28 | [¿Cómo Fue?](https://open.spotify.com/track/5vEopnR9F4viOgBg0agaOD) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [RCA 100 Años De Musica](https://open.spotify.com/album/5yvprimCRB7yzllST3sJRO) | 2:55 |
 | 29 | [Solamente una Vez](https://open.spotify.com/track/3KXT4z3ZtA8yasFoqltxzP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Mi Primer Piano..\. Y Mis Primeras Canciones](https://open.spotify.com/album/2JRYd3QxaIm8bzIpY8V6Ci) | 2:41 |
 | 30 | [Luna de octubre](https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN) | [Trio Hermanos Michel](https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK) | [Serenatas](https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ) | 2:40 |
 | 31 | [No Me Platiques Ya](https://open.spotify.com/track/5O6PZl2Ba9KYFNxX8ZsPLH) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 2:50 |
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 65 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
 | 66 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
 | 67 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
-| 68 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
-| 69 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
-| 70 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
-| 71 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
-| 72 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
+| 68 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 69 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
+| 70 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
+| 71 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
+| 72 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
 | 73 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:49 |
 | 74 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
 | 75 | [Noche No Te Vayas](https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [Romanticamente Trios Vol\. 9](https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA) | 2:28 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 96 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
 | 97 | [Ansiedad](https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm) | [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Tres Super Trios](https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY) | 2:52 |
 | 98 | [Europa \- Mariachi Bolero Cover](https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:57 |
-| 99 | [Culebra Venenosa](https://open.spotify.com/track/1HYixaofJGQcDo837EZg1U) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Culebra Venenosa](https://open.spotify.com/album/4vIQ9x5umdJL8cySAdrQdq) | 3:17 |
-| 100 | [Mil Violines](https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q) | [Trío Divina Ilusión](https://open.spotify.com/artist/27iQEbqpjdY8TGV1zaXEa8) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:16 |
+| 99 | [Mil Violines](https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q) | [Trío Divina Ilusión](https://open.spotify.com/artist/27iQEbqpjdY8TGV1zaXEa8) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:16 |
+| 100 | [Culebra Venenosa](https://open.spotify.com/track/1HYixaofJGQcDo837EZg1U) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [Culebra Venenosa](https://open.spotify.com/album/4vIQ9x5umdJL8cySAdrQdq) | 3:17 |
 
 Snapshot ID: `AAAAALZ6EfdG3+f5ZlLcLldMzlbpmoeg`

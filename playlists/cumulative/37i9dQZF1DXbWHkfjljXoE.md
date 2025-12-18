@@ -2,9 +2,9 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Jimmy Cliff
+> Melodies of the movement\. Cover: Carl Carlton
 
-119 songs - 9 hr 50 min
+120 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Little Ghetto Boy](https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Come Back Charleston Blue](https://open.spotify.com/album/2LBcd80fBY2o4pCJUWhLRb) | 3:52 | 2024-02-01 |  |
 | [Living For The City](https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 7:22 | 2024-02-01 | 2024-04-19 |
 | [Living For The City \- 1982 Musiquarium Version](https://open.spotify.com/track/3dIEfSljSXVM6PyqKBaGFe) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Original Musiquarium](https://open.spotify.com/album/1G3yrGdknJ969tsT9oM2yF) | 7:25 | 2024-02-06 |  |
+| [Look At Mary Wonder \(How I Got Over\)](https://open.spotify.com/track/1MzXNdH5xGDCffxUh3rC8t) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:05 | 2025-12-17 |  |
 | [Love's In Need Of Love Today](https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:05 | 2024-02-01 |  |
 | [Mississippi Goddam](https://open.spotify.com/track/175Ef68hYgpfcm6zeKCH0L) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 5:30 | 2024-02-01 |  |
 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 | 2024-02-01 |  |

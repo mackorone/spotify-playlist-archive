@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11735,
+  "num_followers": 11739,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAACtuF1R//GG2ETR0SAxq7ug",
+  "snapshot_id": "aUChAAAAAADaUk8JRLz09sEHNgYUi7i4",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rattlin' Bones",
+        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Shane Nicholson",
+          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "Rattlin' Bones",
+      "url": "https://open.spotify.com/track/7M6oKJS7dCDQYgaViybJh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch Over Me (feat. Kasey Chambers & Clare Bowditch)",
         "url": "https://open.spotify.com/album/1yKr5sBSPlo9tFELdZTBrA"
       },
@@ -63,26 +83,6 @@
       "duration_ms": 240893,
       "name": "Watch Over Me (feat. Kasey Chambers & Clare Bowditch)",
       "url": "https://open.spotify.com/track/61493h55762d7R2qaoukCx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rattlin' Bones",
-        "url": "https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Shane Nicholson",
-          "url": "https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "Rattlin' Bones",
-      "url": "https://open.spotify.com/track/7M6oKJS7dCDQYgaViybJh9"
     },
     {
       "added_at": null,
@@ -779,46 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F U Cancer",
-        "url": "https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA"
-      },
-      "artists": [
-        {
-          "name": "Catherine Britt",
-          "url": "https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ"
-        },
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Beccy Cole",
-          "url": "https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG"
-        },
-        {
-          "name": "Lyn Bowtell",
-          "url": "https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK"
-        },
-        {
-          "name": "Josh Pyke",
-          "url": "https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH"
-        },
-        {
-          "name": "Wesley Dean",
-          "url": "https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI"
-        },
-        {
-          "name": "Wendy Matthews",
-          "url": "https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm"
-        }
-      ],
-      "duration_ms": 170899,
-      "name": "F U Cancer",
-      "url": "https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -826,15 +786,11 @@
         {
           "name": "Kasey Chambers",
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 210899,
-      "name": "My Kingdom Come",
-      "url": "https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu"
+      "duration_ms": 322053,
+      "name": "A New Day Has Come",
+      "url": "https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. La Arrolladora Banda el Limón en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,137 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,261 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 63 | [Dos Banderas](https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Dos Banderas](https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF) | 2:38 |
 | 64 | [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 |
 | 65 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 |
-| 66 | [Mi Muñequita](https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mi Muñequita](https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy) | 3:46 |
-| 67 | [VIBRA PERFECTA](https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [VIBRA PERFECTA](https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI) | 2:28 |
+| 66 | [VIBRA PERFECTA](https://open.spotify.com/track/5OIkK9lAEhIGjZAykS4ahK) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [VIBRA PERFECTA](https://open.spotify.com/album/4ocmXnDaA8LpgZwWaGIYuI) | 2:28 |
+| 67 | [Mi Muñequita](https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Mi Muñequita](https://open.spotify.com/album/14Q0D9jC3rpgx8LpLmUmmy) | 3:46 |
 | 68 | [Velas](https://open.spotify.com/track/30XtLd1cxbWxzodM8lXrIS) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Velas](https://open.spotify.com/album/26R4zzccMTLiD6PXKkPjti) | 3:03 |
 | 69 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [SOY GRACIAS A DIOS](https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4) | 2:43 |
 | 70 | [Relojito Cartier](https://open.spotify.com/track/3GJgf5VJTnuFwh1YUFJGic) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:41 |

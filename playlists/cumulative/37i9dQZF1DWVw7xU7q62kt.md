@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-721 songs - 1 day 7 hr 10 min
+722 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Bitter Suite](https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:46 | 2023-08-22 | 2025-04-12 |
 | [Black Tea](https://open.spotify.com/track/6UZdMhnCM7ks3aLA5V5FvL) | [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Black Tea](https://open.spotify.com/album/5okN6CGYZMhXcXXaASN3KL) | 2:48 | 2025-02-14 | 2025-08-30 |
 | [Blades](https://open.spotify.com/track/7Bqkuj2wPcgfdolI8NEUhf) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Blades](https://open.spotify.com/album/38vyJimW9lh3634kjGXUDs) | 1:57 | 2025-09-12 |  |
-| [Bliss](https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bliss](https://open.spotify.com/album/06jmrlWpFzH67yy8ApWIud) | 2:05 | 2024-09-27 |  |
+| [Bliss](https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bliss](https://open.spotify.com/album/06jmrlWpFzH67yy8ApWIud) | 2:05 | 2024-09-27 | 2025-12-18 |
 | [Bloom Again](https://open.spotify.com/track/7CF54i9tVz3DvZ1gmKeJNo) | [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Bloom Again](https://open.spotify.com/album/5c4VtosW0uCN9jKvnUN87u) | 2:33 | 2024-10-25 |  |
 | [Blue Diver](https://open.spotify.com/track/5QMFT282KkBw65Jn7AJj3G) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Blue Diver](https://open.spotify.com/album/7p7tqXzlwOwusB0FfUvxZ0) | 2:49 | 2024-08-23 | 2025-04-12 |
 | [Blue Heart](https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l) | [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd) | [Blue Heart](https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF) | 2:28 | 2023-12-01 | 2025-04-12 |
@@ -234,6 +234,7 @@
 | [Goin' Places](https://open.spotify.com/track/5hPSNpGlMkiTtlqsnikJvz) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Goin' Places](https://open.spotify.com/album/66XkfG45HOeDtK9z7m6dzU) | 1:39 | 2025-10-03 |  |
 | [Going Along With It](https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Going Along With It](https://open.spotify.com/album/3S63qle6fwfLmeKjWLNTwl) | 1:32 | 2025-02-03 |  |
 | [Golden](https://open.spotify.com/track/0puARhK6jKkusREeVYGchX) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Golden](https://open.spotify.com/album/0xPEVbpkS6FMtA2JNboDWZ) | 2:10 | 2025-10-03 |  |
+| [Golden Hour](https://open.spotify.com/track/6ILPmEtmJuUobfdmDo2nuP) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Golden Hour](https://open.spotify.com/album/7aOpza1Q9jYXeot4AMbEvh) | 1:36 | 2025-12-12 |  |
 | [Golden Hour](https://open.spotify.com/track/5pYa3nB6k9VZpBynPrWLIo) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Golden Hour](https://open.spotify.com/album/12cathoKU0frumffV7uCTA) | 1:44 | 2025-10-24 | 2025-12-06 |
 | [Golden Hour](https://open.spotify.com/track/56gzYeY3J2VVUqF5Fyx0fa) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Golden Hour](https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL) | 1:26 | 2025-04-18 | 2025-09-13 |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 | 2024-09-29 |

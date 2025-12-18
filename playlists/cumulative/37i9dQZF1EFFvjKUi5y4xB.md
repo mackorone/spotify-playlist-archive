@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2OQUEjDiPXqgRWrUP6v3mU">Jozzy</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-116 songs - 6 hr 3 min
+117 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Float](https://open.spotify.com/track/08X9HjCRhcX6in0wiNXIsF) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/0SUfKH80GjuKbA5dTWSwkh) | 3:20 | 2025-07-22 |  |
 | [Float](https://open.spotify.com/track/3yrb5TaPw3RZLc1e7lxcjS) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Second Nature](https://open.spotify.com/album/265qYIYPxwGIkeGPfuFFBU) | 3:20 | 2025-06-01 | 2025-07-23 |
 | [Fool’s Gold](https://open.spotify.com/track/1oDlkWpiQjkX2ci6GWnJe5) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [ROCK PAPER SCISSORS: RECUT](https://open.spotify.com/album/6FR9vFhRGgeC3dMIJqtG3T) | 3:01 | 2025-06-01 |  |
+| [Freedom](https://open.spotify.com/track/0szaILbfBYQ8rO5h8bHLLv) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Freedom](https://open.spotify.com/album/3zltPmOeb6jwbDxwE8yd2z) | 3:03 | 2025-12-17 |  |
 | [Funny Friends](https://open.spotify.com/track/7pdXnEdEPcYjWFq03RpFdx) | [Jo'zzy](https://open.spotify.com/artist/0uamFSGtLGcaBgPdI6cnRh) | [Funny Friends](https://open.spotify.com/album/5i41XIJIKOfqqVN4uCsctr) | 2:12 | 2025-06-01 |  |
 | [Geek'd \(feat\. Lil Baby\)](https://open.spotify.com/track/3nQQotHU6YtE0Z4kiMNoW8) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:13 | 2025-06-01 |  |
 | [Get What You Want \(feat\. PnB Rock\)](https://open.spotify.com/track/5ggVEuDcRLtHRno8hilkal) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 3:06 | 2025-06-01 |  |

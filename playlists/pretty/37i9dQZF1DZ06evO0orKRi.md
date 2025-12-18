@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,080 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,081 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lights On The Hill \- Remastered 1992](https://open.spotify.com/track/2cIKLkNyXliGa1we1FOOJn) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 3:04 |
 | 2 | [Duncan](https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:35 |
-| 3 | [Ringer From The Top End](https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Ringer From The Top End](https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX) | 2:33 |
-| 4 | [Looking Forward Looking Back](https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:12 |
+| 3 | [Looking Forward Looking Back](https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:12 |
+| 4 | [Ringer From The Top End](https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Ringer From The Top End](https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX) | 2:33 |
 | 5 | [Waltzing Matilda](https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 3:08 |
 | 6 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
 | 7 | [Cunnamulla Fella \- 1998 Remaster](https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [A Piece of Australia \(Remastered\)](https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB) | 2:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 45 | [Trumby \- 1994 Remaster](https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Old Time Drover's Lament](https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480) | 3:29 |
 | 46 | [Cunnamulla Feller \- Remaster 1995](https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [I'll Take Mine Country Style](https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59) | 2:11 |
 | 47 | [Star Trucker](https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:13 |
-| 48 | [No Man's Land \- 1992 \- Remaster](https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Man Who Steadies The Lead](https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH) | 4:27 |
-| 49 | [No Good Truckin' Man](https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Makin' A Mile](https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v) | 2:31 |
+| 48 | [No Good Truckin' Man](https://open.spotify.com/track/3wOZmnApmX1c7ytbvjYelE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Makin' A Mile](https://open.spotify.com/album/5rsWjmX5VlaSbK723S3E3v) | 2:31 |
+| 49 | [No Man's Land \- 1992 \- Remaster](https://open.spotify.com/track/1zSGvOUGqinD4UqWFjBfTy) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Man Who Steadies The Lead](https://open.spotify.com/album/3l30CI7o8O4TSFv1crsabH) | 4:27 |
 | 50 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
 
-Snapshot ID: `aT9PgAAAAACGsErZs9R/A7iYKbQQWRN0`
+Snapshot ID: `aUChAAAAAADL6zpFnsbOLRzond4AF7sg`

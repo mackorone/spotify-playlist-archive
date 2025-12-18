@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-614 songs - 1 day 10 hr 21 min
+615 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Alag Aasman](https://open.spotify.com/track/4VgkQazKMpeWrCX2LT8CtW) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA) | [Alag Aasman](https://open.spotify.com/album/4nhqssTZYpv8dTO29InlEG) | 2:23 | 2023-10-26 | 2023-11-08 |
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Andhere Ka Sawera](https://open.spotify.com/track/75vCRbmPdxOKzkkLDpgLCU) | [Lavanya Dixit](https://open.spotify.com/artist/4TIlUf7GZgIhIHnLrdYxLm) | [Andhere Ka Sawera](https://open.spotify.com/album/6kbg7stADaZUYHWduMBzw4) | 1:22 | 2024-04-19 | 2024-05-29 |
-| [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 | 2025-08-20 |  |
+| [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 | 2025-08-20 | 2025-12-18 |
 | [Arziyaan](https://open.spotify.com/track/49zLvT6TozhbD6ZYue8DUO) | [himRAAG](https://open.spotify.com/artist/79mjISM2eHu96BNO8xZx6X) | [Arziyaan](https://open.spotify.com/album/6spzdYgHt3Q6CHn0puHuOi) | 4:28 | 2025-05-05 | 2025-05-30 |
 | [Ashnaa](https://open.spotify.com/track/3C8ZxQ25aqnr3EtmIgVim7) | [Kajol Chatterjee](https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19) | [Ashnaa](https://open.spotify.com/album/7zWt8dmsLiXipRty85huAK) | 4:06 | 2025-06-19 | 2025-09-13 |
 | [Awaara](https://open.spotify.com/track/6e57KndbKvAeQzzSXiNjbn) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Awaara](https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF) | 2:52 | 2025-03-07 |  |
@@ -202,6 +202,7 @@
 | [Ik Tarfa](https://open.spotify.com/track/5kAo09yI0O1o2qU9nLzoeQ) | [Mohit Aanand](https://open.spotify.com/artist/34RdxcV748gvPZDZ7U3GXy), [LTG](https://open.spotify.com/artist/7hdF2YLHKChiztK3Ui0bBp) | [Ik Tarfa](https://open.spotify.com/album/4ZGELdtNOQhqA1YUAAqRDR) | 4:19 | 2024-02-21 | 2024-05-28 |
 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 | 2024-06-12 |  |
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
+| [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 | 2025-12-17 |  |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
 | [Ishq](https://open.spotify.com/track/2Ld2KSnixiY3MGXGiwtqTM) | [Kumar Aryan](https://open.spotify.com/artist/5UyrJLIDHKLNu4mQdU5sgR) | [Ishq](https://open.spotify.com/album/2akAd2nqu0cuDs7w9zQcrO) | 2:37 | 2025-03-28 | 2025-04-30 |
 | [Ishq Ho Jaane Do](https://open.spotify.com/track/4oDOTGCw3zyhoOjUK0V9q5) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Ishq Ho Jaane Do](https://open.spotify.com/album/6BjedZFO41pDpGSVou0T3w) | 3:11 | 2024-11-12 | 2025-02-18 |

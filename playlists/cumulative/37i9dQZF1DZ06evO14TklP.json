@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Dona de Casa",
+        "url": "https://open.spotify.com/album/59YfQZNocygHKxxJ7DEaAQ"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68063,
+      "name": "Dona de Casa",
+      "url": "https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH"
+    },
+    {
+      "album": {
         "name": "ELAS PINTAM",
         "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },

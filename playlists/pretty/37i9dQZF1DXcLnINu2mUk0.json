@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Mizzy Miles",
-  "num_followers": 53072,
+  "num_followers": 53075,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "Deepak Looper",
+        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 193492,
+      "name": "Impec",
+      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "Contra Probabilidades",
         "url": "https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 203082,
       "name": "Contra Probabilidades",
       "url": "https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "Deepak Looper",
-        "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 193492,
-      "name": "Impec",
-      "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "COR D'\u00c1GUA",
+        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 272637,
+      "name": "TA TUDO BEM",
+      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "Finda",
         "url": "https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 202624,
       "name": "Carro (feat. Dillaz)",
       "url": "https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "COR D'\u00c1GUA",
-        "url": "https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 272637,
-      "name": "TA TUDO BEM",
-      "url": "https://open.spotify.com/track/15ERxM3x0D2HzqdhPxsbd2"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Solteiros",
-        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
-      },
-      "artists": [
-        {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
-        },
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 179023,
-      "name": "Solteiros",
-      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -1083,18 +1063,38 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Ontem, Hoje e Para Sempre",
-        "url": "https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv"
+        "name": "Solteiros",
+        "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
       "artists": [
         {
-          "name": "Guga",
-          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
         }
       ],
-      "duration_ms": 224100,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL"
+      "duration_ms": 179023,
+      "name": "Solteiros",
+      "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+        "name": "Ontem, Hoje e Para Sempre",
+        "url": "https://open.spotify.com/album/2D88HCLSxFHKChO48qihfv"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Guga",
+          "url": "https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP"
         }
       ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
+      "duration_ms": 224100,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6JHNHK8t0dYMhgKuw45pzL"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 229661,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "Farda",
         "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
       },
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM"
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
       "artists": [
         {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 229661,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1227,22 +1243,6 @@
       "duration_ms": 191764,
       "name": "Pa Sempre",
       "url": "https://open.spotify.com/track/2Wa6u5amiftMSpAVKDr3Qp"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "festa bem louca",
-        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
-      },
-      "artists": [
-        {
-          "name": "pikika",
-          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "festa bem louca",
-      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+        "name": "festa bem louca",
+        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+      "duration_ms": 188333,
+      "name": "festa bem louca",
+      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
     },
     {
       "added_at": "2025-12-12 00:00:15",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-12-12 00:00:15",
       "album": {
+        "name": "Pequenos Gigantes",
+        "url": "https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3"
+      },
+      "artists": [
+        {
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Quem Tem O Teu <3",
+      "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
+    },
+    {
+      "added_at": "2025-12-12 00:00:15",
+      "album": {
         "name": "M\u00f4 Amigo",
         "url": "https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB"
       },
@@ -1347,26 +1363,6 @@
       "duration_ms": 161887,
       "name": "M\u00f4 Amigo",
       "url": "https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl"
-    },
-    {
-      "added_at": "2025-12-12 00:00:15",
-      "album": {
-        "name": "S\u00d3 QUERO VIVER",
-        "url": "https://open.spotify.com/album/5MXDOITYtd2842neVb5IS5"
-      },
-      "artists": [
-        {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
-        },
-        {
-          "name": "Criss Calisto",
-          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "S\u00d3 QUERO VIVER",
-      "url": "https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC"
     }
   ],
   "unique_name": "Seda",

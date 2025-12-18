@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "Beses Asi",
+        "url": "https://open.spotify.com/album/1YBPQVTzgm5J8aPCWO3ZTC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Beses Asi",
+      "url": "https://open.spotify.com/track/7hI8ffEBErrm820TRaS0dV"
+    },
+    {
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },

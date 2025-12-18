@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 125714,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk"
@@ -4770,6 +4770,28 @@
       "duration_ms": 130786,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0puARhK6jKkusREeVYGchX"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7aOpza1Q9jYXeot4AMbEvh"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/6ILPmEtmJuUobfdmDo2nuP"
     },
     {
       "album": {

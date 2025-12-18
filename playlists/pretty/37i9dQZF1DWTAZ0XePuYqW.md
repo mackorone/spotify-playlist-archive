@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> IceSpice's got that big energy.
+> PEEKABOO, Skrillex, Flowdan and Fireboy DML 's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,597 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,608 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
-| 2 | [6 Million](https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [6 Million](https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL) | 2:34 |
+| 1 | [6 Million](https://open.spotify.com/track/17WM8SkzLoAH0VBtjiHdjt) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [6 Million](https://open.spotify.com/album/3M44H9DeObJQXKK1UTOUHL) | 2:34 |
+| 2 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
 | 3 | [Be Me](https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Be Me](https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7) | 2:20 |
 | 4 | [DON'T KILL THE PARTY \(feat\. Shoreline Mafia, Quavo & Juicy J\)](https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [DON'T KILL THE PARTY \(feat\. Shoreline Mafia, Quavo & Juicy J\)](https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV) | 2:46 |
 | 5 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [DRAMA](https://open.spotify.com/track/0ibFwDOXgLL26XN3wHTRR3) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Till We Die](https://open.spotify.com/album/7i0FhJSTEmv9mEa9lgo4Ju) | 2:23 |
 | 50 | [Sink In](https://open.spotify.com/track/3jFHtovu88ZrWf0nmK90ab) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:16 |
 
-Snapshot ID: `AAAAAOUq8CV77gfW8AMPC919aWJSVakN`
+Snapshot ID: `AAAAAC5Mp1Qho48wtgR1fO7ZYh/gA7xQ`

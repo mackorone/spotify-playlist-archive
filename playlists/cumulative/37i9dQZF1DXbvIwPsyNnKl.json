@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Feelin' Me",
+        "url": "https://open.spotify.com/album/7d76KkjGicNDMZ7T22R9t8"
+      },
+      "artists": [
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/2PRONdEFScNIwqtVvrorTy"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "Feelin' Me",
+      "url": "https://open.spotify.com/track/0Z6qCvAEZk84wBuVfT3pg9"
+    },
+    {
+      "album": {
         "name": "Fetty",
         "url": "https://open.spotify.com/album/6H8VIr3GCleqBUGRalNd6H"
       },
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 235510,
       "name": "Humahalik",
       "url": "https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z"
@@ -4077,6 +4095,24 @@
     },
     {
       "album": {
+        "name": "Mabisang Pinay",
+        "url": "https://open.spotify.com/album/6BIFKGUV1BdXX15YnxAO7J"
+      },
+      "artists": [
+        {
+          "name": "Dreycruz",
+          "url": "https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152165,
+      "name": "Mabisang Pinay",
+      "url": "https://open.spotify.com/track/5A1pJBomlHhK7WAP6vo9N8"
+    },
+    {
+      "album": {
         "name": "Madamot Ka",
         "url": "https://open.spotify.com/album/483qTGkYt70DoGsnQMLGRB"
       },
@@ -4826,7 +4862,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 166016,
       "name": "Nothin Less",
       "url": "https://open.spotify.com/track/3nOlp2H5OxaX2ZT4Y1MINR"

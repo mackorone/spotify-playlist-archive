@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,505 likes - 34 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,507 likes - 34 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 14 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 |
 | 15 | [shira](https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:57 |
 | 16 | [When One Eight Becomes Two Zeroes \- 2009 Remaster](https://open.spotify.com/track/3bdJiWDQFunhHDp3JWpyG7) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:32 |
-| 17 | [Daytona White](https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 5:22 |
+| 17 | [Miracles in Inches](https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:41 |
 | 18 | [Pink Roses](https://open.spotify.com/track/7ipRGX3pS0a5SbGRfO95NF) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:56 |
 | 19 | [Jesus Glue](https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:07 |
 | 20 | [Lovebites and Razorblades \- 2009 Remaster](https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:09 |
-| 21 | [Miracles in Inches](https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:41 |
+| 21 | [Daytona White](https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 5:22 |
 | 22 | [Radio Cambodia](https://open.spotify.com/track/4JCPOa3jBi4B5EEPxcGy59) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:55 |
 | 23 | [Stars](https://open.spotify.com/track/5CMBnOjkRa3KwVDPISztEl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 3:59 |
 | 24 | [Piano \- 2009 Remaster](https://open.spotify.com/track/03SO85UVkV11h83YU8qJa5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:58 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 33 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
 | 34 | [cut and run](https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 2:10 |
 
-Snapshot ID: `aT9PgAAAAACbLyE8zdy4dFQvZuqhTskX`
+Snapshot ID: `aUChAAAAAABAQoPgDxsROaOtfPu+aY0c`

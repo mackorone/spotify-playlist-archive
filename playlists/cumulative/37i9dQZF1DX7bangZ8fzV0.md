@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: EDEN
+> Net die beste Afrikaanse musiek! Omslag: Fran Prins en Ivan Roux
 
 366 songs - 20 hr 15 min
 

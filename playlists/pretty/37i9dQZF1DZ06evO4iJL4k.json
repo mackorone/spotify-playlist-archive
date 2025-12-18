@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 317750,
+  "num_followers": 317792,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAACr6esimUh80ufEJCxIzYAT",
+  "snapshot_id": "aUChAAAAAABTFDattM4zupAvogs7X6q8",
   "tracks": [
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NUME",
-        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
       "artists": [
         {
@@ -752,13 +752,21 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
+          "name": "Kayu\u00e1",
+          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
+        },
+        {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 143200,
-      "name": "Vibe Infinita",
-      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
+      "duration_ms": 135384,
+      "name": "A Meu Favor",
+      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
     },
     {
       "added_at": null,
@@ -787,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+        "name": "NUME",
+        "url": "https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm"
       },
       "artists": [
         {
@@ -796,21 +804,13 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "Kayu\u00e1",
-          "url": "https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH"
-        },
-        {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
         }
       ],
-      "duration_ms": 135384,
-      "name": "A Meu Favor",
-      "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
+      "duration_ms": 143200,
+      "name": "Vibe Infinita",
+      "url": "https://open.spotify.com/track/3zZzG8v295s437L9X8qjlZ"
     },
     {
       "added_at": null,

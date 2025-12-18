@@ -1,12 +1,12 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406717,
+  "num_followers": 406712,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3qnEHFGDUb8UhfdVdBbGfKUfX/",
+  "snapshot_id": "AAAAAP2XmR2JEg3NtDfrmndcQt3YrQAn",
   "tracks": [
     {
       "added_at": "2025-12-10 11:42:12",
@@ -223,6 +223,42 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9e Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
+        },
+        {
+          "name": "Original Broadway Cast of Hamilton",
+          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
+        }
+      ],
+      "duration_ms": 329228,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "MJ the Musical - Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/0u2tzDSc9SyWFe0M56b8UL"
+      },
+      "artists": [
+        {
+          "name": "Myles Frost",
+          "url": "https://open.spotify.com/artist/5g9XqLz7acHqpBjufaxIT6"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/1RfJlBQH5iSDrBD231iyMW"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -259,42 +295,6 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "MJ the Musical - Original Broadway Cast Recording",
-        "url": "https://open.spotify.com/album/0u2tzDSc9SyWFe0M56b8UL"
-      },
-      "artists": [
-        {
-          "name": "Myles Frost",
-          "url": "https://open.spotify.com/artist/5g9XqLz7acHqpBjufaxIT6"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/1RfJlBQH5iSDrBD231iyMW"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9e Elise Goldsberry",
-          "url": "https://open.spotify.com/artist/5VJN4jB6PqqEg4kJiAj6Eu"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        }
-      ],
-      "duration_ms": 329228,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/3dP0pLbg9OfVwssDjp9aT0"
     },
     {
       "added_at": "2025-12-10 11:42:12",

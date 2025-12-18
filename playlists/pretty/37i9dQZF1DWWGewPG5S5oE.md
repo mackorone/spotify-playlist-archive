@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: fox capture plan
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,800 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,818 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 33 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
 | 34 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
 | 35 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 |
-| 36 | [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 |
-| 37 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 |
-| 38 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
+| 36 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 |
+| 37 | [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 |
+| 38 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
 | 39 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
-| 40 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
-| 41 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
-| 42 | [ユートピア](https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr) | [Nao Kodama](https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL), [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [ユートピア](https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz) | 2:56 |
-| 43 | [Samsara](https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [火の鳥](https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm) | 4:39 |
-| 44 | [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 |
-| 45 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 |
+| 40 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
+| 41 | [Samsara](https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [火の鳥](https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm) | 4:39 |
+| 42 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
+| 43 | [ユートピア](https://open.spotify.com/track/3ftvzizngsBG6wkmkLbcZr) | [Nao Kodama](https://open.spotify.com/artist/1W2RWaK40Bo6xTSgkPAPNL), [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [ユートピア](https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz) | 2:56 |
+| 44 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 |
+| 45 | [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 |
 | 46 | [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 |
 | 47 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 |
 | 48 | [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 |
-| 49 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 |
-| 50 | [Tristeza](https://open.spotify.com/track/1jz3MnXdpmDTPgmyLO93Nf) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Tristeza](https://open.spotify.com/album/0Z6NW1supXgAT0wP5jdSOs) | 2:53 |
+| 49 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 |
+| 50 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 |
 
 Snapshot ID: `AAAAAAoRzdeA634BSmaOcAXE1JYU4PWj`

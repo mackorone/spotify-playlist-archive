@@ -2501,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "TUTU",
+        "url": "https://open.spotify.com/album/0UUKnRb8XZFEgB9gEpUXvM"
+      },
+      "artists": [
+        {
+          "name": "QUIQUE",
+          "url": "https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ"
+        },
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138815,
+      "name": "TUTU",
+      "url": "https://open.spotify.com/track/2oUnwTaoc2fcyunjJqpGYF"
+    },
+    {
+      "album": {
         "name": "Stripper Body",
         "url": "https://open.spotify.com/album/7r1U399vMcdRfuJeikDLcB"
       },

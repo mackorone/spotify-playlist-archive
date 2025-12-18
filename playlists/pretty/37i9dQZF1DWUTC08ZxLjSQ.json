@@ -1,34 +1,110 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Mao. Artwork: Isu Kim",
-  "num_followers": 12141,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Triple9. Artwork: Isu Kim",
+  "num_followers": 12143,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5D2KQT6pNQA6N0o0WIqy5s4V7c",
+  "snapshot_id": "AAAAAJYJ+pp8z8hJEwze3bkBl1gQKOkq",
   "tracks": [
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
-        "name": "SOLARR ECLIPSE",
-        "url": "https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V"
+        "name": "1234",
+        "url": "https://open.spotify.com/album/4p6Kf5SxJX5O5s9qlpthtr"
       },
       "artists": [
         {
-          "name": "Mao",
-          "url": "https://open.spotify.com/artist/4cb8yNt7de02GQkL9ibmaV"
+          "name": "Triple9",
+          "url": "https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt"
         }
       ],
-      "duration_ms": 167225,
-      "name": "KHELLINI",
-      "url": "https://open.spotify.com/track/55EhjWKpOWKbzZaaj3OmUL"
+      "duration_ms": 112666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/55XLDXuZvKLdw8ylBQOZsJ"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
-        "name": "\u0628\u0631\u0642\u0635 \u0639\u0644 \u0627\u062d\u0632\u0627\u0646",
-        "url": "https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw"
+        "name": "Idiots",
+        "url": "https://open.spotify.com/album/0ovPLLp2rMxah8WpcWsjuj"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z"
+        }
+      ],
+      "duration_ms": 215137,
+      "name": "Idiots",
+      "url": "https://open.spotify.com/track/65z8GzPRbXm6MBg1Rpy1CL"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "\u0632\u0631\u0627\u0632\u064a\u0631",
+        "url": "https://open.spotify.com/album/3YzaCPbtlVeOcgiObkDj15"
+      },
+      "artists": [
+        {
+          "name": "Khofash",
+          "url": "https://open.spotify.com/artist/2H1jbRZ2JJP0WgkIfSjn7o"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/39Tzw26U4dV1YRDb8WN7xe"
+        },
+        {
+          "name": "Gawish",
+          "url": "https://open.spotify.com/artist/70r04jvuv4my1DGu3wB2yL"
+        }
+      ],
+      "duration_ms": 224406,
+      "name": "\u0632\u0631\u0627\u0632\u064a\u0631",
+      "url": "https://open.spotify.com/track/3ZDvqAWIvPM9p6HjFD4klj"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Mokazi",
+        "url": "https://open.spotify.com/album/0ttvnPyMZUBUtOxhKZkPte"
+      },
+      "artists": [
+        {
+          "name": "Fahad Bin Grman",
+          "url": "https://open.spotify.com/artist/5UGfxuknbqr4dTRjF4mgGG"
+        },
+        {
+          "name": "Mohammed Bin Grman",
+          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
+        }
+      ],
+      "duration_ms": 169571,
+      "name": "Mokazi",
+      "url": "https://open.spotify.com/track/6WrurmZYqpjbj8f2j9DaCr"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Emotions Icy",
+        "url": "https://open.spotify.com/album/5RwdfMw1WSsvnfODkSMc35"
+      },
+      "artists": [
+        {
+          "name": "Namak",
+          "url": "https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y"
+        }
+      ],
+      "duration_ms": 157756,
+      "name": "Emotions Icy",
+      "url": "https://open.spotify.com/track/2tov1U88xrtqbQcrOflSon"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/04sHLus87Mi9LLRZNZqnn5"
       },
       "artists": [
         {
@@ -36,48 +112,260 @@
           "url": "https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF"
         }
       ],
-      "duration_ms": 112403,
-      "name": "\u0628\u0631\u0642\u0635 \u0639\u0644 \u0627\u062d\u0632\u0627\u0646",
-      "url": "https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G"
+      "duration_ms": 157647,
+      "name": "MESH MOSTA2",
+      "url": "https://open.spotify.com/track/4ChpOTg7RlVxB5BcKRK5Jl"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/7I8SCGztzMGf245VRw3w5e"
+        "name": "Shargeeya!",
+        "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
       },
       "artists": [
+        {
+          "name": "Shargeeya",
+          "url": "https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK"
+        }
+      ],
+      "duration_ms": 131179,
+      "name": "Shargeeya!",
+      "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Fid\u00e8le",
+        "url": "https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB"
+      },
+      "artists": [
+        {
+          "name": "7mad",
+          "url": "https://open.spotify.com/artist/1EuzzhJcSL4NK5vcpuUuMF"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Fid\u00e8le",
+      "url": "https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "KIWI",
+        "url": "https://open.spotify.com/album/5NrB1piyq6CiK7XE8dgBgt"
+      },
+      "artists": [
+        {
+          "name": "Vest",
+          "url": "https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX"
+        },
         {
           "name": "Hila",
           "url": "https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU"
-        },
-        {
-          "name": "Vest",
-          "url": "https://open.spotify.com/artist/41Fm0yl402cQqxPpmVFT3y"
         }
       ],
-      "duration_ms": 72659,
-      "name": "Badary",
-      "url": "https://open.spotify.com/track/13kzDpFJSn5IQdCs4q4ICp"
+      "duration_ms": 99000,
+      "name": "Fekra Gowa Dmaghy",
+      "url": "https://open.spotify.com/track/4ijT8yTatmxES3yc4j2ZNI"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
-        "name": "law f zaman tany",
-        "url": "https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ"
+        "name": "\u063a\u0627\u0644\u064a\u0629 \u0639\u0644\u064a\u0627",
+        "url": "https://open.spotify.com/album/3T0F6jPG0BphXBBrf4gKQX"
       },
       "artists": [
         {
-          "name": "Noha",
-          "url": "https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA"
+          "name": "Abdelrahman",
+          "url": "https://open.spotify.com/artist/06pd7R2YV4jwzkJTFULdn2"
         }
       ],
-      "duration_ms": 143160,
-      "name": "law f zaman tany",
-      "url": "https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx"
+      "duration_ms": 204173,
+      "name": "\u063a\u0627\u0644\u064a\u0629 \u0639\u0644\u064a\u0627",
+      "url": "https://open.spotify.com/track/2V0UuB9SnKJFQ6ubekgI6Y"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "The Plug",
+        "url": "https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km"
+      },
+      "artists": [
+        {
+          "name": "S13",
+          "url": "https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC"
+        },
+        {
+          "name": "Shr",
+          "url": "https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp"
+        },
+        {
+          "name": "LHAJ",
+          "url": "https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7"
+        }
+      ],
+      "duration_ms": 164361,
+      "name": "Dalida",
+      "url": "https://open.spotify.com/track/4Bw1x4YbA4XzGevMbkXtpV"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "matgily tany \u0645\u0627\u062a\u062c\u064a\u0644\u064a \u062a\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm"
+      },
+      "artists": [
+        {
+          "name": "Pink Seasalt",
+          "url": "https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D"
+        }
+      ],
+      "duration_ms": 217278,
+      "name": "matgily tany \u0645\u0627\u062a\u062c\u064a\u0644\u064a \u062a\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "\u0645\u0645\u0646\u0648\u0639\u0627\u062a \u064a\u0648\u0644\u064a\u0648\u0633 \u0642\u064a\u0635\u0631",
+        "url": "https://open.spotify.com/album/2uX5WusKHTUhKPjBxxQfTF"
+      },
+      "artists": [
+        {
+          "name": "Yulyo",
+          "url": "https://open.spotify.com/artist/6EiHFsxnn99AATJ0bpLPK9"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "\u0643\u0645\u0628\u0648\u062f\u064a \u0645\u0648\u062a\u064a",
+      "url": "https://open.spotify.com/track/6JP9JWd00sYDoVjdi1tZlX"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "GEN Z",
+        "url": "https://open.spotify.com/album/5ILJWyvs2L9MoVQjykB82d"
+      },
+      "artists": [
+        {
+          "name": "Kordofani",
+          "url": "https://open.spotify.com/artist/1htnAGNCx3KlWHEwemS2n9"
+        }
+      ],
+      "duration_ms": 113736,
+      "name": "GEN Z",
+      "url": "https://open.spotify.com/track/7jWkQmvYldiqAaOrziSy1a"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/6I9D29zt85tVe5crIRbjYr"
+      },
+      "artists": [
+        {
+          "name": "Y7EVEN",
+          "url": "https://open.spotify.com/artist/1XWihgxOnoABgxUL1B5M4g"
+        }
+      ],
+      "duration_ms": 192867,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1dX0J7ldIhzpZ4O52iZdAc"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/1o1xpojV5njTQswSZbNoqn"
+      },
+      "artists": [
+        {
+          "name": "AZIZ.wav",
+          "url": "https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ"
+        },
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "DJ Viva",
+          "url": "https://open.spotify.com/artist/2dLRbzTqdP9pzIedFLOsNy"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/6PcO08cZ8KLtix7hCB4Oej"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "V (VOL.1)",
+        "url": "https://open.spotify.com/album/068ORCN5H54XpJvqaSTRQE"
+      },
+      "artists": [
+        {
+          "name": "QABNAS",
+          "url": "https://open.spotify.com/artist/2ls5CVpyJcz3tmMkwIBIlu"
+        },
+        {
+          "name": "Vest",
+          "url": "https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX"
+        }
+      ],
+      "duration_ms": 112005,
+      "name": "VENTURA",
+      "url": "https://open.spotify.com/track/3tiGLYpEDZMOjY1dbDJZHg"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "100 RA'AI",
+        "url": "https://open.spotify.com/album/6AazyK4VPDpSNBTtj2a9AU"
+      },
+      "artists": [
+        {
+          "name": "Zii",
+          "url": "https://open.spotify.com/artist/3iO6JRHgp14ESXysByB3yl"
+        }
+      ],
+      "duration_ms": 146070,
+      "name": "100 RA'AI",
+      "url": "https://open.spotify.com/track/5XEW9NjDfPw4T9c8Wmxu5d"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "Dhu l Qarnayn",
+        "url": "https://open.spotify.com/album/36sYxO49UpeqGMC2uNi1K4"
+      },
+      "artists": [
+        {
+          "name": "Vega.",
+          "url": "https://open.spotify.com/artist/6LM45YvxRWIftiP4gx2C6g"
+        }
+      ],
+      "duration_ms": 238322,
+      "name": "Dhu l Qarnayn",
+      "url": "https://open.spotify.com/track/1UoiRFxBi6x2UtT84YkoZt"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "THE BACKSTORY OF GALILEE",
+        "url": "https://open.spotify.com/album/3V84qYJgHBbIZgtPauwfla"
+      },
+      "artists": [
+        {
+          "name": "Aymane Haqqi",
+          "url": "https://open.spotify.com/artist/3cUrnRpKj3DHqa1GHKwrCw"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "7ISSAN ASSWAD B JNA7OU - Version 2",
+      "url": "https://open.spotify.com/track/2QcqzU2JMA8L2BotCVMu2D"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy"
@@ -93,7 +381,7 @@
       "url": "https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/3WnvwajqZLvFfi3bdy7OfE"
@@ -109,7 +397,7 @@
       "url": "https://open.spotify.com/track/30bp5UpQK5wuHSMTLMfbUt"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Z!EN GPT",
         "url": "https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3"
@@ -133,7 +421,7 @@
       "url": "https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "TESHREEN",
         "url": "https://open.spotify.com/album/3xy73bLj4bMn4fS5bYiVWg"
@@ -153,7 +441,7 @@
       "url": "https://open.spotify.com/track/2kgaek3dqjuciNFMgSwxde"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "DARWIN",
         "url": "https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP"
@@ -169,59 +457,7 @@
       "url": "https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "KOLO YE7EB 3ALA EDY",
-        "url": "https://open.spotify.com/album/0wTvlwvrECjghSmyZMlup1"
-      },
-      "artists": [
-        {
-          "name": "Vest",
-          "url": "https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX"
-        },
-        {
-          "name": "\u0645\u064a\u0644\u0648",
-          "url": "https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN"
-        }
-      ],
-      "duration_ms": 76875,
-      "name": "KOLO YE7EB 3ALA EDY",
-      "url": "https://open.spotify.com/track/2Y2gdmBBXce8yScFhAyXQC"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "Ahla Fatra",
-        "url": "https://open.spotify.com/album/7eskDINZek9yKt5pwJlPq0"
-      },
-      "artists": [
-        {
-          "name": "Tiara",
-          "url": "https://open.spotify.com/artist/309yiZvAiPiOfeVlP6xtzV"
-        }
-      ],
-      "duration_ms": 178418,
-      "name": "Ahla Fatra",
-      "url": "https://open.spotify.com/track/3B7k93zvmcv1Hpp12mp8i7"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "SHOU SAR? / \u0634\u0648 \u0635\u0627\u0631?",
-        "url": "https://open.spotify.com/album/7iGMCbdw9hgWu0Uai0coIl"
-      },
-      "artists": [
-        {
-          "name": "Rita Malek",
-          "url": "https://open.spotify.com/artist/5bvwkpRTvnLnSkUhTf2NCP"
-        }
-      ],
-      "duration_ms": 243104,
-      "name": "SHOU SAR / \u0634\u0648 \u0635\u0627\u0631",
-      "url": "https://open.spotify.com/track/54GxdRnwcsULgZL0kuukSy"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "LAMA AB\u2019A MAAK",
         "url": "https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q"
@@ -237,23 +473,7 @@
       "url": "https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "TASBEERA",
-        "url": "https://open.spotify.com/album/1QbRiW31k6VzjpNZ9wkb7l"
-      },
-      "artists": [
-        {
-          "name": "Amira Adeeb",
-          "url": "https://open.spotify.com/artist/04JuXvm8MDLVe845QWe137"
-        }
-      ],
-      "duration_ms": 112881,
-      "name": "TASBEERA",
-      "url": "https://open.spotify.com/track/4JI685NlUgHbrA5na1UIyh"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "VISION INFINIE",
         "url": "https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg"
@@ -273,7 +493,7 @@
       "url": "https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K"
@@ -289,7 +509,7 @@
       "url": "https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Esh El 3amal",
         "url": "https://open.spotify.com/album/3ae4huO0tae1B2hU7Xs1tS"
@@ -305,7 +525,7 @@
       "url": "https://open.spotify.com/track/3EPHHuYAamviSf9vpNcoLx"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "\u0634\u0637 \u062c\u062f\u064a\u062f (a new shore)",
         "url": "https://open.spotify.com/album/3KnGdI9DaPzIOSEVO4xTtL"
@@ -321,7 +541,7 @@
       "url": "https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "weily weily weily",
         "url": "https://open.spotify.com/album/0mbFYz2BHc098iFKNghOrQ"
@@ -337,7 +557,23 @@
       "url": "https://open.spotify.com/track/29iUFCOui4EQiOOdjozX6e"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
+      "album": {
+        "name": "law f zaman tany",
+        "url": "https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ"
+      },
+      "artists": [
+        {
+          "name": "Noha",
+          "url": "https://open.spotify.com/artist/7tBhTihCulpL1l61zcMxcA"
+        }
+      ],
+      "duration_ms": 143160,
+      "name": "law f zaman tany",
+      "url": "https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx"
+    },
+    {
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Midnight Cruising",
         "url": "https://open.spotify.com/album/3XcNPRMIAvKsZsOT7XkUo5"
@@ -353,7 +589,7 @@
       "url": "https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Lwad Wadi",
         "url": "https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT"
@@ -369,23 +605,7 @@
       "url": "https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "TOI",
-        "url": "https://open.spotify.com/album/7bgDdteb46zRePQ1c57Vbl"
-      },
-      "artists": [
-        {
-          "name": "PH41",
-          "url": "https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU"
-        }
-      ],
-      "duration_ms": 212223,
-      "name": "TOI",
-      "url": "https://open.spotify.com/track/4AqD1uOd2cxH5Ojsx0V8k5"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "\u0645\u0627\u0644\u064a \u0648\u0625\u0646 \u0623\u063a\u0645\u0636\u062a \u0639\u064a\u0646\u064a - Mali",
         "url": "https://open.spotify.com/album/3VrcJI3i6uGeDkfHLrHIwa"
@@ -401,39 +621,7 @@
       "url": "https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "I'll Never Change You",
-        "url": "https://open.spotify.com/album/2BvsoILgnhyu47tFMLUSvy"
-      },
-      "artists": [
-        {
-          "name": "Hemes",
-          "url": "https://open.spotify.com/artist/5vvJXaobeLAyZvQ9jLSOzl"
-        }
-      ],
-      "duration_ms": 179365,
-      "name": "I'll Never Change You",
-      "url": "https://open.spotify.com/track/3plZxhttIYQ0puQ76WCPP3"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "\u0627\u0644\u0642\u0646\u0627\u0639 (THE MASK)",
-        "url": "https://open.spotify.com/album/40H4BmmB4isI4Ow5FfEA02"
-      },
-      "artists": [
-        {
-          "name": "Al9ine",
-          "url": "https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o"
-        }
-      ],
-      "duration_ms": 145209,
-      "name": "\u0627\u0644\u0642\u0646\u0627\u0639 (THE MASK)",
-      "url": "https://open.spotify.com/track/5mMP2k6GgsnRchvZM0jfDj"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "ODABLE",
         "url": "https://open.spotify.com/album/1SMPHOgcnPyeWtHFIFB9IX"
@@ -453,7 +641,7 @@
       "url": "https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "HOB CYCLE",
         "url": "https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo"
@@ -469,27 +657,7 @@
       "url": "https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "SUPERLOCO 2",
-        "url": "https://open.spotify.com/album/5L3eW3AySJvXIcNeB75IAb"
-      },
-      "artists": [
-        {
-          "name": "LOCO.",
-          "url": "https://open.spotify.com/artist/68vnFjXn3omf0eIRqqfUED"
-        },
-        {
-          "name": "Lordie the Goat",
-          "url": "https://open.spotify.com/artist/3gIR2RoLWyl8mbV1b3U8YK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "RAW.",
-      "url": "https://open.spotify.com/track/1HCVrcQcxDf7zBdviW0GuH"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "EXODUS",
         "url": "https://open.spotify.com/album/7FsW7ddJp00smOK5adJH2E"
@@ -509,43 +677,7 @@
       "url": "https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "\u0642\u0635\u0629 \u0645\u0632\u064a\u0641\u0629",
-        "url": "https://open.spotify.com/album/0WobgoHP2uoUsLzmLCFdpt"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Raies",
-          "url": "https://open.spotify.com/artist/1wbAAYYCMnTszCcwkQiHCQ"
-        }
-      ],
-      "duration_ms": 219637,
-      "name": "\u0642\u0635\u0629 \u0645\u0632\u064a\u0641\u0629",
-      "url": "https://open.spotify.com/track/5KUNZ148oHYGRnJcr3bzfN"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a",
-        "url": "https://open.spotify.com/album/7gLVh02tmLj3XfCxn15jc3"
-      },
-      "artists": [
-        {
-          "name": "Hala",
-          "url": "https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k"
-        },
-        {
-          "name": "Badran",
-          "url": "https://open.spotify.com/artist/00OR5zC9Om6wu6xRg2WGqP"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "\u0627\u0646\u0627 \u0648\u0627\u0646\u062a",
-      "url": "https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Hayni Hoon",
         "url": "https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr"
@@ -561,7 +693,7 @@
       "url": "https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "SOLARR ECLIPSE",
         "url": "https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V"
@@ -577,23 +709,7 @@
       "url": "https://open.spotify.com/track/23mWBNJHv0B4UF5CsYTujh"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "\u0648\u0642\u062a \u0627\u0644\u0641\u0631\u0627\u0642",
-        "url": "https://open.spotify.com/album/1EbaIOOBWGwbArlafQPqqH"
-      },
-      "artists": [
-        {
-          "name": "Wazeer",
-          "url": "https://open.spotify.com/artist/44uG5qaf4POeVrqI6anrr4"
-        }
-      ],
-      "duration_ms": 190370,
-      "name": "\u0648\u0642\u062a \u0627\u0644\u0641\u0631\u0627\u0642",
-      "url": "https://open.spotify.com/track/0oikCaTV3ZMxWUTxDeF3HC"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Wein Hal Ghaybe",
         "url": "https://open.spotify.com/album/6tQQ242xkPSa0VI4gdbxhh"
@@ -609,23 +725,7 @@
       "url": "https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "NDOOR",
-        "url": "https://open.spotify.com/album/1Cvl5RXMUg3bPCZjenPKT0"
-      },
-      "artists": [
-        {
-          "name": "DAL!A",
-          "url": "https://open.spotify.com/artist/08EnT3I7K1Z8P6knbWaDt7"
-        }
-      ],
-      "duration_ms": 180168,
-      "name": "NDOOR",
-      "url": "https://open.spotify.com/track/5VvyfodDsYCGVOh3bexgOZ"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "EL HOB BYLSA3 SIKA",
         "url": "https://open.spotify.com/album/2g9Ghear5Jw0KnLtd13S9o"
@@ -641,7 +741,7 @@
       "url": "https://open.spotify.com/track/21sihy54rK2RVHgpogB9AL"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "BENT LA VILLE",
         "url": "https://open.spotify.com/album/6OK3GjpMgORNbpfT9CjaGT"
@@ -657,7 +757,7 @@
       "url": "https://open.spotify.com/track/2YvytImQbrU0VT1tbudn56"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "MSH ANANEYA",
         "url": "https://open.spotify.com/album/2hIsHEVUK08rHXutBFK4i7"
@@ -673,7 +773,7 @@
       "url": "https://open.spotify.com/track/5TkWSUSXXZhcS7Ta3yBWW1"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Akhir mra andwi 3lik",
         "url": "https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt"
@@ -689,7 +789,7 @@
       "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Mio!",
         "url": "https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE"
@@ -705,23 +805,7 @@
       "url": "https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/2NuV7kBaa2ONFpvg0LkA6a"
-      },
-      "artists": [
-        {
-          "name": "DEIMI",
-          "url": "https://open.spotify.com/artist/6pYeZiuDyJbfbVRHFA8BIb"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/5EwdW98DhJckM8MzojNH41"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Maybelline",
         "url": "https://open.spotify.com/album/29BLOMEe1K0m2BDyQfBLPk"
@@ -741,43 +825,7 @@
       "url": "https://open.spotify.com/track/1MDTKxx1WtO0kqXg0wbwTP"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "SABRE",
-        "url": "https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R"
-      },
-      "artists": [
-        {
-          "name": "Versa999",
-          "url": "https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF"
-        }
-      ],
-      "duration_ms": 146803,
-      "name": "OTRA VIE",
-      "url": "https://open.spotify.com/track/2VqS3Le78P5Wu079l5NhGU"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "\u0637\u0648\u0641\u0627\u0646",
-        "url": "https://open.spotify.com/album/5MfAP8f8YEshTl5QHN7H4C"
-      },
-      "artists": [
-        {
-          "name": "Nagham Saleh",
-          "url": "https://open.spotify.com/artist/0wrEkzmsrMABB9Kd3IBuuL"
-        },
-        {
-          "name": "Sulisizer",
-          "url": "https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "\u0637\u0648\u0641\u0627\u0646",
-      "url": "https://open.spotify.com/track/6DzSH06EC0ZHUnlhNkfzup"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Chokran",
         "url": "https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "70's",
         "url": "https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v"
@@ -809,23 +857,7 @@
       "url": "https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y"
     },
     {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "fhmti",
-        "url": "https://open.spotify.com/album/2HUH1qjyn5qwuhITw0Bwfs"
-      },
-      "artists": [
-        {
-          "name": "Jbiina",
-          "url": "https://open.spotify.com/artist/07PTXfqQ4iSxTrVs24GjCR"
-        }
-      ],
-      "duration_ms": 171944,
-      "name": "fhmti",
-      "url": "https://open.spotify.com/track/5tGkQG54tughWZpKTOU0fh"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
+      "added_at": "2025-12-17 10:00:54",
       "album": {
         "name": "Zaymat",
         "url": "https://open.spotify.com/album/51yTZZHYx2ZUhG7cltwFj9"
@@ -839,22 +871,6 @@
       "duration_ms": 172721,
       "name": "Zaymat",
       "url": "https://open.spotify.com/track/47OlWN8ccCht8FVRWJJSOR"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "Babrio",
-        "url": "https://open.spotify.com/album/6zJ7PQ9Glv74Y7wxsj3xyU"
-      },
-      "artists": [
-        {
-          "name": "Shinigami",
-          "url": "https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0"
-        }
-      ],
-      "duration_ms": 225777,
-      "name": "Babrio",
-      "url": "https://open.spotify.com/track/2biC9PP13QlanDL0Jb1Q20"
     }
   ],
   "unique_name": "Fresh Finds Arabia",

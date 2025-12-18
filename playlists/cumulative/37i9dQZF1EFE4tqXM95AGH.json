@@ -569,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Christmas Is Here",
+        "url": "https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Christmas Is Here",
+      "url": "https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/11slq6pHVpFYtRQ7XyjQPc"
       },

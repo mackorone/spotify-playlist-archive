@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,719 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,759 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 53 | [Dawn Rest](https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [Dawn Rest](https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn) | 3:41 |
 | 54 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
 | 55 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 |
-| 56 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
-| 57 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 |
+| 56 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 |
+| 57 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
 | 58 | [天使](https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [ＣＹＢＥＲＩＡ](https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa) | 3:47 |
 | 59 | [143](https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [143](https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN) | 1:43 |
 | 60 | [Curves](https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Into the light](https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp) | 1:23 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 87 | [Turn the Fridge On](https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky) | [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [Midnight Store](https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl) | 2:37 |
 | 88 | [Sneakers for Men](https://open.spotify.com/track/09Y1oU16bH9WllukYJABBF) | [Eyeliner](https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI) | [Buy Now](https://open.spotify.com/album/0CfFoSKMVSd1T50G4eekah) | 3:47 |
 | 89 | [Fire Magic](https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq) | [Virtual Mage](https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt) | [Fire Magic](https://open.spotify.com/album/5I70VHdIilo0dbckapINnW) | 3:17 |
-| 90 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
+| 90 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
 | 91 | [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 |
-| 92 | [Island](https://open.spotify.com/track/4CwByRtQjwkrnOjWNINV0z) | [luxury elite](https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI) | [With Love](https://open.spotify.com/album/0LOSJF9SLsu9UPamEbfkpj) | 1:46 |
+| 92 | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/track/6KVCMAVyNw88EP3IIwK4MD) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090), [Donor Lens](https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA) | [♍︎❒︎⍓︎⬧︎⧫︎♋︎●︎ ♌︎♋︎●︎●︎](https://open.spotify.com/album/5p4jf5AH2qd8NlLZOWKfOE) | 2:56 |
 | 93 | [Beyond Nostalgia](https://open.spotify.com/track/1HzfSdHgnSPMwS8jgFa4Ls) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [Iconic Bitch](https://open.spotify.com/album/1Pc295dLxNyJ7Tpv8I408S) | 3:53 |
 | 94 | [Fever Dream \- slowed + reverb](https://open.spotify.com/track/4TnNvGmehuDWC784JWXlvO) | [sunnbrella](https://open.spotify.com/artist/0VjIV24hNNraRNM265WhXB) | [Fever Dream \(slowed + reverb\)](https://open.spotify.com/album/4SrcOmKDUSAQHWLjixQ3OJ) | 3:52 |
-| 95 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
-| 96 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
-| 97 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
-| 98 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 |
+| 95 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
+| 96 | [Monogon](https://open.spotify.com/track/60r9DrLtGACy95pTVVLw2a) | [Vaporwave Club](https://open.spotify.com/artist/3hNjVPQVt9yTum1hDWyjwx) | [Polygon Paradise](https://open.spotify.com/album/2nsz0P9PDU6iYEMY1EPuK5) | 2:20 |
+| 97 | [Vcrheadaches \- Purge](https://open.spotify.com/track/1Lsl4apcwmBn1S7NuQAkbT) | [King Quartz](https://open.spotify.com/artist/0Dpp9Ra8Tizj3iolElqGri), [VCRheadaches](https://open.spotify.com/artist/2AgYofn08I5PnbylI4mQUI) | [The 33rd Split](https://open.spotify.com/album/2KngsHRVaIQVVTiKiFClbn) | 4:20 |
+| 98 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 | 99 | [Gallery](https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL) | [Duett](https://open.spotify.com/artist/2nEHZVjgsEYb0gQTegmQ81) | [Leisure](https://open.spotify.com/album/33FpBl1TJqvFaLoOCHLqZA) | 3:42 |
-| 100 | [Tennis](https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc) | [SPORTSGIRL](https://open.spotify.com/artist/2gj2a0b2PhwlDaQerfUoES) | [Sports](https://open.spotify.com/album/5UVd1H64YlB3Z5gnDXa8og) | 5:06 |
+| 100 | [Fantasy](https://open.spotify.com/track/0R6sHfthUWXUwzPjhrV39z) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [Twin Elegance](https://open.spotify.com/album/4fIFny0pMaHkfMfwi4t21t) | 2:55 |
 
 Snapshot ID: `AAAAACd5bsDncuj7hP9d+aehWbTvCnq4`

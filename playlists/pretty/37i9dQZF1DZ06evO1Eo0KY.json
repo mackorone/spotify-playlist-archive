@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAAn2Q9E1A4FkgtyqQNDL7a6",
+  "snapshot_id": "aUChAAAAAACNX8Pz7APyrkIbn7c2huLs",
   "tracks": [
     {
       "added_at": null,
@@ -122,11 +122,15 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "David Wesson",
+          "url": "https://open.spotify.com/artist/2iRPUBbN9GyoKwI7CW94Mu"
         }
       ],
-      "duration_ms": 198368,
-      "name": "The Whole Shabang",
-      "url": "https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ"
+      "duration_ms": 171210,
+      "name": "Cordon Bleu",
+      "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
     },
     {
       "added_at": null,
@@ -202,15 +206,11 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "David Wesson",
-          "url": "https://open.spotify.com/artist/2iRPUBbN9GyoKwI7CW94Mu"
         }
       ],
-      "duration_ms": 171210,
-      "name": "Cordon Bleu",
-      "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
+      "duration_ms": 198368,
+      "name": "The Whole Shabang",
+      "url": "https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Otha World",
-      "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 161250,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Otha World",
+      "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 179256,
-      "name": "Mad Life Menace",
-      "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 222040,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 179256,
+      "name": "Mad Life Menace",
+      "url": "https://open.spotify.com/track/7zrEnMTCDQITYQwavB1lfT"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 139989,
-      "name": "Hyperbolic Time Chamber Rap 3",
-      "url": "https://open.spotify.com/track/1bxorwwnZ6GSWPrTJUGYaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Craven N",
         "url": "https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP"
       },
@@ -743,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE PRYCE YOU PAY",
-        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
       "artists": [
         {
-          "name": "Slik Jack",
-          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
-        },
-        {
-          "name": "Vincent Pryce",
-          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 183000,
-      "name": "LOOT-CRATIVE",
-      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
+      "duration_ms": 139989,
+      "name": "Hyperbolic Time Chamber Rap 3",
+      "url": "https://open.spotify.com/track/1bxorwwnZ6GSWPrTJUGYaY"
     },
     {
       "added_at": null,
@@ -783,26 +759,6 @@
       "duration_ms": 143627,
       "name": "American Made",
       "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 138083,
-      "name": "Tha Riddle of Steel",
-      "url": "https://open.spotify.com/track/54Ok7I4CgsfiMQ7NgtHUHj"
     },
     {
       "added_at": null,
@@ -831,6 +787,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE PRYCE YOU PAY",
+        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
+      },
+      "artists": [
+        {
+          "name": "Slik Jack",
+          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
+        },
+        {
+          "name": "Vincent Pryce",
+          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "LOOT-CRATIVE",
+      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 138083,
+      "name": "Tha Riddle of Steel",
+      "url": "https://open.spotify.com/track/54Ok7I4CgsfiMQ7NgtHUHj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 162909,
       "name": "Yzerman",
       "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,
@@ -882,11 +902,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
         }
       ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
+      "duration_ms": 150769,
+      "name": "Dear Friend",
+      "url": "https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ"
     },
     {
       "added_at": null,
@@ -927,30 +951,6 @@
       "duration_ms": 134269,
       "name": "Look What You Done",
       "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 150769,
-      "name": "Dear Friend",
-      "url": "https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

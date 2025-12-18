@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Tornillo y Tony Aguirre en portada.",
-  "num_followers": 547726,
+  "num_followers": 547693,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
         "name": "Infierno Favorito",
         "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 214279,
       "name": "Infierno Favorito",
       "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
     },
     {
       "added_at": "2025-12-12 06:00:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
         "name": "Matina",
         "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 128500,
       "name": "Matina",
       "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2025-12-12 06:00:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
         "name": "Hola Perdido",
         "url": "https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 185338,
       "name": "Hola Perdido",
       "url": "https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2025-12-12 06:00:32",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 207296,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
       },
       "artists": [
         {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 207296,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2025-12-12 06:00:32",
@@ -1207,22 +1223,6 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2025-12-12 06:00:32",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Sabidur\u00eda",
+      "url": "https://open.spotify.com/track/26g3hJFPLImSGwyjI1n60w"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
         "name": "Amar Y Vivir (En Vivo Desde La Ciudad De M\u00e9xico, 2017)",
         "url": "https://open.spotify.com/album/37552bcHW2vZ5tGBvs4rey"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
-        "name": "Enclave de Bolero",
-        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
-      },
-      "artists": [
-        {
-          "name": "La Ciencia de Juancho Valencia",
-          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Sabidur\u00eda",
-      "url": "https://open.spotify.com/track/26g3hJFPLImSGwyjI1n60w"
     },
     {
       "added_at": "2025-12-12 06:00:32",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
-        "name": "Escarlata",
-        "url": "https://open.spotify.com/album/6dHtfspjlnEwvbCoKc1NYT"
-      },
-      "artists": [
-        {
-          "name": "Escarlata",
-          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
-        }
-      ],
-      "duration_ms": 150564,
-      "name": "Arrancando Flores",
-      "url": "https://open.spotify.com/track/3mBGB9VB86DA220iGo9uIA"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
         "name": "Maria Bonita",
         "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/6dHtfspjlnEwvbCoKc1NYT"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "duration_ms": 150564,
+      "name": "Arrancando Flores",
+      "url": "https://open.spotify.com/track/3mBGB9VB86DA220iGo9uIA"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
         "name": "La Copa Rota",
         "url": "https://open.spotify.com/album/3drxZZ3WbobQSPlWE41EKM"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-12 06:00:32",
       "album": {
-        "name": "Palabras",
-        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
-      },
-      "artists": [
-        {
-          "name": "Hayd\u00e9e Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Palabras",
-      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
-    },
-    {
-      "added_at": "2025-12-12 06:00:32",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2025-12-12 06:00:32",
+      "album": {
+        "name": "Palabras",
+        "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Palabras",
+      "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
     },
     {
       "added_at": "2025-12-12 06:00:32",

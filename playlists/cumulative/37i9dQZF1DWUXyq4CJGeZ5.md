@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-540 songs - 23 hr 28 min
+542 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2023-03-10 | 2024-03-26 |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2023-03-10 | 2025-08-13 |
 | [Home](https://open.spotify.com/track/05Q8uBYvjswv0o6tleaVai) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Home](https://open.spotify.com/album/42kPAPri8I3wQyc42KZ9ok) | 3:25 | 2023-03-10 |  |
+| [Home Beyond The Stars](https://open.spotify.com/track/2pwAMyYNW1jLjgnGXRSpzR) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [Home Beyond The Stars](https://open.spotify.com/album/1EkZf87J7ga4GSU5sT9eX1) | 2:21 | 2025-12-17 |  |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2023-03-10 | 2025-11-06 |
 | [Homecoming](https://open.spotify.com/track/3m2AfO2MVWB1hgrEwFnwpA) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Homecoming](https://open.spotify.com/album/6TWSSCJhQUJcyLPanQJcgC) | 2:57 | 2023-03-10 | 2024-04-10 |
 | [Hopeful](https://open.spotify.com/track/2zPRHgX9cIOMaV7dX23miR) | [Josephine Scwartz](https://open.spotify.com/artist/1I0Xs30ubj3VqMZ6nS3YDn) | [Hopeful](https://open.spotify.com/album/3z22jBjUyXuZoBhqxS0CQF) | 3:15 | 2023-03-10 | 2024-04-10 |
@@ -330,6 +331,7 @@
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2023-03-10 | 2024-04-10 |
 | [Open Arms](https://open.spotify.com/track/30rZgjh8JUIu7DHdxWbaaZ) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Open Arms](https://open.spotify.com/album/0YkswIVwAsMXqvrZdxZ2sS) | 2:16 | 2023-03-10 | 2024-03-26 |
 | [Open Heart](https://open.spotify.com/track/5pS1PFojz8exelbAvqH8Wq) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Open Heart](https://open.spotify.com/album/6KqwdEQSVFX3SkaT6hrcJd) | 3:53 | 2023-03-10 | 2024-03-26 |
+| [Open Window](https://open.spotify.com/track/3OBNyirkkJ5olw2qoLrOxg) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Open Window](https://open.spotify.com/album/3YiONYPqiN8RuWTgGY3wBE) | 2:26 | 2025-12-17 |  |
 | [Orangel](https://open.spotify.com/track/6fAmI7T6PjgiMcandgJ6ab) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Orangel](https://open.spotify.com/album/4aoMGEzd9l0J16LZcd7pdb) | 2:27 | 2023-09-27 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2023-03-10 | 2025-08-13 |
 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 | 2023-03-10 |  |

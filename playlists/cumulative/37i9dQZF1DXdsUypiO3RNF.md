@@ -4,7 +4,7 @@
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-105 songs - 4 hr 45 min
+108 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [639 HZ Positive Transformation](https://open.spotify.com/track/0LQYGTINm3jg8jfol8SrvX) | [Medi Mindler](https://open.spotify.com/artist/2ltLAvYUvTFOgaovdZYUbr) | [639 HZ Positive Transformation](https://open.spotify.com/album/5BAnjer2wYcr8rmMr7l0pj) | 2:34 | 2023-03-10 | 2024-11-21 |
 | [639 Hz Quantum Waves](https://open.spotify.com/track/0ZiAAJc1PHPMQSla7cvImN) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Open Mindset Solfeggio](https://open.spotify.com/album/75zQejIX7nzbkehdw3NwVh) | 3:00 | 2023-08-07 |  |
 | [639 Hz Release](https://open.spotify.com/track/5YkziyomBXQS6Kh0Zhnm6H) | [Sia Moon](https://open.spotify.com/artist/438yZZcqMapAevM5nIBGTG) | [Release \(Solfeggio Frequencies\)](https://open.spotify.com/album/0TrfvDeHiLuaCQcse8GVjf) | 2:22 | 2023-08-07 |  |
+| [639 Hz Resonace of Heart](https://open.spotify.com/track/4k8KmsTouvAqU27r5VKrYY) | [Flora Fossils](https://open.spotify.com/artist/76XoeM2KYdI6JJENHKpB6N) | [639 Hz Resonace of Heart](https://open.spotify.com/album/30y7yKs1f4egRpg7ENAByn) | 2:35 | 2025-12-17 |  |
 | [639 Hz Rhythm of Kin](https://open.spotify.com/track/2dB2RfoX4Lb3DrK0aJF4NG) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz Rhythm of Kin](https://open.spotify.com/album/5VpIVjuu07WdJarvN8A5Lp) | 2:34 | 2024-03-13 |  |
 | [639 Hz Spiritual Discipline](https://open.spotify.com/track/0uF57Bd4CqhDefLhygLIfD) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [639 Hz Spiritual Discipline](https://open.spotify.com/album/7Isvf7Lu3bUQgTRznATyHC) | 3:28 | 2024-12-09 |  |
 | [639 Hz The Anthem of Connection](https://open.spotify.com/track/6oCLYmIoXXgaSUVD1s37y6) | [Sigh and Release](https://open.spotify.com/artist/0GK30OTR4zI5IBsH5AnDvu) | [639 Hz The Anthem of Connection](https://open.spotify.com/album/1cLyjr7T2DNLKl8ikluGgc) | 2:30 | 2024-06-11 |  |
@@ -63,6 +64,7 @@
 | [Aligned 639 Hz](https://open.spotify.com/track/0FkrCGLyvpQf6EN0GmLtHi) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [Aligned 639 Hz](https://open.spotify.com/album/0B4BFfR1XT6924zAFFIaKM) | 2:57 | 2025-04-29 |  |
 | [Anahata](https://open.spotify.com/track/0YzFRiN9WcMXLuwNmA0czG) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Ben Tavera King & Native Flute Ensemble](https://open.spotify.com/artist/1Q22azjP5FFbyeWE3sYn4D) | [Healing Flute Chakras \(Native American & Indian Flute for Massage, Spa, Yoga & Relaxation\)](https://open.spotify.com/album/0AyNpOYY3hL5haZQlgTUra) | 1:03 | 2023-03-10 | 2023-12-14 |
 | [Anahata Heart Chakra](https://open.spotify.com/track/3vfxDRwpHBbn1Fa2HE93r7) | [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c), [Instrumental Zone](https://open.spotify.com/artist/2n5ur2MSvLE1XOfGs1cYKX) | [Chakra Meditation](https://open.spotify.com/album/70i2hi6CzACmxg9LSdcLfh) | 2:50 | 2023-03-10 | 2024-11-21 |
+| [At Ease 639 Hz](https://open.spotify.com/track/04oDTcLwB9W2dWx5nj4q9d) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [At Ease 639 Hz](https://open.spotify.com/album/45qzifusCfGJh4JQ1UFdKj) | 2:44 | 2025-12-17 |  |
 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 | 2023-03-10 |  |
 | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/track/2gtEwLuFIQQ5YKHJPn1OiD) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [Brought Home by Wind Through Grass 639 Hz](https://open.spotify.com/album/29DyukLyhMHOGDoL0M1Ywt) | 2:33 | 2024-11-07 |  |
 | [Calm Horizon 639Hz](https://open.spotify.com/track/1p09Iby0aUPO9hWyJGzDQI) | [Elysian Path](https://open.spotify.com/artist/2uJNruaE1HA03dURbK5KRV) | [Calm Horizon 639Hz](https://open.spotify.com/album/3I8RJ9xH2MIhE7EXJjFLnm) | 2:50 | 2025-04-29 |  |
@@ -75,6 +77,7 @@
 | [Crystal Bowl Frequencies](https://open.spotify.com/track/6d9J5KjEOV5yYkcZWBssnv) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Crystal Bowl Frequencies](https://open.spotify.com/album/1003TZvmVPWaDjSjY7NCdM) | 2:26 | 2023-03-10 | 2023-08-08 |
 | [Deep Love 639 Hz](https://open.spotify.com/track/7IaYk2kbFl1s8s12EtOdia) | [J\. Frasiers](https://open.spotify.com/artist/4iTOmFv2RO11DrLBr9hzKM) | [Deep Love 639 Hz](https://open.spotify.com/album/1EbjzbAnvJ9l8FLV1sm82G) | 2:31 | 2024-05-11 | 2024-11-08 |
 | [Discover Your Mind 639 Hz](https://open.spotify.com/track/5KUHEAU6SRewZwW2YnyDqG) | [Solflorescence](https://open.spotify.com/artist/3Lpl331u3pFn4uzd3sx6my) | [Discover Your Mind 639 Hz](https://open.spotify.com/album/7Fpbm8HpMiukkhDMIz0RhI) | 3:14 | 2024-07-13 |  |
+| [Dreamtides 639 Hz](https://open.spotify.com/track/6vQjafSG2dJ7vZVU8RWbDJ) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [Dreamtides 639 Hz](https://open.spotify.com/album/6rxIEkKNNZcXAjou8ykKnd) | 3:37 | 2025-12-17 |  |
 | [Dulcet Bonds 639 Hz](https://open.spotify.com/track/10DUuA9GhXolJePYXV2Dt8) | [Cave Painters](https://open.spotify.com/artist/11OUQavysIomwEeKYmNQeE) | [Dulcet Bonds 639 Hz](https://open.spotify.com/album/49XQWAVdUi43sT87IBhEZk) | 2:48 | 2024-03-13 |  |
 | [elevated mood 639 Hz](https://open.spotify.com/track/41DIXfJhTfvguKD0YLbTlP) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 2:51 | 2023-03-10 |  |
 | [Energy Flow](https://open.spotify.com/track/3T21l7ZZBljwSh5ZgfLPd9) | [Healing Solfeggio Frequencies](https://open.spotify.com/artist/0uRQI1sULS7xxsokeianJf), [Harmony Touch](https://open.spotify.com/artist/4T7XXBZIm4dbanPzgWnkwi) | [639: Love & Harmony](https://open.spotify.com/album/3YZD0YOl2qFJxla8yuw706) | 1:56 | 2023-03-10 | 2023-08-08 |

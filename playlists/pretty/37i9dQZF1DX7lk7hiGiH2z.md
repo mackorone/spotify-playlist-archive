@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,323 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,322 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 64 | [Wunderschöne Weihnachtszeit](https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Weckt den Weihnachtsmann](https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H) | 3:33 |
 | 65 | [Der Baum ist schief](https://open.spotify.com/track/7eZRqdj8xOigSLusYhXL7F) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:03 |
 | 66 | [Carla, die Weihnachtsfrau](https://open.spotify.com/track/5ATqvrY6bQZFt52cJ1AO3q) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Moritz Krämer](https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:00 |
-| 67 | [Winterzeit](https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R) | 2:02 |
-| 68 | [KiKANiNCHEN\-Weihnachtslied](https://open.spotify.com/track/5CfOAeldmtNqbNTubbTr7c) | [Kikaninchen](https://open.spotify.com/artist/0QOJGCTrdDQS6Qz9dsvies), [Christian](https://open.spotify.com/artist/1YE0dGV7nezWn3VHWU6Zvo) | [Dibedibedab!](https://open.spotify.com/album/3XGodaK7gDSCt7MoYKb20y) | 1:32 |
+| 67 | [KiKANiNCHEN\-Weihnachtslied](https://open.spotify.com/track/5CfOAeldmtNqbNTubbTr7c) | [Kikaninchen](https://open.spotify.com/artist/0QOJGCTrdDQS6Qz9dsvies), [Christian](https://open.spotify.com/artist/1YE0dGV7nezWn3VHWU6Zvo) | [Dibedibedab!](https://open.spotify.com/album/3XGodaK7gDSCt7MoYKb20y) | 1:32 |
+| 68 | [Winterzeit](https://open.spotify.com/track/5hrDo5pej0NZIc6IZIWME5) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/3WC4sMPs1yTwu6rukwUu4R) | 2:02 |
 | 69 | [Ein ganzes Jahr](https://open.spotify.com/track/67Co1VuT41BwFVZNvQKi3G) | [Larissa Pesch](https://open.spotify.com/artist/0EKqMShhmMhiac8F9pbdpZ) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:42 |
 | 70 | [Der Weihnachtsmann ist eine Frau](https://open.spotify.com/track/6k3o3aMgSHDpHm4lp28xCp) | [Andreas Dorau](https://open.spotify.com/artist/7sbhauFwWAowzbg8yrm6wK) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:04 |
-| 71 | [Gute Zeit](https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Dokter Renz](https://open.spotify.com/artist/3NGeF5HzunPNb9up8qcYWD), [Ylvie, Jona, Klara](https://open.spotify.com/artist/4SGCMuC7b8RPmOUjLY3KMW) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:41 |
+| 71 | [Wo wohnt der Weihnachtsmann](https://open.spotify.com/track/15xIwpdEjDBeVU0u51NAeh) | [Axel Fischer](https://open.spotify.com/artist/1bVXntDWimvB7WNTAzhOOR), [Kinderlieder SonnenStimmen](https://open.spotify.com/artist/547EcHyUepKvcA6KGkr50W) | [Wo wohnt der Weihnachtsmann](https://open.spotify.com/album/2PYGBTAHOwk6aYT3fHxAZ5) | 3:27 |
 | 72 | [Schneeflöckchen](https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE) | [eneMene](https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB) | [eneMene Kinderlieder \- die Grüne](https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC) | 1:28 |
-| 73 | [Wo wohnt der Weihnachtsmann](https://open.spotify.com/track/15xIwpdEjDBeVU0u51NAeh) | [Axel Fischer](https://open.spotify.com/artist/1bVXntDWimvB7WNTAzhOOR), [Kinderlieder SonnenStimmen](https://open.spotify.com/artist/547EcHyUepKvcA6KGkr50W) | [Wo wohnt der Weihnachtsmann](https://open.spotify.com/album/2PYGBTAHOwk6aYT3fHxAZ5) | 3:27 |
+| 73 | [Gute Zeit](https://open.spotify.com/track/5wBerfXTuVnEvLJ3M36H1g) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Dokter Renz](https://open.spotify.com/artist/3NGeF5HzunPNb9up8qcYWD), [Ylvie, Jona, Klara](https://open.spotify.com/artist/4SGCMuC7b8RPmOUjLY3KMW) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 4:41 |
 | 74 | [Backe, backe Kuchen \(I\)](https://open.spotify.com/track/3SHcYWCLndzjgQMLxPEKbp) | [Kinderchor SingsalaSing](https://open.spotify.com/artist/4tfXVczfrMUFNCobyBj4Yi), [Klaus Weigele](https://open.spotify.com/artist/7Bv0lC7KPa4rmNJleQTVbS) | [Kinderleicht\. Lieder und mehr für viele bunte Tage](https://open.spotify.com/album/66mYdcrhSXTqbtTC186TkH) | 1:26 |
 | 75 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 |
 

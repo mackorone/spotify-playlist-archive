@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: KANGDANIEL\(강다니엘\)\)
 
-1,541 songs - 3 day 10 hr 46 min
+1,542 songs - 3 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,6 +1160,7 @@
 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 | 2022-07-15 | 2022-09-09 |
 | [Screw it \(Feat\. h3hyeon\)](https://open.spotify.com/track/7hiRRWOFCP5RsDHeJowsdt) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Screw it \(Feat\. h3hyeon\)](https://open.spotify.com/album/2jTVsNzZS6oWX9CxfCVuFW) | 2:34 | 2023-07-27 | 2023-09-01 |
 | [Sea of Moonlight](https://open.spotify.com/track/58UmvrTOMdJpqJlD0U4MuE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Sea of Moonlight](https://open.spotify.com/album/6YoagDSCACpp8wElCNBCXC) | 3:08 | 2022-07-29 | 2022-09-17 |
+| [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 | 2025-12-18 |  |
 | [Second \(feat\. BIBI\)](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 | 2021-08-11 | 2021-10-30 |
 | [SECRET LOVE REMIX \(Feat\. Chancellor, Damo, Brwn, Knave, Jhnovr\) \[Prod\. Doomsday\]](https://open.spotify.com/track/0pwBbccjxSv1RcyGL1HIAR) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx), [DAMO](https://open.spotify.com/artist/3NsU8hHRfNmuAHERfQLS1e), [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn), [Knave](https://open.spotify.com/artist/1bf9ZQrjTNV4yITb8KK9aB), [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [SECRET LOVE REMIX \(Feat\. Chancellor, Damo, Brwn, Knave, Jhnovr\) \[Prod\. Doomsday\]](https://open.spotify.com/album/1HNQS0tGkP1YaYA4LFKX8R) | 6:05 | 2021-06-09 | 2021-06-25 |
 | [See you again](https://open.spotify.com/track/5Ekrh9NPmLMPJaAewqkauN) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [Fade](https://open.spotify.com/album/2g8uiZCLtbI2FYgW1OfoiA) | 3:33 | 2021-07-01 | 2021-08-11 |

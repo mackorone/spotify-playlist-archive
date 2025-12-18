@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-2,614 songs - 5 day 8 hr 37 min
+2,615 songs - 5 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Capri Sun](https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Capri Sun](https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY) | 1:59 | 2025-06-17 | 2025-07-01 |
 | [Caramel](https://open.spotify.com/track/1QrbZhFYlViXd60g130vw1) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:50 | 2025-05-15 | 2025-05-18 |
 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 | 2025-04-22 | 2025-05-04 |
+| [CARAMEL JESTER](https://open.spotify.com/track/2Emg9UfihjAkFU3mlal2i9) | [UMBRELLA](https://open.spotify.com/artist/0mBqwR7qraEVO2RbIU4ji2) | [CARAMEL JESTER](https://open.spotify.com/album/2ftqo4T3G7Ipnm8mbHfGVd) | 1:31 | 2025-12-17 |  |
 | [Care](https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Care](https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg) | 4:37 | 2024-03-05 | 2024-03-07 |
 | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr) | [Jack Harris](https://open.spotify.com/artist/27edmR0EqnlQYsj80VTusr) | [Careful What You Wish For \(the doctor said to\)](https://open.spotify.com/album/3rmfOGqqTeqDhwxPMNELz8) | 3:13 | 2024-04-02 | 2024-04-20 |
 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 | 2024-02-27 | 2024-04-01 |
@@ -1553,7 +1554,7 @@
 | [Mittelmeer](https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [2000](https://open.spotify.com/album/2uKD5g5T7oklsMHJDcPgLB) | 2:59 | 2024-06-15 | 2024-06-28 |
 | [MNG](https://open.spotify.com/track/2zsb697TLzjzMcRyhmuHt4) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [MNG](https://open.spotify.com/album/5zvzj0dDSDOXb3V2aMIcs0) | 2:51 | 2025-02-11 | 2025-02-19 |
 | [Molto Allegro](https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw) | [G&J](https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU) | [Molto Allegro](https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g) | 3:09 | 2024-01-29 | 2024-02-06 |
-| [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 | 2025-12-02 |  |
+| [Moment](https://open.spotify.com/track/1c2S8whRoKEsdzwAGKmo5p) | [Sean Biopcik](https://open.spotify.com/artist/1k4u2Vi2ORf72ZiJrVJG7j) | [Moment](https://open.spotify.com/album/2roalRSX5uIvsjNQ2HUQkP) | 3:07 | 2025-12-02 | 2025-12-18 |
 | [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2024-12-17 | 2025-01-08 |
 | [Mon amour](https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Essentiels](https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx) | 3:01 | 2024-05-12 | 2024-06-02 |
 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-11 | 2025-12-17 |
@@ -2603,8 +2604,8 @@
 | [На мурмулях](https://open.spotify.com/track/4tOvwbFoMJnQpg0YuFWbyj) | [Это Радио](https://open.spotify.com/artist/4ub4NOi0oclhtW5XbKkIF5) | [На мурмулях](https://open.spotify.com/album/3uJ2Bvb2HrrRL8EzNoQizJ) | 2:26 | 2025-11-23 | 2025-11-29 |
 | [не расслабляйся](https://open.spotify.com/track/6KBc9W1riUD5zXv29eIVop) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [не расслабляйся](https://open.spotify.com/album/5uZVxGRKIH7RZ3fXtHZfnR) | 2:44 | 2025-04-06 | 2025-04-18 |
 | [О моей любви](https://open.spotify.com/track/5AeVHI8Ch7irMbODMiObp2) | [Кот Балу](https://open.spotify.com/artist/3BRq3Gn5NQ08FKcQUilil9), [Santiz](https://open.spotify.com/artist/2lWtzXiv5ho1HaBfZiNWQV), [QB](https://open.spotify.com/artist/782x6ow7cusrnvfBSvfgfb) | [О моей любви](https://open.spotify.com/album/2ozK2VQLvCKTEh4OEU3oXQ) | 3:15 | 2024-12-07 | 2025-01-22 |
-| [СВЕТЛАНА!](https://open.spotify.com/track/6YY8y3YF9XvOkdaJ5TFb9k) | [MysticDreamer](https://open.spotify.com/artist/11S3qVIWD9uwJ1MnBQwYfV) | [СВЕТЛАНА!](https://open.spotify.com/album/2anHhnGcRaPfLbcESOmuc7) | 1:36 | 2025-12-15 |  |
-| [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 | 2025-12-09 | 2025-12-12 |
+| [СВЕТЛАНА!](https://open.spotify.com/track/6YY8y3YF9XvOkdaJ5TFb9k) | [MysticDreamer](https://open.spotify.com/artist/11S3qVIWD9uwJ1MnBQwYfV) | [СВЕТЛАНА!](https://open.spotify.com/album/2anHhnGcRaPfLbcESOmuc7) | 1:36 | 2025-12-15 | 2025-12-18 |
+| [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 | 2025-12-09 |  |
 | [СВЕТЛАНА!](https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL) | 1:36 | 2025-12-11 | 2025-12-16 |
 | [بتمنى انساك](https://open.spotify.com/track/5qhbsqqvLW26TwSJs9O6Mu) | [Versus Music](https://open.spotify.com/artist/7lYo3vBvDbmhlgYhNBzM8V) | [بتمنى انساك](https://open.spotify.com/album/3uoZohFyt3cGEEpNMeN4G0) | 3:04 | 2025-05-09 | 2025-05-11 |
 | [ჩუბინა](https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi) | [Chub1na.Ge](https://open.spotify.com/artist/0rvNMvAdO6Kcd23ms4RmBC) | [ჩუბინა](https://open.spotify.com/album/0zgnbu4OjPQ0hnou373oX2) | 1:30 | 2024-12-10 | 2025-02-07 |

@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "DON'T LEAVE",
+      "url": "https://open.spotify.com/track/5gXD4exv3XSwYh4BFQ0phf"
+    },
+    {
+      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/3ZvHNWQl5vzUPO15UkRaqk"
       },
@@ -1194,6 +1212,24 @@
       "duration_ms": 217800,
       "name": "I'd Rather Be Broke",
       "url": "https://open.spotify.com/track/4GhRns9gZpQol9evF1dqQ8"
+    },
+    {
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137706,
+      "name": "I'm Not Sure",
+      "url": "https://open.spotify.com/track/7jHpwhLjUpeyHnMtGXySnJ"
     },
     {
       "album": {
@@ -2676,6 +2712,28 @@
       "duration_ms": 201567,
       "name": "VIBES DON'T LIE",
       "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
+    },
+    {
+      "album": {
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229112,
+      "name": "Watching Us (with Leon Thomas)",
+      "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
     },
     {
       "album": {

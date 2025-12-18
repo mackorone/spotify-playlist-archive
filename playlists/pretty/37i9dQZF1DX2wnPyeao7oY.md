@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > The best heavy songs from new, independent artists and labels in 2025, as chosen by our editors\. Cover: Cenobia
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,070 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,131 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 99 | [Beg For Me](https://open.spotify.com/track/5YPUIZjaOOjPrPRmTlg3Na) | [Braeker](https://open.spotify.com/artist/7fGRdpiX855x7RBK8DjT1F) | [Beg For Me](https://open.spotify.com/album/3HdqpIotQTqw30EXegSxjF) | 2:47 |
 | 100 | [DUD](https://open.spotify.com/track/3TDYyOyKMZqGlk2OOZ1nvh) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [DUD](https://open.spotify.com/album/2i2ZDjUHLMDMtYWrazDaFr) | 3:31 |
 
-Snapshot ID: `AAAAAHfv1hh1PxwpyE8QB6+kiiKr0s23`
+Snapshot ID: `AAAAAHwyUpCdb40vf3ZhrOaxZGQyBDzU`

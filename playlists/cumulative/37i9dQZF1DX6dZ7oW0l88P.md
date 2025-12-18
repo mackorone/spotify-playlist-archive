@@ -4,12 +4,13 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-228 songs - 11 hr 25 min
+230 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [528 Hz Magama Sleep](https://open.spotify.com/track/2ntsqxTZvyH6OIq44LknRt) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [528 Hz Magama Sleep](https://open.spotify.com/album/5gM55N5F3nwutKGAllg0HK) | 2:34 | 2024-07-16 |  |
 | [about a flower](https://open.spotify.com/track/7CYLeiX2QNGzDIt9LMXBvz) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [about a flower](https://open.spotify.com/album/5ji1JFiWgGmvxK8jg2rOvT) | 2:58 | 2024-07-16 | 2024-08-30 |
+| [Adamant](https://open.spotify.com/track/1nb3cIqR2QZwwgqKJjVanT) | [Myriad Bard](https://open.spotify.com/artist/7FroVjfQ0JPoekdOC6U6Jh) | [Adamant](https://open.spotify.com/album/1UBqbNktKJVgCHo5m3nq1A) | 3:02 | 2025-12-17 |  |
 | [Aeolian Echoes](https://open.spotify.com/track/6eDW0LQieSmvyUBCm9X4Ne) | [August Deware](https://open.spotify.com/artist/4JkwQIDvHhzRTVVs6JcxjZ) | [Aeolian Echoes](https://open.spotify.com/album/1K5aPVNeOqduH6HOjgoJqy) | 3:03 | 2023-09-20 |  |
 | [Air](https://open.spotify.com/track/010Fakb9MSuX7JKJXpYdMn) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Air](https://open.spotify.com/album/2ncIJGdJ3qP4sus8MJRZDE) | 3:03 | 2023-10-04 | 2024-08-30 |
 | [Alami Calma](https://open.spotify.com/track/38M52H0WHEnyySoxLObqGy) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Alami Calma](https://open.spotify.com/album/2epmnJevgjT3B70SISwT0t) | 2:45 | 2025-06-12 |  |
@@ -191,6 +192,7 @@
 | [Smile](https://open.spotify.com/track/2QUzGxebyjqN5qStur0Shc) | [Evelyn Huber](https://open.spotify.com/artist/6KXQXgnyqN0bOU5BQdi6aj) | [Calm](https://open.spotify.com/album/4sLbsssUGuonFVCyXaQhWC) | 3:45 | 2022-07-18 | 2023-11-25 |
 | [Snow Crystal](https://open.spotify.com/track/4iKtVAaAwhJedexJ8piPUv) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [Snow Crystal](https://open.spotify.com/album/59FudwzUzPzugwSNbeZrf2) | 2:27 | 2022-07-18 | 2023-07-12 |
 | [Snowlight](https://open.spotify.com/track/1gDvxMJeiGD9lDo0TyTIIF) | [Pure Purposes](https://open.spotify.com/artist/4kbLiTWkq9FIV3VHRS24EY) | [Snowlight](https://open.spotify.com/album/2CH7UIm0bnyy5cXrfPEd3I) | 2:32 | 2025-10-07 |  |
+| [Soft Breath](https://open.spotify.com/track/1GSjgekBv2Ot2Efv3L8jzN) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [Soft Breath](https://open.spotify.com/album/3YWo2awwIzJLU8xLXlrndU) | 2:45 | 2025-12-17 |  |
 | [Soft harp world](https://open.spotify.com/track/4Kx7N7sHcJ0MamSpuDKfV5) | [Lorenzo Tempesti](https://open.spotify.com/artist/0S6YGr0wEbA6C0BVpvvdJ6) | [Traveling in space](https://open.spotify.com/album/6b0oJa9QYiPNfF1os8pba9) | 3:38 | 2022-05-11 | 2024-07-17 |
 | [Soft Touch](https://open.spotify.com/track/6ZEiwmGp8BInwOrn5jwRD6) | [Gemma Leslie](https://open.spotify.com/artist/5h4IQnkFpwCjNQm83ucDlL) | [Gentle Harp](https://open.spotify.com/album/3BAQzjKZhAoDFJzZevg26J) | 2:37 | 2022-05-11 |  |
 | [Sometimes He's In My Dreams](https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:46 | 2022-05-11 | 2023-11-25 |

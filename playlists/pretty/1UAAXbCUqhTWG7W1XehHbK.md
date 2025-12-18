@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 586 likes - 87 songs - 5 hr 6 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 585 likes - 90 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,8 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 85 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
 | 86 | [Tangerine Dream](https://open.spotify.com/track/0JwjzbKBP6poHooDgqhlCZ) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Tangerine Dream](https://open.spotify.com/album/51D2TTeRC7Slr7pAz6BbSc) | 2:27 |
 | 87 | [The Path \- Edit](https://open.spotify.com/track/5Cmi7dVOsPFrkgGZJkB1UQ) | [Future Sound Of Conco](https://open.spotify.com/artist/7ChrVv1Z75vnYolLTkEsO3), [The Blonde Brothers](https://open.spotify.com/artist/4dnt4US9X9SRxyah9jC0qN) | [The Path \(Edit\)](https://open.spotify.com/album/7oM9zDw2AmvhPQo1E4f0C2) | 7:52 |
+| 88 | [Love Song](https://open.spotify.com/track/0JWENUKGs4umfJXDGjLWgt) | [Elsie James](https://open.spotify.com/artist/1XnjpLYi1xOZpPCR7V75dY) | [Love Song](https://open.spotify.com/album/5WrEZeKjk6Esle5BZ2bofl) | 3:05 |
+| 89 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
+| 90 | [El Último Te Amo](https://open.spotify.com/track/40UIMV9iL8ZJcPCPWm4eEB) | [Ictiandro](https://open.spotify.com/artist/0365tcdDwVM8LlpEBnVWvD) | [El Último Te Amo](https://open.spotify.com/album/2XhAsiav3xMp7EQDyuoli4) | 4:43 |
 
-Snapshot ID: `AAADrCsml6Lz0VEojpNW8pR+crJPcoRk`
+Snapshot ID: `AAADr1DlpI9MmS5VCyLTFylnj10noU2c`

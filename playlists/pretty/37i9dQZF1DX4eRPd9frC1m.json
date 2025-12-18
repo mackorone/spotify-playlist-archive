@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> \ud83d\udcaa\ud83d\udca5",
-  "num_followers": 2577557,
+  "num_followers": 2577494,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 223999,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
         "name": "Lock In",
         "url": "https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 215172,
       "name": "Lock In",
       "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -755,26 +755,26 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "Bring The House Down",
-        "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
+        "name": "MINDFULL",
+        "url": "https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         },
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         },
         {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+          "name": "JT Roach",
+          "url": "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
         }
       ],
-      "duration_ms": 222814,
-      "name": "Bring The House Down",
-      "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
+      "duration_ms": 186000,
+      "name": "Cyanide",
+      "url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -799,26 +799,46 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "MINDFULL",
-        "url": "https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb"
+        "name": "Bring The House Down",
+        "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         },
         {
-          "name": "JT Roach",
-          "url": "https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy"
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Cyanide",
-      "url": "https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H"
+      "duration_ms": 222814,
+      "name": "Bring The House Down",
+      "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "Vaultage 004",
+        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 66206,
+      "name": "BOMB",
+      "url": "https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -855,26 +875,6 @@
       "duration_ms": 212000,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
-        "name": "Vaultage 004",
-        "url": "https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 66206,
-      "name": "BOMB",
-      "url": "https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/2FC2qvtOZfOuQRscDSZq2w"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 185142,
       "name": "Ultrasound",
       "url": "https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 135724,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "FOREVER, VOLPETRON",
-        "url": "https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        },
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "DANGER",
-      "url": "https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
         "name": "Pour Your Heart Out (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 223561,
       "name": "Pour Your Heart Out (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "FOREVER, VOLPETRON",
+        "url": "https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        },
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "DANGER",
+      "url": "https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "California Dreamin'",
-        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
         "name": "Keep Pushin' (Beast)",
         "url": "https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 185581,
       "name": "Keep Pushin' (Beast)",
       "url": "https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/3pzkEzkgov9KStfPxPiA1C"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
         "name": "Legends (feat. P Money)",
         "url": "https://open.spotify.com/album/2uExlr2sev8xKTkZg5KdeT"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 167314,
       "name": "Legends (feat. P Money)",
       "url": "https://open.spotify.com/track/6cLjygh85zqBwqvsZbDuCF"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2025-12-05 05:38:22",

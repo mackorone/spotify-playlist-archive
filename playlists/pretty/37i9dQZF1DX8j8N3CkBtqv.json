@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring KhoslaRaghu, Abhijay Sharma, and other exciting artists.\n",
-  "num_followers": 100938,
+  "num_followers": 101385,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-12-15 07:50:32",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        },
-        {
-          "name": "Vaibhav Pani",
-          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
-        }
-      ],
-      "duration_ms": 169646,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR"
-    },
-    {
-      "added_at": "2025-12-15 07:50:32",
-      "album": {
         "name": "Nikhar Gaya",
         "url": "https://open.spotify.com/album/1Ws95dIgp62LYeZ5BWfHjo"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 291021,
       "name": "Nikhar Gaya",
       "url": "https://open.spotify.com/track/4i9oWrSNrLjXSlHmSSKdXM"
+    },
+    {
+      "added_at": "2025-12-15 07:50:32",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "duration_ms": 169646,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR"
     },
     {
       "added_at": "2025-12-15 07:50:32",
@@ -507,18 +507,22 @@
     {
       "added_at": "2025-12-15 07:50:32",
       "album": {
-        "name": "Yun Hi Kahin",
-        "url": "https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G"
+        "name": "Jaa Tujhe Ishq Ho",
+        "url": "https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt"
       },
       "artists": [
         {
-          "name": "The Yellow Diary",
-          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+          "name": "Snehdeep Singh Kalsi",
+          "url": "https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
         }
       ],
-      "duration_ms": 203392,
-      "name": "Yun Hi Kahin",
-      "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
+      "duration_ms": 190000,
+      "name": "Jaa Tujhe Ishq Ho",
+      "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
     },
     {
       "added_at": "2025-12-15 07:50:32",
@@ -543,6 +547,22 @@
     {
       "added_at": "2025-12-15 07:50:32",
       "album": {
+        "name": "Yun Hi Kahin",
+        "url": "https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "duration_ms": 203392,
+      "name": "Yun Hi Kahin",
+      "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
+    },
+    {
+      "added_at": "2025-12-15 07:50:32",
+      "album": {
         "name": "Gustakh Dil",
         "url": "https://open.spotify.com/album/6gyWtT1mzXqFrURC7KjILt"
       },
@@ -563,26 +583,6 @@
     {
       "added_at": "2025-12-15 07:50:32",
       "album": {
-        "name": "Jaa Tujhe Ishq Ho",
-        "url": "https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt"
-      },
-      "artists": [
-        {
-          "name": "Snehdeep Singh Kalsi",
-          "url": "https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9"
-        },
-        {
-          "name": "Siddhant Kaushal",
-          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Jaa Tujhe Ishq Ho",
-      "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
-    },
-    {
-      "added_at": "2025-12-15 07:50:32",
-      "album": {
         "name": "Aakhri Baat",
         "url": "https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu"
       },
@@ -595,22 +595,6 @@
       "duration_ms": 222000,
       "name": "Aakhri Baat",
       "url": "https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je"
-    },
-    {
-      "added_at": "2025-12-15 07:50:32",
-      "album": {
-        "name": "Baaton",
-        "url": "https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 125231,
-      "name": "Baaton",
-      "url": "https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK"
     },
     {
       "added_at": "2025-12-15 07:50:32",
@@ -647,6 +631,22 @@
       "duration_ms": 276359,
       "name": "Tumhare Liye",
       "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
+    },
+    {
+      "added_at": "2025-12-15 07:50:32",
+      "album": {
+        "name": "Baaton",
+        "url": "https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 125231,
+      "name": "Baaton",
+      "url": "https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK"
     },
     {
       "added_at": "2025-12-15 07:50:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-15 07:50:32",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 165104,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg"
-    },
-    {
-      "added_at": "2025-12-15 07:50:32",
-      "album": {
         "name": "Qareeb",
         "url": "https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG"
       },
@@ -787,6 +771,54 @@
     {
       "added_at": "2025-12-15 07:50:32",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 165104,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg"
+    },
+    {
+      "added_at": "2025-12-15 07:50:32",
+      "album": {
+        "name": "Khat",
+        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "duration_ms": 296222,
+      "name": "Khat",
+      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
+    },
+    {
+      "added_at": "2025-12-15 07:50:32",
+      "album": {
+        "name": "Na Gul Na Gulistan",
+        "url": "https://open.spotify.com/album/1YQdQC8KBcvqZvI3e5T1hP"
+      },
+      "artists": [
+        {
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "Faani",
+      "url": "https://open.spotify.com/track/4QXkBuMz87V3U5Rucn34pB"
+    },
+    {
+      "added_at": "2025-12-15 07:50:32",
+      "album": {
         "name": "No Deal",
         "url": "https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF"
       },
@@ -799,22 +831,6 @@
       "duration_ms": 243427,
       "name": "No Deal",
       "url": "https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV"
-    },
-    {
-      "added_at": "2025-12-15 07:50:32",
-      "album": {
-        "name": "Na Gul Na Gulistan",
-        "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
-      },
-      "artists": [
-        {
-          "name": "Parvaaz",
-          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
-        }
-      ],
-      "duration_ms": 295639,
-      "name": "Na Gul Na Gulistan",
-      "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
     },
     {
       "added_at": "2025-12-15 07:50:32",
@@ -847,22 +863,6 @@
       "duration_ms": 243298,
       "name": "Rukna Nahin Hai",
       "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
-    },
-    {
-      "added_at": "2025-12-15 07:50:32",
-      "album": {
-        "name": "Khat",
-        "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
-      },
-      "artists": [
-        {
-          "name": "Navjot Ahuja",
-          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
-        }
-      ],
-      "duration_ms": 296222,
-      "name": "Khat",
-      "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
     },
     {
       "added_at": "2025-12-15 07:50:32",
@@ -912,7 +912,7 @@
       "added_at": "2025-12-15 07:50:32",
       "album": {
         "name": "Na Gul Na Gulistan",
-        "url": "https://open.spotify.com/album/1YQdQC8KBcvqZvI3e5T1hP"
+        "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
         }
       ],
-      "duration_ms": 257133,
-      "name": "Faani",
-      "url": "https://open.spotify.com/track/4QXkBuMz87V3U5Rucn34pB"
+      "duration_ms": 295639,
+      "name": "Na Gul Na Gulistan",
+      "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
     },
     {
       "added_at": "2025-12-15 07:50:32",

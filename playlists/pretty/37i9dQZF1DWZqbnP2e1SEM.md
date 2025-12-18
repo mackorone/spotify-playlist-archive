@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,138 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,135 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 97 | [Lose Control](https://open.spotify.com/track/0vKM6pD1koHLvYzzI5gqNy) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Lose Control](https://open.spotify.com/album/2c8lk5exqABxO2NhHfKhX2) | 2:53 |
 | 98 | [Birds In The Sky](https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES) | [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Birds In The Sky](https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X) | 2:13 |
 | 99 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
-| 100 | [Loveless](https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Loveless](https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ) | 3:12 |
+| 100 | [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 |
 
 Snapshot ID: `AAAAAMKzvHbez2dpFrvdmMdzaLuhap8X`

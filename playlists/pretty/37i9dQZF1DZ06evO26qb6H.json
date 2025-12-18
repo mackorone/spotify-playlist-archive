@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAC9AMq/9RNJwvG01xhUUFlg",
+  "snapshot_id": "aUChAAAAAAC24YjqYGxlfTHGPiIv4Iwa",
   "tracks": [
     {
       "added_at": null,
@@ -723,30 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beef",
-        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
-      },
-      "artists": [
-        {
-          "name": "9lokknine",
-          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Beef",
-      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Shot (feat. Blxst & Wale)",
         "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 153194,
       "name": "One Shot (feat. Blxst & Wale)",
       "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/0e7ntcb8IOMnnHqJkxihR3"
+      },
+      "artists": [
+        {
+          "name": "9lokknine",
+          "url": "https://open.spotify.com/artist/0ceH34CATvfgphxnLRWFkm"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/01MnJO1gfqVGACFAWMXNPU"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Tee",
-        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unfuckwitable (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 172623,
       "name": "Touchdown (feat. Peezy & Murda Beatz)",
       "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Tee",
+        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
     },
     {
       "added_at": null,

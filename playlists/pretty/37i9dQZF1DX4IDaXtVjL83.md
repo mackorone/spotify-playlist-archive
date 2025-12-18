@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Jay Park, LOUIS of LNGSHOT, JayDon, Paradise\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,049 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,064 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 80 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
 | 81 | [This Time Around \(feat\. \(G\)I\-DLE\)](https://open.spotify.com/track/30n30ec51A8XNUcuT4g6w2) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [This Time Around \(feat\. \(G\)I\-DLE\)](https://open.spotify.com/album/2oCdz6yL3LoOu5fpJzEO0j) | 3:58 |
 | 82 | [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 |
-| 83 | [What Are We Out Here For](https://open.spotify.com/track/7vGdYiKibgTMvPvcYZetex) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF) | [What Are We Out Here For](https://open.spotify.com/album/5LfwiYC60J0p1NDvtn0DqH) | 2:43 |
+| 83 | [What Are We Out Here For](https://open.spotify.com/track/7vGdYiKibgTMvPvcYZetex) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Ares Carter](https://open.spotify.com/artist/5qpTnitmLwO8GgOPpeTMmE) | [What Are We Out Here For](https://open.spotify.com/album/5LfwiYC60J0p1NDvtn0DqH) | 2:43 |
 | 84 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 |
 | 85 | [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 |
 | 86 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 |

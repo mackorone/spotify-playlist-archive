@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Fj9OrNfyVGXF5.md) - [plain]
 
 > Listen to the soundtrack and selections from WORLD OF STREET WOMAN FIGHTER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,600 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,595 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

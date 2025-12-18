@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAABKhy99Z9xD+45QtFkfs4C/",
+  "snapshot_id": "aUChAAAAAABJlxJv6hsAQyva+mdPxhyp",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 266485,
-      "name": "Electricity Is Humming",
-      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
+      "duration_ms": 234073,
+      "name": "Highway Lights",
+      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
     },
     {
       "added_at": null,
@@ -132,9 +132,25 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 281319,
-      "name": "Swim in Time",
-      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
+      "duration_ms": 266485,
+      "name": "Electricity Is Humming",
+      "url": "https://open.spotify.com/track/0wQqkrcURV92bVnc3rwhHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Occult Box (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gBL6rEeGLUM1anvgGuisF"
+      },
+      "artists": [
+        {
+          "name": "Salt Creek",
+          "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
+        }
+      ],
+      "duration_ms": 320320,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/5GMsUTlHVuuKF08zW6zQ5g"
     },
     {
       "added_at": null,
@@ -180,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 234073,
-      "name": "Highway Lights",
-      "url": "https://open.spotify.com/track/7A1oDHWG9S7rvhn3cD1LbY"
+      "duration_ms": 281319,
+      "name": "Swim in Time",
+      "url": "https://open.spotify.com/track/5LYh1qa0oN7WzNlJAXimhY"
     },
     {
       "added_at": null,
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254106,
-      "name": "Taste the Floor",
-      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
+      "duration_ms": 254733,
+      "name": "Window Shade",
+      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
     },
     {
       "added_at": null,
@@ -244,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 211812,
-      "name": "High Horse",
-      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
+      "duration_ms": 218705,
+      "name": "The Vine",
+      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
     },
     {
       "added_at": null,
@@ -260,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 254733,
-      "name": "Window Shade",
-      "url": "https://open.spotify.com/track/6yKpNqcfk9NYgCzM4pSLur"
+      "duration_ms": 254106,
+      "name": "Taste the Floor",
+      "url": "https://open.spotify.com/track/5ADgaERFsjbfkM9awGxQTX"
     },
     {
       "added_at": null,
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 218705,
-      "name": "The Vine",
-      "url": "https://open.spotify.com/track/6tabBGQ5viiUw8DnnfKO9S"
+      "duration_ms": 211812,
+      "name": "High Horse",
+      "url": "https://open.spotify.com/track/4CyAFi6gxc7h3gpkdP86Rd"
     }
   ],
   "unique_name": "This Is Salt Creek",

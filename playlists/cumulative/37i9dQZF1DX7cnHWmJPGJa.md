@@ -4,7 +4,7 @@
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-54 songs - 3 hr 2 min
+55 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2024-12-03 |  |
 | [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 | 2024-12-03 |  |
 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 | 2024-12-03 |  |
-| [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 | 2024-12-03 |  |
+| [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 | 2024-12-03 | 2025-12-18 |
 | [Everything Burns](https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Everything Burns](https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH) | 2:52 | 2024-12-03 |  |
 | [Faceshopping](https://open.spotify.com/track/2rN1ODOsaNfYu782rw36jR) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:56 | 2024-12-03 |  |
 | [Feel The Fire](https://open.spotify.com/track/2fXx80HCSl6Up2kh7tBkn9) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Feel The Fire](https://open.spotify.com/album/3I65mO7Dtea7Wy73gmUjze) | 3:01 | 2024-12-03 |  |
@@ -61,6 +61,7 @@
 | [Time To Smile](https://open.spotify.com/track/1OWGvI17cxmFMilKKigme3) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Time To Smile](https://open.spotify.com/album/0H5TPfIplr5ZhkNsR3ujqX) | 2:58 | 2024-12-03 |  |
 | [Tonight](https://open.spotify.com/track/2fl0s2k5DI6eNJaUkiu5cz) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Tonight](https://open.spotify.com/album/68YY2V186xi4HTJKdoC4vl) | 3:41 | 2024-12-03 |  |
 | [Wait Up](https://open.spotify.com/track/6zniefLYl8sGh6TY0rDbID) | [Becky Sikasa](https://open.spotify.com/artist/3UqXMAMPI53itEWm6SMaBZ) | [Wait Up](https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV) | 2:55 | 2024-12-03 |  |
+| [Wandering Eyes](https://open.spotify.com/track/5BTXTJdnCFb4nllA3eUxkU) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Wandering Eyes](https://open.spotify.com/album/0KeJhiswMeRNibCfFlg1sY) | 2:48 | 2024-12-03 |  |
 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 | 2024-12-03 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

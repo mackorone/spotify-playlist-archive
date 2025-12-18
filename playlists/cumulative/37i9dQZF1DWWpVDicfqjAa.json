@@ -4509,6 +4509,28 @@
     },
     {
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/06npIIgUg1GgZSK7DkKz6U"
+      },
+      "artists": [
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174756,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/1sKLFVc86oelMYuXvZ4LBg"
+    },
+    {
+      "album": {
         "name": "Piano Republik (Remixes)",
         "url": "https://open.spotify.com/album/6Vihx5XSpcO4Y9FVfM4ywh"
       },
@@ -6668,6 +6690,28 @@
       "duration_ms": 324285,
       "name": "The Conduit",
       "url": "https://open.spotify.com/track/5gITkAPBzJt6iCTASrk8pU"
+    },
+    {
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/3Tz1emJSdm25UIaw2pzkfH"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199398,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/1L7jYz7GtD1lVGlqMlwvkd"
     },
     {
       "album": {

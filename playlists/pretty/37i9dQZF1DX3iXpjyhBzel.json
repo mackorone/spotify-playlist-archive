@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Eli Soares, Midian Lima",
-  "num_followers": 1202771,
+  "num_followers": 1202831,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -775,30 +775,6 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
-      },
-      "artists": [
-        {
-          "name": "Nair Nany",
-          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
-        },
-        {
-          "name": "Dimy Francisco",
-          "url": "https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8"
-        },
-        {
-          "name": "Eunice Zumbuca",
-          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
-        }
-      ],
-      "duration_ms": 678000,
-      "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
         "name": "Abra\u00e7a-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 350914,
       "name": "Eu Quem Merecia",
       "url": "https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
+        "name": "Melhor Amigo / O Que Seria de Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7"
+      },
+      "artists": [
+        {
+          "name": "Nair Nany",
+          "url": "https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho"
+        },
+        {
+          "name": "Dimy Francisco",
+          "url": "https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8"
+        },
+        {
+          "name": "Eunice Zumbuca",
+          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
+        }
+      ],
+      "duration_ms": 678000,
+      "name": "Melhor Amigo / O Que Seria de Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 416842,
-      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
-      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
         "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 390933,
       "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
       "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 416842,
+      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
     },
     {
       "added_at": "2025-12-12 03:02:56",

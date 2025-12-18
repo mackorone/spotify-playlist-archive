@@ -1,12 +1,12 @@
 {
   "description": "This is Ingrid Andress. The essential tracks, all in one playlist.",
-  "num_followers": 9095,
+  "num_followers": 9094,
   "original_name": "This Is Ingrid Andress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAADM6LZkfB19HVhkWyvCOthk",
+  "snapshot_id": "aUChAAAAAAA0tGoALxDO6Qb8/ka3DN7m",
   "tracks": [
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today's Country",
-        "url": "https://open.spotify.com/album/0ktFSQatgI3YWvbzo3hIDv"
+        "name": "Good As Gone",
+        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
       },
       "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 200557,
-      "name": "Treated Me Good",
-      "url": "https://open.spotify.com/track/0AiV5WLxaKInSKhh1s99aI"
+      "duration_ms": 187341,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good As Gone",
-        "url": "https://open.spotify.com/album/6xyZUAYOK1HYK9Wb1LV1BB"
+        "name": "Today's Country",
+        "url": "https://open.spotify.com/album/0ktFSQatgI3YWvbzo3hIDv"
       },
       "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        },
         {
           "name": "Ingrid Andress",
           "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
         }
       ],
-      "duration_ms": 187341,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/5y3WVqKQS4IVUMAP32vIy5"
+      "duration_ms": 200557,
+      "name": "Treated Me Good",
+      "url": "https://open.spotify.com/track/0AiV5WLxaKInSKhh1s99aI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,291 songs - 2 day 20 hr 53 min
+1,292 songs - 2 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -866,6 +866,7 @@
 | [Paradise](https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [OMEM](https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN) | [Paradise](https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb) | 2:54 | 2021-12-11 | 2022-07-07 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2020-12-27 | 2023-03-21 |
 | [Party Never Ends](https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Party Never Ends](https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM) | 2:28 | 2020-05-22\* | 2021-12-21 |
+| [Party Out](https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [A+](https://open.spotify.com/artist/0QUIxJh1rw7FrbtvG6BbnA) | [Party Out](https://open.spotify.com/album/22TJwoQuZnXx8k0XbmGUCz) | 3:29 | 2025-12-12 |  |
 | [Party Starter](https://open.spotify.com/track/0sJ2TnHlej7YZfqMnYj9QW) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Mark Bale](https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx) | [Party Starter](https://open.spotify.com/album/7jSNvVIJkXi1wFQBbqzIXc) | 2:11 | 2020-05-22\* | 2022-04-21 |
 | [Party Starter](https://open.spotify.com/track/1Cr4BPvz478KxPohfnLuN0) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Party Starter](https://open.spotify.com/album/6c0uhRxf7aA6XccEQNYCF8) | 3:52 | 2022-04-29 | 2022-05-14 |
 | [Party Time](https://open.spotify.com/track/0uif0Lvh62KQ8GIFY594M7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [SWACQ](https://open.spotify.com/artist/45UHclgIcRavRoRa2MET5i) | [Party Time](https://open.spotify.com/album/2lRY5mltiOiMqT9nBcdXfK) | 2:46 | 2020-05-22\* | 2022-04-19 |
@@ -1081,7 +1082,7 @@
 | [Sun Is Dark](https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Sun Is Dark](https://open.spotify.com/album/4cJpfipD6q3smdPwp8COoO) | 2:38 | 2024-04-05 | 2025-12-13 |
 | [Sun Is Shining \- Firebeatz Remix](https://open.spotify.com/track/3Uop3symAjwE1isIxJyaOP) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Sun Is Shining \(Firebeatz Remix\)](https://open.spotify.com/album/14zPM2izlAioJLeZMT1Vae) | 3:27 | 2020-05-22\* | 2022-04-20 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-07-14 | 2022-07-30 |
-| [Sunny](https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sunny](https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz) | 2:34 | 2025-05-02 |  |
+| [Sunny](https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sunny](https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz) | 2:34 | 2025-05-02 | 2025-12-18 |
 | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/track/12KVUsP4XTG3iDgzD4SjGu) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Dawn Tallman](https://open.spotify.com/artist/0aCxspxNd9b6qyT8LJTpXW) | [Sunny Days \(with Dawn Tallman\)](https://open.spotify.com/album/4DTbuCQHJsUajJJmNbC4Yc) | 3:49 | 2020-10-13 | 2021-03-21 |
 | [Sunroof \- Loud Luxury Remix](https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [Sunroof \(Loud Luxury Remix\)](https://open.spotify.com/album/7LC439zjDcvAgdooLmL67Q) | 2:53 | 2022-08-19 | 2024-03-23 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-15 | 2025-11-03 |

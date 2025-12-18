@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 365301,
+  "num_followers": 365292,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -343,8 +343,8 @@
     {
       "added_at": "2025-12-15 07:16:35",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb"
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
     },
     {
       "added_at": "2025-12-15 07:16:35",
@@ -423,8 +423,8 @@
     {
       "added_at": "2025-12-15 07:16:35",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb"
     },
     {
       "added_at": "2025-12-15 07:16:35",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-12-15 07:16:35",
       "album": {
-        "name": "Girl of Your Dreams",
-        "url": "https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Girl of Your Dreams",
-      "url": "https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd"
-    },
-    {
-      "added_at": "2025-12-15 07:16:35",
-      "album": {
         "name": "Ask & You Shall Receive",
         "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 199626,
       "name": "Ask & You Shall Receive",
       "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
+    },
+    {
+      "added_at": "2025-12-15 07:16:35",
+      "album": {
+        "name": "Girl of Your Dreams",
+        "url": "https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Girl of Your Dreams",
+      "url": "https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd"
     },
     {
       "added_at": "2025-12-15 07:16:35",

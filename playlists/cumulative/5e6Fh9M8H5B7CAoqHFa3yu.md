@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,657 songs - 4 day 4 hr 34 min
+1,659 songs - 4 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Fuego en la Tormenta](https://open.spotify.com/track/0csItzvJBsYcK8bjTlAzrj) | [Antiguos Jovenes](https://open.spotify.com/artist/36iNwhnUFPuwJ3Ga8D4V4G) | [Fuego en la Tormenta](https://open.spotify.com/album/4lD9hMYLzkC3MxyP1x1bMp) | 2:57 | 2025-08-28 |  |
 | [Fumo Di Londra](https://open.spotify.com/track/5eVtrTLC1gkT3GX5S3boLB) | [\-\->FrAmE!](https://open.spotify.com/artist/0300JDaLzNwXHEnpBwkkgP), [Bers Bane](https://open.spotify.com/artist/6IiwgMhZQASrSm6oVpSkhx) | [Fumo Di Londra](https://open.spotify.com/album/34CE9Sc9KFNtSUZ3bfBYah) | 2:28 | 2024-06-24 |  |
 | [Funhouse](https://open.spotify.com/track/4m6VBoUCpDWr8Yuiyojq8Z) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Funhouse](https://open.spotify.com/album/5ltRL03O6pdOjNULvek3pq) | 3:48 | 2025-05-06 |  |
+| [Fuochi di Neve](https://open.spotify.com/track/2EjTRMilUxuGH4rM9mmKkj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fuochi di Neve](https://open.spotify.com/album/4rxg2lMcacOkPGmJCw6zKU) | 1:44 | 2025-12-17 |  |
 | [Fuori Posto](https://open.spotify.com/track/3SprsFpyMaQpE5avbGc2Oy) | [Nessi Nessi](https://open.spotify.com/artist/55Kwcqi2oU6hqN9WpH8EnD) | [Fuori Posto](https://open.spotify.com/album/21RUXO4mSDQrqHg8ht33VG) | 4:03 | 2025-08-02 |  |
 | [Future Alaska](https://open.spotify.com/track/1Ry9FOpYWIxyhhvByq0mpC) | [Nostalgia Falls](https://open.spotify.com/artist/744HFtrZeUzglhohYA1V9A) | [Future Alaska](https://open.spotify.com/album/6QK4CahID0qf4kvT9xcEvv) | 2:36 | 2025-11-07 |  |
 | [Fyah Fi Babylon](https://open.spotify.com/track/3LR6PctnIFNjnbZNoZh1qL) | [Hermit Dubz](https://open.spotify.com/artist/0nHH3n6c05s27skeVPxZbf), [Knati P](https://open.spotify.com/artist/26Zbmi23b2LUfjRwg3bP1v) | [Fyah Fi Babylon](https://open.spotify.com/album/6S2l1zxJDtOaT3XezJFpNk) | 3:34 | 2024-03-23 |  |
@@ -1511,6 +1512,7 @@
 | [Tutto è Zero](https://open.spotify.com/track/1FmVS9T0WjWiR2ni31f4rT) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/7Fa4EGBXkuhP8OoyRCZKuP) | 3:24 | 2023-03-15 |  |
 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 | 2024-03-04 |  |
 | [Tócame](https://open.spotify.com/track/2wqJij98B0rouH14batoif) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Tócame](https://open.spotify.com/album/4dWm6sgedDn3maMz8HjZ0P) | 2:32 | 2025-11-25 |  |
+| [Tükröm](https://open.spotify.com/track/66lj9fWMUcvwcFjy9WxMEp) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Felejtsd el!](https://open.spotify.com/album/2BvhBusLCqco5GyiSinxSV) | 4:09 | 2025-12-17 |  |
 | [Uhuru](https://open.spotify.com/track/6OoZlWpxqGbIHHxXQhq7Qp) | [Sensijam](https://open.spotify.com/artist/5VazvcVzHCDG301Q5QXIvo) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:55 | 2024-03-23 |  |
 | [Un buco nell'acqua](https://open.spotify.com/track/23oNF6NYgdDApPHp867KAF) | [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Un buco nell'acqua](https://open.spotify.com/album/6U72VdWYkXb1mwNIxuoXkx) | 2:52 | 2024-09-06 |  |
 | [Un fiore](https://open.spotify.com/track/3ufpNh5368dw3tDBoKUAmu) | [M31 "A" Star](https://open.spotify.com/artist/6gj8rk83BIKsTUC2HJnpZ1), [WinWar](https://open.spotify.com/artist/7eiIqiTGRznJzFxIVzuU23) | [Un fiore](https://open.spotify.com/album/3Tn84XnO5TK31WqBd591ws) | 3:36 | 2025-01-18 |  |

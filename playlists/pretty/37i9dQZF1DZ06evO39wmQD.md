@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,270 likes - 34 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,271 likes - 34 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 28 | [The Guilty Ones \- Rise Cast Version](https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Guilty Ones \(Rise Cast Version\)](https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY) | 3:31 |
 | 29 | [You Fit Me Perfectly](https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Manny Jacinto](https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 1:28 |
 | 30 | [Whispering \- Rise Cast Version](https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Whispering \(Rise Cast Version\)](https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA) | 3:31 |
-| 31 | [Rhino Proof](https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Utkarsh Ambudkar](https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:28 |
+| 31 | [Start the Day Again](https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:11 |
 | 32 | [The Word Of Your Body \- Rise Cast Version](https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [The Word Of Your Body \(Rise Cast Version\)](https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw) | 2:54 |
-| 33 | [Start the Day Again](https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:11 |
+| 33 | [Rhino Proof](https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Utkarsh Ambudkar](https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:28 |
 | 34 | [Happier](https://open.spotify.com/track/4Ixa8ZsjCWY6jDTejMUIOM) | [Paul Rust](https://open.spotify.com/artist/0vrIAUL2cMlP42YihJkBYY), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 3:04 |
 
-Snapshot ID: `aT9PgAAAAABb0iFEWdFshJld+hmMSm2x`
+Snapshot ID: `aUChAAAAAAA32Jp1MHOT/uItXCl+A+XE`

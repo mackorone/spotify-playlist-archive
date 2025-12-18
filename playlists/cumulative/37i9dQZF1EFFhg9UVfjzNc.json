@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Curado Serei",
+        "url": "https://open.spotify.com/album/2mBnXKCxXfNEl6CQd0u1Bc"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        },
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329746,
+      "name": "Curado Serei",
+      "url": "https://open.spotify.com/track/3uIsHQMOoGW5U9BW0BzqtE"
+    },
+    {
+      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
@@ -771,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Nara Costa, Vol. 2",
+        "url": "https://open.spotify.com/album/7fpi25GwS8BKNWlsvfahtA"
+      },
+      "artists": [
+        {
+          "name": "Nara Costa",
+          "url": "https://open.spotify.com/artist/2pIc3lJ92c8I0DGJT7SWoQ"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3AyyEHSsEb1qLG12oq5wmr"
+    },
+    {
+      "album": {
         "name": "Deixa-Te Modelar",
         "url": "https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq"
       },
@@ -786,7 +826,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 389773,
       "name": "Esperan\u00e7a (feat. Davidson Silva)",
       "url": "https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ"
@@ -986,6 +1026,28 @@
       "duration_ms": 357440,
       "name": "Invocamos - Ao Vivo",
       "url": "https://open.spotify.com/track/4ihtQFUBGnZ0yEmGd1ZkI2"
+    },
+    {
+      "album": {
+        "name": "Deus Faz Al\u00e9m",
+        "url": "https://open.spotify.com/album/3X4o89B8jwsPKSVWjoQxZl"
+      },
+      "artists": [
+        {
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+        },
+        {
+          "name": "Gra\u00e7a Music",
+          "url": "https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301880,
+      "name": "Jerusal\u00e9m",
+      "url": "https://open.spotify.com/track/6s9NzYe2d8KiNVrt7r2iyP"
     },
     {
       "album": {
@@ -1218,6 +1280,24 @@
       "duration_ms": 398760,
       "name": "Majestoso",
       "url": "https://open.spotify.com/track/2c5k2pYT0W6LaMpadpZkHB"
+    },
+    {
+      "album": {
+        "name": "Maranata",
+        "url": "https://open.spotify.com/album/0K6lr5sjHV7jc1qPOG0JZs"
+      },
+      "artists": [
+        {
+          "name": "Esther Marcos",
+          "url": "https://open.spotify.com/artist/2japccldZ12nJnpI9eJ7gF"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325426,
+      "name": "Maranata",
+      "url": "https://open.spotify.com/track/14DnXcSHiMvK7kHnsuhqm7"
     },
     {
       "album": {
@@ -1682,6 +1762,24 @@
       "duration_ms": 266374,
       "name": "O Grande Eu Sou",
       "url": "https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF"
+    },
+    {
+      "album": {
+        "name": "Hiperativo",
+        "url": "https://open.spotify.com/album/4r2Ilq5eSSqRc2vCuIKhqf"
+      },
+      "artists": [
+        {
+          "name": "Strike",
+          "url": "https://open.spotify.com/artist/3Aa7VtaDW1lJWX7NBGask8"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "O Hino",
+      "url": "https://open.spotify.com/track/0K2NesFrL3Gsdc0oCAxXBL"
     },
     {
       "album": {
@@ -2376,10 +2474,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 364186,
       "name": "Sonhos De Deus",
       "url": "https://open.spotify.com/track/6mlfHKppzLtaqwb4UbJ16t"
+    },
+    {
+      "album": {
+        "name": "Sonhos de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2VkEBWhYBIQIXkKfHom1XG"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364133,
+      "name": "Sonhos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1V75jLKQ6xf78SY63FV63x"
     },
     {
       "album": {

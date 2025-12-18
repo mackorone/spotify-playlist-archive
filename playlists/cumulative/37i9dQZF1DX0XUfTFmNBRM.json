@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music that India is listening to. Cover - Saiyaara",
+  "description": "Hottest Hindi music that India is listening to. Cover - Dhurandhar",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -4987,6 +4987,28 @@
     },
     {
       "album": {
+        "name": "Kamaal Hai",
+        "url": "https://open.spotify.com/album/7vG3uRojLPMdBznnbpO2TR"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228461,
+      "name": "Kamaal Hai",
+      "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
+    },
+    {
+      "album": {
         "name": "Kamle (From \"Raid 2\")",
         "url": "https://open.spotify.com/album/3mUxT8tSMCVWIg6G69ekPq"
       },
@@ -5298,7 +5320,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 257172,
       "name": "Khoobsurat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/3ZoXWKCwp2r603Z5bYWhtt"
@@ -8362,7 +8384,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 196395,
       "name": "Preet Re - From \"Dhadak 2\"",
       "url": "https://open.spotify.com/track/5IWLDqsSnQgBjXGiryDtTk"
@@ -9649,6 +9671,32 @@
     },
     {
       "album": {
+        "name": "Sitaare (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242916,
+      "name": "Sitaare (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+    },
+    {
+      "album": {
         "name": "Skechers (feat. Badshah)",
         "url": "https://open.spotify.com/album/66bwkHIrSwRhhuPmq8a600"
       },
@@ -10712,7 +10760,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon",
       "url": "https://open.spotify.com/track/5y5xlcoIUjRrrb8W3O5ohk"
@@ -10834,6 +10882,36 @@
       "duration_ms": 258148,
       "name": "Tu Kya Jaane",
       "url": "https://open.spotify.com/track/1pbj0csFgmhGh7AuSMsOCZ"
+    },
+    {
+      "album": {
+        "name": "Tu Meri Main Tera Main Tera Tu Meri - Title Track (From \"Tu Meri Main Tera Main Tera Tu Meri\")",
+        "url": "https://open.spotify.com/album/5UhF5q0hpasuG2DH4eCZGx"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "Tu Meri Main Tera Main Tera Tu Meri - Title Track (From \"Tu Meri Main Tera Main Tera Tu Meri\")",
+      "url": "https://open.spotify.com/track/6A7Je9w8n2Zg2zLJnkYuv2"
     },
     {
       "album": {
@@ -11142,7 +11220,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-18",
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/3W1XHtgu4Pt7ai4d8RrKwD"
@@ -11810,6 +11888,24 @@
       "duration_ms": 211869,
       "name": "Yimmy Yimmy",
       "url": "https://open.spotify.com/track/4dvfxZKehPxpz3UZ7A5Fni"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211783,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF"
     },
     {
       "album": {

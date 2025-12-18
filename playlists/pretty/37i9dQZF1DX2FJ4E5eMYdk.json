@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 192033,
+  "num_followers": 192042,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "& I'm Fine Today",
         "url": "https://open.spotify.com/album/5D062RPrAS76knCMha1xCw"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 252375,
       "name": "Althea",
       "url": "https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx"
     }
   ],
   "unique_name": "Psych & Groove",

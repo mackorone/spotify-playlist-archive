@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : marguerite
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,069 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,070 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

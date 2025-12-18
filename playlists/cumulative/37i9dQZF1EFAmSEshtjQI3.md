@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 11 min
+66 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Buffet](https://open.spotify.com/track/5LYXZwcmOvSus9nnO1vDPe) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [AIJAG](https://open.spotify.com/album/1wmBXbc3FmuAswqvDwhycq) | 2:45 | 2025-03-02 |  |
 | [CORAZONES ROTOS](https://open.spotify.com/track/6Z4lXWlvGEZxAi3qnqY0WB) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:50 | 2023-12-13 |  |
 | [Corriendo Con Tijeras](https://open.spotify.com/track/4iD92GmrfOzcteNgs74CYe) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 3:14 | 2023-12-13 |  |
-| [Cualquiera](https://open.spotify.com/track/4Eg9hFB7IyPX5o8bzVCY7B) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:31 | 2025-12-06 |  |
+| [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2025-12-17 |  |
+| [Cualquiera](https://open.spotify.com/track/4Eg9hFB7IyPX5o8bzVCY7B) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:31 | 2025-12-06 | 2025-12-18 |
 | [Cualquiera](https://open.spotify.com/track/67wfqT0P3DtNieeQz1R3RJ) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 3:31 | 2023-12-13 | 2025-12-07 |
 | [Cuando Te Dejan De Querer](https://open.spotify.com/track/06H98a1flJoJ6ixFyiG0yJ) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 2:35 | 2025-03-30 |  |
 | [El Segundo Amor](https://open.spotify.com/track/5fqxX5DlSYhkqVHEHahZTg) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 2:44 | 2025-07-09 |  |
@@ -25,6 +26,7 @@
 | [Florida \- \(Intro\)](https://open.spotify.com/track/0HwcjUFHUepCdJW1Jnr6m9) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 1:49 | 2025-08-06 |  |
 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 | 2023-12-13 |  |
 | [Fui Lo Que Soy](https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:32 | 2023-12-13 |  |
+| [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 | 2025-12-17 |  |
 | [Intro](https://open.spotify.com/track/2xS3eacJtsVF2mDRgqqk6R) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 0:30 | 2023-12-13 | 2025-12-07 |
 | [Intro](https://open.spotify.com/track/5xVZHX0fgjwFymxMukikAf) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:30 | 2025-12-06 |  |
 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 | 2023-12-13 | 2024-04-28 |
@@ -43,7 +45,8 @@
 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2023-12-13 |  |
 | [No Voy a Ser Yo](https://open.spotify.com/track/3pTFpnRvJgqWquLA0OtOLz) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 2:55 | 2025-12-06 |  |
 | [No Voy a Ser Yo](https://open.spotify.com/track/3wY4usAdkaG7oviB6kOHxH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:55 | 2023-12-13 | 2025-12-07 |
-| [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 | 2023-12-13 |  |
+| [Nuez](https://open.spotify.com/track/3ncIYCJwMwDr3utfwl0SXy) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/6WXESBAoeujrFeIigHNL5w) | 3:32 | 2025-12-17 |  |
+| [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 | 2023-12-13 | 2025-12-18 |
 | [Pegaíto](https://open.spotify.com/track/1RFWaEBbwIZV6ZcpuZzZC8) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Pegaíto](https://open.spotify.com/album/0HdmTSwkvLqGCXg7VQ2pPX) | 2:35 | 2023-12-13 |  |
 | [Placebo](https://open.spotify.com/track/6rsjtGqye3l0ItzLzooMlm) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:14 | 2023-12-13 |  |
 | [Recuerdo contigo </3](https://open.spotify.com/track/2Hcjj8iujMxNMvJu3Am3Zr) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Sentimiento Adolescente](https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0) | 3:08 | 2024-05-31 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAC1YyMuBWIMHzz83Vc/+iTD",
+  "snapshot_id": "aUChAAAAAABD/Et1/p1KNiZYQHr8W5Rd",
   "tracks": [
     {
       "added_at": null,
@@ -660,25 +660,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 218293,
-      "name": "Maybe I Am?",
-      "url": "https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 137906,
-      "name": "Conduit",
-      "url": "https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W"
+      "duration_ms": 202813,
+      "name": "To Die Like Mouchette",
+      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
     },
     {
       "added_at": null,
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 202813,
-      "name": "To Die Like Mouchette",
-      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
+      "duration_ms": 218293,
+      "name": "Maybe I Am?",
+      "url": "https://open.spotify.com/track/3IGqTzLhH0rhFjeBw0xyLb"
     },
     {
       "added_at": null,

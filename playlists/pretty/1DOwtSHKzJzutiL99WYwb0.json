@@ -6,8 +6,40 @@
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAH0pju2KkS/RRVaHVKsvB0lM/3o/ca",
+  "snapshot_id": "AAAH1skA3353FpkDE7qKCKPLrMuYVllY",
   "tracks": [
+    {
+      "added_at": "2025-12-17 07:08:25",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/3PRKzsCRtiJqRZJJpq0Acu"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4BQ9FKqj1qNwrVYhCAz3oV"
+    },
+    {
+      "added_at": "2025-12-17 07:08:32",
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD"
+    },
     {
       "added_at": "2025-12-05 00:12:44",
       "album": {
@@ -1595,38 +1627,6 @@
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
-    },
-    {
-      "added_at": "2024-11-01 01:49:22",
-      "album": {
-        "name": "...l",
-        "url": "https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 188790,
-      "name": "GPT",
-      "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
-    },
-    {
-      "added_at": "2024-11-01 01:49:29",
-      "album": {
-        "name": "THE BOYZ 9th MINI ALBUM [\u5c0e\u706b\u7dda (TRIGGER)]",
-        "url": "https://open.spotify.com/album/2UsJY5vQEYesJJ9iTnm9UW"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "TRIGGER",
-      "url": "https://open.spotify.com/track/0KSkclPEYcFuBIC0SOGXLp"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

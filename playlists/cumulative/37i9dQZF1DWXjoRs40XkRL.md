@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-398 songs - 1 day 12 hr 43 min
+399 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 | 2023-06-03 |
 | [Adaaein](https://open.spotify.com/track/4He5EVmJ89k2BelkpXJlLl) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/7aU4BE6L1rM9cbvBdfKaDt) | 4:09 | 2024-02-19 | 2024-04-19 |
 | [Adaaein](https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/2nsN1K7V7l2QrxsLcwzAty) | 4:09 | 2023-07-21 | 2024-07-01 |
+| [Ae Re Sakhi](https://open.spotify.com/track/64yA009hCj5khC1AE09ZlM) | [Deveshi Sahgal](https://open.spotify.com/artist/1PKC3nPoqvdGFs3hvwIjkP) | [Woh Jagah](https://open.spotify.com/album/1ejBWD9wf5R290bqqj4tRr) | 5:15 | 2025-12-01 |  |
 | [Ae Ri](https://open.spotify.com/track/1LjyG0SBQCuRegAwznLZL1) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd) | [Ae Ri](https://open.spotify.com/album/2z3shDcoGDm7cVqgPe7JRG) | 2:33 | 2024-04-19 | 2024-06-05 |
 | [Ae Ri Sakhi](https://open.spotify.com/track/48VuZBLob8F0K62yPqch09) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Dhai Aakhar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ) | 4:45 | 2024-11-25 |  |
 | [Ae Ri Sakhi](https://open.spotify.com/track/5p54INLXgza6Do7nTsFPpG) | [kSaya](https://open.spotify.com/artist/4N8z2CTrbGkT50OoGj3Z2P), [Pooja Gaitonde](https://open.spotify.com/artist/7h7RCEJXdzbsEulBquEQJW), [Prasad Gaitonde](https://open.spotify.com/artist/6OKKST2lo5Q4zOpmOLS7ja) | [Ae Ri Sakhi](https://open.spotify.com/album/4AZg2InQrYXVO1LZOK7zuH) | 4:14 | 2022-05-17 | 2023-05-24 |
@@ -259,7 +260,7 @@
 | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Aastha Mandle](https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA) | [Nirbhay Nirgun \(Live\)](https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4) | 6:20 | 2023-07-21 |  |
 | [Nirmohiya](https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:38 | 2024-11-21 |  |
 | [Nirvana](https://open.spotify.com/track/6AIMkgFs253hoN9dLa5NA6) | [SoundGuySam](https://open.spotify.com/artist/46kwfZuv8Zp5s1lmeOvjTw), [Vāhaka](https://open.spotify.com/artist/2fNCMrjJFeeQVLhdS4tE8m) | [Nirvana](https://open.spotify.com/album/0JqNvIfu12IkoCUVBWn9iN) | 3:00 | 2022-05-17 | 2023-05-24 |
-| [O Piya](https://open.spotify.com/track/4xAK5ByZuVV78J2UxYu75n) | [Saswat Balan](https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz), [SHA](https://open.spotify.com/artist/6pdn0t0T5evvRrNk5VnyGh) | [O Piya](https://open.spotify.com/album/6rVtE8mP2mw7CXu5L8rD9H) | 3:21 | 2025-09-08 |  |
+| [O Piya](https://open.spotify.com/track/4xAK5ByZuVV78J2UxYu75n) | [Saswat Balan](https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz), [SHA](https://open.spotify.com/artist/6pdn0t0T5evvRrNk5VnyGh) | [O Piya](https://open.spotify.com/album/6rVtE8mP2mw7CXu5L8rD9H) | 3:21 | 2025-09-08 | 2025-12-18 |
 | [O Saawariya](https://open.spotify.com/track/3wxmhcKTOnkBGTqZIeK40N) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Munawwar Ali](https://open.spotify.com/artist/7HWhz8vrvqKS77FjmXYmPY) | [O Saawariya](https://open.spotify.com/album/2WUjEIjJ2LZihGXmA1V6v8) | 3:29 | 2023-05-18 | 2023-10-28 |
 | [O Sajana Barkha Bahar](https://open.spotify.com/track/2uOiaNaETsfYGnJbesEAYp) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB) | 3:35 | 2023-09-28 |  |
 | [O Sajana Barkha Bahar](https://open.spotify.com/track/4ZNtTyyJ8lpqHZmKRsCmBt) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4F6BUhEStYseE1u6eob2bg) | 3:35 | 2023-09-28 | 2024-04-19 |

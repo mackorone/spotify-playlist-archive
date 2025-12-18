@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103852,
+  "num_followers": 103858,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAAy6dJvIzfSSrT1OByDQtK0",
+  "snapshot_id": "aUChAAAAAACz2XED69gZv5+nUIOzL+gU",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 242091,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/6ulRZCEENJFpgoVZ6knMLY"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 2",
-        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 242091,
-      "name": "Tengo Que Colgar",
-      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buena Se\u00f1al",
         "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
       },
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Si Quieres (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
       "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
         {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 258480,
+      "name": "Si Quieres - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
     },
     {
       "added_at": null,
@@ -651,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Covers, Vol. 6",
         "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
       },
@@ -667,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
-      },
-      "artists": [
-        {
-          "name": "Neto Bernal",
-          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Si Quieres - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
@@ -699,6 +699,34 @@
       "duration_ms": 196080,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Princesa de la Noche",
+        "url": "https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5"
+      },
+      "artists": [
+        {
+          "name": "Mori",
+          "url": "https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Paul Ruche",
+          "url": "https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ"
+        },
+        {
+          "name": "Z GU",
+          "url": "https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Princesa de la Noche",
+      "url": "https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4"
     },
     {
       "added_at": null,
@@ -767,34 +795,6 @@
       "duration_ms": 249974,
       "name": "Me Va A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Princesa de la Noche",
-        "url": "https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5"
-      },
-      "artists": [
-        {
-          "name": "Mori",
-          "url": "https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Paul Ruche",
-          "url": "https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ"
-        },
-        {
-          "name": "Z GU",
-          "url": "https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Princesa de la Noche",
-      "url": "https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4"
     },
     {
       "added_at": null,

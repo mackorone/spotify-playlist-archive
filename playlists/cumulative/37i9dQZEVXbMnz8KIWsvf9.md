@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,253 songs - 3 day 1 hr 38 min
+1,254 songs - 3 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,7 +549,7 @@
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2023-06-04 | 2024-01-06 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-18 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2024-06-18 |
-| [PLEASE](https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17) | [atom chanakan](https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw) | [CYANTIST](https://open.spotify.com/album/5bN3mBhK6SmCvYzWo83ar6) | 4:44 | 2025-04-29 |  |
+| [PLEASE](https://open.spotify.com/track/3Ohb6hLc9rdw63nq8NMC17) | [atom chanakan](https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw) | [CYANTIST](https://open.spotify.com/album/5bN3mBhK6SmCvYzWo83ar6) | 4:44 | 2025-04-29 | 2025-12-18 |
 | [Please Don't Change \(feat\. DJ Snake\)](https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:26 | 2023-11-04 | 2023-11-16 |
 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2024-09-28 | 2024-10-10 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-13 | 2024-09-29 |
@@ -884,7 +884,7 @@
 | [คำตอบสุดท้าย](https://open.spotify.com/track/6d9rWFahtOYiNblK9dvqK2) | [AirBorne](https://open.spotify.com/artist/2uPPduOPqzYiWESkxR1SpB) | [AirBorne](https://open.spotify.com/album/1eCenknqFafsaOiVrjQHrT) | 3:55 | 2025-08-15 | 2025-11-02 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2021-10-13 | 2022-07-30 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/0JStm1Ns9Ya2zQhbqMDYEU) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/2TiiQ167oW1svJVLppgOsv) | 4:26 | 2021-03-27\* | 2022-04-13 |
-| [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/6zZsio19rHayse0WDDLboq) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/6oMNFvZbljDYMCPwNRQSL7) | 4:26 | 2025-06-01 | 2025-12-17 |
+| [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/6zZsio19rHayse0WDDLboq) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [ผู้เดียว](https://open.spotify.com/album/6oMNFvZbljDYMCPwNRQSL7) | 4:26 | 2025-06-01 |  |
 | [คิดไม่ออก](https://open.spotify.com/track/16Q1RVWOVUb83MnEXAV9Fo) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Not A Rapper](https://open.spotify.com/album/1lRxSZbf648asJ14B7yOyv) | 3:20 | 2021-07-04 | 2021-07-14 |
 | [คิดไม่ออก](https://open.spotify.com/track/1I9oRSMpN2K0xYivVr0AhF) | [TangBadVoice](https://open.spotify.com/artist/2feGNLrcUrcsQNA1QJBaIe), [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [คิดไม่ออก](https://open.spotify.com/album/6pcnTpwlGq2hfODdsHGBz1) | 3:20 | 2021-03-30 | 2021-07-04 |
 | [คุณนายตื่นสาย \(Wake Up Please\)](https://open.spotify.com/track/1OTRdsfrVZRUCktBiEBYmb) | [TEMI](https://open.spotify.com/artist/0VDH8FrhpCC1DwVqiGPTGn), [KiRANA](https://open.spotify.com/artist/06EAeUIbwthjzCwW1MRJTC) | [คุณนายตื่นสาย \(Wake Up Please\)](https://open.spotify.com/album/1QHlh4K6dLYQPfc84N1hpv) | 4:11 | 2025-11-24 |  |
@@ -938,6 +938,7 @@
 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 | 2024-01-21 | 2024-02-10 |
 | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/track/1lM2KWbk6nWKYq7qbMRcsb) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ซ่อนเธอไว้ในเพลง](https://open.spotify.com/album/7wZ6cdyUeqn86acl7dyMwR) | 5:16 | 2025-02-22 | 2025-02-24 |
 | [ดวงใจ](https://open.spotify.com/track/6dltZJ9ZFOnyCPgNikpCiW) | [ปราง ปรางทิพย์](https://open.spotify.com/artist/2uLHnWXJesP4riw8ripPWN) | [ดวงใจ](https://open.spotify.com/album/4vQCIsiPWhDaWZpT6qR2wW) | 4:20 | 2025-04-09 | 2025-05-30 |
+| [ดอกกระเจียวบาน](https://open.spotify.com/track/2GwkhYxTMUNoA82crG078s) | [Kong Huayrai](https://open.spotify.com/artist/0QStHUbJoIoaNtvHVaBMGK) | [ดอกกระเจียวบาน](https://open.spotify.com/album/37ODDShfTap0k59FHaQR4F) | 4:03 | 2025-12-17 |  |
 | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ดอกไม้ที่รอฝน \(spring\)](https://open.spotify.com/album/3c507rxKQ6lmPMw7l3Ut6r) | 3:48 | 2024-07-20 | 2025-04-03 |
 | [ดอกไม้ไฟ \- Firework](https://open.spotify.com/track/0B1RbM8oFqL2LTsY3axKpt) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 3:19 | 2022-03-25 | 2023-01-02 |
 | [ดอกไม้ไฟ \- Firework](https://open.spotify.com/track/5SolgEp0EAXjruwQdszykB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [ดอกไม้ไฟ \(Firework\)](https://open.spotify.com/album/6FFl3LEYxCdUFKJibcgveE) | 3:19 | 2021-03-27\* | 2022-03-26 |
@@ -1177,7 +1178,7 @@
 | [เรื่องราวความรักในตำนาน](https://open.spotify.com/track/4JVHa8eTUOEN0zS1zrA2j5) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [BANGKOK LEGACY](https://open.spotify.com/album/21LG4vnSC0pmcDaB1ICoi2) | 3:59 | 2025-02-26 |  |
 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/62cOB2rHLifRe73H85MhNz) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:46 | 2021-03-27\* | 2021-03-27 |
 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-08 | 2023-10-18 |
-| [เล่นของสูง](https://open.spotify.com/track/5ILPWem0xm3v85WeXqrTKP) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [Seven](https://open.spotify.com/album/4ertcYYSd1GcMHBGvgP4K5) | 4:06 | 2025-02-14 |  |
+| [เล่นของสูง](https://open.spotify.com/track/5ILPWem0xm3v85WeXqrTKP) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [Seven](https://open.spotify.com/album/4ertcYYSd1GcMHBGvgP4K5) | 4:06 | 2025-02-14 | 2025-12-18 |
 | [เล่นของสูง](https://open.spotify.com/track/72qkpImFQ25A2APz0Wto7L) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [Seven](https://open.spotify.com/album/18131oAh4GYVaYKfYjVUl3) | 4:06 | 2025-01-01 | 2025-02-01 |
 | [เวลาเธอยิ้ม \(You Had Me At Hello\)](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 | 2022-08-29 | 2025-11-18 |
 | [เสนอตัว \(Ooh!\)](https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เสนอตัว \(Ooh!\)](https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD) | 2:55 | 2024-03-16 | 2024-04-19 |

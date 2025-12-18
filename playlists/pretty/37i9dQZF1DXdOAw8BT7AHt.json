@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Sn\u00f5\u00f5per",
-  "num_followers": 471548,
+  "num_followers": 471536,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "The New Chaos",
-        "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
-      },
-      "artists": [
-        {
-          "name": "LOCKED SHUT",
-          "url": "https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e"
-        }
-      ],
-      "duration_ms": 117263,
-      "name": "Jinx",
-      "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "I Want To Disappear",
         "url": "https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo"
       },
@@ -595,18 +579,34 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO"
+        "name": "The New Chaos",
+        "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
       "artists": [
         {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+          "name": "LOCKED SHUT",
+          "url": "https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e"
         }
       ],
-      "duration_ms": 192603,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M"
+      "duration_ms": 117263,
+      "name": "Jinx",
+      "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "LOOK OUT FOR ME",
+        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/4tqmxRUMi21ZAqKVemewpO"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/02bj1hZGIwwTYG6z1bJG1M"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "By The Way",
         "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 172205,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "You Should See Me Now",
-        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 224004,
-      "name": "You Should See Me Now",
-      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "LOOK OUT FOR ME",
-        "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
+        "name": "You Should See Me Now",
+        "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 403520,
-      "name": "LOOK OUT FOR ME",
-      "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
+      "duration_ms": 224004,
+      "name": "You Should See Me Now",
+      "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
-    },
-    {
       "added_at": "2025-10-03 13:40:04",
       "album": {
         "name": "Burnout",
@@ -847,6 +831,22 @@
       "duration_ms": 148663,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "I\u2019ve Felt Better",
-        "url": "https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z"
-      },
-      "artists": [
-        {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
-        }
-      ],
-      "duration_ms": 173956,
-      "name": "I've Felt Better",
-      "url": "https://open.spotify.com/track/39ybOUF3YmjGDdHsk8EqtN"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "I\u2019ve Felt Better",
+        "url": "https://open.spotify.com/album/3kqpYEw1S1qRzA2TPgzx1z"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 173956,
+      "name": "I've Felt Better",
+      "url": "https://open.spotify.com/track/39ybOUF3YmjGDdHsk8EqtN"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Lose Your Way & Find Yourself",
-        "url": "https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Lose Your Way & Find Yourself",
-      "url": "https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Lose Your Way & Find Yourself",
+        "url": "https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Lose Your Way & Find Yourself",
+      "url": "https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
         "url": "https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 214800,
       "name": "Mike Nolan\u2019s Long Weekend ft. Dom Fox",
       "url": "https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Erasure",
-        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "GROWING UP ON THE INTERNET",
-        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "GROWING UP ON THE INTERNET",
-      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 317467,
       "name": "Running",
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "GROWING UP ON THE INTERNET",
+        "url": "https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "GROWING UP ON THE INTERNET",
+      "url": "https://open.spotify.com/track/2JEdblWbXROMy0otLQL5UL"
     },
     {
       "added_at": "2025-09-11 23:00:08",

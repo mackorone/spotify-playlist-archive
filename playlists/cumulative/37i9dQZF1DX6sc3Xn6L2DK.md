@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 | 2021-12-15 | 2025-12-07 |
+| [12 Feet High](https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [12 Feet High](https://open.spotify.com/album/6KkGswg0AiEqjN2Uc79cWt) | 3:45 | 2021-12-15 |  |
 | [13 Lakes](https://open.spotify.com/track/782wmOBwOEMzGaDxPpollT) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [13 Lakes](https://open.spotify.com/album/0M4ClN7TShkiIqusklnOq2) | 3:17 | 2025-12-05 |  |
 | [A Love International](https://open.spotify.com/track/3Bbb7sfVmXbJnuy75MidP3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 4:15 | 2024-04-12 |  |
 | [Alchemy](https://open.spotify.com/track/2xoH0GxWAq8AxivBQdg4SY) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Alchemy](https://open.spotify.com/album/7C0o4kiZosGwLdgsdHKmtU) | 2:40 | 2025-06-18 |  |
@@ -134,7 +134,7 @@
 | [Sold My Soul](https://open.spotify.com/track/2Mo15RrdsNpDEvIphExYyP) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 6:11 | 2021-12-15 | 2022-07-29 |
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2021-12-15 | 2024-04-19 |
 | [Sour Apple](https://open.spotify.com/track/1tWuOd7rz1nBAfhsDi6FsZ) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Evil](https://open.spotify.com/album/3Uf0xC2IAZ9hAzvI46tcUP) | 3:11 | 2021-12-15 | 2022-07-26 |
-| [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 | 2021-12-15 |  |
+| [South Dakota](https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0) | [This Frontier Needs Heroes](https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire) | [South Dakota](https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL) | 4:06 | 2021-12-15 | 2025-12-18 |
 | [Southern Star](https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Southern Star](https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d) | 3:06 | 2023-06-09 |  |
 | [Space And Time](https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Old Time Feeling](https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT) | 4:32 | 2021-12-15 |  |
 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Speed, Sound, Lonely KV \(ep\)](https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6) | 5:15 | 2024-02-02 | 2024-04-19 |

@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Bhartha Mahasayulaku Wignyapthi
+> Bringing out the best of latest love tracks<br/>Cover : Raja Saab
 
-337 songs - 21 hr 45 min
+338 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Romeo Juliet](https://open.spotify.com/track/74PLxHWwuyBKjZ3vB7y6wS) | [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Ghani](https://open.spotify.com/album/0M0bEaoDVFePXtIp32CCNT) | 3:51 | 2022-02-09 | 2023-02-21 |
 | [Ru Ru \(From "Tuk Tuk"\)](https://open.spotify.com/track/7vxG9gy43GnShHXMwaLY9X) | [Pavithra Narkinabilli](https://open.spotify.com/artist/19EgQMvkHsLcLaNpgZuNxf), [Santhu Omkar](https://open.spotify.com/artist/6sbczMkYPTCssSNgMprpoz), [Supreeth C Krishna](https://open.spotify.com/artist/5DJO2aOCfbSO1rDMhQHgqN), [Keerthana Sriram](https://open.spotify.com/artist/1fNVifjK4BtW3zMiLxZahx), [Prarthana Sriram](https://open.spotify.com/artist/7EdorwRDTYPcN7vkcWaEjm) | [Ru Ru \(From "Tuk Tuk"\)](https://open.spotify.com/album/3NjsEYDRM4dMxxNj3RHVJA) | 3:32 | 2025-03-10 | 2025-10-10 |
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2022-05-04 | 2023-02-21 |
+| [Sahana Sahana \(From "The Rajasaab"\) \[TELUGU\]](https://open.spotify.com/track/5xOEnyX9CddnBbUNLmbW7X) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Sahana Sahana \(From "The Rajasaab"\) \[TELUGU\]](https://open.spotify.com/album/0o5pHRoYSAuYkonm6sV1Tm) | 4:23 | 2025-12-17 |  |
 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 | 2023-09-16 | 2025-02-01 |
 | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Amrish](https://open.spotify.com/artist/0aGTnzmMIRLkP50xeuuINj) | [Sammohanuda \(From "Rules Ranjann"\)](https://open.spotify.com/album/2fdBGU2kwItuRq2OweJrBi) | 3:19 | 2023-07-31 | 2025-02-01 |
 | [Sanchari Sanchari \(From "Sarangapani Jathakam"\)](https://open.spotify.com/track/4eobR9FwEKJQzOara1xhjb) | [Vivek Sagar](https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Sanchari Sanchari \(From "Sarangapani Jathakam"\)](https://open.spotify.com/album/6YtmBnsaymyixG6hsnNS9m) | 3:50 | 2024-12-02 | 2025-03-11 |

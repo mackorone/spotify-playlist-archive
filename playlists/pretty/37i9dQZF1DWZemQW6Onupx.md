@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZemQW6Onupx.md) - [plain]
 
 > Enjoy music from "New PANTY & STOCKING with GARTERBELT"! <br/> ©TRIGGER,Hiroyuki Imaishi/NPSG Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,212 likes - 96 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,265 likes - 96 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

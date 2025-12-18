@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Zo\u00eb M\u00eb",
-  "num_followers": 37932,
+  "num_followers": 37931,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "The World (AR)",
-        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 227651,
-      "name": "The World (AR)",
-      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
         "name": "difficult",
         "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 156609,
       "name": "difficult",
       "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "The World (AR)",
+        "url": "https://open.spotify.com/album/0Z3Y8pPAKhiJpVZTd1p8t6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "The World (AR)",
+      "url": "https://open.spotify.com/track/7yNz3NhMVoWP4g7zqdEvns"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Dancing Alone Again",
-        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Dancing Alone Again",
-      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
         "name": "Longue Ride",
         "url": "https://open.spotify.com/album/0e64skKjTvndxBV6BOea3d"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 231759,
       "name": "En Lea",
       "url": "https://open.spotify.com/track/2js5S4h0pIFeHX0WLDOxwW"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "Dancing Alone Again",
+        "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Dancing Alone Again",
+      "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -663,38 +663,6 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
-        "name": "Arthouse",
-        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 199246,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
         "name": "Happy Here",
         "url": "https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9"
       },
@@ -715,22 +683,34 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
+        "name": "Arthouse",
+        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
       },
       "artists": [
         {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        },
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 148410,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
+      "duration_ms": 199246,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -795,6 +775,26 @@
       "duration_ms": 227413,
       "name": "Good",
       "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        },
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 148410,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/6axZOetpYj6MTQlosgY6Ez"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Flatline",
-        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
+        "name": "Born To Be Blue",
+        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
         }
       ],
-      "duration_ms": 165867,
-      "name": "Flatline",
-      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
+      "duration_ms": 171753,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Born To Be Blue",
-        "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
+        "name": "Flatline",
+        "url": "https://open.spotify.com/album/5UaiSKEsyY4vjBBR9ZIodw"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 171753,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw"
+      "duration_ms": 165867,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/4PIrbZdWo7ETTWZQNEbCUz"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+        "name": "Hear Me",
+        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
       },
       "artists": [
         {
@@ -1236,25 +1236,9 @@
           "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
         }
       ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
-        "name": "Chlorine",
-        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
-      },
-      "artists": [
-        {
-          "name": "Sivilian",
-          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
-        }
-      ],
-      "duration_ms": 180590,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
+      "duration_ms": 206102,
+      "name": "Hear Me",
+      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1271,6 +1255,22 @@
       "duration_ms": 180750,
       "name": "New Her",
       "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "Chlorine",
+        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
+      },
+      "artists": [
+        {
+          "name": "Sivilian",
+          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
+        }
+      ],
+      "duration_ms": 180590,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
         "name": "Stories of the XXI",
         "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 175093,
       "name": "Call Me in L.A.",
       "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Hear Me",
-        "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
       },
       "artists": [
         {
@@ -1400,9 +1400,9 @@
           "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
         }
       ],
-      "duration_ms": 206102,
-      "name": "Hear Me",
-      "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Time to Shine",
-        "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 163338,
-      "name": "Time to Shine",
-      "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
         "name": "Hurting",
         "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 157906,
       "name": "Hurting",
       "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
+        "name": "Time to Shine",
+        "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 163338,
+      "name": "Time to Shine",
+      "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
     },
     {
       "added_at": "2025-12-11 23:00:30",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-12-11 23:00:30",
-      "album": {
         "name": "i always remember all of my dreams",
         "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2025-12-11 23:00:30",
+      "album": {
         "name": "Long Year",
         "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-12-11 23:00:30",
       "album": {
-        "name": "KEEP IT COOL",
-        "url": "https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz"
+        "name": "LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy"
       },
       "artists": [
         {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
         }
       ],
-      "duration_ms": 173247,
-      "name": "KEEP IT COOL",
-      "url": "https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj"
+      "duration_ms": 197573,
+      "name": "LEAVE ME ALONE",
+      "url": "https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39"
     }
   ],
   "unique_name": "Swiss Made",

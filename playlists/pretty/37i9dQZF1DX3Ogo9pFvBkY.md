@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 
 > Relax and unwind with chill, ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273,330 likes - 245 songs - 11 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273,327 likes - 245 songs - 11 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,4 +254,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ogo9pFvBkY.md) - [plain]
 | 244 | [Binary](https://open.spotify.com/track/4YIomolaVecm440vfFosbW) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Binary](https://open.spotify.com/album/7At7uxaqNnxbrcvQ5h5PRL) | 2:42 |
 | 245 | [Woods](https://open.spotify.com/track/0NzfkMppPtYvZ9WP5BcyT8) | [Draumur](https://open.spotify.com/artist/73vfmQitDWpSJETJ4vP7Uv) | [Woods](https://open.spotify.com/album/1El1FeO6copIuw3wHOk1vZ) | 2:23 |
 
-Snapshot ID: `AAAAAJD0zskvbytOSchVQ3GtXdnyPRkm`
+Snapshot ID: `AAAAAIhGX/1R8WJYtjiHkN7VH9DVmV05`

@@ -1,15 +1,47 @@
 {
   "description": "Mga nangunguna sa mundo ng OPM. Cover: fitterkarma",
-  "num_followers": 2077326,
+  "num_followers": 2077236,
   "original_name": "Tatak Pinoy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABBpQY2Qd/0RFUzlluuKTPJBLXtj",
+  "snapshot_id": "AAAAAOPkJPwiLd4bEdILheGa9qitfuAF",
   "tracks": [
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Pag-Ibig ay Kanibalismo II",
+        "url": "https://open.spotify.com/album/72mYAD3S0oAD9itMzgVDKg"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "duration_ms": 207313,
+      "name": "Pag-Ibig ay Kanibalismo II",
+      "url": "https://open.spotify.com/track/6GRxn0Cvq5RNXMqINqmdg7"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Libu-Libong Buwan (Uuwian)",
+        "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
+      },
+      "artists": [
+        {
+          "name": "Kyle Raphael",
+          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
+        }
+      ],
+      "duration_ms": 178488,
+      "name": "Libu-Libong Buwan (Uuwian)",
+      "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Palaisipan",
         "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
@@ -45,74 +77,10 @@
       "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Pag-Ibig ay Kanibalismo II",
-        "url": "https://open.spotify.com/album/72mYAD3S0oAD9itMzgVDKg"
-      },
-      "artists": [
-        {
-          "name": "fitterkarma",
-          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
-        }
-      ],
-      "duration_ms": 207313,
-      "name": "Pag-Ibig ay Kanibalismo II",
-      "url": "https://open.spotify.com/track/6GRxn0Cvq5RNXMqINqmdg7"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "kahel na langit",
-        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 216382,
-      "name": "kahel na langit",
-      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "TAWID",
-        "url": "https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Ngiti",
-      "url": "https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Libu-Libong Buwan (Uuwian)",
-        "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
-      },
-      "artists": [
-        {
-          "name": "Kyle Raphael",
-          "url": "https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp"
-        }
-      ],
-      "duration_ms": 178488,
-      "name": "Libu-Libong Buwan (Uuwian)",
-      "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Sandali",
-        "url": "https://open.spotify.com/album/4t92Zbfii2HcubPxieMyUX"
+        "name": "Silakbo",
+        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
       },
       "artists": [
         {
@@ -120,116 +88,12 @@
           "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
         }
       ],
-      "duration_ms": 219201,
-      "name": "Sandali",
-      "url": "https://open.spotify.com/track/01yAdrgd5cjxUyebfX4VGa"
+      "duration_ms": 249375,
+      "name": "Pahina",
+      "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Tahanan",
-        "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
-      },
-      "artists": [
-        {
-          "name": "El Manu",
-          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Tahanan",
-      "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "RD Covers (Live)",
-        "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 276992,
-      "name": "Wala Na Bang Pag-ibig",
-      "url": "https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Palayo Sa Mundo",
-        "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
-      },
-      "artists": [
-        {
-          "name": "Jolianne",
-          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
-        },
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 268571,
-      "name": "Palayo Sa Mundo",
-      "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Ikaw Sana (Live)",
-        "url": "https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 387148,
-      "name": "Ikaw Sana - Live",
-      "url": "https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Soapdish Reloaded",
-        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
-      },
-      "artists": [
-        {
-          "name": "Soapdish",
-          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Tensionado",
-      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Ano Ba Talaga Tayo?",
-        "url": "https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Ano Ba Talaga Tayo?",
-      "url": "https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Dominga",
         "url": "https://open.spotify.com/album/1eTlYrqqUnN724pPwrCNbt"
@@ -249,26 +113,42 @@
       "url": "https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Unang Halik",
-        "url": "https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG"
+        "name": "TAWID",
+        "url": "https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot"
       },
       "artists": [
         {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Unang Halik",
-      "url": "https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex"
+      "duration_ms": 201750,
+      "name": "Ngiti",
+      "url": "https://open.spotify.com/track/0OzQ6q4AErZG5kJGA3wbcN"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Multo",
-        "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
+        "name": "RD Covers (Live)",
+        "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 276992,
+      "name": "Wala Na Bang Pag-ibig",
+      "url": "https://open.spotify.com/track/6D0jXlvOC2llxT2xEEGQBh"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Sandali",
+        "url": "https://open.spotify.com/album/4t92Zbfii2HcubPxieMyUX"
       },
       "artists": [
         {
@@ -276,12 +156,80 @@
           "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
         }
       ],
-      "duration_ms": 237692,
-      "name": "Multo",
-      "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
+      "duration_ms": 219201,
+      "name": "Sandali",
+      "url": "https://open.spotify.com/track/01yAdrgd5cjxUyebfX4VGa"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Palayo Sa Mundo",
+        "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 268571,
+      "name": "Palayo Sa Mundo",
+      "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
+      },
+      "artists": [
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "OSA",
+        "url": "https://open.spotify.com/album/65P7mKpsgmluScj2c7cQYr"
+      },
+      "artists": [
+        {
+          "name": "LILY",
+          "url": "https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u"
+        }
+      ],
+      "duration_ms": 215373,
+      "name": "OSA",
+      "url": "https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "kahel na langit",
+        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 216382,
+      "name": "kahel na langit",
+      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Vibrate",
         "url": "https://open.spotify.com/album/1GYSEZmxfsF98GMSQrCdMb"
@@ -297,39 +245,7 @@
       "url": "https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Saksi Ang Langit",
-        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 259058,
-      "name": "Saksi Ang Langit",
-      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/0OtaRZl2qPDKMGE3Ejbwiy"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 222112,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/6QzlxzQXbXsdzfprUKULTy"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/7CW5E4wuSXw01vBKkSZ9Gh"
@@ -345,7 +261,55 @@
       "url": "https://open.spotify.com/track/4l6wJay9VIyQYaMOWecj6N"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Panaginip",
+        "url": "https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI"
+      },
+      "artists": [
+        {
+          "name": "nicole",
+          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
+        }
+      ],
+      "duration_ms": 317077,
+      "name": "Panaginip",
+      "url": "https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Dito Ka Lang",
+        "url": "https://open.spotify.com/album/1LDzCTNFhzfn9TjghCuQV3"
+      },
+      "artists": [
+        {
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+        }
+      ],
+      "duration_ms": 209508,
+      "name": "Dito Ka Lang",
+      "url": "https://open.spotify.com/track/43wDE87JHrWJ3KZKGk61tH"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0OtaRZl2qPDKMGE3Ejbwiy"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 222112,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/6QzlxzQXbXsdzfprUKULTy"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Kailan Ka Uuwi (feat. Flow G)",
         "url": "https://open.spotify.com/album/6RiqcnCb9Z6mxrXsLDEXEj"
@@ -365,91 +329,23 @@
       "url": "https://open.spotify.com/track/5INJWPDC31rn7ebGRQ0rN9"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Dito Ka Lang",
-        "url": "https://open.spotify.com/album/1LDzCTNFhzfn9TjghCuQV3"
+        "name": "Piliin",
+        "url": "https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ"
       },
       "artists": [
         {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
         }
       ],
-      "duration_ms": 209508,
-      "name": "Dito Ka Lang",
-      "url": "https://open.spotify.com/track/43wDE87JHrWJ3KZKGk61tH"
+      "duration_ms": 279399,
+      "name": "Piliin",
+      "url": "https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "OSA",
-        "url": "https://open.spotify.com/album/65P7mKpsgmluScj2c7cQYr"
-      },
-      "artists": [
-        {
-          "name": "LILY",
-          "url": "https://open.spotify.com/artist/1DFzp62fQet0UoMHoJPn4u"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "OSA",
-      "url": "https://open.spotify.com/track/1rKAz5oWjcoihrFfdhO6cW"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Langit Lupa",
-        "url": "https://open.spotify.com/album/7g62tz1qtEchywthimqOs0"
-      },
-      "artists": [
-        {
-          "name": "dwta",
-          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Langit Lupa",
-      "url": "https://open.spotify.com/track/3LxDcAiZSdjYL4nLBwmoYP"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Sungit",
-        "url": "https://open.spotify.com/album/1tl9h7Ym9Xc6LH0tg284Jk"
-      },
-      "artists": [
-        {
-          "name": "Any Name's Okay",
-          "url": "https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e"
-        }
-      ],
-      "duration_ms": 237583,
-      "name": "Sungit",
-      "url": "https://open.spotify.com/track/6uYeQtBpCicl3LqnIx5GBm"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "tagu-taguan",
-        "url": "https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x"
-      },
-      "artists": [
-        {
-          "name": "koreen",
-          "url": "https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6"
-        },
-        {
-          "name": "geo",
-          "url": "https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd"
-        }
-      ],
-      "duration_ms": 220654,
-      "name": "tagu-taguan",
-      "url": "https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Hirap Aminin",
         "url": "https://open.spotify.com/album/3OKMDzqfbeUCCBtvAwWgTz"
@@ -465,7 +361,23 @@
       "url": "https://open.spotify.com/track/0kgUhEf0mifj4qTMKiUxqD"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "FLAMES",
+        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 180727,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Umpisa (feat. Adie)",
         "url": "https://open.spotify.com/album/5qbTwrsFiPT80sfCGd2tgW"
@@ -485,91 +397,23 @@
       "url": "https://open.spotify.com/track/54zafUdXhsrckhrBF4PmmP"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Bebe",
-        "url": "https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc"
+        "name": "Sungit",
+        "url": "https://open.spotify.com/album/1tl9h7Ym9Xc6LH0tg284Jk"
       },
       "artists": [
         {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+          "name": "Any Name's Okay",
+          "url": "https://open.spotify.com/artist/1CZ6BqSNNDTbyne4SltF0e"
         }
       ],
-      "duration_ms": 190588,
-      "name": "Bebe",
-      "url": "https://open.spotify.com/track/48uhAuFJLnUwti49dcyjmZ"
+      "duration_ms": 237583,
+      "name": "Sungit",
+      "url": "https://open.spotify.com/track/6uYeQtBpCicl3LqnIx5GBm"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Laro",
-        "url": "https://open.spotify.com/album/1tryiZ8ELSSko2XcSJJ1Jd"
-      },
-      "artists": [
-        {
-          "name": "polaris.",
-          "url": "https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx"
-        }
-      ],
-      "duration_ms": 228684,
-      "name": "Laro",
-      "url": "https://open.spotify.com/track/06pA8vxowvqlRCe2hteMsB"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "FLAMES",
-        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 180727,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Piliin",
-        "url": "https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 279399,
-      "name": "Piliin",
-      "url": "https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/00KkDGF5CMfQo6e86x58cu"
-      },
-      "artists": [
-        {
-          "name": "Sugarcane",
-          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
-        },
-        {
-          "name": "The Ridleys",
-          "url": "https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "Memory (feat. The Ridleys)",
-      "url": "https://open.spotify.com/track/3uO5ZkTrkjrIN4Qj3j0Y9j"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Pagsibol",
         "url": "https://open.spotify.com/album/5olTvzPNVcYGJ8UYCJoUnh"
@@ -585,7 +429,75 @@
       "url": "https://open.spotify.com/track/6NV6wEZlMjZCHXtv3b3Ehv"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Balik-tanaw",
+        "url": "https://open.spotify.com/album/4trBemFPhex5qU3515inkl"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "duration_ms": 304888,
+      "name": "Pakiusap",
+      "url": "https://open.spotify.com/track/3lHvGgtL4OPyfTkmF8fWv7"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "tagu-taguan",
+        "url": "https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x"
+      },
+      "artists": [
+        {
+          "name": "koreen",
+          "url": "https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6"
+        },
+        {
+          "name": "geo",
+          "url": "https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd"
+        }
+      ],
+      "duration_ms": 220654,
+      "name": "tagu-taguan",
+      "url": "https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Suob (From \"Meet, Greet & Bye\")",
+        "url": "https://open.spotify.com/album/2srniLGdD4CfDxFBG5p633"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 284234,
+      "name": "Suob - From \"Meet, Greet & Bye\"",
+      "url": "https://open.spotify.com/track/2IS8s76UJOTKqE3lPrEj09"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Langit Lupa",
+        "url": "https://open.spotify.com/album/7g62tz1qtEchywthimqOs0"
+      },
+      "artists": [
+        {
+          "name": "dwta",
+          "url": "https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Langit Lupa",
+      "url": "https://open.spotify.com/track/3LxDcAiZSdjYL4nLBwmoYP"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Bahala Na Sila",
         "url": "https://open.spotify.com/album/5mZeVTKDwnXcNj0TZBHPGx"
@@ -601,23 +513,23 @@
       "url": "https://open.spotify.com/track/3Yj7S8OdTdmTk4SYFxRbKC"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Panaginip",
-        "url": "https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI"
+        "name": "Kalawakan",
+        "url": "https://open.spotify.com/album/2IkFpMoOTNwKWbcxAa3RHs"
       },
       "artists": [
         {
-          "name": "nicole",
-          "url": "https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 317077,
-      "name": "Panaginip",
-      "url": "https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L"
+      "duration_ms": 239873,
+      "name": "Kalawakan",
+      "url": "https://open.spotify.com/track/4L1cUWMpmGgfD5t6s5V5Wy"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "rupok",
         "url": "https://open.spotify.com/album/3ICK3HtCmXATv3IKUZsDPt"
@@ -637,55 +549,7 @@
       "url": "https://open.spotify.com/track/5v5Jhp7OZAejrWbqPQ2y2D"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Silakbo",
-        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
-      },
-      "artists": [
-        {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "Pahina",
-      "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Suob (From \"Meet, Greet & Bye\")",
-        "url": "https://open.spotify.com/album/2srniLGdD4CfDxFBG5p633"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 284234,
-      "name": "Suob - From \"Meet, Greet & Bye\"",
-      "url": "https://open.spotify.com/track/2IS8s76UJOTKqE3lPrEj09"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Kalawakan",
-        "url": "https://open.spotify.com/album/2IkFpMoOTNwKWbcxAa3RHs"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 239873,
-      "name": "Kalawakan",
-      "url": "https://open.spotify.com/track/4L1cUWMpmGgfD5t6s5V5Wy"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "pano tayo (?)",
         "url": "https://open.spotify.com/album/5M9rV3VTkXYt1ErBFpHMZ2"
@@ -701,23 +565,39 @@
       "url": "https://open.spotify.com/track/1qMLxOAzVNEqA6ibD4BHXW"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Pagitan",
-        "url": "https://open.spotify.com/album/6rE38U5oGh0hSRz73clhBA"
+        "name": "Nahuhulog",
+        "url": "https://open.spotify.com/album/2oPM69Xyu6aJUBWKJPzyMU"
       },
       "artists": [
         {
-          "name": "Rangel",
-          "url": "https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi"
+          "name": "JUSWA",
+          "url": "https://open.spotify.com/artist/22yUwz3v65LeUJSHC3DeGs"
         }
       ],
-      "duration_ms": 181032,
-      "name": "Pagitan",
-      "url": "https://open.spotify.com/track/09l7DSBPUiqqyDEeQ2au3o"
+      "duration_ms": 190089,
+      "name": "Nahuhulog",
+      "url": "https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/6NKoexYP723EZpwzwLsCXG"
+      },
+      "artists": [
+        {
+          "name": "Khai El",
+          "url": "https://open.spotify.com/artist/0c6ILfKzO0L3Fz7BmnNurr"
+        }
+      ],
+      "duration_ms": 224718,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/3Ljx6tvFUYYj275OmlAIDg"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Punta Ka?",
         "url": "https://open.spotify.com/album/3fVSa9avzjEltiwjC55xmI"
@@ -737,39 +617,23 @@
       "url": "https://open.spotify.com/track/6MKfYl08wrrIrH3a0MyGt6"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Balik-tanaw",
-        "url": "https://open.spotify.com/album/4trBemFPhex5qU3515inkl"
+        "name": "Biglaan",
+        "url": "https://open.spotify.com/album/65ZsDDYYF9faaSYfDfuJ0O"
       },
       "artists": [
         {
-          "name": "I Belong to the Zoo",
-          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
         }
       ],
-      "duration_ms": 304888,
-      "name": "Pakiusap",
-      "url": "https://open.spotify.com/track/3lHvGgtL4OPyfTkmF8fWv7"
+      "duration_ms": 228923,
+      "name": "Biglaan",
+      "url": "https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/6NKoexYP723EZpwzwLsCXG"
-      },
-      "artists": [
-        {
-          "name": "Khai El",
-          "url": "https://open.spotify.com/artist/0c6ILfKzO0L3Fz7BmnNurr"
-        }
-      ],
-      "duration_ms": 224718,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3Ljx6tvFUYYj275OmlAIDg"
-    },
-    {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "HAPPY ACCIDENTS VOL. 2 (DELUXE EDITION))",
         "url": "https://open.spotify.com/album/5NTTN3eW7xR3eTcRRD9VFV"
@@ -789,39 +653,39 @@
       "url": "https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "Nahuhulog",
-        "url": "https://open.spotify.com/album/2oPM69Xyu6aJUBWKJPzyMU"
+        "name": "Himawari",
+        "url": "https://open.spotify.com/album/0Gkjm21h6Jpr9YaJ4ERWCC"
       },
       "artists": [
         {
-          "name": "JUSWA",
-          "url": "https://open.spotify.com/artist/22yUwz3v65LeUJSHC3DeGs"
+          "name": "Selwin Rey",
+          "url": "https://open.spotify.com/artist/7FzBJfukf2TGCux84D780N"
         }
       ],
-      "duration_ms": 190089,
-      "name": "Nahuhulog",
-      "url": "https://open.spotify.com/track/2eKTYFbXJWS56VRiuFLp0a"
+      "duration_ms": 246857,
+      "name": "Himawari",
+      "url": "https://open.spotify.com/track/3N34C1hW2ACkTGZ3HViieR"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
-        "name": "true orange",
-        "url": "https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O"
+        "name": "Saksi Ang Langit",
+        "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
       },
       "artists": [
         {
-          "name": "Yoki",
-          "url": "https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 192812,
-      "name": "i love you, too",
-      "url": "https://open.spotify.com/track/70t6LYwnGLkAIQlHSpqMWR"
+      "duration_ms": 259058,
+      "name": "Saksi Ang Langit",
+      "url": "https://open.spotify.com/track/6tPFZRJKj5JR7qO3qWxaVm"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Huling Sandali",
         "url": "https://open.spotify.com/album/4bqt2PYRqVqupYG6ItVoSI"
@@ -837,7 +701,127 @@
       "url": "https://open.spotify.com/track/5leZwTgwMob3NysJNsfU1a"
     },
     {
-      "added_at": "2025-12-10 02:20:45",
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Soapdish Reloaded",
+        "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
+      },
+      "artists": [
+        {
+          "name": "Soapdish",
+          "url": "https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Tensionado",
+      "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Di Na Natuto",
+        "url": "https://open.spotify.com/album/7xJz5lH1yckwUYaauGiIj1"
+      },
+      "artists": [
+        {
+          "name": "Jensen Gomez",
+          "url": "https://open.spotify.com/artist/3xZCL7YJQySq6zYycUfdSv"
+        },
+        {
+          "name": "M00N",
+          "url": "https://open.spotify.com/artist/6e7xPnl4XriUKX5vtXO6er"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Di Na Natuto",
+      "url": "https://open.spotify.com/track/40b7ukHcwt04SovC7rquOv"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Ikaw Sana (Live)",
+        "url": "https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 387148,
+      "name": "Ikaw Sana - Live",
+      "url": "https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "true orange",
+        "url": "https://open.spotify.com/album/1eWaVsgQhg4BXn2UowMT9O"
+      },
+      "artists": [
+        {
+          "name": "Yoki",
+          "url": "https://open.spotify.com/artist/2KSbfWcuuca3HqCgxzNR5c"
+        }
+      ],
+      "duration_ms": 192812,
+      "name": "i love you, too",
+      "url": "https://open.spotify.com/track/70t6LYwnGLkAIQlHSpqMWR"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Multo",
+        "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "duration_ms": 237692,
+      "name": "Multo",
+      "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Paraiso",
+        "url": "https://open.spotify.com/album/5nEVhJoyzg7K9S8DRwO3xy"
+      },
+      "artists": [
+        {
+          "name": "JetNekko",
+          "url": "https://open.spotify.com/artist/2Zz4iF0WqUSduXhnJFos5o"
+        }
+      ],
+      "duration_ms": 301611,
+      "name": "Paraiso",
+      "url": "https://open.spotify.com/track/4WgKPgWj629H3bnTEQQuEH"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Ano Ba Talaga Tayo?",
+        "url": "https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        },
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Ano Ba Talaga Tayo?",
+      "url": "https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
       "album": {
         "name": "Clingy",
         "url": "https://open.spotify.com/album/5LDcYO9XbhB07Ul929cY6B"
@@ -855,6 +839,22 @@
       "duration_ms": 198000,
       "name": "Clingy",
       "url": "https://open.spotify.com/track/6TTt3qfJjMsQWzARMRCNzq"
+    },
+    {
+      "added_at": "2025-12-17 03:35:38",
+      "album": {
+        "name": "Unang Halik",
+        "url": "https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Unang Halik",
+      "url": "https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex"
     }
   ],
   "unique_name": "Tatak Pinoy",

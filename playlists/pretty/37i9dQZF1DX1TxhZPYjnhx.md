@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Sorn, MINNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,623 likes - 119 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,624 likes - 119 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

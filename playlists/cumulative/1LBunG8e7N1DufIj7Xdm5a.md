@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,733 songs - 8 day 6 hr 4 min
+3,734 songs - 8 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Best Music Ever Edited](https://open.spotify.com/track/4xixLfWDornzt1eKfcIKCi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:34 | 2025-09-19 |  |
 | [Best Music Ever Edited \(another\)](https://open.spotify.com/track/2bp0gnwoqEQwUKGu958DjQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Best Music](https://open.spotify.com/album/7MTHw4nXXx8QfsaKXJZSVp) | 2:44 | 2025-09-19 |  |
 | [Bet](https://open.spotify.com/track/5o6HbzXzzVgZFGD3CP9jaX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:04 | 2025-09-17 |  |
+| [Better Day](https://open.spotify.com/track/6noFVkavNOXKDrLGDY8TwZ) | [Guilherme Resende](https://open.spotify.com/artist/3WTCGIL67DASnxYb76coyw) | [Better Day](https://open.spotify.com/album/01zk0chCLxGkzycreINElD) | 5:12 | 2025-12-17 |  |
 | [Better Man](https://open.spotify.com/track/1VV4L1gBfvLWJKc0aw5s2t) | [Big Honey](https://open.spotify.com/artist/0lOuO0LNPQEvNLfMzfkCd5) | [Better Man](https://open.spotify.com/album/5LRVJjqaojPvub3GNmHZRU) | 3:26 | 2025-11-19 |  |
 | [Bicchiere](https://open.spotify.com/track/1G15A1YSQlvEGbX2zd7JMn) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 3:15 | 2025-05-27 |  |
 | [Big Wave](https://open.spotify.com/track/0dvHTpLImpPA0GrSDdtgnk) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Big Wave](https://open.spotify.com/album/74xramtc392GWxiey2NQ3A) | 1:48 | 2025-07-19 |  |
@@ -2244,7 +2245,7 @@
 | [No Apologies](https://open.spotify.com/track/4WVYwBseLHUCn54hQwEdg2) | [Exiles Of Singularity](https://open.spotify.com/artist/1xRMGCWiuniRs8Cxdg5sfw) | [No Apologies](https://open.spotify.com/album/1l8PTx88saedtMYMxDXDSM) | 3:11 | 2025-06-02 |  |
 | [No Direction](https://open.spotify.com/track/4JuCeTBLTP7zNzL25Ee13U) | [Phenomenal\-H4960](https://open.spotify.com/artist/2K7TmdznfGl65KL8pxl37I) | [No Direction](https://open.spotify.com/album/6peY12mJRaKm1qW3bemOz1) | 2:57 | 2025-06-04 |  |
 | [No Exit No U Turn](https://open.spotify.com/track/3OG0Q9iWGbbgMMv4x2VPx6) | [Bumblebird](https://open.spotify.com/artist/4lVB3K4TyKgC359oQUasTv) | [No Exit No U Turn](https://open.spotify.com/album/2fwnBoki8DtkYloa2V7asc) | 3:09 | 2025-06-02 |  |
-| [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [Glows Vent](https://open.spotify.com/artist/6ER67V0fl4INMQvugwO9md) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 | 2025-05-08 |  |
+| [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [DESVASTARDOS](https://open.spotify.com/artist/42yvmSe4biIZio90cwI2EN) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 | 2025-05-08 |  |
 | [No for](https://open.spotify.com/track/3SSHoVKf9ftA73SsXKk1MM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:19 | 2025-08-28 |  |
 | [No Future 2.0](https://open.spotify.com/track/3GODMEY8bFzzLpqVPEQCjX) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:54 | 2025-09-19 |  |
 | [No Gravity](https://open.spotify.com/track/0DLbt35IWf9I6zECSuom0J) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:35 | 2025-09-20 |  |

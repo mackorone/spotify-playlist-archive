@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-256 songs - 13 hr 59 min
+257 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Stay the Night](https://open.spotify.com/track/33p5VrwqW4GDBr1cY3N8IM) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 2:51 | 2024-06-13 |  |
 | [Steph Curry](https://open.spotify.com/track/2SoD6N6lXUp9cPmFkEFW3Q) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:18 | 2024-06-13 |  |
 | [Stressed Out](https://open.spotify.com/track/3lsDtg0uBxpnYegN6DXcrA) | [Algee Smith](https://open.spotify.com/artist/10gHoEHUPNcTFsyVR2YyeA) | [Listen](https://open.spotify.com/album/6CYTungb6eOWUboOc9SPk2) | 3:02 | 2024-06-13 |  |
+| [Stretch](https://open.spotify.com/track/45ika45Kgm9A0a9Hg36tRz) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [I\-KNOW \- The 1st Album](https://open.spotify.com/album/0as0v59idZjdfApWTAItnC) | 3:02 | 2025-12-17 |  |
 | [Sweet Release](https://open.spotify.com/track/6slHYtUdsRou97ZKllTF2w) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:08 | 2024-06-13 |  |
 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-13 |  |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2025-01-09 | 2025-04-12 |

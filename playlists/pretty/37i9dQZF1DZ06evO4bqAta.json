@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 586087,
+  "num_followers": 586099,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAABix57Tfqfkif29MfW5QOlC",
+  "snapshot_id": "aUChAAAAAADu3z0lVfjLoViQuFTGsOxW",
   "tracks": [
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 305089,
-      "name": "Most of the Time",
-      "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
+      "duration_ms": 180478,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 180478,
-      "name": "Ring Them Bells",
-      "url": "https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l"
+      "duration_ms": 305089,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: back number
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,970 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,985 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 9 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
 | 10 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 |
 | 11 | [織姫とBABY](https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld), [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [織姫とBABY](https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD) | 3:42 |
-| 12 | [中華料理屋の酢豚が食べたい](https://open.spotify.com/track/4V6SOpJTzJALfNivDuouLJ) | [琳子](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [中華料理屋の酢豚が食べたい](https://open.spotify.com/album/2vd7mmBOx2C9XmmLiS90Xp) | 3:18 |
+| 12 | [中華料理屋の酢豚が食べたい](https://open.spotify.com/track/4V6SOpJTzJALfNivDuouLJ) | [Rinko](https://open.spotify.com/artist/6eOehyQmnIKAN8ahkzMglf) | [中華料理屋の酢豚が食べたい](https://open.spotify.com/album/2vd7mmBOx2C9XmmLiS90Xp) | 3:18 |
 | 13 | [愛とU](https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [愛とU](https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl) | 3:22 |
 | 14 | [世界は恋に落ちている](https://open.spotify.com/track/0PWIc3fMjsnfxv2SyQ2lRx) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界は恋に落ちている](https://open.spotify.com/album/0WSQj7Napau4Akty4Inkds) | 5:11 |
 | 15 | [好きすぎて滅！](https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [好きすぎて滅！](https://open.spotify.com/album/0MKOqrmzENfaB1FpkZjHp7) | 3:32 |

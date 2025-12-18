@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 19 hr 2 min
+182 songs - 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [good times](https://open.spotify.com/track/7vUSIRxxec1PKAp0MLZeHT) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:47 | 2024-06-11 | 2024-07-13 |
 | [Grace Wouldn't Leave Me](https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz) | 3:07 | 2025-02-26 |  |
 | [Grace Wouldn't Leave Me](https://open.spotify.com/track/5uAgnUEeDpECNuGC5U6AyH) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 3:07 | 2024-06-11 | 2025-02-27 |
-| [Grateful](https://open.spotify.com/track/6sem2CC8ZtzgWCDhyw58a2) | [Falcon](https://open.spotify.com/artist/1CyTHAIIX3WyRdFwkz0vnb) | [Nova](https://open.spotify.com/album/3OsuGDfJXeBFUUlYCtkjpq) | 3:33 | 2024-06-11 |  |
+| [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 | 2025-12-17 |  |
+| [Grateful](https://open.spotify.com/track/6sem2CC8ZtzgWCDhyw58a2) | [Falcon](https://open.spotify.com/artist/1CyTHAIIX3WyRdFwkz0vnb) | [Nova](https://open.spotify.com/album/3OsuGDfJXeBFUUlYCtkjpq) | 3:33 | 2024-06-11 | 2025-12-18 |
 | [Gratitude](https://open.spotify.com/track/0cXV6AoJBnrnrXK0toJHpB) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 5:37 | 2024-06-11 | 2024-07-14 |
 | [Gratitude](https://open.spotify.com/track/4VI7berVSzuaBt1BGrBksC) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 5:37 | 2024-07-13 |  |
 | [Gratitude / Great are you Lord \- Acoustic Version](https://open.spotify.com/track/2bHImes7aOp7CffOyONwgt) | [Chris Boanca](https://open.spotify.com/artist/3pfHfCgK6aaRcvvUWd5CTV), [Philip Steele](https://open.spotify.com/artist/7aRu5nCQ1nEwuMHMfUzOfx) | [Gratitude / Great are you Lord \(Acoustic Version\)](https://open.spotify.com/album/47jNGrqApx1ygBLKmzcJGQ) | 5:55 | 2025-02-19 |  |

@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137673,
+  "num_followers": 137680,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "O Velho Fusca",
         "url": "https://open.spotify.com/album/21HGedzOEu60ECMttwUimn"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Viver (Mais leve que o ar)",
         "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
       },
@@ -519,22 +519,6 @@
       "duration_ms": 259453,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -555,6 +539,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Tim Maia",
         "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
       },
@@ -567,26 +567,6 @@
       "duration_ms": 199944,
       "name": "Brother, Father, Sister And Mother",
       "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Cinco",
-        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 302706,
-      "name": "Soprou",
-      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -615,6 +595,26 @@
       "duration_ms": 230849,
       "name": "Bem Bom",
       "url": "https://open.spotify.com/track/5GkqsV7wYPqZNjGfhSGWuf"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Cinco",
+        "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 302706,
+      "name": "Soprou",
+      "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 166692,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 166692,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
         "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
       },
@@ -815,6 +815,26 @@
       "duration_ms": 176920,
       "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
       "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Andar Sozinho (feat. J\u00e3o)",
+        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 180213,
+      "name": "Andar Sozinho (feat. J\u00e3o)",
+      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -843,26 +863,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Andar Sozinho (feat. J\u00e3o)",
-        "url": "https://open.spotify.com/album/1hwlO0NqvY5Lpsynz93sVP"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 180213,
-      "name": "Andar Sozinho (feat. J\u00e3o)",
-      "url": "https://open.spotify.com/track/6VgqKm7c4chTnDmyInAxPS"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 283137,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "SalDoce",
+        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 181992,
+      "name": "Bem ou Mal",
+      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -911,26 +931,6 @@
       "duration_ms": 279003,
       "name": "Parafuso",
       "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "SalDoce",
-        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 181992,
-      "name": "Bem ou Mal",
-      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Baile \u00e0 la Baiana",
-        "url": "https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Peu Meurray",
-          "url": "https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF"
-        }
-      ],
-      "duration_ms": 205315,
-      "name": "Gente Boa se Atrai",
-      "url": "https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "SAGRADO, Vol 2",
         "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 222834,
       "name": "Coisas do Amor (Me Chama)",
       "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Baile \u00e0 la Baiana",
+        "url": "https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Peu Meurray",
+          "url": "https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF"
+        }
+      ],
+      "duration_ms": 205315,
+      "name": "Gente Boa se Atrai",
+      "url": "https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX"
     },
     {
       "added_at": "2025-12-05 19:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover:  Suisei, Tenxi, kirohta
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,030 likes - 117 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,026 likes - 117 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

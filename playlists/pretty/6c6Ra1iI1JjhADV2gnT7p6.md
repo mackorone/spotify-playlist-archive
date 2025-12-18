@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,561 likes - 400 songs - 21 hr 55 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,563 likes - 400 songs - 21 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,26 +90,26 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 80 | [Leaves](https://open.spotify.com/track/59WNawuqBwpkObENJfSh1P) | [The Big Easy](https://open.spotify.com/artist/0iaHIL2lxA5a7WY1boUCHz) | [Leaves](https://open.spotify.com/album/4Riu549f2qvdYgMvhFu18p) | 2:25 |
 | 81 | [All In The Game](https://open.spotify.com/track/5XBUiVkYaDuKhtSV3Fx32f) | [Moreish Idols](https://open.spotify.com/artist/7DoCMYqpSbn3kgBSWDpnLP) | [All In The Game](https://open.spotify.com/album/4zhTIqcLbPovVPYtWAtFhM) | 3:51 |
 | 82 | [Kept The Water Inside Of My Mouth](https://open.spotify.com/track/1hvQTXyqGaV3A7xI8qdIGi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0) | [Kept The Water Inside Of My Mouth](https://open.spotify.com/album/6IFf5UeuhCUhknhc57xPdu) | 5:11 |
-| 83 | [Begin Here](https://open.spotify.com/track/1I70BfKL8yfShgGobizhis) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Dream 3](https://open.spotify.com/album/75ILMGhtHI7bBn4vHdS8gQ) | 3:06 |
-| 84 | [Armies Of The Dawn](https://open.spotify.com/track/3z7Vz5P3AFKwVBZ8GzACNu) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Always Almost Home](https://open.spotify.com/album/0YWZdKAwLhXg3b7pue0OEk) | 3:37 |
-| 85 | [Bleu](https://open.spotify.com/track/4W91q0llJr8lumNadwBUpr) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Bleu](https://open.spotify.com/album/3f29eXpgTk09lPBwyZI2I0) | 2:42 |
-| 86 | [we were better](https://open.spotify.com/track/2c8kANHnQGTkt6AN5WK1oz) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:21 |
-| 87 | [second spring](https://open.spotify.com/track/31Y30bearyQhBBXcrUbhGz) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [come back down](https://open.spotify.com/album/4a0wDl4zpCX10gWbsB9VuJ) | 3:26 |
-| 88 | [False Prophet](https://open.spotify.com/track/1JDjEJwbk8e1sL2G3nj50H) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Passenger](https://open.spotify.com/album/32EICQjgu3JFOzW7Q7UPKu) | 3:20 |
-| 89 | [89](https://open.spotify.com/track/3tOZ2ohv7vuU6HnKtVd6MN) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Among the Firs](https://open.spotify.com/album/6oeEnP7WVltPWpNRu0X2HJ) | 3:44 |
-| 90 | [HaHaHome](https://open.spotify.com/track/740fiCDUxNBS4Npk3kFZq9) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/5RK1P6CcqLfAeHlgA8I6oH) | 4:00 |
-| 91 | [Watering The Valley](https://open.spotify.com/track/2i1lACbFqRmSRTPnTguSGM) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Watering The Valley](https://open.spotify.com/album/15r2ms6S0p7CO3b8gJLYEj) | 4:15 |
-| 92 | [Can't Quit](https://open.spotify.com/track/5oulOvuG9jdMle3Slw70q0) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Can't Quit](https://open.spotify.com/album/1D19fsmex2NLMiza4mFECw) | 3:19 |
-| 93 | [Fruit Bats](https://open.spotify.com/track/78FcqRiNhrse5x66Wee40O) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fruit Bats](https://open.spotify.com/album/6ckcH8CQa64SDtar5rWNxZ) | 2:55 |
-| 94 | [Leipzig](https://open.spotify.com/track/1TlgnCeMHM4pBKgG7NsQrK) | [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Until The Tide Creeps In](https://open.spotify.com/album/2yIhCIgcDljSyZzugaecjc) | 2:29 |
-| 95 | [Sand Wrists](https://open.spotify.com/track/4x3kHly6bZBp2H8iYvCpGj) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Eager Buyers](https://open.spotify.com/album/4Ve1ECxzd1MOwMWf2JyMl7) | 4:01 |
-| 96 | [Lion's Share](https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1) | [Merger](https://open.spotify.com/album/4T52YxQxH2MedYnXdPrUlV) | 3:05 |
-| 97 | [Snowfeel](https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Café Life](https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB) | 3:27 |
-| 98 | [Don't Touch Anything](https://open.spotify.com/track/6ZpoqLODpaQKE43R7hm4F9) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Magic Isn't Real](https://open.spotify.com/album/6yoaegjPtXrC8fI8fQpPPl) | 5:27 |
-| 99 | [See People](https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [It's Summer, I Love You, and I'm Surrounded by Snow](https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n) | 3:49 |
-| 100 | [Leave It at Why](https://open.spotify.com/track/0Cs0dAqNY0X34LvsTa2mVS) | [Constant Smiles](https://open.spotify.com/artist/5QNbh0ZAR2vNr8KwnQDBGH) | [Moonflowers](https://open.spotify.com/album/4bv5OR0VUz203IfEBONkz5) | 3:18 |
-| 101 | [My City](https://open.spotify.com/track/45gZcISbKWHxGDKiDZTTxL) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [Anywhere](https://open.spotify.com/album/1vq309zi0LQUa0oEvoN3ou) | 4:40 |
-| 102 | [Sliver](https://open.spotify.com/track/7tiQZIT1OOc2x3G2UDEnlV) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/6Zq8xtkwB8nJBLxlHKoNwY) | 2:36 |
+| 83 | [Armies Of The Dawn](https://open.spotify.com/track/3z7Vz5P3AFKwVBZ8GzACNu) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Always Almost Home](https://open.spotify.com/album/0YWZdKAwLhXg3b7pue0OEk) | 3:37 |
+| 84 | [Bleu](https://open.spotify.com/track/4W91q0llJr8lumNadwBUpr) | [Scarlet Rae](https://open.spotify.com/artist/06v4QDLJOrIz62gsU9lN3K) | [Bleu](https://open.spotify.com/album/3f29eXpgTk09lPBwyZI2I0) | 2:42 |
+| 85 | [we were better](https://open.spotify.com/track/2c8kANHnQGTkt6AN5WK1oz) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:21 |
+| 86 | [second spring](https://open.spotify.com/track/31Y30bearyQhBBXcrUbhGz) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [come back down](https://open.spotify.com/album/4a0wDl4zpCX10gWbsB9VuJ) | 3:26 |
+| 87 | [False Prophet](https://open.spotify.com/track/1JDjEJwbk8e1sL2G3nj50H) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Passenger](https://open.spotify.com/album/32EICQjgu3JFOzW7Q7UPKu) | 3:20 |
+| 88 | [89](https://open.spotify.com/track/3tOZ2ohv7vuU6HnKtVd6MN) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Among the Firs](https://open.spotify.com/album/6oeEnP7WVltPWpNRu0X2HJ) | 3:44 |
+| 89 | [HaHaHome](https://open.spotify.com/track/740fiCDUxNBS4Npk3kFZq9) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/5RK1P6CcqLfAeHlgA8I6oH) | 4:00 |
+| 90 | [Watering The Valley](https://open.spotify.com/track/2i1lACbFqRmSRTPnTguSGM) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Watering The Valley](https://open.spotify.com/album/15r2ms6S0p7CO3b8gJLYEj) | 4:15 |
+| 91 | [Can't Quit](https://open.spotify.com/track/5oulOvuG9jdMle3Slw70q0) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Can't Quit](https://open.spotify.com/album/1D19fsmex2NLMiza4mFECw) | 3:19 |
+| 92 | [Fruit Bats](https://open.spotify.com/track/78FcqRiNhrse5x66Wee40O) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fruit Bats](https://open.spotify.com/album/6ckcH8CQa64SDtar5rWNxZ) | 2:55 |
+| 93 | [Leipzig](https://open.spotify.com/track/1TlgnCeMHM4pBKgG7NsQrK) | [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Until The Tide Creeps In](https://open.spotify.com/album/2yIhCIgcDljSyZzugaecjc) | 2:29 |
+| 94 | [Sand Wrists](https://open.spotify.com/track/4x3kHly6bZBp2H8iYvCpGj) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Eager Buyers](https://open.spotify.com/album/4Ve1ECxzd1MOwMWf2JyMl7) | 4:01 |
+| 95 | [Lion's Share](https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1) | [Merger](https://open.spotify.com/album/4T52YxQxH2MedYnXdPrUlV) | 3:05 |
+| 96 | [Snowfeel](https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Café Life](https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB) | 3:27 |
+| 97 | [Don't Touch Anything](https://open.spotify.com/track/6ZpoqLODpaQKE43R7hm4F9) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Magic Isn't Real](https://open.spotify.com/album/6yoaegjPtXrC8fI8fQpPPl) | 5:27 |
+| 98 | [See People](https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [It's Summer, I Love You, and I'm Surrounded by Snow](https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n) | 3:49 |
+| 99 | [Leave It at Why](https://open.spotify.com/track/0Cs0dAqNY0X34LvsTa2mVS) | [Constant Smiles](https://open.spotify.com/artist/5QNbh0ZAR2vNr8KwnQDBGH) | [Moonflowers](https://open.spotify.com/album/4bv5OR0VUz203IfEBONkz5) | 3:18 |
+| 100 | [Begin Here](https://open.spotify.com/track/1I70BfKL8yfShgGobizhis) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Dream 3](https://open.spotify.com/album/75ILMGhtHI7bBn4vHdS8gQ) | 3:06 |
+| 101 | [Sliver](https://open.spotify.com/track/7tiQZIT1OOc2x3G2UDEnlV) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/6Zq8xtkwB8nJBLxlHKoNwY) | 2:36 |
+| 102 | [My City](https://open.spotify.com/track/45gZcISbKWHxGDKiDZTTxL) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [Anywhere](https://open.spotify.com/album/1vq309zi0LQUa0oEvoN3ou) | 4:40 |
 | 103 | [doctors orders](https://open.spotify.com/track/5Ovts7svGhEVyGqlDwfLjc) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [its not your brain its just the drugs](https://open.spotify.com/album/6KIvAhHotxCiZJXdxVtwqX) | 3:21 |
 | 104 | [Joke](https://open.spotify.com/track/1ptKgl4SEZtS9JPs4QfcPx) | [Blaize Jenkins](https://open.spotify.com/artist/7FCM7W3EeI7rNfLGKYFrAn) | [Spinning // Falling](https://open.spotify.com/album/0wLNneaM8YJcpB8mkiv8IZ) | 3:12 |
 | 105 | [Under the Scar](https://open.spotify.com/track/7zzjPsGY0qClxfpVHW4Hut) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 3:39 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 399 | [Ionian Mirage](https://open.spotify.com/track/0CmVVolwKT2RxsZNHTPFC7) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Ionian Mirage](https://open.spotify.com/album/0mdkxjlHCvLdFCwRQUMxbE) | 2:45 |
 | 400 | [Four Below](https://open.spotify.com/track/0kglgbhRgUQnz6HhPh1isC) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Four Below](https://open.spotify.com/album/6AONJTIWKcZw9AmDC9sUze) | 2:48 |
 
-Snapshot ID: `AAAqAjKqJ8prGrQctn41FeP29WqREL2t`
+Snapshot ID: `AAAqBHKQgwb5B4wV2OTxEBmI7DGlyt7G`

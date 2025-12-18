@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 91525,
+  "num_followers": 91556,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAACNpWGErPTDNqaNgfw9IG1/",
+  "snapshot_id": "aUChAAAAAADv1XTa7p0s1QJTKEBnT260",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Fletes",
-        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
+        "name": "El Dos de los Antrax",
+        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
       },
       "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 111186,
-      "name": "Los Fletes",
-      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
+      "duration_ms": 199769,
+      "name": "El Dos de los Antrax",
+      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
     },
     {
       "added_at": null,
@@ -335,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dos de los Antrax",
-        "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
+        "name": "Los Fletes",
+        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
       },
       "artists": [
-        {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 199769,
-      "name": "El Dos de los Antrax",
-      "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
+      "duration_ms": 111186,
+      "name": "Los Fletes",
+      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
-        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 240292,
-      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
-      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De la Estancia a Cosala",
         "url": "https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 139853,
       "name": "De la Estancia a Cosala",
       "url": "https://open.spotify.com/track/510JTUuO196PonOM82hyLo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
+        "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
+      },
+      "artists": [
+        {
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 240292,
+      "name": "El Se\u00f1or De La Monta\u00f1a - Live",
+      "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
     },
     {
       "added_at": null,

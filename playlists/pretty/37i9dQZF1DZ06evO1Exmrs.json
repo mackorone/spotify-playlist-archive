@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 385523,
+  "num_followers": 385692,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aT9PgAAAAAACaiex293iLip6jyaUm0fV",
+  "snapshot_id": "aUChAAAAAAC3bBhcBahgJjuwow9SqaHR",
   "tracks": [
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 167106,
-      "name": "Hurt Somebody",
-      "url": "https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY"
+      "duration_ms": 234200,
+      "name": "Carlo's Song",
+      "url": "https://open.spotify.com/track/7qjCmoM2kKXAt2QIPhLVIg"
     },
     {
       "added_at": null,
@@ -538,11 +534,15 @@
         {
           "name": "Noah Kahan",
           "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 234200,
-      "name": "Carlo's Song",
-      "url": "https://open.spotify.com/track/7qjCmoM2kKXAt2QIPhLVIg"
+      "duration_ms": 167106,
+      "name": "Hurt Somebody",
+      "url": "https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY"
     },
     {
       "added_at": null,

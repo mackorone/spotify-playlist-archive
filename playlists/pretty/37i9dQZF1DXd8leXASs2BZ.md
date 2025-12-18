@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Masato Hayashi
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,542 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,548 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 13 | [Cumshot](https://open.spotify.com/track/08QALAzPUBVmn2ugt75jAf) | [Hanemii](https://open.spotify.com/artist/7un3CBibLdJpaUssEQ0eny), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Cumshot](https://open.spotify.com/album/4AxABvoXL5mVB5tvb60sn6) | 2:30 |
 | 14 | [BOP BOP](https://open.spotify.com/track/7c11wBbnLJj7FewkftryXe) | [Reichi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D), [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW) | [BOP BOP](https://open.spotify.com/album/64Y2qqmt6s2QWswHIzOmUF) | 2:21 |
 | 15 | [YURARI](https://open.spotify.com/track/3LCQs7a5ImmtqC4RhZV3mY) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [YURARI](https://open.spotify.com/album/246iMfvhwWDy7qRFLKMSJL) | 2:26 |
-| 16 | [Dragons \(feat\. M3R\)](https://open.spotify.com/track/708lkmQqeD8ZWephuIOZia) | [ROBBIN](https://open.spotify.com/artist/3x0ONZtLLBmpLuHfvod49l), [M3R](https://open.spotify.com/artist/22N6T5zwzJBtmRYkCEvqCu) | [Baskin Tape](https://open.spotify.com/album/6y8eNOM9SH7ZZMo8UBkXnM) | 1:54 |
+| 16 | [Dragons \(feat\. M3R\)](https://open.spotify.com/track/708lkmQqeD8ZWephuIOZia) | [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB), [M3R](https://open.spotify.com/artist/22N6T5zwzJBtmRYkCEvqCu) | [Baskin Tape](https://open.spotify.com/album/6y8eNOM9SH7ZZMo8UBkXnM) | 1:54 |
 | 17 | [Dont Need Toxic](https://open.spotify.com/track/2D1t4U9JkECmJRcUZhbKtg) | [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Dont Need Toxic](https://open.spotify.com/album/2igPlQkF3bjPx0bTRdmspc) | 3:01 |
 | 18 | [Family \(feat\. crea\)](https://open.spotify.com/track/6xZWh4nIrUDVdGRr9UsGyJ) | [storm](https://open.spotify.com/artist/0ZNbi5CMdUDlRo9DMorCD5), [crea](https://open.spotify.com/artist/6MLKKEtUAGwU4BWeTrKIU9) | [Stories I Owe](https://open.spotify.com/album/73AqZs5r7Ik9ZhO4LfXQ1e) | 3:23 |
 | 19 | [Highway](https://open.spotify.com/track/1P5HbCjaBYE3R8bYYNZtu5) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [En](https://open.spotify.com/album/5KMluwmONyrgB1PJT6PYFS) | 2:27 |

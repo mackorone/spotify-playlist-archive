@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZY43VwD4Dvf0ZO9SwivN5">Valentina Rico</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 46 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 47 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 16 | [Mal Escrito](https://open.spotify.com/track/5g8LyZjezjQiEVzgjLFkLr) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [¿Qué Significa El Amor?](https://open.spotify.com/album/1tRHRbIHP3vNA6M6h598xe) | 3:01 |
 | 17 | [MACARRONES CON QUESO](https://open.spotify.com/track/39F3bIJTkLNX1wswMq9PMC) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [cuando coincidimos](https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp) | 2:27 |
 | 18 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
-| 19 | [Nuez](https://open.spotify.com/track/4xNsLmMkJW8dq9b8NMDAm5) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:32 |
+| 19 | [Nuez](https://open.spotify.com/track/3ncIYCJwMwDr3utfwl0SXy) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/6WXESBAoeujrFeIigHNL5w) | 3:32 |
 | 20 | [Fui Lo Que Soy](https://open.spotify.com/track/7Kjl77gI01AAjAy2CZMyvn) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 2:32 |
 | 21 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 |
 | 22 | [No Voy a Ser Yo](https://open.spotify.com/track/3pTFpnRvJgqWquLA0OtOLz) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 2:55 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 26 | [Fuera De Servicio](https://open.spotify.com/track/6RkIowV2rsGJTcRohynZ5D) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7) | [Chino & Nacho Is Back](https://open.spotify.com/album/6NPRXeULsH66D8zshrpiDm) | 2:43 |
 | 27 | [Sagitario](https://open.spotify.com/track/0FipvcbNWatEDbB1kyuGKy) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 3:21 |
 | 28 | [Miel](https://open.spotify.com/track/16gmk2DMyjSln11ZbzCfjp) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 2:39 |
-| 29 | [Cualquiera](https://open.spotify.com/track/4Eg9hFB7IyPX5o8bzVCY7B) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Más Sincera](https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3) | 3:31 |
+| 29 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 |
 | 30 | [Vacaciones](https://open.spotify.com/track/5nBTYTh5Ectn9r6X2UbuPA) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 3:06 |
 | 31 | [Asi Esta la Cosa](https://open.spotify.com/track/2WdqnZOLjFtfunFv3SkLnY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Asi Esta la Cosa](https://open.spotify.com/album/4AIaRa9LBZsHF4QRoOeDWR) | 3:03 |
 | 32 | [Recuerdo contigo </3](https://open.spotify.com/track/2Hcjj8iujMxNMvJu3Am3Zr) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Sentimiento Adolescente](https://open.spotify.com/album/2Ch6jQyfaHvygL1HAUpLI0) | 3:08 |
@@ -53,6 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAmSEshtjQI3.md) - [plain]
 | 43 | [Euforia](https://open.spotify.com/track/0Wx46C3NgydTkr0yJrQ9sI) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [TRIP](https://open.spotify.com/album/3nWqKWhGA2RhqakbVi1cRY) | 2:29 |
 | 44 | [Intro](https://open.spotify.com/track/5xVZHX0fgjwFymxMukikAf) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:30 |
 | 45 | [Vuela](https://open.spotify.com/track/5wRl3UsaZBwrMJWchs0YDj) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Vuela](https://open.spotify.com/album/20mcvOF4SDa21I471OjUig) | 2:51 |
-| 46 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
+| 46 | [Interludio](https://open.spotify.com/track/0xyye8Abk4w9bW5LwMr7Eh) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/47j1U8lpzS5kSk83CubowG) | 0:32 |
+| 47 | [Mas De Lo Que Aposte](https://open.spotify.com/track/4X2ezaWpxfNSCVEJ9yFB9h) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Aitana](https://open.spotify.com/album/6UiWhpHVN9pgySpp8DCdyQ) | 6:40 |
 
-Snapshot ID: `AcEaHgAAAACQB1Rs8A/ugn/DzgmxcKlq`
+Snapshot ID: `AcEf3AAAAAB6I9ol2YMA0Af0vXKHDlkw`

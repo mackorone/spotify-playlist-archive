@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: threetwenty
 
-895 songs - 2 day 5 hr 21 min
+896 songs - 2 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Breakfast \- A COLORS SHOW](https://open.spotify.com/track/4pXaDCpq459IkaUp84VM5m) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Breakfast \- A COLORS SHOW](https://open.spotify.com/album/3dE3ZGLl0XaYuGBibxSYbh) | 3:12 | 2022-01-28 | 2022-07-29 |
 | [Breaking My Own Heart \- feat\. Hydra](https://open.spotify.com/track/6jzWtQEYhdMi7o5YYZKNK2) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY), [Hydra](https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY) | [Lotus Ave](https://open.spotify.com/album/7ieH9abbSBHx9CceUjPn9D) | 3:44 | 2025-07-25 |  |
 | [Breaking Point](https://open.spotify.com/track/2Eg5fW5yInLRGszS4s9eN6) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Breaking Point](https://open.spotify.com/album/4dyk9fUSB7SfSQE0CbyQI4) | 4:53 | 2022-12-16 | 2023-10-07 |
-| [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 | 2025-01-17 |  |
+| [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 | 2025-01-17 | 2025-12-18 |
 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 | 2024-02-23 | 2024-09-28 |
 | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Bring it on Home to Me \(feat\. Charlie Bereal\)](https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA) | 3:21 | 2021-12-03 | 2023-05-06 |
 | [Bring You A Ring](https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Bring You A Ring](https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ) | 3:06 | 2023-09-08 | 2024-09-12 |
@@ -744,6 +744,7 @@
 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 | 2025-12-05 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Stuck In My Ways](https://open.spotify.com/album/0zBM2ZzLPYBSwSFV2k5LSH) | 3:37 | 2024-10-13 | 2025-02-22 |
 | [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2022-10-14 | 2023-10-07 |
+| [Summer In December](https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [Summer In December](https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup) | 3:07 | 2025-12-12 |  |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |
 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 | 2022-09-09 | 2023-10-07 |
 | [sunshine of your love](https://open.spotify.com/track/6x8DQoP4amD69eYmAx07Ra) | [PJAE](https://open.spotify.com/artist/3EpdSPXZERrqLpTrVdjtGe) | [sunshine of your love](https://open.spotify.com/album/6X0fdB7XRtGVrOIRVzreBo) | 2:29 | 2023-03-31 | 2023-04-04 |

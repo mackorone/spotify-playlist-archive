@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-333 songs - 23 hr 6 min
+334 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Let's Do It](https://open.spotify.com/track/3pRghrvhUC03D9xQlRxVqt) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Let's Do It](https://open.spotify.com/album/1gZaeX11v6GivcgChO5rWI) | 3:45 | 2025-11-07 |  |
 | [Let's go](https://open.spotify.com/track/64o22Tm6YLaHqEwXbWYqZp) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 2:26 | 2024-08-02 | 2024-12-01 |
 | [Levada](https://open.spotify.com/track/4jyL6lRVTyh2j67ObJ0EUH) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm) | [Levada](https://open.spotify.com/album/79rTwf4jIYHIRhLmat4q7Y) | 5:16 | 2024-06-18 | 2024-09-21 |
-| [Lights Up](https://open.spotify.com/track/0kGg7BiTL0hpy2jJxtOJ38) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Lights Up](https://open.spotify.com/album/4u4rBrA7gV0Qa683WHoJJ9) | 4:45 | 2025-06-20 |  |
+| [Lights Up](https://open.spotify.com/track/0kGg7BiTL0hpy2jJxtOJ38) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Lights Up](https://open.spotify.com/album/4u4rBrA7gV0Qa683WHoJJ9) | 4:45 | 2025-06-20 | 2025-12-18 |
 | [Like A Boss](https://open.spotify.com/track/11S4IH19vfC8TRKBWo9CVW) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Like A Boss](https://open.spotify.com/album/4AQXRW8Hwrs9h9XyVOfyHD) | 2:47 | 2024-12-06 | 2025-06-20 |
 | [Limbo](https://open.spotify.com/track/1X1FUGCW2OWcjFRwfL9G56) | [Estella Boersma](https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV) | [Limbo](https://open.spotify.com/album/438pm70Wvf2G88ZnI9C7Zl) | 4:52 | 2024-06-06 | 2024-08-06 |
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
@@ -259,6 +259,7 @@
 | [Rolling](https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Rolling](https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy) | 2:44 | 2025-07-22 |  |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-04-09 | 2025-03-20 |
 | [Rotterdam](https://open.spotify.com/track/79PGpAOomJOzoUDGdq3haH) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Egbert](https://open.spotify.com/artist/2XDYCsSrSPH37AtnRvCkIx) | [Rotterdam](https://open.spotify.com/album/0IKm5XwwNPH05sDSDtoR7D) | 2:48 | 2025-11-27 |  |
+| [Ruler Of Worlds](https://open.spotify.com/track/45ylzxuwO1Lq9kwgj9lv6C) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [Ruler Of Worlds](https://open.spotify.com/album/2FwJ7nUbur319d38hbDwFI) | 4:00 | 2025-12-12 |  |
 | [SAINT GRAAL](https://open.spotify.com/track/70aughWpPbdbzYSE7422O9) | [PERCEVAL](https://open.spotify.com/artist/3dJ5aHKA9m7zKAr0lX6rtb) | [SAINT GRAAL](https://open.spotify.com/album/0ajLAs1f6lQbymKSGBwhoH) | 3:24 | 2025-10-10 | 2025-11-12 |
 | [Salty](https://open.spotify.com/track/3GUgaRGv8OrD24yomjh5rT) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [In My 2024 Era](https://open.spotify.com/album/6CYaXWyysoGR28yGa1NFfI) | 5:39 | 2024-09-20 | 2024-10-28 |
 | [Save Me \- RiVid Remix](https://open.spotify.com/track/4GILYMfBnLHYdOIZZ0C5dX) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [RiVid](https://open.spotify.com/artist/5XqhayYhh6DsTzBUMnTvnp) | [Save Me \(Remixes\)](https://open.spotify.com/album/06z8t1UoQWyLymmKW5JrX3) | 4:51 | 2024-04-09 | 2025-11-07 |

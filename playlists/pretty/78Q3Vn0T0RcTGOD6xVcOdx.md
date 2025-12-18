@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > 
 
-[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 471 likes - 272 songs - 15 hr 32 min
+[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 471 likes - 275 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -280,5 +280,8 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 270 | [Crazy Girl \. \- Live](https://open.spotify.com/track/4VVUZ84zBTR3Swy2mM4f8c) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 3:14 |
 | 271 | [Your Lies \. \- Live](https://open.spotify.com/track/222uqyOezu3Ymv36FmLQSA) | [Oscar Cirac Molina](https://open.spotify.com/artist/6yZRTIETqBAOYn0ApSNWjq) | [Live the Thunder](https://open.spotify.com/album/2hYvIuG6II3Lnfsq2Lw8Xd) | 5:07 |
 | 272 | [Belmur](https://open.spotify.com/track/3f4UYPyfKcgPXC6Uqb8y9L) | [Junior Hodie](https://open.spotify.com/artist/6aghE4xmKWwUiM42X2BiJR) | [Estando Uno Roto](https://open.spotify.com/album/3dD5CoKuFLUiuab6Zn20pO) | 3:37 |
+| 273 | [Brandos Espaços Brancos](https://open.spotify.com/track/6bfFQDzW9b717Obk9UZDVM) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Nuances](https://open.spotify.com/album/14pzQStt2oOEUVjFe2bcSJ) | 4:17 |
+| 274 | [It's Beginning to Look a Lot Like Christmas \- Live](https://open.spotify.com/track/5qicKEeKmLPWH6qRxfpcIx) | [David Zurita](https://open.spotify.com/artist/5XGAdmgRO0PKYzCHtO8qbx), [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Christmas Acoustic Sessions](https://open.spotify.com/album/3E1mzOZq2T7fgzVO13KkPu) | 3:10 |
+| 275 | [Ageless and Evergreen](https://open.spotify.com/track/53wavi3G6qo2YaTXeOInZl) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Ageless and Evergreen](https://open.spotify.com/album/4EkG6nIOlVAyi5yoJqFvXy) | 3:06 |
 
-Snapshot ID: `AAAA7ixF+AMpmLx8W7ZX6Ezl9u/FRQ5l`
+Snapshot ID: `AAAA8SsyayhKs9IxZP5CTWOCdsqNA5Vo`

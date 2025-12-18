@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,562 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,596 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 49 | [Hadal Ahbek](https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk) | 3:29 |
 | 50 | [Sabran](https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Sabran](https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X) | 3:22 |
 
-Snapshot ID: `AAAAANdKrF1LKe5ypf89MXYDzaeY5s1N`
+Snapshot ID: `AAAAACWoyajIbzLJ0RjMp4YumA/ELAJV`

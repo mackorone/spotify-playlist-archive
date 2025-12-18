@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 102700,
+  "num_followers": 102750,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Gal Canta Caetano",
+        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Vaca Profana",
+      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Sinto Muito",
         "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 246280,
       "name": "Lucro (Descomprimindo)",
       "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Nem um Dia (JAH-VAN)",
         "url": "https://open.spotify.com/album/14DMasfUsWZ5ZRyCoKpRut"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 248106,
       "name": "Minha Teimosia, uma Arma pra Te Conquistar",
       "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
+        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
       "artists": [
         {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+          "name": "Faf\u00e1 de Bel\u00e9m",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
         }
       ],
-      "duration_ms": 190133,
-      "name": "Vou Festejar",
-      "url": "https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS"
+      "duration_ms": 162600,
+      "name": "Emori\u00f4",
+      "url": "https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn"
     }
   ],
   "unique_name": "Baile Maravilha",

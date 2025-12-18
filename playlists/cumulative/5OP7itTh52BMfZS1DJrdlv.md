@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-198 songs - 10 hr 29 min
+199 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 | 2025-07-01 |  |
 | [Wake Up \(It's Christmas Time\)](https://open.spotify.com/track/29unTcVq0e9W6ATUKSWH6e) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:40 | 2023-12-09 | 2025-07-02 |
 | [What Christmas Means to Me](https://open.spotify.com/track/40sbttz649ixUd5JnCnQZB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:35 | 2023-12-09 | 2025-07-02 |
-| [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 | 2025-07-01 |  |
+| [What Christmas Means to Me \(feat\. Stevie Wonder\)](https://open.spotify.com/track/13XMz3rpVYITzjFIsSYlZ1) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [A Legendary Christmas](https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY) | 2:40 | 2025-07-01 | 2025-12-18 |
 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 | 2025-07-01 |  |
 | [Where Are You Christmas \- From "Dr\. Seuss' How The Grinch Stole Christmas" Soundtrack](https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Dr\. Seuss' How The Grinch Stole Christmas](https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6) | 4:07 | 2025-07-01 |  |
 | [White Christmas](https://open.spotify.com/track/3aHDEjyb4ZMpdj0G2xDGUM) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [White Christmas](https://open.spotify.com/album/7ERFXgfx9To2P8DH9a7pW8) | 3:24 | 2025-07-01 | 2025-09-20 |
@@ -204,6 +204,7 @@
 | [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 | 2023-12-09 | 2023-12-20 |
 | [You Make It Feel Like Christmas](https://open.spotify.com/track/1S898RKtAsU7ecZ8ODXtb5) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [not so xmas xmas](https://open.spotify.com/album/1OQfUgYdqH5F2QP0uRma3g) | 2:30 | 2023-12-09 | 2024-11-01 |
 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 | 2025-07-01 |  |
+| [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) | [Thurl Ravenscroft](https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb), [Boris Karloff](https://open.spotify.com/artist/35uPgDW1J4hq6tqQ0LJcot) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 5:15 | 2025-12-17 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/5xQskDSiHQeoebxoprn3HL) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dr\. Seuss' The Grinch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ) | 1:48 | 2025-07-01 | 2025-12-09 |
 | [You’re Christmas To Me](https://open.spotify.com/track/0T42lRpdYKQBUoY2HpB8l5) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [You’re Christmas To Me \(From ''Your Christmas or Mine 2''\)](https://open.spotify.com/album/6oR1PfhkYOXPWcUoPBVFqV) | 3:33 | 2024-10-31 |  |
 

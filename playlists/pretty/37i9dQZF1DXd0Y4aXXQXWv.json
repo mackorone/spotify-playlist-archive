@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 497001,
+  "num_followers": 497037,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 282813,
       "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -599,6 +599,22 @@
       "duration_ms": 223333,
       "name": "Face \u00e0 la mer",
       "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Rose des vents",
+        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Si j'avais su",
+      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
     },
     {
       "added_at": "2024-10-21 08:32:27",
@@ -651,38 +667,6 @@
     {
       "added_at": "2024-10-21 08:32:27",
       "album": {
-        "name": "Rose des vents",
-        "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
-      },
-      "artists": [
-        {
-          "name": "Claudio Cap\u00e9o",
-          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Si j'avais su",
-      "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
-    },
-    {
-      "added_at": "2024-10-21 08:32:27",
-      "album": {
         "name": "Engelberg",
         "url": "https://open.spotify.com/album/5w2UnVzDvUmX6J0QAlRCxP"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 259600,
       "name": "A\u00efcha - Version Mixte",
       "url": "https://open.spotify.com/track/0cYX51Hneb8qIOx0tHm7ng"
+    },
+    {
+      "added_at": "2024-10-21 08:32:27",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-10-21 08:32:27",

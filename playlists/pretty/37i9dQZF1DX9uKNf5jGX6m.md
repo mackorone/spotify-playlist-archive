@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,085,187 likes - 180 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,085,362 likes - 180 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 179 | [In Repose](https://open.spotify.com/track/2UejZPkslzScfSgtLeCOEj) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [In Repose](https://open.spotify.com/album/3UpFnLyROKiqYFe0gmFOjs) | 3:30 |
 | 180 | [Auroras Boreales](https://open.spotify.com/track/3e71hLM6sy8xYBGRzO7thE) | [Santiago Penitente](https://open.spotify.com/artist/5GhwUrUTHxWEwJRQSXqNl9) | [Auroras Boreales](https://open.spotify.com/album/3M4AcWYqSKAY4makKqeSMx) | 2:28 |
 
-Snapshot ID: `AAAAAFSVN2KlyDV4LFHY8KuKzl5IntqJ`
+Snapshot ID: `AAAAAM4VJrzDZzQ6OEG6xrw2E4PT4hDm`
