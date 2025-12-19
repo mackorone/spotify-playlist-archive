@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJMiQ53rTyJ.md) - [plain]
 
 > The most streamed songs of 2025 in the USA Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,277 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,562 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,482 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,483 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 31 | [Late At Night](https://open.spotify.com/track/2Q49SbtXKqhiKGCZhg4fNd) | [Beta Librae](https://open.spotify.com/artist/5aOx0DSs7guwHbcE4R4FIx), [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Late At Night](https://open.spotify.com/album/3xRwDGeiqYzZx4pCqBfQep) | 4:24 |
 | 32 | [Business Opportunities](https://open.spotify.com/track/5raTOwORf2ITmMFLh0tD2b) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH) | [The Head Hurts but the Heart Knows the Truth](https://open.spotify.com/album/3g16U5C8SE3xYybOaqF94x) | 5:08 |
 | 33 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
-| 34 | [Echo \- Huna Edit](https://open.spotify.com/track/1Q9FBsIfqS9OiktSpxzFjb) | [RAPRAVE](https://open.spotify.com/artist/0V0KRijac0RiM8gsdh2UZa), [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a), [HUNA](https://open.spotify.com/artist/2QvAPKCsRJwBC2YIraulhr) | [Echo \(Huna Edit\)](https://open.spotify.com/album/6miWzsOhLwQaprbr8ID8yb) | 3:38 |
+| 34 | [Echo \- tom huna Edit](https://open.spotify.com/track/1Q9FBsIfqS9OiktSpxzFjb) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a), [RAPRAVE](https://open.spotify.com/artist/0V0KRijac0RiM8gsdh2UZa), [tom huna](https://open.spotify.com/artist/0CdLSzE3Ya9N6HdvckUBgH) | [Echo \(tom huna Edit\)](https://open.spotify.com/album/6miWzsOhLwQaprbr8ID8yb) | 3:38 |
 | 35 | [From Here We Go Sublime](https://open.spotify.com/track/50GjiqApQrBUcYs4EYpMfz) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [From Here We Go Sublime](https://open.spotify.com/album/5oNWGhIs9vpB6FJ6rv5VuO) | 4:09 |
 | 36 | [In A Beautiful Place Out In The Country](https://open.spotify.com/track/0X2hccY9m1D9ICGZLkvpBP) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:07 |
 | 37 | [DS Glitch](https://open.spotify.com/track/3qbDIBZNPuZEviLbI2HzlA) | [TWEAKS](https://open.spotify.com/artist/0Eee47Sroig9UczLZGtyVn) | [Older Now](https://open.spotify.com/album/1afuIBP1SEZOtqzeVc7aL7) | 1:57 |

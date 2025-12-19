@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover: ILLIT)",
+  "description": "The new & hottest K-Pop is here! (Cover: BABYMONSTER)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -3457,6 +3457,28 @@
     },
     {
       "album": {
+        "name": "DUET",
+        "url": "https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "DUET",
+      "url": "https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n"
+    },
+    {
+      "album": {
         "name": "DUMB DUMB",
         "url": "https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T"
       },
@@ -3844,7 +3866,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK"
@@ -4652,7 +4674,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 213066,
       "name": "GENIE",
       "url": "https://open.spotify.com/track/3B1kVUGFALavXUt8s9L65V"
@@ -12070,6 +12092,24 @@
       "duration_ms": 181986,
       "name": "Sunflower (P.E.L)",
       "url": "https://open.spotify.com/track/3lLCAFzZqA7B3OQl6yfYCM"
+    },
+    {
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172573,
+      "name": "SUPA DUPA LUV",
+      "url": "https://open.spotify.com/track/5S0QxfYABBoLI4sMk2aCa2"
     },
     {
       "album": {

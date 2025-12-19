@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,239 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,240 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 62 | [AYER \- Remix](https://open.spotify.com/track/5UdCKes1hghYGBGUNdT6YT) | [Mikeanyway](https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [Glazzz](https://open.spotify.com/artist/2LptcTnQCzCsnlSVr8sEbz), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [AYER \(Remix\)](https://open.spotify.com/album/0zWRTUiPOrinD7h0CJZjG1) | 4:28 |
 | 63 | [luego](https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC) | [luego luego](https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R) | [inconformidable](https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5) | 2:01 |
 | 64 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
-| 65 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
-| 66 | [DESAYUNO CONTINENTAL](https://open.spotify.com/track/084OQhMV7UzdHBK4htw3CM) | [LEFNES](https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu) | [DESAYUNO CONTINENTAL](https://open.spotify.com/album/26gWSCualjNYdFUyS2FGdE) | 2:49 |
+| 65 | [DESAYUNO CONTINENTAL](https://open.spotify.com/track/084OQhMV7UzdHBK4htw3CM) | [LEFNES](https://open.spotify.com/artist/4X1ANfUp76AjJlVF6NOUqu) | [DESAYUNO CONTINENTAL](https://open.spotify.com/album/26gWSCualjNYdFUyS2FGdE) | 2:49 |
+| 66 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
 | 67 | [Pepper](https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Pepper](https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm) | 3:22 |
 | 68 | [Sticky](https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MONVCO](https://open.spotify.com/artist/1rGlHeD5HzcjBJiW7kq7ZJ), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Sticky](https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098) | 2:38 |
 | 69 | [Cuándo Tú Me Tocas](https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Just Roger](https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0) | [Cuándo Tú Me Tocas](https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M) | 2:28 |

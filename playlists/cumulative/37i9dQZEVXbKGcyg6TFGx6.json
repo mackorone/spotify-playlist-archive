@@ -3579,6 +3579,28 @@
     },
     {
       "album": {
+        "name": "AMORES SINT\u00c9TICOS",
+        "url": "https://open.spotify.com/album/1eJ1a1CKM6QEb8mCxex6cl"
+      },
+      "artists": [
+        {
+          "name": "EVA LUARIS",
+          "url": "https://open.spotify.com/artist/5EsXMbIuwogDV63MW6vvrH"
+        },
+        {
+          "name": "V1VO RECORDS",
+          "url": "https://open.spotify.com/artist/6npGRtuzL7pE9YcaNQ17Vc"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214959,
+      "name": "AMORES SINT\u00c9TICOS",
+      "url": "https://open.spotify.com/track/5ymOdblaCVxpVMBzqnSNjb"
+    },
+    {
+      "album": {
         "name": "Amour d'une m\u00e8re",
         "url": "https://open.spotify.com/album/1FRVEcLT0pLRMGFjBEEmEN"
       },
@@ -3818,7 +3840,7 @@
       ],
       "date_added": "2022-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -6538,7 +6560,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -10514,7 +10536,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 85266,
       "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -11512,7 +11534,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -18380,7 +18402,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -32036,7 +32058,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -50638,7 +50660,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"

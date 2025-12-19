@@ -1,6 +1,6 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Zakir Hussain",
-  "num_followers": 9568,
+  "num_followers": 9569,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
-        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
-        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
-      },
-      "artists": [
-        {
-          "name": "Tabla Pakuri",
-          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
-        }
-      ],
-      "duration_ms": 306995,
-      "name": "Tablas for Positive Vibes",
-      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
-    },
-    {
-      "added_at": "2025-07-09 11:42:50",
-      "album": {
         "name": "The Sound of Indian Tabla",
         "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 222626,
       "name": "Khandam",
       "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
+    },
+    {
+      "added_at": "2025-07-09 11:42:50",
+      "album": {
+        "name": "Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute",
+        "url": "https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5"
+      },
+      "artists": [
+        {
+          "name": "Tabla Pakuri",
+          "url": "https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF"
+        }
+      ],
+      "duration_ms": 306995,
+      "name": "Tablas for Positive Vibes",
+      "url": "https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
-        "name": "CHAKRA",
-        "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
-      },
-      "artists": [
-        {
-          "name": "ARAJ",
-          "url": "https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD"
-        }
-      ],
-      "duration_ms": 300444,
-      "name": "Sargam Crossing",
-      "url": "https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1"
-    },
-    {
-      "added_at": "2025-07-09 11:42:50",
-      "album": {
         "name": "Get Recharged!!!",
         "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
       },
@@ -624,9 +608,25 @@
           "url": "https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1"
         }
       ],
-      "duration_ms": 153109,
-      "name": "Tabla Solo, Pt. 1",
-      "url": "https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl"
+      "duration_ms": 62932,
+      "name": "Tabla Duo",
+      "url": "https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB"
+    },
+    {
+      "added_at": "2025-07-09 11:42:50",
+      "album": {
+        "name": "CHAKRA",
+        "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
+      },
+      "artists": [
+        {
+          "name": "ARAJ",
+          "url": "https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD"
+        }
+      ],
+      "duration_ms": 300444,
+      "name": "Sargam Crossing",
+      "url": "https://open.spotify.com/track/2TnQINZVIrLtFRfH0njAg1"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -659,22 +659,6 @@
       "duration_ms": 152470,
       "name": "Blue Curry",
       "url": "https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS"
-    },
-    {
-      "added_at": "2025-07-09 11:42:50",
-      "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
-      },
-      "artists": [
-        {
-          "name": "Ishaan Ghosh",
-          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1"
         }
       ],
-      "duration_ms": 62932,
-      "name": "Tabla Duo",
-      "url": "https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB"
+      "duration_ms": 153109,
+      "name": "Tabla Solo, Pt. 1",
+      "url": "https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -739,22 +723,18 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
-        "name": "Top 25 Fusion Ringtunes",
-        "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
       },
       "artists": [
         {
-          "name": "Niladri Kumar",
-          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
-        },
-        {
-          "name": "Talvin Singh",
-          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
         }
       ],
-      "duration_ms": 116122,
-      "name": "Ananta (Tabla & Sitar)",
-      "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
+      "duration_ms": 180000,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -791,6 +771,26 @@
       "duration_ms": 570506,
       "name": "Drut Teentaal (Tabla solo)",
       "url": "https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd"
+    },
+    {
+      "added_at": "2025-07-09 11:42:50",
+      "album": {
+        "name": "Top 25 Fusion Ringtunes",
+        "url": "https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1"
+      },
+      "artists": [
+        {
+          "name": "Niladri Kumar",
+          "url": "https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4"
+        },
+        {
+          "name": "Talvin Singh",
+          "url": "https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P"
+        }
+      ],
+      "duration_ms": 116122,
+      "name": "Ananta (Tabla & Sitar)",
+      "url": "https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq"
     },
     {
       "added_at": "2025-07-09 11:42:50",
@@ -843,22 +843,18 @@
     {
       "added_at": "2025-07-09 11:42:50",
       "album": {
-        "name": "One River",
-        "url": "https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g"
+        "name": "Ardha Jai Taal (Tabla solo in 6.5 beats)",
+        "url": "https://open.spotify.com/album/3nSESdpvZodJSBiGPwHSN0"
       },
       "artists": [
         {
-          "name": "Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
-        },
-        {
-          "name": "John De Kadt",
-          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
         }
       ],
-      "duration_ms": 326666,
-      "name": "Tabla Breath",
-      "url": "https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki"
+      "duration_ms": 544640,
+      "name": "Ardha Jai Taal (Tabla solo in 6.5 beats)",
+      "url": "https://open.spotify.com/track/3EvGdsfkKcUChBnEuWCed1"
     }
   ],
   "unique_name": "ECHO : Tabla Rhythms",

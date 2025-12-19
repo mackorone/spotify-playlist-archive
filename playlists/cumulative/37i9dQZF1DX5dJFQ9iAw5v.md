@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-127 songs - 10 hr 47 min
+128 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Disco Inferno](https://open.spotify.com/track/62WJX6nry2MWBZ2ns4tGg1) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Envés](https://open.spotify.com/album/0Jm4WmRMz3UrUxr4llIcrK) | 5:14 | 2022-08-12 |  |
 | [Dos Verdades en Una Botella](https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Valentin Reiners](https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug) | [Sexto VI](https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL) | 3:13 | 2025-03-28 |  |
 | [Doña Cha Cha](https://open.spotify.com/track/6Mee3B457bmUf93LIbhsNZ) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ), [Carlos Michelini](https://open.spotify.com/artist/6Tbr0u2xVmOLKADh9PO0Nm), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG), [Marcelo Mayor](https://open.spotify.com/artist/7I1eGOWhHuhI3xfwXWsFBV), [Ezequiel "Chino" Piazza](https://open.spotify.com/artist/6WCG05WxHQv0BzAuNgULo6), [Beto Merino](https://open.spotify.com/artist/6yNrmekUamVKW9wdewueXT) | [Afropuertas](https://open.spotify.com/album/5tb3c9O1yhD6wMzacCPwDp) | 6:02 | 2022-08-12 | 2025-11-28 |
+| [El cristal de los otros](https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0) | [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb) | [Fragmentos del mundo](https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG) | 5:29 | 2025-04-14 |  |
 | [El Dia que me Quieras](https://open.spotify.com/track/1SwDFyCldGRSvsdqiMTp3I) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 3:20 | 2022-08-12 | 2023-11-04 |
 | [El Dia que me Quieras](https://open.spotify.com/track/1iPdxaOl9A0KJfCCdzaXvK) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU) | 3:20 | 2023-10-26 | 2024-04-19 |
 | [El Gaita](https://open.spotify.com/track/5REMrMzbiw86zd1MQQEbXg) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [El Gaita](https://open.spotify.com/album/2BS7NmJEikxUhAJGeibRtY) | 6:25 | 2022-11-11 | 2023-01-10 |
@@ -55,7 +56,7 @@
 | [El Reino del Revés](https://open.spotify.com/track/0Jf4E2gqM2ZpRQCsQcvhFD) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie), [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [El Reino del Revés](https://open.spotify.com/album/2ozvBrtW3avwSSX3nkO8dx) | 3:36 | 2022-08-12 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Jazz Bazar II \(feat\. Patán Vidal\)](https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv) | 3:18 | 2022-08-12 |  |
 | [En Busca de la Tierra Sin Mal](https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 3:52 | 2022-08-12 | 2024-04-19 |
-| [En el fondo del mar](https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [En el fondo del mar](https://open.spotify.com/album/2le5rS0useInfiwUH6D0en) | 6:07 | 2022-11-18 |  |
+| [En el fondo del mar](https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [En el fondo del mar](https://open.spotify.com/album/2le5rS0useInfiwUH6D0en) | 6:07 | 2022-11-18 | 2025-12-19 |
 | [Encuentro](https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Encuentro](https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz) | 3:17 | 2023-05-05 |  |
 | [Entrada al Jardín de Ordóñez](https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t) | [El Jardín de Ordóñez](https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh) | 1:54 | 2022-08-12 |  |
 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 | 2022-08-12 |  |

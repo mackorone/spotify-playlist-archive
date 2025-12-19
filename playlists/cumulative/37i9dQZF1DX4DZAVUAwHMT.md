@@ -2,9 +2,9 @@
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Gretel
+> The UK's biggest rock playlist\. Cover: YONAKA
 
-1,216 songs - 2 day 19 hr 56 min
+1,217 songs - 2 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [a girl is a gun](https://open.spotify.com/track/1DizkiqT4coHh4lNMyEPtU) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [re:start](https://open.spotify.com/album/4mHuGNBWQFa1G7xdOsGYon) | 3:20 | 2023-08-24 | 2023-10-27 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-20 | 2023-07-28 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/28kdCguOw9S30DVMRhL3uh) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/54ueM4SD9fr9VTYeXJc8xp) | 3:31 | 2023-04-20 | 2023-04-22 |
-| [A Kiss From A Mother](https://open.spotify.com/track/24UTdotuXBQcdrW0f7ydmj) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [A Kiss From A Mother](https://open.spotify.com/album/47gyrUMenXnZtJyLC3E4YQ) | 3:33 | 2025-11-07 |  |
+| [A Kiss From A Mother](https://open.spotify.com/track/24UTdotuXBQcdrW0f7ydmj) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [A Kiss From A Mother](https://open.spotify.com/album/47gyrUMenXnZtJyLC3E4YQ) | 3:33 | 2025-11-07 | 2025-12-19 |
 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:07 | 2025-06-12 | 2025-08-08 |
 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 | 2025-08-07 | 2025-10-10 |
 | [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-17 | 2025-04-04 |
@@ -1213,6 +1213,7 @@
 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-08 | 2024-10-25 |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-19 | 2024-03-15 |
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-18 | 2023-06-16 |
+| [You Want The Truth](https://open.spotify.com/track/27tKLtVplK8dCBbyTEG55w) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [You Want The Truth](https://open.spotify.com/album/7KSyfl3IY5QzyVpfpP1xwk) | 2:41 | 2025-12-19 |  |
 | [You've Got The Nerve](https://open.spotify.com/track/3Bc5pLHuzqhIZIldK0AQuI) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [You've Got The Nerve](https://open.spotify.com/album/5O1ORvhx4IgSudG0CK5jLM) | 2:28 | 2024-04-18 | 2024-06-07 |
 | [You've Got The Nerve](https://open.spotify.com/track/3QiIyZ6uVHDIBHIcD9NguN) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [You've Got The Nerve](https://open.spotify.com/album/7lNgBcxF1c0tuU3uHd3n4z) | 2:28 | 2024-03-15 | 2024-04-19 |
 | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Young & Dumb \(feat\. Simple Plan\)](https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV) | 2:46 | 2025-05-15 | 2025-09-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including All's Fair, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,343 likes - 106 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,318 likes - 106 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 | 105 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 |
 | 106 | [There Must Be a God \- From "She Taught Love"](https://open.spotify.com/track/2canKLgddxHGw8OnRBgynG) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [There Must Be a God \(From "She Taught Love"\)](https://open.spotify.com/album/5GgdqQFaUMpGglNX9z11uc) | 3:35 |
 
-Snapshot ID: `AAAAAAdT3asOtEF2jGE7VTDowW6A3m83`
+Snapshot ID: `AAAAAJ6NtbwqK6jBrztF8f1npvnO5Rj0`

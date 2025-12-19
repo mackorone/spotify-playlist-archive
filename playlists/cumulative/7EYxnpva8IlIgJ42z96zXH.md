@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-1,068 songs - 2 day 8 hr 6 min
+1,069 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,6 +1031,7 @@
 | [Where Are You Now \- Kungs Remix](https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Where Are You Now \(Remix Pack\)](https://open.spotify.com/album/6lEVcSBDsn0YgGjUxGO1dX) | 3:12 | 2022-01-06 | 2022-02-04 |
 | [Where Did You Go?](https://open.spotify.com/track/22GCuIGPCDEh8izFovMD7N) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/10tU00gHCNHETG5QFxeeHv) | 2:57 | 2022-02-03 | 2022-11-11 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-12-16 | 2023-02-24 |
+| [Where Love Lives \- MK Remix](https://open.spotify.com/track/1PklFCtCsOBrsP8DYYZeW8) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Where Love Lives \(MK Remix\)](https://open.spotify.com/album/40Kvzh94VVqWi8xzCFaWN7) | 2:27 | 2025-12-18 |  |
 | [White Lies](https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [White Lies](https://open.spotify.com/album/6N3kk3LU2L3KweZh6vTq0a) | 3:03 | 2021-01-15 | 2021-05-22 |
 | [White Wine & Adderall](https://open.spotify.com/track/1AApldBkudH6jZAE9ucdUF) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Beau Nox](https://open.spotify.com/artist/72N0ykdq9YlISwQcV7bJkq) | [White Wine & Adderall](https://open.spotify.com/album/4vTJsW6CuwXP0Rs3SCaSSK) | 2:58 | 2025-11-13 |  |
 | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/track/7HKwY4vWe6W5TjSdIG4w8d) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Y3LLO KOALA](https://open.spotify.com/artist/7wSw5WtitICEfxFIbK501i), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Who U Gonna Love \(feat\. Amber Van Day\)](https://open.spotify.com/album/0yzEsLH4U52Qd9cTB3W3Rt) | 2:59 | 2022-04-22 | 2022-06-18 |

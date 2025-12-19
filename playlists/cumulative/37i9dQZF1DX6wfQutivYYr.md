@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Annalisa sulla cover della playlist più grande in Italia 🔥
+> Emma sulla cover della playlist più grande in Italia 🔥
 
 268 songs - 13 hr 50 min
 

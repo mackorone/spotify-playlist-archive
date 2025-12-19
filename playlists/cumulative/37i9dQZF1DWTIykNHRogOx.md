@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Solann & Yoa
+> Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
 
-257 songs - 14 hr 16 min
+259 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [CE QU'ILS DEVIENNENT](https://open.spotify.com/track/1Tzm3EAp5PtUk2n9lKQkkj) | [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [PEAU NEUVE \(Édition Deluxe\)](https://open.spotify.com/album/6j4d5KsL5aKyFMzolRR2Ny) | 3:20 | 2025-01-09 | 2025-06-06 |
 | [Ce que j'aime \(feat\. Nikola\)](https://open.spotify.com/track/0FUBEByQyhya0tLMuJs7xR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [PLUS DE REFLETS](https://open.spotify.com/album/673iiuWKaEWX6MqvvN0Cw6) | 3:26 | 2024-10-10 | 2025-03-07 |
 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-04-03 | 2025-09-05 |
-| [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2025-09-04 |  |
+| [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2025-09-04 | 2025-12-19 |
 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 | 2025-01-23 | 2025-03-21 |
 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:33 | 2025-07-10 | 2025-11-28 |
 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 | 2025-09-11 |  |
@@ -134,6 +134,7 @@
 | [Le fil](https://open.spotify.com/track/6KevXMXMvorazsXNK36W7q) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Âge Fleuve](https://open.spotify.com/album/1YabzrupqpV16I18wxlJxP) | 3:02 | 2025-03-20 | 2025-08-01 |
 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 | 2024-06-27 | 2025-01-10 |
 | [Le Lapin](https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Le Lapin](https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8) | 2:37 | 2024-06-27 | 2024-10-04 |
+| [Le loup \- Spotify Singles](https://open.spotify.com/track/0L16T8OZAAKREvReNkUft7) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Spotify Singles](https://open.spotify.com/album/1z1vT000nrYpl4h5ULVQfV) | 3:05 | 2025-12-18 |  |
 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 | 2025-06-19 | 2025-11-21 |
 | [Le mauvais garçon](https://open.spotify.com/track/55RryZOqld0UynYHHVAiOP) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [Le mauvais garçon](https://open.spotify.com/album/0bixY4p5CCGmoO8Btr9676) | 3:07 | 2024-12-05 | 2025-04-25 |
 | [Le mur](https://open.spotify.com/track/2DwiaiLvMLp7KqQZEwRxGT) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Le mur](https://open.spotify.com/album/6hX4mrDGnUdsJZfooN4heG) | 3:11 | 2025-11-06 |  |
@@ -159,6 +160,7 @@
 | [Les derniers jours de pluies \- Edit Version](https://open.spotify.com/track/3DYKwNNBw82vXKTCvOuYGZ) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Les derniers jours de pluies \(Edit version\)](https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT) | 2:57 | 2024-10-03 | 2025-02-07 |
 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 | 2025-09-11 |  |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
+| [les mots que j'aime](https://open.spotify.com/track/2qbFUOIda3e2w4VB6J0nZf) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [les mots que j'aime](https://open.spotify.com/album/593xbuj1Sg2GRkylfyWFEt) | 2:44 | 2025-12-18 |  |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 | 2025-04-18 |
 | [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-24 | 2025-09-20 |
 | [Les passantes](https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les passantes](https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg) | 3:02 | 2025-10-02 |  |
@@ -252,7 +254,7 @@
 | [Violette](https://open.spotify.com/track/7smDg0K71zHvU7w0qRiUOG) | [Manon Lisa](https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf) | [Violette](https://open.spotify.com/album/100JcLvH3jFj7EvC3r4mNr) | 2:41 | 2024-11-28 | 2025-04-25 |
 | [Vivant](https://open.spotify.com/track/79WNuukBSoDzaem1LT4IZ4) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/1Mf3XaYg2XWFDR5E0D2RCX) | 3:02 | 2024-06-27 | 2024-11-08 |
 | [vivre sobrement](https://open.spotify.com/track/28x80OgMDIuoEN1Fxg05wy) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [vivre sobrement](https://open.spotify.com/album/1WzUmvwS8cONNLNfeCEStN) | 3:11 | 2025-01-09 | 2025-05-30 |
-| [Y en a encore](https://open.spotify.com/track/0RLh5Y3xC0A4k41EIukN7N) | [Vincent Dedienne](https://open.spotify.com/artist/219lkhP1xf6bR6M4UUtid7) | [Y en a encore](https://open.spotify.com/album/17GF2d30VLO5Ssq1oshJDa) | 2:55 | 2025-09-04 |  |
+| [Y en a encore](https://open.spotify.com/track/0RLh5Y3xC0A4k41EIukN7N) | [Vincent Dedienne](https://open.spotify.com/artist/219lkhP1xf6bR6M4UUtid7) | [Y en a encore](https://open.spotify.com/album/17GF2d30VLO5Ssq1oshJDa) | 2:55 | 2025-09-04 | 2025-12-19 |
 | [À cause ou grâce](https://open.spotify.com/track/4UaZ1EKTRqiGUhwsHtGHdG) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 4:18 | 2025-09-11 |  |
 | [À l'arrière de la voiture](https://open.spotify.com/track/5aSdlaElPZ67Jie7hFIzmD) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 4:06 | 2025-01-09 | 2025-05-23 |
 | [à l'autre bout du tel](https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [à l'autre bout du tel](https://open.spotify.com/album/0Lg0PUYJtcHY2YQdpPyOum) | 3:33 | 2025-06-05 | 2025-09-27 |

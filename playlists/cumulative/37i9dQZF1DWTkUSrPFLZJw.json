@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Anadwo",
+        "url": "https://open.spotify.com/album/5NTCRsZ3s9YSUPi9QiGRuh"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170295,
+      "name": "Anadwo",
+      "url": "https://open.spotify.com/track/28kK6tGNpEVpBYiyu6dot1"
+    },
+    {
+      "album": {
         "name": "Aso II",
         "url": "https://open.spotify.com/album/4b5WPLK3aUss1Thmu6v6HQ"
       },
@@ -28,6 +46,24 @@
       "duration_ms": 266967,
       "name": "Aso II",
       "url": "https://open.spotify.com/track/2OAZTmQH3HwsVzDYeK3LDw"
+    },
+    {
+      "album": {
+        "name": "Kofi OO Kofi",
+        "url": "https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274800,
+      "name": "Auntie Ama",
+      "url": "https://open.spotify.com/track/4Kt1qclcbspAr5ENFhBcPR"
     },
     {
       "album": {
@@ -64,7 +100,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166291,
       "name": "BALANCE (with Lasmid)",
       "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
@@ -467,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Jaara",
+        "url": "https://open.spotify.com/album/5KZ601NSbyEiolRw2Li0Xw"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163686,
+      "name": "Jaara",
+      "url": "https://open.spotify.com/track/1TbSH5lB7BZy2zUSkBSzvF"
+    },
+    {
+      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR"
       },
@@ -482,10 +540,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 118309,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U"
+    },
+    {
+      "album": {
+        "name": "Keep It Sexy",
+        "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159819,
+      "name": "Keep It Sexy",
+      "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
     },
     {
       "album": {
@@ -526,7 +602,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
@@ -566,7 +642,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 164745,
       "name": "Makoma",
       "url": "https://open.spotify.com/track/0HtHmm24jro58XSIW2UIoC"
@@ -592,6 +668,28 @@
       "duration_ms": 170840,
       "name": "meet 4 corner",
       "url": "https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8"
+    },
+    {
+      "album": {
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Mine Alone",
+      "url": "https://open.spotify.com/track/4fnxxV0RRzHLaMHBAp4FCe"
     },
     {
       "album": {
@@ -654,7 +752,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
@@ -760,7 +858,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 140166,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
@@ -822,7 +920,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166018,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/04W1rCBWcbkogGiozt8kIJ"
@@ -840,7 +938,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 159905,
       "name": "Put Am on God",
       "url": "https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3"
@@ -1286,7 +1384,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 395298,
+  "num_followers": 395296,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "Chlo\u00eb and the Next 20th Century",
+        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 300240,
+      "name": "Goodbye Mr. Blue",
+      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "Call Me When You Get In",
         "url": "https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 228422,
       "name": "Call Me When You Get In",
       "url": "https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 237545,
-      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Light of My Life",
         "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 259518,
       "name": "Light of My Life",
       "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 237545,
+      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Here's To Forever",
-        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
-      },
-      "artists": [
-        {
-          "name": "Bart van Liemt",
-          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "Here's To Forever",
-      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 212565,
       "name": "Do You Want To Be Honest?",
       "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Here's To Forever",
+        "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
+      },
+      "artists": [
+        {
+          "name": "Bart van Liemt",
+          "url": "https://open.spotify.com/artist/3xLM1wsWj19ZjpYwmuyX5D"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "Here's To Forever",
+      "url": "https://open.spotify.com/track/1kPqJKym5MEHXO0Mpdh4Bx"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Muscle Shoals",
-        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
-      },
-      "artists": [
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 182106,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Happier (Piano Version)",
         "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "Muscle Shoals",
+        "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
+      },
+      "artists": [
+        {
+          "name": "DeWolff",
+          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 175844,
       "name": "Saturday Silence",
       "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
-      },
-      "artists": [
-        {
-          "name": "Youri Lentjes",
-          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -779,6 +763,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
+      },
+      "artists": [
+        {
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
+        }
+      ],
+      "duration_ms": 189064,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "I Believe In Life",
         "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Same Heart",
-        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
       },
       "artists": [
         {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
         }
       ],
-      "duration_ms": 219923,
-      "name": "Same Heart",
-      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
+      "duration_ms": 194675,
+      "name": "Last Forever - Acoustic",
+      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -827,22 +827,6 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6zRmU09G6WpOyEEjyx415P"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 194675,
-      "name": "Last Forever - Acoustic",
-      "url": "https://open.spotify.com/track/29H7L2HjWj6D36efQRPGBm"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -879,6 +863,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "Same Heart",
+        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Same Heart",
+      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "I'm In Heaven",
         "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Walls",
         "url": "https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 186079,
       "name": "Walls",
       "url": "https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
-      },
-      "artists": [
-        {
-          "name": "Marta Arpini",
-          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
-        }
-      ],
-      "duration_ms": 188478,
-      "name": "Little Love",
-      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 232082,
       "name": "Don't Leave Me Now",
       "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/4mErgfMcAlJ6WLQkRvHozj"
+      },
+      "artists": [
+        {
+          "name": "Marta Arpini",
+          "url": "https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8"
+        }
+      ],
+      "duration_ms": 188478,
+      "name": "Little Love",
+      "url": "https://open.spotify.com/track/6ZgMOBLTFTiznbKhEDeqnw"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1351,22 +1351,6 @@
       "duration_ms": 161979,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "The Indien",
-        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "Dark Harvest, Pt. 1",
         "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
       },
@@ -1451,38 +1451,6 @@
       "duration_ms": 292148,
       "name": "Solastalgia",
       "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        }
-      ],
-      "duration_ms": 254100,
-      "name": "Waiting in the Wings",
-      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "seasons",
-        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "duration_ms": 220621,
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1503,6 +1471,38 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 220621,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        }
+      ],
+      "duration_ms": 254100,
+      "name": "Waiting in the Wings",
+      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "Kind Of Love",
         "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 234183,
       "name": "Kind Of Love",
       "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Po\u00e8te Maudit",
-        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "Po\u00e8te Maudit",
-      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1571,22 +1555,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "A Way With My Heart",
-        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+        "name": "Po\u00e8te Maudit",
+        "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
       },
       "artists": [
         {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        },
-        {
-          "name": "Sven Hammond",
-          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
         }
       ],
-      "duration_ms": 195453,
-      "name": "A Way With My Heart",
-      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
+      "duration_ms": 167320,
+      "name": "Po\u00e8te Maudit",
+      "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1639,6 +1619,26 @@
       "duration_ms": 202630,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "A Way With My Heart",
+        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        },
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "A Way With My Heart",
+      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
     },
     {
       "added_at": "2025-12-05 07:59:18",

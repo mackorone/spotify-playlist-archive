@@ -4,7 +4,7 @@
 
 > The future shape of noise\. Cover: They Are Gutting a Body of Water
 
-849 songs - 2 day 0 hr 48 min
+850 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [daddy of mine](https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [daddy of mine](https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN) | 2:24 | 2024-04-12 | 2024-08-31 |
 | [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-31 | 2022-10-08 |
 | [Daisy](https://open.spotify.com/track/57qEVblwTQpaR09g1XR2YT) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Daisy](https://open.spotify.com/album/5IcszA2oS2W638Ii5h25gZ) | 3:10 | 2022-09-06 | 2023-02-03 |
-| [Dare I Say](https://open.spotify.com/track/3x4GmIoBoi6AKOcnTihKMe) | [Head Cloud](https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6) | [Hard To Exist](https://open.spotify.com/album/4uQLlofCSNpWRfinInFzVJ) | 3:10 | 2024-12-29 |  |
+| [Dare I Say](https://open.spotify.com/track/3x4GmIoBoi6AKOcnTihKMe) | [Head Cloud](https://open.spotify.com/artist/1zjQss5oxe4XMJ2mH2ZPP6) | [Hard To Exist](https://open.spotify.com/album/4uQLlofCSNpWRfinInFzVJ) | 3:10 | 2024-12-29 | 2025-12-19 |
 | [Daretomove](https://open.spotify.com/track/2K1cFNyLVoKWw4RdHWRmDe) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Daretomove](https://open.spotify.com/album/7vLjgVRDEP2irwKaT4P1hX) | 3:12 | 2023-11-10 | 2024-04-13 |
 | [Dark Comedy](https://open.spotify.com/track/4Rw04eaMZanpPyW2j8eIvY) | [Down For Tomorrow](https://open.spotify.com/artist/06jJmL2NiArM3eKhgFjgl0) | [Dark Comedy](https://open.spotify.com/album/2SPx4csg5z4aDb5vdHmYZn) | 3:12 | 2022-02-17 | 2022-02-25 |
 | [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 | 2023-07-14 | 2023-08-18 |
@@ -688,6 +688,7 @@
 | [Stale Change](https://open.spotify.com/track/6gN9LqSRbTCTCr9l86y3io) | [Spite House](https://open.spotify.com/artist/3ORse2pnaM7OvXoqIgS1pN) | [Stale Change](https://open.spotify.com/album/2aAHqcMLotpSFABXHwTb9P) | 3:03 | 2025-07-18 |  |
 | [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2024-12-29 |  |
 | [Star](https://open.spotify.com/track/3htTIczJijYQUMhuExSOED) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Star](https://open.spotify.com/album/57wIEJkgUzg17Qyns6JvXz) | 3:35 | 2022-10-07 | 2023-02-22 |
+| [Star](https://open.spotify.com/track/5yhXwNpMauiItH4zsJJveb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Star](https://open.spotify.com/album/6ALceKygaMi66f4hNfSOUq) | 2:06 | 2025-12-18 |  |
 | [Star 9200](https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Star 9200](https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp) | 2:39 | 2024-04-19 | 2024-07-27 |
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2023-09-29 | 2024-04-27 |
 | [Stay Sane](https://open.spotify.com/track/7IhqfL5O6ODzo3GvsJWfPp) | [Chlorine](https://open.spotify.com/artist/3JUz5tz4Whdo5kaW8uOKjF) | [Stay Sane](https://open.spotify.com/album/1bV5jcaO8VJ1axYqK77MTE) | 3:03 | 2022-06-09 | 2022-06-17 |

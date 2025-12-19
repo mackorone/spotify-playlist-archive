@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 38999,
+  "num_followers": 39005,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-12-02 11:28:48",
       "album": {
+        "name": "\u0424\u0443\u0440\u0456\u044f",
+        "url": "https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR"
+      },
+      "artists": [
+        {
+          "name": "BRYANGIN",
+          "url": "https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "\u0424\u0443\u0440\u0456\u044f",
+      "url": "https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd"
+    },
+    {
+      "added_at": "2025-12-02 11:28:48",
+      "album": {
         "name": "Feel it Still",
         "url": "https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 174730,
       "name": "Feel it Still",
       "url": "https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM"
-    },
-    {
-      "added_at": "2025-12-02 11:28:48",
-      "album": {
-        "name": "\u0424\u0443\u0440\u0456\u044f",
-        "url": "https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR"
-      },
-      "artists": [
-        {
-          "name": "BRYANGIN",
-          "url": "https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "\u0424\u0443\u0440\u0456\u044f",
-      "url": "https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd"
     },
     {
       "added_at": "2025-12-02 11:28:48",

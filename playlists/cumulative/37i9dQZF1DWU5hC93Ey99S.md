@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-925 songs - 2 day 1 hr 19 min
+928 songs - 2 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 | 2023-11-16 | 2024-01-06 |
 | [Aura](https://open.spotify.com/track/7IyYnCxzBvrwf73Xau44AO) | [xust.](https://open.spotify.com/artist/2Y2UOYYwgQJjRWAA71cJRf), [BUNT.](https://open.spotify.com/artist/0ZdzYZQXYe886ACdfsGr3I) | [Aura](https://open.spotify.com/album/00ygWYIcvbGpkFHvx6hNx5) | 1:50 | 2024-04-13 | 2024-04-26 |
 | [Aurial](https://open.spotify.com/track/65xdN7QgXmJ1nb9IP3vOPX) | [motty](https://open.spotify.com/artist/6rJaeIeEwGvYH6PyIMz0WG), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Launch13](https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k) | [Aurial](https://open.spotify.com/album/2v2fMVosY2tKlA9gbgJGw6) | 3:06 | 2024-07-25 | 2025-08-13 |
+| [Babylon](https://open.spotify.com/track/23kUX7OdiPbl2r1Fkd7lMN) | [Ziggy Maxwell](https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE), [Didi The Pool Boy](https://open.spotify.com/artist/2r98WA8XcwpU0SwWzwbztr) | [Babylon](https://open.spotify.com/album/3zOooH1ZUIR8fPTESUY6Ck) | 3:29 | 2025-12-18 |  |
 | [BACK FOR MORE](https://open.spotify.com/track/0TdKvw86k95MpKXD6pamFN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [BACK FOR MORE](https://open.spotify.com/album/4DE4QCn4le3BWkCt4OnMee) | 2:55 | 2023-11-09 | 2025-08-13 |
 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 | 2023-07-14 | 2025-11-15 |
 | [BACK TO LIFE \- JEV Remix](https://open.spotify.com/track/70uaNdoA0aFj8T4hKOF1YY) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [BACK TO LIFE \(Remixes\)](https://open.spotify.com/album/26PkstNTI0Gax0Ax6GVhac) | 3:02 | 2024-12-05 | 2025-08-13 |
@@ -86,6 +87,7 @@
 | [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-24 |  |
 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 | 2025-07-03 |  |
 | [Best Time](https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Best Time](https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB) | 3:15 | 2024-09-19 | 2025-08-13 |
+| [Bette Davis Eyes](https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Bette Davis Eyes](https://open.spotify.com/album/5NUw3mAwhotIPgacWSKgil) | 2:57 | 2025-12-18 |  |
 | [Better](https://open.spotify.com/track/6gD10TawLGxl9PCIwRMsNt) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Gali](https://open.spotify.com/artist/5fi0rOMvvx3YGwpkOfkPWm) | [Better](https://open.spotify.com/album/4VbUhn1TOBMlIqq5hgSdZx) | 2:36 | 2024-09-26 | 2025-08-13 |
 | [Better](https://open.spotify.com/track/1cw4mrBVhHbYzLzzKXOUxb) | [Lavish](https://open.spotify.com/artist/2FyuJ5Gi4pbwZz2PzHcfmf) | [Better](https://open.spotify.com/album/5O8u0rEbfov9YKgTh5Khay) | 4:46 | 2024-01-18 | 2025-08-13 |
 | [Better Days](https://open.spotify.com/track/6xmMBY754l7guTzNokbzos) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp) | 3:31 | 2024-05-02 | 2025-08-13 |
@@ -616,6 +618,7 @@
 | [Pearls \- SILK Remix](https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Pearls \(SILK Remix\)](https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr) | 4:06 | 2023-04-13 | 2023-07-22 |
 | [Physique \(feat\. RBZ\)](https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [RBZ](https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL) | [Physique \(feat\. RBZ\)](https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ) | 2:58 | 2024-02-15 | 2025-08-13 |
 | [Piece of My Soul](https://open.spotify.com/track/1UsXSNwMlvtDTT5JsAPLAo) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Gudan](https://open.spotify.com/artist/3OWemvYCoTAP2ytMKcwauC) | [Piece of My Soul](https://open.spotify.com/album/4blM0bEwzQYRdgMrT5diu1) | 2:23 | 2024-06-13 | 2025-08-13 |
+| [Piece of You](https://open.spotify.com/track/4pNpIUcx66auuJTusGNHxa) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Piece of You](https://open.spotify.com/album/6svyIFvuWLHRtq5AgISkO5) | 2:58 | 2025-12-18 |  |
 | [Pixel Heart](https://open.spotify.com/track/2mDnysW26TTMYZ0Wji4juJ) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Pixel Heart](https://open.spotify.com/album/0N6kV5ONaWhpQquw2DBRHA) | 3:00 | 2024-01-11 | 2024-01-26 |
 | [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 | 2024-07-12 | 2025-08-13 |
 | [Poetry Of You](https://open.spotify.com/track/2fvt96YAsSr5e8ZwbMg2j9) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [Poetry Of You](https://open.spotify.com/album/4qdR9J2rvV9X3t6eZKrTL1) | 4:17 | 2023-06-08 | 2024-01-06 |

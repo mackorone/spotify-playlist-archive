@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 二階堂和美 Nikaido Kazumi
 
-3,530 songs - 9 day 9 hr 13 min
+3,531 songs - 9 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1138,7 +1138,7 @@
 | [Midnight in Paris](https://open.spotify.com/track/66q650bEchJtIPELfURWaZ) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Midnight in Paris](https://open.spotify.com/album/75eEUwi0urbnFXrm3dw5jS) | 3:02 | 2022-08-17 | 2022-08-24 |
 | [Midnight Phone](https://open.spotify.com/track/7CnGvZnLIawI3CxWP9cXRu) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [Midnight Phone](https://open.spotify.com/album/0qxY6Gw7UVYGWKDELpQwGD) | 3:42 | 2022-09-06 | 2022-09-15 |
 | [Midnight Whisper \- feat\. Masahiro Sengoku](https://open.spotify.com/track/1aPeIT8OXsQMByZQgv5VSj) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Masahiro Sengoku](https://open.spotify.com/artist/65PWrqCqvJ3I32gOMMVtnt) | [Midnight Whisper \(feat\. Masahiro Sengoku\)](https://open.spotify.com/album/1rQnK2vDkNQMSrqtLv3Q3v) | 2:56 | 2022-08-17 | 2022-08-31 |
-| [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-13 |  |
+| [MILLION PLACES](https://open.spotify.com/track/4HJNGbmQomaeZoh6aOYDIT) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MILLION PLACES](https://open.spotify.com/album/5JAV9kfx7bcxgdJFFfdHd4) | 3:24 | 2025-05-13 | 2025-12-19 |
 | [Mimi O Sumasu](https://open.spotify.com/track/548JbCzzAo5Vm283DQ0ZXt) | [Yo Hitoto](https://open.spotify.com/artist/5sm4rWbXSE6K8MdyTIZg7q) | [Hitotozukushizu \(Another Edition\)](https://open.spotify.com/album/3KKLO623sFUcK964j2dmPD) | 5:35 | 2022-12-20 | 2023-01-04 |
 | [Mimosa](https://open.spotify.com/track/5wb7qKTkJOAjcYrDIDc38r) | [Ayane Yamazaki](https://open.spotify.com/artist/3aAqZwjiV8gDsQLOazoXPF) | [魂のハイウェイ](https://open.spotify.com/album/7ldEOhZlm91lsrvm4pcd9N) | 3:28 | 2022-09-29 | 2022-10-05 |
 | [mimosa](https://open.spotify.com/track/2LHlcQqSZDrTVXGB6Hgf6e) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [mimosa](https://open.spotify.com/album/0x8DhYL1Y62n95Nsiu8kVj) | 5:09 | 2025-04-08 | 2025-12-03 |
@@ -3476,6 +3476,7 @@
 | [雨夜の星](https://open.spotify.com/track/6sx6PoQKn1AWzNg6J9AB5U) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9) | [雨夜の星](https://open.spotify.com/album/1hondHlnVapxbGOiX6wT1H) | 6:17 | 2022-06-07 | 2022-07-21 |
 | [雨景色](https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [日陰](https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK) | 3:00 | 2025-07-22 |  |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-05-29 | 2023-02-22 |
+| [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 | 2025-12-18 |  |
 | [雲雀](https://open.spotify.com/track/27MK2siSJJAtP65TEiHdzU) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [春が呼んでる](https://open.spotify.com/album/7eC4IRNB2ajNSLoPTyY30T) | 4:34 | 2022-11-29 | 2022-12-07 |
 | [電気](https://open.spotify.com/track/47zXSmvwAUNO82qoVTnfd5) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [スーパー銭湯 2](https://open.spotify.com/album/20MS7D3Wsn5rlPmxFECwWQ) | 2:36 | 2024-04-16 | 2024-04-24 |
 | [電源](https://open.spotify.com/track/0xTe1EdbvOcB7uFRfGLcgL) | [中野ミホ](https://open.spotify.com/artist/1VGKPNzzfAx82OG0sWXtLS) | [電源](https://open.spotify.com/album/3J2JtTkXqw0j4FGi3d7272) | 4:06 | 2022-07-26 | 2022-08-03 |

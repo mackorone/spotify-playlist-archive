@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 96829,
+  "num_followers": 96883,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
+  "snapshot_id": "AAAAAKhcH3K4a8zlNA1JHx9GiCNMB0UU",
   "tracks": [
     {
       "added_at": "2021-05-18 09:57:44",
@@ -115,6 +115,34 @@
       "duration_ms": 287613,
       "name": "Manasavacha",
       "url": "https://open.spotify.com/track/0OfaxrkK5wNf6Gotdph5Jz"
+    },
+    {
+      "added_at": "2024-10-04 05:24:54",
+      "album": {
+        "name": "Yevade Subramanyam",
+        "url": "https://open.spotify.com/album/58kWSbnlLAIgHPHJf30A29"
+      },
+      "artists": [
+        {
+          "name": "Senthil",
+          "url": "https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3"
+        },
+        {
+          "name": "Rihitha",
+          "url": "https://open.spotify.com/artist/7HCfn98lJJNkmv6Gn0F2Fc"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 245498,
+      "name": "Challa Gaali Thakuthunna",
+      "url": "https://open.spotify.com/track/5kLxn6LzkRaL6ApHETc6Pc"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -389,6 +417,22 @@
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
+      "added_at": "2023-10-06 08:47:21",
+      "album": {
+        "name": "Gaaju Bomma (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/1KQY2FCmofyNFNzsMyMt9n"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Gaaju Bomma (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd"
+    },
+    {
       "added_at": "2024-04-04 10:09:10",
       "album": {
         "name": "Om Bheem Bush",
@@ -411,22 +455,6 @@
       "duration_ms": 211670,
       "name": "Anuvanuvuu",
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
-    },
-    {
-      "added_at": "2023-10-06 08:47:21",
-      "album": {
-        "name": "Gaaju Bomma (From \"Hi Nanna\")",
-        "url": "https://open.spotify.com/album/1KQY2FCmofyNFNzsMyMt9n"
-      },
-      "artists": [
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Gaaju Bomma (From \"Hi Nanna\")",
-      "url": "https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd"
     },
     {
       "added_at": "2023-03-09 10:18:22",
@@ -861,26 +889,6 @@
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR"
-      },
-      "artists": [
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        },
-        {
-          "name": "Chorus",
-          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
-        }
-      ],
-      "duration_ms": 301557,
-      "name": "Dhim Thana",
-      "url": "https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9"
-    },
-    {
       "added_at": "2024-08-28 12:46:30",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
@@ -903,6 +911,26 @@
       "duration_ms": 261314,
       "name": "Laalijo Raagam",
       "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/0AWdfmWDjXwMbeGI0so1dR"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Chorus",
+          "url": "https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa"
+        }
+      ],
+      "duration_ms": 301557,
+      "name": "Dhim Thana",
+      "url": "https://open.spotify.com/track/6bbSwo7GyM7DWjzicUerR9"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -955,22 +983,6 @@
       "duration_ms": 293840,
       "name": "Nuvvena",
       "url": "https://open.spotify.com/track/4k6N1wRZ5Im7KmbINgBdO3"
-    },
-    {
-      "added_at": "2024-02-12 05:31:53",
-      "album": {
-        "name": "Aadavari Matalaku Ardhalu Veruley",
-        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 319686,
-      "name": "Emaindhi Eevela",
-      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
     }
   ],
   "unique_name": "Mellow Telugu",

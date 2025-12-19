@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-608 songs - 1 day 10 hr 36 min
+609 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2023-02-23 | 2023-04-26 |
 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 | 2024-04-11 |  |
 | [Dead End Of A Dream](https://open.spotify.com/track/1vwu8X84wTVuVXgG7bbdtw) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Dead End Of A Dream](https://open.spotify.com/album/2D5G56419QjsWtt2pf8b7w) | 3:24 | 2024-06-20 | 2024-09-01 |
-| [December](https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu) | [KY.](https://open.spotify.com/artist/0hG1HYfwIxLXrvJlsaXXDk) | [December](https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ) | 3:13 | 2023-04-25 | 2025-12-11 |
+| [December](https://open.spotify.com/track/6fNXxN4iNz3C316rt9PFYu) | [KY.](https://open.spotify.com/artist/0hG1HYfwIxLXrvJlsaXXDk) | [December](https://open.spotify.com/album/4v3e28aK40aUcFkHjWVyiQ) | 3:13 | 2023-04-25 |  |
 | [Demise](https://open.spotify.com/track/74JtWskHPIn7QqxC0Xr8hR) | [Hamel](https://open.spotify.com/artist/6klaFPOSpOaGXuQ71bUXC3) | [Lohengrin](https://open.spotify.com/album/4N7owxB7HhBbfCUtdloB3y) | 3:53 | 2023-04-25 | 2024-03-20 |
 | [Die For You](https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/6EetSjlBdamHHg82She66u) | 3:06 | 2025-05-27 | 2025-10-29 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2025-03-20 | 2025-04-12 |
@@ -254,6 +254,7 @@
 | [I Won't Let Go](https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Higher](https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck) | 3:43 | 2025-03-20 | 2025-05-10 |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-12-04 |  |
 | [I'm So Happy \(with BENEE\)](https://open.spotify.com/track/16Fxe5DvEXRxQwcorFyaIO) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [I'm So Happy](https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7) | 2:53 | 2024-03-21 | 2024-08-30 |
+| [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 | 2025-12-18 |  |
 | [Icarus & The Sun](https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd) | [Neil Hollyn](https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0) | [Icarus & The Sun](https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba) | 3:08 | 2023-04-25 |  |
 | [If I Don't Love Me](https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [If I Don't Love Me](https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt) | 2:57 | 2023-02-23 | 2025-12-05 |
 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 | 2025-12-10 |  |
@@ -303,7 +304,7 @@
 | [Looking For Your Name](https://open.spotify.com/track/1pfOZQDapYAnR5qbHZhsXm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Embrace](https://open.spotify.com/album/7G53des9iRPuUydeFXXNGy) | 4:53 | 2023-02-23 |  |
 | [Lose It All](https://open.spotify.com/track/1mBtrVS6hLeqcVecvpAqBJ) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Lose It All](https://open.spotify.com/album/1zxsgM6wXvm801tK3ue3aF) | 3:25 | 2023-02-23 | 2023-08-18 |
 | [Lose Ourselves](https://open.spotify.com/track/1hQRJ2zAJ5q29jfi9eEeE4) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Walk With Me](https://open.spotify.com/album/7DRjeejtMRgpRLwGyZdC1y) | 2:50 | 2023-04-25 | 2023-11-18 |
-| [Lose Ourselves](https://open.spotify.com/track/2UPN5GTQvJbbLtBDXWymgD) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Walk With Me](https://open.spotify.com/album/4zPnQpmtgSOtPFil1oS1R8) | 2:52 | 2024-04-11 |  |
+| [Lose Ourselves](https://open.spotify.com/track/2UPN5GTQvJbbLtBDXWymgD) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Walk With Me](https://open.spotify.com/album/4zPnQpmtgSOtPFil1oS1R8) | 2:52 | 2024-04-11 | 2025-12-19 |
 | [Lost](https://open.spotify.com/track/52jbePNbsAq0jYQThjKI9y) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 3:16 | 2023-02-23 | 2024-03-26 |
 | [Lost In You](https://open.spotify.com/track/7ACj74w6uo8Zi2TYZXWk9m) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/0L0JffGJcm2ybbDcd6BJmO) | 3:06 | 2023-02-23 | 2024-01-28 |
 | [Lost In You](https://open.spotify.com/track/7unsohvCybAQ55vfxMp5vX) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Actually, I Can.](https://open.spotify.com/album/4JXNlrGjAQUvx4qFA5Yban) | 3:06 | 2024-01-16 | 2024-04-19 |
@@ -553,7 +554,7 @@
 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2024-01-16 | 2024-04-19 |
 | [Tropical Commotion](https://open.spotify.com/track/2Z1PLz4doUUmo18lIqFmry) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Pieces \(EP\)](https://open.spotify.com/album/40DNbdaTg3zjgf9pDCMhPw) | 3:47 | 2023-02-23 | 2023-04-13 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2024-07-15 | 2024-09-28 |
-| [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 |  |
+| [Tututu](https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Irrational](https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1) | 2:55 | 2023-02-23 | 2025-12-19 |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2023-02-23 |  |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2024-03-26 | 2025-06-21 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2024-09-27 | 2025-10-09 |

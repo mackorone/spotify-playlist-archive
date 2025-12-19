@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 13 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
 | 14 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
 | 15 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
-| 16 | [Ghosts](https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Grillin' Jams, Vol\. 2](https://open.spotify.com/album/0HD3da6RjD7fMyvZucjSRZ) | 2:58 |
-| 17 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
-| 18 | [Kiss the Rain](https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk) | [THIRST TRAP](https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV) | [Kiss the Rain](https://open.spotify.com/album/6FK8wwxb2hLpVt7n87co0p) | 3:45 |
-| 19 | [Vampire Class](https://open.spotify.com/track/7j06aRB3sWhdMd91ntg81z) | [The Phoenix Foundation](https://open.spotify.com/artist/0Rus0e2zrkY6T4E5IYFNsA) | [Vampire Class](https://open.spotify.com/album/3QythpsQ136w6u2EofA8p7) | 3:22 |
+| 16 | [Vampire Class](https://open.spotify.com/track/7j06aRB3sWhdMd91ntg81z) | [The Phoenix Foundation](https://open.spotify.com/artist/0Rus0e2zrkY6T4E5IYFNsA) | [Vampire Class](https://open.spotify.com/album/3QythpsQ136w6u2EofA8p7) | 3:22 |
+| 17 | [Ghosts](https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk) | [The Beefs](https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX) | [Grillin' Jams, Vol\. 2](https://open.spotify.com/album/0HD3da6RjD7fMyvZucjSRZ) | 2:58 |
+| 18 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
+| 19 | [Kiss the Rain](https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk) | [THIRST TRAP](https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV) | [Kiss the Rain](https://open.spotify.com/album/6FK8wwxb2hLpVt7n87co0p) | 3:45 |
 | 20 | [Roller](https://open.spotify.com/track/5sYrDEg5lcbIVMZ4dUko5d) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [I Only Trust Rock n Roll](https://open.spotify.com/album/2uUYr0m6SXcKGSNITJon46) | 3:19 |
 | 21 | [Guardian](https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Guardian](https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8) | 3:14 |
 | 22 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 |
 | 80 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
 
-Snapshot ID: `AAAAAG+nRiGVnAso1FZMOvdtwUzFcQov`
+Snapshot ID: `AAAAAGC6BlS8xXHB6kARHp51QAQSCUxv`

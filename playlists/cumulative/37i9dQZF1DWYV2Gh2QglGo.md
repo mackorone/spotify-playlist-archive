@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: Brett Kissel
 
-499 songs - 1 day 2 hr 42 min
+501 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Feels Like Forever](https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Feels Like Forever](https://open.spotify.com/album/1O59CVuNp3WHcV7lgRnoHm) | 3:12 | 2025-09-19 |  |
 | [fence sitter](https://open.spotify.com/track/3EOlgESZdhj7hSHEwR4r5T) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [fence sitter](https://open.spotify.com/album/0a2FgMMrUzwsnVBqpbVSkk) | 3:38 | 2025-10-24 |  |
 | [Fight With You](https://open.spotify.com/track/6hdvMIbkpxWN6owrVTdEEY) | [Griffen Palmer](https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ), [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Fight With You](https://open.spotify.com/album/2uBOm5O2NwBmtIlPLTxXTI) | 3:22 | 2025-07-18 | 2025-10-10 |
+| [Find My Bones](https://open.spotify.com/track/5yCrBKZUjHzPhux3HxZ74s) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Find My Bones](https://open.spotify.com/album/2VKCgvvO66L58l1uh3Sn0T) | 4:49 | 2025-12-19 |  |
 | [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Fire Child](https://open.spotify.com/track/1QZu9XYaAtUAMai016gS0o) | [Raquel Cole](https://open.spotify.com/artist/79d6Lyd8uQbZsCWtpnZqtF) | [Fire Child](https://open.spotify.com/album/3owKjqyBwMUl4a47gVWRDT) | 3:07 | 2025-10-10 |  |
 | [First Love](https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [First Love](https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L) | 3:07 | 2025-03-15 | 2025-07-12 |
@@ -138,6 +139,7 @@
 | [Five Beers From Now](https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Five Beers From Now](https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP) | 3:03 | 2024-08-23 | 2025-03-15 |
 | [Flower Tattoos](https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t) | 3:47 | 2024-09-27 | 2024-11-02 |
 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 | 2025-09-05 | 2025-10-10 |
+| [For The Record](https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [For The Record](https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq) | 3:22 | 2025-12-19 |  |
 | [Forever Changed](https://open.spotify.com/track/3HidZA7UD6dsFkXipUyntd) | [Annika](https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo), [Carolyn Dawn Johnson](https://open.spotify.com/artist/0SwVn4s8PdhY9XQhi9SetC) | [Forever Changed](https://open.spotify.com/album/14bUZXwTharErCVQWrMKZ8) | 4:16 | 2025-11-14 |  |
 | [Fortune Teller](https://open.spotify.com/track/43mitDdTC0YfAQ0y1o8jaS) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Fortune Teller](https://open.spotify.com/album/1GIHpTihLalWrEw8qi07RJ) | 2:35 | 2025-10-17 |  |
 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 | 2025-08-08 | 2025-09-20 |

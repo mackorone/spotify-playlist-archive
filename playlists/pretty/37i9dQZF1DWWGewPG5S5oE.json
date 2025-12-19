@@ -347,18 +347,18 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "Zatto",
-        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+        "name": "soraya",
+        "url": "https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e"
       },
       "artists": [
         {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+          "name": "soraya",
+          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
         }
       ],
-      "duration_ms": 367966,
-      "name": "Zatto",
-      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
+      "duration_ms": 188830,
+      "name": "\u611b\u306e\u3057\u308b\u3057",
+      "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "Two of Me (From \"Star Wars: Visions Vol. 3 - BLACK\")",
-        "url": "https://open.spotify.com/album/45WO6jELMPfhOh5aGGi46X"
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
       },
       "artists": [
         {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
         }
       ],
-      "duration_ms": 448633,
-      "name": "Two of Me - From \"Star Wars: Visions Vol. 3 - BLACK\"",
-      "url": "https://open.spotify.com/track/788HcUEG6qDMhyBUOcSv8V"
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -443,18 +443,18 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "soraya",
-        "url": "https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e"
+        "name": "Two of Me (From \"Star Wars: Visions Vol. 3 - BLACK\")",
+        "url": "https://open.spotify.com/album/45WO6jELMPfhOh5aGGi46X"
       },
       "artists": [
         {
-          "name": "soraya",
-          "url": "https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB"
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
         }
       ],
-      "duration_ms": 188830,
-      "name": "\u611b\u306e\u3057\u308b\u3057",
-      "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"
+      "duration_ms": 448633,
+      "name": "Two of Me - From \"Star Wars: Visions Vol. 3 - BLACK\"",
+      "url": "https://open.spotify.com/track/788HcUEG6qDMhyBUOcSv8V"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -643,26 +643,6 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "cure jazz",
-        "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
-      },
-      "artists": [
-        {
-          "name": "UA",
-          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
-        },
-        {
-          "name": "Naruyoshi Kikuchi",
-          "url": "https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "This city is too jazzy to be in love",
-      "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
-    },
-    {
-      "added_at": "2025-12-16 15:00:38",
-      "album": {
         "name": "Exotic Rose",
         "url": "https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
+    },
+    {
+      "added_at": "2025-12-16 15:00:38",
+      "album": {
+        "name": "cure jazz",
+        "url": "https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf"
+      },
+      "artists": [
+        {
+          "name": "UA",
+          "url": "https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0"
+        },
+        {
+          "name": "Naruyoshi Kikuchi",
+          "url": "https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "This city is too jazzy to be in love",
+      "url": "https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2025-12-16 15:00:38",
-      "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 270806,
       "name": "Crossing",
       "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2025-12-16 15:00:38",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "Ryo Fukui Trio at the Slowboat 2004",
-        "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
-      },
-      "artists": [
-        {
-          "name": "Ryo Fukui",
-          "url": "https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh"
-        }
-      ],
-      "duration_ms": 775840,
-      "name": "Eclypso",
-      "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
-    },
-    {
-      "added_at": "2025-12-16 15:00:38",
-      "album": {
         "name": "Workaholic",
         "url": "https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 266140,
       "name": "Workaholic",
       "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
+    },
+    {
+      "added_at": "2025-12-16 15:00:38",
+      "album": {
+        "name": "Ryo Fukui Trio at the Slowboat 2004",
+        "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
+      },
+      "artists": [
+        {
+          "name": "Ryo Fukui",
+          "url": "https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh"
+        }
+      ],
+      "duration_ms": 775840,
+      "name": "Eclypso",
+      "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
     },
     {
       "added_at": "2025-12-16 15:00:38",

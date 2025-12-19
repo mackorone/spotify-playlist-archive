@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-785 songs - 1 day 23 hr 17 min
+786 songs - 1 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [NIV](https://open.spotify.com/track/4rvLFKSENvJQrdLQj1Y93d) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [NIV](https://open.spotify.com/album/7fud2Fh5NxgmhmiTuGDtcd) | 4:35 | 2020-12-21 | 2022-04-14 |
 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-09-29 | 2023-12-30 |
 | [No Ordinary Man](https://open.spotify.com/track/6hWjywqSn9XFl4RrfoJ6P4) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [No Ordinary Man](https://open.spotify.com/album/7GzK7u995tGOhu6gvdsvOj) | 4:11 | 2020-12-21 | 2022-04-16 |
+| [No Ties](https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [Best Comedown Ever](https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv) | 3:37 | 2025-04-21 |  |
 | [Nobody](https://open.spotify.com/track/46SWSNRB3oAAOu21Apj22z) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Nobody](https://open.spotify.com/album/0EYyOtVPGxsXIJy3lXHEr0) | 3:32 | 2020-12-21 | 2022-04-21 |
 | [Nomad](https://open.spotify.com/track/1JC5wIc1y4aIVt5PDXE7dY) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Nomad](https://open.spotify.com/album/4dYOz9ubqYpjlRf2nb2Exp) | 3:44 | 2022-07-12 | 2022-07-29 |
 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-10-28 | 2023-10-24 |
@@ -608,7 +609,7 @@
 | [Seventeen](https://open.spotify.com/track/3ctBlLC81pc2TMriIxnXxN) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/1v55LXxVAFvFV02xGMImwP) | 4:31 | 2020-12-21 | 2022-04-16 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2021-03-04 | 2022-05-21 |
 | [Shadow Bloom](https://open.spotify.com/track/6xKjVD4VNcVHauHauwpTQ1) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Shadow Bloom](https://open.spotify.com/album/5O6fyq3ewz8DcT9HnJ1i59) | 3:40 | 2020-12-21 | 2022-04-12 |
-| [Shadowshow](https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:42 | 2023-10-17 |  |
+| [Shadowshow](https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:42 | 2023-10-17 | 2025-12-19 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/79ri2kyVbP57qMLfNDHI3S) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:41 | 2023-11-21 | 2023-12-30 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2022-12-01 |
 | [Shit I'm Dreaming](https://open.spotify.com/track/1gNPP8TazAPuvq6R8oxxnU) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 6:22 | 2024-12-20 | 2025-09-15 |

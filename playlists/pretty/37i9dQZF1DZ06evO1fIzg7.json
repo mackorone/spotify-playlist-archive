@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20496,
+  "num_followers": 20497,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAA1xEIjQWtpdxAqYuCBi8Sg",
+  "snapshot_id": "aUHygAAAAAAUsYkX+u6GUfAvAp9ZUd7q",
   "tracks": [
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz"
+      "duration_ms": 248001,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 248001,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw"
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 211719,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
+      "duration_ms": 211153,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 201786,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/2np4WdbdOjxmm3gByJQnj4"
+      "duration_ms": 253293,
+      "name": "Breaking the Circle",
+      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
     },
     {
       "added_at": null,
@@ -775,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 273915,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Breaking the Circle",
-      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
@@ -823,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
       "artists": [
         {
@@ -832,9 +800,45 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
+      "duration_ms": 201786,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/2np4WdbdOjxmm3gByJQnj4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 273915,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crown Jewels - Ten Crowns (DELUXE)",
+        "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 204519,
+      "name": "The Calming",
+      "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
     },
     {
       "added_at": null,

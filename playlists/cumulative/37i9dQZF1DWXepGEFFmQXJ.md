@@ -2,7 +2,7 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Luke Combs
+> The cream of today's country crop\. Cover: The Wet Whistles
 
 1,083 songs - 2 day 11 hr 23 min
 

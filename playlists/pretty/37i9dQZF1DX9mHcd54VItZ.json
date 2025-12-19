@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Barto & Zaan Sonnekus",
-  "num_followers": 25939,
+  "num_followers": 25950,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-11 22:00:34",
       "album": {
-        "name": "Mulberry Tree",
-        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
-      },
-      "artists": [
-        {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
-        }
-      ],
-      "duration_ms": 209834,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2025-12-11 22:00:34",
+      "album": {
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
     },
     {
       "added_at": "2025-12-11 22:00:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-12-11 22:00:34",
       "album": {
-        "name": "If I'm Honest",
-        "url": "https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "If I'm Honest",
-      "url": "https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
         "name": "Nou Toer Ons!",
         "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
+    },
+    {
+      "added_at": "2025-12-11 22:00:34",
+      "album": {
+        "name": "If I'm Honest",
+        "url": "https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "If I'm Honest",
+      "url": "https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm"
     },
     {
       "added_at": "2025-12-11 22:00:34",

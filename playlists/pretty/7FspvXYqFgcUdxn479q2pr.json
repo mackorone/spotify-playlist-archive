@@ -1,13 +1,33 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31798,
+  "num_followers": 31800,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAuJF6pnnScAqyau7fDZ5Rz3CFhKyn7",
+  "snapshot_id": "AAAuJ3zMCvYmt4UfuebuuB6ICxCkA6Mv",
   "tracks": [
+    {
+      "added_at": "2025-12-18 23:20:05",
+      "album": {
+        "name": "What's A Girl To Do (D-Sturb Remix)",
+        "url": "https://open.spotify.com/album/063SgdTBY7dISc60RthdwY"
+      },
+      "artists": [
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "What's A Girl To Do (D-Sturb Remix)",
+      "url": "https://open.spotify.com/track/1rGAcKaILp1yS5vPJGirjI"
+    },
     {
       "added_at": "2025-12-12 11:00:02",
       "album": {
@@ -51,6 +71,50 @@
       "duration_ms": 219047,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
+    },
+    {
+      "added_at": "2025-12-18 23:20:07",
+      "album": {
+        "name": "Runaway Train x Cheap Champagne (Future Tropical Remix)",
+        "url": "https://open.spotify.com/album/1n28VGdAinQWl7X2naGXz0"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Runaway Train x Cheap Champagne (Future Tropical Remix)",
+      "url": "https://open.spotify.com/track/3U9ROeiWVbvkATRTwkh7Ik"
+    },
+    {
+      "added_at": "2025-12-18 23:20:09",
+      "album": {
+        "name": "I Got Love (feat. Nate Dogg) [Will Sparks Remix]",
+        "url": "https://open.spotify.com/album/4LAW4jMUdAOOUnYGMGeMuP"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "I Got Love (feat. Nate Dogg) [Will Sparks Remix]",
+      "url": "https://open.spotify.com/track/4indTJ70BCXFhS3wGiBYyH"
     },
     {
       "added_at": "2025-12-05 09:30:38",

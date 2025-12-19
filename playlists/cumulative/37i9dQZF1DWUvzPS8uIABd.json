@@ -1471,6 +1471,46 @@
     },
     {
       "album": {
+        "name": "Chilleis",
+        "url": "https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125096,
+      "name": "Chilleis",
+      "url": "https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP"
+    },
+    {
+      "album": {
+        "name": "Clique La Lv",
+        "url": "https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "YB026",
+          "url": "https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Clique La Lv",
+      "url": "https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR"
+    },
+    {
+      "album": {
         "name": "Mun vuosi",
         "url": "https://open.spotify.com/album/7fTdqVRml2FU5x6z9y8hGl"
       },
@@ -2608,7 +2648,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 198500,
       "name": "Et ollut se",
       "url": "https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9"
@@ -2888,7 +2928,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 193482,
       "name": "Haluun el\u00e4\u00e4",
       "url": "https://open.spotify.com/track/1ycZc1mTlBaMUG9XhcUCDQ"
@@ -3222,6 +3262,24 @@
       "duration_ms": 177830,
       "name": "Huuto",
       "url": "https://open.spotify.com/track/5jWdC7hsYj7EMk83U3SXGT"
+    },
+    {
+      "album": {
+        "name": "Hylk\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/4159kryWXOalGvAG4dKla6"
+      },
+      "artists": [
+        {
+          "name": "Ismo Alanko",
+          "url": "https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238280,
+      "name": "Hylk\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/5X0CR9QTLrd6n57eM8t741"
     },
     {
       "album": {
@@ -3650,6 +3708,24 @@
       "duration_ms": 206106,
       "name": "Ikuinen el\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/2GaMylDgbCiHCKoEsXgQqp"
+    },
+    {
+      "album": {
+        "name": "Ikuista",
+        "url": "https://open.spotify.com/album/63ZdyUJsIupRitpKLc3Cvd"
+      },
+      "artists": [
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Ikuista",
+      "url": "https://open.spotify.com/track/5YnH11C9B6yQI8uh8QG1Jb"
     },
     {
       "album": {
@@ -4820,7 +4896,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 168000,
       "name": "Kato mua nyt",
       "url": "https://open.spotify.com/track/1IdjrWucjV1RVYSBFeXK6G"
@@ -5400,7 +5476,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 179436,
       "name": "Kohoma",
       "url": "https://open.spotify.com/track/3YNkMIuGKtKV1Pc7MHitT7"
@@ -7946,7 +8022,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 190093,
       "name": "Mit\u00e4 jos",
       "url": "https://open.spotify.com/track/6CHIwiS5DLPJWNsAYUObaG"
@@ -10564,7 +10640,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 146510,
       "name": "Priimus r\u00e4kis",
       "url": "https://open.spotify.com/track/4kZoSGZzIk0GKGugnUh1Cf"
@@ -10698,6 +10774,24 @@
       "duration_ms": 190358,
       "name": "Pysyv\u00e4\u00e4",
       "url": "https://open.spotify.com/track/18H1buVbJxLAYGcUL3sHhe"
+    },
+    {
+      "album": {
+        "name": "pysyv\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/314ZEX6GudCAF4kvxvlHk0"
+      },
+      "artists": [
+        {
+          "name": "fibi",
+          "url": "https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184944,
+      "name": "pysyv\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/6bVtWYGHtva0bNYO36PA3u"
     },
     {
       "album": {
@@ -10918,7 +11012,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 212589,
       "name": "RAKASTA PLIIS",
       "url": "https://open.spotify.com/track/3z65J2cRNnbiaPfi9fa0n4"
@@ -12466,7 +12560,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 172533,
       "name": "Sua Ei Oo - WILLEM Remix",
       "url": "https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r"
@@ -13300,7 +13394,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 198000,
       "name": "Tahdon",
       "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
@@ -13778,7 +13872,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 174776,
       "name": "Toivon et s\u00e4 l\u00f6yd\u00e4t jonkun",
       "url": "https://open.spotify.com/track/0UTkhHNzrafXfnM0O2O6bN"
@@ -14080,7 +14174,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 165897,
       "name": "Tuntemattomii",
       "url": "https://open.spotify.com/track/4KMp8KSlZzrl9FNB9H8t8M"
@@ -14286,7 +14380,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 141286,
       "name": "Tyhm\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb"

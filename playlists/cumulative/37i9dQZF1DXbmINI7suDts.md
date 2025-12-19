@@ -4,13 +4,13 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Maurice Kirya
 
-175 songs - 9 hr 44 min
+177 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 U](https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [4 U](https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk) | 2:15 | 2022-11-17 | 2024-03-02 |
 | [A Thing](https://open.spotify.com/track/0nN0RzQ80Um0Kljt4TXGE7) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [1947](https://open.spotify.com/album/7i5YB5dRHsoKsPHM6AL17U) | 3:45 | 2022-06-06 | 2023-08-26 |
-| [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 |  |
+| [Abantu](https://open.spotify.com/track/7w29rUV15CxA7HJVCbN1Qa) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Abantu](https://open.spotify.com/album/5yamH3rDXInmyEiVqXheFs) | 3:16 | 2023-01-26 | 2025-12-19 |
 | [AGENDA](https://open.spotify.com/track/40D9TE1bStQ10lNDnhlbMP) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Agenda](https://open.spotify.com/album/79P9lpJeCfUvRW2FJDTJCx) | 3:54 | 2025-09-04 |  |
 | [Akaffekye \- Acoustic Version](https://open.spotify.com/track/56O4FJu4LKMpeO3FcyBIgz) | [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Akaffekye \(Acoustic Version\)](https://open.spotify.com/album/2nhXoGyp7SSqUnMJFtnXED) | 2:59 | 2022-06-06 | 2023-07-29 |
 | [Akigusa](https://open.spotify.com/track/12IV11evgB42zhjWJID2Rm) | [Benji Kasule](https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh) | [Akigusa](https://open.spotify.com/album/04C5PjWPsQqGVg4PGFWSDH) | 4:48 | 2025-01-23 |  |
@@ -63,7 +63,7 @@
 | [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 | 2023-02-10 | 2025-05-23 |
 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-04 |  |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 | 2023-10-13 |
-| [I Do \- Acoustic Version](https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh) | [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [I Do \(Acoustic Version\)](https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E) | 2:34 | 2024-04-12 |  |
+| [I Do \- Acoustic Version](https://open.spotify.com/track/35p0RKvsJ6wS5fthRJLFQh) | [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [I Do \(Acoustic Version\)](https://open.spotify.com/album/1HURfcIukpOqxEhsJeL38E) | 2:34 | 2024-04-12 | 2025-12-19 |
 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7HMJF5fdL8BY3tHoX8we7c) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-10 | 2025-09-13 |
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |
 | [i will recover all](https://open.spotify.com/track/5MMYn4ZjRc0up1HhJO6N4T) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [i will recover all](https://open.spotify.com/album/1Kg731pJsUpMP289JbiX58) | 2:57 | 2023-08-11 | 2025-02-08 |
@@ -110,6 +110,7 @@
 | [Nkwagala Nyo](https://open.spotify.com/track/0abZtNfyOQ6wBbSFDjJ0vu) | [Mayanja](https://open.spotify.com/artist/4PRlBo5LzXsbvtsEoo3bHz), [Osteen Ozzie](https://open.spotify.com/artist/4wFr6scPa0f5Y6ChavxJzU) | [Nkwagala Nyo](https://open.spotify.com/album/2ufoC18kLhy5iWShnKyPMT) | 2:56 | 2025-08-21 |  |
 | [Nkwegomba](https://open.spotify.com/track/0uwQYXMXKRp126uwA98oTA) | [Kenneth Mugabi](https://open.spotify.com/artist/439cAFpgGsd10FGSviU0sF) | [Ugandan](https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD) | 3:01 | 2022-06-06 | 2025-04-25 |
 | [Nyoko \(Remastered\)](https://open.spotify.com/track/6776viloLrnBTXcAEYsaQ1) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Let's Music Vol 2](https://open.spotify.com/album/2ZaMITZXW1qt20EnWbIMuf) | 3:13 | 2024-03-01 | 2025-02-08 |
+| [Nyongera](https://open.spotify.com/track/17rj3PNENF9wvqeRGKxdrF) | [Aziz Azion](https://open.spotify.com/artist/5A4WNUoNE2OHg8hbn0wzDi) | [Nyongera](https://open.spotify.com/album/3lZJbcgovnRt6qOcNwex9B) | 3:15 | 2025-12-18 |  |
 | [Nyweera](https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nyweera](https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX) | 3:28 | 2025-11-13 |  |
 | [Nzikiriza](https://open.spotify.com/track/6R97FR5ro7PL8h76QBXjmq) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Nzikiriza](https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq) | 3:56 | 2025-10-23 |  |
 | [Nzize](https://open.spotify.com/track/07mHquBr7G6N0WBIUx3iMl) | [Bravo Lion](https://open.spotify.com/artist/0t8TuUkIVtcfdSzr06o83A) | [Nzize](https://open.spotify.com/album/59ldtKfY8ZO8HbatSjVR9C) | 4:22 | 2023-06-30 | 2024-04-13 |
@@ -128,7 +129,7 @@
 | [Pick Up](https://open.spotify.com/track/1QpDkktxmLnzZZ2VcBjJkY) | [Kyvo Bouy](https://open.spotify.com/artist/3DEny7mL5yyeEDPYXdO3ky), [Andy Muzic](https://open.spotify.com/artist/5tc8NGhMC3EWbThUi33XXn), [Jozzi Firebouy](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3) | [Pick Up](https://open.spotify.com/album/593JM1cjCgPaAIx8fIOFwu) | 2:36 | 2022-06-06 | 2023-06-10 |
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-06-06 | 2025-11-14 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2024-10-04 |
-| [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 | 2023-11-16 |  |
+| [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 | 2023-11-16 | 2025-12-19 |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2023-09-07 | 2025-02-15 |
 | [SAY I DO](https://open.spotify.com/track/2RPMbkVqUvAIAzbd2iswkS) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [THIS IS HAPPENING](https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I) | 3:06 | 2025-11-27 |  |
 | [Secret Island](https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Secret Island](https://open.spotify.com/album/0pk2St2lhedWK1wxvzPOzY) | 3:30 | 2025-09-12 |  |
@@ -183,5 +184,6 @@
 | [Wumula](https://open.spotify.com/track/6HLnygeRLfZP8IQ2Nl1uMV) | [Nshuti Mbabazi](https://open.spotify.com/artist/4Pa4GVRYthkf7pU6P8g13j) | [Wumula](https://open.spotify.com/album/0cxT7QmI90m2d4n0dc0SqS) | 5:11 | 2025-01-23 | 2025-07-19 |
 | [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 | 2025-11-28 |
 | [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:41 | 2025-11-27 |  |
+| [⁠Sorry](https://open.spotify.com/track/7KFTNykYh24BZheF3c4lEE) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:33 | 2025-12-18 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

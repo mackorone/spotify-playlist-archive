@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Mark Borino",
+          "url": "https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0fFRFFCiaZaExkXRfQyCJE"
+    },
+    {
+      "album": {
         "name": "angel",
         "url": "https://open.spotify.com/album/7dEuA1Pn0SlnKJ3HljW1ng"
       },
@@ -666,7 +688,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 136605,
       "name": "Better",
       "url": "https://open.spotify.com/track/43AA8tDCsvf2HrOYUevX7s"
@@ -1146,7 +1168,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 215357,
       "name": "CAN'T FIND YOU",
       "url": "https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j"
@@ -1292,7 +1314,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 146000,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/54ABL1JLniXU05wUsyLolp"
@@ -1789,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4sKZ1qK4RtgyPSeyK62ZAe"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162295,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/25RjrYsqVOAD1QgZXQsNPK"
+    },
+    {
+      "album": {
         "name": "Falling (Piece Of Me)",
         "url": "https://open.spotify.com/album/0iRONB7bulwsfUjG9ytR6j"
       },
@@ -1910,6 +1950,28 @@
       "duration_ms": 241951,
       "name": "Feel Less",
       "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
+    },
+    {
+      "album": {
+        "name": "Feel The Rush",
+        "url": "https://open.spotify.com/album/7nqNSPB9ZBhEP8l5WWBK02"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140497,
+      "name": "Feel The Rush",
+      "url": "https://open.spotify.com/track/17ltimzBOi4LFLZFfMFn70"
     },
     {
       "album": {
@@ -2126,7 +2188,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 296228,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/38PbxSWZAQWgN61kuWV0RB"
@@ -2352,7 +2414,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 169159,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/23KYNQyJ0nW1kdIwbVT2qI"
@@ -2396,6 +2458,24 @@
       "duration_ms": 184666,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94"
+    },
+    {
+      "album": {
+        "name": "HOLD ME AGAIN",
+        "url": "https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "HOLD ME AGAIN",
+      "url": "https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX"
     },
     {
       "album": {
@@ -3070,6 +3150,36 @@
       "duration_ms": 146500,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1So10NR5uEGx28mRSHpwxT"
+    },
+    {
+      "album": {
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/2vY5sqam9xRoMvoU5P3cN4"
+      },
+      "artists": [
+        {
+          "name": "Nexeri",
+          "url": "https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU"
+        },
+        {
+          "name": "Methner",
+          "url": "https://open.spotify.com/artist/1KVh2mDowk5csLQLpG4sln"
+        },
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/7iYWcuAtM8cO4AFTJ5MHVl"
+        },
+        {
+          "name": "Hadar Sopher",
+          "url": "https://open.spotify.com/artist/4ept0xjPF374lsJA76Y4rU"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128275,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/2nEKKPoHSzQ1tVBHpFtAub"
     },
     {
       "album": {
@@ -5255,6 +5365,32 @@
     },
     {
       "album": {
+        "name": "Shakira",
+        "url": "https://open.spotify.com/album/1Owc9Ygu0V2Mu0EdtVkTYW"
+      },
+      "artists": [
+        {
+          "name": "SubLife",
+          "url": "https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc"
+        },
+        {
+          "name": "Ghenda",
+          "url": "https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF"
+        },
+        {
+          "name": "Jujuboy",
+          "url": "https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Shakira",
+      "url": "https://open.spotify.com/track/3bmvru095aLu7EDYp1mBFA"
+    },
+    {
+      "album": {
         "name": "Shauku Bana",
         "url": "https://open.spotify.com/album/353NnjfcIAq9fVtncgDsKj"
       },
@@ -5952,7 +6088,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"

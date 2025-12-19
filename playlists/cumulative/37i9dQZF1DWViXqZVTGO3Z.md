@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
-512 songs - 1 day 9 hr 15 min
+513 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Comfort And Joy](https://open.spotify.com/track/2w7mZiQtsakc7H15V1yQBl) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE), [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6) | [Comfort And Joy](https://open.spotify.com/album/3Vy2Fknb2gMFbwipZBiXPF) | 3:07 | 2025-11-05 |  |
 | [Comfort and Joy](https://open.spotify.com/track/0ep9IjFxqMGLx6PsvV5cW9) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 4:02 | 2022-11-26 | 2024-04-19 |
 | [Comfort and Joy](https://open.spotify.com/track/1wAagNq445jUMg16Slaanc) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Comfort and Joy](https://open.spotify.com/album/3l8zkUWFFNEc8DZgyBGMuC) | 4:02 | 2021-12-11 | 2022-07-29 |
+| [Cradle in Bethlehem](https://open.spotify.com/track/4jmMWC3QBkh3Hj6wUH8bYI) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Circa83](https://open.spotify.com/artist/3ZvKUoOkDLGSaQxmeB1YLu) | [Cradle in Bethlehem](https://open.spotify.com/album/0ccbrj3mRxUanEiItmxVwS) | 2:22 | 2025-12-12 |  |
 | [Creator Of The Stars Of Night](https://open.spotify.com/track/3bvTzoVbDtac28Sap48qfr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Creator Of The Stars Of Night](https://open.spotify.com/album/10kQzwlnz9Lr13J5il5pJq) | 3:16 | 2025-11-08 |  |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/0xjCdmZQQQAY3lrvPEaZRS) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/16IA6igILbx316CPY6CwjP) | 5:12 | 2022-12-11 |  |
 | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/track/4859UK92TjODjB39UrCZo4) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Crown Him \(Glory in the Highest\)](https://open.spotify.com/album/0V7o9iGSCjoeJ3QIkMnl5z) | 5:03 | 2022-11-26 |  |
@@ -444,7 +445,7 @@
 | [The First Christmas](https://open.spotify.com/track/4hbAE2LJzCupitJ898V6k4) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [The First Christmas](https://open.spotify.com/album/69ob5WRhc4ftmaSr9A3I90) | 3:53 | 2021-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/0zZS5f3qS0iql0GNmapr2C) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The First Noel](https://open.spotify.com/album/2xws45Dyh4qmerwUIUzXOK) | 2:56 | 2025-11-16 |  |
-| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 |  |
+| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 | 2025-12-19 |
 | [The First Noel](https://open.spotify.com/track/0GBlcKQjHBVMsQGDnwE2Cs) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Majesty Rose](https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz) | [Maverick City Christmas](https://open.spotify.com/album/3zLMIw0wBGpIaGNox8oiKH) | 3:47 | 2021-12-11 | 2022-07-28 |
 | [The First Noel](https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [The First Noel](https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |

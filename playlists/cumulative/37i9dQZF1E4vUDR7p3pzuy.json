@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Black Angel, Rob Harrowven, JUST LIZZY and more",
+  "description": "With Rob Harrowven, Black Angel, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 177019,
       "name": "Bang Bang Bang",
       "url": "https://open.spotify.com/track/33JY1XKcHeuhZWc59krGfb"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 291272,
       "name": "Breaking (UNITED)",
       "url": "https://open.spotify.com/track/3rqeeCPdwK1LCPxLrTe5t9"
@@ -1137,6 +1137,24 @@
     },
     {
       "album": {
+        "name": "Falling Short",
+        "url": "https://open.spotify.com/album/4a8NtZ1eN5JvY9qUrIuVVe"
+      },
+      "artists": [
+        {
+          "name": "Spire Circle",
+          "url": "https://open.spotify.com/artist/3vNhhHwB2LFeCFq4LhdZQs"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224512,
+      "name": "Falling Short",
+      "url": "https://open.spotify.com/track/6QqKu0OKFjIqq9OjGuwwh5"
+    },
+    {
+      "album": {
         "name": "From Darkness",
         "url": "https://open.spotify.com/album/6F2OcyLZMcFZMLicnUYXuF"
       },
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 338250,
       "name": "give up",
       "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
@@ -1477,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "Haze of light",
+        "url": "https://open.spotify.com/album/2w6DcWifxPLz6KKZ1kYvRS"
+      },
+      "artists": [
+        {
+          "name": "Karma Implode",
+          "url": "https://open.spotify.com/artist/4mPLhnYcusImsQLzqOwDUW"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260186,
+      "name": "Haze of light",
+      "url": "https://open.spotify.com/track/79Z0SrxvOfFHhQHnYIX0tv"
+    },
+    {
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/7gWGEWCqsDw7fdxGtj6roA"
       },
@@ -1492,6 +1528,24 @@
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
+    },
+    {
+      "album": {
+        "name": "Hole In The Picture",
+        "url": "https://open.spotify.com/album/295Y9jHsFUdRZu462wylYn"
+      },
+      "artists": [
+        {
+          "name": "NASTYJOE",
+          "url": "https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165011,
+      "name": "Hole In The Picture",
+      "url": "https://open.spotify.com/track/6al3XURd4S7Fx0oCHQwFOK"
     },
     {
       "album": {
@@ -1650,7 +1704,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 203866,
       "name": "I Never Looked In My Eyes",
       "url": "https://open.spotify.com/track/6OtvTvJ4Wf3YpHvZjwhNUo"
@@ -1780,7 +1834,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 145838,
       "name": "It Is, Is It?",
       "url": "https://open.spotify.com/track/0cQVbQqiMtwCKJA4O19Jqc"
@@ -1798,7 +1852,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/6H1K4Ub2BVNy01Nb2dz1Ac"
@@ -2645,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "The Longest Night",
+        "url": "https://open.spotify.com/album/6znBHOV394g0kmo6FO99d7"
+      },
+      "artists": [
+        {
+          "name": "Nattradio",
+          "url": "https://open.spotify.com/artist/6g17KvcvEfyXUztJt90qlA"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291827,
+      "name": "Rainbirds",
+      "url": "https://open.spotify.com/track/3XGvss1e9fx0B1Hry04ONn"
+    },
+    {
+      "album": {
         "name": "Reach for the Sky",
         "url": "https://open.spotify.com/album/17UBJSBMD5Vb8ul7Y0806C"
       },
@@ -2714,7 +2786,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 145343,
       "name": "runaway",
       "url": "https://open.spotify.com/track/1Oo3fHQdocsqzbo4CxlrzB"
@@ -3113,6 +3185,24 @@
     },
     {
       "album": {
+        "name": "So, this is a thing?",
+        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202135,
+      "name": "Steel Butterflies",
+      "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
+    },
+    {
+      "album": {
         "name": "Stop The Bus",
         "url": "https://open.spotify.com/album/7Bmff7GMjP2aziZaxGeyWg"
       },
@@ -3164,7 +3254,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 227294,
       "name": "Sugar Dead",
       "url": "https://open.spotify.com/track/5oJHsvkfpk34v3MJHrwO5k"
@@ -3436,7 +3526,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 192200,
       "name": "Through The Sand - LP Edition",
       "url": "https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7"
@@ -3454,7 +3544,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 181502,
       "name": "Throwaway",
       "url": "https://open.spotify.com/track/53KQdJR9d6tw2p8Jmgzobx"
@@ -3820,7 +3910,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

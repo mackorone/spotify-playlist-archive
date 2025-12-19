@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,742 likes - 105 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,885 likes - 105 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 13 | [Shameless Devil](https://open.spotify.com/track/4ywXjNUMAqNTPhBbr4XC1B) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/51Ges1TwmyOb5ZTThiIjlA) | 3:00 |
 | 14 | [Very Soon](https://open.spotify.com/track/2IocWgGPI0o6rmRDeb7Zrz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:17 |
 | 15 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
-| 16 | [When The Money Comes](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
+| 16 | [When The Money Calls](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
 | 17 | [Showa](https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:55 |
 | 18 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 |
 | 19 | [Dangbana Riddim](https://open.spotify.com/track/1a9TV9miedFJbf7v2WMbSa) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:35 |

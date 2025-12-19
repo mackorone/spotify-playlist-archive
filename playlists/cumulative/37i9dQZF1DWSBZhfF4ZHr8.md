@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Ulysse
+> Les meilleures nouveautés de la variété française avec Lenaïg
 
-396 songs - 19 hr 34 min
+397 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Me Enamore](https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Me Enamore](https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv) | 3:09 | 2025-02-06 | 2025-04-25 |
 | [Meilleur](https://open.spotify.com/track/3nfrlD1WL02p0ggrcNmmEp) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/4zyNrGyLYL8Fh4xaDg5w3N) | 3:00 | 2025-03-27 | 2025-06-06 |
 | [Meilleurs qu'hier](https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr) | [Malo'](https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR) | [Meilleurs qu'hier](https://open.spotify.com/album/444hHvkA6169r1nSTg7vf5) | 3:19 | 2025-01-23 | 2025-04-18 |
-| [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 | 2025-09-25 |  |
+| [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 | 2025-09-25 | 2025-12-19 |
 | [mes larmes sous les verres noirs](https://open.spotify.com/track/6bTtmAUqi1BDawIdDOhtNm) | [Adrien Gallo](https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl) | [premiers souvenirs du futur](https://open.spotify.com/album/1ObawiCrfLdCAwFLRJdD5B) | 2:58 | 2025-10-16 | 2025-11-28 |
 | [Mieux que moi](https://open.spotify.com/track/3D4Tq1Brx820RJoCvX4LRl) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Mieux que moi](https://open.spotify.com/album/0wmbdzWNDa5OCDoZySEhO8) | 2:53 | 2024-11-21 | 2025-01-10 |
 | [Mieux que moi](https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mieux que moi](https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S) | 3:35 | 2025-10-16 |  |
@@ -240,6 +240,7 @@
 | [Miroir](https://open.spotify.com/track/5Fq5M0I9z4Whzw2BrssHBG) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Miroir](https://open.spotify.com/album/5TQ0ila42eW3Mp0rnc5vLS) | 2:40 | 2025-09-18 | 2025-10-17 |
 | [Mirror \(feat Maëlle\)](https://open.spotify.com/track/4xeCDqW1TTPVmXcYtXZlLG) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Mirror \(feat Maëlle\)](https://open.spotify.com/album/5tsDhMIq48HcI8BjpYomEH) | 2:56 | 2025-08-28 | 2025-11-14 |
 | [Modèle](https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz) | [Nous deux](https://open.spotify.com/album/5zI6TieecEygvuwwtXpgz1) | 2:39 | 2025-08-28 | 2025-11-07 |
+| [Mon autre](https://open.spotify.com/track/2ed1MC3n26pjnzEFaVqxfG) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Mon autre](https://open.spotify.com/album/13GI0Dqlk9TEGbed1V9lmd) | 3:23 | 2025-12-18 |  |
 | [Mon coeur s'emballe](https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM) | [SARA'H](https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9) | [Mon coeur s'emballe](https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd) | 3:06 | 2024-07-18 | 2024-10-25 |
 | [Mon pays c'est la vie](https://open.spotify.com/track/7uq1fpq3JoPziguDXJvr8a) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Ycare](https://open.spotify.com/album/6bWO1X7Juo4OwfyQIW6e9e) | 2:49 | 2025-06-05 | 2025-09-19 |
 | [Mon regard](https://open.spotify.com/track/3dzEMHiCDe3bPFW7yEbU7d) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Mon regard](https://open.spotify.com/album/23WVBS3u2p0IjFK1apyDtL) | 2:19 | 2024-09-26 | 2024-11-29 |

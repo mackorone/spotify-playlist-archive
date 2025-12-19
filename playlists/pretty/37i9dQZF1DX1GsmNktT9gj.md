@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GsmNktT9gj.md) - [plain]
 
 > Listen to all of your favorite songs from the brand new film, Disney's Lilo & Stitch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,117 likes - 48 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,168 likes - 48 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

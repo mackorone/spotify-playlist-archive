@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,135 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,142 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 42 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
 | 43 | [O Cara de Óculos](https://open.spotify.com/track/6qL5zqdwgWjZZV6qmqbWzF) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Bia Nogueira](https://open.spotify.com/artist/7aOLFuqkyvr4VA70c4dMCl), [Coyote Beatz](https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 4:10 |
 | 44 | [Geminiano](https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 2:55 |
-| 45 | [Eu](https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 5:10 |
+| 45 | [valeu a batalha](https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:17 |
 | 46 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 |
-| 47 | [valeu a batalha](https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:17 |
+| 47 | [Eu](https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 5:10 |
 | 48 | [Corre das Notas](https://open.spotify.com/track/038NYpCmR4VPu9fyZxHRju) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Cost](https://open.spotify.com/artist/3fRPwnwxh0Z417FZTNCQMS) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 3:38 |
 | 49 | [Favela Vive 3](https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Favela Vive 3](https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF) | 8:19 |
 | 50 | [do menor](https://open.spotify.com/track/3TpjXJJj6Lz25plCU6iWK2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 4:28 |
 
-Snapshot ID: `aUChAAAAAAAfkE6ffj/BYddAX7feR0Z2`
+Snapshot ID: `aUHygAAAAADfBX8qq+9HTLieHgoavqjL`

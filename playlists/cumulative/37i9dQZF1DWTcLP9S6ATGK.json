@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: MikkyZia, Zara Leola\n",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Dee Lestari",
   "name": "Musik Akhir Pekan",
   "tracks": [
+    {
+      "album": {
+        "name": "(Jangan) Jatuh Cinta",
+        "url": "https://open.spotify.com/album/1UU83ULQt8X3ZiUEvxaRKT"
+      },
+      "artists": [
+        {
+          "name": "Dee Lestari",
+          "url": "https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232285,
+      "name": "(Jangan) Jatuh Cinta",
+      "url": "https://open.spotify.com/track/5TO5UPczP0SJhbaoBz7Bme"
+    },
     {
       "album": {
         "name": "1 dari 1000",
@@ -936,7 +954,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 237479,
       "name": "Aurona",
       "url": "https://open.spotify.com/track/0QgyXvwIJpXhTUsjqHpGiQ"
@@ -2383,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Buku Karangan",
+        "url": "https://open.spotify.com/album/4xOhq0GyUPxbnhhBoabyhE"
+      },
+      "artists": [
+        {
+          "name": "Elsa Japasal",
+          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "Buku Karangan",
+      "url": "https://open.spotify.com/track/438qCNAcK8KnU88dezHPbB"
+    },
+    {
+      "album": {
         "name": "Bulan Baik",
         "url": "https://open.spotify.com/album/7HRkyGZQHPxezmVVfzUuIu"
       },
@@ -2788,7 +2824,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 180497,
       "name": "Cerita Yang Tersimpan",
       "url": "https://open.spotify.com/track/0U2q3JYEstARcVRoVLeCGk"
@@ -3244,7 +3280,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 249400,
       "name": "Cintamu Luar Biasa",
       "url": "https://open.spotify.com/track/0dqSYUeyK6qYE8kYYG7iDy"
@@ -3804,7 +3840,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 225000,
       "name": "Dimabuk Cahaya",
       "url": "https://open.spotify.com/track/1AaKnKJTf4cyCai2yeXdca"
@@ -5265,6 +5301,24 @@
     },
     {
       "album": {
+        "name": "Jatuh Cinta Di Saat Mati Rasa",
+        "url": "https://open.spotify.com/album/7G9ZxqX8QxDAgMEHxa2CWg"
+      },
+      "artists": [
+        {
+          "name": "Dimas M",
+          "url": "https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "Jatuh Cinta Di Saat Mati Rasa",
+      "url": "https://open.spotify.com/track/5Cok7Hs7dv79eXQtvutk4g"
+    },
+    {
+      "album": {
         "name": "Jatuh Lagi / Benci Lagi",
         "url": "https://open.spotify.com/album/3y6g0Y2gOOSlR8UxSTDRPH"
       },
@@ -6250,7 +6304,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 214077,
       "name": "Kita Tak Sama",
       "url": "https://open.spotify.com/track/56vVsH4e1amVdpwHVqz8OY"
@@ -6665,6 +6719,24 @@
     },
     {
       "album": {
+        "name": "Latar Biru",
+        "url": "https://open.spotify.com/album/3whN5dk2aiDwgNQrjtg2mg"
+      },
+      "artists": [
+        {
+          "name": "Bemandry",
+          "url": "https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247037,
+      "name": "Latar Biru",
+      "url": "https://open.spotify.com/track/3jzUoJnHFUoJwZPVyDjRX3"
+    },
+    {
+      "album": {
         "name": "Layak Sebuah Film",
         "url": "https://open.spotify.com/album/59H4RKSgITedyiMZuJhg4M"
       },
@@ -7046,7 +7118,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 270625,
       "name": "Maaf",
       "url": "https://open.spotify.com/track/7CYaLYAOr0qANvWPvahmDg"
@@ -7118,7 +7190,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 230163,
       "name": "Malah Mendua",
       "url": "https://open.spotify.com/track/2Nz5EIX1fmQ9d3CzNx2qHT"
@@ -7490,7 +7562,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 354800,
       "name": "Memori Berkasih",
       "url": "https://open.spotify.com/track/5LYzAfMFzCALsCw3wXzkIa"
@@ -7704,7 +7776,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 313881,
       "name": "Mengejar Restu",
       "url": "https://open.spotify.com/track/3EpdvBbPB94mrFKeYgTYKB"
@@ -8138,7 +8210,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 198816,
       "name": "Mimpi Kecil",
       "url": "https://open.spotify.com/track/5j2dFLajKaoNiHDplbbOx6"
@@ -9112,7 +9184,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 181000,
       "name": "Percaya Lagi",
       "url": "https://open.spotify.com/track/6MJDa7BsvSxxVK8EKC9auz"
@@ -9348,6 +9420,32 @@
       "duration_ms": 179268,
       "name": "Please",
       "url": "https://open.spotify.com/track/4UO8e0hxMumyaAyyajowLE"
+    },
+    {
+      "album": {
+        "name": "PPN (Para Pencari Nafkah)",
+        "url": "https://open.spotify.com/album/0IjB2iuWjTtvi7yrTap0Mc"
+      },
+      "artists": [
+        {
+          "name": "Rizky Billar",
+          "url": "https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16"
+        },
+        {
+          "name": "Abi Ramzi",
+          "url": "https://open.spotify.com/artist/27hlBUDWRI4eQNaw43JDUW"
+        },
+        {
+          "name": "Gilang Dirga",
+          "url": "https://open.spotify.com/artist/6FvAreEdLqgdxkVVgBpyWd"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "PPN (Para Pencari Nafkah)",
+      "url": "https://open.spotify.com/track/0MOdukd6nHsCvox7htyI2F"
     },
     {
       "album": {
@@ -10140,7 +10238,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 240500,
       "name": "Sakit Lagi",
       "url": "https://open.spotify.com/track/7w7aDgwNiu1PkFIW09X5A9"
@@ -11156,7 +11254,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 240995,
       "name": "Sembunyi Dulu",
       "url": "https://open.spotify.com/track/2ZKB9tTGEIvDxxRTRb9eo7"
@@ -12364,7 +12462,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 175712,
       "name": "Tak Biasa",
       "url": "https://open.spotify.com/track/0Q32K05cwXtVjfs5JOnphz"
@@ -14016,6 +14114,24 @@
       "duration_ms": 227647,
       "name": "Untukmu Aku Bertahan",
       "url": "https://open.spotify.com/track/2pl7jihblGbhtPLWIFrGEr"
+    },
+    {
+      "album": {
+        "name": "Latihan Bahagia",
+        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
+      },
+      "artists": [
+        {
+          "name": "Valent Duga",
+          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233058,
+      "name": "Untukmu yang Masih Bertahan",
+      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
     },
     {
       "album": {

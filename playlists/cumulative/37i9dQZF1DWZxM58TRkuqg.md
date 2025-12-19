@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: RAN
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Maudy Ayunda
 
-558 songs - 1 day 12 hr 21 min
+561 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/6pM2HooueA9dHb5NeTVJeT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Lagi Rumahmu \(Air Mata Di Ujung Sajadah 2 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2zs39r5aMSz13iNaaqeTlH) | 4:32 | 2025-09-11 | 2025-11-28 |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-05-09 | 2024-06-07 |
 | [Bukan Untukku](https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bukan Untukku](https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv) | 3:52 | 2024-10-03 | 2025-10-17 |
+| [Buku Karangan](https://open.spotify.com/track/438qCNAcK8KnU88dezHPbB) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Buku Karangan](https://open.spotify.com/album/4xOhq0GyUPxbnhhBoabyhE) | 3:25 | 2025-12-18 |  |
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-01 | 2024-04-12 |
 | [Bulan, Bawa Aku Pulang](https://open.spotify.com/track/1G2CdAuRwr7Dem2CIZlYrt) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 4:04 | 2025-06-05 | 2025-07-25 |
 | [Bunga Abadi](https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4) | 4:03 | 2024-08-02 | 2025-02-14 |
@@ -551,6 +552,7 @@
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |
 | [Tuhan Yang Tahu](https://open.spotify.com/track/1695rzxy8HrOhjtvEZ3LjF) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Baik Dan Burukmu Tuhan Yang Tahu](https://open.spotify.com/album/3pnJ1JefhcYPoIq6alYuhL) | 4:19 | 2024-03-07 | 2024-03-29 |
+| [Tunggal Eka](https://open.spotify.com/track/7g4Ewuh8njWucqfwY7PdmR) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Tunggal Eka](https://open.spotify.com/album/7BzdpKIiRQSgaTPvGrasLB) | 4:32 | 2025-12-18 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-09-06 | 2025-02-14 |
 | [Tunggulah Sebentar](https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Bertumbuh](https://open.spotify.com/album/5NsLnUV8d8Ppiwwlr0RRX9) | 4:13 | 2024-02-23 | 2024-07-12 |
 | [Ujung\-Ujungnya Kamu](https://open.spotify.com/track/3zuI3idyWxEEkcUysRohKC) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Ujung\-Ujungnya Kamu](https://open.spotify.com/album/1hs3LxmpgEkvP5pZlH4VGG) | 4:05 | 2025-09-18 | 2025-10-17 |
@@ -564,6 +566,7 @@
 | [Whiskey Bottle \- Live](https://open.spotify.com/track/7xUeJqP8nikKd8rzrqb3YT) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Home Session \(Live\)](https://open.spotify.com/album/3hC7kY8IFppiMSh0PxA3P2) | 4:32 | 2025-02-13 | 2025-03-14 |
 | [Yang Baru](https://open.spotify.com/track/4c1wBkdJEgqfs10hYnghBY) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Yang Baru](https://open.spotify.com/album/35tySmLnfKYopvjYa2OoWM) | 3:14 | 2024-10-24 | 2025-08-29 |
 | [Yasudah](https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Yasudah](https://open.spotify.com/album/0NVWNTENg9PZM0J1RfToXX) | 4:56 | 2024-03-14 | 2024-08-30 |
+| [Yogyakarta](https://open.spotify.com/track/0TRx1kdz1JEDCVn2Q3No8j) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Yogyakarta](https://open.spotify.com/album/5kaeaOGbn9AETennUKHPrU) | 4:59 | 2025-12-18 |  |
 | [Zayang \- Zayang](https://open.spotify.com/track/7qeXSPZSawWqLiwoU00boo) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Zayang \- Zayang](https://open.spotify.com/album/3p9mdktTtiaEFBQC5hzz4C) | 2:48 | 2024-12-05 | 2025-01-11 |
 | [⁠Aku Tahu \- Studio Session](https://open.spotify.com/track/5LvEhndTgqBI0o6YrIGA2q) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Waktu Yang Dinanti 4.0 \- Studio Session](https://open.spotify.com/album/2NTmVAJfa9c4VxHYxp2Yks) | 4:07 | 2024-06-27 | 2024-07-19 |
 

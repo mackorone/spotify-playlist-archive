@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Mons",
+  "description": "Cover: ElGrandeToto",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -1199,6 +1199,24 @@
     },
     {
       "album": {
+        "name": "BOOMX3",
+        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "BOOMX3",
+      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
+    },
+    {
+      "album": {
         "name": "NSR",
         "url": "https://open.spotify.com/album/6zoFZL2tZLsk899SQYuP3B"
       },
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 196706,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
@@ -4738,7 +4756,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 160824,
       "name": "L\u2019appel V2",
       "url": "https://open.spotify.com/track/4wnqyUswpvK48T8LkfV75J"
@@ -8208,6 +8226,24 @@
       "duration_ms": 176589,
       "name": "Unplugged - Spotify Singles",
       "url": "https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN"
+    },
+    {
+      "album": {
+        "name": "Uzi",
+        "url": "https://open.spotify.com/album/6PxNmbCPWua17T2TJpJcBk"
+      },
+      "artists": [
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210265,
+      "name": "Uzi",
+      "url": "https://open.spotify.com/track/6FErwXfXiw17nstW4jB3Iq"
     },
     {
       "album": {

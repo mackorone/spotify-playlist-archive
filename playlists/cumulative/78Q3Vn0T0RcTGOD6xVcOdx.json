@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4dVtF1fyCW3lp2Uxov1VfE"
+      },
+      "artists": [
+        {
+          "name": "Rob le Duc",
+          "url": "https://open.spotify.com/artist/1sTi49hyM8Eu6oqU39raFt"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216093,
+      "name": "Gold - Radio Edit",
+      "url": "https://open.spotify.com/track/1uSzgdzEJaTqGlPmduRzgg"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/0vOqx6pKD7dIYjfMlObQD2"
       },

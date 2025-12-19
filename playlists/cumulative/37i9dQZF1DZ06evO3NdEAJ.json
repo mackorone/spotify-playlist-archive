@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/1bEijVfA63LuUh8fOOIPDz"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144661,
+      "name": "25",
+      "url": "https://open.spotify.com/track/3uVxwnuNqjDxMJn3aCm3L9"
+    },
+    {
+      "album": {
         "name": "Neta Que No",
         "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
       },
@@ -810,7 +828,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166314,
       "name": "La Novena Maravilla",
       "url": "https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e"

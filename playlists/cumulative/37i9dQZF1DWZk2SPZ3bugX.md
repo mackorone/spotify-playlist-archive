@@ -4,7 +4,7 @@
 
 > 🍾
 
-264 songs - 15 hr 9 min
+265 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 | 2025-04-10 |  |
 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 | 2022-12-08 | 2023-09-23 |
 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 | 2022-12-08 | 2023-01-05 |
+| [La2](https://open.spotify.com/track/2jGgMQVMd5k1r3T7zr6J2F) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [La2](https://open.spotify.com/album/19BZpYYCzIumql4eLapP7V) | 2:37 | 2025-12-18 |  |
 | [Le sud](https://open.spotify.com/track/2vMGqqKHCtb6bizCVXb1IR) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Le sud](https://open.spotify.com/album/4VHOG1STEduIRSNw6oj0n2) | 3:11 | 2022-12-08 | 2023-09-23 |
 | [Le temps est bon](https://open.spotify.com/track/2U5kSevItDmL0XzSDyemRp) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:23 | 2023-01-04 | 2024-02-10 |
 | [Le temps est bon](https://open.spotify.com/track/4WBDVbKHiNHmFpPLuBHYdu) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Isabelle Pierre](https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix) | [Le temps est bon](https://open.spotify.com/album/06wUYwI8FuobA5RoDopEOF) | 3:30 | 2022-12-08 | 2023-01-28 |
@@ -240,7 +241,7 @@
 | [This Head I Hold](https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8) | 2:55 | 2023-03-24 | 2024-04-19 |
 | [This World Of Mine](https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ) | [Bluprint](https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [This World Of Mine](https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38) | 3:06 | 2025-10-10 |  |
 | [Tides \- Jean Tonique Remix](https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Tides \(Jean Tonique Remix\)](https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY) | 3:01 | 2024-05-03 | 2025-06-06 |
-| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 |  |
+| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 | 2025-12-19 |
 | [Time In The Sun](https://open.spotify.com/track/1S7haI6fVfFACbKNpKNIFw) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Time In The Sun](https://open.spotify.com/album/5MNzxZmtQWbakpiBMMDVnJ) | 2:48 | 2025-07-18 | 2025-11-15 |
 | [To Let Myself Go](https://open.spotify.com/track/5ngEoEew3XmBNQO1cD9x2O) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:14 | 2023-01-04 | 2024-04-19 |
 | [To Let Myself Go](https://open.spotify.com/track/62d0YCTAtRcVQ8s44H9HbM) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [The Wanderings Of The Avener](https://open.spotify.com/album/7atFyt76W7KGXOEYKM9ywR) | 4:14 | 2024-03-22 |  |

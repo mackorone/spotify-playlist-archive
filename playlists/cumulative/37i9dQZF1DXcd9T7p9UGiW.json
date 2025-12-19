@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: Teni & Gunna",
+  "description": "Catching flights and going global. Cover: Dave and Tems",
   "name": "Gone Abroad ",
   "tracks": [
     {
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 137622,
       "name": "GHRIME RIDDIM I: ABONTEN",
       "url": "https://open.spotify.com/track/2iSp62bPMhRGcTKL4YLr5P"
@@ -9653,6 +9653,36 @@
     },
     {
       "album": {
+        "name": "Milli II",
+        "url": "https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN"
+      },
+      "artists": [
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182276,
+      "name": "Milli II (feat Jungeli & Victony)",
+      "url": "https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9"
+    },
+    {
+      "album": {
         "name": "Bridging The Gap",
         "url": "https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z"
       },
@@ -10082,6 +10112,28 @@
       "duration_ms": 155896,
       "name": "MOVE - JEJELY",
       "url": "https://open.spotify.com/track/4kY4RxO6ipwXgzlhT51GPz"
+    },
+    {
+      "album": {
+        "name": "Muhammad Ali (Can't Relate) (Remix)",
+        "url": "https://open.spotify.com/album/6KifmamRzJn1Y5OBKjTI53"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Ayetian",
+          "url": "https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Muhammad Ali (Can't Relate) (Remix)",
+      "url": "https://open.spotify.com/track/7aaFH6C5BKupGMB9TMOw5b"
     },
     {
       "album": {
@@ -16288,7 +16340,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 207454,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4"

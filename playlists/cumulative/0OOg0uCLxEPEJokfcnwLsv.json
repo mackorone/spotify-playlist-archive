@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Broken Souls",
+        "url": "https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6"
+      },
+      "artists": [
+        {
+          "name": "Malcolm E Ormond",
+          "url": "https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335039,
+      "name": "Broken Souls",
+      "url": "https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo"
+    },
+    {
+      "album": {
         "name": "Buio Deluxe",
         "url": "https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx"
       },

@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243379,
+  "num_followers": 243366,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "SHELLS",
-          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
-        }
-      ],
-      "duration_ms": 192896,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Verden",
         "url": "https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 344893,
       "name": "Verden",
       "url": "https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "duration_ms": 192896,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
-      },
-      "artists": [
-        {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 187620,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7g2wZD8Data7oGSt3ElMRJ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 240066,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6AIMiXP9fD6e9JTc1hbcvy"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI"
+      },
+      "artists": [
+        {
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 187620,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"
     },
     {
       "added_at": "2024-08-01 10:59:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: J Hus, Skepta",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kidwild",
   "name": "Rap UK",
   "tracks": [
     {
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 160000,
       "name": "3x",
       "url": "https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj"
@@ -2368,7 +2368,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 270000,
       "name": "all at once",
       "url": "https://open.spotify.com/track/5ZCJLkZrqH9mLw2NpRsy42"
@@ -3350,7 +3350,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 108800,
       "name": "ART (feat. Latto)",
       "url": "https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k"
@@ -22985,6 +22985,24 @@
     },
     {
       "album": {
+        "name": "Legends Don't Die",
+        "url": "https://open.spotify.com/album/6SBrDo2uMJD2i7OBOvSmZ6"
+      },
+      "artists": [
+        {
+          "name": "Morrisson",
+          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Legends Don't Die",
+      "url": "https://open.spotify.com/track/5dpV6pxZa9fKr4SPsnO10o"
+    },
+    {
+      "album": {
         "name": "Lemme Know",
         "url": "https://open.spotify.com/album/6dvxxDYUD36YYdL3VZUnl4"
       },
@@ -31368,6 +31386,24 @@
       "duration_ms": 181267,
       "name": "Pengtreesha",
       "url": "https://open.spotify.com/track/4WNecVSCkM3VRSc0WhOKjz"
+    },
+    {
+      "album": {
+        "name": "Penny Up",
+        "url": "https://open.spotify.com/album/6WxIrab8jGvccd7Kz6URFK"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185521,
+      "name": "Penny Up",
+      "url": "https://open.spotify.com/track/0s57hh6VeOcVsO7R9Q9n7v"
     },
     {
       "album": {
@@ -40254,7 +40290,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 122876,
       "name": "The Truth (feat. LeoStayTrill)",
       "url": "https://open.spotify.com/track/3aTkg0FaR16WNcysPD02Ft"
@@ -43000,7 +43036,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1jorBT8jSOAK3IIVxAvCh8"

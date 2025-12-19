@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,361 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,416 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 52 | [Romanos 12](https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x) | [Herrison Pontes](https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Romanos 12](https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh) | 4:48 |
 | 53 | [Quero Nascer de Novo](https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Frei Gilson](https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX) | [Quero Nascer de Novo](https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO) | 6:10 |
 | 54 | [Só por Ti Jesus](https://open.spotify.com/track/3wge0Fm4OtGlXtUJzw1ObA) | [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Minha História](https://open.spotify.com/album/4LUJEygAvb9A6UBHdKiz9c) | 3:56 |
-| 55 | [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 |
-| 56 | [Restitui](https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Restitui](https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5) | 4:33 |
-| 57 | [A graça de Dialogar](https://open.spotify.com/track/1jxEMmBFnAOoBcYOEfUDX8) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Pe\. José Ronaldo Gouvêa scj](https://open.spotify.com/artist/71okCHZxvcKQY4qC7nIGws) | [Canções de Esperança e Diálogo](https://open.spotify.com/album/6p5eFtruheRvxVQTiINWW7) | 3:25 |
+| 55 | [A graça de Dialogar](https://open.spotify.com/track/1jxEMmBFnAOoBcYOEfUDX8) | [Pe\. Zezinho, SCJ](https://open.spotify.com/artist/3gdQr566L6r7ZmveGVQsJA), [Pe\. José Ronaldo Gouvêa scj](https://open.spotify.com/artist/71okCHZxvcKQY4qC7nIGws) | [Canções de Esperança e Diálogo](https://open.spotify.com/album/6p5eFtruheRvxVQTiINWW7) | 3:25 |
+| 56 | [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 |
+| 57 | [Restitui](https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Restitui](https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5) | 4:33 |
 | 58 | [Minha Vocação](https://open.spotify.com/track/2bb2BDNQXu3VJeuporvpoO) | [Juliana de Paula](https://open.spotify.com/artist/3gPXWkF4RfdzSRFBUGj481), [Pitter](https://open.spotify.com/artist/698WBQoZEhZKSCHpwoHZQ2), [Ana Lúcia](https://open.spotify.com/artist/24zpYD2LDhoI30qaUN6Qxi) | [Minha Vocação](https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi) | 4:14 |
 | 59 | [Seremos o Amor](https://open.spotify.com/track/7gbzb7eTvjIdI6uqI663TA) | [Ministério Reacender](https://open.spotify.com/artist/69I9OunTsBjEkPjKzuwHlX), [Paróquia Santa Terezinha](https://open.spotify.com/artist/2z82CXTLel1putelzeXQv8) | [Seremos o Amor](https://open.spotify.com/album/11269KCRvrv5jBX520lIDb) | 6:45 |
 | 60 | [Não Há Deus Maior \- Ao Vivo](https://open.spotify.com/track/05P0v8aNAZxLImFQU6MVuq) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Não Há Deus Maior](https://open.spotify.com/album/2iyvKC1ejRa0dfQRCNoh1y) | 5:41 |

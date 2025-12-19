@@ -4,7 +4,7 @@
 
 > Highlights from EQUAL in 2025, listen to women at full volume\. Cover: Halsey
 
-2,740 songs - 6 day 7 hr 57 min
+2,741 songs - 6 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raqueeb Alam](https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h) | [Angaaron \(From "Pushpa 2 The Rule"\) \[HINDI\]](https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh) | 4:20 | 2024-09-04 | 2025-01-09 |
 | [Angana Morey](https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Soumyadeep Ghoshal](https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF) | [Angana Morey](https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR) | 3:45 | 2024-09-21 | 2024-10-03 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-07 | 2024-09-05 |
-| [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 | 2025-02-05 |  |
+| [Angkat](https://open.spotify.com/track/72a15YCEgcUxxmvAhA9UvC) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Angkat](https://open.spotify.com/album/1tJVCcdRPHq0SN6nYbh38Y) | 1:59 | 2025-02-05 | 2025-12-19 |
 | [ANH LÀ THẰNG TỒI](https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 3:20 | 2025-12-03 |  |
 | [Ann Alawan](https://open.spotify.com/track/2xVKEPd40xSs0LJbr6SNYa) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Ann Alawan](https://open.spotify.com/album/6COdyb4CSsqAvdvQGcOPMg) | 3:45 | 2022-04-06 | 2022-05-05 |
 | [Another Life](https://open.spotify.com/track/2nZSM1K6ygAtwvZXtYXnxz) | [Celeste Buckingham](https://open.spotify.com/artist/2fIUlieTjLTaNQUIKHX5B8) | [Life](https://open.spotify.com/album/6eHdWplf77Jq7KX3Kqeii4) | 4:06 | 2022-11-02 | 2022-12-01 |
@@ -247,6 +247,7 @@
 | [Been a Long Time](https://open.spotify.com/track/0PmO0FsV2W20X3c10O4tWz) | [Shelly Archer](https://open.spotify.com/artist/30bKK8WANSnIYZJ4Yt7OhM) | [Been a Long Time](https://open.spotify.com/album/0VLeRZC4agTKBMryZPgPYr) | 3:49 | 2022-05-04 | 2022-06-01 |
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-03-01 | 2023-04-06 |
 | [Been You](https://open.spotify.com/track/6ZdBAy2SQtDt9oHH9bfGrx) | [Y ARA](https://open.spotify.com/artist/1bPRfjxbCnpHxgGnU59Ml6) | [Been You](https://open.spotify.com/album/2MgHTw0DyWDasWLtFtjuuP) | 3:29 | 2023-08-02 | 2023-09-07 |
+| [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-12-03 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-02 | 2022-03-09 |
 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-08-03 | 2022-09-09 |
 | [Belbala](https://open.spotify.com/track/4Oagap5XW3qs8J9Kkmr855) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Belbala](https://open.spotify.com/album/6AmmvJiN4To7amchRSxEKm) | 2:39 | 2025-06-04 | 2025-07-03 |

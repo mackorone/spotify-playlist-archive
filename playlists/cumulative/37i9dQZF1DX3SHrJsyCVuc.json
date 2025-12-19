@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: EXEK",
+  "description": "A new world of alternative noise. Cover: Eveline Breaker",
   "name": "Wire",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 256920,
       "name": "Beat To Beat",
       "url": "https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD"
@@ -370,6 +370,24 @@
       "duration_ms": 107000,
       "name": "Don't Cheese Me Off",
       "url": "https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR"
+    },
+    {
+      "album": {
+        "name": "Idle Viewer",
+        "url": "https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC"
+      },
+      "artists": [
+        {
+          "name": "Eveline Breaker",
+          "url": "https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275454,
+      "name": "Double Clover",
+      "url": "https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX"
     },
     {
       "album": {
@@ -807,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Just a Memory",
+        "url": "https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN"
+      },
+      "artists": [
+        {
+          "name": "Buzz Kull",
+          "url": "https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Just a Memory",
+      "url": "https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR"
+    },
+    {
+      "album": {
         "name": "Landed In A Trap",
         "url": "https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE"
       },
@@ -1038,7 +1074,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 152414,
       "name": "One Train",
       "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"

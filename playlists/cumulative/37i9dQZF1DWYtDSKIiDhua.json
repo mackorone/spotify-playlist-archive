@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "R&B and good vibe tracks for your current mood. Cover: Sasha Keable",
+  "description": "R&B and good vibe tracks for your current mood. Cover: JUNNY",
   "name": "mood. ",
   "tracks": [
     {
@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 183269,
       "name": "baby",
       "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 204279,
       "name": "Back To School",
       "url": "https://open.spotify.com/track/78ED5dMZrI3dHGA0HYAOLW"
@@ -4865,6 +4865,28 @@
     },
     {
       "album": {
+        "name": "Convertible",
+        "url": "https://open.spotify.com/album/5RyXmD3EHen3PFELGPOqkV"
+      },
+      "artists": [
+        {
+          "name": "Cyprus",
+          "url": "https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv"
+        },
+        {
+          "name": "Kenya Fujita",
+          "url": "https://open.spotify.com/artist/4QrvjmMlCOF9jmEJzSv7EC"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256781,
+      "name": "Convertible",
+      "url": "https://open.spotify.com/track/4KvVxT2A1rtKryZZdfhXms"
+    },
+    {
+      "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/272qI1H4Qxy3z1qPGa4tpR"
       },
@@ -5993,6 +6015,56 @@
     },
     {
       "album": {
+        "name": "Do What We Do (Remixes)",
+        "url": "https://open.spotify.com/album/3L5pwJb6qtKfU8EMAhl3Pe"
+      },
+      "artists": [
+        {
+          "name": "Salon RnB",
+          "url": "https://open.spotify.com/artist/6SWMaCAmvv0L6J3UenIEIN"
+        },
+        {
+          "name": "Moneva",
+          "url": "https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J"
+        },
+        {
+          "name": "RL KLAV",
+          "url": "https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc"
+        },
+        {
+          "name": "Karina Christy",
+          "url": "https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7"
+        },
+        {
+          "name": "Madukina",
+          "url": "https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ"
+        },
+        {
+          "name": "Sade Susanto",
+          "url": "https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3"
+        },
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        },
+        {
+          "name": "PB GLAS",
+          "url": "https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG"
+        },
+        {
+          "name": "Kenny Gabriel",
+          "url": "https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Do What We Do (Kenny Gabriel Remix Feat. PB GLAS)",
+      "url": "https://open.spotify.com/track/2NxPqLvFN1VLwg5X7YnceL"
+    },
+    {
+      "album": {
         "name": "Do You Mind",
         "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
       },
@@ -6060,7 +6132,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 156000,
       "name": "Do You Regret It",
       "url": "https://open.spotify.com/track/038EsHfdxhEKdFG8HxZ45H"
@@ -8100,7 +8172,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 225882,
       "name": "FLOAT",
       "url": "https://open.spotify.com/track/1fVGqbeBonHnWIAH4P7cjf"
@@ -10580,6 +10652,24 @@
       "duration_ms": 211345,
       "name": "hold me",
       "url": "https://open.spotify.com/track/44rWxt3LrdLf0IclHzQe6v"
+    },
+    {
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/2eQTnbafLLbArXLa8chE2y"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/2YbOFI7toDU4OXhzVj2W4g"
     },
     {
       "album": {
@@ -14017,6 +14107,24 @@
     },
     {
       "album": {
+        "name": "lamida",
+        "url": "https://open.spotify.com/album/7mQq1P2ZbBMLcRVHbtT5JV"
+      },
+      "artists": [
+        {
+          "name": "Flare",
+          "url": "https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89000,
+      "name": "LONDON",
+      "url": "https://open.spotify.com/track/18844b41WtHrs6E0rmK5fE"
+    },
+    {
+      "album": {
         "name": "Sailing",
         "url": "https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya"
       },
@@ -14782,7 +14890,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 150000,
       "name": "Made 4 Two (feat. Charli Taft, SIRUP)",
       "url": "https://open.spotify.com/track/5RlWyohsph62rIAPBbgLGV"
@@ -15082,7 +15190,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 214474,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/1idMCdMGbEvVPHc66ukBag"
@@ -16188,7 +16296,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 210807,
       "name": "Mr. Girlfriend",
       "url": "https://open.spotify.com/track/7GFU2OUg9cgDEpObFzYehU"
@@ -18234,7 +18342,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 175414,
       "name": "out of body",
       "url": "https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf"
@@ -19760,7 +19868,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 174578,
       "name": "Rain",
       "url": "https://open.spotify.com/track/57uwNYV0GcM6ZXRSgqrZxc"
@@ -20010,6 +20118,24 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223275,
+      "name": "Recently Deleted",
+      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
     },
     {
       "album": {
@@ -20330,7 +20456,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 164692,
       "name": "RIP",
       "url": "https://open.spotify.com/track/2WBKIq4LHfxg29Uo1R2arA"
@@ -21340,6 +21466,24 @@
       "duration_ms": 165847,
       "name": "Scrambled",
       "url": "https://open.spotify.com/track/3AsDKr7TVje8TfY3fhyj6J"
+    },
+    {
+      "album": {
+        "name": "SEASONS",
+        "url": "https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211425,
+      "name": "SEASONS",
+      "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"
     },
     {
       "album": {
@@ -24960,7 +25104,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 190500,
       "name": "The Show",
       "url": "https://open.spotify.com/track/7FtISjqfWfKfn1egVreLIh"

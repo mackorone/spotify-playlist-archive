@@ -4,13 +4,15 @@
 
 > Bluegrass fit for the holiday season
 
-118 songs - 6 hr 17 min
+121 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Everybody's Waiting for\) the Man With the Bag](https://open.spotify.com/track/5q2FHhGUIRSg5UmXqn4Le6) | [The Petersens](https://open.spotify.com/artist/4w24LztUUIkgw11zx3KrQx) | [We Don't Need Anything This Year](https://open.spotify.com/album/5lg3pk6wZv6G5nK2vIAf1W) | 2:56 | 2024-11-29 |  |
 | [A Song for Christmas](https://open.spotify.com/track/1FZx33RfudL6RpvQWr33jr) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [A Song for Christmas](https://open.spotify.com/album/5klS5U3VHjFYOBvN0eYS8g) | 3:20 | 2024-11-29 |  |
+| [All Year Long](https://open.spotify.com/track/5sOjPhHLFPBQlroaARRE9I) | [Adam & Amy Pope](https://open.spotify.com/artist/1mDZ6edHYsVTzKz8VLYdQY) | [All Year Long](https://open.spotify.com/album/7wgzyLq8gCZ8jM6ylLaVLB) | 2:36 | 2025-12-18 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/1Np9WAlV2L1vMYL6TRpihk) | [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713) | [High Country Holiday](https://open.spotify.com/album/261enzJqW3CSJslLyxTCLW) | 3:07 | 2024-11-29 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Auld Lang Syne](https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso) | 3:14 | 2025-12-18 |  |
 | [Away In A Manger](https://open.spotify.com/track/3PLfpwA3QBap6OcQdfIESn) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv) | [My Holiday](https://open.spotify.com/album/1KVrleCet1Gu3OLRauqgJJ) | 2:43 | 2024-11-29 |  |
 | [Away In A Manger](https://open.spotify.com/track/7l0kmzOxTNV2WGbALzye9y) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Christmas Time With The Judds](https://open.spotify.com/album/4Z8k8Pc0dDEknSvF1VtbHr) | 2:28 | 2024-11-29 |  |
 | [Baby It's Cold Outside](https://open.spotify.com/track/6bWwuZMJLvbyILRHqIr0BQ) | [Wilson Banjo Co.](https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo) | [Baby It's Cold Outside](https://open.spotify.com/album/3rdLkSOBGc0jWOUobkMDPA) | 2:41 | 2024-11-29 |  |
@@ -101,6 +103,7 @@
 | [Snowbird](https://open.spotify.com/track/7F1QwL7cYL8VrV2kW5iRI5) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Snowbird](https://open.spotify.com/album/3T43QsJmuywzsRApuCVs2L) | 3:32 | 2024-11-29 |  |
 | [Snowflake Reel](https://open.spotify.com/track/4A8UQXWkIhn4e1sITkg0aZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Christmas In The Smoky Mountains](https://open.spotify.com/album/65jPd5hkSZdJuO0nW0Kpk5) | 2:49 | 2025-11-28 |  |
 | [Snowin' On Raton](https://open.spotify.com/track/0ZDisZv0IHEykx8u8rbdbZ) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Christmas Americana](https://open.spotify.com/album/5S6RP0u2RILM30AmXtg1lm) | 3:52 | 2024-11-29 |  |
+| [Socks and Underwear](https://open.spotify.com/track/5LDuAcCZfhFWiRns6US0eE) | [Daryl Mosley](https://open.spotify.com/artist/4lhbxcWd1PoTfAD1wjhKVq) | [Socks and Underwear](https://open.spotify.com/album/25HjUB87tLpDma2lrG1YCb) | 3:21 | 2025-12-18 |  |
 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 | 2024-11-29 |  |
 | [The Box](https://open.spotify.com/track/5fkk2GgQKrRk8x35ER4W9m) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [The Christmas 45, Vol\. 2](https://open.spotify.com/album/5qoQle0mbkac002Ji2KDe2) | 3:36 | 2024-11-29 |  |
 | [The Christmas Cookies](https://open.spotify.com/track/3k6olBZYNvFs6SuSH0RlLh) | [Greg Blake](https://open.spotify.com/artist/4f2gzMqgQ6EWMt5Zl29igY) | [People, Places and Songs](https://open.spotify.com/album/30atZpJN1MJAsw1rwA4TFS) | 3:04 | 2024-11-29 |  |

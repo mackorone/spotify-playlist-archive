@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,851 likes - 80 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,107 likes - 80 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 3 | [Miracle No Dey Tire Jesus II](https://open.spotify.com/track/6UuJxBhMTM3LaKYpKSMTYW) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Miracle No Dey Tire Jesus II](https://open.spotify.com/album/22dCKvtEeDtDQFM00sRe7u) | 7:46 |
 | 4 | [SEE ME THROUGH \(RECOVERY\)](https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Surgery](https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg) | 4:19 |
 | 5 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 |
-| 6 | [Covenant Keeping God \- Covenant Keeping God \(Acoustic Version](https://open.spotify.com/track/6RnMzQV6j343oC7F7jXJVf) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Covenant Keeping God \[Covenant Keeping God \(Acoustic Version\]](https://open.spotify.com/album/2Avt0dJO4EbhHvleA22fW8) | 9:46 |
+| 6 | [Covenant Keeping God \- \(Acoustic Version\)](https://open.spotify.com/track/6RnMzQV6j343oC7F7jXJVf) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Covenant Keeping God \(Acoustic Version\)](https://open.spotify.com/album/2Avt0dJO4EbhHvleA22fW8) | 9:46 |
 | 7 | [Worship Medley 17](https://open.spotify.com/track/0LgqZyxBACXN0XtexHrDGp) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 17](https://open.spotify.com/album/712yf7e3NHCpZSBOgSkiB5) | 10:13 |
 | 8 | [IDINMA \- Dance](https://open.spotify.com/track/5pD8elZG5DPtz5InsZ8Ei9) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [IDINMA \(Dance\)](https://open.spotify.com/album/0c7prR1W4bcgVkXzbKL73t) | 8:49 |
 | 9 | [Good God](https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Good God](https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4) | 14:49 |

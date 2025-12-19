@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,360 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,378 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
 | 28 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
 | 29 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
-| 30 | [Regen](https://open.spotify.com/track/2l2wNPaYwGqjysr0E7XJPY) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:29 |
-| 31 | [Voyage](https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 2:59 |
+| 30 | [Voyage](https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 2:59 |
+| 31 | [Regen](https://open.spotify.com/track/2l2wNPaYwGqjysr0E7XJPY) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:29 |
 | 32 | [Verlier Mich](https://open.spotify.com/track/4lvvLeeiKvsOPglkOXWowx) | [Akryl](https://open.spotify.com/artist/37LWnyoq7uaCMLsnbbducU) | [wenn ich groß bin, will ich alles werden außer alt](https://open.spotify.com/album/6XGCSVoJkjrRJCAg53I1jQ) | 3:30 |
 | 33 | [Everybody Knows](https://open.spotify.com/track/41CZBcABG1VKlQ3b9VLhgi) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Everybody Knows](https://open.spotify.com/album/1CXEsKrvQkYYZImAwoVidy) | 4:48 |
 | 34 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |

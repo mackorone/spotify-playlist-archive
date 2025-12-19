@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 511,
+  "num_followers": 519,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEMPYsSi1nJESmVL6lGPRROdBeFuMY",
+  "snapshot_id": "AAAEMbpx6TVXT+omQ8x4hM9I4o9FO6HD",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1427,6 +1427,22 @@
       "duration_ms": 170386,
       "name": "Fool Me",
       "url": "https://open.spotify.com/track/1WcPvfflvPno6P931ZrJT2"
+    },
+    {
+      "added_at": "2025-12-18 15:44:33",
+      "album": {
+        "name": "Broken Souls",
+        "url": "https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6"
+      },
+      "artists": [
+        {
+          "name": "Malcolm E Ormond",
+          "url": "https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG"
+        }
+      ],
+      "duration_ms": 335039,
+      "name": "Broken Souls",
+      "url": "https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo"
     }
   ],
   "unique_name": "Unsigned Rock",

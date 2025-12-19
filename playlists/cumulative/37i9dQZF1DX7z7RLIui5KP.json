@@ -28,7 +28,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 194400,
       "name": "Add Up",
       "url": "https://open.spotify.com/track/2H4jI5BBzEaG2IpGbYJDxS"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 191999,
       "name": "Dawa",
       "url": "https://open.spotify.com/track/08e888zImNSTqNrv6muOWM"
@@ -1727,6 +1727,32 @@
     },
     {
       "album": {
+        "name": "ALL HANDS ON DEC",
+        "url": "https://open.spotify.com/album/2Mi9zYMvL4iDHR3UE537pR"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        },
+        {
+          "name": "Vic West",
+          "url": "https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "PLUMBER",
+      "url": "https://open.spotify.com/track/0mjU0BM1MM7HCzvfkMGSio"
+    },
+    {
+      "album": {
         "name": "Pokunena",
         "url": "https://open.spotify.com/album/1XP8nQhrRjru8omigfrvX3"
       },
@@ -1862,6 +1888,32 @@
       "duration_ms": 226194,
       "name": "Say Yeah",
       "url": "https://open.spotify.com/track/26yzzLAyOKj6yd4UY9RFTf"
+    },
+    {
+      "album": {
+        "name": "Sema",
+        "url": "https://open.spotify.com/album/3upNBRjHjnJwkdWdSggeko"
+      },
+      "artists": [
+        {
+          "name": "Feddy Njuki",
+          "url": "https://open.spotify.com/artist/2GL69DSAxhHqWQu1Y5PXoJ"
+        },
+        {
+          "name": "Davy Waweru",
+          "url": "https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp"
+        },
+        {
+          "name": "Shad Mziki",
+          "url": "https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205970,
+      "name": "Sema",
+      "url": "https://open.spotify.com/track/2CQiXfEnXCnBh6UJ7C1zbW"
     },
     {
       "album": {

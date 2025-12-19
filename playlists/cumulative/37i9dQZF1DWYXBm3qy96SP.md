@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: Silica Gel
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: HEALTH
 
-1,773 songs - 4 day 6 hr 31 min
+1,774 songs - 4 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-11 | 2025-04-18 |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-07-22 |
 | [DESIRE](https://open.spotify.com/track/3uX2pHEVOthQ63a1IaNwBr) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [DESIRE](https://open.spotify.com/album/4QUh3Ycq5uOvzMLqlQsafb) | 3:15 | 2023-04-20 | 2023-04-28 |
-| [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-11 |  |
+| [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-11 | 2025-12-19 |
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-10-13 |
 | [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 | 2023-12-14 | 2024-02-02 |
 | [Devil In Disguise](https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Devil In Disguise](https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c) | 1:58 | 2023-05-25 | 2023-06-02 |
@@ -1338,6 +1338,7 @@
 | [Show Me How To Love](https://open.spotify.com/track/0iBUNQawR3rfxZ3SsTrkum) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Show Me How To Love](https://open.spotify.com/album/7a0y1S3C96JFkeWZ4mTmon) | 2:51 | 2023-12-21 | 2024-01-05 |
 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 | 2024-02-22 | 2024-07-29 |
 | [SHOZEN](https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [SHOZEN](https://open.spotify.com/album/6FEJoTviFUPHucUfGgbJT9) | 3:43 | 2023-12-07 | 2023-12-15 |
+| [SHRED ENVY](https://open.spotify.com/track/6Wt8nvjWtW1GYO5UyjsGez) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [SHRED ENVY](https://open.spotify.com/album/7sIBSoqOjisoA2ln0o9UI8) | 3:43 | 2025-12-18 |  |
 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 | 2024-07-26 | 2024-08-02 |
 | [shutting me out](https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [shutting me out / goo lagoon](https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq) | 2:26 | 2023-11-23 | 2023-12-15 |
 | [Sickening](https://open.spotify.com/track/6klPRChiSSnY4kxlZbc8DK) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Sickening](https://open.spotify.com/album/7buGj1l2BZ5sCCgX2447bc) | 4:43 | 2024-01-11 | 2024-01-19 |

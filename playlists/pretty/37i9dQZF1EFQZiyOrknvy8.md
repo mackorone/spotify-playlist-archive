@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 80 | [scared](https://open.spotify.com/track/69pDGXAeiBbqpjD43GJko2) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:15 |
 | 81 | [Alone](https://open.spotify.com/track/0xda5IoHwLOv7BnHLBCrL7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Would I Lie To You](https://open.spotify.com/album/0P6xcRS8cRFlUDcXtt75Yi) | 3:10 |
 | 82 | [Knock](https://open.spotify.com/track/56oCkcfexBeYD4q4jEJJBV) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Dye My Hair](https://open.spotify.com/album/72OGxvqzD8lVsmT0HsaEPS) | 3:20 |
-| 83 | [Make Me Feel](https://open.spotify.com/track/4KVBeC6lATNcjhMZOEhNU6) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Make Me Feel](https://open.spotify.com/album/7DZYLx34GtrykF4m9MsotB) | 2:09 |
-| 84 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 |
+| 83 | [Blame It On The Mistletoe](https://open.spotify.com/track/5Ca8fgOIaUW9Hl11AGc2v3) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:28 |
+| 84 | [Make Me Feel](https://open.spotify.com/track/4KVBeC6lATNcjhMZOEhNU6) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Make Me Feel](https://open.spotify.com/album/7DZYLx34GtrykF4m9MsotB) | 2:09 |
 | 85 | [Bad Karma](https://open.spotify.com/track/3RVirB4bHhZtl1QTAVWHSo) | [RIVRS](https://open.spotify.com/artist/34aOTkYOSP2yYdAanKdhbu) | [Bad Karma](https://open.spotify.com/album/7c6BhXUAOuIfbqGEwnJakE) | 3:25 |
 | 86 | [Killing Me](https://open.spotify.com/track/0KOMWYw0mEKMvSCUYXkBS7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:30 |
 | 87 | [Te Busqué](https://open.spotify.com/track/4FjcWibm9zWjA48jB5YpIw) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Magia](https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH) | 2:45 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 109 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 |
 | 110 | [Ich liebe meine Ex noch \- LUZIs Megamix](https://open.spotify.com/track/2rc5e7rZFSEJ000oVMNGVp) | [LUZI](https://open.spotify.com/artist/01toP8PPkzyiQdKgyXle10) | [LUZIs Megamix](https://open.spotify.com/album/2EN8ufsACQcGR77mCdL9IZ) | 2:51 |
 | 111 | [Like A Fool](https://open.spotify.com/track/0iSVVvnXgiAcdS8tZPjZeR) | [Joana Kesenci](https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m) | [Like A Fool](https://open.spotify.com/album/4cIl8a2elDYzGIN8Xeje50) | 3:32 |
-| 112 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
-| 113 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
+| 112 | [Don't You Know That It's Christmas](https://open.spotify.com/track/7KVsF9viAFkFbVqDO6FmfY) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night](https://open.spotify.com/album/6t4rpCpCZ5oKvSUADZUGHC) | 2:30 |
+| 113 | [Immer Juli](https://open.spotify.com/track/6cnTg5INasYZIP3yXridcS) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Immer Juli](https://open.spotify.com/album/2YebsTq2mKaDhJxvGW9Son) | 2:47 |
 | 114 | [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 |
 | 115 | [Ciao Bella](https://open.spotify.com/track/7GB7TgXcdE1hsm67udwrX9) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:08 |
 | 116 | [Blood](https://open.spotify.com/track/57d8fvXrm9vzlYQaWwLwYl) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 2:35 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQZiyOrknvy8.md) - [plain]
 | 150 | [Fliegen](https://open.spotify.com/track/1vlSFUZcOHEbotxb1BPVMx) | [Julian Williams](https://open.spotify.com/artist/6dZcFNvJUa9yTkEF1mG3NY) | [5 EP](https://open.spotify.com/album/7tG6m07jxmMFaqBpVRDXxO) | 3:53 |
 | 151 | [Playlist](https://open.spotify.com/track/2eLkiZOJ0xevCWgAvfgJGP) | [Feel Glück](https://open.spotify.com/artist/3wgEyEndxjMfRILKuvqihv), [Arend Peter Kraus](https://open.spotify.com/artist/2BOd9SVFrYP7OpAQmAUf3n) | [Playlist](https://open.spotify.com/album/6cgZXJJFgzMwL6kiyQeVv7) | 3:54 |
 
-Snapshot ID: `AcEf3AAAAAAlFrkiSxMU9hVDJDKpMrYz`
+Snapshot ID: `AcElXgAAAACxTyqMcycSCoXZZObLB+Yn`

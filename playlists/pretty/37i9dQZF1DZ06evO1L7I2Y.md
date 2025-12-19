@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,582 likes - 46 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,581 likes - 46 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 26 | [Respeito É Pra Quem Tem \- Sabotage 50](https://open.spotify.com/track/13aWuppoBBo1SiRkJl6E6d) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:54 |
 | 27 | [O Jogo Virou](https://open.spotify.com/track/6uxBWEwthBgH3IbyT37LHR) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:52 |
 | 28 | [10X Melhor \(Interlúdio\)](https://open.spotify.com/track/6l8WdWrVFAkG6sbpdEHyEm) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 1:21 |
-| 29 | [Mo Parada](https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv) | 2:20 |
-| 30 | [Gostoso esse Pretinho](https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Músicas Para Marolar](https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp) | 2:51 |
+| 29 | [Gostoso esse Pretinho](https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt) | [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Músicas Para Marolar](https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp) | 2:51 |
+| 30 | [Mo Parada](https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv) | 2:20 |
 | 31 | [Fases](https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [DRESSA](https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al) | [Fases](https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o) | 3:19 |
 | 32 | [N.I.N.A](https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 3:44 |
 | 33 | [24 Horas](https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [24 Horas](https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms) | 3:26 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 45 | [MEC](https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0) | [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [PG 400](https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz) | [PLASMA](https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ) | 2:54 |
 | 46 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 |
 
-Snapshot ID: `aUChAAAAAAAQoV76LdoH2G/92G/iBEj2`
+Snapshot ID: `aUHygAAAAACiP1kWJhgO40VgR2pXQ8Jq`

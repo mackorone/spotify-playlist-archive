@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uc624\uc874 (O3ohn)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: Juju B. Goode) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 159026,
       "name": "4Seasons",
       "url": "https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -3138,6 +3138,24 @@
       "duration_ms": 162154,
       "name": "Get Some Rest",
       "url": "https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/1UDjEv6O7uO6Mq9IQ3regW"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116063,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/4Cb6AY4bjiSz6zIJmK2gWD"
     },
     {
       "album": {
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 191000,
       "name": "I am",
       "url": "https://open.spotify.com/track/4AHhXbooNnHULGK8F38xt1"
@@ -4854,7 +4872,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 223000,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
@@ -5772,7 +5790,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 237619,
       "name": "Love, After All",
       "url": "https://open.spotify.com/track/220eac16XYiepPKj7igHzB"
@@ -7054,7 +7072,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 148500,
       "name": "Over?",
       "url": "https://open.spotify.com/track/3XkAF5FGkTaSVuaPBmp78v"
@@ -8177,6 +8195,24 @@
     },
     {
       "album": {
+        "name": "Solar System",
+        "url": "https://open.spotify.com/album/1Wd7Z5jWT4YdmccKph8Rmq"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/1Pa5HDJ8XuDOvURilGrp1j"
+    },
+    {
+      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -8748,7 +8784,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 188864,
       "name": "Stupid love song (with Crush)",
       "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
@@ -8860,7 +8896,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 176000,
       "name": "SUNFLOWER",
       "url": "https://open.spotify.com/track/4XR7aLFGYuQhKz64ADIxhm"

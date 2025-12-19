@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: Jay Park, LOUIS of LNGSHOT, JayDon, Paradise\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: ZICO, Lilas\)
 
-260 songs - 13 hr 39 min
+261 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 | 2025-10-11 |
 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 | 2025-03-07 |  |
 | [Dreamers](https://open.spotify.com/track/3rpJA5YqsZKIh1Wb71pR20) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Dreamers](https://open.spotify.com/album/32xNTIA4avuQXwY9jLzIrH) | 3:33 | 2021-12-20 | 2022-02-24 |
+| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-19 |  |
 | [Dumb \(feat\. Sonnet\) \- Remix](https://open.spotify.com/track/3YWWj0sze9RqfHlhdYWg6Z) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B) | [Dumb \(feat\. Sonnet\) \[Remix\]](https://open.spotify.com/album/6A7Fi2YTBwaXAedyWpltOk) | 3:12 | 2021-12-20 | 2022-02-25 |
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2021-12-20 | 2025-04-19 |
 | [EKO EKO](https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [EKO EKO](https://open.spotify.com/album/17VDRp9RX5rp7GPc5r1XuO) | 3:06 | 2025-06-27 |  |
@@ -158,7 +159,7 @@
 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-09-08 |  |
 | [missed call](https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [missed call](https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q) | 2:21 | 2025-07-11 |  |
 | [Moonlight](https://open.spotify.com/track/5FMaHFAPTjeWvym1F3IoGb) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g), [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [Moonlight](https://open.spotify.com/album/3Bs3EaKLhOE2wQMriF5hRo) | 3:08 | 2022-09-15 | 2025-03-07 |
-| [My Love](https://open.spotify.com/track/3mhrwbSKg78tx8Klzal2mC) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [Francine Diaz](https://open.spotify.com/artist/38dzzX7PgHPXNHbMQDXi7l) | [My Love](https://open.spotify.com/album/4mVY5zUQmYI10LZMiVO94T) | 3:03 | 2024-03-08 |  |
+| [My Love](https://open.spotify.com/track/3mhrwbSKg78tx8Klzal2mC) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [Francine Diaz](https://open.spotify.com/artist/38dzzX7PgHPXNHbMQDXi7l) | [My Love](https://open.spotify.com/album/4mVY5zUQmYI10LZMiVO94T) | 3:03 | 2024-03-08 | 2025-12-19 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-20 | 2022-06-01 |
 | [My World](https://open.spotify.com/track/1NnbWG5rVZpSlIiXFQ0U6F) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [UTOPIA](https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02) | 2:46 | 2022-06-10 | 2023-02-17 |
 | [NEON](https://open.spotify.com/track/2l0qBjI2zsbdcFoiRLugDA) | [Raon](https://open.spotify.com/artist/6grPDYoluzn0yi8qloRKst) | [NEON](https://open.spotify.com/album/4fqYkhN96NZ2zvcf5HRMIs) | 3:08 | 2023-06-08 | 2024-05-18 |

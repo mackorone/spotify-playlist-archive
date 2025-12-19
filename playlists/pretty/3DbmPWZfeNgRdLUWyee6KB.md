@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,062 likes - 193 songs - 11 hr 15 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,066 likes - 197 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,5 +201,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 191 | [Campo Libre \(Acústico\)](https://open.spotify.com/track/3uC17YEAFcSGRxl5MFLyZ9) | [Campo Libre](https://open.spotify.com/artist/2RGPouVkgRJHJl3Y0EnCIL), [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [Campo Libre](https://open.spotify.com/album/3Jfq4WislpKzf1TgbN5m8s) | 2:33 |
 | 192 | [Nothing but a Memory](https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Nothing but a Memory](https://open.spotify.com/album/3SWH29p4dFHzyY9fAbboOy) | 3:06 |
 | 193 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 |
+| 194 | [Cold Nights](https://open.spotify.com/track/7uXaMOhjnwNTx4ylOIdywo) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [Cold Nights](https://open.spotify.com/album/43tDQTW7UkOdO0Zg1RYfwh) | 3:44 |
+| 195 | [Catch the Spark](https://open.spotify.com/track/5m1itjQzMzetHUjbVGsMxY) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Catch the Spark](https://open.spotify.com/album/6y5ZbPFz6h5NxytG5jkmLA) | 3:37 |
+| 196 | [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 |
+| 197 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 |
 
-Snapshot ID: `AAAN1Ni3SaR3T75CC0ECojim91ms0iTP`
+Snapshot ID: `AAAN2HvEOxJ+V063c4LKP4nYz5UgqMSZ`

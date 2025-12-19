@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251558,
+  "num_followers": 251553,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAADsL0SicVPNVKb5rbcLzaeR",
+  "snapshot_id": "aUHygAAAAAC1IIEcuREnwWBGMEeqOSqw",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't!",
-        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Don't! - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 253240,
       "name": "Home Ain't Where His Heart Is (Anymore)",
       "url": "https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't!",
+        "url": "https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Don't! - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up!",
+        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Nah! - Red Version",
+      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 148274,
       "name": "Boots Don't",
       "url": "https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up!",
-        "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Nah! - Red Version",
-      "url": "https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Of Me",
-        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 159382,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 240533,
       "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
       "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Just A Girl (The Highlights)",
-        "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Not Just A Girl",
-      "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 196720,
       "name": "In My Car (I'll Be The Driver) - Red Version",
       "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Just A Girl (The Highlights)",
+        "url": "https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Not Just A Girl",
+      "url": "https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day of Summer",
-        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 190268,
-      "name": "Last Day of Summer",
-      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 229026,
       "name": "She's Not Just A Pretty Face - Red Version",
       "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 190268,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
     }
   ],
   "unique_name": "This Is Shania Twain",

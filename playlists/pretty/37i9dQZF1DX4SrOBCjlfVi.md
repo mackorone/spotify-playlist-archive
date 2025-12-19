@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Pooh Shiesty, 21 Savage, Nas and DJ Premier and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,015 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,152 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Learnin](https://open.spotify.com/track/7BGDIIXKBDP87hCj2kppwp) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z) | [Road To Osshland II](https://open.spotify.com/album/2jFvvjp7DPo9Rt5Z3mQGfR) | 2:06 |
 | 50 | [Dopamine](https://open.spotify.com/track/3LdTtmgBbmGxRs1kOE8CPK) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Dopamine](https://open.spotify.com/album/4aqRSWn7UBdnJDZrV9mGNr) | 3:11 |
 
-Snapshot ID: `AAAAAKKHWvATgUQQNTbbL/ogU+mYh5GR`
+Snapshot ID: `AAAAAIPil0KVgB38G+UcnnHRabt5MHBc`

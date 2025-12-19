@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  cover: tellynonpiangere",
+  "description": "La nuova scena pop italiana \ud83c\uddee\ud83c\uddf9  cover: Angelica Bove",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 209928,
       "name": "aiaiai",
       "url": "https://open.spotify.com/track/6MkVCaKKi7DWDUTQovpw6a"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 195000,
       "name": "Ballavi",
       "url": "https://open.spotify.com/track/2i8w9Yi0Pkzk5xJhkoFvLs"
@@ -3218,6 +3218,24 @@
       "duration_ms": 154296,
       "name": "Casa",
       "url": "https://open.spotify.com/track/2h72ZCOgOwCLhTIdLBgRne"
+    },
+    {
+      "album": {
+        "name": "Casa In Fiamme",
+        "url": "https://open.spotify.com/album/5jgyApMVKqjoCQaOuQDd34"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Casa In Fiamme",
+      "url": "https://open.spotify.com/track/0XQvtQJR0I5fjDUGswzwZU"
     },
     {
       "album": {
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 141619,
       "name": "dimmi che provi quello che provo io",
       "url": "https://open.spotify.com/track/6tPRT7hwN2L8eQ45iSjafJ"
@@ -8853,6 +8871,32 @@
     },
     {
       "album": {
+        "name": "LA VITA IL GIOCO IL DESTINO",
+        "url": "https://open.spotify.com/album/4IiHlTEat10V0q53vnQDBP"
+      },
+      "artists": [
+        {
+          "name": "PRIMA ALBA",
+          "url": "https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv"
+        },
+        {
+          "name": "Molo",
+          "url": "https://open.spotify.com/artist/3orzMpb0hF6UNoP2mPXBol"
+        },
+        {
+          "name": "102anto",
+          "url": "https://open.spotify.com/artist/1ss4BzqeypLOXgVu7PAX0L"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199459,
+      "name": "LA VITA IL GIOCO IL DESTINO",
+      "url": "https://open.spotify.com/track/58XRSMHYiYG7WZmm0pQlYY"
+    },
+    {
+      "album": {
         "name": "LA VITA NON UCCIDE",
         "url": "https://open.spotify.com/album/7qUZ6SbmXlLh44LvnfMkRg"
       },
@@ -10322,6 +10366,24 @@
       "duration_ms": 207407,
       "name": "mandarino",
       "url": "https://open.spotify.com/track/6Aur1GBVsuyfh7wM1YHttM"
+    },
+    {
+      "album": {
+        "name": "MANIFESTAZIONE D'AMORE",
+        "url": "https://open.spotify.com/album/15FtREzDJ4JZLRFxMMmeY3"
+      },
+      "artists": [
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184720,
+      "name": "MANIFESTAZIONE D'AMORE",
+      "url": "https://open.spotify.com/track/4CVzKDQSP7dZOzca7vQvsH"
     },
     {
       "album": {
@@ -13457,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "Per Me Domenica",
+        "url": "https://open.spotify.com/album/5psdxeURrx3QGCNjW27PeY"
+      },
+      "artists": [
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150818,
+      "name": "Per Me Domenica",
+      "url": "https://open.spotify.com/track/3BIKKh80jydKoWINmrNayU"
+    },
+    {
+      "album": {
         "name": "illumina",
         "url": "https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa"
       },
@@ -13526,7 +13606,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 127161,
       "name": "Perdersi",
       "url": "https://open.spotify.com/track/3TLZe4PbXoTISRZpgWEpMX"
@@ -13910,7 +13990,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 160115,
       "name": "Pita Gyros",
       "url": "https://open.spotify.com/track/6Ii2DpNzwECTaOMhjTPnOu"
@@ -14498,6 +14578,24 @@
       "duration_ms": 151636,
       "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
       "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
+    },
+    {
+      "album": {
+        "name": "pubblicit\u00e0",
+        "url": "https://open.spotify.com/album/2tDzVsa5yQdUzgOD2wSdAw"
+      },
+      "artists": [
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169843,
+      "name": "pubblicit\u00e0",
+      "url": "https://open.spotify.com/track/0xdmOeYAdR19JRso4OewOM"
     },
     {
       "album": {
@@ -16321,6 +16419,28 @@
     },
     {
       "album": {
+        "name": "SOFFRIRE +",
+        "url": "https://open.spotify.com/album/3TCJleIk1dxddbcpy39sRu"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/032syoAKbxdyWFRlyk0PJv"
+        },
+        {
+          "name": "FIFexclamation",
+          "url": "https://open.spotify.com/artist/0KdZjC6G1gxuZCZ9GICrsk"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SOFFRIRE +",
+      "url": "https://open.spotify.com/track/4yCpGNuGaoaUumU24iHqHE"
+    },
+    {
+      "album": {
         "name": "DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO",
         "url": "https://open.spotify.com/album/44w3s0STY96UbKK7wFhWQL"
       },
@@ -16332,7 +16452,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 206111,
       "name": "SOGNARE IN GRANDE",
       "url": "https://open.spotify.com/track/2keLo5FuvZJzu2jaYsnaic"
@@ -16933,6 +17053,24 @@
     },
     {
       "album": {
+        "name": "Sottopelle",
+        "url": "https://open.spotify.com/album/03Uyur2DXG29BG0z9PzGTX"
+      },
+      "artists": [
+        {
+          "name": "SKA",
+          "url": "https://open.spotify.com/artist/39pgwDIoXEdNJQMkjW8STa"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167058,
+      "name": "Sottopelle",
+      "url": "https://open.spotify.com/track/4TWoef8HG8T0AHeM2w1xp5"
+    },
+    {
+      "album": {
         "name": "tutti i colori del buio",
         "url": "https://open.spotify.com/album/25q60nNytACtJUStVbphJX"
       },
@@ -17014,6 +17152,24 @@
       "duration_ms": 192000,
       "name": "Spazio",
       "url": "https://open.spotify.com/track/3fGeysu1uiOsVJiIquAS8e"
+    },
+    {
+      "album": {
+        "name": "Specchio (ultimo quarto di luna)",
+        "url": "https://open.spotify.com/album/0OCOa40pTG9j1tW6ZIf58O"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165261,
+      "name": "Specchio (ultimo quarto di luna)",
+      "url": "https://open.spotify.com/track/2mJx6pmaeHlAAyF3pzOmFK"
     },
     {
       "album": {
@@ -18532,7 +18688,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 195853,
       "name": "Tutto Perfetto",
       "url": "https://open.spotify.com/track/7A7g0MKNsmFsWdUuSRgkw7"
@@ -18575,6 +18731,28 @@
     },
     {
       "album": {
+        "name": "UGUALE",
+        "url": "https://open.spotify.com/album/24n5XV3g8ZK3mrEDMknfWs"
+      },
+      "artists": [
+        {
+          "name": "ALBE.x",
+          "url": "https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb"
+        },
+        {
+          "name": "Dheo",
+          "url": "https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "UGUALE",
+      "url": "https://open.spotify.com/track/2F7CAe1wbqMAEkaeYTESEO"
+    },
+    {
+      "album": {
         "name": "Ullall\u00e0",
         "url": "https://open.spotify.com/album/6H70unPTHZmictgTc52us2"
       },
@@ -18586,7 +18764,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 172000,
       "name": "Ullall\u00e0",
       "url": "https://open.spotify.com/track/1awla02OwE5uKeKSYj7u0R"
@@ -18809,6 +18987,28 @@
     },
     {
       "album": {
+        "name": "REHAB",
+        "url": "https://open.spotify.com/album/5wqPdqUpYCirNPB7Qt5xEi"
+      },
+      "artists": [
+        {
+          "name": "MATILDE",
+          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
+        },
+        {
+          "name": "Germo67",
+          "url": "https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148868,
+      "name": "UNICA (feat. Germo67)",
+      "url": "https://open.spotify.com/track/7aG6kzhbGYhgHC2juylt0M"
+    },
+    {
+      "album": {
         "name": "Unica Scusa",
         "url": "https://open.spotify.com/album/2PldQ0KcFP3EhzzUgYA5fj"
       },
@@ -18864,7 +19064,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 154284,
       "name": "UP&DOWN (feat. BNKR44)",
       "url": "https://open.spotify.com/track/11C3GZQwGuGG5UT3FzyhXn"

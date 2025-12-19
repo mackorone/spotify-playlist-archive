@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,075 songs - 4 day 11 hr 35 min
+2,078 songs - 4 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Circles](https://open.spotify.com/track/2mYTINvwFoJYySe9XQsHkN) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Circles](https://open.spotify.com/album/0fq0sVhYUlFzRCrt2T9AU1) | 2:41 | 2022-12-22 | 2023-02-24 |
 | [Circus X](https://open.spotify.com/track/0SGMCZngLMlB3w34r0cmaz) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Circus X](https://open.spotify.com/album/6mk9b0Q51qdxQUVLP8MKfy) | 3:04 | 2024-02-24 | 2024-04-19 |
 | [Clap](https://open.spotify.com/track/5N2C2mNYf5l062MTTgnoF8) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Clap](https://open.spotify.com/album/7lEMMNH7c4Dca2V1nQOlIn) | 2:57 | 2023-10-26 | 2024-02-09 |
+| [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 | 2025-12-18 |  |
 | [CLIMAX](https://open.spotify.com/track/50PQ2pO395WJbC5r1qEY1v) | [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [CLIMAX](https://open.spotify.com/album/5rpwNzj2xjd0ipxb4BR5ne) | 2:57 | 2024-08-22 | 2024-09-22 |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
@@ -310,7 +311,7 @@
 | [Covered By The Clouds](https://open.spotify.com/track/6qOd4FxG2FvYGCq9gqIwGA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Covered By The Clouds](https://open.spotify.com/album/4gnX8BqbSdUdcIzpkMa8sX) | 3:19 | 2024-04-04 | 2024-04-19 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
 | [Crash](https://open.spotify.com/track/4gJdZtzkAx877Q3T6zdt4T) | [Daniel Gidlund](https://open.spotify.com/artist/16MsIlrZeMWpSAk1RlULB6) | [Crash](https://open.spotify.com/album/4TDoinDsR2KzvdrqzBMrId) | 3:26 | 2024-08-22 | 2024-09-08 |
-| [Crazy](https://open.spotify.com/track/0hbHIyjHstT9nXy1frfdoM) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Crazy](https://open.spotify.com/album/7IP8sUzagDg6erM28zt11h) | 2:55 | 2025-10-23 |  |
+| [Crazy](https://open.spotify.com/track/0hbHIyjHstT9nXy1frfdoM) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Crazy](https://open.spotify.com/album/7IP8sUzagDg6erM28zt11h) | 2:55 | 2025-10-23 | 2025-12-19 |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2022-05-12 | 2023-02-01 |
 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 | 2025-08-14 |  |
 | [Cry](https://open.spotify.com/track/7FD2G3OxS0gtv4DyAVLeK9) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cry](https://open.spotify.com/album/6qGGbXGhMDyKrbM18rRROD) | 2:45 | 2024-09-26 | 2025-04-01 |
@@ -519,7 +520,7 @@
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-02 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
 | [Evergreen](https://open.spotify.com/track/6g4CJrBuZNnLPyVhEqPd62) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Evergreen](https://open.spotify.com/album/30Bd04g8i3ROlxhZVAoJjo) | 3:54 | 2022-07-28 | 2022-09-20 |
-| [Evergreen min vän evergreen](https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Evergreen min vän evergreen](https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX) | 3:03 | 2025-10-02 |  |
+| [Evergreen min vän evergreen](https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Evergreen min vän evergreen](https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX) | 3:03 | 2025-10-02 | 2025-12-19 |
 | [Every Little Heart](https://open.spotify.com/track/5YrFcDIMuE4vxuppiffCaY) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/6PawgZNtkuBH5uVY9qo2h9) | 3:09 | 2023-04-20 | 2023-09-09 |
 | [Every Little Heart](https://open.spotify.com/track/7rn9elPfuViahibddSfGdn) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Every Little Heart](https://open.spotify.com/album/5bXaN5YCK0SrPElei2Sfg2) | 3:09 | 2023-02-02 | 2023-04-26 |
 | [Everyone](https://open.spotify.com/track/1ZSbMB7SpKvDC7gVc9bJVV) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Everyone](https://open.spotify.com/album/0kudkPZkyrIWJ7gRHa93xv) | 2:30 | 2022-07-21 | 2022-07-29 |
@@ -1100,6 +1101,7 @@
 | [Lost Romance](https://open.spotify.com/track/1xjbPvo3qQvnKKLtrjKOIY) | [Tage](https://open.spotify.com/artist/7wXeuEsgZnjihGQLKkaPSr) | [Lost Romance](https://open.spotify.com/album/3rq0E9j8ExDqjRph3yCUq0) | 2:21 | 2024-02-22 | 2024-04-12 |
 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 | 2025-02-21 |
 | [Lova](https://open.spotify.com/track/001iFcI2PVrLteroX4urel) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 5:02 | 2022-06-02 | 2022-09-26 |
+| [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [](https://open.spotify.com/album/null) | 2:41 | 2025-12-18 |  |
 | [Love & Unity](https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Love & Unity](https://open.spotify.com/album/5Ubu5hojBNMwptB1afNQXp) | 3:50 | 2024-04-26 | 2024-05-24 |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2021-12-16 | 2022-02-27 |
 | [Love is for Losers](https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Love is for Losers](https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j) | 3:20 | 2025-11-27 |  |
@@ -1190,7 +1192,7 @@
 | [MILK](https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [MILK](https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM) | 3:30 | 2025-07-03 | 2025-09-05 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-12-03 |
 | [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 | 2025-11-05 |
-| [Min bästa vän](https://open.spotify.com/track/5atucBC09Xcl4UAXDbR1l5) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Min bästa vän](https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj) | 2:14 | 2025-11-27 |  |
+| [Min bästa vän](https://open.spotify.com/track/5atucBC09Xcl4UAXDbR1l5) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Min bästa vän](https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj) | 2:14 | 2025-11-27 | 2025-12-19 |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |
@@ -1917,6 +1919,7 @@
 | [Vanish!](https://open.spotify.com/track/3krsQzuDKZAdNTkhRLlQ71) | [Freddie Joon](https://open.spotify.com/artist/2uiFUbeyr7hVJrlnjolYct) | [Vanish!](https://open.spotify.com/album/7547vdxjNpucMOJF50Tatl) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Vanligt, Vanligt](https://open.spotify.com/track/7iZU7ydaWwwJFD7fiSDwlM) | [YVONNE](https://open.spotify.com/artist/4a1111uVBut80pBLecGDXf), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [Vanligt, Vanligt](https://open.spotify.com/album/2Lm3sBC1IKsa0vFeIJxfHl) | 2:42 | 2024-05-16 | 2024-06-14 |
 | [Var är du?](https://open.spotify.com/track/3qCIvPMbVj6zPjDwVu0EXW) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt \(Kapitel 1\)](https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE) | 3:14 | 2021-12-16 | 2022-03-10 |
+| [Vara människa](https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Vara människa](https://open.spotify.com/album/2y8XkkbIT8hsPArXDX2on4) | 2:14 | 2025-12-18 |  |
 | [Varför slutar allt i tårar](https://open.spotify.com/track/1ziVVnmOTUVveQRSgozdUI) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Varför slutar allt i tårar](https://open.spotify.com/album/2UfE1KU8byObEnNFSnIwqv) | 4:04 | 2024-05-30 | 2024-06-28 |
 | [Varför vill du ha mig?](https://open.spotify.com/track/19K0YAML7BKdfF7IL4c2Ry) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Varför vill du ha mig?](https://open.spotify.com/album/1vzabkKzWG69LQEUPJG3GA) | 2:56 | 2024-02-22 | 2024-03-17 |
 | [Varför väntade du till sommaren?](https://open.spotify.com/track/3QvHp2UMWG31LBxXdaMH3N) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Varför väntade du till sommaren?](https://open.spotify.com/album/0prvn493zXW0dpsNvdmK3z) | 3:00 | 2024-04-25 | 2024-05-24 |

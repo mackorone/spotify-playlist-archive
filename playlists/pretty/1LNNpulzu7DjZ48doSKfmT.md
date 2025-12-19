@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 451 likes - 536 songs - 1 day 3 hr 47 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 451 likes - 541 songs - 1 day 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -544,5 +544,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 534 | [i'm a victim](https://open.spotify.com/track/0IBTYhzUiGE1IISTOcdXGr) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:17 |
 | 535 | [Wrong Side of Town](https://open.spotify.com/track/6PFtKPTuRw2ttS4a8NvvKD) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Wrong Side of Town](https://open.spotify.com/album/3lvBLHmcqvTtYQCVzsnY8O) | 4:45 |
 | 536 | [Luna Gris](https://open.spotify.com/track/015azgJHfiBts3JSUIcafT) | [Mr\. Distronic](https://open.spotify.com/artist/33sLH5zVP9K4l4CchpDYEG) | [Luna Gris](https://open.spotify.com/album/1wqxNNyJ4aYekwr5TZwYyy) | 5:14 |
+| 537 | [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 |
+| 538 | [Far out](https://open.spotify.com/track/3dV38XdBLKwXLwN1eNUAAi) | [Lëe Brœwn](https://open.spotify.com/artist/4mfih3bhrx972PCx2Jug9T) | [Far out](https://open.spotify.com/album/0uEa6UCsgqw0Fyu5lgznQz) | 3:11 |
+| 539 | [Apology](https://open.spotify.com/track/2wdAXsku85d1vbcd6Pp3u4) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Apology](https://open.spotify.com/album/0nXerWAPAYXOvN4ty5PjzJ) | 2:40 |
+| 540 | [Liar Liar](https://open.spotify.com/track/2IBdJeKUQJTaP5Ue4neDFr) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Classic Favoritism](https://open.spotify.com/album/3ZQfefsjENuhY1bi2CqPMd) | 2:41 |
+| 541 | [Tchéké](https://open.spotify.com/track/0kwudsrhzaxvk0OggRPwmm) | [Kento](https://open.spotify.com/artist/0vjUtQS6oymGeehfZsSaGJ) | [Tchéké](https://open.spotify.com/album/0iFlCXwIzB0JLCjrCGeJqK) | 2:28 |
 
-Snapshot ID: `AAAXOSccaQ3IluA1EELrevqpMc97MBzb`
+Snapshot ID: `AAAXPrwYoRwPWyqDT2DRzjxwkFxxmZFe`

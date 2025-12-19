@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-307 songs - 14 hr 45 min
+308 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Nebulune](https://open.spotify.com/track/53tFNiOsqvQRRYdI852x3z) | [Mahyar](https://open.spotify.com/artist/5bYzD2YaRwu1jMrnao3Yxv) | [Nebulune](https://open.spotify.com/album/5OOLdbAPZRQtGu5fqOPxw2) | 2:21 | 2025-10-15 |  |
 | [Neon Feathers](https://open.spotify.com/track/1DBPSOM91XvvQf9uEYUfmJ) | [Caspian Nerida](https://open.spotify.com/artist/27uIFFlt4Wxf4DLVJQXtcV) | [Neon Feathers](https://open.spotify.com/album/0OzS7lpvnM5Oi2Za4NBnpW) | 2:06 | 2025-05-28 |  |
 | [Nightswimming](https://open.spotify.com/track/7i93LXVxC6OnibqUY8DdpT) | [Sam Bucciana](https://open.spotify.com/artist/4A7ZW9rJIvRiyu3pgxQW1j) | [Nightswimming](https://open.spotify.com/album/6F7tYoC2zPzi0yt6bzX2ad) | 2:39 | 2023-11-24 | 2025-05-22 |
-| [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 | 2023-11-10 |  |
+| [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 | 2023-11-10 | 2025-12-19 |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2023-04-28 | 2023-07-29 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 | 2025-05-22 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
@@ -202,6 +202,7 @@
 | [Organesque](https://open.spotify.com/track/4W6xwzBgkkUiTHsFjXNipf) | [Mellow Bars](https://open.spotify.com/artist/6UzItV50i3CM9CxH6fwlwe) | [Organesque](https://open.spotify.com/album/3iBYE3TVsCrIKB69RfIZ7o) | 2:39 | 2023-04-28 | 2024-06-25 |
 | [Outward Flow](https://open.spotify.com/track/6CHszkJRDjseZZjlB2dGF5) | [Aimspherer](https://open.spotify.com/artist/0hSVd3Ut0dF3BO5fRiIMtq) | [Outward Flow](https://open.spotify.com/album/6l4VfxWo7vlBRIVR7xIXNh) | 2:34 | 2025-03-19 |  |
 | [Overflow](https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Overflow](https://open.spotify.com/album/5G6pitaST2lwtrcmYxXrst) | 2:36 | 2024-05-01 |  |
+| [Painted River](https://open.spotify.com/track/2lNgLRFY27jNay8yK2IMCa) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Painted River](https://open.spotify.com/album/2crvRMhXARBm1jEc7zKLAB) | 2:25 | 2025-12-17 |  |
 | [Peace of Rain](https://open.spotify.com/track/6HXjoSKqIGjTGPMXj2oj6I) | [Pouring Voices](https://open.spotify.com/artist/30L9uyNQWZupRq65bHZfSF) | [Peace of Rain](https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe) | 2:31 | 2025-05-06 |  |
 | [Peaceful Calmness](https://open.spotify.com/track/6RutZE4FLbhhYQEMcgDhwI) | [Matusi](https://open.spotify.com/artist/12flZad77ham3NKTUXIIXL) | [Peaceful Calmness](https://open.spotify.com/album/6rfgkrOyjd4LoSfSgchwrm) | 3:09 | 2023-04-28 | 2025-05-22 |
 | [Peaceful Morning](https://open.spotify.com/track/7DyF6UY3xiVmoLncNaCAtg) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Peaceful Morning](https://open.spotify.com/album/1VifjtiGpfZHpgVyeJM4y1) | 2:41 | 2025-10-02 |  |

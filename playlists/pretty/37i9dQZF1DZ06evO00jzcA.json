@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 484331,
+  "num_followers": 484338,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACIpODBdGgPTRjW09Z1Tyhw",
+  "snapshot_id": "aUHygAAAAABrQhHQVcU3X1mxGtqVBoaI",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 259079,
-      "name": "Rock 'N' Roll All Nite - Live",
-      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unmasked",
         "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 216866,
       "name": "Shandi",
       "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 259079,
+      "name": "Rock 'N' Roll All Nite - Live",
+      "url": "https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
-        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 366533,
-      "name": "I Still Love You - 2022 Remastered",
-      "url": "https://open.spotify.com/track/5InrTlQeClBr55lHREONCp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dressed To Kill (2025 Remaster)",
         "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 178669,
       "name": "C'mon And Love Me - 2025 Remaster",
       "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creatures Of The Night (40th Anniversary / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5jK7ZZGXUBfttfclUNUmnS"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 366533,
+      "name": "I Still Love You - 2022 Remastered",
+      "url": "https://open.spotify.com/track/5InrTlQeClBr55lHREONCp"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Nothin' To Lose",
-      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 282226,
       "name": "Magic Touch",
       "url": "https://open.spotify.com/track/3gAnPHRoANSRwp1gwv5p2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Nothin' To Lose",
+      "url": "https://open.spotify.com/track/4myXz1R4Mlz2vFUG8MfyJ9"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Hotter Than Hell",
-      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 267933,
       "name": "Dirty Livin'",
       "url": "https://open.spotify.com/track/159RwMV9yxgOBk0aXhs3sq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/7xYo3ytFiilO6bzf6Hr1Rt"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotter Than Hell",
-        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Parasite",
-      "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 149720,
       "name": "See You Tonight - Live",
       "url": "https://open.spotify.com/track/57zKsBEPheQbBBsNFs35Sy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotter Than Hell",
+        "url": "https://open.spotify.com/album/4n2ovJeGDVOP9SqcvaspxE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Parasite",
+      "url": "https://open.spotify.com/track/5RaXQF86U71nenpwo2yjdz"
     },
     {
       "added_at": null,

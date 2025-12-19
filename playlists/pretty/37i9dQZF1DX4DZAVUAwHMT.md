@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 ### [The Rock List](https://open.spotify.com/playlist/37i9dQZF1DX4DZAVUAwHMT)
 
-> The UK's biggest rock playlist\. Cover: Gretel
+> The UK's biggest rock playlist\. Cover: YONAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,087 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,035 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 2 | [Hit Me When I'm Sore](https://open.spotify.com/track/2MMYTFtU63AnpdNpFJsYKk) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Hit Me When I'm Sore](https://open.spotify.com/album/6Gcuv1YtFx4GR1NVuOZkrP) | 2:55 |
 | 3 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 |
 | 4 | [True Believer](https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [True Believer](https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62) | 4:34 |
-| 5 | [Get By Then Die](https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Get By Then Die](https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR) | 3:31 |
-| 6 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 5 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 6 | [Get By Then Die](https://open.spotify.com/track/3RjrQZqMvyvsnFHsV9JXlx) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Get By Then Die](https://open.spotify.com/album/6bAjeZOa0tKK4CdeH8a2NR) | 3:31 |
 | 7 | [Darkness, be my friend](https://open.spotify.com/track/7DJjr6ix7iKXyevtSCfYCD) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Darkness, be my friend](https://open.spotify.com/album/1ZQ8MvbrziIkVTnE4eMkc8) | 4:19 |
 | 8 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
 | 9 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
 | 10 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 |
-| 11 | [A Kiss From A Mother](https://open.spotify.com/track/24UTdotuXBQcdrW0f7ydmj) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [A Kiss From A Mother](https://open.spotify.com/album/47gyrUMenXnZtJyLC3E4YQ) | 3:33 |
-| 12 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
+| 11 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
+| 12 | [You Want The Truth](https://open.spotify.com/track/27tKLtVplK8dCBbyTEG55w) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [You Want The Truth](https://open.spotify.com/album/7KSyfl3IY5QzyVpfpP1xwk) | 2:41 |
 | 13 | [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 |
 | 14 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 |
 | 15 | [Well, Whatever It Was](https://open.spotify.com/track/6vnNJbgUbg8h0qkZO2FC4L) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Well, Whatever It Was](https://open.spotify.com/album/5EyWznLP7jy3ZIiu1kJu2Q) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Truth](https://open.spotify.com/track/3qO1aPC7smPGfQbjeoZ4JI) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Truth](https://open.spotify.com/album/4f3jEJKv6TbICkY6qpmuRT) | 3:12 |
 | 80 | [Doo Doo Doo Doo Doo](https://open.spotify.com/track/4EU5lWEahNC2sv6IhNGzkq) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Doo Doo Doo Doo Doo](https://open.spotify.com/album/3fJ4KUWT9PzqXfVqUrt9i2) | 3:18 |
 
-Snapshot ID: `AAAAAGAk7pMRpwp0hpLoJ0xMdZOeg5/W`
+Snapshot ID: `AAAAAMcZn+C8m2Gf06G6uewebhdXcxFd`

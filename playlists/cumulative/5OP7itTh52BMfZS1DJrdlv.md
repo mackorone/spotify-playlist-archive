@@ -4,7 +4,7 @@
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2025 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-199 songs - 10 hr 34 min
+200 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blue Christmas](https://open.spotify.com/track/0QUxMKYur7kAtauLnmyBCc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:41 | 2025-07-01 |  |
 | [California Christmas](https://open.spotify.com/track/4MrTVyoR7womFNRbHRcnVI) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [California Christmas](https://open.spotify.com/album/3GbA3XhIdDq3cKR3p4om85) | 3:01 | 2023-12-09 | 2025-07-02 |
 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 | 2025-07-01 |  |
+| [Carol of the Bells](https://open.spotify.com/track/75vSIO1nZtPcroF9H7lbp2) | [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [December](https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK) | 4:00 | 2025-12-18 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/66WPXyhXqMlkM1kZhyEXWK) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:07 | 2025-07-01 |  |
 | [Christmas \(Baby, Please Come Home\)](https://open.spotify.com/track/4SMc89QYZUfg9wHd2wV4fn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 2:43 | 2023-12-09 |  |
 | [Christmas Always Finds Me](https://open.spotify.com/track/3G0A9n2SumQRVlKZDdwwWN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:20 | 2023-12-09 | 2025-07-02 |
@@ -161,7 +162,7 @@
 | [Someday At Christmas](https://open.spotify.com/track/0OdTRhhGt8aq4UXh67CKQg) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Someday At Christmas \(Expanded Edition\)](https://open.spotify.com/album/5u5N49bmeRViCYzcDq3fsA) | 2:48 | 2025-07-01 | 2025-12-16 |
 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 | 2023-12-09 |  |
 | [Step into Christmas](https://open.spotify.com/track/2xY094hXsCMKC7tqUsTFzW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [X\-mas](https://open.spotify.com/album/28NRSDWFek3KRsEMb7AyAq) | 4:29 | 2023-12-09 | 2025-07-02 |
-| [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2025-07-01 |  |
+| [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(40th Anniversary Celebration / Super Deluxe\)](https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN) | 4:32 | 2025-07-01 | 2025-12-19 |
 | [Take Me Home For Christmas](https://open.spotify.com/track/7jTPldVF7Zt9KBQ94Mgr0M) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 3:23 | 2025-07-01 |  |
 | [Take Me Home For Christmas](https://open.spotify.com/track/72HP2M4jjw4t0AIGdEVGEF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Take Me Home For Christmas](https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh) | 3:23 | 2024-10-04 | 2025-07-02 |
 | [Tangled in Tinsel](https://open.spotify.com/track/7yAs6GOr6RKjfinavy167N) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 3:25 | 2023-12-09 | 2024-12-11 |

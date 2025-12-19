@@ -4,7 +4,7 @@
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-182 songs - 9 hr 1 min
+183 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [losing](https://open.spotify.com/track/3HwXUvdZXDxmvABSsxhGmO) | [Lonnex](https://open.spotify.com/artist/0IM0lwjzI0BYaayMweraKT) | [losing](https://open.spotify.com/album/5bZkGpktLdXvM7MnFf37qh) | 5:58 | 2025-08-15 |  |
 | [lost forever](https://open.spotify.com/track/62MN732LySzKPvusEHZNPC) | [hallow](https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa) | [lost forever](https://open.spotify.com/album/4PgBSesVgfYkC4pZ9dWtFT) | 1:58 | 2025-11-13 |  |
 | [Love Like You \(End Credits\) \- Karaoke Version](https://open.spotify.com/track/0BJsQsVEvpVRPjJ8WgodSm) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA) | [Steven Universe \(Karaoke\)](https://open.spotify.com/album/3ld2g6KxaeSIYh9sfU44t6) | 2:23 | 2025-07-04 |  |
+| [Luminary](https://open.spotify.com/track/6DEQrAxmm8myanLuFTtFqt) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/3RcfAgjmugUkGGoqVtkrjr) | 3:09 | 2025-12-18 |  |
 | [Luv \(sic\) Instrumentals](https://open.spotify.com/track/0kktHCDWaD777RCGHw6Alg) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Luv\(sic\) Hexalogy](https://open.spotify.com/album/4oT4YRVe43ESrT9rx2LKCM) | 4:46 | 2025-07-04 |  |
 | [Maestro](https://open.spotify.com/track/03ib2ZaOZzq6iAFuiDhSzp) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7y1RwreSQAXU6e8MYLo6F9) | 3:53 | 2025-12-03 |  |
 | [magic](https://open.spotify.com/track/2fJcCZXjaPx86LQymV6Ufu) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [MAE.SUN](https://open.spotify.com/artist/7J8tWZMxGDumku9QgEy8XR), [Sara Kawai](https://open.spotify.com/artist/1umhlU8WUwF8leg9QZtRqp) | [sounds](https://open.spotify.com/album/4sbmhTssarZtkJvycmd8Dn) | 5:56 | 2025-02-27 |  |
@@ -118,8 +119,8 @@
 | [Nocturne No\. 2 In E Flat, Op\. 9 No\. 2](https://open.spotify.com/track/503fwzlbWHx5g0CqlU9Giu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Chopin: Nocturnes](https://open.spotify.com/album/2aoSpTAjFaMvaZeruqnCVv) | 4:02 | 2025-07-04 | 2025-07-18 |
 | [Nocturne Op\. 9 No\. 2](https://open.spotify.com/track/61YM5SkqqeUjIBL7It56cs) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Bordas](https://open.spotify.com/artist/3dfj7lu33WXUMWOlFcybXM) | [JUST THE BEST MUSIC Vol\. 2 Solo Piano Relax Playlist](https://open.spotify.com/album/5aftlLJi5cmXRnPQjwUak2) | 5:02 | 2025-02-27 |  |
 | [Nop](https://open.spotify.com/track/0b6gTA89ImxLhoFoWRXJfT) | [Zephyr Lane](https://open.spotify.com/artist/6NAWcDftWRxzipfu6J1K3C) | [Nop](https://open.spotify.com/album/7M0jmOd782ZvcxoKcPn2c8) | 1:43 | 2025-09-23 |  |
-| [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 | 2025-03-14 |  |
-| [Obituary](https://open.spotify.com/track/4Fv5HOJjnzisDpIZBmTaH3) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The French Dispatch \(Original Score\)](https://open.spotify.com/album/5c7wx5wrravz5c8JcRp0G6) | 3:30 | 2025-03-07 |  |
+| [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 | 2025-03-14 | 2025-12-19 |
+| [Obituary](https://open.spotify.com/track/4Fv5HOJjnzisDpIZBmTaH3) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The French Dispatch \(Original Score\)](https://open.spotify.com/album/5c7wx5wrravz5c8JcRp0G6) | 3:30 | 2025-03-07 | 2025-12-19 |
 | [Ocean of Jazz](https://open.spotify.com/track/6U17u6EgNm131QJ5yuX80D) | [Siberia](https://open.spotify.com/artist/1cOSMLE3UQFPSBW0cOX0eb) | [Ocean of Jazz](https://open.spotify.com/album/3V0tevZU37bsgqQLvnB8s3) | 2:28 | 2025-02-27 |  |
 | [ominous](https://open.spotify.com/track/6R7ybPeMoS4zlwsUB00vxs) | [insensible](https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU) | [ominous](https://open.spotify.com/album/0iGffj1siVv2ZbnZsyuIYR) | 1:31 | 2025-11-13 |  |
 | [Out Getting Ribs](https://open.spotify.com/track/29RVgDaIL6YbihkzJxxi8B) | [Feeling Blew](https://open.spotify.com/artist/3lZVea5vMblL5FgiuWNeXD) | [Out Getting Ribs](https://open.spotify.com/album/3LwOSl1w1Q68IzH8vtS0mE) | 3:12 | 2025-02-27 | 2025-09-24 |
@@ -171,7 +172,7 @@
 | [The Lamp Is Low](https://open.spotify.com/track/4QzZVJc6qPTtTkPem7qZRo) | [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Classical Current](https://open.spotify.com/album/2KZIJx4RtZ1seAa6pa6ugl) | 2:50 | 2025-11-06 |  |
 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 | 2025-04-24 | 2025-07-04 |
 | [The Second Waltz, Op\. 99a](https://open.spotify.com/track/5W7NJWEW3mPzlePNrrn4Xb) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [André Rieu](https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC), [Johann Strauss Orchestra](https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT) | [Strauss & Co](https://open.spotify.com/album/1CTMKJTAlF2rrHKoKa15gF) | 3:40 | 2025-02-27 | 2025-09-24 |
-| [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 | 2025-02-27 |  |
+| [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 | 2025-02-27 | 2025-12-19 |
 | [The Wanderer](https://open.spotify.com/track/26cjmliC855cIjFo5flMcp) | [Nicholas Bamberger](https://open.spotify.com/artist/5TLTbfaEnLRIEcNADIUpjc) | [The Wanderer](https://open.spotify.com/album/4ISpbA9nnTRd3qJEUerPyo) | 3:39 | 2025-04-04 |  |
 | [think of me once in a while](https://open.spotify.com/track/3H4xAmr3Q1by42ZluX5Lmx) | [blaze](https://open.spotify.com/artist/2oAA82tTG4ftdzpmup4i3U) | [think of me once in a while](https://open.spotify.com/album/4qVYPLVB6o61y8yqe1cR3y) | 2:25 | 2025-09-23 |  |
 | [this feeling](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling](https://open.spotify.com/album/4pxgrlu74Sk31RrGRH8FjL) | 1:34 | 2025-03-14 |  |

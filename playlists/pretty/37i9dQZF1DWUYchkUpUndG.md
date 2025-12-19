@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,085 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,124 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 29 | [Izindela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 |
 | 30 | [All Of You](https://open.spotify.com/track/3kEGbeUJof1cM5pY9T9Fiw) | [Chidi Okpechi](https://open.spotify.com/artist/5byIdiEeR7bCTyd8FNLVmN), [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm) | [All Of You](https://open.spotify.com/album/3LI1zQcomEDXQ8zNzo3qX2) | 6:18 |
 | 31 | [All In \(Part 1\)](https://open.spotify.com/track/1GAydC1LYPDTbBVcV4EYRt) | [Shofarband](https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ), [Rikus Jonck](https://open.spotify.com/artist/6AUA67tZ4gm5QKeXZJTtUc) | [All In \(Part 1\)](https://open.spotify.com/album/366EJz9eQ8a87MIDRjDCNZ) | 3:31 |
-| 32 | [Covenant Keeping God \- Covenant Keeping God \(Acoustic Version](https://open.spotify.com/track/6RnMzQV6j343oC7F7jXJVf) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Covenant Keeping God \[Covenant Keeping God \(Acoustic Version\]](https://open.spotify.com/album/2Avt0dJO4EbhHvleA22fW8) | 9:46 |
+| 32 | [Covenant Keeping God \- \(Acoustic Version\)](https://open.spotify.com/track/6RnMzQV6j343oC7F7jXJVf) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Covenant Keeping God \(Acoustic Version\)](https://open.spotify.com/album/2Avt0dJO4EbhHvleA22fW8) | 9:46 |
 | 33 | [Nas Horas \- Cover](https://open.spotify.com/track/2C3f7upof3KuQYgV4uXlJ6) | [King Fred Paul](https://open.spotify.com/artist/1HcI99z6RGJeUjfCnArj0O) | [Nas Horas \(Cover\)](https://open.spotify.com/album/1Q0sN0yPT4ajsX6f5DDwzT) | 4:40 |
 | 34 | [Tamuno \- Unplugged](https://open.spotify.com/track/6rxJdeUpgvxbzhG5G5d8rM) | [JFC](https://open.spotify.com/artist/4FS9J6xRUe4WAT4JatliQB) | [ELOHIM \(UNPLUGGED\)](https://open.spotify.com/album/0OoChozBphYrAVU7KOhq2O) | 7:14 |
 | 35 | [No L \(A Street Christmas\)](https://open.spotify.com/track/5l68siBsnHQpoMKvIYwqae) | [Street Church Music](https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv), [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [No L \(A Street Christmas\)](https://open.spotify.com/album/25ltfpUiNxClLXaSqtSA2j) | 2:34 |

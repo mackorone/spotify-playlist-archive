@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-285 songs - 15 hr 37 min
+286 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,5 +293,6 @@
 | [Yellow Bike](https://open.spotify.com/track/7hfrRIQmymC8Otmm27BQdY) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [Yellow Bike](https://open.spotify.com/album/5VIIDEGuRGBQ7Riy3sfATF) | 3:53 | 2021-11-12 | 2022-07-28 |
 | [You Bring the Snow](https://open.spotify.com/track/6tYnZCezrIuV6iCFHt8huM) | [The Crookes](https://open.spotify.com/artist/04weGKj3nAChyEmS9RFF5y) | [You Bring the Snow](https://open.spotify.com/album/3fWksQPLeLUABfbKo9Yeea) | 3:49 | 2021-11-12 | 2022-07-26 |
 | [You Won't Love Me by Christmas](https://open.spotify.com/track/52vkZq7gw5OHzlH1u0egjN) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [You Won't Love Me by Christmas](https://open.spotify.com/album/6BKuGp6971tKGYZMRGDo2H) | 3:22 | 2021-11-12 | 2022-07-27 |
+| [Yuletide Moon](https://open.spotify.com/track/3lpNBxNbkzIsxD5zeo9OFX) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [B.Y.O.B\. \(It's Christmas Time\)](https://open.spotify.com/album/3ybajFcm026n3NKmN5vACC) | 4:11 | 2025-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

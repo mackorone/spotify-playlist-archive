@@ -637,6 +637,24 @@
     },
     {
       "album": {
+        "name": "Brighton Beach",
+        "url": "https://open.spotify.com/album/1kov0KbGPkhNMyDuE6gH9Z"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Brighton Beach",
+      "url": "https://open.spotify.com/track/4UMtmH4uu5nWW56YJ6FXXv"
+    },
+    {
+      "album": {
         "name": "Buut Vrij",
         "url": "https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 190059,
       "name": "Doe Het Voor Het Geld",
       "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 219130,
       "name": "Drijfzand",
       "url": "https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo"
@@ -2052,6 +2070,24 @@
       "duration_ms": 241833,
       "name": "Ik Weet Het",
       "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
+    },
+    {
+      "album": {
+        "name": "Ik Weet Hoe Het Werkt",
+        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
+      },
+      "artists": [
+        {
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141051,
+      "name": "Ik Weet Hoe Het Werkt",
+      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
     },
     {
       "album": {
@@ -4694,7 +4730,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166663,
       "name": "WijTwee",
       "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
@@ -4846,6 +4882,24 @@
       "duration_ms": 203229,
       "name": "Zachte Landing",
       "url": "https://open.spotify.com/track/2NsGqzU5IYKu0JHs3WGDbP"
+    },
+    {
+      "album": {
+        "name": "Zachter",
+        "url": "https://open.spotify.com/album/74Ykd7VHFyzI5b3rNeautA"
+      },
+      "artists": [
+        {
+          "name": "Chibi Ichigo",
+          "url": "https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Zachter",
+      "url": "https://open.spotify.com/track/35L5RWfwYaoE1KEP8QWzRZ"
     },
     {
       "album": {

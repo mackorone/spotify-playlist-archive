@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-829 songs - 1 day 17 hr 30 min
+831 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Dumb Ways to Die](https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI) | [Tangerine Kitty](https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T) | [Dumb Ways to Die](https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6) | 3:00 | 2023-03-06 | 2023-04-19 |
 | [Durf Niet](https://open.spotify.com/track/04AqyNAI5Sddba51EWhqiE) | [Wesley & Lynn](https://open.spotify.com/artist/6sK2fAn86mDi6GhhWLUwk9), [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Durf Niet](https://open.spotify.com/album/1mH39i9NW0c1vnsi6CO3zC) | 2:18 | 2023-11-29 | 2023-12-30 |
 | [Dyscalculie](https://open.spotify.com/track/0LNT7X2PU2gg8vpMZHC37n) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Dyscalculie](https://open.spotify.com/album/1hJBIeaY6hODwbYq0Zwsnk) | 1:33 | 2023-03-06 | 2023-07-11 |
+| [Désenchantée](https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Different](https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9) | 3:38 | 2025-12-18 |  |
 | [Easy To Love](https://open.spotify.com/track/36fFojPImg5YSuktc7ph3j) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Easy To Love](https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s) | 2:31 | 2023-02-23 | 2023-03-28 |
 | [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 | 2024-12-18 | 2025-10-03 |
 | [Echte Liefde](https://open.spotify.com/track/6F6S3TLKWLCedkJhrUFQ2k) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Echte liefde](https://open.spotify.com/album/2Jbcfc2CLMC0KPa6m0h7fd) | 3:32 | 2024-11-21 | 2025-06-21 |
@@ -372,6 +373,7 @@
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-28 | 2024-06-04 |
 | [Jump Around](https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph) | 3:34 | 2023-04-14 | 2023-07-05 |
 | [Just Dance](https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV) | 4:01 | 2023-02-23 | 2023-03-28 |
+| [Just Like You](https://open.spotify.com/track/09cjEC5G4aH7X4Tisy3KYf) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [The Road To Redemption](https://open.spotify.com/album/4buZv9dlk5dKyUWYUYzMLf) | 3:33 | 2025-12-18 |  |
 | [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 | 2024-09-26 | 2024-10-15 |
 | [Kakkerlak Met Nagellak](https://open.spotify.com/track/0drZWSUbgDvb7vS9cnNhOU) | [Michella Kox](https://open.spotify.com/artist/4XWSfTxs3oLrtq2yqpmcHU) | [Kakkerlak Met Nagellak](https://open.spotify.com/album/6hmC6NuXWwQjdQYtY4PmLf) | 1:55 | 2023-04-29 | 2023-09-01 |
 | [Kantelen](https://open.spotify.com/track/2GqpwS04aT8rKKHhEIRjgj) | [Feestteam](https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA) | [Kantelen](https://open.spotify.com/album/3prvI8myzqSV6wQCIyL06g) | 2:53 | 2024-11-11 | 2025-03-28 |

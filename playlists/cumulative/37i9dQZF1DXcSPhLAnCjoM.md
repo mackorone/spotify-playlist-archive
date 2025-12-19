@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ailleurs" d'Orelsan est le Grand Hit de la semaine
+> "Tout a changé \(Rien n'a changé\)" d'Helena est le Grand Hit de la semaine.
 
-302 songs - 15 hr 30 min
+303 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2024-11-14 | 2025-06-27 |
 | [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-06-05 |  |
 | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Comme des loups \(feat\. Zaoui\)](https://open.spotify.com/album/7JS49BrlvgRrcCXPEPeICC) | 3:22 | 2024-12-05 | 2025-06-27 |
+| [Comme toutes les filles](https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Comme toutes les filles](https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B) | 2:47 | 2025-12-18 |  |
 | [Comment on fait](https://open.spotify.com/track/4eFnW6X1iXgyEDg90HWEVj) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Comment on fait](https://open.spotify.com/album/6fx6DbXhISVfj2T3mySNmS) | 3:00 | 2023-09-28 | 2024-04-26 |
 | [Comment on s'aime](https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo) | [SOR4](https://open.spotify.com/artist/03XsGQcpz4qlzyW3X2Jsln) | [SOR4](https://open.spotify.com/album/4pcikVhgrWGgy7bQSyS6Us) | 2:47 | 2024-10-03 | 2024-10-25 |
 | [Comment tu fais ça ?](https://open.spotify.com/track/7zDcBYvKt0xN33bNY7OOyX) | [Eko Eko](https://open.spotify.com/artist/3cxkXrcBFcbFgTmrvG6rOY) | [Comment tu fais ça ?](https://open.spotify.com/album/4uenXkbXhN2VCgvkp2uoOo) | 3:01 | 2024-09-05 | 2025-01-10 |
@@ -145,7 +146,7 @@
 | [J’ai changé](https://open.spotify.com/track/3JhTQzJSjTbpJ6Lfttx3Jy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 3:07 | 2025-01-30 | 2025-07-18 |
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-09-28 | 2024-01-26 |
 | [L'amour](https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [L'amour](https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ) | 3:11 | 2025-07-03 | 2025-10-03 |
-| [L'amour fou](https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 4:47 | 2025-05-08 |  |
+| [L'amour fou](https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [L'amour fou](https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV) | 4:47 | 2025-05-08 | 2025-12-19 |
 | [L'espoir](https://open.spotify.com/track/3IK8PYgz005T6Dr0GLM8Tk) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [L'espoir](https://open.spotify.com/album/2dOzojnn941b4TB06Epdjh) | 3:02 | 2023-12-07 | 2024-03-01 |
 | [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 | 2025-09-25 |  |
 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 | 2024-11-07 | 2025-01-24 |

@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-450 songs - 23 hr 28 min
+454 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [FAKEDOPEBOYZ](https://open.spotify.com/track/4fwLZjos1dAMnG64giaSmh) | [Vanny Preem](https://open.spotify.com/artist/7hpiSgYV0dRlLAfgYQcdJc), [Hardknocks ENT](https://open.spotify.com/artist/2JN33dKvtqTIYXeFxTSIjC), [SlimYungMan](https://open.spotify.com/artist/3QaQq3u2X0mPYRitrYYaZ1) | [RAW@WAR EP](https://open.spotify.com/album/3p3oAXYY0DaFHdTDJrNzc0) | 3:22 | 2025-11-14 |  |
 | [Fall Out Of Love](https://open.spotify.com/track/18zswD6b04CXw6UgOBeK4j) | [Junior Pitt](https://open.spotify.com/artist/3dS7hjv6EJtZ122qSzkX7E) | [Fall out of love](https://open.spotify.com/album/42jOto0R9n87lkNdTRl9Sg) | 2:56 | 2025-11-04 |  |
 | [Fantasy](https://open.spotify.com/track/4KIcjICZDgeRmLtJ37Ezyu) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Seeko](https://open.spotify.com/artist/6CE5ddAC32B4XKW6y0bbR3), [Danii Dee](https://open.spotify.com/artist/26hHacionHpjqCqFj8DX43) | [Fantasy](https://open.spotify.com/album/6pOTUKyF8Tvv2FHhJBkPUL) | 2:11 | 2025-11-28 |  |
+| [Far out](https://open.spotify.com/track/3dV38XdBLKwXLwN1eNUAAi) | [Lëe Brœwn](https://open.spotify.com/artist/4mfih3bhrx972PCx2Jug9T) | [Far out](https://open.spotify.com/album/0uEa6UCsgqw0Fyu5lgznQz) | 3:11 | 2025-12-18 |  |
 | [FATTI SENT!RE](https://open.spotify.com/track/6tGI2UefueT9Ozh6sXAUGd) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m) | [FATTI SENT!RE](https://open.spotify.com/album/43EQlztHvrFkN2Yu5Rre9C) | 2:44 | 2025-09-23 |  |
 | [Feel It All](https://open.spotify.com/track/3N7gg7XImFXdYWrXmCCLco) | [Jeremy Voltz](https://open.spotify.com/artist/1Zu7L8siS7ugY35pTS6Wgw) | [Feel It All](https://open.spotify.com/album/4pQAtTSmCMEe7yYblXY5qN) | 2:38 | 2025-12-07 |  |
 | [Feel Me](https://open.spotify.com/track/3Zs2inBgCajD2zzJ8w6Kvp) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Feel Me](https://open.spotify.com/album/7MX1LQul8Ft3xJkvhVcbhk) | 2:46 | 2025-09-29 |  |
@@ -187,6 +188,7 @@
 | [Inner Demons](https://open.spotify.com/track/316FMtlbTH6unbcv6padDZ) | [Dr Souc](https://open.spotify.com/artist/0qTbPOyOrc8TV03OFGjtQz), [Tim Soucy](https://open.spotify.com/artist/6fSvixjQmpfsf0nKFA4MNa) | [Inner Demons](https://open.spotify.com/album/3Dv8WBBDH3q4m017oyStt0) | 3:52 | 2025-07-04 |  |
 | [Innit ?](https://open.spotify.com/track/1IkHgUGP0jiXoqyZJJzFgr) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 2:24 | 2025-11-26 |  |
 | [Insurance](https://open.spotify.com/track/563W6laLtyW89azkoDcc03) | [Cas the Don](https://open.spotify.com/artist/1JNjn97PrqeLES2F563KvE) | [Insurance](https://open.spotify.com/album/5rSZraCRTAPfYwG30PzD9q) | 2:21 | 2025-11-26 |  |
+| [Invisible](https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/35LwtfCOsUxMdNuhzwfkcm) | 2:09 | 2025-12-18 |  |
 | [ITJIMA](https://open.spotify.com/track/7FEVKLe6hixv05aUDhD6Cj) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt), [NINEXCIX](https://open.spotify.com/artist/5nWUC0GyzOy79S9D7Tp02S), [Dasloe](https://open.spotify.com/artist/6Z5WM8PzEbNN9YO4RFSDtu), [Jake $ing](https://open.spotify.com/artist/4zxsSHjSmxOI7v2bgUsEaG) | [ITJIMA](https://open.spotify.com/album/1rxKUH8XlYd70VtAqlBjOr) | 3:31 | 2025-11-26 |  |
 | [Jackpot](https://open.spotify.com/track/5oJksqLi72IqS72d8kwLtU) | [P.A\. On The Track](https://open.spotify.com/artist/0QpYnPfUGm1TvrOkeCBes6), [Will M](https://open.spotify.com/artist/3hMCUnDppex7GllSLE8O9F) | [Only Built 4 Good Crack](https://open.spotify.com/album/3BHaNyUzRI3w7enRkN4R4N) | 2:24 | 2025-09-11 |  |
 | [Jagunjagun \(Warrior\)](https://open.spotify.com/track/4fQ8fmlhvUQNLJmJ8okdLr) | [6Mvne](https://open.spotify.com/artist/1Zqyv1CCkwFbikmE2ufT5i) | [Jagunjagun \(Warrior\)](https://open.spotify.com/album/5lVp9BeQc4MEPnGVkbWbDh) | 3:41 | 2025-10-20 |  |
@@ -204,6 +206,7 @@
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-01 |  |
 | [Lego My Ego](https://open.spotify.com/track/7EC1JLBZKZQbH2lI129miK) | [CMAGIC5](https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs) | [Lego My Ego](https://open.spotify.com/album/3cNxRW592XiITYII9zOUjl) | 2:47 | 2025-10-19 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-09-28 |  |
+| [Liar Liar](https://open.spotify.com/track/2IBdJeKUQJTaP5Ue4neDFr) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Classic Favoritism](https://open.spotify.com/album/3ZQfefsjENuhY1bi2CqPMd) | 2:41 | 2025-12-18 |  |
 | [Life is a Journey](https://open.spotify.com/track/2udbl0QMiH2NPzceOdiHEo) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [Life is a Journey](https://open.spotify.com/album/0qYe4V71N1IwWzAs3Ol3c6) | 5:09 | 2025-10-06 |  |
 | [lifestyle.](https://open.spotify.com/track/4Yo1dbKel1RMMcDmUpk4Sd) | [K\-Stac](https://open.spotify.com/artist/1qOR8MVcs7UNWq84b1xG3u) | [lifestyle.](https://open.spotify.com/album/0mflKe6HsDiftd8BG94I4k) | 3:35 | 2025-10-06 |  |
 | [Lights](https://open.spotify.com/track/5bBatXX9xlLABYM9EhcwFS) | [Soulong](https://open.spotify.com/artist/5rNBgsvp7XtmT7RQklUaRK) | [Ultraviolet Frequency](https://open.spotify.com/album/3y25krvZSCuDsSPrMSryvN) | 2:54 | 2025-11-06 |  |
@@ -367,6 +370,7 @@
 | [Take It Easy](https://open.spotify.com/track/0l1s4gJZvUSnKRh84xI8UN) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Take It Easy](https://open.spotify.com/album/4Rxd9wfk4KYycakiVTXCPC) | 3:30 | 2025-12-11 |  |
 | [Take the Throne \(Feat\. Felicia Catharina\)](https://open.spotify.com/track/6Kcd25CmbGI6uzByZTeIBY) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89), [Felicia Catharina](https://open.spotify.com/artist/5m1dG8dxCoesHy9PC4nkkO) | [Take the Throne \(Feat\. Felicia Catharina\)](https://open.spotify.com/album/3TA3wnACTCtuJvVvQC9nNG) | 3:03 | 2025-11-06 |  |
 | [TANZEN](https://open.spotify.com/track/4p5TQ7TeOHqI6SraxIf8OA) | [Ramona Nerra](https://open.spotify.com/artist/6vEzUYOH1pUicoLksaR8JH) | [TANZEN](https://open.spotify.com/album/4jd6LKkIntNG5iCuUfDBfa) | 2:31 | 2025-10-06 |  |
+| [Tchéké](https://open.spotify.com/track/0kwudsrhzaxvk0OggRPwmm) | [Kento](https://open.spotify.com/artist/0vjUtQS6oymGeehfZsSaGJ) | [Tchéké](https://open.spotify.com/album/0iFlCXwIzB0JLCjrCGeJqK) | 2:28 | 2025-12-18 |  |
 | [Telegram Chat](https://open.spotify.com/track/20euYX7Uf7JkozfDKmN9OJ) | [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Telegram Chat](https://open.spotify.com/album/6lPTufKRqalFjyjPT5XTJG) | 3:05 | 2025-10-23 |  |
 | [Telling Stories](https://open.spotify.com/track/29U3cuM4D5Df4DoZSIMFZU) | [Sodo](https://open.spotify.com/artist/152tgmO2zynGs1j65Tn2L0) | [Telling Stories](https://open.spotify.com/album/2ZPOInsnsjZSsCx9wVhIBA) | 4:44 | 2025-09-17 |  |
 | [Terceiro Olho](https://open.spotify.com/track/31NUoMH7ey9Tssl490bBMD) | [Malukos por Justiça \(MPJ\)](https://open.spotify.com/artist/0fbMHYed7mPuYCZzR6ExrT) | [Terceiro Olho](https://open.spotify.com/album/1XRyOGqWEBHbwzh5odDImt) | 2:47 | 2025-07-28 |  |

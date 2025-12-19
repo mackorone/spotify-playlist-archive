@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 60144,
+  "num_followers": 60156,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAADBWez0GbYiYTX7X97FNrhV",
+  "snapshot_id": "aUHygAAAAAD+g2nXMq9wlmGZkVU1Wfew",
   "tracks": [
     {
       "added_at": null,
@@ -486,11 +486,15 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 133226,
-      "name": "Been Smoking Too Long",
-      "url": "https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R"
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
     },
     {
       "added_at": null,
@@ -550,15 +554,11 @@
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Gabrielle Drake",
-          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 115960,
-      "name": "All My Trials",
-      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
+      "duration_ms": 133226,
+      "name": "Been Smoking Too Long",
+      "url": "https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R"
     },
     {
       "added_at": null,

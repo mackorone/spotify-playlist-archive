@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-225 songs - 13 hr 8 min
+226 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Buenas Vibras](https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7) | [Germán Barceló](https://open.spotify.com/artist/0TqIqqSqiZQaWUZaoGGHVJ) | [Buenas Vibras](https://open.spotify.com/album/3drBEOSydxW1BOBC2ISWf9) | 3:08 | 2025-09-14 |  |
 | [BUENO](https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Isaani Martínez](https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk) | [BUENO](https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG) | 2:48 | 2024-07-05 |  |
 | [Bueno](https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Bueno](https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3) | 2:55 | 2024-12-11 |  |
-| [Bueno es Dios \- Live](https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Bueno & Fiel](https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr) | 5:03 | 2025-12-12 |  |
+| [Bueno es Dios \- Live](https://open.spotify.com/track/3Gce2rJuaDZ70bGWPmiJp2) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Bueno & Fiel](https://open.spotify.com/album/1ip9NP4YfTp3tu8AnPmHNr) | 5:03 | 2025-12-12 | 2025-12-19 |
 | [CABLES CRUZADOS](https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 2:51 | 2025-02-28 | 2025-03-29 |
 | [CALMA](https://open.spotify.com/track/0ViCt3vmm2CAxI2VaOMafa) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [CALMA](https://open.spotify.com/album/21gKiglkiX3VY4PjHrKd0h) | 2:49 | 2025-09-14 |  |
 | [Cambiaste Mi Corazón](https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [¿Quién Contra Nosotros?](https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4) | 3:49 | 2020-09-18 | 2024-07-05 |
@@ -205,6 +205,7 @@
 | [Soy Soldado](https://open.spotify.com/track/43NlLkmUO6uW0034qTLvWl) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Soldados](https://open.spotify.com/album/408HP6kZX2afGve443MAyu) | 3:16 | 2024-08-23 | 2024-09-07 |
 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 | 2020-09-18 | 2025-09-15 |
 | [Subiendo](https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Envero](https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13) | 3:39 | 2024-12-11 |  |
+| [Suficiente](https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP) | [Eiem](https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i) | [Suficiente](https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl) | 2:38 | 2025-12-12 |  |
 | [Te Amo](https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Te Amo](https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp) | 3:58 | 2024-07-05 |  |
 | [TE ENCONTRE](https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w) | [Lilo Music](https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd) | [SEÑALES](https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC) | 2:15 | 2025-09-14 |  |
 | [TE QUIERO A MI LAU <3](https://open.spotify.com/track/633xpklRiB5wdid6tmzBdQ) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [TE QUIERO A MI LAU <3](https://open.spotify.com/album/77AGAXhsDQPkj37PypBlne) | 3:24 | 2025-09-14 |  |

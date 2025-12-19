@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: JUD \(陳泳希\)
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Jennifer \(席子淇\)
 
-581 songs - 1 day 11 hr 28 min
+585 songs - 1 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [8](https://open.spotify.com/track/0dnfXRsJnFuXeJYG9VN6HM) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [8](https://open.spotify.com/album/6tqyME7u86O6OtcEyS2mMk) | 2:11 | 2025-02-27 | 2025-03-21 |
 | [8](https://open.spotify.com/track/3qaAPeoJaCBKa1Q2bVAeQv) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [8](https://open.spotify.com/album/1SzTiFIav6xOwaojuMNJtL) | 2:11 | 2025-09-04 | 2025-09-26 |
 | [8ODY](https://open.spotify.com/track/2Tb1mEBJMyk8lPhxPLaAz4) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [BADA88](https://open.spotify.com/album/74Px0LUajMaYGW3FAKPJkr) | 2:37 | 2024-06-13 | 2024-07-01 |
+| [909](https://open.spotify.com/track/4blm8SZYdA6kHAQyS4AUaa) | [席子淇 Jennifer](https://open.spotify.com/artist/6MJgyTnNnqy1cfqUfAboft), [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [909](https://open.spotify.com/album/0sbRrXUzh1clPYNl5kzrPw) | 2:01 | 2025-12-18 |  |
 | [94在靠杯](https://open.spotify.com/track/1KTIjCV8N4ozMaP30WK2eD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [94在靠杯](https://open.spotify.com/album/0MHpDBlkQmraKJ64yyjtWj) | 4:14 | 2024-02-29 | 2024-03-15 |
 | [99](https://open.spotify.com/track/0TEZhoK0jSuJRxaXqWHZyZ) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI) | 4:46 | 2024-10-24 | 2024-11-29 |
 | [99 chocolate](https://open.spotify.com/track/0C4F3PRqJv5sNQnRl4vq5q) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV) | [99 chocolate](https://open.spotify.com/album/7HfbS848JHu1J1KbiOFNjv) | 2:27 | 2024-06-30 | 2024-08-23 |
@@ -82,11 +83,13 @@
 | [comet](https://open.spotify.com/track/2lpTOVFBkhdAJV9wNRxWks) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [comet](https://open.spotify.com/album/6cjbyBdq6V6ZIvzqvUxy8b) | 2:35 | 2024-11-14 |  |
 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 | 2024-02-15 | 2024-04-26 |
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-03-14 |  |
+| [Crazy Tonight](https://open.spotify.com/track/4hNKihixRt0k0Q8HSbbx6f) | [安娜・李 \(Anna Lee\)](https://open.spotify.com/artist/5DbCgOJaM8YMlp5TV3ad6S) | [Crazy Tonight](https://open.spotify.com/album/35Me1xSdDKAPN8r1zO1zJZ) | 3:16 | 2025-12-18 |  |
 | [Creme de la Creme](https://open.spotify.com/track/7gbOebuXR0Rvdtgpr75RfY) | [OHAN](https://open.spotify.com/artist/4Z5HJS9e9zr2DWHaNGMJX4) | [REBIRTH](https://open.spotify.com/album/7BCChSiFVssPr8ZLtwIZBk) | 4:56 | 2024-12-26 | 2025-01-17 |
 | [Cult Film Club](https://open.spotify.com/track/13LmtdvULXYBy9q6fYthvt) | [傻子與白痴](https://open.spotify.com/artist/4rk0xYl7t3XftIQQedJjK4) | [姿態](https://open.spotify.com/album/7qV4doZ5ML6hqwxalH0VHF) | 4:05 | 2024-01-25 | 2024-04-26 |
 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 | 2024-10-03 | 2025-04-25 |
 | [Dancing In the Rain \- Wendy Wander Remake](https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Dancing In the Rain \(Wendy Wander Remake\)](https://open.spotify.com/album/0vORYLctd05d89nCUuwVJ2) | 4:06 | 2024-10-10 | 2024-10-18 |
 | [Dating Me Ain't Hard](https://open.spotify.com/track/29EPMooH1QgiHLd3123r4x) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Dating Me Ain't Hard](https://open.spotify.com/album/5V6Rbmaey2po7jJfZztNuN) | 3:43 | 2025-02-27 | 2025-03-21 |
+| [Day Off](https://open.spotify.com/track/6KEaGtszJ2T4c1OTcLQXx5) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [](https://open.spotify.com/album/null) | 2:43 | 2025-12-18 |  |
 | [Dirty Work \- RayRay Remix](https://open.spotify.com/track/5CSn4WlKlijWEpMO73lQN0) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Dirty Work \(Remixes\)](https://open.spotify.com/album/4DHRX1aeRymfsbHLebmn0D) | 3:21 | 2025-07-03 | 2025-07-25 |
 | [DISEASE](https://open.spotify.com/track/3iWYMsT2kwGv7fVzjtGgjY) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [DISEASE](https://open.spotify.com/album/48muWPXD65T8ExoCG4UVAp) | 4:22 | 2024-09-19 |  |
 | [Disneyland](https://open.spotify.com/track/6fVMbf2gHADlE4rstGL1O9) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [The Make](https://open.spotify.com/album/4LSYpyfRTAszuh1cQ69jvr) | 4:38 | 2024-08-01 | 2024-08-23 |
@@ -589,5 +592,6 @@
 | [風車](https://open.spotify.com/track/0ZiNtNiV04hQ9UlNISOCT2) | [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [柒](https://open.spotify.com/album/4rWEQe8cu1js9WwxPLotWY) | 3:14 | 2024-06-13 | 2024-07-01 |
 | [鬧三仙 Dance Party of Gods](https://open.spotify.com/track/2IbH37o8dEYZCqF9lLJIQI) | [A Root 同根生](https://open.spotify.com/artist/4GNkB3y24Z3AV8itXAUGxE) | [同根生 Rooty Mental](https://open.spotify.com/album/2mwRmroCFRqBUqTJFm7wv5) | 4:43 | 2025-09-04 | 2025-09-15 |
 | [黑暗之中閉上眼](https://open.spotify.com/track/3ZrM3VPO2azJJqirwg8aJj) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [鳥鳥鳥 Bird and Reflections](https://open.spotify.com/album/73G2RLl0fHOu8k3ZFPX796) | 2:45 | 2025-09-04 | 2025-09-26 |
+| [어쩌면 너도 \(影集《整形過後》插曲\)](https://open.spotify.com/track/47VowcJURCKJpoiE7eBmBO) | [洪暐哲WAJI](https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O) | [어쩌면 너도 \(影集《整形過後》插曲\)](https://open.spotify.com/album/42DLIotmEHQUORLAAWCWjQ) | 3:39 | 2025-12-18 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

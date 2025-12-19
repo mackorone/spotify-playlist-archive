@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 0 min
+175 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Side Of My Heart](https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side Of My Heart](https://open.spotify.com/album/23EzioEmU2OX3sZOi6YgJb) | 3:13 | 2022-05-29 | 2023-06-11 |
 | [Side of My Heart](https://open.spotify.com/track/4TyHsq64NdNohtPyV4ZtUD) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side of My Heart](https://open.spotify.com/album/3RLtuIWyS3J1I7StTvBDBc) | 3:13 | 2023-06-10 |  |
 | [Sippin' pretty](https://open.spotify.com/track/0H4k2YNNkeXo4XbknO7ZCQ) | [Foxx Worthee](https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx) | [Sippin' pretty](https://open.spotify.com/album/4MqNpKqF8kckeQTgkcT04X) | 3:10 | 2025-07-24 | 2025-12-05 |
+| [Sippin' Pretty](https://open.spotify.com/track/5g8Pl87A83zwUNERnANa9d) | [Foxx Worthee](https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx) | [Sippin' Pretty](https://open.spotify.com/album/5Eg90CtsejtELTiBg4sCjA) | 3:10 | 2025-12-18 |  |
 | [Somebody Cares](https://open.spotify.com/track/4sidaSzSofX1IBxlKLnWW8) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 2:46 | 2023-12-13 | 2025-08-28 |
 | [Somebody Else's Somebody](https://open.spotify.com/track/2kI1DffKDMBuq5R0MTI2S6) | [ALISSA GRIFFITH](https://open.spotify.com/artist/4sH2uBwia6cdHvnvdsA1jX) | [Somebody Else's Somebody](https://open.spotify.com/album/0EEFDFAx0cFS7zV5WGhTdk) | 3:05 | 2022-05-29 |  |
 | [Someone Else's Heartbreak](https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:35 | 2024-01-14 |  |

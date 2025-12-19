@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-482 songs - 1 day 18 hr 49 min
+483 songs - 1 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,6 +445,7 @@
 | [This Red Sky](https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8) | [Coma Rossi](https://open.spotify.com/artist/5IxE24msVbzRsG6cDxg7KA) | [Void](https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc) | 8:51 | 2024-09-06 |  |
 | [Thorns](https://open.spotify.com/track/7KBaLm8c7yiPTkVCLbYHAN) | [Lilly Legit](https://open.spotify.com/artist/6fjp5A7R2M5xDQm47bi2UO) | [Thorns](https://open.spotify.com/album/0H8dlO9iQ8uAElGuExdeq4) | 4:33 | 2024-12-27 | 2025-05-10 |
 | [Tightrope](https://open.spotify.com/track/56X96FF5Z4GkA269Gn7wGD) | [Tiles](https://open.spotify.com/artist/6yMiXmPJYL5192HSsKVNNb) | [Tightrope](https://open.spotify.com/album/710dhYTLq50hAYZN1Kavab) | 3:55 | 2024-09-08 | 2024-10-19 |
+| [Time Has Come](https://open.spotify.com/track/1XkKPzXnrn1K7jK2V9rT3p) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u) | [Time Has Come](https://open.spotify.com/album/7qq3FvBEjw5ZPgYLmXiBPP) | 4:35 | 2025-12-18 |  |
 | [Titian](https://open.spotify.com/track/5HswInmXBZO675KkSymocx) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Titian](https://open.spotify.com/album/0pZdmmaW2lSaNrH01SlNCV) | 7:39 | 2025-04-25 | 2025-05-16 |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2025-10-10 |  |
 | [Top Down Foot Down \- Live](https://open.spotify.com/track/65XtVjvAjf27yluTmaRzrg) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Top Down Foot Down \(Live\)](https://open.spotify.com/album/7meCfXCtrfaGlq5TJdAKfH) | 1:40 | 2025-02-14 | 2025-03-01 |
@@ -468,7 +469,7 @@
 | [Wanderlust](https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Wanderlust](https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt) | 4:23 | 2024-10-25 | 2024-11-30 |
 | [Wasted Land \- Revisited](https://open.spotify.com/track/7wPfkNPrCeNpFohwXXAzU2) | [RPWL](https://open.spotify.com/artist/6W3jf0DMjNFxW2uyeGzOhJ) | [World Through My Eyes \(Revisited\)](https://open.spotify.com/album/501d5Kkd3NB6pZYbXXlUcA) | 4:59 | 2025-08-15 | 2025-08-23 |
 | [We are Strangers](https://open.spotify.com/track/0NKfti0d1HCO51viIBU705) | [Gazpacho](https://open.spotify.com/artist/1Joel9mDWSEZfHPE2KooW3) | [Magic 8\-Ball](https://open.spotify.com/album/73KceRCbGBc1RdmYCQy4uv) | 4:46 | 2025-12-12 |  |
-| [We Are Strangers](https://open.spotify.com/track/4FgwIKyMlMdl9heil6lN1n) | [Gazpacho](https://open.spotify.com/artist/1Joel9mDWSEZfHPE2KooW3) | [We Are Strangers](https://open.spotify.com/album/0HRqD6cl1l53YoRtqQJzBP) | 4:46 | 2025-10-17 |  |
+| [We Are Strangers](https://open.spotify.com/track/4FgwIKyMlMdl9heil6lN1n) | [Gazpacho](https://open.spotify.com/artist/1Joel9mDWSEZfHPE2KooW3) | [We Are Strangers](https://open.spotify.com/album/0HRqD6cl1l53YoRtqQJzBP) | 4:46 | 2025-10-17 | 2025-12-19 |
 | [We Who Lament](https://open.spotify.com/track/1QOh6wDKZqUXISc3UKLtEP) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg), [Keturah](https://open.spotify.com/artist/7rGrW6Gs43zOpEmPAFl3jp) | [Pattern Of Rebirth](https://open.spotify.com/album/74lRZTMzPU5XHk6CNEyGF9) | 8:44 | 2024-09-06 | 2024-10-12 |
 | [We Will Not Disband](https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Friend Of A Phantom](https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX) | 4:25 | 2024-11-01 | 2025-02-15 |
 | [We'll Never Know \(feat\. Floor Jansen\) \- No Narration](https://open.spotify.com/track/0PqrRIOVpPBt8jNGHBE6Sq) | [Arjen Anthony Lucassen](https://open.spotify.com/artist/0EB6qOap6h8OJSEswOv8y5), [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [We'll Never Know](https://open.spotify.com/album/50AqsPHk9pe5Hgrmd5SKRp) | 4:57 | 2025-07-18 | 2025-08-30 |

@@ -1249,6 +1249,28 @@
     },
     {
       "album": {
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+      },
+      "artists": [
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136499,
+      "name": "Laat Niet Los (feat. Jonna Fraser)",
+      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
+    },
+    {
+      "album": {
         "name": "Laten Gaan (feat. Ronnie Flex, Mafe, Abira Benotti, Frenna & Emms)",
         "url": "https://open.spotify.com/album/6ef8JfQkdGWr3KX9U0IS8S"
       },
@@ -2160,7 +2182,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 164884,
       "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
       "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"

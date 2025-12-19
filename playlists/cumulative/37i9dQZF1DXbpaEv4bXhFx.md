@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-253 songs - 15 hr 29 min
+254 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-07-13 | 2025-11-05 |
 | [Umbrella](https://open.spotify.com/track/4DbVMZMVDaPgbm3ODxtOO6) | [H&D](https://open.spotify.com/artist/7lHJGLY9oGWjH6j05BLnt7) | [Umbrella](https://open.spotify.com/album/6nj3I1yqzTLd8HB4AgRzqq) | 0:29 | 2022-06-20 | 2022-07-02 |
 | [Umbrella \(feat\. Ashley Alisha & prettyhappy\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2025-08-08 |
+| [Unable to Speak That We Miss Each Other \(with Lee Young Hoon\)](https://open.spotify.com/track/6J9AiH76ZyxSugvwqKuwXj) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg), [Lee Young Hoon](https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 4:10 | 2025-11-04 |  |
 | [WA\-R\-R](https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:32 | 2022-07-22 | 2024-04-19 |
 | [WA\-R\-R](https://open.spotify.com/track/4eAaNoxM3JjlHent49dHxd) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/2g4L424iyiQschBO6pHL8i) | 4:32 | 2022-06-20 | 2022-07-29 |
 | [Wait](https://open.spotify.com/track/3vtbkIV0bc9BpnqqFja6Mm) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ayul](https://open.spotify.com/artist/3UbFygd1hcmMoBPWYLMqOW) | [Wait](https://open.spotify.com/album/06KWwnrT1BbH4IxKFmVwVn) | 2:50 | 2022-06-20 | 2022-07-29 |
@@ -241,7 +242,7 @@
 | [When It Rains In Night](https://open.spotify.com/track/0C2tTlEGYQnUAVgbtJ68MB) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Thumbs Up!](https://open.spotify.com/album/6AjfY47ASqK3OjjaPxTqaH) | 4:04 | 2022-08-13 | 2023-05-06 |
 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-06-20 | 2024-06-03 |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2022-06-20 |  |
-| [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 |  |
+| [Will spring come?](https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [Will spring come?](https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83) | 3:18 | 2022-12-26 | 2025-12-19 |
 | [Wish Rain \(Feat\. Jayd, siso\)](https://open.spotify.com/track/63qxfnfEWTDKPRgKmfrHID) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Jayd](https://open.spotify.com/artist/6it2PshzHXaqI8NWNi9apN), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [Wish Rain](https://open.spotify.com/album/56RNIfYFkjjpkUfwJd7Xqc) | 3:16 | 2022-06-20 | 2022-07-26 |
 | [XXLove](https://open.spotify.com/track/6PFaG6SDFJ9SwrXX6rPBYU) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [XXLove](https://open.spotify.com/album/0breiCTj1nIZwIS261yCPu) | 3:19 | 2022-06-20 | 2022-07-29 |
 | [You Don't Shine Anymore \(Interlude\)](https://open.spotify.com/track/58ugn5hQqFTHp0WcaR8bPz) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 1:41 | 2022-06-29 | 2022-07-06 |

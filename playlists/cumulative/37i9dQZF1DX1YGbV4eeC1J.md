@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Jux
+> What is your love language? Say it in Swahili\.  Cover: Kusah
 
-325 songs - 18 hr 13 min
+326 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Sina Neno](https://open.spotify.com/track/2Yk3KiXjSg8ORhcZDyyAzv) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Sina Neno](https://open.spotify.com/album/0VKiClYPw1xnyj40w0wVnD) | 3:04 | 2022-05-26 | 2023-09-08 |
 | [Single](https://open.spotify.com/track/0NEiPNvusJPXBP826yQbR7) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Single](https://open.spotify.com/album/6CKL3hUQV87q3XFkeqabGb) | 2:16 | 2023-01-19 | 2023-07-07 |
 | [Sitaki Mapenzi](https://open.spotify.com/track/5xhHQNRjuITzj9eOFabWWi) | [Treyzah](https://open.spotify.com/artist/1ZEoQ0UaWVoJZE6JCZZUM3) | [Sitaki Mapenzi](https://open.spotify.com/album/2U44P4HPg9FlsYVsAP0457) | 2:40 | 2025-02-27 | 2025-06-20 |
+| [Siwezi](https://open.spotify.com/track/5rHwhDMhECn3kuE9zH4gZF) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Siwezi](https://open.spotify.com/album/5DZnhDiqjk4VHKRs9trO9D) | 3:22 | 2025-12-18 |  |
 | [Siwezi](https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Siwezi](https://open.spotify.com/album/0M0knAvFHP6OjjxSSIsNRy) | 3:04 | 2022-05-26 | 2023-07-28 |
 | [Siwezi](https://open.spotify.com/track/71dAnBhTrNKhsUfL7IJ8ht) | [RICH MAVOKO](https://open.spotify.com/artist/4aeCyyHNM1iZbxz48788cd) | [Siwezi](https://open.spotify.com/album/6kqYOHMLPw6yERhUiQ7QFP) | 2:33 | 2025-10-30 |  |
 | [Sugar](https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Sugar](https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh) | 3:25 | 2025-01-16 |  |
@@ -308,7 +309,7 @@
 | [Usiongee \(feat\. Phina\)](https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Water & Wine](https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC) | 3:01 | 2024-06-14 | 2024-10-25 |
 | [Utaniua](https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Utaniua](https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo) | 3:34 | 2024-10-04 | 2025-02-07 |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 | 2025-09-26 |
-| [Utaweza](https://open.spotify.com/track/3opPyNy1QuRSfvsYGR0sLp) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Utaweza](https://open.spotify.com/album/4O3VGX7GKH2urhcmGf29Gh) | 2:41 | 2025-03-21 |  |
+| [Utaweza](https://open.spotify.com/track/3opPyNy1QuRSfvsYGR0sLp) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Utaweza](https://open.spotify.com/album/4O3VGX7GKH2urhcmGf29Gh) | 2:41 | 2025-03-21 | 2025-12-19 |
 | [Uwii](https://open.spotify.com/track/1kW4pZ6Wo5Ez2FxAwjgofz) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW) | [Uwii](https://open.spotify.com/album/3EbO59N8rgoV5PUyDh6MPJ) | 3:06 | 2025-04-18 | 2025-05-23 |
 | [Vuta](https://open.spotify.com/track/1AsTe59j8x2GaExAht12Fk) | [TLVSN](https://open.spotify.com/artist/6PWktnw07ge9NXQCBYxP74) | [Vuta](https://open.spotify.com/album/4gQLnVEgg1Ki1uiK2uQbth) | 4:06 | 2023-09-21 | 2023-12-01 |
 | [Wa Sasa](https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wa Sasa](https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m) | 3:14 | 2023-09-07 | 2024-06-14 |

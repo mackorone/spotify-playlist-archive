@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Panos Kiamos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Ayto Einai Sosto",
+        "url": "https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134201,
+      "name": "Ayto Einai Sosto",
+      "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
+    },
+    {
+      "album": {
         "name": "Bam",
         "url": "https://open.spotify.com/album/61fQlnPmmwgSJ6UJ9Jrf9H"
       },
@@ -564,6 +582,24 @@
       "duration_ms": 136531,
       "name": "DAVATZIS - LIVE by TOKYO THEATER",
       "url": "https://open.spotify.com/track/2Lbjh8H9sFeAPWzldzZ1bW"
+    },
+    {
+      "album": {
+        "name": "De Ginetai",
+        "url": "https://open.spotify.com/album/1zovJXe2QfUD6DjE58zNDm"
+      },
+      "artists": [
+        {
+          "name": "Giannis Ploutarhos",
+          "url": "https://open.spotify.com/artist/152y903Cqyk9GVl6amOtuD"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202615,
+      "name": "De Ginetai",
+      "url": "https://open.spotify.com/track/0qE3a0JDePYhl0ml3Dy1oe"
     },
     {
       "album": {
@@ -934,7 +970,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 263015,
       "name": "Ekptotos Aggelos",
       "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
@@ -1200,7 +1236,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 164800,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/4B3v4VfWLjoqXNXpcTN9De"
@@ -2204,7 +2240,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 210007,
       "name": "Me Sighorite",
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
@@ -3100,7 +3136,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -3773,6 +3809,28 @@
     },
     {
       "album": {
+        "name": "Ta Xano",
+        "url": "https://open.spotify.com/album/6pVOST8S9KjooQavCagiHf"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182574,
+      "name": "Ta Xano",
+      "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
+    },
+    {
+      "album": {
         "name": "Ta Xo Vrei Me Ton Eauto Mou",
         "url": "https://open.spotify.com/album/39ubI5bqHBp7S7tm6x5ntt"
       },
@@ -4280,6 +4338,24 @@
       "duration_ms": 205202,
       "name": "To Viografiko",
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/79x5VnzDkmzTYVNrvTeUsN"
     },
     {
       "album": {

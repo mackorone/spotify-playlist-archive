@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 35614,
+  "num_followers": 35620,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACTqhHkGR3hqI3mvLYbJuDA",
+  "snapshot_id": "aUHygAAAAADLmgJFcWIdydgNdyGgg7er",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 148373,
-      "name": "Victim of Reality",
-      "url": "https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU"
+      "duration_ms": 172066,
+      "name": "My Own Way",
+      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 172066,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
+      "duration_ms": 148373,
+      "name": "Victim of Reality",
+      "url": "https://open.spotify.com/track/5O3Kccz6xJrec6zkduyhnU"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Straight Ahead",
+      "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From The Ashes",
         "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 160120,
       "name": "Never Gonna Die",
       "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Straight Ahead",
-      "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+        "name": "Full Circle (2005 Remaster)",
+        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
+      "duration_ms": 191173,
+      "name": "Final Day - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle (2005 Remaster)",
-        "url": "https://open.spotify.com/album/0QX9rRHnywYqgvnWQyOykU"
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 191173,
-      "name": "Final Day - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1IbACCa6rZ9fTuI6YYS1cF"
+      "duration_ms": 195333,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
     },
     {
       "added_at": null,

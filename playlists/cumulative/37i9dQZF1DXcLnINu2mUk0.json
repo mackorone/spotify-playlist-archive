@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 232439,
       "name": "Anonimato",
       "url": "https://open.spotify.com/track/0VtmWsESBU57ryQdhLaqvh"
@@ -3140,7 +3140,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 169800,
       "name": "Como \u00c9",
       "url": "https://open.spotify.com/track/1RDHqgjj1CFnHevSWYs7X7"
@@ -5856,7 +5856,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Fica \u00c0 Espera",
       "url": "https://open.spotify.com/track/4n7NYDk3R0InjDTUMWyQ07"
@@ -10312,7 +10312,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 193700,
       "name": "N\u00e3o d\u00e1 pa parar",
       "url": "https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG"
@@ -14462,7 +14462,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 162580,
       "name": "S\u00d3 QUERO VIVER",
       "url": "https://open.spotify.com/track/7nDslFhczcb3OtifwIPNCC"
@@ -15058,6 +15058,24 @@
       "duration_ms": 142000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt"
     },
     {
       "album": {

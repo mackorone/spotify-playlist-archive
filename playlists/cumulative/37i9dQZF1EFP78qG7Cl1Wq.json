@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "CLIQUE",
+        "url": "https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184969,
+      "name": "holdupbaby!",
+      "url": "https://open.spotify.com/track/3ixIYD1ALxfnrmNCEndpq0"
+    },
+    {
+      "album": {
         "name": "Self Portrait",
         "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
       },
@@ -5122,6 +5140,24 @@
       "duration_ms": 118867,
       "name": "This Was Supposed To Be Our Wedding Song",
       "url": "https://open.spotify.com/track/2zN4frEO4JCRfnu3mDp0bo"
+    },
+    {
+      "album": {
+        "name": "Cry Sugar",
+        "url": "https://open.spotify.com/album/5J2NqsDqtVGCqb0bqQf3RU"
+      },
+      "artists": [
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Tincture",
+      "url": "https://open.spotify.com/track/0qYqKphPofxpsASM1NVO55"
     },
     {
       "album": {

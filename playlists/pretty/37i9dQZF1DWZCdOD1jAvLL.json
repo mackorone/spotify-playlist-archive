@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Goodboys, Local Singles and Ryan Shepherd",
-  "num_followers": 268117,
+  "num_followers": 268138,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Gets Like That",
+      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "Till I Die (feat. Claudia Valentina)",
         "url": "https://open.spotify.com/album/5PbhaD1xmVRzslSBrI43cK"
       },
@@ -747,26 +767,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "The Finest EP",
-        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Gets Like That",
-      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "WTF",
         "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 193903,
       "name": "WTF",
       "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
-        "name": "Raving In The Studio",
-        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
-      },
-      "artists": [
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Raving In The Studio",
-      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -819,6 +799,26 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Raving In The Studio",
+        "url": "https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Raving In The Studio",
+      "url": "https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -1099,30 +1099,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Girls MIA",
-        "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Adam Sellouk",
-          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
-        },
-        {
-          "name": "Carly Gibert",
-          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "Girls MIA",
-      "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "take your vibes and go",
         "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Girls MIA",
+        "url": "https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Carly Gibert",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Not Gonna Be Your Boo (feat. Robin S)",
-        "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
-        }
-      ],
-      "duration_ms": 174550,
-      "name": "Not Gonna Be Your Boo (feat. Robin S)",
-      "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "6 In the Morning (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 168000,
       "name": "6 In the Morning (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Not Gonna Be Your Boo (feat. Robin S)",
+        "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "duration_ms": 174550,
+      "name": "Not Gonna Be Your Boo (feat. Robin S)",
+      "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Air (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 160021,
-      "name": "Air (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
         "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
       },
@@ -1511,6 +1487,30 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Air (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 160021,
+      "name": "Air (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "Drum Death",
+        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 170644,
+      "name": "Drum Death",
+      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "Bring The House Down",
         "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
       },
@@ -1659,26 +1679,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Drum Death",
-        "url": "https://open.spotify.com/album/4vqrNHTMoTgrN4DBH5b81t"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
-        }
-      ],
-      "duration_ms": 170644,
-      "name": "Drum Death",
-      "url": "https://open.spotify.com/track/1gkTO34Xg6FO8W9HrxYR4E"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "System Shock",
         "url": "https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq"
       },
@@ -1699,30 +1699,6 @@
       "duration_ms": 136688,
       "name": "System Shock",
       "url": "https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
-        "name": "Rome Is Burning",
-        "url": "https://open.spotify.com/album/1NLu2Z6RpN0eh7jAchy0tK"
-      },
-      "artists": [
-        {
-          "name": "Worakls",
-          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
-        },
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Wasiu",
-          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
-        }
-      ],
-      "duration_ms": 231300,
-      "name": "Rome Is Burning",
-      "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -1755,6 +1731,30 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "Rome Is Burning",
+        "url": "https://open.spotify.com/album/1NLu2Z6RpN0eh7jAchy0tK"
+      },
+      "artists": [
+        {
+          "name": "Worakls",
+          "url": "https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p"
+        },
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "duration_ms": 231300,
+      "name": "Rome Is Burning",
+      "url": "https://open.spotify.com/track/1n7MNtaIkGYXiOCOSqKuD3"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "Again? Fuck.",
         "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
       },
@@ -1767,6 +1767,26 @@
       "duration_ms": 172901,
       "name": "Again? Fuck.",
       "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        }
+      ],
+      "duration_ms": 183724,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -1807,26 +1827,6 @@
       "duration_ms": 185142,
       "name": "Ultrasound",
       "url": "https://open.spotify.com/track/2R2NZJZ5P52UOEp2IhlrzX"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/7C8pJDrZvHs3c36NtzAT1X"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        }
-      ],
-      "duration_ms": 183724,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/6uAlhFwFPblqVs5F2xQO4C"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -2039,6 +2039,26 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "Disguise",
+        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
+      },
+      "artists": [
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 193273,
+      "name": "Disguise",
+      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "Sunshine (My Girl)",
         "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
       },
@@ -2075,26 +2095,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Disguise",
-        "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
-      },
-      "artists": [
-        {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "Disguise",
-      "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT"
       },
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "ADRENOCHROME : ZERO",
         "url": "https://open.spotify.com/album/1XcFeU8EviCIDffkzBGZpa"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 195310,
       "name": "Sometimes / DOPAMINE++++",
       "url": "https://open.spotify.com/track/0e7RwCcU9gN6XbrW44jVaF"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1JbGw9go12vT4vLUjQTnBm"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -2455,6 +2455,30 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "Back To Back (feat. Lil Debbie)",
+        "url": "https://open.spotify.com/album/3YubItmx9pSssoPGho6bQi"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Capozzi",
+          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
+        },
+        {
+          "name": "Lil Debbie",
+          "url": "https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN"
+        }
+      ],
+      "duration_ms": 170667,
+      "name": "Back To Back (feat. Lil Debbie)",
+      "url": "https://open.spotify.com/track/12EpRsQ6t3Y3paxIPIEVBL"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "Prophecy",
         "url": "https://open.spotify.com/album/1lYOAexnj4ZwKHofhvWBAn"
       },
@@ -2515,30 +2539,6 @@
       "duration_ms": 159230,
       "name": "Party After Party",
       "url": "https://open.spotify.com/track/0IJxq5nQv9coXjtmm2vF0e"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
-        "name": "Back To Back (feat. Lil Debbie)",
-        "url": "https://open.spotify.com/album/3YubItmx9pSssoPGho6bQi"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Capozzi",
-          "url": "https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC"
-        },
-        {
-          "name": "Lil Debbie",
-          "url": "https://open.spotify.com/artist/3FNZcjyqT7F5upP99JV0oN"
-        }
-      ],
-      "duration_ms": 170667,
-      "name": "Back To Back (feat. Lil Debbie)",
-      "url": "https://open.spotify.com/track/12EpRsQ6t3Y3paxIPIEVBL"
     },
     {
       "added_at": "2025-12-12 05:00:37",

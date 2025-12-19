@@ -2,9 +2,9 @@
 
 ### [Polskie hity](https://open.spotify.com/playlist/37i9dQZF1DWTnbCPOmjbdB)
 
-> Najlepsze polskie piosenki na czasie\. Cover: MODELKI
+> Najlepsze polskie piosenki na czasie\. Cover: Oskar Cyms
 
-709 songs - 1 day 10 hr 37 min
+710 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,7 +435,7 @@
 | [Ostatnio](https://open.spotify.com/track/4PnZ2YWbLuoKw6STKBHIch) | [Michał Szczygieł](https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z) | [Ostatnio](https://open.spotify.com/album/4ZF4aKnbR3reJYV1w1zXVZ) | 2:49 | 2025-04-17 | 2025-05-02 |
 | [PA PA](https://open.spotify.com/track/4U2kh9Pp7DVOBf0BYCzKXN) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [We Are Young \(But Only Once\)](https://open.spotify.com/album/0ESGCuMfPgQtzsmXmGwJ05) | 3:00 | 2025-05-22 | 2025-06-06 |
 | [Pada deszcz](https://open.spotify.com/track/4I5vcOq58yehX0CXsJ0KuZ) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Sarius](https://open.spotify.com/artist/3sW41aChSc5bBow0Folc1S), [Jano Polska Wersja](https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1) | [Pada deszcz](https://open.spotify.com/album/6gWSwkia6qcHywoDYvMFXD) | 3:29 | 2024-11-21 | 2024-12-06 |
-| [Pada, Pada](https://open.spotify.com/track/0BXxwpXBkgxXX2JIG50Up5) | [Pan Savyan](https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT), [Julia Kamińska](https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V) | [Pada, Pada](https://open.spotify.com/album/22Ad52uo8eXxyzHecq5GO2) | 3:24 | 2025-11-27 |  |
+| [Pada, Pada](https://open.spotify.com/track/0BXxwpXBkgxXX2JIG50Up5) | [Pan Savyan](https://open.spotify.com/artist/4Bkz15h2Rj6fphdjxB7GaT), [Julia Kamińska](https://open.spotify.com/artist/4jFzWphpCeC923MojgEp7V) | [Pada, Pada](https://open.spotify.com/album/22Ad52uo8eXxyzHecq5GO2) | 3:24 | 2025-11-27 | 2025-12-19 |
 | [Pali się](https://open.spotify.com/track/0I2B75t975aD4QMDbIJrZC) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF) | [Pali się](https://open.spotify.com/album/369rO73bOJfA2t2DZiNB6h) | 2:20 | 2024-12-05 | 2024-12-20 |
 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 | 2025-05-22 |  |
 | [pamiętasz?](https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP) | [Alicja](https://open.spotify.com/artist/1QDigvoDqzcojpLCK6soAb), [Bartek Królik](https://open.spotify.com/artist/4rE8hvv3ZvCVAyaxZVtmTT) | [nie wracam](https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1) | 2:42 | 2024-07-01 | 2024-07-12 |
@@ -490,6 +490,7 @@
 | [Prywatna wyspa](https://open.spotify.com/track/3ZlvrQL6AJetHiOmLUjS5X) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99), [Hi Hania](https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH) | [Prywatna wyspa](https://open.spotify.com/album/589yWr3ogBNa6KPVhNMUZF) | 2:22 | 2025-06-19 | 2025-11-28 |
 | [przed czym uciekasz?](https://open.spotify.com/track/6RSDTIt7XLuCX0BhntMm82) | [Maks Łapiński](https://open.spotify.com/artist/3GtP61OWBcEBJTZvxmPbke) | [przed czym uciekasz?](https://open.spotify.com/album/7FpfaixvX0BznPv9OkOjF7) | 2:24 | 2025-11-27 |  |
 | [Przejdzie deszcz](https://open.spotify.com/track/6afHWnbsLiT4sBbMcVwHjy) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Julia Żugaj](https://open.spotify.com/artist/77ie7EUxZYh8rjBIUC76S1) | [Przejdzie deszcz](https://open.spotify.com/album/0WM1NfGc9adEAJ9QNzjgc6) | 2:34 | 2024-12-19 | 2025-01-10 |
+| [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 | 2025-12-18 |  |
 | [Przy Tobie](https://open.spotify.com/track/7c0hTty22qyH9fEaqV7ipX) | [Chermée](https://open.spotify.com/artist/2AYUKaxN08lFLfFkefztL8) | [Przy Tobie](https://open.spotify.com/album/4U90uGWIlwxEWrigvKHQRm) | 2:02 | 2025-04-17 | 2025-04-25 |
 | [Przy Tobie](https://open.spotify.com/track/02HC1VsG5KV1F4c5XRwEez) | [Filip Lato](https://open.spotify.com/artist/7IGQhHioiEXLsSCBt0ZBID) | [Przy Tobie](https://open.spotify.com/album/5kSXSpAlpatv6yIEZsTym8) | 2:30 | 2024-10-24 | 2024-11-15 |
 | [Przy Tobie](https://open.spotify.com/track/5UUqrTg952hhIB2OQCy8RL) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Przy Tobie](https://open.spotify.com/album/1SeBK7WmzEHSwPyA0paTEz) | 2:40 | 2024-11-21 | 2025-01-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Monsta & DJ Liu One entram na zona. ",
+  "description": "Dbraz, DJ Pablu & MOR3NO entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2278,7 +2278,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 198260,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/7wZgaJRcwTFpx4VAb1SgpN"
@@ -4058,6 +4058,24 @@
       "duration_ms": 192051,
       "name": "Cobi\u00e7ada",
       "url": "https://open.spotify.com/track/3MjcFuYFqd6gQsKiE3Uy6z"
+    },
+    {
+      "album": {
+        "name": "Cobras",
+        "url": "https://open.spotify.com/album/3DodBxQymoNBESuIAlFcXz"
+      },
+      "artists": [
+        {
+          "name": "Achero",
+          "url": "https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208086,
+      "name": "Cobras",
+      "url": "https://open.spotify.com/track/3YsyzFHbLQTKJ2YfNzipT8"
     },
     {
       "album": {
@@ -13540,7 +13558,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 139924,
       "name": "Pim Pam Pum",
       "url": "https://open.spotify.com/track/3MRpLmvJ72lgYIArZQlpxw"
@@ -16210,7 +16228,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 328610,
       "name": "Sopa Di Camaron",
       "url": "https://open.spotify.com/track/5MTfzIttWh4RqCDyTDlOuI"
@@ -17231,6 +17249,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 10",
+      "url": "https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt"
+    },
+    {
+      "album": {
         "name": "Entrelinhas",
         "url": "https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u"
       },
@@ -18112,6 +18148,32 @@
       "duration_ms": 213033,
       "name": "Vida Do Crime",
       "url": "https://open.spotify.com/track/5skRnP4WXwsDFtFzJnnrrW"
+    },
+    {
+      "album": {
+        "name": "Vida M\u00e1",
+        "url": "https://open.spotify.com/album/0k6UwR90LHmVXyVi86OifM"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "DJ Pablu",
+          "url": "https://open.spotify.com/artist/6hAdsoRESfm7BFqVXYkvkX"
+        },
+        {
+          "name": "MOR3NO",
+          "url": "https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151557,
+      "name": "Vida M\u00e1",
+      "url": "https://open.spotify.com/track/7mTsqBB1YopPg8ZFJWSDyY"
     },
     {
       "album": {

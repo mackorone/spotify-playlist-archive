@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22725,
+  "num_followers": 22728,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACUdQ6A42dOhPM2wRf6V9st",
+  "snapshot_id": "aUHygAAAAADS1UImdiNE69bfCsq8QbEO",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Preparou Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
-      },
-      "artists": [
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 280160,
-      "name": "Deus Preparou Tudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea N\u00e3o Imagina",
         "url": "https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 318020,
       "name": "Voc\u00ea N\u00e3o Imagina",
       "url": "https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus Preparou Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 280160,
+      "name": "Deus Preparou Tudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Desisto",
-        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
-      },
-      "artists": [
-        {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 299788,
-      "name": "N\u00e3o Desisto",
-      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Em Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 272697,
       "name": "Prossiga (feat. Midian Lima)",
       "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Desisto",
+        "url": "https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl"
+      },
+      "artists": [
+        {
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 299788,
+      "name": "N\u00e3o Desisto",
+      "url": "https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt"
     },
     {
       "added_at": null,

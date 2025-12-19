@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 
 > All the best music from New Classical in 2025\. Cover: Alice Sara Ott
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,567 likes - 93 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,625 likes - 93 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfbnwqQBa8i.md) - [plain]
 | 85 | [AQUARIUS “The Explorer”](https://open.spotify.com/track/6R89nhCQNUDDuoKUWuRbM4) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [360°](https://open.spotify.com/album/45K1CdBc2xSpV3N2pUBSWv) | 3:40 |
 | 86 | [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 |
 | 87 | [The Nutcracker, Op\. 71 \(Suite Arr\. Pletnev for Piano\): I\. March](https://open.spotify.com/track/1G2K1RrApPUIg2dQQChxvM) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Tchaikovsky: The Nutcracker, Op\. 71 \(Suite Arr\. Pletnev for Piano\): I\. March](https://open.spotify.com/album/0lGbEWhgnevvAaVoBc2cof) | 2:00 |
-| 88 | [Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/track/6WQ6j6zfc6fq8sR0cebfhv) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/album/59X9bucEPShYPvfT3b2MiI) | 1:48 |
+| 88 | [Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/track/6WQ6j6zfc6fq8sR0cebfhv) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafal Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/album/59X9bucEPShYPvfT3b2MiI) | 1:48 |
 | 89 | [7 Canciones populares españolas: No\. 5, Nana \(Transcr\. Llobet & Pujol for Violin & Guitar\)](https://open.spotify.com/track/79Raw2rPKz02qJQ5BtEt0S) | [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Randall Goosby](https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K), [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Falla: 7 Canciones populares españolas: No\. 5, Nana \(Transcr\. Llobet & Pujol for Violin & Guitar\)](https://open.spotify.com/album/4qV8Lzpa9Gl0Nh4rINzQKF) | 2:47 |
 | 90 | [Púca](https://open.spotify.com/track/004w4yvhBB1vzrH430jL0W) | [Jamie Duffy](https://open.spotify.com/artist/2yvguoW65iZdUhca8yIfIo) | [Jamie Duffy](https://open.spotify.com/album/7kZvHM83uaWWdoGUR8EFXP) | 5:29 |
 | 91 | [III\. Allegro molto vivace](https://open.spotify.com/track/1IpdNFfGKfNuC6xFZ0gdST) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Johan Dalene](https://open.spotify.com/artist/6bzcYpT0W1fheZys2ApYBz), [Swedish Radio Symphony Orchestra](https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS), [Malin Broman](https://open.spotify.com/artist/1UWgqvj4Hzby5SvzEYzupV) | [Felix Mendelssohn: Violin Concerto in E Minor, Op\. 64: III\. Allegro molto vivace](https://open.spotify.com/album/51mD6pp8hCdQOduPUxeW5b) | 6:53 |

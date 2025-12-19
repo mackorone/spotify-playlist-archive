@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT - Storie Italiane di Successo, STREETSMART\nCover: Capiamo",
+  "description": "Podcast che devi avere sul tuo RADAR: Capiamo, HYPERSIMPOSIO, Made IT - Storie Italiane di Successo, STREETSMART\nCover: Made IT",
   "name": "RADAR Creators Italia",
   "tracks": [
     {
@@ -293,6 +293,42 @@
     },
     {
       "album": {
+        "name": "Made IT - Storie Italiane di Successo",
+        "url": "https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW"
+      },
+      "artists": [
+        {
+          "name": "Made IT - Storie Italiane di Successo",
+          "url": "https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1782378,
+      "name": "Capire le CRYPTO nel 2025: tra hype, rischio e opportunit\u00e0 con Gianluca Sommariva, Founder Hodli",
+      "url": "https://open.spotify.com/episode/6mo7BGS26wAK57R3d9WyGW"
+    },
+    {
+      "album": {
+        "name": "Capiamo",
+        "url": "https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7"
+      },
+      "artists": [
+        {
+          "name": "Capiamo",
+          "url": "https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2082260,
+      "name": "COME SI DIVENTA COOL? Capiamo #118",
+      "url": "https://open.spotify.com/episode/3Zg0WYKM7Fbu6UEYKJYrXM"
+    },
+    {
+      "album": {
         "name": "Est Radio",
         "url": "https://open.spotify.com/album/7vH5P46Jo4lRSt2AyINXHF"
       },
@@ -340,7 +376,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 3532010,
       "name": "Da \u20ac20 a \u20ac600 milioni di fatturato: la storia dietro il successo di Golden Goose, con Silvio Campara CEO di Golden Goose [VIDEO]",
       "url": "https://open.spotify.com/episode/45zfiRMcmMjObNTJZ7u0x1"
@@ -356,9 +392,27 @@
           "url": "https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux"
         }
       ],
-      "date_added": "2025-10-14",
+      "date_added": "2025-12-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 4011262,
+      "name": "Donna PARTORISCE in LIVE STREAMING, TRUMP e spieghiamo il nostro Litigio - 3 STAGIONE STREETSMART",
+      "url": "https://open.spotify.com/episode/1KPSUN6VrInVsDEFS0xSDf"
+    },
+    {
+      "album": {
+        "name": "STREETSMART",
+        "url": "https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux"
+      },
+      "artists": [
+        {
+          "name": "STREETSMART",
+          "url": "https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux"
+        }
+      ],
+      "date_added": "2025-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2025-12-19",
       "duration_ms": 4302541,
       "name": "ELON MUSK \u00c8 FOLLE!! - STREETSMART EP.08",
       "url": "https://open.spotify.com/episode/3WxPdMAorJSJOrBkuNgVVN"
@@ -466,7 +520,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 2655466,
       "name": "HYPERSIMPOSIO II.VII : Ceri Wax ",
       "url": "https://open.spotify.com/episode/5mR7BFs09hDPNYupM1Se6K"
@@ -484,10 +538,46 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 2390708,
       "name": "HYPERSIMPOSIO III : 18K ",
       "url": "https://open.spotify.com/episode/6JnJtRSnuakL3ag4pZmjp9"
+    },
+    {
+      "album": {
+        "name": "HYPERSIMPOSIO ",
+        "url": "https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop"
+      },
+      "artists": [
+        {
+          "name": "HYPERSIMPOSIO ",
+          "url": "https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2458325,
+      "name": "HYPERSIMPOSIO III.III : Dutch Nazari ",
+      "url": "https://open.spotify.com/episode/3F6aDhExvEtlm1YfS6wMLC"
+    },
+    {
+      "album": {
+        "name": "HYPERSIMPOSIO ",
+        "url": "https://open.spotify.com/album/586UQd53qTRrVIZkjoEeop"
+      },
+      "artists": [
+        {
+          "name": "HYPERSIMPOSIO ",
+          "url": "https://open.spotify.com/show/586UQd53qTRrVIZkjoEeop"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1402837,
+      "name": "HYPERSIMPOSIO III.IV : Tripolare ",
+      "url": "https://open.spotify.com/episode/0RMpaUBpy3bb1pBD6CkKV4"
     },
     {
       "album": {
@@ -520,7 +610,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 1888448,
       "name": "Il RE della cosmetica che produce per i brand pi\u00f9 famosi del mondo con Dario Ferrari, Fondatore Intercos",
       "url": "https://open.spotify.com/episode/67Ahyuo2ihAZ19vBoi8Tvo"
@@ -574,7 +664,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 3967222,
       "name": "L'UOMO IDEALE di MARTA DADDATO?! - STREETSMART EP.12",
       "url": "https://open.spotify.com/episode/36DhUFDUGlLyjCIZMK0GiF"
@@ -592,7 +682,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 2621886,
       "name": "LA DATING LIFE A MILANO \u00c8 UN DISASTRO? Capiamo #99",
       "url": "https://open.spotify.com/episode/2kVO0BfJCn4SBSaL8cdBSv"
@@ -614,6 +704,60 @@
       "duration_ms": 1604926,
       "name": "Lo Yogurt pi\u00f9 di Design | VideoPodcast",
       "url": "https://open.spotify.com/episode/4qfrQUhqBuF3RexmNlbBU0"
+    },
+    {
+      "album": {
+        "name": "STREETSMART",
+        "url": "https://open.spotify.com/album/66xtN6seXpkHY6Ylv7Ttux"
+      },
+      "artists": [
+        {
+          "name": "STREETSMART",
+          "url": "https://open.spotify.com/show/66xtN6seXpkHY6Ylv7Ttux"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5267262,
+      "name": "Manuuxo su JAKE PAUL alla Kings League, come \u00e8 nato \u201cAURA JACKET\u201d? - STREETSMART ep 34",
+      "url": "https://open.spotify.com/episode/3zJgCW0aHTAsfkRilawpML"
+    },
+    {
+      "album": {
+        "name": "Made IT - Storie Italiane di Successo",
+        "url": "https://open.spotify.com/album/2UzJcb7nYz4KOr4jNt9DMW"
+      },
+      "artists": [
+        {
+          "name": "Made IT - Storie Italiane di Successo",
+          "url": "https://open.spotify.com/show/2UzJcb7nYz4KOr4jNt9DMW"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3472000,
+      "name": "Mia Ceran: la voce che ha cambiato il modo di informarsi in Italia",
+      "url": "https://open.spotify.com/episode/7jkrWkwGI82MLqQ4Ti4MOu"
+    },
+    {
+      "album": {
+        "name": "Capiamo",
+        "url": "https://open.spotify.com/album/6rBYFA6nwJ7l4n0RP8OiU7"
+      },
+      "artists": [
+        {
+          "name": "Capiamo",
+          "url": "https://open.spotify.com/show/6rBYFA6nwJ7l4n0RP8OiU7"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1445524,
+      "name": "QUAL \u00c8 LA COSA PI\u00d9 FASTIDIOSA AL MONDO? Capiamo #116",
+      "url": "https://open.spotify.com/episode/378nZ9RBNCPtyfVlUnIwsZ"
     },
     {
       "album": {
@@ -700,7 +844,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 2675369,
       "name": "\u00c8 GIUSTO USCIRE CON PIU PERSONE CONTEMPORANEAMENTE? Capiamo #109",
       "url": "https://open.spotify.com/episode/6qFpyhFRheMgUWBp6BdLmR"

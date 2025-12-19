@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Felipe S\. Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,760 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,791 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 15 | [Suficiente](https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP) | [Eiem](https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i) | [Suficiente](https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl) | 2:38 |
 | 16 | [ROMPECABEZAS](https://open.spotify.com/track/1Ebpwjd3MIajyVm2RErN3Q) | [Kevin Mendoza](https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK), [Dairon Herrera](https://open.spotify.com/artist/62r8Knmjlbo0kla07Xp4Ac) | [Lo que escribí y no Envié](https://open.spotify.com/album/71D7GT2Cx50SD069r4ST1y) | 2:44 |
 | 17 | [Mi Estilo](https://open.spotify.com/track/71pSTifVnGjO5IOpyjtTSl) | [Rito Rivera](https://open.spotify.com/artist/7hGJ7vewbsI9unzLD523Fv) | [Mi Estilo](https://open.spotify.com/album/5uGbkMgSGtBFcJD4Q9RbwU) | 2:16 |
-| 18 | [Tu Gracia Es Suficiente \- Versión Mariachi](https://open.spotify.com/track/1LDQgT68SDxBVQIjjEDRMS) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [Benjamin Meraz](https://open.spotify.com/artist/3vnOXWuhbVeCkMjLfTHaYC) | [Tu Gracia Es Suficiente \(Versión Mariachi\)](https://open.spotify.com/album/04mRkLiCWEigk9RJnw6AHC) | 4:16 |
+| 18 | [Tu Gracia Es Suficiente \- Versión Mariachi](https://open.spotify.com/track/1LDQgT68SDxBVQIjjEDRMS) | [Los Herederos](https://open.spotify.com/artist/0MvxUMqI2SrwaLJ12BLDGx), [Benjamin Meraz](https://open.spotify.com/artist/3vnOXWuhbVeCkMjLfTHaYC), [Francisco Nevarez](https://open.spotify.com/artist/7o8z5AdLczQ1LrTN38f8j7) | [Tu Gracia Es Suficiente \(Versión Mariachi\)](https://open.spotify.com/album/04mRkLiCWEigk9RJnw6AHC) | 4:16 |
 | 19 | [Tu Luz en Mi \(En Vivo\)](https://open.spotify.com/track/1DsWmQmHoiFXgYKSbmVrFQ) | [Corto Plazo](https://open.spotify.com/artist/3kdtLzdSaLDl1yh5WhSBxQ) | [Nmda 10 Años \(En Vivo\)](https://open.spotify.com/album/7weanTVtYQcx66h1axaX58) | 4:54 |
 | 20 | [PRETTY](https://open.spotify.com/track/0oRdDWTG9UYsq1rexMZWs9) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [PRETTY](https://open.spotify.com/album/7DRsiapkf0XOUdKW8Oi7KB) | 1:42 |
 | 21 | [Mi Mirada](https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ) | [Toda la Vida](https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy), [Jullie](https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb) | [Mi Mirada](https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd) | 2:36 |

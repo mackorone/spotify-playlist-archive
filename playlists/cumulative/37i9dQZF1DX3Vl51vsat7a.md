@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-470 songs - 23 hr 59 min
+471 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [abgelenkt](https://open.spotify.com/track/34znHuzr2NqkHURUtPCmEE) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [abgelenkt](https://open.spotify.com/album/2vWOXWon4lctKoApAK69XY) | 2:39 | 2024-07-18 | 2025-08-30 |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 | 2023-01-27 |
 | [ADHD](https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [ADHD](https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu) | 3:57 | 2023-11-09 | 2024-11-08 |
-| [AIBAMFMD <3](https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [AIBAMFMD <3](https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA) | 2:38 | 2025-11-13 |  |
+| [AIBAMFMD <3](https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [AIBAMFMD <3](https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA) | 2:38 | 2025-11-13 | 2025-12-19 |
 | [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 | 2023-11-09 | 2024-05-24 |
 | [ALL I REALLY WANT](https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [ALL I REALLY WANT](https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf) | 5:58 | 2023-07-06 | 2025-07-18 |
 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 | 2023-09-07 | 2024-03-15 |
@@ -120,6 +120,7 @@
 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-08 | 2023-02-17 |
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 | 2023-08-25 |
 | [Die Jungs](https://open.spotify.com/track/4N3llHCe3OuwQYf1OrW60M) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Die Jungs](https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD) | 2:41 | 2024-08-08 | 2024-12-13 |
+| [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 | 2025-12-18 |  |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-12-16 | 2022-03-25 |
 | [Dies das](https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dies das](https://open.spotify.com/album/44LE68OtvDk5sBlbsrqKPi) | 2:47 | 2024-08-08 | 2024-10-25 |
 | [Diese Nacht](https://open.spotify.com/track/2wrB2jRPTd1wujQlWWnJ0r) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/5seerIZ96Tknor62ygW3on) | 2:34 | 2022-09-15 | 2022-09-18 |

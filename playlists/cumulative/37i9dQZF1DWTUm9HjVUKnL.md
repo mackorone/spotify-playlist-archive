@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,344 songs - 3 day 8 hr 49 min
+1,346 songs - 3 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,6 +676,7 @@
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-05-27 |  |
 | [Lay It on Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:34 | 2022-01-19 |  |
 | [Le bureau du médecin](https://open.spotify.com/track/2xhHu7eet33jNymFJHM4R4) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Spotify Singles](https://open.spotify.com/album/0kzBeKrnyzKrDC5JaVCrJW) | 2:39 | 2022-10-26 |  |
+| [Le loup \- Spotify Singles](https://open.spotify.com/track/0L16T8OZAAKREvReNkUft7) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Spotify Singles](https://open.spotify.com/album/1z1vT000nrYpl4h5ULVQfV) | 3:05 | 2025-12-18 |  |
 | [Leave \(Get Out\) \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:15 | 2022-01-19 |  |
 | [Ledaren \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2TPghTZ8xcT9EYlA0rUxBy) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Spotify Singles](https://open.spotify.com/album/5jgN1HbTSeA0Vc3EZJpFp1) | 3:41 | 2022-01-19 |  |
 | [Ledaren \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/3DZELcEJ8Aa4qiWhNSAseb) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Spotify Singles](https://open.spotify.com/album/5m1CwjyTanKdqqCKduZzYB) | 3:41 | 2022-10-12 |  |
@@ -798,6 +799,7 @@
 | [Miss Me More \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/7oR9f1oXlG40AgSkwfxf3M) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:13 | 2022-01-19 |  |
 | [Misty \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/034ZKE6KJpa8yVpAPQ9AMT) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:38 | 2022-01-19 |  |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2025-02-13 |  |
+| [Mon amie la rose \- Spotify Singles](https://open.spotify.com/track/4g7ELHzQTtYJoyBSnxsOol) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Spotify Singles](https://open.spotify.com/album/1z1vT000nrYpl4h5ULVQfV) | 2:17 | 2025-12-18 |  |
 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 | 2023-10-17 |  |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-12 |  |
 | [More Than Words](https://open.spotify.com/track/2eL7okeUuLM7000O6KTbbg) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/6TRs7CwVqOShWEnB7rL2Lp) | 3:34 | 2023-10-02 | 2024-04-19 |

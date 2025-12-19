@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnjjHJCYzB8.md) - [plain]
 
 > Spotify Singles, Outside, and Live Room releases from 2025\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,136 likes - 33 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,164 likes - 33 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

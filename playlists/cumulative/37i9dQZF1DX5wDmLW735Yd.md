@@ -2,9 +2,9 @@
 
 ### [Massive Drum & Bass](https://open.spotify.com/playlist/37i9dQZF1DX5wDmLW735Yd)
 
-> The world's biggest Drum 'n' Bass playlist! Cover: 1991
+> The world's biggest Drum 'n' Bass playlist! Cover: K Motionz
 
-1,107 songs - 2 day 17 hr 7 min
+1,109 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Games](https://open.spotify.com/track/5LT5jLbS19rUQpag4Exh0g) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Lottie Jones](https://open.spotify.com/artist/5dScLouYq1Xn2eUlzlpusx), [Richter](https://open.spotify.com/artist/6Ad4dWOSVxJ0UTGO3gPb0V) | [Luminous](https://open.spotify.com/album/2p9eSuvtQxF09i8pfdOI61) | 3:08 | 2024-06-28 | 2025-01-17 |
 | [Gas](https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [SUUNE](https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Gas](https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S) | 3:06 | 2025-08-21 | 2025-11-28 |
 | [Gather Around \(Good Times\)](https://open.spotify.com/track/4MhmBQgp5DisDKwHEKYlpr) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Gather Around \(Good Times\)](https://open.spotify.com/album/4cqcQCmpnlOEjwfvc1RubR) | 3:30 | 2025-08-21 | 2025-11-28 |
+| [Generator](https://open.spotify.com/track/1XEzpRR0Rb3LzDp96NPC3o) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ) | [Generator](https://open.spotify.com/album/2sTDIbFbkKNAOd1nQH3mpk) | 3:20 | 2025-12-19 |  |
 | [Genesis](https://open.spotify.com/track/3kRJjCKhIMh72bpoz6PZKr) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Genesis](https://open.spotify.com/album/42jOtzX5KZm8wHNhFT0URx) | 3:13 | 2025-10-31 |  |
 | [Get A Good Feeling](https://open.spotify.com/track/3GxOVUOw8hwoo1O1NVpcdO) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy) | [Get A Good Feeling](https://open.spotify.com/album/6dNMokUQFRKfTYGs6n1Qow) | 3:03 | 2025-09-25 |  |
 | [Get A Rush](https://open.spotify.com/track/6uX0cdJzY0gujen51zJiIt) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [Timestretch: Past](https://open.spotify.com/album/2DvzrLh9VAqbc77beqxGVK) | 3:07 | 2025-05-15 | 2025-09-26 |
@@ -457,6 +458,7 @@
 | [Hit That](https://open.spotify.com/track/4HlucmVWEnJmbamDjFvcAx) | [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl), [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Hit That](https://open.spotify.com/album/5xS7slolkhudzrWMWY3YNn) | 3:25 | 2022-04-08 | 2022-07-08 |
 | [Hit The Brakes](https://open.spotify.com/track/3tsKYr9yzgUbH6RCWlbAkX) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Hit The Brakes](https://open.spotify.com/album/1M3Tea37phD8cgP4Sy3NGz) | 3:43 | 2025-04-17 | 2025-08-29 |
 | [Hold Me Down](https://open.spotify.com/track/2gjzu5dULjZh81Ig2VNdr0) | [Manuva](https://open.spotify.com/artist/1LSTQE8NzS1tUgcniKJ8aN) | [Hold Me Down](https://open.spotify.com/album/7nOzovRMTPZDzmWncvM0L7) | 4:52 | 2022-04-22 | 2022-04-27 |
+| [Hold up your Hands](https://open.spotify.com/track/6puuJ6GcrvxxKxvDsC28bj) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK), [Freestylers](https://open.spotify.com/artist/0zg9mF9dX2knvdTKnL22T1), [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Hold up your Hands](https://open.spotify.com/album/78G5Ob58zI8nAGPzczyAWk) | 4:28 | 2025-12-19 |  |
 | [Hole](https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete), [Filthy Pig](https://open.spotify.com/artist/1MWTVItNj9UyL7AouAUONF), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Hole](https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8) | 3:32 | 2025-09-25 |  |
 | [Hooked](https://open.spotify.com/track/6iF5E6zMaAYu1LHlepossi) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Hooked](https://open.spotify.com/album/0T3jzFxbp2KhNM6zDPG9Ym) | 2:46 | 2024-04-26 | 2024-10-25 |
 | [Hooked \(On A Feeling\)](https://open.spotify.com/track/7CGRpbovLSEoaLlL5UKqvh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Sophie\-Grace](https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt) | [Hooked \(On A Feeling\)](https://open.spotify.com/album/7rjAAdIWlanmu1aVPj5HVT) | 3:21 | 2025-06-05 | 2025-09-26 |

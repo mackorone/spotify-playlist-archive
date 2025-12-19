@@ -1,6 +1,6 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Creed",
-  "num_followers": 624896,
+  "num_followers": 624902,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-11-24 12:43:42",
       "album": {
+        "name": "This Type Of Thinking (Could Do Us In)",
+        "url": "https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Vitamin R (Leading Us Along)",
+      "url": "https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1"
+    },
+    {
+      "added_at": "2025-11-24 12:43:42",
+      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 267284,
       "name": "Poor Aileen",
       "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
-    },
-    {
-      "added_at": "2025-11-24 12:43:42",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Real World",
-      "url": "https://open.spotify.com/track/70fe354BpVKEvMY0de78YO"
     },
     {
       "added_at": "2025-11-24 12:43:42",
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-11-24 12:43:42",
       "album": {
-        "name": "This Type Of Thinking (Could Do Us In)",
-        "url": "https://open.spotify.com/album/3zuIMH8P0GKtV5LR6zwGLB"
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
       "artists": [
         {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 223173,
-      "name": "Vitamin R (Leading Us Along)",
-      "url": "https://open.spotify.com/track/04NGX0b5Tgs7VsErfn5OA1"
+      "duration_ms": 231693,
+      "name": "Real World",
+      "url": "https://open.spotify.com/track/70fe354BpVKEvMY0de78YO"
     },
     {
       "added_at": "2025-11-24 12:43:42",

@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "24 Songs of Christmas",
+        "url": "https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI"
+      },
+      "artists": [
+        {
+          "name": "Rose Rae",
+          "url": "https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161495,
+      "name": "Perfect Christmas",
+      "url": "https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M"
+    },
+    {
+      "album": {
         "name": "Versions of Me (Deluxe)",
         "url": "https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef"
       },

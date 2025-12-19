@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  Kweku Smoke
 
-393 songs - 20 hr 21 min
+394 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [45](https://open.spotify.com/track/7xLP9GqWARDKSoGPsU3126) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:52 | 2022-10-07 | 2024-07-27 |
 | [80's Love](https://open.spotify.com/track/0nN4AmUQe1h2jCC1Z8rjG8) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [Brittney Crush](https://open.spotify.com/artist/43Oq0Lvc8IfW0vRTnIQ53z) | [80's Love](https://open.spotify.com/album/6ikzhi2Y1rW1gsyljgWQ57) | 3:19 | 2023-10-13 | 2023-11-11 |
 | [A Million](https://open.spotify.com/track/50Auw53j8FiSIB4frKT12I) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [A Million](https://open.spotify.com/album/1K7d4nsh7rQiu4eSqYlsAf) | 2:34 | 2021-10-14 | 2022-07-08 |
-| [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 | 2025-03-28 |  |
+| [Abebrese](https://open.spotify.com/track/6wXa8h2vC297a8ks2Ta9Gu) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Abebrese](https://open.spotify.com/album/5ZdHKnvxVASTL9RQ82QluX) | 4:20 | 2025-03-28 | 2025-12-19 |
 | [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 | 2024-05-17 | 2025-06-20 |
 | [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 | 2025-10-24 |  |
 | [ADISA OGBON \(GOD SENT LAYCON\)](https://open.spotify.com/track/2qqq6gSvMdMpt75GP6uAvD) | [LAYCON](https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP) | [ANY GIVEN MONDAY III](https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW) | 3:12 | 2024-07-19 | 2024-10-05 |
@@ -277,6 +277,7 @@
 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 | 2023-05-04 | 2024-05-17 |
 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 | 2023-03-17 | 2024-07-27 |
 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2023-04-20 | 2024-07-27 |
+| [Piment](https://open.spotify.com/track/0uJ0v5aeLYpgBrYIClyHVV) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:08 | 2025-12-19 |  |
 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 | 2025-02-14 |  |
 | [Platinum \(feat\. Frank Casino\)](https://open.spotify.com/track/39PW0FxVarJ5q7XUT6Lb67) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Frank Casino](https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x) | [Platinum \(feat\. Frank Casino\)](https://open.spotify.com/album/44mgzWsvqEfFDUm1v8ZCf7) | 3:43 | 2024-10-12 | 2024-12-06 |
 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/2kxWRS8ZcJZ51Dik5uKGK6) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/4aveS935cOYHDIGnb2RT5M) | 3:25 | 2021-10-14 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Sedef  Seb\u00fcktekin on cover.",
-  "num_followers": 572241,
+  "num_followers": 572265,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,22 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+        "name": "Primos (with Hermanos Guti\u00e9rrez)",
+        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+      "duration_ms": 169880,
+      "name": "Primos (with Hermanos Guti\u00e9rrez)",
+      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
     },
     {
       "added_at": "2025-11-07 19:58:52",
@@ -251,22 +255,18 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "Primos (with Hermanos Guti\u00e9rrez)",
-        "url": "https://open.spotify.com/album/3tr64TtgZxkBgIOs3xJUpE"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Primos (with Hermanos Guti\u00e9rrez)",
-      "url": "https://open.spotify.com/track/23VheE9yyVeFx3v58R696E"
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -299,22 +299,6 @@
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2025-11-07 19:58:52",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -351,6 +335,22 @@
       "duration_ms": 191773,
       "name": "Afuera (with Ed Maverick)",
       "url": "https://open.spotify.com/track/0MXIDtvwmzNawJuLI5wBuv"
+    },
+    {
+      "added_at": "2025-11-07 19:58:52",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/6GTw2AKd5RhtzkMQ9utnGJ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "Rose City Band",
-        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
-      },
-      "artists": [
-        {
-          "name": "Rose City Band",
-          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
-        }
-      ],
-      "duration_ms": 394323,
-      "name": "Rivers of Mind",
-      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
-    },
-    {
-      "added_at": "2025-10-24 06:00:18",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2025-10-24 06:00:18",
+      "album": {
+        "name": "Rose City Band",
+        "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
+      },
+      "artists": [
+        {
+          "name": "Rose City Band",
+          "url": "https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK"
+        }
+      ],
+      "duration_ms": 394323,
+      "name": "Rivers of Mind",
+      "url": "https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "The Efferusphere",
-        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        }
-      ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
-    },
-    {
-      "added_at": "2025-10-24 06:00:18",
-      "album": {
         "name": "Hippie Hourrah!",
         "url": "https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "Bud Spencer Blues Explosion",
-        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
       "artists": [
         {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
         }
       ],
-      "duration_ms": 195013,
-      "name": "Hey Boy Hey Girl - Cover Version",
-      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -1111,6 +1095,22 @@
       "duration_ms": 267640,
       "name": "Another Quiet Sunday (Keep Moving On)",
       "url": "https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0"
+    },
+    {
+      "added_at": "2025-10-24 06:00:18",
+      "album": {
+        "name": "Bud Spencer Blues Explosion",
+        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Hey Boy Hey Girl - Cover Version",
+      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "WILLING",
-        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "WILLING",
-      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
-    },
-    {
-      "added_at": "2025-10-24 06:00:18",
-      "album": {
         "name": "Cardboard Pile",
         "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 246500,
       "name": "Cardboard Pile",
       "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
+    },
+    {
+      "added_at": "2025-10-24 06:00:18",
+      "album": {
+        "name": "WILLING",
+        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "WILLING",
+      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
+      "added_at": "2025-10-24 06:00:18",
+      "album": {
         "name": "Don't Delay, Join Today!",
         "url": "https://open.spotify.com/album/28ArhpcPDNuJFqqWGmevOi"
       },
@@ -1483,34 +1499,18 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "H\u00e4xan",
-        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
+        "name": "Non Ex Orbis",
+        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
       },
       "artists": [
         {
-          "name": "Yo Diablo",
-          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
         }
       ],
-      "duration_ms": 247034,
-      "name": "Cap.4: El Sabbath de las Brujas",
-      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
-    },
-    {
-      "added_at": "2025-10-24 06:00:18",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+      "duration_ms": 486860,
+      "name": "Mother Seletta",
+      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "Non Ex Orbis",
-        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
+        "name": "H\u00e4xan",
+        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
       },
       "artists": [
         {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+          "name": "Yo Diablo",
+          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
         }
       ],
-      "duration_ms": 486860,
-      "name": "Mother Seletta",
-      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
+      "duration_ms": 247034,
+      "name": "Cap.4: El Sabbath de las Brujas",
+      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
     },
     {
       "added_at": "2025-10-24 06:00:18",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2025-10-24 06:00:18",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
+        "name": "Canti, Vol. I",
+        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
       },
       "artists": [
         {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
         }
       ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
+      "duration_ms": 434000,
+      "name": "Nel Tempio Blu",
+      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

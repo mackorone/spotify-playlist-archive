@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 197324,
       "name": "45",
       "url": "https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 170566,
       "name": "Adore Me",
       "url": "https://open.spotify.com/track/3i3BPNx2LZtNK7thr7nYPk"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 176335,
       "name": "Ancestors",
       "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
@@ -736,14 +736,14 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
     },
     {
       "album": {
-        "name": "Backstreets",
+        "name": "BACKSTREETS",
         "url": "https://open.spotify.com/album/15SLKSZFLE7f2mMR84D1bK"
       },
       "artists": [
@@ -754,9 +754,9 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 211074,
-      "name": "Backstreets",
+      "name": "BACKSTREETS",
       "url": "https://open.spotify.com/track/3XzGb1aeUv1lu0u1Bozknw"
     },
     {
@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 167122,
       "name": "Claws",
       "url": "https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ"
@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/6Aq7AT4U1yZ4jjCXwA0Z5u"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165744,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/1ij4ptkOTHNXvRCySVHYrf"
+    },
+    {
+      "album": {
         "name": "Falter",
         "url": "https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc"
       },
@@ -3220,7 +3238,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 178333,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk"
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 165230,
       "name": "Hot!",
       "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
@@ -4332,7 +4350,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 196524,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 207419,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO"
@@ -9570,7 +9588,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 167224,
       "name": "Wine Me & Dine Me",
       "url": "https://open.spotify.com/track/6LZd7wgaifadCDNF1zUxMZ"

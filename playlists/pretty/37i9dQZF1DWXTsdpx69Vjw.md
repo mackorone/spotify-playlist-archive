@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTsdpx69Vjw.md) - [plain]
 
 > The official playlist for The Pentaverate\. Watch now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512 likes - 18 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 18 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

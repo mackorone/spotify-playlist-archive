@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Sonny Fodera, Poppy Baskcomb, D.O.D
+> The hottest tracks with the freshest hits! Cover: Yes Boone
 
 409 songs - 21 hr 48 min
 

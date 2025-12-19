@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: srwks\. \(Thailand\)
 
-315 songs - 21 hr 40 min
+316 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Slow Down](https://open.spotify.com/track/5OE3zUfKo2VuJBTguecfVj) | [Commemorate](https://open.spotify.com/artist/7DIueeIli4tlniV0KYVMs8) | [Slow Down](https://open.spotify.com/album/4HZVcgorCLI63kxzvGYMaV) | 4:20 | 2025-03-06 | 2025-10-10 |
 | [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 | 2025-09-27 |
 | [Slugs](https://open.spotify.com/track/4iTX1HFVrva7chgeMaeR4d) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 3:06 | 2025-10-09 |  |
+| [Soaring](https://open.spotify.com/track/2gd6RPWhhv0Oe4Bw8CdjrF) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Soaring](https://open.spotify.com/album/6Spk6JGQMCH90VREI0e5pL) | 4:56 | 2025-12-18 |  |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 | 2025-02-08 |
 | [Someday](https://open.spotify.com/track/3jchCGbzTNDXYa6qjkESBz) | [reika](https://open.spotify.com/artist/6LIKgENy8yhUCxPntuKCYV) | [Someday](https://open.spotify.com/album/5tfUvcfoAHbQsRGMPi8eZT) | 2:59 | 2025-06-06 |  |
 | [someday we'll live in the sky](https://open.spotify.com/track/3mOFyiRlgcaxMyEdJfQLNO) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [someday we'll live in the sky](https://open.spotify.com/album/5la6f9KZoB8XRn8BYO49FN) | 2:17 | 2025-02-20 | 2025-10-10 |

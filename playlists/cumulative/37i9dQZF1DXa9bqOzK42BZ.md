@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-300 songs - 1 day 2 hr 4 min
+302 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Uniongoze Yesu](https://open.spotify.com/track/3Ide09ppPsNh2rI7bVcGgY) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol\. 4](https://open.spotify.com/album/1RHHM6zh03RBlS16N4Fl6Y) | 8:10 | 2022-06-24 | 2023-04-06 |
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-06-24 | 2023-05-12 |
 | [Unitembeze](https://open.spotify.com/track/2oBx3ML3o6KPiMNz5f2XcL) | [Anitha Musoki](https://open.spotify.com/artist/3y4i8BE5rQEfmjXid5kcmf) | [Unitembeze](https://open.spotify.com/album/2IFh10dWlXvgSvUmLMCeMg) | 4:08 | 2023-07-14 | 2024-10-04 |
+| [Ushuhuda](https://open.spotify.com/track/2xxqdDdIyDgNe4IorQ8B6D) | [Godfrey Mteule](https://open.spotify.com/artist/7dLAn6bKOjnhJEk6NXK6hs), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Ushuhuda](https://open.spotify.com/album/277T9BJRqL3v7zK8tp4LK9) | 5:07 | 2025-12-19 |  |
 | [Usichelewe](https://open.spotify.com/track/5x8QDSx5hM7esdrYctNlmY) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Usichelewe](https://open.spotify.com/album/6PpM4u4Xv6dFitIVEJezSq) | 3:36 | 2025-03-14 | 2025-04-18 |
 | [Usikubali](https://open.spotify.com/track/5gBgut3hVjharEPQOnqriU) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Usikubali](https://open.spotify.com/album/0JWlr7UlSqz2Hm44js2e92) | 6:24 | 2025-06-27 |  |
 | [Usiniache \- Remix](https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Usiniache \(Remix\)](https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2) | 4:30 | 2023-05-12 | 2023-06-16 |
@@ -299,6 +300,7 @@
 | [Wewe Pekee](https://open.spotify.com/track/28IQhL2pviXFkWXMz4sxn3) | [Alice Kamande](https://open.spotify.com/artist/4jmGHeX5bemV98UWtA3nuJ) | [Wewe Pekee](https://open.spotify.com/album/1eP2tdKCLnJbBPuXiMiL2j) | 4:57 | 2022-06-24 | 2023-04-21 |
 | [Weza](https://open.spotify.com/track/6w4BSdXsQzPF6BVcV0Zao4) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs), [Noshi](https://open.spotify.com/artist/2hUVUNTpZvMgrAFG8pd7BZ), [Telvin El](https://open.spotify.com/artist/58qevdvpwGW38wWX4vcEuB) | [Weza](https://open.spotify.com/album/3w3gDuleNJG10dGKkRFeIL) | 3:01 | 2025-10-24 |  |
 | [Who You Are](https://open.spotify.com/track/7wGFgjK6ExstaxgaxMkUbq) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Who You Are](https://open.spotify.com/album/2rJn9soQ8jyta1maaJSQGM) | 2:21 | 2024-02-23 | 2024-09-06 |
+| [Wimbo Wa Sifa](https://open.spotify.com/track/2Y5aUvP2asWvWHKll6oZPw) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Wimbo Wa Sifa](https://open.spotify.com/album/56WotTirI3QttnBzgYSgcf) | 6:58 | 2025-12-19 |  |
 | [Yamekwisha](https://open.spotify.com/track/3fanFHEVq7NpudvP1LizRe) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [Yamekwisha](https://open.spotify.com/album/0awt0U85FgJVH0rxgW5Cd4) | 4:32 | 2025-07-11 | 2025-08-23 |
 | [Yanashangaza](https://open.spotify.com/track/13IMFj8s9ehrpXCriCxtzR) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Yanashangaza](https://open.spotify.com/album/6rcwfHaazv5sH0OJ8AA5SP) | 4:19 | 2024-05-31 | 2024-11-22 |
 | [Yatapita](https://open.spotify.com/track/6u3Td4ikcjsfVyaVGrRsWT) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Yatapita](https://open.spotify.com/album/75zapYMms32TRYL8o2J8gv) | 2:59 | 2025-07-18 |  |

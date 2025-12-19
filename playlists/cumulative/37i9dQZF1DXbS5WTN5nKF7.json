@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Pierre Garnier !",
+  "description": "Le meilleur des hits avec David Guetta, Teddy Swims & Tones And I !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -692,6 +692,24 @@
       "duration_ms": 172413,
       "name": "Avec ou sans",
       "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
+    },
+    {
+      "album": {
+        "name": "C amir\u00b2",
+        "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Avec toi",
+      "url": "https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja"
     },
     {
       "album": {
@@ -2151,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 148991,
       "name": "Game Started",
       "url": "https://open.spotify.com/track/6qB2O09Bxs3bCKiWT4UVOv"
@@ -4201,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/0EWYv5VQNOlr8l6Tqlf86j"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/65caoxozFBWYUlUvX4wp4S"
+    },
+    {
+      "album": {
         "name": "Last Night (feat. Sadie Rose Van)",
         "url": "https://open.spotify.com/album/1Em5n90K3b7S4LEyV1GAF0"
       },
@@ -5510,7 +5564,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -5666,7 +5720,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 205202,
       "name": "Orchestra - 20th Anniversary Version",
       "url": "https://open.spotify.com/track/62eKaBn3ahoFQHIyqaAZk7"
@@ -5844,7 +5898,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj"
@@ -6282,7 +6336,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 173364,
       "name": "Restes d'averses - Regretting You Version",
       "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"

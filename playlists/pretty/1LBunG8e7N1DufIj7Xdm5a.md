@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 3,771 songs - 8 day 8 hr 0 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 3,785 songs - 8 day 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3779,5 +3779,19 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3769 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 |
 | 3770 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 |
 | 3771 | [Better Day](https://open.spotify.com/track/6noFVkavNOXKDrLGDY8TwZ) | [Guilherme Resende](https://open.spotify.com/artist/3WTCGIL67DASnxYb76coyw) | [Better Day](https://open.spotify.com/album/01zk0chCLxGkzycreINElD) | 5:12 |
+| 3772 | [El dueño del Party](https://open.spotify.com/track/07FIiGSYq5GtNlR86cHlDv) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [DIMEALED](https://open.spotify.com/artist/2jOM8zblBweYrQA5gzL8fO) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:58 |
+| 3773 | [CERRITOS](https://open.spotify.com/track/18Puv3c1PJYe9i3z17dnEZ) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:44 |
+| 3774 | [Rockstar \- Spanish Version](https://open.spotify.com/track/2G5d0RsPFilKiCJy9XjuAy) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:59 |
+| 3775 | [Or Nah \- Spanish Version](https://open.spotify.com/track/1q9jnVQEIEgTBq4OsZjVfM) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 2:05 |
+| 3776 | [DOSMIL12](https://open.spotify.com/track/7B8R7aR8PGHVAAQUgX2Dq5) | [Esteban ZG](https://open.spotify.com/artist/3bZQ5XeGVj4EOhwIzhVrIa), [Satelo](https://open.spotify.com/artist/2aEonlOUwQ2geovvYxpoHX) | [DOSMIL12](https://open.spotify.com/album/1oWj2c4nP2PMX8kNDgqcqK) | 2:56 |
+| 3777 | [Vacilando](https://open.spotify.com/track/56pXQI5zKpcgnJ87h5vGZ7) | [Xefab](https://open.spotify.com/artist/3BlzHve8NxzQGIDTYJJwHC) | [Vacilando](https://open.spotify.com/album/1V6NXy4zao3d3Bq3TakNiE) | 2:38 |
+| 3778 | [Deportivo](https://open.spotify.com/track/24xdHV73sUJcVjN6DPeiJJ) | [Teosngt](https://open.spotify.com/artist/2YMfDulhdav25HLpOXBswU) | [Deportivo](https://open.spotify.com/album/4eRiJw285IDW56Ue9mCDBo) | 2:34 |
+| 3779 | [Or Nah \(Spanish Version\) \- REMIX](https://open.spotify.com/track/51Pz9VLswNq2XhhJWymxau) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [Charlie Bermudez](https://open.spotify.com/artist/1OhCrhy6KDdkSkRSR1wVtf) | [Or Nah \(Spanish Version\) \[REMIX\]](https://open.spotify.com/album/0CDWNyEjDajoRbzzbjVX5M) | 1:50 |
+| 3780 | [Lean On](https://open.spotify.com/track/47hBqp71hZubmZljrBKKSD) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Lean On](https://open.spotify.com/album/6ARYAoMMorsULPHDm4NuTT) | 2:15 |
+| 3781 | [SAD!](https://open.spotify.com/track/6s5P0hX86ml031Kld7gxcV) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [SAD!](https://open.spotify.com/album/0kugS8PQcSzjvz8QY2oTe7) | 2:35 |
+| 3782 | [RocKstaR \- Spanish Version](https://open.spotify.com/track/57l5Eqm6mlq9uWUHo1dSOa) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [RocKstaR \(Spanish Version\)](https://open.spotify.com/album/5lymQmloncZrfEnm5BMknD) | 1:59 |
+| 3783 | [Rockstar \- Spanish Version](https://open.spotify.com/track/2G5d0RsPFilKiCJy9XjuAy) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:59 |
+| 3784 | [CERRITOS](https://open.spotify.com/track/18Puv3c1PJYe9i3z17dnEZ) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:44 |
+| 3785 | [Haze](https://open.spotify.com/track/7Fy3ujBBr9Th9FNuJV7FZ2) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Haze](https://open.spotify.com/album/2AjepJK9KpoB4MZ4CU0aYM) | 4:05 |
 
-Snapshot ID: `AAAGROwWUYQif8D4inhSzzbsuS5zNzfZ`
+Snapshot ID: `AAAGUvxWekgUyh1gO+DktZnb+Audyl2c`

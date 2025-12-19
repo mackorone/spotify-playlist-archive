@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 146046,
+  "num_followers": 146174,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-12-05 00:00:31",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
-    },
-    {
-      "added_at": "2025-12-05 00:00:31",
-      "album": {
         "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/2d3wa6DNw6HEdrKf6VmW4O"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 191640,
       "name": "The Christmas Song (Merry Christmas To You) - Remastered 1999",
       "url": "https://open.spotify.com/track/4cqLCCMzG6GQ9Bch2PBzFp"
+    },
+    {
+      "added_at": "2025-12-05 00:00:31",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
     },
     {
       "added_at": "2025-12-05 00:00:31",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-12-05 00:00:31",
       "album": {
-        "name": "Christmas Wishes",
-        "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 166146,
-      "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
-      "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
-    },
-    {
-      "added_at": "2025-12-05 00:00:31",
-      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -871,18 +851,22 @@
     {
       "added_at": "2025-12-05 00:00:31",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+        "name": "Christmas Wishes",
+        "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
       },
       "artists": [
         {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+      "duration_ms": 166146,
+      "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
+      "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
     },
     {
       "added_at": "2025-12-05 00:00:31",
@@ -899,6 +883,22 @@
       "duration_ms": 166801,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
+    },
+    {
+      "added_at": "2025-12-05 00:00:31",
+      "album": {
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2025-12-05 00:00:31",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-05 00:00:31",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
-      "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
-    },
-    {
-      "added_at": "2025-12-05 00:00:31",
-      "album": {
         "name": "The Magic Of Christmas",
         "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 207946,
       "name": "The Magic Of Christmas",
       "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
+    },
+    {
+      "added_at": "2025-12-05 00:00:31",
+      "album": {
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh"
     },
     {
       "added_at": "2025-12-05 00:00:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-05 00:00:31",
       "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 191378,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
-    },
-    {
-      "added_at": "2025-12-05 00:00:31",
-      "album": {
         "name": "Ultimate Pop Christmas",
         "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 188400,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
+    },
+    {
+      "added_at": "2025-12-05 00:00:31",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
       "added_at": "2025-12-05 00:00:31",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-12-05 00:00:31",
       "album": {
+        "name": "Love you left behind",
+        "url": "https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN"
+      },
+      "artists": [
+        {
+          "name": "Kara Marni",
+          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
+        }
+      ],
+      "duration_ms": 192548,
+      "name": "Love you left behind",
+      "url": "https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB"
+    },
+    {
+      "added_at": "2025-12-05 00:00:31",
+      "album": {
         "name": "The One (Christmas Version)",
         "url": "https://open.spotify.com/album/6l3XYPsZaXS9GQUr9RTgpV"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 208853,
       "name": "The One - Christmas Version",
       "url": "https://open.spotify.com/track/1yrybKSmjixau95vLljPyP"
-    },
-    {
-      "added_at": "2025-12-05 00:00:31",
-      "album": {
-        "name": "Love you left behind",
-        "url": "https://open.spotify.com/album/4WuvIZzFcOzJ8UiERabXGN"
-      },
-      "artists": [
-        {
-          "name": "Kara Marni",
-          "url": "https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv"
-        }
-      ],
-      "duration_ms": 192548,
-      "name": "Love you left behind",
-      "url": "https://open.spotify.com/track/5O6GzzlNZWfA2ypvIIZSzB"
     },
     {
       "added_at": "2025-12-05 00:00:31",

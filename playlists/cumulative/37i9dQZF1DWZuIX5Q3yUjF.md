@@ -4,7 +4,7 @@
 
 > Emili Kasa in cover della playlist dell'R&B italiano 🫀
 
-953 songs - 1 day 23 hr 0 min
+957 songs - 1 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Pensavo ire Tu](https://open.spotify.com/track/55at4rGsZcoJqQ3pHfHqE4) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Pensavo ire Tu](https://open.spotify.com/album/3RxcNXSD61x7q4zs9bTogZ) | 3:00 | 2025-09-11 | 2025-11-14 |
 | [PENSI ANCORA A NOI?](https://open.spotify.com/track/1GAW62K2UHZkT3gi1X5ZII) | [Million](https://open.spotify.com/artist/0OTGCGd0v7B5QBXGuAfyN0), [Yoel](https://open.spotify.com/artist/5dDat3s8jwODKqY93IXLBU), [MasterMaind](https://open.spotify.com/artist/5hokAbx89tbpnccoyvxGA6) | [PENSI ANCORA A NOI?](https://open.spotify.com/album/6qw8MNDlCiaCGB4nVl67Mf) | 3:05 | 2025-04-03 | 2025-09-05 |
 | [Per Me Sei...](https://open.spotify.com/track/1Fw0XBUTmJX0c3Knq6YmnM) | [Primo Amore](https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo) | [Per Me Sei...](https://open.spotify.com/album/0jOh1KV4HkNY8gJg5k59bz) | 2:51 | 2024-09-26 | 2025-01-24 |
+| [per un’ultima volta](https://open.spotify.com/track/3BpqqBKb1vKxh0k3yvFPol) | [Elena Manuele](https://open.spotify.com/artist/6WUA50yJ87gbWrYEPGizxl) | [per un’ultima volta](https://open.spotify.com/album/0BU3fqbeuAvuV4L5sbZtxS) | 3:11 | 2025-12-18 |  |
 | [Perdermi](https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Perdermi](https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1) | 2:57 | 2023-01-19 | 2023-03-31 |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-05-26 | 2023-04-28 |
 | [Perdonarci](https://open.spotify.com/track/03BBcJYJLyobrUtAA3p50I) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Perdonarci](https://open.spotify.com/album/1fi0JDT6VMXOkJ0w6pHJCb) | 2:38 | 2024-09-26 | 2025-04-04 |
@@ -755,6 +756,7 @@
 | [SCHIÀNTATI](https://open.spotify.com/track/5qlL4tGxC939pEiWehkYBv) | [Sbazzee](https://open.spotify.com/artist/2bFy8BEjn97wFtXAFelhY8) | [SCHIÀNTATI](https://open.spotify.com/album/1fvhexzguzgU36ysYL5S9j) | 3:04 | 2024-04-25 | 2024-05-17 |
 | [SCINNE](https://open.spotify.com/track/6YXMopaQMquMzIp0QYTiLA) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [SOLIDAGO](https://open.spotify.com/album/4krgtckMU7NY6UxCOqATyr) | 2:48 | 2023-01-12 | 2023-05-19 |
 | [Scinneme 'a cuollo](https://open.spotify.com/track/3yZATypwyLd67dhqCX8jw1) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX) | [Scinneme 'a cuollo](https://open.spotify.com/album/377bAFwHyR9sbbQs34ZFtJ) | 2:07 | 2025-11-20 |  |
+| [SCONOSCIUTI](https://open.spotify.com/track/7BY4Qi7LzDKzOJY0oUCtkz) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [Eiemgei](https://open.spotify.com/artist/1ZfpdLI175LHskzbIAtrrA) | [SCONOSCIUTI](https://open.spotify.com/album/4EXzh7rQYKB1K05bG34RwA) | 3:06 | 2025-12-18 |  |
 | [Scorpione](https://open.spotify.com/track/5AERJKSE77keQOpneV26rl) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Scorpione](https://open.spotify.com/album/6zyNdgewCfx6Hstz3g5xQi) | 2:23 | 2024-11-14 | 2025-01-24 |
 | [Scuro](https://open.spotify.com/track/0kZycMhiMb6TkgcoVoSYbH) | [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu) | [Scuro](https://open.spotify.com/album/18k7elm807GRhNZQVEfzgV) | 2:40 | 2025-01-30 | 2025-07-11 |
 | [Scusame \(feat\. SVM\)](https://open.spotify.com/track/6pXyhPamzXn79LFvMSrYZQ) | [Keyra](https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC), [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL) | [Scusame \(feat\. SVM\)](https://open.spotify.com/album/4xgf5oNHQaVvNkSCDepWUO) | 2:46 | 2024-09-05 | 2024-11-15 |
@@ -823,6 +825,7 @@
 | [Sparring Partner](https://open.spotify.com/track/1cD0Yb3NyGkatnm6fVx9tQ) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Sparring Partner](https://open.spotify.com/album/6zB8hy11G0P75DYhXPTrir) | 3:04 | 2022-05-19 | 2023-06-09 |
 | [Specchi](https://open.spotify.com/track/5M4zuk2CV31ataWytyHyul) | [Foudre](https://open.spotify.com/artist/5kx2DaxI4fGesXqK8kcKZI), [Paco6x](https://open.spotify.com/artist/07XOQTC2IEP8nI0NPvmjtK) | [Specchi](https://open.spotify.com/album/7bnDMHPpd8DrNDjlSsJC5j) | 2:22 | 2023-06-22 | 2023-07-21 |
 | [Specchio](https://open.spotify.com/track/3WmVyDDXpxFFR0fEIGTjZg) | [Taoma](https://open.spotify.com/artist/0aLwoMVln0XlsVY3A2UI04) | [Specchio](https://open.spotify.com/album/609VpTgRMxIjizyhuYeipg) | 3:36 | 2023-11-23 | 2024-01-05 |
+| [Specchio \(ultimo quarto di luna\)](https://open.spotify.com/track/2mJx6pmaeHlAAyF3pzOmFK) | [Ama Dee](https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y) | [Specchio \(ultimo quarto di luna\)](https://open.spotify.com/album/0OCOa40pTG9j1tW6ZIf58O) | 2:45 | 2025-12-18 |  |
 | [Speed Date](https://open.spotify.com/track/3OfA5QvSylODr8zQVRkBaY) | [Numb](https://open.spotify.com/artist/0lnigCzX01TXbgiLRj1Hw6), [Tokyo](https://open.spotify.com/artist/2e7A8E2x4SssvoClbchX0Q), [ORLVNDO](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Speed Date](https://open.spotify.com/album/3FmILma5gQuLSQ6Iwex9Xr) | 3:19 | 2023-06-01 | 2024-03-22 |
 | [SPUNTA BLU](https://open.spotify.com/track/6pkx41c7BZukiBOxgVOnX4) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [The Ceasars](https://open.spotify.com/artist/0MwDm81UjbaXIeFCeCa5sw), [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k) | [SPUNTA BLU](https://open.spotify.com/album/6xq8k8yP1tzAAzD13dIXEu) | 2:46 | 2024-05-02 | 2024-09-27 |
 | [Stai tra fra](https://open.spotify.com/track/0bP9y38PARMlFUrT984lp0) | [Sophia Murgia](https://open.spotify.com/artist/3w2SyNbKmiG5ckNUZE5NZe) | [Stai tra fra](https://open.spotify.com/album/6nqXNm6sHNLt29nr3MzLhN) | 3:32 | 2022-05-05 | 2022-09-09 |
@@ -917,6 +920,7 @@
 | [Universo](https://open.spotify.com/track/7ASGGiTB8dAfD0Qj7h2E6x) | [Venere](https://open.spotify.com/artist/0oRYvj2dYUhN9rAcxUqu4f) | [Universo](https://open.spotify.com/album/76ekt5JP6roqnpBrp3pu9I) | 2:43 | 2022-05-05 | 2022-10-07 |
 | [UOCCHIE](https://open.spotify.com/track/7JVApJWNWo6sihWeWLv5Kr) | [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [UOCCHIE](https://open.spotify.com/album/4QRpXNEhLjopJVrVwdKyg3) | 3:13 | 2024-04-25 | 2024-10-25 |
 | [UP](https://open.spotify.com/track/0lEcmsS175dpaOBvGFMvoh) | [Kay](https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU) | [UP](https://open.spotify.com/album/37D4xeFm2WXkN4nMyQXN1C) | 1:49 | 2025-01-23 | 2025-07-11 |
+| [Up & Down](https://open.spotify.com/track/10kkd8H0vLV5qHBBrjBxXE) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Nablito](https://open.spotify.com/artist/1QKYKUlsIRvgzzDuAidIgU) | [Up & Down](https://open.spotify.com/album/2xiZQbz7puZdU6cLPvdJfo) | 3:02 | 2025-12-18 |  |
 | [Upgrade](https://open.spotify.com/track/4WSpQYWSnmLIKIDxLwaBAK) | [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Upgrade](https://open.spotify.com/album/3o5gHZSjCsfIDqTbYoTwGt) | 2:22 | 2024-04-15 | 2024-06-14 |
 | [Usa La Memoria](https://open.spotify.com/track/0uCM9gbqQT4292zquIDJ39) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Punto Zero](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 2:43 | 2023-11-30 | 2024-04-16 |
 | [UYE](https://open.spotify.com/track/4uSmSuFnlTK04y6QMnd6Wp) | [APOLLO QUATTRO](https://open.spotify.com/artist/4s6RBNeuADV5LVSl0lI0m8) | [UYE](https://open.spotify.com/album/2ErxXklekyGIVxWfbkcjec) | 2:53 | 2025-05-29 | 2025-07-04 |

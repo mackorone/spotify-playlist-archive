@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: PxRRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,124 likes - 160 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,137 likes - 160 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

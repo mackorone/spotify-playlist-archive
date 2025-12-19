@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "All the new music you need to hear right now. Cover: Fred again..",
+  "description": "All the new music you need to hear right now. Cover: A.G. Cook",
   "name": "All New All Now",
   "tracks": [
     {
@@ -10604,7 +10604,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 170106,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
@@ -16740,7 +16740,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
@@ -16984,6 +16984,24 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
+        "name": "Dread - The Moment (Original Score)",
+        "url": "https://open.spotify.com/album/1RCS8GsTDFMZld7vQbALG1"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349714,
+      "name": "Dread - The Moment (Original Score)",
+      "url": "https://open.spotify.com/track/0o6QKerRaO7Hq5tOvVXBLH"
     },
     {
       "album": {
@@ -22804,7 +22822,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 140472,
       "name": "Get Around",
       "url": "https://open.spotify.com/track/6AF86U8bfXoXf54cqbHVGo"
@@ -28096,7 +28114,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 244973,
       "name": "Hula Girl",
       "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
@@ -36163,6 +36181,24 @@
     },
     {
       "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE"
+    },
+    {
+      "album": {
         "name": "Lonely Heart",
         "url": "https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q"
       },
@@ -40052,6 +40088,28 @@
       "duration_ms": 280790,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5goc5XgGhACpIurZUOe9eM"
+    },
+    {
+      "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
     },
     {
       "album": {
@@ -45087,6 +45145,28 @@
     },
     {
       "album": {
+        "name": "Out Of My Body (feat. EJAE)",
+        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "Out Of My Body (feat. EJAE)",
+      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
+    },
+    {
+      "album": {
         "name": "Out Of My System",
         "url": "https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb"
       },
@@ -46010,6 +46090,28 @@
       "duration_ms": 255320,
       "name": "Peaceful Place",
       "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
+    },
+    {
+      "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147243,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
     },
     {
       "album": {
@@ -52066,7 +52168,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 229655,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/0HA0F6W8khJgVgZwSEdTgN"
@@ -54958,7 +55060,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 152750,
       "name": "Stranger to love",
       "url": "https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy"
@@ -57834,7 +57936,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 174688,
       "name": "The Day That I Die",
       "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
@@ -65424,7 +65526,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

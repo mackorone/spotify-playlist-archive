@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 504797,
+  "num_followers": 504823,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAADO9d95k5aYBw92xu8kP7Q4",
+  "snapshot_id": "aUHygAAAAAATdHloVrdMkN3X7LeVxq7F",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pastel Blues",
-        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 160840,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/1MBgXSmV94CZZT2dXyctBb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 168306,
       "name": "Tomorrow Is My Turn",
       "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 160840,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/1MBgXSmV94CZZT2dXyctBb"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone & Piano (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Nobody's Fault but Mine",
-      "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 148826,
       "name": "Backlash Blues",
       "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Nobody's Fault but Mine",
+      "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "One September Day",
-      "url": "https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 202053,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "One September Day",
+      "url": "https://open.spotify.com/track/2Y2M7TztqchZwMoszbYapJ"
     },
     {
       "added_at": null,

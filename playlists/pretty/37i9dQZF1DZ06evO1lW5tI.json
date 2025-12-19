@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 252201,
+  "num_followers": 252256,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAABCeU9eE+PpTU2mg/EAvs6r",
+  "snapshot_id": "aUHygAAAAAD4EUJYdKJWkQ5EmcGaWyaw",
   "tracks": [
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "A Calf Born in Winter",
+        "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 298333,
-      "name": "So We Won't Forget",
-      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
+      "duration_ms": 209046,
+      "name": "A Calf Born In Winter",
+      "url": "https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq"
     },
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Calf Born in Winter",
-        "url": "https://open.spotify.com/album/4Jc3Vg4MHHDahhPWbHm8nM"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 209046,
-      "name": "A Calf Born In Winter",
-      "url": "https://open.spotify.com/track/3uR4I2H3X3CwNiwJOUPqlq"
+      "duration_ms": 298333,
+      "name": "So We Won't Forget",
+      "url": "https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 315789,
-      "name": "Little Joe and Mary ii",
-      "url": "https://open.spotify.com/track/4yMzaFna7vVKKZ3J23KFda"
+      "duration_ms": 224688,
+      "name": "Dern Kala ii",
+      "url": "https://open.spotify.com/track/69nbehsKfuZHdQzlNtTVHW"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 224688,
-      "name": "Dern Kala ii",
-      "url": "https://open.spotify.com/track/69nbehsKfuZHdQzlNtTVHW"
+      "duration_ms": 315789,
+      "name": "Little Joe and Mary ii",
+      "url": "https://open.spotify.com/track/4yMzaFna7vVKKZ3J23KFda"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
       "duration_ms": 258044,
       "name": "Lady and Man",
       "url": "https://open.spotify.com/track/6izNOFapl67iFcq8OPdwby"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Infamous Bill",
-        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 163961,
-      "name": "The No.3",
-      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Universe Smiles Upon You ii",
         "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+        "name": "The Infamous Bill",
+        "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 178436,
-      "name": "Pon P\u00f3n",
-      "url": "https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X"
+      "duration_ms": 163961,
+      "name": "The No.3",
+      "url": "https://open.spotify.com/track/4RTRdh9HzUPLEsqbdS6R9c"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 240742,
+      "name": "Evan Finds the Third Room",
+      "url": "https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 199032,
       "name": "Ada Jean",
       "url": "https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 240743,
-      "name": "Evan Finds the Third Room",
-      "url": "https://open.spotify.com/track/2nIhVeiF7vlUmPyevRKrKV"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Farolim de Felgueiras",
-      "url": "https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 190999,
       "name": "Maria Tambi\u00e9n",
       "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Farolim de Felgueiras",
+      "url": "https://open.spotify.com/track/4KMMzqVU3SL9U2JPmwfvsb"
     },
     {
       "added_at": null,

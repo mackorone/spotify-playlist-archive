@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,785 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,831 likes - 68 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 63 | [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 |
 | 64 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
 | 65 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
-| 66 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
-| 67 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
+| 66 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
+| 67 | [Higher](https://open.spotify.com/track/6BSQNP60x1gUBToCF66S6r) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Higher](https://open.spotify.com/album/2GcTWVCHl9KR00vBbMv7Uj) | 2:33 |
 | 68 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
 
 Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

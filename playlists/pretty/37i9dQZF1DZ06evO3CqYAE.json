@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13977,
+  "num_followers": 13983,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAALfpvnL3XBMnaDaKy9sp65",
+  "snapshot_id": "aUHygAAAAADpgCt+gORk/mgbvkyOq5I9",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Move",
+        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taking Care",
         "url": "https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 394170,
       "name": "Omekannaya",
       "url": "https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Move",
-        "url": "https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 287831,
-      "name": "We Move",
-      "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
     },
     {
       "added_at": null,
@@ -811,26 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
-      },
-      "artists": [
-        {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 375563,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eze (feat. Preye Odede)",
         "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
+      },
+      "artists": [
+        {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 375563,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -867,6 +867,94 @@
       "duration_ms": 281701,
       "name": "All Powerful and Sovereign",
       "url": "https://open.spotify.com/track/50aHZPleDo8B9jSbLanqfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus United",
+        "url": "https://open.spotify.com/album/7DKdf2iUm3PptBmmIMXXDQ"
+      },
+      "artists": [
+        {
+          "name": "The Experience Lagos",
+          "url": "https://open.spotify.com/artist/1YvpsNkm90fxPRp8qL1QlK"
+        },
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        },
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Muyiwa & Riversongz",
+          "url": "https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb"
+        },
+        {
+          "name": "Paul Adefarasin",
+          "url": "https://open.spotify.com/artist/7sQ5hIV1eBuBdUFrXDvURx"
+        },
+        {
+          "name": "Chevelle Franklyn",
+          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        },
+        {
+          "name": "Micah Stampley",
+          "url": "https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK"
+        },
+        {
+          "name": "Beejay Sax",
+          "url": "https://open.spotify.com/artist/1obFKBs1DhXm6SUIELP5vu"
+        },
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        },
+        {
+          "name": "New Breed",
+          "url": "https://open.spotify.com/artist/3YMiQUdOvRUSrLX7qgM1qP"
+        },
+        {
+          "name": "LMGC",
+          "url": "https://open.spotify.com/artist/3O9HQcPSh4WPb4KJ7o85t3"
+        }
+      ],
+      "duration_ms": 339880,
+      "name": "Jesus United",
+      "url": "https://open.spotify.com/track/5qH2JtPSnaETSCZI58k6bi"
     },
     {
       "added_at": null,

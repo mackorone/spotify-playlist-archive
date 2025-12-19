@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,409 likes - 33 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,412 likes - 33 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 26 | [Garden Eyes](https://open.spotify.com/track/0llSSP7u2IRZ3ShjIu4PVZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:23 |
 | 27 | [Killing Time](https://open.spotify.com/track/3JkwT4fdlXMVpFxJisM1qE) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:50 |
 | 28 | [Protection \- Demo](https://open.spotify.com/track/0zGmEOISsMzpD0LvRVcJuO) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Protection \(Demo\)](https://open.spotify.com/album/11kPmcZX8Bwy0Rr3ZSe5hl) | 3:29 |
-| 29 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
+| 29 | [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 |
 | 30 | [Don’t Give Up Your Ghost](https://open.spotify.com/track/0o0orlqmDZFKNbmAm1Rzgc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:56 |
 | 31 | [Tightrope](https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:41 |
-| 32 | [Barbed Wire Body](https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Barbed Wire Body](https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm) | 3:28 |
+| 32 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
 | 33 | [Banquet \- Live at Studio 4](https://open.spotify.com/track/3RDTegTI8uKrYjkz8S7obS) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live At Studio 4](https://open.spotify.com/album/1XmQ6wmZUnP6uNb4MWIYHV) | 3:05 |
 
-Snapshot ID: `aUChAAAAAACutRHHEOPPPq0wWjhzI/KU`
+Snapshot ID: `aUHygAAAAADG4IsQYV8ZD9C/2pQj5OGU`

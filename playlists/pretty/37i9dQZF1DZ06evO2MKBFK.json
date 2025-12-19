@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635739,
+  "num_followers": 635721,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAADyI1cRLXWyqY4sA7pEbNNk",
+  "snapshot_id": "aUHygAAAAABwz/qB4OETFQseUDTcMeBH",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 242746,
+      "name": "A Fool Of Tears",
+      "url": "https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
         "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG Vol.1",
-        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 242746,
-      "name": "A Fool Of Tears",
-      "url": "https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C"
+      "duration_ms": 231816,
+      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
+      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 188000,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231816,
-      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
-      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Beautiful Hangover",
-      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALIVE",
         "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 222186,
       "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
       "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Beautiful Hangover",
+      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 210240,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
     },
     {
       "added_at": null,

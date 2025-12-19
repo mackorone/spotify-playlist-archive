@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1606578,
+  "num_followers": 1606617,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Super Powers",
-        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Super Powers",
-      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Distraction",
         "url": "https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp"
       },
@@ -867,18 +847,22 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Never Forget You",
-        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+        "name": "Super Powers",
+        "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 184349,
-      "name": "Never Forget You",
-      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
+      "duration_ms": 212307,
+      "name": "Super Powers",
+      "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -903,6 +887,22 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Never Forget You",
+        "url": "https://open.spotify.com/album/7jogH009r3SWIcCj1Wt4Oh"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 184349,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1131,6 +1131,22 @@
       "duration_ms": 211905,
       "name": "Believe",
       "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Error5 EP",
-        "url": "https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 371250,
-      "name": "8ths",
-      "url": "https://open.spotify.com/track/3oLfgPob5XKsY48VB20UZz"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Never Be The Same",
         "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 218095,
       "name": "Never Be The Same",
       "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Error5 EP",
+        "url": "https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        }
+      ],
+      "duration_ms": 371250,
+      "name": "8ths",
+      "url": "https://open.spotify.com/track/3oLfgPob5XKsY48VB20UZz"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
-        }
-      ],
-      "duration_ms": 197272,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "London To Buenos Aires",
         "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
       },
@@ -1463,6 +1439,30 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
+        "name": "Wherever You Go",
+        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        },
+        {
+          "name": "EKE",
+          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+        }
+      ],
+      "duration_ms": 197272,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
       },
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Tears Don\u2019t Fall",
-        "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
-        }
-      ],
-      "duration_ms": 214323,
-      "name": "Tears Don\u2019t Fall",
-      "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/6w6NUmlb68EbM1AyjEIoXS"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 135238,
       "name": "Feel",
       "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "Tears Don\u2019t Fall",
+        "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+        }
+      ],
+      "duration_ms": 214323,
+      "name": "Tears Don\u2019t Fall",
+      "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1683,18 +1683,26 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/3pUuzw75v7nqmsbXWUqBWu"
       },
       "artists": [
         {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         }
       ],
-      "duration_ms": 213281,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
+      "duration_ms": 263636,
+      "name": "Letting Go - Rinzen Remix",
+      "url": "https://open.spotify.com/track/1fnLqkmEIEq7no8DIeMl2Y"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1711,6 +1719,22 @@
       "duration_ms": 207840,
       "name": "Pretoria",
       "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 213281,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1771,8 +1795,8 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/3pUuzw75v7nqmsbXWUqBWu"
+        "name": "Start A Fire",
+        "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
       },
       "artists": [
         {
@@ -1780,17 +1804,13 @@
           "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
         }
       ],
-      "duration_ms": 263636,
-      "name": "Letting Go - Rinzen Remix",
-      "url": "https://open.spotify.com/track/1fnLqkmEIEq7no8DIeMl2Y"
+      "duration_ms": 217523,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
     },
     {
       "added_at": "2025-12-12 05:00:39",
@@ -1867,26 +1887,6 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
-        "name": "Start A Fire",
-        "url": "https://open.spotify.com/album/7qViCh6TgkVwJJdIyKkCmi"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 217523,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/1JRT85GUkv47WyVRwnIEA9"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
       },
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2025-12-12 05:00:39",
       "album": {
+        "name": "Only I",
+        "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
+      },
+      "artists": [
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 228028,
+      "name": "Only I",
+      "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
+    },
+    {
+      "added_at": "2025-12-12 05:00:39",
+      "album": {
         "name": "Surrender Your Love (Progressive Edit)",
         "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
       },
@@ -1947,26 +1963,6 @@
       "duration_ms": 185629,
       "name": "Surrender Your Love - Progressive Edit",
       "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:39",
-      "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
-        }
-      ],
-      "duration_ms": 267812,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
     }
   ],
   "unique_name": "Night Rider",

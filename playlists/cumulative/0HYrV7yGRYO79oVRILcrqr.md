@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-222 songs - 13 hr 33 min
+223 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
 | [La Reina del Edredón](https://open.spotify.com/track/03bw13qxffSu8DlwkJhoXi) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Nuevo Camino](https://open.spotify.com/album/2xzviDRmrzORM3lWhxuBDT) | 2:30 | 2025-11-03 | 2025-12-17 |
 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2025-11-10 | 2025-12-17 |
+| [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 |  |
 | [Let You Go](https://open.spotify.com/track/3H2Gu6g9LSp6lz01OFeiok) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Let You Go](https://open.spotify.com/album/0vV45jrw2TgiqB8SDsqSmI) | 4:55 | 2025-12-08 |  |
 | [Let Your Body](https://open.spotify.com/track/3RaTqgsMjx1c6ZQ8Raz6f3) | [HYDEN](https://open.spotify.com/artist/2OiZJJdrzwKkFo2c9OF9bg) | [Let Your Body](https://open.spotify.com/album/4LMRvKAVjTeYW2nRWYlhm9) | 3:50 | 2025-09-29 | 2025-12-17 |
 | [Light](https://open.spotify.com/track/2wDu6ZakZVNsgUzQoesm7O) | [SOMEMISTAKES](https://open.spotify.com/artist/36UniZ3ECMH2GwkF7WQxpK) | [Light](https://open.spotify.com/album/7t7c9ePxVas9Y9cZGjuXA1) | 3:57 | 2025-11-08 | 2025-12-17 |

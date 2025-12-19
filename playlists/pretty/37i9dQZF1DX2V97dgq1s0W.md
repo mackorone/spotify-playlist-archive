@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,835 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,885 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Recently Deleted](https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:43 |
-| 2 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 |
-| 3 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
-| 4 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
-| 5 | [Blessings](https://open.spotify.com/track/6gnBph4YxYhytTAwfZi6TE) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Blessings](https://open.spotify.com/album/55V4fiGjaQdSEshPbZL7Ij) | 2:54 |
-| 6 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |
-| 7 | [Is It Alright?](https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Is It Alright?](https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor) | 3:16 |
-| 8 | [How Much Will It Take](https://open.spotify.com/track/06x8K7S6w6M318VvWUg5GA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [bygone](https://open.spotify.com/album/4ratZOOUKwmfsv2ZgRzosO) | 3:39 |
-| 9 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
+| 2 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
+| 3 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
+| 4 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 |
+| 5 | [Is It Alright?](https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Is It Alright?](https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor) | 3:16 |
+| 6 | [Blessings](https://open.spotify.com/track/6gnBph4YxYhytTAwfZi6TE) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Blessings](https://open.spotify.com/album/55V4fiGjaQdSEshPbZL7Ij) | 2:54 |
+| 7 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |
+| 8 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
+| 9 | [How Much Will It Take](https://open.spotify.com/track/06x8K7S6w6M318VvWUg5GA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [bygone](https://open.spotify.com/album/4ratZOOUKwmfsv2ZgRzosO) | 3:39 |
 | 10 | [Float](https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Float](https://open.spotify.com/album/2WbrL2UZ7Pt6VJdEjmZH5y) | 2:57 |
-| 11 | [ghosted](https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted](https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma) | 2:27 |
-| 12 | [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 |
-| 13 | [Always](https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Always](https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp) | 3:28 |
-| 14 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
-| 15 | [Boo Thang Bootcamp](https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Boo Thang Bootcamp](https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o) | 2:55 |
+| 11 | [Boo Thang Bootcamp](https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Boo Thang Bootcamp](https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o) | 2:55 |
+| 12 | [ghosted](https://open.spotify.com/track/1YxifpuwgU6IcGt7NKUVpb) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted](https://open.spotify.com/album/6NNQuKvbvvTzPYsZRwn1Ma) | 2:27 |
+| 13 | [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 |
+| 14 | [Always](https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Always](https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp) | 3:28 |
+| 15 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
 | 16 | [By Now](https://open.spotify.com/track/55mAE5S1MK79gLUowrnB6h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets Some Mo'](https://open.spotify.com/album/6hRz8TthZfkHlZ288hcCd4) | 2:47 |
 | 17 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 18 | [Two Shots \(Looking For Love\)](https://open.spotify.com/track/4XQ13GgSkaNfVMeKpN1Ujh) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Two Shots \(Looking For Love\)](https://open.spotify.com/album/58JuFqlllpEEW7S9eka6uX) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 |
 | 80 | [Midnight Calls](https://open.spotify.com/track/6AFBfuZXOzSfwcMx3ZhBYt) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Midnight Calls](https://open.spotify.com/album/0JogIhJJds1bQ7T5D4Ck3p) | 2:45 |
 
-Snapshot ID: `AAAAAJZR0wwBa3k+7hr8Qvs1FDg0tLC8`
+Snapshot ID: `AAAAAFZlqokpEF01E9LQ39P5XwYUEYq4`

@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover: Tems
 
-510 songs - 1 day 2 hr 46 min
+511 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [D O D O](https://open.spotify.com/track/7fWotHT92my4vLN713vFTa) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon) | 2:59 | 2021-12-09 | 2022-07-29 |
 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 | 2025-08-29 |  |
 | [Dangerous](https://open.spotify.com/track/7nx5roePDWEAzJwGajxFmF) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Playing With Fire](https://open.spotify.com/album/5lCzLkyHar40yPR2mIHEZC) | 3:46 | 2022-05-05 | 2022-08-19 |
+| [Day n Nite](https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Day n Nite](https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J) | 2:22 | 2025-12-19 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 | 2024-02-03 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2023-12-15 | 2024-07-12 |
 | [Did Enough](https://open.spotify.com/track/2LW0utR6fTwfjPhnz1XbOW) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [Did Enough](https://open.spotify.com/album/2UoPpnuwA2vT59iIau6NCw) | 3:23 | 2022-08-19 | 2022-10-14 |
@@ -441,7 +442,7 @@
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2024-03-22 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2025-07-18 |
 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 | 2025-03-28 | 2025-11-21 |
-| [T'es à moi](https://open.spotify.com/track/05lsiP7uOT7VHocgg7k7Do) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [T'es à moi](https://open.spotify.com/album/7GWi9UIzOxgBsdi36coVv4) | 2:48 | 2025-02-14 |  |
+| [T'es à moi](https://open.spotify.com/track/05lsiP7uOT7VHocgg7k7Do) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [T'es à moi](https://open.spotify.com/album/7GWi9UIzOxgBsdi36coVv4) | 2:48 | 2025-02-14 | 2025-12-19 |
 | [TAKE IT SLOW](https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3) | 2:58 | 2023-06-30 | 2023-08-19 |
 | [Take Me](https://open.spotify.com/track/2zE9ddVGmDmsClKyeTsEsx) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Take Me](https://open.spotify.com/album/59JZYS1uK0A5znLlD8XQfQ) | 2:26 | 2024-08-02 | 2025-09-05 |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-11-21 | 2025-08-01 |

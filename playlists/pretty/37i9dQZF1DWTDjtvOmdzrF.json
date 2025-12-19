@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562371,
+  "num_followers": 562386,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
+        "name": "Kau Rumahku",
+        "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 275250,
+      "name": "Kau Rumahku",
+      "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
         "name": "Tresno liyane",
         "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
-        "name": "Kau Rumahku",
-        "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 275250,
-      "name": "Kau Rumahku",
-      "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Asmalibrasi",
-        "url": "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
-      },
-      "artists": [
-        {
-          "name": "Soegi Bornean",
-          "url": "https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Asmalibrasi",
-      "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Terlintas",
         "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 235643,
       "name": "Terlintas",
       "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Asmalibrasi",
+        "url": "https://open.spotify.com/album/1geFjIWLQNCKO0Y7uB2Xlw"
+      },
+      "artists": [
+        {
+          "name": "Soegi Bornean",
+          "url": "https://open.spotify.com/artist/0YpfUFtmzwNGWjowRwoGel"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Asmalibrasi",
+      "url": "https://open.spotify.com/track/3TFdXrYIubXABQh0CxIiSs"
     },
     {
       "added_at": "2025-05-05 23:09:10",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-05-05 23:09:10",
       "album": {
-        "name": "Tolong",
-        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 250322,
-      "name": "Tolong",
-      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
-    },
-    {
-      "added_at": "2025-05-05 23:09:10",
-      "album": {
         "name": "Tuhan Sebut Sia-Sia",
         "url": "https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 317453,
       "name": "Tuhan Sebut Sia-Sia",
       "url": "https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP"
+    },
+    {
+      "added_at": "2025-05-05 23:09:10",
+      "album": {
+        "name": "Tolong",
+        "url": "https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 250322,
+      "name": "Tolong",
+      "url": "https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U"
     },
     {
       "added_at": "2025-05-05 23:09:10",

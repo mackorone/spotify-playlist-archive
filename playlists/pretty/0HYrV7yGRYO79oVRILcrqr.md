@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,630 likes - 44 songs - 2 hr 51 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,635 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 42 | [Jim Beam Interlude](https://open.spotify.com/track/63ep6PgJWhx1D5kPrgGvC6) | [Kennon](https://open.spotify.com/artist/47zcpuymv5pP6Mdcf1OKA9) | [Jim Beam Interlude](https://open.spotify.com/album/4Fwi2mky3CowxhhGx2g3F3) | 2:40 |
 | 43 | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/track/76Z8LaWHDpelBLtqeHYdxV) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/album/1WyfzVrgGwWtsaXpZKo9Uq) | 3:51 |
 | 44 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 |
+| 45 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 |
 
-Snapshot ID: `AAAKO9SkIgL6/Z6TdiSXTt1WKM7D7V2H`
+Snapshot ID: `AAAKPM2YgNO2oCk6Bqw8qxxSX89z6IK0`

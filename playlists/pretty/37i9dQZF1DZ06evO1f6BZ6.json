@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123879,
+  "num_followers": 123875,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAAn0809jZycxWvoLn9eV1gX",
+  "snapshot_id": "aUHygAAAAABTyFfeozN7RbOmhfRiitX+",
   "tracks": [
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+        "name": "White Trash With Money",
+        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 206640,
-      "name": "Beers Ago",
-      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
+      "duration_ms": 246320,
+      "name": "A Little Too Late",
+      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash With Money",
-        "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 246320,
-      "name": "A Little Too Late",
-      "url": "https://open.spotify.com/track/4RYksZuX2OOLjcPJdYkgSU"
+      "duration_ms": 206640,
+      "name": "Beers Ago",
+      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Stays In Mexico",
-      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bullets in the Gun",
         "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 256613,
       "name": "Bullets in the Gun",
       "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Stays In Mexico",
+      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 197560,
-      "name": "Getcha Some",
-      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash With Money",
         "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 178840,
       "name": "Get Drunk And Be Somebody",
       "url": "https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Getcha Some",
+      "url": "https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "She's A Hottie - Single Version",
-      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 224800,
       "name": "If I Was Jesus",
       "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "She's A Hottie - Single Version",
+      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
     },
     {
       "added_at": null,

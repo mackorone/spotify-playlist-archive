@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7PmJuy93jtL.md) - [plain]
 
 > Eski bayramlar burada 🍬
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,523 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,522 likes - 45 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

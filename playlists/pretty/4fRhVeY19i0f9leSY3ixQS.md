@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,062 likes - 313 songs - 18 hr 4 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,062 likes - 314 songs - 18 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -311,15 +311,16 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 301 | [Sleepless](https://open.spotify.com/track/4n2nKaVvxVhxFrcMYvpTMl) | [Video Store](https://open.spotify.com/artist/3NXHe22MQyzptnFeVFnU3S) | [Everything looks better at night](https://open.spotify.com/album/6ontrKAUA6W1pds4yBSgTl) | 3:41 |
 | 302 | [The Dominant](https://open.spotify.com/track/4zzlCCVf3tJiwwyaGpYTUo) | [Global Plague](https://open.spotify.com/artist/3l3qDiPbgEPAjeegMe88cV) | [The Dominant](https://open.spotify.com/album/4wcgqZHVG6EyyXnur9LbQU) | 2:17 |
 | 303 | [I Might Be A Sinner](https://open.spotify.com/track/6XFQMdpWA6CrKQCnjUARsl) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 3:30 |
-| 304 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 |
-| 305 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 |
-| 306 | [One World Disorder](https://open.spotify.com/track/6IN2ZJlycx9TVvTIiPDX7r) | [austin cooley](https://open.spotify.com/artist/2uYPlbiYqhZ2VUZqjtw2iw), [Reconstruct](https://open.spotify.com/artist/0eLe8pnOzqbSPLKaZuRn33) | [Sakura](https://open.spotify.com/album/22bseRNqaihIXVieVV27i6) | 2:18 |
-| 307 | [Neglect](https://open.spotify.com/track/4JnXPig0gbcjB7EaO6zvNL) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Neglect](https://open.spotify.com/album/5JdB9X5V5pPklgomys3RBs) | 3:36 |
-| 308 | [circles](https://open.spotify.com/track/0d0HWMlBcsm2zB3ZaV8d7E) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG), [Debbi Koh](https://open.spotify.com/artist/7Kee6lArbmE69gO5HY06G6) | [circles](https://open.spotify.com/album/0Lspo9U52hDPiLIetVX0uZ) | 3:30 |
-| 309 | [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 |
-| 310 | [Bla Buzz](https://open.spotify.com/track/1i9KWSfyRSOxta4m0WoJDJ) | [Bila](https://open.spotify.com/artist/31FYxGnmvt2EHv72cUIxHn) | [Beżżalart](https://open.spotify.com/album/5OxyTjodJeEWF6c74VJcVe) | 1:47 |
-| 311 | [The More I Know You \(The Less I Feel Being a Part of It\)](https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF) | [Set to Change](https://open.spotify.com/artist/5nGJaJYOxnj9OAFqeNM40U) | [The Great Nothing](https://open.spotify.com/album/3O29xMIWvR4YnhEBpY5qQ8) | 3:54 |
-| 312 | [December](https://open.spotify.com/track/2z3ty0IrM6KnbztAgn5Uj7) | [Burning Out](https://open.spotify.com/artist/20U7tEPNxM9lfRbv3uqDy0) | [December](https://open.spotify.com/album/0bVbVG4LaKqPfwmZ2zgEm9) | 3:31 |
-| 313 | [MY SONG](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [MY SONG](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
+| 304 | [Le Bras Mécanique](https://open.spotify.com/track/1VtBM3R0WT1znWswIOcIzk) | [tasH](https://open.spotify.com/artist/7kF6Cba1h7aAEdokHzSIx1) | [Le Bras Mécanique](https://open.spotify.com/album/4exhUvNG4L4dP8kd1Qm6An) | 3:45 |
+| 305 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 |
+| 306 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 |
+| 307 | [One World Disorder](https://open.spotify.com/track/6IN2ZJlycx9TVvTIiPDX7r) | [austin cooley](https://open.spotify.com/artist/2uYPlbiYqhZ2VUZqjtw2iw), [Reconstruct](https://open.spotify.com/artist/0eLe8pnOzqbSPLKaZuRn33) | [Sakura](https://open.spotify.com/album/22bseRNqaihIXVieVV27i6) | 2:18 |
+| 308 | [Neglect](https://open.spotify.com/track/4JnXPig0gbcjB7EaO6zvNL) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Neglect](https://open.spotify.com/album/5JdB9X5V5pPklgomys3RBs) | 3:36 |
+| 309 | [circles](https://open.spotify.com/track/0d0HWMlBcsm2zB3ZaV8d7E) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG), [Debbi Koh](https://open.spotify.com/artist/7Kee6lArbmE69gO5HY06G6) | [circles](https://open.spotify.com/album/0Lspo9U52hDPiLIetVX0uZ) | 3:30 |
+| 310 | [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 |
+| 311 | [Bla Buzz](https://open.spotify.com/track/1i9KWSfyRSOxta4m0WoJDJ) | [Bila](https://open.spotify.com/artist/31FYxGnmvt2EHv72cUIxHn) | [Beżżalart](https://open.spotify.com/album/5OxyTjodJeEWF6c74VJcVe) | 1:47 |
+| 312 | [The More I Know You \(The Less I Feel Being a Part of It\)](https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF) | [Set to Change](https://open.spotify.com/artist/5nGJaJYOxnj9OAFqeNM40U) | [The Great Nothing](https://open.spotify.com/album/3O29xMIWvR4YnhEBpY5qQ8) | 3:54 |
+| 313 | [December](https://open.spotify.com/track/2z3ty0IrM6KnbztAgn5Uj7) | [Burning Out](https://open.spotify.com/artist/20U7tEPNxM9lfRbv3uqDy0) | [December](https://open.spotify.com/album/0bVbVG4LaKqPfwmZ2zgEm9) | 3:31 |
+| 314 | [MY SONG](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [MY SONG](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
 
-Snapshot ID: `AAAIi+4ZPtpDdntUIrOyOLDigHoTVkPo`
+Snapshot ID: `AAAIjDB9ypXiuVJWdN6ByBBDXNBjIeUm`

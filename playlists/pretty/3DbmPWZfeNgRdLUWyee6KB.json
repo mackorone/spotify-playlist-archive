@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1062,
+  "num_followers": 1066,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAN1Ni3SaR3T75CC0ECojim91ms0iTP",
+  "snapshot_id": "AAAN2HvEOxJ+V063c4LKP4nYz5UgqMSZ",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -3403,6 +3403,70 @@
       "duration_ms": 129197,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2Kw99OuynMcNBAPauany8L"
+    },
+    {
+      "added_at": "2025-12-18 18:25:15",
+      "album": {
+        "name": "Cold Nights",
+        "url": "https://open.spotify.com/album/43tDQTW7UkOdO0Zg1RYfwh"
+      },
+      "artists": [
+        {
+          "name": "Kama Linden",
+          "url": "https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS"
+        }
+      ],
+      "duration_ms": 224365,
+      "name": "Cold Nights",
+      "url": "https://open.spotify.com/track/7uXaMOhjnwNTx4ylOIdywo"
+    },
+    {
+      "added_at": "2025-12-18 18:25:21",
+      "album": {
+        "name": "Catch the Spark",
+        "url": "https://open.spotify.com/album/6y5ZbPFz6h5NxytG5jkmLA"
+      },
+      "artists": [
+        {
+          "name": "Radio Rosine",
+          "url": "https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka"
+        }
+      ],
+      "duration_ms": 217759,
+      "name": "Catch the Spark",
+      "url": "https://open.spotify.com/track/5m1itjQzMzetHUjbVGsMxY"
+    },
+    {
+      "added_at": "2025-12-18 18:25:24",
+      "album": {
+        "name": "LoveFool",
+        "url": "https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI"
+      },
+      "artists": [
+        {
+          "name": "Delilah Earnshaw",
+          "url": "https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2"
+        }
+      ],
+      "duration_ms": 269250,
+      "name": "LoveFool",
+      "url": "https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX"
+    },
+    {
+      "added_at": "2025-12-18 18:25:38",
+      "album": {
+        "name": "Hold On Til You Let Go",
+        "url": "https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf"
+      },
+      "artists": [
+        {
+          "name": "Michael Barrow & the Tourists",
+          "url": "https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Hold On Til You Let Go (Tourist Version)",
+      "url": "https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz"
     }
   ],
   "unique_name": "New Indie Music",

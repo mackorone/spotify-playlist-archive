@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 31175,
+  "num_followers": 31191,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
+        "name": "Sustancia",
+        "url": "https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw"
+      },
+      "artists": [
+        {
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
+        }
+      ],
+      "duration_ms": 295787,
+      "name": "Remedios",
+      "url": "https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
         "name": "Vulnerables",
         "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Sustancia",
-        "url": "https://open.spotify.com/album/2vBjII9ynrhuvVbR0mJYiw"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 295787,
-      "name": "Remedios",
-      "url": "https://open.spotify.com/track/6eBpT9aFPfbScHKnhD9PoC"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "El Invento",
         "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
@@ -859,26 +859,6 @@
       "duration_ms": 153413,
       "name": "El Invento",
       "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "hastalamadre",
-        "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        },
-        {
-          "name": "Andr\u00e9 Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "hastalamadre",
-      "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -899,6 +879,26 @@
       "duration_ms": 198430,
       "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
       "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "hastalamadre",
+        "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        },
+        {
+          "name": "Andr\u00e9 Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "hastalamadre",
+      "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Mi Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 237596,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "Mi Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1ah8BEG2gPDU2JnQ38Fu2m"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 237596,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/3Gl6n3cLCPPwlgWXGy7KOT"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 198642,
-      "name": "Lugar ideal",
-      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "donde van los perros",
         "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 310451,
       "name": "el wey que otra vez confio :(",
       "url": "https://open.spotify.com/track/68Fp40NMOxP5qmeppEeQVz"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 198642,
+      "name": "Lugar ideal",
+      "url": "https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
+        "name": "Flores Muertas",
+        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
+      },
+      "artists": [
+        {
+          "name": "Tavo Guarneros",
+          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
+        }
+      ],
+      "duration_ms": 328663,
+      "name": "Flores Muertas",
+      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 182546,
       "name": "Escuchado",
       "url": "https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
-        "name": "Flores Muertas",
-        "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
-      },
-      "artists": [
-        {
-          "name": "Tavo Guarneros",
-          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
-        }
-      ],
-      "duration_ms": 328663,
-      "name": "Flores Muertas",
-      "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
     },
     {
       "added_at": "2025-10-24 04:00:27",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-10-24 04:00:27",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2025-10-24 04:00:27",
-      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/6sQm9L7CZiYSYdy8EZBENA"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 224587,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6uEp0bnK53pn0RKs5575wK"
+    },
+    {
+      "added_at": "2025-10-24 04:00:27",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2025-10-24 04:00:27",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,303 likes - 37 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,319 likes - 37 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 36 | [Aro Ekbar](https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX) | [Fossils](https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo) | [Fossils](https://open.spotify.com/album/5Il3OBfF2vxUbJXnRS4fzj) | 6:44 |
 | 37 | [Training](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 3:57 |
 
-Snapshot ID: `AAAAAFv2bgyjRy31zYCi4wtj508gI4z/`
+Snapshot ID: `AAAAAKZZupFVLhSgvs+USjx5Nxyd69Z/`

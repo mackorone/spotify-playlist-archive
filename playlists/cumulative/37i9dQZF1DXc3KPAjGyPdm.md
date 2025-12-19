@@ -2,9 +2,9 @@
 
 ### [Stranger Things Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXc3KPAjGyPdm)
 
-> Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
+> Thanks for tuning into WSQK radio\. Type the clues into the Spotify search bar for an exclusive surprise.
 
-314 songs - 18 hr 9 min
+316 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,8 @@
 | [Boys and Girls](https://open.spotify.com/track/5jXFYJmBInrxbbO9cFvoew) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:49 | 2019-07-10 |  |
 | [Breakdown](https://open.spotify.com/track/2Gsn3TlOb7gThstMAv9qff) | [John Harrison](https://open.spotify.com/artist/1YePRxXaCJ2zQKFCImrKw0) | [Day of the Dead \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5lwhDBo8FfmRLyHI7iiKT5) | 3:52 | 2019-07-10 |  |
 | [Broadcast 10: Totally tubular](https://open.spotify.com/episode/6Uy2QdXpMdDHeDqREMyV4V) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:10 | 2025-12-17 |  |
+| [Broadcast 11: More hits on deck](https://open.spotify.com/episode/2KJiz0qfIIhD0eu1I0XlzA) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:12 | 2025-12-19 |  |
+| [Broadcast 12: An oldie but a goodie](https://open.spotify.com/episode/3eOmBxVKsPtzUlLHA9FJeb) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:38 | 2025-12-19 |  |
 | [Broadcast 1: Good Morning Hawkins!](https://open.spotify.com/episode/5o2gcZvy2DCjVtmYZBBsbU) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:24 | 2025-12-16 |  |
 | [Broadcast 2: You’re listening to WSQK The Squawk](https://open.spotify.com/episode/3eJRMbhNlQ2DGnTrDSM8Zf) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:13 | 2025-12-16 |  |
 | [Broadcast 3: Don’t turn that dial](https://open.spotify.com/episode/4DkEqAz1xqzYnjAe6kCwl0) | [Rockin' Robin](https://open.spotify.com/show/4yPcBNVVbspyvBIq5JBJdw) | [Rockin' Robin](https://open.spotify.com/album/4yPcBNVVbspyvBIq5JBJdw) | 0:07 | 2025-12-16 |  |

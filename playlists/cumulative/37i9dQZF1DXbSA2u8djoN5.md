@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: DZWS
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Bvcovia, Marko Glass
 
-229 songs - 11 hr 9 min
+231 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-04 | 2025-06-27 |
 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
 | [FLOTARI](https://open.spotify.com/track/6QaKF9W05z0sZpMeigJLbS) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DUBLU BOSS \(Chapter 1: Born To Be a King\)](https://open.spotify.com/album/22lwh8bY01H01EVgnVj9c3) | 2:54 | 2025-07-10 | 2025-09-26 |
+| [FREESTYLE PÂNĂ LA D.F.D.N.](https://open.spotify.com/track/7HZP8qPQPCZiQdh2ptePLZ) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [FREESTYLE PÂNĂ LA D.F.D.N.](https://open.spotify.com/album/4GSVFm4e1yKbw1KUw388FH) | 4:29 | 2025-12-18 |  |
 | [Fricile](https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Fricile](https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf) | 3:31 | 2024-12-05 | 2025-01-24 |
 | [Fufa](https://open.spotify.com/track/7INQokppztN0gA6DcqSeJ7) | [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9) | [Fufa](https://open.spotify.com/album/6EqvnVYIUuhV0OZIPd35UD) | 3:07 | 2025-09-11 | 2025-10-04 |
 | [FĂRĂ SUFLET](https://open.spotify.com/track/6pHFBc5d5GrTX5ZE3whuxz) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [Chimie](https://open.spotify.com/artist/3Ah361wcXL9Y4QRDEprLOS), [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2) | [BIPOLAR](https://open.spotify.com/album/7lbbq1I52g04xbldIDxpvn) | 2:48 | 2025-03-14 | 2025-04-11 |
@@ -113,7 +114,7 @@
 | [Inca o sansa](https://open.spotify.com/track/2qJ4IpSiX2EOMKwAuMvngO) | [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Inca o sansa](https://open.spotify.com/album/4JDrUnZioLeNfpUYnnozwZ) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Incurabil](https://open.spotify.com/track/2Z3sy4ZcM96jlHBbFyYyda) | [Flou Rege](https://open.spotify.com/artist/3jSfv7OmnBYAboAXvDvA7E) | [Incurabil](https://open.spotify.com/album/4cT3dPUWQS3y50bhKKsCiQ) | 2:49 | 2024-06-27 | 2024-07-05 |
 | [Indiferent](https://open.spotify.com/track/0eYFbFU7DnPc3KZBlGwKRB) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Indiferent](https://open.spotify.com/album/3XKeSGuM4gaeGy0quo9kR7) | 2:40 | 2025-08-28 | 2025-10-17 |
-| [Indigo](https://open.spotify.com/track/0fTRRoOzyLMFgpdQN9tipx) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF), [NIGHTÉ](https://open.spotify.com/artist/0UZyIyZsFsWRYd5WJXRq7R) | [Indigo](https://open.spotify.com/album/3iKJ2e8kyhJDr3FWfm4fjR) | 3:01 | 2025-12-12 |  |
+| [Indigo](https://open.spotify.com/track/0fTRRoOzyLMFgpdQN9tipx) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF), [NIGHTÉ](https://open.spotify.com/artist/0UZyIyZsFsWRYd5WJXRq7R) | [Indigo](https://open.spotify.com/album/3iKJ2e8kyhJDr3FWfm4fjR) | 3:01 | 2025-12-12 | 2025-12-19 |
 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 | 2024-06-27 |  |
 | [Infinitul](https://open.spotify.com/track/44FNHXuXP7FdC3hjVOaml6) | [Tranda](https://open.spotify.com/artist/46lPxU4nZnI2tTGtu1edGF), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Infinitul](https://open.spotify.com/album/2ZEN9yVXLJqEOK0UPOQmSC) | 2:27 | 2025-01-09 | 2025-02-21 |
 | [iNGER](https://open.spotify.com/track/4lKDvhNzcRhHYfNOWqTPgx) | [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [iNGER](https://open.spotify.com/album/6NWyRBmyZAWLE76D3DhJSw) | 3:21 | 2024-06-27 | 2024-11-01 |
@@ -140,7 +141,7 @@
 | [MERGE BANDA](https://open.spotify.com/track/3DD989ES4EMpJG0VqSHi2K) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BIPOLAR](https://open.spotify.com/album/7lbbq1I52g04xbldIDxpvn) | 2:42 | 2025-03-06 | 2025-04-11 |
 | [Merit mai mult](https://open.spotify.com/track/6er5fC7StXq4wJa8QwKYxB) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [ELARI](https://open.spotify.com/artist/5YxFxREvsZEDVxBen9pdHp) | [Merit mai mult](https://open.spotify.com/album/50tjRI9lDL4U5GDKO7hRkS) | 2:29 | 2024-06-27 | 2024-07-27 |
 | [Moldova și Bucovina](https://open.spotify.com/track/0VbHmj9I3Tweest7BWSOT2) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Moldova și Bucovina](https://open.spotify.com/album/0kaoHTY5ou0c1ik4d5l6bx) | 2:35 | 2025-09-25 | 2025-10-21 |
-| [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 | 2025-04-10 |  |
+| [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 | 2025-04-10 | 2025-12-19 |
 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 | 2025-07-31 |  |
 | [MUZEU](https://open.spotify.com/track/70lIMzCAltgvTJRFJe8s2Y) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [MUZEU](https://open.spotify.com/album/3bd1dMnWuPI1eKBda71qCy) | 2:36 | 2024-10-31 | 2025-04-05 |
 | [Ne vedem acasă](https://open.spotify.com/track/03YZNYucckHvgYTO2yQe83) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Ne vedem acasă](https://open.spotify.com/album/3KXsYqkmp8SbmCzScrOs1G) | 2:59 | 2025-12-04 |  |
@@ -205,6 +206,7 @@
 | [Tiramissyou](https://open.spotify.com/track/0cZMXKpB9diA7STbOFZdpC) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Jeasmine](https://open.spotify.com/artist/4z24jecfJLaCrADePIHqOP) | [Tiramissyou](https://open.spotify.com/album/1xGPA4sKgJj2TTEofLUdeb) | 2:20 | 2025-04-24 | 2025-06-20 |
 | [TOATE STELELE](https://open.spotify.com/track/4SJMMS8ufyod5fn7nCpLuA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TOATE STELELE](https://open.spotify.com/album/4xKOxc0mP4HHPDPXQ2VXvE) | 2:31 | 2025-08-21 | 2025-09-30 |
 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 | 2025-10-09 |  |
+| [Track 3](https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-18 |  |
 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 | 2024-06-27 | 2025-04-01 |
 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 | 2024-10-17 | 2024-12-06 |
 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 | 2025-03-14 | 2025-11-03 |

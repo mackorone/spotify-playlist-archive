@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 605777,
+  "num_followers": 605734,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Midwest Farmer's Daughter",
-        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 252506,
-      "name": "Hurtin' (On the Bottle)",
-      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 225373,
       "name": "Coconut Skins",
       "url": "https://open.spotify.com/track/4CVP2pvqUxH9tExsHJnzV9"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Midwest Farmer's Daughter",
+        "url": "https://open.spotify.com/album/55byaTflUCrOReQQukpctP"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 252506,
+      "name": "Hurtin' (On the Bottle)",
+      "url": "https://open.spotify.com/track/161ih87Mf1Jsx6E6WgVPDu"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 263893,
       "name": "Ether & Wood",
       "url": "https://open.spotify.com/track/6ARgq6vnDSjxsfpB7oUQ5k"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1211,34 +1211,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+        "name": "Fire and the Flood (Acoustic)",
+        "url": "https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 208893,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Genuine Negro Jig",
-        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
-      },
-      "artists": [
-        {
-          "name": "Carolina Chocolate Drops",
-          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
-        }
-      ],
-      "duration_ms": 232861,
-      "name": "Snowden's Jig (Genuine Negro Jig)",
-      "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
+      "duration_ms": 222662,
+      "name": "Fire and the Flood - Acoustic",
+      "url": "https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1259,18 +1243,34 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Fire and the Flood (Acoustic)",
-        "url": "https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk"
+        "name": "Genuine Negro Jig",
+        "url": "https://open.spotify.com/album/7gXh0cuAlgJhr9sr3bi3l9"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Carolina Chocolate Drops",
+          "url": "https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz"
         }
       ],
-      "duration_ms": 222662,
-      "name": "Fire and the Flood - Acoustic",
-      "url": "https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L"
+      "duration_ms": 232861,
+      "name": "Snowden's Jig (Genuine Negro Jig)",
+      "url": "https://open.spotify.com/track/7qQ0kz6o0LQOLK3m0xKzYp"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1287,22 +1287,6 @@
       "duration_ms": 231826,
       "name": "Just One of the Guys",
       "url": "https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Small Town Heroes",
-        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Blue Ridge Mountain",
-      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 218602,
       "name": "Tried to Tell You",
       "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Small Town Heroes",
+        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Blue Ridge Mountain",
+      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
+        "name": "Oh My God Charlie Darwin (Standard)",
+        "url": "https://open.spotify.com/album/0c5QNW9WIf9fU665cHKYYV"
+      },
+      "artists": [
+        {
+          "name": "The Low Anthem",
+          "url": "https://open.spotify.com/artist/27aJr79YUyfK5ZrcFxF5u0"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "To Ohio",
+      "url": "https://open.spotify.com/track/6Es3Z9JmH7yd2HFWC77LpK"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
         "name": "Young Man In America",
         "url": "https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Oh My God Charlie Darwin (Standard)",
-        "url": "https://open.spotify.com/album/0c5QNW9WIf9fU665cHKYYV"
-      },
-      "artists": [
-        {
-          "name": "The Low Anthem",
-          "url": "https://open.spotify.com/artist/27aJr79YUyfK5ZrcFxF5u0"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "To Ohio",
-      "url": "https://open.spotify.com/track/6Es3Z9JmH7yd2HFWC77LpK"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/2Moofgyr48OoFCZ00KqPyy"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 175066,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/2SzIui6zoL8iXbKn6nU7sr"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2024-08-28 14:08:37",

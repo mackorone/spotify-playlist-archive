@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-116 songs - 7 hr 0 min
+117 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Freedom at Last](https://open.spotify.com/track/0dyuCmxRKe05ag9qmY7IZ3) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Freedom at Last](https://open.spotify.com/album/4m6FgfAHPZ15OVE2YaijKF) | 3:37 | 2025-09-23 |  |
 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 | 2025-12-12 |  |
 | [headnoise](https://open.spotify.com/track/4YiD4uZY0vAYYYktsVLho7) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [headnoise](https://open.spotify.com/album/6WrlzrcGmFuduE71cI8di2) | 2:50 | 2025-10-18 |  |
+| [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 | 2025-12-18 |  |
 | [help](https://open.spotify.com/track/0GL1VRnWrizG4gRqEA6bFN) | [1bed](https://open.spotify.com/artist/4u3OTdGtad4UJc5nKD15oq) | [help](https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7) | 1:26 | 2025-12-13 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2025-11-04 | 2025-12-06 |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-06 | 2025-12-06 |

@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Paky
 
-288 songs - 14 hr 56 min
+289 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Saigon](https://open.spotify.com/track/1AKlKNFbA6Gxj7S2Sd9DP1) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Mr\. Fini](https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf) | 3:38 | 2023-03-17 | 2024-04-19 |
 | [SANGUE AMARO](https://open.spotify.com/track/4oKuz4kYetMrv0Krau82jt) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [RANCH](https://open.spotify.com/album/4Yaw3xvAIJicXibGvmatbs) | 3:13 | 2025-05-08 | 2025-09-19 |
 | [Santosubito/Rubik](https://open.spotify.com/track/5Cy6JEcPV3Q9BYhDTpWF8Y) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Santosubito/Rubik](https://open.spotify.com/album/460j2qXDyJTel5aqN7Og5j) | 4:39 | 2025-07-24 | 2025-08-13 |
+| [SAYAN](https://open.spotify.com/track/3kv70BJZSKR7QJN73UwQU1) | [Le Scimmie](https://open.spotify.com/artist/4ZWezIz4lP1tqeBaO9eoie), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH) | [SAYAN](https://open.spotify.com/album/43z3ZJtXd5dJ1vhbqkT4Mg) | 3:17 | 2025-12-18 |  |
 | [SCUSE](https://open.spotify.com/track/488WUia85rkkokhw5jeJ5G) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [SCUSE](https://open.spotify.com/album/6QCxhx2XPYnL8SSNZoVkOC) | 2:04 | 2025-07-10 | 2025-12-12 |
 | [Se Tu Fossi Me](https://open.spotify.com/track/3uXKlBgKfhcPrwetHY6Qaf) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Noi Siamo Il Club \(Reloaded Edition\)](https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8) | 4:02 | 2024-01-02 | 2024-01-04 |
 | [Segnali di fumo](https://open.spotify.com/track/51iEIwv8ttEA4i0vPVoDLu) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:20 | 2024-12-06 | 2025-10-10 |

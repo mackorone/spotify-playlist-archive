@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 313928,
+  "num_followers": 313922,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "February",
+        "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
+      },
+      "artists": [
+        {
+          "name": "Deux Visages",
+          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
+        }
+      ],
+      "duration_ms": 232665,
+      "name": "February",
+      "url": "https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "I Kill Everything",
         "url": "https://open.spotify.com/album/4Vit7uug9JxFeTKtrO3bWd"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 216333,
       "name": "I Kill Everything",
       "url": "https://open.spotify.com/track/67yPz95D3cWkA0afvBGgtP"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "February",
-        "url": "https://open.spotify.com/album/2PZ6t16zWlyKvQDp1SBAZq"
-      },
-      "artists": [
-        {
-          "name": "Deux Visages",
-          "url": "https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR"
-        }
-      ],
-      "duration_ms": 232665,
-      "name": "February",
-      "url": "https://open.spotify.com/track/1qrUGw2NFIJinugQpN4Csk"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "new way out",
-        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 202909,
-      "name": "new way out",
-      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "When Everything Went Dark",
         "url": "https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 183296,
       "name": "Baggage",
       "url": "https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "new way out",
+        "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 202909,
+      "name": "new way out",
+      "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "KILLJOY",
-        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
       },
       "artists": [
         {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
         }
       ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     }
   ],
   "unique_name": "Fierce Femmes",

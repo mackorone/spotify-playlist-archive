@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 360 likes - 64 songs - 3 hr 49 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 366 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 62 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 |
 | 63 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 |
 | 64 | [Broken Language](https://open.spotify.com/track/0uCHsMKYhxCawnnPZvLLUV) | [Never Mind](https://open.spotify.com/artist/5Cghtk7bBFeh8ylFr8HX7C) | [Do You Remember Me at All?](https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt) | 6:26 |
+| 65 | [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 |
 
-Snapshot ID: `AAACJMDzvk8jtMqpYUHZm3umhDd7QCUe`
+Snapshot ID: `AAACJWuYwzo0HB0hr1Feq2cL5/tKkhhJ`

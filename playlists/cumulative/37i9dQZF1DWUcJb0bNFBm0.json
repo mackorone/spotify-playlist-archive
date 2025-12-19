@@ -4249,6 +4249,24 @@
     },
     {
       "album": {
+        "name": "Soaring",
+        "url": "https://open.spotify.com/album/6Spk6JGQMCH90VREI0e5pL"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u4e2d\u30b9\u30d4\u30ab",
+          "url": "https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296585,
+      "name": "Soaring",
+      "url": "https://open.spotify.com/track/2gd6RPWhhv0Oe4Bw8CdjrF"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS"
       },

@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W"
+      },
+      "artists": [
+        {
+          "name": "Lunar Chain",
+          "url": "https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205610,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R"
+    },
+    {
+      "album": {
         "name": "help",
         "url": "https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7"
       },

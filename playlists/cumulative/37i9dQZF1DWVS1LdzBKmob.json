@@ -1403,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Fire Within",
+        "url": "https://open.spotify.com/album/3DM0lkZlZ3QR5fa3sNvdTn"
+      },
+      "artists": [
+        {
+          "name": "Bowls Of Serenity",
+          "url": "https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207382,
+      "name": "Fire Within",
+      "url": "https://open.spotify.com/track/0AOOvQJMngKs6ujU0okQRq"
+    },
+    {
+      "album": {
         "name": "Floating Bowls",
         "url": "https://open.spotify.com/album/0JAXl29XM4PjJG4GS34kUW"
       },
@@ -2451,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Remembered",
+        "url": "https://open.spotify.com/album/3Z97ILIO7MTyd6qvzkxQ4y"
+      },
+      "artists": [
+        {
+          "name": "Jeila Sander",
+          "url": "https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Remembered",
+      "url": "https://open.spotify.com/track/2OJOa5gLLO7jjuYxyHiOcj"
+    },
+    {
+      "album": {
         "name": "Repose Toi",
         "url": "https://open.spotify.com/album/7bS3pq64j7MRvdyPJd0Npp"
       },
@@ -2610,6 +2646,24 @@
       "duration_ms": 218666,
       "name": "Sand in Between",
       "url": "https://open.spotify.com/track/15dcUwoPG8v74XaifDA4mU"
+    },
+    {
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/6xCVp1npdJzztFZXBMgqGv"
+      },
+      "artists": [
+        {
+          "name": "Kalmera",
+          "url": "https://open.spotify.com/artist/2dCsd1ZnWMiFipiSVqKCUl"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/1a69UHX1mDVK3vZUzYzfXy"
     },
     {
       "album": {
@@ -2808,7 +2862,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 75463,
       "name": "Soul Elevation",
       "url": "https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5"

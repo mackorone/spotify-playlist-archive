@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Beige & White",
+        "url": "https://open.spotify.com/album/0MKhrPXQOjJRJNXFHhDwc2"
+      },
+      "artists": [
+        {
+          "name": "Elsie Bay",
+          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152154,
+      "name": "Beige & White",
+      "url": "https://open.spotify.com/track/7uw6m9sfVkZUPDOCdgcXMl"
+    },
+    {
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 176214,
       "name": "Lovin Myself",
       "url": "https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN"
@@ -4932,7 +4950,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 157420,
       "name": "No Heartbreak's Killed Me Yet",
       "url": "https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht"
@@ -7704,6 +7722,24 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "album": {
+        "name": "Where Are You Tonight? (Bedroom Version)",
+        "url": "https://open.spotify.com/album/4SkIGasb1i1YXBm22gLXWx"
+      },
+      "artists": [
+        {
+          "name": "Cupid Girl",
+          "url": "https://open.spotify.com/artist/1SfyDxRQj4ro8cluxkCaLq"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258544,
+      "name": "Where Are You Tonight? (Bedroom Version)",
+      "url": "https://open.spotify.com/track/4kQo56p0m7htNaQ3LHtNUF"
     },
     {
       "album": {

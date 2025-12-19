@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3582,
+  "num_followers": 3581,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAAQoV76LdoH2G/92G/iBEj2",
+  "snapshot_id": "aUHygAAAAACiP1kWJhgO40VgR2pXQ8Jq",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Chefe",
-        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Mo Parada",
-      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00fasicas Para Marolar",
         "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 171008,
       "name": "Gostoso esse Pretinho",
       "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
     },
     {
       "added_at": null,

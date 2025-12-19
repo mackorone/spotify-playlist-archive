@@ -1277,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/3zOooH1ZUIR8fPTESUY6Ck"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Maxwell",
+          "url": "https://open.spotify.com/artist/6CU3o4SjJwW3qdEI6VDDiE"
+        },
+        {
+          "name": "Didi The Pool Boy",
+          "url": "https://open.spotify.com/artist/2r98WA8XcwpU0SwWzwbztr"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/23kUX7OdiPbl2r1Fkd7lMN"
+    },
+    {
+      "album": {
         "name": "BACK FOR MORE",
         "url": "https://open.spotify.com/album/4DE4QCn4le3BWkCt4OnMee"
       },
@@ -1590,6 +1612,24 @@
       "duration_ms": 195409,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP"
+    },
+    {
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/5NUw3mAwhotIPgacWSKgil"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177133,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/1RZOXKIsd4ivru5jx2P9lI"
     },
     {
       "album": {
@@ -12454,6 +12494,24 @@
       "duration_ms": 143585,
       "name": "Piece of My Soul",
       "url": "https://open.spotify.com/track/1UsXSNwMlvtDTT5JsAPLAo"
+    },
+    {
+      "album": {
+        "name": "Piece of You",
+        "url": "https://open.spotify.com/album/6svyIFvuWLHRtq5AgISkO5"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Piece of You",
+      "url": "https://open.spotify.com/track/4pNpIUcx66auuJTusGNHxa"
     },
     {
       "album": {

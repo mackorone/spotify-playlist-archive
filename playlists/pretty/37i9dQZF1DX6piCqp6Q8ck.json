@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 190549,
+  "num_followers": 191853,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-12-15 08:58:05",
       "album": {
+        "name": "Yule Be Miserable",
+        "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
+      },
+      "artists": [
+        {
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
+    },
+    {
+      "added_at": "2025-12-15 08:58:05",
+      "album": {
         "name": "Pretty/Groovy (Expanded Edition)",
         "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 199773,
       "name": "Winter Wonderland - 78 Take",
       "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
-    },
-    {
-      "added_at": "2025-12-15 08:58:05",
-      "album": {
-        "name": "Yule Be Miserable",
-        "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
-      },
-      "artists": [
-        {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
     },
     {
       "added_at": "2025-12-15 08:58:05",

@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: Irina Rimes & Jerry Heil
+> Топові новинки української та світової поп\-музики\. Обкладинка: Khrystyna Soloviy & Iryna Bilyk
 
-466 songs - 23 hr 30 min
+468 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/track/6deUyNbUOrWDytrOtqehmr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Niecy Nash](https://open.spotify.com/artist/2hK8Hdnk56sxGMswzFbXaD) | [I Wanna Thank Me \(feat\. Niecy Nash\)](https://open.spotify.com/album/0XWBLjX39G0QsoItK55PmO) | 2:23 | 2024-06-27 | 2024-12-06 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-28 |  |
 | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/track/3NPY62YGNoM3lALLaKWiFL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [I'M HIS, HE'S MINE \(feat\. Doechii\)](https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3) | 3:18 | 2024-09-13 | 2024-10-05 |
-| [If you know what I mean](https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Вічно Танцююча Людина](https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c) | 3:37 | 2025-09-12 |  |
+| [If you know what I mean](https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Вічно Танцююча Людина](https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c) | 3:37 | 2025-09-12 | 2025-12-19 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-06-27 | 2024-09-21 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 | 2025-07-04 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-06-27 | 2025-01-24 |
@@ -286,7 +286,7 @@
 | [Відчиняю](https://open.spotify.com/track/7MkVeS2Vv6TlmWw8FPvTNH) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Відчиняю](https://open.spotify.com/album/1wtRGbp8RKqBkAWIhI6Rk0) | 3:19 | 2024-08-30 | 2024-09-28 |
 | [Він Поруч](https://open.spotify.com/track/24kl8wME24Jc5WrfhV3cvk) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Він Поруч](https://open.spotify.com/album/47Jy5YX0ApJ4wRYwpsavXm) | 2:55 | 2025-01-02 | 2025-01-17 |
 | [Вітер](https://open.spotify.com/track/44Luf8j9ZAKiA0d3QCI0OD) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Вітер](https://open.spotify.com/album/1gCA755TURpXarpFjfalr4) | 2:47 | 2024-09-13 | 2024-09-21 |
-| [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 | 2025-09-25 |  |
+| [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 | 2025-09-25 | 2025-12-19 |
 | [Говорили](https://open.spotify.com/track/36CrigOJBiD1PPsfWYMWxq) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Говорили](https://open.spotify.com/album/56m2oahXxWbrwzsZWLSfWX) | 2:29 | 2025-06-26 | 2025-07-04 |
 | [Голими](https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ) | [EL Kravchuk](https://open.spotify.com/artist/0R8YFxigLWgcwbYFvHA4Nh) | [Голими](https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp) | 2:47 | 2024-07-12 | 2024-07-20 |
 | [Гра в бісер](https://open.spotify.com/track/2q3eKvb9SfULxe9eUDBU8k) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Гра в бісер](https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5) | 3:46 | 2025-10-16 | 2025-10-24 |
@@ -449,6 +449,7 @@
 | [Тішу](https://open.spotify.com/track/5vhBDIUlgxoGQk4yAuyH3D) | [Lama](https://open.spotify.com/artist/0e0x0UVnYtJkqMOmpYdAWW) | [Тішу](https://open.spotify.com/album/1JdR0QletAR2gL3XtgHyLw) | 3:38 | 2024-12-12 | 2024-12-20 |
 | [Убер](https://open.spotify.com/track/65zc8JAIiF5vfdccKfE5Y1) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD), [Igor Kirilenko](https://open.spotify.com/artist/25WK0IMTJSqIG7h1ONNkHu) | [Убер](https://open.spotify.com/album/4fRPSBWsuFEIyZVvMO0xVT) | 2:00 | 2024-10-10 | 2024-11-08 |
 | [Удвох](https://open.spotify.com/track/2w2K1ezT7oZAQDbWzmqVZ6) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Удвох](https://open.spotify.com/album/4kO8ZzqjiLQHJUHO5Z2Tzk) | 2:40 | 2025-06-26 | 2025-08-01 |
+| [Франсуа](https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa), [Iryna Bilyk](https://open.spotify.com/artist/5wnPg3gAN19gmRi0sIyqEx) | [Франсуа](https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY) | 3:58 | 2025-12-18 |  |
 | [Хай пишуть](https://open.spotify.com/track/4CrtgDoRlrafpZxowRGwyN) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хай пишуть](https://open.spotify.com/album/5T3DYiV80d2Z21sNOdncwV) | 2:42 | 2024-10-18 | 2025-03-14 |
 | [Хай світ пам'ятає](https://open.spotify.com/track/2PFqarrECupnFNMgi6Poxx) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Хай світ пам'ятає](https://open.spotify.com/album/1qSWnFJi2lRfsaAYhKK4qh) | 3:40 | 2025-08-07 | 2025-09-06 |
 | [Хартбіт](https://open.spotify.com/track/198PqHQboOXnYfwD1cr9Sa) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Хартбіт](https://open.spotify.com/album/4iZGHBz7mngvXLEcO9T1RY) | 3:07 | 2024-06-27 | 2025-04-18 |
@@ -464,6 +465,7 @@
 | [Чому я не собака?](https://open.spotify.com/track/6H7UPVXBli5M3z2hvQonEw) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Чому я не собака?](https://open.spotify.com/album/3JFcFg8NT760FNNq5qzvHI) | 3:07 | 2024-09-20 | 2024-09-28 |
 | [Чорний автомат](https://open.spotify.com/track/6tvebwgyujcPctnv0NHZJ1) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [тоша](https://open.spotify.com/album/4T6Cd1vobRyq5MRByzFMN7) | 2:44 | 2024-12-05 | 2024-12-13 |
 | [ЧУЖІЮ Я](https://open.spotify.com/track/3Pc3jFRVSUvMKLsna4KNe1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [BRYKULETS](https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB) | [ЧУЖІЮ Я](https://open.spotify.com/album/6BYXvDUKBwdObrJdvNWYr7) | 3:23 | 2024-12-19 | 2025-04-25 |
+| [Шиншила](https://open.spotify.com/track/1f5i0oy0aeVVbXDvAbPEdg) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Шиншила](https://open.spotify.com/album/0vJRuTCQzUlMn7pDV9HeAy) | 2:48 | 2025-12-18 |  |
 | [Шо ти там?](https://open.spotify.com/track/4PtcjhZHpYA8df8mVMZwFO) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C), [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Врубай](https://open.spotify.com/album/1PB9YeUJ2rhQ9ScEnveczZ) | 2:24 | 2024-11-28 | 2025-02-21 |
 | [ШІ](https://open.spotify.com/track/0bBg8IU53bQwAkEdd7gWO4) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [ШІ](https://open.spotify.com/album/4DTse4GsSMsafSyX1EHjZj) | 2:51 | 2024-09-07 | 2025-01-06 |
 | [Що ти наробила](https://open.spotify.com/track/09wwxRJurrzTPZDoomn6bB) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Лірика](https://open.spotify.com/album/3HuR9wpNnz0Xu17RXm5OuD) | 2:50 | 2024-09-20 | 2025-01-17 |

@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Low Jay x Maud Elka x Says'z
+> Le R&B français, nouvelle ère\. Photo : Lisandro Cuxi
 
-608 songs - 1 day 4 hr 45 min
+610 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 | 2025-11-06 | 2025-12-05 |
 | [4 anneaux](https://open.spotify.com/track/24nAhbOcKz2mM2dqf7ozFh) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Love 66 \(Deluxe Version\)](https://open.spotify.com/album/629CBeD42OzFbCjmesnZ3n) | 3:11 | 2024-05-30 | 2024-06-21 |
 | [4 Étoiles](https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ) | [pkc](https://open.spotify.com/artist/0giIPo49HnTdeIT6cMPB8W) | [4 Étoiles](https://open.spotify.com/album/1FiqmjXMWU1ArwwzlGhtcR) | 2:30 | 2024-04-04 | 2024-10-25 |
+| [4H Du Mat \(feat\. Singuila\)](https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [CUXI BOY PART III](https://open.spotify.com/album/14t5IfOMHlcOM2h1gJBZ87) | 2:33 | 2025-12-18 |  |
 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 | 2024-03-28 | 2024-07-05 |
 | [Accro](https://open.spotify.com/track/7Avaa6GKq0HUEjyDbhFMLE) | [Victoria](https://open.spotify.com/artist/08lHp3sHGLHjpBLpvnskqG) | [Accro](https://open.spotify.com/album/78MTZPkNAdevpLTUBaEsNe) | 2:24 | 2025-02-06 | 2025-03-07 |
 | [Ailleurs](https://open.spotify.com/track/56q3vWvUDhVR0yHTtC9RLN) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Ailleurs](https://open.spotify.com/album/4Qsy1FwQVGeYD2JkZKUZPH) | 2:09 | 2023-02-23 | 2023-03-25 |
@@ -106,7 +107,7 @@
 | [Coco & Chanel](https://open.spotify.com/track/26l1inkOJ8gWYuxu6bQemd) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/6HKAdvdWNEkOFpdGF1fd4G) | 2:32 | 2024-03-07 | 2024-04-19 |
 | [Coco & Chanel](https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Hokage](https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet) | 2:32 | 2023-10-26 | 2024-05-17 |
 | [Colombe](https://open.spotify.com/track/5TABk5YGMSEzSfiY4wml4j) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Colombe](https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq) | 2:42 | 2023-03-30 | 2023-04-28 |
-| [COME & SEE ME](https://open.spotify.com/track/0c7KoKg2VNDSXZE0wovnjC) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:21 | 2025-06-19 |  |
+| [COME & SEE ME](https://open.spotify.com/track/0c7KoKg2VNDSXZE0wovnjC) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:21 | 2025-06-19 | 2025-12-19 |
 | [COMEBACK](https://open.spotify.com/track/1WNnU2CpNXCHZl2k27Kv8I) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF) | [COMEBACK](https://open.spotify.com/album/5mkCNcEcx4IAHmM1VzWj37) | 1:26 | 2024-09-26 | 2024-11-08 |
 | [Commandante](https://open.spotify.com/track/6rYd1MzEmpmHquYaRLtFQ4) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [Love Machine](https://open.spotify.com/album/06NSjZUXswJ1dl3oxDDQur) | 2:40 | 2024-11-07 | 2025-02-07 |
 | [Comme avant](https://open.spotify.com/track/47nJBT9KJwJjBbFR7un0e1) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:42 | 2024-02-15 | 2024-11-22 |
@@ -145,6 +146,7 @@
 | [Demoiselle](https://open.spotify.com/track/1rBGjBW9hsKvPt0QVnQk0g) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Demoiselle](https://open.spotify.com/album/3d84xx6ylXxDnLMQIzMHF4) | 2:25 | 2023-07-06 | 2023-07-21 |
 | [Dernier je t'aime](https://open.spotify.com/track/3lFku3uFAQlxhI6HQs2orW) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Dernier je t'aime](https://open.spotify.com/album/6h9eY1yISpJwaiNXZEwe3M) | 2:48 | 2023-01-26 | 2023-10-27 |
 | [Derrière toi](https://open.spotify.com/track/3cBpa9HYqtxLaGyLDQzbr6) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Train de vie](https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez) | 3:10 | 2023-02-09 | 2023-03-23 |
+| [DESTINY](https://open.spotify.com/track/7HNkaJTsFUWCzb1tiW0j31) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 3:47 | 2025-12-18 |  |
 | [DEUSPI](https://open.spotify.com/track/1tiPiU4mka9lKzA0gJTpTW) | [mademoiselle lou](https://open.spotify.com/artist/4CJClbpfpLi7UET4Nq1r3N) | [VIVRE](https://open.spotify.com/album/0fMgBtpqEHMbe0kQjNsmSA) | 2:06 | 2024-07-11 | 2024-08-09 |
 | [Deuxième chance](https://open.spotify.com/track/5hvAmUqY8PsaasQMytVONY) | [Victoria](https://open.spotify.com/artist/08lHp3sHGLHjpBLpvnskqG) | [Deuxième chance](https://open.spotify.com/album/3nif7fqhK9j1QYdPtkTnO1) | 2:29 | 2025-03-27 | 2025-04-25 |
 | [Diamant](https://open.spotify.com/track/46uwAtOsDM3mAJOp8ycCxM) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Diamant](https://open.spotify.com/album/6YmOjxGasiEdLsntn4srFf) | 3:16 | 2023-04-20 | 2023-06-30 |
@@ -183,7 +185,7 @@
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-07-21 |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2022-11-24 | 2022-12-16 |
-| [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 | 2025-02-27 |  |
+| [Ennemi](https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ennemi](https://open.spotify.com/album/4cNarfSVV4H2jZEtNp71uK) | 2:55 | 2025-02-27 | 2025-12-19 |
 | [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 | 2023-12-21 | 2024-02-16 |
 | [Excuse My French](https://open.spotify.com/track/3O7z8S8rFmrkXJvLOZ55nZ) | [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [Excuse My French](https://open.spotify.com/album/62THWNroOUyuF5mZulBkmd) | 2:15 | 2024-12-19 | 2025-01-24 |
 | [FACE](https://open.spotify.com/track/1gHlPnzWuBnFOPvyXi5C5K) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [FACE](https://open.spotify.com/album/3tterexf3zqHyQ3bSsAhKD) | 3:20 | 2024-11-07 | 2024-11-13 |

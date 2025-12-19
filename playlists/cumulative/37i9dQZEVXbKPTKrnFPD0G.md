@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-437 songs - 22 hr 56 min
+438 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Buscarte Lejos](https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:14 | 2024-11-08 | 2024-11-23 |
 | [CAFé CON RON](https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:48 | 2025-01-17 | 2025-02-08 |
 | [CANCELLED!](https://open.spotify.com/track/3FzJDGVjRGNc7KrkabU5N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:31 | 2025-10-10 | 2025-10-18 |
-| [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-02-07 |  |
+| [capaz \(merengueton\)](https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:53 | 2025-12-17 |  |
+| [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-02-07 | 2025-12-19 |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-06 | 2024-10-12 |
 | [Carita Triste](https://open.spotify.com/track/4AXgx8dQgAxPnMGzydsitJ) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Carita Triste](https://open.spotify.com/album/7GhIHmYSFDqCY1oW21hTca) | 2:36 | 2025-04-18 | 2025-04-26 |
 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 | 2024-04-05 | 2024-05-11 |

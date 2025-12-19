@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28081,
+  "num_followers": 28083,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACSZB9J7hAVZ2ZMAxlsuIzL",
+  "snapshot_id": "aUHygAAAAACFaMQOdStdjNacO9Gt1ih0",
   "tracks": [
     {
       "added_at": null,
@@ -411,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crying On The Dancefloor",
-        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
       },
       "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
+        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 258600,
-      "name": "Crying On The Dancefloor",
-      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
+      "duration_ms": 225428,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
     },
     {
       "added_at": null,
@@ -443,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alarm",
-        "url": "https://open.spotify.com/album/6CCEPNPiwlWdgs571YhWf5"
+        "name": "Crying On The Dancefloor",
+        "url": "https://open.spotify.com/album/2eBcYBlG9vIfWxJRgupw1R"
       },
       "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-        },
         {
           "name": "Krewella",
           "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
         }
       ],
-      "duration_ms": 225428,
-      "name": "Alarm",
-      "url": "https://open.spotify.com/track/6ZRenQ13CN0GaOnuKL9QNQ"
+      "duration_ms": 258600,
+      "name": "Crying On The Dancefloor",
+      "url": "https://open.spotify.com/track/7EcjCd8QWRTIKfRY0i4vTu"
     },
     {
       "added_at": null,

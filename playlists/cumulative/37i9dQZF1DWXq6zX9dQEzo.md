@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-864 songs - 1 day 17 hr 10 min
+865 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Dont Touch Me](https://open.spotify.com/track/5mNK3oatA4dEBj3OOWsqTq) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt), [I Project](https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me) | [WestSide Nights 2](https://open.spotify.com/album/1MyeUy3GCsHgA5ZGMb0y7O) | 1:37 | 2024-10-04 | 2025-08-08 |
 | [DONT TOUCH ME](https://open.spotify.com/track/6Wowg4HDcSzcfQokFxzGnv) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt), [I Project](https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me) | [DONT TOUCH ME](https://open.spotify.com/album/5SBMPUnW26mVlJNBJhubCU) | 1:37 | 2024-01-12 | 2024-06-08 |
 | [Don’t Worry Bout It](https://open.spotify.com/track/2tkA0frBybxjFnWRkNcx1H) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Don’t Worry Bout It](https://open.spotify.com/album/4LAf74AX25RuIrLIJyWrGM) | 2:52 | 2022-02-04 | 2023-08-12 |
-| [DOPE](https://open.spotify.com/track/7BZci4kWPGleTZTCqkflCN) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i), [Kam Michael](https://open.spotify.com/artist/39Bu0mGAL7CJojNkEY38cw) | [DOPE](https://open.spotify.com/album/44bz5xzKEjHLhSh3EU0kBC) | 2:40 | 2025-09-19 |  |
+| [DOPE](https://open.spotify.com/track/7BZci4kWPGleTZTCqkflCN) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [Tay Nay](https://open.spotify.com/artist/6v2Z6W04FFGH4OmzBT4T1i), [Kam Michael](https://open.spotify.com/artist/39Bu0mGAL7CJojNkEY38cw) | [DOPE](https://open.spotify.com/album/44bz5xzKEjHLhSh3EU0kBC) | 2:40 | 2025-09-19 | 2025-12-19 |
 | [Down \(Andy Hunter Remix\)](https://open.spotify.com/track/2UwnMpsOKF2LjIsbi9MTAD) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Metamorphosiz: The End Remixes, Vol\. 2](https://open.spotify.com/album/0qWiJS2CPl8v5D21m40wCJ) | 5:30 | 2022-03-23 | 2022-04-21 |
 | [Down \(Remix\)](https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u) | [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6), [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [Down \(Remix\)](https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD) | 3:05 | 2022-04-30 | 2024-01-13 |
 | [Drop It](https://open.spotify.com/track/2KmB83eDao5pjXlylVLdHB) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT) | [Drop It](https://open.spotify.com/album/4FrbZnllU4wYKY0W7w8RbY) | 2:33 | 2024-11-08 | 2025-08-08 |
@@ -657,6 +657,7 @@
 | [Say The Word](https://open.spotify.com/track/5Rg9GVq88cNWr5hjAIlumO) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [Say The Word](https://open.spotify.com/album/3BpL1g45ynCcLzH3vbNGtL) | 3:03 | 2025-09-19 |  |
 | [Season](https://open.spotify.com/track/6eaicDoH7Icxf9J4HdPfVk) | [Jamil](https://open.spotify.com/artist/4JDmvmyrWfrOVik0WkuoSu), [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl) | [Season](https://open.spotify.com/album/74b2u5FRQAm3fGaZVuNN4k) | 2:24 | 2022-04-30 | 2024-01-08 |
 | [Seat at the Table](https://open.spotify.com/track/3Nv0PZedRuBgcOXZ3ZqLa8) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Seat at the Table](https://open.spotify.com/album/6Tm3ZV7vqcemkAdNjgSQVU) | 2:27 | 2025-05-09 | 2025-08-08 |
+| [Second To None](https://open.spotify.com/track/5WTiy53VrVyM6ArUTKsUdF) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Second To None](https://open.spotify.com/album/2ec6yru0gpsMnMF3lRkmhU) | 3:02 | 2025-12-18 |  |
 | [SEEK](https://open.spotify.com/track/1apkmCkiKMYizWGJLIHrF9) | [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [SEEK](https://open.spotify.com/album/3kOXgl4oYG8SdmijpfEAOp) | 2:41 | 2025-06-09 |  |
 | [SET IT OFF](https://open.spotify.com/track/4IoyhUh08KsDcoWjPbr58e) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [SET IT OFF](https://open.spotify.com/album/5scwM6Xd2qBEZk6ma6MdsS) | 2:52 | 2022-07-17 | 2023-02-12 |
 | [Shabach Praise](https://open.spotify.com/track/04YBaIXzoZCovJZwtwR47x) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [1k Pson](https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2) | [Shabach Praise](https://open.spotify.com/album/3hDnfRwbtWZkVLEqrRnx64) | 2:49 | 2022-02-04 | 2022-07-28 |

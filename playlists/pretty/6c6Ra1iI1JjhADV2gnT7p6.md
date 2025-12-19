@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,563 likes - 400 songs - 21 hr 55 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,566 likes - 400 songs - 21 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 85 | [we were better](https://open.spotify.com/track/2c8kANHnQGTkt6AN5WK1oz) | [Stephan Kreussel](https://open.spotify.com/artist/5ZurMijkyknLpWTUp4678J) | [plateau](https://open.spotify.com/album/6JlOYEQWx0ZgR0WkeTIuge) | 3:21 |
 | 86 | [second spring](https://open.spotify.com/track/31Y30bearyQhBBXcrUbhGz) | [Total Wife](https://open.spotify.com/artist/1JQhIj3MeXcTYorKsa5SBz) | [come back down](https://open.spotify.com/album/4a0wDl4zpCX10gWbsB9VuJ) | 3:26 |
 | 87 | [False Prophet](https://open.spotify.com/track/1JDjEJwbk8e1sL2G3nj50H) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Passenger](https://open.spotify.com/album/32EICQjgu3JFOzW7Q7UPKu) | 3:20 |
-| 88 | [89](https://open.spotify.com/track/3tOZ2ohv7vuU6HnKtVd6MN) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Among the Firs](https://open.spotify.com/album/6oeEnP7WVltPWpNRu0X2HJ) | 3:44 |
-| 89 | [HaHaHome](https://open.spotify.com/track/740fiCDUxNBS4Npk3kFZq9) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/5RK1P6CcqLfAeHlgA8I6oH) | 4:00 |
+| 88 | [HaHaHome](https://open.spotify.com/track/740fiCDUxNBS4Npk3kFZq9) | [Twen](https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO) | [One Stop Shop](https://open.spotify.com/album/5RK1P6CcqLfAeHlgA8I6oH) | 4:00 |
+| 89 | [89](https://open.spotify.com/track/3tOZ2ohv7vuU6HnKtVd6MN) | [Luje](https://open.spotify.com/artist/6ytlQp07reEmExW6EeeLFD) | [Among the Firs](https://open.spotify.com/album/6oeEnP7WVltPWpNRu0X2HJ) | 3:44 |
 | 90 | [Watering The Valley](https://open.spotify.com/track/2i1lACbFqRmSRTPnTguSGM) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Watering The Valley](https://open.spotify.com/album/15r2ms6S0p7CO3b8gJLYEj) | 4:15 |
-| 91 | [Can't Quit](https://open.spotify.com/track/5oulOvuG9jdMle3Slw70q0) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Can't Quit](https://open.spotify.com/album/1D19fsmex2NLMiza4mFECw) | 3:19 |
-| 92 | [Fruit Bats](https://open.spotify.com/track/78FcqRiNhrse5x66Wee40O) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fruit Bats](https://open.spotify.com/album/6ckcH8CQa64SDtar5rWNxZ) | 2:55 |
-| 93 | [Leipzig](https://open.spotify.com/track/1TlgnCeMHM4pBKgG7NsQrK) | [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Until The Tide Creeps In](https://open.spotify.com/album/2yIhCIgcDljSyZzugaecjc) | 2:29 |
-| 94 | [Sand Wrists](https://open.spotify.com/track/4x3kHly6bZBp2H8iYvCpGj) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Eager Buyers](https://open.spotify.com/album/4Ve1ECxzd1MOwMWf2JyMl7) | 4:01 |
-| 95 | [Lion's Share](https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1) | [Merger](https://open.spotify.com/album/4T52YxQxH2MedYnXdPrUlV) | 3:05 |
-| 96 | [Snowfeel](https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Café Life](https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB) | 3:27 |
-| 97 | [Don't Touch Anything](https://open.spotify.com/track/6ZpoqLODpaQKE43R7hm4F9) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Magic Isn't Real](https://open.spotify.com/album/6yoaegjPtXrC8fI8fQpPPl) | 5:27 |
-| 98 | [See People](https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [It's Summer, I Love You, and I'm Surrounded by Snow](https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n) | 3:49 |
-| 99 | [Leave It at Why](https://open.spotify.com/track/0Cs0dAqNY0X34LvsTa2mVS) | [Constant Smiles](https://open.spotify.com/artist/5QNbh0ZAR2vNr8KwnQDBGH) | [Moonflowers](https://open.spotify.com/album/4bv5OR0VUz203IfEBONkz5) | 3:18 |
+| 91 | [Fruit Bats](https://open.spotify.com/track/78FcqRiNhrse5x66Wee40O) | [Freeds](https://open.spotify.com/artist/71OucXLZgracCypSFSaDwi) | [Fruit Bats](https://open.spotify.com/album/6ckcH8CQa64SDtar5rWNxZ) | 2:55 |
+| 92 | [Leipzig](https://open.spotify.com/track/1TlgnCeMHM4pBKgG7NsQrK) | [Penelope Isles](https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G) | [Until The Tide Creeps In](https://open.spotify.com/album/2yIhCIgcDljSyZzugaecjc) | 2:29 |
+| 93 | [Sand Wrists](https://open.spotify.com/track/4x3kHly6bZBp2H8iYvCpGj) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Eager Buyers](https://open.spotify.com/album/4Ve1ECxzd1MOwMWf2JyMl7) | 4:01 |
+| 94 | [Lion's Share](https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1) | [Merger](https://open.spotify.com/album/4T52YxQxH2MedYnXdPrUlV) | 3:05 |
+| 95 | [Snowfeel](https://open.spotify.com/track/4SoAPExSLQTXNNegHa9NAe) | [Starcleaner Reunion](https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM) | [Café Life](https://open.spotify.com/album/3rqqba1mcf98BBNWEzjndB) | 3:27 |
+| 96 | [Don't Touch Anything](https://open.spotify.com/track/6ZpoqLODpaQKE43R7hm4F9) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Magic Isn't Real](https://open.spotify.com/album/6yoaegjPtXrC8fI8fQpPPl) | 5:27 |
+| 97 | [See People](https://open.spotify.com/track/37piAuK1WhsQDLJ8hmDDSW) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [It's Summer, I Love You, and I'm Surrounded by Snow](https://open.spotify.com/album/7otdTE68bZ0rHjFS5KvN1n) | 3:49 |
+| 98 | [Leave It at Why](https://open.spotify.com/track/0Cs0dAqNY0X34LvsTa2mVS) | [Constant Smiles](https://open.spotify.com/artist/5QNbh0ZAR2vNr8KwnQDBGH) | [Moonflowers](https://open.spotify.com/album/4bv5OR0VUz203IfEBONkz5) | 3:18 |
+| 99 | [Can't Quit](https://open.spotify.com/track/5oulOvuG9jdMle3Slw70q0) | [Big Warm Bed](https://open.spotify.com/artist/5BZYKfGniYY4g6bk1dohQQ) | [Can't Quit](https://open.spotify.com/album/1D19fsmex2NLMiza4mFECw) | 3:19 |
 | 100 | [Begin Here](https://open.spotify.com/track/1I70BfKL8yfShgGobizhis) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Dream 3](https://open.spotify.com/album/75ILMGhtHI7bBn4vHdS8gQ) | 3:06 |
 | 101 | [Sliver](https://open.spotify.com/track/7tiQZIT1OOc2x3G2UDEnlV) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/6Zq8xtkwB8nJBLxlHKoNwY) | 2:36 |
 | 102 | [My City](https://open.spotify.com/track/45gZcISbKWHxGDKiDZTTxL) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [Anywhere](https://open.spotify.com/album/1vq309zi0LQUa0oEvoN3ou) | 4:40 |
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 399 | [Ionian Mirage](https://open.spotify.com/track/0CmVVolwKT2RxsZNHTPFC7) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Ionian Mirage](https://open.spotify.com/album/0mdkxjlHCvLdFCwRQUMxbE) | 2:45 |
 | 400 | [Four Below](https://open.spotify.com/track/0kglgbhRgUQnz6HhPh1isC) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Four Below](https://open.spotify.com/album/6AONJTIWKcZw9AmDC9sUze) | 2:48 |
 
-Snapshot ID: `AAAqBHKQgwb5B4wV2OTxEBmI7DGlyt7G`
+Snapshot ID: `AAAqBu80WTalyzpWFhNNIX9r03b04MX6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,910 likes - 124 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,938 likes - 124 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 22 | [Run](https://open.spotify.com/track/6kH58ciITQKhQ6x5kYQjPD) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Run](https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv) | 3:30 |
 | 23 | [CAN'T FIND YOU](https://open.spotify.com/track/22u0wscY6rWbbr9M7Ezg4j) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [CAN'T FIND YOU](https://open.spotify.com/album/66oS6DryteXBVpmetDGPAi) | 3:35 |
 | 24 | [Heavy Hand](https://open.spotify.com/track/1N6biFOcwt5amBX2JpGc5v) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR) | [Heavy Hand](https://open.spotify.com/album/62TXcQuC7Fh6JNH7eg1Qbe) | 3:47 |
-| 25 | [MEMORY](https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu), [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [MEMORY](https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO) | 3:16 |
+| 25 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
 | 26 | [forever sleepless](https://open.spotify.com/track/3hN0Fgqdcz9BL1M9XeMPA8) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [barking continues](https://open.spotify.com/artist/5CXAbK2R1Jepg9bl76AZ39) | [forever sleepless](https://open.spotify.com/album/6mCxfB5LAqF4UKU8M6pRZU) | 2:39 |
-| 27 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
+| 27 | [MEMORY](https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu), [Fi Sullivan](https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa) | [MEMORY](https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO) | 3:16 |
 | 28 | [Hurts](https://open.spotify.com/track/6bKOQSAL8FMeu8qEdlBZNx) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Hurts](https://open.spotify.com/album/0vDh8V4WLb0OJEnbiFtOuo) | 3:43 |
 | 29 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 |
 | 30 | [Naive](https://open.spotify.com/track/0XYjFOhn4vchGIuDkQdk4D) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Naive](https://open.spotify.com/album/3jH5zIsuqxMJ4DZqq2CcGI) | 3:00 |
@@ -128,9 +128,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 118 | [Sober](https://open.spotify.com/track/74QCgg5K5SfOjFxOBOXXHf) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Hix](https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO), [Tori Smith](https://open.spotify.com/artist/2cmtBSw2XFP9YGc4m20gwU) | [Sober](https://open.spotify.com/album/5EO4GE66HG5M5aleLkIZZc) | 2:52 |
 | 119 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
 | 120 | [Before You Broke My Heart](https://open.spotify.com/track/5t3HqfdKcA7igOrOx0JKJX) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [TO YOU, BY US \(VOL\. 1\)](https://open.spotify.com/album/3B5HqIucVllBSuzk692VFv) | 2:37 |
-| 121 | [I Can See You Everywhere](https://open.spotify.com/track/6QAPEfO3Nno6X4jbXOMaKE) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [I Can See You Everywhere](https://open.spotify.com/album/4kIzChFsBsfhXQSAE2EnHE) | 2:49 |
-| 122 | [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 |
-| 123 | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/track/4jRtoUQ5xVNNAxo71Mxh97) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/album/2qLdWJ29vkYMHtlcgq8f1r) | 2:55 |
+| 121 | [Tidal Wave](https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [LeyeT](https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb) | [Tidal Wave](https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI) | 3:47 |
+| 122 | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/track/4jRtoUQ5xVNNAxo71Mxh97) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [What If It Takes You Away \(feat\. Malou\)](https://open.spotify.com/album/2qLdWJ29vkYMHtlcgq8f1r) | 2:55 |
+| 123 | [I Can See You Everywhere](https://open.spotify.com/track/6QAPEfO3Nno6X4jbXOMaKE) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [I Can See You Everywhere](https://open.spotify.com/album/4kIzChFsBsfhXQSAE2EnHE) | 2:49 |
 | 124 | [Drinking To Get Drunk](https://open.spotify.com/track/74UOSZYTg7ZvqLmxdqFuT7) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Drinking To Get Drunk](https://open.spotify.com/album/7aVwCoTaALsMdLYkpx82Jl) | 3:26 |
 
 Snapshot ID: `AAAAAHlLNeN5v4ektwrMXdgeha5dfJ04`

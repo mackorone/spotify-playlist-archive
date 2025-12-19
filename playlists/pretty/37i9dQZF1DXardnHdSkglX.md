@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,742 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,784 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 99 | [Something Just Like This \- Bossa Mix](https://open.spotify.com/track/1oMTC7wvZCf7zeUpodLlQf) | [Purple Sparks](https://open.spotify.com/artist/0haWJk8mUdWGoSmbR08pns) | [Something Just Like this \(Bossa Mix\)](https://open.spotify.com/album/4i2kgflT74xkWmiHSbEOZk) | 3:35 |
 | 100 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 
-Snapshot ID: `AAAAABK+2j4Hf3qjK+mf5Iw+WYcAuo1b`
+Snapshot ID: `AAAAALGg+GORX01yYrPxe/daoeV6IVn3`

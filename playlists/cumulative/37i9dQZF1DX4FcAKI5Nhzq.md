@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: KANGDANIEL\(강다니엘\)\)
+> Future K\-Pop hits! \(Cover: KANGDANIEL\)
 
-1,542 songs - 3 day 10 hr 49 min
+1,543 songs - 3 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Back Door](https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [IN LIFE](https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft) | 3:09 | 2020-10-13\* | 2021-03-18 |
 | [Back Down](https://open.spotify.com/track/7EP9G7AIKrywWGdYsYZzGv) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : SET IN](https://open.spotify.com/album/1JDHisMjuJ1QkhcXiiLnnX) | 2:48 | 2022-12-13 | 2023-04-07 |
 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-08 | 2022-10-28 |
-| [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-10-28 |  |
+| [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 | 2025-10-28 | 2025-12-19 |
 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 | 2023-07-21 | 2024-06-24 |
 | [Backseat Promises](https://open.spotify.com/track/1TIcSWViv0dea0exVZmSwr) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PULSEPHASE](https://open.spotify.com/album/3Bl7sxTZ5nnIxkblxJ6gmp) | 3:34 | 2025-12-13 |  |
 | [bad \(Feat\. SURAN\)](https://open.spotify.com/track/2MuCBAgNvKIzEp9wOBk0O0) | [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [need that](https://open.spotify.com/album/6pHY07kq08B6UiU84lZRDi) | 3:16 | 2024-02-15 | 2024-02-27 |
@@ -312,7 +312,7 @@
 | [Curiosity](https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Curiosity](https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt) | 3:24 | 2023-12-21 | 2024-02-16 |
 | [Curious](https://open.spotify.com/track/0O0ivmVOezvyrCkcxEvrCl) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [CURIOUS](https://open.spotify.com/album/5SooWgzvq5BzwkQV57ltbM) | 3:11 | 2024-08-08 | 2025-03-25 |
 | [CWS](https://open.spotify.com/track/1fHb9GxwbYbPbVB5eqWzpe) | [Woosung](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [BM](https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE) | [Genre](https://open.spotify.com/album/4Y3sawhAYuYvYvARXpsdCy) | 3:30 | 2021-12-13 | 2022-02-18 |
-| [CYNICAL](https://open.spotify.com/track/39AbBWHLGckfng4J8b9h4Z) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [HEART MAID](https://open.spotify.com/album/3VTC0g2EGSIksMcUB4ajFN) | 2:35 | 2025-11-05 |  |
+| [CYNICAL](https://open.spotify.com/track/39AbBWHLGckfng4J8b9h4Z) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [HEART MAID](https://open.spotify.com/album/3VTC0g2EGSIksMcUB4ajFN) | 2:35 | 2025-11-05 | 2025-12-19 |
 | [D N D](https://open.spotify.com/track/1XrPkH2rQYgVMJeIMdUbRU) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [SELF](https://open.spotify.com/album/7gx8kFPhTKuAIWfUS8i72Z) | 3:07 | 2023-04-06 | 2023-07-22 |
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2021-01-27 | 2021-03-01 |
 | [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 | 2025-06-25 | 2025-07-25 |
@@ -398,6 +398,7 @@
 | [DROP TOP](https://open.spotify.com/track/63gioPx2WipyXiigLMf1nB) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/4n3pIffNB5CVVBmfhATTo8) | 3:15 | 2025-05-12 | 2025-07-09 |
 | [Drowning \(Feat\. SOLE\)](https://open.spotify.com/track/7gVFUy4jtXJ6nmk6nHAz2A) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [1st Single 'S.i.R'](https://open.spotify.com/album/7eZ1MuD9GYRP35jumpZStH) | 2:49 | 2023-03-24 | 2023-05-24 |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-04-30 | 2021-09-07 |
+| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-19 |  |
 | [DUMB](https://open.spotify.com/track/5jqnpaGBgHNMTNIO6wZZzz) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [DUMB](https://open.spotify.com/album/6QYmZNsB8JEqHybg99YYfM) | 2:09 | 2025-09-24 | 2025-10-29 |
 | [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-08-03 | 2021-11-12 |
 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 | 2020-10-13\* | 2021-01-25 |

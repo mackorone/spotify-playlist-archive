@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Benziê
 
-885 songs - 1 day 20 hr 12 min
+886 songs - 1 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Mesmo Se Você Mudar](https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Mesmo Se Você Mudar](https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG) | 3:05 | 2023-06-23 | 2023-09-23 |
 | [MEU 1º APARTAMENTO](https://open.spotify.com/track/11flcCCk68Ejm1WXioWVvQ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [MEU 1º APARTAMENTO](https://open.spotify.com/album/2kw4CShAfWtF2uDK98dWxV) | 3:19 | 2023-07-28 | 2023-09-02 |
 | [meu amô chegou](https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [meu amô chegou](https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y) | 3:40 | 2024-06-21 | 2024-08-31 |
+| [Meu Bem](https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Meu Bem](https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07) | 2:14 | 2025-12-19 |  |
 | [Meu Bem](https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Mágica Por Trás Da Forma](https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE) | 2:13 | 2023-03-17 | 2023-12-02 |
 | [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 | 2025-03-21 |  |
 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 | 2025-08-16 |
@@ -651,7 +652,7 @@
 | [Quem É Você?](https://open.spotify.com/track/0fburSFYhNq39QBirzGILU) | [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Quem É Você?](https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk) | 3:44 | 2025-05-16 | 2025-07-04 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-05-17 |
 | [Quero Bem Mais](https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Quero Bem Mais](https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL) | 3:17 | 2023-11-24 | 2024-03-23 |
-| [Quero Te Contar](https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [quero te contar](https://open.spotify.com/album/6GT54YsBJighiY7YLKErYD) | 2:45 | 2025-09-01 |  |
+| [Quero Te Contar](https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [quero te contar](https://open.spotify.com/album/6GT54YsBJighiY7YLKErYD) | 2:45 | 2025-09-01 | 2025-12-19 |
 | [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 | 2023-11-17 | 2023-12-16 |
 | [Quero Te Ver Pra Sempre](https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Quero Te Ver Pra Sempre](https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk) | 3:19 | 2023-08-04 | 2023-09-02 |
 | [Quintal](https://open.spotify.com/track/0d077bftCm5u4Q5PtcSZvs) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Quintal](https://open.spotify.com/album/3XCQxArZadK3ZLgkVAvQN0) | 2:55 | 2022-11-16 | 2023-01-28 |

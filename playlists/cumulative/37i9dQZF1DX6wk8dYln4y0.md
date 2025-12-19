@@ -2,7 +2,7 @@
 
 ### [\*hits different\*](https://open.spotify.com/playlist/37i9dQZF1DX6wk8dYln4y0)
 
-> music that just \*hits different\* Cover: CODY JON
+> music that just \*hits different\* Cover: Charli Lucas
 
 633 songs - 1 day 10 hr 8 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  BOJ",
+  "description": "Sweet afro melodies. Cover:  FAVE",
   "name": "Ginja",
   "tracks": [
     {
@@ -3964,6 +3964,28 @@
       "duration_ms": 135671,
       "name": "Day By Day (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV"
+    },
+    {
+      "album": {
+        "name": "Day n Nite",
+        "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142204,
+      "name": "Day n Nite",
+      "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
     },
     {
       "album": {
@@ -10591,6 +10613,36 @@
     },
     {
       "album": {
+        "name": "Milli II",
+        "url": "https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN"
+      },
+      "artists": [
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182276,
+      "name": "Milli II (feat Jungeli & Victony)",
+      "url": "https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9"
+    },
+    {
+      "album": {
         "name": "Miniskirt (Remix)",
         "url": "https://open.spotify.com/album/0miuahO6ByhPG1biEV4Gem"
       },
@@ -12438,7 +12490,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
@@ -13138,7 +13190,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 148607,
       "name": "Punish You",
       "url": "https://open.spotify.com/track/1L8LtnJ4DCIm9TG3he7Msg"

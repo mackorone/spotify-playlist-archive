@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR2kf8OYllT.md) - [plain]
 
 > Enjoy the concert LIVE SET including the voices of BTS members on stage! \(BTS 멤버들의 무대의 목소리가 포함된 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,255 likes - 31 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,257 likes - 31 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

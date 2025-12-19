@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-155 songs - 9 hr 4 min
+156 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 | 2024-09-29 |  |
 | [Sugar Man](https://open.spotify.com/track/0DrqW12M0AHrWubcjemcOG) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Jesus Was a Capricorn](https://open.spotify.com/album/2hGiNG4Zr1JH5rGKdgc8hd) | 4:03 | 2025-12-17 |  |
 | [Sugar Man](https://open.spotify.com/track/3pPtn3xSC0qwiWr8rx1YzZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Jesus Was a Capricorn](https://open.spotify.com/album/2Ki8vQ8HlryxQ9DhgXzaNs) | 4:03 | 2024-09-29 | 2025-12-18 |
-| [Sunday Morning Coming Down](https://open.spotify.com/track/1bZpAGWZkf6zx531RfHPWr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Hello I'm Johnny Cash](https://open.spotify.com/album/7tkPGM6ZwvytGO9bGAVfFH) | 4:06 | 2024-09-29 |  |
+| [Sunday Morning Coming Down](https://open.spotify.com/track/1bZpAGWZkf6zx531RfHPWr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Hello I'm Johnny Cash](https://open.spotify.com/album/7tkPGM6ZwvytGO9bGAVfFH) | 4:06 | 2024-09-29 | 2025-12-19 |
+| [Sunday Morning Coming Down \- Live at Ryman Auditorium, Nashville, TN \- July 1970](https://open.spotify.com/track/5KF3zQP0cqLklYnF6riogg) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Johnny Cash Show](https://open.spotify.com/album/7hpPHbARBOU8dtB6arbtKU) | 4:07 | 2025-12-18 |  |
 | [Telefonni dabel](https://open.spotify.com/track/5gUcwrXB7V2KbfUJtShaXM) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:01 | 2024-09-29 |  |
 | [The Bigger the Fool \(The Harder the Fall\)](https://open.spotify.com/track/3TrFbi7XCttZC8lVpNmKci) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/4nQQlfcwuxo4POyvnzCds1) | 3:33 | 2024-09-29 | 2025-12-18 |
 | [The Bigger the Fool \(The Harder the Fall\)](https://open.spotify.com/track/57Dl9MqUrgJ6aZEBkPfvQY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:33 | 2025-12-17 |  |

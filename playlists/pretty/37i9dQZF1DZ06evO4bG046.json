@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35923,
+  "num_followers": 35930,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACgBURuz4tXRBm4xowdH+fZ",
+  "snapshot_id": "aUHygAAAAACDW/VM1RIblTl/0GeCU2ZA",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 317786,
-      "name": "Pregon Para Iluminarse",
-      "url": "https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2"
+      "duration_ms": 433386,
+      "name": "La Conquistada",
+      "url": "https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 433386,
-      "name": "La Conquistada",
-      "url": "https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD"
+      "duration_ms": 317786,
+      "name": "Pregon Para Iluminarse",
+      "url": "https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 479186,
-      "name": "Guajira Cosmica",
-      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+      "duration_ms": 249186,
+      "name": "Un Mar de Gente",
+      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 249186,
-      "name": "Un Mar de Gente",
-      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
+      "duration_ms": 479186,
+      "name": "Guajira Cosmica",
+      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 309048,
-      "name": "En la Cumbre de un Cerro",
-      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 667266,
       "name": "Arauco Tiene una Pena",
       "url": "https://open.spotify.com/track/0vKUJJBOWh8hhwJA2xOU2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 309048,
+      "name": "En la Cumbre de un Cerro",
+      "url": "https://open.spotify.com/track/0QrnxnUcNNPwUwKZyIa0zS"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Canci\u00f3n para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Obras de Violeta Parra",
         "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 314000,
       "name": "Run Run Se Fue Pa'l Norte",
       "url": "https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Canci\u00f3n para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volant\u00edn",
         "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 394573,
       "name": "Foto de Primera Comuni\u00f3n",
       "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
     },
     {
       "added_at": null,

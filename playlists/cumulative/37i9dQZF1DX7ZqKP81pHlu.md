@@ -4,7 +4,7 @@
 
 > Les hits du moment en Algérie.
 
-272 songs - 16 hr 16 min
+273 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [La nuit](https://open.spotify.com/track/0EqzmPWtJPcFvJfsa9rga7) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 2:56 | 2024-01-22 | 2024-06-09 |
 | [Lafin](https://open.spotify.com/track/0tTiPBBmQO7MGMghD2MxLw) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mezyane](https://open.spotify.com/artist/3UlIprTDXD8pwiFj7xgmWJ) | [Lafin](https://open.spotify.com/album/5nigUBL4IEyCYrpz7eLRxf) | 3:06 | 2022-01-27 | 2022-07-29 |
 | [Liyam](https://open.spotify.com/track/4tRUx2gflnuk7v0Uvic04X) | [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Liyam](https://open.spotify.com/album/56kMBEY2KFd8ua913PoSq4) | 3:21 | 2021-12-09 | 2023-03-31 |
-| [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 | 2025-04-16 |  |
+| [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 | 2025-04-16 | 2025-12-19 |
 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 | 2023-02-06 | 2024-05-09 |
 | [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 | 2023-08-14 | 2024-07-19 |
 | [Ma3lich ya 9albi](https://open.spotify.com/track/70EOQVKqRBIU9mfibNLltJ) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ma3lich ya 9albi](https://open.spotify.com/album/1pFjyyY15J1iChq4xAMJYW) | 4:14 | 2021-12-09 | 2022-12-26 |
@@ -224,6 +224,7 @@
 | [Saiyan](https://open.spotify.com/track/63jpYDOn7xGEPzpUxViZu2) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Saiyan](https://open.spotify.com/album/2wqGRwfRnCTVPVFf9RimRK) | 3:09 | 2023-08-14 | 2024-08-25 |
 | [Saroukh Style Manini](https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm) | [Smaug](https://open.spotify.com/artist/1fIraGNUIufBhLMYTiXs6n), [Dj Mourad](https://open.spotify.com/artist/5pYsi7UuQoyP3HdXYjpAPz) | [Saroukh Style Manini](https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s) | 3:03 | 2024-07-18 |  |
 | [SAYGA](https://open.spotify.com/track/0sph6B02DsRCAkKpMhOT3P) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [SAYGA](https://open.spotify.com/album/67OggBaHeH1P5kflZop6w6) | 3:05 | 2025-11-03 |  |
+| [Se9si Liyam](https://open.spotify.com/track/1yhawOwQm1XumUtkVHhtVP) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Se9si Liyam](https://open.spotify.com/album/0Yl6SijIxAklDcxRxz7GRK) | 3:44 | 2025-12-18 |  |
 | [SEYA](https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Les dernières volontés de Mozart \(Symphony\)](https://open.spotify.com/album/4ljqGoLmGs8AxkyS2S1fvQ) | 3:08 | 2024-07-18 |  |
 | [SHADOW BOXING](https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [1.6](https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf) | 2:47 | 2023-03-20 | 2024-06-05 |
 | [Smaht ou Mchit](https://open.spotify.com/track/4szzelql5n4wwot52p0rsm) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Smaht ou Mchit](https://open.spotify.com/album/0crzSITMp0X19AwZwAz6q6) | 3:39 | 2025-07-17 |  |

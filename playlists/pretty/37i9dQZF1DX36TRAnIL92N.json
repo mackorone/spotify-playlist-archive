@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 458583,
+  "num_followers": 458741,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Heute Nacht",
         "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 204444,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -223,6 +223,22 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "Sturm und Drang",
+        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
+      },
+      "artists": [
+        {
+          "name": "Schrotthagen",
+          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
+        }
+      ],
+      "duration_ms": 224698,
+      "name": "Pain in my Heart",
+      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "Spiritual Driveby",
         "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 218882,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
-        "name": "Sturm und Drang",
-        "url": "https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK"
-      },
-      "artists": [
-        {
-          "name": "Schrotthagen",
-          "url": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
-        }
-      ],
-      "duration_ms": 224698,
-      "name": "Pain in my Heart",
-      "url": "https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -399,26 +399,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "One Mind EP",
-        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 345605,
-      "name": "One Mind",
-      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 181333,
       "name": "ACID",
       "url": "https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "One Mind EP",
+        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 345605,
+      "name": "One Mind",
+      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -535,22 +535,22 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Hooked on the Bassline",
-        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
+        "name": "See Me Coming",
+        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
         },
         {
-          "name": "Marie Vaunt",
-          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
         }
       ],
-      "duration_ms": 197600,
-      "name": "Hooked on the Bassline",
-      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
+      "duration_ms": 256511,
+      "name": "See Me Coming",
+      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -571,22 +571,22 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "See Me Coming",
-        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
+        "name": "Hooked on the Bassline",
+        "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
       "artists": [
         {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
         }
       ],
-      "duration_ms": 256511,
-      "name": "See Me Coming",
-      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
+      "duration_ms": 197600,
+      "name": "Hooked on the Bassline",
+      "url": "https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
+        "name": "CONTROL YOUR BODY",
+        "url": "https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa"
+      },
+      "artists": [
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        },
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "CONTROL YOUR BODY",
+      "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
         "name": "When I Push (Edit)",
         "url": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy"
       },
@@ -767,26 +787,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "CONTROL YOUR BODY",
-        "url": "https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa"
-      },
-      "artists": [
-        {
-          "name": "Shl\u00f8mo",
-          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
-        },
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "CONTROL YOUR BODY",
-      "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Charlotte de Witte",
         "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/34yR53qn56KlYXmhbuwjaa"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Cathedral",
+        "url": "https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H"
+      },
+      "artists": [
+        {
+          "name": "Bouras",
+          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
+        },
+        {
+          "name": "ATLANTE (FR)",
+          "url": "https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ"
+        }
+      ],
+      "duration_ms": 251138,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -863,26 +883,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Cathedral",
-        "url": "https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H"
-      },
-      "artists": [
-        {
-          "name": "Bouras",
-          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
-        },
-        {
-          "name": "ATLANTE (FR)",
-          "url": "https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ"
-        }
-      ],
-      "duration_ms": 251138,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Charlotte de Witte",
         "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 366233,
       "name": "No Division (feat. XSALT)",
       "url": "https://open.spotify.com/track/6ia0ffeCVyDAX7KOeYLjH2"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chaos - Rave Mix",
+      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -923,22 +939,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Chaos - Rave Mix",
-      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
@@ -959,22 +959,22 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/4jmiczml2DXJ5idy60KGwY"
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5"
       },
       "artists": [
         {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         },
         {
-          "name": "Andrea Botez",
-          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl"
+      "duration_ms": 116521,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx"
     }
   ],
   "unique_name": "Techno Workout",

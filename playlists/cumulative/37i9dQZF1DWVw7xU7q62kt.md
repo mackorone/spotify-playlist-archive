@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-722 songs - 1 day 7 hr 12 min
+723 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Beat Brunch](https://open.spotify.com/track/2Xy4Cl8PGYRRzIBniRrVra) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Beat Brunch](https://open.spotify.com/album/2HnId5ukRSiZ4AoKlgPfWX) | 2:13 | 2024-08-23 | 2025-09-13 |
 | [Beaujolais](https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Beaujolais](https://open.spotify.com/album/7Lwsyj1DmE5JYuuzNjX3fZ) | 2:18 | 2024-11-29 |  |
 | [Bebop](https://open.spotify.com/track/563RQEdL2To3aMcsFkvoBr) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Bebop](https://open.spotify.com/album/1WwiH2u1PxiFAzFAgDj5zY) | 2:06 | 2025-06-13 | 2025-09-13 |
-| [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 |  |
+| [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 | 2025-12-19 |
 | [BEING LOST \- Instrumental](https://open.spotify.com/track/7lq2ulYIlMEdj0z8dbV37q) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [Ecosphere B\-Sides](https://open.spotify.com/album/6TVeU2jaiqlXeNmJoAXlEw) | 3:43 | 2025-06-13 | 2025-07-05 |
 | [Bella Vista](https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Bella Vista](https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5) | 2:30 | 2024-09-13 | 2025-05-10 |
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |
@@ -484,6 +484,7 @@
 | [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 | 2025-01-24 | 2025-03-08 |
 | [Pool Days](https://open.spotify.com/track/6l1uXxuXhp3ZgGyypFbf0t) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Pool Days](https://open.spotify.com/album/6HfLdmLHYsyK4gjZjxTBpl) | 1:32 | 2025-03-03 |  |
 | [Poolday](https://open.spotify.com/track/7vtfIwFyzFSFvjUjHbEQoG) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [miamore](https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB) | [Poolday](https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq) | 2:10 | 2023-12-08 | 2025-04-12 |
+| [Poplar](https://open.spotify.com/track/4dqEfht8003OLT3wZBOvBz) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Poplar](https://open.spotify.com/album/2sFeGYsy0nLMFb6Du3BCQ0) | 2:02 | 2025-12-12 |  |
 | [Porto](https://open.spotify.com/track/3TpEQ6me6jCZHvtAjOWTAF) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t) | [Porto](https://open.spotify.com/album/4GFxEBA1tidktuMG9KcU6g) | 1:50 | 2025-10-03 |  |
 | [Portrait](https://open.spotify.com/track/5fEQg559m7sLKw78foaoWF) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Portrait](https://open.spotify.com/album/4ccTq0mjUIan7Ovrztf3ka) | 2:08 | 2024-09-27 |  |
 | [Postcards from yesterday](https://open.spotify.com/track/2v3ny15ONDliawHnJPhNnO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Postcards from yesterday](https://open.spotify.com/album/3NCKToVhYMvkdz1gebBo8M) | 1:30 | 2025-06-20 | 2025-06-24 |

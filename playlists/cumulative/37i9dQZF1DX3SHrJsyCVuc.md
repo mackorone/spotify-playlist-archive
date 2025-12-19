@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: EXEK
+> A new world of alternative noise\. Cover: Eveline Breaker
 
-97 songs - 5 hr 10 min
+99 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 |  |
 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 | 2025-12-12 |
 | [Automate Me](https://open.spotify.com/track/42VOxxXnw23ir7nNRDPL8J) | [Speed Week](https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn) | [Automate Me](https://open.spotify.com/album/0TCRkaqYIeodw6bJ7B8OqR) | 3:43 | 2025-10-23 |  |
-| [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 |  |
+| [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 | 2025-12-19 |
 | [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 | 2025-11-20 |  |
 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-10-23 |  |
 | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-20 | 2025-11-28 |
@@ -28,6 +28,7 @@
 | [Deer In The Headlights](https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Deer In The Headlights](https://open.spotify.com/album/1LmUideiZFaC9rOi5vg6Z2) | 4:30 | 2025-11-06 |  |
 | [Dipped](https://open.spotify.com/track/52hIY1Ik9gSGWALJWm0SgC) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Dipped](https://open.spotify.com/album/7sF4EDoaaVq31e07L2aWHJ) | 3:24 | 2025-10-23 | 2025-11-14 |
 | [Don't Cheese Me Off](https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Crumbs 2](https://open.spotify.com/album/3bVyAHsbBLE7QetQnl0EE9) | 1:47 | 2025-11-27 |  |
+| [Double Clover](https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX) | [Eveline Breaker](https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG) | [Idle Viewer](https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC) | 4:35 | 2025-12-18 |  |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-23 |  |
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-10-23 |  |
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-10-23 |  |
@@ -51,6 +52,7 @@
 | [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-10-23 |  |
 | [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 | 2025-12-12 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 |  |
+| [Just a Memory](https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Just a Memory](https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN) | 3:31 | 2025-12-18 |  |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 |  |
 | [Landslide](https://open.spotify.com/track/3YGUjZ9giUQTnseoUqf0By) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg), [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a) | [Landslide](https://open.spotify.com/album/0xlFiNYXN3cF666OLUxRlz) | 3:21 | 2025-10-23 |  |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
@@ -63,7 +65,7 @@
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-10-23 | 2025-11-28 |
 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 | 2025-10-23 |  |
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 |  |
-| [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 |  |
+| [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 | 2025-12-19 |
 | [Parasite](https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Parasite](https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB) | 2:27 | 2025-10-23 |  |
 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-20 |  |
 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 |  |

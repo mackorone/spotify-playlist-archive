@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-436 songs - 1 day 1 hr 56 min
+437 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Red Tape](https://open.spotify.com/track/0WauEaIUUp3RBd22n7hSM4) | [White Off](https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N) | [Red Tape](https://open.spotify.com/album/4XFQEDf0gtebWEEdB7gT2h) | 3:07 | 2024-10-13 |  |
 | [Relative](https://open.spotify.com/track/6tPBj6TsuJWRiDVgIavgoB) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Relative](https://open.spotify.com/album/54LJSXrny0n1aFXxR0bg0N) | 3:49 | 2025-12-14 |  |
 | [Reload](https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg) | [1997](https://open.spotify.com/artist/6MSe5IjGtnDLfKyAuofPo2), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [Reload](https://open.spotify.com/album/5PbhhWEN3BsplhcFBTDIAH) | 3:52 | 2023-07-16 | 2023-08-20 |
+| [REVENGE](https://open.spotify.com/track/0DD63rGP1wxbkWKoxR6wdV) | [DYEPA'](https://open.spotify.com/artist/7b7hWy8ITrscmKdRb8WjMv) | [REVENGE](https://open.spotify.com/album/7Ly33lununxENkFpzWEwwJ) | 3:00 | 2025-12-18 |  |
 | [Rhymorator](https://open.spotify.com/track/2pezonC6ZUfm8DFLErkPcy) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Rhymorator](https://open.spotify.com/album/6Cppfglc6q5FvoEtX8qIjW) | 2:32 | 2023-01-29 | 2023-03-06 |
 | [Roce](https://open.spotify.com/track/68EdmTrrTvdUh1RP32OTsp) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Off Week Special](https://open.spotify.com/album/3nHqThiSPmbFfZUxQuTz2K) | 5:31 | 2023-06-18 | 2023-07-17 |
 | [Rock The House](https://open.spotify.com/track/3EYzxRhzkkVKRiw1PRvPQ6) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Wanna Dance EP](https://open.spotify.com/album/2fvC5Y9cNUXetWyiJQJjSp) | 3:01 | 2023-02-12 | 2023-03-06 |

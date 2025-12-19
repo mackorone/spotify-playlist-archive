@@ -1,15 +1,67 @@
 {
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Vince",
-  "num_followers": 462976,
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BRUCKNER",
+  "num_followers": 462969,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVhNuiS3W9OY/reDCeKQvhZR21a",
+  "snapshot_id": "AAAAAJEqRUuIwVUtlezZdMQnJ0/690QJ",
   "tracks": [
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Dienstag",
+        "url": "https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "duration_ms": 161329,
+      "name": "Dienstag",
+      "url": "https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "DARF SIE DAS?",
+        "url": "https://open.spotify.com/album/30v3UHd96GVyvaEV6o1a6C"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 134129,
+      "name": "DARF SIE DAS?",
+      "url": "https://open.spotify.com/track/5nGrPZhDZi6iTqh8r0zmwx"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "weit weg",
+        "url": "https://open.spotify.com/album/07uU4DLBrEiq17HW8GVUuH"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        },
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "duration_ms": 170014,
+      "name": "weit weg",
+      "url": "https://open.spotify.com/track/7GAsH2QCm8EGuLUHNM8ImW"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "kein n\u00e4chstes mal",
         "url": "https://open.spotify.com/album/7cdJf84HRuVFQHUbUYbfwP"
@@ -25,23 +77,27 @@
       "url": "https://open.spotify.com/track/22P8IF6TCe5eysah6kGKgy"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Ausgedacht",
-        "url": "https://open.spotify.com/album/1LygnaZ8aThLoDCPEpphxj"
+        "name": "Gegenteil von Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
       },
       "artists": [
         {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
         }
       ],
-      "duration_ms": 189181,
-      "name": "Ausgedacht",
-      "url": "https://open.spotify.com/track/09EPM9hZhXTTCVi0qrc8A3"
+      "duration_ms": 252813,
+      "name": "Knopf",
+      "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Halbzeit",
         "url": "https://open.spotify.com/album/5mbpVmDxFNVp1Y3QTI5mU5"
@@ -65,43 +121,23 @@
       "url": "https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Gegenteil von Gl\u00fcck",
-        "url": "https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY"
+        "name": "Ausgedacht",
+        "url": "https://open.spotify.com/album/1LygnaZ8aThLoDCPEpphxj"
       },
       "artists": [
         {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        },
-        {
-          "name": "Berq",
-          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
         }
       ],
-      "duration_ms": 252813,
-      "name": "Knopf",
-      "url": "https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO"
+      "duration_ms": 189181,
+      "name": "Ausgedacht",
+      "url": "https://open.spotify.com/track/09EPM9hZhXTTCVi0qrc8A3"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Danke",
-        "url": "https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t"
-      },
-      "artists": [
-        {
-          "name": "Jonny Mahoro",
-          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Danke",
-      "url": "https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "juli",
         "url": "https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Arsenalplatz",
         "url": "https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j"
@@ -141,123 +177,23 @@
       "url": "https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Strandbad Eldena",
-        "url": "https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh"
+        "name": "leicht",
+        "url": "https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7"
       },
       "artists": [
         {
-          "name": "Von Wegen Lisbeth",
-          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
-        },
-        {
-          "name": "LUVRE47",
-          "url": "https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 182813,
-      "name": "Gespenst",
-      "url": "https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU"
+      "duration_ms": 141453,
+      "name": "leicht",
+      "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "2 Versager",
-        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
-      },
-      "artists": [
-        {
-          "name": "Magda",
-          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "2 Versager",
-      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "2002",
-        "url": "https://open.spotify.com/album/1shEZK864ykHq771TdWVPF"
-      },
-      "artists": [
-        {
-          "name": "Schlotte",
-          "url": "https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv"
-        },
-        {
-          "name": "laurin",
-          "url": "https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT"
-        }
-      ],
-      "duration_ms": 141054,
-      "name": "immer jung",
-      "url": "https://open.spotify.com/track/7IjDf3LtMRgul5BmH9nfdw"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Sorgen",
-        "url": "https://open.spotify.com/album/44FCZLvIiSjvP6emHmTF1c"
-      },
-      "artists": [
-        {
-          "name": "bella bazz",
-          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
-        },
-        {
-          "name": "Rex",
-          "url": "https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY"
-        }
-      ],
-      "duration_ms": 180824,
-      "name": "Sorgen",
-      "url": "https://open.spotify.com/track/4Fx5ksDTBLqWCouGi8h626"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Die Welt und ich",
-        "url": "https://open.spotify.com/album/0iYI6T7q8iNe0prTO319bV"
-      },
-      "artists": [
-        {
-          "name": "Yukno",
-          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
-        },
-        {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
-        }
-      ],
-      "duration_ms": 228828,
-      "name": "Die Welt und ich",
-      "url": "https://open.spotify.com/track/3uTO2FfzeAMYdJ5NPea8D0"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "die welt geht vor die hunde",
-        "url": "https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        },
-        {
-          "name": "antonius",
-          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
-        }
-      ],
-      "duration_ms": 171864,
-      "name": "die welt geht vor die hunde",
-      "url": "https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "All die sch\u00f6nen Worte feat. Faber",
         "url": "https://open.spotify.com/album/3aEYufSNb9oRDRQXBxDNi3"
@@ -277,71 +213,7 @@
       "url": "https://open.spotify.com/track/6d7QE9925lkSV8IxaNC55s"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Wenn du dich entfernst",
-        "url": "https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M"
-      },
-      "artists": [
-        {
-          "name": "Jaq",
-          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Wenn du dich entfernst",
-      "url": "https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "seht ihr nicht",
-        "url": "https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8"
-      },
-      "artists": [
-        {
-          "name": "mathi",
-          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
-        }
-      ],
-      "duration_ms": 173205,
-      "name": "seht ihr nicht",
-      "url": "https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "f\u00fcr immer kind bleiben",
-        "url": "https://open.spotify.com/album/2Lli6Izvojoyd2Lroj1lp3"
-      },
-      "artists": [
-        {
-          "name": "jaschu",
-          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "f\u00fcr immer kind bleiben",
-      "url": "https://open.spotify.com/track/7qAnJ6dSXymBTYEinAFvmt"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "spa\u00df am glas",
-        "url": "https://open.spotify.com/album/37RCFSxjxhHmexsikCrM78"
-      },
-      "artists": [
-        {
-          "name": "Tiavo",
-          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
-        }
-      ],
-      "duration_ms": 142777,
-      "name": "spa\u00df am glas",
-      "url": "https://open.spotify.com/track/6l2mUaALK4zninxazzwFTN"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "lieblingslied",
         "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
@@ -357,7 +229,43 @@
       "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Danke",
+        "url": "https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Danke",
+      "url": "https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Strandbad Eldena",
+        "url": "https://open.spotify.com/album/5Ht0J2Q4lZ0Pf5p0NUimwh"
+      },
+      "artists": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "url": "https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq"
+        },
+        {
+          "name": "LUVRE47",
+          "url": "https://open.spotify.com/artist/2qxkFauoxk34qhVdkgbqbz"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Gespenst",
+      "url": "https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "nah am meer gebaut",
         "url": "https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh"
@@ -377,39 +285,75 @@
       "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "leicht",
-        "url": "https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7"
+        "name": "f\u00fcr immer kind bleiben",
+        "url": "https://open.spotify.com/album/2Lli6Izvojoyd2Lroj1lp3"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "jaschu",
+          "url": "https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8"
         }
       ],
-      "duration_ms": 141453,
-      "name": "leicht",
-      "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
+      "duration_ms": 159533,
+      "name": "f\u00fcr immer kind bleiben",
+      "url": "https://open.spotify.com/track/7qAnJ6dSXymBTYEinAFvmt"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Kreislauf",
-        "url": "https://open.spotify.com/album/3uZtKPX2VrGNnIIH6M1mV4"
+        "name": "seht ihr nicht",
+        "url": "https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8"
       },
       "artists": [
         {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
         }
       ],
-      "duration_ms": 228271,
-      "name": "Kreislauf",
-      "url": "https://open.spotify.com/track/63u7y0YEzhZxsh7Blg6kEa"
+      "duration_ms": 173205,
+      "name": "seht ihr nicht",
+      "url": "https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "die welt geht vor die hunde",
+        "url": "https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "duration_ms": 171864,
+      "name": "die welt geht vor die hunde",
+      "url": "https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "2 Versager",
+        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "2 Versager",
+      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Gegenteil von Gl\u00fcck",
         "url": "https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B"
@@ -429,7 +373,7 @@
       "url": "https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Hast Du Noch Zeit",
         "url": "https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV"
@@ -445,7 +389,7 @@
       "url": "https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Du Fehlst Hier",
         "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
@@ -461,71 +405,43 @@
       "url": "https://open.spotify.com/track/01QqgzwltAoxvlXPvGnNJ7"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "WUNDERLICH",
-        "url": "https://open.spotify.com/album/0rE03wb84wU7ajzSrXazie"
+        "name": "2002",
+        "url": "https://open.spotify.com/album/1shEZK864ykHq771TdWVPF"
       },
       "artists": [
         {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+          "name": "Schlotte",
+          "url": "https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv"
+        },
+        {
+          "name": "laurin",
+          "url": "https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT"
         }
       ],
-      "duration_ms": 140052,
-      "name": "WUNDERLICH",
-      "url": "https://open.spotify.com/track/2d9aXk7fLqvckuWv0PAzZZ"
+      "duration_ms": 141054,
+      "name": "immer jung",
+      "url": "https://open.spotify.com/track/7IjDf3LtMRgul5BmH9nfdw"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Zeitraffer",
-        "url": "https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq"
+        "name": "spa\u00df am glas",
+        "url": "https://open.spotify.com/album/37RCFSxjxhHmexsikCrM78"
       },
       "artists": [
         {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
         }
       ],
-      "duration_ms": 121461,
-      "name": "Flaschenpost",
-      "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
+      "duration_ms": 142777,
+      "name": "spa\u00df am glas",
+      "url": "https://open.spotify.com/track/6l2mUaALK4zninxazzwFTN"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Hunde",
-        "url": "https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 162552,
-      "name": "Hunde",
-      "url": "https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "augen zu:auf",
-        "url": "https://open.spotify.com/album/1hBRNebqswtEj9HLGILMAI"
-      },
-      "artists": [
-        {
-          "name": "katlix",
-          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
-        }
-      ],
-      "duration_ms": 150779,
-      "name": "augen zu:auf",
-      "url": "https://open.spotify.com/track/4CiYWQI7YtNCzTtF1XxK0h"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "kommst du mich tr\u00f6sten",
         "url": "https://open.spotify.com/album/1b6djekUXcXxezSNuGHAYh"
@@ -545,43 +461,7 @@
       "url": "https://open.spotify.com/track/6Kc5IHSE54g8wIE1hXYTNe"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Haifischbecken",
-        "url": "https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27"
-      },
-      "artists": [
-        {
-          "name": "Yasola",
-          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
-        }
-      ],
-      "duration_ms": 192204,
-      "name": "Haifischbecken",
-      "url": "https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "ausnahmsweise",
-        "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        },
-        {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
-        }
-      ],
-      "duration_ms": 151465,
-      "name": "ausnahmsweise",
-      "url": "https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Alles bisschen viel grade",
         "url": "https://open.spotify.com/album/2SedsQ5dNhP6pcuOwRsu0r"
@@ -597,39 +477,23 @@
       "url": "https://open.spotify.com/track/5zA0pTPsMhgaFDzKeZv5VD"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Zukunftsangst",
-        "url": "https://open.spotify.com/album/54YLnoMqTwFElnmcM4ooIh"
+        "name": "Zeitraffer",
+        "url": "https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq"
       },
       "artists": [
         {
-          "name": "Jonny Mahoro",
-          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
         }
       ],
-      "duration_ms": 168493,
-      "name": "Zukunftsangst",
-      "url": "https://open.spotify.com/track/1GbzDnAbOpPXSb5xIgW54P"
+      "duration_ms": 121461,
+      "name": "Flaschenpost",
+      "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Marlboro Mann",
-        "url": "https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB"
-      },
-      "artists": [
-        {
-          "name": "Kraftklub",
-          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
-        }
-      ],
-      "duration_ms": 176374,
-      "name": "Marlboro Mann",
-      "url": "https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Eigentlich sch\u00f6n",
         "url": "https://open.spotify.com/album/2fD7gag37HevccvJ3awnua"
@@ -645,159 +509,7 @@
       "url": "https://open.spotify.com/track/7mgmd6ZDqRM7to8RIghTLr"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Luftschloss",
-        "url": "https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF"
-      },
-      "artists": [
-        {
-          "name": "amelie",
-          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Luftschloss",
-      "url": "https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Das Leben ist schon ernst genug",
-        "url": "https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk"
-      },
-      "artists": [
-        {
-          "name": "RIAN",
-          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Das Leben ist schon ernst genug",
-      "url": "https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "poly",
-        "url": "https://open.spotify.com/album/3sjkeYKldsVyjX30BBe7o2"
-      },
-      "artists": [
-        {
-          "name": "Leon Wiesmann",
-          "url": "https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8"
-        }
-      ],
-      "duration_ms": 200961,
-      "name": "poly",
-      "url": "https://open.spotify.com/track/51tSxmzv9ihPf4G9ExE3YQ"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "geklaut",
-        "url": "https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph"
-      },
-      "artists": [
-        {
-          "name": "Ritter Lean",
-          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
-        }
-      ],
-      "duration_ms": 156041,
-      "name": "geklaut",
-      "url": "https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "GIB MIR DEIN GELD!",
-        "url": "https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L"
-      },
-      "artists": [
-        {
-          "name": "Paula Carolina",
-          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
-        }
-      ],
-      "duration_ms": 236584,
-      "name": "GIB MIR DEIN GELD!",
-      "url": "https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "zwei songs aus unserem album kids",
-        "url": "https://open.spotify.com/album/01VlZbiMzETZdwYhwcGp9k"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        },
-        {
-          "name": "antonius",
-          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
-        }
-      ],
-      "duration_ms": 146301,
-      "name": "oktober",
-      "url": "https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "versprochen, ichbindaf\u00fcrdich",
-        "url": "https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f"
-      },
-      "artists": [
-        {
-          "name": "Aaron",
-          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
-        },
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 171562,
-      "name": "sommer",
-      "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Dass ich gerade traurig bin",
-        "url": "https://open.spotify.com/album/7jMsQAYfDh8bXiwcMGivBe"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "Dass ich gerade traurig bin",
-      "url": "https://open.spotify.com/track/2UyMGtgY1gYF9LaaQjkb6K"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Dankbar",
-        "url": "https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 163105,
-      "name": "Dankbar",
-      "url": "https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Unsterblich sein (*) feat. Domiziana",
         "url": "https://open.spotify.com/album/3dEh34KU5u8tbmpcgys6LY"
@@ -817,23 +529,39 @@
       "url": "https://open.spotify.com/track/6CZxZdssLXDVEykOehJUuo"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "DAS GL\u00dcCK GEH\u00d6RT VERSAGERN",
-        "url": "https://open.spotify.com/album/5Qvx0ZaOYT4WTpvPW4SrV2"
+        "name": "Kreislauf",
+        "url": "https://open.spotify.com/album/3uZtKPX2VrGNnIIH6M1mV4"
       },
       "artists": [
         {
-          "name": "error",
-          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
         }
       ],
-      "duration_ms": 197589,
-      "name": "Die H\u00e4lfte von Nichts",
-      "url": "https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0"
+      "duration_ms": 228271,
+      "name": "Kreislauf",
+      "url": "https://open.spotify.com/track/63u7y0YEzhZxsh7Blg6kEa"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Das Leben ist schon ernst genug",
+        "url": "https://open.spotify.com/album/3zfRA8KwGhKQlTCmTxCcVk"
+      },
+      "artists": [
+        {
+          "name": "RIAN",
+          "url": "https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Das Leben ist schon ernst genug",
+      "url": "https://open.spotify.com/track/6e0edeWQn15imYEfw8KM1H"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Tut gut",
         "url": "https://open.spotify.com/album/6lzcNAjRaPUGzlQSiflyT1"
@@ -849,7 +577,163 @@
       "url": "https://open.spotify.com/track/3eVCkfRvRbGI0xtYLrkIoO"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "WUNDERLICH",
+        "url": "https://open.spotify.com/album/0rE03wb84wU7ajzSrXazie"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 140052,
+      "name": "WUNDERLICH",
+      "url": "https://open.spotify.com/track/2d9aXk7fLqvckuWv0PAzZZ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Hunde",
+        "url": "https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 162552,
+      "name": "Hunde",
+      "url": "https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Zukunftsangst",
+        "url": "https://open.spotify.com/album/54YLnoMqTwFElnmcM4ooIh"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Zukunftsangst",
+      "url": "https://open.spotify.com/track/1GbzDnAbOpPXSb5xIgW54P"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Morgen h\u00f6r ich auf! (Club Mixtape)",
+        "url": "https://open.spotify.com/album/7gNVDiK2wJXWSdWRbR7VPI"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Chemie!",
+      "url": "https://open.spotify.com/track/1QKopFXR6uqTKR9wowDtTy"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "geklaut",
+        "url": "https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph"
+      },
+      "artists": [
+        {
+          "name": "Ritter Lean",
+          "url": "https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt"
+        }
+      ],
+      "duration_ms": 156041,
+      "name": "geklaut",
+      "url": "https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Sorgen",
+        "url": "https://open.spotify.com/album/44FCZLvIiSjvP6emHmTF1c"
+      },
+      "artists": [
+        {
+          "name": "bella bazz",
+          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
+        },
+        {
+          "name": "Rex",
+          "url": "https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY"
+        }
+      ],
+      "duration_ms": 180824,
+      "name": "Sorgen",
+      "url": "https://open.spotify.com/track/4Fx5ksDTBLqWCouGi8h626"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Die Welt und ich",
+        "url": "https://open.spotify.com/album/0iYI6T7q8iNe0prTO319bV"
+      },
+      "artists": [
+        {
+          "name": "Yukno",
+          "url": "https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl"
+        },
+        {
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+        }
+      ],
+      "duration_ms": 228828,
+      "name": "Die Welt und ich",
+      "url": "https://open.spotify.com/track/3uTO2FfzeAMYdJ5NPea8D0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Marlboro Mann",
+        "url": "https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "duration_ms": 176374,
+      "name": "Marlboro Mann",
+      "url": "https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "versprochen, ichbindaf\u00fcrdich",
+        "url": "https://open.spotify.com/album/0jGxj79RHOGpj1bBEnSP6f"
+      },
+      "artists": [
+        {
+          "name": "Aaron",
+          "url": "https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ"
+        },
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "duration_ms": 171562,
+      "name": "sommer",
+      "url": "https://open.spotify.com/track/17qKZPrAL988FjHw1t2EU6"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "konntenwirnichtfliegen",
         "url": "https://open.spotify.com/album/10UVSu8LghK4n6E3am2gyX"
@@ -865,7 +749,75 @@
       "url": "https://open.spotify.com/track/6xOFr6FtDtU9ZmnLBixctc"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Von Liebe...",
+        "url": "https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP"
+      },
+      "artists": [
+        {
+          "name": "Lostboi Lino",
+          "url": "https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa"
+        }
+      ],
+      "duration_ms": 163325,
+      "name": "Liebe & Entzug",
+      "url": "https://open.spotify.com/track/5DVxN3e2q8D1TUzCYqH5J9"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "denk dr\u00fcber nach",
+        "url": "https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 148123,
+      "name": "denk dr\u00fcber nach",
+      "url": "https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "ausnahmsweise",
+        "url": "https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "duration_ms": 151465,
+      "name": "ausnahmsweise",
+      "url": "https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "ALLE MEINE FREUNDE SIND TR\u00c4UMER",
+        "url": "https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Mach Was Ich Will",
+      "url": "https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "das beste",
         "url": "https://open.spotify.com/album/2U7GuoDSLocsM3h7H4p9zB"
@@ -881,7 +833,103 @@
       "url": "https://open.spotify.com/track/7GfG8fMOxpeWuH3SyPFhUH"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "DAS GL\u00dcCK GEH\u00d6RT VERSAGERN",
+        "url": "https://open.spotify.com/album/5Qvx0ZaOYT4WTpvPW4SrV2"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "Die H\u00e4lfte von Nichts",
+      "url": "https://open.spotify.com/track/47u568kIrGNx00Wmp2YBS0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Kalt gemacht",
+        "url": "https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64"
+      },
+      "artists": [
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "duration_ms": 185630,
+      "name": "Kalt gemacht",
+      "url": "https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Such nach mir",
+        "url": "https://open.spotify.com/album/6Sp7DtcVBg4hlPOLwJUy73"
+      },
+      "artists": [
+        {
+          "name": "LYAS",
+          "url": "https://open.spotify.com/artist/2mPebAIY8nz5NmweVNGuoT"
+        }
+      ],
+      "duration_ms": 178174,
+      "name": "Schnee",
+      "url": "https://open.spotify.com/track/6FmzCdg1hI5XTx3xbYBNZq"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Dass ich gerade traurig bin",
+        "url": "https://open.spotify.com/album/7jMsQAYfDh8bXiwcMGivBe"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 148880,
+      "name": "Dass ich gerade traurig bin",
+      "url": "https://open.spotify.com/track/2UyMGtgY1gYF9LaaQjkb6K"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "wieder verliebt",
+        "url": "https://open.spotify.com/album/5XRPudErhTfvAcaAkdcy0x"
+      },
+      "artists": [
+        {
+          "name": "herbst",
+          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Swipes",
+      "url": "https://open.spotify.com/track/0IfOmijmDKrfEltjOEzUVy"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/6xNC69d9Vo45sCiUjHg6yH"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "duration_ms": 194202,
+      "name": "Cigarettes After Sex",
+      "url": "https://open.spotify.com/track/77emqNpzZjN7R2rDHT04Qf"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "lange nicht geweint",
         "url": "https://open.spotify.com/album/086OT2CDkuGfYfuXOlO0t6"
@@ -901,23 +949,7 @@
       "url": "https://open.spotify.com/track/5BFQ5cZ6k4MEAwrkr8EMpt"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/6xNC69d9Vo45sCiUjHg6yH"
-      },
-      "artists": [
-        {
-          "name": "FREDRIK",
-          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
-        }
-      ],
-      "duration_ms": 194202,
-      "name": "Cigarettes After Sex",
-      "url": "https://open.spotify.com/track/77emqNpzZjN7R2rDHT04Qf"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Therapieplatz",
         "url": "https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE"
@@ -933,87 +965,103 @@
       "url": "https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Morgen h\u00f6r ich auf! (Club Mixtape)",
-        "url": "https://open.spotify.com/album/7gNVDiK2wJXWSdWRbR7VPI"
+        "name": "Luftschloss",
+        "url": "https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF"
       },
       "artists": [
         {
-          "name": "BIBIZA",
-          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Chemie!",
-      "url": "https://open.spotify.com/track/1QKopFXR6uqTKR9wowDtTy"
+      "duration_ms": 193600,
+      "name": "Luftschloss",
+      "url": "https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "fanta lustig ep",
-        "url": "https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm"
+        "name": "augen zu:auf",
+        "url": "https://open.spotify.com/album/1hBRNebqswtEj9HLGILMAI"
       },
       "artists": [
         {
-          "name": "lovehead",
-          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+          "name": "katlix",
+          "url": "https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr"
         }
       ],
-      "duration_ms": 165461,
-      "name": "fanta lustig",
-      "url": "https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE"
+      "duration_ms": 150779,
+      "name": "augen zu:auf",
+      "url": "https://open.spotify.com/track/4CiYWQI7YtNCzTtF1XxK0h"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Der Teufel tanzt im Volksgarten",
-        "url": "https://open.spotify.com/album/7t80uGRnH8U9ynRqbdE5GM"
+        "name": "poly",
+        "url": "https://open.spotify.com/album/3sjkeYKldsVyjX30BBe7o2"
       },
       "artists": [
         {
-          "name": "Laurenz Nikolaus",
-          "url": "https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq"
+          "name": "Leon Wiesmann",
+          "url": "https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8"
         }
       ],
-      "duration_ms": 166310,
-      "name": "Der Teufel tanzt im Volksgarten",
-      "url": "https://open.spotify.com/track/1mVeGEE0hlBf78OGpZ0GoX"
+      "duration_ms": 200961,
+      "name": "poly",
+      "url": "https://open.spotify.com/track/51tSxmzv9ihPf4G9ExE3YQ"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "RIP Hyperpop DE 2022-2025",
-        "url": "https://open.spotify.com/album/3FD3BtMgO2kJz4ejZtYzGC"
+        "name": "Haifischbecken",
+        "url": "https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27"
       },
       "artists": [
         {
-          "name": "Replay Okay",
-          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
+          "name": "Yasola",
+          "url": "https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS"
         }
       ],
-      "duration_ms": 160663,
-      "name": "Immer wenn du da bist",
-      "url": "https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk"
+      "duration_ms": 192204,
+      "name": "Haifischbecken",
+      "url": "https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Zuhause",
-        "url": "https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq"
+        "name": "Wenn du dich entfernst",
+        "url": "https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M"
       },
       "artists": [
         {
-          "name": "LoSin",
-          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Zuhause",
-      "url": "https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf"
+      "duration_ms": 163200,
+      "name": "Wenn du dich entfernst",
+      "url": "https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "GIB MIR DEIN GELD!",
+        "url": "https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L"
+      },
+      "artists": [
+        {
+          "name": "Paula Carolina",
+          "url": "https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ"
+        }
+      ],
+      "duration_ms": 236584,
+      "name": "GIB MIR DEIN GELD!",
+      "url": "https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "wiese",
         "url": "https://open.spotify.com/album/3w7VwjR8aUeZKQtJzX4imH"
@@ -1033,39 +1081,39 @@
       "url": "https://open.spotify.com/track/0vSO5CRh7l4mIW4FLLCK8L"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Hellwach",
-        "url": "https://open.spotify.com/album/30T6qOz7vydXafpeSbXXBb"
+        "name": "RIP Hyperpop DE 2022-2025",
+        "url": "https://open.spotify.com/album/3FD3BtMgO2kJz4ejZtYzGC"
       },
       "artists": [
         {
-          "name": "H\u00e6nsen",
-          "url": "https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66"
+          "name": "Replay Okay",
+          "url": "https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC"
         }
       ],
-      "duration_ms": 122207,
-      "name": "Hellwach",
-      "url": "https://open.spotify.com/track/1CIoxcTZUAIyMY1auIyL6A"
+      "duration_ms": 160663,
+      "name": "Immer wenn du da bist",
+      "url": "https://open.spotify.com/track/4ESsuXS5VN1vTzSTy0zJUk"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Kalt gemacht",
-        "url": "https://open.spotify.com/album/4Ib3qfeAYqpJdPPzxcMs64"
+        "name": "Zuhause",
+        "url": "https://open.spotify.com/album/06Vs5eQOPDoLq03OnKhQuq"
       },
       "artists": [
         {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
         }
       ],
-      "duration_ms": 185630,
-      "name": "Kalt gemacht",
-      "url": "https://open.spotify.com/track/4hnvcOBmr1WN7TJ0whBbvw"
+      "duration_ms": 120000,
+      "name": "Zuhause",
+      "url": "https://open.spotify.com/track/4nJWs97V8m4ga8CgIe5uzf"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Wie du",
         "url": "https://open.spotify.com/album/56yu5IAes8T5s5uxD4zMqB"
@@ -1081,39 +1129,59 @@
       "url": "https://open.spotify.com/track/2wgmhgtrg8mxD8Y7sBRXbo"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "ALLE MEINE FREUNDE SIND TR\u00c4UMER",
-        "url": "https://open.spotify.com/album/1R5dHLhPZVkjkIdN5MVDQj"
+        "name": "zwei songs aus unserem album kids",
+        "url": "https://open.spotify.com/album/01VlZbiMzETZdwYhwcGp9k"
       },
       "artists": [
         {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Mach Was Ich Will",
-      "url": "https://open.spotify.com/track/3mEs5GNKxkKT861SRwdExF"
+      "duration_ms": 146301,
+      "name": "oktober",
+      "url": "https://open.spotify.com/track/28PQchsQ78scEeJoFCEZRv"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "Von Liebe...",
-        "url": "https://open.spotify.com/album/4rKLRJvSW6QZW4t0wrkjHP"
+        "name": "Hellwach",
+        "url": "https://open.spotify.com/album/30T6qOz7vydXafpeSbXXBb"
       },
       "artists": [
         {
-          "name": "Lostboi Lino",
-          "url": "https://open.spotify.com/artist/3dQiKOMNVmrryTnYTRw9qa"
+          "name": "H\u00e6nsen",
+          "url": "https://open.spotify.com/artist/4FrbqIfGp7dA9BQVpeWs66"
         }
       ],
-      "duration_ms": 163325,
-      "name": "Liebe & Entzug",
-      "url": "https://open.spotify.com/track/5DVxN3e2q8D1TUzCYqH5J9"
+      "duration_ms": 122207,
+      "name": "Hellwach",
+      "url": "https://open.spotify.com/track/1CIoxcTZUAIyMY1auIyL6A"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "Dankbar",
+        "url": "https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 163105,
+      "name": "Dankbar",
+      "url": "https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Ich f\u00fchl...",
         "url": "https://open.spotify.com/album/7MNNmS70SCJNDZUBAyPl2z"
@@ -1129,55 +1197,7 @@
       "url": "https://open.spotify.com/track/2FCLmJXQMQF3lEix03sfuz"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "denk dr\u00fcber nach",
-        "url": "https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 148123,
-      "name": "denk dr\u00fcber nach",
-      "url": "https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "zwischendrin EP",
-        "url": "https://open.spotify.com/album/5LZ9p9DCSGOMJTkqrdiTAf"
-      },
-      "artists": [
-        {
-          "name": "TOBIAS",
-          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
-        }
-      ],
-      "duration_ms": 174503,
-      "name": "bei mir",
-      "url": "https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "wieder verliebt",
-        "url": "https://open.spotify.com/album/5XRPudErhTfvAcaAkdcy0x"
-      },
-      "artists": [
-        {
-          "name": "herbst",
-          "url": "https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Swipes",
-      "url": "https://open.spotify.com/track/0IfOmijmDKrfEltjOEzUVy"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Erinner Dich",
         "url": "https://open.spotify.com/album/6tPbhlbGK1fZcUajsIVQTg"
@@ -1193,71 +1213,23 @@
       "url": "https://open.spotify.com/track/4ot4QnRbaPJ3CeWypaTHc0"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
-        "name": "baby t",
-        "url": "https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq"
+        "name": "zwischendrin EP",
+        "url": "https://open.spotify.com/album/5LZ9p9DCSGOMJTkqrdiTAf"
       },
       "artists": [
         {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+          "name": "TOBIAS",
+          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
         }
       ],
-      "duration_ms": 143606,
-      "name": "baby T",
-      "url": "https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf"
+      "duration_ms": 174503,
+      "name": "bei mir",
+      "url": "https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "der Himmel brennt in Europa",
-        "url": "https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X"
-      },
-      "artists": [
-        {
-          "name": "Cordoba78",
-          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "der Himmel brennt in Europa",
-      "url": "https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "Such nach mir",
-        "url": "https://open.spotify.com/album/6Sp7DtcVBg4hlPOLwJUy73"
-      },
-      "artists": [
-        {
-          "name": "LYAS",
-          "url": "https://open.spotify.com/artist/2mPebAIY8nz5NmweVNGuoT"
-        }
-      ],
-      "duration_ms": 178174,
-      "name": "Schnee",
-      "url": "https://open.spotify.com/track/6FmzCdg1hI5XTx3xbYBNZq"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
-      "album": {
-        "name": "AIBAMFMD <3",
-        "url": "https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "AIBAMFMD <3",
-      "url": "https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd"
-    },
-    {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "stuhl im garten",
         "url": "https://open.spotify.com/album/17NbtpN0dn55bk7GiVkfMF"
@@ -1273,7 +1245,39 @@
       "url": "https://open.spotify.com/track/4Y7upz5qZ64BE3eZBe3jB8"
     },
     {
-      "added_at": "2025-12-11 23:00:26",
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "baby t",
+        "url": "https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 143606,
+      "name": "baby T",
+      "url": "https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
+      "album": {
+        "name": "der Himmel brennt in Europa",
+        "url": "https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X"
+      },
+      "artists": [
+        {
+          "name": "Cordoba78",
+          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "der Himmel brennt in Europa",
+      "url": "https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu"
+    },
+    {
+      "added_at": "2025-12-18 23:00:18",
       "album": {
         "name": "Anlehnen",
         "url": "https://open.spotify.com/album/6aMShdKE0qI3uvTvqwljpL"

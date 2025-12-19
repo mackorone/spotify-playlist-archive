@@ -4,7 +4,7 @@
 
 > Christmas favourites played on music box and glockenspiel.
 
-74 songs - 2 hr 23 min
+75 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Angels we have heard on high](https://open.spotify.com/track/67tWBJdZAR62VXPCTFAAb4) | [Dana Daoud](https://open.spotify.com/artist/4vMPvxFb0j16yjLxCQKNR8) | [A Child is born](https://open.spotify.com/album/4ecdLPCCBHNDSsrpDK4RnR) | 2:09 | 2023-11-23 |  |
 | [Auld Lange Syne](https://open.spotify.com/track/1uFpqYYeaiZW1QTf4KfuqX) | [Casey Freeman](https://open.spotify.com/artist/38Nkn4vkDsDxi5SthUeeNf) | [Deck The Halls](https://open.spotify.com/album/6TYarbDFQ5yeMnbHeKhdP7) | 1:15 | 2023-11-23 |  |
 | [Away in a manger](https://open.spotify.com/track/5HcNeNy6DyTC9bi26qz3dk) | [Anna Moen](https://open.spotify.com/artist/0hVrDDe8JyOHhFLvO3iPuI) | [Away in a manger](https://open.spotify.com/album/5aFmhlXTKN7ARK8phPkfom) | 1:43 | 2023-11-23 | 2025-09-05 |
+| [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V) | [Jolly Starlings](https://open.spotify.com/artist/34fFFb8Tq5nqhqa03Qjg2h) | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq) | 3:33 | 2025-12-18 |  |
 | [Baby It´s Cold outside](https://open.spotify.com/track/4h1fmBiCJG8VHHChAk8u7o) | [Fiona Kwinn](https://open.spotify.com/artist/6XbGfIFgEv0UY8G7PMpqTH) | [Baby It´s Cold outside](https://open.spotify.com/album/7ak6wtFConKfemEAXBYmeU) | 1:52 | 2023-11-23 | 2025-09-05 |
 | [Before the Morning](https://open.spotify.com/track/2HZ7HhpDLP5wMPE87hU8SU) | [Nicolai Petrov](https://open.spotify.com/artist/6HMX92wBEHp2HKo0x3KahZ) | [Jingle Bells](https://open.spotify.com/album/22HNDMbPPHggOXJgFTq4YC) | 2:15 | 2023-11-23 |  |
 | [Blue Christmas](https://open.spotify.com/track/6QGzdaZSc9PanRN6aAuIcH) | [Dinky Donkey](https://open.spotify.com/artist/4574eyNS2pgBzhBc11Js7O) | [Sleigh Ride](https://open.spotify.com/album/7APkTdj46yR84I4EORhS1v) | 1:41 | 2023-11-23 |  |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 | 2022-03-11 | 2022-07-25 |
+| [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 | 2022-03-11 |  |
 | [A Tu Lado](https://open.spotify.com/track/4kHxqBGUrecUuqjbcr29Vq) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/6D9Zqag7V86tNSlY9I6EJ9) | 3:23 | 2022-03-11 | 2022-07-29 |
 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 | 2022-06-24 | 2024-04-19 |
 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 | 2022-03-11 |  |
@@ -107,7 +107,7 @@
 | [Jardines](https://open.spotify.com/track/4xvuJOjKCZCdGwbr2Hfz61) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:38 | 2023-04-14 | 2024-09-21 |
 | [Jardines](https://open.spotify.com/track/6q170s6Dnxe4njEXGcZPM4) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3pYi6ViS4cT8KBME5Qqg56) | 3:38 | 2023-10-07 | 2024-04-19 |
 | [John](https://open.spotify.com/track/28eWqDEuNv9Fd24c5VJzKd) | [Electric Mistakes](https://open.spotify.com/artist/0ldUZhQvtuQocn7G6eQuHf), [Camilo Maldonado](https://open.spotify.com/artist/64npCwEEK41zwGH9XpfI0d) | [John](https://open.spotify.com/album/1PbYex30EYVc60qE5YPZeV) | 4:04 | 2022-03-11 | 2022-06-23 |
-| [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 | 2022-03-11 |  |
+| [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 | 2022-03-11 | 2025-12-19 |
 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 | 2022-03-11 |  |
 | [La Juega](https://open.spotify.com/track/0I0eF8w8KGQNv6GloHx2FK) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Código Fuente](https://open.spotify.com/album/5lXXq90l5EvS2m2Lc7A6vx) | 3:28 | 2022-03-11 | 2022-07-27 |
 | [LA KAGASTE](https://open.spotify.com/track/397xwirGVub2jfXfHlJnha) | [KRISTAL](https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e), [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [LA KAGASTE](https://open.spotify.com/album/7wX1dVzO0AmQfJ3mrezFhU) | 2:37 | 2022-10-01 | 2022-10-14 |

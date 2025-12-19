@@ -2,9 +2,9 @@
 
 ### [Rising 65](https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2)
 
-> Rising stars and new releases from sunny Singapore\. Cover: Joi Chua
+> Rising stars and new releases from sunny Singapore\. Cover: Gen Neo
 
-1,148 songs - 2 day 14 hr 53 min
+1,154 songs - 2 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [EX YOU](https://open.spotify.com/track/6EFncLJszMqRd6bOA0uOOv) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [EX YOU](https://open.spotify.com/album/5CvfmkcMNXnLDMgz6g243Y) | 2:54 | 2024-06-27 | 2024-08-16 |
 | [EYEZ](https://open.spotify.com/track/0mb8qYvh2IUAuQQ3gNTueb) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [EYEZ](https://open.spotify.com/album/3tARCP2tUQXmIIJeRg0hrN) | 3:53 | 2025-07-17 | 2025-09-12 |
 | [F4LL](https://open.spotify.com/track/3wfRx3hAbrH0TN6eje0XM1) | [xxmxrcs](https://open.spotify.com/artist/7LenoMHDSMOkewi5QLulDD) | [F4LL](https://open.spotify.com/album/5B5KT71vycR9Ytm79wOkHM) | 2:47 | 2025-03-27 | 2025-05-02 |
+| [Fa Fa Fa 发大财](https://open.spotify.com/track/59bBCF9ueD7X5uranhZCnj) | [JTalent](https://open.spotify.com/artist/1Y2yftmt7igDP7XcdjLn41) | [Fa Fa Fa 发大财](https://open.spotify.com/album/1Y2NSjJ8W3QiZPCF85KM8O) | 3:17 | 2025-12-18 |  |
 | [FADE](https://open.spotify.com/track/3XZHLeJ3qcVWhMSTlarRWA) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [FADE](https://open.spotify.com/album/4zkXysoyWxSxF9T7OsbgQe) | 2:36 | 2025-04-03 | 2025-05-09 |
 | [Fairy](https://open.spotify.com/track/7sSZn238Sz9I1YnUE1yLXc) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Fairy](https://open.spotify.com/album/2YMOfRKtE80e5w7IPblfyc) | 3:21 | 2025-02-27 | 2025-05-30 |
 | [Fakta](https://open.spotify.com/track/4BSicW1niLZckWcAoohYW4) | [Khairi Sani](https://open.spotify.com/artist/2tnbTgjacIH3OMC940t6jh) | [Fakta](https://open.spotify.com/album/4OU35N9XAg2jJBGXCPEGP5) | 3:40 | 2024-11-21 | 2025-01-17 |
@@ -309,6 +310,7 @@
 | [Friendly](https://open.spotify.com/track/2n32nkj7uMHUCzIsw33oyw) | [Clarissa](https://open.spotify.com/artist/3oAJM6I0Y8tzFLhyWO5sn1) | [Friendly](https://open.spotify.com/album/1pqS23q82w2Lbt5ZM07XyL) | 3:23 | 2025-07-03 | 2025-08-15 |
 | [Friends](https://open.spotify.com/track/0boPFWTCDQdS8ipRyqJWiQ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw) | [life\(?\)](https://open.spotify.com/album/4C4KSf4RtHF8FdbL5md07d) | 3:03 | 2025-01-23 | 2025-04-12 |
 | [FUJIFILM](https://open.spotify.com/track/5NCWhTYixg0y9bOyoFvvQe) | [jenshin](https://open.spotify.com/artist/4haeED2xkDqTmapuLtVE60) | [FUJIFILM](https://open.spotify.com/album/4S3LjbcXOtPGWLfiVbNCP7) | 3:40 | 2025-11-20 |  |
+| [FUYOH \- Song from Yellow Ribbon Songwriting Competition 2025](https://open.spotify.com/track/50N9mkuAvh6ez3DcMDsBSc) | [Upu](https://open.spotify.com/artist/2LCi6UsfcIwPCL7mV3Ku8Z) | [FUYOH \(Song from Yellow Ribbon Songwriting Competition 2025\)](https://open.spotify.com/album/3mIsLZ79QO4wOoGgjx10b6) | 3:00 | 2025-12-18 |  |
 | [Gadis Dan Bunga \- Remastered](https://open.spotify.com/track/18bgNF5CNUVXYjTcWYPSSD) | [Rahimah Rahim](https://open.spotify.com/artist/7H2gOfWDAVINu72BGZctLn) | [Gadis Dan Bunga \(Remastered\)](https://open.spotify.com/album/4OEh48afiuIcQUfooJPxet) | 3:35 | 2025-08-21 | 2025-09-26 |
 | [Game Over V2](https://open.spotify.com/track/2bDPJmH4FesCVLAABuZfLJ) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [666SWISH](https://open.spotify.com/artist/4pClZ8jAntDTIQ8zno5lCC) | [Game Over V2](https://open.spotify.com/album/33dmo2PSJaHT1oL4OzWkru) | 2:50 | 2025-06-12 | 2025-07-18 |
 | [Gang Gang](https://open.spotify.com/track/5a5JrfLWw5O6jvLT1AeeM8) | [AK VALLY](https://open.spotify.com/artist/7BQk3607za9yehaAKvNqRr), [Zam 0'DEEN](https://open.spotify.com/artist/0s6qwiEvQn7NiypEyYdexJ) | [Gang Gang](https://open.spotify.com/album/5Ow6Bo5P3l9rYET0BPUIS1) | 2:31 | 2025-04-24 | 2025-05-30 |
@@ -379,6 +381,7 @@
 | [Hit Pause](https://open.spotify.com/track/4LGDFiTTMPZOm6ppeLNxwu) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Hit Pause](https://open.spotify.com/album/0BFpVOt0J1moHhnIiIwjdR) | 2:21 | 2025-09-25 | 2025-11-07 |
 | [Hold Hands](https://open.spotify.com/track/3CikomFbSb4FiohC8VouxI) | [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Hold Hands](https://open.spotify.com/album/1vkHevjCbUuMw66cu8u6IK) | 3:44 | 2024-06-27 | 2024-07-19 |
 | [HOLD ME](https://open.spotify.com/track/3nFxjg0cZZiKKiJMU6Cye6) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:43 | 2025-10-23 | 2025-12-12 |
+| [Hold Me Close](https://open.spotify.com/track/2YbOFI7toDU4OXhzVj2W4g) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Hold Me Close](https://open.spotify.com/album/2eQTnbafLLbArXLa8chE2y) | 3:02 | 2025-12-18 |  |
 | [Hold On Tight](https://open.spotify.com/track/7713P9K50HWKmb1qEWXiGT) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [Hold On Tight](https://open.spotify.com/album/5TmvZOkGXtMJCBGzxL7ZlD) | 3:08 | 2024-06-27 | 2024-08-02 |
 | [Hold Still](https://open.spotify.com/track/41klAFsuaOceDoEssbTUUU) | [AxelJonas](https://open.spotify.com/artist/3HsX21HvruzWjLMt7p38Tv), [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [AE$OP CA$H](https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo) | [When It Rains Pt\. 1](https://open.spotify.com/album/5WvKN2ZIdKrJjbxW20Ra6G) | 3:27 | 2025-01-23 | 2025-03-21 |
 | [Holding His Hand](https://open.spotify.com/track/5tEWX55O2IKoEYMf2LD7qZ) | [Dansen John](https://open.spotify.com/artist/6RXevTw2pt1Q7eKvNkeSjc), [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Holding His Hand](https://open.spotify.com/album/3fhOxB2Z2V0EaBmzm4xLDD) | 2:44 | 2025-08-21 | 2025-09-26 |
@@ -624,6 +627,7 @@
 | [OCEAN](https://open.spotify.com/track/0dDVyUcSbb0POMcLSiTpkl) | [MEAN](https://open.spotify.com/artist/2qmQdV74MbsOrdzgidtmTs), [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [LIFELINE](https://open.spotify.com/album/6Q0e8xJ7BgfJXbHi2ggjGG) | 3:33 | 2025-02-13 | 2025-04-04 |
 | [october](https://open.spotify.com/track/1PZtd9W3298P2FgEXtISbn) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s) | [october](https://open.spotify.com/album/5L8RzGxnmBCGgV6S0iTSNE) | 2:37 | 2024-10-24 | 2024-11-22 |
 | [Oh, Krissy Baby!](https://open.spotify.com/track/4Nq8GjnWcj1KTiy2Y2ngSM) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [Oh, Krissy Baby!](https://open.spotify.com/album/0TtUP3L0asn2piIZyuAenz) | 3:03 | 2024-10-24 | 2024-12-20 |
+| [OLIVIA](https://open.spotify.com/track/01V5PqvRalc1mfN9P3Ypem) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [OLIVIA](https://open.spotify.com/album/5XefWgkG1pKUfhHRuwM0ru) | 2:53 | 2025-12-18 |  |
 | [Olivia Dean](https://open.spotify.com/track/5haVjFvWTcBkNV6NVUGdjM) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Olivia Dean](https://open.spotify.com/album/1vPeUKdn6UXgLi6JGo76nb) | 3:27 | 2025-05-15 | 2025-07-11 |
 | [On & On](https://open.spotify.com/track/6gdkrwOljJF102W7ctZo4L) | [zzzat](https://open.spotify.com/artist/3W6BvLPOTt4A9O9EsHWf2M) | [On & On](https://open.spotify.com/album/2udOE42DTEwKzMHDBrmWkZ) | 2:46 | 2025-11-27 | 2025-12-12 |
 | [ON MY MIND](https://open.spotify.com/track/75ErYzaKYDkIETxsdyk9gA) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT), [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [ON MY MIND](https://open.spotify.com/album/2YPiU7we72n4L41noa9kbe) | 4:02 | 2024-08-15 | 2024-11-09 |
@@ -909,6 +913,7 @@
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |
 | [Trust Yourself](https://open.spotify.com/track/47M0SqumGm8AEkRlJg7BRM) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Trust Yourself](https://open.spotify.com/album/03FiTDkBIz1X04rV9jw61u) | 3:22 | 2025-10-03 | 2025-11-14 |
 | [Try Again](https://open.spotify.com/track/2tq1drzO3qIFnrsOgrKzCr) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [That Girl](https://open.spotify.com/album/5sdQ40xdak5s0vyjYyZGXW) | 2:57 | 2024-11-14 | 2025-01-24 |
+| [Tulips \(Stage Edit\)](https://open.spotify.com/track/695nlWZUnnFd51w8liFzVo) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [Tulips](https://open.spotify.com/album/2AmY371PQghq0ZH25oSoh4) | 2:23 | 2025-12-18 |  |
 | [Twenty](https://open.spotify.com/track/6fVDL8uE18yJx82mKRewm6) | [Meira Lee](https://open.spotify.com/artist/6YNH5fkFzDNwL677EnvReM) | [Twenty](https://open.spotify.com/album/7IniMQKgGH0bAj9Xb95ZBU) | 3:52 | 2024-10-24 | 2024-12-20 |
 | [Twisted](https://open.spotify.com/track/3RnJhnZrXFimbSewER89x8) | [RINES](https://open.spotify.com/artist/2FquRCgJvkUVwoDNrnsgAD) | [Twisted](https://open.spotify.com/album/5Iv2QUpTaaYhDQrDWcIcrj) | 3:11 | 2025-06-26 | 2025-08-01 |
 | [twisted lullaby](https://open.spotify.com/track/66d8l69t99n6S93eeLSqig) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2), [Wondrah](https://open.spotify.com/artist/0l3fkpslJAMPZDPgT9KwDa) | [twisted lullaby](https://open.spotify.com/album/1GJFRCGa6IjP1hLdbpUxt0) | 2:31 | 2025-05-01 | 2025-07-04 |
@@ -1023,6 +1028,7 @@
 | [光陰副本](https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [光陰副本](https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q) | 4:12 | 2024-12-26 | 2025-03-21 |
 | [內心有一把聲音](https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on) | [Ah5ive the Band](https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N) | [內心有一把聲音](https://open.spotify.com/album/5ltdirAiuhR8nSLFq19aCR) | 5:09 | 2025-08-14 | 2025-10-10 |
 | [全世界](https://open.spotify.com/track/4d6xihy3AWfDNpt5n60dKn) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [全世界](https://open.spotify.com/album/7ikMtrucViIdJRcNvmSypi) | 4:11 | 2025-12-04 |  |
+| [再笑一個](https://open.spotify.com/track/0Um4OTRSQLpL2bisIh7FXe) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [再笑一個](https://open.spotify.com/album/5k2zaiHHsQKJq8zfzxAMmE) | 4:00 | 2025-12-18 |  |
 | [分開或許妳會快樂](https://open.spotify.com/track/3qk5oktdpbCHUEDQUNStGm) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [分開或許妳會快樂](https://open.spotify.com/album/5DRUHOeHWJrvh889WkgqHr) | 3:48 | 2025-01-09 | 2025-02-14 |
 | [別人的夢](https://open.spotify.com/track/2K6eiVlOtuI1XD7EQ1M3bg) | [Lennerd](https://open.spotify.com/artist/1k262uxFEei0Hjh3Z4WRdd) | [別人的夢](https://open.spotify.com/album/2H91fRdt7LnwIUY4GS2pUS) | 4:05 | 2025-05-08 | 2025-06-27 |
 | [別怪我](https://open.spotify.com/track/1ZZacB81AU52tHJi1A3Int) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P), [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6) | [別怪我](https://open.spotify.com/album/1QoTVOkmsbKcyATD6XYtCi) | 3:44 | 2025-11-20 |  |

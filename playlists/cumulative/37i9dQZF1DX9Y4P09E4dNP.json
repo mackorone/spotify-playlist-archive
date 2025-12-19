@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: Reggie",
+  "description": "The big Hip-Life hits rn. Cover: R2Bees",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Awurade Aye",
+        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Awurade Aye",
+      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
+    },
+    {
+      "album": {
         "name": "Road To Fuego",
         "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
       },
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166291,
       "name": "BALANCE (with Lasmid)",
       "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 164000,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
@@ -5752,6 +5770,24 @@
       "duration_ms": 316003,
       "name": "Tuabodom",
       "url": "https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf"
+    },
+    {
+      "album": {
+        "name": "Two Two",
+        "url": "https://open.spotify.com/album/0zEpYJ8Q5tH3JlA5r7zAFn"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185660,
+      "name": "Two Two",
+      "url": "https://open.spotify.com/track/0uTpfCypFShjF6COmZfGIp"
     },
     {
       "album": {

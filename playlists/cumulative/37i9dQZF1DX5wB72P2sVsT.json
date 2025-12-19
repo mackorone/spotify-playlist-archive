@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "DJ Antoine au top des bangers dance/electro du moment !",
+  "description": "Sound Of Legend au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 159973,
       "name": "Be Your Friend (feat. Enisa)",
       "url": "https://open.spotify.com/track/0vC5PfWPVqIKG8qhnpM4lm"
@@ -1534,6 +1534,28 @@
       "duration_ms": 176351,
       "name": "Desire (with Sam Smith) - Alok Remix",
       "url": "https://open.spotify.com/track/7qyoYlYSgfeTqAqJXmoIKe"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
     },
     {
       "album": {
@@ -5544,7 +5566,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 156322,
       "name": "Run (feat. Ragdoll)",
       "url": "https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p"
@@ -6862,7 +6884,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"

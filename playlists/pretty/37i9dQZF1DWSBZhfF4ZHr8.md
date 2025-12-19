@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Ulysse
+> Les meilleures nouveautés de la variété française avec Lenaïg
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,130 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,135 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 |
-| 2 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 |
-| 3 | [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 |
-| 4 | [Lentement](https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Lentement](https://open.spotify.com/album/7m80SDtHS4znhOoqxMqECv) | 2:59 |
-| 5 | [J'veux que t'aies mal](https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Éclair](https://open.spotify.com/album/0gNAAFYDnBfBiPtMq4vtpu) | 3:12 |
-| 6 | [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 |
-| 7 | [Égaré](https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W) | 2:47 |
-| 8 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
-| 9 | [PLUS LÀ](https://open.spotify.com/track/5VkoUCS67s2V3KKgdjAa1K) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [PLUS LÀ](https://open.spotify.com/album/38Ttpz6dtNSMgZ4OltM3FO) | 3:22 |
+| 1 | [J'veux que t'aies mal](https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Éclair](https://open.spotify.com/album/0gNAAFYDnBfBiPtMq4vtpu) | 3:12 |
+| 2 | [Extraordinaire](https://open.spotify.com/track/4rLtn4lxJDI40eDFIY78TY) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:45 |
+| 3 | [Escroc](https://open.spotify.com/track/01PwAE2RXGcVbYLLqs8HEA) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit \(Deluxe\)](https://open.spotify.com/album/0b3I8sj5GBMx1ZxMxInnyv) | 2:56 |
+| 4 | [Le Chat](https://open.spotify.com/track/0q6S6yapqNjnSf7nI2Uefu) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Le Chat](https://open.spotify.com/album/2AyYke5GEOTarDD72dkkdi) | 3:13 |
+| 5 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 |
+| 6 | [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 |
+| 7 | [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 |
+| 8 | [Égaré](https://open.spotify.com/track/0cfxcc6fEDeafzlO5yNUV4) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [ADRÉNALINE, LA RÉÉDITION](https://open.spotify.com/album/1eOxvVovDuEtlCBDjdte9W) | 2:47 |
+| 9 | [Boule au ventre](https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:00 |
 | 10 | [Hypersensible](https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Hypersensible](https://open.spotify.com/album/1N2eEz2ZKhZKfjl4hQ8F8w) | 2:53 |
-| 11 | [Escroc](https://open.spotify.com/track/01PwAE2RXGcVbYLLqs8HEA) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit \(Deluxe\)](https://open.spotify.com/album/0b3I8sj5GBMx1ZxMxInnyv) | 2:56 |
-| 12 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 |
-| 13 | [Boule au ventre](https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:00 |
-| 14 | [Le Chat](https://open.spotify.com/track/0q6S6yapqNjnSf7nI2Uefu) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [Le Chat](https://open.spotify.com/album/2AyYke5GEOTarDD72dkkdi) | 3:13 |
+| 11 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 |
+| 12 | [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 |
+| 13 | [Lentement](https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Lentement](https://open.spotify.com/album/7m80SDtHS4znhOoqxMqECv) | 2:59 |
+| 14 | [PLUS LÀ](https://open.spotify.com/track/5VkoUCS67s2V3KKgdjAa1K) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [PLUS LÀ](https://open.spotify.com/album/38Ttpz6dtNSMgZ4OltM3FO) | 3:22 |
 | 15 | [Viens on s'aime](https://open.spotify.com/track/138obimywddp5O6o3Tceg3) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:22 |
-| 16 | [Extraordinaire](https://open.spotify.com/track/4rLtn4lxJDI40eDFIY78TY) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:45 |
-| 17 | [La vie qu'on mène](https://open.spotify.com/track/67KNgIyHFDX68mOepundEw) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vie qu'on mène](https://open.spotify.com/album/3uP80wyt5ZuWBnoBaaolIa) | 2:42 |
-| 18 | [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 |
+| 16 | [La vie qu'on mène](https://open.spotify.com/track/67KNgIyHFDX68mOepundEw) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vie qu'on mène](https://open.spotify.com/album/3uP80wyt5ZuWBnoBaaolIa) | 2:42 |
+| 17 | [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 |
+| 18 | [Mon autre](https://open.spotify.com/track/2ed1MC3n26pjnzEFaVqxfG) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Mon autre](https://open.spotify.com/album/13GI0Dqlk9TEGbed1V9lmd) | 3:23 |
 | 19 | [Avec toi](https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:30 |
 | 20 | [Comme d'hab](https://open.spotify.com/track/0JNuEwifGhPx35KMH01pQF) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Comme d'hab](https://open.spotify.com/album/4WuBPAutwQI35BYVhIfz2K) | 3:08 |
 | 21 | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/track/1grONqhU4gXxscprACJbzW) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk), [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/album/2hJlidZGq5ot2B9X6qEpze) | 2:55 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 46 | [Toxic et Chic](https://open.spotify.com/track/5r1IA22XOXDAmjs7nsfBnP) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Toxic et Chic](https://open.spotify.com/album/5fpIrCqzg5z7iAmaqVHAaA) | 2:48 |
 | 47 | [La Fille](https://open.spotify.com/track/76eh5U2VpwTUtyCrziMtf9) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC) | [La Fille](https://open.spotify.com/album/1B9Z7Ju459rAImsohYTq2j) | 3:03 |
 | 48 | [L'idylle](https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Des ondes et des reflets \(Réédition\)](https://open.spotify.com/album/3iJmOyrpxp8kXp5m2ChnwW) | 2:55 |
-| 49 | [La Vie Parfaite](https://open.spotify.com/track/6qcuZyJDFV41OkDNyoE9pd) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P) | [La Vie Parfaite](https://open.spotify.com/album/3ZiqhTAqM5Zzv4dyoCQA8R) | 2:40 |
-| 50 | [Pourquoi c'est ma faute](https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0) | [Camille LV](https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is) | [Pourquoi c'est ma faute](https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a) | 2:26 |
+| 49 | [Pourquoi c'est ma faute](https://open.spotify.com/track/0wBlKAIz4OHYOmqPgyr0D0) | [Camille LV](https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is) | [Pourquoi c'est ma faute](https://open.spotify.com/album/53PrOEpLchGMYxlFfUQs0a) | 2:26 |
+| 50 | [La Vie Parfaite](https://open.spotify.com/track/6qcuZyJDFV41OkDNyoE9pd) | [Anabel](https://open.spotify.com/artist/50L9hhqxqvBX5FjcBV5t8P) | [La Vie Parfaite](https://open.spotify.com/album/3ZiqhTAqM5Zzv4dyoCQA8R) | 2:40 |
 
-Snapshot ID: `AAAAADKkF12KXcbsbQX3P4unF2A5bX1z`
+Snapshot ID: `AAAAAMBZ4JsLj09peOvcBM+TA33p/DEL`

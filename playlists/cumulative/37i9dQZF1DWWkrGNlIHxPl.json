@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 219534,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/4r2UrMXc7NVIhYvTeA3eiS"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 197647,
       "name": "House Shoes",
       "url": "https://open.spotify.com/track/7330zPJs9Z3Bb2KcLVDYEP"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 166956,
       "name": "Never Last",
       "url": "https://open.spotify.com/track/7Aoqpwlh9Sgc0bQDx5R1U4"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 149318,
       "name": "Preach",
       "url": "https://open.spotify.com/track/57wTXMZjMKP9X06b1NIQob"
@@ -5910,6 +5910,24 @@
       "duration_ms": 260519,
       "name": "Stars Align (with Drake)",
       "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
+    },
+    {
+      "album": {
+        "name": "STATIC",
+        "url": "https://open.spotify.com/album/1AEZQgZKNEPq6mWgFwUzVB"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "STATIC",
+      "url": "https://open.spotify.com/track/2ouy8vmFQw644Wj2Mbi2iS"
     },
     {
       "album": {

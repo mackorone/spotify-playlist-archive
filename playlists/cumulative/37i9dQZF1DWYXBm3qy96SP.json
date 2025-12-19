@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Silica Gel",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: HEALTH",
   "name": "Rock The World",
   "tracks": [
     {
@@ -7790,7 +7790,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 162826,
       "name": "Destroy Me",
       "url": "https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW"
@@ -24806,6 +24806,24 @@
       "duration_ms": 223109,
       "name": "SHOZEN",
       "url": "https://open.spotify.com/track/016rLtnTe7IChoF8f0l0Nu"
+    },
+    {
+      "album": {
+        "name": "SHRED ENVY",
+        "url": "https://open.spotify.com/album/7sIBSoqOjisoA2ln0o9UI8"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "SHRED ENVY",
+      "url": "https://open.spotify.com/track/6Wt8nvjWtW1GYO5UyjsGez"
     },
     {
       "album": {

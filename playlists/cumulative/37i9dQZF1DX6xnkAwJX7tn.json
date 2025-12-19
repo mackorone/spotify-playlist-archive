@@ -3827,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "date_added": "2024-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186810,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc"
+    },
+    {
+      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -5562,7 +5580,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 204560,
       "name": "Walk Like an Egyptian",
       "url": "https://open.spotify.com/track/3BGbqEDio3ocx1v4egIYr6"

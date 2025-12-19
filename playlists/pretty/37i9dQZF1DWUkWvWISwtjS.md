@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,559 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,497 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 67 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 |
 | 68 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
 | 69 | [Fala Comigo \- Ao Vivo](https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- The Legacy \(Ao Vivo\)](https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy) | 2:20 |
-| 70 | [Nem Dormindo Consigo Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66) | [Gian & Giovani](https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb) | [Uma História de Sucesso \(Ao Vivo\)](https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV) | 5:24 |
-| 71 | [Rapariga Não \- Ao Vivo](https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:43 |
+| 70 | [Rapariga Não \- Ao Vivo](https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Em Sintonia \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6) | 2:43 |
+| 71 | [Nem Dormindo Consigo Te Esquecer \- Ao Vivo](https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66) | [Gian & Giovani](https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb) | [Uma História de Sucesso \(Ao Vivo\)](https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV) | 5:24 |
 | 72 | [Desconhecido \- Ao Vivo](https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Continua, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy) | 2:53 |
 | 73 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
 | 74 | [Mundo de Ilusões \- Ao Vivo](https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Mundo de Ilusões \(Ao Vivo\)](https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi) | 3:05 |

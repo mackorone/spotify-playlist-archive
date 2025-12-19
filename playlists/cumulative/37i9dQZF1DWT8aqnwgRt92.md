@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,316 songs - 5 day 23 hr 29 min
+2,317 songs - 5 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,6 +975,7 @@
 | [Sage der Rosen](https://open.spotify.com/track/4vWplv6n9PQ0e3SbCXmXTP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Für immer](https://open.spotify.com/album/6DBKnBAljASaAUGB9Cqxt9) | 4:04 | 2024-06-25 | 2024-07-10 |
 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-05 | 2024-01-12 |
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2025-01-22 |
+| [Sailor, Sail On](https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Sailor, Sail On](https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P) | 4:08 | 2025-12-18 |  |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 | 2025-10-07 |  |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-08-29 | 2023-10-08 |
@@ -1136,7 +1137,7 @@
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19LKgWBrXVo5J9bWqJpmGZ) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5yVWYuYdwGNCp4fnzsuGOP) | 3:26 | 2022-10-27 | 2022-11-03 |
 | [THE ENTERTAINMENT](https://open.spotify.com/track/19jVz4hYk0kaDOMLEGNrGz) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [THE ENTERTAINMENT](https://open.spotify.com/album/5ikHcTlm4IV9j3mNwlOXl9) | 3:26 | 2022-11-02 | 2022-12-16 |
 | [The Girl on a Space colony （I\_006A）](https://open.spotify.com/track/3qcgq1KEFhvVKYvQzAUDFq) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:23 | 2025-01-21 | 2025-02-20 |
-| [The IIIRD Eye](https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FYOP](https://open.spotify.com/album/1YcrCGi9NDl9EI0bZPC0on) | 4:14 | 2025-11-25 |  |
+| [The IIIRD Eye](https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FYOP](https://open.spotify.com/album/1YcrCGi9NDl9EI0bZPC0on) | 4:14 | 2025-11-25 | 2025-12-19 |
 | [THE IOLITE](https://open.spotify.com/track/3SQf39lorTtGYdjgV3mGaj) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [THE IOLITE](https://open.spotify.com/album/454Pt2usT9vfENX4zu2C4J) | 4:00 | 2025-01-16 | 2025-04-02 |
 | [The Kouga Ninja Scrolls \- From CrosSing](https://open.spotify.com/track/0RA0xtuQap6eb3AYLSz74N) | [凪原涼菜](https://open.spotify.com/artist/4PDodZQZjHgAI7DxZa9TVr) | [The Kouga Ninja Scrolls \- From CrosSing](https://open.spotify.com/album/09iqJyIoFZPZZBgzHVaOlY) | 4:02 | 2024-04-10 | 2024-04-19 |
 | [The other story](https://open.spotify.com/track/1ZO6KDnHnvig8K7tdbj5Cj) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [The other story](https://open.spotify.com/album/2zpOnTneOTvkByuVkMpvYM) | 3:20 | 2024-10-15 | 2025-01-08 |

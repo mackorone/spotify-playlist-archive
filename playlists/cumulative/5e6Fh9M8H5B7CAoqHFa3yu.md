@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,659 songs - 4 day 4 hr 40 min
+1,662 songs - 4 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Dictator](https://open.spotify.com/track/62DJ1ZRjH1ndclw3JVQNSk) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Soulfyah Productions](https://open.spotify.com/artist/3xfPZ7qqVERUXCqG4R8iuo) | [Dubplate Situation](https://open.spotify.com/album/6k38XmcfFo4VVIviTFp2Gs) | 3:18 | 2024-03-10 |  |
 | [Diferencias de guárdame las vacas](https://open.spotify.com/track/62ZoPRToEyIn2QtcVukAkF) | [Luis de Narváez](https://open.spotify.com/artist/4JMUY8vz7lmJsI6oaQ8G6Q), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:23 | 2025-08-12 |  |
 | [Digital Meadow](https://open.spotify.com/track/6ItfH8oY8zaLd0Hls0l8nl) | [White Latex](https://open.spotify.com/artist/5Ne2cH95chM7wgjsqPn0vM) | [Digital Meadow](https://open.spotify.com/album/4pxWl9BvQTZaK1yp9vpr5c) | 2:32 | 2025-05-06 |  |
+| [Dioses del Vudú](https://open.spotify.com/track/6mbTqEDd4nVWiFCCXfmDZA) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Dioses del Vudú](https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt) | 3:31 | 2025-12-18 |  |
 | [Discernment Dub](https://open.spotify.com/track/5hdcmtSxNKAvOvSII0lWGG) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Dubs and Praises](https://open.spotify.com/album/3sY7rsSxS37DDDnAzfRFvq) | 4:11 | 2024-07-06 |  |
 | [Disco Came To Me \- Dub Siren Remix](https://open.spotify.com/track/3HrRF1Tu6wMhKLm5wvf91T) | [Dub Siren](https://open.spotify.com/artist/2938cUChrEuOWujh69t53H), [The Business](https://open.spotify.com/artist/337PhiZQ4YBA5ZiQxO6QhZ) | [Dub Down To Business](https://open.spotify.com/album/2D4LJ3tcxpUUi5lH7Sek4B) | 4:11 | 2024-04-26 |  |
 | [Disco Fever \- Radio Edit](https://open.spotify.com/track/3wNybqxtA7yvDwPd2sTBjF) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Disco Fever](https://open.spotify.com/album/3aLbYm244NShbPuDti88qK) | 2:38 | 2024-12-25 |  |
@@ -738,6 +739,7 @@
 | [Jahovah Jireh](https://open.spotify.com/track/23A2QohjfLWupG0bReypkU) | [I\-niverse](https://open.spotify.com/artist/2WAHbjZ3rFVggTgLMCHJLA), [Leo Tan](https://open.spotify.com/artist/5shj8Xh6BYHjlKPygFXAat) | [Jahovah Jireh](https://open.spotify.com/album/6ll3mKTrOqYQZ7m0FVOKGa) | 3:58 | 2024-03-25 |  |
 | [Jamaïca Style](https://open.spotify.com/track/2Ard5LAvLINS5xDwBXJb2F) | [Tokiboun in Dub](https://open.spotify.com/artist/4Zd57im34ghqIM6ddkHCgt) | [Back To Roots](https://open.spotify.com/album/3QidxNN8JpX0ttlGDXWeYa) | 4:04 | 2024-03-25 |  |
 | [Je dois quitter Paris](https://open.spotify.com/track/5ZWNoz9lVgcoP2JwfEvWO9) | [xelia celeste](https://open.spotify.com/artist/4zEygd8prp54ITV4bBgyTF) | [Je dois quitter Paris](https://open.spotify.com/album/5OyahMJnBqsbZ2gmvflQtJ) | 2:42 | 2025-10-13 |  |
+| [Jesse Pinkman](https://open.spotify.com/track/5wYXWYHd20BfL3iUhMGLuJ) | [ennuivox](https://open.spotify.com/artist/6kojDKZhuOJiWVn33wHWos) | [Jesse Pinkman](https://open.spotify.com/album/412l7oS1mtXgEt6i0Ciz3g) | 1:30 | 2025-12-18 |  |
 | [Jesus I Worship I Worship You](https://open.spotify.com/track/67AIq5mtLr4jBPRLE4lm5M) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [Jesus I Worship I Worship You](https://open.spotify.com/album/2ZFpAGGKruAaXd2MwZh546) | 3:30 | 2025-10-02 |  |
 | [Jeune Africain](https://open.spotify.com/track/3goT0nlNjWMFfVp2CwFce1) | [Chebeen Teriya](https://open.spotify.com/artist/6jZVwySqf3fBefray4BUDa), [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl) | [Ajabro](https://open.spotify.com/album/0hcB4kAVrL5YYtws7hcIjH) | 3:39 | 2024-07-06 |  |
 | [Jeune Africain Dub](https://open.spotify.com/track/4mOsT3Q5YHIit0joaJhVN0) | [Sub Conscious Dub](https://open.spotify.com/artist/2POBxX9p6HlWitXFbhWAEl), [Chebeen Teriya](https://open.spotify.com/artist/6jZVwySqf3fBefray4BUDa) | [Ajabro](https://open.spotify.com/album/0hcB4kAVrL5YYtws7hcIjH) | 3:17 | 2024-07-06 |  |
@@ -1400,6 +1402,7 @@
 | [TASUNKA SPIRIT](https://open.spotify.com/track/3uDZHwO6IfdjHe5o3BxSVq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:12 | 2025-12-01 |  |
 | [Te Lo Prometto](https://open.spotify.com/track/2UVMzm3egccRhN7ISRMB9a) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF), [Paolo Russotto](https://open.spotify.com/artist/2qojmQGNwkXtfulktkX35X) | [Te Lo Prometto](https://open.spotify.com/album/2V91RVR7rpLbSDofPKMJaW) | 4:31 | 2025-01-20 |  |
 | [Te Puedes ir](https://open.spotify.com/track/3CqlYmAHH2oj3vwOt81A25) | [G&Ps](https://open.spotify.com/artist/40IHFG8ilT0T5liBRtSsfp) | [Te Puedes ir](https://open.spotify.com/album/43xn0DdOarKZZhP1fIndft) | 2:43 | 2025-08-27 |  |
+| [Te vas milonga](https://open.spotify.com/track/70U2FFW5R9UDaBjjpdKycn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Te vas milonga](https://open.spotify.com/album/6N5YpykukS9nj2dRCO0nG6) | 2:05 | 2025-12-18 |  |
 | [Te Vuelves Loca](https://open.spotify.com/track/5f3MWc6zj0bGLXyhbYiAis) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Te Vuelves Loca](https://open.spotify.com/album/6Cnh6082MCq5hsxutry4UB) | 4:00 | 2025-06-05 |  |
 | [Techno Dub](https://open.spotify.com/track/6KOjDQ7ZVMvtgJU3HW824M) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 4:13 | 2024-03-25 |  |
 | [Techno Horns](https://open.spotify.com/track/7J9WSkLSlQwHgSm2E0Ni0N) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:33 | 2024-03-25 |  |

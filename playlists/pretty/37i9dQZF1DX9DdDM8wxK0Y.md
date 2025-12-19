@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DdDM8wxK0Y.md) - [plain]
 
 > Classic hip\-hop videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 45 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,641 likes - 45 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DdDM8wxK0Y.md) - [plain]
 | 44 | [She](https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Goblin](https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO) | 4:13 |
 | 45 | [Aston Martin Music](https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Teflon Don](https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80) | 4:30 |
 
-Snapshot ID: `AAAAALIUhd4TxJBkjnt4N+zhLGqCVLs0`
+Snapshot ID: `AAAAABNujshNdfsvXukiUIcJe94XS8fB`

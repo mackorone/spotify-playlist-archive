@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199542,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81"
+    },
+    {
+      "album": {
         "name": "Old Shadows",
         "url": "https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK"
       },

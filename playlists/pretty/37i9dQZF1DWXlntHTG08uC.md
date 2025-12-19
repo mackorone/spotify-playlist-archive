@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,416 likes - 188 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,498 likes - 188 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 187 | [Liberation \- 528 Hz](https://open.spotify.com/track/4ITXSBweS8G37iXDug06O5) | [Binaural Feels](https://open.spotify.com/artist/2bKTmGzvL5O7dxNlapbAoQ) | [Healing Balance](https://open.spotify.com/album/2P18J2YqmbZPIW61GZNrSo) | 2:41 |
 | 188 | [528 Hz Manipura Chakra](https://open.spotify.com/track/2j0c51SLIcRPJkh5WuFpCR) | [The Solfeggio Experience](https://open.spotify.com/artist/1dVK2b1vzTuO76R5mAqF8j) | [528 Hz Transformation & Miracles DNA Repair \(The Solar Plexus Chakra\)](https://open.spotify.com/album/4SCQHNlpxUOyKu9xgoCr8g) | 3:21 |
 
-Snapshot ID: `AAAAABnGoNicjQnpd0Y2Jy7/T/nb3ln+`
+Snapshot ID: `AAAAAGT5Rq6LUhxWAP26lmTPCbiCgdeI`

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-168 songs - 10 hr 12 min
+169 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bored & Jaded](https://open.spotify.com/track/1RW431i46vNeR0tqM1eZj7) | [Rocketmonkey Lovemachine](https://open.spotify.com/artist/2de9uHlJsqASrZoofVPQAh) | [Rmlm](https://open.spotify.com/album/3yTDjfwFEPYFaZbSuPLQQa) | 3:15 | 2025-12-01 |  |
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-10-18 |  |
 | [Bring Me Down](https://open.spotify.com/track/6DDJXTCoB99753Q6Pt3YDz) | [Aaetheria](https://open.spotify.com/artist/5XvLB3DxqgreEsNDrtAdfu) | [Bring Me Down](https://open.spotify.com/album/3S7MDIVQgVNIq9Q9KfCVtZ) | 2:57 | 2025-11-19 | 2025-12-12 |
+| [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-18 |  |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2025-12-13 |  |
 | [Bullet](https://open.spotify.com/track/2C7E2SbFqS2GbExpD2hopJ) | [Lowland Revelry](https://open.spotify.com/artist/0nzPea6VeRN1WvaNAGdqF9) | [REV\-L\-REE](https://open.spotify.com/album/505KlJdJOgnwFvqcRlhYPc) | 5:06 | 2025-10-31 | 2025-11-22 |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-01 |  |

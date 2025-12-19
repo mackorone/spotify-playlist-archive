@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahYW0fg0wyp.md) - [plain]
 
 > The best videos from the '90s\. Music videos only available on premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841 likes - 45 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 913 likes - 45 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahYW0fg0wyp.md) - [plain]
 | 44 | [Crash into Me](https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Crash](https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7) | 5:16 |
 | 45 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
 
-Snapshot ID: `AAAAAE/B27TCsklbdNrD/Wb5LrWjid9u`
+Snapshot ID: `AAAAADBU2Jw+dI5d6SONFNLW9YNmZcDG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMV72tzg4cD.md) - [plain]
 
 > Our editor’s picks for best songs of the year from the  <a href="https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF?si=b1a7961906bc422c">Oyster</a> playlist\. Cover: Yung Lean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,717 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Bic Runga",
+  "description": "These are the eclectic sounds of now. Cover: Nick Cave & Warren Ellis",
   "name": "Alt Here",
   "tracks": [
     {
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 128437,
       "name": "Big city life",
       "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
@@ -1740,7 +1740,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 207500,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
@@ -1838,6 +1838,24 @@
       "duration_ms": 333881,
       "name": "Celestial Hands",
       "url": "https://open.spotify.com/track/4HOVerAo4A7ipCQJix9fIp"
+    },
+    {
+      "album": {
+        "name": "Idle Viewer",
+        "url": "https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC"
+      },
+      "artists": [
+        {
+          "name": "Eveline Breaker",
+          "url": "https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360827,
+      "name": "Chain Sevens, Desire Path",
+      "url": "https://open.spotify.com/track/14awnaX5zGX1eHQOT56xAz"
     },
     {
       "album": {
@@ -4536,7 +4554,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 167893,
       "name": "How?",
       "url": "https://open.spotify.com/track/14zjPpctBiO8up0jD4vSOu"
@@ -6201,6 +6219,28 @@
     },
     {
       "album": {
+        "name": "The Death Of Bunny Munro",
+        "url": "https://open.spotify.com/album/4iLosdObnLTYRiAr4g4wee"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        },
+        {
+          "name": "Warren Ellis",
+          "url": "https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144413,
+      "name": "Love One Another (Or Die)",
+      "url": "https://open.spotify.com/track/4CN2AdYEHN2MmbJwQfHEIw"
+    },
+    {
+      "album": {
         "name": "Miss Flower",
         "url": "https://open.spotify.com/album/1zgB6iiAermLEAx99Twnkt"
       },
@@ -6730,7 +6770,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
@@ -6752,6 +6792,28 @@
       "duration_ms": 254535,
       "name": "Mindflower",
       "url": "https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB"
+    },
+    {
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/5klQzXGzwq3yxUhLuHehkd"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128770,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI"
     },
     {
       "album": {
@@ -8598,6 +8660,24 @@
       "duration_ms": 199893,
       "name": "Riders Of The Moon",
       "url": "https://open.spotify.com/track/0deK1kN7aBhfhCy0BEoN1G"
+    },
+    {
+      "album": {
+        "name": "24/7 Heaven",
+        "url": "https://open.spotify.com/album/4cyKKwiZ9g85rxTj23kfE8"
+      },
+      "artists": [
+        {
+          "name": "trickpony",
+          "url": "https://open.spotify.com/artist/6wEiI8TC6336dOSLNs8PbF"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274783,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/66iT3dYZpaVGO6OnCm82W7"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 100713,
+  "num_followers": 100714,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACDhvX6UADW7smCOfJjGQmd",
+  "snapshot_id": "aUHygAAAAAB80NQ5qhsrcPZMhhdudpdi",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PATTERNS (Stripped Session)",
-        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 155200,
-      "name": "Baggage (Stripped Version)",
-      "url": "https://open.spotify.com/track/2t1pIl7vd9cDFS3u1Qeix5"
+      "duration_ms": 167840,
+      "name": "Put It To Bed",
+      "url": "https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 163531,
       "name": "LOVE IS A COWBOY",
       "url": "https://open.spotify.com/track/6RB8DdrSlYmf3JPhySyXvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS (DELUXE)",
-        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 167840,
-      "name": "Put It To Bed",
-      "url": "https://open.spotify.com/track/4IF2gmlUAAyapNnNfCl4Dt"
     },
     {
       "added_at": null,
@@ -623,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "love + everything else",
-        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+        "name": "PATTERNS (Stripped Session)",
+        "url": "https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq"
       },
       "artists": [
-        {
-          "name": "John K",
-          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 144243,
-      "name": "if we never met (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
+      "duration_ms": 155200,
+      "name": "Baggage (Stripped Version)",
+      "url": "https://open.spotify.com/track/2t1pIl7vd9cDFS3u1Qeix5"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
       "duration_ms": 155480,
       "name": "Cut Me Up",
       "url": "https://open.spotify.com/track/2gtvnLKo4m3fLAFyHPl7eU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 144243,
+      "name": "if we never met (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PATTERNS (DELUXE)",
+        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Future Tripping",
+      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girl Of My Dreams (Deluxe)",
         "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 173893,
       "name": "Better Version (feat. Kelsea Ballerini)",
       "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PATTERNS (DELUXE)",
-        "url": "https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Future Tripping",
-      "url": "https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD"
     },
     {
       "added_at": null,

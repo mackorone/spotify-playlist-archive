@@ -4,7 +4,7 @@
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-51 songs - 3 hr 55 min
+52 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ay Pilla \- Telugu](https://open.spotify.com/track/5nVFeACm96rucybpDAjfK5) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Pawan Ch](https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK) | [Love Story](https://open.spotify.com/album/2qPF34ldSTpFg8SEywoQ8E) | 4:13 | 2022-09-02 |  |
 | [Baby He Loves You](https://open.spotify.com/track/4r6jFSaXqHlfq1OmEziT9Q) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Aarya \- 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4) | 5:21 | 2021-05-18 |  |
 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 | 2022-09-02 |  |
+| [Challa Gaali Thakuthunna](https://open.spotify.com/track/5kLxn6LzkRaL6ApHETc6Pc) | [Senthil](https://open.spotify.com/artist/4chi55fx5usXwPsJq1g2a3), [Rihitha](https://open.spotify.com/artist/7HCfn98lJJNkmv6Gn0F2Fc), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD) | [Yevade Subramanyam](https://open.spotify.com/album/58kWSbnlLAIgHPHJf30A29) | 4:05 | 2024-10-04 |  |
 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 | 2022-09-02 |  |
 | [Chilipiga](https://open.spotify.com/track/5J3Gykr4QdXzgbRGlusUrM) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:28 | 2022-09-02 |  |
 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 | 2022-09-02 |  |
@@ -24,7 +25,7 @@
 | [Ee Raathale](https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Harini Ivaturi](https://open.spotify.com/artist/1lr0MlyZ8Q24eFtn7gcMmI) | [Radhe Shyam](https://open.spotify.com/album/0oqXFsTVJInCqJJJAn7wel) | 3:52 | 2023-11-08 |  |
 | [Ela \(From "Sopathulu"\)](https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC), [Sinjith Yerramilli](https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd), [Kittu Vissapragada](https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy) | [Ela \(From "Sopathulu"\)](https://open.spotify.com/album/5ISbEsbvl9lsqdOgYRplS0) | 3:48 | 2024-09-10 |  |
 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 | 2022-09-02 |  |
-| [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 | 2024-02-12 |  |
+| [Emaindhi Eevela](https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Aadavari Matalaku Ardhalu Veruley](https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u) | 5:19 | 2024-02-12 | 2025-12-19 |
 | [Endhuko Emo](https://open.spotify.com/track/6Yqw4HtJuFXleJtgzYXWzT) | [Aalaap Raju](https://open.spotify.com/artist/6qcMtXmofIpnR9TBhgamMR), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Rangam](https://open.spotify.com/album/3rpmVMH5kV6jYkzSmlpn5u) | 5:30 | 2021-05-18 |  |
 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 | 2022-09-02 |  |
 | [Gaaju Bomma \(From "Hi Nanna"\)](https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Gaaju Bomma \(From "Hi Nanna"\)](https://open.spotify.com/album/1KQY2FCmofyNFNzsMyMt9n) | 4:26 | 2023-10-06 |  |

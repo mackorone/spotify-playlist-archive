@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,528 likes - 108 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,527 likes - 108 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
-| 2 | [Sunday Morning Coming Down](https://open.spotify.com/track/1bZpAGWZkf6zx531RfHPWr) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Hello I'm Johnny Cash](https://open.spotify.com/album/7tkPGM6ZwvytGO9bGAVfFH) | 4:06 |
+| 2 | [Sunday Morning Coming Down \- Live at Ryman Auditorium, Nashville, TN \- July 1970](https://open.spotify.com/track/5KF3zQP0cqLklYnF6riogg) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Johnny Cash Show](https://open.spotify.com/album/7hpPHbARBOU8dtB6arbtKU) | 4:07 |
 | 3 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 |
 | 4 | [For the Good Times](https://open.spotify.com/track/1XuwkiH87JdwKw3UlJY07E) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [For the Good Times](https://open.spotify.com/album/2YOYGLsiPp5ktNAjV0uR5A) | 3:52 |
 | 5 | [Why Me](https://open.spotify.com/track/4X2ekXwI0hZjk22LAm5ePv) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Jesus Was a Capricorn](https://open.spotify.com/album/2hGiNG4Zr1JH5rGKdgc8hd) | 3:26 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 107 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 108 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcEf5gAAAAAga8xSnoakWXjB/YBo+Wlh`
+Snapshot ID: `AcElhgAAAABJTEpWaFcifVApSXNmJrGz`

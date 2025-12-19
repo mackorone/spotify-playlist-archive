@@ -4,7 +4,7 @@
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-194 songs - 12 hr 35 min
+197 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Expanded mind](https://open.spotify.com/track/1RBgF51R8C0yEGZwxowFEX) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Expanded mind](https://open.spotify.com/album/5Av1l8FbtRh45pFbS3FwyU) | 3:07 | 2022-12-13 | 2025-01-09 |
 | [Expanding Earth Gong](https://open.spotify.com/track/0vCDI2Idh2jSYqtkRshMsC) | [Bagno Armonico](https://open.spotify.com/artist/6Okybq8PPGFAg18IJrKl4e) | [Healing Gongs](https://open.spotify.com/album/1QyYwuZzuEK9UIA54DqxKi) | 2:11 | 2022-01-06 | 2025-06-13 |
 | [Find A Path](https://open.spotify.com/track/7uLo6eo2ILMyZ2diKv9iMj) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Find A Path](https://open.spotify.com/album/0zPocc1WiMM4kyPXEF1Wq2) | 4:00 | 2022-07-14 | 2025-12-03 |
+| [Fire Within](https://open.spotify.com/track/0AOOvQJMngKs6ujU0okQRq) | [Bowls Of Serenity](https://open.spotify.com/artist/5cO4FF3bJZ0euYXHbBWHsz) | [Fire Within](https://open.spotify.com/album/3DM0lkZlZ3QR5fa3sNvdTn) | 3:27 | 2025-12-18 |  |
 | [Floating Bowls](https://open.spotify.com/track/6CnXSvIe9fxjCGCYMCzcYE) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Floating Bowls](https://open.spotify.com/album/0JAXl29XM4PjJG4GS34kUW) | 2:22 | 2025-06-23 |  |
 | [Forest Frogs & Bee Chants](https://open.spotify.com/track/2PEBEoNfiFb15F5rF0TsNP) | [Energy Center](https://open.spotify.com/artist/64T9tcXGhRumS4toOuCCOO) | [Forest Frogs & Bee Chants](https://open.spotify.com/album/4ssetshclvvpyY32fscqyR) | 4:24 | 2022-04-14 | 2022-12-14 |
 | [Forest Meditation](https://open.spotify.com/track/1k9IdKVscuUnbY1NDYdGId) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest Meditation](https://open.spotify.com/album/6QglUf9LlWfLggtxTEaiG0) | 2:57 | 2024-02-29 |  |
@@ -143,6 +144,7 @@
 | [Rainbow Song](https://open.spotify.com/track/2ZgPnavu6o3yajZ9GGruxX) | [Son Elixir](https://open.spotify.com/artist/1F9m2yDoNVKEvIjqipRIrM) | [Rainbow Song](https://open.spotify.com/album/5Qy1C3HilW9JoLG7RcxJWg) | 2:58 | 2022-01-06 | 2025-04-02 |
 | [Realm Notion](https://open.spotify.com/track/4gwRzwAsWjiKex8HLqjjxh) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Realm Notion](https://open.spotify.com/album/0AHEJmXMRxDeiDyimf18JD) | 2:38 | 2025-06-04 |  |
 | [Releasing](https://open.spotify.com/track/2jydV80zHw1umw5QbDnCLf) | [Light Halls](https://open.spotify.com/artist/4u9H7zp0tzvIyaxEM48kAv) | [Sound Bath for Meditation](https://open.spotify.com/album/3BWwC2wAx207aXa4wi3Jr7) | 5:20 | 2022-01-06 | 2025-07-10 |
+| [Remembered](https://open.spotify.com/track/2OJOa5gLLO7jjuYxyHiOcj) | [Jeila Sander](https://open.spotify.com/artist/1AhX9oQWyvwH5cYYSQbqUZ) | [Remembered](https://open.spotify.com/album/3Z97ILIO7MTyd6qvzkxQ4y) | 2:20 | 2025-12-18 |  |
 | [Repose Toi](https://open.spotify.com/track/6TJ1gmfooHOwVXF3yHQyQZ) | [Pierrette Tremblay](https://open.spotify.com/artist/34npnHx3CSOPsmeshdfqQY) | [Repose Toi](https://open.spotify.com/album/7bS3pq64j7MRvdyPJd0Npp) | 2:58 | 2022-04-26 | 2025-04-30 |
 | [RESAVANT](https://open.spotify.com/track/2pwzS6o1DqfVcoxx73iLjU) | [BRINDABELLA](https://open.spotify.com/artist/66bTReR9z2jzYWkcBfYvCi) | [RESAVANT](https://open.spotify.com/album/5SfkJO1riWwujoq9vvM02G) | 2:17 | 2025-06-04 |  |
 | [Resonant Ether](https://open.spotify.com/track/00VQUhS3pVqJH2gMeorUCd) | [Aureven](https://open.spotify.com/artist/4YODCeoZBJzlwkh951pbDg) | [Resonant Ether](https://open.spotify.com/album/66su6X8NxmomYKv66RN8qA) | 2:06 | 2025-10-21 |  |
@@ -152,6 +154,7 @@
 | [Root Chakra \- Singing Bowl Only](https://open.spotify.com/track/42m8Ct1bJ8xxQ9Xn407s8K) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2022-01-06 | 2024-03-01 |
 | [Samaya ra ṭhā'um](https://open.spotify.com/track/0LFWo5EMkxB91AZueJSlz8) | [Shaolin Healing Bowls](https://open.spotify.com/artist/732WtPnj4sgGImwVF8Y9rW) | [Samaya ra ṭhā'um](https://open.spotify.com/album/04ImLK2RduQ8dxubv3SPjE) | 3:18 | 2025-01-08 |  |
 | [Sand in Between](https://open.spotify.com/track/15dcUwoPG8v74XaifDA4mU) | [Lucas & Marvin](https://open.spotify.com/artist/2IotGdcet3KtZlvrBjPKjv) | [Sand in Between](https://open.spotify.com/album/41rXdYEUUOI4Ua3kzoY0VE) | 3:38 | 2025-07-24 |  |
+| [Searching](https://open.spotify.com/track/1a69UHX1mDVK3vZUzYzfXy) | [Kalmera](https://open.spotify.com/artist/2dCsd1ZnWMiFipiSVqKCUl) | [Searching](https://open.spotify.com/album/6xCVp1npdJzztFZXBMgqGv) | 2:32 | 2025-12-18 |  |
 | [Selva nocturna](https://open.spotify.com/track/5f1PPtMvE0uXPSOOgFwnzW) | [Oriqi Soundhealing](https://open.spotify.com/artist/04CPMYxePrUcNhtu2kX91q) | [Selva nocturna](https://open.spotify.com/album/4f4vh8OJYWqFjjoqFwyN1z) | 6:10 | 2022-07-14 | 2024-11-29 |
 | [Silent Contact](https://open.spotify.com/track/5mitaTDmtYYiHeh8nvxeG8) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Silent Contact](https://open.spotify.com/album/6M0s5J0yax4mKxoNve4Jon) | 2:33 | 2025-01-08 |  |
 | [Singing Bowl, Cymbals, & Rain](https://open.spotify.com/track/2okKxzaXlXDjIhGvZj57oq) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [Handpan Rain](https://open.spotify.com/album/6ewhW60VWUoZc46s3bczJB) | 3:34 | 2022-05-12 | 2024-08-03 |
@@ -162,7 +165,7 @@
 | [Solar Plexus Chakra \(Manipura\) \- 3 Octaves E](https://open.spotify.com/track/163wIVMDQwvwLleCgvCTfJ) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2022-01-06 | 2024-08-03 |
 | [Solar Seraph](https://open.spotify.com/track/63THLVop1w7YRIMO9ij01U) | [Milleah](https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze) | [Solar Seraph](https://open.spotify.com/album/6Qorf7wIB8XWZ2FsBaTM8x) | 2:58 | 2025-03-19 |  |
 | [Sonic Massage \- Singing Bowl Only](https://open.spotify.com/track/6MBi5eimnlk2NWOqlfJuUC) | [Ben Scott](https://open.spotify.com/artist/6Wg54IsLeFHsxjRlhQnMXd) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 2:49 | 2022-01-06 | 2025-04-02 |
-| [Soul Elevation](https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5) | [Natura Relax](https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7), [Enchanted Sounds](https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M) | [Hang Drum Meditation](https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn) | 1:15 | 2024-05-01 |  |
+| [Soul Elevation](https://open.spotify.com/track/5Pfn4dkyAIJoFz9ulqAkc5) | [Natura Relax](https://open.spotify.com/artist/084iu69ZxshixVfB7rcRg7), [Enchanted Sounds](https://open.spotify.com/artist/2c6l8ejTfqwvp2G2YAzq9M) | [Hang Drum Meditation](https://open.spotify.com/album/3cxLTdp6xaC6OG3iC16rZn) | 1:15 | 2024-05-01 | 2025-12-19 |
 | [Soul in Harmony](https://open.spotify.com/track/31yC95ewyxC6HzeKtmt3go) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:10 | 2022-01-06 | 2024-03-01 |
 | [Sound Bath Escape](https://open.spotify.com/track/6fOHkDRcx1Wm7Akrx4f3cp) | [The Tibetan Singing Bowls](https://open.spotify.com/artist/4gZYpXjnmCFu1Qzxz947v9) | [Sound Bath Escape](https://open.spotify.com/album/3rL8zuwDNsmKcOBCRgaXCb) | 2:24 | 2022-02-22 |  |
 | [Sound Bath with Gong](https://open.spotify.com/track/48Qgj3Paj34o0nKiULGcl5) | [Jasmine Soft](https://open.spotify.com/artist/1VK5l4RiFvFSypcRxg8a0l) | [Tam Tam Gong Bath: Pure Healing Meditation](https://open.spotify.com/album/6oF7GoyOelYXe2G7tykDZS) | 4:02 | 2022-01-06 | 2024-03-01 |

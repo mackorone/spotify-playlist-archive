@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Fred again..
+> The home for alternative electronic music\. Cover: Jamie xx
 
-1,359 songs - 3 day 20 hr 30 min
+1,360 songs - 3 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 | 2025-04-10 | 2025-10-10 |
 | [Don't Understand](https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Don't Understand](https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC) | 3:57 | 2024-04-19 | 2024-10-18 |
 | [Doolally](https://open.spotify.com/track/6iOE2GLHKBQbx4JdhT6RI8) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Steel City Dance Discs Volume 23](https://open.spotify.com/album/6MeFVWynvM4JCnlYVuoxNZ) | 7:34 | 2021-11-24\* | 2021-12-17 |
+| [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 | 2025-12-19 |  |
 | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 | 2025-11-07 |  |
 | [double luxury](https://open.spotify.com/track/3mniWvZDbiXup6vp7ebPJi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [double luxury](https://open.spotify.com/album/6DQicWAuEdhCIPhVxibnld) | 4:25 | 2025-08-28 |  |
 | [Down And Out \(Where E\-Girls Dare\)](https://open.spotify.com/track/4VVtRw0YWUQ72iA8R5VGU4) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [We Will Annihilate Our Enemies](https://open.spotify.com/album/3lkEkMGrB1JpIvf45r4HIg) | 3:44 | 2025-04-17 | 2025-09-13 |

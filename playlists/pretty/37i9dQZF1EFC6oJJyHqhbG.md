@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707 likes - 145 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708 likes - 145 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 70 | [Chokehold](https://open.spotify.com/track/3T1B6mWbCuNUTdoXt7xPYK) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [Trespassing \(Deluxe Version\)](https://open.spotify.com/album/4mKnhWm5EZeZUfoUYUwT1h) | 3:51 |
 | 71 | [Touch Me \(SMASH Cast Version\) \[feat\. Katharine McPhee\]](https://open.spotify.com/track/0fkIg1ZJbGEgmYQYQy165Y) | [SMASH Cast](https://open.spotify.com/artist/05tTO01wV9Y7U4U1B4xCBK) | [The Music of SMASH](https://open.spotify.com/album/7qby8V9HKQ8xatNtAnFRxU) | 3:51 |
 | 72 | [When I’m Alone](https://open.spotify.com/track/5lNMIRdkJZn2Wzvel1SMH2) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:23 |
-| 73 | [Teenage Dream / Break Free](https://open.spotify.com/track/2JELSAbzbj1j2VbbqT7GyM) | [David Bedella](https://open.spotify.com/artist/7bkK3M7QA5LDpIbPoSC7dE), [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:09 |
-| 74 | [Crazy For Christmas \[Feat\. Bonnie McKee\]](https://open.spotify.com/track/5iUOoOkcWqWUh8ByJfOnOa) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Snow Waltz](https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI) | 3:44 |
+| 73 | [Crazy For Christmas \[Feat\. Bonnie McKee\]](https://open.spotify.com/track/5iUOoOkcWqWUh8ByJfOnOa) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Snow Waltz](https://open.spotify.com/album/1VggmVcQEgVtLmNYWCrdGI) | 3:44 |
+| 74 | [Teenage Dream / Break Free](https://open.spotify.com/track/2JELSAbzbj1j2VbbqT7GyM) | [David Bedella](https://open.spotify.com/artist/7bkK3M7QA5LDpIbPoSC7dE), [Melanie La Barrie](https://open.spotify.com/artist/4qNlLAmNX0MLUIKl9I8vA1) | [& Juliet \(Original London Cast Recording\)](https://open.spotify.com/album/3JbJ4BZWKu38meXMPwmxmh) | 3:09 |
 | 75 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 |
 | 76 | [Miracle Man](https://open.spotify.com/track/57rqeUy6NV7Qlf5VNrqS7D) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:28 |
 | 77 | [Thunder](https://open.spotify.com/track/1VmDBPdBgGfqCqcCmat15J) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Songs](https://open.spotify.com/album/2BrRKRD0BIpickQdiZAS5i) | 3:50 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 145 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 
-Snapshot ID: `AcEf3AAAAAAF7/1+0o5ivKo1WnRCuCrb`
+Snapshot ID: `AcElXgAAAAB5dyv/Y/rQXGp/h0gwsiav`

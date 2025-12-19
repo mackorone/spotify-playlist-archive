@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 172813,
       "name": "Ain't No Running Around It",
       "url": "https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 245567,
       "name": "All Behind",
       "url": "https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 212168,
       "name": "Back At Your Door",
       "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 293990,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/3hPOKGzIXE8Zn2uCllmviN"
@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 159927,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/3cOC3Vv5F4sbg2mVLn3otC"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 166957,
       "name": "Buckle Down",
       "url": "https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 184586,
       "name": "Can A Heart Take",
       "url": "https://open.spotify.com/track/755k9yt98SLiS13p5fNbAE"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 164454,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA"
+      },
+      "artists": [
+        {
+          "name": "Shane Guerrette",
+          "url": "https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Come Along as One",
+      "url": "https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU"
+    },
+    {
+      "album": {
         "name": "Coyotes",
         "url": "https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 193101,
       "name": "Dear Maria",
       "url": "https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i"
@@ -1038,7 +1056,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 180784,
       "name": "Don't Wanna Be Nervous",
       "url": "https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk"
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 215506,
       "name": "Elderberry Wine",
       "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 225641,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/1CAc81sLJsmg3pxC2P9raq"
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 237467,
       "name": "For Once",
       "url": "https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB"
@@ -1432,7 +1450,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 204253,
       "name": "For Tomorrow's Sake",
       "url": "https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz"
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 237773,
       "name": "Good Horses (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/2Y55wplSMT3ltQQOPvMC75"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 185773,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 198456,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6QXhBSDthWBH7e6uQjfWFn"
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 212470,
       "name": "Highway Queen",
       "url": "https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo"
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 211485,
       "name": "Highway Queen (feat. Maren Morris)",
       "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
@@ -2037,6 +2055,28 @@
     },
     {
       "album": {
+        "name": "Honky Tonk Hell",
+        "url": "https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195732,
+      "name": "Honky Tonk Hell",
+      "url": "https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO"
+    },
+    {
+      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -2156,7 +2196,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 230715,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz"
@@ -2492,7 +2532,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 213726,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
@@ -2904,7 +2944,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 305640,
       "name": "Moondog",
       "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
@@ -3150,7 +3190,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 257346,
       "name": "One Deep River",
       "url": "https://open.spotify.com/track/3Ruhf6RwJbrCmP4LcLw0lZ"
@@ -3530,7 +3570,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -3682,7 +3722,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 183374,
       "name": "Scary Movie",
       "url": "https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0"
@@ -3896,7 +3936,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 305306,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
@@ -4174,7 +4214,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-10",
+      "date_removed": null,
       "duration_ms": 215483,
       "name": "The Fire Inside",
       "url": "https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc"
@@ -4250,7 +4290,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 194741,
       "name": "The Machine - Radio Edit",
       "url": "https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE"
@@ -4562,7 +4602,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 193000,
       "name": "Too Much Glitter",
       "url": "https://open.spotify.com/track/7xouR29oC5HevooWRBCsAq"
@@ -4696,7 +4736,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 213853,
       "name": "Wanderings",
       "url": "https://open.spotify.com/track/1yXyhyBswAdt1JHqGgzXa2"
@@ -4732,7 +4772,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb"
@@ -4794,7 +4834,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 181680,
       "name": "What Am I Gonna Do",
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
@@ -5076,7 +5116,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"

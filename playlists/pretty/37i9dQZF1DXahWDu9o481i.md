@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,229 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,233 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 30 | [She](https://open.spotify.com/track/1fsHjzB9BSe2pSt0YTuKAL) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [She](https://open.spotify.com/album/2bQgSIFWTdcBZngvgSzIo0) | 2:36 |
 | 31 | [Eventually](https://open.spotify.com/track/7A9yawxyZYDQv3LklNUOUU) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Eventually](https://open.spotify.com/album/7oUGHYjT5jFpGj8W5JaCrK) | 4:00 |
 | 32 | [START UP A RUMOUR](https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [START UP A RUMOUR](https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt) | 3:20 |
-| 33 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
-| 34 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |
-| 35 | [It's Almost Like You're Here](https://open.spotify.com/track/4VQO8F8rlxTRLHCB3f0hWz) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO) | 3:52 |
+| 33 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |
+| 34 | [It's Almost Like You're Here](https://open.spotify.com/track/4VQO8F8rlxTRLHCB3f0hWz) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/3EKXvszVGLCqYN3eriHXIO) | 3:52 |
+| 35 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
 | 36 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
 | 37 | [Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Here I Am](https://open.spotify.com/album/0qZuyCKvdcNFgi7gcbvFSs) | 3:46 |
 | 38 | [gutta child](https://open.spotify.com/track/1104jrxwuzye3TWcSxzd4k) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [gutta child](https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c) | 1:48 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 41 | [Loveseat](https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [A Hundred Alibis](https://open.spotify.com/album/5pBP3gp4Xm7jNUoylvFhhN) | 4:02 |
 | 42 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
 | 43 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 |
-| 44 | [LIGHTNING](https://open.spotify.com/track/4bfC62Pt3HZZggQlpEPUYS) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ANYWHERE HERE IS PERFECT](https://open.spotify.com/album/6tyD7HEJopywG8Dljjd1nA) | 2:49 |
-| 45 | [CAN'T FIND HER](https://open.spotify.com/track/2lOgVpqPPfaK4I0ukHByzr) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [CAN'T FIND HER](https://open.spotify.com/album/3zGGzKPucZ6Zuhvg4n13xL) | 2:03 |
+| 44 | [CAN'T FIND HER](https://open.spotify.com/track/2lOgVpqPPfaK4I0ukHByzr) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [CAN'T FIND HER](https://open.spotify.com/album/3zGGzKPucZ6Zuhvg4n13xL) | 2:03 |
+| 45 | [LIGHTNING](https://open.spotify.com/track/4bfC62Pt3HZZggQlpEPUYS) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [ANYWHERE HERE IS PERFECT](https://open.spotify.com/album/6tyD7HEJopywG8Dljjd1nA) | 2:49 |
 | 46 | [Stranger to love](https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Time Flies](https://open.spotify.com/album/1oyZdZsqs3ag7LriorKTVq) | 2:32 |
 | 47 | [sprite](https://open.spotify.com/track/32kFCCsS86KQIbhgGED7pp) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [iDidntMeanToGhostYouButMyWifiCrashedAgain](https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2) | 2:35 |
 | 48 | [On s'envoie en l'air](https://open.spotify.com/track/3ueR9lZN5RE88U8WCtDtnw) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [On s'envoie en l'air](https://open.spotify.com/album/4a2XzyF9o9Hr3c69EuQejX) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,553 likes - 120 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,588 likes - 120 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

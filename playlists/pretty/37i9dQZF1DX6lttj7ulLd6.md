@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,309 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,531 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,16 +31,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 21 | [Deep Touch](https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:36 |
 | 22 | [Emily](https://open.spotify.com/track/1THYlGUnGESGfmZWLW11C6) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 3:39 |
 | 23 | [Dressed To Chill](https://open.spotify.com/track/5yEoj9jfZcq2i31RfGIGUk) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Dressed To Chill](https://open.spotify.com/album/19oObbehmZIBxRB0lxfxXg) | 4:01 |
-| 24 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
-| 25 | [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 |
+| 24 | [Working Buttons](https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Working Buttons](https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe) | 4:30 |
+| 25 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |
 | 26 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 |
 | 27 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
 | 28 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 |
 | 29 | [Divine Morning](https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7) | [Delorme & Co](https://open.spotify.com/artist/3SHdVmPB4OnBpkkme0OP4W) | [Divine Morning](https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS) | 3:33 |
 | 30 | [I'll Be Waiting](https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Sudden Burst Of Energy](https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj) | 4:47 |
 | 31 | [Out'a Nowhere](https://open.spotify.com/track/2yyb2V6a0pBKEJxIi6Zqdj) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:51 |
-| 32 | [Can't Stop Now](https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:15 |
-| 33 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 |
+| 32 | [Candlelight](https://open.spotify.com/track/2IvLn9G9qHouMLwEFirGfy) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [After Dark](https://open.spotify.com/album/6TuOteMAypRo9glKqAVSGT) | 4:39 |
+| 33 | [Can't Stop Now](https://open.spotify.com/track/0CrM8E0DGn8BRu38mbPoiV) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Can't Stop Now](https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF) | 4:15 |
 | 34 | [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 |
 | 35 | [Ocean Way](https://open.spotify.com/track/670qTzPNB0Ikn0lBTilHbx) | [Torcuato Mariano](https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR) | [Last Look](https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx) | 5:03 |
 | 36 | [Pop's Cool Groove](https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Stay With Me](https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl) | 4:23 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 86 | [Squeeze Me](https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 6:54 |
 | 87 | [Paddock Club](https://open.spotify.com/track/5MAbqSgxemOHcdEPSy39C7) | [Montreux Stay\-Behinds](https://open.spotify.com/artist/5mEBf65zxCBabQFW03V6xd), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [Paddock Club](https://open.spotify.com/album/2bb2xxPun7rK32R6FxL8dz) | 2:52 |
 | 88 | [A Short Walk From Home](https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:05 |
-| 89 | [Echoes Of Hollywood](https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY) | [Duke Washington](https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq) | [Echoes Of Hollywood](https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ) | 3:04 |
-| 90 | [Golden Hour Groove](https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Golden Hour Groove](https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS) | 3:16 |
+| 89 | [Golden Hour Groove](https://open.spotify.com/track/51vzBS76w1G5H10Y1T0hzt) | [Wellington Groove](https://open.spotify.com/artist/6X6fVzP6gcGr47X9w895r8) | [Golden Hour Groove](https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS) | 3:16 |
+| 90 | [Echoes Of Hollywood](https://open.spotify.com/track/1UZEyBb5T9EprU7s1aV7BY) | [Duke Washington](https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq) | [Echoes Of Hollywood](https://open.spotify.com/album/2YkjVrSM6KqrSwx5IjqujZ) | 3:04 |
 | 91 | [Lost and Found](https://open.spotify.com/track/58bVhACMXuFvNVfojvvDKC) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 4:22 |
 | 92 | [Clover Club](https://open.spotify.com/track/4xWyp4noK69mf5RF8sAt47) | [Skylineer](https://open.spotify.com/artist/59QpQv4bZfkh1PgqVrxwii) | [Clover Club](https://open.spotify.com/album/49LIEfwT6jcZJ1cjmsLGOL) | 3:53 |
 | 93 | [The Dubble](https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [The Dubble](https://open.spotify.com/album/4PFrstLSNUox98INthlTQT) | 2:56 |

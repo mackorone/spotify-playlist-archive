@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-754 songs - 2 day 23 hr 10 min
+755 songs - 2 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,7 @@
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 | 2025-01-26 |
 | [Les Orangers](https://open.spotify.com/track/0aEwYyCvLEMNWmc7u0vqHp) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Les Orangers](https://open.spotify.com/album/4rGdiQW6mqpCwKYD885Dmk) | 6:42 | 2023-06-30 | 2024-08-30 |
 | [Let It Go](https://open.spotify.com/track/276FkJLreObBSwXh1PXgFc) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Let It Go](https://open.spotify.com/album/08O8FVFHNF4yPLkAWo1xOj) | 2:58 | 2025-01-10 | 2025-05-25 |
-| [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 | 2025-01-31 |  |
+| [Let Me Come To Life](https://open.spotify.com/track/7gKFpRLqRsIu0s5Y7lbguY) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Let Me Come To Life](https://open.spotify.com/album/2Dvosx9vaLx885IGM9ncfY) | 5:35 | 2025-01-31 | 2025-12-19 |
 | [Lieblingsmensch \- Edit](https://open.spotify.com/track/6CXFxsx3VCNLwRdOn9cXKp) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Lieblingsmensch \(Edit\)](https://open.spotify.com/album/0a7nVpT905t2mcpvMVuxuL) | 3:40 | 2020-01-14 | 2020-07-18 |
 | [Light up my dark](https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Light up my dark](https://open.spotify.com/album/29f7ve7ZoQdX6GXA1nJpwA) | 3:28 | 2024-07-26 |  |
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-08-30 |  |
@@ -554,6 +554,7 @@
 | [Saga](https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Saga](https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h) | 5:36 | 2024-11-15 |  |
 | [Same \- Radio Edit](https://open.spotify.com/track/4nilN27xhbhhBk79LTiBAO) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Same](https://open.spotify.com/album/6ch0UCMHhQNKWdf7OS7HLO) | 3:52 | 2019-08-06\* | 2020-10-21 |
 | [Samson](https://open.spotify.com/track/34fx5Qr2oEkQfqRS8FlbJt) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Samson](https://open.spotify.com/album/2HlExpMOAcyS1Wyc5I7F5H) | 7:00 | 2019-08-06\* | 2020-06-12 |
+| [Say Nothing](https://open.spotify.com/track/4XFitOZjhnQw66LVvd3EfW) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Say Nothing](https://open.spotify.com/album/3XkbLaT1UrPtCThjFE9FAX) | 3:08 | 2025-12-12 |  |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |
 | [Schlafen](https://open.spotify.com/track/6W9p8YvgzEMJT8ENSaw32S) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Schlafen](https://open.spotify.com/album/5gdAuC2O2YWcU6JtyKqU3U) | 6:52 | 2019-10-24 | 2020-05-14 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 | 2025-11-02 |

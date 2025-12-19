@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,341 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,349 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 23 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
 | 24 | [Holi Kare](https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [License to Wine](https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp) | 2:57 |
 | 25 | [DMR \(Drink Meh Rum\)](https://open.spotify.com/track/4vQXm47LMMUaBeqdLU3zdK) | [M1 aka Menace](https://open.spotify.com/artist/0AHSB80KwafVJAMKH2PsXh), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [DMR \(Drink Meh Rum\)](https://open.spotify.com/album/3372WUhOaaZFLza7Tzb8UE) | 2:18 |
-| 26 | [Take Me Higher](https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe) | [Savita Singh](https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp) | [Take Me Higher](https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ) | 3:05 |
-| 27 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |
+| 26 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |
+| 27 | [Take Me Higher](https://open.spotify.com/track/5JGsCNlb8iYkbT7mowcbAe) | [Savita Singh](https://open.spotify.com/artist/41QsX79zGwzoMh8CnPG6Lp) | [Take Me Higher](https://open.spotify.com/album/3ii1WYdMsi8rgRAItvItAJ) | 3:05 |
 | 28 | [Blessed](https://open.spotify.com/track/4VyDFKj5icaZCzXncBgDIE) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Blessed](https://open.spotify.com/album/0v4CzWYukhcYMp4GRCt5AZ) | 3:30 |
 | 29 | [Hot Up \- Marc Farfan Roadmix](https://open.spotify.com/track/434mGAieof1vAHaiKmOCKr) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Marc Marfan](https://open.spotify.com/artist/0BnTr459qNonFoeEOsCEmS) | [Hot Up \(Marc Farfan Roadmix\)](https://open.spotify.com/album/5KtPF2i3l4FjLoIIeKlAQe) | 3:00 |
 | 30 | [I will never](https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH) | [Tony Cuttz](https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU) | [I will never](https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN) | 3:29 |

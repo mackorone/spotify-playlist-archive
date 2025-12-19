@@ -18323,6 +18323,24 @@
     },
     {
       "album": {
+        "name": "Sailor, Sail On",
+        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248136,
+      "name": "Sailor, Sail On",
+      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
+    },
+    {
+      "album": {
         "name": "Salt & Sugar",
         "url": "https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3"
       },
@@ -21372,7 +21390,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 254070,
       "name": "The IIIRD Eye",
       "url": "https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI"

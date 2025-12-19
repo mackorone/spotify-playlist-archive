@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best pop music right now ft. JADE",
+  "description": "The best pop music right now ft. Tyla",
   "name": "The Pop List",
   "tracks": [
     {
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 160152,
       "name": "How To Be Human",
       "url": "https://open.spotify.com/track/6TjvDoWlEorGzpgmQetW6j"
@@ -6410,6 +6410,24 @@
       "duration_ms": 177273,
       "name": "Living My Best Life",
       "url": "https://open.spotify.com/track/4zSPRXPBgSRuNTrZT7Qdog"
+    },
+    {
+      "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142288,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE"
     },
     {
       "album": {

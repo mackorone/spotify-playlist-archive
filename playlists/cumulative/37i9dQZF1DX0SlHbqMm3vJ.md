@@ -2,9 +2,9 @@
 
 ### [Ginja](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> Sweet afro melodies\. Cover:  BOJ
+> Sweet afro melodies\. Cover:  FAVE
 
-876 songs - 1 day 18 hr 45 min
+878 songs - 1 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Dangerous Love](https://open.spotify.com/track/5JayOLFuofunaBCIjissQL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Dangerous Love](https://open.spotify.com/album/6lmmpu8veGXucQJbX3gxJf) | 3:14 | 2021-10-14 | 2022-07-28 |
 | [Dawn](https://open.spotify.com/track/64z7t6bK8JLmmxZGshF2FO) | [Bagetti](https://open.spotify.com/artist/2z6qcjNpGfdX3wWPgZc7M1) | [New Dawn](https://open.spotify.com/album/13vHvBHGz2SNtnyLRStyHm) | 2:35 | 2024-03-15 | 2024-04-12 |
 | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5EYUc3dFDqstN3WU1EJlwV) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Day By Day \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5H8hfur2fltstNkAyjGUEc) | 2:15 | 2025-06-06 |  |
+| [Day n Nite](https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Day n Nite](https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J) | 2:22 | 2025-12-19 |  |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2024-06-28 |  |
 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 | 2024-04-05 | 2025-02-21 |
 | [Demons](https://open.spotify.com/track/1o40BKnO6xqV1ul2YUOWeF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Demons](https://open.spotify.com/album/0YJON4FqskJ7Zp5W5Xaug0) | 3:34 | 2025-10-03 | 2025-11-28 |
@@ -525,6 +526,7 @@
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 |  |
 | [Milele](https://open.spotify.com/track/0y2qVXYOckABR6ZJT5QiYs) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Milele](https://open.spotify.com/album/1l6eZ2RICsffC8CKNJbuWn) | 3:24 | 2021-10-14 | 2022-03-04 |
 | [Milli \(feat\. Victony\)](https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Tayo](https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85) | 2:42 | 2024-10-25 | 2025-01-22 |
+| [Milli II \(feat Jungeli & Victony\)](https://open.spotify.com/track/7IV54IDpMOJ3N0yta5VJx9) | [SO7ACE](https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Milli II](https://open.spotify.com/album/3c7Kdj6zgDkzKfCsBs0YzN) | 3:02 | 2025-12-19 |  |
 | [Miniskirt \- Remix](https://open.spotify.com/track/5jP4KOemrliC4wgExGkgBg) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Miniskirt \(Remix\)](https://open.spotify.com/album/0miuahO6ByhPG1biEV4Gem) | 2:36 | 2022-07-22 | 2022-07-25 |
 | [Minor Notes](https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Fluid](https://open.spotify.com/album/0q0jqTHpWYZIg0kYfTfXbB) | 2:56 | 2021-10-14 | 2022-07-27 |
 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 | 2024-08-29 |  |
@@ -615,7 +617,7 @@
 | [Ori Mi](https://open.spotify.com/track/4GVTQJCXD05fdxWrPu1ptK) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [I Dream In Color](https://open.spotify.com/album/1f2GqjFMA3dTYF6CNVAQdh) | 2:30 | 2025-02-28 | 2025-03-15 |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-10-14 | 2022-12-19 |
 | [Ouu Ahh](https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu Ahh](https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C) | 2:45 | 2023-03-03 | 2023-06-17 |
-| [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 |  |
+| [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 | 2025-12-19 |
 | [Ouuuh](https://open.spotify.com/track/02Su7UHGbnbAY7V3aFq14H) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Daboy Kenzi](https://open.spotify.com/artist/77HPdxhFodvllNDHT3JBmf) | [Ouuuh](https://open.spotify.com/album/5rnjVCYud03yFZtl846mjR) | 1:58 | 2025-11-28 | 2025-12-05 |
 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 | 2023-05-19 | 2024-06-28 |
 | [Over](https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 3:13 | 2024-06-28 | 2024-07-05 |
@@ -649,7 +651,7 @@
 | [Pressure](https://open.spotify.com/track/0MGwGJTDAf6FDS98lIxcy6) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Like A Flower](https://open.spotify.com/album/3n5j84AVeaeRrQS17zXX7h) | 3:06 | 2024-08-02 | 2024-08-31 |
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-05-23 |  |
 | [PrEttY Like](https://open.spotify.com/track/2lgeehwv2ThyBEQ8kHKFCn) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [PrEttY Like](https://open.spotify.com/album/0eYfLrBMobCVn4ZCaGV1GA) | 2:46 | 2023-04-27 | 2024-02-23 |
-| [Punish You](https://open.spotify.com/track/1L8LtnJ4DCIm9TG3he7Msg) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Sh!t I Never Finished](https://open.spotify.com/album/0CQUMzUcAmp83gZjdMDiMv) | 2:28 | 2025-12-05 |  |
+| [Punish You](https://open.spotify.com/track/1L8LtnJ4DCIm9TG3he7Msg) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Sh!t I Never Finished](https://open.spotify.com/album/0CQUMzUcAmp83gZjdMDiMv) | 2:28 | 2025-12-05 | 2025-12-19 |
 | [Pure Addiction](https://open.spotify.com/track/5oZcubd8fQ1hL0z9aZ2mXz) | [C Natty](https://open.spotify.com/artist/0g4GWaSMj5jwBHltATPXzX) | [Pure Addiction](https://open.spotify.com/album/5nwzBIrwY5wftCq6jLKr6j) | 3:15 | 2022-04-07 | 2022-04-21 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-10-12 | 2025-04-08 |
 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 | 2023-06-22 | 2023-08-04 |

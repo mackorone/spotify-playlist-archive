@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 194674,
       "name": "pullover",
       "url": "https://open.spotify.com/track/25dCnQCi1BYk3Rg3DpAeUE"
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Rubbin Of The Pain x New Flesh",
+        "url": "https://open.spotify.com/album/2QV7NI4Oyt8WRhVPpxkZVh"
+      },
+      "artists": [
+        {
+          "name": "Srino n Fonda",
+          "url": "https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141316,
+      "name": "Rubbin Of The Pain x New Flesh",
+      "url": "https://open.spotify.com/track/1CK8VKNerVf4TH5vxd787M"
+    },
+    {
+      "album": {
         "name": "Rubbin Off The Paint x New Flesh",
         "url": "https://open.spotify.com/album/0CjOJ8rCpTr8EKc5fhjeSi"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 141316,
       "name": "Rubbin Off The Paint x New Flesh",
       "url": "https://open.spotify.com/track/6d42nLEA7M1HDs86A5IB2t"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 183671,
       "name": "Simple!",
       "url": "https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1"

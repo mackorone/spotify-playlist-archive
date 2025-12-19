@@ -1,6 +1,6 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 190555,
+  "num_followers": 190597,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,30 @@
     {
       "added_at": "2025-12-12 05:00:42",
       "album": {
+        "name": "ROM\u00c1NTICA",
+        "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "ROM\u00c1NTICA",
+      "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
+    },
+    {
+      "added_at": "2025-12-12 05:00:42",
+      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 191209,
       "name": "Carita de Inocente",
       "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
-    },
-    {
-      "added_at": "2025-12-12 05:00:42",
-      "album": {
-        "name": "ROM\u00c1NTICA",
-        "url": "https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "XROSS",
-          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "ROM\u00c1NTICA",
-      "url": "https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb"
     },
     {
       "added_at": "2025-12-12 05:00:42",

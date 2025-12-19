@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: tlinh
 
-322 songs - 18 hr 51 min
+323 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [TRÌNH](https://open.spotify.com/track/0WjdaO545q9Qn4SQtzRQu9) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [TRÌNH](https://open.spotify.com/album/3SElNI3CCqE9AKMvGrtvjA) | 4:35 | 2024-11-12 | 2025-11-11 |
 | [Trí Trá](https://open.spotify.com/track/2CjaE3LZMTi38jK9whOcUK) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [TRÁCSTAR](https://open.spotify.com/album/6fJZeGzS6omKzAKIQDC9MC) | 3:54 | 2024-10-03 | 2024-10-14 |
 | [Trăng Hoa Mây Mưa](https://open.spotify.com/track/2BDE7KducbOuOPY4tlERyJ) | [Bình Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q) | [Trăng Hoa Mây Mưa](https://open.spotify.com/album/6ru2eI8JeIf0wMh0xuXwOq) | 3:13 | 2024-01-23 | 2024-06-13 |
-| [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 | 2024-12-09 |  |
+| [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 | 2024-12-09 | 2025-12-19 |
 | [Trầu Văn Trap](https://open.spotify.com/track/5pJ7GLhX97h4gs2yeio5yi) | [Mikelodic](https://open.spotify.com/artist/39HlpQmjGAer2XWNh0Ro83) | [Trầu Văn Trap](https://open.spotify.com/album/742bcUqN0dUZEwwB9DO9sT) | 3:08 | 2023-10-26 | 2023-10-31 |
 | [Trở Về](https://open.spotify.com/track/0oL2jCTf9P9a7flY5mCpYu) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:14 | 2025-02-07 |  |
 | [Tán Gái 505](https://open.spotify.com/track/6DyotcCWPqKQT8YWireU6L) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Tán Gái 505](https://open.spotify.com/album/7kR9l9WkJKNTSEMQSrKZL8) | 2:35 | 2023-10-19 | 2024-04-19 |
@@ -327,6 +327,7 @@
 | [Đừng Lo Đến Anh](https://open.spotify.com/track/3ZD55yfWGzxewMPrQo1Mov) | [Willdawind](https://open.spotify.com/artist/3bGdiA40gWJwHy3IsAT8Gf), [Xesi](https://open.spotify.com/artist/44ZNcW1ZSGB9oqX1ALnriH), [Pawn](https://open.spotify.com/artist/790XL0vTFvAtECmDMwTDUO) | [Đừng Lo Đến Anh](https://open.spotify.com/album/06YGo5YeQz2Y8MsWR3PNbE) | 3:01 | 2024-06-25 | 2024-06-29 |
 | [Đừng Tin Her](https://open.spotify.com/track/0MOxfxgqBnCmy63x58ChdP) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Young H](https://open.spotify.com/artist/25GQsAhf1lcyEADSbUVv5d), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Đừng Tin Her](https://open.spotify.com/album/6xdjBMXzT5Eb2QCgD2P30f) | 3:33 | 2023-12-11 | 2023-12-16 |
 | [Đừng Để Tiền Rơi](https://open.spotify.com/track/2eOjRwYXDfPs4cfhRZeXtW) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [L2K](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx) | 2:58 | 2025-10-22 | 2025-11-17 |
+| [Đừng Để Tiền Rơi \(Special Version\)](https://open.spotify.com/track/6vRpcm8c6b8My9BCs14rHf) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ) | [Đừng Để Tiền Rơi \(Special Version\)](https://open.spotify.com/album/49tSv7hKDXNgNB9fgR5WIR) | 3:45 | 2025-12-11 |  |
 | [Đừng Đổ Lỗi Bọn Trẻ \(feat\. Hoàng Yến Chibi\)](https://open.spotify.com/track/1Q4PSXkEMzcoIi3saaosrD) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Loser2Lover](https://open.spotify.com/album/1y0a68Fnw5lN9GZwrQcr3q) | 3:18 | 2024-03-20 | 2024-03-29 |
 | [Ổ Quỷ](https://open.spotify.com/track/5WIKVELHZYJ4vl3x3xlbZD) | [DMT](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [summerdayy](https://open.spotify.com/artist/6c7kFoIy4IC56Pr5605Jnt), [Rocky CDE](https://open.spotify.com/artist/2lnesmkx2eGDj0wTUv61Ch) | [Ổ Quỷ](https://open.spotify.com/album/328QgBSGnAypQVDc1pxvl2) | 2:58 | 2024-04-04 | 2024-10-24 |
 | [Ở Sâu Trong Tim Này](https://open.spotify.com/track/3dYB4zyko7GBOgWaP19y5I) | [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Ở Sâu Trong Tim Này](https://open.spotify.com/album/7zKsAhjmfUnhgUr0rUjApc) | 3:12 | 2023-12-04 | 2024-07-17 |

@@ -697,6 +697,28 @@
     },
     {
       "album": {
+        "name": "Day n Nite",
+        "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142204,
+      "name": "Day n Nite",
+      "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
+    },
+    {
+      "album": {
         "name": "Diamond in the Rough",
         "url": "https://open.spotify.com/album/637gi1okCYO996xTyNDsMP"
       },
@@ -814,6 +836,28 @@
       "duration_ms": 222000,
       "name": "Down",
       "url": "https://open.spotify.com/track/2nYGKBTVBTyEU319Oo7lJr"
+    },
+    {
+      "album": {
+        "name": "Dulling",
+        "url": "https://open.spotify.com/album/3g48YWJoo6A5CIhWVzWJ3L"
+      },
+      "artists": [
+        {
+          "name": "Ajesings",
+          "url": "https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF"
+        },
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174132,
+      "name": "Dulling",
+      "url": "https://open.spotify.com/track/630Q5KyfUDsJ6H8cRkZl7p"
     },
     {
       "album": {
@@ -2800,7 +2844,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 122474,
       "name": "Some More",
       "url": "https://open.spotify.com/track/7qZOtiN7oiDpKqEVW7szZc"
@@ -3338,7 +3382,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 218666,
       "name": "TSD",
       "url": "https://open.spotify.com/track/2PBG7vBts21Uh5XYycmh4K"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Asma",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Monsieur Nov",
   "name": "le miel",
   "tracks": [
     {
@@ -410,6 +410,24 @@
       "duration_ms": 214533,
       "name": "Arr\u00eater de t'aimer",
       "url": "https://open.spotify.com/track/7mCyJMSTddnGZruHCVxItd"
+    },
+    {
+      "album": {
+        "name": "attention",
+        "url": "https://open.spotify.com/album/6zAcXtD1C9LrWDZamPaSFS"
+      },
+      "artists": [
+        {
+          "name": "Yend",
+          "url": "https://open.spotify.com/artist/1ETAICxy3MJuIEmS8YWL4s"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154715,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/56qWdInzVg3YP6GvVvj5Vp"
     },
     {
       "album": {
@@ -1168,6 +1186,24 @@
       "duration_ms": 138105,
       "name": "Ce que tu me fais",
       "url": "https://open.spotify.com/track/0ZiJe4BToIugXNAWqDyYBP"
+    },
+    {
+      "album": {
+        "name": "Chambre",
+        "url": "https://open.spotify.com/album/7gAen5UcxotCPpRp5DsMvi"
+      },
+      "artists": [
+        {
+          "name": "Tallulah",
+          "url": "https://open.spotify.com/artist/2enfI1A3N4CyrreGjAUdD3"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Chambre",
+      "url": "https://open.spotify.com/track/5p0yFqkNzdqjE7aYd5n9eZ"
     },
     {
       "album": {
@@ -3725,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "J'avais pr\u00e9venu",
+        "url": "https://open.spotify.com/album/1wRvC3m4OPlSH8cDhpSo35"
+      },
+      "artists": [
+        {
+          "name": "Wissam",
+          "url": "https://open.spotify.com/artist/0rbipU0Ct85sBwdhhnpbUJ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "J'avais pr\u00e9venu",
+      "url": "https://open.spotify.com/track/1HQogBDPDvcFRSCUjh4x2k"
+    },
+    {
+      "album": {
         "name": "J'avoue",
         "url": "https://open.spotify.com/album/0xDiIcAY0OPS1hjNg4xzUx"
       },
@@ -5264,7 +5318,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 187773,
       "name": "MINE",
       "url": "https://open.spotify.com/track/2g4NdsfybZvL9HqGZA2aWg"
@@ -5372,7 +5426,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 192000,
       "name": "Mood de love",
       "url": "https://open.spotify.com/track/7syM6x7YkUl4D2Jj1jzCUr"
@@ -6104,7 +6158,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 196296,
       "name": "Pardonne-moi",
       "url": "https://open.spotify.com/track/75GGrGs3OnJwlQvzAlAcnF"
@@ -6448,6 +6502,42 @@
       "duration_ms": 178825,
       "name": "Pointer du doigt",
       "url": "https://open.spotify.com/track/2ZkSqGFLWlUMwDMgTIaCSQ"
+    },
+    {
+      "album": {
+        "name": "Pok\u00e9dex",
+        "url": "https://open.spotify.com/album/0cSSMtkyEQ3fQMZWPmkukP"
+      },
+      "artists": [
+        {
+          "name": "BINO*",
+          "url": "https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150844,
+      "name": "Pok\u00e9dex",
+      "url": "https://open.spotify.com/track/7etFDkWumoQwKfSHU8BEcX"
+    },
+    {
+      "album": {
+        "name": "Polaroid",
+        "url": "https://open.spotify.com/album/3binKMpTaZEIRwBFhN7YtF"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189546,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/2M8dS8F3XolgXChxiu0m5B"
     },
     {
       "album": {
@@ -7822,7 +7912,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 154223,
       "name": "SPLASH",
       "url": "https://open.spotify.com/track/7qtnRed1TS8ZWp3ZZrI4cj"
@@ -8364,10 +8454,28 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 213866,
       "name": "Toxic girl",
       "url": "https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg"
+    },
+    {
+      "album": {
+        "name": "TOXIC/CHILL",
+        "url": "https://open.spotify.com/album/6UEgmSXlwE10kVZJA6yPV6"
+      },
+      "artists": [
+        {
+          "name": "Stellio",
+          "url": "https://open.spotify.com/artist/3Uk7gNHyJ7If2hXJhaPLOq"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145850,
+      "name": "TOXIC/CHILL",
+      "url": "https://open.spotify.com/track/0fBh6dyYnLa6PzAnYIYWpw"
     },
     {
       "album": {
@@ -8418,7 +8526,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 136235,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/4PSQLIAhgfsPMOFOM9VoiT"

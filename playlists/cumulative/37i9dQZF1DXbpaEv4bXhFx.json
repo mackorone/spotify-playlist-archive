@@ -4177,6 +4177,28 @@
     },
     {
       "album": {
+        "name": "Without Anyone Knowing",
+        "url": "https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        },
+        {
+          "name": "Lee Young Hoon",
+          "url": "https://open.spotify.com/artist/5kmzC58GPeIm7CEULNYjpm"
+        }
+      ],
+      "date_added": "2025-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Unable to Speak That We Miss Each Other (with Lee Young Hoon)",
+      "url": "https://open.spotify.com/track/6J9AiH76ZyxSugvwqKuwXj"
+    },
+    {
+      "album": {
         "name": "Love Part 1",
         "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
       },
@@ -4442,7 +4464,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"

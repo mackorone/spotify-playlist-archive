@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to your motive.",
-  "num_followers": 165759,
+  "num_followers": 165751,
   "original_name": "Motive",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-19 10:02:10",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 182285,
-      "name": "Verdansk",
-      "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
-    },
-    {
-      "added_at": "2024-04-19 10:02:10",
-      "album": {
         "name": "The Second Wave (Deluxe)",
         "url": "https://open.spotify.com/album/4C25f9CQZZmeXJeGcpXWFg"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 196800,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/57jUCJelGAISFxuea34lrr"
+    },
+    {
+      "added_at": "2024-04-19 10:02:10",
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 182285,
+      "name": "Verdansk",
+      "url": "https://open.spotify.com/track/7IPKXYU2rTMnrLW5IZ7ZI5"
     },
     {
       "added_at": "2024-04-19 10:02:10",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-04-19 10:02:10",
       "album": {
-        "name": "Funky Friday",
-        "url": "https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        }
-      ],
-      "duration_ms": 182741,
-      "name": "Funky Friday",
-      "url": "https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO"
-    },
-    {
-      "added_at": "2024-04-19 10:02:10",
-      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2024-04-19 10:02:10",
+      "album": {
+        "name": "Funky Friday",
+        "url": "https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "duration_ms": 182741,
+      "name": "Funky Friday",
+      "url": "https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO"
     },
     {
       "added_at": "2024-04-19 10:02:10",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-04-19 10:02:10",
       "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
-    },
-    {
-      "added_at": "2024-04-19 10:02:10",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2024-04-19 10:02:10",
+      "album": {
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 127750,
+      "name": "Titanium",
+      "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
     }
   ],
   "unique_name": "Motive",

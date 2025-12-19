@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,509 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,508 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 10 | [Against \- You Man remix](https://open.spotify.com/track/2rxi40DFNveTmRco5bd3vk) | [IPPON](https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB), [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Against \(You Man remix\)](https://open.spotify.com/album/2XIx1vRxRphV7kFywxxhQi) | 4:15 |
 | 11 | [Queen Of Cove](https://open.spotify.com/track/0z1sXJLDzn7eAmJQgVHMCL) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Queen Of Cove](https://open.spotify.com/album/4SC6oPTwNmb7RgirUsqhzX) | 4:21 |
 | 12 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
-| 13 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
-| 14 | [Comme les autres](https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 3:27 |
+| 13 | [Comme les autres](https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 3:27 |
+| 14 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
 | 15 | [Un chant d'amour](https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 3:41 |
 | 16 | [La patte](https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [ECHO ECHO](https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0) | 2:33 |
 | 17 | [je t’ai dit je t’aime](https://open.spotify.com/track/04ara2ZDKxmF6li1vwkF6Z) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je t’ai dit je t’aime](https://open.spotify.com/album/6YRSyAeYRIcnrKWw5D4BRV) | 3:05 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 37 | [Coma \- Stripped Version](https://open.spotify.com/track/2XnCicNih9wL1IQsq5nxOY) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma \(Stripped Version\)](https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17) | 3:18 |
 | 38 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
 | 39 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
-| 40 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
-| 41 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
+| 40 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
+| 41 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
 | 42 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
 | 43 | [Coming Home](https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR) | [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Roots \(Extended\)](https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY) | 2:56 |
 | 44 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |

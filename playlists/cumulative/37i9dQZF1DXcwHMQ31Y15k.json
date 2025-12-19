@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Sleman Receh",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Gilga Sahid",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "ASMORO",
+        "url": "https://open.spotify.com/album/0hA7KeymVMd9nKbVu9Exz7"
+      },
+      "artists": [
+        {
+          "name": "Gilga Sahid",
+          "url": "https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312195,
+      "name": "ASMORO",
+      "url": "https://open.spotify.com/track/0cbBmjXTKuTcv1J1cUFlTw"
+    },
+    {
+      "album": {
         "name": "Ayang Ayang",
         "url": "https://open.spotify.com/album/3ITWj22OvvjaxjfuXHNebz"
       },
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 247384,
       "name": "Cidera Serius",
       "url": "https://open.spotify.com/track/3tscYJp7QSy5aY9tRT01MZ"
@@ -1920,6 +1938,28 @@
       "duration_ms": 214647,
       "name": "Duwa",
       "url": "https://open.spotify.com/track/6oS8GvxXlhcK5aFEiZPEZc"
+    },
+    {
+      "album": {
+        "name": "Ego Wong Tuo",
+        "url": "https://open.spotify.com/album/29pwJI1QIrIFs678j7dv2k"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356250,
+      "name": "Ego Wong Tuo",
+      "url": "https://open.spotify.com/track/2z12TlZjywRzVhYLoM7ryH"
     },
     {
       "album": {
@@ -2742,7 +2782,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 262353,
       "name": "IWAK LOUHAN - Live",
       "url": "https://open.spotify.com/track/5CIa75EuBQ3uiOJctLM9Q5"
@@ -4466,7 +4506,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 375600,
       "name": "Lanang Tenan - Live",
       "url": "https://open.spotify.com/track/2kbtyQrt1Pefa4JUwq23DM"
@@ -5179,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Mawar",
+        "url": "https://open.spotify.com/album/0YC9QYibIpyHnDTQRe1Z6S"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299403,
+      "name": "Mawar",
+      "url": "https://open.spotify.com/track/5WGLul5iR1qPmuq9hSZdYn"
+    },
+    {
+      "album": {
         "name": "Mbok Sarijem",
         "url": "https://open.spotify.com/album/0mLRi97B3aVyS9aTkcyUIR"
       },
@@ -5542,7 +5600,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 210000,
       "name": "Nduweni",
       "url": "https://open.spotify.com/track/0pEqcaVfMePZOEFwr9tzkh"
@@ -9155,6 +9213,28 @@
     },
     {
       "album": {
+        "name": "Sikep \"Siap Kelangan Pengarep Arep\"",
+        "url": "https://open.spotify.com/album/5mTukLvoT78r57nJVtPIK5"
+      },
+      "artists": [
+        {
+          "name": "Tiara Amora",
+          "url": "https://open.spotify.com/artist/7qVKpwVR1Dy3aqpzq0b7xW"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299076,
+      "name": "Sikep \"Siap Kelangan Pengarep Arep\"",
+      "url": "https://open.spotify.com/track/0QheyPV6fQ3xaaavPXLmPm"
+    },
+    {
+      "album": {
         "name": "Sikep (Siap Kelangan Pengarep Arep)",
         "url": "https://open.spotify.com/album/2rmM5EfmOH7gVTZEE9Ok3M"
       },
@@ -9518,7 +9598,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 332727,
       "name": "Tamu Undangan",
       "url": "https://open.spotify.com/track/3frj8KbtrvixycHbvZ1Fnh"
@@ -9688,7 +9768,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 314000,
       "name": "Tembang Wengi",
       "url": "https://open.spotify.com/track/0AZdVEpngBr4ndqDMwcI0D"
@@ -10288,6 +10368,24 @@
       "duration_ms": 249340,
       "name": "Tulus",
       "url": "https://open.spotify.com/track/1lx5m5RLpjljTVQ5XjpFOP"
+    },
+    {
+      "album": {
+        "name": "Tunggal Eka",
+        "url": "https://open.spotify.com/album/7BzdpKIiRQSgaTPvGrasLB"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272770,
+      "name": "Tunggal Eka",
+      "url": "https://open.spotify.com/track/7g4Ewuh8njWucqfwY7PdmR"
     },
     {
       "album": {

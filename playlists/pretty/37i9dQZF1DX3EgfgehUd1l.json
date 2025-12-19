@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 176608,
+  "num_followers": 176616,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Mr. Broadway",
-        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Stranger in Paradise",
-      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Magic Of Malcolm Vaughan",
         "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 172133,
       "name": "St Therese of the Roses",
       "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Mr. Broadway",
+        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Stranger in Paradise",
+      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Guaglione",
-        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
-      },
-      "artists": [
-        {
-          "name": "Marino Marini",
-          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
-        }
-      ],
-      "duration_ms": 161333,
-      "name": "Come prima",
-      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Love Is A Simple Thing",
         "url": "https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 184346,
       "name": "Tammy",
       "url": "https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Guaglione",
+        "url": "https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc"
+      },
+      "artists": [
+        {
+          "name": "Marino Marini",
+          "url": "https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo"
+        }
+      ],
+      "duration_ms": 161333,
+      "name": "Come prima",
+      "url": "https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "The Hilltoppers",
+          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
         }
       ],
-      "duration_ms": 152226,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
+      "duration_ms": 165466,
+      "name": "Only You (and You Alone)",
+      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -983,18 +983,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
       "artists": [
         {
-          "name": "The Hilltoppers",
-          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Only You (and You Alone)",
-      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+      "duration_ms": 152226,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
         }
       ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Climb Every Mountain",
         "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 169080,
       "name": "Finger of Suspicion",
       "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "60's Triple set",
-        "url": "https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7"
-      },
-      "artists": [
-        {
-          "name": "The Crew Cuts",
-          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Hits: 50s",
         "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 162760,
       "name": "Around the World",
       "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "60's Triple set",
+        "url": "https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7"
+      },
+      "artists": [
+        {
+          "name": "The Crew Cuts",
+          "url": "https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe"
     },
     {
       "added_at": "2023-10-17 16:18:55",

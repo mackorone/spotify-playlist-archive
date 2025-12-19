@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-125 songs - 5 hr 41 min
+126 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [IFUNANYA](https://open.spotify.com/track/55BwTz7GYfkfDfyDWM1swO) | [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9), [SHAENA](https://open.spotify.com/artist/2CtwtJ0vQVRBSMFMxXrIXb) | [EBOBOBURST!](https://open.spotify.com/album/5TLCH5tVRpClObjnTKXfmz) | 2:41 | 2024-06-28 | 2024-09-20 |
 | [Igbo](https://open.spotify.com/track/5yz4hoAl0eaOG2N7hK16OY) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Igbo](https://open.spotify.com/album/3goOtAKuLnu6m5qIMcv31L) | 3:03 | 2024-06-28 |  |
 | [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-06-28 |  |
-| [Jagbajantis](https://open.spotify.com/track/3g1uzNvPhVUClJLA52yvZU) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd), [Pelf Sounds](https://open.spotify.com/artist/0GA51vnRGOfE5yBxCIOPHm) | [DIMGBA](https://open.spotify.com/album/4Ocje5tr0Fs1PSgzIoDYq7) | 1:44 | 2025-09-26 |  |
+| [Jagbajantis](https://open.spotify.com/track/3g1uzNvPhVUClJLA52yvZU) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd), [Pelf Sounds](https://open.spotify.com/artist/0GA51vnRGOfE5yBxCIOPHm) | [DIMGBA](https://open.spotify.com/album/4Ocje5tr0Fs1PSgzIoDYq7) | 1:44 | 2025-09-26 | 2025-12-19 |
 | [JAIYE EVERYDAY](https://open.spotify.com/track/0nhnrU29FPbsVAubi8kMJx) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [DAPO TUBURNA](https://open.spotify.com/artist/5qGa60tcmi61tvYmoIjgJO), [Alpha Ojini](https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:01 | 2024-06-28 |  |
 | [JALOLO](https://open.spotify.com/track/4eHT0E0R3I97sS06kBY3ox) | [Lucky Boyy](https://open.spotify.com/artist/3U1ObYsXZrSPTafQqatJ6V), [Dami Drizzy](https://open.spotify.com/artist/2bn1VtEgnNAF8B4TdyAbjQ) | [JALOLO](https://open.spotify.com/album/3ftY0sJBC2fywdDCHxlM9f) | 2:16 | 2025-06-20 | 2025-06-28 |
 | [Jericho](https://open.spotify.com/track/7ddW60kwiu0jeUjhPDR9Wf) | [Kishboy](https://open.spotify.com/artist/5sc1htwJcqKWKiFd3E4pPn), [CYZA](https://open.spotify.com/artist/3xBse1Q9J2t9QD3FjQqNcY) | [Jericho](https://open.spotify.com/album/5Dc4vOJp7kEGlaynskuMIQ) | 2:45 | 2024-06-28 | 2025-08-15 |
@@ -94,6 +94,7 @@
 | [OPP \(S\)](https://open.spotify.com/track/753fMTMFUw8l2Ym9LZAA6x) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [OPP \(S\)](https://open.spotify.com/album/2H9Q3foXr7wwUdtFE0XOoh) | 3:09 | 2025-06-27 |  |
 | [Oppress](https://open.spotify.com/track/4WEhcjvsgEUGdfR3Jjv9uJ) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [UGLY \(U Gatts Love Yourself\)](https://open.spotify.com/album/11VnAHPIjMYw4u4AHYy6On) | 3:42 | 2024-06-28 |  |
 | [Out the Mud](https://open.spotify.com/track/0vFqhxaJg7WrNmMoHHxAAK) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Out the Mud](https://open.spotify.com/album/6Gj0e4m1LwALsd3iI8vI1q) | 2:26 | 2025-05-09 | 2025-05-17 |
+| [Owanzenze](https://open.spotify.com/track/64C0dbJziBsYffohvO6VhJ) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Owanzenze](https://open.spotify.com/album/6KXS39apbjmDPCvmiOAgXJ) | 3:52 | 2025-12-19 |  |
 | [OYO \(On Your Own\)](https://open.spotify.com/track/72tc7agBSRpUGEuMlR8Fvi) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [OYO \(On Your Own\)](https://open.spotify.com/album/3m4OKiIFWo6P4pFgka3GzI) | 3:42 | 2025-02-21 | 2025-09-05 |
 | [Ozugbo](https://open.spotify.com/track/23cr5nh5qIJT1XBbpDDArv) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Ozugbo](https://open.spotify.com/album/0b7WNNJBGgqXY0ZFPFksqY) | 2:17 | 2025-05-09 |  |
 | [Paid \(Remix\)](https://open.spotify.com/track/48yu0DXZjlwBN8nkcUMomV) | [Stahgee](https://open.spotify.com/artist/1V2bR5y4rXl7gJHskZJyaj), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Paid \(Remix\)](https://open.spotify.com/album/6wBKEaP2qLOSYzpn0mGKkk) | 2:40 | 2025-05-16 |  |

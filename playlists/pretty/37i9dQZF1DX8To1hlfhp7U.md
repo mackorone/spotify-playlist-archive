@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,500 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,509 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 43 | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF) | [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Tigerstyle](https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS) | [Nachan Nu Jee Karda \(From "Angrezi Medium"\)](https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC) | 2:47 |
 | 44 | [High Rated Gabru](https://open.spotify.com/track/60uVumQU74E83X5dbLHKhN) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB) | [High Rated Gabru](https://open.spotify.com/album/6S1g0Jx3X8AWKopRZJsgBb) | 3:33 |
 | 45 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 |
-| 46 | [Unbound](https://open.spotify.com/track/18935F4vHOp5tE19qhijCI) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ) | [Unbound](https://open.spotify.com/album/7gMXxTwci6ZbBPrF2eaftn) | 2:27 |
+| 46 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 |
 | 47 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
-| 48 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 |
-| 49 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
+| 48 | [Lamberghini](https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS) | [The Doorbeen](https://open.spotify.com/artist/5Yz2RjLWPx1PcIRoiot9Sc), [Ragini](https://open.spotify.com/artist/4aKee88VYIQpk7cOJGVwmO) | [Lamberghini \- Single](https://open.spotify.com/album/0DrkuJJyjj8wsr4wuzRfQF) | 3:36 |
+| 49 | [Unbound](https://open.spotify.com/track/18935F4vHOp5tE19qhijCI) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ) | [Unbound](https://open.spotify.com/album/7gMXxTwci6ZbBPrF2eaftn) | 2:27 |
 | 50 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
 
 Snapshot ID: `AAAAAIAVLjv83k+Ij4hQdn+1JXuvW0no`

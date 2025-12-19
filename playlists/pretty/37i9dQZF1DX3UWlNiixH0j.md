@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 水中スピカ Suichu Spica
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,123 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,130 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 46 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
 | 47 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
 | 48 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:45 |
-| 49 | [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 |
-| 50 | [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [Inc](https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV) | 3:21 |
+| 49 | [BAND A](https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [Inc](https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV) | 3:21 |
+| 50 | [SWEATER](https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [SWEATER](https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq) | 4:14 |
 | 51 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 |
 | 52 | [Torie](https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Torie](https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG) | 3:54 |
 | 53 | [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 |
@@ -65,23 +65,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 55 | [Dorodango](https://open.spotify.com/track/4QPn4xdd16uPtoKZoH7Tgi) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8), [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Dorodango](https://open.spotify.com/album/3SndELrZ85zlgPOJ0E69b0) | 2:58 |
 | 56 | [トロイメライ](https://open.spotify.com/track/1tgFqpP0oc3kyEwvgDIhJK) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [トロイメライ](https://open.spotify.com/album/3IBBEcKGqpaPqnjRyxrSbl) | 4:02 |
 | 57 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
-| 58 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
-| 59 | [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 |
+| 58 | [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 |
+| 59 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 |
 | 60 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
-| 61 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
-| 62 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
-| 63 | [Is There A Place For You There?](https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Is There A Place For You There?](https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd) | 4:31 |
-| 64 | [梅雨 \- feat.京 英一](https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [梅雨 \(feat.京 英一\)](https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw) | 3:51 |
+| 61 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
+| 62 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
+| 63 | [梅雨 \- feat.京 英一](https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [梅雨 \(feat.京 英一\)](https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw) | 3:51 |
+| 64 | [Is There A Place For You There?](https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Is There A Place For You There?](https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd) | 4:31 |
 | 65 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
 | 66 | [Tiny Mirror](https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [まにまに](https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE) | 3:18 |
 | 67 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
 | 68 | [HEBITORA](https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HEBITORA](https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky) | 4:17 |
 | 69 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 |
-| 70 | [Somewhere Between](https://open.spotify.com/track/7ws0sLjwykUP2jTyAZAv10) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Somewhere Between](https://open.spotify.com/album/0SlezQ1J9pZ1ffdrE6Q3xr) | 1:55 |
-| 71 | [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 |
+| 70 | [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 |
+| 71 | [Somewhere Between](https://open.spotify.com/track/7ws0sLjwykUP2jTyAZAv10) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Somewhere Between](https://open.spotify.com/album/0SlezQ1J9pZ1ffdrE6Q3xr) | 1:55 |
 | 72 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
 | 73 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 |
 | 74 | [万祝](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [万祝](https://open.spotify.com/album/0heim8z9M7TUdwDP9o1ZxY) | 3:41 |
-| 75 | [LIFE LINE](https://open.spotify.com/track/0InsL6pRv5dEXWuExOj9o7) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [LIFE LINE](https://open.spotify.com/album/57goByOgVnp2w5zRYR3378) | 3:10 |
+| 75 | [DAWN](https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [Glitter](https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW) | 3:14 |
 
 Snapshot ID: `AAAAAPmVLLnMIATq1GDqAZDE0btdwqry`

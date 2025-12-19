@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Ramma
 
-488 songs - 1 day 0 hr 15 min
+489 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-05-12 | 2023-10-06 |
 | [fumamos una ZAZA](https://open.spotify.com/track/4BWBRxmV4KvvSCN358tXRe) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [fumamos una ZAZA](https://open.spotify.com/album/6n8FfZNTd1H8jBQ5UQGDDb) | 2:05 | 2025-11-13 |  |
 | [Fxcking noche de mi vida](https://open.spotify.com/track/5cj4tFJIGd6k0FX7JdZekY) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Valentina Zenere](https://open.spotify.com/artist/2EGULZLiEdWLH1Y6LQGqtX), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Fxcking noche de mi vida](https://open.spotify.com/album/1M1lYFgR6xx0QH5qlyEoSR) | 2:48 | 2023-10-05 | 2023-10-28 |
+| [Genio Atrapado](https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Genio Atrapado](https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw) | 2:41 | 2025-12-19 |  |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-10-10 |
 | [GITANA](https://open.spotify.com/track/2CNfYe3Kzyw2IDGTIssbXb) | [ENEZ 4R](https://open.spotify.com/artist/3OHwlQfXYEFe5ynRosykmE), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [GITANA](https://open.spotify.com/album/1UTkauY9kjvbCZYWGe6NI6) | 2:53 | 2023-12-08 | 2024-02-17 |
 | [Gracias](https://open.spotify.com/track/7KMFDij7TKaTE6pCTX1eLh) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Gracias](https://open.spotify.com/album/4WUz7rVm3f0aJ1LU51SBSp) | 3:16 | 2025-02-04 | 2025-06-27 |
@@ -312,7 +313,7 @@
 | [NO BUSCO EL HIT](https://open.spotify.com/track/4zSmVB44ECkDsJhf8leDOv) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [NO BUSCO EL HIT](https://open.spotify.com/album/7x6504DxH7NiZU5BiDg9oe) | 2:43 | 2024-07-05 | 2024-07-27 |
 | [No Llores](https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [No Llores](https://open.spotify.com/album/6zpDRrBwXyaJLHGW4cApxj) | 2:46 | 2023-10-05 | 2024-12-07 |
 | [No Lo Pienses Más](https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5) | [Luz Gaggi](https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm) | [No Lo Pienses Más](https://open.spotify.com/album/71rAPDZUaJKAcQM19wweYK) | 2:51 | 2023-08-25 | 2024-04-13 |
-| [No Matter](https://open.spotify.com/track/1XnlpYMGAzr69JA4SetBMy) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Matter](https://open.spotify.com/album/62MYpmYWPVlPzVNBLvYeHm) | 2:09 | 2025-10-31 |  |
+| [No Matter](https://open.spotify.com/track/1XnlpYMGAzr69JA4SetBMy) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Matter](https://open.spotify.com/album/62MYpmYWPVlPzVNBLvYeHm) | 2:09 | 2025-10-31 | 2025-12-19 |
 | [No Me Gusta](https://open.spotify.com/track/3ZpXPV1BA7nFrIxgkbIxMg) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [No Me Gusta](https://open.spotify.com/album/0nHUmc55WNTfoPTcfZHJBc) | 3:24 | 2024-12-06 | 2025-01-18 |
 | [NO ME IMPORTA](https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO ME IMPORTA](https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc) | 2:33 | 2024-11-29 |  |
 | [NO ME OLVIDES](https://open.spotify.com/track/4HiMbzniEtE5memDJwvQDD) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:52 | 2025-07-25 |  |

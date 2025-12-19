@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32363,
+  "num_followers": 32364,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
         "name": "regalecus glesne (feat.\u5143\u6674 & \u67f4\u7530\u4eae)",
         "url": "https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ"
       },
@@ -431,22 +447,6 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
-      },
-      "artists": [
-        {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
         "name": "Living Message",
         "url": "https://open.spotify.com/album/1JDnILGoI2TFSWeAOqyeA2"
       },
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "color & monochrome 2",
-        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+        "name": "Synesthesia",
+        "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
       },
       "artists": [
         {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 318240,
-      "name": "Golden Forest",
-      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
+      "duration_ms": 309433,
+      "name": "Blue Bird",
+      "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "Synesthesia",
-        "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 309433,
-      "name": "Blue Bird",
-      "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
+      "duration_ms": 318240,
+      "name": "Golden Forest",
+      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "MOMENTS",
-        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "\u77f3\u306e\u6559\u4f1a",
-      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
         "name": "BLISS",
         "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
+        "name": "MOMENTS",
+        "url": "https://open.spotify.com/album/1O302L03rMX6CR86W0OfuD"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "\u77f3\u306e\u6559\u4f1a",
+      "url": "https://open.spotify.com/track/17UXJldxw6BDUxVoDjemkK"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
         "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
         "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 260861,
       "name": "Ephemeral summer",
       "url": "https://open.spotify.com/track/5Xc665FkyzjWgT1dYBjop0"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 249833,
-      "name": "Sakura Flutter",
-      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -675,6 +659,22 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 249833,
+      "name": "Sakura Flutter",
+      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
         "name": "Vivid",
         "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
       },
@@ -703,22 +703,6 @@
       "duration_ms": 207000,
       "name": "\u30cf\u30eb\u30ab\u30bc",
       "url": "https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
-        "name": "CROSSING",
-        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
-      },
-      "artists": [
-        {
-          "name": "bohemianvoodoo",
-          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
-        }
-      ],
-      "duration_ms": 270806,
-      "name": "Crossing",
-      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -755,6 +739,22 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
+        "name": "CROSSING",
+        "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "duration_ms": 270806,
+      "name": "Crossing",
+      "url": "https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
         "name": "AUTHENTIC",
         "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
@@ -767,38 +767,6 @@
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
-        "name": "Relativity",
-        "url": "https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG"
-      },
-      "artists": [
-        {
-          "name": "Soundtype",
-          "url": "https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te"
-        }
-      ],
-      "duration_ms": 268660,
-      "name": "Relativity",
-      "url": "https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
-        "name": "color & monochrome 2",
-        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Acceleration",
-      "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -819,6 +787,38 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Acceleration",
+      "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
+        "name": "Relativity",
+        "url": "https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG"
+      },
+      "artists": [
+        {
+          "name": "Soundtype",
+          "url": "https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te"
+        }
+      ],
+      "duration_ms": 268660,
+      "name": "Relativity",
+      "url": "https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
         "name": "Seeds",
         "url": "https://open.spotify.com/album/45KqNCl8TiC2VukD2AufOz"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "New Horizon",
-        "url": "https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F"
+        "name": "Aromatic",
+        "url": "https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN"
       },
       "artists": [
         {
-          "name": "The Hey Song",
-          "url": "https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze"
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 146760,
-      "name": "Greenfield",
-      "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
+      "duration_ms": 294706,
+      "name": "El Ron Zacapa",
+      "url": "https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

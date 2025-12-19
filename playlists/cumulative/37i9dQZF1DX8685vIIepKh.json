@@ -4669,6 +4669,36 @@
     },
     {
       "album": {
+        "name": "Madhouse (feat. RANI)",
+        "url": "https://open.spotify.com/album/0ZDPSB368S8GqUq6mMjv0N"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Madhouse (feat. RANI)",
+      "url": "https://open.spotify.com/track/4FjDFPYRZVhYHh79YOw0iW"
+    },
+    {
+      "album": {
         "name": "Madrid City",
         "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
       },
@@ -6132,7 +6162,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -6582,7 +6612,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -8452,6 +8482,28 @@
       "duration_ms": 193760,
       "name": "You Made Me Pray",
       "url": "https://open.spotify.com/track/0Xbn76gXJuD8vB5ZPEGG2k"
+    },
+    {
+      "album": {
+        "name": "Zoo (De \"Zootopie 2\")",
+        "url": "https://open.spotify.com/album/6CZJZ0gOiPcqGni1BRjJWN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo - De \"Zootopie 2\"",
+      "url": "https://open.spotify.com/track/196bJODAhGxwCP9oWAXlK1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8685vIIepKh"

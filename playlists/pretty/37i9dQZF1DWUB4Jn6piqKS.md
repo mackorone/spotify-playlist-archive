@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,628 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,649 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 64 | [I Go to Pieces \(Everytime\)](https://open.spotify.com/track/36WkgL8NTUyz3z1GTfNhpV) | [Gerri Grainger](https://open.spotify.com/artist/6IH0S0jKDXEw66DTlWUnEl) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:29 |
 | 65 | [Live It Up](https://open.spotify.com/track/19Wks5GfADcWu3DbumZVdO) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:24 |
 | 66 | [I Walked Away](https://open.spotify.com/track/6pbrgU3wtMWM4FkyOtZnnb) | [Bobby Paris](https://open.spotify.com/artist/5AEzIXzU4LV8Q3MKTKUXv9) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 3:10 |
-| 67 | [You Don't Know Where Your Interest Lies \- Single Version](https://open.spotify.com/track/7aTc1LlMPysvBW3XOotQEt) | [Dana Valery](https://open.spotify.com/artist/3yck88MVltjEcA4CAO4dra) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:13 |
-| 68 | [Love Factory](https://open.spotify.com/track/6FDcVkmQ1buSvITzLG3Vec) | [Eloise Laws](https://open.spotify.com/artist/4RJjnfYCmudnzG5AyMVnte) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 3:27 |
+| 67 | [Love Factory](https://open.spotify.com/track/6FDcVkmQ1buSvITzLG3Vec) | [Eloise Laws](https://open.spotify.com/artist/4RJjnfYCmudnzG5AyMVnte) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 3:27 |
+| 68 | [You Don't Know Where Your Interest Lies \- Single Version](https://open.spotify.com/track/7aTc1LlMPysvBW3XOotQEt) | [Dana Valery](https://open.spotify.com/artist/3yck88MVltjEcA4CAO4dra) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:13 |
 | 69 | [Suspicion](https://open.spotify.com/track/7neHlDOzLf0qFgEzeK8L8t) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 3:04 |
 | 70 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/7nf9RHDlrnDJe9vYW8cIJK) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/0OPpQiUK9bw0DdkBgFB9NL) | 5:19 |
 | 71 | [Too Late](https://open.spotify.com/track/7F7iU4t2IGL5VrmVOASbpW) | [Larry Williams & Johnny Watson](https://open.spotify.com/artist/20HVf2j1u1qObPT1ZZERcl) | [The Best Of The Northern Soul Story](https://open.spotify.com/album/1e5GWj2QMByTH63cp8WOU4) | 2:20 |

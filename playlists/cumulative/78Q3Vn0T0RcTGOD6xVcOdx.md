@@ -4,7 +4,7 @@
 
 > 
 
-275 songs - 15 hr 42 min
+276 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Fácil](https://open.spotify.com/track/3rRop1scvy1R3xhqTuS1q7) | [Fran Torrella](https://open.spotify.com/artist/7bFXH7TevOccNpWYQjmMc6) | [Fácil](https://open.spotify.com/album/0tfos3oIbkQpNiKDRfEZhV) | 4:03 | 2025-02-15 |  |
 | [Galapagos \(feat\. 重音テト\)](https://open.spotify.com/track/3XIHr8wFBeQvn2etLCOYw0) | [gokuri](https://open.spotify.com/artist/6JsJyG7KRb4Q6GLF9fwSh4), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [SectionA](https://open.spotify.com/album/6m8SVuFdrHhZNc6eDB9p5m) | 4:38 | 2025-02-01 |  |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-24 |  |
+| [Gold \- Radio Edit](https://open.spotify.com/track/1uSzgdzEJaTqGlPmduRzgg) | [Rob le Duc](https://open.spotify.com/artist/1sTi49hyM8Eu6oqU39raFt) | [Gold](https://open.spotify.com/album/4dVtF1fyCW3lp2Uxov1VfE) | 3:36 | 2025-12-18 |  |
 | [Gone](https://open.spotify.com/track/2BZQryI25jRcuW7j3Vwrze) | [Nico Annello](https://open.spotify.com/artist/0nHk7N31XWz5AFgj9K314m) | [Gone](https://open.spotify.com/album/0vOqx6pKD7dIYjfMlObQD2) | 2:42 | 2025-02-01 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2025-01-24 |  |
 | [GRAVEDAD CERO](https://open.spotify.com/track/7w669MjidJHHl2Xz8RnqwX) | [eneteka](https://open.spotify.com/artist/6RHLAgaaDfd253CDttKmKn) | [NIÑO PROBLEMA](https://open.spotify.com/album/5ylmrdvMnQzN7ANzrCzVHc) | 2:10 | 2025-05-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 135089,
+  "num_followers": 135082,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,26 @@
     {
       "added_at": "2025-12-15 17:22:52",
       "album": {
+        "name": "Eu Te Procurei",
+        "url": "https://open.spotify.com/album/5EtcTRGQVvH0my9qrLqp3w"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Tozha",
+          "url": "https://open.spotify.com/artist/6PxRGJ1QiXDcWhGQEli532"
+        }
+      ],
+      "duration_ms": 143414,
+      "name": "Eu Te Procurei",
+      "url": "https://open.spotify.com/track/2yrw5T1OVDjER8vb2DyUxm"
+    },
+    {
+      "added_at": "2025-12-15 17:22:52",
+      "album": {
         "name": "O Rei da Vibe",
         "url": "https://open.spotify.com/album/2c9jdnVblDS8gQDVPZAezo"
       },
@@ -727,42 +747,6 @@
       "duration_ms": 132765,
       "name": "O Dono da Madrugada",
       "url": "https://open.spotify.com/track/4dyyzyya4tpauvpHvRK7aN"
-    },
-    {
-      "added_at": "2025-12-15 17:22:52",
-      "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Mc Davi",
-          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
-        },
-        {
-          "name": "Dj Yuri Pedrada",
-          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
-        }
-      ],
-      "duration_ms": 248997,
-      "name": "Quarto 28",
-      "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
     },
     {
       "added_at": "2025-12-15 17:22:52",
@@ -831,6 +815,42 @@
     {
       "added_at": "2025-12-15 17:22:52",
       "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Dj Yuri Pedrada",
+          "url": "https://open.spotify.com/artist/3EYuWIltJb3kzoKyRzcTsi"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 248997,
+      "name": "Quarto 28",
+      "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
+    },
+    {
+      "added_at": "2025-12-15 17:22:52",
+      "album": {
         "name": "Baile Em Chamas",
         "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 173333,
       "name": "Baile Em Chamas",
       "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
-    },
-    {
-      "added_at": "2025-12-15 17:22:52",
-      "album": {
-        "name": "Eu Te Procurei",
-        "url": "https://open.spotify.com/album/5EtcTRGQVvH0my9qrLqp3w"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Tozha",
-          "url": "https://open.spotify.com/artist/6PxRGJ1QiXDcWhGQEli532"
-        }
-      ],
-      "duration_ms": 143414,
-      "name": "Eu Te Procurei",
-      "url": "https://open.spotify.com/track/2yrw5T1OVDjER8vb2DyUxm"
     },
     {
       "added_at": "2025-12-15 17:22:52",

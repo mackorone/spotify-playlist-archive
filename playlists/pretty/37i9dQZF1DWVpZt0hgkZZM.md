@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,329 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,347 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 84 | [Charanga Campesina](https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 2:38 |
 | 85 | [Los Charcos](https://open.spotify.com/track/4bxFCJf8pCHBfx6GeeLieC) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Historia Musical de Fruko: Éxitos](https://open.spotify.com/album/3AnSIlmDBxi75Ul0zjdWAB) | 5:01 |
 | 86 | [El Esclavo](https://open.spotify.com/track/6xxCu3DCal5jf5KPqDUhxp) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 2:50 |
-| 87 | [Adiós](https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Sonido Digital Bailables](https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2) | 3:29 |
-| 88 | [Del Tingo al Tango](https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Para Bailar..\. Sin Parar!!](https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj) | 2:17 |
+| 87 | [Del Tingo al Tango](https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Para Bailar..\. Sin Parar!!](https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj) | 2:17 |
+| 88 | [Adiós](https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Rochy](https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf) | [Sonido Digital Bailables](https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2) | 3:29 |
 | 89 | [La Empanadita](https://open.spotify.com/track/2YGjLZYNypW8aKRVM8fIDZ) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Historia Musical de Calixto Ochoa: 40 Éxitos](https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE) | 3:50 |
 | 90 | [Quiéreme, Quiéreme](https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22) | [Chico Cervantes Y Su Banda](https://open.spotify.com/artist/1TayRnurziz0kiOlY1itt8), [Pacho Tobío y Chico](https://open.spotify.com/artist/0UlIHCZFLktB5yGPFwQudm) | [Historia Musical 14 Cañonazos \(1971 \- 1980\)](https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx) | 5:42 |
 | 91 | [La Marcha del Pato](https://open.spotify.com/track/7kvgk6wxb1o9sB2Vkr7UQd) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Musical de Afrosound: 40 Éxitos](https://open.spotify.com/album/7DsvUM9NzQfQnQwnRB3sYM) | 4:08 |

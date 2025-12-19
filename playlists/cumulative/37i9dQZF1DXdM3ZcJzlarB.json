@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Mariano Mellino.",
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Varese & Folgar",
   "name": "(AR)",
   "tracks": [
+    {
+      "album": {
+        "name": "1212",
+        "url": "https://open.spotify.com/album/2OvJVyYxYiG0LrhuoOqfMR"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339375,
+      "name": "1212",
+      "url": "https://open.spotify.com/track/0bD0qaS4yV4VpBBmK3nm1U"
+    },
     {
       "album": {
         "name": "2009 EP",
@@ -42,7 +60,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 192000,
       "name": "2MG",
       "url": "https://open.spotify.com/track/1jv0VQexOi8GwEPiHoov0t"
@@ -130,6 +148,28 @@
       "duration_ms": 298000,
       "name": "A Bit More - Edit",
       "url": "https://open.spotify.com/track/0xYmdP9DGSWP6Db4H6jLH0"
+    },
+    {
+      "album": {
+        "name": "A La Deriva",
+        "url": "https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399916,
+      "name": "A la Deriva",
+      "url": "https://open.spotify.com/track/5mRuTcc2NFb0dxokBDNKJ5"
     },
     {
       "album": {
@@ -664,7 +704,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 160000,
       "name": "Balloon",
       "url": "https://open.spotify.com/track/5csIQAH93KyFTJpltszzXo"
@@ -2388,7 +2428,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 168000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/52uVY91xyMUeEC3KwIIF0z"
@@ -4409,6 +4449,28 @@
     },
     {
       "album": {
+        "name": "A La Deriva",
+        "url": "https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372766,
+      "name": "No es Buenos Aires",
+      "url": "https://open.spotify.com/track/1u2brgkqe0buzy8dXJjJcx"
+    },
+    {
+      "album": {
         "name": "Been Here Before",
         "url": "https://open.spotify.com/album/6K7h5Fl6Jtu3kAicTlH6lO"
       },
@@ -6090,7 +6152,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 218456,
       "name": "The Realest",
       "url": "https://open.spotify.com/track/7pVOQ63wXi6ZBoJMLrIddW"

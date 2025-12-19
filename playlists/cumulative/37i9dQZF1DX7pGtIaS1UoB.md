@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-443 songs - 1 day 1 hr 56 min
+444 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [壞的可愛 \(feat\. 言奕\)](https://open.spotify.com/track/3nWXCMtQOqQFR82CKgGMqZ) | [洗菜](https://open.spotify.com/artist/0pk1JDsCVVVXe5qtloVoCW), [言奕](https://open.spotify.com/artist/5XSlxl84NQKJWopXCFJv0f) | [壞的可愛 \(feat\. 言奕\)](https://open.spotify.com/album/12nZEMXBArLXhrwBSPCLHb) | 3:11 | 2023-03-20 | 2023-03-28 |
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 | 2022-10-17 |
 | [多想多想](https://open.spotify.com/track/1hHKchWlXB2opV42Ob2fNn) | [Evelyn Jiang](https://open.spotify.com/artist/6zb3HsIgT0wFAq1Puw89yI) | [多想多想](https://open.spotify.com/album/6euI87H9LIyHgttHS47G9g) | 3:45 | 2025-05-22 | 2025-07-16 |
-| [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 | 2024-11-14 |  |
+| [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 | 2024-11-14 | 2025-12-19 |
 | [天亮請睜眼 \- 《終極狼人殺》遊戲主題曲](https://open.spotify.com/track/6XTDYHfU1eRG1VrK7VHQnZ) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天亮請睜眼](https://open.spotify.com/album/2hQjMlItrDWJCmWj8zyJFu) | 3:12 | 2024-04-15 | 2024-07-23 |
 | [天使見證的愛情](https://open.spotify.com/track/46k8JnUuYVu8yWtC3VN8wo) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [凡人](https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ) | 3:23 | 2022-06-27 | 2022-07-28 |
 | [天气预报](https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC) | 2:51 | 2022-10-04 | 2023-02-02 |
@@ -388,6 +388,7 @@
 | [約會對白](https://open.spotify.com/track/26GGCkThk2p9cr870dTaW7) | [Niko Sun](https://open.spotify.com/artist/0PjwjckyZwud4p7iAIcspa), [朱婧佳](https://open.spotify.com/artist/6QCOFEZJrqExqz9HsIG5zF) | [辭舊](https://open.spotify.com/album/29uplO4qSyKwJGFM38PVPg) | 3:37 | 2022-06-27 | 2022-07-01 |
 | [給你宇宙\(泰版《放羊的星星》推廣曲\)](https://open.spotify.com/track/0Qxm6hUFBFEmRBMYef09Rs) | [孟梓](https://open.spotify.com/artist/5nZUFKAqvjcWqQDNQ8chVU) | [泰版《放羊的星星》原聲帶](https://open.spotify.com/album/19ljgcrHrFILHKxw7GZX0O) | 3:50 | 2023-04-24 | 2023-05-02 |
 | [給你意外的甜](https://open.spotify.com/track/1GAG6OIPYa02KAUWBfuByF) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [給你意外的甜](https://open.spotify.com/album/0nFrWgXz7YP94HOu37UUEO) | 4:06 | 2023-12-04 | 2025-10-10 |
+| [給我一支舞的時間](https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [給我一支舞的時間](https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5) | 3:03 | 2025-12-18 |  |
 | [給月亮的情書](https://open.spotify.com/track/2ZqCwuKgjbUAhpnpLjjX04) | [REGENT 林暐竣](https://open.spotify.com/artist/0fC5VBIUXbh9Fltzxn12Mp) | [給月亮的情書](https://open.spotify.com/album/3WZqmI0dLE7g7az7g7EWr1) | 3:20 | 2025-08-14 | 2025-11-07 |
 | [練習等待](https://open.spotify.com/track/0UwwjNqyHLNLiQHneyWXTd) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [練習等待](https://open.spotify.com/album/1xwMSCbMESBuBdAdfHyOb7) | 3:10 | 2022-06-13 | 2022-07-24 |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-06-20 |  |

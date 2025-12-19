@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJQ1Sv9Jjrl.md) - [plain]
 
 > Music from the Tall Girl films\. Watch Tall Girl 2 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,801 likes - 39 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,800 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

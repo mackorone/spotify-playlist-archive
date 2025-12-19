@@ -1,51 +1,31 @@
 {
-  "description": "L2B x La Fouine au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
-  "num_followers": 1606896,
+  "description": "La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "num_followers": 1606911,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACuYdiofguV2MJTpgDuZMLIHpahG",
+  "snapshot_id": "AAAAAAE/WJA7sLwz6ksz8w2EZQU763qt",
   "tracks": [
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
-        "name": "Flying Blue",
-        "url": "https://open.spotify.com/album/2n2zlLuUnCKLgjQLPLEsMS"
+        "name": "Serrure #5",
+        "url": "https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB"
       },
       "artists": [
         {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Flying Blue",
-      "url": "https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8"
+      "duration_ms": 138591,
+      "name": "Serrure #5",
+      "url": "https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "+971",
-        "url": "https://open.spotify.com/album/5lforRYyhZm0hYg5Uyl132"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 201923,
-      "name": "+971",
-      "url": "https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "LOVE YOU",
         "url": "https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq"
@@ -61,23 +41,7 @@
       "url": "https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "MON B\u00c9B\u00c9",
-        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "MON B\u00c9B\u00c9",
-      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "Apr\u00e8s La Vague",
         "url": "https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM"
@@ -97,7 +61,59 @@
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "+971",
+        "url": "https://open.spotify.com/album/5lforRYyhZm0hYg5Uyl132"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 201923,
+      "name": "+971",
+      "url": "https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "Flying Blue",
+        "url": "https://open.spotify.com/album/2n2zlLuUnCKLgjQLPLEsMS"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Flying Blue",
+      "url": "https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "MON B\u00c9B\u00c9",
+        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "MON B\u00c9B\u00c9",
+      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
@@ -113,27 +129,7 @@
       "url": "https://open.spotify.com/track/69UB9UIfNEAyyIXyiioSzP"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "SALE \u00c9TAT",
-        "url": "https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV"
-      },
-      "artists": [
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "SALE \u00c9TAT",
-      "url": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "Parle moi",
         "url": "https://open.spotify.com/album/0Fkw1FmVzg5hwSD2nfuKUo"
@@ -153,7 +149,27 @@
       "url": "https://open.spotify.com/track/0u3X2FAuek7g4K2a7Nw5Om"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "SALE \u00c9TAT",
+        "url": "https://open.spotify.com/album/5CCc2TijvsBYxO78l7FsBV"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "SALE \u00c9TAT",
+      "url": "https://open.spotify.com/track/2x2eP3gikXLq6iItsuV9P3"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "THUG CEREMONY",
         "url": "https://open.spotify.com/album/1jfB93ugt4JRQlGPtsa6E0"
@@ -177,23 +193,7 @@
       "url": "https://open.spotify.com/track/1k2MSLuxyPxJbM47VrVVIq"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "JAMAIS TOI",
-        "url": "https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        }
-      ],
-      "duration_ms": 167312,
-      "name": "JAMAIS TOI",
-      "url": "https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "SIERRA LEONE",
         "url": "https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK"
@@ -209,82 +209,10 @@
       "url": "https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
-        "name": "Astrid",
-        "url": "https://open.spotify.com/album/3jSB6Lto6ZLx8paXGWwarY"
-      },
-      "artists": [
-        {
-          "name": "JRK 19",
-          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 165637,
-      "name": "Astrid",
-      "url": "https://open.spotify.com/track/1n8fHxto2OMcsDBE1fR70H"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Connexion macabre",
-        "url": "https://open.spotify.com/album/1wZ67bWhwMoyx5xBy63t19"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Connexion macabre",
-      "url": "https://open.spotify.com/track/2qoMCkSjfBzKShOcX72vSc"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Et si j'\u00e9choue ??",
-        "url": "https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 154455,
-      "name": "Biff pas d'love",
-      "url": "https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Nostalgique",
-        "url": "https://open.spotify.com/album/5gInMpobDAPIsatLPUhNOx"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Nostalgique",
-      "url": "https://open.spotify.com/track/16a4aTkLQqmM82uKZTjvxt"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "C'EST RELOU",
-        "url": "https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq"
+        "name": "JAMAIS TOI",
+        "url": "https://open.spotify.com/album/6dQWtrLDBGl3pQEXEV5hXm"
       },
       "artists": [
         {
@@ -292,32 +220,12 @@
           "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
         }
       ],
-      "duration_ms": 120894,
-      "name": "C'EST RELOU",
-      "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
+      "duration_ms": 167312,
+      "name": "JAMAIS TOI",
+      "url": "https://open.spotify.com/track/5cvDRCSNLdK0WR52177H8B"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "CAPITALE DU CRIME RADIO, vol. 2 (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/24D7xdMhQ205fNLXzZ3EMs"
-      },
-      "artists": [
-        {
-          "name": "La Fouine",
-          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
-        },
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/41pbeLfqoY7ocXvd9Ts9xc"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "LES DENTS DU BONHEUR",
         "url": "https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00"
@@ -337,26 +245,102 @@
       "url": "https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
-        "name": "Serrure #5",
-        "url": "https://open.spotify.com/album/0Zk8t2ZRO8cHHL7RmLuCoB"
+        "name": "Connexion macabre",
+        "url": "https://open.spotify.com/album/1wZ67bWhwMoyx5xBy63t19"
       },
       "artists": [
         {
           "name": "La Rvfleuze",
           "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 138591,
-      "name": "Serrure #5",
-      "url": "https://open.spotify.com/track/79HWCJC8r8UHGUOAaRN4IO"
+      "duration_ms": 152112,
+      "name": "Connexion macabre",
+      "url": "https://open.spotify.com/track/2qoMCkSjfBzKShOcX72vSc"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
-        "name": "TP sur TP",
-        "url": "https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo"
+        "name": "Astrid",
+        "url": "https://open.spotify.com/album/3jSB6Lto6ZLx8paXGWwarY"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 165637,
+      "name": "Astrid",
+      "url": "https://open.spotify.com/track/1n8fHxto2OMcsDBE1fR70H"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "Et si j'\u00e9choue ??",
+        "url": "https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 154455,
+      "name": "Biff pas d'love",
+      "url": "https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "CAPITALE DU CRIME RADIO, vol. 2 (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/24D7xdMhQ205fNLXzZ3EMs"
+      },
+      "artists": [
+        {
+          "name": "La Fouine",
+          "url": "https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/41pbeLfqoY7ocXvd9Ts9xc"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "C'EST RELOU",
+        "url": "https://open.spotify.com/album/2s4PgkJiWCVMkEpDQ5ASHq"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "duration_ms": 120894,
+      "name": "C'EST RELOU",
+      "url": "https://open.spotify.com/track/5tbdseHNGNzlzcR0uo7epR"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "Nostalgique",
+        "url": "https://open.spotify.com/album/5gInMpobDAPIsatLPUhNOx"
       },
       "artists": [
         {
@@ -364,12 +348,12 @@
           "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 186000,
-      "name": "TP sur TP",
-      "url": "https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX"
+      "duration_ms": 207026,
+      "name": "Nostalgique",
+      "url": "https://open.spotify.com/track/16a4aTkLQqmM82uKZTjvxt"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "Pleins Phares",
         "url": "https://open.spotify.com/album/76fQoy7EIbHkqQ2VxR86rb"
@@ -389,27 +373,39 @@
       "url": "https://open.spotify.com/track/41BfY3UzxsU5PNj75qPIFA"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
-        "name": "MTL",
-        "url": "https://open.spotify.com/album/5HRgsvveeHicAoVYCXPCsk"
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
       },
       "artists": [
         {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "name": "Blynk",
-          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 215013,
-      "name": "MTL",
-      "url": "https://open.spotify.com/track/6syLLUervdBK7CsAY2FjlI"
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/3QyeKFrKSgnwN1aMtvw6Gi"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/4KMbIojhnl6R2BLuxdSguR"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "ADN: PART II",
         "url": "https://open.spotify.com/album/3MWovp2e27JKpONP2yecqp"
@@ -429,103 +425,7 @@
       "url": "https://open.spotify.com/track/1GlnCL1v7D90Hl2MZIFxyq"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "5 bleus",
-        "url": "https://open.spotify.com/album/6XucNOw2RptjuGZeV6HyI2"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 198974,
-      "name": "5 bleus",
-      "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "RUINART",
-        "url": "https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1"
-      },
-      "artists": [
-        {
-          "name": "R2",
-          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        }
-      ],
-      "duration_ms": 174493,
-      "name": "RUINART",
-      "url": "https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Printemps",
-        "url": "https://open.spotify.com/album/3QyeKFrKSgnwN1aMtvw6Gi"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "Printemps",
-      "url": "https://open.spotify.com/track/4KMbIojhnl6R2BLuxdSguR"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Jeunesse Dor\u00e9e",
-        "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 144626,
-      "name": "Big mama",
-      "url": "https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
-      },
-      "artists": [
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "P.I.B",
-        "url": "https://open.spotify.com/album/0kCmk5DMxjBwgPbO4R2897"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "P.I.B",
-      "url": "https://open.spotify.com/track/5YpjJNnPOEkTupO9Doy14b"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "Skywalker Haze - A COLORS SHOW",
         "url": "https://open.spotify.com/album/3Xudj0lVJpPiBkiMLy5aim"
@@ -545,63 +445,7 @@
       "url": "https://open.spotify.com/track/5JM13iTVRsDYdPHAFKt9eq"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "4h44",
-        "url": "https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ"
-      },
-      "artists": [
-        {
-          "name": "ZZ",
-          "url": "https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e"
-        },
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "4h44",
-      "url": "https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "Daytona",
-        "url": "https://open.spotify.com/album/7kKo9AbLNSn9cYiY7GHM5X"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/2ndT6P2TitN7Hf6ALtgNAg"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "B\u0112Y\u0100H",
-        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Impardonnable",
-      "url": "https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "Un monde \u00e0 l'autre",
         "url": "https://open.spotify.com/album/4RbDvMMrFoliCy4mUSUNf1"
@@ -629,7 +473,127 @@
       "url": "https://open.spotify.com/track/0DAhk47iSMkfPKm5MDW17x"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "TP sur TP",
+        "url": "https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "TP sur TP",
+      "url": "https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "4h44",
+        "url": "https://open.spotify.com/album/0swysL88YUro5zEiWA6ixZ"
+      },
+      "artists": [
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e"
+        },
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "4h44",
+      "url": "https://open.spotify.com/track/7zRpR9CdnbrsCw02HhdMX1"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "MTL",
+        "url": "https://open.spotify.com/album/5HRgsvveeHicAoVYCXPCsk"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        },
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "duration_ms": 215013,
+      "name": "MTL",
+      "url": "https://open.spotify.com/track/6syLLUervdBK7CsAY2FjlI"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "RUINART",
+        "url": "https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "duration_ms": 174493,
+      "name": "RUINART",
+      "url": "https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "P.I.B",
+        "url": "https://open.spotify.com/album/0kCmk5DMxjBwgPbO4R2897"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "P.I.B",
+      "url": "https://open.spotify.com/track/5YpjJNnPOEkTupO9Doy14b"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "KYKY2BONDY",
+        "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 137173,
+      "name": "KYKY2BONDY",
+      "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "Jeunesse Dor\u00e9e",
+        "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 144626,
+      "name": "Big mama",
+      "url": "https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "KAT (feat. La Rvfleuze)",
         "url": "https://open.spotify.com/album/3gol36dUqCHz90vFEUnTe8"
@@ -649,23 +613,59 @@
       "url": "https://open.spotify.com/track/4ccQmkote4B1zBjhk9sxFH"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
-        "name": "DOM PERIGNON CRYING",
-        "url": "https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc"
+        "name": "5 bleus",
+        "url": "https://open.spotify.com/album/6XucNOw2RptjuGZeV6HyI2"
       },
       "artists": [
         {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 205986,
-      "name": "PANORAMA",
-      "url": "https://open.spotify.com/track/3FWYuNW6lxMGYcRCwqiHFi"
+      "duration_ms": 198974,
+      "name": "5 bleus",
+      "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Impardonnable",
+      "url": "https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "Daytona",
+        "url": "https://open.spotify.com/album/7kKo9AbLNSn9cYiY7GHM5X"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2ndT6P2TitN7Hf6ALtgNAg"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "RUN Evolution",
         "url": "https://open.spotify.com/album/74FebIYWI8nzxEG0EPAsG4"
@@ -685,23 +685,7 @@
       "url": "https://open.spotify.com/track/0wTi7XDIPqOi0cBv7JGb70"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
-      "album": {
-        "name": "KYKY2BONDY",
-        "url": "https://open.spotify.com/album/1v0PXbZWCDNie0zpY3rCVq"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 137173,
-      "name": "KYKY2BONDY",
-      "url": "https://open.spotify.com/track/2t5LPLptBemV0W8IGLBLju"
-    },
-    {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "La fuite en avant",
         "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
@@ -721,7 +705,7 @@
       "url": "https://open.spotify.com/track/3UYNXXLHetyPKhX0vwF0d1"
     },
     {
-      "added_at": "2025-12-11 23:00:19",
+      "added_at": "2025-12-18 23:00:22",
       "album": {
         "name": "Pilon Gras",
         "url": "https://open.spotify.com/album/7FlfisWbhjqGmM9n0wGNhA"
@@ -735,6 +719,22 @@
       "duration_ms": 174875,
       "name": "Pilon Gras",
       "url": "https://open.spotify.com/track/5XlGybg1q7FvuS0InAojSV"
+    },
+    {
+      "added_at": "2025-12-18 23:00:22",
+      "album": {
+        "name": "DOM PERIGNON CRYING",
+        "url": "https://open.spotify.com/album/6OnLV2MfyGb0H9SEEa8Slc"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "duration_ms": 205986,
+      "name": "PANORAMA",
+      "url": "https://open.spotify.com/track/3FWYuNW6lxMGYcRCwqiHFi"
     }
   ],
   "unique_name": "PVNCHLNRS",

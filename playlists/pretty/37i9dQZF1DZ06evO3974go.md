@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,688 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,687 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 35 | [Stressed](https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 3:30 |
 | 36 | [Reloaded](https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 3:08 |
 | 37 | [Rich Homie Quando \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Life After Fame](https://open.spotify.com/album/3IYaSINx79h33UY51uylld) | 2:44 |
-| 38 | [Never Made Love \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 4:36 |
+| 38 | [Freestyle](https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 3:42 |
 | 39 | [RedBone](https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 4:13 |
-| 40 | [Freestyle](https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M) | 3:42 |
+| 40 | [Never Made Love \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 4:36 |
 | 41 | [15 Shots](https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Legacy of Hits](https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL) | 2:38 |
 | 42 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 |
 | 43 | [Heart Cold](https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Back To The Basics](https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV) | 3:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3974go.md) - [plain]
 | 49 | [Friday Night](https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 1:54 |
 | 50 | [New Atlanta \(feat\. Rich Homie Quan, Young Thug, Jermain Dupri\)](https://open.spotify.com/track/2X9QYkO7p7M6AMag1eupdR) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 |
 
-Snapshot ID: `aUChAAAAAACPWJCatW/rqZHP3wt3FeY2`
+Snapshot ID: `aUHygAAAAACfC6+hjDz33+2127OVAwIm`

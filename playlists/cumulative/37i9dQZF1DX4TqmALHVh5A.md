@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Ofé
+> La scène française branchée sur courant alternatif\. Photo : Skip the Use
 
-400 songs - 21 hr 13 min
+403 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [BROKEN BONES](https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId), [LIL Moine](https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq) | [BROKEN BONES](https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk) | 2:30 | 2024-06-13 | 2024-06-28 |
 | [Brumeux](https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Brumeux](https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV) | 3:14 | 2023-10-26 | 2024-01-19 |
 | [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 | 2025-12-04 |  |
-| [c'est toi qui me dis](https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [c'est toi qui me dis](https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH) | 3:11 | 2025-10-02 |  |
+| [c'est toi qui me dis](https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [c'est toi qui me dis](https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH) | 3:11 | 2025-10-02 | 2025-12-19 |
 | [Californie](https://open.spotify.com/track/5cWBcAnMNCBVV0UAIO6tRj) | [EMILE](https://open.spotify.com/artist/2zcvrNK2SY1epxOBTgfEF4) | [Californie](https://open.spotify.com/album/1lBRedKhEOs13Zr8ZOb1Ax) | 2:23 | 2025-05-15 | 2025-10-03 |
 | [Call Me](https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Dernier Orage](https://open.spotify.com/album/1lGNHr5zhRiwKfGbQmHKPY) | 3:26 | 2023-10-26 | 2024-01-27 |
 | [Call Me \- Single Edit](https://open.spotify.com/track/1CsTDzGxMmBY28L3bLVtZ2) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Call Me](https://open.spotify.com/album/7s3dZbOvLrsnyvxTtRjAdi) | 3:22 | 2024-01-26 | 2024-10-11 |
@@ -97,6 +97,7 @@
 | [Deeper](https://open.spotify.com/track/62YSJXvarbaTjC6S7jHzl0) | [Sure](https://open.spotify.com/artist/5yrXtZYureEFlY57R4KW44) | [Deeper](https://open.spotify.com/album/7CeRpRTzRuAyCmzcfdWCPW) | 3:59 | 2024-11-28 | 2025-03-28 |
 | [Des bêtises \(part I\)](https://open.spotify.com/track/6cHBn7KJ1zLYZuEznzeb77) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Des bêtises \(part I\)](https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk) | 2:32 | 2025-07-10 | 2025-09-12 |
 | [Dis\(t\)dance](https://open.spotify.com/track/3ij2QXYi7ybKR2BZB744zb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [Dis\(t\)dance](https://open.spotify.com/album/3cvbeVC5aHjypN86sH652F) | 3:17 | 2024-12-12 | 2025-04-11 |
+| [Distancer](https://open.spotify.com/track/6jRXFZfoodiKfSTbfWXxhG) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Distancer](https://open.spotify.com/album/7qr1UZqCBwaBUomxmnNBMg) | 3:25 | 2025-12-18 |  |
 | [Distraction](https://open.spotify.com/track/7atWzGuz6MT8vaGQX5kdwp) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Distraction](https://open.spotify.com/album/6TM06ZS2PtNj6XB6g3LAdO) | 3:37 | 2025-11-13 |  |
 | [Docteur](https://open.spotify.com/track/5K39u8ZMvdLM0ca37Cig8S) | [Télépagaille](https://open.spotify.com/artist/7xSQWmtIrYPK9Nw49pkrZ8) | [Traction](https://open.spotify.com/album/7LiCC0Nft1rvcw5EBuhPFz) | 3:13 | 2024-11-07 | 2025-02-14 |
 | [Double d'amour](https://open.spotify.com/track/4MV20WxnAF2PkykkQgvADb) | [Sans Lactose](https://open.spotify.com/artist/5o9bgsy6gISpQ7FJszf34L) | [Double d'amour](https://open.spotify.com/album/23ixV4QI4HNkbR9yXC7b1i) | 2:47 | 2025-10-10 | 2025-12-05 |
@@ -219,8 +220,9 @@
 | [LES FRAMBOISES](https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [TÇPÇ!](https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq) | 2:40 | 2025-10-10 |  |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
-| [Les garçons et les filles](https://open.spotify.com/track/2QeDqkNlNlT3pVd8nAVyrE) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les garçons et les filles](https://open.spotify.com/album/7rSK2XjJX1ShoiaBhhbNlk) | 3:35 | 2025-10-10 |  |
+| [Les garçons et les filles](https://open.spotify.com/track/2QeDqkNlNlT3pVd8nAVyrE) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les garçons et les filles](https://open.spotify.com/album/7rSK2XjJX1ShoiaBhhbNlk) | 3:35 | 2025-10-10 | 2025-12-19 |
 | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/track/0kgZ7YqklQkVLV8SoEi5Us) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Les Gens Qui Dansent \(j'adore\)](https://open.spotify.com/album/3ATPhog7ZvQNERcWSvbQnQ) | 3:36 | 2025-02-27 | 2025-07-05 |
+| [Les limbes](https://open.spotify.com/track/3qg2qAGEgFVPjov9Rx9fb8) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [Les limbes](https://open.spotify.com/album/1c9Y0czH9pqBVvjZyxL5rH) | 2:34 | 2025-12-18 |  |
 | [Les sites de rencontre](https://open.spotify.com/track/4nkJVppg7SLJCRnHbkGCrB) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Seule sous ma frange \(Extension\)](https://open.spotify.com/album/6OghTJMXlowG5XyFaQsFsi) | 4:45 | 2023-09-28 | 2023-10-20 |
 | [Love Is Over](https://open.spotify.com/track/46luU5vXFosW3zOR13taED) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Love Is Over](https://open.spotify.com/album/5rh5B327itAEamamcEZSIS) | 4:27 | 2024-09-19 | 2024-11-22 |
 | [Love Sixties](https://open.spotify.com/track/18YUpvNqYdKV9pYynF7WiP) | [PETITE](https://open.spotify.com/artist/3fCq6kmP05qWeSimk0cPfO) | [PETITE](https://open.spotify.com/album/7JHvaqoKxRc3jFlXGD6be0) | 3:18 | 2025-02-13 | 2025-06-06 |
@@ -233,6 +235,7 @@
 | [Maisons vides](https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB) | [KCIDY](https://open.spotify.com/artist/7rOzcz6BWm7gwp4LMpdkSO) | [Maisons vides](https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx) | 4:02 | 2025-05-15 | 2025-10-11 |
 | [Mascu Ferme Ta Gueule](https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN) | [Droges](https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd) | [Mascu Ferme Ta Gueule](https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj) | 3:08 | 2024-11-07 | 2025-03-28 |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 | 2024-03-29 |
+| [Mauvaise tête](https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Mauvaise tête](https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1) | 2:38 | 2025-12-18 |  |
 | [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 | 2024-06-27 | 2025-02-07 |
 | [Merde à La Mer](https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Merde à La Mer](https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4) | 2:52 | 2025-05-22 | 2025-10-17 |
 | [Message acide](https://open.spotify.com/track/5Q3NP8mMJVcvQnpefNi3P9) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Message acide](https://open.spotify.com/album/48ivlI5AuvWGRp1EaphL6M) | 3:33 | 2025-01-09 | 2025-04-11 |
@@ -401,7 +404,7 @@
 | [Z](https://open.spotify.com/track/2qHnWuRtnBLgumhptqdkLs) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/3xE9Bn8qRkX8JKJl0IdQJI) | 2:59 | 2024-03-21 | 2024-04-19 |
 | [Z](https://open.spotify.com/track/72ICHo3ZgL8uUieTCdIpfF) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Z](https://open.spotify.com/album/7ndSxLdXc07HwAkQZoApye) | 2:59 | 2024-03-21 | 2024-10-11 |
 | [Zero Box](https://open.spotify.com/track/7CcnzW8nPLBMg8PuNHdbj8) | [Le Jardin](https://open.spotify.com/artist/52WmRuQzAPLVwlkksYBg9l) | [Zero Box](https://open.spotify.com/album/0ylBUqmIa6wYAaKeXQWtoz) | 3:43 | 2023-09-28 | 2024-03-15 |
-| [ZERO CONCESSIONS](https://open.spotify.com/track/43M9GigJSWVshPOKXpUkAZ) | [IGOR](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI), [WEB](https://open.spotify.com/artist/0vpkGPve4zar394BIrZOGh) | [ZERO CONCESSIONS](https://open.spotify.com/album/1zwxAZ1Arsiw91tx8akaC9) | 2:30 | 2025-10-16 |  |
+| [ZERO CONCESSIONS](https://open.spotify.com/track/43M9GigJSWVshPOKXpUkAZ) | [IGOR](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI), [WEB](https://open.spotify.com/artist/0vpkGPve4zar394BIrZOGh) | [ZERO CONCESSIONS](https://open.spotify.com/album/1zwxAZ1Arsiw91tx8akaC9) | 2:30 | 2025-10-16 | 2025-12-19 |
 | [zombi](https://open.spotify.com/track/5gxrevOrqNW1IPPtZaKJZt) | [Pierre Pleure](https://open.spotify.com/artist/4LdNhzvsIrPK2c7QPhYw6h) | [zombi](https://open.spotify.com/album/7dBhWvpu5RbV60WZPOGArl) | 2:21 | 2025-02-20 | 2025-07-04 |
 | [À l'aide](https://open.spotify.com/track/0RQFdPFD93bKg6rKsYXwpA) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [À l'aide](https://open.spotify.com/album/3eDQVsbI2raoTUtfKHwdxS) | 3:05 | 2023-09-28 | 2023-10-20 |
 | [à travers les buildings](https://open.spotify.com/track/30Vjkb3uguTKxSuXu9jVWb) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [à travers les buildings](https://open.spotify.com/album/4PWWTdHvDhxj9uq2s9ttPK) | 3:38 | 2025-05-15 | 2025-10-11 |

@@ -2015,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Boulder",
+        "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248241,
+      "name": "Boulder",
+      "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
+    },
+    {
+      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -7474,7 +7492,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 182322,
       "name": "I Need You In My Li(f)e (ViuTV\u5287\u96c6 \u300c\u7121\u7528\u7684\u8b0a\u8a00\u300d\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/31DFL3AiVPjGUAnSlEHTyK"
@@ -8504,7 +8522,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 244018,
       "name": "Kong",
       "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
@@ -18316,7 +18334,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -20296,7 +20314,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 262000,
       "name": "\u592a\u967d\u8207\u5730\u7403",
       "url": "https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA"
@@ -20350,7 +20368,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 179076,
       "name": "\u597d\u5f97\u592a\u904e\u4efd",
       "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
@@ -24434,7 +24452,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 223950,
       "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
       "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
@@ -24666,7 +24684,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/3qFJpsQaOGkea5MLxbk9Jc"

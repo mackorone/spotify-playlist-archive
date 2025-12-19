@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Elestee
 
-209 songs - 9 hr 51 min
+210 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Ogologo](https://open.spotify.com/track/2FIo6itkvFUH8Gze6SWh4V) | [Ugoccie](https://open.spotify.com/artist/23NKFSnR8yAUDQdub4vnIN), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Ogologo](https://open.spotify.com/album/0YDsVfN2COubjqikZUnDTq) | 2:26 | 2024-11-29 | 2025-09-20 |
 | [Old Flame](https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Old Flame](https://open.spotify.com/album/3turvCSKi4z5OtNiYRQeor) | 3:02 | 2024-12-20 | 2025-10-25 |
 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 | 2025-01-17 | 2025-03-29 |
+| [Omo To Sexy \(Remix\)](https://open.spotify.com/track/5OagKmQtxCE2CQXZBg0Mi3) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Omo To Sexy \(Remix\)](https://open.spotify.com/album/3QA24Xmdshql1Thj9gODGp) | 2:46 | 2025-12-19 |  |
 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 | 2025-12-05 |  |
 | [On God](https://open.spotify.com/track/6386NbJ2i8CAf5iaTJgwV5) | [Kaesa](https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg) | [On God](https://open.spotify.com/album/2yDADWBzguJS46NDxVrhK7) | 2:47 | 2024-11-29 | 2025-08-01 |
 | [On My Way](https://open.spotify.com/track/4lJwa1WP9M9hoXRWgRcfZE) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [On My Way](https://open.spotify.com/album/2A8J6ynoK3NQh3WQA2tPeE) | 3:56 | 2025-02-28 | 2025-03-15 |
@@ -170,7 +171,7 @@
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-29 |  |
 | [RADAR](https://open.spotify.com/track/3SfQLCyyinfDtOWuHPdkQF) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [RADAR](https://open.spotify.com/album/5qCg9cTmTSk3emuSUQGqJb) | 2:52 | 2025-02-28 | 2025-03-29 |
 | [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 | 2024-11-29 | 2025-01-22 |
-| [Ready or Not](https://open.spotify.com/track/2yuhKACSCgHU54RUavAdlv) | [Saszy Afroshii](https://open.spotify.com/artist/3GCGKZBN2CYCrkyuXAIgHx), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Ready or Not](https://open.spotify.com/album/3ArMZR497c1Pih3W2TAmEX) | 2:07 | 2025-11-14 |  |
+| [Ready or Not](https://open.spotify.com/track/2yuhKACSCgHU54RUavAdlv) | [Saszy Afroshii](https://open.spotify.com/artist/3GCGKZBN2CYCrkyuXAIgHx), [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Ready or Not](https://open.spotify.com/album/3ArMZR497c1Pih3W2TAmEX) | 2:07 | 2025-11-14 | 2025-12-19 |
 | [Recovery](https://open.spotify.com/track/30ExC7bZ2Kfn6Vq3uuigaU) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y) | [Recovery](https://open.spotify.com/album/4x4RDCyzsUAIktzrYftG8D) | 2:36 | 2025-04-18 | 2025-05-30 |
 | [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-20 | 2025-07-18 |
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2024-11-29 | 2025-03-22 |

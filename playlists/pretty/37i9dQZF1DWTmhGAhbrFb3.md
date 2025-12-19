@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 
 > Música ambiental para noches tranquilas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,484 likes - 218 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,409 likes - 218 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmhGAhbrFb3.md) - [plain]
 | 217 | [A Nice Little Place](https://open.spotify.com/track/479BG4nUQopmecbPmwy4MN) | [White Pixels](https://open.spotify.com/artist/2kVRn94dAY96UtiX0pKSbf) | [A Nice Little Place](https://open.spotify.com/album/2rQ1up6ESbmbQHcwyYxITO) | 3:17 |
 | 218 | [Silent Care](https://open.spotify.com/track/59Z5sHfSmt3WNsVSzITqIS) | [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8), [Napiri](https://open.spotify.com/artist/7eRXsFw2derSU4CcwaVjfG) | [Silent Care](https://open.spotify.com/album/0t1fFLciAhyww32qcrNLng) | 2:27 |
 
-Snapshot ID: `AAAAAIosQDQ9Po1lov0dAMHehp3ApZoX`
+Snapshot ID: `AAAAAI4RrxGB3cnNUIIKqSjjy2Orjelj`

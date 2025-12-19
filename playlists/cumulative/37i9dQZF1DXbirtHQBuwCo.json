@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nKRYSTAL)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBabylon, Drake)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -5814,16 +5814,16 @@
           "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
         },
         {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        },
+        {
           "name": "EJAE",
           "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
         },
         {
           "name": "Andrew Choi",
           "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
       "date_added": "2025-07-04",
@@ -5988,6 +5988,28 @@
       "duration_ms": 220693,
       "name": "Ghosting (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
+    },
+    {
+      "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/2AiGuLywlNPHz4O5iPvYY5"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241739,
+      "name": "Gift (feat. Drake)",
+      "url": "https://open.spotify.com/track/4Kcb43AOZE71Wnk9ueVulW"
     },
     {
       "album": {
@@ -11662,7 +11684,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 195000,
       "name": "ON THE TABLE (feat. Sik-K)",
       "url": "https://open.spotify.com/track/2ONgnWMIA0KRkyLX6sxkDj"

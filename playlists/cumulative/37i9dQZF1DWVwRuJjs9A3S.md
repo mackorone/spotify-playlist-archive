@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie, med Mumford & Sons
+> Det senaste och bästa från världen av indie, med Albin Lee Meldau & Arvid Nero.
 
-1,054 songs - 2 day 13 hr 3 min
+1,059 songs - 2 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 | 2025-09-18 |  |
 | [Day Old Thoughts](https://open.spotify.com/track/3Cpx9womIEOfkMygNJJWYR) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Day Old Thoughts](https://open.spotify.com/album/6Ox6ZXPxzkDom4m4jaNNEd) | 3:40 | 2025-01-09 | 2025-02-28 |
 | [Day Old Thoughts](https://open.spotify.com/track/583v2K47Y5S0CCxgPsg123) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Day Old Thoughts](https://open.spotify.com/album/0aKvdgaVLqfepvEv7evJ7S) | 3:43 | 2025-04-17 | 2025-07-25 |
+| [Daydreams](https://open.spotify.com/track/4P1v7B9pgk2LJdBNlw2r8F) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Daydreams](https://open.spotify.com/album/1EKTr8EkYBwQUvCKknJGGn) | 2:10 | 2025-12-18 |  |
 | [Days Like These](https://open.spotify.com/track/6sjEyfadmCik7jzNs7gNIT) | [Then Argus](https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB) | [Days Like These](https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD) | 2:20 | 2024-06-27 | 2024-08-16 |
 | [De Lugnt](https://open.spotify.com/track/3907927k8xK0l0hZqU6A2I) | [sagafelicia](https://open.spotify.com/artist/4nI41LiBjkCiL6WO5fFcE5) | [De Lugnt](https://open.spotify.com/album/1dp7f1aewFrSlc1T8cbtLz) | 2:36 | 2025-08-07 |  |
 | [deadweight](https://open.spotify.com/track/62REjGo4zteSwjoIb43D2e) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [deadweight](https://open.spotify.com/album/0A10OGdu6vkcW6eybVwZhO) | 1:25 | 2024-10-03 | 2024-12-06 |
@@ -611,6 +612,7 @@
 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 | 2024-11-15 |
 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 | 2025-11-20 |  |
 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 | 2025-04-03 | 2025-06-20 |
+| [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2025-12-18 |  |
 | [Moneydog](https://open.spotify.com/track/3NGNQfW7OPWwoB9JAF2SpE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Moneydog](https://open.spotify.com/album/25gZana38pfeiXG7T6lOmK) | 4:34 | 2024-12-19 | 2025-02-28 |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 | 2025-10-17 |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-10-09 |  |
@@ -650,6 +652,7 @@
 | [Nosebleeds](https://open.spotify.com/track/1y8dE03i6y4c5wCODt4pxr) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Nosebleeds / Open Season](https://open.spotify.com/album/0RTlR2Q599mgWnBiR8jq2z) | 3:09 | 2025-03-20 | 2025-06-20 |
 | [not far from home](https://open.spotify.com/track/2xvQEblvw1zud9H6egIIu6) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/1SX0HiBdSHTojzEvCy2T7R) | 2:45 | 2024-11-21 | 2025-01-24 |
 | [Not Now Kids](https://open.spotify.com/track/5QJbZk6ieUNlOiKXv4nHx5) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:04 | 2024-09-26 | 2024-11-15 |
+| [Not the Same](https://open.spotify.com/track/5F46tSpX8QXCSX22UUcveS) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Spirals](https://open.spotify.com/album/2h9f3gJAwjTwj33MF8zdlg) | 1:59 | 2025-12-18 |  |
 | [not your cherry](https://open.spotify.com/track/6b1NQHfoth2oU8QF8CGjrk) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [not your cherry](https://open.spotify.com/album/6O3K7cjvA2YwLMyA1awAMf) | 3:21 | 2024-06-27 | 2024-08-16 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-27 | 2025-06-20 |
 | [November](https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Om du behöver mig](https://open.spotify.com/album/0Df1JBTZ6Qg2V2JN26W9CZ) | 3:48 | 2025-11-06 |  |
@@ -912,6 +915,7 @@
 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-06-19 |  |
 | [The Last Sad Song](https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Last Sad Song](https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6) | 2:58 | 2024-09-19 | 2024-11-22 |
 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 | 2025-06-05 | 2025-10-10 |
+| [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 | 2025-12-18 |  |
 | [The People](https://open.spotify.com/track/70O9SdAgSLqakXgopvDD40) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [The People](https://open.spotify.com/album/0m5yZ30H8mnkxHaQdnVhI9) | 4:32 | 2024-06-27 | 2024-08-16 |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-08-22 | 2024-09-27 |
 | [The Prettiest Face](https://open.spotify.com/track/6E0G7ump7uk1QlK06w7N8S) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [The Prettiest Face](https://open.spotify.com/album/3AmFut4iasNG9keXqi4WR4) | 3:31 | 2025-03-07 | 2025-05-16 |
@@ -973,6 +977,7 @@
 | [Valborg](https://open.spotify.com/track/2TvD1DYT6bxu3AqxR48aVy) | [november22](https://open.spotify.com/artist/6awYvXwNOuP95CVVkC3INd), [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [Valborg](https://open.spotify.com/album/4ml4PYVGGxY7YNQ72x2JdS) | 2:19 | 2024-10-10 | 2024-11-22 |
 | [Vast](https://open.spotify.com/track/058fmS1zZ70ZxLpJFxL5Hn) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Vast](https://open.spotify.com/album/7fuNzDO6LiZqrkkyNGSNHs) | 3:23 | 2025-06-26 |  |
 | [Vem?](https://open.spotify.com/track/5W90tHshx7hSbmHNIgsHYi) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vem?](https://open.spotify.com/album/1LMGKjmmL4rPAlGyy3tiy8) | 3:45 | 2024-06-27 | 2024-08-09 |
+| [Venom's In \- demo](https://open.spotify.com/track/7oyMAViYxBswvEXboOcT6W) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Venom's In](https://open.spotify.com/album/0Amj5rXpkhxhZMthiiMp0W) | 4:55 | 2025-12-18 |  |
 | [Vicious Delicious](https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/50NGzaveexxkXBFt2uUSyV) | 3:18 | 2025-07-11 |  |
 | [Video Games \- Spotify Singles](https://open.spotify.com/track/1C0KYMgW2BPDlKWW79cC9M) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Video Games \(Spotify Singles\)](https://open.spotify.com/album/2JFyOtT1eoCeqzda9CU2iL) | 3:09 | 2024-09-18 | 2024-11-15 |
 | [View Of You](https://open.spotify.com/track/0ZzaF4eCeuOieLBJb5GrrW) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1), [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [View Of You](https://open.spotify.com/album/4VggkGM4C1W4noWojPlK96) | 3:09 | 2024-06-27 | 2024-08-02 |

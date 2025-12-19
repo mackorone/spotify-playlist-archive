@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 9409,
+  "num_followers": 9412,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACutRHHEOPPPq0wWjhzI/KU",
+  "snapshot_id": "aUHygAAAAADG4IsQYV8ZD9C/2pQj5OGU",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
+        "name": "Barbed Wire Body",
+        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 269946,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
+      "duration_ms": 208023,
+      "name": "Barbed Wire Body",
+      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbed Wire Body",
-        "url": "https://open.spotify.com/album/6Re5QwReJ9IUWdd1H8PCtm"
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 208023,
-      "name": "Barbed Wire Body",
-      "url": "https://open.spotify.com/track/1uOXmY4sYHLpaad4ejJLIZ"
+      "duration_ms": 269946,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,046 likes - 112 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,183 likes - 112 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 111 | [Peace of Mind](https://open.spotify.com/track/3eEgJ541GSqgOOymD3W8HU) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Peace of Mind](https://open.spotify.com/album/6jEc0H3Mk3PBxggMLd4ADF) | 3:02 |
 | 112 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |
 
-Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`
+Snapshot ID: `AAAAAAIxGKsCH/8YyCQzzZG95ahuCO8j`

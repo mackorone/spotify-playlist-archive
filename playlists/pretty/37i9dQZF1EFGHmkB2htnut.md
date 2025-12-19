@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 86 | [321](https://open.spotify.com/track/6uXbGI1bxyK8LSdztpcbFV) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [321](https://open.spotify.com/album/2ORKOz6jqkqbE9kRpYRsA8) | 2:53 |
 | 87 | [Space](https://open.spotify.com/track/4on6Xseo0OdXhSsgIW7q6W) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/4iHXcNSnljATcFMO1UiEDy) | 3:08 |
 | 88 | [Merry Bitchmas](https://open.spotify.com/track/34rNbRykHwMbKHxI87O03w) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/53AHqaUwDxyBusu6SZSIXe) | 3:24 |
-| 89 | [Pink Cadillac](https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu) | 3:28 |
-| 90 | [good, not great](https://open.spotify.com/track/6FRP4bqIl1mVZz53WM36QP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/5Hnz7UVM87JZyhahIEmdOQ) | 2:34 |
+| 89 | [good, not great](https://open.spotify.com/track/6FRP4bqIl1mVZz53WM36QP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/5Hnz7UVM87JZyhahIEmdOQ) | 2:34 |
+| 90 | [Pink Cadillac](https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu) | 3:28 |
 | 91 | [Cry In California](https://open.spotify.com/track/193noKkuF36J9oFYqTg0bM) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Getting By](https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO) | 3:19 |
 | 92 | [For the Best](https://open.spotify.com/track/3aeHpO3TkNbBOAhLObf0rr) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Born to Rule](https://open.spotify.com/album/1f9yeJSa7rfvzZaiDOjbiA) | 3:28 |
 | 93 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 115 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `AcEf3AAAAABwdPojA7nUn4RS4Njp4JQE`
+Snapshot ID: `AcElXgAAAACz5u6bVZeSZk6kdGFFTXNo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,223 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,202 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 6 | [F\*DA\-SE...](https://open.spotify.com/track/3GV6oddjaaIKgmnVi8GSrK) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [F\*DA\-SE...](https://open.spotify.com/album/5oQEub0o2RBhURbM9tBzqo) | 3:05 |
 | 7 | [eu amo lean](https://open.spotify.com/track/0gSBe8xRANZT17fR5nU8RM) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [eu amo lean](https://open.spotify.com/album/3QuljhudZb4rBY5oXZbg1R) | 3:32 |
 | 8 | [Lifestyle](https://open.spotify.com/track/1pMh24F4LR8xAmwpuqUFgF) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt) | [Lifestyle](https://open.spotify.com/album/0Uu2kyxXys9oxyHHNvE19u) | 2:59 |
-| 9 | [Único Alemão Que Eu Gosto](https://open.spotify.com/track/6bwY4Bms3owJsDjkBk4VKq) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2) | [Único Alemão Que Eu Gosto](https://open.spotify.com/album/2SPRONTkcJ9hs69FuRvqjB) | 2:54 |
+| 9 | [Único Alemão Que Eu Gosto](https://open.spotify.com/track/6bwY4Bms3owJsDjkBk4VKq) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Lucchini](https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR) | [Único Alemão Que Eu Gosto](https://open.spotify.com/album/2SPRONTkcJ9hs69FuRvqjB) | 2:54 |
 | 10 | [Fresh Frozen](https://open.spotify.com/track/7lqdneiiVMBjfjtOLffDx8) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fresh Frozen](https://open.spotify.com/album/29eS6ntfEmstqdTC0kzU3a) | 1:49 |
 | 11 | [Colheita](https://open.spotify.com/track/1FLCxgmaHyHssgFooefoss) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Colheita](https://open.spotify.com/album/0hfec1gX94fjHRCrhDRQ35) | 4:21 |
 | 12 | [AUTOBAHN](https://open.spotify.com/track/38NukRP5zIlRv9XlKtwuAJ) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC) | [XTRANHO](https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB) | 3:05 |

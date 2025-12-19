@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Suenan Las Alarmas",
+        "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "Autodestructivo",
+      "url": "https://open.spotify.com/track/5kcV3Xy1nIT8Ufi9Nw6hvo"
+    },
+    {
+      "album": {
         "name": "Reevoluci\u00f3n",
         "url": "https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT"
       },
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 279441,
       "name": "Siguiendo la Luna",
       "url": "https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed"

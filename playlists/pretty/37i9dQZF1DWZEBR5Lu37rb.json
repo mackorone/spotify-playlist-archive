@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 115532,
+  "num_followers": 115640,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 152544,
       "name": "Panic",
       "url": "https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "Chikwere",
-      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Wenhliziyo Yami",
         "url": "https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 261459,
       "name": "Wenhliziyo Yami",
       "url": "https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -979,18 +979,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Mr Serious",
-        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
       },
       "artists": [
         {
-          "name": "Musa",
-          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
         }
       ],
-      "duration_ms": 293613,
-      "name": "Mthande",
-      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+      "duration_ms": 356706,
+      "name": "Kum Nakum",
+      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+        "name": "Mr Serious",
+        "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
       "artists": [
         {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96"
         }
       ],
-      "duration_ms": 356706,
-      "name": "Kum Nakum",
-      "url": "https://open.spotify.com/track/6GU2QHzXUeZM2UgpGRafT8"
+      "duration_ms": 293613,
+      "name": "Mthande",
+      "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Wena",
-        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
-      },
-      "artists": [
-        {
-          "name": "Internet Athi",
-          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
-        }
-      ],
-      "duration_ms": 270652,
-      "name": "Wena",
-      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Break Through",
         "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 246884,
       "name": "Mansa",
       "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Wena",
+        "url": "https://open.spotify.com/album/0EcfvhqnPSeJnKyeoVSypt"
+      },
+      "artists": [
+        {
+          "name": "Internet Athi",
+          "url": "https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa"
+        }
+      ],
+      "duration_ms": 270652,
+      "name": "Wena",
+      "url": "https://open.spotify.com/track/69qJqxCXyZhaVjgqZEzrdq"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
+      },
+      "artists": [
+        {
+          "name": "Gilad",
+          "url": "https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ"
+        },
+        {
+          "name": "Wendy Kimani",
+          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "Unajua (feat. Wendy Kimani)",
+      "url": "https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Phakade Lami",
         "url": "https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 261475,
       "name": "Phakade Lami",
       "url": "https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Asante",
-        "url": "https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF"
-      },
-      "artists": [
-        {
-          "name": "Gilad",
-          "url": "https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ"
-        },
-        {
-          "name": "Wendy Kimani",
-          "url": "https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Unajua (feat. Wendy Kimani)",
-      "url": "https://open.spotify.com/track/243H8e9aTy851fjYiXc4k4"
     },
     {
       "added_at": "2025-07-11 08:09:25",

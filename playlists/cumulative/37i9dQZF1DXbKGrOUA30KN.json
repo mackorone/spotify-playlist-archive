@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "1000 Mal",
+        "url": "https://open.spotify.com/album/1tZX5gd6HW2ueFVr7ACFPN"
+      },
+      "artists": [
+        {
+          "name": "Leona Shijaku",
+          "url": "https://open.spotify.com/artist/2SPGwFrMaYqLLe3sMorkAj"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170399,
+      "name": "1000 Mal",
+      "url": "https://open.spotify.com/track/6L25piLdJ2vrxugmPis0V7"
+    },
+    {
+      "album": {
         "name": "1001",
         "url": "https://open.spotify.com/album/6Oo7sviVsbSlLFlilImCKN"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 208208,
       "name": "86 Tasten",
       "url": "https://open.spotify.com/track/1TOtt4yIRhIOfrP304uGXG"
@@ -222,7 +240,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 162989,
       "name": "Alles Nochmal",
       "url": "https://open.spotify.com/track/6DG5Flwe2Q0T48x64aodRm"
@@ -602,7 +620,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 170782,
       "name": "Danke f\u00fcr die Zeit",
       "url": "https://open.spotify.com/track/7C8b8QoAe3xuv2fi0PBzW7"
@@ -771,6 +789,28 @@
     },
     {
       "album": {
+        "name": "deine Stadt",
+        "url": "https://open.spotify.com/album/719helCLe1AcQKs05Niwu0"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        },
+        {
+          "name": "Cat Ballou",
+          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149316,
+      "name": "deine Stadt",
+      "url": "https://open.spotify.com/track/7F2NXcvdnzoOfTqdEwz2OC"
+    },
+    {
+      "album": {
         "name": "denk dr\u00fcber nach",
         "url": "https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW"
       },
@@ -804,6 +844,24 @@
       "duration_ms": 140209,
       "name": "die zeit war nur geliehen...",
       "url": "https://open.spotify.com/track/0FLWBu4GiH01WrAfCILpaL"
+    },
+    {
+      "album": {
+        "name": "Dienstag",
+        "url": "https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161329,
+      "name": "Dienstag",
+      "url": "https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ"
     },
     {
       "album": {
@@ -1270,7 +1328,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 186064,
       "name": "Hamsterrad Tristesse",
       "url": "https://open.spotify.com/track/36NZxmvPCbT7RAyyKiC4TA"
@@ -1476,7 +1534,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 169812,
       "name": "ich h\u00f6r dir immer zu",
       "url": "https://open.spotify.com/track/7atmNWMSMx9IGAxIjpfmTD"
@@ -1972,7 +2030,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 141453,
       "name": "leicht",
       "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
@@ -2254,7 +2312,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 158201,
       "name": "nah am meer gebaut",
       "url": "https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es"
@@ -2712,6 +2770,24 @@
       "duration_ms": 157693,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/5s9NBtJ9iBoXdxNpt8b95w"
+    },
+    {
+      "album": {
+        "name": "Spielchen",
+        "url": "https://open.spotify.com/album/4otgoFuUQLG7t2WQNdeGJz"
+      },
+      "artists": [
+        {
+          "name": "ma\u00efa",
+          "url": "https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Spielchen",
+      "url": "https://open.spotify.com/track/7vYd0jI4jdiYYfjrkjtLfh"
     },
     {
       "album": {
@@ -3181,6 +3257,28 @@
     },
     {
       "album": {
+        "name": "weit weg",
+        "url": "https://open.spotify.com/album/07uU4DLBrEiq17HW8GVUuH"
+      },
+      "artists": [
+        {
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
+        },
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170014,
+      "name": "weit weg",
+      "url": "https://open.spotify.com/track/7GAsH2QCm8EGuLUHNM8ImW"
+    },
+    {
+      "album": {
         "name": "Worte wie Messer (Bonus Edition)",
         "url": "https://open.spotify.com/album/49Lx7pCvOxML4tTaacJ1Gq"
       },
@@ -3228,7 +3326,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 161600,
       "name": "WELT RETTEN",
       "url": "https://open.spotify.com/track/209DNyPbNlLtXeTiunoL1f"
@@ -3308,7 +3406,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 195500,
       "name": "Wer wir sind",
       "url": "https://open.spotify.com/track/6qcEMiN7OvfOiw7dzwjuGZ"
@@ -3326,7 +3424,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 213527,
       "name": "Wir tanzen den Regen weg",
       "url": "https://open.spotify.com/track/7tnm7BOAvYriNjqfZ199bm"

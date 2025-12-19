@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > melhor ser um guerreiro num jardim do que um jardineiro numa guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,382 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,258 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [ABAIXO DO RADAR](https://open.spotify.com/track/1FBXdEPpYnaoNAljJPTeFQ) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Smile](https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD) | [ABAIXO DO RADAR](https://open.spotify.com/album/6ap64VE60iIhMk2TAA1ikK) | 3:03 |
 | 50 | [Cacos De Vidro \(sample: Esperar pra Ver\)](https://open.spotify.com/track/0arxXBXzv96Q449DK1SmiX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Kolo](https://open.spotify.com/artist/1rsA71w7RvNFRojjnFzHcG), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Diamantes, Lágrimas e Rostos para Esquecer](https://open.spotify.com/album/5FVM8teszzq7kZyIjkI4Vu) | 2:29 |
 
-Snapshot ID: `AAAAAK+lJPrgce1e0rP2OFXBTo8HWCIT`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Saucy Dog \*👉 <a href="https://spice.eplus.jp/articles/342790">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,335 likes - 72 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,340 likes - 72 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

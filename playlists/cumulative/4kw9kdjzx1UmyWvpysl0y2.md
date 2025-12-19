@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,141 songs - 2 day 15 hr 52 min
+1,142 songs - 2 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 | 2023-07-09 |
 | [Back 2 The Rave](https://open.spotify.com/track/1SXRoogCywl9bDdRQL2BHd) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [Back 2 The Rave](https://open.spotify.com/album/3Uf3ZTYmR2zZaf4pYCxnwi) | 3:59 | 2025-03-14 | 2025-06-13 |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
+| [Back To The Stars](https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA) | [Justin OH](https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Back To The Stars](https://open.spotify.com/album/6jFaTrPsJvsWouDobDWUeF) | 3:42 | 2025-12-18 |  |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
 | [Backseat Lovers](https://open.spotify.com/track/1ZfkZlBTFl804LoRIvAvdq) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Melodramatic](https://open.spotify.com/album/5ioDu9pPJd1Jty8OuH9if7) | 2:52 | 2023-06-28 | 2023-09-26 |
 | [Bad For You](https://open.spotify.com/track/0vWynZjfMnx8wtQx4CpwgS) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Hammerhead](https://open.spotify.com/artist/6sckmaSXwZnsOR3kB4Hk75), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Bad For You](https://open.spotify.com/album/6hNHNhff93z7BmdBHfnBFS) | 4:03 | 2022-07-11 | 2022-09-23 |

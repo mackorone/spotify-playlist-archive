@@ -2,9 +2,9 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Vince
+> Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER
 
-1,530 songs - 3 day 0 hr 13 min
+1,533 songs - 3 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Ach Du Liebe Zeit](https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Ach Du Liebe Zeit](https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP) | 2:24 | 2024-09-05 | 2024-11-08 |
 | [Achilles](https://open.spotify.com/track/1Yj9IP75nNp6JntNYOxrzH) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Achilles](https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8) | 2:39 | 2023-03-30 | 2025-02-15 |
 | [Achterbahn](https://open.spotify.com/track/1lLUon8AY1A8zd95Qxb47L) | [Definitely Not Luke](https://open.spotify.com/artist/4Oxu8bs0EB64KkSBGOLlkt) | [Achterbahn](https://open.spotify.com/album/4buWxLZ020iTdmt7PDGLL9) | 3:10 | 2023-03-09 | 2023-03-31 |
-| [AIBAMFMD <3](https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [AIBAMFMD <3](https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA) | 2:38 | 2025-11-13 |  |
+| [AIBAMFMD <3](https://open.spotify.com/track/7tdsfCxobjiM7yzACtDaCd) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [AIBAMFMD <3](https://open.spotify.com/album/26r6vXsxamz3QsFpFS7vhA) | 2:38 | 2025-11-13 | 2025-12-19 |
 | [AIRPOD CASE](https://open.spotify.com/track/3KdROIrtb9AxJIv2sYYBNm) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [AIRPOD CASE](https://open.spotify.com/album/6qaHRoTR4ExNpgyUcVEZsX) | 2:16 | 2025-06-19 | 2025-07-10 |
 | [Akademie der bildenden Künste](https://open.spotify.com/track/2Fdlm11Yt6g7Hk9CRKZGqq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/4czKDXmW22XoBTHqHQ6xha) | 2:46 | 2023-05-11 | 2023-06-07 |
 | [Akademie der bildenden Künste](https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Wiener Schickeria](https://open.spotify.com/album/2PTfiTtj8qymWaeHFEFZWQ) | 2:46 | 2023-06-01 | 2023-06-30 |
@@ -272,6 +272,7 @@
 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 | 2025-11-06 |  |
 | [Danke](https://open.spotify.com/track/1WJY3gUF5l2c7L4R6IuLqA) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Danke](https://open.spotify.com/album/1L9KW10EETSgQXM5WhmM4t) | 2:34 | 2025-12-11 |  |
 | [Danke dass du mich verlassen hast](https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Danke dass du mich verlassen hast](https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD) | 3:17 | 2023-03-09 | 2023-09-15 |
+| [DARF SIE DAS?](https://open.spotify.com/track/5nGrPZhDZi6iTqh8r0zmwx) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DARF SIE DAS?](https://open.spotify.com/album/30v3UHd96GVyvaEV6o1a6C) | 2:14 | 2025-12-18 |  |
 | [darth vader](https://open.spotify.com/track/0cCNOiul92riHmV1DHPdr4) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [rückwärts auf dem heimweg](https://open.spotify.com/album/4PtW0vPRbmiOQ6LgNzBkg7) | 2:48 | 2024-09-05 | 2024-09-20 |
 | [Das Beste](https://open.spotify.com/track/5dholWRj5q0lQUxHS5hRWh) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Das Beste](https://open.spotify.com/album/5dVA4L80HLjdBTKkjVo2sm) | 2:32 | 2024-09-19 | 2025-02-15 |
 | [das beste](https://open.spotify.com/track/7GfG8fMOxpeWuH3SyPFhUH) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [das beste](https://open.spotify.com/album/2U7GuoDSLocsM3h7H4p9zB) | 2:55 | 2025-11-20 |  |
@@ -302,7 +303,7 @@
 | [Der Mensch, der du warst](https://open.spotify.com/track/5DcEcDPzVJ1aHJnxhFMNNl) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Mensch, der du warst](https://open.spotify.com/album/4DVbIqPNbogpP4DBl7953c) | 3:03 | 2025-05-15 | 2025-06-20 |
 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 | 2024-09-19 | 2024-11-22 |
 | [Der neue Stil meiner Generation](https://open.spotify.com/track/6PUomERMiVx0qOz0D5UlDM) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Der neue Stil meiner Generation](https://open.spotify.com/album/5fetQgc4TVEdRGWmQfGjRi) | 2:24 | 2023-02-02 | 2023-05-05 |
-| [Der Teufel tanzt im Volksgarten](https://open.spotify.com/track/1mVeGEE0hlBf78OGpZ0GoX) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Der Teufel tanzt im Volksgarten](https://open.spotify.com/album/7t80uGRnH8U9ynRqbdE5GM) | 2:46 | 2025-11-20 |  |
+| [Der Teufel tanzt im Volksgarten](https://open.spotify.com/track/1mVeGEE0hlBf78OGpZ0GoX) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Der Teufel tanzt im Volksgarten](https://open.spotify.com/album/7t80uGRnH8U9ynRqbdE5GM) | 2:46 | 2025-11-20 | 2025-12-19 |
 | [Der, der dich liebt](https://open.spotify.com/track/3F8vtandirkggs3aOXOGgX) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Der, der dich liebt](https://open.spotify.com/album/0x0NEolhTT3xmyyGi4hwbg) | 3:22 | 2024-09-26 | 2024-11-30 |
 | [diagnose 41.2](https://open.spotify.com/track/0e5MlmjzbjQbGuymTBeR7d) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [diagnose 41.2](https://open.spotify.com/album/1ScUhnEizBddF3utx61fdg) | 2:42 | 2024-07-11 | 2024-08-16 |
 | [Die Anderen](https://open.spotify.com/track/1VDdozteKgbeGkqTOt8lIU) | [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [Die Anderen](https://open.spotify.com/album/2N6VP3hnfoF23F6MASs3tk) | 3:09 | 2024-09-26 | 2024-10-18 |
@@ -321,6 +322,7 @@
 | [die welt geht vor die hunde](https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [die welt geht vor die hunde](https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY) | 2:51 | 2025-12-04 |  |
 | [Die Welt und ich](https://open.spotify.com/track/3uTO2FfzeAMYdJ5NPea8D0) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Die Welt und ich](https://open.spotify.com/album/0iYI6T7q8iNe0prTO319bV) | 3:48 | 2025-12-11 |  |
 | [Die Zeit steht still](https://open.spotify.com/track/1t4oaKyj54yJp46ARxZ7fv) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Die Zeit steht still](https://open.spotify.com/album/4QLnNV90tNSeR1aY2cz3yW) | 2:21 | 2023-04-06 | 2023-05-19 |
+| [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 | 2025-12-18 |  |
 | [Dies das](https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dies das](https://open.spotify.com/album/44LE68OtvDk5sBlbsrqKPi) | 2:47 | 2024-08-08 | 2024-09-06 |
 | [Diese Eine](https://open.spotify.com/track/14rzIVf87bQAdyHDYeu1Rp) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Diese Eine](https://open.spotify.com/album/2r7DFzo85qigA8l9GdR4FW) | 2:18 | 2023-09-28 | 2024-03-29 |
 | [Diese Nacht](https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:34 | 2023-02-02 | 2023-02-17 |
@@ -440,7 +442,7 @@
 | [fallenfürimmer](https://open.spotify.com/track/2HaWqgIPYq3TJZOqCpT4dv) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [fallenfürimmer](https://open.spotify.com/album/4vYKB3ayz4XtODI5OftzmG) | 2:51 | 2024-08-15 | 2024-09-20 |
 | [Familie](https://open.spotify.com/track/7cJNGxAHUpsLW0uZeJ6xa8) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Familie](https://open.spotify.com/album/13fqjcDPiG9xMQgnrqgHx5) | 3:05 | 2024-12-19 | 2025-01-24 |
 | [Fang](https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Fang](https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d) | 2:30 | 2024-04-18 | 2024-06-01 |
-| [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 | 2025-12-04 |  |
+| [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 | 2025-12-04 | 2025-12-19 |
 | [Farben](https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Farben](https://open.spotify.com/album/720iPf3MprVFWIerPdiuH9) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 | 2024-12-05 | 2025-01-24 |
 | [Farbverlauf](https://open.spotify.com/track/0mSTVa3P2tv6zGRK2J63wI) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Farbverlauf](https://open.spotify.com/album/6BbW7UG3EPMKyWUTnob6NJ) | 2:26 | 2023-09-14 | 2023-10-27 |
@@ -1426,6 +1428,7 @@
 | [Wein in Wien](https://open.spotify.com/track/45PyDjUsXPj5vGv2qX0N2W) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [Wein in Wien](https://open.spotify.com/album/2XTAG0fxViuYFeQO8gXgpp) | 2:28 | 2023-02-13 | 2023-02-15 |
 | [Weinen](https://open.spotify.com/track/1oNkud43ajuoyStDwOpb3z) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Weinen](https://open.spotify.com/album/6mT53AeiZtP6635Fa17jkJ) | 2:25 | 2023-08-31 | 2023-09-15 |
 | [Weit weg](https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0) | [Ludwig](https://open.spotify.com/artist/7gFR5bwKA6nfOTHSDAmMkI) | [Weit weg](https://open.spotify.com/album/0pO9Zg29MigzuwVyX7fV1a) | 2:23 | 2024-02-08 | 2024-03-15 |
+| [weit weg](https://open.spotify.com/track/7GAsH2QCm8EGuLUHNM8ImW) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK), [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [weit weg](https://open.spotify.com/album/07uU4DLBrEiq17HW8GVUuH) | 2:50 | 2025-12-18 |  |
 | [weiter](https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [weiter](https://open.spotify.com/album/7uGyrhdX7Ur8pR9ohGTwwg) | 2:44 | 2025-08-14 | 2025-09-05 |
 | [Weißt du](https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Weißt du](https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH) | 2:04 | 2024-03-28 | 2024-06-28 |
 | [Wellenlängen](https://open.spotify.com/track/6R2xBCoJhimKect9AxexdZ) | [Goldroger](https://open.spotify.com/artist/3sAbVxYjczgrSmGrxcu7bM) | [Wellenlängen](https://open.spotify.com/album/7trTZd6bZGQZjD3SQuMhSH) | 3:19 | 2023-08-03 | 2023-08-25 |

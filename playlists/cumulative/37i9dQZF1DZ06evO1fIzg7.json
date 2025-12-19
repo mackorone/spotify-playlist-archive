@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 211719,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
@@ -883,6 +883,28 @@
     },
     {
       "album": {
+        "name": "The Crown Jewels - Ten Crowns (DELUXE)",
+        "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204519,
+      "name": "The Calming",
+      "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
+    },
+    {
+      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -894,7 +916,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 234160,
       "name": "The Deer & the Wolf",
       "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
@@ -966,7 +988,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 211153,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH"

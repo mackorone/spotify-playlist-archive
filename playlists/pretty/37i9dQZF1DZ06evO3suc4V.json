@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 9922,
+  "num_followers": 9939,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAAX1p+DWUdHyO3LlZMIShZi",
+  "snapshot_id": "aUHygAAAAAANOPxNhnu4pkFWe7rmhfml",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Where I'm From (feat. Mereba)",
+      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -275,62 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Where I'm From (feat. Mereba)",
-      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Pilot",
-      "url": "https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crush EP",
         "url": "https://open.spotify.com/album/7jxrYnrAa06rekcs1cxp7i"
       },
@@ -351,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HYPNOS",
         "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 209186,
       "name": "Venom",
       "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Room 25",
+        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163616,
+      "name": "Montego Bae",
+      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 218627,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Room 25",
-        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163616,
-      "name": "Montego Bae",
-      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
     },
     {
       "added_at": null,

@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 223262,
       "name": "It Remembers",
       "url": "https://open.spotify.com/track/7prBRHezRILw1WbJJTQi2w"
@@ -2250,6 +2250,24 @@
       "duration_ms": 227093,
       "name": "Low",
       "url": "https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222656,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
     },
     {
       "album": {
@@ -2649,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/62WjM9e9gRlBD7vukuXRQq"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209250,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/06jQrdwR5Cby21cZ8hfDPa"
+    },
+    {
+      "album": {
         "name": "Prey",
         "url": "https://open.spotify.com/album/78jHGBXyNY3QUCXzg3BRZl"
       },
@@ -2714,7 +2750,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 326803,
       "name": "Protector",
       "url": "https://open.spotify.com/track/4wDUS58qIKWEgpJKlbfWqp"

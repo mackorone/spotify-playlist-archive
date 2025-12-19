@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,359 songs - 2 day 21 hr 18 min
+1,365 songs - 2 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-10-30 |  |
 | [Before The Night Is Over](https://open.spotify.com/track/4v1QgGbmgdFiraLFU6kAnP) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Before The Night Is Over](https://open.spotify.com/album/13CpTC7IobGIluREQTPkqM) | 2:44 | 2024-08-22 | 2024-10-04 |
 | [before we say goodbye](https://open.spotify.com/track/4VbA5rRWGRYnK7QLeE3aAe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [before we say goodbye](https://open.spotify.com/album/0N39VN2rAn2wPJrrC7Pudn) | 2:27 | 2025-12-11 |  |
+| [Beige & White](https://open.spotify.com/track/7uw6m9sfVkZUPDOCdgcXMl) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Beige & White](https://open.spotify.com/album/0MKhrPXQOjJRJNXFHhDwc2) | 2:32 | 2025-12-18 |  |
 | [Believe me](https://open.spotify.com/track/6CshHyQHSzQhwaadpBQhH1) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Believe me](https://open.spotify.com/album/1X0XJXpMfjUXThe9Gm5lot) | 2:59 | 2025-02-18 | 2025-04-11 |
 | [Bella Notte](https://open.spotify.com/track/7otGQbrdl9RGn9MEyfxE3M) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bella Notte](https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR) | 2:20 | 2025-05-16 | 2025-06-27 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-11-03 |  |
@@ -209,6 +210,7 @@
 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 | 2025-12-04 |  |
 | [Cigarettes](https://open.spotify.com/track/4r5ZYFojlAksTAtPszzMVD) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Charlie South](https://open.spotify.com/album/4CZKCYWNYJfVkXGsRl3qey) | 3:18 | 2025-11-20 |  |
 | [Cinnamon](https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Cinnamon](https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3) | 2:42 | 2025-08-28 | 2025-10-03 |
+| [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 | 2025-12-18 |  |
 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 | 2025-05-27 | 2025-07-11 |
 | [cliché \- Jonas Brothers remix](https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [cliché \(Jonas Brothers remix\)](https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn) | 2:56 | 2025-11-27 |  |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 | 2024-08-02 |
@@ -300,6 +302,7 @@
 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 | 2024-09-26 | 2024-10-25 |
 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 | 2024-11-14 | 2025-02-28 |
 | [du går bland molnen](https://open.spotify.com/track/5S5wPoxJoOR5QLmCcOQG0f) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [du går bland molnen](https://open.spotify.com/album/57BPInDglQuie8TUEiG09e) | 3:00 | 2024-09-26 | 2024-10-25 |
+| [Du lyg så lett](https://open.spotify.com/track/5ZUNPjGDdz47W26AtUQfXf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Du lyg så lett](https://open.spotify.com/album/7I7xV8JNutYB3lnoCge3UQ) | 3:25 | 2025-12-18 |  |
 | [Du är nog](https://open.spotify.com/track/4QZwUG1znAUQ7TH7HNyGK9) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Du är nog](https://open.spotify.com/album/0iCL5mpUCWSIdc7e4mgQ4V) | 3:46 | 2025-01-02 | 2025-02-28 |
 | [Duktig flicka](https://open.spotify.com/track/1xMUDBB8ZkfI9kQBzrE0eP) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Duktig flicka](https://open.spotify.com/album/7shSAZOh7CFRhNZs2MNLq7) | 3:04 | 2024-11-07 | 2025-01-17 |
 | [Dum](https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Dum](https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY) | 2:34 | 2024-06-27 | 2024-08-16 |
@@ -684,6 +687,7 @@
 | [Ljuger för mig själv](https://open.spotify.com/track/7uxi2Q19Lph3Vqznb5UBFS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Ljuger för mig själv](https://open.spotify.com/album/1cE5bD6aTJdUPs04CgOzCP) | 2:08 | 2024-10-17 | 2024-11-23 |
 | [Ljus \(Lights\)](https://open.spotify.com/track/1aDQ4S5dXMgYQFrhCUMRUT) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Ljus \(Lights\)](https://open.spotify.com/album/5irMpyUHIvKvADWgYUQTYe) | 3:07 | 2024-11-14 | 2025-01-17 |
 | [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-05 | 2024-10-04 |
+| [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 | 2025-12-18 |  |
 | [Lonely Heat](https://open.spotify.com/track/2tKTgFfzIdGrByiAYjNXR1) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Lonely Heat](https://open.spotify.com/album/2jAZy4xV7QXhX7zD9DeTS2) | 3:10 | 2025-01-02 | 2025-02-07 |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-27 | 2024-08-09 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-27 | 2024-08-16 |
@@ -694,8 +698,10 @@
 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 | 2024-09-19 | 2024-11-23 |
 | [Lost In Devotion](https://open.spotify.com/track/6WYqOPEvKiYihM47u2JNXh) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(10th Anniversary Edition\)](https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb) | 3:14 | 2025-10-16 | 2025-12-12 |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-02-07 | 2025-03-28 |
+| [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 | 2025-12-18 |  |
 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 | 2024-09-19 | 2024-11-01 |
 | [Lova & Skriv](https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx), [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Lova & Skriv](https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T) | 2:59 | 2025-08-21 | 2025-10-03 |
+| [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [](https://open.spotify.com/album/null) | 2:41 | 2025-12-18 |  |
 | [Love](https://open.spotify.com/track/0QJwHsJO0RXWj0D3bJ9kpm) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Love](https://open.spotify.com/album/1K9qmgDs1Wqq2YNyWEVjRY) | 2:31 | 2025-04-10 | 2025-05-23 |
 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 | 2024-06-27 | 2024-07-05 |
 | [Love Flow](https://open.spotify.com/track/2joCJp4nNp0ug8Dr7txktX) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/5wrBNU0VALWGi0MN3brYUO) | 3:39 | 2024-06-27 | 2024-07-27 |

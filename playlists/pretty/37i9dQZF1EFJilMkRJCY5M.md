@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 124 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 68 | [Happy](https://open.spotify.com/track/4juczSsaf3zwU0OZLFgp0a) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [MOOD: I'm Feeling Petty](https://open.spotify.com/album/4zx5HhEbBW4lg0sgVP24Tg) | 2:51 |
 | 69 | [Boots to the Club](https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Commitment Issues](https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w) | 2:49 |
 | 70 | [h8 u right now](https://open.spotify.com/track/102PnC9x6PwMec0i2DRiV0) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [h8 u right now](https://open.spotify.com/album/1CYXIOyMtlGPR5a1JcwcTm) | 2:57 |
-| 71 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
-| 72 | [Betting Woman](https://open.spotify.com/track/3WJJ4LAuoDa3pPQwJalsJy) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Betting Woman](https://open.spotify.com/album/5uOUedTIKu0JD0IPARPm0c) | 3:17 |
+| 71 | [Betting Woman](https://open.spotify.com/track/3WJJ4LAuoDa3pPQwJalsJy) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Betting Woman](https://open.spotify.com/album/5uOUedTIKu0JD0IPARPm0c) | 3:17 |
+| 72 | [Growing Up Song](https://open.spotify.com/track/3dgp6qxHRRCHDLQDug6UKh) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heaven is a place, 2024](https://open.spotify.com/album/2jFNYnS6VA7IdzQv8kiQt7) | 4:05 |
 | 73 | [This Side Of The Dirt](https://open.spotify.com/track/2fsYoZ2E7LNRkNqCH5FuMo) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [This Side Of The Dirt](https://open.spotify.com/album/7zkixgWE2b1OoR3L8UClPZ) | 3:21 |
 | 74 | [Nobody](https://open.spotify.com/track/5s554C9LZqIWLmC1zqUaJg) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Second Wind](https://open.spotify.com/album/6rjNkK9EEOIHUoqGeaxEhY) | 2:46 |
 | 75 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 |
@@ -120,17 +120,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 110 | [Rooted](https://open.spotify.com/track/73PQ1kdahi6WKkL8z39QQH) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:11 |
 | 111 | [Baby Blue](https://open.spotify.com/track/1cFgobzKd4ZZ378Hc6Hi8v) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/3D0eqzFLwFtlndHXsADjy3) | 2:59 |
 | 112 | [Wild Thoughts](https://open.spotify.com/track/70ctzwkMLshvTvIJNZDfCW) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [Electric West](https://open.spotify.com/album/2C2EYk2ylxnziZozbXgMLh) | 3:16 |
-| 113 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
-| 114 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 |
-| 115 | [After All](https://open.spotify.com/track/1PsuxNvU5dAt7TtN2Ky4Sy) | [Not Adam](https://open.spotify.com/artist/0impVW0rLWXEr0WMKJ5sla), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [After All](https://open.spotify.com/album/1thsBCdIOYJi7bLtkCBXtL) | 4:41 |
-| 116 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
-| 117 | [Paradise](https://open.spotify.com/track/24hzsZAUkcI4aRcNC8TCg8) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Paradise](https://open.spotify.com/album/3j8TYwvEwnx6tMxbKrq9Yn) | 3:44 |
-| 118 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 |
-| 119 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 |
-| 120 | [Write You Off](https://open.spotify.com/track/7KGGwF5Z9aKhW0TCapuLuS) | [Trinitee Stokes](https://open.spotify.com/artist/5re3mgKlh5crJ4WCL0hWD1) | [Write You Off](https://open.spotify.com/album/3IIFqpWoHad9ISmvDq5XJP) | 3:05 |
-| 121 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
-| 122 | [i don't smoke cigarettes](https://open.spotify.com/track/4iZAhPMg0PzfZ9nOMnM8Xn) | [Keller Rae](https://open.spotify.com/artist/2mdfU1PR0RobEpX9y1Uv73) | [i don't smoke cigarettes](https://open.spotify.com/album/3qcaaUHWQlLqK6XytFiFwp) | 2:41 |
-| 123 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
-| 124 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
+| 113 | [Sippin' Pretty](https://open.spotify.com/track/5g8Pl87A83zwUNERnANa9d) | [Foxx Worthee](https://open.spotify.com/artist/1WawPHcYlurQhsH4yeBFzx) | [Sippin' Pretty](https://open.spotify.com/album/5Eg90CtsejtELTiBg4sCjA) | 3:10 |
+| 114 | [Holiday Wishing](https://open.spotify.com/track/6lpbbBPLuPDlnOSzGnsqYJ) | [Bree Doster](https://open.spotify.com/artist/1jVHjJ0stNNMYT1o2ATomU) | [Holiday Wishing](https://open.spotify.com/album/0AY3Fn36rRb6xGKcqxehok) | 3:31 |
+| 115 | [If You Only Knew](https://open.spotify.com/track/1Sa8stvZa1DDMXWirp34XB) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [If You Only Knew](https://open.spotify.com/album/0QYjygDiIDvVRdicdoTrvk) | 3:32 |
+| 116 | [After All](https://open.spotify.com/track/1PsuxNvU5dAt7TtN2Ky4Sy) | [Not Adam](https://open.spotify.com/artist/0impVW0rLWXEr0WMKJ5sla), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [After All](https://open.spotify.com/album/1thsBCdIOYJi7bLtkCBXtL) | 4:41 |
+| 117 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 |
+| 118 | [Paradise](https://open.spotify.com/track/24hzsZAUkcI4aRcNC8TCg8) | [LJ MASE](https://open.spotify.com/artist/3agWAq6ZjoWlv5Igeya98N), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Paradise](https://open.spotify.com/album/3j8TYwvEwnx6tMxbKrq9Yn) | 3:44 |
+| 119 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 |
+| 120 | [Close](https://open.spotify.com/track/3lhEsT2z3kVegKaI05Osy5) | [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Close](https://open.spotify.com/album/5s4eJ8bI2QJTrsd1tVHJet) | 3:14 |
+| 121 | [Write You Off](https://open.spotify.com/track/7KGGwF5Z9aKhW0TCapuLuS) | [Trinitee Stokes](https://open.spotify.com/artist/5re3mgKlh5crJ4WCL0hWD1) | [Write You Off](https://open.spotify.com/album/3IIFqpWoHad9ISmvDq5XJP) | 3:05 |
+| 122 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 |
+| 123 | [i don't smoke cigarettes](https://open.spotify.com/track/4iZAhPMg0PzfZ9nOMnM8Xn) | [Keller Rae](https://open.spotify.com/artist/2mdfU1PR0RobEpX9y1Uv73) | [i don't smoke cigarettes](https://open.spotify.com/album/3qcaaUHWQlLqK6XytFiFwp) | 2:41 |
+| 124 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
+| 125 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcEf3AAAAAB6WqIDYGip3c7pGNTL0/lh`
+Snapshot ID: `AcElhgAAAAAmdTuv5pDmqd5P4S1TnAkI`

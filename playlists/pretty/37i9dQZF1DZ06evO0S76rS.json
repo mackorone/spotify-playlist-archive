@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 160645,
+  "num_followers": 160655,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAAMwPaNu+AzamYP6FcoGtx1",
+  "snapshot_id": "aUHygAAAAADKAVJ86ilnMQdjOaZ2O3Ts",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+        "name": "40",
+        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 360066,
-      "name": "Del Puente Pa' All\u00e1",
-      "url": "https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV"
+      "duration_ms": 253272,
+      "name": "Cosas Bonitas",
+      "url": "https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk"
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 253272,
-      "name": "Cosas Bonitas",
-      "url": "https://open.spotify.com/track/4YSbePPCYS4yEtiahaCuAb"
+      "duration_ms": 360066,
+      "name": "Del Puente Pa' All\u00e1",
+      "url": "https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 356640,
-      "name": "Solo un Cari\u00f1o",
-      "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sutil y Contundente",
         "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 335986,
       "name": "Mi Hijo y Yo",
       "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 356640,
+      "name": "Solo un Cari\u00f1o",
+      "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
     },
     {
       "added_at": null,

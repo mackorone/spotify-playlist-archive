@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Nöel Mio
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,768 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,797 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 60 | [Asante](https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Kusah](https://open.spotify.com/artist/3DZxhsblcLSOG4RNUA1kFs) | [Asante](https://open.spotify.com/album/4aMXNnKrAnvfZjDgKGlwhC) | 4:07 |
 | 61 | [Jesus](https://open.spotify.com/track/7IuiH0WfXnzIyKqgp9MwL9) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [The Road Best Travelled](https://open.spotify.com/album/7mlcnYrdZSLwKh5qgPvdXG) | 3:14 |
 | 62 | [Accolades](https://open.spotify.com/track/5EX25veDDRIaA0szBnf4YP) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Accolades](https://open.spotify.com/album/2TST6huMqbrXt3N2GaCIIm) | 2:38 |
-| 63 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:26 |
+| 63 | [Anytime Anyday](https://open.spotify.com/track/1anvi7u6XDv03ZoPQc8e4r) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Anytime Anyday](https://open.spotify.com/album/7HDwkbzwTBQUiQog0OjUGC) | 3:24 |
 | 64 | [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 |
 | 65 | [This Love](https://open.spotify.com/track/5RHUrCglxsMgs2xvo1wCh2) | [Chidinma](https://open.spotify.com/artist/3Wu4rnX6UKAMtTlUL2IAj4) | [This Love](https://open.spotify.com/album/5jF6a0WvJ8zzO9a00lbP6I) | 5:00 |
 | 66 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 102 | [Favoured](https://open.spotify.com/track/3MV5F5mXmSwV4SfDQtltEw) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Favoured](https://open.spotify.com/album/2DUMgEaK0BuGQ0zZ7KMl5g) | 2:50 |
 | 103 | [Assurance](https://open.spotify.com/track/7yldVpYhrHFyH5DYighwx5) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Aigbeh D'gong](https://open.spotify.com/artist/18WJX25TgcCtvjNJxgkBTX), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Assurance](https://open.spotify.com/album/0h3ZLbgRsaEPkzc1rA52Ag) | 2:16 |
 
-Snapshot ID: `AAAAAG5kQEXGh1g49eX8ZCPovMw7616t`
+Snapshot ID: `AAAAAOX5BEn2eaFMpbqRxN0PRzfPVVz8`

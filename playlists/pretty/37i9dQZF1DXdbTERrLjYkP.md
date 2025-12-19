@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Kerr Mercer
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,118 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,114 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 49 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 |
 | 50 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
 
-Snapshot ID: `AAAAADsEQBxGt9SvLYxC7pDf5iOcL+6u`
+Snapshot ID: `AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW`

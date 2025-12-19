@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Doja Cat.",
-  "num_followers": 43780,
+  "num_followers": 43768,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABNyuTuatFlHkoUdc6TMGV1aD+a/HhU",
+  "snapshot_id": "AABNzrc6jMG1xT041LD5jmmCVL6Xfhw9",
   "tracks": [
     {
       "added_at": "2025-12-12 16:34:00",
@@ -127,6 +127,42 @@
       "duration_ms": 188828,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz"
+    },
+    {
+      "added_at": "2025-12-18 21:01:40",
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+    },
+    {
+      "added_at": "2025-12-18 21:02:05",
+      "album": {
+        "name": "Turn The Lights Off (feat. Jon)",
+        "url": "https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6"
+      },
+      "artists": [
+        {
+          "name": "Kato",
+          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "Turn The Lights Off (feat. Jon) - Radio Edit",
+      "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
     },
     {
       "added_at": "2025-12-12 17:09:06",
@@ -1719,22 +1755,6 @@
       "duration_ms": 152066,
       "name": "love letter",
       "url": "https://open.spotify.com/track/77OFi8TocjiBJUngLhKdey"
-    },
-    {
-      "added_at": "2025-12-12 16:34:00",
-      "album": {
-        "name": "Back to Me",
-        "url": "https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Back to Me",
-      "url": "https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ"
     }
   ],
   "unique_name": "Trending Now",

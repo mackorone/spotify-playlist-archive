@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-2,156 songs - 4 day 2 hr 14 min
+2,158 songs - 4 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1164,7 +1164,7 @@
 | [VICTIM](https://open.spotify.com/track/5WkOI1hRqNiZsPsHENZXIY) | [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [GOD SYSTEM](https://open.spotify.com/album/4mOYvmMHqKHT81fcWBOFuF) | 2:08 | 2024-04-02 | 2024-04-11 |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-09-03 | 2025-10-29 |
 | [Vidrado Em Você](https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt) | [Dj Guuga](https://open.spotify.com/artist/1cNPXWhKfjI0fT5EMCnamR), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Vidrado Em Você](https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe) | 2:14 | 2025-04-02 | 2025-04-04 |
-| [Vielleicht Vielleicht \- Techno Mix](https://open.spotify.com/track/5fHWntiQbsQWT94K07yNGw) | [Orzechuu](https://open.spotify.com/artist/3Off9JkVezXwdPGWInOopj) | [Vielleicht Vielleicht \(Techno Mix\)](https://open.spotify.com/album/2x8vglfJ2UyceKzjzOSq9i) | 1:40 | 2025-12-12 |  |
+| [Vielleicht Vielleicht \- Techno Mix](https://open.spotify.com/track/5fHWntiQbsQWT94K07yNGw) | [Orzechuu](https://open.spotify.com/artist/3Off9JkVezXwdPGWInOopj) | [Vielleicht Vielleicht \(Techno Mix\)](https://open.spotify.com/album/2x8vglfJ2UyceKzjzOSq9i) | 1:40 | 2025-12-12 | 2025-12-19 |
 | [Vielleicht, Vielleicht \(Uptempo\)](https://open.spotify.com/track/3vaHM1524MJatYp2ssjbCU) | [KTD.CORE](https://open.spotify.com/artist/0YcLKzePpRIc6QZw74WvXT) | [Vielleicht, Vielleicht \(Uptempo\)](https://open.spotify.com/album/4tj57dMjZUPJjtee3NFK1v) | 2:21 | 2025-03-04 | 2025-03-14 |
 | [Violetize](https://open.spotify.com/track/0dyX1Ty0Zyc1ipLcDUOLlK) | [Pill Couple](https://open.spotify.com/artist/64JjU04hCBZZIVXFjAdtTT) | [Violetize](https://open.spotify.com/album/3Y6to0T9uH3bWIQXFYmlcM) | 2:28 | 2024-09-27 | 2024-10-05 |
 | [VISION](https://open.spotify.com/track/4gkFITdBI8imDCSrukDT6p) | [UdieNnx](https://open.spotify.com/artist/6ESoeEazu57neU7UM6KRuC), [HXVSAGE](https://open.spotify.com/artist/6iokCqd4ghi6IqTEJKT12q) | [UDISTRUCT](https://open.spotify.com/album/50i96D7O8CCFwS0VAiuC5o) | 1:49 | 2025-04-09 | 2025-05-14 |
@@ -1578,6 +1578,7 @@
 | [ЛАМА МАМА](https://open.spotify.com/track/7KHC8RbksoIbE6ww6oYbH5) | [A4](https://open.spotify.com/artist/1YY6ZMQxex7PLDz04TN24q) | [ЛАМА МАМА](https://open.spotify.com/album/5aLqahllGBakC5T7rh6L73) | 1:47 | 2024-04-02 | 2024-04-10 |
 | [лег в рехаб \- speed up](https://open.spotify.com/track/61cidC9QKwVxcoryaJMO14) | [диссоциативное расстройство](https://open.spotify.com/artist/59J0l6tiBZSrWY2Jjno97p) | [лег в рехаб \(speed up\)](https://open.spotify.com/album/3t8F0x4hSOOgjRy1Mi8Ip2) | 1:37 | 2025-08-11 | 2025-08-15 |
 | [ЛЕЖАТЬ!](https://open.spotify.com/track/1FVAdh3JHNRPOp0gNltSOM) | [ЖЭКА РАЙЗ](https://open.spotify.com/artist/6PtpVO2SHCLqX2bN5PRXBw), [DONK](https://open.spotify.com/artist/7tkpe7Yr9NUnVFwypZKSvq), [PEREPOLOH](https://open.spotify.com/artist/0WGJTjlRMYlGhmPYo0vFDa) | [ЛЕЖАТЬ!](https://open.spotify.com/album/3hrnStfkDwDIwqaaqQV9VC) | 1:01 | 2024-03-24 | 2024-04-07 |
+| [Ленин](https://open.spotify.com/track/01GnSojgTXpdNMtI4lqdrs) | [Krovostok](https://open.spotify.com/artist/0ksNNF08VvPbHDXN06mrYa) | [Пиры и раны](https://open.spotify.com/album/0Q3fo7sX6IpXc2IVQoV6PG) | 4:09 | 2025-12-18 |  |
 | [летаем](https://open.spotify.com/track/4IsoZk39JVbSI49szEh44A) | [Rainmerge](https://open.spotify.com/artist/3FwkmWLf5juz44w8xsoSXG), [Nison B](https://open.spotify.com/artist/1gYbaQBQDHwa7Tv8Q6e0Z0) | [летаем](https://open.spotify.com/album/2tdTgheWEfPaJCR6DPeLNp) | 2:30 | 2025-02-08 | 2025-04-05 |
 | [Лететь](https://open.spotify.com/track/6yrRd97Lo9ODRuzUlfVfuK) | [Anton Belyayev](https://open.spotify.com/artist/4kYiac19e5DZzjwIeUA2Zg) | [Лёд \(Официальный саундтрек\)](https://open.spotify.com/album/0p8sdltuRNf41HuqygXaIE) | 3:04 | 2024-05-26 | 2024-06-02 |
 | [Ливаю](https://open.spotify.com/track/2rznVGEgTt0h9fhX6Fjj8T) | [n01r](https://open.spotify.com/artist/05un1fcc38wd22xgIW6vnV) | [Ливаю](https://open.spotify.com/album/5q5FIljD8Ih7DJXMrHrwGp) | 1:24 | 2025-05-10 | 2025-05-31 |
@@ -1933,6 +1934,7 @@
 | [Сны Алисы](https://open.spotify.com/track/4y0BtpEX8nemCjNIfBvA5y) | [HOFMANNITA](https://open.spotify.com/artist/6J48nc1Q9SmB4gEl9c4IgC) | [Сны Алисы](https://open.spotify.com/album/0GOqgXz8R8Qv2Kc9drW5S3) | 2:41 | 2024-06-17 | 2024-06-20 |
 | [со мной воюет сатана](https://open.spotify.com/track/0kbL82tFIlw0c9bO5ddGaK) | [Puszkaaa!](https://open.spotify.com/artist/4VRS7zRNjVlpvzZ5FU9jNs) | [со мной воюет сатана](https://open.spotify.com/album/7Fd1frW52N7e2XvdAjvdC4) | 3:29 | 2024-03-31 | 2024-04-03 |
 | [Со Мной Воюет Сатана \(tik tok verison\)](https://open.spotify.com/track/1Gfd0rK8Uzqn7Vp5RwnuBy) | [Puszkaaa!](https://open.spotify.com/artist/5PjEdnZxJuXg1iESZ313GT) | [Со Мной Воюет Сатана \(tik tok verison\)](https://open.spotify.com/album/6A6UHDi8LOTqhEfocWXlWL) | 3:29 | 2024-03-26 | 2024-04-01 |
+| [Советский Союз](https://open.spotify.com/track/5j5QU5x8OnwTAVtEj4nNCS) | [Керсари](https://open.spotify.com/artist/3gE38C7RUEg5QZ9w88eWSW) | [Советский Союз](https://open.spotify.com/album/0eb3W8myFPyBTrPrEOM9Fk) | 4:04 | 2025-12-18 |  |
 | [Соври мне](https://open.spotify.com/track/5f5gkWntWNTTxbbh1Hp8tu) | [T\-Fest](https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r) | [Соври мне](https://open.spotify.com/album/4cNZaHGcGY8iA6EPL3SJiF) | 2:50 | 2024-09-06 | 2024-09-11 |
 | [Солнце](https://open.spotify.com/track/6xuk72ns3yLQ0RyShMAGnP) | [Апология](https://open.spotify.com/artist/0xDj0pB1k2ttIF6G4e2LQ6) | [Солнце](https://open.spotify.com/album/4FaOSrVwJ9518QaJ0lXiL9) | 2:00 | 2024-11-07 | 2024-11-09 |
 | [СОЛНЦЕ ВСТАЛО](https://open.spotify.com/track/2VHdC3sIWzJImuZYQC8OrN) | [GERA AMEN](https://open.spotify.com/artist/2rEvEHlvXGUkeSe8BDbNRd) | [ZARIMA](https://open.spotify.com/album/4A7agwQjgsKZhenPQjrARo) | 3:21 | 2025-11-07 |  |
@@ -2143,7 +2145,7 @@
 | [Ядерная Зима](https://open.spotify.com/track/07dD7HGk9CCYanjuXPTQiV) | [Nick Sax](https://open.spotify.com/artist/51eT3Up2DC1K21vPjxXP4D) | [ЧЕРТОВЩИНА](https://open.spotify.com/album/1dbo9WsbUFM7NLQ8DXSb1Q) | 2:59 | 2024-11-13 | 2024-12-04 |
 | [Ядерная Зима](https://open.spotify.com/track/3QwFWOPhJYFC5ywcyOEkmH) | [Nick Sax](https://open.spotify.com/artist/51eT3Up2DC1K21vPjxXP4D) | [ЧЕРТОВЩИНА](https://open.spotify.com/album/35MVOD7iYCTUEYbn5xm6yN) | 2:59 | 2024-12-03 | 2024-12-25 |
 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 | 2024-10-14 | 2024-10-29 |
-| [Ярмарка судеб](https://open.spotify.com/track/3cxvj78jYNTRF9pzSgrGdg) | [Alena](https://open.spotify.com/artist/0n4tr8bPWo82WIKhCyLpCT) | [Ярмарка судеб](https://open.spotify.com/album/0xPBWkVmnOjlRkV83bQDoJ) | 2:38 | 2025-12-16 |  |
+| [Ярмарка судеб](https://open.spotify.com/track/3cxvj78jYNTRF9pzSgrGdg) | [Alena](https://open.spotify.com/artist/0n4tr8bPWo82WIKhCyLpCT) | [Ярмарка судеб](https://open.spotify.com/album/0xPBWkVmnOjlRkV83bQDoJ) | 2:38 | 2025-12-16 | 2025-12-19 |
 | [ярче звёзд](https://open.spotify.com/track/4ZhLYdmhWdPTZcnAy9SZZO) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [иван марголдин президент россии](https://open.spotify.com/album/3OkAl6EwJXk21ESEcblesz) | 2:47 | 2024-03-04 | 2024-03-08 |
 | [ящики](https://open.spotify.com/track/3ZT7LoPQmPEo4wg9rVKoup) | [mzlff](https://open.spotify.com/artist/56wiPFJN2Z1PG1N8hGNYaD), [BOOKER](https://open.spotify.com/artist/40K9KbqFFDzGXfUW3s60bv) | [светлая сторона](https://open.spotify.com/album/3EWrtDBTPzNEi3SufP1PVw) | 3:19 | 2024-10-29 | 2024-11-13 |
 | [ЁК](https://open.spotify.com/track/2x68wTxFO6ZURfIi3j8Exz) | [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [ЁК](https://open.spotify.com/album/1akEhm6tO6W8ZmVapIWNvj) | 2:39 | 2025-02-18 | 2025-03-02 |

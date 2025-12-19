@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48818,
+  "num_followers": 48821,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAABzXJg2kJhxIHFDldEsyj3+",
+  "snapshot_id": "aUHygAAAAACPO817Xh1kvWX4ANWuQRfH",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surviving",
-        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
+        "name": "Invented (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221174,
-      "name": "555",
-      "url": "https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC"
+      "duration_ms": 203253,
+      "name": "My Best Theory",
+      "url": "https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invented (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
+        "name": "Surviving",
+        "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 203253,
-      "name": "My Best Theory",
-      "url": "https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC"
+      "duration_ms": 221174,
+      "name": "555",
+      "url": "https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Chase This Light",
-      "url": "https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invented (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 225986,
       "name": "Coffee And Cigarettes",
       "url": "https://open.spotify.com/track/7svTK1vdqxc1zsVWTCYHaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Chase This Light",
+      "url": "https://open.spotify.com/track/3sA8cYDDjhjowVUue11AbF"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chase This Light",
-        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 202986,
-      "name": "Here It Goes",
-      "url": "https://open.spotify.com/track/0BXtDzijBaHpqlBkMOIJFl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invented (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 249040,
       "name": "Littlething",
       "url": "https://open.spotify.com/track/1OPeUHaZESc6zMHGXzsk6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chase This Light",
+        "url": "https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 202986,
+      "name": "Here It Goes",
+      "url": "https://open.spotify.com/track/0BXtDzijBaHpqlBkMOIJFl"
     },
     {
       "added_at": null,

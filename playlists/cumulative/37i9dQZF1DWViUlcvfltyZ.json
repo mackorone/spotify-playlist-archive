@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Naska in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Sick Tamburo in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 468360,
       "name": "Asterione",
       "url": "https://open.spotify.com/track/0L26TvOUwc7t9biZguNVPX"
@@ -5900,7 +5900,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 137226,
       "name": "Cold Hands",
       "url": "https://open.spotify.com/track/3seAP5VNmMNhDgW3mU3PD4"
@@ -8101,6 +8101,24 @@
     },
     {
       "album": {
+        "name": "Strange Dolls EP",
+        "url": "https://open.spotify.com/album/52sXASwDbNTP72GLmi3bZl"
+      },
+      "artists": [
+        {
+          "name": "Not Moving",
+          "url": "https://open.spotify.com/artist/6as40d82uC8lX82gIEbdFq"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131680,
+      "name": "Dolls",
+      "url": "https://open.spotify.com/track/33qPEDmM71EGtV0t3mYJYj"
+    },
+    {
+      "album": {
         "name": "Trespass",
         "url": "https://open.spotify.com/album/74PcwnV8Ytl63PVfvYVMsE"
       },
@@ -9800,7 +9818,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 99512,
       "name": "FELICE FELICE",
       "url": "https://open.spotify.com/track/4X783zGRPevXZEPoFtvutK"
@@ -10240,7 +10258,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 154380,
       "name": "Fiori d'arancio",
       "url": "https://open.spotify.com/track/1xEC3MRBTPdgLmMXNylGx7"
@@ -13215,6 +13233,24 @@
     },
     {
       "album": {
+        "name": "If People Were Drunk",
+        "url": "https://open.spotify.com/album/0oOhIUEnD5LQsoPK20SKct"
+      },
+      "artists": [
+        {
+          "name": "RUT!",
+          "url": "https://open.spotify.com/artist/5b3HclakW5c1V7kAi6yhcf"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243256,
+      "name": "If People Were Drunk",
+      "url": "https://open.spotify.com/track/6wzZrdUtrMQTAuRfOuLbmF"
+    },
+    {
+      "album": {
         "name": "Punkinari",
         "url": "https://open.spotify.com/album/562b02Prqkaqb92ZHoLm14"
       },
@@ -14714,6 +14750,24 @@
       "duration_ms": 127453,
       "name": "Keep It Cool",
       "url": "https://open.spotify.com/track/15fz59pteO1WtRiC0LBvk4"
+    },
+    {
+      "album": {
+        "name": "Kether",
+        "url": "https://open.spotify.com/album/7fUuml1JFgnR4YBWrMINVj"
+      },
+      "artists": [
+        {
+          "name": "Zu",
+          "url": "https://open.spotify.com/artist/5S2qz9t9m2OSBtSLZz4tMx"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435880,
+      "name": "Kether",
+      "url": "https://open.spotify.com/track/5rj5QQoIexPzUlT9gwWxtG"
     },
     {
       "album": {
@@ -18922,7 +18976,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 173333,
       "name": "morsi",
       "url": "https://open.spotify.com/track/69iXs4uerCkXNVitNBDiT1"
@@ -19070,6 +19124,24 @@
       "duration_ms": 165904,
       "name": "mozzicone",
       "url": "https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW"
+    },
+    {
+      "album": {
+        "name": "much more",
+        "url": "https://open.spotify.com/album/36avXlagpCrPNjLPiY7qi3"
+      },
+      "artists": [
+        {
+          "name": "Drew Seele",
+          "url": "https://open.spotify.com/artist/0yhUckuRDGfMY8O6JkeeQJ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180664,
+      "name": "much more",
+      "url": "https://open.spotify.com/track/4mFbKPnQEUYAJrKeNm4XPV"
     },
     {
       "album": {
@@ -22410,7 +22482,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 212621,
       "name": "Permafrost",
       "url": "https://open.spotify.com/track/6W7dhjYS7m3PTb6GJIU8b3"
@@ -24234,7 +24306,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 196850,
       "name": "ragazze",
       "url": "https://open.spotify.com/track/69IDvONe3y2jZjumffbb48"
@@ -25497,6 +25569,24 @@
     },
     {
       "album": {
+        "name": "Sbronzi Fuori",
+        "url": "https://open.spotify.com/album/7bpT4Cf9Kzbh2oy2PXvSxD"
+      },
+      "artists": [
+        {
+          "name": "I PATAGARRI",
+          "url": "https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168284,
+      "name": "Sbronzi Fuori",
+      "url": "https://open.spotify.com/track/54R2mCfqiQ3JHe2GXIB8lf"
+    },
+    {
+      "album": {
         "name": "Scatolette",
         "url": "https://open.spotify.com/album/4a9tR3hT1gQ0qTVYAlw8CX"
       },
@@ -26562,6 +26652,24 @@
       "duration_ms": 139706,
       "name": "Silos",
       "url": "https://open.spotify.com/track/6N3eJ5VbK7wNpfDZNNJFuE"
+    },
+    {
+      "album": {
+        "name": "Silvia corre sola",
+        "url": "https://open.spotify.com/album/3tcqWRV3JtYQWh32cSRbKV"
+      },
+      "artists": [
+        {
+          "name": "Sick Tamburo",
+          "url": "https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244397,
+      "name": "Silvia corre sola",
+      "url": "https://open.spotify.com/track/50yMDTlkeAbt4BJ7lOGYas"
     },
     {
       "album": {
@@ -27723,6 +27831,24 @@
     },
     {
       "album": {
+        "name": "stop pipping boy it's just music",
+        "url": "https://open.spotify.com/album/1961P55z3oCrjAIyh3BHQH"
+      },
+      "artists": [
+        {
+          "name": "CORE MATO",
+          "url": "https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131568,
+      "name": "stop pipping boy it's just music",
+      "url": "https://open.spotify.com/track/31pdNl590xWGj4qH5SWzuV"
+    },
+    {
+      "album": {
         "name": "Storia",
         "url": "https://open.spotify.com/album/6cb8vQtt1AVfGwRYobPcrL"
       },
@@ -27987,6 +28113,24 @@
     },
     {
       "album": {
+        "name": "Sugar Crush",
+        "url": "https://open.spotify.com/album/0C4lC88I5EQAHF9bYfpZom"
+      },
+      "artists": [
+        {
+          "name": "Angel Names",
+          "url": "https://open.spotify.com/artist/0nHyCOwU0M12V191sOV2a1"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Sugar Crush",
+      "url": "https://open.spotify.com/track/6SjBSJ6oi2j6EuH8wfKkC7"
+    },
+    {
+      "album": {
         "name": "suitable",
         "url": "https://open.spotify.com/album/19GdwqMEVjVVQzUZQxrUez"
       },
@@ -28020,7 +28164,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 347189,
       "name": "Suite",
       "url": "https://open.spotify.com/track/2e9XlUlCZZGjIHqvL7YAhO"
@@ -29398,7 +29542,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 187344,
       "name": "TITOLI DI CODA",
       "url": "https://open.spotify.com/track/2eWHGYgTYF1Mv7z3qlAyfB"
@@ -29416,7 +29560,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 314000,
       "name": "To The Sacred Mantle",
       "url": "https://open.spotify.com/track/4iFJmkeqwFps41OkOvOpAn"
@@ -31869,6 +32013,24 @@
     },
     {
       "album": {
+        "name": "VOIL\u00c0!",
+        "url": "https://open.spotify.com/album/69rTszItyhHXdGtjQzTfNm"
+      },
+      "artists": [
+        {
+          "name": "SI! BOOM! VOIL\u00c0!",
+          "url": "https://open.spotify.com/artist/2hZ2DLQrRl33Oa4GzUubEy"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "VOIL\u00c0!",
+      "url": "https://open.spotify.com/track/553v6j5YxnuiGPtoUHuI2D"
+    },
+    {
+      "album": {
         "name": "VOLA",
         "url": "https://open.spotify.com/album/1KJh3oheOSjNsDEM4LdDkw"
       },
@@ -32544,6 +32706,24 @@
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"
+    },
+    {
+      "album": {
+        "name": "X-Ray / Clumsy",
+        "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154946,
+      "name": "X-Ray",
+      "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
     },
     {
       "album": {

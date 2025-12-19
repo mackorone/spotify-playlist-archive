@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Junior Zamora
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,483 likes - 200 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,408 likes - 200 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,7 +183,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 173 | [PERFuMITO NUEVO](https://open.spotify.com/track/1Q9Efnm5csdCMFynISxL2x) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:20 |
 | 174 | [RD](https://open.spotify.com/track/5MVCWWnNKaWnVMaCvj6TKU) | [Alejandro Armes](https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi), [Soyneel](https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [RD](https://open.spotify.com/album/1w9zzcVrDWAafs2358gIYN) | 2:46 |
 | 175 | [Lo Intenté](https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Lo Intenté](https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW) | 3:19 |
-| 176 | [Media Noche](https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3) | [Jordy Medina](https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h), [rodri tkm](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi), [IGWT](https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE) | [Media Noche](https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T) | 3:00 |
+| 176 | [Media Noche](https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3) | [Jordy Medina](https://open.spotify.com/artist/2x1b9kfFgo3WDrjUQFVNnX), [Olisso](https://open.spotify.com/artist/5j2C0iQHKvCcfPVCOqn20h), [rodrii](https://open.spotify.com/artist/2Iu7IdA9ZZ4CP9JuASNhDi), [IGWT](https://open.spotify.com/artist/0nWl2Cu7EETJgmSQyqThPE) | [Media Noche](https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T) | 3:00 |
 | 177 | [Atlántico](https://open.spotify.com/track/7z0j4g4by1iLuvia6VcgrH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [En Las Nubes \- Con Mis Panas](https://open.spotify.com/album/58836hf4URoAA7GyUvFm2Q) | 3:05 |
 | 178 | [2:12 AM](https://open.spotify.com/track/1UTLq40xh63wMrHELGnKWW) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:31 |
 | 179 | [AUDEMARS](https://open.spotify.com/track/6HfrRalQNlkEdrYLLonODq) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [AUDEMARS](https://open.spotify.com/album/51yGrxjUrdk3FDcRsOsroq) | 2:46 |

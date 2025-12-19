@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124655,
+  "num_followers": 124652,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU8ocjx4iF7ZQuIRHOWGcpHHjlGboX",
+  "snapshot_id": "AAAU81Nz7frqob1wP7Ski+wwgcYubZoa",
   "tracks": [
+    {
+      "added_at": "2025-12-18 15:02:21",
+      "album": {
+        "name": "Back To The Stars",
+        "url": "https://open.spotify.com/album/6jFaTrPsJvsWouDobDWUeF"
+      },
+      "artists": [
+        {
+          "name": "Justin OH",
+          "url": "https://open.spotify.com/artist/5x2u5vpKBhviWQlni8VM8L"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 222004,
+      "name": "Back To The Stars",
+      "url": "https://open.spotify.com/track/3OKq64mBkh7YM1DNkH8kPA"
+    },
     {
       "added_at": "2025-12-17 14:49:32",
       "album": {

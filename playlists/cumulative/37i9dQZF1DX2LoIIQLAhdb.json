@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay x Maud Elka x Says'z",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lisandro Cuxi",
   "name": "R&Bae",
   "tracks": [
     {
@@ -122,6 +122,28 @@
       "duration_ms": 150703,
       "name": "4 \u00c9toiles",
       "url": "https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ"
+    },
+    {
+      "album": {
+        "name": "CUXI BOY PART III",
+        "url": "https://open.spotify.com/album/14t5IfOMHlcOM2h1gJBZ87"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        },
+        {
+          "name": "Singuila",
+          "url": "https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "4H Du Mat (feat. Singuila)",
+      "url": "https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm"
     },
     {
       "album": {
@@ -1892,7 +1914,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 141000,
       "name": "COME & SEE ME",
       "url": "https://open.spotify.com/track/0c7KoKg2VNDSXZE0wovnjC"
@@ -2647,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "DESTINY",
+      "url": "https://open.spotify.com/track/7HNkaJTsFUWCzb1tiW0j31"
+    },
+    {
+      "album": {
         "name": "VIVRE",
         "url": "https://open.spotify.com/album/0fMgBtpqEHMbe0kQjNsmSA"
       },
@@ -3398,7 +3438,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 175053,
       "name": "Ennemi",
       "url": "https://open.spotify.com/track/3mEu9GeNAt5evd6BZZIrpl"

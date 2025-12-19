@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAA7XogE0gbemmlUVNwKSByG",
+  "snapshot_id": "aUHygAAAAACKA+pCEO6xwH4kWJl8IT40",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Acuerdo Qui\u00e9n Fui",
-        "url": "https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF"
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
       },
       "artists": [
-        {
-          "name": "Christian Meier",
-          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 231897,
-      "name": "Esa S\u00ed Es una Mujer",
-      "url": "https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS"
+      "duration_ms": 262773,
+      "name": "El Triunfo Tan So\u00f1ado",
+      "url": "https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j"
     },
     {
       "added_at": null,
@@ -659,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+        "name": "No Me Acuerdo Qui\u00e9n Fui",
+        "url": "https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF"
       },
       "artists": [
+        {
+          "name": "Christian Meier",
+          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
+        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 262773,
-      "name": "El Triunfo Tan So\u00f1ado",
-      "url": "https://open.spotify.com/track/0sY6nOI7cfuMlmm1z8PY6j"
+      "duration_ms": 231897,
+      "name": "Esa S\u00ed Es una Mujer",
+      "url": "https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-401 songs - 23 hr 6 min
+402 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Komasaufen](https://open.spotify.com/track/69sHCQJp3lMPLTdyTo5ekv) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Komasaufen](https://open.spotify.com/album/2xJjp5yr1cLnkeCQGKWbJ4) | 1:49 | 2025-11-16 | 2025-12-10 |
 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 | 2025-12-13 |  |
 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 | 2025-11-28 |  |
+| [Le Bras Mécanique](https://open.spotify.com/track/1VtBM3R0WT1znWswIOcIzk) | [tasH](https://open.spotify.com/artist/7kF6Cba1h7aAEdokHzSIx1) | [Le Bras Mécanique](https://open.spotify.com/album/4exhUvNG4L4dP8kd1Qm6An) | 3:45 | 2025-12-18 |  |
 | [Le train](https://open.spotify.com/track/0LTYYJCdBhTmVCtWnjz3uW) | [Steel Bridges](https://open.spotify.com/artist/7Ct3XHfBxKz4nFpgYCLx8Z) | [Le train](https://open.spotify.com/album/2MhFsSKQemBr4bTgpJNbPv) | 3:36 | 2025-11-17 | 2025-12-10 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-11-16 | 2025-12-10 |
 | [LEGACY](https://open.spotify.com/track/1f1FyrCDwtLWOwrsouJrS7) | [Ashe B](https://open.spotify.com/artist/3HgtNDjt6RduA1udWp3sbQ) | [LEGACY](https://open.spotify.com/album/6QVGvi9ltKtk9qMNyhCmoV) | 3:15 | 2025-12-03 |  |

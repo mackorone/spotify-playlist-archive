@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 366533,
       "name": "A Balada de Tim Bernardes",
       "url": "https://open.spotify.com/track/2uuFfwsVRuapPM5iWPrxP7"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 366533,
       "name": "A Balada de Tim Bernardes",
       "url": "https://open.spotify.com/track/3VVDPi555MPn9Fpi6vXHkH"
@@ -7450,7 +7450,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 117214,
       "name": "Backstage",
       "url": "https://open.spotify.com/track/5HryTz9HNLZvJHWBUV5AbE"
@@ -14772,7 +14772,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -17002,7 +17002,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -18476,7 +18476,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 235662,
       "name": "Dadinho \u00e9 o Crlh",
       "url": "https://open.spotify.com/track/3aI3Jo3FxhcQHAu1NcRpKK"
@@ -26566,7 +26566,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 157612,
       "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
       "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
@@ -43950,7 +43950,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 117192,
       "name": "Matu\u00ea - BACKSTAGE - (LUZ VERMELHA)",
       "url": "https://open.spotify.com/track/2wMzVXyOANtQz63YNLUGUo"
@@ -55558,7 +55558,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 242999,
       "name": "O Lamento de Israel - Jazz,Groove",
       "url": "https://open.spotify.com/track/5yUO5wO6gDaFHizBG0M7Kt"
@@ -66488,6 +66488,24 @@
       "duration_ms": 180032,
       "name": "Revolving door",
       "url": "https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC"
+    },
+    {
+      "album": {
+        "name": "Amor Dos Outros",
+        "url": "https://open.spotify.com/album/3sUVxkZfJVatawURo1f71z"
+      },
+      "artists": [
+        {
+          "name": "Forr\u00f3 e Piseiro",
+          "url": "https://open.spotify.com/artist/5wONDxS2kxBgvk4Dl51fcQ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249219,
+      "name": "Rey Amor Dos Outros",
+      "url": "https://open.spotify.com/track/0PpNxDCyMOjLAweuPukkyd"
     },
     {
       "album": {

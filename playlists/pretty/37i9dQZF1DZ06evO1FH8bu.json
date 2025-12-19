@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 72102,
+  "num_followers": 72122,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAAdBKyhelkV4p2jYoWU2Hks",
+  "snapshot_id": "aUHygAAAAAB+n0BaEmmfyCD8fPagaEQL",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 197075,
-      "name": "Candour",
-      "url": "https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 207808,
       "name": "It Won\u2019t Be Like This Forever",
       "url": "https://open.spotify.com/track/5fikRibWQH0qvWMR0cC4pi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 197075,
+      "name": "Candour",
+      "url": "https://open.spotify.com/track/4CAfO7bz0J4AN0bQaUZ4vR"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 228600,
       "name": "We Need More Bricks",
       "url": "https://open.spotify.com/track/3HT0SJA32BW7c83sxpq3SF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/4mBCXW0d8WJ5KOVjbdWVni"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boulevard of Broken Dreams",
-        "url": "https://open.spotify.com/album/0ED1EFdYpBU4qj4iWFW0sg"
+        "name": "The Peace And The B Sides",
+        "url": "https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Boulevard of Broken Dreams",
-      "url": "https://open.spotify.com/track/5RbRkgIzbdWdrzodyOasIj"
+      "duration_ms": 189243,
+      "name": "Beautiful Madness",
+      "url": "https://open.spotify.com/track/2lMAqXqsAgOp3oT47lnW2y"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Peace And The B Sides",
-        "url": "https://open.spotify.com/album/1tzhqvKVJutPd4TkiUK7Br"
+        "name": "Boulevard of Broken Dreams",
+        "url": "https://open.spotify.com/album/0ED1EFdYpBU4qj4iWFW0sg"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 189243,
-      "name": "Beautiful Madness",
-      "url": "https://open.spotify.com/track/2lMAqXqsAgOp3oT47lnW2y"
+      "duration_ms": 220000,
+      "name": "Boulevard of Broken Dreams",
+      "url": "https://open.spotify.com/track/5RbRkgIzbdWdrzodyOasIj"
     },
     {
       "added_at": null,

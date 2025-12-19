@@ -1,13 +1,29 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 89761,
+  "num_followers": 89775,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADlrq+lrwoJql5WNQ7GftsuxZNXO",
+  "snapshot_id": "AAAAAGnNuNe7G6CWorDar0tH7yyCfGa4",
   "tracks": [
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
+        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
+        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
+      },
+      "artists": [
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "duration_ms": 1398866,
+      "name": "Raga Nata Bhairav - Remastered",
+      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
+    },
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 1287946,
       "name": "Rag Manj Khammaj",
       "url": "https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
-        "name": "The Ravi Shankar Collection: A Morning Raga / An Evening Raga (Remastered)",
-        "url": "https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx"
-      },
-      "artists": [
-        {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
-        }
-      ],
-      "duration_ms": 1398866,
-      "name": "Raga Nata Bhairav - Remastered",
-      "url": "https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
+        "name": "Rare Masterpiece - Raga Bhinna Kauns",
+        "url": "https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn"
+      },
+      "artists": [
+        {
+          "name": "Pandit Shivkumar Sharma",
+          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
+        }
+      ],
+      "duration_ms": 588000,
+      "name": "Raga Bhinna Kauns - Alap",
+      "url": "https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK"
+    },
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
         "name": "Mori Painjainiya (Raag Hamsadhwani)",
         "url": "https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 336045,
       "name": "Mori Painjainiya (Raag Hamsadhwani)",
       "url": "https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
-        "name": "Rare Masterpiece - Raga Bhinna Kauns",
-        "url": "https://open.spotify.com/album/04PWTDjCdiePmllR2VEXEn"
-      },
-      "artists": [
-        {
-          "name": "Pandit Shivkumar Sharma",
-          "url": "https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS"
-        }
-      ],
-      "duration_ms": 588000,
-      "name": "Raga Bhinna Kauns - Alap",
-      "url": "https://open.spotify.com/track/3uKf2XtbIOvwKAj0QF9xoK"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -515,6 +515,26 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
+        "name": "Saradamani",
+        "url": "https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII"
+      },
+      "artists": [
+        {
+          "name": "Vishwa Mohan Bhatt",
+          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
+        },
+        {
+          "name": "Sukhvinder Singh Namdhari",
+          "url": "https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h"
+        }
+      ],
+      "duration_ms": 643933,
+      "name": "Romantic Dhun",
+      "url": "https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S"
+    },
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
         "name": "Music of the Pastoral, Vol. 1",
         "url": "https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ"
       },
@@ -539,26 +559,6 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
-        "name": "Saradamani",
-        "url": "https://open.spotify.com/album/52oDl4LALSJlv1jsrqexII"
-      },
-      "artists": [
-        {
-          "name": "Vishwa Mohan Bhatt",
-          "url": "https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl"
-        },
-        {
-          "name": "Sukhvinder Singh Namdhari",
-          "url": "https://open.spotify.com/artist/64kV6d1FsEgESOui5dms5h"
-        }
-      ],
-      "duration_ms": 643933,
-      "name": "Romantic Dhun",
-      "url": "https://open.spotify.com/track/6HFwTGXheOsphUyrzlfJ8S"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
         "name": "Tarana Yaman",
         "url": "https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
-        "name": "Maestro's Choice: Kishori Amonkar",
-        "url": "https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT"
-      },
-      "artists": [
-        {
-          "name": "Kishori Amonkar",
-          "url": "https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45"
-        }
-      ],
-      "duration_ms": 1710867,
-      "name": "Raga Sampurna Malkaus",
-      "url": "https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
         "name": "Sangeet Sartaj Vol. 1 & 2",
         "url": "https://open.spotify.com/album/2HSvyuPBF5HSdz4zxS5SGO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 1947364,
       "name": "Raga Asavari Todi",
       "url": "https://open.spotify.com/track/6L8tXG8hFllYNNjnyrbuOF"
+    },
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
+        "name": "Maestro's Choice: Kishori Amonkar",
+        "url": "https://open.spotify.com/album/6cKWaE4V3zAnDOzE4wwemT"
+      },
+      "artists": [
+        {
+          "name": "Kishori Amonkar",
+          "url": "https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45"
+        }
+      ],
+      "duration_ms": 1710867,
+      "name": "Raga Sampurna Malkaus",
+      "url": "https://open.spotify.com/track/7mvf24bJZ4cw4dM4uxAWgd"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
-        "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
-        "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
-      },
-      "artists": [
-        {
-          "name": "Shruti Sadolikar",
-          "url": "https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq"
-        }
-      ],
-      "duration_ms": 823506,
-      "name": "Raga Bhairavii: Baju Band Khul Khul Jani",
-      "url": "https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
         "name": "Natyasangeet",
         "url": "https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
+        "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
+        "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
       },
       "artists": [
         {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+          "name": "Shruti Sadolikar",
+          "url": "https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq"
         }
       ],
-      "duration_ms": 1045427,
-      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
-      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
+      "duration_ms": 823506,
+      "name": "Raga Bhairavii: Baju Band Khul Khul Jani",
+      "url": "https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -731,6 +715,22 @@
       "duration_ms": 335109,
       "name": "Bhavani Dayani Raag Mishra Bhairavi Sadra",
       "url": "https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh"
+    },
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        }
+      ],
+      "duration_ms": 1045427,
+      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
+      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
-        "name": "Navyaa",
-        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+        "name": "Rajan / Sajan Mishra",
+        "url": "https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m"
       },
       "artists": [
         {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+          "name": "Rajan Mishra",
+          "url": "https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9"
+        },
+        {
+          "name": "Sajan Mishra",
+          "url": "https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p"
         }
       ],
-      "duration_ms": 693955,
-      "name": "Meditative Gurjari Todi",
-      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
+      "duration_ms": 603173,
+      "name": "Jin Ke Man Ram Biraaje - Raga Malkauns - Khayal Vilambit - Ektaal / Angan Aaye Balama - Raga Malakauns - Khayal Drut - Ektaal",
+      "url": "https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -859,6 +863,22 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
+        "name": "Navyaa",
+        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+      },
+      "artists": [
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        }
+      ],
+      "duration_ms": 693955,
+      "name": "Meditative Gurjari Todi",
+      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
+    },
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
         "name": "Sangeet Sataj Vol. 1 & 2",
         "url": "https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 1908355,
       "name": "Raga Shree",
       "url": "https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
-        "name": "Rajan / Sajan Mishra",
-        "url": "https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m"
-      },
-      "artists": [
-        {
-          "name": "Rajan Mishra",
-          "url": "https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9"
-        },
-        {
-          "name": "Sajan Mishra",
-          "url": "https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p"
-        }
-      ],
-      "duration_ms": 603173,
-      "name": "Jin Ke Man Ram Biraaje - Raga Malkauns - Khayal Vilambit - Ektaal / Angan Aaye Balama - Raga Malakauns - Khayal Drut - Ektaal",
-      "url": "https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO"
     },
     {
       "added_at": "2025-12-10 06:30:25",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-10 06:30:25",
       "album": {
-        "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
-        "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
-      },
-      "artists": [
-        {
-          "name": "Shruti Sadolikar",
-          "url": "https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq"
-        }
-      ],
-      "duration_ms": 1486493,
-      "name": "Raga Bibhasi: He Shyam, Shyami",
-      "url": "https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn"
-    },
-    {
-      "added_at": "2025-12-10 06:30:25",
-      "album": {
         "name": "Raag Jhinjhoti by Ronu Majumdar",
         "url": "https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 1194977,
       "name": "Raag Jhinjhoti Alaap Jod",
       "url": "https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg"
+    },
+    {
+      "added_at": "2025-12-10 06:30:25",
+      "album": {
+        "name": "Raga Miyan-Ki-Todi, Raga Bibhas & Raga Bhairavi",
+        "url": "https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H"
+      },
+      "artists": [
+        {
+          "name": "Shruti Sadolikar",
+          "url": "https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq"
+        }
+      ],
+      "duration_ms": 1486493,
+      "name": "Raga Bibhasi: He Shyam, Shyami",
+      "url": "https://open.spotify.com/track/7dT3zBYxViTfuszWJZunZn"
     }
   ],
   "unique_name": "Hindustani Classical",

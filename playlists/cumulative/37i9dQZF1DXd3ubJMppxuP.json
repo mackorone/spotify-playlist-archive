@@ -721,6 +721,28 @@
     },
     {
       "album": {
+        "name": "Ik Kom Eraan",
+        "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
+      },
+      "artists": [
+        {
+          "name": "DJ Galaga",
+          "url": "https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ"
+        },
+        {
+          "name": "Feestteam",
+          "url": "https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "Ik Kom Eraan",
+      "url": "https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU"
+    },
+    {
+      "album": {
         "name": "Ik Kom Harder",
         "url": "https://open.spotify.com/album/1LYNfa6grpY6DBNrdee9kg"
       },
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 178072,
       "name": "Vluchtstrook - Sound Rush Remix",
       "url": "https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K"

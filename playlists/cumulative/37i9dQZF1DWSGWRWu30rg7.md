@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: RACH?
 
-5,345 songs - 13 day 15 hr 19 min
+5,346 songs - 13 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1564,6 +1564,7 @@
 | [Gawat](https://open.spotify.com/track/4NvOkH1s4BMeYAn9cF9PVM) | [WET](https://open.spotify.com/artist/5XVYDcUuZhNbn7B2DIdjxm) | [Gawat](https://open.spotify.com/album/6L1Lk6ODgeBc53ybX7JmtO) | 3:44 | 2023-06-15 | 2023-06-30 |
 | [Gejolak Asmara Masa Muda](https://open.spotify.com/track/5aakWaPxbYry8q6SIjGYgj) | [Peni](https://open.spotify.com/artist/1NkjpDUBUbCzsInBfZbl8q) | [Gejolak Asmara Masa Muda](https://open.spotify.com/album/6v9qGw3XuHl0kWi2IFpO4C) | 3:18 | 2025-09-12 | 2025-10-10 |
 | [Gejolak Luka](https://open.spotify.com/track/1Qn3dhC2ANeYuFjxokMvo7) | [Flowerbaby](https://open.spotify.com/artist/5fu2fvrcBE90L1GbRmsj1q) | [Gejolak Luka](https://open.spotify.com/album/540CimTYtiyWJXOo60FRDN) | 3:32 | 2022-02-17 | 2022-03-05 |
+| [Geleng Geleng Kepala \(feat\. Ncum\)](https://open.spotify.com/track/5ptbbcGKrM9LS8SJKPCKfh) | [Loly Love](https://open.spotify.com/artist/4EuyEyYTlojEm2kyfj7Afz), [Ncum](https://open.spotify.com/artist/7J6fZ8wiC84JWju54ZmD65) | [Geleng Geleng Kepala \(feat\. Ncum\)](https://open.spotify.com/album/78Pwu5CY5ncBBPTOvNISpK) | 2:59 | 2025-12-11 |  |
 | [Gelora](https://open.spotify.com/track/4T0IiBrctRtoeh7MMJb1mP) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Gelora](https://open.spotify.com/album/5HbQ9xUC9Ne9xyg0YjZfl0) | 2:10 | 2025-07-17 | 2025-08-15 |
 | [Gema Asmara](https://open.spotify.com/track/2hsx8ldyORblivduRez0g3) | [Olivia Pardede](https://open.spotify.com/artist/2cuE5tGqzoDkpipSAmWhsD) | [Gema Asmara](https://open.spotify.com/album/3JL0dpLlX04GskwTzggWBz) | 3:34 | 2023-06-22 | 2023-07-07 |
 | [Gemini](https://open.spotify.com/track/44Dzo1BA5CVHJMJffIxnDM) | [Arden Wiebowo](https://open.spotify.com/artist/3NHnbJMUpUMR7L5Vji3qOn) | [Gemini](https://open.spotify.com/album/1G7ObtNsKt6wlbCDxwC7Jj) | 4:05 | 2024-11-07 | 2024-12-06 |

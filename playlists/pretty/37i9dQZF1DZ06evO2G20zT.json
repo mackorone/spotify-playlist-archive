@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 42275,
+  "num_followers": 42329,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACRb6uKRgEEgrGM5nYfn3cP",
+  "snapshot_id": "aUHygAAAAAB7zBHq1PbR169VhfT4k3Aw",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 158446,
-      "name": "HOW ARE YOU",
-      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
+      "duration_ms": 171138,
+      "name": "MARIO KART",
+      "url": "https://open.spotify.com/track/4ddpHR6drcPRGPL5jYFluh"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trench Kid (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUJI MOTO",
         "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
       },
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 171138,
-      "name": "MARIO KART",
-      "url": "https://open.spotify.com/track/4ddpHR6drcPRGPL5jYFluh"
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123219,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NSNV",
         "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 106971,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0sXxM6CMjoVAenu5OHYLkq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123219,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -475,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+        "name": "Richer",
+        "url": "https://open.spotify.com/album/45rYDdhaBSxKsm5iMSHnqH"
       },
       "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
         {
           "name": "Seyi Vibez",
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 212297,
-      "name": "God Sent",
-      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+      "duration_ms": 149027,
+      "name": "Richer",
+      "url": "https://open.spotify.com/track/0gi0hs7oBAfFt8ux8yyczu"
     },
     {
       "added_at": null,
@@ -503,6 +523,22 @@
       "duration_ms": 162782,
       "name": "Hushpuppi",
       "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 164675,
+      "name": "NSNV",
+      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
     },
     {
       "added_at": null,
@@ -531,42 +567,6 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richer",
-        "url": "https://open.spotify.com/album/45rYDdhaBSxKsm5iMSHnqH"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 149027,
-      "name": "Richer",
-      "url": "https://open.spotify.com/track/0gi0hs7oBAfFt8ux8yyczu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 164675,
-      "name": "NSNV",
-      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "Shazam",
+      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "everything is a lot.",
         "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 151955,
       "name": "YSF (with Teni & Seyi Vibez)",
       "url": "https://open.spotify.com/track/1Xrb4Mg1DAyUrvYxLBrZj0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Shazam",
-      "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
     },
     {
       "added_at": null,

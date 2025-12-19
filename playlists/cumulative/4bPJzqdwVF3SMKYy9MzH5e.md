@@ -4,7 +4,7 @@
 
 > 
 
-2,297 songs - 5 day 3 hr 27 min
+2,300 songs - 5 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [Corazón Sin Cara](https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:31 | 2024-08-15 |  |
 | [Corcovado \(Quiet Nights Of Quiet Stars\) \- Single Version](https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:19 | 2023-01-03 |  |
 | [Corduroy Dreams](https://open.spotify.com/track/02tvc9CFnTyHuSRlGeNv9w) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 3:26 | 2021-08-05 |  |
+| [Cosy in the Rocket \(From "Grey's Anatomy"\)](https://open.spotify.com/track/1yXmxP5gB3x7ut0G3p6R9R) | [KnightsBridge](https://open.spotify.com/artist/0pldXaMyJUzrlzYn7uXped) | [Meredith Grey Playlist \(Soundtrack Inspired from TV Series Grey's Anatomy\)](https://open.spotify.com/album/3iiSiLpVOCATwk2TtPCqqk) | 4:25 | 2025-12-18 |  |
 | [Country Dance \(Arr\. For violin and piano\)](https://open.spotify.com/track/40qKTdvPQApkBitQH1dHFy) | [Carl Maria von Weber](https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Terence Dennis](https://open.spotify.com/artist/2bbCfH8cgOhmLwMVSzEhXm) | [Takako Nishizaki Plays Suzuki Evergreens, Vol\. 4](https://open.spotify.com/album/38QrWQ9EtheWod0TKtPRSv) | 1:42 | 2023-06-16 |  |
 | [Courtship Dating](https://open.spotify.com/track/3zKQDZQTHkUV6bYHNhzbGv) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 3:30 | 2025-02-24 |  |
 | [Courtside](https://open.spotify.com/track/4QBs03zMdjDtS6ZRAdojDv) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Courtside](https://open.spotify.com/album/0tuclxQvDT0h8m37w3bfsD) | 3:06 | 2021-08-05 |  |
@@ -1501,6 +1502,7 @@
 | [Paganini: 24 Caprices, Op\. 1: No\. 24 in A Minor](https://open.spotify.com/track/6cC6h5E351deEGFd7Kh9uy) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Paganini: 24 Caprices](https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf) | 4:28 | 2022-11-13 |  |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-05 |  |
 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 | 2021-08-05 |  |
+| [Pain \- LSDXOXO Remix](https://open.spotify.com/track/4p7euivNtllV68CZSbso2I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:27 | 2025-12-18 |  |
 | [Painkiller](https://open.spotify.com/track/1abFkY2jm6KDFMZ7RD9YJh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Painkiller](https://open.spotify.com/album/68WyGdXBIZQZLezPVSDrxC) | 3:33 | 2021-08-05 |  |
 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 | 2021-08-05 |  |
 | [Paper](https://open.spotify.com/track/60sE6u77Uuwsf7w4GbPwgf) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Paper](https://open.spotify.com/album/2OuZduHr2CqQK6gvflPIKW) | 2:37 | 2021-08-05 |  |
@@ -1873,6 +1875,7 @@
 | [Squaring Up](https://open.spotify.com/track/6jQR5xXcEvCIu5cKpPf2Pm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Party Favors](https://open.spotify.com/album/5N9MQLXbiA8hYWsej7y8Sz) | 3:00 | 2022-04-03 |  |
 | [Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [RIFT Two](https://open.spotify.com/album/4iZazfJYrTMfnfRzg6QQQf) | 3:01 | 2025-05-05 |  |
 | [Stabbed Her to Death](https://open.spotify.com/track/7j6462dkdxpYhhhpmLHKBu) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY), [Cameron Azi](https://open.spotify.com/artist/6eGuRZs8HIfjgRPPkkD0Af) | [Satanic Prostitute](https://open.spotify.com/album/12wZUFIsldyDhaPneJX9iU) | 2:26 | 2022-04-05 |  |
+| [Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6) | [Design19](https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8) | [Trigger](https://open.spotify.com/album/7o5z9uEOAZkfZJAV26Lv1j) | 3:56 | 2025-12-18 |  |
 | [Stallion](https://open.spotify.com/track/7qzEXfsLxZU0Bc17oVaFaI) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Mirror Might Steal Your Charm](https://open.spotify.com/album/5OTx88lV36Cgz4nrLUCbOz) | 1:50 | 2023-04-13 |  |
 | [Standalone](https://open.spotify.com/track/5H63aGGsjcpDvzuqBZTV1o) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [Standalone+1](https://open.spotify.com/album/3AavCvQYJLFv7qmSgyLbHt) | 1:08 | 2025-03-13 |  |
 | [Star 9200](https://open.spotify.com/track/2fmiqgU8VJU3fuYd3DmOpB) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Star 9200](https://open.spotify.com/album/1qPbzCZZQiBrsi7lOaxqWp) | 2:39 | 2024-05-07 |  |

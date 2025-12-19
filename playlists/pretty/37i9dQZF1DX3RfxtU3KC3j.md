@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pera x Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,683 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 529,661 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sar](https://open.spotify.com/track/7aQOJQ2UjcpbVzFbtUpi31) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Sar](https://open.spotify.com/album/51A9DqO0EH2onh4Mvylbtl) | 3:23 |
 | 2 | [Denize Baktım](https://open.spotify.com/track/1LcEQyifLT6WLI4kdsdHwn) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j), [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Denize Baktım](https://open.spotify.com/album/0XUXiJPTtvE3LHjwI0axd5) | 4:24 |
-| 3 | [Nereye Böyle](https://open.spotify.com/track/2T4CP5cuBszzVSPBq1INKK) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Nereye Böyle](https://open.spotify.com/album/6MWv53wol1ZgPnQIJbCkav) | 3:11 |
-| 4 | [Eyvahlar Olsun](https://open.spotify.com/track/5tRX2KvG4P3vOmUGF72G4W) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 2:56 |
-| 5 | [Faydası Yok](https://open.spotify.com/track/0dZMdGV6f7sJgJMzduDa7N) | [Yakup](https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR) | [Faydası Yok](https://open.spotify.com/album/4Uj8Rwpa1DnQFbhxgrwc5U) | 4:59 |
-| 6 | [DUY BENİ](https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [DUY BENİ](https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI) | 2:31 |
+| 3 | [DUY BENİ](https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [DUY BENİ](https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI) | 2:31 |
+| 4 | [Nereye Böyle](https://open.spotify.com/track/2T4CP5cuBszzVSPBq1INKK) | [Yedinci Ev](https://open.spotify.com/artist/40ic8Y3x4vmLUGXXpk7bVq) | [Nereye Böyle](https://open.spotify.com/album/6MWv53wol1ZgPnQIJbCkav) | 3:11 |
+| 5 | [Eyvahlar Olsun](https://open.spotify.com/track/5tRX2KvG4P3vOmUGF72G4W) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 2:56 |
+| 6 | [Faydası Yok](https://open.spotify.com/track/0dZMdGV6f7sJgJMzduDa7N) | [Yakup](https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR) | [Faydası Yok](https://open.spotify.com/album/4Uj8Rwpa1DnQFbhxgrwc5U) | 4:59 |
 | 7 | [ÖLEBİLİRİM](https://open.spotify.com/track/0laGInMWhmNMeegLyvPGJv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [ÖLEBİLİRİM](https://open.spotify.com/album/6ZCMo546GVlHvwaN87DAUN) | 3:15 |
 | 8 | [Olabilir \- Alternatif Performans](https://open.spotify.com/track/4lGWSkIkbDLVL6np40Z5ML) | [Flört](https://open.spotify.com/artist/0ou1EkRCAJcfRv2P1qKVPo) | [Olabilir \(Alternatif Performans\)](https://open.spotify.com/album/6VPtattlWQlKWgpq4XtBu7) | 4:09 |
 | 9 | [İstanbul](https://open.spotify.com/track/5KcaqBNrwKBRtH4G9JfToR) | [Milat](https://open.spotify.com/artist/5BJ04QfXObFjFkvZCn6T9v), [Anıl Selvi](https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE) | [İstanbul](https://open.spotify.com/album/3xyiewC0JU1ItG483Fj9RF) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Gidenler Var \- Kalanlardan](https://open.spotify.com/track/4xU78DeivpIeQrvdiIdHOH) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Yahya Babuz](https://open.spotify.com/artist/3wCsTznzEonkjTGANeKW98) | [Gidenler Var \(Kalanlardan\)](https://open.spotify.com/album/1K2TklmCO47H9vt46amBDw) | 3:49 |
 | 75 | [Mayın Tarlası](https://open.spotify.com/track/3r4JGqyBhcIpOKRQLYjD5C) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kelimeler Yetse](https://open.spotify.com/album/3ELwjLdlTIbBH401F0j7kR) | 5:23 |
 
-Snapshot ID: `AAAAAKhRuSlyIhU0+yPoRs+zlzn4nKoL`
+Snapshot ID: `AAAAAJjqjR02uvyoXUc/60WTrQStiDnD`

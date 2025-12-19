@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -4390,7 +4390,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 157194,
       "name": "Amor Aburrido",
       "url": "https://open.spotify.com/track/1obViPsBiBhsZY2fuBPLD0"
@@ -11870,7 +11870,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 183839,
       "name": "Cambiar\u00e9 mi tristeza por gozo",
       "url": "https://open.spotify.com/track/5FrEIVu7144xWj27P4GJod"
@@ -24202,7 +24202,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 201254,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/21cPb84RhAWCzp0wIUGPlk"
@@ -24568,6 +24568,24 @@
       "duration_ms": 174857,
       "name": "Eres Para M\u00ed",
       "url": "https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG"
+    },
+    {
+      "album": {
+        "name": "Eres Tu",
+        "url": "https://open.spotify.com/album/4wa9qaDQEncevy3nOtQy0j"
+      },
+      "artists": [
+        {
+          "name": "ZeVor\u00e9",
+          "url": "https://open.spotify.com/artist/3HeDKhRrGbkjhnI6fKQJbe"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155036,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/2kTY7jmnySJWvC1pyVNpIQ"
     },
     {
       "album": {
@@ -33562,7 +33580,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -47218,7 +47236,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 72727,
       "name": "Montagem Miau",
       "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
@@ -51350,7 +51368,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -56004,7 +56022,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 157745,
       "name": "Pero Yo S\u00ed",
       "url": "https://open.spotify.com/track/4prlsQZ6dYQLTHAua1SqcR"
@@ -56202,7 +56220,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -66675,6 +66693,24 @@
     },
     {
       "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/7d2WDEj77cJxzW2IlK9LUW"
+      },
+      "artists": [
+        {
+          "name": "Zoni Ok",
+          "url": "https://open.spotify.com/artist/7frHUGsKTpFyGggsgpqb1P"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156336,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/2oz90pkwFyAPaVkFdthbli"
+    },
+    {
+      "album": {
         "name": "Solo Tu Y Yo",
         "url": "https://open.spotify.com/album/2Pswi6V4achDoAG7S6EtBy"
       },
@@ -67774,7 +67810,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 207986,
       "name": "Stand By",
       "url": "https://open.spotify.com/track/6BxCmy6vGbuOckxg6YfQOW"
@@ -75601,6 +75637,24 @@
     },
     {
       "album": {
+        "name": "El Diamond",
+        "url": "https://open.spotify.com/album/4bBpFRCza5SgnesIaYfwj0"
+      },
+      "artists": [
+        {
+          "name": "Fronti",
+          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146503,
+      "name": "Un Kiss",
+      "url": "https://open.spotify.com/track/6RZyak46Ufg0VCrWRyz0FJ"
+    },
+    {
+      "album": {
         "name": "Sigue Tu Camino",
         "url": "https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g"
       },
@@ -79152,6 +79206,24 @@
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
+    },
+    {
+      "album": {
+        "name": "Still Not Getting Any...",
+        "url": "https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Welcome to My Life",
+      "url": "https://open.spotify.com/track/10rChmECwPcvTTj4w07hq4"
     },
     {
       "album": {

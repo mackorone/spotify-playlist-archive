@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 331485,
+  "num_followers": 331546,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAABiCwL3+7FgDwoChHj4MSga",
+  "snapshot_id": "aUHygAAAAABkYFag2AViLM9orm7r4k4h",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Gangsta Bop",
-      "url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 178853,
       "name": "I Wanna Love You - Album Version (Edited)",
       "url": "https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Gangsta Bop",
+      "url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Now (Na Na Na)",
-        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 310733,
-      "name": "Clap Again",
-      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intoxication",
         "url": "https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 187120,
       "name": "What's Love (feat. Akon)",
       "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Clap Again",
+      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
     },
     {
       "added_at": null,

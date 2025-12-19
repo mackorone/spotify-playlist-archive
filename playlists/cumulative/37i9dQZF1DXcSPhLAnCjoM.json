@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Ailleurs\" d'Orelsan est le Grand Hit de la semaine",
+  "description": "\"Tout a chang\u00e9 (Rien n'a chang\u00e9)\" d'Helena est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -942,6 +942,24 @@
       "duration_ms": 202280,
       "name": "Comme des loups (feat. Zaoui)",
       "url": "https://open.spotify.com/track/4M5GHCgdNcIk4I2tdXhLia"
+    },
+    {
+      "album": {
+        "name": "Comme toutes les filles",
+        "url": "https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9e",
+          "url": "https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167431,
+      "name": "Comme toutes les filles",
+      "url": "https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy"
     },
     {
       "album": {
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 287000,
       "name": "L'amour fou",
       "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-226 songs - 16 hr 14 min
+228 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Haka Wajed](https://open.spotify.com/track/5VpHmHIWNXyNmLd4ryeyHV) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 4:14 | 2024-09-11 | 2025-07-01 |
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2022-04-07 | 2023-01-25 |
 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-26 | 2023-05-07 |
+| [Hbnah Antaha](https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7) | [Mohamad Abdel Jabar](https://open.spotify.com/artist/1cWnsJEnx8LcSFJrsCqa0x), [Ali Bader](https://open.spotify.com/artist/74UVX9PGjQ3Hw5ZvDCKcM8) | [Hbnah Antaha](https://open.spotify.com/album/73B6jAxkcAopkWl3GSOXTc) | 6:40 | 2025-12-18 |  |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-04-07 | 2022-07-09 |
 | [Jabek Allah](https://open.spotify.com/track/5QgnCycX2Y7qYPkaDjOsrV) | [Hamad Al Khazinah](https://open.spotify.com/artist/5l9dJPTWI6qfI4IRZnbdF0) | [Jabek Allah](https://open.spotify.com/album/545xf1VGXPGDU2guCZ85SV) | 3:15 | 2024-10-25 | 2024-11-12 |
 | [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 | 2024-04-18 |  |
@@ -177,6 +178,7 @@
 | [ابتسم لي](https://open.spotify.com/track/6SnRVdLWNOv4JPt3xdN91X) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ابتسم لي](https://open.spotify.com/album/2f8v46r3GCmlRZ7Rdmxpvk) | 3:24 | 2022-09-07 | 2022-09-29 |
 | [اشكر جمالك](https://open.spotify.com/track/2gFZxR3Fur5t6fUzKgo7Y9) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/0CnyoumDAlz7cWYRzWccOa) | 4:54 | 2022-04-07 | 2022-10-05 |
 | [اشكر جمالك](https://open.spotify.com/track/6u2oO1mKCDQb7NMyudbe1q) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [اشكر جمالك](https://open.spotify.com/album/7rUlN3gk2ha2ZusWAp0DHQ) | 4:54 | 2022-09-07 | 2022-09-29 |
+| [اعوف الدنيا](https://open.spotify.com/track/0fBy3SWaFE4rzPSRqD6RO7) | [محمد السالم](https://open.spotify.com/artist/6ZjLn03y0m8H3z94ZKmCHB) | [اعوف الدنيا](https://open.spotify.com/album/5DcXnrh8ZXr85dezcuYnE2) | 3:16 | 2025-12-18 |  |
 | [اقسم برب الحب](https://open.spotify.com/track/16n29Queh9WamvEdPAzU30) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [اقسم برب الحب \- Single](https://open.spotify.com/album/0ndiTiEwgNBodLi9FUxCE8) | 3:48 | 2022-04-07 | 2023-03-15 |
 | [الحب الأبدي](https://open.spotify.com/track/7usxVbBzZDS5cizMcCzC0Z) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [الحب الأبدي](https://open.spotify.com/album/62HLjL7THRp3y0913hTOq0) | 4:37 | 2023-08-07 | 2024-04-19 |
 | [العجب في الهوى](https://open.spotify.com/track/7xj5Biz8I1trcgVq57jzhk) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [العجب في الهوى](https://open.spotify.com/album/5QqiSpeyNPcI4rUpvYEhcX) | 5:23 | 2023-08-27 | 2024-04-19 |

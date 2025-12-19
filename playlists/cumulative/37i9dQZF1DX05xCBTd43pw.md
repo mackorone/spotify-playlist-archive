@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Zoë Më
 
-457 songs - 23 hr 34 min
+459 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [I'll Never Tire of Loving You](https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [I'll Never Tire of Loving You](https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R) | 2:46 | 2024-12-20 | 2025-02-09 |
 | [i'm sry i love u](https://open.spotify.com/track/2QLCvG0lf3n5RKCmcgigEI) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [i'm sry i love u](https://open.spotify.com/album/49viDcw7i4XiAfISw95nRm) | 3:15 | 2024-07-04 | 2024-08-14 |
 | [I've Got Everything](https://open.spotify.com/track/5PYk8MWuTPatFEWQCJSU2X) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [I've Got Everything](https://open.spotify.com/album/5floZ9g4WVBKsUP1DBq85F) | 3:01 | 2025-10-02 |  |
-| [If Not for You](https://open.spotify.com/track/1jZTxmMtimtorM3QarvYfI) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Looking for Connection](https://open.spotify.com/album/0WwA5WZDDbgWascJZRU2JU) | 4:17 | 2025-10-24 |  |
+| [If Not for You](https://open.spotify.com/track/1jZTxmMtimtorM3QarvYfI) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Looking for Connection](https://open.spotify.com/album/0WwA5WZDDbgWascJZRU2JU) | 4:17 | 2025-10-24 | 2025-12-19 |
 | [If You Call](https://open.spotify.com/track/5tdBQ0p32owQEMryTSaP1w) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [If You Call](https://open.spotify.com/album/1JopgK1F9sJM1ddlPz51Ol) | 2:25 | 2024-06-27 | 2024-07-05 |
 | [If You Don't Know](https://open.spotify.com/track/28ioSzI3RJhjSikfQywNyX) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [If You Don't Know](https://open.spotify.com/album/6d1TpS1Mcy3xNDF8MDS09d) | 3:06 | 2025-09-12 | 2025-11-07 |
 | [Ig o](https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Ig o](https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci) | 2:42 | 2024-10-03 | 2024-11-02 |
@@ -237,7 +237,7 @@
 | [Lakers](https://open.spotify.com/track/0351Q9c4ETLOlr34NGQyEN) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 3:23 | 2025-04-24 | 2025-05-02 |
 | [last dance](https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [last dance](https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX) | 3:07 | 2024-11-22 | 2024-12-21 |
 | [Le vent nous portera](https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [1983](https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv) | 3:46 | 2025-04-17 | 2025-04-25 |
-| [LEAVE ME ALONE](https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [LEAVE ME ALONE](https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy) | 3:17 | 2025-09-19 |  |
+| [LEAVE ME ALONE](https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [LEAVE ME ALONE](https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy) | 3:17 | 2025-09-19 | 2025-12-19 |
 | [Leave The Light On](https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Leave The Light On](https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA) | 3:40 | 2025-01-10 |  |
 | [Let It Be Me](https://open.spotify.com/track/6ez6TPLn67qFCftaeIUiC5) | [Lucky Wüthrich](https://open.spotify.com/artist/3r5b8sR23b8sYZFwE3kxmD) | [Steady](https://open.spotify.com/album/2O0k1r51y7KQLZ0sT6CezC) | 5:39 | 2025-05-01 | 2025-05-09 |
 | [Let Myself Go](https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT) | 3:19 | 2025-11-06 |  |
@@ -263,6 +263,7 @@
 | [Low Tide](https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Low Tide](https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM) | 2:41 | 2025-05-29 |  |
 | [Luftloch](https://open.spotify.com/track/6PvHlKMKbmogZs3KOm9jtR) | [Mau3](https://open.spotify.com/artist/5g8jW8Xvn6etfPsZ820n2F) | [Luftloch](https://open.spotify.com/album/2UTUaDLEiddyHgVMTppNel) | 3:32 | 2025-04-24 | 2025-05-02 |
 | [Luisa](https://open.spotify.com/track/3HO8nhj3GUWcASnhQFO4iO) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s) | [Luisa](https://open.spotify.com/album/1JWNb9DGs4uPn4aj2yf8iA) | 3:04 | 2024-12-07 | 2024-12-21 |
+| [Madame Butterfly](https://open.spotify.com/track/09rdE3k9xetZ305UxCwWHG) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Madame Butterfly](https://open.spotify.com/album/6AokA1eA9Y4KiwfxlZdLpM) | 3:26 | 2025-12-18 |  |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
 | [Magma im Arm](https://open.spotify.com/track/0zceJ1WQOWLmdq2GwJlJ5X) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Zucker fürs Volk](https://open.spotify.com/album/0PGYKp7TN1R957UD1BSpnh) | 5:11 | 2025-05-15 | 2025-05-23 |
 | [MAMA LIEBT MI](https://open.spotify.com/track/0UwsF7FJ7FDX3iD5Vd5yHR) | [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [DEHEIM DEHEIM](https://open.spotify.com/album/2aOcAezQkKwNon8EbPsDCA) | 3:01 | 2025-04-24 | 2025-05-02 |
@@ -334,6 +335,7 @@
 | [Roll The Dice and Bet](https://open.spotify.com/track/3su4JXbM6u5qiFjlF2hsYl) | [Shuttle](https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh) | [Roll the Dice and Bet](https://open.spotify.com/album/1WpwwGxmDJAEt5OK3TXI5Z) | 3:05 | 2025-04-17 | 2025-04-25 |
 | [Rollen in den Norden](https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Rollen in den Norden](https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C) | 2:30 | 2024-06-27 | 2025-08-31 |
 | [Room333](https://open.spotify.com/track/5cLQee4gGYNJICVYNvrsP9) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Room333](https://open.spotify.com/album/0izv1Zqu92mh9DMBsxQkca) | 3:00 | 2025-04-24 | 2025-05-02 |
+| [Roommates](https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq) | [Tobias Jensen](https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK), [Tobias Carshey](https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo) | [Roommates](https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk) | 2:31 | 2025-12-18 |  |
 | [Roots](https://open.spotify.com/track/3BvKDfgNEGmFymfKMLpykK) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w), [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Roots](https://open.spotify.com/album/4CLjl1IBmqvO2y56O5ljYF) | 2:34 | 2025-02-21 | 2025-06-09 |
 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 | 2025-04-17 | 2025-05-09 |
 | [Run](https://open.spotify.com/track/6pvoD1YUUSiHYc4Mo3qfYr) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Zeal & Ardor](https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l) | 3:16 | 2025-05-15 | 2025-05-23 |

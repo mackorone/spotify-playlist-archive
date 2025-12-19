@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,428 likes - 83 songs - 4 hr 22 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,425 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,6 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 81 | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [The Jammin Kid](https://open.spotify.com/artist/5lYLjuNcfxE03jj9QWxA7X), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Set My Heart On Fire \(I'm Alive x And The Beat Goes On\)](https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF) | 2:59 |
 | 82 | [Forever \(with Kid Cudi\)](https://open.spotify.com/track/6azIJHmmNtLgGfAjFV7Aug) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Forever \(with Kid Cudi\)](https://open.spotify.com/album/0f4VUKiz0MYliNxKqwCoME) | 4:11 |
 | 83 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
+| 84 | [Where Love Lives \- MK Remix](https://open.spotify.com/track/1PklFCtCsOBrsP8DYYZeW8) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Where Love Lives \(MK Remix\)](https://open.spotify.com/album/40Kvzh94VVqWi8xzCFaWN7) | 2:27 |
 
-Snapshot ID: `AAAQFcLQkp+ZI0rlezKQWtY52DN4W/pY`
+Snapshot ID: `AAAQFrrIUgq8Fppm9ZL0iPTyrrkafzZU`

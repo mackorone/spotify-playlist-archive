@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-598 songs - 1 day 10 hr 7 min
+599 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [D Boss Nera Maathu](https://open.spotify.com/track/6zQCYjmxhlRqBrq08PH4WW) | [Harshit Acharya](https://open.spotify.com/artist/6igHsxUrTKAq3LLGS0AX6x), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [D Boss Nera Maathu](https://open.spotify.com/album/31g7eocmCwHhmzzZd3VCUC) | 3:27 | 2024-11-26 | 2025-03-18 |
 | [Daari \- The Way of Life](https://open.spotify.com/track/0upvnzpFrtV9TqTA7cfJhC) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Daari \- The Way of Life](https://open.spotify.com/album/5LzEpngZmmTKQ228rk64Ln) | 4:15 | 2023-12-07 | 2024-02-17 |
 | [Dark](https://open.spotify.com/track/65IhQPkC4vz6a8ApcYrfG7) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Kritarth](https://open.spotify.com/artist/4RzDP3bbciwBv8dMmSFWXW) | [Dark](https://open.spotify.com/album/2ugY39NzlA62g1Ct0jT5aH) | 1:53 | 2025-02-26 | 2025-07-23 |
-| [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 | 2025-07-16 |  |
+| [Dark Side](https://open.spotify.com/track/3WfZFECvaHHGgLiRjgj0ze) | [Sagar Gowda](https://open.spotify.com/artist/7gTnN6gHfJ4BqHA6yyz3U9) | [Dark Side](https://open.spotify.com/album/4QCGjjxgY4SjDNvmNJWK1D) | 3:20 | 2025-07-16 | 2025-12-19 |
 | [Dear Nikki](https://open.spotify.com/track/1nq7A0Za0wROknaJE2IsJu) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV) | [Dear Nikki](https://open.spotify.com/album/1ZgGzdKQbbycNovfxMWqFh) | 3:29 | 2024-12-06 | 2025-04-29 |
 | [Desi Naari](https://open.spotify.com/track/4L6RuaCgSOnd5SyLTOpQKF) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Desi Naari](https://open.spotify.com/album/5GKXlpKoXac3knHKajzLOQ) | 2:35 | 2025-09-15 |  |
 | [Devathe](https://open.spotify.com/track/3ZXXhJW1YazmSPzvjKefUf) | [Ajay Aj](https://open.spotify.com/artist/5hW9LgJwAYfPjr1LTeTpBV), [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Devathe](https://open.spotify.com/album/4DeH8ab6MWaXJMWVuZkG7p) | 2:43 | 2024-02-14 | 2024-02-17 |
@@ -432,6 +432,7 @@
 | [Ninna Benna Haadi](https://open.spotify.com/track/7rJKZAjD15dDMyogLzmcRN) | [Pavan Kumar N R](https://open.spotify.com/artist/3bU2PMblhilv78x5bCCimy), [Pavan Kumar](https://open.spotify.com/artist/0O9NcedvhpUsBKGKFgFdfF) | [Ninna Benna Haadi](https://open.spotify.com/album/0rZA4ah0v6KbsJB9JyYmOV) | 2:36 | 2024-12-12 | 2025-03-20 |
 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 | 2023-04-06 | 2023-12-23 |
 | [Ninna Maduveyali](https://open.spotify.com/track/2RIO50cubGPxhSaf7lbA21) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Niyaz Nijju](https://open.spotify.com/artist/70VuXJ5CAUJyuYTBHfTnt7) | [Ninna Maduveyali](https://open.spotify.com/album/2v4iLTmeYe1J3WFQN9Qyzr) | 5:10 | 2023-02-24 | 2023-06-08 |
+| [Ninna Mai Chataka Preetsilla](https://open.spotify.com/track/2nu10EEqoqRdEA9MTtNv04) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Ninna Mai Chataka Preetsilla](https://open.spotify.com/album/2NIdPr9XEAJ6IJJ5jcTq4T) | 7:35 | 2025-12-18 |  |
 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 | 2023-05-09 | 2024-01-09 |
 | [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 | 2024-12-10 |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |

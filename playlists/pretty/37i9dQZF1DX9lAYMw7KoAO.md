@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Editor's Picks: The Best of African Gospel in 2025   Cover: <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=Q9gh2cz5QxeZQAlr1WUPiw>Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,679 likes - 50 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,833 likes - 50 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

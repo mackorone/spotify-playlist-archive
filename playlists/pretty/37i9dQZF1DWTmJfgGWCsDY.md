@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Mavokali
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,295 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,306 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 31 | [Coming Home](https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Coming Home](https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd) | 3:20 |
 | 32 | [Bambia](https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA) | [Mczo Morfan \(Big\)](https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2) | [Real Life](https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa) | 4:00 |
 | 33 | [Bado Sijasikia](https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI) | [Misso Misondo](https://open.spotify.com/artist/70Cfd1sDH9DJuiRSpRDT5p), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Bado Sijasikia](https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy) | 3:37 |
-| 34 | [Kosa Langu](https://open.spotify.com/track/29Ef4yxnARlU2yykvmHq7s) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Don Breezy](https://open.spotify.com/artist/2W2NVgvQhDjg6eAWHRxRmy) | [Kosa Langu](https://open.spotify.com/album/0BKfyfvpxZj4j69IzW64ME) | 4:29 |
+| 34 | [Twende Beach](https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em) | [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Twende Beach](https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M) | 4:10 |
 | 35 | [Wezi](https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wezi](https://open.spotify.com/album/47kpUKtAt0sDQKYeXuZX1Y) | 3:25 |
-| 36 | [Twende Beach](https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em) | [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Twende Beach](https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M) | 4:10 |
+| 36 | [Kosa Langu](https://open.spotify.com/track/29Ef4yxnARlU2yykvmHq7s) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Don Breezy](https://open.spotify.com/artist/2W2NVgvQhDjg6eAWHRxRmy) | [Kosa Langu](https://open.spotify.com/album/0BKfyfvpxZj4j69IzW64ME) | 4:29 |
 | 37 | [Pita Huku](https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Pita Huku](https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR) | 4:56 |
 | 38 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
 | 39 | [Nampakia Mkongo](https://open.spotify.com/track/4JMUGR4012eENHnulffTeN) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Elisha](https://open.spotify.com/artist/0vD3qMkifEYNEcUx85ahdA) | [Nampakia Mkongo](https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX) | 3:19 |

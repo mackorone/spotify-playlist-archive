@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Benwal
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,728 likes - 149 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,699 likes - 149 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

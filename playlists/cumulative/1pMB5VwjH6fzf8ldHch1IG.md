@@ -4,7 +4,7 @@
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Doja Cat.
 
-1,455 songs - 3 day 4 hr 37 min
+1,457 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [All Out Of Fight](https://open.spotify.com/track/6q9hfDHefnOlZNmEanRn1F) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/3rYB02CvfMqjKeXaqCRBK6) | 3:32 | 2023-12-01 | 2024-01-20 |
 | [All over me](https://open.spotify.com/track/08lwoqbPtnLRzBZW92dm0l) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:22 | 2025-06-20 | 2025-08-16 |
 | [All Stand Together](https://open.spotify.com/track/5Tg7ljm6nxJiBh8jl6cpPz) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [All Stand Together](https://open.spotify.com/album/5eIZT2VKUxB8REoU0V1Qs2) | 3:15 | 2023-11-10 | 2023-12-09 |
+| [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2025-12-18 |  |
 | [All We Do](https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:34 | 2024-11-29 | 2024-12-07 |
 | [All Yours](https://open.spotify.com/track/0FK76UEefHKQ78AXEWJY31) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [DOPAMINE](https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr) | 3:28 | 2024-06-14 | 2024-08-03 |
 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 | 2024-10-04 | 2024-11-02 |
@@ -117,7 +118,7 @@
 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-25 | 2025-10-15 |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-20 | 2025-07-26 |
 | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/track/4VS68hFMSdb6adNtXIBGIz) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Back To Back \(feat\. Future & Southside\)](https://open.spotify.com/album/4nOq0yHDsHVyxBTXjTgKZD) | 3:05 | 2024-04-26 | 2024-06-15 |
-| [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 | 2025-10-17 |  |
+| [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 | 2025-10-17 | 2025-12-19 |
 | [Back to Me](https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Back to Me](https://open.spotify.com/album/5oVyW0Lsox64SixboTYYYE) | 3:15 | 2024-01-19 | 2024-04-06 |
 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-11-22 | 2025-01-11 |
 | [Backseat Driver](https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG) | 3:16 | 2024-07-12 | 2024-08-03 |
@@ -1351,6 +1352,7 @@
 | [TUMBAO](https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TUMBAO](https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c) | 2:46 | 2025-08-08 | 2025-09-20 |
 | [Tunnel Vision](https://open.spotify.com/track/7iQNDl6b48HkG3riOcF5rm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/2DVKqtyckfMyE6ypDePXjM) | 2:43 | 2025-02-07 | 2025-03-01 |
 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 | 2024-02-02 | 2024-03-02 |
+| [Turn The Lights Off \(feat\. Jon\) \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 | 2025-12-18 |  |
 | [Turn Up A Notch](https://open.spotify.com/track/25iuEho6akUyl3aufmXHqy) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Turn Up A Notch](https://open.spotify.com/album/2ahiulnzUjr6TQtJ61OJO6) | 2:21 | 2024-09-27 | 2024-11-02 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-07 | 2025-03-29 |
 | [Two Trains \(feat\. Marcus King\)](https://open.spotify.com/track/23cBxlsY43hiuiLwXn5Xkn) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Two Trains \(feat\. Marcus King\)](https://open.spotify.com/album/41GVN5tLVfbmMjqa7JhC94) | 3:35 | 2025-10-14 | 2025-11-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 9532,
+  "num_followers": 9535,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Trapped On Cleveland 3",
+        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Wavy (Remix) [feat. Travis Scott]",
+      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Cafeteria (feat. Gunna)",
         "url": "https://open.spotify.com/album/01XHfJ7cuU8QjJ5pwCpMW8"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 214285,
       "name": "Cafeteria (feat. Gunna)",
       "url": "https://open.spotify.com/track/7l28SBHS3zmKDVnOzG8BM7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Trapped On Cleveland 3",
-        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
-      },
-      "artists": [
-        {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Wavy (Remix) [feat. Travis Scott]",
-      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: VEEKO & Sofiane Pamart",
+  "description": "The best jazz new releases. Cover: Stacey Kent",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 217500,
       "name": "All I Ever Needed",
       "url": "https://open.spotify.com/track/4SayifPw2LFaHxGCzIuJKv"
@@ -1010,6 +1010,40 @@
       "duration_ms": 286398,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4"
+    },
+    {
+      "album": {
+        "name": "Anjo de mim",
+        "url": "https://open.spotify.com/album/56gi3p7SzI2Q3xT4POaId9"
+      },
+      "artists": [
+        {
+          "name": "Bir\u00e9li Lagr\u00e8ne",
+          "url": "https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS"
+        },
+        {
+          "name": "Raphael Pannier",
+          "url": "https://open.spotify.com/artist/7yrHz9SmURRYmWNkaZecl4"
+        },
+        {
+          "name": "Jean-Yves Jung",
+          "url": "https://open.spotify.com/artist/00kgpmXSQTGbYsgMbzQfqP"
+        },
+        {
+          "name": "William Brunard",
+          "url": "https://open.spotify.com/artist/2CKHnbBFpiHF2Uw9Wu2rCy"
+        },
+        {
+          "name": "St\u00e9phane Edouard",
+          "url": "https://open.spotify.com/artist/5O2pPGQmqR2mFYIMqrGSqq"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493093,
+      "name": "Anjo de mim",
+      "url": "https://open.spotify.com/track/2uT7Dgq3BL5oId4d64f0bl"
     },
     {
       "album": {
@@ -3216,7 +3250,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 150866,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/5ySpopJq4R7WBcfdI7NG8g"
@@ -4918,7 +4952,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 168717,
       "name": "Euro",
       "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
@@ -6708,6 +6742,28 @@
       "duration_ms": 335797,
       "name": "Home Cookin'",
       "url": "https://open.spotify.com/track/63geyyZS7EBU3opmvQK4Tw"
+    },
+    {
+      "album": {
+        "name": "HOP, SKIP, JUMP",
+        "url": "https://open.spotify.com/album/1FvUroeDcxTrwKbaKKtOYj"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222437,
+      "name": "HOP, SKIP, JUMP",
+      "url": "https://open.spotify.com/track/1YY7XZ8sOCqlnoFjMA3Zka"
     },
     {
       "album": {
@@ -9526,6 +9582,24 @@
       "duration_ms": 321386,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
+    },
+    {
+      "album": {
+        "name": "Lost Pieces",
+        "url": "https://open.spotify.com/album/7HPFuMcEEclYGdy1ptcVDY"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222891,
+      "name": "Lost Pieces",
+      "url": "https://open.spotify.com/track/4ytgWs2KdZzOKgVkZcIRls"
     },
     {
       "album": {

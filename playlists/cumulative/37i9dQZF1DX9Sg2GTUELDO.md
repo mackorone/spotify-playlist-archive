@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Jaime 張天穎
+> 感受女聲力量。Cover: 謝雅兒
 
-613 songs - 1 day 12 hr 24 min
+617 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [AFK???](https://open.spotify.com/track/1OfUSTbVRxIUaisRxyoqCK) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [AFK???](https://open.spotify.com/album/4rCoxG3kObBdtUszHBpfKX) | 3:06 | 2024-11-07 | 2025-09-12 |
 | [Afterglow](https://open.spotify.com/track/1lQRxn6whhD9GG5jaZcHvu) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Afterglow](https://open.spotify.com/album/1bCV8b4iui8QDDKylQOEBJ) | 2:08 | 2025-02-20 | 2025-09-12 |
 | [all up in your mouth \(like a dentist\)](https://open.spotify.com/track/4RVEx2IcalKPzgcvtw5gTR) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [all up in your mouth \(like a dentist\)](https://open.spotify.com/album/6EaQJOAF2bfDqFSWm4mAT9) | 2:32 | 2025-10-30 |  |
+| [Allô! Marie\-Claude!](https://open.spotify.com/track/6YDP7YCUwaaSiG0fDHOmRe) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Allô! Marie\-Claude!](https://open.spotify.com/album/6C5rZbjqDmIriayyNxbfhW) | 5:46 | 2025-12-18 |  |
 | [Amazing Grace](https://open.spotify.com/track/5cofkYnlrYaXesdVpP6xeP) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Amazing Grace](https://open.spotify.com/album/74VNV5wkmqHDq3xuNLKryH) | 4:58 | 2024-06-27 | 2025-09-12 |
 | [AMERICANO](https://open.spotify.com/track/6zjnNyW1pZbMkt69v2OkTL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [AMERICANO](https://open.spotify.com/album/6JBvATX9VNlsWqrNND2xm9) | 2:41 | 2025-09-18 |  |
 | [AMERICANO \- nutty ver.](https://open.spotify.com/track/6hbk14eY4dgqoOoCUMPlqh) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [AMERICANO \(nutty ver.\)](https://open.spotify.com/album/4NFEtszSbF1iEFNdCnzs79) | 2:40 | 2025-10-23 |  |
@@ -241,6 +242,7 @@
 | [不明文規定](https://open.spotify.com/track/5pnyoT0JPRJMuTfWPNBRMC) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [不明文規定](https://open.spotify.com/album/1Zj1ZhfmGyFhPBJ1wCtVfe) | 3:51 | 2025-03-16 |  |
 | [不是男孩](https://open.spotify.com/track/6UWSItjcLD6Wg7HodNvze6) | [蘇麗珊](https://open.spotify.com/artist/2qIeMjTqaIOFJYftPN4me7) | [不是男孩](https://open.spotify.com/album/3OsDl81PwF9KZ4QDu32UIH) | 3:35 | 2024-06-27 | 2025-09-12 |
 | [不眠遊戲](https://open.spotify.com/track/6PfGFBlK0QaDqKMsKkPu7w) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [不眠遊戲](https://open.spotify.com/album/1enzZ6bT5hAGYKgY8yvalu) | 3:00 | 2024-06-27 | 2025-09-12 |
+| [不知從何說起](https://open.spotify.com/track/34KtBPByEHl33pIl2sv6vw) | [Miriam Yeung](https://open.spotify.com/artist/1rxk3vAYWeiBD2Q6FCezcl) | [不知從何說起](https://open.spotify.com/album/1QLMmF6LL3VKEs5DjNDItL) | 4:20 | 2025-12-18 |  |
 | [不羈](https://open.spotify.com/track/2ZIL1PtThR5tydXRb9cyJ3) | [CK 黃斯琪](https://open.spotify.com/artist/71nFssyAK21hrZo32OWnkX), [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [不羈](https://open.spotify.com/album/7A5B51z3ZBY8PGcXWV63cH) | 3:08 | 2024-06-27 | 2025-09-12 |
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2024-06-27 | 2025-09-12 |
 | [世界上最爛的人](https://open.spotify.com/track/59ND4QiEy8N1b6lk7N1UJb) | [潘釗彤 Chiutung](https://open.spotify.com/artist/2Px5jRmWVyVOwuThsEW9DD) | [世界上最爛的人](https://open.spotify.com/album/01cV1F30pN7FEgqIVYhLMG) | 3:39 | 2025-10-16 |  |
@@ -295,6 +297,7 @@
 | [出事 OOPS](https://open.spotify.com/track/79CnYUMohdUYH72JQOsxZg) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [REVOLVING: UP](https://open.spotify.com/album/4dOoaq4G65ff54rHCsNJgg) | 2:34 | 2025-08-21 |  |
 | [分手100天](https://open.spotify.com/track/1Gff3RIM10I4eVgKQ8tfGa) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [分手100天](https://open.spotify.com/album/65lSGYexBOmExNTUaPwEBX) | 4:02 | 2024-06-27 | 2025-09-12 |
 | [分手後的自癒療程](https://open.spotify.com/track/5migr53jftKZm6eAyBTjqi) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [分手後的自癒療程](https://open.spotify.com/album/0AcylKZ5eG2mu4Ca3CIT27) | 4:20 | 2024-06-27 | 2025-09-12 |
+| [分手散步學](https://open.spotify.com/track/2XIecsdgeF0h9X9gNsZSTs) | [表妹 Mona](https://open.spotify.com/artist/16cKZhQyzOVR5DxvNGN5PO) | [分手散步學](https://open.spotify.com/album/4clOvDgGeuHCLbPLc1TorB) | 4:40 | 2025-12-18 |  |
 | [別怕，我會恨自己！](https://open.spotify.com/track/4oQkEh2UsKch1gQ3G8rrSF) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [別怕，我會恨自己！](https://open.spotify.com/album/7n9JfBUueY0ZfEtblnnMWw) | 4:13 | 2025-10-30 |  |
 | [別氹我](https://open.spotify.com/track/20GS43c9bGvL7UEb4lJeme) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [別氹我](https://open.spotify.com/album/2mq0PIl6szXutOTmn4Vb6d) | 4:25 | 2024-06-27 | 2025-09-12 |
 | [別為我好](https://open.spotify.com/track/7mjD9lnV1pLw36tPcyPHF5) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [別為我好](https://open.spotify.com/album/2IvmamQT6AMugR1mCU2VwZ) | 3:27 | 2024-06-27 | 2025-09-12 |
@@ -407,6 +410,7 @@
 | [我們沒有在一起](https://open.spotify.com/track/2rUyO4jirsMSeZwvjZvbJr) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [我們沒有在一起](https://open.spotify.com/album/2Ee2fEZE7bkQGAwX3FAIpU) | 3:43 | 2025-03-27 |  |
 | [我們的愛](https://open.spotify.com/track/7MPYCnyGDMDhaA0O6L6NqU) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [我們的愛](https://open.spotify.com/album/0ZYOeGzoWt9l5yWrw64Jh3) | 3:19 | 2025-07-17 |  |
 | [我們還有幾多時間](https://open.spotify.com/track/5rx9oRDS1OLuXxpfxPrsEL) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [我們還有幾多時間](https://open.spotify.com/album/3dZyeacsFUIuFYYfLVkRaE) | 3:19 | 2025-10-11 |  |
+| [我們都\(可以\)是天使](https://open.spotify.com/track/7r166LB7PvXxT5kmqVA2MK) | [謝雅兒](https://open.spotify.com/artist/3spApH2tC3gVmNOkW0hrZk) | [我們都\(可以\)是天使](https://open.spotify.com/album/2gHJPYe6fs2hr2kURTB4Zd) | 3:07 | 2025-12-18 |  |
 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 | 2024-06-27 | 2025-09-12 |
 | [我唔理啦](https://open.spotify.com/track/12k0pvhhmaDOGSZWLfZVFN) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [我唔理啦](https://open.spotify.com/album/7MuoZDHIAtiCsLzu3A0AQf) | 2:44 | 2024-07-25 | 2025-09-12 |
 | [我喜歡的你](https://open.spotify.com/track/4SZkrXq0buX9AXcU8JubkU) | [Angela Hui](https://open.spotify.com/artist/33ciDO8FKA1Cvwz1hjvjGj) | [我喜歡的你](https://open.spotify.com/album/2YYqwb3x01qjd6rjKpCOcc) | 3:44 | 2024-06-27 | 2025-09-12 |

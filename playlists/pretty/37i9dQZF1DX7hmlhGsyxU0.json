@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 203901,
+  "num_followers": 203921,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAKQuDEMHqhg9aA6g62e3OvpyRYKV",
   "tracks": [
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
-      },
-      "artists": [
-        {
-          "name": "Florian Christl",
-          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
-        }
-      ],
-      "duration_ms": 152173,
-      "name": "Vivaldi Variation (meno mosso)",
-      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
-    },
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
@@ -47,18 +31,18 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke"
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/380lKpj6YYZwdS0hghzPaE"
       },
       "artists": [
         {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
         }
       ],
-      "duration_ms": 117401,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI"
+      "duration_ms": 152173,
+      "name": "Vivaldi Variation (meno mosso)",
+      "url": "https://open.spotify.com/track/1L7y9wtq9PzlY42qBQCNYu"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -79,6 +63,22 @@
       "duration_ms": 176120,
       "name": "A Lifetime Rolls By - annasara Rework",
       "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/3fKmxalDLrKvgZeLITSnke"
+      },
+      "artists": [
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+        }
+      ],
+      "duration_ms": 117401,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/28uiAcWusO4hqZneUFleyI"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Steady, Thyself (Piano Version)",
-        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
-      },
-      "artists": [
-        {
-          "name": "VLMV",
-          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
-        }
-      ],
-      "duration_ms": 185387,
-      "name": "Steady, Thyself (Piano Version)",
-      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/0vWrlO35rzAbUfPr2CMZ7M"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 153000,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/1WBEvbuxU065CyFXQtR3v4"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
+        "name": "Steady, Thyself (Piano Version)",
+        "url": "https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi"
+      },
+      "artists": [
+        {
+          "name": "VLMV",
+          "url": "https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl"
+        }
+      ],
+      "duration_ms": 185387,
+      "name": "Steady, Thyself (Piano Version)",
+      "url": "https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -379,6 +379,26 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "The Last Gate",
+        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
+      },
+      "artists": [
+        {
+          "name": "Cesare Picco",
+          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
+        },
+        {
+          "name": "Leonardo Sapere",
+          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
+        }
+      ],
+      "duration_ms": 315644,
+      "name": "Until The End",
+      "url": "https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
         "url": "https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 153679,
       "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
       "url": "https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "The Last Gate",
-        "url": "https://open.spotify.com/album/3WOxjZRkOEgzzrK2wjibIy"
-      },
-      "artists": [
-        {
-          "name": "Cesare Picco",
-          "url": "https://open.spotify.com/artist/1yxGwA4z1LaJR0UuQQEKYq"
-        },
-        {
-          "name": "Leonardo Sapere",
-          "url": "https://open.spotify.com/artist/3t5VwuXNi91PtEFW3iLhgP"
-        }
-      ],
-      "duration_ms": 315644,
-      "name": "Until The End",
-      "url": "https://open.spotify.com/track/1uFPp4HMTVrZoKbpx1ngie"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -495,6 +495,26 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
+        "name": "You Will Never Walk Alone (Glowworm Rework)",
+        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
+      },
+      "artists": [
+        {
+          "name": "Maciej Sadowski",
+          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
+        },
+        {
+          "name": "Glowworm",
+          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "You Will Never Walk Alone - Glowworm Rework",
+      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
+    },
+    {
+      "added_at": "2025-10-03 10:20:21",
+      "album": {
         "name": "Giazotto: Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
         "url": "https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh"
       },
@@ -531,38 +551,22 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "You Will Never Walk Alone (Glowworm Rework)",
-        "url": "https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM"
+        "name": "Swan Lake Story",
+        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
       },
       "artists": [
         {
-          "name": "Maciej Sadowski",
-          "url": "https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J"
+          "name": "W CELLO",
+          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
         },
         {
-          "name": "Glowworm",
-          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
         }
       ],
-      "duration_ms": 233120,
-      "name": "You Will Never Walk Alone - Glowworm Rework",
-      "url": "https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG"
-    },
-    {
-      "added_at": "2025-10-03 10:20:21",
-      "album": {
-        "name": "Transcend",
-        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
-      },
-      "artists": [
-        {
-          "name": "Franco Robert",
-          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
+      "duration_ms": 170375,
+      "name": "Swan Lake Story, Op. 1",
+      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
     },
     {
       "added_at": "2025-10-03 10:20:21",
@@ -583,22 +587,18 @@
     {
       "added_at": "2025-10-03 10:20:21",
       "album": {
-        "name": "Swan Lake Story",
-        "url": "https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU"
+        "name": "Transcend",
+        "url": "https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1"
       },
       "artists": [
         {
-          "name": "W CELLO",
-          "url": "https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd"
-        },
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+          "name": "Franco Robert",
+          "url": "https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx"
         }
       ],
-      "duration_ms": 170375,
-      "name": "Swan Lake Story, Op. 1",
-      "url": "https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU"
+      "duration_ms": 212307,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX"
     },
     {
       "added_at": "2025-10-03 10:20:21",

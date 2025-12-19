@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 476 songs - 23 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 476 songs - 23 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -333,8 +333,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 323 | [Fica Titi Não](https://open.spotify.com/track/1k92O4rH8Cadue3gXzVchL) | [Rafa e Junior](https://open.spotify.com/artist/583d9476xT4d6A0pADiRJg) | [Fica Titi Não](https://open.spotify.com/album/4mkAPYOFwQ46ozNiN2wQb2) | 2:43 |
 | 324 | [Rei dos Poeirões](https://open.spotify.com/track/30uwDJwbBtMYhWXdvdS2N2) | [Pepê Figueiredo](https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW) | [Rei dos Poeirões](https://open.spotify.com/album/5Cb6TPwJ4LBg4qxnLhopvd) | 3:17 |
 | 325 | [Colabora Aí \- Ao Vivo](https://open.spotify.com/track/39aSimlpRd81jshAvYkOLJ) | [Bruno & Rafa](https://open.spotify.com/artist/4ZL1DrfqfKCFj6x7WCxaBo), [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Na Raça, Completo \(Ao Vivo\)](https://open.spotify.com/album/1NcCK0Q8fzgLdIV1WjtW4i) | 2:49 |
-| 326 | [Só Você É Meu Baby](https://open.spotify.com/track/2RsIBixiNdfWiq2okUHKB2) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gg e Seus Teclados, Ep\. 03, Vol\. 2](https://open.spotify.com/album/6fxNyhIB83TUBfmUQg1btl) | 3:24 |
-| 327 | [Onde Está](https://open.spotify.com/track/04Qo4wZtjvx1AOYSA6sq7S) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC) | [Filmes e Histórias, Vol\. 28](https://open.spotify.com/album/6fhNs80ovNuhyebRNTfj3W) | 2:49 |
+| 326 | [Onde Está](https://open.spotify.com/track/04Qo4wZtjvx1AOYSA6sq7S) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC) | [Filmes e Histórias, Vol\. 28](https://open.spotify.com/album/6fhNs80ovNuhyebRNTfj3W) | 2:49 |
+| 327 | [Só Você É Meu Baby](https://open.spotify.com/track/2RsIBixiNdfWiq2okUHKB2) | [Gabriel Gava](https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA) | [Gg e Seus Teclados, Ep\. 03, Vol\. 2](https://open.spotify.com/album/6fxNyhIB83TUBfmUQg1btl) | 3:24 |
 | 328 | [Só Vem Quando Lá Não Tem](https://open.spotify.com/track/5EPMFWASTUfr6yS48cXvyZ) | [Lorrane Araújo](https://open.spotify.com/artist/1a8K8Hakz1xR4C5yCZuKy7) | [Só Vem Quando Lá Não Tem](https://open.spotify.com/album/7b0uWgI42QsCh8ThSj3Jga) | 2:45 |
 | 329 | [Mariana \- Ao Vivo](https://open.spotify.com/track/10hgJEcUvOAFbSOvwlZpZv) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY) | [João Gabriel: Ao Vivo em Goiânia](https://open.spotify.com/album/7kYGk5VsNaBwa3OuVsKmlI) | 3:20 |
 | 330 | [Nada](https://open.spotify.com/track/5XDPRVKFwsAaZDTG0Vlutw) | [Oh! Romeo](https://open.spotify.com/artist/7KQbGVjQiKZC8xXGvDtNHA) | [La mañana](https://open.spotify.com/album/1A1pCqF5m2piQNzfVbw09s) | 2:26 |
@@ -403,8 +403,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 393 | [Saudade da Pegada Dela](https://open.spotify.com/track/1rRg6ZRClROXUbydOHvrfe) | [Hugo Matta](https://open.spotify.com/artist/6Olch7A7o6ihZVv5BgGJGj) | [Trenzão](https://open.spotify.com/album/0nsEcXARPqLOHNYFY3oyx7) | 2:42 |
 | 394 | [Cê Não Guenta Não \- Ao Vivo](https://open.spotify.com/track/078rPsdYBWdkMVDSTKDoOM) | [Jonh Reis](https://open.spotify.com/artist/36VUbFPwPLUMn5DhQbjtlg) | [Cê Não Guenta Não \(Ao Vivo\)](https://open.spotify.com/album/6GuchujYZooWlrjRkCDVjP) | 2:39 |
 | 395 | [Tesoura](https://open.spotify.com/track/6oVewYofbEY2MgXTz2b9L9) | [Lucylla](https://open.spotify.com/artist/5wNYkuuSLweG3nQna5OZl5) | [Tesoura](https://open.spotify.com/album/6YT0q3eTVwH2iLcjXfa3PK) | 2:46 |
-| 396 | [Lugarzinho no Corpo](https://open.spotify.com/track/3DnneD1OA70E4XHfClXytQ) | [Andii Soares](https://open.spotify.com/artist/45y1i2ZMGHMZSRJpvC010i) | [Lugarzinho no Corpo](https://open.spotify.com/album/4nn8FI77uIJ8r46HDE3B6o) | 2:40 |
-| 397 | [Duas Horas \- Ao Vivo](https://open.spotify.com/track/1eHpQ0Fu5zDahlj5JgbCP2) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/63q8lsOzQDtmh34PSChZLF) | 3:05 |
+| 396 | [Duas Horas \- Ao Vivo](https://open.spotify.com/track/1eHpQ0Fu5zDahlj5JgbCP2) | [Mateus e Cristiano](https://open.spotify.com/artist/6ruYI9GKMzqQhfUNeEtY4y) | [No Quintal \(Ao Vivo\)](https://open.spotify.com/album/63q8lsOzQDtmh34PSChZLF) | 3:05 |
+| 397 | [Lugarzinho no Corpo](https://open.spotify.com/track/3DnneD1OA70E4XHfClXytQ) | [Andii Soares](https://open.spotify.com/artist/45y1i2ZMGHMZSRJpvC010i) | [Lugarzinho no Corpo](https://open.spotify.com/album/4nn8FI77uIJ8r46HDE3B6o) | 2:40 |
 | 398 | [Matando Cachorro a Grito \- Ao Vivo](https://open.spotify.com/track/5rBrvn6O2iLFGh68Wgo38Y) | [Karol Reis](https://open.spotify.com/artist/0QrcTUZe7ZeNbmS3AGX5Rs) | [Detalhes \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/25I8iYeYoaZZ3rdfRqx4mG) | 2:47 |
 | 399 | [No Fundo do Bar](https://open.spotify.com/track/1NnQnnA9D3EPm2XH48ldlC) | [Karol Diva](https://open.spotify.com/artist/4krIwiBQx4jUIujw7qBwXW), [Valdir Souza](https://open.spotify.com/artist/6BwCSMWXYE83HHMG7i540K) | [No Fundo do Bar](https://open.spotify.com/album/3WWxBxzIhyU8ahOzi8sYua) | 2:47 |
 | 400 | [Treta](https://open.spotify.com/track/3PN8gBnrLma2UFNiNIFii8) | [Lambadao Vlogs Oficial](https://open.spotify.com/artist/095ByG6zBEMvdtwp40Ih1l), [Banda Mega Som](https://open.spotify.com/artist/2NGG6qLmw9D1OflkK1MLns) | [Treta](https://open.spotify.com/album/5mbMrjncfsAkgoVnnXgBpw) | 2:54 |
@@ -479,10 +479,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 469 | [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 |
 | 470 | [To Indo](https://open.spotify.com/track/0GfxOemm4Tk5Cb8nvZOpHo) | [Leozinho Imperador](https://open.spotify.com/artist/6ZsRxwmi4QfJZGKxZ7iUnA) | [Seresta 3..0](https://open.spotify.com/album/2ot0sxu7VXV0gTV0qpvpeW) | 3:12 |
 | 471 | [Insubstituível](https://open.spotify.com/track/47okPEuAduPfgjuQcztMwi) | [Rogério & Vinicius](https://open.spotify.com/artist/242npdM1FeToWKENN5PVmn) | [Fazendinha](https://open.spotify.com/album/3J2YtXqpEVUPYdOggCrKij) | 3:46 |
-| 472 | [Alvo do Momento](https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b) | [Alan Leone](https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J) | [Alvo do Momento](https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg) | 3:32 |
+| 472 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
 | 473 | [Grau de Maluca](https://open.spotify.com/track/3aOrCKBQwKKYyduOfWt9Kl) | [Banda Real Som Oficial De MT](https://open.spotify.com/artist/4nhdf1JFBVHE7WkTKzlsrH), [LAMBADÃO 100% TOP DAS TOP](https://open.spotify.com/artist/1fxGzvSW8Ailwj0ZDVRUu3) | [Grau de Maluca](https://open.spotify.com/album/5mwVA36hr5CsF9IlmrQNfO) | 2:47 |
-| 474 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
-| 475 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 474 | [Alvo do Momento](https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b) | [Alan Leone](https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J) | [Alvo do Momento](https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg) | 3:32 |
+| 475 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 476 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcEf0gAAAAAD7T3SlG4dz2qWPyhCmRBU`
+Snapshot ID: `AcElhgAAAADWZx/+6L+Q3+uAk3JKiOdN`

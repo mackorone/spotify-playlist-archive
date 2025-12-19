@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK"
+      },
+      "artists": [
+        {
+          "name": "George Winston",
+          "url": "https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240314,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/75vSIO1nZtPcroF9H7lbp2"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -2882,7 +2900,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 272393,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"

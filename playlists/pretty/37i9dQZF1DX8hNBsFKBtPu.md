@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,736 likes - 104 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,729 likes - 104 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 2 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 3 | [Forelsket i København](https://open.spotify.com/track/2lRQ3aDVvQU31t1hfQHmkW) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Forelsket i København](https://open.spotify.com/album/663WD8sBimoLuVEY2jT3rd) | 2:28 |
 | 4 | [Hey Freja](https://open.spotify.com/track/4xKeaZdRCGM44N6JmUhqNI) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Hey Freja](https://open.spotify.com/album/1VQ7XGASLbR7XdBcFv6MIy) | 2:52 |
-| 5 | [Little Boy](https://open.spotify.com/track/6IOlDaveXdZW81OtCRcBGq) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Little Boy](https://open.spotify.com/album/5jYy4pARrnvDg2MXd8Rjz2) | 2:39 |
+| 5 | [Little Boy](https://open.spotify.com/track/6IOlDaveXdZW81OtCRcBGq) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Little Boy](https://open.spotify.com/album/5jYy4pARrnvDg2MXd8Rjz2) | 2:37 |
 | 6 | [Voksen](https://open.spotify.com/track/53jXRnb1DFknbia3gyuvnD) | [Hjalmer](https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ) | [Tændstikmand](https://open.spotify.com/album/2ziEeRnhEpkyou0mL0EYLF) | 2:31 |
 | 7 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 |
 | 8 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 |

@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233531,
+      "name": "AUDEMARS PiQUET",
+      "url": "https://open.spotify.com/track/1OPszPKUlwORknReyxf426"
+    },
+    {
+      "album": {
         "name": "AURA",
         "url": "https://open.spotify.com/album/42KcHxSUIFwxvj72vIuOjf"
       },
@@ -2099,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Chilleis",
+        "url": "https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125096,
+      "name": "Chilleis",
+      "url": "https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP"
+    },
+    {
+      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/3e100jRy19dNFWOzHRC59d"
       },
@@ -2114,6 +2150,28 @@
       "duration_ms": 152124,
       "name": "Clean",
       "url": "https://open.spotify.com/track/1BgeEIf7mUD4CcOmSMJRrK"
+    },
+    {
+      "album": {
+        "name": "Clique La Lv",
+        "url": "https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
+        {
+          "name": "YB026",
+          "url": "https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Clique La Lv",
+      "url": "https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR"
     },
     {
       "album": {
@@ -5619,6 +5677,24 @@
     },
     {
       "album": {
+        "name": "Ikuista",
+        "url": "https://open.spotify.com/album/63ZdyUJsIupRitpKLc3Cvd"
+      },
+      "artists": [
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Ikuista",
+      "url": "https://open.spotify.com/track/5YnH11C9B6yQI8uh8QG1Jb"
+    },
+    {
+      "album": {
         "name": "Ikuisuuteen",
         "url": "https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk"
       },
@@ -6322,7 +6398,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 200385,
       "name": "Joutsenet",
       "url": "https://open.spotify.com/track/758Kl8JokCJSFBBdn2Kp6h"
@@ -7502,7 +7578,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 155173,
       "name": "KIHO",
       "url": "https://open.spotify.com/track/5HUHnu9tGDQWoAkaDkbPaj"
@@ -12994,7 +13070,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 151721,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4xF4ZI0mctIXjHL0kv33bm"
@@ -13306,7 +13382,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 178826,
       "name": "Ole hyv\u00e4 (feat. Hazard)",
       "url": "https://open.spotify.com/track/2kbKmLI9CjqZrgUUzzmKwr"
@@ -16092,7 +16168,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 128500,
       "name": "SADE (HHH)",
       "url": "https://open.spotify.com/track/0azLSjbVpGHymQ3Pb8YYFc"
@@ -20450,7 +20526,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 158087,
       "name": "Vastal\u00e4\u00e4ke (feat. Etta)",
       "url": "https://open.spotify.com/track/35IfC9JlQTKhz93mGRLl14"

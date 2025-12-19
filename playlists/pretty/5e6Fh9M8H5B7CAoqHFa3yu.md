@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,723 songs - 4 day 8 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,726 songs - 4 day 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1731,5 +1731,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1721 | [Coffee in New York](https://open.spotify.com/track/2kAgs1LUk4z7UCDFZ6GBrW) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in New York](https://open.spotify.com/album/5wolzIv4nc5hb4nMSK5HGR) | 3:46 |
 | 1722 | [Fuochi di Neve](https://open.spotify.com/track/2EjTRMilUxuGH4rM9mmKkj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fuochi di Neve](https://open.spotify.com/album/4rxg2lMcacOkPGmJCw6zKU) | 1:44 |
 | 1723 | [Tükröm](https://open.spotify.com/track/66lj9fWMUcvwcFjy9WxMEp) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Felejtsd el!](https://open.spotify.com/album/2BvhBusLCqco5GyiSinxSV) | 4:09 |
+| 1724 | [Te vas milonga](https://open.spotify.com/track/70U2FFW5R9UDaBjjpdKycn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Te vas milonga](https://open.spotify.com/album/6N5YpykukS9nj2dRCO0nG6) | 2:05 |
+| 1725 | [Dioses del Vudú](https://open.spotify.com/track/6mbTqEDd4nVWiFCCXfmDZA) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Dioses del Vudú](https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt) | 3:31 |
+| 1726 | [Jesse Pinkman](https://open.spotify.com/track/5wYXWYHd20BfL3iUhMGLuJ) | [ennuivox](https://open.spotify.com/artist/6kojDKZhuOJiWVn33wHWos) | [Jesse Pinkman](https://open.spotify.com/album/412l7oS1mtXgEt6i0Ciz3g) | 1:30 |
 
-Snapshot ID: `AAAHk0U2nqABVqnKR/mHgMbjMlDR1FWS`
+Snapshot ID: `AAAHl88lRG1p0GHCtj0d7g6qAporrEBv`

@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93005,
+  "num_followers": 93020,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAABE/7dn1mYNUlkWallvjlSK",
+  "snapshot_id": "aUHygAAAAABqKpGfS6vOvBMz3Kb23AHT",
   "tracks": [
     {
       "added_at": null,
@@ -587,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+        "name": "Radio Berlijn",
+        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
+      "duration_ms": 277053,
+      "name": "Meer Kan Het Niet Zijn",
+      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
     },
     {
       "added_at": null,
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Berlijn",
-        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 277053,
-      "name": "Meer Kan Het Niet Zijn",
-      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,

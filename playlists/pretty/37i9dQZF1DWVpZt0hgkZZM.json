@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 43329,
+  "num_followers": 43347,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Para Bailar... Sin Parar!!",
+        "url": "https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "Del Tingo al Tango",
+      "url": "https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Sonido Digital Bailables",
         "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 209266,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Para Bailar... Sin Parar!!",
-        "url": "https://open.spotify.com/album/00FAdiJMHJFfeGog5xZGqj"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "Del Tingo al Tango",
-      "url": "https://open.spotify.com/track/1doiCnKZbuE7Ybfk4NfDzg"
     },
     {
       "added_at": "2024-07-12 23:11:55",

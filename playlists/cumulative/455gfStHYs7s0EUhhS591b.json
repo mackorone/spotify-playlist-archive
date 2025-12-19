@@ -239,6 +239,28 @@
     },
     {
       "album": {
+        "name": "All That She Wants",
+        "url": "https://open.spotify.com/album/3F74YeCMJR0bhYG8Ff2wlm"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143181,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/7pIq8Wmc1fR6VE2G8HU2wj"
+    },
+    {
+      "album": {
         "name": "Almost Home",
         "url": "https://open.spotify.com/album/4eUsEHvnLniDFaaf98zHvF"
       },
@@ -2870,6 +2892,28 @@
       "duration_ms": 185295,
       "name": "Music In You",
       "url": "https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk"
+    },
+    {
+      "album": {
+        "name": "My Lexicon",
+        "url": "https://open.spotify.com/album/4c41gX4blJgHciAfEcea1E"
+      },
+      "artists": [
+        {
+          "name": "Sander Kleinenberg",
+          "url": "https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6"
+        },
+        {
+          "name": "T_Mo",
+          "url": "https://open.spotify.com/artist/0LT7oynRzMKoEEW9HU5qM6"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217570,
+      "name": "My Lexicon",
+      "url": "https://open.spotify.com/track/78oK40shzFPg5GEJUzoKrn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Where roots meet what’s next\. Cover: Lukas Nelson
 
-921 songs - 2 day 8 hr 35 min
+922 songs - 2 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Nightmare](https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [Anniversary](https://open.spotify.com/album/3L2N9iWhyf3e3BeCJNXOSJ) | 3:53 | 2024-05-03 | 2025-07-05 |
 | [Nightmare](https://open.spotify.com/track/0oksHGLvgXwrvmAxWNO33T) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [American Son](https://open.spotify.com/album/3AbDe8cQYZwtJOmJc6mlXG) | 3:17 | 2024-08-23 | 2025-10-18 |
 | [No Cowboys](https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC) | [Kentucky Blue](https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX) | 3:47 | 2023-02-03 | 2024-01-13 |
+| [No Direction](https://open.spotify.com/track/7v2nfYwLfuGkjyjp4RY2B4) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [No Direction](https://open.spotify.com/album/7pyRDQ0rpwa1nk8xIH5HZB) | 2:56 | 2025-12-12 |  |
 | [No Kings](https://open.spotify.com/track/3M2S0jh9YLJzKXKGI4zpWv) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [No Kings](https://open.spotify.com/album/0buVDygENpuDy8VoHXZNDi) | 2:47 | 2025-10-17 | 2025-11-15 |
 | [No More Tears](https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:34 | 2022-04-15 | 2022-06-25 |
 | [No One Gets Out Alive](https://open.spotify.com/track/6UQd9OqploBo7dXDw7a3n2) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive \(Stripped\)](https://open.spotify.com/album/7csNO2nPCUtU00DDKyIEYK) | 5:30 | 2024-11-15 | 2025-12-13 |

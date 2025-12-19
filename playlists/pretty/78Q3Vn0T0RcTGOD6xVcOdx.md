@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > 
 
-[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 471 likes - 275 songs - 15 hr 42 min
+[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 471 likes - 276 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,5 +283,6 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 | 273 | [Brandos Espaços Brancos](https://open.spotify.com/track/6bfFQDzW9b717Obk9UZDVM) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Nuances](https://open.spotify.com/album/14pzQStt2oOEUVjFe2bcSJ) | 4:17 |
 | 274 | [It's Beginning to Look a Lot Like Christmas \- Live](https://open.spotify.com/track/5qicKEeKmLPWH6qRxfpcIx) | [David Zurita](https://open.spotify.com/artist/5XGAdmgRO0PKYzCHtO8qbx), [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Christmas Acoustic Sessions](https://open.spotify.com/album/3E1mzOZq2T7fgzVO13KkPu) | 3:10 |
 | 275 | [Ageless and Evergreen](https://open.spotify.com/track/53wavi3G6qo2YaTXeOInZl) | [Everton Vidal](https://open.spotify.com/artist/12ejUrQ6HgI6OEvDGG8cs9) | [Ageless and Evergreen](https://open.spotify.com/album/4EkG6nIOlVAyi5yoJqFvXy) | 3:06 |
+| 276 | [Gold \- Radio Edit](https://open.spotify.com/track/1uSzgdzEJaTqGlPmduRzgg) | [Rob le Duc](https://open.spotify.com/artist/1sTi49hyM8Eu6oqU39raFt) | [Gold](https://open.spotify.com/album/4dVtF1fyCW3lp2Uxov1VfE) | 3:36 |
 
-Snapshot ID: `AAAA8SsyayhKs9IxZP5CTWOCdsqNA5Vo`
+Snapshot ID: `AAAA8iDkHA+0jJi3VDYjDCBzezgwtUzb`

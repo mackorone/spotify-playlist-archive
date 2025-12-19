@@ -2,7 +2,7 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Biffy Clyro au top des meilleurs morceaux rock du moment.
+> Wet Leg au top des meilleurs morceaux rock du moment.
 
 443 songs - 1 day 1 hr 20 min
 

@@ -555,18 +555,22 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Langt igjen \u00e5 g\u00e5",
-        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
+        "name": "Nachspiel",
+        "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Swingklubben",
+          "url": "https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 182824,
-      "name": "Langt igjen \u00e5 g\u00e5",
-      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
+      "duration_ms": 157714,
+      "name": "Nachspiel",
+      "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -587,22 +591,18 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Nachspiel",
-        "url": "https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE"
+        "name": "Langt igjen \u00e5 g\u00e5",
+        "url": "https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867"
       },
       "artists": [
         {
-          "name": "Swingklubben",
-          "url": "https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Nachspiel",
-      "url": "https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU"
+      "duration_ms": 182824,
+      "name": "Langt igjen \u00e5 g\u00e5",
+      "url": "https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -675,30 +675,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "SK\u00c5LER",
-        "url": "https://open.spotify.com/album/1kSVaAqrGdiXxh2gMUuCRH"
-      },
-      "artists": [
-        {
-          "name": "Crille",
-          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
-        },
-        {
-          "name": "Olav Haust",
-          "url": "https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv"
-        },
-        {
-          "name": "KLIKK",
-          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
-        }
-      ],
-      "duration_ms": 146909,
-      "name": "SK\u00c5LER",
-      "url": "https://open.spotify.com/track/7yZGSZLKWGWDHMfdaDuqzu"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -719,6 +695,30 @@
       "duration_ms": 192282,
       "name": "Viddas Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "SK\u00c5LER",
+        "url": "https://open.spotify.com/album/1kSVaAqrGdiXxh2gMUuCRH"
+      },
+      "artists": [
+        {
+          "name": "Crille",
+          "url": "https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z"
+        },
+        {
+          "name": "Olav Haust",
+          "url": "https://open.spotify.com/artist/70zQbRqxcwsB6jJxNzd9Uv"
+        },
+        {
+          "name": "KLIKK",
+          "url": "https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69"
+        }
+      ],
+      "duration_ms": 146909,
+      "name": "SK\u00c5LER",
+      "url": "https://open.spotify.com/track/7yZGSZLKWGWDHMfdaDuqzu"
     },
     {
       "added_at": "2025-11-06 23:00:18",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2025-11-06 23:00:18",

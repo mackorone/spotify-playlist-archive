@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 248117,
+  "num_followers": 248138,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAAC2d0BxVtJ6fc4gs0rpLNa/",
+  "snapshot_id": "aUHygAAAAADQz8RNLsK8IzDSZkPBKhTj",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALL I WANT IS YOU",
+        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 135570,
+      "name": "ALL I WANT IS YOU",
+      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pain is Temporary",
         "url": "https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 114865,
       "name": "Costa Rica (feat. The Kid LAROI) - Remix",
       "url": "https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALL I WANT IS YOU",
-        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 135570,
-      "name": "ALL I WANT IS YOU",
-      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
     },
     {
       "added_at": null,

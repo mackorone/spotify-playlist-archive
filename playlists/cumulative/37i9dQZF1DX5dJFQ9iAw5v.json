@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Fragmentos del mundo",
+        "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Jodos",
+          "url": "https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb"
+        }
+      ],
+      "date_added": "2025-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329264,
+      "name": "El cristal de los otros",
+      "url": "https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0"
+    },
+    {
+      "album": {
         "name": "Solo Guitarra",
         "url": "https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 367797,
       "name": "En el fondo del mar",
       "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"

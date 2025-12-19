@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 
 > We just handed the Grim Reaper's first apprentice the AUX cord! All songs curated by Vtuber star Mori Calliope.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,448 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,529 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 | 26 | [5150](https://open.spotify.com/track/0zMElbRUCQU6Y2CnEO3jGY) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [UNOFFICIAL](https://open.spotify.com/album/6a4T8hoVOhAWgzzleHP2aN) | 4:02 |
 | 27 | [あなたはかいぶつ](https://open.spotify.com/track/6rFtgBh6kYpved76LwBdcD) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [あなたはかいぶつ](https://open.spotify.com/album/61FYLfucMYMDbalbqs5Wr0) | 2:51 |
 
-Snapshot ID: `AAAAANze2ZuI44iWwb113+eQoJXhKHpj`
+Snapshot ID: `AAAAAH8wC6lfT5Aytd8HlTwwX/5VIirs`

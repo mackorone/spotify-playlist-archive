@@ -2,9 +2,9 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> pearl of the week ✨Charli xcx ✨
+> pearl of the week ✨Smerz✨
 
-2,191 songs - 4 day 22 hr 44 min
+2,195 songs - 4 day 22 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1125,6 +1125,7 @@
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-19 | 2025-01-03 |
 | [LIGHTS](https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [LIGHTS](https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c) | 3:07 | 2023-10-05 | 2024-03-15 |
 | [Like Honey](https://open.spotify.com/track/5KMrK0AVLoCiCg0jGiVYqA) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Like Honey](https://open.spotify.com/album/1c70M4Oj89Smw3U5CJLmpr) | 2:11 | 2022-10-28 | 2022-12-24 |
+| [Like I Don't Exist](https://open.spotify.com/track/2zWLZBOtZKpXXZ5PscpCRX) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Like I Don't Exist](https://open.spotify.com/album/1TQK5F5kxceeAPf9mhacAg) | 4:03 | 2025-12-18 |  |
 | [Like You in Linen](https://open.spotify.com/track/43C6k35MErofjbUCQAFD37) | [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Like You in Linen](https://open.spotify.com/album/0uyaQpCaqeZKLHS5Zf8e4x) | 3:20 | 2023-02-23 | 2023-03-31 |
 | [Like You Used To](https://open.spotify.com/track/0SLDxXd1I6kJNv7FVphjwf) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Like You Used To](https://open.spotify.com/album/7ye8GEGbRwcDF0jRLdom25) | 3:56 | 2023-07-20 | 2023-08-04 |
 | [Limes](https://open.spotify.com/track/7Fk3cnNt5gzDevwKx5YSlR) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Limes](https://open.spotify.com/album/79Z5ntwuiqHyTrxy8c5sGz) | 3:15 | 2023-06-15 | 2023-07-07 |
@@ -1163,6 +1164,7 @@
 | [Lost a Friend](https://open.spotify.com/track/5caXgageFqvA8zELmKN4r7) | [Hølgersson](https://open.spotify.com/artist/2k0bO9lJMRhfgp76EHNNSa) | [Lost a Friend](https://open.spotify.com/album/572V1LjH5twTL1apGbJHHI) | 3:23 | 2023-02-16 | 2023-03-03 |
 | [Lost In Memories](https://open.spotify.com/track/4Gug166DkIrDlolvyvM7LS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Broken Wings Still Fly](https://open.spotify.com/album/0YWUqVKNh1DG1s7gVme7Tb) | 3:25 | 2024-05-02 | 2024-07-27 |
 | [Lost Track / Chasing Potential](https://open.spotify.com/track/24c4bwReo7nCVAHR7thVq9) | [Regina Amado](https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5) | [Lost Track / Chasing Potential](https://open.spotify.com/album/0MkVpPKM0BA5zL3Y58nWlE) | 3:33 | 2024-10-31 | 2025-01-03 |
+| [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 | 2025-12-18 |  |
 | [Loud with you \(Angel\)](https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [Loud with you \(Angel\)](https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W) | 3:16 | 2025-01-16 | 2025-03-14 |
 | [Loud with you \(Angel\) \(MASAKA Remix\)](https://open.spotify.com/track/71rMOEY3MpLXXqU3r5dHUG) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [See what heaven looks like now \(Versions\)](https://open.spotify.com/album/01xAG2CKbmzcu1TfWap8lC) | 3:22 | 2025-08-21 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-28 |
@@ -1356,6 +1358,7 @@
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-21 | 2024-02-16 |
 | [No Te Metas](https://open.spotify.com/track/6t2gQy5UR8QpUHz86ycB7p) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [No Te Metas](https://open.spotify.com/album/1q0JFZ57Inm8DbvFub29Wb) | 3:04 | 2025-08-07 |  |
 | [No Te Metas \- Sassy 009 Remix](https://open.spotify.com/track/6Bx2Y8yqdpePbXeQ3EPv6M) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [All Rights Remixed](https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv) | 2:57 | 2025-12-04 |  |
+| [No Touch](https://open.spotify.com/track/77McwtuO8TaHXIDRkYJuAp) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Sue Tompkins](https://open.spotify.com/artist/1a9FKVeSjLYGWLwWqzflOO) | [No Touch](https://open.spotify.com/album/6EPtpzDYvy4H6r779yxR3L) | 3:03 | 2025-12-18 |  |
 | [Nobody](https://open.spotify.com/track/19SDHacvs49xXppoYt0Jog) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:48 | 2022-11-03 | 2022-11-25 |
 | [Nobody](https://open.spotify.com/track/47yBceRYFq2I2ekqVM5ytY) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [I Do You](https://open.spotify.com/album/7Fgk8mCjmJmMAnOLnOJL9S) | 3:48 | 2022-11-10 | 2022-11-13 |
 | [Nobody](https://open.spotify.com/track/6VxAoD31HVp9iOAlAjYwX6) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Nobody](https://open.spotify.com/album/0xpiM6xIxvVejWrdAGRp5o) | 3:48 | 2022-10-28 | 2022-11-07 |
@@ -1912,6 +1915,7 @@
 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 | 2024-01-18 | 2024-05-24 |
 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 | 2025-10-02 |  |
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-04-13 | 2023-06-02 |
+| [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 | 2025-12-18 |  |
 | [THE RECAP](https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [THE RECAP](https://open.spotify.com/album/5mJPfSEKnCAjpfuknVQwol) | 2:29 | 2025-06-26 |  |
 | [The Runner](https://open.spotify.com/track/2Bn55HuKt3EhQ4AdBGKNAn) | [Carli](https://open.spotify.com/artist/4TK1fbkiTG0inzHy7DlMgT), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [The Runner](https://open.spotify.com/album/2h7hFPWXL3oVSdo41PgTCh) | 3:42 | 2025-07-31 |  |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20454,
+  "num_followers": 20462,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 268038,
-      "name": "Marking My Time",
-      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/064hBjcisLBkT8aP1gGrNe"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 175291,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2LZIdTKnsxQPXCLmSPdc9p"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Marking My Time",
+        "url": "https://open.spotify.com/album/2pc153IBlNGe8QxU499Wau"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 268038,
+      "name": "Marking My Time",
+      "url": "https://open.spotify.com/track/4U0kDDeLjipRQUsZAZcuAw"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/23M9G26uSJJO3yFGoW8a9t"
-      },
-      "artists": [
-        {
-          "name": "Louis Culture",
-          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7ctAXhngA8Kmt6pgaDcphf"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Ugh",
         "url": "https://open.spotify.com/album/5k00fgF5AJavyexoZVB391"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 182000,
       "name": "Half Full",
       "url": "https://open.spotify.com/track/6lyeeYBZZL629AAeC7CRiU"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/23M9G26uSJJO3yFGoW8a9t"
+      },
+      "artists": [
+        {
+          "name": "Louis Culture",
+          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7ctAXhngA8Kmt6pgaDcphf"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -487,22 +487,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "crumbs in my bed",
-        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
+        "name": "I Like",
+        "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
       },
       "artists": [
         {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        },
-        {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+          "name": "71A",
+          "url": "https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb"
         }
       ],
-      "duration_ms": 157936,
-      "name": "grab my coat",
-      "url": "https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV"
+      "duration_ms": 218924,
+      "name": "I Like",
+      "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -523,18 +519,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "I Like",
-        "url": "https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD"
+        "name": "crumbs in my bed",
+        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
       },
       "artists": [
         {
-          "name": "71A",
-          "url": "https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb"
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        },
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
         }
       ],
-      "duration_ms": 218924,
-      "name": "I Like",
-      "url": "https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18"
+      "duration_ms": 157936,
+      "name": "grab my coat",
+      "url": "https://open.spotify.com/track/5zWiuLyhjwcqoLb6nMDErV"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Life's a Bitch, I Just Need an Early Night",
+        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        }
+      ],
+      "duration_ms": 282773,
+      "name": "Paradise Pending",
+      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Super Sad Generation",
         "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Life's a Bitch, I Just Need an Early Night",
-        "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        }
-      ],
-      "duration_ms": 282773,
-      "name": "Paradise Pending",
-      "url": "https://open.spotify.com/track/5eIoAHYIchR8fy07BIU5lF"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Blue Denim Jeans",
         "url": "https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Grreydaze",
-        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "God's House",
-      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Town's Dead",
         "url": "https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 164171,
       "name": "Sex N' Drugs",
       "url": "https://open.spotify.com/track/3wGe2HZz3Krnb5pvN50uf4"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Grreydaze",
+        "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "God's House",
+      "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "What We Become",
-        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
-      },
-      "artists": [
-        {
-          "name": "Loie",
-          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
-        }
-      ],
-      "duration_ms": 173706,
-      "name": "Living Room",
-      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
         "url": "https://open.spotify.com/album/2VBu61hXA6zWAVw8uIORsk"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 231773,
       "name": "Don't You Go Falling In Love (feat. Biig Piig & Lord Apex)",
       "url": "https://open.spotify.com/track/3BHU5jiJoVTTR0zzhhCxSH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "What We Become",
+        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "give it to me",
+        "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
+      },
+      "artists": [
+        {
+          "name": "Akemi Fox",
+          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
+        }
+      ],
+      "duration_ms": 165148,
+      "name": "give it to me",
+      "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "\u2605SLEEPY\u2605",
         "url": "https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 134437,
       "name": "\u2605SLEEPY\u2605",
       "url": "https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "give it to me",
-        "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
-      },
-      "artists": [
-        {
-          "name": "Akemi Fox",
-          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
-        }
-      ],
-      "duration_ms": 165148,
-      "name": "give it to me",
-      "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Makin' You Mine/WHATCHUNEED",
-        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
-      },
-      "artists": [
-        {
-          "name": "Kaesu",
-          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
-        }
-      ],
-      "duration_ms": 138916,
-      "name": "Makin' You Mine",
-      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/3MYehd7LTXflbdYn3y4CoX"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 207857,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/4umLhAXqcyQ2ZTcdsfipYG"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Makin' You Mine/WHATCHUNEED",
+        "url": "https://open.spotify.com/album/72ClCgc8F8cRHJLOBCqRin"
+      },
+      "artists": [
+        {
+          "name": "Kaesu",
+          "url": "https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/5ZBtrWITNv3gkwPIZnt0X9"
+        }
+      ],
+      "duration_ms": 138916,
+      "name": "Makin' You Mine",
+      "url": "https://open.spotify.com/track/1yz8X1KWCrwgqaICAkG9FV"
     },
     {
       "added_at": "2025-08-07 15:52:15",

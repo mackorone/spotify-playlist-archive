@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-354 songs - 20 hr 34 min
+355 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 | 2023-05-05 |  |
 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 | 2023-05-05 |  |
 | [Cinco minutos](https://open.spotify.com/track/4M7gtZi4Tai6gJMIkNzWcC) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Cinco minutos](https://open.spotify.com/album/2q2u75ecRs9D2IhKY2bo1R) | 3:31 | 2023-05-05 | 2023-06-12 |
+| [Comadre Compadre](https://open.spotify.com/track/4QVrFHXINjFlGuotAhiUmr) | [Los Fatales](https://open.spotify.com/artist/5mLvRBeI5T7w08iWtK7FXu) | [Revolución Fatal](https://open.spotify.com/album/0I579Ritet6fjbN4BBRuXd) | 4:30 | 2025-11-20 |  |
 | [Como Lo Hizo? \- En Vivo](https://open.spotify.com/track/0Hz6aSrhpX96XElSwq7Eb5) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 3:51 | 2024-05-03 | 2025-05-04 |
 | [Como una Loba](https://open.spotify.com/track/4VBCgMKAbdaf4ciadcwWFD) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Como una Loba](https://open.spotify.com/album/6ksaWRpw6B4GjbDDJsy8UZ) | 3:00 | 2025-06-27 | 2025-07-05 |
 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2023-05-05 |  |
@@ -90,7 +91,7 @@
 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \[En Vivo\]](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 | 2024-05-24 | 2025-06-28 |
 | [El Marginal](https://open.spotify.com/track/1mfzK8pSUvMHgj7MWAAqEv) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [El Marginal](https://open.spotify.com/album/4Nvo6ic0h2uYm5X9RQoqgu) | 3:27 | 2025-06-27 | 2025-07-05 |
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2023-05-05 |  |
-| [El Precio de Tu Engaño](https://open.spotify.com/track/2CtlBOoT43DM4CzsfvyyLc) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [0385 \(STGO\)](https://open.spotify.com/album/1s0NDo4qRLwqcnigsFF9Ux) | 4:37 | 2023-09-26 |  |
+| [El Precio de Tu Engaño](https://open.spotify.com/track/2CtlBOoT43DM4CzsfvyyLc) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [0385 \(STGO\)](https://open.spotify.com/album/1s0NDo4qRLwqcnigsFF9Ux) | 4:37 | 2023-09-26 | 2025-12-19 |
 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 | 2025-06-10 |  |
 | [El Telefono](https://open.spotify.com/track/1fAwaxPzUBxeX7rbdlm2Zr) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [El Teléfono](https://open.spotify.com/album/7zlhllBlDW5aQEbBACgRtu) | 2:26 | 2025-06-27 | 2025-07-05 |
 | [Ella Dijo / Mil Horas \- En Vivo](https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Ella Dijo / Mil Horas](https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f) | 3:19 | 2025-06-10 | 2025-10-25 |

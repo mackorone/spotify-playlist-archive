@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,897 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,917 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 6 | [Refund \(Part 2\)](https://open.spotify.com/track/1jaJsWoqVHp6yxX4PwnqLB) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Refund \(Part 2\)](https://open.spotify.com/album/3f0GFqnE00v9M311OR6ZsN) | 2:43 |
 | 7 | [No Excuses](https://open.spotify.com/track/235MhpP1xfwHFFmJnfue2c) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [No Excuses](https://open.spotify.com/album/3DtAkrbLRw3e9Kt0beJhWb) | 3:14 |
 | 8 | [No Be Kai Kai](https://open.spotify.com/track/0yePA8wX5uWMny5RIvfvmf) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [No Be Kai Kai](https://open.spotify.com/album/3GHjIA8OiEVTY03U7zia1f) | 2:29 |
-| 9 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |
-| 10 | [Obasanjo](https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7) | [Yagaa](https://open.spotify.com/artist/0yhQ0VohiKINXDZQTyEwha) | [Obasanjo](https://open.spotify.com/album/1xOat3bVEqUTylh62soG6O) | 2:37 |
-| 11 | [Jagbajantis](https://open.spotify.com/track/3g1uzNvPhVUClJLA52yvZU) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd), [Pelf Sounds](https://open.spotify.com/artist/0GA51vnRGOfE5yBxCIOPHm) | [DIMGBA](https://open.spotify.com/album/4Ocje5tr0Fs1PSgzIoDYq7) | 1:44 |
+| 9 | [Owanzenze](https://open.spotify.com/track/64C0dbJziBsYffohvO6VhJ) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Owanzenze](https://open.spotify.com/album/6KXS39apbjmDPCvmiOAgXJ) | 3:52 |
+| 10 | [ESCAPE PLAN](https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [ESCAPE PLAN](https://open.spotify.com/album/0ziQ2r1K4QV1oIJhnF5JtT) | 2:28 |
+| 11 | [Obasanjo](https://open.spotify.com/track/4QrISoWw7WQh72IPqSRwV7) | [Yagaa](https://open.spotify.com/artist/0yhQ0VohiKINXDZQTyEwha) | [Obasanjo](https://open.spotify.com/album/1xOat3bVEqUTylh62soG6O) | 2:37 |
 | 12 | [Reaching For My Soul](https://open.spotify.com/track/33A63DvS0Es8XmDv9sIMlS) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p) | [Prodigy](https://open.spotify.com/album/0U4M1Hmk9Jtkw7TOKSNn2Y) | 2:39 |
 | 13 | [Igbo](https://open.spotify.com/track/5yz4hoAl0eaOG2N7hK16OY) | [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [Igbo](https://open.spotify.com/album/3goOtAKuLnu6m5qIMcv31L) | 3:03 |
 | 14 | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/track/4rgoRhYCCb5Hprx3en869s) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0) | [CANOPY \(feat\. Attifaya\)](https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6) | 2:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [Gbege](https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Confirm Parole](https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6) | 3:29 |
 | 60 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 |
 
-Snapshot ID: `AAAAAAxi/GRtf1oaljEQ8mSivLMFtjm7`
+Snapshot ID: `AAAAACExA/mmZL8KTsx99zwnRvaxE8iF`

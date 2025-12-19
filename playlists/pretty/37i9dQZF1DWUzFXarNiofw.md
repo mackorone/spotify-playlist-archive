@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: JayDon, Usher, and Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,039 likes - 300 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,089 likes - 300 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 24 | [Never Been to the Parties](https://open.spotify.com/track/2yYj3utfIB8M10IoCwTYuj) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Never Been to the Parties](https://open.spotify.com/album/2L4H4SK26xLW6x7JjG9OjK) | 4:51 |
 | 25 | [Chocolate Woman](https://open.spotify.com/track/0M5ZTD5bzYadecfUQcQx8j) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Chocolate Woman](https://open.spotify.com/album/2dDCKPhCc7U0dBOkeK5I8W) | 2:50 |
 | 26 | [beauty to me](https://open.spotify.com/track/3gV1LhLQkV9wi3hptPPJVq) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv), [Ayyo Will](https://open.spotify.com/artist/77STBrN6re4jsrgWR6KRlN) | [beauty to me](https://open.spotify.com/album/4O7Mfz8q4FSOOmLPzoqPWH) | 2:56 |
-| 27 | [When The Money Comes](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
+| 27 | [When The Money Calls](https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum) | [Binta](https://open.spotify.com/artist/3b7sumHiRjBxU4R71H3KfI) | [On the Move](https://open.spotify.com/album/6WbKgjj3v28mBjKNP2w9kt) | 2:08 |
 | 28 | [Dedication 6](https://open.spotify.com/track/0BqM09B7nQxZn0zKb8gfPC) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Cowboy From Brooklyn](https://open.spotify.com/album/0VRjbRVRxZ3MyMz31W1KLW) | 3:48 |
 | 29 | [Cyanide](https://open.spotify.com/track/1vHlshHlOXS6b6cMkvGJzy) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Cyanide](https://open.spotify.com/album/5PGqBNGP2wKKQHFWLSYTSv) | 3:12 |
 | 30 | [Precognition](https://open.spotify.com/track/06nyrZz7wEijSlZXxXg5EJ) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Precognition](https://open.spotify.com/album/08LAG64GAPO5Xb3DEmlK2M) | 2:57 |

@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Softcult
 
-1,509 songs - 3 day 12 hr 46 min
+1,510 songs - 3 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA) | 2:32 | 2025-03-14 | 2025-07-12 |
 | [Crumbled](https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Crumbled](https://open.spotify.com/album/0WuxkTSMVZa1nWI7YaR6XS) | 3:10 | 2023-04-28 | 2023-05-20 |
 | [Crutch](https://open.spotify.com/track/4crB0Mul1jugG4mqKH6jZR) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Crutch](https://open.spotify.com/album/0dAjRkNQEa3RlNeQHde7hA) | 3:23 | 2024-10-11 | 2025-03-01 |
+| [Cry All Month](https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Cry All Month](https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow) | 3:09 | 2025-12-19 |  |
 | [CTRL^^^](https://open.spotify.com/track/1gbKpOkTCN7880ZmL3xVFV) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [CTRL^^^](https://open.spotify.com/album/7zcDuE7nJZaKy3xcTsrWsQ) | 2:39 | 2022-02-04 | 2022-06-25 |
 | [Cut Me Loose](https://open.spotify.com/track/5OkKRSGDSVISuXEYQIWx6z) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Cut Me Loose](https://open.spotify.com/album/5Hu41DxrwMBV6QGgc83jTr) | 2:45 | 2021-12-31 | 2022-05-28 |
 | [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 | 2025-01-31 | 2025-06-21 |

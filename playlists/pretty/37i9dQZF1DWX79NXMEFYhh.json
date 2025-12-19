@@ -1,6 +1,6 @@
 {
   "description": "gusto ko lang naman ng kayakap ",
-  "num_followers": 887773,
+  "num_followers": 887717,
   "original_name": "cuddleweather",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-12-08 06:57:18",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
-      },
-      "artists": [
-        {
-          "name": "ALLMO$T",
-          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
-        }
-      ],
-      "duration_ms": 293723,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
-    },
-    {
-      "added_at": "2025-12-08 06:57:18",
-      "album": {
         "name": "FLAMES",
         "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
+    },
+    {
+      "added_at": "2025-12-08 06:57:18",
+      "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
+      },
+      "artists": [
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "duration_ms": 293723,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
     },
     {
       "added_at": "2025-12-08 06:57:18",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-12-08 06:57:18",
       "album": {
-        "name": "Lihim",
-        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
-      },
-      "artists": [
-        {
-          "name": "Arthur Miguel",
-          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Lihim",
-      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
-    },
-    {
-      "added_at": "2025-12-08 06:57:18",
-      "album": {
         "name": "Palagi",
         "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 218051,
       "name": "Palagi",
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
+    },
+    {
+      "added_at": "2025-12-08 06:57:18",
+      "album": {
+        "name": "Lihim",
+        "url": "https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U"
+      },
+      "artists": [
+        {
+          "name": "Arthur Miguel",
+          "url": "https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Lihim",
+      "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
     }
   ],
   "unique_name": "cuddleweather",

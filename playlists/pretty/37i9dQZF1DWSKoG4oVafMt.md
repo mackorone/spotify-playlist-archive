@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,228 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,385 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 11 | [Pahaadan](https://open.spotify.com/track/7xgDGBDYXZuGoSXlADVqLT) | [Aparshakti Khurana](https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT), [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Pahaadan](https://open.spotify.com/album/7sxMOKB3cy1BBXNeOm85wT) | 2:01 |
 | 12 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 |
 | 13 | [Aavo Ni Saiyoon](https://open.spotify.com/track/4ioRbC9ZWNQ3McOEvSveUJ) | [Maninder Buttar](https://open.spotify.com/artist/2sN4fSzAm2rAL0HIurPCEM), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv) | [Aavo Ni Saiyoon](https://open.spotify.com/album/2AWL2X2fOwUTDwG3GCh9QC) | 4:03 |
-| 14 | [Fanaa Karr De](https://open.spotify.com/track/4EwuWdpDvTMdhvXFbCE1AR) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Fanaa Karr De](https://open.spotify.com/album/2f2uYCQXKC8zadZi8UB907) | 3:28 |
+| 14 | [Fanaa Karr De](https://open.spotify.com/track/4EwuWdpDvTMdhvXFbCE1AR) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Avvy Ballagan](https://open.spotify.com/artist/17SREP4Zd3CshA6N3uTP6Q) | [Fanaa Karr De](https://open.spotify.com/album/2f2uYCQXKC8zadZi8UB907) | 3:28 |
 | 15 | [Love Exit](https://open.spotify.com/track/1AJdSEoU80D9dIGHMHih3C) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [Love Exit](https://open.spotify.com/album/6zSsjNtzug78ackGCnbFpz) | 2:33 |
 | 16 | [No Remorse](https://open.spotify.com/track/2xZj1d20TymS0t7jqskeCr) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [prodssd](https://open.spotify.com/artist/6ht8GFA7fw7HsrExgzBqFS), [Harmanjot](https://open.spotify.com/artist/5czxaFW43xkJnuA0CBbzYM) | [PB 2 SIX](https://open.spotify.com/album/2FghTjH8wG4oBep4DWGU0F) | 2:36 |
 | 17 | [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 |

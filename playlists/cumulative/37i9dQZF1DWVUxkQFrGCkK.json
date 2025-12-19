@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Can't Touch This",
+        "url": "https://open.spotify.com/album/1JAzK9FwxCieo76XOQc1GH"
+      },
+      "artists": [
+        {
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135365,
+      "name": "Can't Touch This",
+      "url": "https://open.spotify.com/track/6oQ1yfN4SQx2ygLD0wPH2s"
+    },
+    {
+      "album": {
         "name": "Candela",
         "url": "https://open.spotify.com/album/7LMSP1r4GtEJ7MINxpy16B"
       },
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 146125,
       "name": "Cash Only",
       "url": "https://open.spotify.com/track/0sRtWWtsxrztPvnXWD1SM7"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 179777,
       "name": "Cash Only - Andrea Oliva Remix",
       "url": "https://open.spotify.com/track/4wm7PC1t648ATT1pd8Zltr"
@@ -4298,6 +4316,36 @@
       "duration_ms": 162644,
       "name": "Closer To The Floor",
       "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        },
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Ninae",
+          "url": "https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK"
     },
     {
       "album": {
@@ -4934,7 +4982,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 160750,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/41OuQ3RE1CPJOmT25DbbYZ"
@@ -6328,7 +6376,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 181196,
       "name": "El Youm",
       "url": "https://open.spotify.com/track/0mjDJiXyG83w6EdKUWU867"
@@ -6510,7 +6558,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 178636,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh"
@@ -7120,6 +7168,40 @@
       "duration_ms": 183016,
       "name": "Feel The Love",
       "url": "https://open.spotify.com/track/79VHKtRi11otZg0Bil7v1G"
+    },
+    {
+      "album": {
+        "name": "Feel The Love (Hotlap Remix)",
+        "url": "https://open.spotify.com/album/5BWwJgoDJYhg8PMfRuZHT7"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "HotLap",
+          "url": "https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212234,
+      "name": "Feel The Love - Hotlap Remix",
+      "url": "https://open.spotify.com/track/2bR6kl5tv8SU8Ps0mrH8Wy"
     },
     {
       "album": {
@@ -9917,6 +9999,28 @@
     },
     {
       "album": {
+        "name": "If Your Girl Only Knew",
+        "url": "https://open.spotify.com/album/6JJ2rlMoycaMG1FuYGxnRB"
+      },
+      "artists": [
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198698,
+      "name": "If Your Girl Only Knew",
+      "url": "https://open.spotify.com/track/6aUccuGqkd9HKdpSeuS0tX"
+    },
+    {
+      "album": {
         "name": "iLanga (Samm Remix)",
         "url": "https://open.spotify.com/album/5URMWlfNRGISqDtaCcbaxv"
       },
@@ -9994,6 +10098,28 @@
       "duration_ms": 152804,
       "name": "in heaven",
       "url": "https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6"
+    },
+    {
+      "album": {
+        "name": "In My Place",
+        "url": "https://open.spotify.com/album/50IsS37nFKSlG5BwPh6u61"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        },
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "In My Place - MAXI MERAKI Remix Edit",
+      "url": "https://open.spotify.com/track/7ibnHshPLpb4K5v1TcVNfd"
     },
     {
       "album": {
@@ -12858,7 +12984,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 409426,
       "name": "LoveHate Thing (feat. Sam Dew) - Marten Lou & Luch Extended Remix",
       "url": "https://open.spotify.com/track/3cCNyf4v8yMMlR8WK3jVvf"
@@ -13832,7 +13958,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 165250,
       "name": "Matter",
       "url": "https://open.spotify.com/track/59cBx28nDIgn21WAzX8LGv"
@@ -15548,7 +15674,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 237096,
       "name": "Never Walk Alone - Alex Wann Remix",
       "url": "https://open.spotify.com/track/4thF83xkGC9hLkzQ6TnW09"
@@ -22708,7 +22834,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 155750,
       "name": "Toca's Miracle - Vidojean X Oliver Loenn Edit",
       "url": "https://open.spotify.com/track/5ossegb3v0QlneLi8lg2Js"
@@ -22760,7 +22886,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-19",
       "duration_ms": 193500,
       "name": "Told You So - Vidojean X Oliver Loenn Remix",
       "url": "https://open.spotify.com/track/2omcVXez644eD6JRKIDqeH"

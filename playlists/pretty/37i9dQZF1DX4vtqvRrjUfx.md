@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vtqvRrjUfx.md) - [plain]
 
 > slay all day\. cover: GloRilla & Sexyy Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 32 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

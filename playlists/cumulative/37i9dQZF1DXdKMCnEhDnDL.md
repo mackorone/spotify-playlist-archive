@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Luna
+> De beste Nederlandse liedjes\. Cover: FLEMMING & Metejoor
 
 452 songs - 23 hr 5 min
 

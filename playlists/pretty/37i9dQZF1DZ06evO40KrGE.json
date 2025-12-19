@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37509,
+  "num_followers": 37507,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACS+XaSztk2ab50jdi3I7dE",
+  "snapshot_id": "aUHygAAAAACIl/Q8Pf9VzuX0qfxKMwVv",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Louvarei (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
       "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 334656,
-      "name": "Te Louvarei - Ao Vivo",
-      "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+        "name": "Te Louvarei (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bpeoNmfvSMxJ7WR8W4b1i"
       },
       "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 337803,
-      "name": "A Face Adorada de Jesus",
-      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+      "duration_ms": 334656,
+      "name": "Te Louvarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2VdUf61z3Ul0CjqZKrbzfg"
     },
     {
       "added_at": null,

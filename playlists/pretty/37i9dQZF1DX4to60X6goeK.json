@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Macky Gee",
-  "num_followers": 74642,
+  "num_followers": 74651,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-12-12 00:00:11",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2025-12-12 00:00:11",
+      "album": {
         "name": "Round + Round",
         "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 158620,
       "name": "Round + Round",
       "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
-    },
-    {
-      "added_at": "2025-12-12 00:00:11",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
       "added_at": "2025-12-12 00:00:11",

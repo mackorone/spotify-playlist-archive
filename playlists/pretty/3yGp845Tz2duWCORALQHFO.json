@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26095,
+  "num_followers": 26096,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABkrIuGLbnwaNG+0RfCGwsCAs/Crz/1",
+  "snapshot_id": "AABkuybUqP/RkIrsGhILzMpaG98X2eN4",
   "tracks": [
     {
       "added_at": "2025-12-12 13:51:52",
@@ -293,6 +293,22 @@
       "url": "https://open.spotify.com/track/6f1j5734lGfYXjmk9raoq5"
     },
     {
+      "added_at": "2025-12-18 18:54:52",
+      "album": {
+        "name": "quietly (radio edit)",
+        "url": "https://open.spotify.com/album/4RbvEOLnMS9RAhpEFJxL3o"
+      },
+      "artists": [
+        {
+          "name": "A1RL1FT",
+          "url": "https://open.spotify.com/artist/4mJ7nclxZGokHnCQJlW69d"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "quietly - radio edit",
+      "url": "https://open.spotify.com/track/2SIyxpO2L3f8iDj6mHOGgn"
+    },
+    {
       "added_at": "2025-12-12 13:51:52",
       "album": {
         "name": "La Mulard",
@@ -311,22 +327,6 @@
       "duration_ms": 173114,
       "name": "La Mulard",
       "url": "https://open.spotify.com/track/3BFFu3vk72LJZgUILwNDkH"
-    },
-    {
-      "added_at": "2025-12-12 13:51:52",
-      "album": {
-        "name": "Sunbeams",
-        "url": "https://open.spotify.com/album/4eHGYFSiAhaypXrOSY8K6H"
-      },
-      "artists": [
-        {
-          "name": "Ward Andrews",
-          "url": "https://open.spotify.com/artist/5bGBR1Am0LJMbBwrTphx7K"
-        }
-      ],
-      "duration_ms": 214504,
-      "name": "Sunbeams",
-      "url": "https://open.spotify.com/track/2vV5KRAICfOBR6kSeaWyLd"
     },
     {
       "added_at": "2025-12-16 14:15:04",
@@ -361,40 +361,24 @@
       "url": "https://open.spotify.com/track/56kAkcozBQopVmdB07ILLZ"
     },
     {
-      "added_at": "2025-12-12 19:39:36",
+      "added_at": "2025-12-18 11:12:42",
       "album": {
-        "name": "In the Night",
-        "url": "https://open.spotify.com/album/4vk3pqVav1hvacAFjDMHtD"
+        "name": "Shouldn't Be Alone",
+        "url": "https://open.spotify.com/album/3QUxPir3Qc1E1Sq5vWXJT5"
       },
       "artists": [
         {
-          "name": "Augusto Pondrelli",
-          "url": "https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s"
-        }
-      ],
-      "duration_ms": 245657,
-      "name": "In the Night",
-      "url": "https://open.spotify.com/track/3Vhox1L8KHru7BCZXrG0gQ"
-    },
-    {
-      "added_at": "2025-12-12 13:51:52",
-      "album": {
-        "name": "Taste Of",
-        "url": "https://open.spotify.com/album/3VYWZWMz04CvSjvnBfyTDv"
-      },
-      "artists": [
-        {
-          "name": "NIGHTJARS",
-          "url": "https://open.spotify.com/artist/4nGnMJiON9x7fYHg5KT2m0"
+          "name": "Doncare",
+          "url": "https://open.spotify.com/artist/7BPxm8lX5ZXp8ZMxrUVXWA"
         },
         {
-          "name": "Vareso",
-          "url": "https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l"
+          "name": "daSonic",
+          "url": "https://open.spotify.com/artist/0L2hT1qIckumddvnSV0wPP"
         }
       ],
-      "duration_ms": 197047,
-      "name": "Taste Of - Vareso Remix",
-      "url": "https://open.spotify.com/track/16WsxlD6H423L438rW5zsm"
+      "duration_ms": 174163,
+      "name": "Shouldn't Be Alone",
+      "url": "https://open.spotify.com/track/4iTfBbXR3Ftl7wOHer8TFa"
     },
     {
       "added_at": "2025-12-16 14:16:53",
@@ -443,6 +427,42 @@
     {
       "added_at": "2025-12-12 13:51:52",
       "album": {
+        "name": "Sunbeams",
+        "url": "https://open.spotify.com/album/4eHGYFSiAhaypXrOSY8K6H"
+      },
+      "artists": [
+        {
+          "name": "Ward Andrews",
+          "url": "https://open.spotify.com/artist/5bGBR1Am0LJMbBwrTphx7K"
+        }
+      ],
+      "duration_ms": 214504,
+      "name": "Sunbeams",
+      "url": "https://open.spotify.com/track/2vV5KRAICfOBR6kSeaWyLd"
+    },
+    {
+      "added_at": "2025-12-12 13:51:52",
+      "album": {
+        "name": "Taste Of",
+        "url": "https://open.spotify.com/album/3VYWZWMz04CvSjvnBfyTDv"
+      },
+      "artists": [
+        {
+          "name": "NIGHTJARS",
+          "url": "https://open.spotify.com/artist/4nGnMJiON9x7fYHg5KT2m0"
+        },
+        {
+          "name": "Vareso",
+          "url": "https://open.spotify.com/artist/4eDBQ5X2VYYYb1IlAaGT5l"
+        }
+      ],
+      "duration_ms": 197047,
+      "name": "Taste Of - Vareso Remix",
+      "url": "https://open.spotify.com/track/16WsxlD6H423L438rW5zsm"
+    },
+    {
+      "added_at": "2025-12-12 13:51:52",
+      "album": {
         "name": "Post Malone (feat. RANI) [Future Tropical 2025 Remix]",
         "url": "https://open.spotify.com/album/3vSRXeih0pJszSHkrumg0e"
       },
@@ -481,6 +501,30 @@
       "url": "https://open.spotify.com/track/14OVWSQMjCjWsLhC0M8RBz"
     },
     {
+      "added_at": "2025-12-15 13:16:03",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/4vBD3zva54k29k8cJy13GN"
+      },
+      "artists": [
+        {
+          "name": "Sam Giancana",
+          "url": "https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI"
+        },
+        {
+          "name": "NoID",
+          "url": "https://open.spotify.com/artist/17vISTa1EaKlCb9pX0v1gA"
+        },
+        {
+          "name": "Luna Dusk",
+          "url": "https://open.spotify.com/artist/3ReNX9ZVry1c8LXT2qeqKP"
+        }
+      ],
+      "duration_ms": 127611,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/2gKLKTWhQ4jnnzJ5NXSmlM"
+    },
+    {
       "added_at": "2025-12-12 13:51:52",
       "album": {
         "name": "Vento Levou",
@@ -515,30 +559,6 @@
       "duration_ms": 115956,
       "name": "Courchevel",
       "url": "https://open.spotify.com/track/0bf4VBXK4FrFfagSC3Scht"
-    },
-    {
-      "added_at": "2025-12-15 13:16:03",
-      "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/4vBD3zva54k29k8cJy13GN"
-      },
-      "artists": [
-        {
-          "name": "Sam Giancana",
-          "url": "https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI"
-        },
-        {
-          "name": "NoID",
-          "url": "https://open.spotify.com/artist/17vISTa1EaKlCb9pX0v1gA"
-        },
-        {
-          "name": "Luna Dusk",
-          "url": "https://open.spotify.com/artist/3ReNX9ZVry1c8LXT2qeqKP"
-        }
-      ],
-      "duration_ms": 127611,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/2gKLKTWhQ4jnnzJ5NXSmlM"
     },
     {
       "added_at": "2025-12-14 19:44:51",
@@ -849,6 +869,22 @@
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
     },
     {
+      "added_at": "2025-12-17 07:10:42",
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/6nhDsdHvf3v10bbMq1Wq6Q"
+      },
+      "artists": [
+        {
+          "name": "Augusto Pondrelli",
+          "url": "https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/3mnpSSxLv5Y2nVBQOc8pom"
+    },
+    {
       "added_at": "2025-12-12 13:51:52",
       "album": {
         "name": "Beyond Light",
@@ -879,22 +915,6 @@
       "duration_ms": 180000,
       "name": "Let Me See You Work",
       "url": "https://open.spotify.com/track/5yK0rkR4jZIQk0y1pbepDe"
-    },
-    {
-      "added_at": "2025-12-17 07:10:42",
-      "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/6nhDsdHvf3v10bbMq1Wq6Q"
-      },
-      "artists": [
-        {
-          "name": "Augusto Pondrelli",
-          "url": "https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/3mnpSSxLv5Y2nVBQOc8pom"
     },
     {
       "added_at": "2025-12-12 13:51:52",

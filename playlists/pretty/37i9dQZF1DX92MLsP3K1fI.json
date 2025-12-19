@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! CD9 en portada \ud83d\udda4\u2764\ufe0f\ud83e\udd0d",
-  "num_followers": 93815,
+  "num_followers": 93818,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-12-05 06:00:32",
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
+      },
+      "artists": [
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
+    },
+    {
+      "added_at": "2025-12-05 06:00:32",
+      "album": {
         "name": "PALACIO DE LUX",
         "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
-    },
-    {
-      "added_at": "2025-12-05 06:00:32",
-      "album": {
-        "name": "Chance",
-        "url": "https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9"
-      },
-      "artists": [
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8"
     },
     {
       "added_at": "2025-12-05 06:00:32",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-12-05 06:00:32",
       "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "PLATONIK",
+      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
+    },
+    {
+      "added_at": "2025-12-05 06:00:32",
+      "album": {
         "name": "SUPERIOR",
         "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 191866,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/6GdvsmiIeMEPnvhgrXIj7C"
-    },
-    {
-      "added_at": "2025-12-05 06:00:32",
-      "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "PLATONIK",
-      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
     },
     {
       "added_at": "2025-12-05 06:00:32",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-12-05 06:00:32",
       "album": {
-        "name": "G.R.A.C.I.A.S.",
-        "url": "https://open.spotify.com/album/4GBb9ndteTenUUeCN8d3Y1"
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
       },
       "artists": [
         {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
         }
       ],
-      "duration_ms": 212571,
-      "name": "G.R.A.C.I.A.S.",
-      "url": "https://open.spotify.com/track/7nKlVhxN2hqgND1xJ6vh3J"
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
     }
   ],
   "unique_name": "Oye Pop",

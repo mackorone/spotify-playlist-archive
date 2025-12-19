@@ -4,7 +4,7 @@
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover:Nancy Kwai
 
-134 songs - 8 hr 29 min
+137 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [主角光環](https://open.spotify.com/track/3CsYuAe0Oi7t9w1jxWfHob) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Learning Curve](https://open.spotify.com/album/4diB05q3Yl1cjCBdzeLHCd) | 3:43 | 2022-07-07 | 2025-08-14 |
 | [今夜無人入睡](https://open.spotify.com/track/2TfOJyud3K5vgXoqpQKgPY) | [Georgina 陳樂頤](https://open.spotify.com/artist/4JO14JxctLwBDIdQh8rWyZ) | [今夜無人入睡](https://open.spotify.com/album/4SQ93cTdHOiYVq9EzsYNTO) | 3:43 | 2025-09-25 |  |
 | [以孤獨命名](https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [以孤獨命名](https://open.spotify.com/album/6YuX0KTUbL6SWPx4ammv6X) | 3:48 | 2024-08-13 | 2025-08-14 |
+| [伸手觸碰那些夢 \- 永倫籃球會主題曲](https://open.spotify.com/track/2o2FE7f21yOHb9YuTzyzr6) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [伸手觸碰那些夢 \(永倫籃球會主題曲\)](https://open.spotify.com/album/50lMn3R110OBYxuQfQcCKM) | 3:22 | 2025-12-18 |  |
 | [作品的說話](https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [作品的說話](https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ) | 4:12 | 2022-07-07 | 2025-08-14 |
 | [俏郎君](https://open.spotify.com/track/4ckh5VN2HYQ8TzS51Nh7ol) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [The Brightest Darkness](https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8) | 4:40 | 2022-07-07 | 2025-08-14 |
 | [信之卷](https://open.spotify.com/track/43AAdQfc9dodfuxkcKMZo3) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D) | [信之卷](https://open.spotify.com/album/3RNW4B6DQWb8Bbbq2jCQaP) | 4:34 | 2022-07-07 | 2024-08-14 |
@@ -79,6 +80,7 @@
 | [大車 BIG CARS](https://open.spotify.com/track/2vhGQ3mEOknbY7TkqsW0uB) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [大車 BIG CARS](https://open.spotify.com/album/0ontVjrKGrzEm5CiTGTGLo) | 3:08 | 2025-09-25 |  |
 | [如是因 如是果](https://open.spotify.com/track/1tVcgUxgByb7D8ne8FH5zu) | [Alan Po](https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA) | [如是因 如是果](https://open.spotify.com/album/5H83HRQcJBXmgzGcPu64zD) | 4:38 | 2025-09-25 |  |
 | [孤獨遊](https://open.spotify.com/track/6OnFMZWrAZsCEZ8Plycqaq) | [Zpecial](https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x) | [孤獨遊](https://open.spotify.com/album/6Pc9i3zb4bBQ2M9DrOBh4K) | 4:04 | 2025-08-13 |  |
+| [安靜的水晶球](https://open.spotify.com/track/3WaxLMzNopWqhCyMwdleHl) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [安靜的水晶球](https://open.spotify.com/album/4vGFbehLMCbyBtZBWLNSXm) | 4:01 | 2025-12-18 |  |
 | [小傷疤](https://open.spotify.com/track/0OD7Vr8PYeTfYBHdsIVmuh) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [小傷疤](https://open.spotify.com/album/7tKq50jFMSvK9KP7bLMknJ) | 4:20 | 2025-08-13 |  |
 | [小心地滑](https://open.spotify.com/track/3U1sSlezn9BdzqsEx4VfHT) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [小心地滑](https://open.spotify.com/album/3wlXOb1nMLgJr1jz2bTjAm) | 3:59 | 2022-07-07 | 2025-08-14 |
 | [小諧星](https://open.spotify.com/track/4Pzi0povbtMOuVyGKGNOKu) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [小諧星](https://open.spotify.com/album/19F3jFJst7yhZ7U5ziGuaj) | 4:37 | 2022-07-07 | 2024-08-14 |
@@ -132,6 +134,7 @@
 | [趁你旅行時搬走](https://open.spotify.com/track/505artCQrIUUlWZY4WIEDA) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 3:55 | 2025-08-13 |  |
 | [趁你旅行時搬走](https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [趁你旅行時搬走](https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH) | 3:55 | 2024-08-13 | 2025-08-14 |
 | [跟悲傷結了帳](https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI) | [跟悲傷結了帳](https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo) | 3:03 | 2025-11-13 |  |
+| [通往另一個世界的出口](https://open.spotify.com/track/73KsHw8MedtSpcURdmsjKw) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [a kiridiculous distance](https://open.spotify.com/album/1ymz2jNDGgtvGQghYkFAV1) | 3:37 | 2025-12-18 |  |
 | [鏡中鏡](https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [鏡中鏡](https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V) | 4:12 | 2022-07-07 | 2024-08-14 |
 | [關於後悔](https://open.spotify.com/track/35pDgGzJ1ssvKwSvOWZC0G) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [關於後悔](https://open.spotify.com/album/20Sk9TmOqyiHzifoMRgjw5) | 3:54 | 2025-08-13 |  |
 | [限量版](https://open.spotify.com/track/3sq56ILg4hSfVoz1Ypkaqy) | [Shiga Lin](https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K) | [限量版](https://open.spotify.com/album/0VgmIDyEqPnJGcCHLrdShB) | 4:12 | 2025-10-09 |  |

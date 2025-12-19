@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 
 > A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,740 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,742 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 38492,
+  "num_followers": 38503,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUChAAAAAACOEyoLrjLpnntBGhRnM5g2",
+  "snapshot_id": "aUHygAAAAACWeZlROAr7joSzn01RVXSM",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "And If I Had",
-      "url": "https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 289813,
       "name": "You're My Choice Tonight (Choose Me)",
       "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "And If I Had",
+      "url": "https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6"
     },
     {
       "added_at": null,
