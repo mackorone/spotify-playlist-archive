@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-347 songs - 16 hr 20 min
+349 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 | 2023-12-20 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2022-10-27 |  |
 | [Escapar bajo la lluvia](https://open.spotify.com/track/0LKw5lPlg5dSyxAmZQVZU1) | [Mighty Nature X](https://open.spotify.com/artist/2WjBhauzTBxo4K0DzDfWUL) | [Sonidos suaves de lluvia](https://open.spotify.com/album/0fwnwGqpazvV5yC6fwlavG) | 2:26 | 2023-12-20 |  |
+| [Ethereal Rains](https://open.spotify.com/track/57LeBd9g44zcR6vPAtN8XG) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Ethereal Rains](https://open.spotify.com/album/5ZbUVIpax8FPtl7HhQjhIU) | 2:33 | 2025-12-19 |  |
 | [Evening Sleepy Rain](https://open.spotify.com/track/66AEXwDpLz9Uwz3DWvMnUa) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain in the Woods](https://open.spotify.com/album/5U0KcCOfsryTk6AQnkwu4x) | 3:01 | 2023-12-20 |  |
 | [Eye Of The Storm](https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Episode One](https://open.spotify.com/album/0LmoB3rBXBGCdEDquHXKmA) | 3:46 | 2022-10-27 |  |
 | [Fall Rain Recording](https://open.spotify.com/track/6aUFCMYUSloHWVG3Cg4Hta) | [Recorder Rain](https://open.spotify.com/artist/131gEfEg9mRABx2yTa6kCX) | [Spring Rain Recording](https://open.spotify.com/album/2UfZNIUkQnYXcNJnoazLQH) | 2:23 | 2023-12-20 |  |
@@ -146,7 +147,7 @@
 | [Lonhol \(Rain\)](https://open.spotify.com/track/4NtDvrH3MvHqD6c2EPHOPl) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Calm Sounds of Nature](https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE) | 3:00 | 2023-12-20 |  |
 | [Lost In The Jungle](https://open.spotify.com/track/4ht1IssZUFw0VBaYZytSAz) | [Equatorial Forest](https://open.spotify.com/artist/7JplVdPK4mwcGLbcWKY8Nf) | [Tropical Mind](https://open.spotify.com/album/1orm9WY8DL20lLE1akDs9n) | 2:41 | 2022-10-27 | 2023-12-21 |
 | [Lotus Rain](https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel) | [Adio](https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W) | [Lotus Rain](https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ) | 2:04 | 2022-10-27 |  |
-| [Lovely Rain](https://open.spotify.com/track/1cl4y7PrtL61Y4Q6pjeTKS) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Light the Rain](https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ) | 3:12 | 2023-12-20 |  |
+| [Lovely Rain](https://open.spotify.com/track/1cl4y7PrtL61Y4Q6pjeTKS) | [The Magical Drops](https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw) | [Light the Rain](https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ) | 3:12 | 2023-12-20 | 2025-12-20 |
 | [Lurok \(Rain\)](https://open.spotify.com/track/208tRWGdIAIXY2OiPgKqdl) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:01 | 2023-12-20 |  |
 | [Magic Skies](https://open.spotify.com/track/76AKzeKmKutPgOAjgQBzYx) | [Embrace the Rain](https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2) | [Magic Skies](https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK) | 3:50 | 2023-12-20 |  |
 | [Magical Rain](https://open.spotify.com/track/3TR9DypUdaJpjUwSmJiBML) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Magical Rain](https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY) | 2:48 | 2023-12-20 |  |
@@ -314,7 +315,7 @@
 | [Stormy Road](https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Countryside Storm](https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY) | 3:28 | 2022-10-27 |  |
 | [Stratiform](https://open.spotify.com/track/1a1j4XJ0X3aufKhrcjmBbX) | [Hydrometry](https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z) | [Stratiform](https://open.spotify.com/album/28cSMWlIc6gkITXtBLCfrd) | 2:16 | 2024-03-21 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2023-12-20 |  |
-| [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2023-12-20 |  |
+| [Sturm am Abend](https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Sturm am Abend](https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl) | 2:21 | 2023-12-20 | 2025-12-20 |
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [BioSounds](https://open.spotify.com/artist/714vmv7c7CRLZXkJG1xzPO) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2023-12-20 |  |
 | [Summer Nap](https://open.spotify.com/track/1L2rIfFHucpioSL5MvF9es) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 | 2023-12-20 |  |
 | [Summer Night Rain](https://open.spotify.com/track/72ThseXCl98F5m9UD6wa2r) | [Drive In The Rain](https://open.spotify.com/artist/2LKvEzYDkO2IWlIEKXeVvo) | [Spring Time Rain Sounds](https://open.spotify.com/album/4PVHNt8EHuF3Y60Y886HYv) | 2:21 | 2023-12-20 |  |
@@ -350,6 +351,7 @@
 | [Warm Summer Rain](https://open.spotify.com/track/4PYcFKKiVUp92libw3naT1) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [Warm Summer Rain](https://open.spotify.com/album/6yZFQrqbtGNymHCzkczaux) | 3:02 | 2024-03-21 |  |
 | [Washington Rain Reverie](https://open.spotify.com/track/1AfbsmFhOpX9GZHFd8Cb9l) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Nature's Rainfall Melodies](https://open.spotify.com/album/2L4ZTUZNAvkyo3d1G3Nu5c) | 3:12 | 2024-03-21 | 2024-11-29 |
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2023-12-20 |  |
+| [Winter Water \(Rain\)](https://open.spotify.com/track/71HK7aHqXqcdIPLAAHj0um) | [The Peace Within](https://open.spotify.com/artist/45aoymcKFqTUJ9w4zxfj8i) | [Winter Water \(Rain\)](https://open.spotify.com/album/2kVIKZCuJrzM8S8LqQ7SGE) | 3:06 | 2025-12-19 |  |
 | [Wonderful Rain](https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [Stratus](https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX) | 2:31 | 2023-12-20 |  |
 | [Woodnear Forest \(Rain\)](https://open.spotify.com/track/4Ia3PfPXOmDJ5cYPyt6VIi) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2023-12-20 |  |
 | [Woodshed Rain](https://open.spotify.com/track/6kfiOzzsv9bPBsuh1Abl32) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Woodshed Rain](https://open.spotify.com/album/7n08BfUqHKJWYe6w5TzkdL) | 3:23 | 2024-03-21 |  |

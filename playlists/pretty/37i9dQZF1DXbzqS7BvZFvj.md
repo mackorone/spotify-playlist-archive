@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,489 likes - 84 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,498 likes - 84 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 15 | [Corleone](https://open.spotify.com/track/2CVj3Jamza2nbk378MFbbC) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Corleone](https://open.spotify.com/album/5ELbRBmvctx3rH8gmslEEZ) | 3:01 |
 | 16 | [完璧だ](https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Original](https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh) | 2:30 |
 | 17 | [Can't Count Me Out](https://open.spotify.com/track/77OO0XJ9caJhJVanaaIc6w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Can't Count Me Out](https://open.spotify.com/album/3Gu308gnM3Dy759MvF1Vca) | 2:21 |
-| 18 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used To Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
+| 18 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
 | 19 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
 | 20 | [Clue](https://open.spotify.com/track/1JWGW7yVtvtyGjtd8gOEzb) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Clue](https://open.spotify.com/album/3ZRKAEYVWRKlPobxR8W8M7) | 3:09 |
 | 21 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |

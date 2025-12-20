@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> \ud83d\udcaa\ud83d\udca5",
-  "num_followers": 2577443,
+  "num_followers": 2577363,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -51,30 +51,6 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "Original Don",
-        "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "Original Don",
-      "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
         "name": "Where You Are (GRiZ Remix)",
         "url": "https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS"
       },
@@ -95,6 +71,30 @@
       "duration_ms": 240000,
       "name": "Where You Are - GRiZ Remix",
       "url": "https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "Original Don",
+        "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 168275,
+      "name": "Original Don",
+      "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -419,42 +419,6 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "Lock In",
-        "url": "https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Lock In",
-      "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
-        "name": "Halfstep",
-        "url": "https://open.spotify.com/album/45zfCS0r1tr0HyxcNFIXsA"
-      },
-      "artists": [
-        {
-          "name": "TRICKSTAR",
-          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
-        }
-      ],
-      "duration_ms": 151113,
-      "name": "Halfstep",
-      "url": "https://open.spotify.com/track/2vVYYm1KgXXQ6QjKTTdiDl"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
         "name": "Zombie (feat. Valerie Broussard)",
         "url": "https://open.spotify.com/album/1uLMooNp9bB40khUJAqe5c"
       },
@@ -479,6 +443,42 @@
       "duration_ms": 284643,
       "name": "Zombie (feat. Valerie Broussard)",
       "url": "https://open.spotify.com/track/5AZJbQwaYGHWCY53k7fO57"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "Halfstep",
+        "url": "https://open.spotify.com/album/45zfCS0r1tr0HyxcNFIXsA"
+      },
+      "artists": [
+        {
+          "name": "TRICKSTAR",
+          "url": "https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5"
+        }
+      ],
+      "duration_ms": 151113,
+      "name": "Halfstep",
+      "url": "https://open.spotify.com/track/2vVYYm1KgXXQ6QjKTTdiDl"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "Lock In",
+        "url": "https://open.spotify.com/album/3n1XJnPD5bMzskwPLtgAoY"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Lock In",
+      "url": "https://open.spotify.com/track/0A6IKTxklEXg3GhSZrudG7"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
         "name": "Bring The House Down",
         "url": "https://open.spotify.com/album/1mGCOttFr5jHVaJnaSB5PG"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 233600,
       "name": "Angels Landing",
       "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ"
     },
     {
       "added_at": "2025-12-05 05:38:22",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-12-05 05:38:22",
       "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Deadcrow",
-          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
-        }
-      ],
-      "duration_ms": 173616,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
-    },
-    {
-      "added_at": "2025-12-05 05:38:22",
-      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 161708,
       "name": "F.Y.U.",
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
+    },
+    {
+      "added_at": "2025-12-05 05:38:22",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
     }
   ],
   "unique_name": "Hype",

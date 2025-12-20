@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-1,088 songs - 2 day 10 hr 11 min
+1,092 songs - 2 day 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [After December](https://open.spotify.com/track/2VUQ2yGbUXztLvYVVsNVrR) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [After December](https://open.spotify.com/album/5tSAIegNlT4NtdQJQqJ5Uu) | 2:13 | 2023-11-03 | 2024-08-31 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2022-11-18 | 2023-10-04 |
 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 | 2022-12-02 | 2023-10-21 |
+| [Ain't It Christmas After All](https://open.spotify.com/track/1dDXaalglYgG1CjWMLyAU5) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Ain't It Christmas After All](https://open.spotify.com/album/7La5oRYXkT2ZpqvgH9IBwC) | 2:45 | 2025-12-19 |  |
 | [Aires De Navidad](https://open.spotify.com/track/3px8sdgdrPQEzXlEFDpVYf) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP) | [Pablo EEEn Navidad](https://open.spotify.com/album/0riPPw8VG78f6BR1Vyw39q) | 3:20 | 2025-10-10 |  |
 | [All I Want](https://open.spotify.com/track/15fxw0mFFiRY8cb70WYCWe) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [All I Want](https://open.spotify.com/album/2xGySBo8eKq9W6JI9BMQSt) | 3:26 | 2025-11-07 |  |
 | [All I Want for Christmas is a Cowboy](https://open.spotify.com/track/3LelA67J3InQRCvUnyHomd) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Blue Christmas ...duh](https://open.spotify.com/album/2jAxdB4oHVxoEnqoEYbcOl) | 3:17 | 2024-11-04 | 2025-10-25 |
@@ -571,6 +572,7 @@
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-24 | 2022-11-12 |
 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 | 2023-12-08 | 2024-08-31 |
 | [Kissing In the Cold \- Mistletoe Version](https://open.spotify.com/track/2TaQZIxvt9TVfNqXe5A1ae) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold \(Mistletoe Version\)](https://open.spotify.com/album/70bD1wKCGexlprV4huDo5M) | 4:01 | 2024-11-29 | 2025-09-27 |
+| [Kissin’ In The Cold](https://open.spotify.com/track/0hjtNWa0QAHOBQjeMdWY6W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Catching A Snowflake](https://open.spotify.com/album/3K5FeHF5EUMo5VfMwdGIOe) | 3:16 | 2025-12-19 |  |
 | [Krampus](https://open.spotify.com/track/26BD6NDCE6Ea74l7ThbIrf) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Krampus](https://open.spotify.com/album/3rKCZFTsWdruzZyOxie9Ha) | 2:24 | 2021-12-24 | 2022-10-24 |
 | [Last Christmas](https://open.spotify.com/track/2OzSyKZBBVvFcZ7Ddr3VKU) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Last Christmas](https://open.spotify.com/album/0hWKsbIJAxQsvd0Yzt7TAY) | 3:41 | 2023-11-03 | 2024-04-19 |
 | [Last Christmas](https://open.spotify.com/track/4ZXqNyS3RmoRoUJwRIgUgu) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Last Christmas](https://open.spotify.com/album/6xf6YJSlWE1BDebyCnmhKK) | 3:41 | 2023-11-20 | 2024-10-19 |
@@ -699,6 +701,7 @@
 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 | 2022-11-18 | 2023-10-28 |
 | [Nights In December](https://open.spotify.com/track/4gzI4ztYkEmfKeAbtfwoOw) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Nights In December](https://open.spotify.com/album/0SBe1du5GRDFDiX8tmyzRk) | 3:36 | 2022-11-18 | 2023-10-04 |
 | [North Star \(Single From “Music From Zoey’s Extraordinary Christmas”\)](https://open.spotify.com/track/5rZGLms9i9cKgx3udMVQep) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [North Star \(Single from "Music from Zoey's Extraordinary Christmas"\)](https://open.spotify.com/album/1vOqSsMFFo72MxM6UksoDt) | 3:42 | 2021-12-24 | 2022-09-28 |
+| [NOT CUTE ANYMORE \(Holiday Party ver.\)](https://open.spotify.com/track/34E2VK7s9Gs7k5ryMxOftR) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:26 | 2025-12-19 |  |
 | [Not So Merry Christmas](https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Not So Merry Christmas](https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi) | 3:53 | 2025-11-14 |  |
 | [Nothin' For Christmas](https://open.spotify.com/track/22YXydOtMbEUcluspU4Bop) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko), [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [A Cherry Valley Holiday](https://open.spotify.com/album/1lIm3hPlnIpqA0Lii3n9Tu) | 2:46 | 2025-11-07 |  |
 | [Nothing Like Christmas](https://open.spotify.com/track/4XDscazKuEDnTFmMDoX7nL) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Nothing Like Christmas](https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2) | 3:19 | 2024-12-13 | 2025-09-27 |
@@ -1062,6 +1065,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/7JcqcXp9HkwWtx0WBWZVXp) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Winter Wonderland](https://open.spotify.com/album/7N03SyRGWWL1rEIMb8vXma) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-17 | 2025-09-27 |
 | [Winter's Not Ours Anymore](https://open.spotify.com/track/7bkEU2RD74Hoxh8h9HQsMo) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m) | [Winter's Not Ours Anymore](https://open.spotify.com/album/3U2heEHpqAV7W5XuGjHly0) | 4:42 | 2025-12-16 |  |
+| [Wish to Wish](https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt) | [YOONA](https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk) | [Wish to Wish](https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx) | 3:37 | 2025-12-19 |  |
 | [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 | 2023-12-01 | 2024-04-19 |
 | [wish ✮⋆˙](https://open.spotify.com/track/5SmMwHlK9xylVRZ3si4xDd) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/6ETjthotRkmnN8OnIB4NIe) | 2:11 | 2023-12-01 | 2024-08-31 |
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2021-12-24 | 2022-09-28 |

@@ -1,6 +1,6 @@
 {
   "description": "for the baddies.",
-  "num_followers": 377318,
+  "num_followers": 377467,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "velvet",
         "url": "https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 170462,
       "name": "velvet",
       "url": "https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
-        {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
-        }
-      ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
     },
     {
       "added_at": "2025-11-28 04:00:03",

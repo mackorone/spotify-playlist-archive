@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Changer, pleurer, rire",
+        "url": "https://open.spotify.com/album/4hbh6H2ElCEHztSFbIsZ8f"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le & Robin",
+          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Adr\u00e9naline & Amn\u00e9sie",
+      "url": "https://open.spotify.com/track/67bBNZvQBinRFHpB86fs0A"
+    },
+    {
+      "album": {
         "name": "Adr\u00e9naline / Maradona",
         "url": "https://open.spotify.com/album/6cA1YHZOFSDq4Jz3tBoNsQ"
       },
@@ -4538,24 +4556,6 @@
       "duration_ms": 210000,
       "name": "Adr\u00e9naline / Maradona",
       "url": "https://open.spotify.com/track/4XeuRT6MMtIse35aMDM6iT"
-    },
-    {
-      "album": {
-        "name": "Changer, pleurer, rire",
-        "url": "https://open.spotify.com/album/4hbh6H2ElCEHztSFbIsZ8f"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le & Robin",
-          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
-        }
-      ],
-      "date_added": "2025-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163333,
-      "name": "Adr\u00e9naline et amn\u00e9sie",
-      "url": "https://open.spotify.com/track/67bBNZvQBinRFHpB86fs0A"
     },
     {
       "album": {
@@ -4582,16 +4582,16 @@
       },
       "artists": [
         {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
           "name": "Lartiste",
           "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
         },
         {
           "name": "Jaylann",
           "url": "https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
         }
       ],
       "date_added": "2025-12-18",
@@ -10549,8 +10549,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/10PUI7tOy0XOQRNFVWJoC5"
       },
       "artists": [
         {
@@ -20503,7 +20503,7 @@
         },
         {
           "name": "R2",
-          "url": "https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa"
+          "url": "https://open.spotify.com/artist/0IzqHgfk5cgQ8rR6nm5rQP"
         }
       ],
       "date_added": "2025-12-18",
@@ -44359,8 +44359,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "FUGA",
+        "url": "https://open.spotify.com/album/1vW3c1fJnDZc0e3hmIZP6w"
       },
       "artists": [
         {
@@ -89894,6 +89894,24 @@
       "duration_ms": 200625,
       "name": "Mutt",
       "url": "https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "album": {
@@ -137593,8 +137611,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "En attendant Offshore, vol. 2",
+        "url": "https://open.spotify.com/album/1r0oBEuZOBx0wmFWgEkKvk"
       },
       "artists": [
         {

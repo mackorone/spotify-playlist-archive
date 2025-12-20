@@ -1,13 +1,29 @@
 {
-  "description": "The home of Canadian country music. Cover: Brett Kissel",
-  "num_followers": 83408,
+  "description": "The home of Canadian country music. Cover: Kelsi Mayne",
+  "num_followers": 83409,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObpHyEBETcy9aQUlcTNpQW8ZlFA",
+  "snapshot_id": "AAAAAOaUUIIQH+pXpWbPBgU9hLYhYKFp",
   "tracks": [
+    {
+      "added_at": "2025-12-19 01:33:03",
+      "album": {
+        "name": "For The Record",
+        "url": "https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "duration_ms": 202255,
+      "name": "For The Record",
+      "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
+    },
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 187119,
       "name": "Phone Call From Home",
       "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
-    },
-    {
-      "added_at": "2025-12-19 01:33:03",
-      "album": {
-        "name": "For The Record",
-        "url": "https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq"
-      },
-      "artists": [
-        {
-          "name": "Kelsi Mayne",
-          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
-        }
-      ],
-      "duration_ms": 202255,
-      "name": "For The Record",
-      "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
     },
     {
       "added_at": "2025-11-28 05:01:04",

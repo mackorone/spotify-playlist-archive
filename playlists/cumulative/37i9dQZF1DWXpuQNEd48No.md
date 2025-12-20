@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: KD DESIROCK
+> Best of Haryanvi Hip\-Hop! Cover: The LeKhak
 
-521 songs - 1 day 2 hr 24 min
+522 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,7 +358,7 @@
 | [Nakhrala Reloaded](https://open.spotify.com/track/3gmjxxXzNjtGK2NebRGZSI) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Jaga Beats](https://open.spotify.com/artist/7BGsbHIkvuabdKgJVlUH1B) | [Nakhrala Reloaded](https://open.spotify.com/album/43XncJc4Evi1McrjAG82Op) | 2:34 | 2025-01-31 | 2025-04-09 |
 | [NANA NANA](https://open.spotify.com/track/02kpRLkAifubwinL5NGMAa) | [Krackerr](https://open.spotify.com/artist/2U0uKstdi6uiiPCjYL0Dm9), [Komal Choudhary](https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT) | [NANA NANA](https://open.spotify.com/album/5OQwFjDhsHg0M7CuP82jSG) | 2:48 | 2024-06-13 | 2024-09-07 |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 | 2024-04-19 |
-| [NCR Vicee City](https://open.spotify.com/track/53Rn9FrvsAHXGmJIHYrjyb) | [SWOR D](https://open.spotify.com/artist/5qGtd7q6qiif6qoy6xWVCk) | [NCR Vicee City](https://open.spotify.com/album/4h7XXqLdAj7KREp1waOKvO) | 2:35 | 2025-12-09 |  |
+| [NCR Vicee City](https://open.spotify.com/track/53Rn9FrvsAHXGmJIHYrjyb) | [SWOR D](https://open.spotify.com/artist/5qGtd7q6qiif6qoy6xWVCk) | [NCR Vicee City](https://open.spotify.com/album/4h7XXqLdAj7KREp1waOKvO) | 2:35 | 2025-12-09 | 2025-12-20 |
 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 | 2024-10-18 | 2025-08-27 |
 | [Never Again](https://open.spotify.com/track/4TFuhfk6IxRCGLAY4TVl5M) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Never Again](https://open.spotify.com/album/1nUKyZARW3tn4inBsmdU2q) | 3:12 | 2024-07-03 | 2024-08-31 |
 | [Never Fold](https://open.spotify.com/track/1PBY5Vj3ujKYkj6w2mY3j4) | [PANJETA](https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR), [Paras](https://open.spotify.com/artist/5XHTetqFNPGg84FWDwe8Dw), [Signature By OG](https://open.spotify.com/artist/4WIUMr7y0ew27aNAWna1hu) | [Never Fold](https://open.spotify.com/album/1WchzpkcciEvSMTdCgPS75) | 2:45 | 2025-04-04 | 2025-05-21 |
@@ -498,6 +498,7 @@
 | [The Man](https://open.spotify.com/track/3K0egsuQ6XWbF7FFB4wwJ9) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [WARTIME](https://open.spotify.com/album/4gsRmTAbP7Sj6pvnNDS7gW) | 2:40 | 2024-11-06 | 2025-02-01 |
 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 | 2023-07-24 | 2025-02-01 |
 | [Time](https://open.spotify.com/track/15mTMlItAclXCqXXhbCqhS) | [Ashu Morkhi](https://open.spotify.com/artist/7sBANqUtlylPQjOXt4XHR6), [Govind Bhana](https://open.spotify.com/artist/1NeFOovBejPz8FN6MrFqfO) | [Time](https://open.spotify.com/album/3xwbxOcqROtALRfUtNRyTc) | 2:52 | 2024-02-06 | 2024-03-19 |
+| [Tony Montana](https://open.spotify.com/track/0XhRWYSnhd4XTtucsfpPn3) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Tony Montana](https://open.spotify.com/album/02Poj3U1abJNpmUXzhc0lP) | 2:55 | 2025-12-19 |  |
 | [Tool](https://open.spotify.com/track/5HmcQoM06urojODrgEpEiV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Tool](https://open.spotify.com/album/3BP7BDO3yOVjkd7UEzC7ik) | 2:56 | 2024-04-18 | 2024-05-06 |
 | [TORSION](https://open.spotify.com/track/1giRNoUCag2UZV5r466wC6) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [ANSHBuzz](https://open.spotify.com/artist/0EIuc4EpZPox8OgB9Ys4c9) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 3:40 | 2025-12-02 |  |
 | [Trap\-Aloch](https://open.spotify.com/track/4MrxNSv3MP8A07qsjpsklW) | [Aman Mangali Aala](https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Scooby Doo!](https://open.spotify.com/album/4FcIRH0FzWsZwjiF19AOog) | 3:37 | 2025-05-09 | 2025-05-17 |

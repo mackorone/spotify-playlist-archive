@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Le meilleur de la scène musicale montréalaise en 2025\. Photo: Blynk
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,395 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,400 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 5 | [Entre nous](https://open.spotify.com/track/1HkH3VrIrdfSUMEaz5FBbh) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Entre nous](https://open.spotify.com/album/6y5xBulHhyfFBLyffEtZyJ) | 2:41 |
 | 6 | [Le Restaurant](https://open.spotify.com/track/6zbYZt4jhUbxv7TKC0zEvf) | [childhood friend](https://open.spotify.com/artist/2qoO4uE7tiz3HFg8vJyrBu) | [Like I did for Tommy](https://open.spotify.com/album/5GEPVScpkAWDUsmh3poaGc) | 3:18 |
 | 7 | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/album/2L4olMUsbxenCeSKa5Yqhf) | 2:36 |
-| 8 | [Royallll](https://open.spotify.com/track/3JU2yOzNqsD5Q38pOcZU5o) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Royallll](https://open.spotify.com/album/0g870ZOEdpau7kZB8woENc) | 2:39 |
+| 8 | [Royallll](https://open.spotify.com/track/3JU2yOzNqsD5Q38pOcZU5o) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23), [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Royallll](https://open.spotify.com/album/0g870ZOEdpau7kZB8woENc) | 2:38 |
 | 9 | [SATURDAY](https://open.spotify.com/track/0mNjb876kbms1CayxEuytb) | [KANNA](https://open.spotify.com/artist/6ItXOiEgzkn6cAiw6PT2de) | [SATURDAY](https://open.spotify.com/album/1kQveuKBIsXx3KfPEL6Hhs) | 2:39 |
 | 10 | [Beau dimanche](https://open.spotify.com/track/65ZoeTRN3SguXktkkE3Ro6) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Beau dimanche](https://open.spotify.com/album/5ZcgJarXeG8D3FBdVu3Y8D) | 2:20 |
 | 11 | [Run Right Into It](https://open.spotify.com/track/6DHkErN0eDNTWNXFZ8ynFi) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7), [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Let it Hiss](https://open.spotify.com/album/4OVKItCszlDzVX0g1hgGYQ) | 4:27 |

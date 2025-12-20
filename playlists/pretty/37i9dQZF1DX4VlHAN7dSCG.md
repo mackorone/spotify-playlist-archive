@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: FEniX
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,665 likes - 71 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,663 likes - 71 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Day Off](https://open.spotify.com/track/6KEaGtszJ2T4c1OTcLQXx5) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [](https://open.spotify.com/album/null) | 2:43 |
+| 1 | [Day Off](https://open.spotify.com/track/6KEaGtszJ2T4c1OTcLQXx5) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [參](https://open.spotify.com/album/1Yd6Fh0NTKDx5jiqdAeUoO) | 2:43 |
 | 2 | [最後一搏 \( 影集《凶宅專賣店》主題曲 \)](https://open.spotify.com/track/6XvMwucFj66aK9cgLTt2YL) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [《凶宅專賣店》影集原聲帶](https://open.spotify.com/album/3x3PRH2k1TdpseNdxvEOjG) | 3:22 |
 | 3 | [波斯菊盛開的地方](https://open.spotify.com/track/1nTYGrKDdGFKht4YrCDmuu) | [吾橋有水 FloodingBridge](https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k) | [波斯菊盛開的地方](https://open.spotify.com/album/1mFkt1nBkREd9vh5bdSStQ) | 3:34 |
 | 4 | [情字這條路 \- 滾石撞樂隊2 \(原唱: 潘越雲\)](https://open.spotify.com/track/6alMDWcU7I6vVmUg1PosO7) | [百合花](https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL) | [滾石撞樂隊2 \- 情字這條路](https://open.spotify.com/album/4L9YcFDISsXO4qlH4eu53B) | 2:48 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 6 | [Embraced by Aoraki \(Colloboh Version\)](https://open.spotify.com/track/2TbIf4CNlNjmvOU2t6j1ch) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC), [Colloboh](https://open.spotify.com/artist/0o0jvQAplepjQaJYbXCEVl) | [Embraced by Aoraki \(Colloboh Version\)](https://open.spotify.com/album/0eABU30zv4MZYjC8QKAwf5) | 3:43 |
 | 7 | [余晖](https://open.spotify.com/track/12GYhXldn8V7ylC0CbCpXb) | [鹿先森乐队](https://open.spotify.com/artist/4SklOYXOJe2H6R1Vz2gc0F) | [余晖](https://open.spotify.com/album/7a5kKGvuCMiIhBmC0da3O4) | 3:41 |
 | 8 | [保持大帥哥](https://open.spotify.com/track/3BOJ332OwzgtBU6padt1Hn) | [拍打仔](https://open.spotify.com/artist/0Gk4cKf7ppQuVBtrAA2FRc), [賴皮 MR.SKIN](https://open.spotify.com/artist/6lRSZ0nwVDLHzB15yopIEu), [大帥哥](https://open.spotify.com/artist/6gD6KHWAfziPjIhK2QPrhd), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [保持大帥哥](https://open.spotify.com/album/6kt2fWdF6nlwQ8FS2nN1na) | 3:00 |
-| 9 | [影 \- Netflix影集《如果我不曾見過太陽》插曲](https://open.spotify.com/track/1Y5Bu7ow1Kwyg4ad8mOVCr) | [Lexa](https://open.spotify.com/artist/18AgmrYov7QCR1kfUlj9zR) | [影 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/7tJl7WtHAXk79f2fzRnAQz) | 3:55 |
+| 9 | [影 \- Netflix影集《如果我不曾見過太陽》插曲](https://open.spotify.com/track/1Y5Bu7ow1Kwyg4ad8mOVCr) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [影 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/7tJl7WtHAXk79f2fzRnAQz) | 3:55 |
 | 10 | [足夠](https://open.spotify.com/track/6HBvCbddHGg1vrW7D9G0Da) | [我們的日子](https://open.spotify.com/artist/2pDs6jIli6TN1v6FbHIh9R) | [像我這樣](https://open.spotify.com/album/02dx6U9QCAHcq17Lke9gbn) | 5:35 |
 | 11 | [現實作廢](https://open.spotify.com/track/2OySVz6HcWe7uTfL7QtEBi) | [四腳獸](https://open.spotify.com/artist/0pe3Hx7rHUNprC7PPOZqUK) | [現實作廢](https://open.spotify.com/album/2TQOUlYohPesqQiw0HI5He) | 3:57 |
 | 12 | [無止盡的香菸](https://open.spotify.com/track/2LTcZGQlnxjFMV7OlB0kTo) | [史東 Ston](https://open.spotify.com/artist/3jv9GrmlWtMoClHw1kBFqT) | [無止盡的香菸](https://open.spotify.com/album/3kkDWUGWau4LK4J5cDNbm3) | 4:19 |

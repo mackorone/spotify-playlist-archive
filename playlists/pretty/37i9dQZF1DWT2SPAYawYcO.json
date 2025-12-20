@@ -1,13 +1,29 @@
 {
-  "description": "Brand new music from Young Franco, Charlotte Plank,  DaBaby, ST\u00dcM, X & Ivy, Peach PRC + more ",
-  "num_followers": 434280,
+  "description": "Brand new music from Young Franco, Charlotte Plank, Kali Uchis, DaBaby, ST\u00dcM, X & Ivy, Peach PRC + more ",
+  "num_followers": 434737,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANOxUP/EoU99wFIsi1XTBQr/yllO",
+  "snapshot_id": "AAAAAMBV9My0fYDcIkeP9hLmP4c6WqOG",
   "tracks": [
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
+    },
     {
       "added_at": "2025-12-18 13:00:11",
       "album": {
@@ -523,8 +539,24 @@
     {
       "added_at": "2025-12-18 13:00:11",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Money Call",
+        "url": "https://open.spotify.com/album/04Lpgal8rYIqTIKZTVcy9h"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "duration_ms": 182577,
+      "name": "Money Call",
+      "url": "https://open.spotify.com/track/7yCi7YxF9hYiMGNiP833EW"
+    },
+    {
+      "added_at": "2025-12-18 13:00:11",
+      "album": {
+        "name": "Soundness of Mind",
+        "url": "https://open.spotify.com/album/0dREigET4UujDrqQFmXaGV"
       },
       "artists": [
         {

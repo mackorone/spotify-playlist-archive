@@ -9307,6 +9307,24 @@
     },
     {
       "album": {
+        "name": "Dirou Niyya (Official Moroccan Fan Chant)",
+        "url": "https://open.spotify.com/album/4dh7GUAykeLvwzGOVM1lcb"
+      },
+      "artists": [
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177725,
+      "name": "Dirou Niyya - Official Moroccan Fan Chant",
+      "url": "https://open.spotify.com/track/2pDBEAiA554r73laQPmzOW"
+    },
+    {
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
       },
@@ -13366,7 +13384,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 167111,
       "name": "Ha Wlidi",
       "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
@@ -21748,7 +21766,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 214364,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -28070,7 +28088,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"

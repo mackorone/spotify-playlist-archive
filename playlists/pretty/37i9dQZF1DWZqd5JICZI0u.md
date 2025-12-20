@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,661,101 likes - 220 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,661,788 likes - 220 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 219 | [Visualizing](https://open.spotify.com/track/1aakOkX34CbmgrGERegFqW) | [Kai Stellar](https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr) | [Visualizing](https://open.spotify.com/album/5BDh4c51PD8OYA10o2hpMr) | 2:41 |
 | 220 | [Nivalis](https://open.spotify.com/track/0ueNCrvDMDCPIEwJplY9RK) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Nivalis](https://open.spotify.com/album/7tsjRhhj8KhQzDYveYYOCw) | 2:46 |
 
-Snapshot ID: `AAAAACm5D/gpXy5IXA0nN9ZGwuWeGkYZ`
+Snapshot ID: `AAAAAOE1nRFqyad6f0UATR7+FeXvxt/Q`

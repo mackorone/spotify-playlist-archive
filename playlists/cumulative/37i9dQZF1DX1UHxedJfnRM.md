@@ -4,7 +4,7 @@
 
 > Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
 
-166 songs - 12 hr 1 min
+167 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [El Color de Tus Ojos](https://open.spotify.com/track/55wQTdI8Z52zw0FGPSHFhP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/0Jw0sxH3kuVRIVgAqqXLHC) | 4:03 | 2022-05-13 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 | 2022-07-15 | 2024-04-19 |
 | [El Dolor De Mi Vida \- Versión Salsa](https://open.spotify.com/track/3WSAA6uLjnYNAnYACNa5F7) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Dolor De Mi Vida \(Versión Salsa\)](https://open.spotify.com/album/0ZN7GfXpjhltsNAgaYum5U) | 3:56 | 2022-08-12 |  |
+| [El Mecánico](https://open.spotify.com/track/0a4YTcegjQPgpF2Xf0cCJK) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [El Mecánico](https://open.spotify.com/album/5aMyHMTri4C6hUMXk5RU6B) | 5:09 | 2025-12-19 |  |
 | [El Más Feliz Del Mundo](https://open.spotify.com/track/6LJ0Vm6VniJW73HvDgz2Mr) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Jorge Luís Piloto](https://open.spotify.com/artist/4q3tZzOquSSEmpYJXj8qGp) | [El Más Feliz Del Mundo](https://open.spotify.com/album/3YyG3bUijz0cbjvCUagVMr) | 4:49 | 2023-05-12 | 2024-05-25 |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-27 | 2024-06-01 |
 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 | 2023-10-27 | 2024-06-01 |
@@ -134,7 +135,7 @@
 | [Quiero Saber](https://open.spotify.com/track/58bITP8kCWbCgSMR7pymTk) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/1yDStnQKSi1Tw11A38BFJc) | 4:07 | 2022-07-15 | 2024-04-19 |
 | [Quiero Saber](https://open.spotify.com/track/6J9OXLfXFaf8QsUlvf7qx0) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/2Qb6AD12DgSvnD8YHmG8Nv) | 4:07 | 2022-05-13 |  |
 | [Qué Bello \- Versión Salsa](https://open.spotify.com/track/3yeIWitSXgDRkBBuQWDbQZ) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Qué Bello \(Versión Salsa\)](https://open.spotify.com/album/6HuzvoO0eHtOKWz92XuBRf) | 3:56 | 2022-05-13 | 2022-10-08 |
-| [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-12-13 |  |
+| [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-12-13 | 2025-12-20 |
 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 | 2022-11-11 | 2023-02-17 |
 | [Si No Es Contigo](https://open.spotify.com/track/50GLVAzqvKamz7pArlrHST) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [Si No Es Contigo](https://open.spotify.com/album/6oM1bBU97ZRAduzNcBCCqj) | 4:44 | 2022-05-13 | 2024-05-25 |
 | [Si se fue, se fue](https://open.spotify.com/track/1ZVE8ZUI31bleE7vEC8RQG) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Si se fue, se fue](https://open.spotify.com/album/783J1gQIsaFy8bQtSlFlt7) | 4:23 | 2022-05-13 | 2022-05-28 |

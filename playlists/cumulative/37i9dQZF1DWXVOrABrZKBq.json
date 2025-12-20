@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: LaF, Original Gros Bonnet ",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Ninho",
   "name": "Rap francophone",
   "tracks": [
+    {
+      "album": {
+        "name": "+91 (feat. Niska)",
+        "url": "https://open.spotify.com/album/1zjNAL4Eo05p0dJRn2ELjM"
+      },
+      "artists": [
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160875,
+      "name": "+91 (feat. Niska)",
+      "url": "https://open.spotify.com/track/63V0E20PqFLJVE0TZZMYLJ"
+    },
     {
       "album": {
         "name": "+971",
@@ -1213,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "BOOMX3",
+        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "BOOMX3",
+      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
+    },
+    {
+      "album": {
         "name": "Bout It",
         "url": "https://open.spotify.com/album/55WiBmKfgd4qjBwdrrWaRf"
       },
@@ -1418,6 +1458,24 @@
       "duration_ms": 210729,
       "name": "CAD - Freestyle",
       "url": "https://open.spotify.com/track/2lNoS6A5x6D8aVQU24VOTI"
+    },
+    {
+      "album": {
+        "name": "Cadaqu\u00e9s en Novembre_freestyle 2025",
+        "url": "https://open.spotify.com/album/1RKVXDdKRhKcz45D8gwNSU"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250630,
+      "name": "Cadaqu\u00e9s en Novembre_freestyle 2025",
+      "url": "https://open.spotify.com/track/1K9LuUxnZtDcErhIn2jySJ"
     },
     {
       "album": {
@@ -2062,7 +2120,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 206315,
       "name": "C\u0152UR VERT",
       "url": "https://open.spotify.com/track/3w8KyVRaDjW8R85X68tXe9"
@@ -2080,7 +2138,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 183986,
       "name": "D",
       "url": "https://open.spotify.com/track/0tSUoloDVp2KWFOxfebL35"
@@ -2464,7 +2522,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 211859,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
@@ -3772,7 +3830,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 217554,
       "name": "Insolent 5",
       "url": "https://open.spotify.com/track/0jzGDllueKRPQwUj6zgJyJ"
@@ -4074,6 +4132,24 @@
       "duration_ms": 205337,
       "name": "KENZO NIGO - Sur moi",
       "url": "https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx"
+    },
+    {
+      "album": {
+        "name": "KING VON",
+        "url": "https://open.spotify.com/album/6HJX3L3feufkBfZk7kzpP9"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197818,
+      "name": "KING VON",
+      "url": "https://open.spotify.com/track/6MmIzStC3FpF2u9L7KOMze"
     },
     {
       "album": {
@@ -5945,6 +6021,24 @@
     },
     {
       "album": {
+        "name": "Comme une \u00e9toile (Live Symphonic - Paris La D\u00e9fense Ar\u00e9na 2025)",
+        "url": "https://open.spotify.com/album/6AV5wxnxADCWWeTnsKKFjz"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Petite fille - Live Symphonic - Paris La D\u00e9fense Ar\u00e9na 2025",
+      "url": "https://open.spotify.com/track/4XcsNWIs76i2qCpfvQ2yLa"
+    },
+    {
+      "album": {
         "name": "Peur (feat. Ziak)",
         "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
       },
@@ -6444,6 +6538,28 @@
       "duration_ms": 170618,
       "name": "Quand tout s'enflamme",
       "url": "https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz"
+    },
+    {
+      "album": {
+        "name": "Quasimodo",
+        "url": "https://open.spotify.com/album/1ssYBHK8BmGT9Wi5aBKErC"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "Quasimodo",
+      "url": "https://open.spotify.com/track/3Xtx4I7Lu5O6UOK5cCezPT"
     },
     {
       "album": {
@@ -7128,7 +7244,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 162677,
       "name": "SIB\u00c9RIE",
       "url": "https://open.spotify.com/track/2MylcFlhnlzAiIYVDeuzx3"
@@ -7150,7 +7266,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 140889,
       "name": "SIGNAL",
       "url": "https://open.spotify.com/track/77WSUyNH1wjN09US8XDLpD"
@@ -7816,7 +7932,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 173131,
       "name": "Treillis",
       "url": "https://open.spotify.com/track/0HvFtyJntGuciaRDMKLkqu"
@@ -7996,6 +8112,36 @@
       "duration_ms": 217846,
       "name": "Van Dijk",
       "url": "https://open.spotify.com/track/7EYQIzoZ6TNLXK9F4j04Sy"
+    },
+    {
+      "album": {
+        "name": "VERNISSAGE",
+        "url": "https://open.spotify.com/album/142c3qM3X4qgG8TS8IuMwR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Savage",
+          "url": "https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq"
+        },
+        {
+          "name": "KaMa",
+          "url": "https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH"
+        },
+        {
+          "name": "Faire les Choses",
+          "url": "https://open.spotify.com/artist/03HhpNxb5lzCo52TsP33FE"
+        },
+        {
+          "name": "5inq",
+          "url": "https://open.spotify.com/artist/7koHUiO2F4PHi0PDV4gycT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "VERNISSAGE",
+      "url": "https://open.spotify.com/track/6POYZKs3nkPksqp0yvloDS"
     },
     {
       "album": {

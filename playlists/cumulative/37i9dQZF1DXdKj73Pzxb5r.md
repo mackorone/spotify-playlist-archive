@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rifan Kalbuadi
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: starrducc
 
-453 songs - 1 day 4 hr 53 min
+455 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [AN ISLAND](https://open.spotify.com/track/7EGR1RPJXmlPItqBHKcZff) | [Bin Idris](https://open.spotify.com/artist/1NWQaDr8SmaIKtiNz0GBG8) | [III](https://open.spotify.com/album/6YplJhAiQyfLRyUGRoqEvf) | 3:51 | 2025-06-19 | 2025-10-24 |
 | [Andai Saja](https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Obrolan Jam 3 Pagi](https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D) | 3:57 | 2025-05-16 |  |
 | [Angdimano](https://open.spotify.com/track/2bGHkJ2Rqdt783RFGuh2Yq) | [Caessaria](https://open.spotify.com/artist/4Lqjj5kam5AMYcZvdkKTvd) | [DYSTOPIA](https://open.spotify.com/album/4PfucubYGaerE0S6egYl38) | 4:55 | 2025-09-11 | 2025-11-29 |
+| [Angin Selatan](https://open.spotify.com/track/4f22ZxgN56vpzaAQ8VGCwr) | [starrducc](https://open.spotify.com/artist/0nUXjxScWvmUE4Jkd1Uh2Y) | [Starrducc III](https://open.spotify.com/album/7t6HCXPMGUP8cl9uz449NZ) | 4:40 | 2025-12-19 |  |
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 |  |
 | [Anti ∞ Hero \- Orchestra](https://open.spotify.com/track/4XF1ufaENddFlVFaU283EO) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero The Legend is Born](https://open.spotify.com/album/5EtARuImOLEphaDZnoZNO7) | 3:30 | 2025-08-28 |  |
 | [Anti ∞ Hero \- Slowed + Reverb](https://open.spotify.com/track/3xN6I7qZ8bODMXGuMLrfZn) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero \(Alternate Version\)](https://open.spotify.com/album/71dJyWzzP0QSIUq8enWZrR) | 4:33 | 2024-12-13 |  |
@@ -166,6 +167,7 @@
 | [Hilang Di Nestapa](https://open.spotify.com/track/317JB3hbNXTfLYifDxzrDY) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Hilang Di Nestapa](https://open.spotify.com/album/4Ou8VOT5xtIxCTYQVPsrMR) | 5:12 | 2024-06-27 | 2024-07-12 |
 | [Hilang Naluri](https://open.spotify.com/track/7v1tKoC0caE47BRf7HV0b9) | [Neo Ketaren](https://open.spotify.com/artist/3bkDbv5H0Dm88XmdlZlFqa), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Hilang Naluri](https://open.spotify.com/album/4jWYBCnGcNIwCj2kX1adUr) | 5:21 | 2025-01-18 | 2025-04-26 |
 | [Him](https://open.spotify.com/track/1mcKYAFrhpQH1033swmPxj) | [After Hours](https://open.spotify.com/artist/3AyyWXzeEBIaGVEEfC530D) | [Stardust Diary](https://open.spotify.com/album/2wFPO8TxI744maW6LAUwDQ) | 4:06 | 2025-10-09 | 2025-11-29 |
+| [Hitung Mundur](https://open.spotify.com/track/0AFqdd132CkrtpLmO6S2ou) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Hitung Mundur](https://open.spotify.com/album/4Q89I9pL6zwx9h0Mu4Pi3x) | 4:05 | 2025-12-19 |  |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [HOMILI/MENATAP WAJAH TUHAN](https://open.spotify.com/track/6VINyh93IUZc6tLQ4pZf2b) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [HOMILI/MENATAP WAJAH TUHAN](https://open.spotify.com/album/6ngSkrbBeOsllZxA2ofEFi) | 4:13 | 2025-04-25 | 2025-07-25 |
 | [Honey, You Are My Drama](https://open.spotify.com/track/3UYROV5XAcx4pq0izCQXL9) | [Misanthrope](https://open.spotify.com/artist/4vrQf7ZgpK8d7R4RiAgnuE) | [Honey, You Are My Drama](https://open.spotify.com/album/0HfqlNFma2ju4HaI35vzTi) | 5:19 | 2024-06-27 | 2024-08-02 |

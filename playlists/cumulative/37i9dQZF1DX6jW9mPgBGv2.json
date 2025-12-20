@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Kendo Kaponi y Luar La L plantando cara.",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Hanzel La H y Hades66 plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -958,7 +958,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 214925,
       "name": "COMO ANTES",
       "url": "https://open.spotify.com/track/49XibKXtvZo7EUdHwhiYQs"
@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 531692,
       "name": "Foo Chow",
       "url": "https://open.spotify.com/track/24kTIhBGlyH7nyFMfYQD71"
@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "La Ayuda",
+        "url": "https://open.spotify.com/album/4gLErL5IchmuKP6He0Fefa"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149741,
+      "name": "La Ayuda",
+      "url": "https://open.spotify.com/track/6kT1BQi9VzESyufRLgg3RL"
+    },
+    {
+      "album": {
         "name": "LA CONE EN PR",
         "url": "https://open.spotify.com/album/3Nxx9YxmEyNFmfoEpCImAw"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
@@ -2632,6 +2650,28 @@
       "duration_ms": 398500,
       "name": "Los Shishi (feat. Julianno Sosa, Marcianeke, Harry Nach, Bryartz, Lleflight, Aqua VS, Drago200, Simon la Letra, Shisosaloud, Zewa, Keylon, Barbero Ex\u00f3tico, Andre Alpuritano, J Cap, Bastian La Amenaza, Jay Ferragamo & EL VALLE DE LOS REYES)",
       "url": "https://open.spotify.com/track/6olagVojvkvpDBizJ7Y7Cu"
+    },
+    {
+      "album": {
+        "name": "Loyalty 4 Ever",
+        "url": "https://open.spotify.com/album/6paSdgWQaYeRJtvhiHdvg1"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135757,
+      "name": "Loyalty 4 Ever",
+      "url": "https://open.spotify.com/track/1IWwMgp1Wm6VobriqpuDp4"
     },
     {
       "album": {
@@ -3082,6 +3122,40 @@
       "duration_ms": 193714,
       "name": "Ni Me Enmascaro (feat. Shootter Ledo)",
       "url": "https://open.spotify.com/track/4j4soHVvYe98jsLYTsL3eO"
+    },
+    {
+      "album": {
+        "name": "NO AZARA",
+        "url": "https://open.spotify.com/album/7JADD9MvOci787xeOH1hvT"
+      },
+      "artists": [
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        },
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Elniko Arias",
+          "url": "https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR"
+        },
+        {
+          "name": "Lael",
+          "url": "https://open.spotify.com/artist/5vQRqmQKw8UzsgTk9OWTyB"
+        },
+        {
+          "name": "El H",
+          "url": "https://open.spotify.com/artist/4BLAEJCcjU85VGBdwWK4ta"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282197,
+      "name": "NO AZARA",
+      "url": "https://open.spotify.com/track/6o21C6LfMGRnK5rZVY2ffA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Mavokali
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,306 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,320 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 26 | [Si Unajua? \- Remix](https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI) | [Msomali](https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Si Unajua? Remix](https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW) | 3:18 |
 | 27 | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa) | 3:45 |
 | 28 | [Naoa](https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Naoa](https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2) | 3:57 |
-| 29 | [Shemeji Yako](https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Shemeji Yako](https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs) | 4:16 |
+| 29 | [Coming Home](https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Coming Home](https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd) | 3:20 |
 | 30 | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Platform](https://open.spotify.com/artist/3hOjAwnmHizGi4U9dOzUNE), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Kuachana Shingapi \(Remix\)](https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1) | 4:08 |
-| 31 | [Coming Home](https://open.spotify.com/track/4GxTG4Wsks4RWend6X1MJ4) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Coming Home](https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd) | 3:20 |
+| 31 | [Shemeji Yako](https://open.spotify.com/track/6h9NKoZ0O1WZlQRhC2euXa) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Shemeji Yako](https://open.spotify.com/album/6Sxcp9nwJnY6qvC2lJJSNs) | 4:16 |
 | 32 | [Bambia](https://open.spotify.com/track/7vOENBJoWOGIeDs4VLRMMA) | [Mczo Morfan \(Big\)](https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2) | [Real Life](https://open.spotify.com/album/5gKUYTxKDcw08D6maJRRNa) | 4:00 |
 | 33 | [Bado Sijasikia](https://open.spotify.com/track/0uNqRKYpZHyP6Fr86GUxnI) | [Misso Misondo](https://open.spotify.com/artist/70Cfd1sDH9DJuiRSpRDT5p), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Bado Sijasikia](https://open.spotify.com/album/4cFvZCi3FmUhX82PuG6Ewy) | 3:37 |
 | 34 | [Twende Beach](https://open.spotify.com/track/5vWDLctb2D82C0oTffO2em) | [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Twende Beach](https://open.spotify.com/album/2zCVQvbLDfvWkPYGRrAl6M) | 4:10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Capital Inicial",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: LVCAS",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -7193,6 +7193,28 @@
     },
     {
       "album": {
+        "name": "O ver\u00e3o e voc\u00ea",
+        "url": "https://open.spotify.com/album/2w9Cn3l7jaLIhaA5fy14Mx"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210769,
+      "name": "O ver\u00e3o e voc\u00ea",
+      "url": "https://open.spotify.com/track/20xbgvEtZu7BNiRPSat5bH"
+    },
+    {
+      "album": {
         "name": "O Ver\u00e3o Passou, Mas O Sol Continua Aqui",
         "url": "https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3"
       },
@@ -8685,6 +8707,24 @@
     },
     {
       "album": {
+        "name": "abatido mas n\u00e3o derrotado",
+        "url": "https://open.spotify.com/album/0KQMepeez8i64E4P965nFc"
+      },
+      "artists": [
+        {
+          "name": "LVCAS",
+          "url": "https://open.spotify.com/artist/0P9pI1DLcVTkobNcZ7Tb1N"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "ref\u00e9m",
+      "url": "https://open.spotify.com/track/2Sqc8PZC5j2w31BTt0MjEi"
+    },
+    {
+      "album": {
         "name": "Ac\u00fastico Kamaitachi, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6L3w8n0tKezdefcpIYTc7K"
       },
@@ -9284,7 +9324,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 163680,
       "name": "Senador",
       "url": "https://open.spotify.com/track/6uALZSrh136doyHHljYo4M"

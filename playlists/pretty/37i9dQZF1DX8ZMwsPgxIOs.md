@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,418 likes - 148 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,473 likes - 148 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 147 | [True Under Certain Conditions](https://open.spotify.com/track/1F1GmgLzUnD5XsoZ0kfjNU) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [True Under Certain Conditions](https://open.spotify.com/album/5TQjRGI7CSt9Q7rHqkShT5) | 4:33 |
 | 148 | [Reflections](https://open.spotify.com/track/3iGqK1cxsegZS0r34kYLDm) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Reflections](https://open.spotify.com/album/5dbxq2t69Uw9V2kKOEtqCu) | 4:47 |
 
-Snapshot ID: `AAAAAMyoBRyp+fUuqb1sH8IH108hiTDa`
+Snapshot ID: `AAAAAHSaoRrN06p/m75IvQ8DxNbHlW/p`

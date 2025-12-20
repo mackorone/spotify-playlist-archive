@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 3,785 songs - 8 day 8 hr 32 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 3,789 songs - 8 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3793,5 +3793,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3783 | [Rockstar \- Spanish Version](https://open.spotify.com/track/2G5d0RsPFilKiCJy9XjuAy) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:59 |
 | 3784 | [CERRITOS](https://open.spotify.com/track/18Puv3c1PJYe9i3z17dnEZ) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Trap del Vampiro](https://open.spotify.com/album/4JZtmell5UxBdsXHO3VjiH) | 1:44 |
 | 3785 | [Haze](https://open.spotify.com/track/7Fy3ujBBr9Th9FNuJV7FZ2) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Haze](https://open.spotify.com/album/2AjepJK9KpoB4MZ4CU0aYM) | 4:05 |
+| 3786 | [Mere Hathon Mein](https://open.spotify.com/track/3gDPkpNUIGxxpmbGXBpT3Y) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mere Hathon Mein](https://open.spotify.com/album/7whGu36E2i44ZLfs7wd9uj) | 2:22 |
+| 3787 | [Mere Hathon Mein](https://open.spotify.com/track/3gDPkpNUIGxxpmbGXBpT3Y) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mere Hathon Mein](https://open.spotify.com/album/7whGu36E2i44ZLfs7wd9uj) | 2:22 |
+| 3788 | [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 |
+| 3789 | [Sheeshe Ka Dil](https://open.spotify.com/track/1XNErXg8Ruh8qg2u7qTPbL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Sheeshe Ka Dil](https://open.spotify.com/album/5uIExKGcW286CjQ4QuIxkJ) | 3:38 |
 
-Snapshot ID: `AAAGUvxWekgUyh1gO+DktZnb+Audyl2c`
+Snapshot ID: `AAAGVsCT+JntpmOX/jwkXpQtcDV6D3gk`

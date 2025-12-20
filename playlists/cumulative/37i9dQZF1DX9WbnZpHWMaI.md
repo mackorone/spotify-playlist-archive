@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Kelly Lee Owens.
 
-727 songs - 1 day 21 hr 35 min
+728 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [GIMME A BREAK](https://open.spotify.com/track/1sbfbQz0Okl9wK4sxRRZU3) | [MESSIE](https://open.spotify.com/artist/4VsVLz3Uw6d0fdM6gFtLfo) | [GIMME A BREAK](https://open.spotify.com/album/3ox5Qt6UovDojKCsWwvGCA) | 3:13 | 2025-12-05 |  |
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-24 | 2025-08-10 |
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-12 | 2024-12-21 |
-| [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 | 2024-11-25 |  |
+| [girls just wanna have fun](https://open.spotify.com/track/56xhTPqdsyUNbUKk6KXMlc) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 2:31 | 2024-11-25 | 2025-12-20 |
 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 | 2024-08-16 | 2025-02-08 |
 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 | 2025-08-22 | 2025-11-08 |
 | [Giving You](https://open.spotify.com/track/5QcKkO89PDQH50Mh7W4pSr) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Giving You](https://open.spotify.com/album/3rSZJ1Z8oLbisX53IND80e) | 3:29 | 2024-03-01 | 2024-05-25 |
@@ -339,6 +339,7 @@
 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 | 2023-03-07 | 2024-03-02 |
 | [I Look Good](https://open.spotify.com/track/2nO5YCEAQLPYKLbza7N64Z) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [I Look Good](https://open.spotify.com/album/538gE7qZ8YA2vZeYO8jO36) | 2:44 | 2025-02-28 | 2025-06-14 |
 | [I Missed You Too](https://open.spotify.com/track/4o2c5swMPdirnnahplyswy) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I Missed You Too](https://open.spotify.com/album/3S5pxAGiUKduiJGwnEzHno) | 3:35 | 2024-03-08 | 2024-06-29 |
+| [I Need You](https://open.spotify.com/track/2V1s99E5YLT2gsscVrYj8L) | [Sophia Guerrero](https://open.spotify.com/artist/2vr2Zel4lL47VOq86RCEHi) | [I Need You](https://open.spotify.com/album/3cZF1ar1xX8wmATAFPEq32) | 3:00 | 2025-12-19 |  |
 | [I Warned You Baby](https://open.spotify.com/track/1GStTBknp7qomNM5uYMcVd) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Rave Baby EP](https://open.spotify.com/album/7db7NSBLfSihkpSgbkSLm9) | 6:52 | 2024-12-06 | 2025-03-15 |
 | [I Will Find You](https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [I Will Find You](https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv) | 3:29 | 2024-06-18 | 2024-06-21 |
 | [I'm Not Always Where My Body Is](https://open.spotify.com/track/1uFBlkcqXpvoZBpRL7fM4T) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [S.L.F.](https://open.spotify.com/album/0rZMYFmZZYdm3nfilk1SvV) | 3:49 | 2022-03-08 | 2023-04-30 |

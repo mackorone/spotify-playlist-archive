@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Airplane Cabin Noise",
+        "url": "https://open.spotify.com/album/5oX7IbwLZicZfd9xtlfl2H"
+      },
+      "artists": [
+        {
+          "name": "Thyyphoon",
+          "url": "https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179125,
+      "name": "Airplane Cabin Noise",
+      "url": "https://open.spotify.com/track/1VwZBQnynhQMMv9XqCV30K"
+    },
+    {
+      "album": {
         "name": "Noise Cancelling For Work And Study",
         "url": "https://open.spotify.com/album/5PrEqZQl9D4q50AFBeAyLJ"
       },
@@ -914,7 +932,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 326936,
       "name": "Comfort Plus White Noise",
       "url": "https://open.spotify.com/track/5y0oGLM4Er4X20lakH72uj"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 339568,
       "name": "Sleep Above the Clouds",
       "url": "https://open.spotify.com/track/5HyGfHz7D9GbfskX2b6xrg"

@@ -4,7 +4,7 @@
 
 > Relax to these chilled instrumental Christmas tunes.
 
-119 songs - 6 hr 24 min
+120 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [The Christmas Song](https://open.spotify.com/track/2ZqwIozv140VtUIcKllHQJ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song](https://open.spotify.com/album/1b1lifPc4Un5xuO9LJjcdd) | 3:15 | 2021-12-16 | 2024-04-19 |
 | [The Christmas Song](https://open.spotify.com/track/1jm2JmNC6X3Kph37wz77jk) | [Robert Wells](https://open.spotify.com/artist/2b5IBuGQwskEO9VwynCNtO), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Ashley Jackson](https://open.spotify.com/artist/0rJo9egOhkNC9N78nGkyXk) | [The Christmas Song](https://open.spotify.com/album/38P7No9z9CqCKoCbyzulAS) | 2:44 | 2025-11-03 | 2025-11-14 |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/1oGv4rDnVsy1gjRe8xkzEz) | [Mel Tormé / Robert Wells](https://open.spotify.com/artist/1VVk8k063MQJ3Ov5k3UguX), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/album/5Alx7HeL1vtAV2crddvB3h) | 3:15 | 2021-12-16 | 2025-11-04 |
+| [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6ef8XBSqss4PuytG7DhW41) | [Robert Wells](https://open.spotify.com/artist/2b5IBuGQwskEO9VwynCNtO), [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [Silent Night \- A Neoclassical Christmas](https://open.spotify.com/album/25e5wUuBlQSG1zm9AHjM0B) | 3:42 | 2025-12-19 |  |
 | [The First Christmas](https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The First Christmas](https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg) | 2:47 | 2023-11-24 |  |
 | [The First Noel](https://open.spotify.com/track/0f9O0RNskatv4lzUK6axjy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 3:44 | 2021-12-16 |  |
 | [The Wexford Carol](https://open.spotify.com/track/2DUq09XWvzX2QRXKs3ZMUH) | [Carducci String Quartet](https://open.spotify.com/artist/4cKOYjPLQGb79166NxfeyI) | [The Wexford Carol](https://open.spotify.com/album/2avlZClfTbrRCAMttmcPuE) | 2:37 | 2023-10-20 |  |

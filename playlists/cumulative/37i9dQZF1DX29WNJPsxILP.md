@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Karma
+> Best of Hindi Hip\-Hop! Cover: Naam Sujal
 
-301 songs - 15 hr 12 min
+302 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Blessed](https://open.spotify.com/track/4GivXw16d9aVeLbZgrEkIJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Blessed](https://open.spotify.com/album/23IYMJYNH8OYpk8C7kb9zy) | 3:02 | 2025-03-21 | 2025-07-12 |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2023-03-10 | 2024-10-01 |
 | [Brahamachari](https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [GhAatak](https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 3:34 | 2024-12-14 | 2025-02-01 |
-| [Brown Baddie](https://open.spotify.com/track/3igllAJHaHreqjwdfDxbrj) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Brown Baddie](https://open.spotify.com/album/7CCCMWbQH2fYhsqxEteXNj) | 2:36 | 2025-07-11 |  |
+| [Brown Baddie](https://open.spotify.com/track/3igllAJHaHreqjwdfDxbrj) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Hashbass](https://open.spotify.com/artist/0SFvkCtMeB2DSxgIPX6lzO) | [Brown Baddie](https://open.spotify.com/album/7CCCMWbQH2fYhsqxEteXNj) | 2:36 | 2025-07-11 | 2025-12-20 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-05-18 | 2024-04-19 |
 | [Bt Ho Gayi](https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/0eNoZ7pnoeiq2iF7scY3ss) | 2:40 | 2024-04-09 | 2025-10-18 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-10 | 2023-07-15 |
@@ -156,6 +156,7 @@
 | [Khatta Flow](https://open.spotify.com/track/2qb5ASYergjk2qNLvYEQJD) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:32 | 2023-08-28 |  |
 | [Kheench Maari](https://open.spotify.com/track/2W45HI9Tfj1YdhMHJE0Lnd) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Nitin Randhawa](https://open.spotify.com/artist/0WIMfLnFgEZkwlzCaemJkS) | [Kheench Maari](https://open.spotify.com/album/1Vp9PMPUHVdITIdbtzlQmH) | 2:48 | 2023-11-29 | 2025-01-07 |
 | [Kider Manzil](https://open.spotify.com/track/6fSpenzImcaH7172TSL7tg) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Kider Manzil](https://open.spotify.com/album/4fxLM05E46i0XdeXpslSCC) | 3:46 | 2025-05-23 | 2025-06-28 |
+| [Killa Klassic](https://open.spotify.com/track/5Cx1RreO5b55pn3yLPbDI6) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP) | [Killa Klassic](https://open.spotify.com/album/0ZEUspN1PZNO1mBAi2z0FD) | 2:55 | 2025-12-19 |  |
 | [KKBN](https://open.spotify.com/track/4uzN9fvxOY4ytWCDhB6FbZ) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 2:52 | 2025-05-23 |  |
 | [KODAK](https://open.spotify.com/track/3e1g159cSgose2jHQj9uzd) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [KODAK](https://open.spotify.com/album/3PzVNvVBZ8MnyGyWl2A3CC) | 6:03 | 2024-07-08 | 2025-05-17 |
 | [Kon Hai Tu](https://open.spotify.com/track/0ko5n1BkAyWHDxXwvzrgWu) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [Aman Sagar](https://open.spotify.com/artist/44RHVQwXmrmkfsOnSuURmF) | [Junkie](https://open.spotify.com/album/64ZdfxElAIAgbVCBAAbvjL) | 2:02 | 2024-06-13 | 2024-07-19 |

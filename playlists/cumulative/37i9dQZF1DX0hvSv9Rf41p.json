@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Subtronics",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with GriZ. Happy GriZmas!",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -8951,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "Droid",
+        "url": "https://open.spotify.com/album/0JJvYBZOCxvBJCdTKuoD3i"
+      },
+      "artists": [
+        {
+          "name": "Dirtyphonics",
+          "url": "https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Droid",
+      "url": "https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo"
+    },
+    {
+      "album": {
         "name": "Drop In",
         "url": "https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47"
       },
@@ -12324,7 +12342,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 151578,
       "name": "Funk You Up!",
       "url": "https://open.spotify.com/track/1Ca7IBRiNfOJT5STMI7suU"
@@ -21544,6 +21562,28 @@
       "duration_ms": 228017,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/6IV8mJMXlVrMJtUDXMfsUy"
+    },
+    {
+      "album": {
+        "name": "Nobody Else (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/5XpCrHqbZPPBWSGOmct0A0"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Nobody Else (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/2NuNzR5GVtL8nkJ0sxfGzs"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103863,
+  "num_followers": 103857,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUHygAAAAACy9ArDJTwC7TAaIeBwKu9h",
+  "snapshot_id": "aUNEAAAAAABiK/chYT+dT7Ghtf8B8PhQ",
   "tracks": [
     {
       "added_at": null,
@@ -587,18 +587,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Princesa de la Noche",
+        "url": "https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5"
       },
       "artists": [
         {
+          "name": "Mori",
+          "url": "https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK"
+        },
+        {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Paul Ruche",
+          "url": "https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ"
+        },
+        {
+          "name": "Z GU",
+          "url": "https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 195000,
+      "name": "Princesa de la Noche",
+      "url": "https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4"
     },
     {
       "added_at": null,
@@ -703,30 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Princesa de la Noche",
-        "url": "https://open.spotify.com/album/0yYpzvECpc7iuJ2sCMfxI5"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
-          "name": "Mori",
-          "url": "https://open.spotify.com/artist/32LRzOkIsRVT82iYmLSbBK"
-        },
-        {
           "name": "Carolina Ross",
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        },
-        {
-          "name": "Paul Ruche",
-          "url": "https://open.spotify.com/artist/3n6oWHec0thlerlSygmGDQ"
-        },
-        {
-          "name": "Z GU",
-          "url": "https://open.spotify.com/artist/24BR616ycyMUHwcvsmZJjr"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Princesa de la Noche",
-      "url": "https://open.spotify.com/track/2two6m0LBsrOZWLhsGi7Z4"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": null,

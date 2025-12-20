@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Annelie, Brandon Miles, Die Heuwels Fantasties, Deon Groot en meer!
 
-2,321 songs - 5 day 9 hr 2 min
+2,323 songs - 5 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1374,6 +1374,7 @@
 | [My Brein](https://open.spotify.com/track/7w0ZQwMP5Q0dWhliqtmRqt) | [Ruderick Heuer](https://open.spotify.com/artist/5hPDlLuNcGmAQPiJ0WQwcD) | [My Brein](https://open.spotify.com/album/1bPI4g8amCBrIcpniiCUum) | 3:56 | 2025-11-27 | 2025-12-05 |
 | [My Ding](https://open.spotify.com/track/43mpE4NL8i5PrrTr78JjiE) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [My Ding](https://open.spotify.com/album/1pVN0N6nmFOEeWPMvtrjhf) | 3:52 | 2024-06-21 | 2024-08-16 |
 | [My Eie Kop](https://open.spotify.com/track/0MgT9eDkNv17wZ3fVUVg0z) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25), [KayCee](https://open.spotify.com/artist/1MBDvZuGnSzGV1NHDHXpDw) | [My Eie Kop](https://open.spotify.com/album/4wUeUYAf56IJHmFHlQWuDb) | 3:05 | 2025-11-06 | 2025-11-21 |
+| [My Hart Blom](https://open.spotify.com/track/6hH3ZZ2oXUOOZh4iOYN6oh) | [Desmond Wells](https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19) | [My Hart Blom](https://open.spotify.com/album/4Hx8GlPXtVVFuBxAM4G22L) | 3:51 | 2025-12-18 |  |
 | [My Hart, Jou Hande\(Vraagteken?\)](https://open.spotify.com/track/0G3mbFqZ2i3W5xWoAlRNaf) | [Tweepuntplug](https://open.spotify.com/artist/0nvUx4ttABgwTiuqxxK2V5) | [My Hart, Jou Hande\(Vraagteken?\)](https://open.spotify.com/album/00V7WzRfuQY1TuWBLPiAI6) | 3:22 | 2025-07-17 | 2025-07-25 |
 | [My Hele Lyf \- Live](https://open.spotify.com/track/3HTL5qBOzXLFU5snDl5krF) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Seisoen 2 \- Top 5 \(Live\)](https://open.spotify.com/album/7mY9sILLbKkZjJOeoJp4Fp) | 3:06 | 2022-10-03 | 2022-11-25 |
 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 | 2025-08-08 | 2025-10-24 |
@@ -1747,6 +1748,7 @@
 | [Seerower](https://open.spotify.com/track/7zsXocm715A4wcY8Sq4e5n) | [Louis van Lill](https://open.spotify.com/artist/1vqMsqSbWQUOoZNCmPnjY3) | [Seerower](https://open.spotify.com/album/33rcPnvwLphz0XCl0PLvpN) | 3:22 | 2025-10-23 | 2025-11-21 |
 | [Sein](https://open.spotify.com/track/76zHmZoGVaN9ngg11FLIHO) | [Wolkbrein](https://open.spotify.com/artist/0zIoYTFy3fLQpmw4m0fKRs) | [Sein](https://open.spotify.com/album/5TzBweajQBq0SGYn7ZYeQU) | 4:06 | 2025-09-04 | 2025-09-26 |
 | [Seine](https://open.spotify.com/track/3OniEIME2yh8kI1iJAHR4L) | [Eldon Flare](https://open.spotify.com/artist/36BQyhX27gILUnRMd5m1jW) | [Seine](https://open.spotify.com/album/2zRng9ruXJXIu3HFxjsV10) | 2:48 | 2025-04-10 | 2025-04-25 |
+| [Seisoene](https://open.spotify.com/track/2V7SLBDo6IUvX8qcy2eQUa) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [Seisoene](https://open.spotify.com/album/0Geyynmp1WZtftC4pnLTpS) | 4:03 | 2025-12-18 |  |
 | [Seisoene](https://open.spotify.com/track/7HuhkXgZXjX8IAgRmg4ViD) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Estetika](https://open.spotify.com/album/0F5JB3HCxOrNuB2mIQqKjS) | 3:42 | 2024-05-31 | 2024-09-06 |
 | [Seisoene](https://open.spotify.com/track/7k00injUZAq5pc1IDjL6Rj) | [Tino](https://open.spotify.com/artist/2WPBTmVoNyQTylZiz2zu36), [Rudi Kleingeld](https://open.spotify.com/artist/33NSz9jDIOpr7OJf08t5dg) | [Seisoene](https://open.spotify.com/album/1oUpIlY4P6R2cBtb56ByQ2) | 3:10 | 2023-06-16 | 2023-07-07 |
 | [Selfbeheer](https://open.spotify.com/track/0Iv5MLuR8yVpiAXE9BCrKX) | [Werner Olckers](https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG) | [Selfbeheer](https://open.spotify.com/album/6pubg9uQtO0MNZpAFMtdYG) | 3:05 | 2023-03-30 | 2023-04-14 |
@@ -1759,6 +1761,7 @@
 | [Sexy Genoeg](https://open.spotify.com/track/5tuqD3Uh55pniRsoQECfAK) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu) | [Sexy Genoeg](https://open.spotify.com/album/4doNc8JCRxhdEdY6X839XW) | 3:16 | 2024-11-21 | 2024-12-13 |
 | [Sexy Selfies](https://open.spotify.com/track/52BrZvCiBxFlNk51pnjqO5) | [Bjarne](https://open.spotify.com/artist/2e6piu8T6ZcZjC3UOAhJSW) | [Sexy Selfies](https://open.spotify.com/album/6rv7SGxCaWahnuB0XKqvE8) | 2:35 | 2022-08-11 | 2022-10-07 |
 | [Sexy Time](https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5) | [Van Pletzen](https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN), [Early B](https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp) | [Sexy Time](https://open.spotify.com/album/5XxHLRFUQQEk6ZzAKZUifM) | 3:10 | 2023-04-20 | 2023-05-12 |
+| [SHAKE DIT](https://open.spotify.com/track/2023bQp90m622EaQ475n3E) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu), [BARZX](https://open.spotify.com/artist/1sfLbppjFJohHRV1Z2I0RK) | [SHAKE DIT](https://open.spotify.com/album/6xZHBIK4dcGjkJRfFF8yij) | 2:48 | 2025-12-18 |  |
 | [Shotgun](https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS), [Marno van der Merwe](https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR) | [Shotgun](https://open.spotify.com/album/6bD7UoKiKmCn78sgmmNc1F) | 3:12 | 2025-12-04 |  |
 | [Shotgun](https://open.spotify.com/track/3xXKxuCvhgpMtXKVUH9pea) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [Shotgun](https://open.spotify.com/album/4fa6GlPPrwoT83YUz5EEvP) | 3:41 | 2024-12-05 | 2025-01-17 |
 | [Shut Me Up](https://open.spotify.com/track/2uAUSVbBE3wtVEJQXHHVSx) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:21 | 2023-12-29 | 2024-01-06 |
@@ -2035,7 +2038,6 @@
 | [Tot Die Hane Kraai](https://open.spotify.com/track/6ZRJXfdin2BvNaNNJv4zaE) | [Prop](https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu) | [Tot Die Hane Kraai](https://open.spotify.com/album/4eTLxQIXhAXmmaU06cC30y) | 3:28 | 2025-04-24 | 2025-07-25 |
 | [Tot Tyd My Red](https://open.spotify.com/track/4wesBk83cdR6oi2IHmzKZk) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [Tot Tyd My Red](https://open.spotify.com/album/0rpivhahSWgMReviuQXL0C) | 3:54 | 2024-07-18 | 2024-07-27 |
 | [Totsiens](https://open.spotify.com/track/6BhA6x3RdgId5E8vrWGNHG) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Totsiens](https://open.spotify.com/album/5EFwOSXHsxpFAvSdXorPyw) | 2:44 | 2025-11-13 |  |
-| [Track 1](https://open.spotify.com/track/2V7SLBDo6IUvX8qcy2eQUa) | [Deon Groot](https://open.spotify.com/artist/68BEr1czs88WHBlzZA25DA) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-18 |  |
 | [Transkei](https://open.spotify.com/track/2o9jYylPOF7mOAF54iMwno) | [Sarel Kleinhans](https://open.spotify.com/artist/1nruqwJit4t0rxlbF0wjBv) | [Transkei](https://open.spotify.com/album/5Q78DeF1IXuvAKxiCNXYvm) | 3:27 | 2022-12-01 | 2023-02-17 |
 | [Trap 'n Bietjie](https://open.spotify.com/track/16dVG5XQAtNfIY2pGK1Ca3) | [Jezelle](https://open.spotify.com/artist/5u28bJE9mbh1o28ax8R9WT) | [Trap 'n Bietjie](https://open.spotify.com/album/1a0BKlyhXVsRtwEPQUnrN1) | 2:57 | 2025-12-18 |  |
 | [Trap Diep](https://open.spotify.com/track/1rVH54VvvAFeTKmdTJlH2Y) | [Jan Rhaap](https://open.spotify.com/artist/7bP0numRTX2XfsvgxsmD4r) | [Trap Diep](https://open.spotify.com/album/21CUAZLgw6FlkkzJAQPt9l) | 2:57 | 2025-09-25 | 2025-12-05 |

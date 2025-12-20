@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Midas Alonso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,001 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,984 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 22 | [Nueva Season](https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Nueva Season](https://open.spotify.com/album/1lCpCUkyehHRqVv3q7elLm) | 3:47 |
 | 23 | [BAJO ZERO](https://open.spotify.com/track/5bkHVqgHtm0QKoN7qdvclK) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Hijos de la Ruina](https://open.spotify.com/artist/39pp1wX82VRlVVohxushdp) | [BAJO ZERO](https://open.spotify.com/album/5Nxxi3O0Hz2H8Uzbz9RSSI) | 3:37 |
 | 24 | [Moonlight's Puppet Remix](https://open.spotify.com/track/5PSaLujSojEfsog1wwG17m) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Interferencias](https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN) | [Moonlight's Puppet Remix](https://open.spotify.com/album/6Fvmo9FBVmTnZZAQcbIlz2) | 2:05 |
-| 25 | [Entre Acordes](https://open.spotify.com/track/5trMDkLzcEmZ21pJ1LBodY) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Da Silva](https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ), [Xmaga](https://open.spotify.com/artist/7tWSnHvBthJAMZBoi939te) | [Entre Acordes](https://open.spotify.com/album/0AAhDztjwb4JZiyzgqgcx8) | 3:00 |
+| 25 | [Entre Acordes](https://open.spotify.com/track/5trMDkLzcEmZ21pJ1LBodY) | [Matasvandals](https://open.spotify.com/artist/77WwIwmDkRo6Frks1A89KM), [Da Silva](https://open.spotify.com/artist/5eS4H6PglMQ31lmjIZ2CZZ), [Mauri](https://open.spotify.com/artist/1HUtmqHzIj9AbYo1lVqk47), [Xmaga](https://open.spotify.com/artist/7tWSnHvBthJAMZBoi939te) | [Entre Acordes](https://open.spotify.com/album/0AAhDztjwb4JZiyzgqgcx8) | 3:00 |
 | 26 | [ES COMO FAK](https://open.spotify.com/track/5sUbra1c8ZDnD9chdM4cUf) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [ES COMO FAK](https://open.spotify.com/album/73KT9WlDKkzNMOqtnOxnCa) | 2:19 |
 | 27 | [Nékora](https://open.spotify.com/track/2nAdlxuUz4VspmjEi6KOXq) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Nékora](https://open.spotify.com/album/34qPmFQX9oIQtrV5nXsD6h) | 2:29 |
 | 28 | [TE AVISÉ](https://open.spotify.com/track/0vKUYpGQCiBv8vF3AsEfMF) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [TE AVISÉ](https://open.spotify.com/album/3seP3Ha297n63rbx8KV1rb) | 4:46 |

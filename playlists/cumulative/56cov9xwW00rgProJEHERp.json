@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/7KeRveTlld5CoBXU13hWHj"
+      },
+      "artists": [
+        {
+          "name": "VVonder",
+          "url": "https://open.spotify.com/artist/4p3dOkvr9RzvSgrhoKhub7"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253146,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/2jzTajeJf0HtycS8wSYUkQ"
+    },
+    {
+      "album": {
         "name": "Aw, Shoot!",
         "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
       },
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 204000,
       "name": "Jukebox",
       "url": "https://open.spotify.com/track/2l2AC4yCiOWzQlPGOVLbQG"
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"

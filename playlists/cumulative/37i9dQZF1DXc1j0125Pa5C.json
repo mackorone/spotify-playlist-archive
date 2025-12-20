@@ -1185,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Belo In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZIwdefaVlMWgmPjUe97zD"
+      },
+      "artists": [
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456438,
+      "name": "Defeito Meu / Invenc\u00edvel / Direito De Te Amar / O Meu Amor \u00c9 Belo - Ao Vivo / Belo In Concert",
+      "url": "https://open.spotify.com/track/4JuqJpkM0oUhWLCbcXRt9o"
+    },
+    {
+      "album": {
         "name": "Degrad\u00ea / Um S\u00f3 Sentimento / Mar de Segredos",
         "url": "https://open.spotify.com/album/27dRgBIOUc9i5BZQMegv2C"
       },
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 341269,
       "name": "J\u00e1 Tentei / Me Assume ou Me Esquece / Trov\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3O0V5NH5umcGq7WwpdzCkc"

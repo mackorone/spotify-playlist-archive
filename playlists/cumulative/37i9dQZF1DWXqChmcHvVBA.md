@@ -2,9 +2,9 @@
 
 ### [RKT  & Turreo](https://open.spotify.com/playlist/37i9dQZF1DWXqChmcHvVBA)
 
-> 📸 elaggume
+> 📸 La Joaqui
 
-292 songs - 13 hr 20 min
+293 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Nosotros](https://open.spotify.com/track/1Io4bP5qug6YwRy8g6JVFM) | [Danilo Montana](https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP) | [Nosotros](https://open.spotify.com/album/4Y8m7QKveIif3A6Slj9Pm0) | 2:26 | 2024-02-16 | 2024-03-02 |
 | [Novio Nuevo](https://open.spotify.com/track/2TXpCd4yjHOhreHEMEmI96) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb) | [Novio Nuevo](https://open.spotify.com/album/1u7dEnTmEQBoDJ3L6HwuWs) | 3:12 | 2024-12-06 | 2025-11-29 |
 | [P rreo](https://open.spotify.com/track/1ZI1nMfnnfFhdIyIKv5Igv) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [P rreo](https://open.spotify.com/album/5aiZSpUvzqEpoVolKUVPnw) | 3:18 | 2023-12-15 | 2024-02-17 |
-| [PA K TE PONGAS SATA](https://open.spotify.com/track/6Ash623fPQEpLd0U2VKiEP) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [VACANCIONES](https://open.spotify.com/album/7pSoytpCELDFZqCnqPZorA) | 2:08 | 2025-12-12 |  |
+| [PA K TE PONGAS SATA](https://open.spotify.com/track/6Ash623fPQEpLd0U2VKiEP) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [VACANCIONES](https://open.spotify.com/album/7pSoytpCELDFZqCnqPZorA) | 2:08 | 2025-12-12 | 2025-12-20 |
 | [Pa Ke Te Enamores](https://open.spotify.com/track/3xzl4zZAXvUIkexPOzmC2o) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Iamnazag](https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T), [Tuti DJ](https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK), [Fauna Music](https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P) | [Pa Ke Te Enamores](https://open.spotify.com/album/6Pg1JJaHh3pTbezg6Pp6rB) | 2:28 | 2023-12-22 | 2024-10-12 |
 | [Pa Que Rompa el Piso](https://open.spotify.com/track/18It6OBJJDmhF10ZCiHno1) | [Tirri La Roca](https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB) | [Pa Que Rompa el Piso](https://open.spotify.com/album/4xwQ4SW3oF8WPbNQDXCFEa) | 2:32 | 2024-05-17 | 2024-06-08 |
 | [Pa Tra](https://open.spotify.com/track/6ilUEo4KFRlGX1GTx7lrsM) | [Florniccol](https://open.spotify.com/artist/6wTGZQhi1bMatS87c1WLcw), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Pa Tra](https://open.spotify.com/album/537zC3FIwbagCo4uSk5sGT) | 2:17 | 2024-12-13 | 2025-03-01 |
@@ -268,6 +268,7 @@
 | [Tu Novio Es Un Loro](https://open.spotify.com/track/5BxWs7uvbLsbSnkEzEDmsd) | [El Jotta](https://open.spotify.com/artist/0u8leRVivWvhV2Tk1ZoqMm), [Mambo DJ](https://open.spotify.com/artist/0Qdqf4cdxeMnSXZyCUo6d9) | [Tu Novio Es Un Loro](https://open.spotify.com/album/2adjonafcEcRyHFxeoHwAu) | 2:06 | 2024-02-16 | 2024-03-16 |
 | [Tumba](https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/3QTNjyEdEAt9Fa6Ix39Res) | 3:00 | 2024-05-06 |  |
 | [tunda](https://open.spotify.com/track/6OiQv4LSlz8SFegWVMCxK6) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [tunda](https://open.spotify.com/album/28POgiQ8qxaZRAYmWjmmBV) | 2:06 | 2023-12-15 | 2024-01-20 |
+| [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 | 2025-12-19 |  |
 | [TURRA LÁTIGO](https://open.spotify.com/track/3KyTziu6E6wk6KhRpsD6cK) | [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7), [La Chenny](https://open.spotify.com/artist/3vimAWFu5z6cASy59YugPy) | [TURRA LÁTIGO](https://open.spotify.com/album/6jOSTaEPyy1rSGh7yTnEm5) | 1:45 | 2025-10-24 | 2025-11-22 |
 | [Turro](https://open.spotify.com/track/4pwBmmtEisUX2gK0HqhhaR) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Turro](https://open.spotify.com/album/7gdlWroAiyBT9N70ZxnXG2) | 2:46 | 2023-12-15 | 2024-01-20 |
 | [Turro Diferente \(feat\. Omar Varela, Preciau\)](https://open.spotify.com/track/2EZdlAbCWobkRJUj248m4S) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Preciau](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Turro Diferente \(feat\. Omar Varela, Preciau\)](https://open.spotify.com/album/0r2F17LMHbJ53C68PvzsiN) | 2:49 | 2023-12-15 | 2025-11-29 |

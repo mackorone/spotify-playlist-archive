@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beyond The Black\n",
-  "num_followers": 815950,
+  "num_followers": 815989,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
+        "name": "The Art Of Being Alone",
+        "url": "https://open.spotify.com/album/64XgHGWD8KkYDrDI1wp9OX"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        },
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "duration_ms": 259563,
+      "name": "The Art Of Being Alone",
+      "url": "https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu"
+    },
+    {
+      "added_at": "2025-12-15 16:02:32",
+      "album": {
         "name": "What Else Is There?",
         "url": "https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 227796,
       "name": "What Else Is There?",
       "url": "https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3"
-    },
-    {
-      "added_at": "2025-12-15 16:02:32",
-      "album": {
-        "name": "The Art Of Being Alone",
-        "url": "https://open.spotify.com/album/64XgHGWD8KkYDrDI1wp9OX"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        },
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        }
-      ],
-      "duration_ms": 259563,
-      "name": "The Art Of Being Alone",
-      "url": "https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu"
     },
     {
       "added_at": "2025-12-15 16:02:32",
@@ -1063,22 +1063,18 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
+        "name": "Beyond The Black",
+        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
       },
       "artists": [
         {
-          "name": "Mortemia",
-          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
-        },
-        {
-          "name": "Federica Lanna",
-          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 300560,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
+      "duration_ms": 269533,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
     },
     {
       "added_at": "2025-12-15 16:02:32",
@@ -1155,18 +1151,22 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
-        "name": "Beyond The Black",
-        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/5MWTGZcBF5bGoKZHI9p9xz"
       },
       "artists": [
         {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+          "name": "Mortemia",
+          "url": "https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi"
+        },
+        {
+          "name": "Federica Lanna",
+          "url": "https://open.spotify.com/artist/2l6anpRMp6T9iPMOlzkZUx"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
+      "duration_ms": 300560,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/0s9S861lgoFOi4vXG3wsab"
     },
     {
       "added_at": "2025-12-15 16:02:32",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
+        "name": "Break The Silence",
+        "url": "https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 263244,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP"
+    },
+    {
+      "added_at": "2025-12-15 16:02:32",
+      "album": {
         "name": "A New Beginning",
         "url": "https://open.spotify.com/album/2B6JE5slhWMLNe7yPmBxYY"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
-        "name": "As Empires Fall",
-        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "As Empires Fall",
-      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
-    },
-    {
-      "added_at": "2025-12-15 16:02:32",
-      "album": {
         "name": "The Catalyst",
         "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 184546,
       "name": "Re-Vision",
       "url": "https://open.spotify.com/track/450nTCIFJLFG6M9bxDohJP"
+    },
+    {
+      "added_at": "2025-12-15 16:02:32",
+      "album": {
+        "name": "As Empires Fall",
+        "url": "https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "As Empires Fall",
+      "url": "https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5"
     },
     {
       "added_at": "2025-12-15 16:02:32",
@@ -1315,22 +1331,6 @@
       "duration_ms": 283338,
       "name": "Venerate Me",
       "url": "https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J"
-    },
-    {
-      "added_at": "2025-12-15 16:02:32",
-      "album": {
-        "name": "Break The Silence",
-        "url": "https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 263244,
-      "name": "Break The Silence",
-      "url": "https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP"
     },
     {
       "added_at": "2025-12-15 16:02:32",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
-        "name": "I'll Be Thunder",
-        "url": "https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y"
-      },
-      "artists": [
-        {
-          "name": "Equilibrium",
-          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "I'll Be Thunder",
-      "url": "https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k"
-    },
-    {
-      "added_at": "2025-12-15 16:02:32",
-      "album": {
         "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
         "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2025-12-15 16:02:32",
+      "album": {
+        "name": "I'll Be Thunder",
+        "url": "https://open.spotify.com/album/4GSNqQd7vKmVDCqfhGDS3y"
+      },
+      "artists": [
+        {
+          "name": "Equilibrium",
+          "url": "https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "I'll Be Thunder",
+      "url": "https://open.spotify.com/track/7wwcdLz4PNnROgGn58VL1k"
     },
     {
       "added_at": "2025-12-15 16:02:32",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2025-12-15 16:02:32",
       "album": {
-        "name": "Legends Never Die",
-        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
-      },
-      "artists": [
-        {
-          "name": "The Dark Side of the Moon",
-          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Legends Never Die",
-      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
-    },
-    {
-      "added_at": "2025-12-15 16:02:32",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 225073,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K"
+    },
+    {
+      "added_at": "2025-12-15 16:02:32",
+      "album": {
+        "name": "Legends Never Die",
+        "url": "https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC"
+      },
+      "artists": [
+        {
+          "name": "The Dark Side of the Moon",
+          "url": "https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Legends Never Die",
+      "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
     }
   ],
   "unique_name": "Epic & Melodic",

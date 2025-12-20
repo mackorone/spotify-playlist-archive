@@ -4,7 +4,7 @@
 
 > All of it
 
-1,074 songs - 2 day 18 hr 0 min
+1,076 songs - 2 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2025-06-02 |  |
 | [HIGHS AND LOWS](https://open.spotify.com/track/45GWBSekfJjDphumv1KhR8) | [BULLYE](https://open.spotify.com/artist/5C4xlQzdH56nfaXFu8STZw) | [HIGHS AND LOWS](https://open.spotify.com/album/3Ge2P5KuqatmhohaSQDCtB) | 1:35 | 2025-06-02 | 2025-07-21 |
 | [Hips Don't Lie \(feat\. Wyclef Jean\)](https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Oral Fixation, Vol\. 2 \(Expanded Edition\)](https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU) | 3:38 | 2025-06-02 |  |
+| [Hobo](https://open.spotify.com/track/3lQYanWH4KAIBvRXVXGnjM) | [Beggars Opera](https://open.spotify.com/artist/1Q1IgVCRwAqQxgcM8a64zP) | [Pathfinder](https://open.spotify.com/album/4vDouPNKFQs5GGCjLuLt9W) | 4:25 | 2025-12-19 |  |
 | [Hoe Cakes](https://open.spotify.com/track/4b82tXj35SycILuILcgBQ6) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 3:54 | 2025-06-02 |  |
 | [Hold My Liquor](https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:26 | 2025-06-02 |  |
 | [Hole in the Wall](https://open.spotify.com/track/4OJXqQnjWwTni3rVLvMTwi) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:39 | 2025-06-02 |  |
@@ -817,6 +818,7 @@
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2025-06-02 |  |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2025-06-02 |  |
 | [Snake Eater](https://open.spotify.com/track/2e3g8go386Zn6EyIz60Ci9) | [Cynthia Harrell](https://open.spotify.com/artist/667EyTZx1NKnqwRwhwYQYv) | [METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION](https://open.spotify.com/album/5ewnAdMbADwgnKfFDXGIkz) | 2:57 | 2025-06-02 |  |
+| [SnowMix♪ \(feat\. 初音ミク\)](https://open.spotify.com/track/0qlIg0mIUfWM8Yxu5peawB) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [幽天のファンタジア](https://open.spotify.com/album/2SdNhJre8r9i35w34hOxje) | 4:06 | 2025-12-20 |  |
 | [So Good to Me](https://open.spotify.com/track/2KjQTG3s0fUnN1WeSbc4RS) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 1:41 | 2025-10-13 |  |
 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 | 2025-06-02 |  |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2025-06-02 |  |

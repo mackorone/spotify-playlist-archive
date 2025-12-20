@@ -2,13 +2,14 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring THEM
+> a little indie, a little pop, soda featuring SUM SUN
 
-1,507 songs - 3 day 3 hr 13 min
+1,510 songs - 3 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Cause You Have To](https://open.spotify.com/track/1DNXCTUHCGcr9kJ6LynYEC) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 4:10 | 2024-03-01 | 2024-04-27 |
+| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-19 |  |
 | [100 boys](https://open.spotify.com/track/77lDTbgLWe0FnX2eBKWADX) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [100 boys](https://open.spotify.com/album/3DAu1hq60xQReMBfVFHiUO) | 3:16 | 2023-06-16 | 2023-06-21 |
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-02-04 | 2022-02-26 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-25 |  |
@@ -142,6 +143,7 @@
 | [Betty](https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Betty](https://open.spotify.com/album/1WbPmLKZwkfrT1tPfTFNku) | 2:43 | 2025-07-11 | 2025-09-21 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
 | [Birthmark](https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Birthmark](https://open.spotify.com/album/35GQtom38u5STlcnpDeALd) | 3:22 | 2023-01-20 | 2023-03-25 |
+| [Bite The Bullet](https://open.spotify.com/track/1tBQNVylJHS9gg5EVTT5nQ) | [SUM SUN](https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT) | [Bite The Bullet](https://open.spotify.com/album/4JGpgqVxItSgnEqWBQRWM7) | 3:19 | 2025-12-19 |  |
 | [Bittersweet](https://open.spotify.com/track/1iAnZUotftnMCCLPcsoUtx) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX) | [Bittersweet](https://open.spotify.com/album/4fa718GM4u2gzw2iHFQZBf) | 2:27 | 2025-01-31 | 2025-03-31 |
 | [Blackout Drunk](https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Blackout Drunk](https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH) | 2:28 | 2024-08-02 | 2024-11-12 |
 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 | 2023-06-09 | 2023-09-16 |
@@ -377,7 +379,7 @@
 | [Don't Take The Night](https://open.spotify.com/track/7sWnUG7lH6vjFiJlrFH8EA) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [Don't Take The Night](https://open.spotify.com/album/04Ss9muqWdaSGvYBCWvEoA) | 3:49 | 2025-02-28 | 2025-05-17 |
 | [Don't Tell The Girls](https://open.spotify.com/track/3zMr8WPJTChcnrJR2kXqHa) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Don’t Tell The Girls](https://open.spotify.com/album/1U932jtjwu2EAPpJgAgmGR) | 3:04 | 2025-04-04 | 2025-06-07 |
 | [don't wanna be your friend](https://open.spotify.com/track/2sMH4QWOM6pho9EY2RTPoO) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [don't wanna be your friend](https://open.spotify.com/album/1mkkEUHXdKdejjCLXDzdzr) | 2:45 | 2022-10-14 | 2022-12-03 |
-| [Don't Waste Your Love On Me](https://open.spotify.com/track/6eCdFhskFCVIO5vf6FgDfJ) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Don't Waste Your Love On Me](https://open.spotify.com/album/2uWdNOrNf2se8aanR3DiId) | 3:08 | 2025-08-17 |  |
+| [Don't Waste Your Love On Me](https://open.spotify.com/track/6eCdFhskFCVIO5vf6FgDfJ) | [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Don't Waste Your Love On Me](https://open.spotify.com/album/2uWdNOrNf2se8aanR3DiId) | 3:08 | 2025-08-17 | 2025-12-20 |
 | [Don't You Worry](https://open.spotify.com/track/47xOrQT2xcdIA9fPKg07uQ) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Don't You Worry](https://open.spotify.com/album/7gIkct34Wk2H6rGuk9w7yV) | 2:42 | 2022-07-15 | 2022-09-17 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-16 | 2025-06-21 |
 | [Don’t You Dare](https://open.spotify.com/track/15OXdwbUlsHhyaEfqSxlZJ) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Don’t You Dare](https://open.spotify.com/album/3COjdSCHZ3pY8bs49ZlbNK) | 2:44 | 2025-02-07 | 2025-04-12 |
@@ -424,6 +426,7 @@
 | [everything but you](https://open.spotify.com/track/4U4m8333fohDh60ZCzesrN) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/3GBpUVoecA1RTPDzb7zMOF) | 2:57 | 2024-09-06 | 2024-11-26 |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
 | [EVERYTHING IS QUIET](https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [EVERYTHING IS QUIET](https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc) | 2:53 | 2024-05-24 | 2024-07-16 |
+| [Everything We Used To Do](https://open.spotify.com/track/0jLBXHKeU5VXYIvHIwOjcQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Booster Pack](https://open.spotify.com/album/6jUcgtpKSSAaltoe8wBkVM) | 3:35 | 2025-12-19 |  |
 | [EVERYTHING YOU WANTED](https://open.spotify.com/track/2gvdqsxVtVayLEclQIFDRk) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [EVERYTHING YOU WANTED\*ALL I EVER WANTED](https://open.spotify.com/album/5sP9gedfCsXH9VvjbzHbYh) | 2:52 | 2024-11-08 | 2024-11-16 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-03-25 |
@@ -599,7 +602,7 @@
 | [Home Videos](https://open.spotify.com/track/3FuBFn7jnMJWNufU61mSv4) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Are We Going Too Slow?](https://open.spotify.com/album/4WrVZgQ5FMGG8596elftve) | 2:35 | 2021-11-05 | 2022-02-19 |
 | [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 | 2023-06-30 | 2023-08-26 |
 | [Homerun Hitter](https://open.spotify.com/track/5tHalhXKz1l1rCJAMzx0PG) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Homerun Hitter](https://open.spotify.com/album/7KRLrC9FUfJDXC7p2E4q11) | 4:32 | 2022-08-26 | 2022-12-17 |
-| [Homesick](https://open.spotify.com/track/6e67jV14CqsB6b6cZKoGd6) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Homesick](https://open.spotify.com/album/4biZs4IBC1AwTVIfppgtIr) | 2:38 | 2025-08-15 |  |
+| [Homesick](https://open.spotify.com/track/6e67jV14CqsB6b6cZKoGd6) | [Ben Rodrigues](https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0) | [Homesick](https://open.spotify.com/album/4biZs4IBC1AwTVIfppgtIr) | 2:38 | 2025-08-15 | 2025-12-20 |
 | [HOMESICK](https://open.spotify.com/track/1fffWiFwKibt8lvSlGz9SG) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Internet hometown hero](https://open.spotify.com/album/3YiqDcJoSTFWuHB87yVD8V) | 2:50 | 2025-02-07 | 2025-05-17 |
 | [Honey](https://open.spotify.com/track/3f9gj7aK0IIrbnJ6YHDqFj) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Honey](https://open.spotify.com/album/1JSVRjxJYEPHAuxU8YbWBO) | 2:33 | 2022-07-01 | 2022-08-27 |
 | [Honey \(I believe in us\)](https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Second Wind](https://open.spotify.com/album/7bQQNux3sYSSp5mj5KloWb) | 2:55 | 2022-01-07 | 2022-02-26 |
@@ -864,7 +867,7 @@
 | [Medical Attention](https://open.spotify.com/track/331XiSC8eOEhnG0zINJfyl) | [good problem](https://open.spotify.com/artist/3aRk4W0Y1YbyEXJT6UL2cK) | [Medical Attention](https://open.spotify.com/album/1wgjwMZKGL71NU5quWHqQe) | 2:56 | 2023-04-14 | 2023-07-01 |
 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 | 2024-09-27 | 2025-02-15 |
 | [Melt](https://open.spotify.com/track/65OuiV65csFjciXDCRmWir) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Melt](https://open.spotify.com/album/4Les9E0vFIzG1El2F4BEvm) | 3:32 | 2024-06-21 | 2024-08-17 |
-| [Memories](https://open.spotify.com/track/3dFghmP0JgZf7W6RcweLoq) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Memories](https://open.spotify.com/album/1RO9csUg4Bkpb5xSGReQZs) | 3:12 | 2025-08-08 |  |
+| [Memories](https://open.spotify.com/track/3dFghmP0JgZf7W6RcweLoq) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [Memories](https://open.spotify.com/album/1RO9csUg4Bkpb5xSGReQZs) | 3:12 | 2025-08-08 | 2025-12-20 |
 | [memory lane](https://open.spotify.com/track/2UxWHnZs6wfpp5MyfGGENz) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [everywhere i go, there i am](https://open.spotify.com/album/3xikGrDzQkZScmbkLHoc2Z) | 2:51 | 2024-11-15 | 2025-01-25 |
 | [MERRY GO ROUND](https://open.spotify.com/track/6wSEfFQzF3Ye9ztpyx8694) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [AND ALL I LOVED, I LOVED ALONE](https://open.spotify.com/album/5HlkWTlZidWmEkSAJkm2Aq) | 2:10 | 2023-12-08 | 2024-02-10 |
 | [MESS](https://open.spotify.com/track/4pL5Mw5esC7qlR4gcZkXzX) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [MESS](https://open.spotify.com/album/07qQ4rz57acImkDO3GZ5BA) | 2:30 | 2025-02-14 | 2025-05-17 |

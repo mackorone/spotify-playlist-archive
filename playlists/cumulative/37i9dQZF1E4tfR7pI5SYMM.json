@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Organoclorados, Jon Drake and more",
+  "description": "With AlligatorX, MIK's Reaction, Organoclorados and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 298000,
       "name": "Ahi Va",
       "url": "https://open.spotify.com/track/6kXPAzZnd8adv00Ab20lMY"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 255866,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/1l8P18jhwHvEOzzQD0j7PO"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 294557,
       "name": "ELIZABETH",
       "url": "https://open.spotify.com/track/5MatEoh6EwVPkcKl8fIKax"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 135600,
       "name": "Ez a gyertya \u00c9rted \u00e9g",
       "url": "https://open.spotify.com/track/7siRurfSaIm2WPd5eRgWLR"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 223196,
       "name": "Flat Wearing Me Out",
       "url": "https://open.spotify.com/track/4Ao3eJ9FpEVL4vIK2bGMS0"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 285326,
       "name": "Hierarchy Error",
       "url": "https://open.spotify.com/track/385v2ocXmuMJFsNj3xvHsV"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 357373,
       "name": "Hjelp",
       "url": "https://open.spotify.com/track/03fSLUp3zw4YytSCWmIsTu"
@@ -1628,10 +1628,28 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 266506,
       "name": "Imposter's Dance",
       "url": "https://open.spotify.com/track/7lH3ksZ0uu1as57zkyvmlR"
+    },
+    {
+      "album": {
+        "name": "In The Office",
+        "url": "https://open.spotify.com/album/5grMbdvY7rdXAFp4QRHQds"
+      },
+      "artists": [
+        {
+          "name": "Spare Bricks",
+          "url": "https://open.spotify.com/artist/5O9Tbjf6Hx5T51ZfMDu4Aw"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302660,
+      "name": "In The Office",
+      "url": "https://open.spotify.com/track/31mtADk1NLJawmdrfO4zFe"
     },
     {
       "album": {
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 344050,
       "name": "Kaldidalur",
       "url": "https://open.spotify.com/track/5RMhZWWoXV6ioZmFXCUh9k"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 461943,
       "name": "Lightspeed Nights",
       "url": "https://open.spotify.com/track/1rQbaFEoaVQBmqBmAvGxiL"
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2094,6 +2112,24 @@
       "duration_ms": 192000,
       "name": "Mancave",
       "url": "https://open.spotify.com/track/0MKA9fLN5P3tzTFgQqQ4Wf"
+    },
+    {
+      "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/4lPM37tkEacxp6tFqmoS21"
+      },
+      "artists": [
+        {
+          "name": "Asko Argillander & The Blue Flame",
+          "url": "https://open.spotify.com/artist/3tnuuSXM2GE4H9yiC6Ah2k"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404000,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/53Z9FvFUa8ILsPgNi2QFng"
     },
     {
       "album": {
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 291478,
       "name": "My Mortal Coil",
       "url": "https://open.spotify.com/track/2hmXzT7IFp1nGbbhJqfv7x"
@@ -2368,6 +2404,28 @@
       "duration_ms": 256000,
       "name": "No Sugar in Hell",
       "url": "https://open.spotify.com/track/5MpJXrLG13nhqzQuFv0Bjo"
+    },
+    {
+      "album": {
+        "name": "No Temer\u00e9",
+        "url": "https://open.spotify.com/album/07GeMIHEqfW40qHnNfPBDE"
+      },
+      "artists": [
+        {
+          "name": "Banda Karnada",
+          "url": "https://open.spotify.com/artist/6ILzefREieUgKgaI3mwv4V"
+        },
+        {
+          "name": "Jota Brother",
+          "url": "https://open.spotify.com/artist/25IVywaI7Vt98ZeVW3LrYr"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "No Temer\u00e9",
+      "url": "https://open.spotify.com/track/51NA27akDrIDyaJfkNOtaK"
     },
     {
       "album": {
@@ -2696,7 +2754,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 242466,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0wd5vQAbVsBFxlungrDqlV"
@@ -2974,7 +3032,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 216368,
       "name": "Skuggan fr\u00e5n ig\u00e5r",
       "url": "https://open.spotify.com/track/2g6IrSIfwNvRW85KPe2wxz"
@@ -3082,7 +3140,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 251145,
       "name": "Sorry (In Bloom)",
       "url": "https://open.spotify.com/track/1CRjLq6UtODERxslpPHI4O"
@@ -3136,7 +3194,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
@@ -3454,7 +3512,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 255435,
       "name": "The Perfect Clown",
       "url": "https://open.spotify.com/track/7xTywMmLuhj3hgB93jdVe3"
@@ -3472,7 +3530,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 216000,
       "name": "The Soul Project",
       "url": "https://open.spotify.com/track/74WeqDqoAv0tvGwZvCbunw"
@@ -3588,7 +3646,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 264877,
       "name": "This World\u2019s For Sharing",
       "url": "https://open.spotify.com/track/0JuMG668Xof1s2ApVkABAm"
@@ -3754,7 +3812,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 346800,
       "name": "Universo",
       "url": "https://open.spotify.com/track/2XAGc1WMtq9YcLMraAmpx6"
@@ -3826,7 +3884,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -3916,7 +3974,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 232341,
       "name": "What If",
       "url": "https://open.spotify.com/track/0S7wl10vsQMAxp4JP08kEr"
@@ -4078,7 +4136,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Your way only looks better from your side",
       "url": "https://open.spotify.com/track/0rSnsLri6UiGnugrDWRD9S"

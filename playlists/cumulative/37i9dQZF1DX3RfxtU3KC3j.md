@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Pera x Rana Türkyılmaz
 
-579 songs - 1 day 9 hr 13 min
+581 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Ben Hala Vazgeçmedim](https://open.spotify.com/track/791iRKBKD6K8WiTXoJaNm2) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Ben Senden Vazgeçtim](https://open.spotify.com/album/6p9gZJWzTsHgFcZuVQZnVE) | 3:58 | 2024-06-28 | 2025-01-31 |
 | [Ben Hiç Sevemem](https://open.spotify.com/track/49LTQjxXRJLJS7Gsdxd2ux) | [Bertuğ Cemil](https://open.spotify.com/artist/5tx85QaiGLUloXNLcBS3h5), [Gökçe](https://open.spotify.com/artist/6EkoCL5oWSht8mekRNBWAn) | [Ben Hiç Sevemem](https://open.spotify.com/album/0ct4H41zsEw7eEiDTdz937) | 4:05 | 2025-08-07 | 2025-10-01 |
 | [Ben Neyi Beceremedim](https://open.spotify.com/track/5aREWSNHBbM9FWkhpTnuoD) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Ben Neyi Beceremedim](https://open.spotify.com/album/3GrlM7Ksn2jCneSc8By0mb) | 2:55 | 2025-05-15 |  |
+| [Ben Sana Vurgunum](https://open.spotify.com/track/1MlZrlYjdoNYFZceWWMG3d) | [Redd](https://open.spotify.com/artist/3uW8VB9ixiNMAJBm7ZsBVT) | [Ben Sana Vurgunum](https://open.spotify.com/album/0uIJOOteKVXWYMYCf6nxeG) | 3:28 | 2025-12-19 |  |
 | [Benden Kaçtın](https://open.spotify.com/track/2dlyX6ZsGzqueQZgpuMTDq) | [Yangın](https://open.spotify.com/artist/69f7h8xhiJTOmZyCN6wtrD) | [Benden Kaçtın](https://open.spotify.com/album/6BMbAjDNBfEAVJqoGkqhrc) | 3:12 | 2025-11-20 | 2025-12-12 |
 | [Benden Yana](https://open.spotify.com/track/0vkLLptI8J1EEwL8kIXbXW) | [Bozukçalar](https://open.spotify.com/artist/27UnVk35f1D6SLcbvt1DEt) | [Benden Yana](https://open.spotify.com/album/6IxFdZSrOXlgSyl6yTflRr) | 3:12 | 2025-09-12 | 2025-10-01 |
 | [Beni Affet](https://open.spotify.com/track/7crC0yrn33WswLAOpccCVV) | [Odak](https://open.spotify.com/artist/2ATbp7pcNszIzMJDNi8UaC) | [Beni Affet](https://open.spotify.com/album/1x1p8Rqns9jbrIvuzfWUGN) | 4:53 | 2024-11-28 | 2024-12-20 |
@@ -154,6 +155,7 @@
 | [Duy Beni](https://open.spotify.com/track/4l2yY4U2SGUUBj9znRAvi8) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Duy Beni](https://open.spotify.com/album/5SmvSsYRxHZnDRUPz2pQzL) | 2:29 | 2025-11-06 | 2025-11-21 |
 | [DUY BENİ](https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [DUY BENİ](https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI) | 2:31 | 2025-12-11 |  |
 | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl) | [Erdem Yıldırım](https://open.spotify.com/artist/2jBduF7UwhDFLvFiLdWuhm) | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI) | 2:46 | 2024-06-28 | 2024-07-19 |
+| [DYD](https://open.spotify.com/track/3d2EEXQEqnbiIXWF83D4b8) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [DYD](https://open.spotify.com/album/7GuDoIhchjfQQjkDstwjqK) | 3:23 | 2025-12-19 |  |
 | [Dön](https://open.spotify.com/track/2LgMu2knd2TIQlGv1BNT0X) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Dön](https://open.spotify.com/album/6QGXWDVpQX1xuG9XP6zwg8) | 3:59 | 2024-12-12 | 2025-07-18 |
 | [Dön İstersen](https://open.spotify.com/track/669zHNo3HkeSiXSpLgdXKg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Dön İstersen](https://open.spotify.com/album/4nfjFstbsnQk8XgBM9cMnN) | 3:27 | 2025-11-06 | 2025-11-21 |
 | [Dön Yüzünü Evine](https://open.spotify.com/track/6OKhF7ynSLI8WYvarljRER) | [Birkan Nasuhoğlu](https://open.spotify.com/artist/7BCcSXMFEzcharu4oXag9d) | [Dön Yüzünü Evine](https://open.spotify.com/album/3hwRU5a2W5dM1pNJI4LKw6) | 4:11 | 2024-11-14 | 2025-06-20 |
@@ -298,7 +300,7 @@
 | [Kanadım Aşktan](https://open.spotify.com/track/4dPq1446aMjiA045PnZVKw) | [Can Bonomo](https://open.spotify.com/artist/3vJJGsSAF5zQegZo5sJEh6) | [Kanadım Aşktan](https://open.spotify.com/album/45XutpwLGur4gvWHmn0wWa) | 3:07 | 2025-02-13 |  |
 | [Kapalı Kutum](https://open.spotify.com/track/5KtOMfc398OTtoE0IXOVzT) | [İyi Kötü Kararsız](https://open.spotify.com/artist/705xyJp74H8bHswYgl1rGc) | [Kapalı Kutum](https://open.spotify.com/album/6QfI1GgY38nmzTJgbTvTML) | 2:50 | 2025-08-07 | 2025-09-13 |
 | [Kapıyı Çekip](https://open.spotify.com/track/5DO6ji1vHefk9nx4XLFKkV) | [Konuya Fransız](https://open.spotify.com/artist/2qyTHYcgc74oHaow97ZKhx) | [Kapıyı Çekip](https://open.spotify.com/album/3ODgCE47fXmUTI9dJc2WkT) | 3:22 | 2025-10-16 | 2025-11-14 |
-| [Kar Altında Bir Sabah \- Refik Durbaş'a Saygı](https://open.spotify.com/track/74fvRmqieYLgBWRRwciMDa) | [Birol Namoğlu](https://open.spotify.com/artist/3IzmGNYeQnx285Npwt1Zvh) | [Kar Altında Bir Sabah \(Refik Durbaş'a Saygı\)](https://open.spotify.com/album/4Z2xgpd5ykN0uAoieNIjx3) | 3:31 | 2025-12-04 |  |
+| [Kar Altında Bir Sabah \- Refik Durbaş'a Saygı](https://open.spotify.com/track/74fvRmqieYLgBWRRwciMDa) | [Birol Namoğlu](https://open.spotify.com/artist/3IzmGNYeQnx285Npwt1Zvh) | [Kar Altında Bir Sabah \(Refik Durbaş'a Saygı\)](https://open.spotify.com/album/4Z2xgpd5ykN0uAoieNIjx3) | 3:31 | 2025-12-04 | 2025-12-20 |
 | [Kara Delik](https://open.spotify.com/track/5iz5KvWyYzAJEgHivkQJrK) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Kara Delik](https://open.spotify.com/album/5pRs1cWtW1IjNwtOZ5IfxO) | 3:20 | 2024-08-15 | 2024-10-11 |
 | [Kara Leke](https://open.spotify.com/track/07Cm32nVbn256kreohsaZW) | [Maskara](https://open.spotify.com/artist/5sYuApOPVDObaxtOuKBuQH) | [Kara Leke](https://open.spotify.com/album/4apgsTqoDAMdlJlt4XvJcX) | 3:44 | 2025-09-18 | 2025-10-03 |
 | [Karanlık Şato](https://open.spotify.com/track/7LD2MwLDNDtcXtJoMwlA2D) | [Yağmur Ender](https://open.spotify.com/artist/55rzs7AWy07HixCanXersW) | [Karanlık Şato](https://open.spotify.com/album/7CSOkk4fVdsXGbTblBUiNN) | 3:26 | 2025-09-30 |  |
@@ -569,7 +571,7 @@
 | [Ödün Verdim](https://open.spotify.com/track/4U0n8zk7ec1WVseHvF4P28) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4) | [Ödün Verdim](https://open.spotify.com/album/4MeJJ1gq59xDeVhmHqH0aK) | 3:15 | 2024-08-01 | 2024-08-30 |
 | [Ödün Verdim](https://open.spotify.com/track/05YMxstcaa2rSscdb6aW0y) | [Anıl Berke](https://open.spotify.com/artist/0l6z8gRVh2xP7jldRj1bq4), [Lavin](https://open.spotify.com/artist/5jPL1Qieqd9VrUwGFAndFg) | [Ödün Verdim](https://open.spotify.com/album/2dZJpSBmTxs1JVuOdtYmmb) | 3:02 | 2025-06-26 | 2025-07-25 |
 | [Öl İçimde \- Rock Version](https://open.spotify.com/track/2fjm3nI93CHchxnUBEecB5) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde \(Rock Version\)](https://open.spotify.com/album/0O73jnNQtUF0qqxP7I7ywd) | 3:17 | 2024-08-15 | 2024-09-06 |
-| [ÖLEBİLİRİM](https://open.spotify.com/track/0laGInMWhmNMeegLyvPGJv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [ÖLEBİLİRİM](https://open.spotify.com/album/6ZCMo546GVlHvwaN87DAUN) | 3:15 | 2025-11-20 |  |
+| [ÖLEBİLİRİM](https://open.spotify.com/track/0laGInMWhmNMeegLyvPGJv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA), [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [ÖLEBİLİRİM](https://open.spotify.com/album/6ZCMo546GVlHvwaN87DAUN) | 3:15 | 2025-11-20 | 2025-12-20 |
 | [Ölene Dek](https://open.spotify.com/track/4ZH7g8nCA3m2EHNZ4ATLtv) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Ölene Dek](https://open.spotify.com/album/0b9tU1DOxAmZa1CA4rFm71) | 3:01 | 2024-06-28 | 2024-09-27 |
 | [Ölmeden Nasıl Sever İnsan?](https://open.spotify.com/track/0xGcQbNC6HpZZ9crJ6VWLn) | [Baturalp](https://open.spotify.com/artist/2B5MD2M0PLg4BhVBgqkTAQ) | [Ölmeden Nasıl Sever İnsan?](https://open.spotify.com/album/07OaD0YgTzOtpZ34d6NS1r) | 3:49 | 2025-08-28 | 2025-09-13 |
 | [Ölüm Bizi Bekler](https://open.spotify.com/track/1udHcoBlj3fXp4lKcfkFs8) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [Ölüm Bizi Bekler](https://open.spotify.com/album/5qZ8rHGr6EihVN4KV8flfu) | 4:45 | 2024-07-04 | 2024-08-02 |

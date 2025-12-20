@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-794 songs - 1 day 19 hr 57 min
+794 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [Party Crashers](https://open.spotify.com/track/2gVxKVSXaj9AONYkw2AUZc) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Party Crashers](https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l) | 2:35 | 2023-09-01 | 2023-11-25 |
 | [Piece of Mind](https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 3:16 | 2023-07-21 | 2023-09-16 |
 | [Pilgrim](https://open.spotify.com/track/5gzMsfzBU9VKgVUcOWDRTG) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Pilgrim](https://open.spotify.com/album/4okF9Jy3KqE8zRkgKzCNGQ) | 3:39 | 2023-09-01 | 2023-12-09 |
+| [Pill](https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [O Novo Testamento](https://open.spotify.com/album/6Ry6vnrPB1r5l60AOOT8G2) | 3:29 | 2025-12-19 |  |
 | [Place In Your Heart](https://open.spotify.com/track/6DAbgChwb351IrjMcDcIDN) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Place In Your Heart](https://open.spotify.com/album/1cxKBMK3BW5bVg1VyzoKPQ) | 2:57 | 2025-06-20 | 2025-10-03 |
 | [Please Press Play \- Radio Edit](https://open.spotify.com/track/37JCQAFq3xloM2QraYGUUk) | [Agguiar](https://open.spotify.com/artist/6TapvGfMBXqnvHSQCAuouV) | [Please Press Play](https://open.spotify.com/album/7F7lLV1T0hqmR3GOSiENan) | 2:40 | 2023-08-25 | 2023-12-09 |
 | [Pleasure Chasers](https://open.spotify.com/track/6pf5Yqg1zSbsxHaLBf49BP) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Promised Land](https://open.spotify.com/album/0uj28c7dMMgO59Jzx84bSE) | 2:50 | 2024-05-24 | 2024-08-24 |
@@ -731,7 +732,6 @@
 | [Too Late](https://open.spotify.com/track/5TlkN2CAP5PYBPHtm0nWwC) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Too Late](https://open.spotify.com/album/7ziyiEmfiC0SGHSKMBjbzd) | 3:32 | 2025-06-06 | 2025-09-26 |
 | [Top Of The Crowd](https://open.spotify.com/track/2NcKDnBIn0bxeSUrJabAys) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Black Box](https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR) | [Top Of The Crowd](https://open.spotify.com/album/0RE22Tf6vjOTz8hLgFrCaD) | 2:34 | 2024-11-15 | 2025-03-18 |
 | [Toxic](https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Toxic](https://open.spotify.com/album/09tF1xi5z2C8J7uzynH2xX) | 3:56 | 2023-12-22 | 2024-01-20 |
-| [Track 3](https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-19 |  |
 | [Trapped](https://open.spotify.com/track/4c1t2huQZh2Q2wddgJ6wMB) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Trapped](https://open.spotify.com/album/2lkHOBwCKdKX2SveShtSji) | 2:27 | 2024-02-09 | 2024-05-25 |
 | [Treme](https://open.spotify.com/track/4MoOnPMkm3qCWbR8FI1x1m) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Treme](https://open.spotify.com/album/33CF51WT0WPMD1be6qEx3P) | 3:30 | 2024-10-25 | 2024-11-16 |
 | [TRiPPPY](https://open.spotify.com/track/7prJ30LIy445yr1uzsy9Lr) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiPPPY](https://open.spotify.com/album/5iRqBscsuyaj50XKN6xAvQ) | 5:30 | 2023-08-18 | 2023-11-18 |

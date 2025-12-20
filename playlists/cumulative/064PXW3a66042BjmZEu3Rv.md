@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-118 songs - 5 hr 43 min
+119 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,5 +126,6 @@
 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-08-27 |  |
 | [Zaterdagavond](https://open.spotify.com/track/3BOjKPbIFdyOgdtpvvsc73) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Het Is Me Gelukt](https://open.spotify.com/album/7zemcMSWjNFIBHuzHmqeza) | 3:02 | 2025-07-04 | 2025-08-22 |
 | [Zeg me wat er overblijft](https://open.spotify.com/track/2qL7aeqirqV3aZwBNB8h1z) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Zeg me wat er overblijft](https://open.spotify.com/album/6Wcw24l3aqQorZlRbp8IiA) | 2:43 | 2025-08-08 | 2025-08-22 |
+| [Zou Niet Willen Dat Ik Kerst Mis](https://open.spotify.com/track/2g0O5rZNTPDgBE2IzH4I0W) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zou Niet Willen Dat Ik Kerst Mis](https://open.spotify.com/album/0eGq2374PdmSm8bagy2VgY) | 3:01 | 2025-12-19 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

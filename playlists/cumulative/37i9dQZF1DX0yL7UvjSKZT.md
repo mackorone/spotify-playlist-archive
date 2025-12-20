@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Franklin Jonas & The Byzantines
 
-521 songs - 1 day 8 hr 12 min
+522 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Daylight](https://open.spotify.com/track/702VulzPRsk5vlGWNqwmXm) | [Mandolin Orange](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Such Jubilee](https://open.spotify.com/album/6oYZeaQQ35oCweYNLMoPdX) | 3:13 | 2021-10-01 | 2022-01-22 |
 | [Dead Leaves And The Dirty Ground](https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [How To Grow A Woman From The Ground](https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4) | 3:07 | 2021-10-01 | 2022-12-03 |
 | [Dear Brother](https://open.spotify.com/track/1r8raa2WlXS69OXiBsXTh9) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8), [Cody Walters](https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj), [Pharis & Jason Romero](https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS) | [Dear Brother](https://open.spotify.com/album/45CiG2HiioRUSsacjCvdSj) | 2:41 | 2023-03-24 | 2023-07-22 |
+| [Deland](https://open.spotify.com/track/2ogQbcBM3mlIAWsgAfkxdI) | [Roc Helton](https://open.spotify.com/artist/0PKVGwQ4QlPJAoyLyTskTB) | [Deland](https://open.spotify.com/album/36Z8WCFXTiZi0W7P4NSXiK) | 2:40 | 2025-12-19 |  |
 | [Desperado](https://open.spotify.com/track/6cFtUeHFvgj8sbCjJQqn7A) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5), [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [Desperado](https://open.spotify.com/album/2ronfsFOihh7eRyM0RxhwR) | 3:34 | 2022-02-18 | 2022-10-01 |
 | [Devil's Land](https://open.spotify.com/track/0TGpW2TeTSabmErtiu4eb0) | [Morgan Brake](https://open.spotify.com/artist/4DIEhKNVoVi8N4HzJ894rk) | [Stuck Loving You](https://open.spotify.com/album/5V3rr6ug2K9mw0igGNsXuc) | 5:28 | 2022-04-22 | 2024-03-09 |
 | [Did She Think of Me](https://open.spotify.com/track/3LglHo6gwpel8y5qT7EPJF) | [James McCann](https://open.spotify.com/artist/4j7NBJIbr0i49hakDFeYOt) | [Did She Think of Me](https://open.spotify.com/album/0YijxUaOlR2JUsMIx0Repk) | 2:34 | 2025-11-07 |  |

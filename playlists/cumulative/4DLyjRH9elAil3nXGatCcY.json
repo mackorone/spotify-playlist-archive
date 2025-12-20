@@ -8393,6 +8393,28 @@
     },
     {
       "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/366XvcUJsBFppuOhYRvsLW"
+      },
+      "artists": [
+        {
+          "name": "Aaron Page",
+          "url": "https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ"
+        },
+        {
+          "name": "Domani",
+          "url": "https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179591,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2lGKEYXwu1alvxAhJvpBAX"
+    },
+    {
+      "album": {
         "name": "Frequency Blitz 5",
         "url": "https://open.spotify.com/album/2q1oGSWfuCPh8IfXjEjApU"
       },

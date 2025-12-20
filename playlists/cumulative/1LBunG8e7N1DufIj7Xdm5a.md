@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,746 songs - 8 day 6 hr 38 min
+3,749 songs - 8 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1421,6 +1421,7 @@
 | [Halfless Souls](https://open.spotify.com/track/4rzpcgpoOaCHCudaOfjrQl) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Halfless Souls](https://open.spotify.com/album/3Exqy2GkyiPbrUlIakn719) | 3:28 | 2025-10-07 |  |
 | [Hallow Tales \- 2025 Remaster](https://open.spotify.com/track/6pJBr7i4ZZz6UeBgq30hYv) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [The Dividing Line \(2025 Remaster\)](https://open.spotify.com/album/3MzgPxLIEpeiZJWqqdd8p0) | 3:48 | 2025-05-05 |  |
 | [Halloween Every Day](https://open.spotify.com/track/05GeKjRj0xlF6XYgFzuPQ8) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Halloween Every Day](https://open.spotify.com/album/7GE4Fj5k4OewpL4PMgylwA) | 2:38 | 2025-09-29 |  |
+| [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 | 2025-12-19 |  |
 | [Harmony](https://open.spotify.com/track/2tiPViVQulw22A5TdkZYCa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:02 | 2025-09-17 |  |
 | [Harmony Air](https://open.spotify.com/track/49Bl4eAdML5GnzaGVDRqdf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 3:04 | 2025-09-17 |  |
 | [Harmony in the Air](https://open.spotify.com/track/6jR7RfaqgzrK6ypvmRrfBD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:00 | 2025-09-17 |  |
@@ -2004,6 +2005,7 @@
 | [Mentre il mondo dorme](https://open.spotify.com/track/7bRvmyZJzWzifAkcbt6Gz8) | [Solary](https://open.spotify.com/artist/0klksJbbpQWOEM47rfwg1u) | [Mentre il mondo dorme](https://open.spotify.com/album/5b3RdVvvhVVpZE64wJJScS) | 3:16 | 2025-06-08 |  |
 | [Menu Chahiye Tu](https://open.spotify.com/track/6CybCxXvpohYEOkd8265J2) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 4:39 | 2025-07-02 |  |
 | [Mercy](https://open.spotify.com/track/3qxyav9tfrnZkqy64gSCMR) | [Taylor Torch](https://open.spotify.com/artist/1UITVqtcAP6AQFi4uQyBZR), [Musa Kiama](https://open.spotify.com/artist/2HaOR22reVpfXDk5N4sYVw) | [Mercy](https://open.spotify.com/album/0dATv54UIuQUf7uLAKrc4K) | 3:14 | 2025-03-03 |  |
+| [Mere Hathon Mein](https://open.spotify.com/track/3gDPkpNUIGxxpmbGXBpT3Y) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Mere Hathon Mein](https://open.spotify.com/album/7whGu36E2i44ZLfs7wd9uj) | 2:22 | 2025-12-19 |  |
 | [Metal Fury Unleashed](https://open.spotify.com/track/5eTjTIw8WpksNVf1tvncSR) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:19 | 2025-09-17 |  |
 | [Metal Inferno](https://open.spotify.com/track/2tm5JcReLLG2q8plCc9Wq1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 3:10 | 2025-09-17 |  |
 | [Mexico](https://open.spotify.com/track/6greAYzLxlTQeeXSaMuVvi) | [Duncan Tucano](https://open.spotify.com/artist/7xluDgElp8Ul2HFFfAHllX), [Jackie\-O's Farm](https://open.spotify.com/artist/2GOrd8meEJWHHcBRz6lAeV) | [Dynamic Tamburo](https://open.spotify.com/album/72AJKB8jbGyapxjIS4JID4) | 3:21 | 2025-06-09 |  |
@@ -2811,6 +2813,7 @@
 | [Shattered Voices \(another\)](https://open.spotify.com/track/4pYHHyFUavknNEkv9oNvZz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:55 | 2025-09-17 |  |
 | [she say OMG](https://open.spotify.com/track/63MamNMm9iLqOkeY1OvYBg) | [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN) | [she say OMG](https://open.spotify.com/album/7pGs7hy3bHVXHFkkE2KaJj) | 1:46 | 2025-05-16 |  |
 | [She's mine \(An Absinthe metal dream\)](https://open.spotify.com/track/2msLYQewP2aE1b3c9vCfY3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 2:55 | 2025-09-17 |  |
+| [Sheeshe Ka Dil](https://open.spotify.com/track/1XNErXg8Ruh8qg2u7qTPbL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Sheeshe Ka Dil](https://open.spotify.com/album/5uIExKGcW286CjQ4QuIxkJ) | 3:38 | 2025-12-19 |  |
 | [Sheyla](https://open.spotify.com/track/68JTrHT3VIVgIQARtkuss0) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:23 | 2025-06-06 |  |
 | [Shikantaza Meditation](https://open.spotify.com/track/1AAmjnIkZmwHGMaJjVHO3u) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Zazen Meditation](https://open.spotify.com/album/6wu0bKtuotQ0bV8N3Y1ieR) | 5:46 | 2025-06-04 |  |
 | [Shining Star](https://open.spotify.com/track/1n4EVafhuSjQ4rzNuaKzYx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Music](https://open.spotify.com/album/66FfQzVqvA99zoTDlgmrqO) | 2:19 | 2025-09-19 |  |

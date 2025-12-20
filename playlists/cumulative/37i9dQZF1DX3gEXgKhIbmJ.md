@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-281 songs - 11 hr 25 min
+282 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 | 2023-11-17 | 2024-12-29 |
 | [Amor](https://open.spotify.com/track/5OdtravkfnSInKvZDAC4WH) | [Klyn](https://open.spotify.com/artist/01dmDF9czGp6mlNKFeD1cm) | [Amor](https://open.spotify.com/album/2mSE2XQqk8JyUYzZ0BTrdZ) | 2:03 | 2024-01-19 | 2024-03-09 |
 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 | 2024-09-07 | 2024-11-30 |
+| [Após o Show](https://open.spotify.com/track/1angFouREkbYANO4Iq3Sgk) | [BMOB](https://open.spotify.com/artist/2Hz29z0CZrvMgQk1QfJZS3), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Após o Show](https://open.spotify.com/album/1LKVs3OEV4Fc47VW9hZJqZ) | 3:15 | 2025-12-19 |  |
 | [ARO 20](https://open.spotify.com/track/5b0pG8v9U4QsRWnEpoAx5M) | [Big Rush](https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF) | [LIT KING](https://open.spotify.com/album/1MN2fMeIsJcWlX3aUmZT3s) | 1:17 | 2024-05-03 | 2024-06-01 |
 | [Atirei o Pau no Grave](https://open.spotify.com/track/4zyoAsSd1PI0HzzJ1w2Owq) | [Maísa Emily](https://open.spotify.com/artist/73GU4gOUIlpVmxMdpjVe1d), [Cita](https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv) | [Atirei o Pau no Grave](https://open.spotify.com/album/3AlRt6GbanA3Z3wJAw85y2) | 2:01 | 2025-01-31 |  |
 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 | 2023-09-15 |  |
@@ -99,7 +100,7 @@
 | [Eu F\*\*\*\*](https://open.spotify.com/track/2YuI8qfqcUrDDB4paHRqtg) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Eu F\*\*\*\*](https://open.spotify.com/album/1cIyyJlT64BkOWtwBJdFBQ) | 2:30 | 2024-09-07 | 2024-11-30 |
 | [Ex Filha da Puta](https://open.spotify.com/track/2Q7p5ggGDwI7ZMP3p8iIQT) | [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Kil](https://open.spotify.com/artist/2CArMydvTpgVI7lzBphw0D) | [Ex Filha da Puta](https://open.spotify.com/album/1g2qNARjN38m4Erv6DOTM7) | 1:30 | 2023-11-10 | 2024-01-20 |
 | [FAKE](https://open.spotify.com/track/2iKl5tbhlajZzQFkokwp9C) | [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK), [Smile](https://open.spotify.com/artist/5qnRxQly5FwObKQHVRHRGD) | [FAKE](https://open.spotify.com/album/7q2Zl84qhSTcjSPnLq1mtC) | 2:28 | 2024-10-18 | 2024-11-30 |
-| [FALADOR \- Freestyle](https://open.spotify.com/track/4cErznY085FaB3LxoJigmV) | [RodY 011](https://open.spotify.com/artist/7MMeyE1XDciazG1p4jF6nv), [G$](https://open.spotify.com/artist/7luv45bIC9slJ6BnXCWw6Y) | [FALADOR \(Freestyle\)](https://open.spotify.com/album/4bEzme1BRZPLT68u6A5U2e) | 2:12 | 2025-05-30 |  |
+| [FALADOR \- Freestyle](https://open.spotify.com/track/4cErznY085FaB3LxoJigmV) | [RodY 011](https://open.spotify.com/artist/7MMeyE1XDciazG1p4jF6nv), [G$](https://open.spotify.com/artist/7luv45bIC9slJ6BnXCWw6Y) | [FALADOR \(Freestyle\)](https://open.spotify.com/album/4bEzme1BRZPLT68u6A5U2e) | 2:12 | 2025-05-30 | 2025-12-20 |
 | [Fanfic](https://open.spotify.com/track/16Ir3dL5UWiWZLoHLteDGu) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Laura Sette](https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Fanfic](https://open.spotify.com/album/3NkH1qv483kYFZRTilS6IC) | 2:44 | 2024-01-26 | 2024-04-06 |
 | [Fases.](https://open.spotify.com/track/58zoE4LPTTiALxHndmSv99) | [guigui7](https://open.spotify.com/artist/3LRv65NCfA7mkqwPj1FJCx) | [Fases.](https://open.spotify.com/album/6DymhQeLm09JQ1na3UwfqL) | 2:44 | 2025-01-03 |  |
 | [Faturamento](https://open.spotify.com/track/0zeBg5Gcp2wNqPgtCln8JY) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Faturamento](https://open.spotify.com/album/47uTCzzTGI8R1LyhfRjcds) | 2:44 | 2023-10-06 | 2023-10-14 |

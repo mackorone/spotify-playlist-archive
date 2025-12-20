@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Hindi hai, Indie hai! Cover- Shrinidhi Ghatate\n",
+  "description": "Hindi hai, Indie hai! Cover- Saahel\n",
   "name": "hIndies",
   "tracks": [
     {
@@ -204,7 +204,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 240116,
       "name": "Aaye Re",
       "url": "https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 200490,
       "name": "Ban gayi main teri piya",
       "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
@@ -4699,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "SAAWALI",
+        "url": "https://open.spotify.com/album/2MWdpGdzCC3vBO82nywkcu"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "SAAWALI",
+      "url": "https://open.spotify.com/track/4Fr72bmq08t2mL0Ad66i03"
+    },
+    {
+      "album": {
         "name": "Saawariya",
         "url": "https://open.spotify.com/album/1PRfv8sVJ5hIxwN2nunPha"
       },
@@ -5708,6 +5726,24 @@
       "duration_ms": 187959,
       "name": "Tu hi hai",
       "url": "https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e"
+    },
+    {
+      "album": {
+        "name": "Tujhi Mein",
+        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Tujhi Mein",
+      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
     },
     {
       "album": {

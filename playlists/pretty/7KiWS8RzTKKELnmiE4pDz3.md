@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 422 songs - 1 day 0 hr 52 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 423 songs - 1 day 0 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -430,5 +430,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 420 | [Oodles of O's](https://open.spotify.com/track/5osR0iuDUu5iFGYW8cbRgQ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 3:32 |
 | 421 | [Pease Porridge](https://open.spotify.com/track/2SeYGmG9phGcOKAYz1B9lm) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 5:01 |
 | 422 | [Only so Much Oil in the Ground](https://open.spotify.com/track/4L6cv7W4EpaB62kPoyCQK7) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Urban Renewal](https://open.spotify.com/album/6KRdd8gy9afiJSXS0uK3Rd) | 3:48 |
+| 423 | [Rhymery](https://open.spotify.com/track/5yCFYU6ICrEWIa5tfNsDoM) | [Science Of Sound](https://open.spotify.com/artist/2WyJSpGIkFE2DWLqQ4NoLr), [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Kaleidoscope Phonetics](https://open.spotify.com/album/1TaMBFo5352dC3bwx3to6Z) | 3:22 |
 
-Snapshot ID: `AAAfb/m8ZtBoRnf8LWSAKy44ziIfxIh2`
+Snapshot ID: `AAAfcAzoM4cVo4QTAZ0bPMdAhLWOzI1H`

@@ -4,7 +4,7 @@
 
 > 
 
-1,271 songs - 2 day 18 hr 14 min
+1,272 songs - 2 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -929,6 +929,7 @@
 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2025-06-02 |  |
 | [Rental](https://open.spotify.com/track/0rDLJbeXXNLZ2gbPOm87Ar) | [Lunarrr](https://open.spotify.com/artist/0Tlfd0GGFcWZxrbdkykoxn) | [Rental](https://open.spotify.com/album/70ODUDHIEOZ96NJMSgBPSn) | 4:43 | 2023-03-20 | 2023-12-14 |
 | [Retaliation](https://open.spotify.com/track/07CDOoR2MkkMM8OWUjMrRU) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc) | [Violent By Design](https://open.spotify.com/album/68e1Ou1jnKgDwLkCsOPc4M) | 3:44 | 2025-08-25 |  |
+| [Rhymery](https://open.spotify.com/track/5yCFYU6ICrEWIa5tfNsDoM) | [Science Of Sound](https://open.spotify.com/artist/2WyJSpGIkFE2DWLqQ4NoLr), [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Kaleidoscope Phonetics](https://open.spotify.com/album/1TaMBFo5352dC3bwx3to6Z) | 3:22 | 2025-12-19 |  |
 | [Rich As Hell](https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:35 | 2022-08-26 | 2025-05-21 |
 | [Rich Muthafucka](https://open.spotify.com/track/3rlFWxApRYFp56vXCqt5fO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:18 | 2025-05-07 | 2025-05-21 |
 | [Ride Around Shining \(feat\. Ab\-Liva\)](https://open.spotify.com/track/40RYtDQwVLnfH4WzhxEqOQ) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Ab Liva](https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:56 | 2025-08-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2apWzyECwyZ.md) - [plain]
 
 > Benito's greatest hits, los mejores hits del conejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,857,304 likes - 129 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,859,528 likes - 129 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

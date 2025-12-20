@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 150013,
       "name": "You Will Remember Vienna",
       "url": "https://open.spotify.com/track/0u9lA4eGwl4GkElOSXEpVU"
@@ -3205,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Oui, Mon Amour",
+        "url": "https://open.spotify.com/album/76uSyknsi9f8U5mpFWuElJ"
+      },
+      "artists": [
+        {
+          "name": "Mantovani y Su Gran Orquesta",
+          "url": "https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150070,
+      "name": "You Will Remember Vienna",
+      "url": "https://open.spotify.com/track/7cuoBieuwwBNKwq1h0yv1F"
+    },
+    {
+      "album": {
         "name": "How Do You Like It? [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
       },
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"

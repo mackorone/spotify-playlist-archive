@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 158332,
       "name": "7 zile",
       "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -3885,6 +3885,24 @@
     },
     {
       "album": {
+        "name": "Bal \u021bambal",
+        "url": "https://open.spotify.com/album/3o1v9ZiuYstcQATGwVd2Fd"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151200,
+      "name": "Bal \u021bambal",
+      "url": "https://open.spotify.com/track/2QeA97SF2tplaeenUQOqYq"
+    },
+    {
+      "album": {
         "name": "El Dios Del Trap",
         "url": "https://open.spotify.com/album/3YaKO8Onav9mtrTUQE0tjX"
       },
@@ -4754,7 +4772,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 103384,
       "name": "BELLY DANCE",
       "url": "https://open.spotify.com/track/0pJsSyNYSx3lCczO3kdbMG"
@@ -6626,7 +6644,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 131200,
       "name": "Buze de Hollywood",
       "url": "https://open.spotify.com/track/03BS0e7yO1ORBlVrBim1UE"
@@ -7104,7 +7122,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 148453,
       "name": "CAND VINE NOAPTEA",
       "url": "https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY"
@@ -9946,7 +9964,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 201558,
       "name": "Daca Iubesti O Tiganca",
       "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
@@ -12216,7 +12234,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 137875,
       "name": "Doua Bagaboante",
       "url": "https://open.spotify.com/track/2xcgKHm4xf4oQqCeIqyeV7"
@@ -13230,7 +13248,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 166760,
       "name": "El chapo",
       "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
@@ -15332,7 +15350,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 227021,
       "name": "Foca",
       "url": "https://open.spotify.com/track/3plHE4mbRjz3uOQ9P6MOMG"
@@ -25646,7 +25664,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Mentol pe obraz",
       "url": "https://open.spotify.com/track/5wBYZqRGtY4coG9JV4F0My"
@@ -26194,7 +26212,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 154939,
       "name": "Minora",
       "url": "https://open.spotify.com/track/6M0nZw1Rts7bdmx7i4Pv6f"
@@ -27392,7 +27410,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 157689,
       "name": "N-a Fost Sa Fie",
       "url": "https://open.spotify.com/track/70nrQY5rQX1XMNkzsKz8my"
@@ -28200,7 +28218,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 193560,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/3HWS3HVkirA39KnT84Io5g"

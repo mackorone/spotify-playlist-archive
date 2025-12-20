@@ -5309,6 +5309,28 @@
     },
     {
       "album": {
+        "name": "Walking on Water",
+        "url": "https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ"
+      },
+      "artists": [
+        {
+          "name": "DIVINE",
+          "url": "https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz"
+        },
+        {
+          "name": "Riar Saab",
+          "url": "https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145829,
+      "name": "Saucy",
+      "url": "https://open.spotify.com/track/6HPQuJOxBk2KNP0iwW4qrc"
+    },
+    {
+      "album": {
         "name": "51 GLORIOUS DAYS",
         "url": "https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW"
       },
@@ -5614,7 +5636,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 151163,
       "name": "Simp",
       "url": "https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG"

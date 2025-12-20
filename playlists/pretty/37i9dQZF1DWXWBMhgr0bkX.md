@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Unmissable emerging pop feat\. Aidan Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,190 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,202 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 64 | [Chill Girl](https://open.spotify.com/track/4rWfVqBQTKvvnL4TMdKob5) | [Bea Stewart](https://open.spotify.com/artist/1HjCjNkTNeBFF3aqqf6kli) | [Wish It Was You](https://open.spotify.com/album/46rRgNfPAPJcqCFNbNH1eo) | 3:17 |
 | 65 | [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 |
 
-Snapshot ID: `AAAAANwCN166OM/vL2ABXAgmDFK3kw25`
+Snapshot ID: `AAAAANlfyHc3yNk+XPpS6gLCyhJf986d`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqcvRXB76Zk.md) - [plain]
 
 > <a href="https://mkt.naver.com/spotify?dtm\_detail=1128&dtm\_source=brand\_main&dtm\_medium=mktatrb&dtm\_campaign=2511\-bimpact\-001&pcode=brand\_main\_1128&campaign\_id=2511\-bimpact\-001&channel\_id=brand\_main&material=1128"> NAVER × Spotify </a> 파티의 주인공!<br/>필릭스와 아티스트들의 대표곡으로 <br/>파티의 순간을 먼저 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 17 songs - 57 min 5 sec
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 17 songs - 57 min 5 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 206174,
       "name": "456 semm",
       "url": "https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 137141,
       "name": "Coco Gauff",
       "url": "https://open.spotify.com/track/73NBBLGtwyehCgML05lCbb"
@@ -8437,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "EL CARNICERO",
+        "url": "https://open.spotify.com/album/4LvgaBEfh47ijVJnCAgiOZ"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "IIGHT IIGHT",
+      "url": "https://open.spotify.com/track/2LMYyJ5vzcfZfcwveWSMWu"
+    },
+    {
+      "album": {
         "name": "IMPALAS & HYDRAULICS (Ft. The Game)",
         "url": "https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL"
       },
@@ -8766,7 +8784,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 173419,
       "name": "jamal crawford",
       "url": "https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6"
@@ -13790,7 +13808,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 188041,
       "name": "Ramen Noodles",
       "url": "https://open.spotify.com/track/7zImkv4vKnACicU20HVkJP"
@@ -13987,6 +14005,28 @@
     },
     {
       "album": {
+        "name": "MARCO PLUS vs. tha Underworld: Survivor\u2019s Cut",
+        "url": "https://open.spotify.com/album/1J50vgZZ59RffEV9edMpbd"
+      },
+      "artists": [
+        {
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
+        },
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186503,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/4UXo9V0HvFdeoauwzI12cQ"
+    },
+    {
+      "album": {
         "name": "Red Lobster Biscuits",
         "url": "https://open.spotify.com/album/0nsjXVsIaE6dwUexKHDLjW"
       },
@@ -14002,6 +14042,28 @@
       "duration_ms": 162380,
       "name": "Red Lobster Biscuits",
       "url": "https://open.spotify.com/track/7JcUYHmxHM6H9kjHOcTxuW"
+    },
+    {
+      "album": {
+        "name": "Everything In My Soul_BLUE (Extended)",
+        "url": "https://open.spotify.com/album/0dQCc9UsH1DkN8ZGNXojPk"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        },
+        {
+          "name": "Jayson Cash",
+          "url": "https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Red Rose White Ceiling_BLUE",
+      "url": "https://open.spotify.com/track/7INPzuYjAXGeb7p7kHeieu"
     },
     {
       "album": {
@@ -17566,7 +17628,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 193615,
       "name": "The Package",
       "url": "https://open.spotify.com/track/3xI6Rzk8MVtHuIXeM9TIPD"

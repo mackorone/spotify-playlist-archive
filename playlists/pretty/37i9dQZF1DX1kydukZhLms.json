@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1524749,
+  "num_followers": 1524938,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-11-24 12:48:44",
       "album": {
+        "name": "Chapter V",
+        "url": "https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v"
+    },
+    {
+      "added_at": "2025-11-24 12:48:44",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
-    },
-    {
-      "added_at": "2025-11-24 12:48:44",
-      "album": {
-        "name": "Chapter V",
-        "url": "https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v"
     },
     {
       "added_at": "2025-11-24 12:48:44",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-11-24 12:48:44",
       "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
-    },
-    {
-      "added_at": "2025-11-24 12:48:44",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 237920,
       "name": "I Don't Care (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
+    },
+    {
+      "added_at": "2025-11-24 12:48:44",
+      "album": {
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     },
     {
       "added_at": "2025-11-24 12:48:44",

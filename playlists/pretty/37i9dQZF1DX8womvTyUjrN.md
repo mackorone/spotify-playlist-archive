@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Zulia & LAGOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,953 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,107 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Lárgate](https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Lárgate](https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit) | 3:00 |
 | 50 | [No me creas](https://open.spotify.com/track/4YVeAMz8NusUU7dVDEKAQR) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [No me creas](https://open.spotify.com/album/1ZHB0X6tAelp1Vo8B9LirU) | 3:26 |
 
-Snapshot ID: `AAAAAEeK7J6bd7YNv2pN6Z6tN2yxS6Jg`
+Snapshot ID: `AAAAAINHpQGcLkFdqra//f63fPg4MEnj`

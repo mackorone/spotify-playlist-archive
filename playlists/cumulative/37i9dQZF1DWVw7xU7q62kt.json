@@ -938,7 +938,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 125926,
       "name": "Behind The Moon",
       "url": "https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 105488,
       "name": "cozed",
       "url": "https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd"
@@ -2828,6 +2828,28 @@
       "duration_ms": 184800,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2iaBVvvaWxMEpc7aUzcsaw"
+    },
+    {
+      "album": {
+        "name": "Deep Dust",
+        "url": "https://open.spotify.com/album/7L0ZT8vDpLj2Z5kkrykNEn"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Max Merseny",
+          "url": "https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118378,
+      "name": "Deep Dust",
+      "url": "https://open.spotify.com/track/11ZZSP1txivjKxGOFom9ch"
     },
     {
       "album": {
@@ -4158,7 +4180,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 137528,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/0ucOV0mHY73IrPMwRaZ3KH"
@@ -8074,7 +8096,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 124782,
       "name": "mooncircle",
       "url": "https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla"
@@ -9098,7 +9120,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 169875,
       "name": "Omen",
       "url": "https://open.spotify.com/track/4O7ViZUUnynCDeIS1yCcE2"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,616 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,654 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 15 | [Baby Z](https://open.spotify.com/track/462LJdoEI5Lm6kEDijarCH) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Baby Z](https://open.spotify.com/album/1IJTKZSE6ddFc7qsIlGuTO) | 2:02 |
 | 16 | [How Would U Feel](https://open.spotify.com/track/59LXSAmZEoeVrASeoAS63B) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [How Would U Feel](https://open.spotify.com/album/7JRLg8ghgGuXKIAMRKCzHQ) | 3:27 |
 | 17 | [Love You Down](https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:12 |
-| 18 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used To Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
+| 18 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
 | 19 | [Lovin On Me](https://open.spotify.com/track/1t9O0FhyAOYIHWcU7XBecd) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [STILL GHETTO](https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k) | 2:21 |
 | 20 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 |
 | 21 | [Just Wanna Talk](https://open.spotify.com/track/7dnDXXvHxVrtVPo0HPWZuv) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [For Her 2 \(Deluxe\)](https://open.spotify.com/album/2fRG5C3SgmOjtFJHMbvF9E) | 2:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 79 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 |
 | 80 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 |
 
-Snapshot ID: `AAAAAE2zyL1sLi51pWAfMSawfQZOjOLh`
+Snapshot ID: `AAAAAOFwaMPCe0xADKklCiaEd7GjdduS`

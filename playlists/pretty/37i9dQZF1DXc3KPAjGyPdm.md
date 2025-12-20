@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Thanks for tuning into WSQK radio\. Type the clues into the Spotify search bar for an exclusive surprise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,681,016 likes - 221 songs - 12 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,696,950 likes - 221 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

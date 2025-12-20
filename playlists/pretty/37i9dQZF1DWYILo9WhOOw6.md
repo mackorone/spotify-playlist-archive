@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,921 likes - 139 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,158 likes - 139 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 138 | [Delta Sleep Waves 87.2Hz \- 88.6Hz](https://open.spotify.com/track/2eCKzMlnobzurHO3q6WvTc) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Delta Explorer](https://open.spotify.com/album/7C8HFx6AiAe5CO5pctS023) | 3:11 |
 | 139 | [Selective \(Delta Waves\)](https://open.spotify.com/track/0aNuiZsEMGst08a6WrVJmJ) | [circular ceremony](https://open.spotify.com/artist/51sMyVL0cmQQuh4hGpy5OU) | [stellar](https://open.spotify.com/album/4cGX0Y3eWuD3jbHzBxi8Ye) | 3:10 |
 
-Snapshot ID: `AAAAANDQBdWcwbqO/uEVf3z8J2i80Xwv`
+Snapshot ID: `AAAAAGZabC9y4I1sRt0HfofbWWY0lvH0`

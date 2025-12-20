@@ -358,7 +358,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 224626,
       "name": "Afrikaners Is Plesierig",
       "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
@@ -3660,7 +3660,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 212573,
       "name": "Dis 'N Land",
       "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 139352,
       "name": "Don't Be Late",
       "url": "https://open.spotify.com/track/72AiPTmRkv3TweWaPh0c8O"
@@ -7386,7 +7386,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
@@ -7584,7 +7584,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 204269,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
@@ -8530,7 +8530,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 243720,
       "name": "Lonely-lonely",
       "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
@@ -8909,6 +8909,24 @@
     },
     {
       "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/0woBrKyICWHjG0aORTpRpQ"
+      },
+      "artists": [
+        {
+          "name": "L!SA",
+          "url": "https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252746,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/1ZPeSzZF4QEJGzoRvUYCsD"
+    },
+    {
+      "album": {
         "name": "Mia, Jy",
         "url": "https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO"
       },
@@ -9194,7 +9212,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 282146,
       "name": "Monsters Den",
       "url": "https://open.spotify.com/track/6RUBf7Bz0Lix1FV9tT839i"
@@ -9302,7 +9320,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 236800,
       "name": "My Brein",
       "url": "https://open.spotify.com/track/7w0ZQwMP5Q0dWhliqtmRqt"
@@ -9800,7 +9818,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 273676,
       "name": "No Avoiding It",
       "url": "https://open.spotify.com/track/5yhBq05n6uyaF2Mj4xGsCt"
@@ -12784,7 +12802,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 169750,
       "name": "Speakers",
       "url": "https://open.spotify.com/track/1mOFfJtljzbKcEXa4hhUnw"
@@ -15720,10 +15738,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 265200,
       "name": "Wys Vir My Die Lyn",
       "url": "https://open.spotify.com/track/78bc7rcQbiaV0yZ3Vuuy0d"
+    },
+    {
+      "album": {
+        "name": "Yellow Banana",
+        "url": "https://open.spotify.com/album/0gD7gnOb9mK6qeQfMWuIjp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Perrott",
+          "url": "https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333760,
+      "name": "Yellow Banana",
+      "url": "https://open.spotify.com/track/46oAuHs7nOWN2GBQft0o59"
     },
     {
       "album": {

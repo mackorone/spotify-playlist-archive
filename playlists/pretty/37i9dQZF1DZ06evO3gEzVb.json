@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7400,
+  "num_followers": 7407,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUHygAAAAAAHRlx3bODxaSp0ej2cKhIl",
+  "snapshot_id": "aUNEAAAAAADWOfQSVL96UrZok3L7Scwq",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Ma Afa Wotrim Ne",
+        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Adepa Hye Adepa Mu",
+      "url": "https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ma Afa Wotrim Ne",
-        "url": "https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx"
+        "name": "Classic Tunes of Daddy Lumba",
+        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 248493,
-      "name": "Adepa Hye Adepa Mu",
-      "url": "https://open.spotify.com/track/5ds48ZOnVldBlcUudozuaF"
+      "duration_ms": 329133,
+      "name": "Sika Asem",
+      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classic Tunes of Daddy Lumba",
-        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 329133,
-      "name": "Sika Asem",
-      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
+      "duration_ms": 327906,
+      "name": "Enti Se Adee Ankye Me'a",
+      "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
       "duration_ms": 384773,
       "name": "Tokrom",
       "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Awarepa Ye Anibre",
-        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 327906,
-      "name": "Enti Se Adee Ankye Me'a",
-      "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
     },
     {
       "added_at": null,

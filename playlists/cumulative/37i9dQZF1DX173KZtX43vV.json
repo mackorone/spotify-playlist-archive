@@ -2425,6 +2425,32 @@
     },
     {
       "album": {
+        "name": "TRAP EXHIBITION",
+        "url": "https://open.spotify.com/album/4jhfR41qk6dNrJuNjQFplD"
+      },
+      "artists": [
+        {
+          "name": "QuincyTellEm",
+          "url": "https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP"
+        },
+        {
+          "name": "Treez0",
+          "url": "https://open.spotify.com/artist/7LAkS5AlVlBew1H68qfRq2"
+        },
+        {
+          "name": "Groundworks",
+          "url": "https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161338,
+      "name": "LEAN BACK",
+      "url": "https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2"
+    },
+    {
+      "album": {
         "name": "Legends Don't Die",
         "url": "https://open.spotify.com/album/6SBrDo2uMJD2i7OBOvSmZ6"
       },
@@ -2436,7 +2462,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 229642,
       "name": "Legends Don't Die",
       "url": "https://open.spotify.com/track/5dpV6pxZa9fKr4SPsnO10o"
@@ -2632,7 +2658,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "MARCH",
       "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
@@ -3667,6 +3693,24 @@
     },
     {
       "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/6itPCD7uqpW0SNhwFO9UJD"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169988,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/5xmxThQHMqYRItILkCiHIP"
+    },
+    {
+      "album": {
         "name": "Selfridges",
         "url": "https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f"
       },
@@ -4270,24 +4314,6 @@
       "duration_ms": 178285,
       "name": "Touched",
       "url": "https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "QuincyTellEm",
-          "url": "https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP"
-        }
-      ],
-      "date_added": "2025-12-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2"
     },
     {
       "album": {

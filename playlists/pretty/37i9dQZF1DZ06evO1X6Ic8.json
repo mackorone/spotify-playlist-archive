@@ -1,12 +1,12 @@
 {
   "description": "This is The 1975. The essential tracks, all in one playlist.",
-  "num_followers": 825007,
+  "num_followers": 825074,
   "original_name": "This Is The 1975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUHygAAAAADFNGBv5S3ib6l9WDFTL9RX",
+  "snapshot_id": "aUNEAAAAAABHSqDBqmdtuqaA2w92tEMK",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 212568,
-      "name": "Oh Caroline",
-      "url": "https://open.spotify.com/track/2qM4rQvnUIaojsWIwch0BN"
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/2bDcAgInBIJilki3Y9RpHl"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 165457,
-      "name": "Wintering",
-      "url": "https://open.spotify.com/track/2bDcAgInBIJilki3Y9RpHl"
+      "duration_ms": 212568,
+      "name": "Oh Caroline",
+      "url": "https://open.spotify.com/track/2qM4rQvnUIaojsWIwch0BN"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 1975 (Deluxe)",
-        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 240109,
-      "name": "So Far (It's Alright)",
-      "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 295151,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 240109,
+      "name": "So Far (It's Alright)",
+      "url": "https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB"
     },
     {
       "added_at": null,

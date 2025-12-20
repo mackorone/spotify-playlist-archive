@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,150 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,147 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 49 | [Stara](https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [Stara](https://open.spotify.com/album/33lQUgEpLZ3eFp6pYCgbog) | 3:19 |
 | 50 | [Egó](https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux) | [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL) | [Dýnamík](https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC) | 2:35 |
 
-Snapshot ID: `AAAAAIBTO1x0FwZdVIMjZ4aZuul2Vkg9`
+Snapshot ID: `AAAAAJXlnifxdRy7vZyHDnXZIEO78J+/`

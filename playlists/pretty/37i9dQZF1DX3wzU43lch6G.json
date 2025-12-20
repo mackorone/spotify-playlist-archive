@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114623,
+  "num_followers": 114621,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
+        "name": "Hissettin mi",
+        "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
+      },
+      "artists": [
+        {
+          "name": "Sufle",
+          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Hissettin mi",
+      "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
         "name": "Sen Istersin",
         "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 203400,
       "name": "Sen Istersin",
       "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
-        "name": "Hissettin mi",
-        "url": "https://open.spotify.com/album/5P6RjBkDAW3VHh8tRi6Xe6"
-      },
-      "artists": [
-        {
-          "name": "Sufle",
-          "url": "https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Hissettin mi",
-      "url": "https://open.spotify.com/track/0L4002pXxWRyo6ir6GFxyR"
     },
     {
       "added_at": "2025-07-10 21:06:57",

@@ -1,15 +1,47 @@
 {
   "description": "The best new and classic South African Rock. Cover: Barto & Zaan Sonnekus",
-  "num_followers": 25950,
+  "num_followers": 25970,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE6ku5O/ZrPbfB3T7iwfAOYT7JzS",
+  "snapshot_id": "AAAAAJEyBoFBGkUuoBiR+P2MuHmd69/E",
   "tracks": [
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
+        "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "I CHANGED (I'M UP)",
+      "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Ryk Met Tyd",
         "url": "https://open.spotify.com/album/15VflOMtWCTGAndX9rfoct"
@@ -29,71 +61,7 @@
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Huistoe",
-        "url": "https://open.spotify.com/album/0p6nIwlKcyHUXJBkNNmanH"
-      },
-      "artists": [
-        {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
-        }
-      ],
-      "duration_ms": 225357,
-      "name": "Huistoe",
-      "url": "https://open.spotify.com/track/3BXo6bYGZPRaqrnk4e7u1r"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
-        "url": "https://open.spotify.com/album/0x5Y6GpGre82Z0Lx7um7XK"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "I CHANGED (I'M UP)",
-      "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Sonskyn",
-        "url": "https://open.spotify.com/album/1Tt1AGfyV0DKO1OEWxQ94M"
-      },
-      "artists": [
-        {
-          "name": "Likkewaan",
-          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Sonskyn",
-      "url": "https://open.spotify.com/track/7s0fN4Sljj4SyicBbZ9lwC"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Hoe Nou?",
         "url": "https://open.spotify.com/album/0V6lrn2sG7eTXkJitsPjDC"
@@ -117,23 +85,23 @@
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "DIE HERE WEET",
-        "url": "https://open.spotify.com/album/6CQvqjyqvRyfdiRjpO5Zw9"
+        "name": "Sonskyn",
+        "url": "https://open.spotify.com/album/1Tt1AGfyV0DKO1OEWxQ94M"
       },
       "artists": [
         {
-          "name": "Van Der Aven",
-          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
+          "name": "Likkewaan",
+          "url": "https://open.spotify.com/artist/6lo75AjRf26g8qluCyDwO3"
         }
       ],
-      "duration_ms": 171257,
-      "name": "DIE HERE WEET",
-      "url": "https://open.spotify.com/track/7DH9a4NZwWu291bWXrHLrT"
+      "duration_ms": 178758,
+      "name": "Sonskyn",
+      "url": "https://open.spotify.com/track/7s0fN4Sljj4SyicBbZ9lwC"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Insecure Meisies",
         "url": "https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34"
@@ -149,55 +117,23 @@
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Parasosiaal",
-        "url": "https://open.spotify.com/album/1laFk6dc0Gj1LUfu9dDvUH"
+        "name": "DIE HERE WEET",
+        "url": "https://open.spotify.com/album/6CQvqjyqvRyfdiRjpO5Zw9"
       },
       "artists": [
         {
-          "name": "Dierbaar",
-          "url": "https://open.spotify.com/artist/4Zo7cwbO8wSBCwf6pncuUt"
+          "name": "Van Der Aven",
+          "url": "https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e"
         }
       ],
-      "duration_ms": 252935,
-      "name": "Parasosiaal",
-      "url": "https://open.spotify.com/track/0WnjsPbyZ3xJew4XLJtJQH"
+      "duration_ms": 171257,
+      "name": "DIE HERE WEET",
+      "url": "https://open.spotify.com/track/7DH9a4NZwWu291bWXrHLrT"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "As It Should Be",
-        "url": "https://open.spotify.com/album/548fp5hcdsBBHtKCNhkrqY"
-      },
-      "artists": [
-        {
-          "name": "ARD matthews",
-          "url": "https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo"
-        }
-      ],
-      "duration_ms": 273676,
-      "name": "No Avoiding It",
-      "url": "https://open.spotify.com/track/5yhBq05n6uyaF2Mj4xGsCt"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Gatvol",
         "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
@@ -217,43 +153,55 @@
       "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Don't Be Late",
-        "url": "https://open.spotify.com/album/2qRCNiAU4RG5Wy2gExcb58"
+        "name": "Parasosiaal",
+        "url": "https://open.spotify.com/album/1laFk6dc0Gj1LUfu9dDvUH"
       },
       "artists": [
         {
-          "name": "Elle E",
-          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+          "name": "Dierbaar",
+          "url": "https://open.spotify.com/artist/4Zo7cwbO8wSBCwf6pncuUt"
         }
       ],
-      "duration_ms": 139352,
-      "name": "Don't Be Late",
-      "url": "https://open.spotify.com/track/72AiPTmRkv3TweWaPh0c8O"
+      "duration_ms": 252935,
+      "name": "Parasosiaal",
+      "url": "https://open.spotify.com/track/0WnjsPbyZ3xJew4XLJtJQH"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Dreuning Op Die Berge",
-        "url": "https://open.spotify.com/album/5JtJLs4gH9FmVI9M0ZYLc6"
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
       "artists": [
         {
-          "name": "Joshua Na Die Re\u00ebn",
-          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
-        },
-        {
-          "name": "Seuns van Vlug",
-          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 285027,
-      "name": "Dreuning Op Die Berge",
-      "url": "https://open.spotify.com/track/0LBpaRFcJkNEscpNZP9bsn"
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/0woBrKyICWHjG0aORTpRpQ"
+      },
+      "artists": [
+        {
+          "name": "L!SA",
+          "url": "https://open.spotify.com/artist/7mS1L11vTDofWkmMEs5aVm"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/1ZPeSzZF4QEJGzoRvUYCsD"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Stardust Galaxies",
         "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
@@ -269,39 +217,7 @@
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Monsters Den",
-        "url": "https://open.spotify.com/album/3imSIWaG9HM1shu3hGOkAU"
-      },
-      "artists": [
-        {
-          "name": "Vaughn Prangley",
-          "url": "https://open.spotify.com/artist/6ji1Ym2kjznFqaJk0E6q5g"
-        }
-      ],
-      "duration_ms": 282146,
-      "name": "Monsters Den",
-      "url": "https://open.spotify.com/track/6RUBf7Bz0Lix1FV9tT839i"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "My Huis",
         "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
@@ -321,7 +237,59 @@
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Dreuning Op Die Berge",
+        "url": "https://open.spotify.com/album/5JtJLs4gH9FmVI9M0ZYLc6"
+      },
+      "artists": [
+        {
+          "name": "Joshua Na Die Re\u00ebn",
+          "url": "https://open.spotify.com/artist/097P46848Ll3Ofm0bcOGRW"
+        },
+        {
+          "name": "Seuns van Vlug",
+          "url": "https://open.spotify.com/artist/02GQTfkQQzYUgBwHbqM7cE"
+        }
+      ],
+      "duration_ms": 285027,
+      "name": "Dreuning Op Die Berge",
+      "url": "https://open.spotify.com/track/0LBpaRFcJkNEscpNZP9bsn"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Huistoe",
+        "url": "https://open.spotify.com/album/0p6nIwlKcyHUXJBkNNmanH"
+      },
+      "artists": [
+        {
+          "name": "Vrede",
+          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
+        }
+      ],
+      "duration_ms": 225357,
+      "name": "Huistoe",
+      "url": "https://open.spotify.com/track/3BXo6bYGZPRaqrnk4e7u1r"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Spoed",
         "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
@@ -337,23 +305,23 @@
       "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Wys Vir My Die Lyn",
-        "url": "https://open.spotify.com/album/4ptsXgkSYJaxeX8SZOBoVc"
+        "name": "Yellow Banana",
+        "url": "https://open.spotify.com/album/0gD7gnOb9mK6qeQfMWuIjp"
       },
       "artists": [
         {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+          "name": "Robbie Perrott",
+          "url": "https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Wys Vir My Die Lyn",
-      "url": "https://open.spotify.com/track/78bc7rcQbiaV0yZ3Vuuy0d"
+      "duration_ms": 333760,
+      "name": "Yellow Banana",
+      "url": "https://open.spotify.com/track/46oAuHs7nOWN2GBQft0o59"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "TREAT HIM LIKE A BABY",
         "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
@@ -369,27 +337,7 @@
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "By Die See (feat. Vreemd)",
-        "url": "https://open.spotify.com/album/56f1brEoYkmMaWpjF3ClDu"
-      },
-      "artists": [
-        {
-          "name": "SHY!",
-          "url": "https://open.spotify.com/artist/7lsZGTHjhhQdoxIeBkiKAh"
-        },
-        {
-          "name": "Vreemd",
-          "url": "https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "By Die See (feat. Vreemd)",
-      "url": "https://open.spotify.com/track/4xAVIM3kla3rH8gaBg4IZq"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Another Universe",
         "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
@@ -405,23 +353,7 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "My Brein",
-        "url": "https://open.spotify.com/album/1bPI4g8amCBrIcpniiCUum"
-      },
-      "artists": [
-        {
-          "name": "Ruderick Heuer",
-          "url": "https://open.spotify.com/artist/5hPDlLuNcGmAQPiJ0WQwcD"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "My Brein",
-      "url": "https://open.spotify.com/track/7w0ZQwMP5Q0dWhliqtmRqt"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Hello Crazy World -10th Anniversary Special",
         "url": "https://open.spotify.com/album/5f9Nran4TZNkU6A3GNtE34"
@@ -437,23 +369,7 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Hande",
-        "url": "https://open.spotify.com/album/6qWCTzgMxRljgvDE7KVSUr"
-      },
-      "artists": [
-        {
-          "name": "Vancoet",
-          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
-        }
-      ],
-      "duration_ms": 212796,
-      "name": "Hande",
-      "url": "https://open.spotify.com/track/2HHKOscq7nDWDW5uJhr8LD"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
@@ -473,39 +389,27 @@
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Pink Hell (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5"
+        "name": "By Die See (feat. Vreemd)",
+        "url": "https://open.spotify.com/album/56f1brEoYkmMaWpjF3ClDu"
       },
       "artists": [
         {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 185913,
-      "name": "Fire Sign",
-      "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Speakers",
-        "url": "https://open.spotify.com/album/1PBnmHUw2gL5UHqRdruO1J"
-      },
-      "artists": [
+          "name": "SHY!",
+          "url": "https://open.spotify.com/artist/7lsZGTHjhhQdoxIeBkiKAh"
+        },
         {
-          "name": "Sonder Onderbroeke",
-          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+          "name": "Vreemd",
+          "url": "https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9"
         }
       ],
-      "duration_ms": 169750,
-      "name": "Speakers",
-      "url": "https://open.spotify.com/track/1mOFfJtljzbKcEXa4hhUnw"
+      "duration_ms": 172945,
+      "name": "By Die See (feat. Vreemd)",
+      "url": "https://open.spotify.com/track/4xAVIM3kla3rH8gaBg4IZq"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
@@ -521,39 +425,23 @@
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Mulberry Tree",
-        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+        "name": "Pink Hell (Deluxe)",
+        "url": "https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5"
       },
       "artists": [
         {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
         }
       ],
-      "duration_ms": 209834,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
+      "duration_ms": 185913,
+      "name": "Fire Sign",
+      "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Agtergelaat",
-        "url": "https://open.spotify.com/album/30s0bQFjfh7e9320ZF6zXZ"
-      },
-      "artists": [
-        {
-          "name": "Kristi Steyn",
-          "url": "https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Agtergelaat",
-      "url": "https://open.spotify.com/track/09Qgw5YbAg6lGejFfQDDHO"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Stellies (feat. Rooksein)",
         "url": "https://open.spotify.com/album/7yIBnPs996KLu8Sx48GtAK"
@@ -573,7 +461,39 @@
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Hande",
+        "url": "https://open.spotify.com/album/6qWCTzgMxRljgvDE7KVSUr"
+      },
+      "artists": [
+        {
+          "name": "Vancoet",
+          "url": "https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG"
+        }
+      ],
+      "duration_ms": 212796,
+      "name": "Hande",
+      "url": "https://open.spotify.com/track/2HHKOscq7nDWDW5uJhr8LD"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Surpass The Power",
         "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
@@ -589,23 +509,7 @@
       "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
-      "album": {
-        "name": "Soet Somer",
-        "url": "https://open.spotify.com/album/6XrkwsBEE1DJnujF7qfg5m"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/0fW5uAPKjN6BOHvkIGprtw"
-        }
-      ],
-      "duration_ms": 274076,
-      "name": "Soet Somer",
-      "url": "https://open.spotify.com/track/3yqvZAb4ezEvaypkouKsFm"
-    },
-    {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
         "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
@@ -621,7 +525,7 @@
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "By Jou",
         "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
@@ -637,7 +541,7 @@
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Kies",
         "url": "https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs"
@@ -653,23 +557,23 @@
       "url": "https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Club Evolution",
-        "url": "https://open.spotify.com/album/2X9LWBWKz4WmdhOPI66Udn"
+        "name": "Agtergelaat",
+        "url": "https://open.spotify.com/album/30s0bQFjfh7e9320ZF6zXZ"
       },
       "artists": [
         {
-          "name": "Kaart Blaansje",
-          "url": "https://open.spotify.com/artist/7eKE04GW2tJo88RDcw7sP9"
+          "name": "Kristi Steyn",
+          "url": "https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU"
         }
       ],
-      "duration_ms": 213456,
-      "name": "Club Evolution",
-      "url": "https://open.spotify.com/track/5gRv4Bo1Fu9l43iPoXKw2J"
+      "duration_ms": 230000,
+      "name": "Agtergelaat",
+      "url": "https://open.spotify.com/track/09Qgw5YbAg6lGejFfQDDHO"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Revolusie, Romantiek, Ruk en Rol",
         "url": "https://open.spotify.com/album/528vOlag3lv4aOPia804bY"
@@ -685,7 +589,7 @@
       "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Kenia",
         "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
@@ -701,23 +605,23 @@
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
-        "name": "Namaquawestern",
-        "url": "https://open.spotify.com/album/15hW9Ki7cOgYSUkG6wzaHb"
+        "name": "Soet Somer",
+        "url": "https://open.spotify.com/album/6XrkwsBEE1DJnujF7qfg5m"
       },
       "artists": [
         {
-          "name": "Karel Bester & Die Kraaines Band",
-          "url": "https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz"
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/0fW5uAPKjN6BOHvkIGprtw"
         }
       ],
-      "duration_ms": 381418,
-      "name": "Namaquawestern",
-      "url": "https://open.spotify.com/track/42HxUqkyfvZaA3dgGqQ210"
+      "duration_ms": 274076,
+      "name": "Soet Somer",
+      "url": "https://open.spotify.com/track/3yqvZAb4ezEvaypkouKsFm"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Hey Jack",
         "url": "https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W"
@@ -733,7 +637,7 @@
       "url": "https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Lego",
         "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
@@ -749,7 +653,7 @@
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Nou Toer Ons!",
         "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
@@ -765,7 +669,23 @@
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Club Evolution",
+        "url": "https://open.spotify.com/album/2X9LWBWKz4WmdhOPI66Udn"
+      },
+      "artists": [
+        {
+          "name": "Kaart Blaansje",
+          "url": "https://open.spotify.com/artist/7eKE04GW2tJo88RDcw7sP9"
+        }
+      ],
+      "duration_ms": 213456,
+      "name": "Club Evolution",
+      "url": "https://open.spotify.com/track/5gRv4Bo1Fu9l43iPoXKw2J"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "If I'm Honest",
         "url": "https://open.spotify.com/album/0Ip4W5tgCDkTWkBJnDH41q"
@@ -781,7 +701,7 @@
       "url": "https://open.spotify.com/track/0tD9T9R7BiDk2kCTfQhhBm"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
@@ -797,7 +717,23 @@
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Namaquawestern",
+        "url": "https://open.spotify.com/album/15hW9Ki7cOgYSUkG6wzaHb"
+      },
+      "artists": [
+        {
+          "name": "Karel Bester & Die Kraaines Band",
+          "url": "https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz"
+        }
+      ],
+      "duration_ms": 381418,
+      "name": "Namaquawestern",
+      "url": "https://open.spotify.com/track/42HxUqkyfvZaA3dgGqQ210"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "Berge",
         "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
@@ -813,7 +749,7 @@
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     },
     {
-      "added_at": "2025-12-11 22:00:34",
+      "added_at": "2025-12-19 05:44:49",
       "album": {
         "name": "SKREE",
         "url": "https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF"
@@ -827,6 +763,86 @@
       "duration_ms": 178737,
       "name": "SKREE",
       "url": "https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Travellers (Special Edition)",
+        "url": "https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z"
+      },
+      "artists": [
+        {
+          "name": "The Narrow",
+          "url": "https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Lonely-lonely",
+      "url": "https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "TV TYD",
+        "url": "https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a"
+      },
+      "artists": [
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "duration_ms": 204269,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Wie's Bang",
+        "url": "https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2"
+      },
+      "artists": [
+        {
+          "name": "Van Coke Kartel",
+          "url": "https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw"
+        }
+      ],
+      "duration_ms": 212573,
+      "name": "Dis 'N Land",
+      "url": "https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "added_at": "2025-12-19 05:44:49",
+      "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     }
   ],
   "unique_name": "SA Rock ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,066 songs - 2 day 17 hr 32 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,068 songs - 2 day 17 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1074,5 +1074,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1064 | [Mal Bicho](https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:03 |
 | 1065 | [Happy Nightmare \- Mescaline](https://open.spotify.com/track/5wNkgpr8qA3viiIWdJif7T) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [In And Out Of Focus](https://open.spotify.com/album/5AteSiIZMyjzqApnZw2xCb) | 3:59 |
 | 1066 | [ALIVE](https://open.spotify.com/track/3CSJDCWrSI2ps00cXr5dbP) | [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ALIVE](https://open.spotify.com/album/2PopoCtWAatwb4QCeL1t0N) | 1:58 |
+| 1067 | [Hobo](https://open.spotify.com/track/3lQYanWH4KAIBvRXVXGnjM) | [Beggars Opera](https://open.spotify.com/artist/1Q1IgVCRwAqQxgcM8a64zP) | [Pathfinder](https://open.spotify.com/album/4vDouPNKFQs5GGCjLuLt9W) | 4:25 |
+| 1068 | [SnowMix♪ \(feat\. 初音ミク\)](https://open.spotify.com/track/0qlIg0mIUfWM8Yxu5peawB) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [幽天のファンタジア](https://open.spotify.com/album/2SdNhJre8r9i35w34hOxje) | 4:06 |
 
-Snapshot ID: `AAAH1HznnX2DPriYoT55l3Y09Hn2+IWv`
+Snapshot ID: `AAAH1lxkQ10X3ADTRQ6Ajzxi+9M7RWMK`

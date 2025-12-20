@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 142177,
+  "num_followers": 142192,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-12-03 09:53:48",
       "album": {
-        "name": "ghosts, and goodbyes",
-        "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
-      },
-      "artists": [
-        {
-          "name": "Umair",
-          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
-        },
-        {
-          "name": "Talha Anjum",
-          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
-    },
-    {
-      "added_at": "2025-12-03 09:53:48",
-      "album": {
         "name": "Dilbar",
         "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 286181,
       "name": "Udd Chala",
       "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
+    },
+    {
+      "added_at": "2025-12-03 09:53:48",
+      "album": {
+        "name": "ghosts, and goodbyes",
+        "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
+      },
+      "artists": [
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD"
     },
     {
       "added_at": "2025-12-03 09:53:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,859 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,861 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 42 | [La Piel ♒︎](https://open.spotify.com/track/16sN38qpWDnGizh3XMrml2) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [La Piel ♒︎](https://open.spotify.com/album/7sOxbDZ5i4pQ2VtrGhWyLY) | 3:19 |
 | 43 | [Mentí \- Acústica](https://open.spotify.com/track/65Er3QDAJ1rfoZUShScTPB) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Nicole](https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:00 |
 | 44 | [La Historia](https://open.spotify.com/track/74xLAFi1oGs9XA6XwZT1Bl) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La historia](https://open.spotify.com/album/34wh1HcP270JvkRnK2ZVeS) | 3:13 |
-| 45 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
-| 46 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cuando Respiro En Tu Boca](https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ) | 3:23 |
+| 45 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cuando Respiro En Tu Boca](https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ) | 3:23 |
+| 46 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
 | 47 | [Pequeñas esperanzas](https://open.spotify.com/track/4COpnbZlDeDeSo9gEiql6U) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:21 |
 | 48 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
 | 49 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |

@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 149333,
       "name": "Demonio",
       "url": "https://open.spotify.com/track/1HRHeBfLF7gVLbwY1wgprT"
@@ -1692,6 +1692,28 @@
       "duration_ms": 200100,
       "name": "Eu Beu / 3 Pahare",
       "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
+    },
+    {
+      "album": {
+        "name": "BANDO 4",
+        "url": "https://open.spotify.com/album/3wE4neLiYyfvKHzQYMPlVh"
+      },
+      "artists": [
+        {
+          "name": "Bvcovia",
+          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "FACE DOWN",
+      "url": "https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR"
     },
     {
       "album": {
@@ -2886,7 +2908,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 151111,
       "name": "Momentul meu",
       "url": "https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi"
@@ -4190,24 +4212,6 @@
       "duration_ms": 169787,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Bvcovia",
-          "url": "https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR"
-        }
-      ],
-      "date_added": "2025-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6i8vHHCDrN2KePIjsTP9XR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Sotto il cappuccio: Gemitaiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,090 likes - 82 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,096 likes - 82 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

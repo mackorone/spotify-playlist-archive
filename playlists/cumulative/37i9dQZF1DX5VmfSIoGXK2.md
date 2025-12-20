@@ -4,7 +4,7 @@
 
 > this house plays Jazz House 🏠  featuring Bolden.
 
-171 songs - 11 hr 5 min
+172 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Highway \- Teuteu Remix](https://open.spotify.com/track/6roW4lfkqGDImLNcDyeVLC) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Highway \(Teuteu Remix\)](https://open.spotify.com/album/3P4NlDbWunICUGKBvDVzlJ) | 2:33 | 2025-02-28 |  |
 | [Honest](https://open.spotify.com/track/1PmFdQoJL1gcPutNAJ9tWW) | [Alexander IV](https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi) | [Honest](https://open.spotify.com/album/1eg5mGZQAdQU5jLeepc6nS) | 2:25 | 2025-02-28 |  |
 | [Hotspot](https://open.spotify.com/track/1TZHxc3mBKD1DlQs0jiRFy) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Hotspot](https://open.spotify.com/album/0XRIt2aMkeOSaaVoZeEySh) | 2:46 | 2025-02-21 | 2025-07-12 |
-| [I Fall](https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [Tabeia](https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7) | [I Fall](https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup) | 2:44 | 2025-10-24 |  |
+| [I Fall](https://open.spotify.com/track/39ffllrQQsR3ky4AwqOTnY) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [Tabeia](https://open.spotify.com/artist/6aBEJrQuxVju1RpGtaj5k7) | [I Fall](https://open.spotify.com/album/1YXxCxvgLLnejVcMXbHHup) | 2:44 | 2025-10-24 | 2025-12-20 |
 | [I Wanna Tell Somebody](https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Josh Milan](https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR) | [I Wanna Tell Somebody](https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme) | 5:58 | 2025-02-28 | 2025-03-22 |
 | [I'm here.](https://open.spotify.com/track/1xC2XNZCIlmfuCDTF9b2bu) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [I'm here.](https://open.spotify.com/album/2Llsr7bTTcmTJvSdffaQ1i) | 2:37 | 2025-02-21 | 2025-09-27 |
 | [I'M SORRY](https://open.spotify.com/track/17PF2BxCI4klUDl3JgbIIt) | [Your friend daao](https://open.spotify.com/artist/1YK6LlpClehFPoCkFttVdw) | [I'M SORRY](https://open.spotify.com/album/00iQTzEuuPwCFlQGaJb9ub) | 3:53 | 2025-02-28 | 2025-03-22 |
@@ -104,6 +104,7 @@
 | [Midnight Drift](https://open.spotify.com/track/7vIPXFvCLD1atpPnnaTjkh) | [būgs](https://open.spotify.com/artist/2xzpAVZRcuDvvjqSX1ejDT), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm) | [Midnight Drift](https://open.spotify.com/album/11QbMV3YybZOXbjR51cBq7) | 3:17 | 2025-12-05 |  |
 | [Mirage](https://open.spotify.com/track/4hLI1F3ChsMivSIW8lwNvR) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Mirage](https://open.spotify.com/album/39HbPcEk6VkoDkeDhZFBnb) | 3:11 | 2025-09-26 |  |
 | [Missing u](https://open.spotify.com/track/773lfCbUHbFc0WsCJftePE) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx), [Jordan Burnett](https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e) | [Missing u](https://open.spotify.com/album/6ji1bD57jNSy4rb68YdhW0) | 1:48 | 2025-08-29 |  |
+| [Moments](https://open.spotify.com/track/48FkCtZNNpTYshKMM358YL) | [Jimmy Q](https://open.spotify.com/artist/7xALZJA4uqi1224A9Bd7GA), [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [Moments](https://open.spotify.com/album/0DORzhj4y3sk5rTfQMIKjS) | 3:13 | 2025-12-19 |  |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 | 2025-10-18 |
 | [Moons](https://open.spotify.com/track/32U32r15CzLGLUs4Qmy101) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Moons](https://open.spotify.com/album/2W1h6iQcIQdbu596onLosj) | 2:25 | 2025-10-14 |  |
 | [more butter](https://open.spotify.com/track/4Ohs1ZhLQoSbbtBW2YacJL) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [more butter](https://open.spotify.com/album/2PuueUgLPlffLGKsWCEPbO) | 2:54 | 2025-11-15 |  |

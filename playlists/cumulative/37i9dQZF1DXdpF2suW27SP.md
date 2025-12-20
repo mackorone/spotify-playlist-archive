@@ -4,7 +4,7 @@
 
 > Dbraz, DJ Pablu & MOR3NO entram na zona.
 
-910 songs - 2 day 0 hr 7 min
+910 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [Sinónimos](https://open.spotify.com/track/294j9gqz8PqEMJn0y7MOlC) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Sinónimos](https://open.spotify.com/album/6t4kHt2Rt94ZGJ2ipmK13i) | 5:33 | 2025-05-08 | 2025-05-16 |
 | [SLOW DOWN](https://open.spotify.com/track/09J2GaoKUhH4MV3xbBlhj8) | [Beatoven](https://open.spotify.com/artist/5KPaJqjZ6Ta1dDO47eSQKa), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Phedilson](https://open.spotify.com/artist/0Hl3YB8bwQ8anDJkvXo6he) | [SLOW DOWN](https://open.spotify.com/album/5MZcvVDhqJQkjIIq3toEje) | 2:08 | 2024-01-19 | 2024-02-09 |
 | [SLOWLY](https://open.spotify.com/track/3GiSZdYGVzZOjKN3cdCQur) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Dj Dadda](https://open.spotify.com/artist/01cSS9Li4G0S7dH0h7Khfu) | [THE NINJA SPIRIT](https://open.spotify.com/album/0IJUNankp0rti6gsU77HDI) | 3:02 | 2024-03-29 | 2024-05-17 |
+| [Sobre nós](https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós \(Deluxe\)](https://open.spotify.com/album/6KVnoibLe6O76o6GjwZCj6) | 3:32 | 2025-12-19 |  |
 | [Sobreviventes](https://open.spotify.com/track/0Vd4lvDxEsGLtfcFlbHZsS) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Kool Klever](https://open.spotify.com/artist/7dSscgSjInCyQU8YGiUwlc), [EMP Productions](https://open.spotify.com/artist/7Cwc62OBUXSodjIKiI6rdt) | [Underground](https://open.spotify.com/album/1hw62zPZD8CHTInd9Bc5oU) | 3:15 | 2025-08-08 | 2025-09-13 |
 | [Socorro](https://open.spotify.com/track/3cxAhKg83buLsTYlmSIi9x) | [SPLIFF](https://open.spotify.com/artist/2QPRzhivMb2TfzvZKpQYxL) | [Socorro](https://open.spotify.com/album/2ocGkF8NiDKjMfywGOqtzH) | 3:00 | 2023-01-06 | 2023-03-18 |
 | [Soldado](https://open.spotify.com/track/0kWKNkmze0jZkoQP7aJzBq) | [TILT](https://open.spotify.com/artist/0hwVPv88JiUJKVZFr494rF), [Rivolean](https://open.spotify.com/artist/2s4oCdNJLWQAa2ms6jPmFE), [Catalão](https://open.spotify.com/artist/1J9EfDZbZ0yX2OXwod1qAb) | [Soldado](https://open.spotify.com/album/2t7oZYYYjGFzndVujFuqFy) | 2:50 | 2025-07-03 | 2025-08-08 |
@@ -834,7 +835,6 @@
 | [Toque](https://open.spotify.com/track/7M5PkzdYJwhxoDd4HXxKOx) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Toque](https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC) | 3:16 | 2022-10-13 | 2023-06-09 |
 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 | 2025-10-24 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-12 | 2025-09-26 |
-| [Track 10](https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-19 |  |
 | [Tradução](https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Entrelinhas](https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u) | 2:58 | 2025-05-22 | 2025-06-13 |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

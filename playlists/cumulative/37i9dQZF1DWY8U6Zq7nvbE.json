@@ -634,7 +634,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 132147,
       "name": "APT.",
       "url": "https://open.spotify.com/track/6gyLIjJ6LI7lCLR7fTJaIs"
@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
@@ -2634,10 +2634,28 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 156000,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
+      },
+      "artists": [
+        {
+          "name": "LAJKA",
+          "url": "https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
     },
     {
       "album": {
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 205238,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/336eGxP8vyMyfU8gDPhf6c"
@@ -6198,7 +6216,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-26",
+      "date_removed": null,
       "duration_ms": 153374,
       "name": "Pillowtalk",
       "url": "https://open.spotify.com/track/4bIHIz5ywe7IsmRTWygU02"
@@ -7218,7 +7236,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 256730,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
@@ -7604,7 +7622,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 275732,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"

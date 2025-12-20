@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUHygAAAAADB3cDEawC3JjqW3NRaB9Wx",
+  "snapshot_id": "aUNEAAAAAAB82/IkHM/mR3XNNWHmX/hh",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triptych Continuum",
-        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+        "name": "Interiors",
+        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 206130,
-      "name": "Multiverse",
-      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
+      "duration_ms": 176050,
+      "name": "Under The Screw",
+      "url": "https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Triptych Continuum",
+        "url": "https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 206130,
+      "name": "Multiverse",
+      "url": "https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
       },
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 176050,
-      "name": "Under The Screw",
-      "url": "https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg"
+      "duration_ms": 202631,
+      "name": "Fire This Time",
+      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
     },
     {
       "added_at": null,
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Interiors",
-        "url": "https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW"
+        "name": "Giving The Past Away",
+        "url": "https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 202631,
-      "name": "Fire This Time",
-      "url": "https://open.spotify.com/track/69shxYcOeyQiMJDIVlHZGE"
+      "duration_ms": 211237,
+      "name": "Giving The Past Away",
+      "url": "https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm"
     },
     {
       "added_at": null,
@@ -471,22 +487,6 @@
       "duration_ms": 169400,
       "name": "Supercollider",
       "url": "https://open.spotify.com/track/4HLcXpokwMFlpVpPOvX7Jz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Giving The Past Away",
-        "url": "https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 211237,
-      "name": "Giving The Past Away",
-      "url": "https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm"
     }
   ],
   "unique_name": "This Is Quicksand",

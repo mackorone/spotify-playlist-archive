@@ -4,7 +4,7 @@
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-284 songs - 16 hr 26 min
+285 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Purmamarca](https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71), [Franco Barrionuevo](https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb), [Luis Paredes](https://open.spotify.com/artist/62b29phHmw4APV3xe26cco) | [Concierto del Alma](https://open.spotify.com/album/2x35VXSZW6xfQQSvSnYIVW) | 3:33 | 2021-07-23 | 2025-09-26 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/1dBKW66aAt8LItqKtxqSmf) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Que Sea Con Suerte](https://open.spotify.com/album/3NtQrhAYFIg6An97g6zLIW) | 3:07 | 2024-10-11 |  |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Sole](https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok) | 3:13 | 2021-07-23 | 2024-11-15 |
+| [Que siga latiendo](https://open.spotify.com/track/70kUm3upo7SQEjGHvT6jE4) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Que siga latiendo](https://open.spotify.com/album/1ylELKdNUJFVHfYngp2AXo) | 3:12 | 2025-12-19 |  |
 | [Qué te Ocurre Amigo Mío](https://open.spotify.com/track/1MDNNAkUU5AkJxzMmYJwiz) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 3:38 | 2021-07-23 | 2024-11-14 |
 | [Qué Te Ocurre Amigo Mío](https://open.spotify.com/track/1kFbnDteYOYeQB5eB1aWs6) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 3:38 | 2023-06-22 | 2024-04-19 |
 | [Recuerdo Salteño](https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl) | 2:31 | 2021-07-23 | 2024-11-26 |

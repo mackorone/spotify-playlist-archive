@@ -2,7 +2,7 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: Talwiinder
+> Catch the hottest Punjabi tracks\. Cover: Guru Randhawa
 
 195 songs - 9 hr 52 min
 

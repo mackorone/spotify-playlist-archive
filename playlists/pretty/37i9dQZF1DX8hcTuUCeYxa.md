@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Philine Sonny
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,670 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,730 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Weak Spot](https://open.spotify.com/track/7IyNorLWfplKZ3MD5CrnSi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Weak Spot](https://open.spotify.com/album/1S1RUBa09tLYroAR9EpmR3) | 4:14 |
 | 2 | [The Weather](https://open.spotify.com/track/2X5dKmybj7DMbu8SWFiZYT) | [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [The Weather](https://open.spotify.com/album/7C8YBMgiPPrRqCNLaeG34q) | 3:48 |
 | 3 | [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 |
-| 4 | [Track 8](https://open.spotify.com/track/11jruuwAImnf2NwzIcgHh9) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Mann](https://open.spotify.com/track/11jruuwAImnf2NwzIcgHh9) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [Funkhaus](https://open.spotify.com/album/62znnj4FridOMqwrG8neNT) | 2:10 |
 | 5 | [obvious](https://open.spotify.com/track/5lmGTaXC3WoUVBxlM7qv09) | [youcallmecarla](https://open.spotify.com/artist/5rBtac9khS0CB8eUW0kFQd) | [obvious](https://open.spotify.com/album/1gJFpCOvrfsSI6nZO2EdPt) | 3:20 |
 | 6 | [To Be Loved Again \(Bonus Track\)](https://open.spotify.com/track/08FxSaKWbtJpPIUsFKbFhQ) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Lovin' You \(Deluxe\)](https://open.spotify.com/album/1TLZRup6SvnfswIWQSTapl) | 5:48 |
 | 7 | [X\-Ray](https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [X\-Ray / Clumsy](https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq) | 2:34 |

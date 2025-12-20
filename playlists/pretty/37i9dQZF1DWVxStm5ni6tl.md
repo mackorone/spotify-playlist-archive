@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best tracks from Fresh Finds Canada in 2025\. Cover: Thelonious
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,410 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,420 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 30 | [I Hope It Rains](https://open.spotify.com/track/70uIoogbkPiXlf8kWZd0tU) | [Emily Chambers](https://open.spotify.com/artist/1C06ksRGDW6ZsByvvmlIDI) | [I Hope It Rains](https://open.spotify.com/album/46iKrMjuhKzjql6vyEyJZj) | 3:24 |
 | 31 | [MINE](https://open.spotify.com/track/3JYn85oohWpI9I5VcDlRhJ) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [DON'T PANIC](https://open.spotify.com/album/6DDoVqx7OyZjfaexxgr0ky) | 2:23 |
 | 32 | [Heartbreak Club](https://open.spotify.com/track/7iJ6C5k07SfjYlr7c5785a) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [J'ai quitté le Heartbreak Club](https://open.spotify.com/album/0UGFBfMGBjljra0EJJ1Swj) | 2:37 |
-| 33 | [Félicité](https://open.spotify.com/track/2UHBL77rL2ZWRyT4cZoNvi) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23) | [Félicité](https://open.spotify.com/album/7AvqH0st9tLVCLnz4akygf) | 2:25 |
+| 33 | [Félicité](https://open.spotify.com/track/2UHBL77rL2ZWRyT4cZoNvi) | [Naïma Frank](https://open.spotify.com/artist/4aUXzuFgiPrcbVEQuw5r23) | [Félicité](https://open.spotify.com/album/7AvqH0st9tLVCLnz4akygf) | 2:13 |
 | 34 | [SAD GIRL DISCO](https://open.spotify.com/track/24dJ7fDXFjBjoTKAICL8vU) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [COLLIDE](https://open.spotify.com/album/4HC7EHKHEMR4iT0sTt6hNr) | 2:52 |
 | 35 | [sweet tea](https://open.spotify.com/track/0qd04YnCnPGLtkzZoMygVb) | [Asia Holiday](https://open.spotify.com/artist/5xBAbOMf9YtcYm1VBZfrEI) | [Divine Timing, Vol\. 1](https://open.spotify.com/album/5PJhKPeTU9souTwogLAbJX) | 2:57 |
 | 36 | [Revolving Doors](https://open.spotify.com/track/19oLjdrND9714letLpvKZB) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Revolving Doors](https://open.spotify.com/album/0tneufRdXwq73to1Ni5K6t) | 4:00 |

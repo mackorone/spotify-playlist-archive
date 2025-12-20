@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-804 songs - 1 day 16 hr 9 min
+806 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Howling \- Andromedik Remix](https://open.spotify.com/track/3cvr7I6DJxIq3GL4UAU8p4) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Asena](https://open.spotify.com/artist/2kSWBds3WDrDvrV6s9VKfd) | [Howling \(Andromedik Remix\)](https://open.spotify.com/album/2xbLxzB4Dh0O5vx1sEiV7D) | 3:40 | 2023-08-08 | 2023-12-14 |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-04-28 |
+| [HYPNOTIZED!](https://open.spotify.com/track/7MMxOrBVWEwOOwCfoNbISt) | [noaa!](https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag) | [HYPNOTIZED!](https://open.spotify.com/album/6oPFiptQy6LxKWj8JTC3MI) | 2:22 | 2025-12-19 |  |
 | [I Can Feel](https://open.spotify.com/track/1rGIVlrTnTImDk9wRV0x9x) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Can Feel](https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn) | 2:28 | 2024-12-12 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/3rkViZW8u35YjiKR3NV3Pb) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [I Don't Wanna Know](https://open.spotify.com/album/0mUbrbUetoIgyeW43jpihp) | 2:45 | 2023-06-27 | 2023-08-10 |
 | [I GOT YOU](https://open.spotify.com/track/0vOhrlR0zF6sbQs5TxuAUZ) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [I GOT YOU](https://open.spotify.com/album/4tGOCceRLNGvRaSlJVR8lN) | 2:47 | 2022-05-27 | 2023-04-28 |
@@ -645,6 +646,7 @@
 | [Sirens](https://open.spotify.com/track/6FVWvpApDE9hSbWDcPhfb3) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Amber Jay](https://open.spotify.com/artist/7DLxDPwjWekXl5meKBu2Ob) | [Sirens](https://open.spotify.com/album/4y1FYMRG7RWebnQuACdKDw) | 4:34 | 2025-06-19 |  |
 | [SKY BRI](https://open.spotify.com/track/7ryzeQvWJM6F6rSTcJlT3f) | [ALVYN](https://open.spotify.com/artist/3lS0YzBEO1IglsFgrAMSrE), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [SKY BRI](https://open.spotify.com/album/6dQHhOOldwSP8sZfzhDHTI) | 1:50 | 2023-08-08 | 2023-12-14 |
 | [Sky High](https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu) | [Sky High](https://open.spotify.com/album/1R34FPrGkG7Q0vDJ9xCfrF) | 3:56 | 2023-08-08 | 2024-01-04 |
+| [Sky High \- Carpe Remix](https://open.spotify.com/track/0V1jnpAo3fSYPX9kOPIDwz) | [Elektronomia](https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu), [Carpe](https://open.spotify.com/artist/5CPcTivbDHvIGrqIIPDOS6) | [Sky High \(Carpe Remix\)](https://open.spotify.com/album/3HHTzFQ2TlsB76sj9FFAfp) | 1:38 | 2025-12-19 |  |
 | [Sky Verse](https://open.spotify.com/track/0gcif66qXbBzhRE4WAphwE) | [Lieless](https://open.spotify.com/artist/3AVDMWWNOYjcp2mtGLdM9C), [Luuna](https://open.spotify.com/artist/24CTvD1KOZbbAcoeuc4V3S), [Yarimov](https://open.spotify.com/artist/2mNRczRlW0G5nkWtpMm1aM) | [Sky Verse](https://open.spotify.com/album/2Sr8DfdKGH2cSl7AfdBvgm) | 1:41 | 2025-07-24 |  |
 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW), [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 | 2025-01-21 |  |
 | [snake eyes](https://open.spotify.com/track/5GpJ4hQliOMpemRVqrDyBy) | [youth®](https://open.spotify.com/artist/6RTuy4V5njTbQmHlhpnst7) | [snake eyes](https://open.spotify.com/album/2vuH7JCmiZnZ2BpXw9PGz5) | 2:15 | 2025-06-27 |  |

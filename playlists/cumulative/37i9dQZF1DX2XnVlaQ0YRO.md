@@ -4,7 +4,7 @@
 
 > chill christmas beats to keep you cozy and focused
 
-180 songs - 6 hr 55 min
+181 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,11 +95,12 @@
 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 | 2024-10-17 |  |
 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 | 2024-10-17 |  |
 | [Last Christmas Lo\-Fi](https://open.spotify.com/track/0T11SuRD1LbPDj0QJZrSjE) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Last Christmas Lo\-Fi](https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq) | 2:08 | 2024-10-17 |  |
+| [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 | 2025-12-19 |  |
 | [Let it Snow](https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Let it Snow](https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9) | 2:14 | 2024-10-17 |  |
 | [Light Me Up](https://open.spotify.com/track/4VbMTX1RlbKmZCAVt5hzm0) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Light Me Up](https://open.spotify.com/album/1oun5kgXlgm2qsTDC14hV4) | 2:18 | 2024-10-17 | 2025-09-05 |
 | [Like It's Christmas](https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp) | [Rödälv](https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l) | [Like It's Christmas](https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO) | 2:37 | 2024-10-17 | 2025-09-05 |
 | [Marshmallow World](https://open.spotify.com/track/0UU2xw7qhzjTrh6Ifr1wm3) | [Rexiphy](https://open.spotify.com/artist/2VBt6bj5gfN2M78KmEXzOK) | [Marshmallow World](https://open.spotify.com/album/27CLPf7kRjBBEcEPmVoE47) | 2:17 | 2024-10-17 | 2025-09-05 |
-| [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 | 2024-10-17 |  |
+| [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 | 2024-10-17 | 2025-12-20 |
 | [Mary's Boy Child](https://open.spotify.com/track/1R0mvLnoaalcSUnkmX0HfY) | [Haysway](https://open.spotify.com/artist/1mAXssFEZlSvaPUk8j37Jc) | [Haysway](https://open.spotify.com/album/5ZlR8BTWjgxzTGrjFSV24F) | 2:03 | 2024-10-17 | 2024-12-11 |
 | [Merry 'Lil Christmas](https://open.spotify.com/track/2vNjURpX7uHPUXJYqZbEXD) | [Santa BeatBeat](https://open.spotify.com/artist/50UV8GqkoBFiVVtxbO5UBX) | [Holiday Lofi](https://open.spotify.com/album/1CTK60QMHvpRHKjuNdGaIa) | 2:23 | 2024-10-17 | 2025-09-05 |
 | [Merry Christmas Everyone](https://open.spotify.com/track/2LseCWmzYc9mNZY7AGZ6Qc) | [Moose & Finley](https://open.spotify.com/artist/1GHeBVCBIXcN9YTtQJjblV) | [Merry Christmas Everyone](https://open.spotify.com/album/7sDIQNhqLJG9CpP5Jc8pkd) | 2:14 | 2024-10-17 | 2025-09-05 |

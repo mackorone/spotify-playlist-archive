@@ -5740,6 +5740,10 @@
         {
           "name": "Zeppy Zep",
           "url": "https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
       "date_added": "2025-12-18",
@@ -15395,6 +15399,32 @@
     },
     {
       "album": {
+        "name": "2014",
+        "url": "https://open.spotify.com/album/7mPQa3Uht5w9ObD4pHSDdC"
+      },
+      "artists": [
+        {
+          "name": "Tymoteusz",
+          "url": "https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS"
+        },
+        {
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        },
+        {
+          "name": "2latefor",
+          "url": "https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127549,
+      "name": "PUDELEK",
+      "url": "https://open.spotify.com/track/52CRhYjL9mXY2XMfeMOH3K"
+    },
+    {
+      "album": {
         "name": "Puff Daddy",
         "url": "https://open.spotify.com/album/1unDpBFUZGTyPR0HKUm8NQ"
       },
@@ -18003,24 +18033,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Tymoteusz",
-          "url": "https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS"
-        }
-      ],
-      "date_added": "2025-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/52CRhYjL9mXY2XMfeMOH3K"
-    },
-    {
-      "album": {
         "name": "Trapstar",
         "url": "https://open.spotify.com/album/4C9bZzzDC23RZKRkjVtOrm"
       },
@@ -19874,6 +19886,10 @@
         {
           "name": "Rumak",
           "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
+        },
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
       "date_added": "2025-12-18",

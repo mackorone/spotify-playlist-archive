@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 38,828 likes - 25 songs - 1 hr 39 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 38,827 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 24 | [I\. Pink Toes](https://open.spotify.com/track/1o18SV1lvB4oO6fLquctDS) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:27 |
 | 25 | [Huncho's Prayer](https://open.spotify.com/track/4JULb8zJ7Zg0pcaFvpoToR) | [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [Pray 4 Me](https://open.spotify.com/album/5NmvJCv1OcOi4ZSOu4HT3N) | 8:40 |
 
-Snapshot ID: `AAADTk4XXnyC8aI+l3/3tKXhWNHzOcy4`
+Snapshot ID: `AAADUFSc9xghlYTxRSZkZs58FbWZU35H`

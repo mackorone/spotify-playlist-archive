@@ -2,9 +2,9 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Subtronics
+> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with GriZ\. Happy GriZmas!
 
-1,616 songs - 3 day 16 hr 22 min
+1,618 songs - 3 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [DREAMING](https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [DREAMING](https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB) | 3:51 | 2023-09-08 | 2023-11-16 |
 | [Dreams Come True](https://open.spotify.com/track/7yk6DYBmizBPjBXx39s4U6) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Dreams Come True](https://open.spotify.com/album/3HODo90QBBmalOQENYF0OS) | 4:03 | 2025-06-06 | 2025-07-19 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-21 | 2023-08-12 |
+| [Droid](https://open.spotify.com/track/1mPhGJJd1uH372y2UATIJo) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Droid](https://open.spotify.com/album/0JJvYBZOCxvBJCdTKuoD3i) | 3:35 | 2025-12-19 |  |
 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 | 2025-04-18 |  |
 | [Drop That](https://open.spotify.com/track/62Oto2BhdCETRMbzQLc3hD) | [TVBOO](https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Al Kapone](https://open.spotify.com/artist/56LhGRiEVAKCOT162NIQIs) | [Drop That](https://open.spotify.com/album/05kt3fVBRHJ7QkcqjJmBuR) | 4:02 | 2024-05-10 | 2024-06-17 |
 | [Drown](https://open.spotify.com/track/3oh96zFJQ3wDLW9hv0pDKQ) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Drown](https://open.spotify.com/album/36rLDnmL9b3aCdKv1aixd8) | 2:40 | 2025-03-07 | 2025-05-17 |
@@ -580,7 +581,7 @@
 | [Fuck U Love U](https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Fuck U Love U](https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w) | 3:18 | 2021-12-17 | 2022-03-12 |
 | [Full Circle](https://open.spotify.com/track/0oeSHt8QrW3olWPkFO4WbG) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Full Circle](https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N) | 3:38 | 2023-09-15 | 2023-10-29 |
 | [Fun in the Sun](https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Harry Bee](https://open.spotify.com/artist/6ViTpFOyLCDqmWseU2vz4i) | [Fun in the Sun](https://open.spotify.com/album/2galUcRqce0LWecrsJgb3w) | 2:47 | 2024-07-26 | 2025-01-25 |
-| [Funk You Up!](https://open.spotify.com/track/1Ca7IBRiNfOJT5STMI7suU) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Funk You Up!](https://open.spotify.com/album/0tSAbEmzEXoWrKBoUEai7W) | 2:31 | 2025-10-24 |  |
+| [Funk You Up!](https://open.spotify.com/track/1Ca7IBRiNfOJT5STMI7suU) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Funk You Up!](https://open.spotify.com/album/0tSAbEmzEXoWrKBoUEai7W) | 2:31 | 2025-10-24 | 2025-12-20 |
 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 | 2022-08-26 | 2023-07-29 |
 | [Future Sip](https://open.spotify.com/track/0G5h3r3ExF7qBSOUPT7Tg9) | [DRINKURWATER](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [Future Sip](https://open.spotify.com/album/3srLpERkZeDKkDezbazBYF) | 2:11 | 2025-09-19 | 2025-10-25 |
 | [fuze](https://open.spotify.com/track/5UZIVxzI4UyrSbg3ZLTGTH) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [fuze](https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2) | 3:08 | 2025-10-24 |  |
@@ -1005,6 +1006,7 @@
 | [No One Does It Like](https://open.spotify.com/track/3tX4wGJbMYgNGZC0Tr5V3t) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [No One Does It Like](https://open.spotify.com/album/2psgub3GgkiwG1AszLqWdQ) | 3:06 | 2024-11-22 | 2025-01-25 |
 | [NO SURRENDER \(No Retreat\)](https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [NO SURRENDER \(No Retreat\)](https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77) | 3:29 | 2025-08-22 | 2025-10-18 |
 | [Nobody Else](https://open.spotify.com/track/6IV8mJMXlVrMJtUDXMfsUy) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Nobody Else](https://open.spotify.com/album/2Mhs50XjVDkcVHswlJo7dn) | 3:48 | 2024-10-18 | 2024-11-02 |
+| [Nobody Else \(with Kaleena Zanders\)](https://open.spotify.com/track/2NuNzR5GVtL8nkJ0sxfGzs) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Nobody Else \(with Kaleena Zanders\)](https://open.spotify.com/album/5XpCrHqbZPPBWSGOmct0A0) | 3:12 | 2025-12-19 |  |
 | [Nocturnal](https://open.spotify.com/track/6KBoM5fpkLRFmO8yJY6Cc0) | [VKTM](https://open.spotify.com/artist/3Hvi9LxTMvcAUxf8GNZKeD), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Nocturnal](https://open.spotify.com/album/6CScLLb2ROWu5lePF0z8HA) | 2:58 | 2024-11-22 | 2025-01-18 |
 | [NOISE COMPLAINT](https://open.spotify.com/track/5kF8CkVtxGULQ3iVgKSKV1) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [EYE SPY](https://open.spotify.com/album/1ZznxQYmedRm467XBt5tu2) | 2:24 | 2025-06-20 | 2025-10-04 |
 | [Noisy Boys](https://open.spotify.com/track/3JCckl9tjLZnfjguaxyckw) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP), [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Noisy Boys](https://open.spotify.com/album/5lxwsxClvVt8C4XOxtTGjV) | 3:15 | 2024-10-04 | 2024-11-09 |

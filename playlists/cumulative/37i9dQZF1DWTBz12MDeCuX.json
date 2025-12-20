@@ -4945,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Augenblick",
+        "url": "https://open.spotify.com/album/5FmRBYHxT174E0HtJdhgNY"
+      },
+      "artists": [
+        {
+          "name": "Pouma",
+          "url": "https://open.spotify.com/artist/1xgdN2FchVCKN0GhdjUYyZ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168149,
+      "name": "Augenblick",
+      "url": "https://open.spotify.com/track/73IArrFHGpMR7fAgtWdyCF"
+    },
+    {
+      "album": {
         "name": "Augenma\u00df (feat. Pashanim)",
         "url": "https://open.spotify.com/album/0psblIHDZ6SDsjizzAUwpI"
       },
@@ -15511,6 +15529,28 @@
     },
     {
       "album": {
+        "name": "Ein Teil (CRO & OSWALD Rmx)",
+        "url": "https://open.spotify.com/album/4HWlCodD8sXRlROyjOmeuO"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182700,
+      "name": "Ein Teil - CRO & OSWALD Rmx",
+      "url": "https://open.spotify.com/track/7kaHzWzuPRXwr4gOQS03PG"
+    },
+    {
+      "album": {
         "name": "EIN TEIL VON MIR",
         "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
       },
@@ -18378,7 +18418,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 121461,
       "name": "Flaschenpost",
       "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
@@ -28590,7 +28630,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 149946,
       "name": "junge akhs",
       "url": "https://open.spotify.com/track/7AsigfvbdBya8mAUc5MnOX"
@@ -31466,7 +31506,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 164133,
       "name": "LEID",
       "url": "https://open.spotify.com/track/5a54dEvLtgl87qonnbSFio"
@@ -43523,6 +43563,24 @@
     },
     {
       "album": {
+        "name": "Pretty Privilege",
+        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145493,
+      "name": "Pretty Privilege",
+      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
+    },
+    {
+      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/3UNtbnpooesHeO9lSJAP9R"
       },
@@ -54163,24 +54221,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "date_added": "2025-12-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 13",
-      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
-    },
-    {
-      "album": {
         "name": "TRACKIES",
         "url": "https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne"
       },
@@ -59248,6 +59288,24 @@
       "duration_ms": 150875,
       "name": "wenn die sonne hier scheint",
       "url": "https://open.spotify.com/track/0mHCdDjCDCWN0EVyUamTfS"
+    },
+    {
+      "album": {
+        "name": "Wenn du dich entfernst",
+        "url": "https://open.spotify.com/album/6PwvDkM35yaGj7p7lKbs2M"
+      },
+      "artists": [
+        {
+          "name": "Jaq",
+          "url": "https://open.spotify.com/artist/3TCdAIcdvtyQVN5nI7VwLV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Wenn du dich entfernst",
+      "url": "https://open.spotify.com/track/6IChA2LdURD4N87VcwKrc7"
     },
     {
       "album": {

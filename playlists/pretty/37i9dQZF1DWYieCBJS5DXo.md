@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYieCBJS5DXo.md) - [plain]
 
 > Serving up your favorite songs about snacks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295 likes - 35 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294 likes - 35 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

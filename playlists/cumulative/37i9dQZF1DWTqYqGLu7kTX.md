@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover:  Saabi Bhinder & Real Boss
 
-311 songs - 15 hr 22 min
+312 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 |  |
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 | 2024-11-20 |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2023-03-18 | 2023-04-24 |
+| [Saucy](https://open.spotify.com/track/6HPQuJOxBk2KNP0iwW4qrc) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [Walking on Water](https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ) | 2:25 | 2025-12-19 |  |
 | [Sawaal Puchdi \(Feat\. Bohemia\)](https://open.spotify.com/track/0W7oY8NwwVkEeUVsAwF19Z) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 4:09 | 2025-09-26 | 2025-10-18 |
 | [Say Less](https://open.spotify.com/track/5X0ndxwCNoorZjBwFhI0MX) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [Say Less](https://open.spotify.com/album/0hKJ7pVTnaXEk63cKTZpFh) | 3:36 | 2025-10-14 | 2025-10-18 |
 | [Scapegoat](https://open.spotify.com/track/7fm1Nbus8X19wI4oz6FFcb) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Scapegoat](https://open.spotify.com/album/57H1cyRJxpt3COMGnSnl7N) | 3:57 | 2023-03-18 | 2025-01-25 |
@@ -263,7 +264,7 @@
 | [Shoes Off](https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Shoes Off](https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH) | 3:49 | 2025-07-11 | 2025-08-27 |
 | [Shopping List \(From "Leonization"\)](https://open.spotify.com/track/0lvzBRk7cpnMIlQ4EBMB3R) | [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Shopping List \(From "Leonization"\)](https://open.spotify.com/album/1wnW9BMrnmsf64WIxPqszW) | 2:58 | 2025-04-25 |  |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-23 | 2023-06-24 |
-| [Simp](https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Simp](https://open.spotify.com/album/7wCgk5j3GcGMkVheUEjqvM) | 2:31 | 2025-12-05 |  |
+| [Simp](https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Simp](https://open.spotify.com/album/7wCgk5j3GcGMkVheUEjqvM) | 2:31 | 2025-12-05 | 2025-12-20 |
 | [Sit Down Son](https://open.spotify.com/track/5ToiBU3fTszZBrLOEHY9aB) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT), [Avvy](https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1) | [Sit Down Son](https://open.spotify.com/album/7u6ZStyLBmlQlPV3rM6XY7) | 3:24 | 2025-01-04 | 2025-11-22 |
 | [Slap Up](https://open.spotify.com/track/2jkMN5p1mVqfkCbtuQTcZx) | [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bandzo3rd](https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:46 | 2024-03-26 | 2024-08-10 |
 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 | 2024-11-20 | 2025-07-19 |

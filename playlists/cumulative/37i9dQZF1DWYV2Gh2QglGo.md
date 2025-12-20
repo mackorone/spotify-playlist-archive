@@ -2,7 +2,7 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Brett Kissel
+> The home of Canadian country music\. Cover: Kelsi Mayne
 
 501 songs - 1 day 2 hr 50 min
 

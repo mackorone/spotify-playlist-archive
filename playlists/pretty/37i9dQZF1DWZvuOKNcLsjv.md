@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  OneRepublic
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,346 likes - 69 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,349 likes - 69 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

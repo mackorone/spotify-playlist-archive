@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from 21 Savage, Gunna and Pooh Shiesty\"",
+  "description": "Music from Gunna, 21 Savage and YoungBoy Never Broke Again.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 242195,
       "name": "ATLANTA TEARS",
       "url": "https://open.spotify.com/track/5DauVTU0QJ23hUPOzgnvAu"
@@ -7962,7 +7962,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 283226,
       "name": "Cable Box",
       "url": "https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe"
@@ -17666,7 +17666,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 171964,
       "name": "GiT Ready",
       "url": "https://open.spotify.com/track/2TWEKZOpQAs1iXEmbrYw9S"
@@ -19970,7 +19970,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 155006,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX"
@@ -20566,10 +20566,44 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 106274,
       "name": "Hoes Be Mad",
       "url": "https://open.spotify.com/track/4Eon806kqIVQCbq7ULjpKg"
+    },
+    {
+      "album": {
+        "name": "Hoes Be Mad (2.0)",
+        "url": "https://open.spotify.com/album/2upNAvArnRPRIGhNL1BNYL"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        },
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "ZEDDY WILL",
+          "url": "https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176599,
+      "name": "Hoes Be Mad - 2.0",
+      "url": "https://open.spotify.com/track/007REOMMTHhzCr6w1WT2ER"
     },
     {
       "album": {
@@ -37261,6 +37295,24 @@
     },
     {
       "album": {
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179476,
+      "name": "Putting Ya Dine",
+      "url": "https://open.spotify.com/track/57TSLzWfZdQroiwtIFX97X"
+    },
+    {
+      "album": {
         "name": "Quality Over Quantity",
         "url": "https://open.spotify.com/album/4OZ9Lrp14C5Bu2OkT3ZLl9"
       },
@@ -37736,6 +37788,28 @@
       "duration_ms": 187213,
       "name": "REAL ME (WITH METRO BOOMIN)",
       "url": "https://open.spotify.com/track/5gceXfpczt6WqGkkqeICAm"
+    },
+    {
+      "album": {
+        "name": "ALREADY LEGEND. (GIFTED Edition)",
+        "url": "https://open.spotify.com/album/78tzX7Tge0Kadq2hzUDcrG"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "REAL NIGGA DIARY. FT. JEEZY.",
+      "url": "https://open.spotify.com/track/0Lc0gMNrgYIs5DwBZO3hfZ"
     },
     {
       "album": {
@@ -39942,6 +40016,32 @@
       "duration_ms": 251336,
       "name": "Sasuke",
       "url": "https://open.spotify.com/track/0ROE31C8Wu4neZoR9stM9e"
+    },
+    {
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/1yZdP07q7q9g62biQBoqaU"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181739,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0CtG3VBxkHbEuIexLCyVcZ"
     },
     {
       "album": {
@@ -46460,7 +46560,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 122080,
       "name": "Tendernism (feat. BossMan Pac)",
       "url": "https://open.spotify.com/track/0ygSTAiQKrtFJcuQG6KiAC"
@@ -48810,6 +48910,24 @@
       "duration_ms": 158427,
       "name": "Top (Remix) feat. Lil Durk",
       "url": "https://open.spotify.com/track/5S0QZGDvhgdED2WJGgxBKb"
+    },
+    {
+      "album": {
+        "name": "Top Cobain",
+        "url": "https://open.spotify.com/album/7cBvKQxlZT5Cglic7x2T5r"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225835,
+      "name": "Top Cobain",
+      "url": "https://open.spotify.com/track/3SKyzZJvKDSabul0KwvMzn"
     },
     {
       "album": {
@@ -52740,6 +52858,24 @@
       "duration_ms": 272941,
       "name": "WHERE WAS YOU",
       "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
+    },
+    {
+      "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219991,
+      "name": "WHERE YOU FROM",
+      "url": "https://open.spotify.com/track/4PRDNZEGrKlPj6Y0hMFdN8"
     },
     {
       "album": {

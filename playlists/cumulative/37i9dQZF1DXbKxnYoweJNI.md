@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover:楊子平 \(CAsPER\)
 
-3,793 songs - 9 day 5 hr 44 min
+3,794 songs - 9 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2093,7 +2093,7 @@
 | [彩色的未來](https://open.spotify.com/track/5pdUx4vzdKhEjcfQ0oCfWx) | [孫文琦](https://open.spotify.com/artist/5w8ia7ibggqMHx3EFvAnJo) | [彩色的未來](https://open.spotify.com/album/3VaPBnLHj5590BcvHXlz69) | 3:06 | 2025-10-23 | 2025-10-31 |
 | [彩虹 \- 滾石撞樂隊2 \(原唱:梁靜茹\)](https://open.spotify.com/track/0FWi5X1ouSMs0sozulyqqi) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [滾石撞樂隊2 \- 彩虹](https://open.spotify.com/album/3Li3rQxiS8gomSbxrp8oe4) | 4:21 | 2025-10-30 | 2025-11-21 |
 | [影](https://open.spotify.com/track/3TVOM30Iyb4RF8cTprqIoq) | [刘忻](https://open.spotify.com/artist/5UgeL9yjnOMlBvnP4Teawa), [遗忘俱乐部](https://open.spotify.com/artist/75KBkdfleEQwCGf0gu1T4r) | [影](https://open.spotify.com/album/7qDZLGZT1Es1fopvKKm4q1) | 3:39 | 2025-06-05 | 2025-06-27 |
-| [影 \- Netflix影集《如果我不曾見過太陽》插曲](https://open.spotify.com/track/1Y5Bu7ow1Kwyg4ad8mOVCr) | [Lexa](https://open.spotify.com/artist/18AgmrYov7QCR1kfUlj9zR) | [影 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/7tJl7WtHAXk79f2fzRnAQz) | 3:55 | 2025-12-18 |  |
+| [影 \- Netflix影集《如果我不曾見過太陽》插曲](https://open.spotify.com/track/1Y5Bu7ow1Kwyg4ad8mOVCr) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [影 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/7tJl7WtHAXk79f2fzRnAQz) | 3:55 | 2025-12-18 |  |
 | [彼得潘](https://open.spotify.com/track/6I4iTmuBWBeRcs9RICgCYi) | [小球\(莊鵑瑛\)](https://open.spotify.com/artist/5r0Fhn5JfkbhPG8wXRu0iY) | [彼得潘](https://open.spotify.com/album/0ItbCnGDcGy4mDNOjLNCCi) | 4:58 | 2025-02-27 | 2025-03-21 |
 | [往前走](https://open.spotify.com/track/6Fq4Hj5q9dqCSyTeK3pVbU) | [梁傑嵐JL3N](https://open.spotify.com/artist/11NT2xIlzsMZsgqQMOWbV0) | [往前走](https://open.spotify.com/album/67H0igXvw7kqqpznXPdtIi) | 3:17 | 2025-11-27 | 2025-12-05 |
 | [往前飛 \- 《超棒的我們》插曲](https://open.spotify.com/track/0wlAh0qRnP2IrzeqUku7ca) | [郭嘉誼](https://open.spotify.com/artist/0H2Gv4CQTL87hhn1p08TnC), [聖恩](https://open.spotify.com/artist/0BZRJ2yVhVp9OF5N2qla9C) | [往前飛 \(《超棒的我們》插曲\)](https://open.spotify.com/album/3ktAQsdDYr4hMEitQMUMMv) | 3:07 | 2025-01-02 | 2025-01-17 |
@@ -2167,7 +2167,7 @@
 | [情歌](https://open.spotify.com/track/2IK9Imj1eKQmKUg9q1KL5u) | [余佩真](https://open.spotify.com/artist/6DHgvg8leMhBE7itUz8LgN) | [情歌](https://open.spotify.com/album/2nzgfr1J6Fm87pWU9jjCbG) | 4:47 | 2025-10-30 | 2025-11-07 |
 | [情绪过载\(Emotional Overload\)](https://open.spotify.com/track/0rZv3eMgVlZ1eovwPmtVez) | [Yimi3翁一铭](https://open.spotify.com/artist/7nBaSK50UJk2un8OWJO0Aj) | [情绪过载\(Emotional Overload\)](https://open.spotify.com/album/314Vt0yokfioyiQ2DSdAjz) | 2:46 | 2025-08-14 | 2025-09-26 |
 | [惡口](https://open.spotify.com/track/6yHsCfnCexPas4uyyq7Sf8) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [惡口](https://open.spotify.com/album/7EPgyEjXHsN65o6BT8iK4l) | 3:46 | 2024-12-12 | 2025-01-03 |
-| [惡意](https://open.spotify.com/track/2BKUf0T3j5b4kXzxRdLjNK) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [惡意](https://open.spotify.com/album/213FTNWETtUZL0WCPVuMPE) | 2:47 | 2025-11-13 |  |
+| [惡意](https://open.spotify.com/track/2BKUf0T3j5b4kXzxRdLjNK) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [惡意](https://open.spotify.com/album/213FTNWETtUZL0WCPVuMPE) | 2:46 | 2025-11-13 |  |
 | [惱羞成愛](https://open.spotify.com/track/6PKZH9nJRlQN9IjVzYjjxl) | [龔言脩](https://open.spotify.com/artist/18luxd1vZzmJ6P13eISD58) | [惱羞成愛](https://open.spotify.com/album/7DVAs1td1K8dMj5OzWF0oy) | 3:38 | 2024-08-08 | 2024-08-23 |
 | [想一個人](https://open.spotify.com/track/1yfJ2Oc5p4KWr6kBHIYlTe) | [Lin Si Tong](https://open.spotify.com/artist/1FXhxn9AhnOPufmvvu7qGc) | [想一個人](https://open.spotify.com/album/2PiOLiIqyiTuAwVeAC9Dy2) | 4:32 | 2025-01-02 | 2025-01-17 |
 | [想你想你](https://open.spotify.com/track/4HCTAnB6SVjydxfpMlbN8p) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [想你想你](https://open.spotify.com/album/7jqhQ0VO6Qld6JfJttghxC) | 3:15 | 2025-05-22 | 2025-06-13 |
@@ -2476,6 +2476,7 @@
 | [换季关系](https://open.spotify.com/track/499vCGlTufXOIyXaB5xYBR) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq), [GHAZT](https://open.spotify.com/artist/6VfJVZy1tdcsxFyXIZPuxM) | [换季关系](https://open.spotify.com/album/5QCFZOgSSFLTLserfe6FoQ) | 4:38 | 2024-11-21 | 2024-12-06 |
 | [捨不得](https://open.spotify.com/track/046kwHhQLWFIzVj94j0Agt) | [Tizzy T](https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [流行](https://open.spotify.com/album/5cnsZPwcGZV7SvqFALMYrz) | 3:08 | 2025-12-18 |  |
 | [捨不得](https://open.spotify.com/track/4or1IjRuEpewjkP1bkoTu9) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH) | [捨不得](https://open.spotify.com/album/5SPXFI4bXzIvdVHcAQdC9i) | 3:42 | 2025-10-09 | 2025-10-17 |
+| [捨不得你](https://open.spotify.com/track/79rRlj6ukamsbP9CkPySoj) | [RÖRO](https://open.spotify.com/artist/6Vpl6ZfmhdyWCxwv6JTyoR) | [捨不得你](https://open.spotify.com/album/1CGMpMxXGaEVjR7KYjoMp0) | 3:43 | 2025-12-18 |  |
 | [接住你](https://open.spotify.com/track/4cCpt3dT86O3F7OgkK5n8o) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [接住你](https://open.spotify.com/album/6QQAuZsNxOMqwntwfrtb4c) | 5:09 | 2025-05-22 | 2025-06-13 |
 | [掰掰，我的依賴](https://open.spotify.com/track/0Ccka0FXZqhHkGZhsrxLVl) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [掰掰，我的依賴](https://open.spotify.com/album/6YIMWkhPumdwW32v2EzADM) | 3:33 | 2025-10-30 | 2025-11-07 |
 | [插曲](https://open.spotify.com/track/267UtyZzkR9HlbipDONd1r) | [黃雨勳](https://open.spotify.com/artist/6TwanpBr3fIrx6ITQM9kc0) | [魔法列車首部曲](https://open.spotify.com/album/4Pm4gZfttnVKj6AatImcfi) | 5:15 | 2024-08-08 | 2024-08-23 |
@@ -3688,7 +3689,7 @@
 | [離開你了](https://open.spotify.com/track/4TR8b1XqlWKnskIt6miBlm) | [雪哥 Aven](https://open.spotify.com/artist/0Dfg2oE1ly0PwvEY395kgY) | [離開你了](https://open.spotify.com/album/5L7Vsedcgof3YhPbHkWPe1) | 4:09 | 2025-11-13 | 2025-12-19 |
 | [離開雨季](https://open.spotify.com/track/5w2ZlNFnODx4o3F4mCK3eS) | [陳宇祥](https://open.spotify.com/artist/2dgXpLFeXEZvzgD9Az4CvU) | [離開雨季](https://open.spotify.com/album/2zgRjZuxxjj98wDcBrYLc2) | 4:17 | 2024-09-12 | 2024-09-20 |
 | [難以感受幸福的人](https://open.spotify.com/track/0FCzSaOq81MMasbzM6u60Z) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [難以感受幸福的人](https://open.spotify.com/album/52dRBboZZw82ny1KRDIr4O) | 3:42 | 2024-10-03 | 2024-10-25 |
-| [雨城](https://open.spotify.com/track/53x5fNOK424pTAePq7QJI2) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [雨城](https://open.spotify.com/album/0UIQ6KE9zzEI8pYnsBd4QE) | 3:28 | 2025-09-25 |  |
+| [雨城](https://open.spotify.com/track/53x5fNOK424pTAePq7QJI2) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [雨城](https://open.spotify.com/album/0UIQ6KE9zzEI8pYnsBd4QE) | 3:27 | 2025-09-25 |  |
 | [雨城 \(Arr\. by Flowi\)](https://open.spotify.com/track/4t0egfWiiaQximBVdaBYH5) | [柯朋宇](https://open.spotify.com/artist/5vWQyCpjh2KpM8DWR7OiYP) | [雨城](https://open.spotify.com/album/6nJnLNUvq2wrfo9lR0SFRb) | 3:32 | 2024-06-27 | 2024-07-19 |
 | [雨夜落花 \- OT:雨夜花](https://open.spotify.com/track/4S2XlrDzPIWUqcu8Y9zjPx) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8) | [雨夜落花 \(OT:雨夜花\)](https://open.spotify.com/album/5shLxNRt4bOtuVE9OGBJjQ) | 4:19 | 2025-07-03 | 2025-07-25 |
 | [雨季（Monsoon）](https://open.spotify.com/track/1IdNxe5BOZ7Jnm8ul4T4YV) | [盘尼西林乐队](https://open.spotify.com/artist/2oKqZCLOi18wxFFnDS6e25) | [雨季（Monsoon）](https://open.spotify.com/album/4HqLhREz5RoCNtOfOefppK) | 3:25 | 2025-09-25 | 2025-10-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Atemi Oyungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,573 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,578 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 2 | [Control It](https://open.spotify.com/track/4I4Z39sziPUkKeukvHjdwC) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Control It](https://open.spotify.com/album/6L2UvteLN6iJ0mRSUX5q9S) | 2:57 |
 | 3 | [Petals in the Breeze \(feat\. Mayonde & Viola Karuri\)](https://open.spotify.com/track/0Y3DyRBiZZsVM3hW7UPYE4) | [Atemi Oyungu](https://open.spotify.com/artist/0dMogZzQ1xyJ6B7Oo5RJeY), [Mayonde](https://open.spotify.com/artist/3oqMNz2Z6IrQXes2MEA6sr), [Viola Karuri](https://open.spotify.com/artist/5U9PXJpcwXiyC5QOiXjoxU) | [Petals in the Breeze \(feat\. Mayonde & Viola Karuri\)](https://open.spotify.com/album/2wnb2QY3mBTxytZ0A4FJ6s) | 4:16 |
 | 4 | [Pretty Girl](https://open.spotify.com/track/3mbZFN6ZynKRwKt7EDccI1) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Pretty Girl](https://open.spotify.com/album/528NVpD6jexhQKgUnxrFkg) | 3:12 |
-| 5 | [Track 2](https://open.spotify.com/track/7rtIoh5Gmq2Gds1cJQ7xTU) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Kakana \- Acoustic](https://open.spotify.com/track/7rtIoh5Gmq2Gds1cJQ7xTU) | [Tracy Melon](https://open.spotify.com/artist/2AKNtsrKpJoEb4HMPvb4Hp), [Maestro Studios](https://open.spotify.com/artist/5vCiqiIOzTCUioz4zdkqAm) | [Tracy Melon in Acoustic](https://open.spotify.com/album/1DCqrCDXTnNg8GhHJQieRj) | 3:14 |
 | 6 | [Zetu Zetu](https://open.spotify.com/track/1zk5fviR2DwSYs8CZkhJ7j) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Zetu Zetu](https://open.spotify.com/album/7x7YZHSQ7XBl5plK0GUdWJ) | 2:36 |
 | 7 | [Namna Hiyo](https://open.spotify.com/track/20uBG9S6zwD3IhAU8jcjBN) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 4:02 |
 | 8 | [Lalala](https://open.spotify.com/track/3JJlxDvDxw8jr6wOgg1nyj) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Lalala](https://open.spotify.com/album/28qNYfmfOWyMsqeDyEJLYP) | 3:22 |

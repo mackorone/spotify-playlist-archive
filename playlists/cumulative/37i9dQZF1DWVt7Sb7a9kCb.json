@@ -596,7 +596,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 174293,
       "name": "ALL TIME",
       "url": "https://open.spotify.com/track/1z6VYGFSFhGoY0PLhhpvOE"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 164814,
       "name": "B A E 2.0",
       "url": "https://open.spotify.com/track/1kg5fBzZsAJILrJbbGbnb3"
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 166734,
       "name": "COCO LOCO",
       "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 190153,
       "name": "DARLE EL ALMA",
       "url": "https://open.spotify.com/track/1P6ar0VGbCya0puYupAntv"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 184264,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5JA1R6ex7F9ZpQNEB8tTGZ"
@@ -4199,6 +4199,28 @@
     },
     {
       "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/6kKjC5UkhP2AoBwhO6FDOF"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Grande",
+      "url": "https://open.spotify.com/track/4orByxFsUO8lPSIxn5o76P"
+    },
+    {
+      "album": {
         "name": "Groser\u00edas",
         "url": "https://open.spotify.com/album/7Hamo1AB1RJBrRcSFGgQrT"
       },
@@ -4495,6 +4517,28 @@
     },
     {
       "album": {
+        "name": "Honguito",
+        "url": "https://open.spotify.com/album/5jY0ca4qtVTPNzlLr24CRm"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Honguito",
+      "url": "https://open.spotify.com/track/3g9a7CuaRwsv498HmPH7vC"
+    },
+    {
+      "album": {
         "name": "Hora y Cuarto",
         "url": "https://open.spotify.com/album/1xUIdCd4oUAi4RfRCiEDSS"
       },
@@ -4630,6 +4674,24 @@
       "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
+    },
+    {
+      "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "album": {
@@ -5650,7 +5712,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 214668,
       "name": "LE PED\u00cd A DIOS",
       "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
@@ -6824,6 +6886,28 @@
       "duration_ms": 200000,
       "name": "MORAL",
       "url": "https://open.spotify.com/track/2cFENyu5u6AjeQANRp3IiF"
+    },
+    {
+      "album": {
+        "name": "MORENA",
+        "url": "https://open.spotify.com/album/15C5065nXqUkUiOekHrh2p"
+      },
+      "artists": [
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157682,
+      "name": "MORENA",
+      "url": "https://open.spotify.com/track/4PYWWJqLEF5T5lwvcfbsDy"
     },
     {
       "album": {
@@ -9041,6 +9125,24 @@
     },
     {
       "album": {
+        "name": "El Final",
+        "url": "https://open.spotify.com/album/5QenSs27LeEQAd2TDpWxtr"
+      },
+      "artists": [
+        {
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/5qQtwtKAu9tHfJUTr4yJC0"
+    },
+    {
+      "album": {
         "name": "Reloj",
         "url": "https://open.spotify.com/album/077ZlnUTT6pOJNJ2HbYpYW"
       },
@@ -10850,6 +10952,28 @@
       "duration_ms": 182857,
       "name": "Tu Gato Bellaco - Remix",
       "url": "https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C"
+    },
+    {
+      "album": {
+        "name": "tu nama",
+        "url": "https://open.spotify.com/album/6TPPV25rcptoYJrFnnEigH"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200943,
+      "name": "tu nama",
+      "url": "https://open.spotify.com/track/0qxoRhNPVJAZhqH9olE86G"
     },
     {
       "album": {

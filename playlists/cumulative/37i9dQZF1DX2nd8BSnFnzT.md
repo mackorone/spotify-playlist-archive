@@ -2,9 +2,9 @@
 
 ### [Pátria Rock](https://open.spotify.com/playlist/37i9dQZF1DX2nd8BSnFnzT)
 
-> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Capital Inicial
+> Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: LVCAS
 
-582 songs - 1 day 8 hr 34 min
+584 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [O Sol da Liberdade](https://open.spotify.com/track/3t2NlLa4WN491vjAxmh5yI) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [O Sol da Liberdade](https://open.spotify.com/album/022w0C97MryvMRZSlPiP4n) | 4:21 | 2023-04-28 | 2023-08-05 |
 | [O Tempo Não Vai Curar](https://open.spotify.com/track/2kKlja19spIOJKalyAS3Ra) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [O Tempo Não Vai Curar](https://open.spotify.com/album/6QJKTtSlz0Xe7dtVPpKOtE) | 2:52 | 2022-06-10 | 2022-06-25 |
 | [O Verso](https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [O Verso](https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C) | 3:30 | 2024-07-05 |  |
+| [O verão e você](https://open.spotify.com/track/20xbgvEtZu7BNiRPSat5bH) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [O verão e você](https://open.spotify.com/album/2w9Cn3l7jaLIhaA5fy14Mx) | 3:30 | 2025-12-19 |  |
 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 | 2023-03-10 |  |
 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 | 2023-11-24 | 2024-06-29 |
 | [Obsessão](https://open.spotify.com/track/6xisTP51b3HRZDxCf1Zt1L) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Obsessão](https://open.spotify.com/album/4gykUiJ9guydpQWyCsU7cF) | 2:45 | 2024-06-21 | 2024-09-07 |
@@ -460,6 +461,7 @@
 | [Real grandeza](https://open.spotify.com/track/4iYxIpgcAIUAGUaQLG9guW) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [12 de Janeiro \(Edição Comemorativa 2023\)](https://open.spotify.com/album/5mC2qIZAOOVrmq8EwTvoa3) | 3:47 | 2023-01-13 | 2023-03-25 |
 | [Recomeço](https://open.spotify.com/track/4aviofk0mZZn81yLNHYY15) | [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly) | [Recomeço](https://open.spotify.com/album/6J1JucU1ItGgQ9BobRei8y) | 3:00 | 2023-01-27 | 2023-07-15 |
 | [Reflexo Seu](https://open.spotify.com/track/3b9xRFmxKdgQJ5ZPE4fQ3t) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Reflexo Seu](https://open.spotify.com/album/718bI7cLHTkK828iVocemo) | 2:44 | 2022-01-14 | 2022-08-13 |
+| [refém](https://open.spotify.com/track/2Sqc8PZC5j2w31BTt0MjEi) | [LVCAS](https://open.spotify.com/artist/0P9pI1DLcVTkobNcZ7Tb1N) | [abatido mas não derrotado](https://open.spotify.com/album/0KQMepeez8i64E4P965nFc) | 3:56 | 2025-12-19 |  |
 | [Regra da Casa \- Ao Vivo](https://open.spotify.com/track/0zTq6CS9roo3NFJ6WtktiH) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Acústico Kamaitachi, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6L3w8n0tKezdefcpIYTc7K) | 2:48 | 2025-08-29 | 2025-11-25 |
 | [Remédios](https://open.spotify.com/track/3MXugNQaPFyMhvFFpXq6JK) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Remédios](https://open.spotify.com/album/5QyX1DXEcpmW6EIH3PPt2U) | 2:31 | 2023-05-12 | 2024-03-09 |
 | [Replay](https://open.spotify.com/track/2DhYBCdjldHp7YIEFVHkJW) | [Odeon](https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt) | [Replay](https://open.spotify.com/album/4ZvCPmIvNNGIu9RPnxagO6) | 3:45 | 2023-08-04 | 2024-01-20 |
@@ -490,7 +492,7 @@
 | [Sem Pensar \- Ao Vivo](https://open.spotify.com/track/4B8ZYIPUh7YKNrYpzb8TLo) | [Izzi Louise](https://open.spotify.com/artist/7IKyfB7CQfU6tgv6c4iwnV) | [Sem Pensar \(Ao Vivo\)](https://open.spotify.com/album/6MOUKlQW1Qslv0uTPIn9fX) | 3:32 | 2022-01-14 | 2022-02-05 |
 | [sem rumo](https://open.spotify.com/track/5dK4KjIqd60Y0W3rivvSgP) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sem rumo](https://open.spotify.com/album/4Y9ZIUWf8hnvsMi5GAyUVf) | 4:27 | 2022-01-14 | 2022-02-05 |
 | [Sempre em Frente](https://open.spotify.com/track/6R17qo7qwpkPu7szy5tK7G) | [NAVALA](https://open.spotify.com/artist/5qSepOy54NGAJ5rpIksl3p) | [Sempre em Frente](https://open.spotify.com/album/4nGrhdelNUboisIrusK5eS) | 3:23 | 2023-09-22 | 2024-02-03 |
-| [Senador](https://open.spotify.com/track/6uALZSrh136doyHHljYo4M) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Senador](https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD) | 2:43 | 2023-08-04 |  |
+| [Senador](https://open.spotify.com/track/6uALZSrh136doyHHljYo4M) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [Senador](https://open.spotify.com/album/5LmC8vcX4HMjnbQ5n9tCTD) | 2:43 | 2023-08-04 | 2025-12-20 |
 | [Sexo Animal](https://open.spotify.com/track/3Ori3rp369Md0VHHtIOx2k) | [Edu K](https://open.spotify.com/artist/5EAKL3hlm7BXhUTUibDIUK) | [Sexo Animal](https://open.spotify.com/album/3eBQfsPXJ0B84A2eNcV6KO) | 2:32 | 2022-06-24 | 2022-07-16 |
 | [silêncio](https://open.spotify.com/track/4SJDdyGOGz35pPjBPQc2fW) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [séance: sombra](https://open.spotify.com/album/2r6BzV4RsoSqFVLSQXpbyl) | 2:55 | 2024-05-31 | 2024-06-22 |
 | [Simplifica](https://open.spotify.com/track/0XZYEobMACkaODDYZnuU3k) | [The Mönic](https://open.spotify.com/artist/2buQ8nJN9tUVl6ExZC965q) | [Cuidado Você](https://open.spotify.com/album/1pjWYLqFoKnkenPkvpM6pK) | 3:04 | 2023-09-01 | 2024-04-19 |

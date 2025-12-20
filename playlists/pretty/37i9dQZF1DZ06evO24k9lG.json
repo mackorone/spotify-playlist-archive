@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro de Am\u00e9rica. The essential tracks, all in one playlist.",
-  "num_followers": 63012,
+  "num_followers": 63025,
   "original_name": "This Is Binomio de Oro de Am\u00e9rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUHygAAAAABudtjj/81rjEPyIDSR0z1P",
+  "snapshot_id": "aUNEAAAAAABy2ZqFb6gm0WaBqWp4UGMV",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impredecible",
-        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 281332,
-      "name": "Impredecible",
-      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dif\u00edcil De Igualar",
         "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 292333,
       "name": "Dejate Atrapar",
       "url": "https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impredecible",
+        "url": "https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 281332,
+      "name": "Impredecible",
+      "url": "https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK"
     },
     {
       "added_at": null,

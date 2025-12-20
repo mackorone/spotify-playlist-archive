@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Euphoria Gully",
+        "url": "https://open.spotify.com/album/4rffxA0reylzJCU4fAZkIy"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd"
+        }
+      ],
+      "date_added": "2025-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282480,
+      "name": "Aana Meri Gully",
+      "url": "https://open.spotify.com/track/78VFEHYy9TqY3DDqiISKAM"
+    },
+    {
+      "album": {
         "name": "Aankhon Mein Tera Hi Chehra",
         "url": "https://open.spotify.com/album/6mCDTT1XGTf48p6FkK9qFL"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 263133,
       "name": "Deewane To Deewane Hain",
       "url": "https://open.spotify.com/track/5iTmzhI02fWKhVufRgAfvv"

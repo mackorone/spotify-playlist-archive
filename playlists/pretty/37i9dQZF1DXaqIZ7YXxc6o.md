@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: STÜM, X & Ivy
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,417 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,424 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 35 | [Hot Off The Press](https://open.spotify.com/track/5QvU5Fm4JqHuHBTQa0POuP) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Hot Off The Press](https://open.spotify.com/album/4mg8xyECbr5wE9owcdZcid) | 3:42 |
 | 36 | [ICON](https://open.spotify.com/track/1sIyNKM27fUisrTQr5AWo6) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Marko East](https://open.spotify.com/artist/1NwfWMcgvBm7dhofhmwtzi), [TruthIzMagic](https://open.spotify.com/artist/5fNMpFFNjDxXA0y7qMIk7u) | [ICON](https://open.spotify.com/album/3ndVRqEcpcSxJLmMaQq7Dg) | 2:55 |
 | 37 | [LOUDER](https://open.spotify.com/track/4cPeIoEz3nKshMqLKgTAfw) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [LOUDER](https://open.spotify.com/album/6KaKo7Oly6T03KRaoTDMCa) | 3:22 |
-| 38 | [Forever In My Room](https://open.spotify.com/track/2tcgn3gjLlXKhrNqu62oAK) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Forever In My Room](https://open.spotify.com/album/2vdgCzFGdAg8F27POdhjwY) | 3:25 |
+| 38 | [Forever In My Room](https://open.spotify.com/track/2tcgn3gjLlXKhrNqu62oAK) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Soul Vision](https://open.spotify.com/artist/54ahe96ueo2AyzYkkjyJxf), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Forever In My Room](https://open.spotify.com/album/2vdgCzFGdAg8F27POdhjwY) | 3:25 |
 | 39 | [No One](https://open.spotify.com/track/5J72L91na30WRBYaCokV8i) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [No One](https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD) | 4:04 |
 | 40 | [XTC](https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Melomaniac 003](https://open.spotify.com/album/5EzpGctzHsFSKTRUU1bvOD) | 2:37 |
 | 41 | [That Boy's Not Nice](https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [That Boy's Not Nice](https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F) | 3:18 |

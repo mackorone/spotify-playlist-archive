@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Thalles Roberto
 
-3,013 songs - 10 day 14 hr 3 min
+3,014 songs - 10 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2584,6 +2584,7 @@
 | [Te Amo Ó Deus](https://open.spotify.com/track/1KKuNYqjSX2U44DIUlQwi1) | [Filhos Do Homem](https://open.spotify.com/artist/5uqXYOj8qLauhMmEmpdLkl), [FLAME](https://open.spotify.com/artist/3ZbEYQq9lafzy0B2ipYZkq) | [Te Amo Ó Deus](https://open.spotify.com/album/3d7P7y5avgp6NTpaDcTS1t) | 3:05 | 2025-10-31 | 2025-11-28 |
 | [Te Amo, Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/03rp1BMHAODIfnCUyY7ZfH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Te Amo, Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/1iTqTLsqHqoiSnegmU6fUr) | 5:53 | 2025-08-29 | 2025-09-12 |
 | [Te Buscar \- Ao Vivo](https://open.spotify.com/track/59rwAvzlaccYUeDIJKoSHQ) | [Juninho Cassimiro](https://open.spotify.com/artist/4VoIuDV63tIoFLJupNb59S), [Banda Arkanjos](https://open.spotify.com/artist/0CnOvXczUvMvqrmfwQpIW9) | [Te Buscar \(Ao Vivo\)](https://open.spotify.com/album/5zHV1oTsZisLOblTfzplDn) | 6:00 | 2025-05-16 | 2025-05-23 |
+| [Te Conhecer \- Ao Vivo](https://open.spotify.com/track/2V0IV80c1oOWLIfqplEUIq) | [Samuel Dias](https://open.spotify.com/artist/0hJ3Y7nOHR6ibLnMABe3TK) | [Te Conhecer \(Ao Vivo\)](https://open.spotify.com/album/58L3DuNws2BgFpmZ3OOJCE) | 7:41 | 2025-12-19 |  |
 | [Te Damos Glória \- Ao Vivo](https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Te Damos Glória \- Ao Vivo](https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2) | 6:28 | 2024-09-06 | 2024-09-21 |
 | [Te Encontrei](https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Te Encontrei](https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz) | 3:04 | 2023-10-13 | 2023-11-04 |
 | [Te Encontrei \- Live in Miami Beach](https://open.spotify.com/track/5d37gdtbx0rcQdJEihkhwS) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Te Encontrei \(Live in Miami Beach\)](https://open.spotify.com/album/3wGOalS4wdM34FATbntjnR) | 2:51 | 2023-12-22 | 2024-01-06 |
@@ -2926,7 +2927,7 @@
 | [Você Vai Viver pra Ver \- Ao Vivo](https://open.spotify.com/track/7IqgtuvWGyggovWtdeBSUt) | [Samuel tayrone](https://open.spotify.com/artist/2qYhZgZgp0Td46oX5U08WS) | [Você Vai Viver pra Ver \(Ao Vivo\)](https://open.spotify.com/album/7u8qDoTfa9Uu2ZDLFaqoqu) | 4:42 | 2025-06-06 | 2025-06-20 |
 | [Você é Diferente](https://open.spotify.com/track/3RnnXaFYK8e2aXBtOMcL8i) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Você é Diferente](https://open.spotify.com/album/64lNgtkFumqpn5KXTx3KNK) | 4:15 | 2023-11-24 | 2023-12-23 |
 | [Você É Especial](https://open.spotify.com/track/6jKYiVZGalykFmxhPH3vlC) | [Hinos Vip](https://open.spotify.com/artist/5aG7w8Gmf8z75ny9VOTdb9), [Renan Matheus](https://open.spotify.com/artist/3f8HAW3PnzWyVA0Ehzqfub), [Ariella Nunes](https://open.spotify.com/artist/6XzfIuTM9pjmRShSxNcxLL) | [Você É Especial](https://open.spotify.com/album/7nhJSEGOnCsQofzOova1Lp) | 4:53 | 2025-05-02 | 2025-05-16 |
-| [Você É Especial \- 30 Anos \- LEGADO \- Ao Vivo](https://open.spotify.com/track/0pZ1k8mMKKt9aRMfrXjkga) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [](https://open.spotify.com/album/null) | 6:09 | 2025-12-19 |  |
+| [Você É Especial \- 30 Anos \- LEGADO \- Ao Vivo](https://open.spotify.com/track/0pZ1k8mMKKt9aRMfrXjkga) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [30 Anos \- LEGADO \(Ao Vivo\)](https://open.spotify.com/album/0Eqs6Omp6RJD1wK55a5zrh) | 6:09 | 2025-12-19 |  |
 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 | 2025-05-23 | 2025-06-06 |
 | [Você é Precioso \(Ao Vivo\)](https://open.spotify.com/track/28W8GrzYOcaWHZaOYNvGjx) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Você é Precioso \(Ao Vivo\)](https://open.spotify.com/album/5dMUnXVz6THr63Alxdxmv3) | 3:44 | 2023-08-04 | 2023-08-19 |
 | [Volta](https://open.spotify.com/track/2hiZAkFIMb2gkxDOyAlmTd) | [Gabriel Kzam](https://open.spotify.com/artist/3yxZ1kM9oBVGQroZoP694k) | [Volta](https://open.spotify.com/album/36XSUOdWIKRXrGvybqsDMn) | 5:10 | 2023-08-18 | 2023-09-02 |

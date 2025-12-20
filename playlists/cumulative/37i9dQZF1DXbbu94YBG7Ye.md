@@ -2,7 +2,7 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> 📸 ROSALÍA
+> 📸 Airbag
 
 639 songs - 1 day 9 hr 12 min
 

@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Goodboys, Local Singles and Ryan Shepherd
 
-923 songs - 2 day 1 hr 55 min
+924 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-10-07 | 2022-10-29 |
 | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Shahay](https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Come Again \(feat\. Scrufizzer\)](https://open.spotify.com/album/0imeEEICV87asg6t6YTv9z) | 4:16 | 2022-01-14 | 2022-02-26 |
 | [Come Back to Me](https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Come Back to Me](https://open.spotify.com/album/0eILQbXrlfdGPAWWmDAjM5) | 3:37 | 2022-12-09 | 2023-05-13 |
+| [Conceited \- What The Fuck](https://open.spotify.com/track/1Q0pG9JMCGpJ6uyFC9GvkZ) | [BEAUMONT](https://open.spotify.com/artist/2WqpiFf7QEVviSgnMrzalX), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Conceited \(What The Fuck\)](https://open.spotify.com/album/0OnIWNEf4e67017mDy2uoM) | 2:36 | 2025-12-19 |  |
 | [Confutatis](https://open.spotify.com/track/236LPBhqAW5yLPQsnmQT8v) | [HUMANSION](https://open.spotify.com/artist/6VN0cbu6VBJn4RMPNDWsma), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Confutatis](https://open.spotify.com/album/67h4xo4lncLs001oKEErC4) | 3:12 | 2025-08-29 | 2025-09-27 |
 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-25 | 2025-09-13 |
 | [Control Myself](https://open.spotify.com/track/0bvLAKIxesW6datVfezQ1Z) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Control Myself](https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U) | 4:09 | 2025-08-01 |  |
@@ -336,7 +337,7 @@
 | [Give Me A Dub](https://open.spotify.com/track/6FkQzlk7Z5n6wcq1FCa3Cr) | [Matsu](https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U) | [Give Me A Dub](https://open.spotify.com/album/1CCLUfUFMd6BTEYmjDjPkY) | 3:35 | 2025-08-29 | 2025-10-11 |
 | [Gladiator](https://open.spotify.com/track/6ecgqoYRp0sAu0WoWhctQb) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Def3](https://open.spotify.com/artist/6kqN8RoL2VpRM8EgGwHiHG) | [Gladiator](https://open.spotify.com/album/1syBtYI0asFIInNYjw7bNI) | 2:16 | 2023-12-08 | 2024-02-11 |
 | [Go Again](https://open.spotify.com/track/4t2tX7m8SPhCtvgQ1w3iRo) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Go Again](https://open.spotify.com/album/4hXIrgyYASAus2Ms0GQx0E) | 2:10 | 2025-05-09 | 2025-06-28 |
-| [Go Mode](https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Go Mode](https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG) | 3:52 | 2025-06-27 |  |
+| [Go Mode](https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ), [Blookah](https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Go Mode](https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG) | 3:52 | 2025-06-27 | 2025-12-20 |
 | [GOD IS A GENTLEMAN](https://open.spotify.com/track/7hGTUmwwBsKZNErW9chlll) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [GOD IS A GENTLEMAN](https://open.spotify.com/album/53PuP9zRXP4d7e8VpC6XGU) | 3:10 | 2024-11-08 | 2025-01-18 |
 | [Godless](https://open.spotify.com/track/1LLQXqalVEKNTkga1WHrx9) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [Godless](https://open.spotify.com/album/3JbJ3sGuHEl4EY4Q3EhB6w) | 3:25 | 2023-12-01 | 2024-02-10 |
 | [Going Insane](https://open.spotify.com/track/6d8XSByw7I0sUYFymPtsD8) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Eyes Wide Open](https://open.spotify.com/album/3zgSMDDYMuWQJihpF9SFQX) | 3:51 | 2023-11-10 | 2024-03-09 |

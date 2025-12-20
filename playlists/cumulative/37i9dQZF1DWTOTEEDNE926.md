@@ -2,15 +2,15 @@
 
 ### [Rica, Latina y Famosa](https://open.spotify.com/playlist/37i9dQZF1DWTOTEEDNE926)
 
-> las mujeres ya no lloran ✨ Maria Becerra en portada.
+> las mujeres ya no lloran ✨ Cazzu en portada.
 
-173 songs - 8 hr 18 min
+175 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$$$ mis lágrimas](https://open.spotify.com/track/5qj3yJlsxm8ChVxg3ws3AJ) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [me estoy volviendo loca \(deluxe\)](https://open.spotify.com/album/5KLB5YwjF66uqMIY35lsHV) | 3:00 | 2025-07-04 | 2025-08-23 |
 | [1TRAGO](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-11-29 | 2025-03-08 |
-| [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 | 2025-10-17 |  |
+| [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 | 2025-10-17 | 2025-12-20 |
 | [A la de Lu](https://open.spotify.com/track/0s9vW98Z7g7fIrlFhzRHyu) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Sagitario](https://open.spotify.com/album/3NyaxrncxQzgN4IZiELlag) | 2:44 | 2025-03-28 | 2025-04-26 |
 | [A MI LAO](https://open.spotify.com/track/63xwzzlwHT7MFYiYdhptfa) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [A MI LAO](https://open.spotify.com/album/2vSjidmKHAZn7YbqMWKwSz) | 3:20 | 2025-03-28 | 2025-04-12 |
 | [Aceita](https://open.spotify.com/track/133ojSiEnlVwecCpvVc1BC) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:07 | 2024-04-26 | 2024-06-22 |
@@ -113,13 +113,14 @@
 | [Mini Mini Falda \- Remix](https://open.spotify.com/track/5CwbTJK9wxNjkwCMxjU6N9) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA), [FANNA](https://open.spotify.com/artist/2RuLO3lRXHK2g8VprcG3w0), [Saga](https://open.spotify.com/artist/7mY2ZD4zAsviFn1bZKClAA) | [Mini Mini Falda \(Remix\)](https://open.spotify.com/album/0B5onCVG7Mb83BR0HINHix) | 3:08 | 2025-04-11 | 2025-05-03 |
 | [Modo Antidepresivo](https://open.spotify.com/track/56x01c0Drtlmd7e0t6G97r) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Modo Antidepresivo](https://open.spotify.com/album/1qYRyF4r6pla84M5LYJy8K) | 2:11 | 2025-04-25 | 2025-05-17 |
 | [MUXAXA](https://open.spotify.com/track/0zNQhDxF7EVm7VUqU7nIBu) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [MUXAXA](https://open.spotify.com/album/6NeWz1m7EndzRGrxiX39KZ) | 1:49 | 2025-08-29 | 2025-09-20 |
+| [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 | 2025-12-19 |  |
 | [Muñecas](https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Muñecas](https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR) | 2:36 | 2023-11-29 | 2025-04-12 |
 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 | 2023-11-29 | 2024-11-30 |
 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 | 2024-06-21 | 2024-10-19 |
 | [N5](https://open.spotify.com/track/2HQWMYkuy8Rm0uweatfe8F) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:34 | 2023-11-29 | 2024-02-16 |
 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 | 2024-06-21 | 2025-03-29 |
 | [Next](https://open.spotify.com/track/0bHUanZ2cT4cuAoCUAw41N) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Next](https://open.spotify.com/album/1dM52LoOekgj3y4W11dNko) | 3:06 | 2023-11-29 | 2024-02-17 |
-| [No Eras Para Tanto](https://open.spotify.com/track/44lL0sZVxO02J4p1IjTrYb) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [No Eras Para Tanto](https://open.spotify.com/album/1bW0N0qXOLZM7jVe969oan) | 2:15 | 2025-11-21 |  |
+| [No Eras Para Tanto](https://open.spotify.com/track/44lL0sZVxO02J4p1IjTrYb) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [No Eras Para Tanto](https://open.spotify.com/album/1bW0N0qXOLZM7jVe969oan) | 2:15 | 2025-11-21 | 2025-12-20 |
 | [No Me Cansare](https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [No Me Cansare](https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ) | 2:42 | 2024-10-18 |  |
 | [No me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [No me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 | 2025-11-28 |  |
 | [NO PARE](https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NO PARE](https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8) | 2:35 | 2023-11-29 | 2024-03-23 |
@@ -129,6 +130,7 @@
 | [Ojitos Chiquititos](https://open.spotify.com/track/3Bly9WOgOmDe72tpi5tRMd) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Ojitos Chiquititos](https://open.spotify.com/album/4NbKw8urGHdrMvYjYUYh9J) | 2:41 | 2024-03-22 | 2024-05-04 |
 | [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 | 2025-04-26 |
 | [ONLINE](https://open.spotify.com/track/66ChRTsE2NVt5wQ1XbEQzQ) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [ONLINE](https://open.spotify.com/album/1yBBV8Gozmhg1xS6AjZ5nV) | 3:32 | 2025-05-16 | 2025-06-21 |
+| [Otro Como Tú](https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Otro Como Tú](https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S) | 3:22 | 2025-12-19 |  |
 | [Paris](https://open.spotify.com/track/1V9AzAObSIoSZ1NwJpwmVB) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [Paris](https://open.spotify.com/album/4HwNgHaz8rVUJQI2N94nTs) | 4:17 | 2025-07-11 | 2025-08-23 |
 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 | 2025-07-04 |  |
 | [PILATES](https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv) | [ARIA BELA](https://open.spotify.com/artist/7Gh928bdEU69S9D6ur5wJz) | [PILATES](https://open.spotify.com/album/3MuMW080QRlLuVNwyNH8BA) | 2:44 | 2025-06-20 |  |

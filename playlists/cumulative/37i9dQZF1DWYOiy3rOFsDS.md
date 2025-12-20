@@ -4,11 +4,12 @@
 
 > Romance a la antigüita con Tornillo y Tony Aguirre en portada.
 
-389 songs - 22 hr 17 min
+391 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [25°37′40″N 100°14′21″O \(Coordenadas\)](https://open.spotify.com/track/4V9RdXgCPb4QOHsBVo9n5C) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [25°37′40″N 100°14′21″O \(Coordenadas\)](https://open.spotify.com/album/6ovZTOAg4im2LfeWLhZI4T) | 2:36 | 2025-10-17 | 2025-11-15 |
+| [A escondidas](https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [A escondidas](https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4) | 3:32 | 2025-12-19 |  |
 | [A Medio Vivir](https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:41 | 2021-10-16 | 2023-02-22 |
 | [A Medio Vivir](https://open.spotify.com/track/5NDejxQNv47VJpLYW0Vlxk) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/74eiAi5Dv3Q9e50I9lpfjD) | 4:42 | 2021-10-16 | 2022-07-29 |
 | [A Punto](https://open.spotify.com/track/0i5Ocz6WdNNK5NAmT4NSEP) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Las Mujeres de Manzanero..\. Mis Nuevos Boleros](https://open.spotify.com/album/4vCLdaO8JOFjxfuN3qEwEe) | 2:58 | 2021-10-16 | 2022-07-28 |
@@ -154,7 +155,7 @@
 | [Historia De Un Amor](https://open.spotify.com/track/7yGP4SDkslqUb4a00pPhpD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Boleros Favoritos](https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2) | 3:54 | 2021-10-16 | 2022-07-29 |
 | [Hola Perdido](https://open.spotify.com/track/5jfNRbOLT0aRlrq4iChbTw) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Hola Perdido](https://open.spotify.com/album/2YnBDgXq5ZrFzD0rZL6fiV) | 3:05 | 2025-02-14 |  |
 | [Hoy No](https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Hoy No](https://open.spotify.com/album/277bMalOjznL9f3X8wtv2A) | 4:02 | 2021-10-16 |  |
-| [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 | 2021-10-16 |  |
+| [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 | 2021-10-16 | 2025-12-20 |
 | [Ilegal](https://open.spotify.com/track/1Bk7sGtQFhHPYoaDH7e9JL) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [Ilegal](https://open.spotify.com/album/3nqo0sYJIme1yMB1Jeykr3) | 3:04 | 2025-07-11 |  |
 | [Improbable](https://open.spotify.com/track/63q0cRDrf9ggONS650fOah) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Improbable](https://open.spotify.com/album/22GqTBokcsZFpo3iIRzHZq) | 2:34 | 2024-05-17 | 2024-08-25 |
 | [Incomprensible](https://open.spotify.com/track/39eazIEoQhjlwg6u29zMnl) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Incomprensible](https://open.spotify.com/album/4zwpvu8E4Ev8iM6V76nnI3) | 3:31 | 2025-07-11 | 2025-12-06 |
@@ -259,7 +260,7 @@
 | [Para Siempre Joven](https://open.spotify.com/track/0bQlZv003vfCrEX7rwPmQo) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Macha](https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz) | [Tótem](https://open.spotify.com/album/1Qev0YLrWPskdmabJ7S9p4) | 3:21 | 2024-09-13 | 2024-11-23 |
 | [Para Sonreír](https://open.spotify.com/track/0XP7Th9tsuEi0wuX9UXznm) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo) | [Para Sonreír](https://open.spotify.com/album/6azaNQiixTpGmS2SeG6O3N) | 3:21 | 2021-10-16 | 2022-04-18 |
 | [Para tu](https://open.spotify.com/track/0xSIPnktUNBmTtE4xrmfXJ) | [Lalo San](https://open.spotify.com/artist/3fHQGl6g2gODc8e9iKDmxr) | [Para tu](https://open.spotify.com/album/4SO9zx0X5TtvHHHAdWCpOj) | 3:06 | 2025-11-28 |  |
-| [Pecado Mortal](https://open.spotify.com/track/4r0gvUdP6KabudCSirhxj5) | [Susana Zabaleta](https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q) | [Pecado Mortal](https://open.spotify.com/album/05VKz27OjRtcTGw1QtW2MP) | 3:07 | 2025-04-25 |  |
+| [Pecado Mortal](https://open.spotify.com/track/4r0gvUdP6KabudCSirhxj5) | [Susana Zabaleta](https://open.spotify.com/artist/7JzK970uwxEKUzYUgMvC3Q) | [Pecado Mortal](https://open.spotify.com/album/05VKz27OjRtcTGw1QtW2MP) | 3:07 | 2025-04-25 | 2025-12-20 |
 | [Pensando en Ti](https://open.spotify.com/track/7EK7rsSLo8vFQp5BXaM2Q1) | [Sophie Dab](https://open.spotify.com/artist/1ZMrCnWHjfB9u0rjGsM1Uj) | [Pensando en Ti](https://open.spotify.com/album/3kB1sI0LNPuCy37KclNQnS) | 2:36 | 2023-09-08 | 2024-02-22 |
 | [Perfidia](https://open.spotify.com/track/3MmpGFsyvd9GbUhI2uKiKk) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:08 | 2021-10-16 | 2023-09-09 |
 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 | 2023-05-05 | 2025-09-20 |
@@ -278,6 +279,7 @@
 | [Por El Resto De Mi Vida](https://open.spotify.com/track/08kCK0cGR1oaOFHotsNyzL) | [Carlos Zaur](https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk) | [Por El Resto De Mi vida](https://open.spotify.com/album/4JkR41pL0UwuXspJCe4pp1) | 3:22 | 2025-07-25 | 2025-09-30 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-27 | 2024-10-12 |
 | [por qué?](https://open.spotify.com/track/1OZ7q6s3bFQmHudLDCOMhX) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [por qué?](https://open.spotify.com/album/3lTL2WgNvjcJ91mIXyYG9V) | 3:49 | 2024-11-22 | 2025-03-29 |
+| [Por Si Mañana No Estoy](https://open.spotify.com/track/3BJKXVM6DY8po3lLP70SE7) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Por Si Mañana No Estoy](https://open.spotify.com/album/6UqYRF2EZCGEcOELkjT6O6) | 3:37 | 2025-12-19 |  |
 | [Por Siempre Lara / Popurrí](https://open.spotify.com/track/5TAIgpzCktJ4NhIkRZk8QU) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Mexicano](https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R) | 5:30 | 2021-10-16 | 2022-07-29 |
 | [Pornocracia](https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:23 | 2024-12-06 |  |
 | [Preso](https://open.spotify.com/track/1HbrJm8GebgXE24ixji0hR) | [Paco de María](https://open.spotify.com/artist/2mbskxBaHE1KFkmul4slY2) | [Una Buena Señal](https://open.spotify.com/album/7K4Skg7SyLMzLhgSXAcoYC) | 3:47 | 2021-10-16 | 2024-03-23 |

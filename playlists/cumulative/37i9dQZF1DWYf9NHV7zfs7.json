@@ -873,6 +873,28 @@
     },
     {
       "album": {
+        "name": "Brilla",
+        "url": "https://open.spotify.com/album/0i7CLRLAnlaelnQKpmQ6Ay"
+      },
+      "artists": [
+        {
+          "name": "Manuel Wirzt",
+          "url": "https://open.spotify.com/artist/27kA8TnszsSYSZDikpz0Ra"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191395,
+      "name": "Brilla",
+      "url": "https://open.spotify.com/track/1tJzEWcLmLpFZ8LFGs4lyW"
+    },
+    {
+      "album": {
         "name": "un mech\u00f3n de pelo",
         "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
@@ -3002,7 +3024,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 188227,
       "name": "La Cobra",
       "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"

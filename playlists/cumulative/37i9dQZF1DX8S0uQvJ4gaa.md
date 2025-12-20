@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> Let’s band together and help kids facing cancer at St\. Jude: musicgives.org\. Cover:  Ella Langley
+> Break them in, wear them out\. Cover: Kameron Marlowe
 
-2,807 songs - 6 day 7 hr 55 min
+2,808 songs - 6 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1874,7 +1874,7 @@
 | [Pill](https://open.spotify.com/track/6pfaZlwCqlzyhZasTMdfxz) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Pill](https://open.spotify.com/album/6FTgNHJaDjNDcTyNEuTGn4) | 4:43 | 2023-09-29 | 2023-11-04 |
 | [Pink Champagne](https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:23 | 2022-06-10 | 2022-08-27 |
 | [Pinto](https://open.spotify.com/track/3OddtSTZ5AA8bqCyeTGkgi) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Pinto](https://open.spotify.com/album/6MFwWgLxDbXRc61AOuLePn) | 3:00 | 2022-12-09 | 2023-02-18 |
-| [Pipe Dream](https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Disappearing Days](https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY) | 2:41 | 2025-11-07 |  |
+| [Pipe Dream](https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Disappearing Days](https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY) | 2:41 | 2025-11-07 | 2025-12-20 |
 | [Platonic](https://open.spotify.com/track/4qbfKWLMnYXdhhQ8Q3uRXn) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Platonic \- EP](https://open.spotify.com/album/5PTYUWCgYe6GlmctKST07R) | 2:31 | 2019-09-22 | 2019-11-09 |
 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 | 2023-09-29 | 2023-11-04 |
 | [Poor Me](https://open.spotify.com/track/3ImJV8rivYg7v5WShbvveG) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Poor Me](https://open.spotify.com/album/0cSvpIDp6SbThNmeSFpNLP) | 2:41 | 2020-03-02 | 2020-05-16 |
@@ -2342,6 +2342,7 @@
 | [The Crown](https://open.spotify.com/track/2CskTD2zFiMoQWlcumDQq2) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [The Crown](https://open.spotify.com/album/3nmB3vXMgoMvJLuM4Ixljw) | 3:20 | 2025-10-17 |  |
 | [The Devil I Know](https://open.spotify.com/track/6Ser4pIAKEoXok7eDJPRK7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/5geTL4f7rXjvO90j9G4B7S) | 3:07 | 2023-11-24 | 2024-06-01 |
 | [The Devil I've Seen](https://open.spotify.com/track/4MLomKQI0oeXO1DeJBiRp2) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Devil I've Seen](https://open.spotify.com/album/1KAXeCYFOrQwZzQlpf0dnI) | 3:23 | 2024-03-22 | 2024-04-19 |
+| [The Devil's Not In Hell](https://open.spotify.com/track/3dKVfdf7d7iB90YfCPBLGw) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [The Devil's Not In Hell](https://open.spotify.com/album/2WZtNmAoengyn0T0fIILek) | 2:58 | 2025-12-19 |  |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-05-27 | 2022-11-12 |
 | [The Easy Part](https://open.spotify.com/track/4jXhn6VdZJ9Em2oQoBCRdL) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [The Easy Part](https://open.spotify.com/album/6igHTjBIaZOADFFNEsRMh3) | 3:36 | 2025-08-01 |  |
 | [the f word](https://open.spotify.com/track/1nRCcVKEMrt29M1go9lMTn) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [the f word](https://open.spotify.com/album/7sjgW2wVDTV2I1GyRkJy1s) | 2:32 | 2025-04-18 | 2025-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,103 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,229 likes - 59 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 55 | [Mesmo Que Seja Eu](https://open.spotify.com/track/71L8EDqOdFU3woxCMVj11B) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:38 |
 | 56 | [Nem Luxo Nem Lixo](https://open.spotify.com/track/5Pn7ldcp8uOZmwPJ3rUf7b) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:05 |
 | 57 | [Saúde](https://open.spotify.com/track/1i01coCdrJQTyTkdY0GClx) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Saúde](https://open.spotify.com/album/5zvIJc4CPmQhafWnvmd9UR) | 5:01 |
-| 58 | [Todo O Amor Que Houver Nessa Vida](https://open.spotify.com/track/175WlvkHzAeMgD2aXEZsiv) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:16 |
-| 59 | [Uns Dias](https://open.spotify.com/track/584A0PrNqDNS5pMmCaCgOm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Bora Bora](https://open.spotify.com/album/6ofQIUpWZIGOB9b7MY26Az) | 4:04 |
-| 60 | [O Beijo Da Mulher Aranha](https://open.spotify.com/track/63vwtGwmDC0oogDnALUg30) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [As Aventuras Da Blitz](https://open.spotify.com/album/40wuumo6MyuWUGBdZwcjGP) | 3:04 |
+| 58 | [Uns Dias](https://open.spotify.com/track/584A0PrNqDNS5pMmCaCgOm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Bora Bora](https://open.spotify.com/album/6ofQIUpWZIGOB9b7MY26Az) | 4:04 |
+| 59 | [O Beijo Da Mulher Aranha](https://open.spotify.com/track/63vwtGwmDC0oogDnALUg30) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [As Aventuras Da Blitz](https://open.spotify.com/album/40wuumo6MyuWUGBdZwcjGP) | 3:04 |
 
-Snapshot ID: `AAAAANoiHqiXSFQq6Nvb9+Az12OnQuGm`
+Snapshot ID: `AAAAAJuPQCmGuQ4VG0oOmSY5BLytFj5z`

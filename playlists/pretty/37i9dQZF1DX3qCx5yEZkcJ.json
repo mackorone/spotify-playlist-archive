@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1480463,
+  "num_followers": 1480394,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/1Nc79l3YOCK7Wc8WX2y9Sb"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 132507,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2KRZS3T0XDqxLh1l3K1DzV"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 139508,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
-        "name": "Spring",
-        "url": "https://open.spotify.com/album/10rAKfkhemf2JeNWocch1A"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "Whatsreal",
         "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 148124,
       "name": "Whatsreal",
       "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "Coquettish Definition",
-        "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Coquettish Definition",
-      "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -1339,18 +1319,22 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "Just a Lullaby",
-        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+        "name": "Coquettish Definition",
+        "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
       },
       "artists": [
         {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Quiet in the Garden",
-      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+      "duration_ms": 193125,
+      "name": "Coquettish Definition",
+      "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
+        "name": "Just a Lullaby",
+        "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Quiet in the Garden",
+      "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/7gSflGtYJSDOcgCfaUEnGE"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "reminisce",
         "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 169074,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2025-12-12 05:26:43",

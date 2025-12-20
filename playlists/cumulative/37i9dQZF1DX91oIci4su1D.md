@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,230 songs - 3 day 1 hr 42 min
+1,231 songs - 3 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Au79](https://open.spotify.com/track/6ZCDcrD8fetYcBmQOrhLfI) | [Koyah](https://open.spotify.com/artist/3ruRvp4imiIkW1LP666jnd), [Leonard A](https://open.spotify.com/artist/5B96LwVo1fnVehzyyxCzYC) | [Au79](https://open.spotify.com/album/55MZcCAnI1bSM9lE4DWV1v) | 3:41 | 2021-12-17 | 2022-07-13 |
 | [Autumn Avenue](https://open.spotify.com/track/45cSMRawie2kyMBPyO7B0F) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb) | [Autumn Avenue](https://open.spotify.com/album/16Jnds3sUuEA6tkhwHap1p) | 3:23 | 2024-10-25 |  |
 | [Avalanche](https://open.spotify.com/track/17GnspHtyyrQRknKvDdT0N) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [Avalanche](https://open.spotify.com/album/6aQVHmfnrKJD5l5hjahHDR) | 3:06 | 2025-09-19 | 2025-12-16 |
-| [Away](https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Away](https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH) | 3:31 | 2025-11-07 |  |
+| [Away](https://open.spotify.com/track/19ofHnEgE8dIOaCthpoo84) | [David Forbes](https://open.spotify.com/artist/3kwdB3aUfg0uneHczX2vTG) | [Away](https://open.spotify.com/album/3jdODA321IZNmGAOTjA2DH) | 3:31 | 2025-11-07 | 2025-12-20 |
 | [Away From You](https://open.spotify.com/track/4DRmet0zFQ4dzQzHRqYbZI) | [Ruben de Ronde](https://open.spotify.com/artist/3q7BRw9D1DupXTONJdr94m), [Kay Wilder](https://open.spotify.com/artist/0ySNFsBXHoZE2NqwM0FCtV) | [Away From You](https://open.spotify.com/album/6Aboyci4QbukIyV93AdcKo) | 3:54 | 2023-10-27 | 2024-10-26 |
 | [Axis](https://open.spotify.com/track/38UsJYw8fM4VZdXEuPW4ae) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Axis](https://open.spotify.com/album/3DmMaVUQ3HHziGdN6jgTde) | 3:24 | 2024-10-25 | 2025-09-27 |
 | [Ayla](https://open.spotify.com/track/6iEKR3AUoOM91SKKFPS1k0) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV), [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Ayla](https://open.spotify.com/album/3agKT48Fj6rcbwwkftFagv) | 3:37 | 2025-01-31 |  |
@@ -1216,6 +1216,7 @@
 | [Wolves](https://open.spotify.com/track/4c5dqZobPfeXGrp9aTwoRJ) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV) | [Wolves](https://open.spotify.com/album/0WwzAHt40B15xecxFwqJO7) | 3:46 | 2024-02-16 | 2024-07-13 |
 | [Won't Give Up](https://open.spotify.com/track/26jQz1uxGLamG6naDNzjD4) | [Supernature](https://open.spotify.com/artist/46svYCPiWA3zQdU0zoO2re) | [Won't Give Up](https://open.spotify.com/album/1C75sxyZq3SXukAbfN7VQl) | 3:52 | 2024-02-16 | 2024-10-26 |
 | [Wonders](https://open.spotify.com/track/6d1AuFOL1YBzLcruapNbZV) | [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [Wonders](https://open.spotify.com/album/4etLZlUR58oKlanessSqAU) | 4:17 | 2022-09-23 | 2024-05-18 |
+| [Worlds Apart](https://open.spotify.com/track/7Gmx3VyoHBVdqoHFqDYcmh) | [Doppenberg](https://open.spotify.com/artist/4wQuZIXFDqWeO8VYJmbajF) | [Worlds Apart](https://open.spotify.com/album/1FoqbOLOodOl0cNOwdFseH) | 3:09 | 2025-12-19 |  |
 | [Would You](https://open.spotify.com/track/0FVU5i5u7LGW220i441HgX) | [Simon Leon](https://open.spotify.com/artist/6kxG8o1NKDFwF6daEHNtzA), [Alexandra Badoi](https://open.spotify.com/artist/4HoXJ3c9TIwcRwnEjIj4a7) | [Would You](https://open.spotify.com/album/2wTFfZFVODYBw0vQsCWwpR) | 3:49 | 2021-12-17 | 2023-02-25 |
 | [Wouldn’t Be Mine](https://open.spotify.com/track/0BLdhHmtdxd3BGR8nSNEI1) | [Eximinds](https://open.spotify.com/artist/2rDzllD1jSxxJCcRX2l55K), [Norni](https://open.spotify.com/artist/6huxF5zlE1RX4sKRUWlEeW), [Michele C.](https://open.spotify.com/artist/1LNN1FMr4icEbmznELNwIE) | [Wouldn't Be Mine](https://open.spotify.com/album/6mcUEqoFKVJT5by20PyFPL) | 3:05 | 2021-12-17 | 2022-09-10 |
 | [XIING \- nilsix Remix](https://open.spotify.com/track/6WN7XybtV4KuVUKbQIoWeP) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm) | [XIING \(nilsix Remix\)](https://open.spotify.com/album/1uTY24jVbm5AYKE8yGUxox) | 2:42 | 2023-12-08 | 2024-10-26 |

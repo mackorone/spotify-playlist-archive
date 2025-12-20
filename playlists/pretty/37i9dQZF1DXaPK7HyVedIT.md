@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,290 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,463 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 11 | [Stay](https://open.spotify.com/track/2R5YtxGWAhclm2sxUSPbm6) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi) | [Stay](https://open.spotify.com/album/4ZfQnMAV3iO6CqlZbLCkpV) | 4:25 |
 | 12 | [Kickback](https://open.spotify.com/track/0TuLNGHdtIpokrteWvJRkI) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Kickback](https://open.spotify.com/album/6dVZExYegXSg282JmchOUK) | 2:01 |
 | 13 | [ELAS](https://open.spotify.com/track/0Qc6ddq83cxZwhhAnjJkNW) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [ELAS](https://open.spotify.com/album/1k8VA8aivYz8KKgvTKIncF) | 3:31 |
-| 14 | [Track 3](https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Pill](https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [O Novo Testamento](https://open.spotify.com/album/6Ry6vnrPB1r5l60AOOT8G2) | 3:29 |
 | 15 | [Le Souffle \- ZAC Remix](https://open.spotify.com/track/20RVBE6G67qWLnoxwNzJQl) | [Fuscarini](https://open.spotify.com/artist/3x6PKBL6iyehZpYPSzsu7R), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Le Souffle](https://open.spotify.com/album/3FCZpuQ9X8xk9FAZRPoM46) | 6:59 |
 | 16 | [Strobe Lights](https://open.spotify.com/track/5p2e47MQVn2YjUz8QbHJhe) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Strobe Lights](https://open.spotify.com/album/188xhKRQE9SGzshNT9kU7L) | 2:33 |
 | 17 | [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:30 |

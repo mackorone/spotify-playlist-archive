@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-962 songs - 1 day 15 hr 43 min
+964 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Magical Birthday Wish](https://open.spotify.com/track/1d96ZT2BOzJyD5A1uWUNqI) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark's Birthday Splash](https://open.spotify.com/album/4X8BvKUJ2Pt5N2NNJm8LvM) | 2:06 | 2025-06-20 |  |
 | [Major Tom \(Coming Home\)](https://open.spotify.com/track/7iIqM6aRzrWFJ54bqRJFNY) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Major Tom \(Coming Home\)](https://open.spotify.com/album/3BlZf2W4J410EXrzHoIDu4) | 3:55 | 2024-07-26 | 2025-03-08 |
 | [Make a Card](https://open.spotify.com/track/1x4me9n59zLrAD1mlmYxGs) | [Bebefinn](https://open.spotify.com/artist/0HOIrKyqmmjsxXIhuIx1Q3), [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Bebefinn 3 \(Pt\. 2\)](https://open.spotify.com/album/0nbreTSoNFYfw1HhpzZaUe) | 3:06 | 2025-01-24 | 2025-07-03 |
+| [Make A Circle](https://open.spotify.com/track/1jG0hW2BHUYczqFDOo0qHA) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Make A Circle](https://open.spotify.com/album/2AwGOykhHXOLmS2c1MF5Dv) | 1:52 | 2025-12-19 |  |
 | [Make a Funny Face](https://open.spotify.com/track/63Q5CyN54WQ6ZSyCQTAoM1) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Make a Funny Face](https://open.spotify.com/album/3jiIk4C1Nt70CuLoVFahg2) | 2:21 | 2024-03-29 | 2024-08-24 |
 | [Make New Friends](https://open.spotify.com/track/023TXy52tzrzfR1JRXx4PL) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Carlitta Durand](https://open.spotify.com/artist/16VW2tIJ6vyhe06xfI3T7t) | [D.A.D](https://open.spotify.com/album/0XwbOQniQkH18ZPTa8em0N) | 4:43 | 2022-04-15 | 2024-01-05 |
 | [Making a Sound with Our Mouth](https://open.spotify.com/track/2hqdY8w9JUQidLBWjoT817) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [Making a Sound with Our Mouth](https://open.spotify.com/album/3DmuvC7R3rDqcGjHeMAbCK) | 2:23 | 2025-01-31 | 2025-07-03 |
@@ -860,6 +861,7 @@
 | [This World Is Your World](https://open.spotify.com/track/6VuvPmM9EXMDyOccV9OKlb) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [Songs from Around the World](https://open.spotify.com/album/45EiHpP5CqWfjZLgPy12Ar) | 2:25 | 2024-04-26 | 2025-03-08 |
 | [Three Little Birds](https://open.spotify.com/track/0EGDSxAX1PpFnEMNO4lqPz) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Three Little Birds](https://open.spotify.com/album/3oKhc5nP7T8LiJVQtEs1MN) | 3:00 | 2024-03-15 | 2024-08-24 |
 | [Three Primary Colors \(feat\. OK Go\)](https://open.spotify.com/track/4uuMLEtSlaeQNc8b6cGDJP) | [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT), [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [3, 2, 1, Go!](https://open.spotify.com/album/04clncMXkS7xIOjl91UTt5) | 1:30 | 2024-09-27 | 2025-03-08 |
+| [Tidying Up](https://open.spotify.com/track/6i0mYUoFNr9C8lCAiMrNsB) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Tidying Up](https://open.spotify.com/album/5VmfyPxJtLZihopuHTeB0K) | 2:08 | 2025-12-19 |  |
 | [Time For Lunch! \- Sped Up](https://open.spotify.com/track/34qmmERcfAw4YnnvVUPQTO) | [Bubble Guppies Cast](https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99), [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [Time for Lunch!](https://open.spotify.com/album/4ZmqHrOUuT7XxQdp8FkYkQ) | 0:15 | 2025-04-11 |  |
 | [Time Out \(Willy Wow Remix\)](https://open.spotify.com/track/1NqWZVJwL4pce7SMWaoeNk) | [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38), [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY) | [Time Out \(Willy Wow Remix\)](https://open.spotify.com/album/4u1UEn7TyL7XsPkN4bHZMk) | 2:57 | 2025-01-31 |  |
 | [Time to Build](https://open.spotify.com/track/7CIqaA1j7F6tOTG5wtUCiQ) | [Imitator Tots](https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I) | [Time to Build](https://open.spotify.com/album/5H7DiEF5EywH5w7QVgAEfy) | 0:57 | 2024-03-15 | 2024-08-24 |

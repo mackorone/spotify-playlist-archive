@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,532 songs - 3 day 16 hr 21 min
+1,533 songs - 3 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -569,6 +569,7 @@
 | [Higher Ground \- Flight Facilities Remix](https://open.spotify.com/track/2L67zkeyUfp5eNYruHau2j) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Higher Ground Remixes](https://open.spotify.com/album/2r6NDBw2dtOsnaiSaQGGzn) | 3:40 | 2019-08-09\* | 2019-09-14 |
 | [Higher Love](https://open.spotify.com/track/3bAKjVIdaQWotDMX4hQxAx) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Higher Love](https://open.spotify.com/album/01op2ks2OALsfMzARFJ95i) | 3:43 | 2019-08-20 | 2020-10-30 |
 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 | 2024-08-23 | 2025-02-08 |
+| [Hindsight \(We Belong With Each Other\)](https://open.spotify.com/track/1zfr2EIFyIu58wYKwUgseS) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Hindsight \(We Belong With Each Other\)](https://open.spotify.com/album/4iaSMP5Fudxr6Fiw1HGKgg) | 3:37 | 2025-12-19 |  |
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2022-08-05 | 2024-04-10 |
 | [Hold Me](https://open.spotify.com/track/2zVvXkIvGus2Q1jjNGR0T2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [ARA](https://open.spotify.com/artist/2hhItOB9DuMhxXkU26wgZK) | [Hold Me](https://open.spotify.com/album/3G2phCWDzdCXGUrUzgzIEB) | 4:18 | 2025-02-07 |  |
 | [Hold Me](https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Hold Me](https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ) | 2:32 | 2025-08-29 |  |

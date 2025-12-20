@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,988 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,980 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 16 | [Christmas Eve Is Here](https://open.spotify.com/track/7wTkUuZ7yaHZOheUigZUR7) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [A Paw Patrol Christmas](https://open.spotify.com/album/6K4uL5D571nElw77DZp4qy) | 0:52 |
 | 17 | [The More The Merrier \- From "Disney Jr\. Music: Minnie's Bow\-Toons: Pet Hotel"](https://open.spotify.com/track/2Kk21PN3bEs3mlmMoXexeu) | [Loly Bea](https://open.spotify.com/artist/53wbAdQyEn3nCtoTSBJnAq), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Holiday Cheer!](https://open.spotify.com/album/6u5gQJBvIIvSifShKnToO0) | 1:20 |
 | 18 | [Rudolph The Rednose Reindeer](https://open.spotify.com/track/4UmIV7V4SLcymzS5Y2jL4f) | [ABC Kids](https://open.spotify.com/artist/6l7J2uM3bM2BCh0tIPhWx8) | [The Most Fun Christmas Album Ever](https://open.spotify.com/album/4DmXPDFuAH2Kk1mNyvfKcu) | 2:31 |
-| 19 | [We Wish You A Merry Christmas](https://open.spotify.com/track/6V6jAO297nIsS45EQRF2Ub) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [ZOË](https://open.spotify.com/artist/55kGWM0ahorhyUnDfaSjVo), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Grover](https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Grundgetta](https://open.spotify.com/artist/1mvANJ3tzmLuTFr8RbD0js), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [We Wish You the Best Christmas Ever!](https://open.spotify.com/album/5CnFmsTGRRFaLA9kyACZIs) | 2:11 |
+| 19 | [We Wish You A Merry Christmas](https://open.spotify.com/track/6V6jAO297nIsS45EQRF2Ub) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [ZOË](https://open.spotify.com/artist/55kGWM0ahorhyUnDfaSjVo), [Abby Cadabby](https://open.spotify.com/artist/6aFmZaY3ydeUcYFXIJqzAT), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Grundgetta](https://open.spotify.com/artist/1mvANJ3tzmLuTFr8RbD0js), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [We Wish You the Best Christmas Ever!](https://open.spotify.com/album/5CnFmsTGRRFaLA9kyACZIs) | 2:11 |
 | 20 | [The First Noel](https://open.spotify.com/track/5891WpczuJHCubTj1uMFnI) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [The First Noel](https://open.spotify.com/album/4hOED2dO6Iq9LnoqpD8sXM) | 2:46 |
 | 21 | [Don't Wake Santa! Christmas Freeze Dance](https://open.spotify.com/track/1gRQLCUveS5399cirAiChY) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Don't Wake Santa! Christmas Freeze Dance](https://open.spotify.com/album/1E1hQcZTzhJUVKpB5VS9BK) | 3:35 |
 | 22 | [Christmas 1,2,3](https://open.spotify.com/track/3wnmgPzO6jFBrf5Le6E6DC) | [Music with Michal](https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc) | [Christmas 1,2,3](https://open.spotify.com/album/4qpEqyPuIPDLTYrOQX6U2w) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 99 | [Winter Wonderland](https://open.spotify.com/track/5oYlVyU6omFwlOR5IUi3Ba) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [30 Best Christmas Songs for Children](https://open.spotify.com/album/0CxmYny82lUsiY9BOPuDuL) | 2:55 |
 | 100 | [Dear Santa, I tried](https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dear Santa, I tried](https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4) | 1:46 |
 
-Snapshot ID: `AAAAAAdSmdvkvJM09XiRPhqu4fWZt5Dq`
+Snapshot ID: `AAAAACKZQABbswhSSh8SELAOxKPDWg/X`

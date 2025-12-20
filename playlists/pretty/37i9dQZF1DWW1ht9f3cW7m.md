@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤<br/>cover: Deyaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,556 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,554 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 79 | [settle](https://open.spotify.com/track/6BjQFAJJRqeI5URGQc5CwT) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL \(forever\)](https://open.spotify.com/album/5shzwC9p2nNFivMx37PFoD) | 2:34 |
 | 80 | [Always Almost Losing You](https://open.spotify.com/track/0MyZNBpfBQ6tMIT5o8DviW) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Always Almost Losing You](https://open.spotify.com/album/3QK8NXU2hlevgUC5Qyv76n) | 2:55 |
 
-Snapshot ID: `AAAAACT/5wy3OIVLxDgP2U4VdIHYkRYG`
+Snapshot ID: `AAAAAMEuV1auU3Q1uOxs2iSUUzWaEd2B`

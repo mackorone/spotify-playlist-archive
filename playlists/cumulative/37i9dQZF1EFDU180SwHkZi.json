@@ -1456,6 +1456,28 @@
     {
       "album": {
         "name": "King Of The Jungle",
+        "url": "https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        },
+        {
+          "name": "David Arkwright",
+          "url": "https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160434,
+      "name": "King Of The Jungle",
+      "url": "https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ"
+    },
+    {
+      "album": {
+        "name": "King Of The Jungle",
         "url": "https://open.spotify.com/album/5sWsG2Z675inKrJTuVq2nS"
       },
       "artists": [
@@ -1470,7 +1492,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 160434,
       "name": "King Of The Jungle",
       "url": "https://open.spotify.com/track/7wEOwZ7aB7AmVaUysX4vXF"
@@ -2686,10 +2708,28 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 174133,
       "name": "Who You Got",
       "url": "https://open.spotify.com/track/0X9o6jKMhQaQxZpYOB9hi0"
+    },
+    {
+      "album": {
+        "name": "Who You Got",
+        "url": "https://open.spotify.com/album/4VpLtpzNLnXzp9IaDWW3Yw"
+      },
+      "artists": [
+        {
+          "name": "Natania Lalwani",
+          "url": "https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Who You Got",
+      "url": "https://open.spotify.com/track/7yoWkmxZfTPk00Y8zNl8wd"
     },
     {
       "album": {

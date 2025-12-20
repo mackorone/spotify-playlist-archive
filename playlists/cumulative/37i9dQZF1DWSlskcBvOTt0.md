@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,045 songs - 3 day 14 hr 53 min
+1,046 songs - 3 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [BroCode](https://open.spotify.com/track/5rxK4yQgpnw4v97HqLCF8x) | [DJ Merlon](https://open.spotify.com/artist/3qFcd2aD9HCbpBO88l0Zff), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [BroCode](https://open.spotify.com/album/2egiSb7hCQbA8JN6KX2q1B) | 4:59 | 2024-01-12 | 2024-04-19 |
 | [Broken Glass \- Edit](https://open.spotify.com/track/6uwbzJi0VR7IiHyOCILJpn) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Broken Glass \(Edit\)](https://open.spotify.com/album/1RAYsaN6abWtkeHRxHP7qY) | 3:08 | 2025-03-07 | 2025-04-14 |
 | [Burn The Night](https://open.spotify.com/track/2qIAl1Pzgf2xT6cL2jwGMu) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Philou Louzolo](https://open.spotify.com/artist/4zCYbkxFSNb6T2D2vFSg6C) | [Burn The Night](https://open.spotify.com/album/1bKCKiIuGPMfmu7tWFcTjS) | 3:36 | 2025-03-07 | 2025-03-28 |
-| [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 | 2025-03-07 |  |
+| [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 | 2025-03-07 | 2025-12-20 |
 | [Butterflies \- KILIMANJARO Remix](https://open.spotify.com/track/2Hjbw5eWzfVuqPHdj80sJw) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [Butterflies \(KILIMANJARO Remix\)](https://open.spotify.com/album/0K23HHahyBa4YhvfsGIY5T) | 3:43 | 2025-04-25 | 2025-06-14 |
 | [Báilame](https://open.spotify.com/track/1PuSX4DWNVeND5BqOYehrI) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Báilame](https://open.spotify.com/album/3IVUOxF3fzVUdkeAIyo0a0) | 5:43 | 2024-12-20 | 2025-03-10 |
 | [Bécane \- Kimotion x Quentro & Tuna Remix](https://open.spotify.com/track/2u5u9JBOCUf8jE3pUwMbhb) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Kimotion](https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z), [Quentro](https://open.spotify.com/artist/498rXfK2XugLjv0QoULMmi), [Tuna](https://open.spotify.com/artist/58T7Bi0cRiCP8XL5w2lAup) | [Bécane \(Kimotion x Quentro & Tuna Remix\)](https://open.spotify.com/album/2qU1STlRzIGGZ1f4oEGPiO) | 3:33 | 2024-07-05 | 2024-09-07 |
@@ -523,6 +523,7 @@
 | [Losing My Religion](https://open.spotify.com/track/1Uh8i82ux3YOdxf44lAl7K) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/6neciC9YnnlAN6irdMO1yA) | 4:28 | 2023-05-05 | 2023-06-03 |
 | [Losing My Religion](https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK) | 4:28 | 2023-06-02 | 2024-04-19 |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-04-19 | 2023-09-30 |
+| [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 | 2025-12-19 |  |
 | [Lost In The Desert](https://open.spotify.com/track/2RNrddOJ8ABDSNIyqCwg25) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF) | [Lost In The Desert](https://open.spotify.com/album/3Dl447qI0KgKOwhVMagDQC) | 4:24 | 2024-11-08 | 2024-11-14 |
 | [Lost In The Mellow Circus](https://open.spotify.com/track/490WOBHMpwktztXilZOcdr) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU) | [Lost In The Mellow Circus](https://open.spotify.com/album/3tOkdgrgsPOSs91djzWoh5) | 3:12 | 2025-11-28 |  |
 | [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-02 | 2023-09-30 |

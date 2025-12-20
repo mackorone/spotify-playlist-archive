@@ -10063,6 +10063,28 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5ag8g1wUpfwNGb3npSb4jx"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/33iOAKRA2RmRPz8VjbHUib"
+    },
+    {
+      "album": {
         "name": "Flow Da Pele",
         "url": "https://open.spotify.com/album/0bWWTVcKQ258Ur1cuxRY7V"
       },
@@ -13100,6 +13122,28 @@
       "duration_ms": 147957,
       "name": "Quem Tava L\u00e1",
       "url": "https://open.spotify.com/track/6abR6CXnPYv0iEo2cWQRng"
+    },
+    {
+      "album": {
+        "name": "Quem \u00c9 Voc\u00ea ?",
+        "url": "https://open.spotify.com/album/2PAOTuYYVflDdkiQ7HNf2H"
+      },
+      "artists": [
+        {
+          "name": "Gyylo",
+          "url": "https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS"
+        },
+        {
+          "name": "OrdinaryJoe",
+          "url": "https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121517,
+      "name": "Quem \u00c9 Voc\u00ea ?",
+      "url": "https://open.spotify.com/track/0XLbjpLEfZmvF0rTl51plG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,557 likes - 152 songs - 8 hr 10 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,552 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 151 | [The Rebel Jesus](https://open.spotify.com/track/1fEyQ3bU4ubd2HtAxinjg6) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow of Light \(Deluxe Edition\)](https://open.spotify.com/album/3PTp8AB3JTppmkaUBBR3GY) | 4:09 |
 | 152 | [Santa Slide](https://open.spotify.com/track/0FOBjG6E1MUNmdnBbVsPNM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Santa Slide](https://open.spotify.com/album/2cWjMJQ1AnWc6ofqTGYHCG) | 4:04 |
 
-Snapshot ID: `AAAFKqAo780tuQovVhdtLv6MwYw5UR+v`
+Snapshot ID: `AAAFLI8mI26dc/nR1YLk1hT5NZyMVA6l`

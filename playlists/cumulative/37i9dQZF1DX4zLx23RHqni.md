@@ -2,14 +2,14 @@
 
 ### [Tamil Indie : Romance](https://open.spotify.com/playlist/37i9dQZF1DX4zLx23RHqni)
 
-> Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Stephen Zechariah, Priya Jerson
+> Explore the Romantic side of Tamil Indie! <br/><br/>Cover: Amrit Ramnath
 
-96 songs - 6 hr 9 min
+97 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 | 2024-06-19 |  |
-| [Aasa Malli](https://open.spotify.com/track/1RYMjs2HX9rVIcM5AjueRt) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [Aasa Malli](https://open.spotify.com/album/5HkwcdH3bgI7ATBRteLAwx) | 3:06 | 2024-04-01 |  |
+| [Aasa Malli](https://open.spotify.com/track/1RYMjs2HX9rVIcM5AjueRt) | [Saisharan](https://open.spotify.com/artist/3SacyJu97cFJNxXbVNuzg3), [Aravind Karneeswaran](https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi) | [Aasa Malli](https://open.spotify.com/album/5HkwcdH3bgI7ATBRteLAwx) | 3:06 | 2024-04-01 | 2025-12-20 |
 | [Aasai Thathumbucha \(From "Think Specials"\)](https://open.spotify.com/track/32qpRnqNC4J2iEvaQJGdtJ) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q) | [Aasai Thathumbucha \(From "Think Specials"\)](https://open.spotify.com/album/3QYy54XF4blbxaliCTMnsw) | 3:33 | 2021-12-01 | 2023-06-24 |
 | [Adada](https://open.spotify.com/track/57EcEfTJRQ2efmThNJ0l67) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Adada](https://open.spotify.com/album/3dmuN6G2os1B5fZSGdBK6m) | 3:19 | 2025-05-13 |  |
 | [Adi Penne \(Duet\) \- From Naam Series](https://open.spotify.com/track/6XmBh5HSdVzEAaqzEftL9t) | [Stephen Zechariah](https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG), [T Suriavelan](https://open.spotify.com/artist/62pHLcXg1Hp1QaiX3l1IsR), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Adi Penne \(Duet\) \[From Naam Series\]](https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw) | 5:01 | 2021-12-01 |  |
@@ -36,6 +36,7 @@
 | [Hey Singari](https://open.spotify.com/track/5gwIXB335XKUb6tMlGepQv) | [Arul Raj](https://open.spotify.com/artist/3Cfz36JzWoV8SH9pGokECW), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Hey Singari](https://open.spotify.com/album/4WwSfK1gPABCUFctI3Rjts) | 3:51 | 2021-12-01 |  |
 | [Inimel](https://open.spotify.com/track/6PxEQ1dXyhuZQtTClI6TiR) | [Shruti Haasan](https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h), [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6) | [Inimel](https://open.spotify.com/album/3VTNd5Fcti1lc9ASdEpiWz) | 4:00 | 2024-03-26 |  |
 | [Ithuvum Kadanthu Pogum](https://open.spotify.com/track/6E7xTWbbKFH1gHpK0SNCaX) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Hi\-Polar](https://open.spotify.com/artist/5r1MeyZN01dQ963hBaTChW) | [Ithuvum Kadanthu Pogum](https://open.spotify.com/album/7j5BLQoD616UNe6oyD3dUf) | 3:00 | 2024-01-23 | 2024-10-23 |
+| [Jil Jil](https://open.spotify.com/track/5vQRxSEOmr89CThS12hjGU) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [Sanjkayy](https://open.spotify.com/artist/3NNyv2r6An65m0pqfp5kzf) | [Jil Jil](https://open.spotify.com/album/2eNHfiQU5fBHWLjI4C1qD0) | 3:49 | 2025-12-19 |  |
 | [Kaadhal Alaipayuthey](https://open.spotify.com/track/0gn50It1wJxkhAn7IQe5XS) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm) | [Kaadhal Alaipayuthey](https://open.spotify.com/album/4xZOOlqlaIY9CZcwt2Rjjn) | 3:04 | 2024-11-27 | 2025-05-14 |
 | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/track/7Ig3FFPdw2saocwylElPVx) | [Aswath Ajith](https://open.spotify.com/artist/4C56AkIkyjcnR9rB94c6Nz) | [Kaadhalae Thalli Pogadhae \- Single](https://open.spotify.com/album/3ctUBiDN7Wibe8uT6yBmf8) | 3:10 | 2021-12-01 |  |
 | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/track/1Af3YD9ZL83s9hYMk3s8HX) | [Rajasekar\. P](https://open.spotify.com/artist/4luU9WsXlFSO6cEjJ2VHi1) | [Kaadhalae Thalli Pogadhae](https://open.spotify.com/album/7mRoK0kbC9SKdaqXiYE5Wa) | 3:10 | 2021-12-01 | 2024-04-19 |

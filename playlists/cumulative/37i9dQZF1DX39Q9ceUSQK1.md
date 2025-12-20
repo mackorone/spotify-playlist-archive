@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: Thomas Raggi
 
-676 songs - 1 day 15 hr 21 min
+678 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Comic Trip](https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi) | 3:32 | 2024-06-24 | 2024-09-14 |
 | [Compass Will Fracture](https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Compass Will Fracture](https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR) | 3:12 | 2025-04-17 | 2025-07-05 |
 | [Constant Wave On A Rock](https://open.spotify.com/track/3haUjpR8bZdpOy6FNqCjf5) | [The Hickey Underworld](https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam) | [Constant Wave On A Rock](https://open.spotify.com/album/1RsWCfda5CeLJqYCWLGRaQ) | 3:21 | 2025-12-16 |  |
-| [Cool Bottle Water Park](https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky) | [Long Fling](https://open.spotify.com/artist/65R6SYInZyAejg0WNniLhC) | [Cool Bottle Water Park](https://open.spotify.com/album/3T2AH9XZ6Cv7iq3eBFUnzA) | 2:47 | 2025-09-22 |  |
+| [Cool Bottle Water Park](https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky) | [Long Fling](https://open.spotify.com/artist/65R6SYInZyAejg0WNniLhC) | [Cool Bottle Water Park](https://open.spotify.com/album/3T2AH9XZ6Cv7iq3eBFUnzA) | 2:47 | 2025-09-22 | 2025-12-20 |
 | [COUGAR SUGAR \(ft\. BUBU\)](https://open.spotify.com/track/4QHpMKc6AfmnCx2Rt6nuJJ) | [VALS ALARM](https://open.spotify.com/artist/3q1SvFNWA77vrDRqEpgjbS), [BUBU](https://open.spotify.com/artist/4WEZCyaxD43THQtsOCmTAO) | [DON'T PANIC](https://open.spotify.com/album/2pKFTpblKdkRpnle4FmcFb) | 3:19 | 2025-10-28 |  |
 | [Covet](https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb) | 3:22 | 2025-08-29 | 2025-09-19 |
 | [Coyote](https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Coyote](https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8) | 4:04 | 2025-03-21 | 2025-06-06 |
@@ -162,6 +162,7 @@
 | [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 | 2025-09-26 |  |
 | [Don't Forget You Love Me](https://open.spotify.com/track/3PCpcXOeOFSkJORnFuBF4B) | [Calum Hood](https://open.spotify.com/artist/663fZd6uEkPKLwBzPj50S3) | [Don't Forget You Love Me](https://open.spotify.com/album/4ZyeSbYo2RNNTqLtuxahK1) | 3:37 | 2025-04-11 | 2025-06-28 |
 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 | 2024-07-09 | 2024-07-27 |
+| [Don't You Hate Yourself?](https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y) | [Waiting Room](https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc) | [Don't You Hate Yourself?](https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA) | 4:58 | 2025-12-19 |  |
 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 | 2025-09-05 | 2025-09-27 |
 | [Door Is Your Hand](https://open.spotify.com/track/3jU978vJbSEkGa1MgVoHK4) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Door Is Your Hand](https://open.spotify.com/album/3xUbu28xcZCEmyJILTJtON) | 3:38 | 2025-02-17 | 2025-04-26 |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-09 |  |
@@ -169,7 +170,7 @@
 | [Down In My Hometown](https://open.spotify.com/track/2sIg5xHYoAOFLMEI0MED32) | [Paceshifters](https://open.spotify.com/artist/7maCRjdG5xFuQZ7AxINpAN) | [Down In My Hometown](https://open.spotify.com/album/5drfD6csj8c4QUwwnOCPec) | 3:18 | 2024-07-26 | 2024-11-08 |
 | [Down Under Distractions](https://open.spotify.com/track/1PHVBgWKEv2XdXSJ49cG4u) | [The Awkward](https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci) | [Down Under Distractions](https://open.spotify.com/album/6y5qDNEHN6wrvVbjxPvjl7) | 0:58 | 2024-06-24 | 2024-08-31 |
 | [Downwards](https://open.spotify.com/track/4QzU8IMWxU3c9ech5Xg8YA) | [Bongloard](https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow) | [Downwards](https://open.spotify.com/album/5UHRcOCp0VYzkNOfOg4WXw) | 2:53 | 2024-07-11 | 2024-09-06 |
-| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 |  |
+| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2025-09-26 | 2025-12-20 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-10-04 | 2025-01-07 |
 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-29 | 2025-09-27 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-06 | 2025-06-03 |
@@ -299,6 +300,7 @@
 | [If They Could Only Know](https://open.spotify.com/track/1vwFYz45Yw2MVhFLL1k62w) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Never/Know](https://open.spotify.com/album/4ifWQZN7li3ij532LR1l0q) | 3:12 | 2025-05-09 | 2025-07-18 |
 | [If You Would Prove Me Wrong Now](https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [If You Would Prove Me Wrong Now](https://open.spotify.com/album/2O9T2PFFsswlLkoe9dkh0q) | 3:37 | 2024-09-18 | 2024-12-19 |
 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 | 2024-12-02 | 2025-02-18 |
+| [Imaginary world](https://open.spotify.com/track/5Pvs9apPxuhYXXCVzuyQgj) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Imaginary world](https://open.spotify.com/album/57hGlrvRCDJciCwOpHr6tM) | 2:53 | 2025-12-19 |  |
 | [IMAGINE](https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IMAGINE](https://open.spotify.com/album/7IEua4tyaqNGlJkeh96kgH) | 2:20 | 2025-04-11 | 2025-06-28 |
 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 | 2024-11-22 | 2025-02-04 |
 | [In The Middle](https://open.spotify.com/track/2ppTMGPJmFGAB3AI59pGTc) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [In The Middle](https://open.spotify.com/album/7rzGT09j56l1NZFSGsTp2D) | 6:05 | 2025-07-17 | 2025-09-27 |

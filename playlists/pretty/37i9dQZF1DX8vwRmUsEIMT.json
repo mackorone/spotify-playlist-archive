@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: A.G. Cook",
-  "num_followers": 591676,
+  "num_followers": 592143,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPADqRn3FKEVz3cjrpp1UkDX5HpR",
+  "snapshot_id": "AAAAAB/inoSL+Z4nuJF7yGcmNCqpwaJF",
   "tracks": [
     {
       "added_at": "2025-12-19 00:00:36",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
     },
     {
+      "added_at": "2025-12-19 09:17:50",
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/6itPCD7uqpW0SNhwFO9UJD"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "duration_ms": 169988,
+      "name": "SAVE ME",
+      "url": "https://open.spotify.com/track/5xmxThQHMqYRItILkCiHIP"
+    },
+    {
       "added_at": "2025-12-19 00:00:36",
       "album": {
         "name": "People Watching (Deluxe Edition)",
@@ -411,6 +427,22 @@
       "duration_ms": 260240,
       "name": "Cry Against The Wind",
       "url": "https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV"
+    },
+    {
+      "added_at": "2025-12-19 00:00:36",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "added_at": "2025-12-19 00:00:36",

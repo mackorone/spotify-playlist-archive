@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-599 songs - 1 day 6 hr 54 min
+601 songs - 1 day 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Pink Noise for HRV](https://open.spotify.com/track/1NqdYSaZHD8MD7ojZ5rkCz) | [Pink Drift](https://open.spotify.com/artist/1sstuT7ZXtGHzymk3hra0a) | [Pink Noise Sleep Therapy](https://open.spotify.com/album/2oWjqrwz8SsAnYhscmp22M) | 2:46 | 2025-12-09 |  |
 | [Pink Noise for my Dreams](https://open.spotify.com/track/5lK6pipDunQ1g4YGcsighC) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise Snooze](https://open.spotify.com/album/4zBsglZYkFKRLCrLUPu0cP) | 3:21 | 2022-06-27 | 2023-03-18 |
 | [Pink Noise for my Nap](https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:32 | 2022-08-02 |  |
+| [Pink Noise for my Soul](https://open.spotify.com/track/3v4kFsrw1MvMINt5EX052q) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Pink Noise for my Soul](https://open.spotify.com/album/5RLvHX31HwU7rAoUVwulYW) | 3:09 | 2025-12-19 |  |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/5EMGZzJMcAhq4D7NT6K0Az) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 2:33 | 2023-03-16 |  |
 | [Pink Noise for Relaxation](https://open.spotify.com/track/4M2YzoOoWpA37BOL8bQjCd) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Noizzze](https://open.spotify.com/album/5oh3UTFF1GZp4lyA7wDTeb) | 3:50 | 2022-06-10 | 2023-03-18 |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/37MIaBZecwUz7mVE6OBGhC) | [The Startups](https://open.spotify.com/artist/6CaGISWlGYn81FIMoHzBTr) | [Pink Noise Calmness](https://open.spotify.com/album/5ZN8DxBt2cUOFW6dxID48Q) | 3:19 | 2022-10-26 | 2023-03-18 |
@@ -362,6 +363,7 @@
 | [Pink Noise for Studying](https://open.spotify.com/track/682hafiLy06GDQyWT74WnG) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Pink Noise for Studying](https://open.spotify.com/album/7LF4enxQrH9dDfe5ne5u24) | 2:50 | 2021-12-01 | 2023-03-18 |
 | [Pink Noise For Sweet Dreams](https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:44 | 2022-10-26 | 2023-03-18 |
 | [Pink Noise for Sweet Dreams](https://open.spotify.com/track/7jB2OXmAvtmVwnjwsAccjn) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Daynapping with Pink Noise](https://open.spotify.com/album/6eF9hnGZI7MQGZsLOxF4r5) | 3:59 | 2022-10-26 | 2023-03-18 |
+| [Pink Noise for the Dreamers](https://open.spotify.com/track/3V5mSraWwUfruXr2rpE6N4) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Pink Noise for the Dreamers](https://open.spotify.com/album/70qsOzBd8f86FmuqZn34CD) | 3:36 | 2025-12-19 |  |
 | [Pink Noise for the Library](https://open.spotify.com/track/26fkLJCAeC1RAZe5aM1pZN) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Pink Noise for the Library](https://open.spotify.com/album/0aBPaD8lU8GpXhRRd1vWOD) | 3:15 | 2023-10-27 |  |
 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/4wbomsLdQTq8c8JCO1uUNL) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 | 2022-06-27 | 2023-02-10 |
 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 | 2022-06-10 |  |

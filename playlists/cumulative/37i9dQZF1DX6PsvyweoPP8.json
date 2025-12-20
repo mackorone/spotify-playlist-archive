@@ -2035,6 +2035,32 @@
     },
     {
       "album": {
+        "name": "De onde vem",
+        "url": "https://open.spotify.com/album/3itXh3uCXtCYEMkPTlkJDi"
+      },
+      "artists": [
+        {
+          "name": "Klauss",
+          "url": "https://open.spotify.com/artist/0bZivyTNoMgVXGCFgiWCUY"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Dom'V\u00ed",
+          "url": "https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "De onde vem",
+      "url": "https://open.spotify.com/track/0L3BQ8icvgYf3rzETOIrbA"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/1ZajUXNUXJDN3mhfheC2WB"
       },
@@ -7080,7 +7106,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 147605,
       "name": "Tipo Kaio Jorge",
       "url": "https://open.spotify.com/track/2qWq97wPkcu72bWkNUyboP"

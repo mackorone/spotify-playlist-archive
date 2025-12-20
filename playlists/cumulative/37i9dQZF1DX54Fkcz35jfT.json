@@ -5639,6 +5639,24 @@
     },
     {
       "album": {
+        "name": "Screaming Newborn Baby",
+        "url": "https://open.spotify.com/album/09nuQw1Ef5RiQ7fK2oSjrE"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "Song About Fat Mike",
+      "url": "https://open.spotify.com/track/1UPe0076tHq77WAd7NMOtD"
+    },
+    {
+      "album": {
         "name": "Song For The Weak.",
         "url": "https://open.spotify.com/album/3ubFGbdCfGAmMBHgwdFua6"
       },
@@ -6178,7 +6196,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 204770,
       "name": "the anomaly",
       "url": "https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed"

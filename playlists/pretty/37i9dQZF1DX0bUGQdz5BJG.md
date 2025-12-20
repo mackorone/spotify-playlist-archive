@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,862 likes - 199 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,894 likes - 199 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 198 | [Southern Lover \(Miss Kentucky\)](https://open.spotify.com/track/1SJjE5AsnmqIkQ3qXDoKzE) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Southern Lover \(Miss Kentucky\)](https://open.spotify.com/album/3hWPUJKf0nJSjBUdACsjGT) | 3:45 |
 | 199 | [To A Beautiful Girl](https://open.spotify.com/track/3vPKzsvwNXttu1jWSSd6YB) | [Joe Jordan](https://open.spotify.com/artist/3agUzpPCDynMkXCQkZYVIv) | [To A Beautiful Girl](https://open.spotify.com/album/5Vq2hKJ4U3h3cvUz1ZAv19) | 2:49 |
 
-Snapshot ID: `AAAAAKAp/iKECbjk3sCSIte6LrCfMZWe`
+Snapshot ID: `AAAAAOHK6ep7/wwF4f6NxCxOaAedpZAj`

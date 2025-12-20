@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain](/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN)
 
-### [Winter Vibes 2025 ](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
+### [Winter Vibes 2026](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,506 likes - 104 songs - 5 hr 54 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,490 likes - 104 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 | 103 | [Shot In The Dark](https://open.spotify.com/track/2TyMvV89TGLv8Xc38rohrO) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Shot In The Dark](https://open.spotify.com/album/0DPhuVtTIJDz3V6OXcbyQ0) | 2:36 |
 | 104 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 |
 
-Snapshot ID: `AAA65Za8ZuH13kSsFfG8ORsAr41orri4`
+Snapshot ID: `AAA66ecFNYuUAJ66F6rmejGHdfwI2vZh`

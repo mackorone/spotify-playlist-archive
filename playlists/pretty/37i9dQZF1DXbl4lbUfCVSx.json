@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 35807,
+  "num_followers": 35820,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -247,38 +247,6 @@
     {
       "added_at": "2025-06-27 04:00:29",
       "album": {
-        "name": "F\u00e8'l Vini Avan",
-        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
-      },
-      "artists": [
-        {
-          "name": "Klass",
-          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Pitit deyo",
-      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
-    },
-    {
-      "added_at": "2025-06-27 04:00:29",
-      "album": {
-        "name": "Ou Gou",
-        "url": "https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF"
-      },
-      "artists": [
-        {
-          "name": "k-dilak mesaje a",
-          "url": "https://open.spotify.com/artist/0V8CG6FzGBvvOEbS2WRMVO"
-        }
-      ],
-      "duration_ms": 279885,
-      "name": "Ou Gou",
-      "url": "https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu"
-    },
-    {
-      "added_at": "2025-06-27 04:00:29",
-      "album": {
         "name": "Douce Tankou Sirop",
         "url": "https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 315924,
       "name": "Douce Tankou Sirop",
       "url": "https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6"
+    },
+    {
+      "added_at": "2025-06-27 04:00:29",
+      "album": {
+        "name": "Ou Gou",
+        "url": "https://open.spotify.com/album/0fuvXt6xRN9kcgG3hhqiPF"
+      },
+      "artists": [
+        {
+          "name": "k-dilak mesaje a",
+          "url": "https://open.spotify.com/artist/0V8CG6FzGBvvOEbS2WRMVO"
+        }
+      ],
+      "duration_ms": 279885,
+      "name": "Ou Gou",
+      "url": "https://open.spotify.com/track/7gFOB1tSGmyyk0ez0boAQu"
+    },
+    {
+      "added_at": "2025-06-27 04:00:29",
+      "album": {
+        "name": "F\u00e8'l Vini Avan",
+        "url": "https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ"
+      },
+      "artists": [
+        {
+          "name": "Klass",
+          "url": "https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n"
+        }
+      ],
+      "duration_ms": 360200,
+      "name": "Pitit deyo",
+      "url": "https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC"
     },
     {
       "added_at": "2025-06-27 04:00:29",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Mark Lux",
+  "description": "Holdin' it down for the westside. Cover: PayGotti",
   "name": "Westside",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 164977,
       "name": "4 Shots Of Your Body",
       "url": "https://open.spotify.com/track/76dnKp2xRcXlW2LFbKlqes"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 201000,
       "name": "50's in the City",
       "url": "https://open.spotify.com/track/55Cht4MPlMbJYN5rF1ZPeo"
@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 183529,
       "name": "best. (feat. Kalan.FrFr & CUZZOS)",
       "url": "https://open.spotify.com/track/6QYm0rw6lKf5auaxhW9Ebz"
@@ -4568,7 +4568,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 174555,
       "name": "BUICK TO BENZ",
       "url": "https://open.spotify.com/track/7xMBdn5yHDQEpiN0x1SIIV"
@@ -7319,6 +7319,32 @@
     },
     {
       "album": {
+        "name": "Parkside Santa 2",
+        "url": "https://open.spotify.com/album/1HHbbDTaC4QR1yiVTGCmxO"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        },
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        },
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144553,
+      "name": "Disappear (feat. Cypress Moreno & Zoe Osama)",
+      "url": "https://open.spotify.com/track/6FBldckQVOuNPFCtylOz7m"
+    },
+    {
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
       },
@@ -7566,7 +7592,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 164713,
       "name": "Doing My Best",
       "url": "https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R"
@@ -15253,6 +15279,24 @@
     },
     {
       "album": {
+        "name": "KEEP CALLING ME",
+        "url": "https://open.spotify.com/album/4i0NT8SGhbbC70UwPbvnOY"
+      },
+      "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191059,
+      "name": "KEEP CALLING ME",
+      "url": "https://open.spotify.com/track/7IOVvG3ImS0TIevyGttbgh"
+    },
+    {
+      "album": {
         "name": "BABYST5XNE GORILLAS",
         "url": "https://open.spotify.com/album/63ypakNyLDCYERVQz17caO"
       },
@@ -20621,6 +20665,36 @@
     },
     {
       "album": {
+        "name": "One Of Them (feat. DW FLAME)",
+        "url": "https://open.spotify.com/album/7c6dTBntfBcK6QoYA5SCoz"
+      },
+      "artists": [
+        {
+          "name": "Frisco Chuck",
+          "url": "https://open.spotify.com/artist/0EJ1PJOTZJgAacXpyyCXqy"
+        },
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        },
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        },
+        {
+          "name": "DW FLAME",
+          "url": "https://open.spotify.com/artist/1aQRe18EFgH0nxSm9bmo4v"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255326,
+      "name": "One Of Them (feat. DW FLAME)",
+      "url": "https://open.spotify.com/track/6qGAap220sKcRNgVI7C692"
+    },
+    {
+      "album": {
         "name": "One of Those (feat. Eric Bellinger)",
         "url": "https://open.spotify.com/album/00uubRZtJFzz0eJx863yhb"
       },
@@ -21766,6 +21840,24 @@
       "duration_ms": 230000,
       "name": "Pelicans",
       "url": "https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j"
+    },
+    {
+      "album": {
+        "name": "PERMANENT TEARS",
+        "url": "https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "PERMANENT TEARS",
+      "url": "https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp"
     },
     {
       "album": {
@@ -28351,6 +28443,24 @@
     },
     {
       "album": {
+        "name": "The Smooth Kind",
+        "url": "https://open.spotify.com/album/58kTEyIKSef1FKxZMnzGeE"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192272,
+      "name": "The Smooth Kind",
+      "url": "https://open.spotify.com/track/4ISmCP4vmCPTW02dgh5rYN"
+    },
+    {
+      "album": {
         "name": "The Soul Pt. 3",
         "url": "https://open.spotify.com/album/4YWmTUNhDr28SBv7wu9uce"
       },
@@ -30195,6 +30305,24 @@
     },
     {
       "album": {
+        "name": "Watch It Burn",
+        "url": "https://open.spotify.com/album/5YNn4y6IkGRXsA09zDgG8R"
+      },
+      "artists": [
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Watch It Burn",
+      "url": "https://open.spotify.com/track/32FM8juG27Fst9SqKpxiTx"
+    },
+    {
+      "album": {
         "name": "Watch Out For The Riders",
         "url": "https://open.spotify.com/album/6uXLrvpNq02w33eeH65MN5"
       },
@@ -30548,7 +30676,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 158350,
       "name": "What You Know",
       "url": "https://open.spotify.com/track/25qCgQ917TZLkO8g9Accss"

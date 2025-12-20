@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-308 songs - 14 hr 47 min
+309 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Breathing Slowly](https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 3:05 | 2023-06-09 | 2025-10-16 |
 | [Brought](https://open.spotify.com/track/5soHcUXgM7E34kLB56XnhI) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Brought](https://open.spotify.com/album/7DcDtC9kfNv2cIIweoteUF) | 2:32 | 2025-10-15 |  |
 | [Brown Zafu](https://open.spotify.com/track/54yxkeux1ZvKxmV8lLkoWL) | [Infinity Drifter](https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B) | [Brown Zafu](https://open.spotify.com/album/0G2y6fqQZMiHeAxkM7w3Qu) | 2:33 | 2025-02-10 |  |
-| [Brännö](https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Brännö](https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R) | 2:12 | 2023-06-30 |  |
+| [Brännö](https://open.spotify.com/track/41wFdqenwjhXF5ePYxD4mv) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Brännö](https://open.spotify.com/album/0aD67jjpO2jRneNAqsvh7R) | 2:12 | 2023-06-30 | 2025-12-20 |
 | [Bucolia](https://open.spotify.com/track/19mlhPZJTyZi7uP2dE3MAv) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Bucolia](https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D) | 4:14 | 2023-04-28 | 2025-05-22 |
 | [by our brook](https://open.spotify.com/track/5D2j9P6XAjC1KTHWgCtKCD) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [by our brook](https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB) | 2:36 | 2025-10-24 |  |
 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 | 2025-04-11 |  |
@@ -64,6 +64,7 @@
 | [Dedication To Calm](https://open.spotify.com/track/1VD7Pn1IS8rHixuWExfZp1) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Dedication To Calm](https://open.spotify.com/album/496IgIL2DJaK4f2WOggFJA) | 3:38 | 2023-04-28 | 2024-06-04 |
 | [Deep Forest](https://open.spotify.com/track/2j0KKxNhlqy8Z3A0gj76cV) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Deep Forest](https://open.spotify.com/album/4Ek8PX0GKxTwGEDLbUdpd2) | 2:35 | 2024-02-15 | 2024-04-02 |
 | [Deep Waves](https://open.spotify.com/track/4zXwVwJ9lyE8RS5clgcMog) | [Sink in Calm](https://open.spotify.com/artist/3okr43B0Zj9ydMIOuPrMXX) | [Deep Waves](https://open.spotify.com/album/766NOhts6UUYKkr6TOjn6n) | 3:39 | 2023-04-28 | 2025-02-04 |
+| [Deliberate](https://open.spotify.com/track/48ECJap2Z1jnuTorBMMFZT) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Deliberate](https://open.spotify.com/album/0qkDJ2nXJsNCAoIRQ45AQg) | 3:02 | 2025-12-17 |  |
 | [Domestic Waters](https://open.spotify.com/track/7ssngwB7w7olN4CwMkrDcB) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Domestic Waters](https://open.spotify.com/album/0hsQnSQhjZ00ZtX2JPPFIl) | 3:04 | 2024-10-01 |  |
 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 | 2023-04-28 | 2024-08-24 |
 | [Dream On](https://open.spotify.com/track/79U5R6G2pmBRSSGCjlJmA9) | [Isla Laine](https://open.spotify.com/artist/1MjZBlMMS2FIikJ0klCTUC) | [Dream On](https://open.spotify.com/album/2tlRlrBMx9JpcOUs2C4m4T) | 3:15 | 2023-04-28 | 2025-05-22 |

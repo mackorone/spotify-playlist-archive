@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 
 > yo no tuve herencias ni carrito regalado ✨🧿 Grupo Marca Registrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,218 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,572 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSxJWQl7kBh.md) - [plain]
 | 74 | [Tuesday](https://open.spotify.com/track/2J0MnYyJe5yVpETzvDFBdU) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Tuesday](https://open.spotify.com/album/097u0yAwcEdC4L0J8ZNF2f) | 2:33 |
 | 75 | [Cada Vez](https://open.spotify.com/track/24GVh6re0QrdWrhiu4XNVk) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [Cada Vez](https://open.spotify.com/album/7G7iwKyxTzArIb0xRTCtpx) | 2:15 |
 
-Snapshot ID: `AAAAAHlUOnxTcWyutcDq9o/5m2q4HDB8`
+Snapshot ID: `AAAAAIRYzfnagtpAhQHOkUGy9nKFW4wc`

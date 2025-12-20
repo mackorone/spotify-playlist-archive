@@ -24,6 +24,28 @@
     {
       "album": {
         "name": "333",
+        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181699,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
+    },
+    {
+      "album": {
+        "name": "333",
         "url": "https://open.spotify.com/album/2VOHb02PHjs4bu5qPPy1Dy"
       },
       "artists": [
@@ -38,7 +60,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 181699,
       "name": "333",
       "url": "https://open.spotify.com/track/6xCPeUPZFaQMI3l4GDaAwI"
@@ -672,10 +694,28 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 194820,
       "name": "Naturally",
       "url": "https://open.spotify.com/track/4FNeywK8xKD0SaIpP7TxtA"
+    },
+    {
+      "album": {
+        "name": "333 (Deluxe)",
+        "url": "https://open.spotify.com/album/4cogLi0G1CHWTHCdrU9ujy"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194820,
+      "name": "Naturally - Bonus Track",
+      "url": "https://open.spotify.com/track/5xqcJAWgolCliTJRS7bwps"
     },
     {
       "album": {
@@ -986,10 +1026,28 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 191801,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/4HJYiJvOyBSjkAe7yqA61L"
+    },
+    {
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191801,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/6GAX5G5kNxvCfOkkBWl6Gn"
     },
     {
       "album": {

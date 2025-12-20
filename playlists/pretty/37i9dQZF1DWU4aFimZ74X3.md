@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! （C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,636 likes - 35 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,680 likes - 35 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 9 | [HEARTBEAT](https://open.spotify.com/track/4uWrIclvxHbzEQodrPmX7p) | [Nathalie](https://open.spotify.com/artist/3W8kVE6uZx0cTBIkk3SQc3) | [SUPEREUROBEATpresentsINITIALDDSELECTION](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 5:01 |
 | 10 | [BACK ON THE ROCKS](https://open.spotify.com/track/71vDXik9RZPIueEK69F3p6) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [SUPEREUROBEATpresentsINITIALDDSELECTION](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:48 |
 | 11 | [SAVE ME](https://open.spotify.com/track/6Ee9rv8tUY0SfVhiZS2fqn) | [Leslie Parrish](https://open.spotify.com/artist/0fcQm3RnOXaVsvKtnRp2K8) | [SUPEREUROBEATpresentsINITIALDDSELECTION](https://open.spotify.com/album/1BbK1fKw0xg1HK3G0zVNTW) | 4:32 |
-| 12 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/1ApMxbInC1s0ynRxzbNyy8) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 |
-| 13 | [DANCING](https://open.spotify.com/track/2VECIM9EpMojxBj0sCG9ii) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:46 |
+| 12 | [BURNING UP FOR YOU](https://open.spotify.com/track/71rGEpOqD1jKIl7hp9Lq12) | [Sara](https://open.spotify.com/artist/1ApMxbInC1s0ynRxzbNyy8) | [SUPEREUROBEATpresentsINITIALDDSELECTION2](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:49 |
+| 13 | [DANCING](https://open.spotify.com/track/2VECIM9EpMojxBj0sCG9ii) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr) | [SUPEREUROBEATpresentsINITIALDDSELECTION2](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:46 |
 | 14 | [Dancing \(My Initials 8D\) \- 8D Version](https://open.spotify.com/track/6w68lQhWleUpXPoBg7vgiV) | [Vicky Vale](https://open.spotify.com/artist/51ul5LQ5iulm1O79mwPGbr), [Bratt Sinclaire](https://open.spotify.com/artist/6fGfILwz3C9CSjnMxdWVkO) | [My Initials 8D, Vol\. 1](https://open.spotify.com/album/4AWWjgan3GFZtltp5y6GbX) | 3:26 |
-| 15 | [STAY](https://open.spotify.com/track/1RmCY9iUGv2nylDTjwTI7e) | [VICTORIA](https://open.spotify.com/artist/0RZgO0eMlijXpqFv01hob9) | [SUPER EUROBEAT presents INITIAL D 〜D SELECTION 2〜](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:59 |
-| 16 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 |
+| 15 | [STAY](https://open.spotify.com/track/1RmCY9iUGv2nylDTjwTI7e) | [VICTORIA](https://open.spotify.com/artist/0RZgO0eMlijXpqFv01hob9) | [SUPEREUROBEATpresentsINITIALDDSELECTION2](https://open.spotify.com/album/4E23R1HxpTXaL2Z6SwvHoT) | 4:59 |
+| 16 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPEREUROBEATpresentsINITIALDDSELECTION3](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 |
 | 17 | [Night of Fire \- Extended mix](https://open.spotify.com/track/1c7IRPoWNIMLGrFgit8QXk) | [Niko](https://open.spotify.com/artist/1Lbe0aOyGPpQEwAGJzXPdI), [Bratt Sinclaire](https://open.spotify.com/artist/6fGfILwz3C9CSjnMxdWVkO) | [Bratt Sinclaire Eurobeat Style, Vol.7](https://open.spotify.com/album/74RvRonDKJST69IhQAZ7IS) | 5:18 |
-| 18 | [BEAT OF THE RISING SUN](https://open.spotify.com/track/2cNvVnLsMqgBuI6mBk2fRz) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 4:03 |
+| 18 | [BEAT OF THE RISING SUN](https://open.spotify.com/track/2cNvVnLsMqgBuI6mBk2fRz) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPEREUROBEATpresentsINITIALDDSELECTION3](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 4:03 |
 | 19 | [MIKADO](https://open.spotify.com/track/0WkBt7xRUDmaFVbRRqhk5F) | [Dave Mc Loud](https://open.spotify.com/artist/0mLTgcHMehi9I0PQyqD0a6) | [SUPEREUROBEATpresentsINITIALDSecondStageDSELECTION1](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 6:04 |
 | 20 | [SPEEDY SPEED BOY](https://open.spotify.com/track/4UwmHaExaKIqodksotaoo3) | [Marko Polo](https://open.spotify.com/artist/4acqj1P10gUoGNQetcogFv) | [SUPEREUROBEATpresentsINITIALDSecondStageDSELECTION1](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 5:56 |
 | 21 | [Make Up Your Mind](https://open.spotify.com/track/6v6J9qNQ47qVZwUSnFTrmB) | [ウェイン・L](https://open.spotify.com/artist/2ijGlqErodEn6sjzcfVFl7) | [Super Eurobeat Vol.44 \(Extended Version\)](https://open.spotify.com/album/2BTTGdbnKzFiwy7ck3asPu) | 5:56 |

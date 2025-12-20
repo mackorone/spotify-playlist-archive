@@ -7183,6 +7183,24 @@
     },
     {
       "album": {
+        "name": "HYPNOTIZED!",
+        "url": "https://open.spotify.com/album/6oPFiptQy6LxKWj8JTC3MI"
+      },
+      "artists": [
+        {
+          "name": "noaa!",
+          "url": "https://open.spotify.com/artist/2wsxJN6r2WeTwSpDqeH4ag"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142236,
+      "name": "HYPNOTIZED!",
+      "url": "https://open.spotify.com/track/7MMxOrBVWEwOOwCfoNbISt"
+    },
+    {
+      "album": {
         "name": "I Can Feel",
         "url": "https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn"
       },
@@ -13548,6 +13566,28 @@
       "duration_ms": 236254,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi"
+    },
+    {
+      "album": {
+        "name": "Sky High (Carpe Remix)",
+        "url": "https://open.spotify.com/album/3HHTzFQ2TlsB76sj9FFAfp"
+      },
+      "artists": [
+        {
+          "name": "Elektronomia",
+          "url": "https://open.spotify.com/artist/7qgorhDacy1FRz5HkAhDtu"
+        },
+        {
+          "name": "Carpe",
+          "url": "https://open.spotify.com/artist/5CPcTivbDHvIGrqIIPDOS6"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98255,
+      "name": "Sky High - Carpe Remix",
+      "url": "https://open.spotify.com/track/0V1jnpAo3fSYPX9kOPIDwz"
     },
     {
       "album": {

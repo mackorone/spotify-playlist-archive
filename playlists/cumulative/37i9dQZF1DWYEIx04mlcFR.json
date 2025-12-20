@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Diana Meril en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Nash en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Un Idiota con el Coraz\u00f3n de Oro",
+        "url": "https://open.spotify.com/album/0lwIiOL4dRzL9Cv0FLV4GA"
+      },
+      "artists": [
+        {
+          "name": "Duck Fizz",
+          "url": "https://open.spotify.com/artist/6sk1tzWevukbzNTIDTlhzy"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248941,
+      "name": "Cierra los Ojos",
+      "url": "https://open.spotify.com/track/3oqYSm8Hwq5mGaHTVqaN7p"
+    },
+    {
+      "album": {
         "name": "Ciudad de M\u00e9xico",
         "url": "https://open.spotify.com/album/2vWgcOzbutlMEmBMKDGXF3"
       },
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 183000,
       "name": "Elijo Volar (Oto\u00f1o)",
       "url": "https://open.spotify.com/track/0ATcMjaIw9zDemjRDZYsXW"
@@ -5208,6 +5226,24 @@
       "duration_ms": 162178,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/5ugMXDvnwqRDBGaYbHfIJb"
+    },
+    {
+      "album": {
+        "name": "ferrari",
+        "url": "https://open.spotify.com/album/1YtfFPuIdXnLS0lUjwbGrI"
+      },
+      "artists": [
+        {
+          "name": "bri!!o",
+          "url": "https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162797,
+      "name": "ferrari",
+      "url": "https://open.spotify.com/track/3OCJ6pdAoGBnGLP7mRRVnz"
     },
     {
       "album": {
@@ -6366,6 +6402,24 @@
       "duration_ms": 188035,
       "name": "K\u00e9 MaL",
       "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
+    },
+    {
+      "album": {
+        "name": "La Ayuda",
+        "url": "https://open.spotify.com/album/4gLErL5IchmuKP6He0Fefa"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149741,
+      "name": "La Ayuda",
+      "url": "https://open.spotify.com/track/6kT1BQi9VzESyufRLgg3RL"
     },
     {
       "album": {
@@ -9540,7 +9594,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 250869,
       "name": "normal",
       "url": "https://open.spotify.com/track/5Sl9DQqkVANHgljFrNGqbG"
@@ -11610,7 +11664,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 146829,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t"

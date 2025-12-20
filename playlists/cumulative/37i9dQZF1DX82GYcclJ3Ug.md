@@ -2,9 +2,9 @@
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Vienna Vienna
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Arkells
 
-3,227 songs - 7 day 9 hr 1 min
+3,231 songs - 7 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 | 2025-07-12 |
 | [Bleeding Out](https://open.spotify.com/track/34pz84YLiruFe7K20HE0a1) | [Dylan Cotrone](https://open.spotify.com/artist/7cOcm6mkMpyylbKqBpk8hU) | [Bleeding Out](https://open.spotify.com/album/7IMogO4r3fIOwrESxdxQND) | 2:00 | 2024-09-27 | 2024-11-09 |
 | [blind](https://open.spotify.com/track/0iYYv7euzTEuJ0BlZpjiI6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [blind](https://open.spotify.com/album/3gBJbIQe4XQSiShh6Mgw8n) | 3:30 | 2024-10-04 | 2025-01-18 |
+| [BLIND BY YOUR CARESS](https://open.spotify.com/track/1pF7C24cao0uMT9J9NYMqq) | [DOGMA SOCIETY](https://open.spotify.com/artist/3XtPzew2W9y3D3Uil0Wg8L) | [BLIND BY YOUR CARESS](https://open.spotify.com/album/4mm6TdueORCenDZcdYSnkC) | 2:25 | 2025-12-19 |  |
 | [blindspot](https://open.spotify.com/track/1rju0XLSgmtqpjrrCJxsp4) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [blindspot](https://open.spotify.com/album/5LXixqIRcSzjsHRQkGDooc) | 3:27 | 2023-12-15 | 2024-01-27 |
 | [Blink](https://open.spotify.com/track/22rEAnPqaPscewQeBHVUX4) | [the moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [Blink](https://open.spotify.com/album/5w2sFmpSZoeWlOtMYj3qUD) | 4:25 | 2022-12-16 | 2023-01-28 |
 | [Blister](https://open.spotify.com/track/3InSQjWvh4fKQx1BBiA4Nl) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Blister](https://open.spotify.com/album/1j6EOOgb7OtwaTPu1aA0gi) | 2:59 | 2025-06-06 | 2025-07-26 |
@@ -597,6 +598,7 @@
 | [Color You In](https://open.spotify.com/track/5l5cb3SS61OU1k2zhGD23X) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Color You In](https://open.spotify.com/album/68UjqIFdQTumu4G1YCDWc5) | 3:19 | 2024-08-09 | 2024-10-05 |
 | [Colorado](https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado](https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO) | 2:54 | 2021-11-26 | 2022-03-12 |
 | [Colorado](https://open.spotify.com/track/0vruJpT8IuvBxj9Z7Stm0w) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Colorado](https://open.spotify.com/album/3YwG5jr7mC2EzDtbvgTvL0) | 2:38 | 2024-06-28 | 2024-08-10 |
+| [Colorblind](https://open.spotify.com/track/0qUppLOS48jHPenwEP8JSm) | [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Colorblind](https://open.spotify.com/album/3NarmuODEY0kP7sXt1KsUk) | 3:46 | 2025-12-19 |  |
 | [Colourblind](https://open.spotify.com/track/5q1Zaz0jxxPPrU67ddj0us) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Colourblind](https://open.spotify.com/album/47vmh3q3TOtDdLTJPvd9Yk) | 2:44 | 2024-10-11 | 2025-01-11 |
 | [Comatose](https://open.spotify.com/track/1nrY9vaRGbSu8Oyp5Wlyu1) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Comatose](https://open.spotify.com/album/699HPxSGvoihD45uGQbBYv) | 3:48 | 2023-08-18 | 2023-09-23 |
 | [Come Alive](https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Come Alive](https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm) | 4:13 | 2024-08-23 | 2024-10-19 |
@@ -717,7 +719,7 @@
 | [Deadbeat Blues \(feat\. BEL\)](https://open.spotify.com/track/6oSypjQTWeNzH9rmojTuXW) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD), [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Deadbeat Blues](https://open.spotify.com/album/2OGos6FSDlL5JgeX5LjrQk) | 2:34 | 2024-09-27 | 2024-10-26 |
 | [Deadstick](https://open.spotify.com/track/7LXN0LffItjMb9bq61htdB) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Deadstick](https://open.spotify.com/album/1Rtthlw2GJAUnphEyBy4MT) | 3:33 | 2025-04-18 | 2025-06-07 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-05-31 | 2024-07-27 |
-| [DEATH CULT ZOMBIE](https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [DEATH CULT ZOMBIE](https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je) | 3:36 | 2025-10-31 |  |
+| [DEATH CULT ZOMBIE](https://open.spotify.com/track/0g4pzcUAVSUBUGYzSOXmCd) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [DEATH CULT ZOMBIE](https://open.spotify.com/album/4jeNB0UKUljys3WNSWC4Je) | 3:36 | 2025-10-31 | 2025-12-20 |
 | [Death Do Us Part](https://open.spotify.com/track/4cfydDE0vCCa0MMBd2EPwm) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death Do Us Part](https://open.spotify.com/album/6olQpH499EQGaUWo2ZkNIr) | 2:59 | 2025-03-14 | 2025-05-03 |
 | [Death Grip](https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM), [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Death Grip](https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI) | 3:11 | 2024-06-21 | 2024-07-27 |
 | [Death of Me](https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Death of Me](https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO) | 3:11 | 2025-02-14 | 2025-04-05 |
@@ -1019,7 +1021,7 @@
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2024-08-16 | 2025-01-18 |
 | [Flirting Again](https://open.spotify.com/track/35Gwl5y08cuh99LUlOPyag) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Flirting Again](https://open.spotify.com/album/4nYswRIZBX55w6aTGUSCnS) | 3:02 | 2024-06-28 | 2024-07-19 |
 | [Floating in the Night](https://open.spotify.com/track/6zaoI9cxWGAyozvMU5HLeG) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Floating in the Night](https://open.spotify.com/album/460chVvDygcJD9jvu0FKkl) | 3:41 | 2024-04-05 | 2024-05-11 |
-| [Flood](https://open.spotify.com/track/7mkOTx13FFvCad61vbAIcT) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Flood](https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7) | 3:33 | 2025-09-19 |  |
+| [Flood](https://open.spotify.com/track/7mkOTx13FFvCad61vbAIcT) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Flood](https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7) | 3:33 | 2025-09-19 | 2025-12-20 |
 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 | 2024-11-01 | 2025-01-25 |
 | [Flowers](https://open.spotify.com/track/7ucHXmOqOCw0tohI4vmOZT) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [Talk Talk](https://open.spotify.com/album/3OAeHXReEGUkwcwmrQfvW3) | 3:08 | 2022-07-08 | 2022-09-24 |
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-02-17 | 2023-04-22 |
@@ -1596,6 +1598,7 @@
 | [Let Go](https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Let Go](https://open.spotify.com/album/195upAWApmh2TbhBjUKlAt) | 4:13 | 2023-10-27 | 2024-02-17 |
 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 | 2025-12-12 |  |
 | [Let Me Go \(feat\. Madison Cunningham\)](https://open.spotify.com/track/7nGN1Wu9kCaKUUdqBcY9NZ) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Let Me Go \(feat\. Madison Cunningham\)](https://open.spotify.com/album/52CoE2Gs06mid6NMkGDzLY) | 4:42 | 2025-02-07 | 2025-04-26 |
+| [Let Me Grow and You'll See the Fruit](https://open.spotify.com/track/5SsRe29Ua89yh6vVJHJC6x) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/album/24Ux2vjaotkgNhZvpn29Kk) | 3:09 | 2025-12-19 |  |
 | [Let Me Know](https://open.spotify.com/track/1AyPQN5DvJoe11sE230Pz0) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [Let Me Know](https://open.spotify.com/album/57M2mQfSqEZAPUp1FdU6e1) | 4:06 | 2024-09-06 | 2024-10-05 |
 | [Let The Bad Times Roll](https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:18 | 2022-05-06 | 2022-08-06 |
 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 | 2022-07-29 | 2022-11-05 |
@@ -1821,6 +1824,7 @@
 | [Monday](https://open.spotify.com/track/79aDXRyJXBNVoakoxf3XxP) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Monday](https://open.spotify.com/album/1qegGUZCrP76bSXElyK4TI) | 2:56 | 2024-09-13 | 2024-10-26 |
 | [Monday](https://open.spotify.com/track/5qJOKIrlNVOe4QdhJHS2di) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Monday](https://open.spotify.com/album/4YBN5F8yae1Gkner3Gyost) | 2:56 | 2021-11-26 | 2022-04-02 |
 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 | 2025-04-04 | 2025-06-28 |
+| [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2025-12-19 |  |
 | [Mono No Aware](https://open.spotify.com/track/0uXiUM49olUGEwgfFQpv1y) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [The Liftaway](https://open.spotify.com/album/3DZpknxLN2A2aEJGm617nu) | 4:52 | 2023-11-17 | 2024-01-05 |
 | [Monsters](https://open.spotify.com/track/1rgbDBpQc7weuwqIFm4IbX) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Monsters](https://open.spotify.com/album/0BLxTOtPUCaJK1vCA398nL) | 3:33 | 2023-04-21 | 2023-06-03 |
 | [Monsters](https://open.spotify.com/track/1SRg5WImDS1LbjbWR24Ln4) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Monsters](https://open.spotify.com/album/2NSBVVafbPaqtcTKP5QTqI) | 3:31 | 2025-01-24 | 2025-03-01 |

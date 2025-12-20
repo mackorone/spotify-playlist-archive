@@ -4,7 +4,7 @@
 
 > The ultimate songbook ⏳ feat\. Dolder
 
-641 songs - 1 day 11 hr 49 min
+644 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Back To Me](https://open.spotify.com/track/6NrhdHt3Pv5xMYxdbJ6GSX) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Back To Me](https://open.spotify.com/album/3gdiiWvOT29OdzKATxcgaP) | 3:04 | 2025-06-19 | 2025-08-01 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-13 | 2025-03-14 |
 | [Bad Routines](https://open.spotify.com/track/6wAelB7Ix0nMKi8u2w5CfK) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Bad Routines](https://open.spotify.com/album/2lu27gXHwhFrIgTQSlQZ5K) | 2:13 | 2025-07-24 | 2025-09-20 |
-| [Beautiful Girl](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 3:21 | 2025-08-22 |  |
+| [Beautiful Girl](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 3:21 | 2025-08-22 | 2025-12-20 |
 | [Better for Me](https://open.spotify.com/track/7mfn83Dw7siyQnylYsOaCr) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [OCTOPUS](https://open.spotify.com/album/5dcFnVsq9L8ovRJZxz36yA) | 2:38 | 2025-09-19 | 2025-10-17 |
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-10 | 2025-09-05 |
 | [Big Mouth](https://open.spotify.com/track/5NpAghBCYAYELwgeaIzj0z) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Big Mouth](https://open.spotify.com/album/0ll2OHVzsVRz7vkbZBbiQA) | 2:09 | 2025-05-29 | 2025-09-20 |
@@ -174,6 +174,7 @@
 | [Fight Another Day](https://open.spotify.com/track/5Yz5uJTvZtYcblSvTgzhBG) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/3cMI3AA8VJ0kpooAY6v4ga) | 3:51 | 2025-05-29 | 2025-07-11 |
 | [Fight Another Day \- Edit](https://open.spotify.com/track/6l9q6QHzBIoB9MXfKoUdSB) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Fight Another Day](https://open.spotify.com/album/1yxHJXbOkOHEjYDbICbzte) | 3:37 | 2025-06-12 | 2025-06-27 |
 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 | 2024-10-04 | 2025-03-21 |
+| [Finest Work](https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Bargaining](https://open.spotify.com/album/08yLEdKzlgvqzV6w4k6KWK) | 2:53 | 2025-12-19 |  |
 | [Fire](https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Joi](https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5) | [Fire](https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm) | 3:43 | 2024-10-25 | 2025-02-28 |
 | [Fireflies](https://open.spotify.com/track/7pwxG22XXVflFKaK9NsJeg) | [Gregory Fisher](https://open.spotify.com/artist/7EwrIZd02MITz4MG13gYdY) | [Fireflies](https://open.spotify.com/album/3ZLI6mEiCcVHbEHRmfQ3E1) | 3:14 | 2025-07-24 | 2025-10-03 |
 | [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 | 2025-08-29 |  |
@@ -196,6 +197,7 @@
 | [Friday](https://open.spotify.com/track/5ZZgCoy0Bvg6HUA1PaWzcA) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Friday](https://open.spotify.com/album/6DGrI713EXcK6yTZkjIEQt) | 2:37 | 2024-05-31 | 2024-07-27 |
 | [Friend Like You](https://open.spotify.com/track/3dCj7QrhestztA4yop8xus) | [CHEAPE](https://open.spotify.com/artist/6XvZAMKpQEWPNmAV2DXkFC) | [Friend Like You](https://open.spotify.com/album/3y0ZZ1p8vzZPGL041sa6mr) | 3:11 | 2025-05-15 | 2025-05-30 |
 | [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-10 | 2025-05-03 |
+| [Getting to Know You](https://open.spotify.com/track/67enQoioxtVbPyXPyqAtxL) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Getting to Know You](https://open.spotify.com/album/2SgiwTcFPfYeAorOb3BXJT) | 2:44 | 2025-12-19 |  |
 | [Ghost](https://open.spotify.com/track/7cHC1Nuj4HKiBUoJsNQVpQ) | [Lauren Wallace](https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu) | [Salt Stained Lungs \(Extended\)](https://open.spotify.com/album/7w9BV1fohwgNXOinUjujlc) | 3:29 | 2025-09-19 | 2025-10-24 |
 | [Girl I Know](https://open.spotify.com/track/5CZbwaRgOVee57y0RCH7F6) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Girl I Know](https://open.spotify.com/album/2YAox0fRxzooFIL67Zu3rr) | 3:21 | 2025-11-14 | 2025-12-12 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 | 2025-05-15 | 2025-07-11 |
@@ -311,7 +313,7 @@
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-14 | 2025-10-24 |
 | [Let You Know](https://open.spotify.com/track/77m3w1dVyPGAHj1ZfIAoBk) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Let You Know](https://open.spotify.com/album/1fYoFHhOuL5sfLEWyPAHWk) | 2:54 | 2025-04-03 | 2025-05-03 |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-10-04 | 2025-03-21 |
-| [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 | 2025-08-22 |  |
+| [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 | 2025-08-22 | 2025-12-20 |
 | [Lifeline \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Lifeline \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2ShbtQZa3nadKapi4DCIkV) | 3:47 | 2024-05-31 | 2024-09-14 |
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-16 | 2025-01-31 |
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-05-31 | 2024-07-27 |
@@ -426,7 +428,7 @@
 | [Proceed With Caution](https://open.spotify.com/track/0h9UJciGAeHduQUtJm09PY) | [Tadhg Daly](https://open.spotify.com/artist/59HyKDC9r5zpdyq5eraay1) | [Proceed With Caution](https://open.spotify.com/album/7I8NZ7va9KWR4rh9UfDQYi) | 3:25 | 2025-05-29 | 2025-08-22 |
 | [Put A Little Hurt On Me](https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In? \(Deluxe\)](https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM) | 2:47 | 2024-10-25 | 2024-12-21 |
 | [PVC Divide \(feat\. Anais Mitchell\)](https://open.spotify.com/track/0A52dkDrfK9vH2o0wA9KoA) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM), [Anais Mitchell](https://open.spotify.com/artist/084AFEsE2gjfAU0RxB0caB) | [PVC Divide \(feat\. Anais Mitchell\)](https://open.spotify.com/album/7eJQi5heJRYnNHBXOPSA2i) | 4:02 | 2025-06-05 | 2025-08-01 |
-| [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 | 2025-08-29 |  |
+| [Racecar](https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS) | [Jordan Patterson](https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G) | [Racecar](https://open.spotify.com/album/7j5fmYNhtiNE94h8pQ1YW4) | 5:37 | 2025-08-29 | 2025-12-20 |
 | [Radical Tenderness](https://open.spotify.com/track/126dxlPCG1OTvTar7MAoU4) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Radical Tenderness](https://open.spotify.com/album/2zuENnhVypV5Iu7mDKGanp) | 4:03 | 2025-04-03 | 2025-05-03 |
 | [Raised By A Woman](https://open.spotify.com/track/04ZoA27GtDXp6xGgR55rZu) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Raised By A Woman](https://open.spotify.com/album/3wdKUiNHUOWyC4QJtUjdZG) | 2:32 | 2025-05-09 | 2025-05-23 |
 | [Ready! Steady! Go!](https://open.spotify.com/track/07kIajZ6CvQbDwBJxlZ9A0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Ready! Steady! Go!](https://open.spotify.com/album/1768d1IgXTZWDEhAFIpir1) | 4:56 | 2025-05-15 | 2025-05-23 |
@@ -460,6 +462,7 @@
 | [see you later, for now](https://open.spotify.com/track/7nG5tKzx8cD9HGfEAjJlH5) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [see you later, for now](https://open.spotify.com/album/1yJmJgb0smVa1tWIIu4Osr) | 2:44 | 2025-09-11 | 2025-12-12 |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-05-31 | 2024-08-17 |
 | [Sense Of It All](https://open.spotify.com/track/768cclHepqNEJ8Owh5Ldi1) | [Ewan Sim](https://open.spotify.com/artist/2cISET90u8yaL5n2XlFPP5) | [Sense Of It All](https://open.spotify.com/album/2GAmgwnIxRdIW4RLHOC6WP) | 3:15 | 2025-03-14 | 2025-04-11 |
+| [Seraphim](https://open.spotify.com/track/1zbcGHjssN6Z1d8tbhe4o7) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [Seraphim](https://open.spotify.com/album/2WZgp5tp8UVYXGrteepoZt) | 5:00 | 2025-12-19 |  |
 | [Seven Shades of Blue](https://open.spotify.com/track/2hyN52U8B2A4xGoQSaVDY0) | [Susie Mills](https://open.spotify.com/artist/2QmjpcdPJqL67ovh59ZAUZ) | [Seven Shades of Blue](https://open.spotify.com/album/7xpJnXupUTBF5kNvJQagze) | 4:23 | 2025-10-23 |  |
 | [Shadowboxing](https://open.spotify.com/track/55Ml2qIECJeLRo8qzRnSGO) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Shadowboxing](https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD) | 2:52 | 2025-01-31 | 2025-03-14 |
 | [Shalalala](https://open.spotify.com/track/6tZsiAB6ZnXe5ZO6OJSUic) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Shalalala](https://open.spotify.com/album/0uAuAGhh00zvB1SyomIzdu) | 4:06 | 2025-05-29 | 2025-09-26 |

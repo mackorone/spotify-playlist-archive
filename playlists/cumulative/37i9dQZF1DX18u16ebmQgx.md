@@ -2,9 +2,9 @@
 
 ### [Salsa Colombiana](https://open.spotify.com/playlist/37i9dQZF1DX18u16ebmQgx)
 
-> ¡Brillando baldosa! Foto: Carlos Vives, Grupo Niche
+> ¡Brillando baldosa! Foto: La\-33
 
-140 songs - 10 hr 27 min
+141 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/7C0OfgbApcvYfMJEgfUxyE) | 4:39 | 2023-08-04 |  |
 | [El Coco](https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tierra de Mis Amores](https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR) | 4:01 | 2022-06-24 | 2023-03-25 |
 | [El Diablo](https://open.spotify.com/track/24rWaJaf238EktE0rQrtyj) | [La Radio Bembé Orquesta](https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW) | [El Diablo](https://open.spotify.com/album/29NP640fImq9OjFZRrYmFx) | 4:04 | 2022-11-29 | 2024-11-30 |
+| [El Mecánico](https://open.spotify.com/track/0a4YTcegjQPgpF2Xf0cCJK) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [El Mecánico](https://open.spotify.com/album/5aMyHMTri4C6hUMXk5RU6B) | 5:09 | 2025-12-19 |  |
 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 | 2022-06-24 |  |
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2022-12-02 | 2023-03-02 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/4Agimk8dKdPJD7M6HBCK42) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 5:11 | 2023-03-24 | 2023-07-29 |
@@ -146,7 +147,7 @@
 | [Un Amor Bonito](https://open.spotify.com/track/0OxXwVoPuyoDG20ZKFX93k) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sin Par](https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG) | 4:16 | 2022-06-24 | 2024-04-27 |
 | [Vendedora de Amor](https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [Aqui Estoy](https://open.spotify.com/album/17PeYAzeVDjmS3mP121grU) | 4:35 | 2022-06-24 |  |
 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 | 2022-06-24 |  |
-| [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2024-07-12 |  |
+| [Ya Te Olvidé](https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Ya Te Olvidé](https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0) | 4:15 | 2024-07-12 | 2025-12-20 |
 | [¿Cuándo Será?](https://open.spotify.com/track/0nqzyo9hjDIgYjiJnbd1sl) | [La Ciencia de Juancho Valencia](https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9), [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [¿Cuándo Será?](https://open.spotify.com/album/1qZ4jOJ38d1dfz58TSlPaI) | 4:32 | 2024-07-12 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

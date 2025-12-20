@@ -5249,6 +5249,28 @@
     },
     {
       "album": {
+        "name": "Get Right",
+        "url": "https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157265,
+      "name": "Get Right - Joel Corry VIP Mix",
+      "url": "https://open.spotify.com/track/5XYX6qohHM4zIdCZU3o9Dn"
+    },
+    {
+      "album": {
         "name": "Get To Know Me",
         "url": "https://open.spotify.com/album/4s2SYi5i0nmWy3RlYWHGLW"
       },
@@ -9204,7 +9226,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 131134,
       "name": "Masala (with Amrit Maan)",
       "url": "https://open.spotify.com/track/5dB5jHKWnC5zHO7e0LlEyM"
@@ -9982,6 +10004,28 @@
       "duration_ms": 139364,
       "name": "NEED IT",
       "url": "https://open.spotify.com/track/6T1dDWfxHxjHkIIhKANk49"
+    },
+    {
+      "album": {
+        "name": "Need It",
+        "url": "https://open.spotify.com/album/3HKcTcZ7xDitQsyOeVwgJf"
+      },
+      "artists": [
+        {
+          "name": "Sasson (FR)",
+          "url": "https://open.spotify.com/artist/6wG0hZz1XJNZEDaNUyfpSa"
+        },
+        {
+          "name": "Peter Guzman",
+          "url": "https://open.spotify.com/artist/2R3VXlmvfk74W8ZztC7Lp3"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162744,
+      "name": "Need It",
+      "url": "https://open.spotify.com/track/4nhbTXUuMybb9mqJ6hRWtH"
     },
     {
       "album": {
@@ -12801,6 +12845,32 @@
     },
     {
       "album": {
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/4dzsn39dE5crwUQr3TLBUm"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        },
+        {
+          "name": "SQU4RE",
+          "url": "https://open.spotify.com/artist/5eGYWCwLxA2ZZzWLcOhavb"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204404,
+      "name": "Shades",
+      "url": "https://open.spotify.com/track/4ld5f4ceu7dJOVpo9wzS3F"
+    },
+    {
+      "album": {
         "name": "Shadowboxing",
         "url": "https://open.spotify.com/album/1lNgCoCV3uPOfKjHp3R5YD"
       },
@@ -13036,7 +13106,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 166588,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/1d19F8lKETCrdAzFfNwSJI"
@@ -13808,7 +13878,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 199605,
       "name": "Styler",
       "url": "https://open.spotify.com/track/11WdJeCMpaz2bCuCsLyjcz"

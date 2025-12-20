@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Cumbox",
+        "url": "https://open.spotify.com/album/5xyQ6UumlBSInYxRbp0cef"
+      },
+      "artists": [
+        {
+          "name": "Peritz",
+          "url": "https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Cumbox",
+      "url": "https://open.spotify.com/track/5jjSAzLVHCXqo63fvOrt5e"
+    },
+    {
+      "album": {
         "name": "Damn",
         "url": "https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t"
       },
@@ -8642,6 +8660,24 @@
       "duration_ms": 187529,
       "name": "Z Pack",
       "url": "https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh"
+    },
+    {
+      "album": {
+        "name": "Zane",
+        "url": "https://open.spotify.com/album/1owN0NwKWzWoNzmIrBD0D7"
+      },
+      "artists": [
+        {
+          "name": "Andrea Moricone",
+          "url": "https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272380,
+      "name": "Zane",
+      "url": "https://open.spotify.com/track/5zJgHPRSPZAx4nWEv93WE5"
     },
     {
       "album": {

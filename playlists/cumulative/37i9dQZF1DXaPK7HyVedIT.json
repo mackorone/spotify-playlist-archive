@@ -12459,6 +12459,24 @@
     },
     {
       "album": {
+        "name": "O Novo Testamento",
+        "url": "https://open.spotify.com/album/6Ry6vnrPB1r5l60AOOT8G2"
+      },
+      "artists": [
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209771,
+      "name": "Pill",
+      "url": "https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si"
+    },
+    {
+      "album": {
         "name": "Place In Your Heart",
         "url": "https://open.spotify.com/album/1cxKBMK3BW5bVg1VyzoKPQ"
       },
@@ -15928,24 +15946,6 @@
       "duration_ms": 236220,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3XV0uZdvAS0feYbJOEfC4U"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
-        }
-      ],
-      "date_added": "2025-12-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si"
     },
     {
       "album": {

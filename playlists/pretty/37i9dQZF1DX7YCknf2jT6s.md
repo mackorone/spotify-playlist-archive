@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Joel Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,212 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,224 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [As Estaçōes](https://open.spotify.com/track/7xifzp3yYwKS9vr3hErSwX) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Dom Salvador JID024](https://open.spotify.com/album/6uFBKSXZAJTDcYODdkMqum) | 4:06 |
 | 100 | [Law Years](https://open.spotify.com/track/6KoFDphu9GSPNB1vVpOKQL) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [Law Years](https://open.spotify.com/album/3thwgVgjFR2rXlt422kWp4) | 4:14 |
 
-Snapshot ID: `AAAAADwoMXybZwby+h9WBLY4Bmozq/B+`
+Snapshot ID: `AAAAAFcTJFJ6tOpsb6/qj1xIt//RUQQf`

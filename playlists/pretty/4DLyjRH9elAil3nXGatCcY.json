@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7564,
+  "num_followers": 7563,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABPn4D43WQq3nCPAjQ5/wsBnTKj3W0",
+  "snapshot_id": "AAABPyYk/jY1YbtW4jLhDr12UdvP8yZ/",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -9275,6 +9275,26 @@
       "duration_ms": 213266,
       "name": "Bliss Beat",
       "url": "https://open.spotify.com/track/0qcBGGXFgAUd1sb8HwMk9e"
+    },
+    {
+      "added_at": "2025-12-20 03:01:54",
+      "album": {
+        "name": "Before I Go",
+        "url": "https://open.spotify.com/album/366XvcUJsBFppuOhYRvsLW"
+      },
+      "artists": [
+        {
+          "name": "Aaron Page",
+          "url": "https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ"
+        },
+        {
+          "name": "Domani",
+          "url": "https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq"
+        }
+      ],
+      "duration_ms": 179591,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/2lGKEYXwu1alvxAhJvpBAX"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

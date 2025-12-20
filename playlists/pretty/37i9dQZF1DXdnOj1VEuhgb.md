@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Wegh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,781 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,890 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 19 | [KALBİM](https://open.spotify.com/track/0oI3CU5zFjPTG4UnIVDaBT) | [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId) | [KALBİM](https://open.spotify.com/album/0K37nWE4Ns6UL5M05eeA9v) | 2:36 |
 | 20 | [MASALMIŞ](https://open.spotify.com/track/3AN7g81zikjozMLBlszPV5) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [MASALMIŞ](https://open.spotify.com/album/4BSbHLxLiTHBaMSrk0M18a) | 2:05 |
 | 21 | [BATUFLEX](https://open.spotify.com/track/33ucZnn3dMflJee2xgx2mv) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BATUFLEX](https://open.spotify.com/album/3F6qrGP61m790ftBHAMmOH) | 2:06 |
-| 22 | [DİNAMO](https://open.spotify.com/track/4pygh5sfv1DJW6rFrcvDNW) | [2run](https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [](https://open.spotify.com/album/null) | 2:00 |
+| 22 | [DİNAMO](https://open.spotify.com/track/4pygh5sfv1DJW6rFrcvDNW) | [2run](https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [BUSINESS2RUN](https://open.spotify.com/album/2QFQIMv2Ro4AMn5mjKfGwi) | 2:00 |
 | 23 | [Biz İmkansız Olduk](https://open.spotify.com/track/7woARvmPxhoDLoqlB09sq1) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Yaşasın Hayat Parkı Fanzin](https://open.spotify.com/album/5ckpst7X0mcCgokf2vXVSr) | 2:37 |
 | 24 | [TIRMANDIM](https://open.spotify.com/track/7ozaiwhvK7n71jNoJF2v6y) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TIRMANDIM](https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg) | 2:13 |
 | 25 | [Tarifi Yok](https://open.spotify.com/track/1A0hcir9zl1ahSpERdqr9g) | [Muerte Beatz](https://open.spotify.com/artist/6sisQS5gts3lFgk68pfLEG), [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [Ahmet Balci](https://open.spotify.com/artist/0V8MPLRHPb0ei3CcLxoxQU), [KANSU](https://open.spotify.com/artist/7AIRm3U8ME5GufkEis66r7) | [Tarifi Yok](https://open.spotify.com/album/5j5pCGgJyR72vHnSIbRBcK) | 2:59 |

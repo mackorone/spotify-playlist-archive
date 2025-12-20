@@ -2177,6 +2177,36 @@
     },
     {
       "album": {
+        "name": "Silent Night - A Neoclassical Christmas",
+        "url": "https://open.spotify.com/album/25e5wUuBlQSG1zm9AHjM0B"
+      },
+      "artists": [
+        {
+          "name": "Robert Wells",
+          "url": "https://open.spotify.com/artist/2b5IBuGQwskEO9VwynCNtO"
+        },
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222400,
+      "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "url": "https://open.spotify.com/track/6ef8XBSqss4PuytG7DhW41"
+    },
+    {
+      "album": {
         "name": "The First Christmas",
         "url": "https://open.spotify.com/album/3mggmM1Msp3b5gvsZfs5Yg"
       },

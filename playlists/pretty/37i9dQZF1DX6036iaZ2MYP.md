@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Marioo
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,020 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,300 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [4H Du Mat \(feat\. Singuila\)](https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [CUXI BOY PART III](https://open.spotify.com/album/14t5IfOMHlcOM2h1gJBZ87) | 2:33 |
 | 4 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
 | 5 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 2:19 |
-| 6 | [Emi ni Data](https://open.spotify.com/track/7GOmvcQeJPp7cx3ddUDcDK) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Omo Ebira Beatz](https://open.spotify.com/artist/61XMQEHMW5CaTIntkMVf9U) | [Emi ni Data](https://open.spotify.com/album/6x1MLpqIrp526gqmdQJPRo) | 2:18 |
+| 6 | [Emi ni Data](https://open.spotify.com/track/7GOmvcQeJPp7cx3ddUDcDK) | [Omo Ebira Beatz](https://open.spotify.com/artist/61XMQEHMW5CaTIntkMVf9U), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Emi ni Data](https://open.spotify.com/album/6x1MLpqIrp526gqmdQJPRo) | 2:18 |
 | 7 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
-| 8 | [Avec classe](https://open.spotify.com/track/6aH6dgMbCAQLnM301kJVi8) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [](https://open.spotify.com/album/null) | 2:54 |
+| 8 | [Avec classe](https://open.spotify.com/track/6aH6dgMbCAQLnM301kJVi8) | [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [Moonlight](https://open.spotify.com/album/10PUI7tOy0XOQRNFVWJoC5) | 2:54 |
 | 9 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 |
 | 10 | [Matta](https://open.spotify.com/track/0ev676IvTmWtEiECWV0TnE) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Matta](https://open.spotify.com/album/2mc596usTFQtK44NuQjCy1) | 2:26 |
 | 11 | [Gobe](https://open.spotify.com/track/3FOkzNjrTsMePdCdqoxytk) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM), [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Gobe](https://open.spotify.com/album/0cjsk6TPjHPGeoJTWxAywU) | 2:54 |

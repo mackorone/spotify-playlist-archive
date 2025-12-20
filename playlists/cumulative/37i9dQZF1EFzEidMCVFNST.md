@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-561 songs - 1 day 2 hr 39 min
+562 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Forte Candidata \- Ao Vivo](https://open.spotify.com/track/0ArhfmiDFGqmEZE33xXH1S) | [Lipe & Lyan](https://open.spotify.com/artist/0V8z8kSUX83Zq7KKaqEJxD) | [Daqui pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/0ZGqMMjqP184TbUgVRNRfK) | 2:35 | 2024-01-29 |  |
 | [Garrafa na Mão](https://open.spotify.com/track/7LeMxn6sPXtqqRAehgBOxg) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Até o Último Gole](https://open.spotify.com/album/3XdTvRSiOvB6xSNkmHvJf2) | 2:28 | 2024-01-29 |  |
 | [Gostosa Demais \- Ao Vivo](https://open.spotify.com/track/5hKCfGkDK6Yiod58PrSwoq) | [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI) | [Detalhes \(Ao Vivo\)](https://open.spotify.com/album/5aBUnFsvhV69O67TNRN49H) | 2:45 | 2025-05-31 |  |
+| [Havaianas](https://open.spotify.com/track/4eTKRobR6jVeoUQR5JAr9Y) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Havaianas](https://open.spotify.com/album/14Bgm8DB5a2AbtNaVqBtf9) | 2:49 | 2025-12-19 |  |
 | [Hipnose](https://open.spotify.com/track/1ubU6gRxFpJnsRItc8xsuY) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Hipnose](https://open.spotify.com/album/2owSlIajiBkqrWogBPXykn) | 2:20 | 2024-01-29 |  |
 | [I Love You Baby \- Ao Vivo](https://open.spotify.com/track/0GlX2QCMFpZdG7Fmd9CRWO) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:19 | 2024-03-26 | 2025-06-28 |
 | [Igual Ela Só Uma](https://open.spotify.com/track/56gquTq9QVktW5gjkj2Fg7) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Igual Ela Só Uma](https://open.spotify.com/album/5jje5KBAPQrZXdASs4Uv5y) | 2:50 | 2024-01-29 | 2025-06-28 |

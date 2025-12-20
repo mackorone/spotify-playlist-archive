@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,726 songs - 4 day 8 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,736 songs - 4 day 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1734,5 +1734,15 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1724 | [Te vas milonga](https://open.spotify.com/track/70U2FFW5R9UDaBjjpdKycn) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Te vas milonga](https://open.spotify.com/album/6N5YpykukS9nj2dRCO0nG6) | 2:05 |
 | 1725 | [Dioses del Vudú](https://open.spotify.com/track/6mbTqEDd4nVWiFCCXfmDZA) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Dioses del Vudú](https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt) | 3:31 |
 | 1726 | [Jesse Pinkman](https://open.spotify.com/track/5wYXWYHd20BfL3iUhMGLuJ) | [ennuivox](https://open.spotify.com/artist/6kojDKZhuOJiWVn33wHWos) | [Jesse Pinkman](https://open.spotify.com/album/412l7oS1mtXgEt6i0Ciz3g) | 1:30 |
+| 1727 | [Babbo Natale Trap](https://open.spotify.com/track/4RCD3bN1py1BuM47BFGzzY) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 2:17 |
+| 1728 | [Una luce dentro me](https://open.spotify.com/track/3JWMbqtMfQeZwZtMwTyqpf) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 2:52 |
+| 1729 | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/track/0RoCz2k3evjds0GqgMuTEd) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:31 |
+| 1730 | [Baila Mi Navidad](https://open.spotify.com/track/7l1df2zvqlSU4SWa4SgspS) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:30 |
+| 1731 | [FRONTIER SNOW](https://open.spotify.com/track/6zZjIZVJT45u3VDOtC6vIu) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:19 |
+| 1732 | [Snowlight Flow](https://open.spotify.com/track/47GPahCpswn679KovNsndp) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 2:53 |
+| 1733 | [Coffee in New York](https://open.spotify.com/track/7HL26Bgq1HHVNXbKYBb84m) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:46 |
+| 1734 | [Verso il Mare è Natale](https://open.spotify.com/track/4M3FcpXYq09NL2ib7FVP6J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:01 |
+| 1735 | [Happy New Year](https://open.spotify.com/track/0WOL8krAstMsQYhGL9N2Bj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:21 |
+| 1736 | [Hello](https://open.spotify.com/track/0Oi5hWNh0txuqGESiMTvIP) | [Redo](https://open.spotify.com/artist/0rRr0u1oYFDzgEArecZjrA) | [Hello](https://open.spotify.com/album/2CD54EnEme3id2GHduEaYf) | 4:02 |
 
-Snapshot ID: `AAAHl88lRG1p0GHCtj0d7g6qAporrEBv`
+Snapshot ID: `AAAHmRv2/YlBCu0gCSuCSolQNnBciIg5`

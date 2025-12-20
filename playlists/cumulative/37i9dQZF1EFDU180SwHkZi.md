@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 6 hr 47 min
+146 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [january](https://open.spotify.com/track/4IalQd9uplUh8uRL0H8QjJ) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/24a54UeA3iikbqJEOkqq7W) | 2:36 | 2025-10-31 |  |
 | [Jealous](https://open.spotify.com/track/5wXX1UkC8iX4fD1WIkcXdn) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Double Standards](https://open.spotify.com/album/3ffSkoeLJWwuX3GdrTfcpy) | 3:16 | 2025-07-03 |  |
 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 | 2025-07-03 |  |
-| [King Of The Jungle](https://open.spotify.com/track/7wEOwZ7aB7AmVaUysX4vXF) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [King Of The Jungle](https://open.spotify.com/album/5sWsG2Z675inKrJTuVq2nS) | 2:40 | 2025-07-03 |  |
+| [King Of The Jungle](https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [King Of The Jungle](https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb) | 2:40 | 2025-12-19 |  |
+| [King Of The Jungle](https://open.spotify.com/track/7wEOwZ7aB7AmVaUysX4vXF) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [King Of The Jungle](https://open.spotify.com/album/5sWsG2Z675inKrJTuVq2nS) | 2:40 | 2025-07-03 | 2025-12-20 |
 | [Know It All](https://open.spotify.com/track/3Cz2bZfizFW0U8cx6t1wvh) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Know It All](https://open.spotify.com/album/7LNpTOGheoilpLN4ZwfLEU) | 4:23 | 2025-07-03 |  |
 | [Lemonade](https://open.spotify.com/track/4Wu9oOCp1ITsfpEAqC83bQ) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [New Stage](https://open.spotify.com/album/29ZHoZziuOvmkSArdiUXAw) | 3:02 | 2025-07-03 |  |
 | [Let's Go](https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:27 | 2025-07-03 |  |
@@ -145,7 +146,8 @@
 | [Way You Move](https://open.spotify.com/track/2D63BaGWZtBjUBOYVSrl5K) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Way You Move](https://open.spotify.com/album/1rxymbQM3Vvv2rH27kpzBp) | 2:58 | 2025-07-26 |  |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/47AEUwR1rppGeruasDVgBC) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:47 | 2025-07-03 |  |
 | [What In The World \(feat\. NATURE\)](https://open.spotify.com/track/6SQTv4pqlFzbofosQGAX69) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [What In The World \(feat\. NATURE\)](https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN) | 3:18 | 2025-07-03 |  |
-| [Who You Got](https://open.spotify.com/track/0X9o6jKMhQaQxZpYOB9hi0) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW) | [Who You Got](https://open.spotify.com/album/0hKjHUGIX6b79yqFH8saJy) | 2:54 | 2025-07-03 |  |
+| [Who You Got](https://open.spotify.com/track/0X9o6jKMhQaQxZpYOB9hi0) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW) | [Who You Got](https://open.spotify.com/album/0hKjHUGIX6b79yqFH8saJy) | 2:54 | 2025-07-03 | 2025-12-20 |
+| [Who You Got](https://open.spotify.com/track/7yoWkmxZfTPk00Y8zNl8wd) | [Natania Lalwani](https://open.spotify.com/artist/5Wqy1LMnrr4jeVl0F1ITvW) | [Who You Got](https://open.spotify.com/album/4VpLtpzNLnXzp9IaDWW3Yw) | 2:54 | 2025-12-19 |  |
 | [Wild & Free](https://open.spotify.com/track/05Sb9KO8eHqAHeUSSzLlfT) | [Alma Mater](https://open.spotify.com/artist/16YKNdADpeH4T6V9QLXR70) | [Wild & Free](https://open.spotify.com/album/48XSx8Zm25U8yXvg1xDOSx) | 2:24 | 2025-07-03 |  |
 | [Winning](https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:13 | 2025-07-03 |  |
 | [Yay Yay Yay](https://open.spotify.com/track/4XcHes4yJeduDIh6ndkHq6) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:59 | 2025-07-03 |  |

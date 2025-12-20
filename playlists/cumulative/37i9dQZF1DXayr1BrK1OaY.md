@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-625 songs - 1 day 12 hr 40 min
+626 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Dreaming](https://open.spotify.com/track/5hIeOGdLUD9St4VzxYM4ql) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dreaming](https://open.spotify.com/album/77i4sLUjUq49nJsjcKHKGI) | 2:28 | 2025-07-11 | 2025-10-11 |
 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 | 2025-11-15 |  |
 | [Drifting Away](https://open.spotify.com/track/3Qcy8RFnLu2R7LooFrfkq6) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [Drifting Away](https://open.spotify.com/album/22V7Zz6Qo8eXrRmLmMp8qr) | 3:04 | 2025-11-14 |  |
-| [Drinking To Get Drunk](https://open.spotify.com/track/74UOSZYTg7ZvqLmxdqFuT7) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Drinking To Get Drunk](https://open.spotify.com/album/7aVwCoTaALsMdLYkpx82Jl) | 3:26 | 2025-07-18 |  |
+| [Drinking To Get Drunk](https://open.spotify.com/track/74UOSZYTg7ZvqLmxdqFuT7) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Drinking To Get Drunk](https://open.spotify.com/album/7aVwCoTaALsMdLYkpx82Jl) | 3:26 | 2025-07-18 | 2025-12-20 |
 | [Driving Fast](https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Driving Fast](https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8) | 3:07 | 2024-11-08 |  |
 | [Echo Of You](https://open.spotify.com/track/1i0PNueAftDJuAWWnTQsCx) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Echo Of You](https://open.spotify.com/album/6TJrzV02OC57GC2sExG41G) | 3:01 | 2025-01-17 | 2025-03-15 |
 | [Echoes](https://open.spotify.com/track/6xIjK78uVVlATFBj9Wn4RL) | [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [ILVS](https://open.spotify.com/artist/41jNNNvoBm9hPTVHpRRHvi) | [Echoes](https://open.spotify.com/album/35rXUvvvWDOEK28JXGE5ad) | 2:40 | 2024-05-17 | 2024-08-24 |
@@ -205,6 +205,7 @@
 | [Happiness](https://open.spotify.com/track/0twSL4pQxb6nCdSpZe9AdT) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [Happiness](https://open.spotify.com/album/15UAgYJjnGyi1NMAzs7yev) | 3:08 | 2025-04-04 | 2025-07-12 |
 | [Happy](https://open.spotify.com/track/0kfDEJky3CCHp5uARqVl96) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Courtney Paige Nelson](https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r) | [Happy](https://open.spotify.com/album/0lI4MxPlKzMIaQNKcrkzU1) | 2:56 | 2025-02-16 | 2025-02-19 |
 | [Hard2Sleep](https://open.spotify.com/track/5FwoblKmorXIz0hFuaqOqL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Hard2Sleep](https://open.spotify.com/album/5W43PNvqQsY8aykMg0AOLv) | 3:10 | 2025-09-19 |  |
+| [haunted](https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp) | [haunted](https://open.spotify.com/album/6TozBKGt0kW2MILIDwEVj7) | 2:12 | 2025-12-19 |  |
 | [Head Up](https://open.spotify.com/track/3zieOwCrap1s2sIpxWlx92) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/7FQA4DGX7aIfT8b8f8GVhp) | 3:09 | 2024-02-02 | 2024-04-19 |
 | [Head Up](https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi) | 3:09 | 2024-01-26 | 2025-08-01 |
 | [Head Up](https://open.spotify.com/track/7MoiqafwomAFZFfQiNviFQ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Head Up](https://open.spotify.com/album/2O7DKRqdigGOHwXQx7Zhcp) | 3:09 | 2024-01-26 | 2024-02-09 |

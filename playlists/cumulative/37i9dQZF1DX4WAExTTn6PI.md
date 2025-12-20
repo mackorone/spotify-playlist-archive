@@ -4,7 +4,7 @@
 
 > Rising voices, enduring roots\. Cover: Leah Blevins
 
-300 songs - 18 hr 23 min
+301 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Brave the Weather](https://open.spotify.com/track/776QfJDeMP0o89mIioNAlU) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Brave the Weather](https://open.spotify.com/album/0l3G6BGVy83pvirPMbO10G) | 4:23 | 2025-09-05 |  |
 | [Brick](https://open.spotify.com/track/2EtXaVEDbd87UGrgJrUyZT) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Stuff](https://open.spotify.com/album/2SJPQALhEB9HuiFs5pIlMl) | 3:53 | 2025-12-12 |  |
 | [Broken Families](https://open.spotify.com/track/2WB5G1nEq09QJoNDL9ShrR) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Broken Families](https://open.spotify.com/album/1dljQ7Haw2glHe01n1cV93) | 3:17 | 2022-02-25 | 2025-10-18 |
+| [Can't Hold A Candle To](https://open.spotify.com/track/6txJCnbb6w8y5zAqdWTW4M) | [Karli Lar Durden](https://open.spotify.com/artist/7lQRgNE4OVcj5EB2lz00Bp) | [Can't Hold A Candle To](https://open.spotify.com/album/58XxW10On4MrmgPyxARAyx) | 4:21 | 2025-12-12 |  |
 | [Change](https://open.spotify.com/track/0DwmyFQP9v1hgD5z3iMxut) | [Kindred Valley](https://open.spotify.com/artist/7jc85d1zr5kt3aBXYJ0OZy) | [Change](https://open.spotify.com/album/5hI4ahapQh9Ee9R45vweYX) | 3:01 | 2025-11-07 |  |
 | [Chewing on Fire](https://open.spotify.com/track/7rm6fiURucekbrUD8FAv0C) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [Chewing on Fire](https://open.spotify.com/album/6FcBsDf1ak4GlyADejPDgL) | 3:15 | 2022-01-28 | 2023-01-14 |
 | [Commune](https://open.spotify.com/track/3NNL6y4g69QzTOJvyy9Oub) | [Caylan Hays](https://open.spotify.com/artist/2jCGUSXTvCi26FKOg6c2Wr) | [Commune](https://open.spotify.com/album/00TK0K8oNzWUyNNf0eSLNE) | 3:35 | 2025-11-21 |  |

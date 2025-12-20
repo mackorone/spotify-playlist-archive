@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Beefs
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,502 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,507 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Golden Boy](https://open.spotify.com/track/3A1ODOlyUOBNHHSkob57Ym) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Golden Boy](https://open.spotify.com/album/7ukf25x1Denwo0UbDfaEXx) | 3:41 |
 | 100 | [Ketamine Dream](https://open.spotify.com/track/5NR0T906CPmiT3EvSy1mTG) | [Death by Denim](https://open.spotify.com/artist/1OXpN0Unpw1Xrpws4tIpUF) | [Ketamine Dream](https://open.spotify.com/album/2bew7TH6N3p1whra9LTqcv) | 3:31 |
 
-Snapshot ID: `AAAAAIDKjHhFdmsuTD5XzS7NbWmtwID9`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

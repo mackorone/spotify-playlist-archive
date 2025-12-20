@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New stunning releases in modern soul\. Cover: Latanya Alberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,634 likes - 84 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,614 likes - 84 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hold Your Hand](https://open.spotify.com/track/1xE4VBKGZjPlktET0jEiYX) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Hold Your Hand](https://open.spotify.com/album/0vlpAinZBQz0HwEkI1T1qp) | 2:44 |
 | 2 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 |
 | 3 | [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/album/60DViyBah1sE2vXa53Ljrg) | 3:01 |
-| 4 | [Change Me](https://open.spotify.com/track/1N2T53a0By0Bek0jS3zqrW) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [It Starts With Us](https://open.spotify.com/album/01mAiwqFG2n1zfTvMZ9bWa) | 3:22 |
-| 5 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:03 |
-| 6 | [Imperfections](https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Imperfections](https://open.spotify.com/album/06chn6bcZtUyNx5feXz2TY) | 5:08 |
+| 4 | [I Got Your Back II](https://open.spotify.com/track/48PVSDZwDOyvexxZIqXfKK) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY), [K1D](https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o) | [I Got Your Back II](https://open.spotify.com/album/5dcGaD5XslCu9XCxqGeSQS) | 3:03 |
+| 5 | [Imperfections](https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Imperfections](https://open.spotify.com/album/06chn6bcZtUyNx5feXz2TY) | 5:08 |
+| 6 | [Change Me](https://open.spotify.com/track/1N2T53a0By0Bek0jS3zqrW) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Maydien](https://open.spotify.com/artist/52pcFWBKzTZUCJrBizvl1y), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [It Starts With Us](https://open.spotify.com/album/01mAiwqFG2n1zfTvMZ9bWa) | 3:22 |
 | 7 | [Rain Down](https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Rain Down](https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL) | 4:38 |
 | 8 | [Daydream](https://open.spotify.com/track/7wVHlZXsN3OjGZma0RktJC) | [Illnoledge](https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5) | [Everlasting](https://open.spotify.com/album/1rZ3d4vYbxYxQVKUyyRLOs) | 3:23 |
 | 9 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 83 | [Hey Girl\(s\)](https://open.spotify.com/track/470gEf45gAhLewLVc5IkKJ) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Hey Girl \(s\)](https://open.spotify.com/album/40XyC5tZmkh6aeFr78qQME) | 3:48 |
 | 84 | [Sweet Soul \- Single Edit](https://open.spotify.com/track/5dUB4PYGyQVWxozyciJs1U) | [Wynonna Stoové](https://open.spotify.com/artist/2hkNEGnoTog2IQbOFxqixP) | [Sweet Soul](https://open.spotify.com/album/4d2fYHE8sKPnav2wq9UWwh) | 3:33 |
 
-Snapshot ID: `AAAAAJCZ4rc1BIFQ+hIcPPs2FAT1c1Bb`
+Snapshot ID: `AAAAAKi1fNmZ5IhkdqUHyAErFLs48r7u`

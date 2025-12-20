@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406710,
+  "num_followers": 406720,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 208321,
       "name": "You'll Be Back",
       "url": "https://open.spotify.com/track/6OG1S805gIrH5nAQbEOPY3"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -863,30 +863,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Sharpay Evans",
-          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
-        },
-        {
-          "name": "Lucas Grabeel",
-          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "RENT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 182746,
       "name": "Seasons of Love",
       "url": "https://open.spotify.com/track/5gw8HNcrqliEw0X6pPrPvG"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "High School Musical 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
+      },
+      "artists": [
+        {
+          "name": "Sharpay Evans",
+          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
+        },
+        {
+          "name": "Lucas Grabeel",
+          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
     },
     {
       "added_at": "2025-12-10 11:42:12",

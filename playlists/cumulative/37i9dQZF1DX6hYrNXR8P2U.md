@@ -4,7 +4,7 @@
 
 > MUY PIOLA<br/>📷 Usted Señalemelo
 
-569 songs - 1 day 5 hr 44 min
+571 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-11-20 |
 | [5 minutos +](https://open.spotify.com/track/2krHtqq5meoiFnZEbBy8h2) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [La Capitana](https://open.spotify.com/album/682RUQW42qEbdFZJjxovNd) | 2:39 | 2024-11-08 | 2025-02-08 |
 | [9472](https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [LUNA 18 \(Deluxe\)](https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8) | 2:39 | 2024-11-29 | 2024-12-21 |
+| [A la Deriva](https://open.spotify.com/track/5mRuTcc2NFb0dxokBDNKJ5) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg), [Folgar](https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6) | [A La Deriva](https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun) | 6:39 | 2025-12-19 |  |
 | [A Tu Modo](https://open.spotify.com/track/4gW9sb9atLvjzNA0BUDX71) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [A Tu Modo](https://open.spotify.com/album/1BjksGyN9EwHWXsTm36uzC) | 3:00 | 2024-04-05 | 2024-06-29 |
 | [A.T.A](https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [A.T.A](https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd) | 2:09 | 2024-10-04 | 2024-10-26 |
 | [ABC](https://open.spotify.com/track/4x4zGJYBa39QEkc1KTgqtc) | [Hoke](https://open.spotify.com/artist/2x6kZekpNZMll7Uq3M6ar5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TRES CREUS](https://open.spotify.com/album/3XBIEuPt853rX8Fn5DbG5s) | 3:01 | 2024-12-20 | 2025-01-11 |
@@ -58,6 +59,7 @@
 | [Arruinarse](https://open.spotify.com/track/39sttgETErQLwfc8SougBO) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Canciones del Huracan + Wonderful Noches](https://open.spotify.com/album/4h5EtTpKEa9ba7f2Ea1buJ) | 4:08 | 2024-03-22 | 2024-11-09 |
 | [Arte Arte Arte](https://open.spotify.com/track/2rfxEjASx8ppSSn2aQUwQG) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [El Final de Las Cosas](https://open.spotify.com/album/6Gh40ffCJ280FrGTdBBynv) | 3:34 | 2023-10-13 | 2024-02-17 |
 | [Artificial](https://open.spotify.com/track/39nxr5EypgH8Vm1N3qRlyR) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/4DC4DlQlgsMYVTjj9osEgg) | 3:13 | 2024-07-12 | 2024-12-07 |
+| [Asuntos Pendientes](https://open.spotify.com/track/3fqQkByxxQm2qllggZlpN7) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Asuntos Pendientes](https://open.spotify.com/album/5Vr0HbJRdCJrFnW6h31GOe) | 3:26 | 2025-12-19 |  |
 | [Así Es el Calor](https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Así Es el Calor](https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo) | 3:00 | 2024-03-08 | 2024-09-17 |
 | [Atormentada](https://open.spotify.com/track/0KHFf9RtpZyRlcJDHL4AKR) | [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Vida Real](https://open.spotify.com/album/4LzdHfWwKopzSuUichGbgm) | 3:19 | 2023-11-24 | 2024-02-02 |
 | [AUTOESTIMA](https://open.spotify.com/track/5eIMsg846G1fgvJR3tkJOK) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [AUTOESTIMA](https://open.spotify.com/album/2WIPTovvQmyBCVLBIouNOv) | 2:57 | 2025-04-11 | 2025-06-07 |
@@ -87,7 +89,7 @@
 | [Caballos](https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Arco y Flecha](https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR) | 2:43 | 2024-06-14 | 2024-09-14 |
 | [CABEZAS DEL TIEMPO](https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Tomy Sainz](https://open.spotify.com/artist/07mfD3Txop0KJIEHoQRFZZ) | [333](https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC) | 3:12 | 2023-11-10 | 2024-03-02 |
 | [CACHETAZO](https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [MARTTEIN](https://open.spotify.com/album/2v7cEavZRKwA8GfTfmU5fv) | 1:59 | 2024-10-04 | 2024-10-26 |
-| [cada día +](https://open.spotify.com/track/1qIyb1xu5chuUOcXQQOoU7) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [cada día +](https://open.spotify.com/album/56lw4pe5XtUhS4TR6g209H) | 1:57 | 2025-08-01 |  |
+| [cada día +](https://open.spotify.com/track/1qIyb1xu5chuUOcXQQOoU7) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [cada día +](https://open.spotify.com/album/56lw4pe5XtUhS4TR6g209H) | 1:57 | 2025-08-01 | 2025-12-20 |
 | [CADA VEZ QUE](https://open.spotify.com/track/5pIWNTCanCfMoXkS3v5UAa) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G) | [CADA VEZ QUE](https://open.spotify.com/album/1cHzgSSyMkVPwuK8QH0RhR) | 2:31 | 2024-04-12 | 2025-01-11 |
 | [Cae la noche](https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Cae la noche](https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB) | 4:04 | 2023-10-13 | 2024-07-27 |
 | [CAEN LAS ESTRELLAS](https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:25 | 2023-10-13 | 2024-12-21 |
@@ -533,7 +535,7 @@
 | [VAGO](https://open.spotify.com/track/6PpctjpS9q2MHqiHRXHa2o) | [Edu Schmidt](https://open.spotify.com/artist/7kNLKJ3eUza4CwbzgNes9W), [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [VAGO](https://open.spotify.com/album/4DD74mLxegbu4ZA956nWiH) | 2:18 | 2024-10-04 | 2025-02-22 |
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-05-30 | 2025-07-25 |
 | [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 | 2023-11-25 |
-| [Vamos a Cazarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 | 2025-07-05 |  |
+| [Vamos a Cazarnos](https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [El Ángel Que Soy](https://open.spotify.com/album/6Za93DEEDEuv6W7K61UNGg) | 3:19 | 2025-07-05 | 2025-12-20 |
 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 | 2025-12-05 |  |
 | [Varado](https://open.spotify.com/track/6KPl3e7CMRHBfhh8xOiwhm) | [BATOS](https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI) | [Varado](https://open.spotify.com/album/1dWJbuayvNV3YgXeRI9F0a) | 3:19 | 2023-10-13 | 2024-03-23 |
 | [VASO DE DOS](https://open.spotify.com/track/4mAh9mRghc0xktcSl0iYyt) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [JOSEO EXCLUSIVE CLUB.](https://open.spotify.com/album/2mTU1KV0GiTJONBP4sK021) | 2:30 | 2025-08-01 | 2025-11-20 |

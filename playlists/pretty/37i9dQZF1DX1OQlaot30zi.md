@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Nko, Le Scimmie, Néza e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,201 likes - 135 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,240 likes - 135 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 12 | [Tardi \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4HOKazI3kyLZQWbT5AItaY) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:33 |
 | 13 | [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 |
 | 14 | [Dancing With The Devil Pt.2](https://open.spotify.com/track/0C4xnuVf0ovtfGV90Ynjld) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 3:06 |
-| 15 | [IL FONDO](https://open.spotify.com/track/6szUhO0a8oVNpdha1FCfXm) | [Spampy](https://open.spotify.com/artist/3OrFZXaCLSMFGIoYvTHQOL) | [](https://open.spotify.com/album/null) | 2:34 |
+| 15 | [IL FONDO](https://open.spotify.com/track/6szUhO0a8oVNpdha1FCfXm) | [Spampy](https://open.spotify.com/artist/3OrFZXaCLSMFGIoYvTHQOL) | [IL LATO NERO](https://open.spotify.com/album/59I5lls50x7Ca9obMkaE2k) | 2:34 |
 | 16 | [Chain e Cash](https://open.spotify.com/track/79vL96XYGgrzWc3k2ZbeqS) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L) | [Chain e Cash](https://open.spotify.com/album/4gnWvPjGCpwq3upvG2XMfC) | 2:11 |
 | 17 | [L' INVIDIA VE SE MAGNA](https://open.spotify.com/track/2G7ldazN8gNsFaHFQ29l11) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74) | [L' INVIDIA VE SE MAGNA](https://open.spotify.com/album/2aCwxi2eS9XprFkxjWwq7R) | 2:35 |
 | 18 | [KONTROL](https://open.spotify.com/track/6e1cUhWg0FltblBUrffgJl) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Alkhazar](https://open.spotify.com/artist/5LYMIHEN7B3C9cm7lSENKF), [Davyx](https://open.spotify.com/artist/2UYkGWFsNTlRvQ3pEwofn9), [Logos.Lux](https://open.spotify.com/artist/3rGdjBtVPeHar0052yH97T) | [KONTROL](https://open.spotify.com/album/0S4RUbPU3sRrtgawCiVUiy) | 3:06 |

@@ -44952,6 +44952,22 @@
           "url": "https://open.spotify.com/artist/24P3Co0VZbQGntPpAsHEej"
         },
         {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Gigi D'Alessio",
+          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
+        },
+        {
+          "name": "Petit",
+          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
           "name": "Alessandra Amoroso",
           "url": "https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu"
         },
@@ -44962,10 +44978,6 @@
         {
           "name": "Clementino",
           "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
         },
         {
           "name": "Duala",
@@ -44992,20 +45004,8 @@
           "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
         },
         {
-          "name": "Gigi D'Alessio",
-          "url": "https://open.spotify.com/artist/4eSMsVzRJHhN1aq0IvZcyn"
-        },
-        {
           "name": "Paky",
           "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
-        },
-        {
-          "name": "Petit",
-          "url": "https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
         },
         {
           "name": "The Kolors",
@@ -84434,6 +84434,24 @@
       "duration_ms": 208147,
       "name": "Mutual Feelings",
       "url": "https://open.spotify.com/track/1cYNx8Ots8mUPzOAwmiKm7"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "album": {
@@ -125195,6 +125213,24 @@
     },
     {
       "album": {
+        "name": "Futuro Antico IX - Ferrara: la musica alla corte degli Estensi",
+        "url": "https://open.spotify.com/album/3H3GprGEk8yyUoqPIg5vkV"
+      },
+      "artists": [
+        {
+          "name": "Angelo Branduardi",
+          "url": "https://open.spotify.com/artist/3qlU3Nyu3XXO2k9AUnTcy1"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Susanna la va al ballo",
+      "url": "https://open.spotify.com/track/6L1qYP8LB2qLcuozdGnugU"
+    },
+    {
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG"
       },
@@ -132648,24 +132684,6 @@
       "duration_ms": 118651,
       "name": "tra parentesi",
       "url": "https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Angelo Branduardi",
-          "url": "https://open.spotify.com/artist/3qlU3Nyu3XXO2k9AUnTcy1"
-        }
-      ],
-      "date_added": "2025-12-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6L1qYP8LB2qLcuozdGnugU"
     },
     {
       "album": {

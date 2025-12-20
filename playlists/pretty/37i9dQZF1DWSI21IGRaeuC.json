@@ -1,13 +1,41 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f \nwith IDEMI",
-  "num_followers": 70517,
+  "num_followers": 70559,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADPTOzijWkFqVSM6fYlVVFNdLjEC",
+  "snapshot_id": "AAAAAPpQAIacZLfMTf3/Y8gXTobxSuM/",
   "tracks": [
+    {
+      "added_at": "2025-12-19 05:00:31",
+      "album": {
+        "name": "The Way I Are (Max Dean Remix)",
+        "url": "https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "D.O.E.",
+          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 331162,
+      "name": "The Way I Are - Max Dean Remix",
+      "url": "https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z"
+    },
     {
       "added_at": "2025-12-12 05:00:36",
       "album": {
@@ -73,26 +101,6 @@
       "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
     },
     {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Come Closer EP",
-        "url": "https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Sienna Sophia",
-          "url": "https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna"
-        }
-      ],
-      "duration_ms": 206275,
-      "name": "Come Closer (feat. Sienna Sophia)",
-      "url": "https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt"
-    },
-    {
       "added_at": "2025-12-12 05:00:36",
       "album": {
         "name": "King Konglish EP",
@@ -141,20 +149,24 @@
       "url": "https://open.spotify.com/track/3QGO7gVHnSW0vpEaRWO4kT"
     },
     {
-      "added_at": "2025-12-12 05:00:36",
+      "added_at": "2025-11-28 05:09:48",
       "album": {
-        "name": "You Drive Me Crazy",
-        "url": "https://open.spotify.com/album/4nd2s6YwAYibaI62MIrcmw"
+        "name": "Come Closer EP",
+        "url": "https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz"
       },
       "artists": [
         {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Sienna Sophia",
+          "url": "https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna"
         }
       ],
-      "duration_ms": 524881,
-      "name": "You Drive Me Crazy",
-      "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"
+      "duration_ms": 206275,
+      "name": "Come Closer (feat. Sienna Sophia)",
+      "url": "https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt"
     },
     {
       "added_at": "2025-12-05 22:00:17",
@@ -171,6 +183,22 @@
       "duration_ms": 371557,
       "name": "Need U",
       "url": "https://open.spotify.com/track/1A37xFTHGhyVDkPc7ctiVH"
+    },
+    {
+      "added_at": "2025-12-19 05:00:31",
+      "album": {
+        "name": "Time & Place EP",
+        "url": "https://open.spotify.com/album/6CD7an8oDgqBSpjCZHQNaI"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "Time & Place",
+      "url": "https://open.spotify.com/track/2ZUHBlPyBm0Xs3Rh0xWkA6"
     },
     {
       "added_at": "2025-12-12 05:00:36",
@@ -275,6 +303,22 @@
       "duration_ms": 171000,
       "name": "Craving What Ain't Mine - Radio Mix",
       "url": "https://open.spotify.com/track/2PMGzzwnjWbngTp0Xwuvpi"
+    },
+    {
+      "added_at": "2025-12-12 05:00:36",
+      "album": {
+        "name": "You Drive Me Crazy",
+        "url": "https://open.spotify.com/album/4nd2s6YwAYibaI62MIrcmw"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 524881,
+      "name": "You Drive Me Crazy",
+      "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -771,26 +815,6 @@
       "duration_ms": 173696,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX"
-    },
-    {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Plastic Smile",
-        "url": "https://open.spotify.com/album/4jbP05tNzwGTM1e8flCcnZ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        },
-        {
-          "name": "Chesster",
-          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
-        }
-      ],
-      "duration_ms": 190908,
-      "name": "Plastic Smile",
-      "url": "https://open.spotify.com/track/3FUkx8GTcZBXCLcPLPRFXA"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -1875,22 +1899,6 @@
       "duration_ms": 387540,
       "name": "Rock Ya Soul",
       "url": "https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR"
-    },
-    {
-      "added_at": "2025-06-13 04:00:55",
-      "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/0ZpJBMIC9oRO6MU5J7NgXw"
-      },
-      "artists": [
-        {
-          "name": "Jeff Sorkowitz",
-          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
-        }
-      ],
-      "duration_ms": 152030,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/7zKuqq6C5d9hiONmhzLfzj"
     },
     {
       "added_at": "2025-05-23 04:00:35",

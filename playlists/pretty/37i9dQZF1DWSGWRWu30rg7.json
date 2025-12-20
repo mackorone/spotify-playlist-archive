@@ -1,15 +1,151 @@
 {
   "description": "Temukan beragam musik dari talenta segar dalam negri. Cover: RACH?",
-  "num_followers": 64283,
+  "num_followers": 64286,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEO4W1jhf7ivb1/oDmeFfISoecXV",
+  "snapshot_id": "AAAAAD1YgjC89ytz2W3eCcjME9+kqeBR",
   "tracks": [
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Ketahuan",
+        "url": "https://open.spotify.com/album/2VlRGFX7eDfVwVSrsvlFcz"
+      },
+      "artists": [
+        {
+          "name": "Jeje Slebew",
+          "url": "https://open.spotify.com/artist/37DGdOvzekrCM5W9R5psdE"
+        },
+        {
+          "name": "Alpin",
+          "url": "https://open.spotify.com/artist/5bP4BMYJcyEo54FC8UIu0g"
+        },
+        {
+          "name": "Mazaiya",
+          "url": "https://open.spotify.com/artist/6EVH4rzrFQxZGXCpPoP4O1"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Ketahuan",
+      "url": "https://open.spotify.com/track/7MpVryT9IO48nmZ628ICIf"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Latihan Bahagia",
+        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
+      },
+      "artists": [
+        {
+          "name": "Valent Duga",
+          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
+        }
+      ],
+      "duration_ms": 233058,
+      "name": "Untukmu yang Masih Bertahan",
+      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Yang Dekat",
+        "url": "https://open.spotify.com/album/3p8Q7vM4gasTE4tuhUTskb"
+      },
+      "artists": [
+        {
+          "name": "DION",
+          "url": "https://open.spotify.com/artist/3zWiHyFW5hB7y2GPVklxlU"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Yang Dekat",
+      "url": "https://open.spotify.com/track/5IJXUxAn0DjRLsAy0fcF9k"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Waktu Pagi",
+        "url": "https://open.spotify.com/album/1JSPBLzGmtX7w8UebYiUgq"
+      },
+      "artists": [
+        {
+          "name": "Danze",
+          "url": "https://open.spotify.com/artist/4ZXwr74zJLHx1mNgbOe8As"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Waktu Pagi",
+      "url": "https://open.spotify.com/track/290YAaweoRETUicS0yz4bH"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "BRINGIN (BB)",
+        "url": "https://open.spotify.com/album/4KTyPQ7k9JSuk6dG53lP8h"
+      },
+      "artists": [
+        {
+          "name": "Obyrins",
+          "url": "https://open.spotify.com/artist/7vhgzCwxeHScUnjGutCXXg"
+        }
+      ],
+      "duration_ms": 107561,
+      "name": "BRINGIN (BB)",
+      "url": "https://open.spotify.com/track/0kfQ0y3qi2xnwOAX6ECpfj"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Tak Sejalan",
+        "url": "https://open.spotify.com/album/0y72vEUukNdmknpXawMyQ1"
+      },
+      "artists": [
+        {
+          "name": "Tenty Kamal",
+          "url": "https://open.spotify.com/artist/2oizaPrBzAj2754qyq20ly"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Tak Sejalan",
+      "url": "https://open.spotify.com/track/0e1d0jTYDVGYkzZoO0fDk3"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Heart Bleed",
+        "url": "https://open.spotify.com/album/1fP7Ju4pfjftOLC7qRoTU1"
+      },
+      "artists": [
+        {
+          "name": "ClutterHush",
+          "url": "https://open.spotify.com/artist/5XHAswsjTMwbCmO4tDMRgB"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Heart Bleed",
+      "url": "https://open.spotify.com/track/3J6JkJQdOvVioamEgU6s0Q"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Sesalan Percintaan (Acoustic)",
+        "url": "https://open.spotify.com/album/6BTVMHsGdZBT9ZPEjvtPuY"
+      },
+      "artists": [
+        {
+          "name": "Jovita Pearl",
+          "url": "https://open.spotify.com/artist/3HLbQCbpfIofxRwCieidX5"
+        }
+      ],
+      "duration_ms": 246015,
+      "name": "Sesalan Percintaan (Acoustic)",
+      "url": "https://open.spotify.com/track/1oYHSCTb05IlIHZxB665RR"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3ThSbVY6TuSGjbkJGOVFPp"
@@ -25,7 +161,7 @@
       "url": "https://open.spotify.com/track/3aie1YivGTXPvouvVAMl9h"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/4x0CVloNeWvBj4UgyMD13t"
@@ -41,7 +177,7 @@
       "url": "https://open.spotify.com/track/3SKDfEtAnYAxqlnalNP96s"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Tenang, Belum Tentu itu yang Terjadi",
         "url": "https://open.spotify.com/album/3yk3DjWbNTN215j62COlnw"
@@ -57,7 +193,7 @@
       "url": "https://open.spotify.com/track/3JAJdtavE1iaqR0XCA73DW"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Ends With Holding You",
         "url": "https://open.spotify.com/album/0vMrWcXjNwvuCpKQiTTx2O"
@@ -73,7 +209,7 @@
       "url": "https://open.spotify.com/track/1CvoH9A32Dod8hgn0Jhy1A"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Terserah Keberuntungan",
         "url": "https://open.spotify.com/album/3V1ss14zWsZ8YlvGxyIXqX"
@@ -89,7 +225,7 @@
       "url": "https://open.spotify.com/track/71jt9LicN5GVHzxXilhiD9"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "LUKA",
         "url": "https://open.spotify.com/album/0BAZGDgJjdr8Y5nxmQTJkK"
@@ -105,7 +241,7 @@
       "url": "https://open.spotify.com/track/3HI1umhGMlXMrIVRXwIcm9"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Berharap",
         "url": "https://open.spotify.com/album/21P3i4ugRoPDrfmbG9gbhO"
@@ -121,7 +257,7 @@
       "url": "https://open.spotify.com/track/0wkFKcU8Gx5ym0pySiMTCu"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Titik Temu",
         "url": "https://open.spotify.com/album/1s0FYtOkPQo9n1VwBiVqMH"
@@ -137,7 +273,7 @@
       "url": "https://open.spotify.com/track/7deUlPAoIVX56v0T07Ml9w"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Ostrich ran faster than me, wth (Kohei Shimizu Remix)",
         "url": "https://open.spotify.com/album/6PYRdIUWfUnTLwQkBidU4f"
@@ -161,7 +297,7 @@
       "url": "https://open.spotify.com/track/6CqgeD5SwOplOUcmNk5opw"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Adu Domba",
         "url": "https://open.spotify.com/album/1DNAUsddzjGXYwU6yBEWME"
@@ -177,7 +313,7 @@
       "url": "https://open.spotify.com/track/19EKWKMV7u8vx7PMrsouSr"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Cerita Pendek",
         "url": "https://open.spotify.com/album/5obj8o6R98GIfKEJ0kJXhf"
@@ -193,7 +329,7 @@
       "url": "https://open.spotify.com/track/2pmdw5wiW2XPMuranPltUR"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Bosan Tanpa Alasan",
         "url": "https://open.spotify.com/album/0lcdDbvgu8XWBtOhyW6qmH"
@@ -209,7 +345,7 @@
       "url": "https://open.spotify.com/track/7x32KnGtYUb9rx6gYJEXgO"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Senafas (Acoustic)",
         "url": "https://open.spotify.com/album/5mVUH7ANwZKn2f6H1YdXHO"
@@ -225,7 +361,7 @@
       "url": "https://open.spotify.com/track/4zXYpOy0py6Y1Jr1M86f54"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Yang Teman Teman Aja",
         "url": "https://open.spotify.com/album/0cCGdFW54mm8bzCEoUork3"
@@ -241,7 +377,7 @@
       "url": "https://open.spotify.com/track/4uB9O3773fk6ghaLOiquZe"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "27 and Me",
         "url": "https://open.spotify.com/album/6BcPzrh8MBuBoDUDaGoYYF"
@@ -257,7 +393,7 @@
       "url": "https://open.spotify.com/track/1kdcuPfrLGkKxpQTsLaBPH"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Demi Cinta",
         "url": "https://open.spotify.com/album/0ayx1dW2tT5AceidJivaTW"
@@ -273,7 +409,7 @@
       "url": "https://open.spotify.com/track/0hJ6uHNUG2GcT9yUJY4bl2"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Sadis",
         "url": "https://open.spotify.com/album/4VmDJbnHWCAlrebvrfLIjb"
@@ -289,7 +425,7 @@
       "url": "https://open.spotify.com/track/4yjP2nw4SFJscBpmXGW6is"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Hompimpa",
         "url": "https://open.spotify.com/album/2zAgXcIZBkqqfSPR73AISD"
@@ -309,7 +445,7 @@
       "url": "https://open.spotify.com/track/1J3nBfmWJ3E3sJGdgtvBuW"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "SATU CINTAMU",
         "url": "https://open.spotify.com/album/2xrlegO5bqWthKFy7B7Ljt"
@@ -325,7 +461,7 @@
       "url": "https://open.spotify.com/track/5VJ1PhxLxtI0IZN5FZ4hLd"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Social Remedial",
         "url": "https://open.spotify.com/album/4RWECZnMeU6gpjFax2CPOq"
@@ -341,7 +477,7 @@
       "url": "https://open.spotify.com/track/2gM5Ak7qoV3FQbOzCRYXW0"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Bunga Matahari",
         "url": "https://open.spotify.com/album/6zmVBIwUZJERzKc4PQaVWq"
@@ -357,7 +493,7 @@
       "url": "https://open.spotify.com/track/0z7HDV3rBBLIEWurz4jzIA"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "game_over",
         "url": "https://open.spotify.com/album/1e3TWoQLtZD0rUFsWtykRW"
@@ -373,7 +509,7 @@
       "url": "https://open.spotify.com/track/44GODHD7SbnDIzQvcLBSmn"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Dalam Dua Memori",
         "url": "https://open.spotify.com/album/1w2kRRQF0eo3lwlpiMI0F0"
@@ -389,7 +525,7 @@
       "url": "https://open.spotify.com/track/3xHeKFziVXSs0K3gtCMbCU"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "And You Like It (Radio Edit)",
         "url": "https://open.spotify.com/album/03ULT0e9WPFMO7pb2gl5IB"
@@ -405,7 +541,7 @@
       "url": "https://open.spotify.com/track/78IStiY5eT9fJ2eYflXdqw"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Rest for the Longest Time",
         "url": "https://open.spotify.com/album/1CgjzfU3vYAvJyVZ1n6NcB"
@@ -429,7 +565,7 @@
       "url": "https://open.spotify.com/track/0uuuI7kU4IBvRPNJJtXW1o"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "BAILA",
         "url": "https://open.spotify.com/album/5sNbg53lOxXdYr2VYKlGlZ"
@@ -449,7 +585,7 @@
       "url": "https://open.spotify.com/track/2IWYlCdJQtcdG3rW0i0SfB"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Capek Banget",
         "url": "https://open.spotify.com/album/3Kimas3OtK9RTpFnQnTspL"
@@ -469,7 +605,7 @@
       "url": "https://open.spotify.com/track/2llpJaxtJREV6VxDeG9SBz"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Smoking In The Rain",
         "url": "https://open.spotify.com/album/2BtQegv3BsIv4B2eBeqvEX"
@@ -485,7 +621,7 @@
       "url": "https://open.spotify.com/track/4Ns512XgB7OzSApSIbAWOy"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Kertas Lipat",
         "url": "https://open.spotify.com/album/7CMi9Y8Oazdkqzgig0FxVi"
@@ -501,7 +637,7 @@
       "url": "https://open.spotify.com/track/0MZoQnCYWhue1FZRBYmmgm"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "a little too sad if you think about it.",
         "url": "https://open.spotify.com/album/60fCizXXL4UiUXPksbwyfk"
@@ -517,7 +653,7 @@
       "url": "https://open.spotify.com/track/3N5ocxGt2itRnxLSZlY57Y"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Antar Kota Antar Provinsi",
         "url": "https://open.spotify.com/album/4X9X8ywnIfspcP8aZXGniS"
@@ -533,7 +669,7 @@
       "url": "https://open.spotify.com/track/2lj37daPVOxjODp77twGhH"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Geleng Geleng Kepala (feat. Ncum)",
         "url": "https://open.spotify.com/album/78Pwu5CY5ncBBPTOvNISpK"
@@ -553,7 +689,7 @@
       "url": "https://open.spotify.com/track/5ptbbcGKrM9LS8SJKPCKfh"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Siomay",
         "url": "https://open.spotify.com/album/64RgoVMzVAyonKEW8MfVLX"
@@ -569,7 +705,7 @@
       "url": "https://open.spotify.com/track/6nVhwxcoou8XahH8Y5ozi9"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "THE WATCHMEN",
         "url": "https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki"
@@ -589,7 +725,7 @@
       "url": "https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Abyss of Goodbye",
         "url": "https://open.spotify.com/album/5e0ALaWQDQjbHqDjmzkWI5"
@@ -613,7 +749,7 @@
       "url": "https://open.spotify.com/track/0Dry8aVzNxK8HDTOfvVSch"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Kembali Berputar",
         "url": "https://open.spotify.com/album/5LLFZPLecLLU8FH2va1MRq"
@@ -629,7 +765,7 @@
       "url": "https://open.spotify.com/track/5EskXHsKX4unm365v5790X"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Plumeria / Vivid Dream",
         "url": "https://open.spotify.com/album/6Lsvdxjkfq6yGKYi0dYBpe"
@@ -645,7 +781,7 @@
       "url": "https://open.spotify.com/track/0Nla3nKdJBvz2elpSQDJxT"
     },
     {
-      "added_at": "2025-12-11 23:23:08",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Dancing Solo",
         "url": "https://open.spotify.com/album/1zNx84S7CK26x7eyxehCEg"
@@ -661,7 +797,7 @@
       "url": "https://open.spotify.com/track/3bEoz2ZcX4o4UVvcRjm3bb"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Dia",
         "url": "https://open.spotify.com/album/4zTUuam3j7T9KjRVjYVibM"
@@ -677,7 +813,7 @@
       "url": "https://open.spotify.com/track/1f3hhBtP2kjN8Oz5WVP66Y"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/6zDg5BoGqcsd8vAqYJ5Xou"
@@ -693,7 +829,7 @@
       "url": "https://open.spotify.com/track/0whopGrUiGyu4x0Xdv1SKG"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Jangan Pernah Berubah",
         "url": "https://open.spotify.com/album/3qdCxOe0zSUR2vIjaQnniB"
@@ -709,7 +845,7 @@
       "url": "https://open.spotify.com/track/3cjgv8Saf4oi6iqGPgrqo0"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Bersemi Kembali",
         "url": "https://open.spotify.com/album/69PtnX6oXeIhi0J9mHbf7D"
@@ -725,7 +861,7 @@
       "url": "https://open.spotify.com/track/2lJ8CTIZNGroqxQCRRoPb7"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "It Hurts A Little",
         "url": "https://open.spotify.com/album/4sHcqOCnxE9n4glm0OVpoi"
@@ -741,7 +877,7 @@
       "url": "https://open.spotify.com/track/53yLJQ8cpghI7pBjVuMknH"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Katarina",
         "url": "https://open.spotify.com/album/7mG2JwxAi8FcwWX8fOn6MF"
@@ -757,7 +893,7 @@
       "url": "https://open.spotify.com/track/45DEzRMDRgbQ8QucNWz7gZ"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Meski Perih",
         "url": "https://open.spotify.com/album/3EiqKc8pjPT0nJ0gcqEjjo"
@@ -773,7 +909,7 @@
       "url": "https://open.spotify.com/track/3WENCaPrHs2oVQ1zzTQvRb"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Tunggu Dulu",
         "url": "https://open.spotify.com/album/2BmAxFBGbLnCfZrZC3Nyr0"
@@ -789,7 +925,7 @@
       "url": "https://open.spotify.com/track/61KXtXSqNpWpR3JI69odnU"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Imperfectly Loving You",
         "url": "https://open.spotify.com/album/1giYPn8McTAvoltqDVU1WZ"
@@ -805,7 +941,7 @@
       "url": "https://open.spotify.com/track/0GSaYeJWAyxelH3zIg9DT6"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "(NO)STALGIA",
         "url": "https://open.spotify.com/album/5gf4SHNy7X21805le62wgA"
@@ -825,7 +961,7 @@
       "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Untuk Kita",
         "url": "https://open.spotify.com/album/6HgUVyURaN2GNwGogqRs6l"
@@ -845,7 +981,7 @@
       "url": "https://open.spotify.com/track/7pwYNDuVfr31eMOI7yO2EU"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/3TxaFsguZzgwS5MqWH5MBf"
@@ -861,7 +997,7 @@
       "url": "https://open.spotify.com/track/6QpCGTfiUELLODEDjqZwXd"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "2nd Option",
         "url": "https://open.spotify.com/album/1UFMrQ42nga67GFn1yEnmO"
@@ -877,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5hZQXusvF3hN28LFiqjCyJ"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Empty.",
         "url": "https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn"
@@ -893,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2kNpWuLtpMv8cSBKSozDau"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Terbang Bersama",
         "url": "https://open.spotify.com/album/0fBM1pTySwvBDIuhIFIwu9"
@@ -909,7 +1045,7 @@
       "url": "https://open.spotify.com/track/2xrX0MLi0aUDdRWr3kP8f7"
     },
     {
-      "added_at": "2025-12-05 07:22:14",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Fase",
         "url": "https://open.spotify.com/album/5YLrrxOAETZNvLACl8fVIn"
@@ -925,7 +1061,7 @@
       "url": "https://open.spotify.com/track/2Y8eoSf5fnylEJdIgCgBbH"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Harus Kemana",
         "url": "https://open.spotify.com/album/4mcYhkSZ4PhwOaRZ7uinrL"
@@ -941,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Live Fast or Die Trying (Live at Pensi Sicepat)",
         "url": "https://open.spotify.com/album/0qVPteYGfiKqXUS6B7jSoc"
@@ -957,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1QVxMm9atkjDcEBcz3IYwi"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/06SengA76DEheD7nezPrfY"
@@ -977,7 +1113,7 @@
       "url": "https://open.spotify.com/track/5WfbQ170UezHxKuT3TYcCS"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "House of Vultures",
         "url": "https://open.spotify.com/album/2c8GdSNqne11agbcmACQoZ"
@@ -993,7 +1129,7 @@
       "url": "https://open.spotify.com/track/10P7s24YBW00UcVh4sCIds"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Berdua",
         "url": "https://open.spotify.com/album/3uh0uaIhyJ7S7qRLgfxnfk"
@@ -1009,7 +1145,7 @@
       "url": "https://open.spotify.com/track/1wTQ1oYwpMs6J1EtsZiGN2"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Cita Cinta",
         "url": "https://open.spotify.com/album/7HEXcM3rUIwmU9kueJKsza"
@@ -1029,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Gundah Gulana",
         "url": "https://open.spotify.com/album/4vxS0BrFmBhs0cqtRe7ksX"
@@ -1045,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1E8iTU6BX83XClDnRnitnK"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "7 Menit",
         "url": "https://open.spotify.com/album/3TgKFSung0gstCo78vb7U9"
@@ -1061,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5n6pzrxQfnPCQgQPJWqMF1"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3cJT8dbnqlkO2pAj26c8gM"
@@ -1077,7 +1213,7 @@
       "url": "https://open.spotify.com/track/3LiwiwT5TVx7qzFca0n2wv"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "birthday/bad day",
         "url": "https://open.spotify.com/album/7fh7hOjSpnFWl11NH50GUu"
@@ -1093,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0itpp9VHB2NVa2Mv0Cr8UB"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Semua Cintamu (Bohong)",
         "url": "https://open.spotify.com/album/43EykcZTjaDCsBDwG1jxJG"
@@ -1109,7 +1245,7 @@
       "url": "https://open.spotify.com/track/278InXQIukdbNdZvBgfBXc"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Penutup Senja",
         "url": "https://open.spotify.com/album/2tbQnColvdJbhz5VcBenjn"
@@ -1125,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0BTQT4F3brT7PHH4l9RKlJ"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Sampai Nanti",
         "url": "https://open.spotify.com/album/1uVdGnecDopixoIdOXpINt"
@@ -1141,7 +1277,7 @@
       "url": "https://open.spotify.com/track/731fzLoBE7GhtOG3SZg9qC"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Rasamala",
         "url": "https://open.spotify.com/album/2LmJQvFGcHHdGRKhdD3I2M"
@@ -1157,7 +1293,7 @@
       "url": "https://open.spotify.com/track/0BwtyCdzdDTQrDbRXsa7mT"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Tak Pernah Sendiri (#tenangadague)",
         "url": "https://open.spotify.com/album/43NXGE46jGBxNxGlGBESYw"
@@ -1173,7 +1309,7 @@
       "url": "https://open.spotify.com/track/0NOKwUeBUvfqXvkXcSO3qZ"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Langit Biru",
         "url": "https://open.spotify.com/album/0606X4vD2iDjb9H4wPwaZp"
@@ -1189,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1JdcoYUnjM4FxpenIhZuIl"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Hari yang Berat",
         "url": "https://open.spotify.com/album/1e6f52bOpxRpKH7v6UBker"
@@ -1205,7 +1341,7 @@
       "url": "https://open.spotify.com/track/1As8kO6IxGMw3P4QpR2mq6"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Hidup Senang",
         "url": "https://open.spotify.com/album/36ElOP1akdqXmkYlbxiE9A"
@@ -1221,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1Kv3xdxAGU6sfKbCXmjuj3"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "make me your boy",
         "url": "https://open.spotify.com/album/65KmPYIbxj194Ixi3DRpp9"
@@ -1241,7 +1377,7 @@
       "url": "https://open.spotify.com/track/6jp0BHooHgw9dfcGdclt9E"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Muaraku Pulang",
         "url": "https://open.spotify.com/album/38005HHguIi4f1bfFH0DuL"
@@ -1257,7 +1393,7 @@
       "url": "https://open.spotify.com/track/44ZE7HzXu6TEliw6pLUHTM"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/0lYMULmA0wk3ymXJP7Mexj"
@@ -1273,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5PhyYKfYCjfPsRaCdEFOuQ"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Merengkuh",
         "url": "https://open.spotify.com/album/565pL8R2zjPWFjRNTTbRJ5"
@@ -1289,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0w42WDB9MoIfFtylkh04Y1"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Nurani",
         "url": "https://open.spotify.com/album/3eLAdIXlhNHqDAY7CisR9W"
@@ -1309,7 +1445,7 @@
       "url": "https://open.spotify.com/track/69V908tCzMYEAyz6yVuOen"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Menghilang",
         "url": "https://open.spotify.com/album/2tW4MKGZHQZrsQ5MtsuVZ3"
@@ -1325,7 +1461,7 @@
       "url": "https://open.spotify.com/track/2Zpwb6sWr3HEnVOITGgtLQ"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "SFTB",
         "url": "https://open.spotify.com/album/3dRkooVopGMTF2AH2ucxo5"
@@ -1341,7 +1477,7 @@
       "url": "https://open.spotify.com/track/7LGCDRfLmTiihFpmf4wiLT"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "MALAM PANJANG",
         "url": "https://open.spotify.com/album/0m1aiZYJ6RYEGZ6919zOou"
@@ -1361,7 +1497,7 @@
       "url": "https://open.spotify.com/track/0edZwUN6uRyFp694YTrUqT"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "BUMI",
         "url": "https://open.spotify.com/album/1jSYFg1sIAiinR7IP33rQ9"
@@ -1377,7 +1513,7 @@
       "url": "https://open.spotify.com/track/6nNKzXOdGaI0hFhDea9NtD"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Fresh (2022)",
         "url": "https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c"
@@ -1393,7 +1529,7 @@
       "url": "https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Terimakasih, Kawan",
         "url": "https://open.spotify.com/album/4w7nL6goDlxvtuVsCQGhO2"
@@ -1409,7 +1545,7 @@
       "url": "https://open.spotify.com/track/69EeTRtRbubxh1a28BkvYi"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Peccaterra",
         "url": "https://open.spotify.com/album/74VOQkrL47HotTOfrbQpKX"
@@ -1425,7 +1561,7 @@
       "url": "https://open.spotify.com/track/0puV6jUNZ8V0C8RK0lRk0x"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "how did we get here",
         "url": "https://open.spotify.com/album/533Ekh0RcB0rMyxoghetxm"
@@ -1441,7 +1577,7 @@
       "url": "https://open.spotify.com/track/7cHebaE0CiKFwA6EPUw8HM"
     },
     {
-      "added_at": "2025-12-04 17:00:26",
+      "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Bersamamu Kita Lewati",
         "url": "https://open.spotify.com/album/0HwAXdtReSeQOsxXo7aCPA"

@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-330 songs - 14 hr 42 min
+335 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Fall asleep Storm](https://open.spotify.com/track/75yganfLLS5N0oeLFt9gW4) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:30 | 2021-11-10 |  |
 | [Feel The Weather](https://open.spotify.com/track/7xZnOLMQY1yOWMZyB5Es6G) | [Thunderive](https://open.spotify.com/artist/6kiS6SmEZCpgDczXhYXlHK) | [Sleepy Storm](https://open.spotify.com/album/05lmfx8mKvNMhW93NDINmQ) | 2:27 | 2021-11-10 |  |
 | [Fjorgyn's Touch](https://open.spotify.com/track/5V6Vd53pmvD2xhVBryQZ15) | [Heart of Fjorgyn](https://open.spotify.com/artist/4fkTPjObX2xjH7mEk7WQRX) | [Northern Soul](https://open.spotify.com/album/6Zvk0pfC2Ao2d6mpjN2hzE) | 1:47 | 2021-11-10 | 2022-02-26 |
+| [Flashy Thunder](https://open.spotify.com/track/6q55rwqnimDNk7Z6FczWPt) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Flashy Thunder](https://open.spotify.com/album/0bsLbkg7wE62GwLdeH4Qly) | 2:58 | 2025-12-19 |  |
 | [Flux D'inondation](https://open.spotify.com/track/4aS4zVIrf5Hmfyn0eHW5DB) | [Enregistrements Sonores De La Nature](https://open.spotify.com/artist/5x5SqfLKe2ZtQJQBLXu01H) | [Flux D'inondation](https://open.spotify.com/album/2DaI1NhFiIjsnG8vHeeyMK) | 2:36 | 2023-02-13 |  |
 | [Focus Bad Weather](https://open.spotify.com/track/1JDovYXYHCeqP38zTy1BsM) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Day & Night Rain](https://open.spotify.com/album/0NyJjNOH8mA4niKYc1sutl) | 1:43 | 2021-11-10 | 2023-06-16 |
 | [Forest Spirits \(Rain\)](https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Gentle Waters](https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD) | 2:40 | 2023-02-13 |  |
@@ -115,6 +116,7 @@
 | [Heavy Storm](https://open.spotify.com/track/1WvCx016HUVL6opRQgQRmM) | [Tempest](https://open.spotify.com/artist/6vVLDxFDTld21ezPmiTJZ0) | [Disturbance](https://open.spotify.com/album/1bK5cnsWhyEA2iNTSrk1S3) | 3:00 | 2021-11-10 | 2025-12-10 |
 | [Heavy Thunderstorm](https://open.spotify.com/track/2FdcQ9lycbLNjjxjZobvzT) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:07 | 2023-02-13 | 2025-12-10 |
 | [Hometown Thunders](https://open.spotify.com/track/6bgUoT7qJnDPKZi6uopxwR) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Hometown](https://open.spotify.com/album/2oJvTwCJsPFgAJPci0XKGR) | 1:55 | 2023-02-13 | 2023-06-16 |
+| [Horizon Thunder](https://open.spotify.com/track/7MpssP0i3rwo245yYlwKjf) | [The Sound Of Thunder](https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX) | [Horizon Thunder](https://open.spotify.com/album/6uspTHWpqBH4b8enl30Zjn) | 4:31 | 2025-12-19 |  |
 | [Ice of Rain](https://open.spotify.com/track/5BAUdZVp4CLDp7BRE6W5Mr) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Storm over Grumant](https://open.spotify.com/album/32iAopq6xhzyLngSxcSG7a) | 3:28 | 2023-02-13 | 2025-12-10 |
 | [Indonesian Thunderstorm](https://open.spotify.com/track/50IOlIEHEUg0XIxpHlPJwO) | [Sounds of Southeast Asia](https://open.spotify.com/artist/50PVOvt3rFel03XnA1YUFm) | [Rainy Season](https://open.spotify.com/album/45uQXhHHhSr4K9Jj2T1zrI) | 2:56 | 2021-11-10 | 2023-02-14 |
 | [Infinite Rain Clouds](https://open.spotify.com/track/0pPMBiWpbShtUwpjuVsXs9) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Infinite Rain Clouds](https://open.spotify.com/album/14YL0Xbet4gFMtMsAkjJNF) | 2:36 | 2021-11-10 |  |
@@ -207,6 +209,7 @@
 | [Raining Me Softly](https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Cloudburst](https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA) | 2:09 | 2023-02-13 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2023-02-13 |  |
 | [Rainstorm](https://open.spotify.com/track/5Z5fhku3u9oxVV6KTPRsPZ) | [Lavinium](https://open.spotify.com/artist/5Z6GzR42Br7G8wOmu5lRuS) | [Weather FX](https://open.spotify.com/album/58ZclxW2fvqS4OW88fY7YJ) | 2:23 | 2021-11-10 |  |
+| [Raintrace](https://open.spotify.com/track/4I9R9f5i69LuWbF1n1cmEb) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Raintrace](https://open.spotify.com/album/2h1bHwub91CsTXN1hWq2OJ) | 3:00 | 2025-12-19 |  |
 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 | 2021-11-10 |  |
 | [Rainy Misty Skies](https://open.spotify.com/track/2l1jBfsyUWsD0NmHMEWtyd) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Afternoon Rainfall](https://open.spotify.com/album/5wiZUoAFlYkLnaDgH6qzUn) | 2:36 | 2021-11-10 |  |
 | [Rainy Nights](https://open.spotify.com/track/6NjY2QmltNePODQYrqPXYE) | [Digilake](https://open.spotify.com/artist/0036ceq10ETP3tGK3AHNcr) | [Rainy Nights](https://open.spotify.com/album/71hbKiEU2dYzoMxmw4BHYL) | 2:53 | 2023-06-15 |  |
@@ -214,6 +217,7 @@
 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 | 2023-02-13 |  |
 | [Relaxing Thunderstorm](https://open.spotify.com/track/3VcUGM9IYstqpptFCokPI4) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Rainy Days](https://open.spotify.com/album/6yxLBvCcUNcqXxugpmv3s8) | 2:09 | 2021-11-10 |  |
 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 | 2023-06-15 |  |
+| [Road Rain](https://open.spotify.com/track/6sZbZ3d11aCDmHTyarOUOq) | [Bali Rain](https://open.spotify.com/artist/54tn0DvLnrBUmX1tthjwJS) | [Road Rain](https://open.spotify.com/album/6fVLmbXaxl6VSEN5A7KmZE) | 3:14 | 2025-12-19 |  |
 | [Roaring Sky](https://open.spotify.com/track/5fJVMjXesqcHwP7AZwPLxF) | [Thunder & Lightning Storms](https://open.spotify.com/artist/6gJzciut4jWLuel8irt8JE) | [Roaring Sky](https://open.spotify.com/album/49ZZmmdqTsrLKqKyenqQ3y) | 2:54 | 2024-03-11 |  |
 | [Roaring Thunder](https://open.spotify.com/track/5yBX7tfwoQlRkio1DLVX1z) | [Exotic Thunder & Rain](https://open.spotify.com/artist/6AEnJuV30ZBpEn1UqSLAHF) | [First Edition](https://open.spotify.com/album/1sDvTTk8d0Tl1tJWYhcpfR) | 3:07 | 2021-11-10 | 2022-03-18 |
 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2021-11-10 | 2025-12-10 |
@@ -335,6 +339,7 @@
 | [Wet Weather](https://open.spotify.com/track/5hf4IrzBngV1tdtDKDzt7a) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Live In Thunder](https://open.spotify.com/album/0GNldraOAircB3HTqF13PI) | 2:36 | 2021-11-10 |  |
 | [Wide Rain \- Thunder](https://open.spotify.com/track/0dVn2OqVdmrCoRUN3cGjOj) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 3:05 | 2021-11-10 |  |
 | [Wind Storm, Rain & Far Thunder \(Stereo & HD\)](https://open.spotify.com/track/1eBBOLXyIfNyWHnHxwWVqV) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Thunder Stories \- Stereo HD Sounds](https://open.spotify.com/album/5BTff57UJusB5TgQyIV7CK) | 2:00 | 2023-02-13 | 2025-12-10 |
+| [Windy Thunder](https://open.spotify.com/track/3w6qoFc3wSZLdBvf37mVQe) | [Reine Thander](https://open.spotify.com/artist/0rAQL9GsPXzu7vWraGlvdB) | [Windy Thunder](https://open.spotify.com/album/7q2uKrDMzNh4kVC2iISi3A) | 2:42 | 2025-12-19 |  |
 | [Woodland Thunder Sound](https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Woodland Thunder Sound](https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k) | 3:20 | 2023-02-13 |  |
 | [Åska](https://open.spotify.com/track/3ant2EoVsF6aBczcOBw1D9) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Åska](https://open.spotify.com/album/3n66vdqIgvH6iNHe8ahQ0g) | 2:23 | 2021-11-10 |  |
 | [Åskväder](https://open.spotify.com/track/0xBJh1FWXbt1KyJbVxVYLp) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Åskljud](https://open.spotify.com/album/6Jd8SQAVeOWorxzNrbeqGX) | 3:46 | 2021-11-10 |  |

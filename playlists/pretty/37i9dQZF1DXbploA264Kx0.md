@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Jennifer \(席子淇\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,316 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,317 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [909](https://open.spotify.com/track/4blm8SZYdA6kHAQyS4AUaa) | [席子淇 Jennifer](https://open.spotify.com/artist/6MJgyTnNnqy1cfqUfAboft), [HUR+](https://open.spotify.com/artist/6PxsKEzCqNhZiKwCbAS6ur) | [909](https://open.spotify.com/album/0sbRrXUzh1clPYNl5kzrPw) | 2:01 |
-| 2 | [Day Off](https://open.spotify.com/track/6KEaGtszJ2T4c1OTcLQXx5) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [](https://open.spotify.com/album/null) | 2:43 |
+| 2 | [Day Off](https://open.spotify.com/track/6KEaGtszJ2T4c1OTcLQXx5) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [參](https://open.spotify.com/album/1Yd6Fh0NTKDx5jiqdAeUoO) | 2:43 |
 | 3 | [Crazy Tonight](https://open.spotify.com/track/4hNKihixRt0k0Q8HSbbx6f) | [安娜・李 \(Anna Lee\)](https://open.spotify.com/artist/5DbCgOJaM8YMlp5TV3ad6S) | [Crazy Tonight](https://open.spotify.com/album/35Me1xSdDKAPN8r1zO1zJZ) | 3:16 |
 | 4 | [어쩌면 너도 \(影集《整形過後》插曲\)](https://open.spotify.com/track/47VowcJURCKJpoiE7eBmBO) | [洪暐哲WAJI](https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O) | [어쩌면 너도 \(影集《整形過後》插曲\)](https://open.spotify.com/album/42DLIotmEHQUORLAAWCWjQ) | 3:39 |
 | 5 | [Walk](https://open.spotify.com/track/6RMrQc3mT9PksM7msH3aFn) | [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [鄭昭元 ZAOYUAN](https://open.spotify.com/artist/6LCI3F627oY5LPJ3cB4Hvj) | [Enough](https://open.spotify.com/album/3iyjQ3OEts3NZPMYXwyqIZ) | 4:27 |

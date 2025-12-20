@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Novel 729
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,723 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,773 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 15 | [DEN STAMATO](https://open.spotify.com/track/1kUQknb5UNq0o3jXwOCBwr) | [YT K](https://open.spotify.com/artist/24YLsxaeE17GVfcqwEQLpH) | [DEN STAMATO](https://open.spotify.com/album/2nICjbqaQBRwyrwlhup9FG) | 3:17 |
 | 16 | [CPR](https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [CPR](https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL) | 2:44 |
 | 17 | [STABA](https://open.spotify.com/track/1zPbtDdZs62xoHsGulS64C) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3), [GXHAN](https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD) | [STABA](https://open.spotify.com/album/48jUEMkqv3UVdWoxUsuDFb) | 2:27 |
-| 18 | [Pyrricheio](https://open.spotify.com/track/6abFZcYaCuwT2HLcKCfDoG) | [Pindos Atletico](https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4) | [](https://open.spotify.com/album/null) | 3:18 |
+| 18 | [Pyrricheio](https://open.spotify.com/track/6abFZcYaCuwT2HLcKCfDoG) | [Pindos Atletico](https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4) | [URSA MAJOR](https://open.spotify.com/album/2TpmZaD64ZErUA0VdPnbyE) | 3:18 |
 | 19 | [CHOCO FRESH](https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT) | [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [CHOCO FRESH](https://open.spotify.com/album/0KiLceIAWD6fFxbU2c0BNv) | 3:41 |
 | 20 | [TAKAMURI](https://open.spotify.com/track/3jOGLfy5CVaqmsGRJViS2x) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [TAKAMURI](https://open.spotify.com/album/31YAbb1ZJUudMDrH7Aizb9) | 2:48 |
 | 21 | [Lete Lete](https://open.spotify.com/track/676OyMHIOfootgShTPbJgC) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Lete Lete](https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS) | 3:33 |

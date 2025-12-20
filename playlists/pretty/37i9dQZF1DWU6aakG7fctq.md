@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,809 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,963 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 |
 | 50 | [revivirlo](https://open.spotify.com/track/3pkVWHKD3qy1QcJl0xkeV5) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [revivirlo](https://open.spotify.com/album/16NEAOjw6SYJ7lKsIjYr62) | 2:34 |
 
-Snapshot ID: `AAAAABjIapliYhS7auL/LAk8DBGHQNmw`
+Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,074 likes - 213 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,098 likes - 213 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,4 +222,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 212 | [Orbital Feelings](https://open.spotify.com/track/2d1LkZmuwfVYYQfZvZOISZ) | [Luca Kerr](https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap) | [Orbital Feelings](https://open.spotify.com/album/1Q7DrtzmfZVf6qTyDECF0b) | 2:52 |
 | 213 | [Through The Pines](https://open.spotify.com/track/1ajtajMK9QLumz8fzLZ57o) | [Luna Serenity](https://open.spotify.com/artist/6NjcHrItY1c8OnFcY70avf) | [Through The Pines](https://open.spotify.com/album/4VAai7BhRiucUUMbeIXQGK) | 2:26 |
 
-Snapshot ID: `AAAAAFUxCyKCwSQAv3TgpI7rcyggye2Q`
+Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`

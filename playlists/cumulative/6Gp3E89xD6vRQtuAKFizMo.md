@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-528 songs - 1 day 1 hr 17 min
+529 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Hands Up](https://open.spotify.com/track/3WCxK21BE4ar25o8hYUsWn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Dave Mak](https://open.spotify.com/artist/3L17EqHYfIfGDdsf9vc05U), [Scheffwell](https://open.spotify.com/artist/6jcN72tgLCU7POn5N2834e) | [Hands Up](https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf) | 2:11 | 2023-11-22 | 2025-04-27 |
 | [HARIKĒN](https://open.spotify.com/track/3rC44MszjGBcK7gYRHWFDh) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH) | [HARIKĒN](https://open.spotify.com/album/1b7O6M1X2z1ZGv3KbwKw2e) | 2:40 | 2023-08-04 | 2025-04-27 |
 | [Haunted](https://open.spotify.com/track/6OhmXq1u2nB8Wrm5wuPrqs) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Haunted](https://open.spotify.com/album/25az9xpMDxpmAzCTCwX7hf) | 2:35 | 2023-11-22 | 2025-04-27 |
+| [Head Rush](https://open.spotify.com/track/4DPekWzLEoCJdJErOexV84) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Head Rush](https://open.spotify.com/album/208R9Hzer2ptU4r0dPrC2k) | 2:38 | 2025-12-19 |  |
 | [Headbanga](https://open.spotify.com/track/4Asj48VLpUcgyZ2dUwwJ8k) | [TRICKSTAR](https://open.spotify.com/artist/6ZwAfJfUZZObHgUodhLBj5) | [CROWDWORK](https://open.spotify.com/album/7r1TvLGR7ZwN5Oi8NUL28X) | 2:06 | 2025-10-03 |  |
 | [Headlights](https://open.spotify.com/track/3OLuiRmi5DtpHq8SZiCtW3) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Headlights](https://open.spotify.com/album/7Fixp63EZJVwpQduqCJCBi) | 2:20 | 2023-11-22 | 2025-04-27 |
 | [Heart Already Broken](https://open.spotify.com/track/24tuWE14clPAH5cSjLesAT) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I), [Amanda Joy](https://open.spotify.com/artist/0nWFxqxClqiIvjQvjyi4Gi) | [Heart Already Broken](https://open.spotify.com/album/2LmgVWaLfAGjMx1CT1IinH) | 2:27 | 2025-06-25 |  |

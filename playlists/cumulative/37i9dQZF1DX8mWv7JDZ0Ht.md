@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Benziê
 
-886 songs - 1 day 20 hr 14 min
+887 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Ainda Bem Que Chegou \- Ao Vivo](https://open.spotify.com/track/2HSEyvmr7gucSJDrqTl9bg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:21 | 2024-11-15 | 2024-12-13 |
 | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/track/3Lh9v1tenzstOMXEwL9Yar) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Vou Morrer por Não Falar](https://open.spotify.com/album/4sZn8YVyraqukoODDWMpLM) | 3:12 | 2022-10-07 | 2023-06-03 |
 | [Ainda é Tempo](https://open.spotify.com/track/6D877vEl1ylQqbO6Wkkrit) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Ainda é Tempo](https://open.spotify.com/album/4oPIKhHH12Pv9GhmCUVDyJ) | 2:53 | 2025-10-31 | 2025-11-23 |
+| [Alguém Pode Dizer \(Acusticamente\)](https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC) | [Balara](https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp) | [Alguém Pode Dizer \(Acusticamente\)](https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB) | 3:41 | 2025-12-19 |  |
 | [Aliança](https://open.spotify.com/track/2tLfyFT8X6MmdYsyo9x5Gg) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Aliança](https://open.spotify.com/album/6xTuOYTLMwNqwbyNHTtAot) | 3:13 | 2022-06-14 | 2022-06-25 |
 | [Alto Mar](https://open.spotify.com/track/0UAeeeqIozUW3g5w86bp9m) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/7LevgNPvMOCz0xVDQ61wM0) | 3:17 | 2022-05-13 | 2022-07-29 |
 | [Alto Mar](https://open.spotify.com/track/7GwO8ewOutzHzL3HeMbxK4) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar](https://open.spotify.com/album/6DahyEuFWlMu8ECGM2lrDX) | 3:17 | 2022-07-01 | 2022-10-15 |
@@ -503,7 +504,7 @@
 | [N](https://open.spotify.com/track/7iNcOVH9n4EEY2rwWAQOsA) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/25TC2OVhHvNUOm7FOzIS3r) | 3:34 | 2023-04-28 | 2024-01-27 |
 | [N\-U\-M\-A\-B\-O\-A](https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- Volume 1](https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC) | 3:06 | 2023-10-13 | 2023-10-29 |
 | [Na Proa da Saudade](https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Gérbera + Na Proa da Saudade](https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH) | 3:36 | 2025-01-17 |  |
-| [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 | 2024-05-31 |  |
+| [nada do que você falou](https://open.spotify.com/track/3yHOMte77W5i92H0tx1UNc) | [Ítalo Ribeiro](https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu) | [nada do que você falou](https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU) | 2:33 | 2024-05-31 | 2025-12-20 |
 | [Nada vai ser como antes](https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Tudo que deu pra fazer em um ano](https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I) | 2:11 | 2025-12-12 |  |
 | [Nem disse adeus](https://open.spotify.com/track/6zmHiJ4dRd98zrJMa4SQNK) | [Enzo Yuki](https://open.spotify.com/artist/3Bw1XXhKZBD63mHPKiJZBR), [bel cortez](https://open.spotify.com/artist/2cN632fv7idMPULWMs4hk9) | [Nem disse adeus](https://open.spotify.com/album/6YKViKUIrDHRzCEPvXQ0lc) | 2:19 | 2025-01-24 | 2025-02-01 |
 | [Nem Eu Me Entendo](https://open.spotify.com/track/6FU5kC8lWZiIOgApwwH33S) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Múltipla](https://open.spotify.com/album/0dZLS5MG9AhHOeOqjmhUl2) | 2:41 | 2023-08-04 | 2023-11-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. HUMBE en portada.\n",
-  "num_followers": 1809497,
+  "num_followers": 1809563,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMmaIVSOu89Cx7e2kUkBeXP5lX9a",
+  "snapshot_id": "AAAAAOmudOtuNkz0VeO4xVdpmk9xjD6g",
   "tracks": [
     {
       "added_at": "2025-12-15 20:03:40",
@@ -101,6 +101,26 @@
       "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
     },
     {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1b0B1bfB9LYbhmAC1Zaz9r"
+    },
+    {
       "added_at": "2025-12-15 20:03:40",
       "album": {
         "name": "Chimba",
@@ -123,26 +143,6 @@
     {
       "added_at": "2025-12-15 20:03:40",
       "album": {
-        "name": "Mu\u00e9rdeme",
-        "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Mu\u00e9rdeme",
-      "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
-    },
-    {
-      "added_at": "2025-12-15 20:03:40",
-      "album": {
         "name": "Dejame Dormir",
         "url": "https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh"
       },
@@ -159,6 +159,42 @@
       "duration_ms": 160500,
       "name": "Dejame Dormir",
       "url": "https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "Otro Como T\u00fa",
+        "url": "https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "Otro Como T\u00fa",
+      "url": "https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE"
+    },
+    {
+      "added_at": "2025-12-15 20:03:40",
+      "album": {
+        "name": "Mu\u00e9rdeme",
+        "url": "https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Mu\u00e9rdeme",
+      "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
     },
     {
       "added_at": "2025-12-15 20:03:40",
@@ -311,6 +347,22 @@
       "duration_ms": 175748,
       "name": "Si Te Quedas",
       "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "A escondidas",
+        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "A escondidas",
+      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
     },
     {
       "added_at": "2025-12-15 20:03:40",
@@ -627,26 +679,6 @@
     {
       "added_at": "2025-12-15 20:03:40",
       "album": {
-        "name": "PALACIO DE LUX",
-        "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Mar\u00eda Jos\u00e9 Llergo",
-          "url": "https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q"
-        }
-      ],
-      "duration_ms": 194565,
-      "name": "bachata m\u00eda",
-      "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
-    },
-    {
-      "added_at": "2025-12-15 20:03:40",
-      "album": {
         "name": "LO QUE ME FALTA POR LLORAR",
         "url": "https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi"
       },
@@ -855,26 +887,6 @@
     {
       "added_at": "2025-12-15 20:03:40",
       "album": {
-        "name": "Maldita Mudanza",
-        "url": "https://open.spotify.com/album/7z90eLTOUGUSIMx3z4ocLX"
-      },
-      "artists": [
-        {
-          "name": "Vanesa Mart\u00edn",
-          "url": "https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Maldita Mudanza",
-      "url": "https://open.spotify.com/track/7ukjvqJPz3u8pGfi4OYNU7"
-    },
-    {
-      "added_at": "2025-12-15 20:03:40",
-      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -931,22 +943,6 @@
       "duration_ms": 149797,
       "name": "no lo ves",
       "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
-    },
-    {
-      "added_at": "2025-12-15 20:03:40",
-      "album": {
-        "name": "Melanc\u00f3lico",
-        "url": "https://open.spotify.com/album/4NBQW40rKJhYHAVjMuVanS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 178794,
-      "name": "Melanc\u00f3lico",
-      "url": "https://open.spotify.com/track/2h20jZvxaF4qcJUiOatO2W"
     },
     {
       "added_at": "2025-12-15 20:03:40",

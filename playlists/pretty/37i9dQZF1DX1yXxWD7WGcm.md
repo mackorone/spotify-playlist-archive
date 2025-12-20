@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,236 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,270 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 |
 | 50 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \(Deluxe edition\)](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 |
 
-Snapshot ID: `AAAAAB/pFt9H66+WelrkyAF6WKC4AaXb`
+Snapshot ID: `AAAAAK5oe4KrdjInSBWhfLkNKq4jEqkK`

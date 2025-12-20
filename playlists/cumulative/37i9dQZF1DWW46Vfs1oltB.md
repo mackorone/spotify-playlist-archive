@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ksmartboi\(김상민그는감히전설이라고할수있다\)\)
 
-1,713 songs - 3 day 19 hr 28 min
+1,714 songs - 3 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Drunken Tiger's Kids \(feat\. Inno, Jo Gwangil, SIKBOY, WONA & Jung Sangsoo\)](https://open.spotify.com/track/2DWvbBPKNF4j5fNOhvkvYO) | [New Champ](https://open.spotify.com/artist/4Ozg6A5tcPatPxTEBe019x), [Inno](https://open.spotify.com/artist/37GHkxXjAF0rlQvh3wHE05), [Jo Gwangil](https://open.spotify.com/artist/26a11HcBOVeX5KANeiuMjY), [Sikboy](https://open.spotify.com/artist/7yhu8y8MIhKA3I4n02MdBQ), [WONA](https://open.spotify.com/artist/5O40I7r7RMOMoGac3YS8DJ), [Jung Sangsoo](https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4) | [Drunken Tiger's Kids \(feat\. Inno, Jo Gwangil, SIKBOY, WONA & Jung Sangsoo\)](https://open.spotify.com/album/07LkO92g0XnYTD0A4jR1gE) | 6:24 | 2022-11-22 | 2022-12-10 |
 | [Dry Alert \(Feat\. A\-Chess, Yonge Jaundice\)](https://open.spotify.com/track/16fe9M4r8KSpjwCXQ8qZ8n) | [D.O](https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [A\-chess](https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR), [Yonge Jaundice](https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT) | [Dry Season](https://open.spotify.com/album/5G6H8VfOznaBQORTLRGbOA) | 2:44 | 2023-09-14 | 2024-01-06 |
 | [Dry Flower \(Feat\. OLNL, GEMma\)](https://open.spotify.com/track/1izqekFgQhPvnYnMWV6Ciq) | [GRIO](https://open.spotify.com/artist/0MjC05t54hhvrqLBsIeTbu), [OLNL](https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z), [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [Dry Flower](https://open.spotify.com/album/4pKLK15Rc5OBNUeJbuA65W) | 2:57 | 2022-08-18 | 2022-09-23 |
+| [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-19 |  |
 | [Dumb](https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:54 | 2023-06-23 | 2023-09-15 |
 | [DUMMY \(FEAT\. 개리\)](https://open.spotify.com/track/49J99tgq9RE1B1VniOP6D6) | [Hangzoo](https://open.spotify.com/artist/0m5ETFICJLAg6ageqa9FgZ), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi) | [BAD DRIVER 1ST LP](https://open.spotify.com/album/3aFUsmKpN3NChwWAb2qmdI) | 3:47 | 2025-02-21 | 2025-05-03 |
 | [E MINOR FREESTYLE](https://open.spotify.com/track/7FQeQXRLz0mHpPiCwdDRw8) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 4:43 | 2022-08-12 | 2022-09-28 |

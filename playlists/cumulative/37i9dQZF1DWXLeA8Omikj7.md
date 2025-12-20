@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,144 songs - 3 day 11 hr 28 min
+1,145 songs - 3 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Above](https://open.spotify.com/track/0TCBdI2nBP9EPd0DobvegE) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Above](https://open.spotify.com/album/5SkzoviL3Yb4OADgc3cV6k) | 3:07 | 2021-11-26 |  |
 | [Abrasive](https://open.spotify.com/track/4nj6E9ulLdptv9yELjV4gF) | [Milton Breech](https://open.spotify.com/artist/4m9ky9cpnow3EZ44QgB90k) | [Abrasive](https://open.spotify.com/album/0Lp93hgJq0UTlZz3qbPKMW) | 2:49 | 2019-06-19 | 2020-08-26 |
 | [ACE OF CUPS](https://open.spotify.com/track/1upAhgDBWCV0AvUxgAU6SR) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [RENEGADES OF LIGHT](https://open.spotify.com/album/4KVo7hcHmc7x12sszqdLAN) | 2:59 | 2019-06-19\* |  |
+| [Acrobat](https://open.spotify.com/track/5UEM8XAADYEki5PBqR9wbI) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:16 | 2025-12-18 |  |
 | [Actually Smiling](https://open.spotify.com/track/0v3GjBnLt14cwS849QuX3p) | [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Abysma](https://open.spotify.com/album/19fG1FIY9GZUyxM4ehuTvV) | 4:54 | 2023-06-22 | 2023-09-17 |
 | [Adagio for Square](https://open.spotify.com/track/5IlR8G1OEn99cV3WB49O7o) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Adagio For Square](https://open.spotify.com/album/21405c2hee8mPCH11ng0Ie) | 5:40 | 2019-05-26\* | 2019-06-19 |
 | [Adieu](https://open.spotify.com/track/2M5qth30iBEU1DwurvxaAE) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Divide & Conquer](https://open.spotify.com/album/2EvKkEYA4lEptctltrFEpz) | 1:40 | 2019-05-26\* | 2020-10-22 |
@@ -60,7 +61,7 @@
 | [Ambre](https://open.spotify.com/track/560anuQ9osy5gKo20TeuBj) | [Else](https://open.spotify.com/artist/2tUUqZeqBYInHt3aDp3a1B) | [Ambre](https://open.spotify.com/album/6KmibxP8SSfsG9FcLu6wpz) | 4:00 | 2019-06-19\* | 2020-08-26 |
 | [Amores](https://open.spotify.com/track/3KTkkZvSPmh3leXluyABBs) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 5:57 | 2020-12-04 | 2020-12-16 |
 | [Anamorphic](https://open.spotify.com/track/2iTKiIGTQHtCOLXJk3peQa) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Anamorphic / Forever](https://open.spotify.com/album/2e7PIMKTzgt15GnL7UeERg) | 7:10 | 2019-06-19\* | 2020-08-26 |
-| [And The Lake Was...](https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [And The Lake Was...](https://open.spotify.com/album/2gTzcPZfcNopb7zAajrKy2) | 3:52 | 2022-05-27 |  |
+| [And The Lake Was...](https://open.spotify.com/track/1gr1pLxrhTjzpmq2WPDhRW) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [And The Lake Was...](https://open.spotify.com/album/2gTzcPZfcNopb7zAajrKy2) | 3:52 | 2022-05-27 | 2025-12-20 |
 | [And Then You Came](https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS) | [FERR](https://open.spotify.com/artist/2wJ0jGmAcvU2tYsIvGXg4P), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Maria Marcus](https://open.spotify.com/artist/3TFBKKjm1zzgBCOQi2SEGY) | [As Above So Below \(Deluxe Version\)](https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn) | 4:47 | 2020-12-04 |  |
 | [Angel](https://open.spotify.com/track/1sasHok8uYDG2dYoE1ir6y) | [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Angel](https://open.spotify.com/album/6RoTYOifoM7Jjz01qiSG5r) | 10:52 | 2022-01-14 | 2022-04-18 |
 | [Angels](https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT) | [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Othona](https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5) | 4:16 | 2022-09-09 | 2024-04-19 |

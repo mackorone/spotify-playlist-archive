@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Nehaal Naseem",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Flipperachi",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -1593,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "Bhool",
+        "url": "https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Bhool",
+      "url": "https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE"
+    },
+    {
+      "album": {
         "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
         "url": "https://open.spotify.com/album/1pDOFak83OlJVuXnMRkXHq"
       },
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 217916,
       "name": "CHAN MAHIYA - ACOUSTIC",
       "url": "https://open.spotify.com/track/5Y0uBJtDX6lJNUm6YybDnX"
@@ -8833,6 +8851,24 @@
     },
     {
       "album": {
+        "name": "Ronay Na Diyaa",
+        "url": "https://open.spotify.com/album/5Ia8AO7FlXh26zXuPiYdNn"
+      },
+      "artists": [
+        {
+          "name": "Ghayas Haider",
+          "url": "https://open.spotify.com/artist/2tkZLbhG41sN7Kf4MsiNrw"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205391,
+      "name": "Ronay Na Diyaa",
+      "url": "https://open.spotify.com/track/3O6hCRofBptFDA86oyrxSJ"
+    },
+    {
+      "album": {
         "name": "ROOP",
         "url": "https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE"
       },
@@ -11290,7 +11326,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 178848,
       "name": "Tum He Ho",
       "url": "https://open.spotify.com/track/5GlCwew33stVBp190LF5x1"

@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Kevin Kaarl en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-247 songs - 16 hr 7 min
+249 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 | 2025-05-30 |  |
 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 | 2025-05-30 |  |
 | [Después de ti](https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw) | [Flor de Jade](https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO) | [Volar](https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB) | 4:01 | 2025-01-10 | 2025-05-31 |
+| [Diciembre 15](https://open.spotify.com/track/1T3vP9J05jXnq0w0ZNpkrl) | [Itani Aline](https://open.spotify.com/artist/5GkT1e3KzLEH9pXEWnlMba) | [Diciembre 15](https://open.spotify.com/album/6O3ZfuhBdb1UKGtPcHkCdH) | 2:55 | 2025-12-19 |  |
 | [Diente de León](https://open.spotify.com/track/2gdBOt1AKjkoZyO7C3MUFy) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [El Perro Feroz](https://open.spotify.com/album/7IZ6Ez4uj3Vo0WPQrrGXlp) | 2:20 | 2025-05-30 |  |
 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 | 2025-05-30 |  |
 | [Dime ¿Por Qué?](https://open.spotify.com/track/16UfWuXNzbmmfj84mn8v35) | [Zoe del Olmos](https://open.spotify.com/artist/6ILwU6BnrRLuM4VvNNQTVJ) | [Dime ¿Por Qué?](https://open.spotify.com/album/1pC2vRPPeUPe8HCBNlctOL) | 1:38 | 2025-11-21 |  |
@@ -130,7 +131,7 @@
 | [La Pieza](https://open.spotify.com/track/1QKNOXDI74W6gmDc3T4ujw) | [Jarana Beat](https://open.spotify.com/artist/34y5NnlN2zQYqZZWwYSy60), [Mireya](https://open.spotify.com/artist/6nmhKuSX86VY9oD1rNPF06), [Shae Fiol](https://open.spotify.com/artist/6gE1Xwy465JTBLZb2d8y4E) | [Vibración por Simpatía, Ome Ollin: Movimiento Il](https://open.spotify.com/album/0rLcruMrEJIMgHTkDs6Fvh) | 5:38 | 2022-03-04 | 2024-09-07 |
 | [La Pistola Y El Corazón](https://open.spotify.com/track/0y7nguDRPWfKZGIZPRCE5q) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Pistola Y El Corazon](https://open.spotify.com/album/30kfddnchGyZepcTfJuAyV) | 3:27 | 2022-03-04 | 2025-05-31 |
 | [Laayli' kuxa'ano'one](https://open.spotify.com/track/02dF3qjpgTpmPCBKo72C06) | [Adn Maya Colectivo](https://open.spotify.com/artist/3jADYwTI7Ae1cGiix32d3o), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Yaalen K'uj](https://open.spotify.com/artist/3otlAvVRLjmlSjCNDA8SBu), [All Mayan Winik](https://open.spotify.com/artist/0gkJGL3WK17uE96aWRVDFd) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:44 | 2023-02-03 | 2023-05-10 |
-| [Las Maderas de Mi Barca](https://open.spotify.com/track/5DB3zghNQcFgdDRA6Gwo68) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Las Maderas de Mi Barca](https://open.spotify.com/album/7GrW1WDSuTQVZoBZB7xFPX) | 3:09 | 2025-08-18 |  |
+| [Las Maderas de Mi Barca](https://open.spotify.com/track/5DB3zghNQcFgdDRA6Gwo68) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Las Maderas de Mi Barca](https://open.spotify.com/album/7GrW1WDSuTQVZoBZB7xFPX) | 3:09 | 2025-08-18 | 2025-12-20 |
 | [Las Simples Cosas](https://open.spotify.com/track/39QtFjMLusqG2cjMDwB2PP) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Las Simples Cosas](https://open.spotify.com/album/3IzhyTGCERRNYcCiS8pnpz) | 3:28 | 2022-03-04 | 2025-05-31 |
 | [Llora y Canta](https://open.spotify.com/track/5jUiM6evktUEwC76IHQX7t) | [La China Sonidera](https://open.spotify.com/artist/7ejHKHw1TwhzW50cd14z9A) | [Llora y Canta](https://open.spotify.com/album/4offLNU0HbjuCMwL6u1Zrq) | 5:56 | 2022-03-04 | 2023-02-04 |
 | [Lo Hice, Te Dejé](https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Lo Hice, Te Dejé](https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN) | 3:06 | 2025-05-30 |  |
@@ -162,6 +163,7 @@
 | [nadie va a pensar en ti mejor que yo](https://open.spotify.com/track/30fduyyodbe4XUJ45Sn8zK) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/25LvmhsAq8LUUxNgkVK2tu) | 5:41 | 2025-11-14 |  |
 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 | 2023-02-22 | 2025-05-31 |
 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 | 2022-03-04 | 2025-05-31 |
+| [No Estoy Triste, Estoy Lejos](https://open.spotify.com/track/0SUS21tacPzjAcYLVEi78l) | [Mariella y Venero](https://open.spotify.com/artist/76vGvqFz2qUYeCyY8W8c4Y) | [No Estoy Triste, Estoy Lejos](https://open.spotify.com/album/4oHh123UoLe574yFhfBw2U) | 5:23 | 2025-12-19 |  |
 | [no hay problema](https://open.spotify.com/track/6hHvuWEchiY9UyyjHlrs5B) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [LA NUBE EN EL JARDÍN](https://open.spotify.com/album/25LvmhsAq8LUUxNgkVK2tu) | 5:06 | 2025-11-14 |  |
 | [no me culpes por sentir](https://open.spotify.com/track/2XgCopGQ3HzMhxNPOYrW85) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:48 | 2025-05-30 |  |
 | [No Me Importa](https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [No me Importa](https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb) | 2:57 | 2025-06-24 |  |
@@ -180,7 +182,7 @@
 | [Precisa Tiempo](https://open.spotify.com/track/22tsm1x1JSXtth3JBSbbcs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Precisa Tiempo](https://open.spotify.com/album/6WG6ZR9TbX048lDG9SHDVN) | 3:38 | 2025-12-05 |  |
 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2022-03-04 | 2025-05-31 |
 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 | 2022-03-04 | 2025-05-31 |
-| [Pérame Tantito](https://open.spotify.com/track/0jeYevrtN1UjsTQnLdc7L6) | [Karis Sea](https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq) | [Pérame Tantito](https://open.spotify.com/album/6A2JCnbH2Pem0VYZx6f9MT) | 2:01 | 2025-01-10 |  |
+| [Pérame Tantito](https://open.spotify.com/track/0jeYevrtN1UjsTQnLdc7L6) | [Karis Sea](https://open.spotify.com/artist/1hZdBi5DEE6yFOUOcfFjGq) | [Pérame Tantito](https://open.spotify.com/album/6A2JCnbH2Pem0VYZx6f9MT) | 2:01 | 2025-01-10 | 2025-12-20 |
 | [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/track/4h3VRMvEiivdNsQJRBUDML) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Que Sea para Mí \(Sabor a Mar\)](https://open.spotify.com/album/4hYkMJUvRrTXdJKQUVoTUU) | 3:18 | 2022-03-04 | 2025-05-31 |
 | [Quiero](https://open.spotify.com/track/4A659tyDEUazpnSNENjuV2) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5), [Las Nieves de Enero](https://open.spotify.com/artist/7wejxsQiQxb3EuqdG5XkYA), [Jesús Antonio López Guerrero](https://open.spotify.com/artist/6twKUrThGBfDLcHa7KHUui) | [Quiero](https://open.spotify.com/album/5HhAqcfY3Vfwaa6YqgFSsI) | 3:53 | 2025-05-30 |  |
 | [Quiero Verte Feliz](https://open.spotify.com/track/3iFt4DlU6m4eqIFS7GBc4Y) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Quiero Verte Feliz](https://open.spotify.com/album/06aAMIxG5RZzUAZ6KUe4bx) | 2:57 | 2022-03-04 | 2025-05-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Kube..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,479 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,537 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 4 | [I Will Stay \(Vain elämää kausi 16\) \- TV\-live](https://open.spotify.com/track/4Sd5Fh0LNSyG0eWzegPA8K) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [I Will Stay \(Vain elämää kausi 16\) \[TV\-live\]](https://open.spotify.com/album/0vdefSsgOuwd4WHDHQxZ8Z) | 3:08 |
 | 5 | [Crowned In Crimson](https://open.spotify.com/track/3tBDA9r3tKMV1y3wv0H9Ls) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Crowned In Crimson](https://open.spotify.com/album/4rBMBnxWbUxuHKIEN7ydBT) | 4:35 |
 | 6 | [Hylkään](https://open.spotify.com/track/5X0CR9QTLrd6n57eM8t741) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Hylkään](https://open.spotify.com/album/4159kryWXOalGvAG4dKla6) | 3:58 |
-| 7 | [AUDEMARS PiQUET](https://open.spotify.com/track/1OPszPKUlwORknReyxf426) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [](https://open.spotify.com/album/null) | 3:53 |
+| 7 | [AUDEMARS PiQUET](https://open.spotify.com/track/1OPszPKUlwORknReyxf426) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [2turnt](https://open.spotify.com/album/2YJSIXDXscdi7Yj0Rw8y09) | 3:53 |
 | 8 | [FXCKX OUR NIGHT](https://open.spotify.com/track/5z04ca5PTqAlYh7G3Gj0r2) | [Zorro](https://open.spotify.com/artist/1RrZDKz5tA9AWiVzXGWEBY) | [FXCKX OUR NIGHT](https://open.spotify.com/album/70grWhARo10BApDBenKyuY) | 2:49 |
 | 9 | [Where We Used To Fly](https://open.spotify.com/track/0G09X5IPZ9bjEkVESLUFaB) | [Alex Stonebay](https://open.spotify.com/artist/196dcuwJrobm0Rb6KYRFfw) | [Where We Used To Fly](https://open.spotify.com/album/2kuYa9RtD3cPQ7mNMWrqOk) | 3:45 |
 | 10 | [Lies](https://open.spotify.com/track/1QUzv1Hk0tnzWoZAg3ZNut) | [Kelly Koger](https://open.spotify.com/artist/6yIBdU8VdvQRIF0Iqgmb97) | [Echoes of Desire](https://open.spotify.com/album/6FchGs8x1wNlgcZspAaYgL) | 3:32 |
 | 11 | [Silent Lights](https://open.spotify.com/track/1ifL0KNgPjP1voeupe9dHF) | [KLASS](https://open.spotify.com/artist/3VEJezx56HYKPynA5EIcB9) | [Silent Lights](https://open.spotify.com/album/0wgODvwkSSe7MtrfdqFrpB) | 2:24 |
 | 12 | [Timanttii](https://open.spotify.com/track/5jfTyR6YDybmggxZDh73l3) | [Mjay](https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1) | [Timanttii](https://open.spotify.com/album/5hve077DKxXdQlgptEKRmJ) | 3:03 |
-| 13 | [BAD B](https://open.spotify.com/track/4q8nsOi6I0H5qrGMqz447X) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [](https://open.spotify.com/album/null) | 3:35 |
+| 13 | [BAD B](https://open.spotify.com/track/4q8nsOi6I0H5qrGMqz447X) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [2turnt](https://open.spotify.com/album/2YJSIXDXscdi7Yj0Rw8y09) | 3:35 |
 | 14 | [pysyvää](https://open.spotify.com/track/6bVtWYGHtva0bNYO36PA3u) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [pysyvää](https://open.spotify.com/album/314ZEX6GudCAF4kvxvlHk0) | 3:04 |
 | 15 | [Persefone](https://open.spotify.com/track/0fXSM1oqssK9c4EVh2nooL) | [good boys](https://open.spotify.com/artist/79hIs89TAEz3EhIuYAJ4bU) | [Persefone](https://open.spotify.com/album/21vEu9HsNG1PTIRYDXsh6K) | 3:54 |
 | 16 | [rikki](https://open.spotify.com/track/2m8Hlr1jWj0oq9BLNPcTpd) | [whereismike](https://open.spotify.com/artist/6EbpHfQA5YHcyDKT0Ghaim) | [rikki](https://open.spotify.com/album/2z2hyWDW5l9aSKD0dCPjwd) | 1:59 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 40 | [Looking \(For You\)](https://open.spotify.com/track/1CftxBJLeUpLYs98zFQwke) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Looking \(For You\)](https://open.spotify.com/album/02ztjA7lVjJl2Qo636Nm7R) | 2:47 |
 | 41 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
 | 42 | [If Your Girl Only Knew](https://open.spotify.com/track/6T3Uz1Q0rZ1a4SKt2ks6bV) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47) | [If Your Girl Only Knew](https://open.spotify.com/album/6aHJUywKHbkReDyUkykm07) | 3:18 |
-| 43 | [Gröna Dalen Dub](https://open.spotify.com/track/75W3zoI8bGpC0JZ5YSVRBF) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Trensum Tribe](https://open.spotify.com/artist/6ai2pLU2NCEzrXicNMR5jA) | [](https://open.spotify.com/album/null) | 3:45 |
+| 43 | [Gröna Dalen Dub](https://open.spotify.com/track/75W3zoI8bGpC0JZ5YSVRBF) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Trensum Tribe](https://open.spotify.com/artist/6ai2pLU2NCEzrXicNMR5jA) | [LUZ / Quest for fire IN DUB!](https://open.spotify.com/album/7mLthn7UwtdECevw1YrhNT) | 3:45 |
 | 44 | [Out Ya Business](https://open.spotify.com/track/6tZYPqhLd3PeIpDYNs5oIe) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Out Ya Business](https://open.spotify.com/album/56epDpniHtGsWvz72fSvEo) | 2:10 |
 | 45 | [Love One Another \(Or Die\)](https://open.spotify.com/track/4CN2AdYEHN2MmbJwQfHEIw) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [The Death Of Bunny Munro](https://open.spotify.com/album/4iLosdObnLTYRiAr4g4wee) | 2:24 |
 | 46 | [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 |

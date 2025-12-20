@@ -1,13 +1,45 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 82141,
+  "num_followers": 82253,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAINj0i7OoFL81DPiGXiQwzKU+M6C",
+  "snapshot_id": "AAAAAF1+88EASSH/iUoI7bYqaSU+bDUY",
   "tracks": [
+    {
+      "added_at": "2025-12-19 05:00:29",
+      "album": {
+        "name": "Tidying Up",
+        "url": "https://open.spotify.com/album/5VmfyPxJtLZihopuHTeB0K"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "duration_ms": 128233,
+      "name": "Tidying Up",
+      "url": "https://open.spotify.com/track/6i0mYUoFNr9C8lCAiMrNsB"
+    },
+    {
+      "added_at": "2025-12-19 05:00:29",
+      "album": {
+        "name": "Make A Circle",
+        "url": "https://open.spotify.com/album/2AwGOykhHXOLmS2c1MF5Dv"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "duration_ms": 112599,
+      "name": "Make A Circle",
+      "url": "https://open.spotify.com/track/1jG0hW2BHUYczqFDOo0qHA"
+    },
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {

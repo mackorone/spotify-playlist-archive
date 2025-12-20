@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,327 songs - 2 day 10 hr 38 min
+1,329 songs - 2 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2023-12-04 | 2024-06-29 |
 | [Closer](https://open.spotify.com/track/37V02f46b5uyxrO6ZjW9rd) | [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy), [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Closer](https://open.spotify.com/album/1Ga1Jqu3BfpKhLJF3zvnKg) | 2:19 | 2024-10-04 | 2025-02-05 |
 | [Closer To You](https://open.spotify.com/track/1ddxwO4Fd1EJxJVKXa85ZE) | [Midnight Run](https://open.spotify.com/artist/5mITWbhWk5w7FPzymBNQsF) | [Closer To You](https://open.spotify.com/album/05cUnUtqBBtYQ1QkaXKAR1) | 2:33 | 2025-01-31 | 2025-03-08 |
+| [Cloud Chasers](https://open.spotify.com/track/1mmxDQesFjLueejhYUoobv) | [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Taste Good](https://open.spotify.com/artist/0qkfuOKd6e0aOZY7P74oiC) | [Cloud Chasers](https://open.spotify.com/album/74MJtmKlo7YfeXd7LRCOvi) | 2:14 | 2025-12-19 |  |
 | [Clouds](https://open.spotify.com/track/22VduD3uvknLZoYY0hSK1Z) | [Laedon](https://open.spotify.com/artist/7s4RxozYerhNHvbYfThhIE), [SAYRA](https://open.spotify.com/artist/61anL7jn6ZM4cqdmR4h69s) | [Clouds](https://open.spotify.com/album/6hBr4UqQiC0h6Y4mXR3pxq) | 2:44 | 2025-06-07 | 2025-06-17 |
 | [Clouds](https://open.spotify.com/track/4SkPFni0GHs9StKwn9q8rB) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR), [YVMV](https://open.spotify.com/artist/23iMeGaHEpDoHAojo4JeVy) | [Clouds](https://open.spotify.com/album/6VrvTzJWWzEF9jjiGRFprW) | 2:18 | 2024-06-21 | 2025-02-05 |
 | [Clouds Over Twin Lakes](https://open.spotify.com/track/1oAb696G6NX1Ym6OUxjT0F) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Clouds Over Twin Lakes](https://open.spotify.com/album/51wOX6TzkGsn0sw85zpdsW) | 2:25 | 2025-03-07 | 2025-04-14 |
@@ -882,6 +883,7 @@
 | [Ohana](https://open.spotify.com/track/5FbIwzZs4hujEYgECnr4WA) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Ohana](https://open.spotify.com/album/2d8bJNObvpi5Ugl5kIWyt7) | 2:38 | 2025-06-28 | 2025-08-02 |
 | [Ohnana](https://open.spotify.com/track/35exlkuy1GTN2AbNhEd8MZ) | [Arpad](https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87), [mafayah](https://open.spotify.com/artist/7azF7i2ETz4A3u8AZ2tItc) | [Ohnana](https://open.spotify.com/album/4kxRQSbjNbX8gmr0UFxKFY) | 2:26 | 2025-05-16 | 2025-06-30 |
 | [older me](https://open.spotify.com/track/2fvrsGK5vwPbJeQsGRFSBD) | [Altero](https://open.spotify.com/artist/4Yc8Z66BiZxpRDFu2xcs5D), [Anna\-Sophia Henry](https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8) | [older me](https://open.spotify.com/album/30RIiOK8iSFvZYzZrYYJiS) | 2:54 | 2024-06-07 | 2024-08-10 |
+| [On My Love](https://open.spotify.com/track/3yYiR1otZ3mb0CWnA693XD) | [NAAC](https://open.spotify.com/artist/7mljyQJgwCXjkCe27YiIGV) | [On My Love](https://open.spotify.com/album/3qcSZN3xL3ZBGA3xwRv2WI) | 2:45 | 2025-12-19 |  |
 | [On My Mind](https://open.spotify.com/track/5iXb773yc0P2Iqldzmg07X) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH), [Polariz](https://open.spotify.com/artist/5iw2cqb1v4T3RXOfKKslbq) | [On My Mind](https://open.spotify.com/album/483fnsVnxmkXzij70WA0X8) | 2:24 | 2024-02-02 | 2024-09-15 |
 | [On My Mind](https://open.spotify.com/track/24V6t32xBFJYBkPpvzjAqD) | [SAKKO](https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o), [Aize](https://open.spotify.com/artist/250JJ1TsuQZUU2kH6rYnLx) | [On My Mind](https://open.spotify.com/album/2g6yy1WQLIqj0njo3YNTK7) | 2:25 | 2024-08-17 | 2024-09-15 |
 | [On My Own](https://open.spotify.com/track/5CNh53G6Lu01ZozuROlEOp) | [Cession](https://open.spotify.com/artist/6jQxnDzHiCsFrLlH5gV5Uh), [Marsias](https://open.spotify.com/artist/2b7PWasPxNRzwyUkXVIZ3a) | [On My Own](https://open.spotify.com/album/4tXfDEB1UlSHb9l8pLf7yz) | 3:06 | 2024-11-01 | 2024-12-07 |

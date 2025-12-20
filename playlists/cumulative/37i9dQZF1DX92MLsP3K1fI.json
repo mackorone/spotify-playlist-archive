@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 168320,
       "name": "4TO 23",
       "url": "https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI"
@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/33dEXbvSmcCjEvZwKs0nGl"
+      },
+      "artists": [
+        {
+          "name": "Las Prez",
+          "url": "https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5drb4uv0RawamdFtMkaFck"
+    },
+    {
+      "album": {
         "name": "CHERRY",
         "url": "https://open.spotify.com/album/1ANdEOKOC2LmKW5JYXRgd6"
       },
@@ -2116,7 +2134,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 161142,
       "name": "Combinaci\u00f3n Perfecta",
       "url": "https://open.spotify.com/track/2ipJ50C7JtNnchLOfBrqx5"
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 108137,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
@@ -5138,7 +5156,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 230973,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr"
@@ -5363,6 +5381,28 @@
     },
     {
       "album": {
+        "name": "Las Damas y El Vagabundo",
+        "url": "https://open.spotify.com/album/6OaRB8J7nx119dblF68uXu"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        },
+        {
+          "name": "Julia Medina",
+          "url": "https://open.spotify.com/artist/2W9Bqi3EV1GXFkCOvE3oSE"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168592,
+      "name": "Las Damas y El Vagabundo",
+      "url": "https://open.spotify.com/track/1acMpf22usGPeT2a2gXR2i"
+    },
+    {
+      "album": {
         "name": "Las Olas",
         "url": "https://open.spotify.com/album/2yiZJFl14NnysGLAFTt1CI"
       },
@@ -5534,7 +5574,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
@@ -7452,7 +7492,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 186996,
       "name": "odio a primera vista",
       "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"

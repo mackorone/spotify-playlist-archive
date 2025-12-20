@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Andia
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,878 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,894 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 4 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
 | 5 | [Când vine dragostea](https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/0fZAUWaoMXuU2LrYcuhAai) | 3:00 |
 | 6 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
-| 7 | [De Crăciun](https://open.spotify.com/track/3774H5FVlLmttKYqdh0BxL) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF), [Ralu](https://open.spotify.com/artist/2fRRsou4G3dKiv5u7ZjFB9) | [De Crăciun](https://open.spotify.com/album/4JT88pxDeqQND4U10PNXrb) | 2:32 |
+| 7 | [De Crăciun](https://open.spotify.com/track/3774H5FVlLmttKYqdh0BxL) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [De Crăciun](https://open.spotify.com/album/4JT88pxDeqQND4U10PNXrb) | 2:32 |
 | 8 | [Non\-Stop](https://open.spotify.com/track/7yiVxTY7MFwLtmyTclFwEi) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Non\-Stop](https://open.spotify.com/album/3tuflZ0y4mCCa2Y05r0gQF) | 2:54 |
 | 9 | [Combinația](https://open.spotify.com/track/1gSp7gOutMRYnwghqiWBwx) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Combinația](https://open.spotify.com/album/7pmpfptMe5NF4cjs0wYqn7) | 2:34 |
 | 10 | [Cum Te\-a Facut Mama Ta](https://open.spotify.com/track/40Nv0JAZ4AO2EZ0xHunbNl) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Cum Te\-a Facut Mama Ta](https://open.spotify.com/album/76NOUrUzVn8ThtzDFA57fi) | 3:17 |

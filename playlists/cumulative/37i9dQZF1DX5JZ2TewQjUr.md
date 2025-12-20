@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Gwenji
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: RowdyRoadie
 
-1,583 songs - 3 day 17 hr 37 min
+1,587 songs - 3 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Better Days](https://open.spotify.com/track/1eBAncEA6SXHGwD5kL248j) | [Slimjongun](https://open.spotify.com/artist/1LsJXW9nCYGMqUdYhrttyI) | [Better Days](https://open.spotify.com/album/6mtrX5Ak54H6syJhGl6ZlV) | 2:59 | 2023-02-09 | 2023-07-14 |
 | [Better Than Romance](https://open.spotify.com/track/3G2nQwlMkL8Q9MgoKs4pOP) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Better Than Romance](https://open.spotify.com/album/2P2gP4XGYtZURoYr4RWe2F) | 3:20 | 2025-07-31 | 2025-11-21 |
 | [Birds of a Feather](https://open.spotify.com/track/4DG3IzN5U3inciYBjO2bms) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Grey Brisson](https://open.spotify.com/artist/7th9azSFAuJoeGRCrh6OMS) | [Birds of a Feather](https://open.spotify.com/album/1O3NSXKqzKEY2CeyNwfu4m) | 2:15 | 2024-08-01 | 2024-11-15 |
-| [Black Coffee](https://open.spotify.com/track/7jV5OFmieh5iCMqErfDrdL) | [Seewah Chadworth](https://open.spotify.com/artist/6rudotzBaDEZORXGffGCrD), [Barbie Mak](https://open.spotify.com/artist/1rnMncuiUjiXdGDpgmqlNY) | [Black Coffee](https://open.spotify.com/album/4j0Q2CqSLcwyS1X2aNnPUm) | 3:11 | 2025-12-11 |  |
+| [Black Coffee](https://open.spotify.com/track/7jV5OFmieh5iCMqErfDrdL) | [Seewah Chadworth](https://open.spotify.com/artist/6rudotzBaDEZORXGffGCrD), [Barbie Mak](https://open.spotify.com/artist/1rnMncuiUjiXdGDpgmqlNY) | [Black Coffee](https://open.spotify.com/album/4j0Q2CqSLcwyS1X2aNnPUm) | 3:23 | 2025-12-11 |  |
 | [Black Horse](https://open.spotify.com/track/1i9pEMeun3QyzPivGCfm0l) | [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO), [YEHAIYAHAN](https://open.spotify.com/artist/2rGUDp8wG9hqDm5BHbyy88), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Black Horse](https://open.spotify.com/album/0pT7jmsLoupuUukTdq35Ln) | 3:14 | 2024-02-22 | 2024-06-07 |
 | [blame it on the love](https://open.spotify.com/track/2UKp4rbxThgBa2AUfmo9Fi) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [blame it on the love](https://open.spotify.com/album/5oCpzN8ULFdZPn6KAkixmD) | 3:07 | 2024-07-25 | 2024-11-15 |
 | [Bleeding](https://open.spotify.com/track/0Enh7qIEYeMbYYgzFZmkDH) | [Sage Vapid](https://open.spotify.com/artist/7d598fEPZUr7rcu9HFkVof) | [Bleeding](https://open.spotify.com/album/53Cfu2Jd018OvINymaVMBD) | 3:41 | 2024-04-25 | 2024-11-15 |
@@ -164,6 +164,7 @@
 | [Cherry Eyes](https://open.spotify.com/track/3KhC5loijHV7Rh94GbN6Gg) | [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Cherry Eyes](https://open.spotify.com/album/1O2pjPRYY9V1ogt9YcTiXJ) | 2:33 | 2025-02-14 | 2025-05-30 |
 | [Chill](https://open.spotify.com/track/5rTlbT6gI8EjLlZLRUeMjM) | [Wesley Jamison](https://open.spotify.com/artist/12GNxIR2n8u96v6Gyji4uy) | [Chill](https://open.spotify.com/album/3DMCHp17iMISHAEyBoAhRT) | 3:36 | 2024-06-20 | 2024-11-15 |
 | [christmas again \- demo](https://open.spotify.com/track/3ppJG42jb1mJhCw99gobZd) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [christmas again \(demo\)](https://open.spotify.com/album/4iyrZnwLXgxtmbrPmGZi3S) | 3:21 | 2023-11-30 | 2024-02-16 |
+| [Christmas Sale](https://open.spotify.com/track/7bm9goZ8eugKwnJvSGh9pF) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [b e c k y 碧琪](https://open.spotify.com/artist/0N980fCWlgYBkaqAHIqeaD) | [Christmas Sale](https://open.spotify.com/album/5sfN9PTLoX8JVdG2qy1Z8c) | 3:15 | 2025-12-19 |  |
 | [Christopher Luke](https://open.spotify.com/track/7KnylTHkKv0Jwq9wcKVu02) | [The Language Lab](https://open.spotify.com/artist/4Qj1fEqHSJ3hQc5fHtUsnf) | [Your Boyfriends \(Deleted Scene\)](https://open.spotify.com/album/2IXOvkGVO7gZwgqMPPRqzY) | 2:59 | 2022-11-10 | 2022-12-09 |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/2C4NU1PZKZQA6Qu5ej93qQ) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [Close my eyes 全部都係你](https://open.spotify.com/album/5bWvx8LCfaGYlJGk3n6Meg) | 3:10 | 2022-06-09 | 2022-09-09 |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/1BH4Kai4GPGCbNCvjDhiGP) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [十個陌生的熟人](https://open.spotify.com/album/2wICmbCIY49EhTL3XCuks2) | 3:14 | 2023-01-05 | 2023-05-26 |
@@ -568,6 +569,7 @@
 | [Make Believe](https://open.spotify.com/track/6jvcP9ivZyOfXHdBKwMX1P) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG) | [Regretopia](https://open.spotify.com/album/6GGks9hQ6Kzi8vO4bzIZUV) | 3:15 | 2024-09-26 | 2025-02-14 |
 | [MAKE IT RAIN](https://open.spotify.com/track/3jr24iK6HvCI0X4AQ2bHfa) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [HIJACK](https://open.spotify.com/artist/0oKLpxMpjlPi53LWu3HQko) | [Bye\. \(Deluxe\)](https://open.spotify.com/album/3CKAxeUlxZw1zGkcPZ6Vvt) | 2:41 | 2025-10-09 |  |
 | [Mama's Song](https://open.spotify.com/track/6bL7QOp9ou73SGGzMQFCF5) | [Kaelyn](https://open.spotify.com/artist/4cYAwDK42gnycP8fEyLisS) | [Mama's Song](https://open.spotify.com/album/4zjdkey6wFRBEM69zNZmRG) | 2:08 | 2025-05-01 | 2025-08-01 |
+| [Martyr\#1](https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Martyr\#1](https://open.spotify.com/album/4x08OFLQ71g3UsVGpT3p0C) | 5:39 | 2025-12-19 |  |
 | [Matter of a Second](https://open.spotify.com/track/7nLgGo8UT0Nd8SFi2FiDLB) | [STRAYZ](https://open.spotify.com/artist/7buoV5WKCKE71FjDvBm7l3) | [Matter of a Second](https://open.spotify.com/album/4oT2r2qDnL4wua356GdBHh) | 3:03 | 2023-05-04 | 2023-09-01 |
 | [Mayhem](https://open.spotify.com/track/2M17XSJDnyzWP3z9exWlMI) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Mayhem](https://open.spotify.com/album/0UHaYY78EnwiDxGZ2HzYcV) | 2:35 | 2023-07-20 | 2023-09-15 |
 | [MAZE](https://open.spotify.com/track/6CRUAU4GjX8pxWLM6uLUkc) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [MAZE](https://open.spotify.com/album/3aio83aVLqhSYpLaFfgoVw) | 2:40 | 2024-05-30 | 2024-11-15 |
@@ -1147,6 +1149,7 @@
 | [冇得呃 Can't Lie](https://open.spotify.com/track/2WDqq746wkH0PbIkgfXlDt) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [Dare to luv, dare to hate](https://open.spotify.com/album/5O3ye5GfTbJwAKfhFCGCnz) | 2:36 | 2023-06-15 | 2023-09-15 |
 | [冇有形狀 \- 壞數學 VERSION](https://open.spotify.com/track/4s5kbw5mtf2AgXZzrkJLjI) | [XSGACHA 小本生燈](https://open.spotify.com/artist/78CZPfx44NXnJAR0bxEaXw), [Bad Math](https://open.spotify.com/artist/07IjEAbgCClbsODsIrdxeo) | [冇有形狀 \(壞數學 VERSION\)](https://open.spotify.com/album/22YYxCpNNtdxu7VajaOcQU) | 5:26 | 2024-07-18 | 2024-11-15 |
 | [再生（さいせい\)](https://open.spotify.com/track/7D4NuigCRr7dBE9heLqCIm) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Adam Tam 譚錫森](https://open.spotify.com/artist/6RTIGnnOnumTih2hk3J5AP), [Chapman So](https://open.spotify.com/artist/1RYOg5eNGb7uQ20abLSYCT) | [再生（さいせい\)](https://open.spotify.com/album/2Qwud3TOxcceB7wCL2m6Pq) | 2:51 | 2024-10-24 | 2025-02-14 |
+| [冬的夢寐](https://open.spotify.com/track/1wD2Wl5F1xskWui8M0AcSt) | [before the night ends](https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU) | [冬的夢寐](https://open.spotify.com/album/4gbET4VtnjuFsJAoTMRal2) | 3:25 | 2025-12-19 |  |
 | [冷氣機滴水](https://open.spotify.com/track/2wgDaG3hpn6qd8bOMm6eUZ) | [N.Y.P.D\. 南洋派對](https://open.spotify.com/artist/0uGCA6uvmofOBLPplBhyAY) | [冷氣機滴水](https://open.spotify.com/album/34LNC8ay7GEQdgr6SOaamZ) | 5:37 | 2024-08-08 | 2024-12-13 |
 | [出水芙蓉](https://open.spotify.com/track/3x2OFytSWdt2TkdJrWNtn5) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [出水芙蓉](https://open.spotify.com/album/1VSJ5mtJU9KH4poF99mJcV) | 1:57 | 2022-09-29 | 2023-02-03 |
 | [出門口食豆腐花](https://open.spotify.com/track/72vHdnHpYOZNjjQNmf2D1k) | [34 pessimists](https://open.spotify.com/artist/7CIc2EIGlSABfECh8nV4Li) | [海闊天空 sea wide sky empty](https://open.spotify.com/album/0r3y1Watg2URRb59Kuqloz) | 2:56 | 2023-09-14 | 2023-12-01 |
@@ -1438,6 +1441,7 @@
 | [煙 Lofi Remix](https://open.spotify.com/track/4Wsk0uyGAa3oAdPJ81tQJ5) | [The Priceless Boat](https://open.spotify.com/artist/3aIis27ZwDnQzBIx7CqYXV) | [煙](https://open.spotify.com/album/4U22KBh4EvWG1MgDzD0Ydr) | 2:12 | 2024-01-25 | 2024-05-10 |
 | [煙花](https://open.spotify.com/track/0shCo11sKdzjd4HvAQ5N6b) | [地球旅人](https://open.spotify.com/artist/4MXyGb0iHp1AoSFcHla2Tb) | [煙花](https://open.spotify.com/album/5urjNaWB6TjYAed6DqUTdS) | 5:12 | 2023-02-16 | 2023-03-18 |
 | [煩](https://open.spotify.com/track/4gz8dfi9yCYUmOTYSn49PJ) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [PRESENT](https://open.spotify.com/album/4PkmXFT0XwZqFBPvPImPbW) | 4:18 | 2023-04-27 | 2023-07-14 |
+| [煩惱吃掉白日夢](https://open.spotify.com/track/05FRKsVTxx4oigV33g1dFg) | [KOWLOON K](https://open.spotify.com/artist/0hmfp5p9Xie3HMadrJbjFl) | [煩惱吃掉白日夢](https://open.spotify.com/album/61GZLTgxm4d9KDkDJuxUve) | 3:50 | 2025-12-19 |  |
 | [爛](https://open.spotify.com/track/63fnY0Ic24TkyHBgRrjyfg) | [ORANGE VS CURIOUS](https://open.spotify.com/artist/30uTGGyCxcKCg3X8Wy5dIO), [Mike Orange](https://open.spotify.com/artist/16CT77nyCx37z4iQkTx0vs), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [爛](https://open.spotify.com/album/5pyEYBMr25nHpJBQeQcTvW) | 3:19 | 2025-11-13 |  |
 | [片尾曲 （微電影《柴灣電影會》主題曲）](https://open.spotify.com/track/1EQCNrJfk4nkJLEbcggqrI) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [片尾曲 （微電影《柴灣電影會》主題曲）](https://open.spotify.com/album/1TsmcuW7CWtfTLipntZpqD) | 3:29 | 2025-02-06 | 2025-03-14 |
 | [牙痛文學](https://open.spotify.com/track/6ThuO6qlnxScrGXOyz2z3t) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [牙痛文學](https://open.spotify.com/album/6C2jBhr7mOAC5xvT8YomW0) | 4:22 | 2023-09-07 | 2023-12-01 |

@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "My Hero Academia: FINAL SEASON (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208477,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/4wHJVX5RVrtyhzGKMYlESP"
+    },
+    {
+      "album": {
         "name": "C.H.E.E.R. (from \"My Hero Academia: Vigilantes\")",
         "url": "https://open.spotify.com/album/77vS1623pBvjyCJJkKlc8i"
       },
@@ -1150,6 +1168,28 @@
       "duration_ms": 190093,
       "name": "Falling Up",
       "url": "https://open.spotify.com/track/5KoNzEJTd9TwVNKW67eWPJ"
+    },
+    {
+      "album": {
+        "name": "Gachiakuta (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/41l3KGLex0bMehOuTjAyiA"
+      },
+      "artists": [
+        {
+          "name": "Taku Iwasaki",
+          "url": "https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v"
+        },
+        {
+          "name": "Lotus Juice",
+          "url": "https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155947,
+      "name": "Fiery (feat. Lotus Juice)",
+      "url": "https://open.spotify.com/track/6AUSvk8Zt4LAqMbnV1WWrr"
     },
     {
       "album": {
@@ -5192,7 +5232,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 335274,
       "name": "\u679c\u3066\u3057\u306a\u304d",
       "url": "https://open.spotify.com/track/0Ua4vUehTg5JcWrEKugWRt"

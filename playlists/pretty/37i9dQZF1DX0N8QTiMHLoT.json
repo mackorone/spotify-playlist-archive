@@ -1,13 +1,33 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 161932,
+  "num_followers": 161947,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERG5VLbpwcDxCQTSTiO8aJ0bL5i",
+  "snapshot_id": "AAAAAMGsFVpdXP7KUI9HILWhYOZ08B1+",
   "tracks": [
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
+        "name": "KHAOSAN ROAD",
+        "url": "https://open.spotify.com/album/7t9tXTc2MVAkfP2SSS2cIK"
+      },
+      "artists": [
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        },
+        {
+          "name": "Moray Pringle",
+          "url": "https://open.spotify.com/artist/2XxpV0Zg0H0BZWCxgZQZKW"
+        }
+      ],
+      "duration_ms": 135923,
+      "name": "KHAOSAN ROAD",
+      "url": "https://open.spotify.com/track/1HuFJdZpvJtvy9rywMkJnX"
+    },
     {
       "added_at": "2025-05-23 21:01:43",
       "album": {

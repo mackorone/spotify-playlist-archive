@@ -4,7 +4,7 @@
 
 > TEED delivers his gorgeous new album 🦕 all the best indie dance tracks of the moment
 
-2,119 songs - 5 day 8 hr 46 min
+2,120 songs - 5 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1604,6 +1604,7 @@
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-02-24 | 2023-09-30 |
 | [SET IT ON FIRE](https://open.spotify.com/track/6Pc5eHdzmnruL7zPsRp5UE) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [SET IT ON FIRE](https://open.spotify.com/album/0KlB5ibm3W9pJwI83HBydh) | 3:49 | 2024-11-08 | 2025-01-04 |
 | [Set Me Free](https://open.spotify.com/track/4BBejz4QjscuApJoK3j1yJ) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Set Me Free](https://open.spotify.com/album/6rHwavFWk3JBy7iZtHR19a) | 2:50 | 2024-01-26 | 2024-05-18 |
+| [set you free \(truth will find a way\)](https://open.spotify.com/track/0mZ9Iqxby5iceDT1Ug2wN6) | [Uppermost](https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg) | [set you free \(truth will find a way\)](https://open.spotify.com/album/22aHWqRnMOz2MHsEL5JBV1) | 3:19 | 2025-12-19 |  |
 | [Setting Free](https://open.spotify.com/track/42ATBQ8wVzo9mMeIZl7rAt) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Setting Free](https://open.spotify.com/album/34zhV0Gf28XnvPfAXmJDaM) | 2:59 | 2024-05-24 | 2024-07-27 |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2021-12-03 | 2022-01-08 |
 | [Shade](https://open.spotify.com/track/07HVC93z0Ea7zhntydwv8s) | [MOSSY](https://open.spotify.com/artist/2VWRHe5C0twed36GOerpK5) | [Shade](https://open.spotify.com/album/6o4NpsnJZHtgRKVmLSKYVk) | 3:37 | 2022-03-18 | 2022-04-13 |
@@ -1953,7 +1954,7 @@
 | [UNDER THE ILLUSION](https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [UNDER THE ILLUSION](https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP) | 3:56 | 2023-09-29 | 2024-01-20 |
 | [Under The Light \- Remix](https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Remix\)](https://open.spotify.com/album/7djxJDYoeQfrH6haKtws8c) | 4:28 | 2023-12-08 | 2024-01-13 |
 | [Under The Moon](https://open.spotify.com/track/1fdMHlBPWbG35CJXrGWInp) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Under The Moon](https://open.spotify.com/album/0Sq8hy4kCoJUNp6yNG6rAz) | 2:32 | 2025-03-21 | 2025-05-10 |
-| [Under The Surface \(feat\. Phoebe Green\)](https://open.spotify.com/track/72r2R2nVbvdhXJDtG11D4Q) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Under The Surface \(feat\. Phoebe Green\)](https://open.spotify.com/album/4oMdJFOQ6jLjX7VhokRBiH) | 4:14 | 2025-09-08 |  |
+| [Under The Surface \(feat\. Phoebe Green\)](https://open.spotify.com/track/72r2R2nVbvdhXJDtG11D4Q) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Under The Surface \(feat\. Phoebe Green\)](https://open.spotify.com/album/4oMdJFOQ6jLjX7VhokRBiH) | 4:14 | 2025-09-08 | 2025-12-20 |
 | [Under Water / In Air \- feat\. Ruth Radelet](https://open.spotify.com/track/3KoRqwC6xGerhN8gwYf0hY) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU), [Ruth Radelet](https://open.spotify.com/artist/2Evpx6HIhl4ahwPKjAPvox) | [Parallel Realms \(Deluxe Edition\)](https://open.spotify.com/album/3BMXL9PrShspDkVlCEvAfO) | 3:08 | 2024-09-06 | 2024-11-09 |
 | [Underneath](https://open.spotify.com/track/4wyrc8IPFe1tE1ZPMnEx7C) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Underneath](https://open.spotify.com/album/0B7GgmnsWIqYN55jCk0pjJ) | 3:49 | 2021-08-27 | 2022-07-29 |
 | [UNDO REDO](https://open.spotify.com/track/2w3v8tbN2kmpuzmUe7YhVl) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 4:38 | 2022-05-13 | 2022-05-20 |

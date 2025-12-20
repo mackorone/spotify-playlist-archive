@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 152123,
       "name": "Butt Naked (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/69teIpBvUEW4WwO8DILqxq"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 181796,
       "name": "Key Lime OG",
       "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
@@ -902,7 +902,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 167090,
       "name": "Poppin",
       "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "LETHAL-ER",
+        "url": "https://open.spotify.com/album/72kZaYF0tE4PBhlbfv6kIq"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110146,
+      "name": "SAY WE DID",
+      "url": "https://open.spotify.com/track/5PC2Udh5gEmWE0c43XItro"
+    },
+    {
+      "album": {
         "name": "Traumazine",
         "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
       },
@@ -1154,7 +1172,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 181826,
       "name": "SMILE",
       "url": "https://open.spotify.com/track/40tJE7m43xPTkvuXlAO4jV"
@@ -1350,7 +1368,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 197647,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/3U1er6n2pSve0xcNVn9eUu"

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 395296,
+  "num_followers": 395279,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAGTfGzSzhkTU/7++v4zzBMw3MY4C",
   "tracks": [
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Bungalow",
+        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 211573,
+      "name": "Younger Days",
+      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
+    },
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214459,
       "name": "Till the Morning",
       "url": "https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Bungalow",
-        "url": "https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Younger Days",
-      "url": "https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Nobody Lives Here",
-        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Heavy Hearts",
-      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Nobody Lives Here",
+        "url": "https://open.spotify.com/album/779IZOhupymkjX6dzygMl9"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Heavy Hearts",
+      "url": "https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "By the Way",
-        "url": "https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "By the Way",
-      "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Say You'll Stay",
         "url": "https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Light of My Life",
-        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
+        "name": "By the Way",
+        "url": "https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u"
       },
       "artists": [
         {
-          "name": "Douwe Bob",
-          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
         }
       ],
-      "duration_ms": 259518,
-      "name": "Light of My Life",
-      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
+      "duration_ms": 160153,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -451,6 +435,22 @@
       "duration_ms": 237545,
       "name": "Uncharted - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Light of My Life",
+        "url": "https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8"
+      },
+      "artists": [
+        {
+          "name": "Douwe Bob",
+          "url": "https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD"
+        }
+      ],
+      "duration_ms": 259518,
+      "name": "Light of My Life",
+      "url": "https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212565,
       "name": "Do You Want To Be Honest?",
       "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Beginners",
         "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 216005,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "One More Try",
+        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "One More Try",
+      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "I'm In Heaven",
         "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "One More Try",
-        "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "One More Try",
-      "url": "https://open.spotify.com/track/6xfXvPKTvGEo5xAXcuiIr5"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
       },
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Story Of My Life",
-        "url": "https://open.spotify.com/album/047ig9T3051aPN4dltfBu0"
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
       },
       "artists": [
         {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
         }
       ],
-      "duration_ms": 198578,
-      "name": "Story Of My Life",
-      "url": "https://open.spotify.com/track/3RPBET4z96fUukQd6cNESv"
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -991,22 +991,6 @@
       "duration_ms": 160000,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1075,6 +1059,22 @@
       "duration_ms": 234336,
       "name": "adeline",
       "url": "https://open.spotify.com/track/0xMF4mYFyJXUjJPo3tcO0J"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Story Of My Life",
+        "url": "https://open.spotify.com/album/047ig9T3051aPN4dltfBu0"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 198578,
+      "name": "Story Of My Life",
+      "url": "https://open.spotify.com/track/3RPBET4z96fUukQd6cNESv"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Someone To Lose",
         "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 160659,
       "name": "Someone To Lose",
       "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "Never Fall In Love Again",
+        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Never Fall In Love Again",
-        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 168991,
-      "name": "Never Fall In Love Again",
-      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "The Indien",
-        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1455,18 +1439,38 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
         }
       ],
-      "duration_ms": 245562,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+      "duration_ms": 195293,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Heart of the Matter",
+        "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
+      },
+      "artists": [
+        {
+          "name": "Tim Akkerman",
+          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
+        },
+        {
+          "name": "The Ivy League",
+          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
+        }
+      ],
+      "duration_ms": 244472,
+      "name": "Heart of the Matter",
+      "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1483,6 +1487,22 @@
       "duration_ms": 220621,
       "name": "seasons",
       "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1535,26 +1555,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Heart of the Matter",
-        "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
-      },
-      "artists": [
-        {
-          "name": "Tim Akkerman",
-          "url": "https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u"
-        },
-        {
-          "name": "The Ivy League",
-          "url": "https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO"
-        }
-      ],
-      "duration_ms": 244472,
-      "name": "Heart of the Matter",
-      "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Po\u00e8te Maudit",
         "url": "https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "something i can't fake",
-        "url": "https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ"
-      },
-      "artists": [
-        {
-          "name": "Lara Samira",
-          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
-        }
-      ],
-      "duration_ms": 218048,
-      "name": "Something I Can't Fake",
-      "url": "https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Wild Horses",
         "url": "https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t"
       },
@@ -1623,22 +1607,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "A Way With My Heart",
-        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+        "name": "something i can't fake",
+        "url": "https://open.spotify.com/album/2AdKGAN4yidTdY2HU9kFRQ"
       },
       "artists": [
         {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        },
-        {
-          "name": "Sven Hammond",
-          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+          "name": "Lara Samira",
+          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
         }
       ],
-      "duration_ms": 195453,
-      "name": "A Way With My Heart",
-      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
+      "duration_ms": 218048,
+      "name": "Something I Can't Fake",
+      "url": "https://open.spotify.com/track/1M6RTeidHtMw2bvfWBJqO6"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1655,6 +1635,26 @@
       "duration_ms": 210000,
       "name": "Amen - Acoustic",
       "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "A Way With My Heart",
+        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        },
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "A Way With My Heart",
+      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
     }
   ],
   "unique_name": "'t Koffiehuis",

@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "A La Deriva",
+        "url": "https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        },
+        {
+          "name": "Folgar",
+          "url": "https://open.spotify.com/artist/4VUsFXk67zxZVz1UJxBNV6"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399916,
+      "name": "A la Deriva",
+      "url": "https://open.spotify.com/track/5mRuTcc2NFb0dxokBDNKJ5"
+    },
+    {
+      "album": {
         "name": "A Tu Modo",
         "url": "https://open.spotify.com/album/1BjksGyN9EwHWXsTm36uzC"
       },
@@ -965,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Asuntos Pendientes",
+        "url": "https://open.spotify.com/album/5Vr0HbJRdCJrFnW6h31GOe"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206823,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/3fqQkByxxQm2qllggZlpN7"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es el Calor",
         "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
@@ -1570,7 +1610,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 117250,
       "name": "cada d\u00eda +",
       "url": "https://open.spotify.com/track/1qIyb1xu5chuUOcXQQOoU7"
@@ -10486,7 +10526,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 199807,
       "name": "Vamos a Cazarnos",
       "url": "https://open.spotify.com/track/1ueROprUNDd0Mv8QfT49b4"

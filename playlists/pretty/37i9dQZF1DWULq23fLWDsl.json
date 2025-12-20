@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2010. Cover: Gorillaz",
-  "num_followers": 348582,
+  "num_followers": 348641,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Star of Love",
-        "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
-      },
-      "artists": [
-        {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Plage",
-      "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 315585,
       "name": "Odessa",
       "url": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Star of Love",
+        "url": "https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Plage",
+      "url": "https://open.spotify.com/track/6y4sVRatVOlBRref1xUqTO"
     },
     {
       "added_at": "2025-03-14 11:46:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-03-14 11:46:42",
       "album": {
-        "name": "Swim",
-        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 344999,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es"
-    },
-    {
-      "added_at": "2025-03-14 11:46:42",
-      "album": {
         "name": "Pickin' up the Pieces",
         "url": "https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 249693,
       "name": "Don't Gotta Work It Out",
       "url": "https://open.spotify.com/track/7ECNbJ7lRHDY2CiHKVirYB"
+    },
+    {
+      "added_at": "2025-03-14 11:46:42",
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 344999,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es"
     },
     {
       "added_at": "2025-03-14 11:46:42",

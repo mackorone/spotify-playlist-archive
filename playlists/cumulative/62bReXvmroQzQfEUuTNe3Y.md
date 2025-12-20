@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to for 2026\. Updated weekly!
 
-513 songs - 1 day 4 hr 35 min
+516 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Cherish](https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS) | [Cherish](https://open.spotify.com/album/2xVkUmzmbG2ziXVxHKeqLW) | 3:24 | 2024-10-18 |  |
 | [Chihiro](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/3g94R3KoZVDaYwiM0KQFyN) | 2:08 | 2025-01-03 |  |
 | [Cinematic](https://open.spotify.com/track/47ywdBjVysnPv8ag3P5Ojt) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Cinematic](https://open.spotify.com/album/6AWy4WgqAZQF4BaObQRQwS) | 4:48 | 2021-12-17 | 2022-01-08 |
+| [Cinematic](https://open.spotify.com/track/5XD6dPoxtR83Mok2ZRMITP) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Clearest](https://open.spotify.com/artist/19XcMf5sc9TjHPbRRwW0o9) | [First Contact](https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb) | 2:16 | 2025-12-19 |  |
 | [Cir•cles](https://open.spotify.com/track/6jxyuE21MK18ua5nFQcJKH) | [Couros](https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM) | [Jupiter](https://open.spotify.com/album/7sIa0oG6B3TFs8M1c9SxG5) | 4:05 | 2021-11-11 | 2021-11-27 |
 | [Closer](https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Closer](https://open.spotify.com/album/45SzO3Sw87Hqma1EQJ3kFn) | 3:28 | 2021-12-17 | 2022-08-20 |
 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 | 2022-08-19 |  |
@@ -427,6 +428,7 @@
 | [SWIM](https://open.spotify.com/track/2aT8QoKvwvhgx9PURO4DEP) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:37 | 2021-07-17 | 2021-08-28 |
 | [Tainted Love](https://open.spotify.com/track/3ponDZeMH4ONWpPCyfrJ5L) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [Tainted Love](https://open.spotify.com/album/65CUZnzGEGixgBPSP4GTnQ) | 3:04 | 2023-02-03 | 2023-05-13 |
 | [Take Me Away \(feat\. Rico 56\)](https://open.spotify.com/track/1xktPopalLPKqqGXKg6Y9q) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Take Me Away \(feat\. Rico 56\)](https://open.spotify.com/album/6rnoI2sa1qO0UA2C0KwjGQ) | 2:28 | 2022-07-01 | 2023-04-01 |
+| [Take My Hand Tonight](https://open.spotify.com/track/43HECX8GKH8nCWjLPapDpi) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [First Contact](https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb) | 4:02 | 2025-12-19 |  |
 | [Talking](https://open.spotify.com/track/6uQe7SVjdDlRqDRAi0qnKg) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Talking](https://open.spotify.com/album/4r1HQ2vf7mQ7s2mPKRZGG0) | 3:22 | 2020-09-13\* | 2021-03-06 |
 | [Te Amo \- Edit](https://open.spotify.com/track/2LXe1Mv9mkho8AYAEoLOcn) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [Te Amo](https://open.spotify.com/album/1k0E1FiFaWklgJuCFqNtej) | 2:49 | 2020-09-13\* | 2020-12-05 |
 | [Tell Me](https://open.spotify.com/track/2TLICM4QNi7BRg7Wa0kzdN) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Fare](https://open.spotify.com/artist/1zg4OV4mAjexgjWEtBAd72) | [Tell Me](https://open.spotify.com/album/1fvT2czFpSKSeEYl99ImF9) | 3:36 | 2022-04-29 |  |
@@ -463,6 +465,7 @@
 | [True](https://open.spotify.com/track/5085LKg8JgPGzx7dpCn4g3) | [STRANGR](https://open.spotify.com/artist/4tyvCBRpuyj6nlLw1v1jeb) | [True](https://open.spotify.com/album/4G4G1bXvlJFHiEYERoSuqD) | 2:36 | 2020-09-13\* | 2020-11-07 |
 | [Trust in You](https://open.spotify.com/track/0NscRynuHjhgdU9X1SxH7k) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Patterns](https://open.spotify.com/album/0HMgy3SUYx1pqKyoFbhZjM) | 5:57 | 2020-09-13\* | 2020-09-19 |
 | [Two Steps](https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI) | 4:02 | 2024-02-23 | 2024-10-19 |
+| [Two Things](https://open.spotify.com/track/30f8OoQXsRG13P03b896Ub) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [First Contact](https://open.spotify.com/album/0zlZOM02nHtKzCLWDBBVDb) | 2:04 | 2025-12-19 |  |
 | [U.](https://open.spotify.com/track/64NGjHW1w5Kl42xEKdqi6o) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [U.](https://open.spotify.com/album/2LNOZyp2FX1ARZXc5gf3hB) | 2:37 | 2021-03-06 | 2021-05-11 |
 | [Underwater](https://open.spotify.com/track/6qnULXVFGfFqPj0Hpj0tIG) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Underwater / Other Voices](https://open.spotify.com/album/3p1vQf7Y8BSHiUVCGR2NtG) | 4:57 | 2021-12-17 | 2024-02-24 |
 | [Until the Sun Needs to Rise](https://open.spotify.com/track/4UbwXGInqdJMM28GOEUSvZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 4:52 | 2025-07-30 |  |

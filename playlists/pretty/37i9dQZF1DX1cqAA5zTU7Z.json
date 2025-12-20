@@ -1,31 +1,47 @@
 {
   "description": "Based on the best-selling book series. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.",
-  "num_followers": 39893,
+  "num_followers": 44317,
   "original_name": "Heated Rivalry Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKx4ofITiAfYaQn8Rm/dHmY9WZn",
+  "snapshot_id": "AAAAAEZ3t/w+zNv7vL5wr7qNTNveairT",
   "tracks": [
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3rAxkmi2vjbOyt2e7kVJNw"
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
       },
       "artists": [
         {
-          "name": "DILLY DALLY",
-          "url": "https://open.spotify.com/artist/6HcTkJKjlZEJgv3fR4CJCS"
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
         }
       ],
-      "duration_ms": 220822,
-      "name": "I Feel Free",
-      "url": "https://open.spotify.com/track/5bOICm0YxfMAcCvAc7UDyL"
+      "duration_ms": 214440,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "The Reminder",
         "url": "https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK"
@@ -36,28 +52,12 @@
           "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 219880,
-      "name": "Sealion",
-      "url": "https://open.spotify.com/track/36Zrl0Kw93L6fyVULnYHlL"
+      "duration_ms": 228346,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/1NMFwd3TGPWYrVmYaBasz6"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
-      "album": {
-        "name": "Dumas",
-        "url": "https://open.spotify.com/album/2izU8I6LuUSbpKnQkMS398"
-      },
-      "artists": [
-        {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Une journ\u00e9e parfaite",
-      "url": "https://open.spotify.com/track/0t1ksCUcCpBXCi099fjSfi"
-    },
-    {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "moisturizer",
         "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
@@ -73,7 +73,71 @@
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Apologies to the Queen Mary",
+        "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Parade",
+          "url": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
+        }
+      ],
+      "duration_ms": 276613,
+      "name": "I'll Believe in Anything",
+      "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3rAxkmi2vjbOyt2e7kVJNw"
+      },
+      "artists": [
+        {
+          "name": "DILLY DALLY",
+          "url": "https://open.spotify.com/artist/6HcTkJKjlZEJgv3fR4CJCS"
+        }
+      ],
+      "duration_ms": 220822,
+      "name": "I Feel Free",
+      "url": "https://open.spotify.com/track/5bOICm0YxfMAcCvAc7UDyL"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Sealion",
+      "url": "https://open.spotify.com/track/36Zrl0Kw93L6fyVULnYHlL"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Dumas",
+        "url": "https://open.spotify.com/album/2izU8I6LuUSbpKnQkMS398"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Une journ\u00e9e parfaite",
+      "url": "https://open.spotify.com/track/0t1ksCUcCpBXCi099fjSfi"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Lost Time",
         "url": "https://open.spotify.com/album/1Bstt7sHUHUWrVuvN1ie1M"
@@ -89,7 +153,7 @@
       "url": "https://open.spotify.com/track/4iEoZLI4gHzmMhoX56ooG6"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Taxidermie",
         "url": "https://open.spotify.com/album/1By52SIJW86LiJU7os710u"
@@ -105,7 +169,7 @@
       "url": "https://open.spotify.com/track/4rZyQQVwhgaQrCecTe3IvJ"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Rock With Alvin",
         "url": "https://open.spotify.com/album/3zodV9957N1tL09XXbL7xy"
@@ -121,7 +185,7 @@
       "url": "https://open.spotify.com/track/04zarnGsuDBxfzCEB82eFB"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Margaret Lewis with Grace Tennessee",
         "url": "https://open.spotify.com/album/2p1R709GffgEDYEWuIHd1h"
@@ -141,23 +205,7 @@
       "url": "https://open.spotify.com/track/0awbMpWF73JU2WkU9Jj88o"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
-      "album": {
-        "name": "Apologies to the Queen Mary",
-        "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
-      },
-      "artists": [
-        {
-          "name": "Wolf Parade",
-          "url": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
-        }
-      ],
-      "duration_ms": 276613,
-      "name": "I'll Believe in Anything",
-      "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
-    },
-    {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Moonlight in a Winter Sky",
         "url": "https://open.spotify.com/album/4UMdAE4eJagRT3qUkcJkea"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/51OcBJ9M6V4VDXDIjnCAzr"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Only Good Thoughts Can Stay",
         "url": "https://open.spotify.com/album/55p883Q08Cw1aiMa7SbGFF"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/09ndgOSqpMUVxTrw2IvawN"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Wall of Love",
         "url": "https://open.spotify.com/album/6l5frrrZicL3vxxvc1J0Vk"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/50sZMw31RRdqo3C46AF4eW"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Thirteen013 Summerdreams",
         "url": "https://open.spotify.com/album/3cM2FhgzHC8d274zIJ8IJb"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/0DIbGVniBKr9scmq6Gq19h"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "No Brake$ (feat. Roshin)",
         "url": "https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv"
@@ -245,7 +293,7 @@
       "url": "https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Nos coeurs ensemble",
         "url": "https://open.spotify.com/album/3mrN5id6EyuRKV40oJDsVq"
@@ -261,7 +309,7 @@
       "url": "https://open.spotify.com/track/6g0PS1ywPh3eU3EmvDiAfD"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Wall of Love",
         "url": "https://open.spotify.com/album/6l5frrrZicL3vxxvc1J0Vk"
@@ -277,7 +325,7 @@
       "url": "https://open.spotify.com/track/157yMY1L5ygFcqqDqAxLKB"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "It's a Pleasure",
         "url": "https://open.spotify.com/album/4B3U5Xmwc9zNVRsnEZEKul"
@@ -293,23 +341,7 @@
       "url": "https://open.spotify.com/track/09nwO5Lbi3buIIFtsQiwIM"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
-      "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "My Moon My Man",
-      "url": "https://open.spotify.com/track/1NMFwd3TGPWYrVmYaBasz6"
-    },
-    {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Rising Sun",
         "url": "https://open.spotify.com/album/3f6kwkjwZXXxwvSFN0Kjai"
@@ -325,7 +357,7 @@
       "url": "https://open.spotify.com/track/1pq8cclkWXs5YQ8RFZMtJX"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "On Air",
         "url": "https://open.spotify.com/album/1lgQ5akiFXUmUHPabPab2T"
@@ -349,7 +381,7 @@
       "url": "https://open.spotify.com/track/4x1aXYX1Uw3WBZIXdXfGPy"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "M.O.E.",
         "url": "https://open.spotify.com/album/0yRw7vxSWkuftmHFsCQAip"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/0FqKjDDccJePA65haxElsA"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
@@ -393,7 +425,7 @@
       "url": "https://open.spotify.com/track/1rFzZo0fjq3SpGevCs166G"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Tu T'en Souviens - A COLORS SHOW",
         "url": "https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR"
@@ -409,7 +441,7 @@
       "url": "https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "Recto Verso",
         "url": "https://open.spotify.com/album/5OWswD29Pw1gpftLdcn2sy"
@@ -429,7 +461,7 @@
       "url": "https://open.spotify.com/track/2u6KcnqiuEcg9Vumf01hzS"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
         "name": "C'est toi",
         "url": "https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy"
@@ -445,36 +477,132 @@
       "url": "https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
-        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+        "name": "SAHARA",
+        "url": "https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o"
       },
       "artists": [
         {
-          "name": "t.A.T.u.",
-          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
         }
       ],
-      "duration_ms": 214440,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
+      "duration_ms": 118200,
+      "name": "Aaliyah",
+      "url": "https://open.spotify.com/track/26hUeZUdgM5AEzs31qr3SU"
     },
     {
-      "added_at": "2025-12-12 21:00:15",
+      "added_at": "2025-12-19 05:01:16",
       "album": {
-        "name": "All the Things She Said",
-        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
       },
       "artists": [
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
         }
       ],
-      "duration_ms": 170891,
-      "name": "All the Things She Said",
-      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Prendre soin du beau",
+        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Charlie",
+          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Prendre soin du beau",
+      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Boys Will Be Girls",
+        "url": "https://open.spotify.com/album/4MsLYAZDcPux4etKurgfK2"
+      },
+      "artists": [
+        {
+          "name": "Keir",
+          "url": "https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74"
+        }
+      ],
+      "duration_ms": 196310,
+      "name": "Boys Will Be Girls",
+      "url": "https://open.spotify.com/track/6U051MDlFT3fbXjRsQRGvK"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Ode To Joy",
+        "url": "https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM"
+      },
+      "artists": [
+        {
+          "name": "The Deadly Snakes",
+          "url": "https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0"
+        }
+      ],
+      "duration_ms": 136920,
+      "name": "Oh My Bride",
+      "url": "https://open.spotify.com/track/0cdn4rVGc4UC8mmE3OBO1e"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "\u0417\u043e\u043b\u043e\u0442\u0430\u044f \u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+        "url": "https://open.spotify.com/album/7MQLV1ftmK5d2ddyyPs8jm"
+      },
+      "artists": [
+        {
+          "name": "Leonid Utyosov",
+          "url": "https://open.spotify.com/artist/2mffFgZDoS2b9aTOtoOS9n"
+        }
+      ],
+      "duration_ms": 133983,
+      "name": "\u0412 \u0437\u0435\u043c\u043b\u044f\u043d\u043a\u0435",
+      "url": "https://open.spotify.com/track/3BbWhvZ7MGwP4OhBrEU3Z3"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Tjomnaja noch'",
+        "url": "https://open.spotify.com/album/08eRcBZUOJ75DaUjNS62cs"
+      },
+      "artists": [
+        {
+          "name": "Mark Bernes",
+          "url": "https://open.spotify.com/artist/1jZ0MrDMFzvOPUgYIAlwrN"
+        }
+      ],
+      "duration_ms": 253979,
+      "name": "Zhuravli",
+      "url": "https://open.spotify.com/track/7qwOIfNgNAupp890KLaW1j"
+    },
+    {
+      "added_at": "2025-12-19 05:01:16",
+      "album": {
+        "name": "Dilettante",
+        "url": "https://open.spotify.com/album/66TM4VW6gXfj0tvVCtuxIr"
+      },
+      "artists": [
+        {
+          "name": "Absolute Treat",
+          "url": "https://open.spotify.com/artist/3tNm5fHC45F0Lb18WSlz1n"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/6ayg8sUSmy5YMXs3aNxTna"
     }
   ],
   "unique_name": "Heated Rivalry Official Playlist",

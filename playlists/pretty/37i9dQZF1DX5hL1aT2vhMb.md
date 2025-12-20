@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Eunike Tanzil
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,564 likes - 125 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,582 likes - 125 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

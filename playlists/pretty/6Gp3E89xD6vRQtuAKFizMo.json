@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43668,
+  "num_followers": 43665,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAajVO3veC3XBKfcGIPBHyTIEbTi9vf",
+  "snapshot_id": "AAAajsJ9xbhJ3VM+TLujUkvMJbAOdROc",
   "tracks": [
+    {
+      "added_at": "2025-12-19 05:00:22",
+      "album": {
+        "name": "Head Rush",
+        "url": "https://open.spotify.com/album/208R9Hzer2ptU4r0dPrC2k"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "Head Rush",
+      "url": "https://open.spotify.com/track/4DPekWzLEoCJdJErOexV84"
+    },
     {
       "added_at": "2025-12-12 05:00:24",
       "album": {

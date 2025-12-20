@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 29906,
+  "num_followers": 29920,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,26 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/4r6DqAydqQCcOs1JiVmRSZ"
       },
@@ -163,26 +183,6 @@
       "duration_ms": 159535,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3GYlQmwfBDo7imFyGPhrl7"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -507,22 +507,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
       },
       "artists": [
         {
-          "name": "Luis JR",
-          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
+          "name": "Madhouse",
+          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
         },
         {
-          "name": "D'ALEX",
-          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
+          "name": "Angel Vergara",
+          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
+      "duration_ms": 201691,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -547,22 +547,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
       },
       "artists": [
         {
-          "name": "Madhouse",
-          "url": "https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS"
+          "name": "Luis JR",
+          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
         },
         {
-          "name": "Angel Vergara",
-          "url": "https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x"
+          "name": "D'ALEX",
+          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
         }
       ],
-      "duration_ms": 201691,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
+      "duration_ms": 216586,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
     },
     {
       "added_at": "2024-03-28 01:32:56",

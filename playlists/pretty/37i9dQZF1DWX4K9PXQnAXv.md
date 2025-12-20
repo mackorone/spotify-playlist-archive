@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4K9PXQnAXv.md) - [plain]
 
 > Fall in love all over again with the music featured in Love Is Blind Seasons 8 & 9.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,969 likes - 35 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,022 likes - 35 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

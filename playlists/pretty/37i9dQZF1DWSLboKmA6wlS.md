@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ไฮไลท์ Fresh Finds Thailand ปี 2025 โดย Spotify Editor\. ปก: GOODMOOD\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,524 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,566 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 11 | [ในวันที่ฟ้าไม่เป็นใจ แต่ในหัวใจยังมีเธอ](https://open.spotify.com/track/53BLbnV2EmrUrXJKXW7ff4) | [Fauvis](https://open.spotify.com/artist/0aiODLUBw3OMFGa48Xf9E4) | [ในวันที่ฟ้าไม่เป็นใจ แต่ในหัวใจยังมีเธอ](https://open.spotify.com/album/3BhXDl08nvlr7X5lwoWhz9) | 4:25 |
 | 12 | [ภาพหลอก \(illusion\)](https://open.spotify.com/track/4h5kUDXSwWl4z2hGhNbgtv) | [copterxmurf.](https://open.spotify.com/artist/4UCR7MZYvPa4fdyKGI4itd) | [ภาพหลอก \(illusion\)](https://open.spotify.com/album/7hPaMuP38rqeaWTRtbGHHX) | 3:15 |
 | 13 | [คงไม่เป็นไร \(ok\)](https://open.spotify.com/track/3Uzn9sjceYOxR6fQD45KyG) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [คงไม่เป็นไร \(ok\)](https://open.spotify.com/album/4tYlA8XszQGNNnBj0q4tXN) | 5:00 |
-| 14 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SoundSleep](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 |
+| 14 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SOUNDSLEEP](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 |
 | 15 | [ลมร้อน \(Blow Away\)](https://open.spotify.com/track/0gMdJ0kK9vnG1ZL6AYe8SF) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ลมร้อน \(Blow Away\)](https://open.spotify.com/album/23KgslqlvgoquZW8f7MNfc) | 5:08 |
 | 16 | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/track/2xM5KELlg1MOgfU8uBWlPX) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [ปราสาททราย \(Sand Castle\)](https://open.spotify.com/album/07TE7oxDqdfCC4QT3YldHo) | 3:47 |
 | 17 | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/album/3yBXxrmy6lqK9IuBpIYoGg) | 4:14 |

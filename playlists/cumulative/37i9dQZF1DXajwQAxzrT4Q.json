@@ -515,6 +515,32 @@
     },
     {
       "album": {
+        "name": "Arch Ya Back",
+        "url": "https://open.spotify.com/album/4LWPK2zFq3Fp1XAtC1Irq0"
+      },
+      "artists": [
+        {
+          "name": "Prod Jay48",
+          "url": "https://open.spotify.com/artist/6x5eCJvjLLSJmsGzpa0ihp"
+        },
+        {
+          "name": "Obvdiah",
+          "url": "https://open.spotify.com/artist/2W8iTgaeW7GSMP7GWeSeiM"
+        },
+        {
+          "name": "MvnnyMusik",
+          "url": "https://open.spotify.com/artist/1cIi2cw0EgmYbzQyQmsQHp"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Arch Ya Back",
+      "url": "https://open.spotify.com/track/0PcaE0oISff0MjBzVAaLtY"
+    },
+    {
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
       },
@@ -1834,7 +1860,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 117931,
       "name": "Diamondz n Roses",
       "url": "https://open.spotify.com/track/2fBbISpNAgBmaHdDrJE5lr"

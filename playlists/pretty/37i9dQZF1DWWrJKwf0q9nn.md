@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Anyma & EJAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,103 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,135 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 |
-| 2 | [Morals](https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Morals](https://open.spotify.com/album/2HlmQVBNrnKlTY7uBB5dJk) | 2:41 |
+| 2 | [Morals](https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [ROWN](https://open.spotify.com/artist/4WZfWEaVAJg0Sil7Ju7iea) | [Morals](https://open.spotify.com/album/2HlmQVBNrnKlTY7uBB5dJk) | 2:41 |
 | 3 | [Rivers](https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Rivers](https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8) | 3:22 |
 | 4 | [227kg](https://open.spotify.com/track/3PJo4Pq0WscWLh2h89U2Kx) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [227kg](https://open.spotify.com/album/4IjIVj0EF4iDwX1hiwKL1l) | 3:48 |
 | 5 | [No One](https://open.spotify.com/track/5J72L91na30WRBYaCokV8i) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [No One](https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD) | 4:04 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 24 | [YAMA BY NIGHT](https://open.spotify.com/track/4sM6pKE8mhJSGlYVzvNxQz) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA BY NIGHT](https://open.spotify.com/album/3KNPIlEwgUt4yItD67akmB) | 2:22 |
 | 25 | [Activate](https://open.spotify.com/track/2ol3m3QuLmRqovHv4w6KgF) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Activate](https://open.spotify.com/album/0t6BynGppLtuUWXwJStk2I) | 3:55 |
 | 26 | [House On Fire](https://open.spotify.com/track/5x7QUCDBNDkyzcLBbMdR9z) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [So Far](https://open.spotify.com/album/4ph2JlJubDNUoqj6ceA6WV) | 2:48 |
-| 27 | [Ignite](https://open.spotify.com/track/3EIv2kX1rINIb7kkSVtPYI) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Ryan Nicholls](https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q) | [](https://open.spotify.com/album/null) | 2:56 |
+| 27 | [Ignite](https://open.spotify.com/track/3EIv2kX1rINIb7kkSVtPYI) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Ryan Nicholls](https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q) | [Ignite EP](https://open.spotify.com/album/3a0KFcfUHKdtDTUnUelfrC) | 2:56 |
 | 28 | [So High](https://open.spotify.com/track/51WRwsEmGhVo8EYy07TDjo) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [So High](https://open.spotify.com/album/6zhG5gxzqCrSt6Ip7st6Bm) | 3:45 |
 | 29 | [Keep it Moving](https://open.spotify.com/track/3o9G4k9SeCJ9a55OowVhHv) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Joyse](https://open.spotify.com/artist/7cc79tfG2SrWeOdmgKZl8X) | [Keep it Moving](https://open.spotify.com/album/1kPlbKrqW6fvipWECPwpGo) | 2:42 |
 | 30 | [Hello](https://open.spotify.com/track/15aqhgN9LLd7TvuF367e57) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Hello](https://open.spotify.com/album/0Ep3CUwcbfWRyKLiTWvEKk) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,585 likes - 44 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,646 likes - 44 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 34 | [Leise Rieselt der Schnee](https://open.spotify.com/track/6uLwesKCZF6RBF1KqdfKoc) | [Rosalie Bacque](https://open.spotify.com/artist/61h1MYvSPH23gbZD0ZgOlp) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:33 |
 | 35 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/3mTFPi36pqNJErG78Dh71L) | [Mrs Myers Musicbox](https://open.spotify.com/artist/4f1PP9FjYZWEgNacU5ctVe) | [I'll Be Home For Christmas](https://open.spotify.com/album/53uJBbddmX2XYsiJzoyQJV) | 2:29 |
 | 36 | [Go Tell It On The Mountain](https://open.spotify.com/track/6BUM0QcEos9oIxwhYyGLte) | [Stephanie Murere](https://open.spotify.com/artist/1E8h8SdoO4FQeoOkU6yaG6) | [Go Tell It On The Mountain](https://open.spotify.com/album/5agwXEO2uGYmw1yjcTUJlS) | 1:52 |
-| 37 | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V) | [Jolly Starlings](https://open.spotify.com/artist/34fFFb8Tq5nqhqa03Qjg2h) | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq) | 3:33 |
-| 38 | [O Tannenbaum](https://open.spotify.com/track/6zYPZjrtU5YF7fPlEF2G2c) | [Nikolaj Christensen](https://open.spotify.com/artist/2tOnuXkkjqa53Vw1q6B3VO) | [O Tannenbaum](https://open.spotify.com/album/15h3Cn3QXwpboc1iDOG2l0) | 1:15 |
-| 39 | [When You Wish Upon a Star](https://open.spotify.com/track/77z4QS3zOxpcZSRQMY1W8d) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [When You Wish Upon a Star](https://open.spotify.com/album/50RJqo11YgeqEmaN7KGD20) | 2:12 |
-| 40 | [O come, all ye faithful](https://open.spotify.com/track/3ci7zhMYt1NkURjdGGXnTT) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Christmas Day Sleep\-Time](https://open.spotify.com/album/4OR8GZF3LpYvzeChqQLVV6) | 2:35 |
-| 41 | [O Christmas Tree](https://open.spotify.com/track/6iccLu0T8SySpIwgVPMpg3) | [Santa & Claus](https://open.spotify.com/artist/12C7JQrNqstNDcqar6C8Er) | [Christmas Songs](https://open.spotify.com/album/4HlI3DW2yprj5MamhPSXRn) | 1:43 |
-| 42 | [Alle Jahre Wieder](https://open.spotify.com/track/3bpVrnAYK40WOSVXUC5nZc) | [Odette Weisz](https://open.spotify.com/artist/3uIIsttgIORjqRPNaT18b9) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:04 |
-| 43 | [Feliz Navidad](https://open.spotify.com/track/6MJpv7POTvRHO1KYlgfSK7) | [Juan Mergilla](https://open.spotify.com/artist/2ZOuDHSAh86zcZITUBggDR) | [Feliz Navidad](https://open.spotify.com/album/7l2ZT8qvOA78NLxorH5cBc) | 2:06 |
-| 44 | [Frosty The Snowman](https://open.spotify.com/track/2bLAuycDOuVSGj9YaIrf1Q) | [Yuletide Delight](https://open.spotify.com/artist/1nNVa4ARNnIqK1xb4vHGmI) | [Frosty The Snowman](https://open.spotify.com/album/00TwcqkwlGwBu7idKVn9aU) | 1:41 |
+| 37 | [O Tannenbaum](https://open.spotify.com/track/6zYPZjrtU5YF7fPlEF2G2c) | [Nikolaj Christensen](https://open.spotify.com/artist/2tOnuXkkjqa53Vw1q6B3VO) | [O Tannenbaum](https://open.spotify.com/album/15h3Cn3QXwpboc1iDOG2l0) | 1:15 |
+| 38 | [When You Wish Upon a Star](https://open.spotify.com/track/77z4QS3zOxpcZSRQMY1W8d) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [When You Wish Upon a Star](https://open.spotify.com/album/50RJqo11YgeqEmaN7KGD20) | 2:12 |
+| 39 | [O come, all ye faithful](https://open.spotify.com/track/3ci7zhMYt1NkURjdGGXnTT) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [Christmas Day Sleep\-Time](https://open.spotify.com/album/4OR8GZF3LpYvzeChqQLVV6) | 2:35 |
+| 40 | [O Christmas Tree](https://open.spotify.com/track/6iccLu0T8SySpIwgVPMpg3) | [Santa & Claus](https://open.spotify.com/artist/12C7JQrNqstNDcqar6C8Er) | [Christmas Songs](https://open.spotify.com/album/4HlI3DW2yprj5MamhPSXRn) | 1:43 |
+| 41 | [Alle Jahre Wieder](https://open.spotify.com/track/3bpVrnAYK40WOSVXUC5nZc) | [Odette Weisz](https://open.spotify.com/artist/3uIIsttgIORjqRPNaT18b9) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:04 |
+| 42 | [Feliz Navidad](https://open.spotify.com/track/6MJpv7POTvRHO1KYlgfSK7) | [Juan Mergilla](https://open.spotify.com/artist/2ZOuDHSAh86zcZITUBggDR) | [Feliz Navidad](https://open.spotify.com/album/7l2ZT8qvOA78NLxorH5cBc) | 2:06 |
+| 43 | [Frosty The Snowman](https://open.spotify.com/track/2bLAuycDOuVSGj9YaIrf1Q) | [Yuletide Delight](https://open.spotify.com/artist/1nNVa4ARNnIqK1xb4vHGmI) | [Frosty The Snowman](https://open.spotify.com/album/00TwcqkwlGwBu7idKVn9aU) | 1:41 |
+| 44 | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V) | [Jolly Starlings](https://open.spotify.com/artist/34fFFb8Tq5nqhqa03Qjg2h) | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq) | 3:33 |
 
-Snapshot ID: `AAAAAFAq5MBKgtH3qTOsb5Tbr7NYlwBL`
+Snapshot ID: `AAAAAEpAby6sAqIxhDvsZbsAPxb4SgQE`

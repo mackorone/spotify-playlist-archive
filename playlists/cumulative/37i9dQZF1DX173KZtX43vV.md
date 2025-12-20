@@ -4,7 +4,7 @@
 
 > New arrivals as they come\. Cover: Nafe Smallz
 
-248 songs - 11 hr 55 min
+249 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 | 2025-11-28 | 2025-12-12 |
 | [Last Days](https://open.spotify.com/track/1SN4njpx7LeapXlrD4kBW6) | [Blacksmith](https://open.spotify.com/artist/3eSCq2mHL5JuADXu2vEAs5), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Last Days](https://open.spotify.com/album/5JMmcZ5M8iQfF6UNBFwN5V) | 2:50 | 2025-10-23 | 2025-11-07 |
 | [Last Drink](https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Last Drink](https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu) | 2:36 | 2025-12-05 | 2025-12-19 |
-| [Legends Don't Die](https://open.spotify.com/track/5dpV6pxZa9fKr4SPsnO10o) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Legends Don't Die](https://open.spotify.com/album/6SBrDo2uMJD2i7OBOvSmZ6) | 3:49 | 2025-12-19 |  |
+| [LEAN BACK](https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2) | [QuincyTellEm](https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP), [Treez0](https://open.spotify.com/artist/7LAkS5AlVlBew1H68qfRq2), [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc) | [TRAP EXHIBITION](https://open.spotify.com/album/4jhfR41qk6dNrJuNjQFplD) | 2:41 | 2025-12-19 |  |
+| [Legends Don't Die](https://open.spotify.com/track/5dpV6pxZa9fKr4SPsnO10o) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Legends Don't Die](https://open.spotify.com/album/6SBrDo2uMJD2i7OBOvSmZ6) | 3:49 | 2025-12-19 | 2025-12-20 |
 | [Lifestyle](https://open.spotify.com/track/0vOWcf8Dc3gMNc2lUYp426) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [Subten](https://open.spotify.com/artist/1D7TdByuV3l9cpOf6bGV3n) | [Lifestyle](https://open.spotify.com/album/14NexX1pIDwB42FqYXzLMa) | 2:28 | 2025-12-05 | 2025-12-19 |
 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 | 2025-12-05 |  |
 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 | 2025-11-14 | 2025-11-28 |
@@ -142,7 +143,7 @@
 | [Love The Way \(feat\. Yung Bredda & Lejuh\)](https://open.spotify.com/track/53gGQCk5uReMXdupVwi54T) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Love The Way \(Feat\. Yung Bredda & Lejuh\)](https://open.spotify.com/album/4i4Dxw2Wie4ejyjvL73crN) | 2:17 | 2025-11-21 | 2025-12-12 |
 | [Lying To Me](https://open.spotify.com/track/1XIeDPJ4Bxt9UckwCUmbpr) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Lying To Me](https://open.spotify.com/album/6IetHvnHn9gxdwuw6A9JIl) | 2:37 | 2025-12-19 |  |
 | [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 | 2025-10-23 | 2025-11-07 |
-| [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 | 2025-12-05 | 2025-12-19 |
+| [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 | 2025-12-05 |  |
 | [MASQUERADE](https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [A Fine African Man](https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d) | 2:43 | 2025-10-31 | 2025-11-14 |
 | [Me & You](https://open.spotify.com/track/3IzV8Ag6x6UWzVfH2hoTln) | [SINN6R](https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY), [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI) | [\#FEDERAL](https://open.spotify.com/album/0HqtaJLSCT9F0YPRadmigb) | 1:53 | 2025-11-21 | 2025-12-05 |
 | [Michael Olise](https://open.spotify.com/track/21PyKSglCbjBApRt0s6Q4G) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp), [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [Michael Olise](https://open.spotify.com/album/6pgvtJgsRSNsoEc0I4Fyoi) | 2:41 | 2025-12-19 |  |
@@ -195,6 +196,7 @@
 | [Roll Alone](https://open.spotify.com/track/11lcv4htXgtnCnRpxh0sZi) | [StudioWyzz](https://open.spotify.com/artist/6tC7M8WRbLtGchCdmCAhGJ) | [Roll Alone](https://open.spotify.com/album/6tnTPfF27aFxyljlThizSY) | 2:34 | 2025-12-12 |  |
 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 | 2025-11-21 | 2025-12-05 |
 | [Same Shit](https://open.spotify.com/track/1Hu9ijKYbuC9n5xb1eB5xW) | [yaemulli](https://open.spotify.com/artist/7A0S2z4SJghf7Nr6uI31xM) | [Same Shit](https://open.spotify.com/album/2UvdzDd6ILpARfeT4vXbTr) | 3:07 | 2025-11-14 | 2025-11-21 |
+| [SAVE ME](https://open.spotify.com/track/5xmxThQHMqYRItILkCiHIP) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [SAVE ME](https://open.spotify.com/album/6itPCD7uqpW0SNhwFO9UJD) | 2:49 | 2025-12-19 |  |
 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 | 2025-11-14 | 2025-12-05 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 |  |
 | [Shochu](https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9) | [Shochu](https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2) | 2:22 | 2025-12-12 |  |
@@ -226,7 +228,6 @@
 | [The Otherside](https://open.spotify.com/track/13YsxcCwZmPYLvwwTGMhbQ) | [Sandy](https://open.spotify.com/artist/26Bu7luPOZNb2vI6IL4VBg) | [Bunny](https://open.spotify.com/album/4FOpf4CSRmjU2z17jgM5mZ) | 3:16 | 2025-10-31 | 2025-11-07 |
 | [THE SCARLET WOMAN](https://open.spotify.com/track/2MMhVXYsFQ47WG60258IQ3) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [THE SCARLET WOMAN](https://open.spotify.com/album/1xWBUfptraCwcRQCdDo85T) | 2:34 | 2025-10-31 | 2025-11-14 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 |  |
-| [Track 5](https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2) | [QuincyTellEm](https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-19 |  |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Triple Double](https://open.spotify.com/track/2IjZIOg7b2t6abMmkWiMWp) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Where's The Wizard?](https://open.spotify.com/album/5vJ03f6VupR2ykhy9Uq1Hq) | 2:28 | 2025-12-12 |  |
 | [Trouble](https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Trouble](https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO) | 3:07 | 2025-10-23 | 2025-10-31 |

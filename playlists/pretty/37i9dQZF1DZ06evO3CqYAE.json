@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13983,
+  "num_followers": 13989,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUHygAAAAADpgCt+gORk/mgbvkyOq5I9",
+  "snapshot_id": "aUNEAAAAAABuQK4PFfcheK52Srm2EBuc",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Doing of the Lord",
+        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "The Doing of the Lord",
+      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 361389,
       "name": "None Like You Lord",
       "url": "https://open.spotify.com/track/4C1j4hhESWONgyhe52Bwpc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Doing of the Lord",
-        "url": "https://open.spotify.com/album/0UMzdsiWTh6HOPeQ0m3Twe"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "The Doing of the Lord",
-      "url": "https://open.spotify.com/track/5dp5WKKU2t3TZ3LWl9Ehz3"
     },
     {
       "added_at": null,

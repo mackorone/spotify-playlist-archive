@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,470 songs - 3 day 9 hr 2 min
+1,471 songs - 3 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1159,6 +1159,7 @@
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-09-24 | 2022-03-13 |
 | [SENDA BELLAKONA](https://open.spotify.com/track/6g1u7IdhcA9rZUV3Pizsj8) | [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [EL NUEVO SONIDO](https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku) | 2:00 | 2025-11-28 |  |
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-15 | 2022-03-21 |
+| [Sentimiento Mágico](https://open.spotify.com/track/1k0ryEzj8cit9V5K9nMRpB) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [QUIERE IRSE CON LOS YGRIEGA](https://open.spotify.com/album/4zizl1JrnVNMMl9BGdAdHL) | 3:22 | 2025-12-19 |  |
 | [Seremos Uno](https://open.spotify.com/track/0oeW47eszlvyvMG7OVogGM) | [Maihuen de los Angeles](https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR) | [Las Mejores Cuecas Con Maihuen de los Angeles](https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP) | 2:18 | 2021-09-19 | 2024-09-21 |
 | [Serenata cruel](https://open.spotify.com/track/0q6kA6CfIzABitnZeYm3aB) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/0PJj3qTqDRyQ32AQNVaIlW) | 4:32 | 2025-09-20 | 2025-09-23 |
 | [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 | 2022-01-02 | 2022-01-04 |
@@ -1438,7 +1439,7 @@
 | [XQ TAN SOLA?](https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 3:20 | 2023-09-09 | 2024-04-21 |
 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 | 2023-04-08 | 2023-09-10 |
 | [Y Ke Pa](https://open.spotify.com/track/27o0WntB9hT9VpWIkuIg13) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Tesla 1](https://open.spotify.com/album/2k6Sj9Blz0wWAIgWDIZ7CW) | 2:28 | 2025-09-10 | 2025-09-11 |
-| [y ke pa \- Remix](https://open.spotify.com/track/2uwWTt4mRTkV1MHAun4JNv) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [y ke pa \(Remix\)](https://open.spotify.com/album/5epR5NpksEBuSGwbYwCLeO) | 3:13 | 2025-05-09 |  |
+| [y ke pa \- Remix](https://open.spotify.com/track/2uwWTt4mRTkV1MHAun4JNv) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [y ke pa \(Remix\)](https://open.spotify.com/album/5epR5NpksEBuSGwbYwCLeO) | 3:13 | 2025-05-09 | 2025-12-20 |
 | [Ya entregamos el depa](https://open.spotify.com/track/3DkFXKp1TkkqnU5iGn8YbL) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 3:24 | 2025-06-13 | 2025-06-15 |
 | [Ya No Pienso en Ti](https://open.spotify.com/track/0QEA14qLh7Cox2uBBzTgao) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/3uCNIIX7fUanAQc7b3jY3R) | 2:13 | 2023-11-07 | 2023-11-09 |
 | [Ya No Pienso en Ti](https://open.spotify.com/track/447CO62bX92cmh13R0DAnk) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Ya No Pienso en Ti](https://open.spotify.com/album/4dVfr03Qqi1gpp2di7naIf) | 2:13 | 2023-02-18 | 2023-11-08 |

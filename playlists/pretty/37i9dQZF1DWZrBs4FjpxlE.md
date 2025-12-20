@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,897 likes - 148 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,943 likes - 148 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used To Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
+| 1 | [Used 2 Love](https://open.spotify.com/track/7iJSVUXKBTvtz7fFKuA6h9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Used 2 Love](https://open.spotify.com/album/0G2h2tIqA0rXtOjy49bSTu) | 3:07 |
 | 2 | [novacane](https://open.spotify.com/track/2Mwxsd8Ig18YTEgfKCEUZq) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [novacane](https://open.spotify.com/album/4bxbwWyRr6WRwLi9RYHSSl) | 2:18 |
 | 3 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 |
 | 4 | [i won't live forever](https://open.spotify.com/track/7BOTAsFUDxqriXuhoddUm7) | [Fat Nick](https://open.spotify.com/artist/5dfFr2qhmXQLvHZqg0dynx) | [i won't live forever](https://open.spotify.com/album/031A1BdfESmR6Yimo5YwOt) | 1:40 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 147 | [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 |
 | 148 | [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 |
 
-Snapshot ID: `AAAAAH9PEcA+r4u5oEpQ3TJgngZu/yNu`
+Snapshot ID: `AAAAABEhNSYV1bMMPhdVRSFsL1zNYEu+`

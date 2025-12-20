@@ -4,7 +4,7 @@
 
 > Brand new music from Skye Newman, KiLLOWEN ft\. Songer, Kali Uchis and more!
 
-19,827 songs - 44 day 16 hr 18 min
+19,829 songs - 44 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1270,6 +1270,7 @@
 | [Automaton](https://open.spotify.com/track/0Kc1jnf1LPo04Jc8hLADFt) | [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F), [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Automaton](https://open.spotify.com/album/6JLTZDZtdxDuSyIoFmgB6Y) | 4:15 | 2023-05-11 | 2023-05-19 |
 | [AUTONOMOUS DELIVERY ROBOT](https://open.spotify.com/track/6nXJ76qT0Z5dsVQ8BkY71R) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [INERTIA](https://open.spotify.com/album/5Srzn7hnU7DcsvD6BBTjHC) | 2:24 | 2025-09-04 | 2025-09-12 |
 | [Autopilot](https://open.spotify.com/track/6QkC5lQdndbBir9AycGbyG) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Autopilot](https://open.spotify.com/album/494CC5z8V5bXA3QezENsKN) | 2:58 | 2022-11-18 | 2022-11-25 |
+| [Autopilot](https://open.spotify.com/track/7xzjSEK9DVlbbYyr0m1G5a) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [BLACKEYE](https://open.spotify.com/album/1Sz7iduYUdUgoSkuxP2slW) | 2:11 | 2025-12-19 |  |
 | [Autumn Song](https://open.spotify.com/track/0ZfA5mDADY5z0jlrozOeAa) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [For Seasons](https://open.spotify.com/album/4vE6jYwljcClktaIj0mBAV) | 2:59 | 2022-12-02 | 2022-12-09 |
 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 | 2025-02-21 | 2025-02-28 |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-18 | 2022-11-25 |
@@ -9731,6 +9732,7 @@
 | [Leader Of The Pack](https://open.spotify.com/track/4p0KJzcSeiaihxl3lu6iJW) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Leader Of The Pack](https://open.spotify.com/album/7uUewrCrnDQ9NE77MGp62p) | 3:58 | 2024-11-22 | 2024-11-29 |
 | [Leading Man](https://open.spotify.com/track/05xZdt3o6H10bXWGdMFYqD) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Film Buff](https://open.spotify.com/album/2T5QLCxyHEGbph6TBNtNzZ) | 2:47 | 2024-09-26 | 2024-10-04 |
 | [Lean](https://open.spotify.com/track/4gioGwFuDOfkNuDPflzjad) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Lean](https://open.spotify.com/album/3xptwar8jWvntwB4hVKf88) | 3:00 | 2023-11-17 | 2023-11-24 |
+| [LEAN BACK](https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2) | [QuincyTellEm](https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP), [Treez0](https://open.spotify.com/artist/7LAkS5AlVlBew1H68qfRq2), [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc) | [TRAP EXHIBITION](https://open.spotify.com/album/4jhfR41qk6dNrJuNjQFplD) | 2:41 | 2025-12-19 |  |
 | [Lean In](https://open.spotify.com/track/0qEYroDLzjD7qexoNrMwtE) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Lean In](https://open.spotify.com/album/22CKhxvPblano1zLKKZTsR) | 5:18 | 2023-07-13 | 2023-07-21 |
 | [Lean On Me](https://open.spotify.com/track/4gNkgu3p81TdEt5FzfyqPm) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Lean On Me](https://open.spotify.com/album/4ReuX9xijCkq4OGCC1SkRH) | 3:14 | 2023-02-10 | 2023-02-17 |
 | [Lean On Me](https://open.spotify.com/track/6NSVPoxRYh5fUJgUUZs2B1) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Lean On Me](https://open.spotify.com/album/1x265Vy2gQWUMGIHjiHU2I) | 2:46 | 2024-09-19 | 2024-09-27 |
@@ -11631,6 +11633,7 @@
 | [mutual butterflies](https://open.spotify.com/track/1fkwRAlyoANO7TENCWQQls) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [mutual butterflies](https://open.spotify.com/album/3J7hHqMXYFJUyCZOJJ4btM) | 2:43 | 2024-09-05 | 2024-09-13 |
 | [Mutual Feelings](https://open.spotify.com/track/1cYNx8Ots8mUPzOAwmiKm7) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Mutual Feelings](https://open.spotify.com/album/2L6nVuLBjJcFK6YU01RyBT) | 3:28 | 2025-09-04 | 2025-09-12 |
 | [MUZIK](https://open.spotify.com/track/1Ox0HmOz0yOrL3fUmDDnPD) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [Jaguar](https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X) | [MUZIK](https://open.spotify.com/album/2xJm9TGVyJrJro5gqlJHvH) | 3:29 | 2025-08-21 | 2025-08-29 |
+| [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 | 2025-12-19 |  |
 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 | 2023-08-03 | 2023-08-11 |
 | [MVP](https://open.spotify.com/track/3hTq3Jl1N5ZMrJFkO6yoNL) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [New World Order](https://open.spotify.com/album/5BfCoFrNlaVgA2X2hzAliD) | 1:47 | 2024-08-15 | 2024-08-23 |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-12 | 2023-05-19 |
@@ -14683,6 +14686,7 @@
 | [Save Me](https://open.spotify.com/track/6cyceLjnnc8JzkhhqGTbGz) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Weirdo](https://open.spotify.com/album/1VMIAyfBq7OQN5XTgkV1p8) | 4:51 | 2025-04-24 | 2025-05-02 |
 | [Save Me](https://open.spotify.com/track/65FYifoevTTHKtMNRtov1U) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Someday, Now](https://open.spotify.com/album/1Q0bD1WsAZ03iToZAHclPp) | 4:17 | 2024-09-19 | 2024-09-27 |
 | [Save Me](https://open.spotify.com/track/1lKOLGBssrtcgxE47Hou5K) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Save Me](https://open.spotify.com/album/0PIBhidWmPmdMusP5rWdzQ) | 3:00 | 2024-08-08 | 2024-08-16 |
+| [SAVE ME](https://open.spotify.com/track/5xmxThQHMqYRItILkCiHIP) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [SAVE ME](https://open.spotify.com/album/6itPCD7uqpW0SNhwFO9UJD) | 2:49 | 2025-12-19 |  |
 | [Save Me](https://open.spotify.com/track/5Oqoyydz7aYxTezM4irIbB) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Save Me](https://open.spotify.com/album/4GCj0i9QUjt0IxnoxOwp6G) | 2:54 | 2025-07-24 | 2025-08-01 |
 | [Save Me](https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Save Me](https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh) | 3:34 | 2024-05-23 | 2024-06-01 |
 | [Save Me](https://open.spotify.com/track/1CEPwuWPZJu28tBN0HPBrM) | [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH), [robrobrob](https://open.spotify.com/artist/7D7PELaOpXuUjEIX2Elkc2) | [Let It Be](https://open.spotify.com/album/3NaKQoNyTyzgiBuNjfW29K) | 3:46 | 2025-03-07 | 2025-03-14 |
@@ -17854,8 +17858,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-08 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-04 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2025-09-26 |
-| [Track 5](https://open.spotify.com/track/7xzjSEK9DVlbbYyr0m1G5a) | [KIDPUNK](https://open.spotify.com/artist/6QUkxY9FkBh9XF4qCbaABt) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-19 |  |
-| [Track 5](https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2) | [QuincyTellEm](https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-19 |  |
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 | 2025-07-25 |
 | [Tracy Beaker](https://open.spotify.com/track/2Etf8bGyqQ0gWkNcWpNFJX) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Tracy Beaker](https://open.spotify.com/album/3A3XsZiLS8jXO8TnTTU9lE) | 2:40 | 2024-01-05 | 2024-01-12 |
 | [Traffic](https://open.spotify.com/track/3y0wFt61gB0cOZEOFaeslQ) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H) | [Traffic](https://open.spotify.com/album/3YoMdAb0DFkr1ZTKQjORja) | 3:10 | 2023-02-17 | 2023-02-24 |

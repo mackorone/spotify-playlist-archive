@@ -1,6 +1,6 @@
 {
   "description": "\u7121\u8ad6\u98a8\u683c\u6c23\u5473\uff0c\u7368\u7acb\u53ea\u554f\u97f3\u6a02\u81ea\u4e3b\uff0c\u5531\u4f5c\u8868\u73fe\u6e05\u6e05\u695a\u695a\uff01Cover:\u694a\u5b50\u5e73 (CAsPER)",
-  "num_followers": 63003,
+  "num_followers": 63010,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -668,8 +668,8 @@
       },
       "artists": [
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/18AgmrYov7QCR1kfUlj9zR"
+          "name": "KAXA",
+          "url": "https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG"
         }
       ],
       "duration_ms": 235453,
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-12-18 16:00:26",
       "album": {
+        "name": "\u6368\u4e0d\u5f97\u4f60",
+        "url": "https://open.spotify.com/album/1CGMpMxXGaEVjR7KYjoMp0"
+      },
+      "artists": [
+        {
+          "name": "R\u00d6RO",
+          "url": "https://open.spotify.com/artist/6Vpl6ZfmhdyWCxwv6JTyoR"
+        }
+      ],
+      "duration_ms": 223524,
+      "name": "\u6368\u4e0d\u5f97\u4f60",
+      "url": "https://open.spotify.com/track/79rRlj6ukamsbP9CkPySoj"
+    },
+    {
+      "added_at": "2025-12-18 16:00:26",
+      "album": {
         "name": "Maybe I'm Not Good Enough",
         "url": "https://open.spotify.com/album/1KjXztEMrhIC7ZnUjmDAH9"
       },
@@ -1076,7 +1092,7 @@
           "url": "https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw"
         }
       ],
-      "duration_ms": 167000,
+      "duration_ms": 166000,
       "name": "\u60e1\u610f",
       "url": "https://open.spotify.com/track/2BKUf0T3j5b4kXzxRdLjNK"
     },
@@ -1588,7 +1604,7 @@
           "url": "https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw"
         }
       ],
-      "duration_ms": 208834,
+      "duration_ms": 207000,
       "name": "\u96e8\u57ce",
       "url": "https://open.spotify.com/track/53x5fNOK424pTAePq7QJI2"
     },

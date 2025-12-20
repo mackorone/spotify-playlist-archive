@@ -1,15 +1,51 @@
 {
-  "description": "Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ah\u00ed. Banda Los Sebastianes en portada.",
-  "num_followers": 368536,
+  "description": "Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ah\u00ed. Max Peraza en portada.",
+  "num_followers": 368632,
   "original_name": "Sentado en una hielera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGhU9EwavHBrdFkxAbYlvi1w0gUk",
+  "snapshot_id": "AAAAAD6BbUY66gYUSCo7AaGwcSR2sBXj",
   "tracks": [
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Puras Pa\u00b4Pistear Agustito, Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/3f57eYRCgi48cJcuLhv6fJ"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 186578,
+      "name": "En Las Cantinas - En Vivo",
+      "url": "https://open.spotify.com/track/0G8TwOjPirVFlzvAJrRgg5"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 154011,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/2wA3Ztl0h9o1SoyzDJqoio"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Rancheras Pa\u2019 La Parranda (En Vivo)",
         "url": "https://open.spotify.com/album/6dE0HA1457iIubcP5WYtLb"
@@ -25,7 +61,27 @@
       "url": "https://open.spotify.com/track/5Tr2eIyQC5P19xCKb4heTb"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -41,7 +97,23 @@
       "url": "https://open.spotify.com/track/01NTntNkCtZXVhLnKgzVFs"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 232154,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Asi o Mas Norte\u00f1os",
         "url": "https://open.spotify.com/album/3hxu13g3iTKzO1X6UZg4YD"
@@ -57,7 +129,7 @@
       "url": "https://open.spotify.com/track/6FaOl8zvMlK0FzznXZhDyZ"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Dos de los Antrax",
         "url": "https://open.spotify.com/album/3QREXMTqKJdqBNU0JnNgvS"
@@ -77,7 +149,75 @@
       "url": "https://open.spotify.com/track/0afnj4MhXXw66wK238iUwe"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Pisteando Con La Regida (Vol. 3)",
+        "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "El Coco",
+      "url": "https://open.spotify.com/track/3b2hRoU8E4NHvoZ7LtwBsa"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Visitando A La Preciosa (En Vivo)",
+        "url": "https://open.spotify.com/album/6MCNC6J5mvGpQOOGO5zpIj"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Suerte He Tenido (En Vivo)",
+      "url": "https://open.spotify.com/track/6LhkPyMHj6CGrDHRpw0dSD"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Las Qu\u00e9 Les Gustan a Los Viejones (En Vivo)s, Vol.5 (En Vivo)",
+        "url": "https://open.spotify.com/album/30Ogays6mVsck1f1tgVQ9c"
+      },
+      "artists": [
+        {
+          "name": "Revolver Cannabis",
+          "url": "https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I"
+        },
+        {
+          "name": "El Muerto MX",
+          "url": "https://open.spotify.com/artist/0Ef0bGyHc6QLua9NUpJe4n"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Florita del Alma (En Vivo)",
+      "url": "https://open.spotify.com/track/5aQzij11wP7vRtWMxl5pMR"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Fiesta Privada Desde El 602 (En Vivo)",
+        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 247229,
+      "name": "30 Cartas - En Vivo",
+      "url": "https://open.spotify.com/track/0GVN5krhhtWiyBmZaUZpD5"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Asi o Mas Norte\u00f1os",
         "url": "https://open.spotify.com/album/3hxu13g3iTKzO1X6UZg4YD"
@@ -93,7 +233,23 @@
       "url": "https://open.spotify.com/track/1VwLFsg30l1eYY3hmtjZXj"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "De Puro Pedo Vol. 3",
+        "url": "https://open.spotify.com/album/7tBl3olvnyAfPrzk9qBdNF"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 257056,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/6S3ivLBEftGWonFmEfj28C"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Bailemos Bebe",
         "url": "https://open.spotify.com/album/5CLj60tLvoosF9JxOAfosH"
@@ -109,7 +265,39 @@
       "url": "https://open.spotify.com/track/0n7NAmcJzJ44GjnL9E7BTl"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "CCC EN VIVO",
+        "url": "https://open.spotify.com/album/7B8JVJQ1S4Z1Ygd5VC1EYU"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 307010,
+      "name": "Popurri Cumbias Invasores:Ya No Te Amo / Se Acab\u00f3 / A M\u00ed Que Me Qued\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/2h7HF2uBgIDrLqgd3Y9CNm"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Puras Pa\u00b4Pistear Agustito, Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/3f57eYRCgi48cJcuLhv6fJ"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        }
+      ],
+      "duration_ms": 159254,
+      "name": "Atrapado - En Vivo",
+      "url": "https://open.spotify.com/track/5SsmDYCw5bVQ10C1qpAfNf"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde la Fogata",
         "url": "https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk"
@@ -125,7 +313,7 @@
       "url": "https://open.spotify.com/track/1PBhvzxmdxxoRdI99PFSC0"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Del Rancho Al Palenque",
         "url": "https://open.spotify.com/album/2j5zovb9hcE0SVyC0y0qMV"
@@ -149,7 +337,7 @@
       "url": "https://open.spotify.com/track/56KYV3AJ5ClHLe2g7e4pkM"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/0rYJq4WZGAeNCorqFaLSKO"
@@ -165,7 +353,23 @@
       "url": "https://open.spotify.com/track/2HO9zqs79FIww8Fr2ntSY9"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5PAiedNHLOpWoG32pVHO27"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/1vcLL0G94JGzbGsvfBXSxE"
@@ -181,23 +385,7 @@
       "url": "https://open.spotify.com/track/1CmCkvu1NIORBbcDHdQ4zi"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
-      "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1vcLL0G94JGzbGsvfBXSxE"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226688,
-      "name": "Popurri (Cada Dia Mas, Tengo Miedo) - En Vivo",
-      "url": "https://open.spotify.com/track/7l1vPVQkvWcDajx20Y9lJd"
-    },
-    {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
@@ -213,7 +401,7 @@
       "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Fiesta Privada",
         "url": "https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM"
@@ -229,7 +417,7 @@
       "url": "https://open.spotify.com/track/34zkRCIjw11W3lcuK418os"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Asi o Mas Norte\u00f1os",
         "url": "https://open.spotify.com/album/3hxu13g3iTKzO1X6UZg4YD"
@@ -245,7 +433,7 @@
       "url": "https://open.spotify.com/track/0o4OFtyIHQRktZRjvgr9kw"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
@@ -265,7 +453,23 @@
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1vcLL0G94JGzbGsvfBXSxE"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226688,
+      "name": "Popurri (Cada Dia Mas, Tengo Miedo) - En Vivo",
+      "url": "https://open.spotify.com/track/7l1vPVQkvWcDajx20Y9lJd"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
@@ -281,7 +485,7 @@
       "url": "https://open.spotify.com/track/6sXEHNmhDC7WVG9jBFoHwI"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Caguama (En Vivo)",
         "url": "https://open.spotify.com/album/5baqd8yPf2CBCYxHaHTiIf"
@@ -297,7 +501,7 @@
       "url": "https://open.spotify.com/track/31fY4r59ELPpMFb54Hyorw"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Bailemos Bebe",
         "url": "https://open.spotify.com/album/5CLj60tLvoosF9JxOAfosH"
@@ -313,7 +517,7 @@
       "url": "https://open.spotify.com/track/0Cz0GQD2bdEGbYlFQmYk5D"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Del Rancho Al Palenque",
         "url": "https://open.spotify.com/album/2j5zovb9hcE0SVyC0y0qMV"
@@ -337,7 +541,7 @@
       "url": "https://open.spotify.com/track/22UmACAeWIG0HPPKwlUGW2"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -353,7 +557,7 @@
       "url": "https://open.spotify.com/track/46z3JlKiEREkLGhuL71qXF"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los De La Noria En Vivo",
         "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
@@ -369,7 +573,7 @@
       "url": "https://open.spotify.com/track/6vJ79p0FyRvDcdqV0GOHtU"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
@@ -385,7 +589,7 @@
       "url": "https://open.spotify.com/track/6inJruMyj9Wh5D3EIlAzn0"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pisteando En El Rancho",
         "url": "https://open.spotify.com/album/4VeyhffKkQ30n8NroxsEWF"
@@ -401,7 +605,7 @@
       "url": "https://open.spotify.com/track/3DfxoxXiMSD2rRKJrgQmZi"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
@@ -417,7 +621,7 @@
       "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los De La Noria En Vivo",
         "url": "https://open.spotify.com/album/1FGMR17jQ6VQgsHWDKmWUF"
@@ -433,7 +637,7 @@
       "url": "https://open.spotify.com/track/1M7nsuYEzpzxQDAZcLCEBs"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
@@ -449,7 +653,7 @@
       "url": "https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pisteando En El Rancho",
         "url": "https://open.spotify.com/album/4VeyhffKkQ30n8NroxsEWF"
@@ -465,7 +669,7 @@
       "url": "https://open.spotify.com/track/31yKkZ5xrfwE5kPfeAdBkK"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Rancheras Pa\u2019 La Parranda (En Vivo)",
         "url": "https://open.spotify.com/album/6dE0HA1457iIubcP5WYtLb"
@@ -481,7 +685,7 @@
       "url": "https://open.spotify.com/track/05FoVm3IYKpEABMPcCzKvz"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pisteando En El Rancho",
         "url": "https://open.spotify.com/album/4VeyhffKkQ30n8NroxsEWF"
@@ -497,7 +701,7 @@
       "url": "https://open.spotify.com/track/2DWAlMCMV50gHOWTkuBifj"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
@@ -513,7 +717,23 @@
       "url": "https://open.spotify.com/track/2qRbKZfPKgZATmDidvnchM"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "Borrachera Fito Shyruka (En Vivo)",
+        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
+      },
+      "artists": [
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "duration_ms": 225141,
+      "name": "Amor Limosnero (En Vivo)",
+      "url": "https://open.spotify.com/track/1FYlR5BS3C3RLrJcFzs00O"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Bohemia Vip De Sin Filtro Los Cuates De Sinaloa, Sesi\u00f3n 1 (En Vivo)",
         "url": "https://open.spotify.com/album/07xWBrR2pauJfDyoTl7iCg"
@@ -533,7 +753,7 @@
       "url": "https://open.spotify.com/track/7d1efIwM58gyNoU613QfFt"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Amanecida Con Todo Y Con Todos",
         "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
@@ -549,7 +769,7 @@
       "url": "https://open.spotify.com/track/1JwfEcCXRBONintEFJZtsG"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
@@ -565,7 +785,7 @@
       "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5AuoHfynj2gkZrWm81e9x7"
@@ -581,7 +801,7 @@
       "url": "https://open.spotify.com/track/310cx0iUrKSZdqyiDH5vxu"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
@@ -597,23 +817,7 @@
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
-      "album": {
-        "name": "Borrachera Fito Shyruka (En Vivo)",
-        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 225141,
-      "name": "Amor Limosnero (En Vivo)",
-      "url": "https://open.spotify.com/track/1FYlR5BS3C3RLrJcFzs00O"
-    },
-    {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
@@ -629,23 +833,7 @@
       "url": "https://open.spotify.com/track/0Awxr3uKgWA4fIl7sk27AX"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
-      "album": {
-        "name": "Borrachera Fito Shyruka (En Vivo)",
-        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Besos y Copas (En Vivo)",
-      "url": "https://open.spotify.com/track/0Ko08nxxjdG0JLflS0pLK5"
-    },
-    {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
@@ -669,7 +857,7 @@
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Mente en Blanco (En Vivo)",
         "url": "https://open.spotify.com/album/3tFIEwCvbt8XYl6vS7KCq1"
@@ -705,7 +893,7 @@
       "url": "https://open.spotify.com/track/4PD9At46wz3RECvgg3WtBF"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Chevrolet 4x4 (Version Banda)",
         "url": "https://open.spotify.com/album/0nhwGcnuD0jL7HhIaXaT0U"
@@ -721,7 +909,7 @@
       "url": "https://open.spotify.com/track/4Lm8ENpqox9XeamYAKrDYL"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Puras pa' Ca...Erse De Borracho, Vol. 2",
         "url": "https://open.spotify.com/album/0wm5B0UKSVUXmHdRdIfbk7"
@@ -737,7 +925,7 @@
       "url": "https://open.spotify.com/track/57ssUtO2jDUVCzmEOwxeY3"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Fiesta Privada",
         "url": "https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM"
@@ -753,23 +941,23 @@
       "url": "https://open.spotify.com/track/6ID1MLJelxzSN0OzVoeOLh"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
-        "name": "En Vivo Fiesta Privada",
-        "url": "https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM"
+        "name": "Borrachera Fito Shyruka (En Vivo)",
+        "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
       },
       "artists": [
         {
-          "name": "Arturo Coronel y el Buen Estilo",
-          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 180324,
-      "name": "Prision de Amor (En Vivo)",
-      "url": "https://open.spotify.com/track/6xD9FbY40IWNyXW9TQFZLr"
+      "duration_ms": 166400,
+      "name": "Besos y Copas (En Vivo)",
+      "url": "https://open.spotify.com/track/0Ko08nxxjdG0JLflS0pLK5"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
@@ -785,7 +973,7 @@
       "url": "https://open.spotify.com/track/3WMvIEeM2F2v5HK2XGWdTv"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Fiesta Privada Cantando Covers y Ineditos",
         "url": "https://open.spotify.com/album/05TFjNnYhRBAKC1JSalnup"
@@ -801,7 +989,7 @@
       "url": "https://open.spotify.com/track/0cYRk61CSfeHNlZj4VfVo2"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Desde Farallon",
         "url": "https://open.spotify.com/album/7ILYzBvc6OjoxnU5fqlg6W"
@@ -821,7 +1009,7 @@
       "url": "https://open.spotify.com/track/6AiIbAa9Cxk3zCU37xxLim"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde El Fuerte Sinaloa",
         "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
@@ -837,7 +1025,7 @@
       "url": "https://open.spotify.com/track/6Q8gRaUgFm0PrDV2nzg7Zv"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
@@ -857,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0qzfOBzqAWPIrPb4mmdkuE"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
@@ -873,7 +1061,23 @@
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
+      "album": {
+        "name": "En Vivo Fiesta Privada",
+        "url": "https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM"
+      },
+      "artists": [
+        {
+          "name": "Arturo Coronel y el Buen Estilo",
+          "url": "https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al"
+        }
+      ],
+      "duration_ms": 180324,
+      "name": "Prision de Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/6xD9FbY40IWNyXW9TQFZLr"
+    },
+    {
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Corrido Del Piyi (LDLG)",
         "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
@@ -893,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Belico El Asunto (En Vivo)",
         "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
@@ -913,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Buho",
         "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
@@ -929,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde El Fuerte Sinaloa",
         "url": "https://open.spotify.com/album/2lpvfpYACCxhSdSIKNeolr"
@@ -945,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6mHMfB7QSyG9QMRCB7tIOQ"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Mochomo (Live)",
         "url": "https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H"
@@ -965,7 +1169,7 @@
       "url": "https://open.spotify.com/track/2VYt8C8ccrAGtOKubIKZIB"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Descansa General (En Vivo)",
         "url": "https://open.spotify.com/album/14G4GPEfSqBTxVmqPIOAVq"
@@ -981,7 +1185,7 @@
       "url": "https://open.spotify.com/track/5a8T0NtfAbOnq9oytfOS0c"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
@@ -997,7 +1201,7 @@
       "url": "https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
@@ -1017,7 +1221,7 @@
       "url": "https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde Anaheim, CA",
         "url": "https://open.spotify.com/album/77ZS3zOcl24hgHQpI9S9Z1"
@@ -1033,7 +1237,7 @@
       "url": "https://open.spotify.com/track/7hc1XJg0j194excalCE1ij"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
@@ -1053,7 +1257,7 @@
       "url": "https://open.spotify.com/track/4D29C1f6S2g6BjL2Ra13PH"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
@@ -1069,7 +1273,7 @@
       "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Con Tololoche",
         "url": "https://open.spotify.com/album/08xun4wjXiDdPpKbxElBjc"
@@ -1085,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0MG0NcjQE8rXOOHpOd62kQ"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Del Rancho Al Palenque",
         "url": "https://open.spotify.com/album/2j5zovb9hcE0SVyC0y0qMV"
@@ -1109,7 +1313,7 @@
       "url": "https://open.spotify.com/track/70YeVS0xbCEiDYjkj7Krrk"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Desde la Oficina, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/5pN5eTa5jReHwSc8XCu2FI"
@@ -1125,7 +1329,7 @@
       "url": "https://open.spotify.com/track/0foKTkWsTnXXEl0rGrqFDy"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
@@ -1145,7 +1349,7 @@
       "url": "https://open.spotify.com/track/1ckXZnEJwjM907IZBDUX5z"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
@@ -1161,7 +1365,7 @@
       "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
@@ -1177,7 +1381,7 @@
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -1193,7 +1397,7 @@
       "url": "https://open.spotify.com/track/2yAYWwg1pRT5aePueqHPcU"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
@@ -1213,7 +1417,7 @@
       "url": "https://open.spotify.com/track/7dBU9jVoGHCwkEPPzZur9X"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Asi o Mas Norte\u00f1os",
         "url": "https://open.spotify.com/album/3hxu13g3iTKzO1X6UZg4YD"
@@ -1229,7 +1433,7 @@
       "url": "https://open.spotify.com/track/2rDdA37XDd7fxFhciggls8"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -1245,7 +1449,7 @@
       "url": "https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Fiesta Privada",
         "url": "https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM"
@@ -1261,7 +1465,7 @@
       "url": "https://open.spotify.com/track/1jqvAXXjpyET3feGbHbszY"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Chalito (En Vivo)",
         "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
@@ -1281,7 +1485,7 @@
       "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Con Los Camaradas (En vivo)",
         "url": "https://open.spotify.com/album/2s47L4or7sI0wo5fV5aBHG"
@@ -1301,7 +1505,7 @@
       "url": "https://open.spotify.com/track/0iRZOQKscisStqowlZa968"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Malas Rachas (En Vivo)",
         "url": "https://open.spotify.com/album/6RQExWvMa6De96hdwfxdDi"
@@ -1321,7 +1525,7 @@
       "url": "https://open.spotify.com/track/3tJgIzFi8JfNNr2SukMISp"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde la Fogata",
         "url": "https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk"
@@ -1337,7 +1541,7 @@
       "url": "https://open.spotify.com/track/7I4muuHRVtiYejV9fvG5DS"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Fiesta Privada Cantando Covers y Ineditos",
         "url": "https://open.spotify.com/album/05TFjNnYhRBAKC1JSalnup"
@@ -1353,7 +1557,7 @@
       "url": "https://open.spotify.com/track/3PPP5bjATt8UEYSa466laG"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Chavalitos En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6upYbQNs3JwrtMJRHmaZHR"
@@ -1369,7 +1573,7 @@
       "url": "https://open.spotify.com/track/5rln23XlGiVMWC2jJuY5w9"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Chavalitos En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6upYbQNs3JwrtMJRHmaZHR"
@@ -1385,7 +1589,7 @@
       "url": "https://open.spotify.com/track/4JqdcuaoxKy0zgs05WaO6o"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde la Fogata",
         "url": "https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk"
@@ -1401,7 +1605,7 @@
       "url": "https://open.spotify.com/track/6Q7uyLCshIgpdM7raSms3w"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Regulo Caro \"En Vivo\" Desde Culiac\u00e1n Con La Misma Banda",
         "url": "https://open.spotify.com/album/6WkDUYSnBrUnKZ4thwVQKY"
@@ -1417,7 +1621,7 @@
       "url": "https://open.spotify.com/track/6aFAS8akZpt1eX7oAsNSuc"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde la Fogata",
         "url": "https://open.spotify.com/album/3xDPeYuM5SmhtNKTlkEHAk"
@@ -1433,7 +1637,7 @@
       "url": "https://open.spotify.com/track/6xTdSJUoXFm2guzbkfVgE9"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Desvelada Con Banda Y Mariachi \"En Vivo\"",
         "url": "https://open.spotify.com/album/5ONCHLXRv0vNIWHlv7T8NW"
@@ -1449,7 +1653,7 @@
       "url": "https://open.spotify.com/track/0O98RZVXFehnS7bwICxk18"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Chavalitos En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6upYbQNs3JwrtMJRHmaZHR"
@@ -1465,7 +1669,7 @@
       "url": "https://open.spotify.com/track/7fDG6q9NR5tYVCyQ2C3SW1"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Regulo Caro \"En Vivo\" Desde Culiac\u00e1n Con La Misma Banda",
         "url": "https://open.spotify.com/album/6WkDUYSnBrUnKZ4thwVQKY"
@@ -1481,7 +1685,7 @@
       "url": "https://open.spotify.com/track/5qRsAKZOeT7Sbd7xFx1C4E"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Regulo Caro \"En Vivo\" Desde Culiac\u00e1n Con La Misma Banda",
         "url": "https://open.spotify.com/album/6WkDUYSnBrUnKZ4thwVQKY"
@@ -1497,7 +1701,7 @@
       "url": "https://open.spotify.com/track/177ejgmwvRWIWN1WALqrFS"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Chavalitos En Vivo, Vol.1",
         "url": "https://open.spotify.com/album/6upYbQNs3JwrtMJRHmaZHR"
@@ -1513,7 +1717,7 @@
       "url": "https://open.spotify.com/track/5XYBTw5OMvGnuQixPcsjV4"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Las Pisteadas Del Vago",
         "url": "https://open.spotify.com/album/2CeLM9SGWfd5CHi16qNRwl"
@@ -1533,7 +1737,7 @@
       "url": "https://open.spotify.com/track/4reO4BbymoLHYJxrWw9ciu"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
@@ -1549,23 +1753,7 @@
       "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
-      "album": {
-        "name": "Puras de Servandozl",
-        "url": "https://open.spotify.com/album/2Y0BOVe7O4scEDCbgVFJjR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189315,
-      "name": "Los Mitotes (En Vivo)",
-      "url": "https://open.spotify.com/track/26e8lUcchMWzFcNqtNTwYH"
-    },
-    {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Que Empiece El Borlote, Vol.1 (En Vivo)",
         "url": "https://open.spotify.com/album/2mbhSJBOBVszdfG6JrDCiH"
@@ -1581,7 +1769,7 @@
       "url": "https://open.spotify.com/track/1WmFwHqIFn4bhagLzWQyL1"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
@@ -1597,7 +1785,7 @@
       "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
@@ -1613,7 +1801,7 @@
       "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
@@ -1629,7 +1817,7 @@
       "url": "https://open.spotify.com/track/6d4nNccgid8aABpUpFOEFL"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
@@ -1645,7 +1833,7 @@
       "url": "https://open.spotify.com/track/0sJmbFssvPsTJUkrUyAMkj"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Al Gusto de Uno",
         "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
@@ -1661,7 +1849,7 @@
       "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Desde Topo Hasta La Sierra (En vivo)",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
@@ -1681,7 +1869,7 @@
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Vieja Escuela",
         "url": "https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD"
@@ -1697,7 +1885,7 @@
       "url": "https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Collares",
         "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
@@ -1717,7 +1905,7 @@
       "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "A Punta De Balazos (En Vivo)",
         "url": "https://open.spotify.com/album/7wJ5OZ9BjEriaj4s70Pupp"
@@ -1733,7 +1921,7 @@
       "url": "https://open.spotify.com/track/3cGlwJIMYJzMsuCsK2AbVe"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
@@ -1749,7 +1937,7 @@
       "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Changa (En Vivo)",
         "url": "https://open.spotify.com/album/5WZr7lEggiE3BO5RgpCTU7"
@@ -1765,7 +1953,7 @@
       "url": "https://open.spotify.com/track/1K0q2ll2ks3yeHIiURO0x9"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
@@ -1781,7 +1969,7 @@
       "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Clave 18",
         "url": "https://open.spotify.com/album/2Lo2rpX7dX8CtCWMJUEC5S"
@@ -1801,7 +1989,7 @@
       "url": "https://open.spotify.com/track/6my08Qad7A0PzZSlLOlDgG"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Rancheras Pa\u2019 La Parranda (En Vivo)",
         "url": "https://open.spotify.com/album/6dE0HA1457iIubcP5WYtLb"
@@ -1817,7 +2005,7 @@
       "url": "https://open.spotify.com/track/3uZE5qGYOwZw7iF1zZt576"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo Desde El Auditorio Nacional",
         "url": "https://open.spotify.com/album/33VGErg1y8Bm5aQHtEFQLG"
@@ -1833,7 +2021,7 @@
       "url": "https://open.spotify.com/track/3AHrF7WOEWsJOv2m8Jk4nN"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
         "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
@@ -1849,7 +2037,7 @@
       "url": "https://open.spotify.com/track/3TPl1naewrD2S74fmdi3nu"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
@@ -1869,7 +2057,7 @@
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
@@ -1885,7 +2073,7 @@
       "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
         "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
@@ -1905,7 +2093,7 @@
       "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
@@ -1925,7 +2113,7 @@
       "url": "https://open.spotify.com/track/4R5nSQMSaXs7okGyfdjb5H"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Un Tabaco (En Vivo)",
         "url": "https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p"
@@ -1941,7 +2129,7 @@
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
@@ -1957,7 +2145,7 @@
       "url": "https://open.spotify.com/track/1mF7pt9aRsbzn7SsHCO3EG"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
@@ -1977,7 +2165,7 @@
       "url": "https://open.spotify.com/track/78CE12m0ygkEbWpTSNqLOM"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Del Rancho Al Palenque",
         "url": "https://open.spotify.com/album/2j5zovb9hcE0SVyC0y0qMV"
@@ -2001,7 +2189,7 @@
       "url": "https://open.spotify.com/track/0hwf9lUD4VoRPyGqUczzf1"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
@@ -2017,7 +2205,7 @@
       "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
@@ -2037,7 +2225,7 @@
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "M\u00e1s Vivo Que En Vivo (Vol. 3)",
         "url": "https://open.spotify.com/album/6cPwBTKQHLhBydkcaHRpbs"
@@ -2053,7 +2241,7 @@
       "url": "https://open.spotify.com/track/4aI8jecrUY2zEbwNHIKmj9"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "La Mb",
         "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
@@ -2069,23 +2257,7 @@
       "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
-      "album": {
-        "name": "El Fugitivo (En Vivo)",
-        "url": "https://open.spotify.com/album/2gVGRsRpBJOZs2hZTvwlpc"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo (En Vivo)",
-      "url": "https://open.spotify.com/track/0qyofIr6dHSb8AcEVnywBY"
-    },
-    {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/3hErWDx15ZpkpDbQGKZYlf"
@@ -2105,7 +2277,7 @@
       "url": "https://open.spotify.com/track/2klm6F6NIXGoqVbIkxKJPv"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Chaparrita (En Vivo)",
         "url": "https://open.spotify.com/album/6NvCNDAJ8J5ubXzPGipl9J"
@@ -2125,7 +2297,7 @@
       "url": "https://open.spotify.com/track/7IZFygqsitO8CQtPATZSJK"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Chavalitos En Vivo, Vol.2",
         "url": "https://open.spotify.com/album/5aDB4t6s5RoicXbT5a2INC"
@@ -2141,7 +2313,7 @@
       "url": "https://open.spotify.com/track/08d4tROI4ddYX8DEEbGLdU"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Amanecida Con Todo Y Con Todos",
         "url": "https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV"
@@ -2157,7 +2329,7 @@
       "url": "https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N"
     },
     {
-      "added_at": "2025-12-05 15:59:42",
+      "added_at": "2025-12-19 06:00:09",
       "album": {
         "name": "Los Dos Carnales Con Sax",
         "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"

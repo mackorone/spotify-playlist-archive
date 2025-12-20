@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
@@ -493,6 +493,28 @@
     },
     {
       "album": {
+        "name": "Fuck Good Business (Remix)",
+        "url": "https://open.spotify.com/album/4mOtiqM6oNfuCQh3vjsVhP"
+      },
+      "artists": [
+        {
+          "name": "jamesstfu",
+          "url": "https://open.spotify.com/artist/0059K1YKhjK2bwNDjvJwEU"
+        },
+        {
+          "name": "Glokk40Spazz",
+          "url": "https://open.spotify.com/artist/5huQelNCoOS0IkUdYUDmgH"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195433,
+      "name": "Fuck Good Business - Remix",
+      "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
+    },
+    {
+      "album": {
         "name": "No Pain No Gain",
         "url": "https://open.spotify.com/album/0j4kcCJRc3pZgrApHgMlBt"
       },
@@ -672,7 +694,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 106936,
       "name": "keep no glock",
       "url": "https://open.spotify.com/track/0dzGkFHENpNZIci76uHYJi"
@@ -1020,7 +1042,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 162781,
       "name": "Notre dame",
       "url": "https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt"
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -1272,7 +1294,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 183671,
       "name": "Simple!",
       "url": "https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1"

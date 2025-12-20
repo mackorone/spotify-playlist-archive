@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Mumford & Sons",
+  "description": "The best indie tracks of the moment. Cover: River Tiber",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -4316,7 +4316,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 196000,
       "name": "Berlin TV Tower",
       "url": "https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC"
@@ -8748,7 +8748,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 102408,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/07Kz28z67deFipYAFwOHZJ"
@@ -12044,7 +12044,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 222631,
       "name": "Don't Break My Heart",
       "url": "https://open.spotify.com/track/42izaxKU4aONZMvif3wyTY"
@@ -12986,7 +12986,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 171818,
       "name": "Elevator",
       "url": "https://open.spotify.com/track/05CNmhpi2QYAT4BuAfZrwc"
@@ -14470,6 +14470,24 @@
       "duration_ms": 227542,
       "name": "Farmhouse",
       "url": "https://open.spotify.com/track/57bYowFJi1rh5z30pnAKdU"
+    },
+    {
+      "album": {
+        "name": "Fascination in the Dark (Acoustic)",
+        "url": "https://open.spotify.com/album/36UdrHDIWzpQlNDz8vmmJN"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "Fascination in the Dark - Acoustic",
+      "url": "https://open.spotify.com/track/66nFyR3MnhoWJMST0noyI2"
     },
     {
       "album": {
@@ -16504,7 +16522,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 190745,
       "name": "Give Me More",
       "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
@@ -20809,6 +20827,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care About The End Of The Year",
+        "url": "https://open.spotify.com/album/0UdYp8fAyGIgkV9CInS2jO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "I Don't Care About The End Of The Year",
+      "url": "https://open.spotify.com/track/6vPuZrWVT6hUxQJ9X3QIP1"
+    },
+    {
+      "album": {
         "name": "i don't feel safe in my body",
         "url": "https://open.spotify.com/album/5HwvUgkqsBLd0A6J3zqgR3"
       },
@@ -21044,7 +21080,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 207551,
       "name": "I Got A Feeling",
       "url": "https://open.spotify.com/track/7gtLfYGpnBDYbthn5d4O5J"
@@ -28951,6 +28987,28 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X"
+      },
+      "artists": [
+        {
+          "name": "Arkells",
+          "url": "https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw"
+    },
+    {
+      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
       },
@@ -29746,6 +29804,24 @@
       "duration_ms": 176418,
       "name": "my mind (now)",
       "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/5aRmeQVSfJ0R1gjTbGq6mX"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228346,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
     },
     {
       "album": {
@@ -31254,6 +31330,24 @@
       "duration_ms": 295513,
       "name": "Not The Name You Say",
       "url": "https://open.spotify.com/track/6NbIuGtAuS70vFB25tZ1WJ"
+    },
+    {
+      "album": {
+        "name": "Spirals",
+        "url": "https://open.spotify.com/album/2h9f3gJAwjTwj33MF8zdlg"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119745,
+      "name": "Not the Same",
+      "url": "https://open.spotify.com/track/5F46tSpX8QXCSX22UUcveS"
     },
     {
       "album": {
@@ -32835,6 +32929,28 @@
     },
     {
       "album": {
+        "name": "Own It (feat. Jordana)",
+        "url": "https://open.spotify.com/album/3ngZ4bZnG9jkQGZJ8JSmO4"
+      },
+      "artists": [
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        },
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204898,
+      "name": "Own It (feat. Jordana)",
+      "url": "https://open.spotify.com/track/6ITAd4qAw09I14eSFbbQdV"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC"
       },
@@ -32904,6 +33020,24 @@
       "duration_ms": 242653,
       "name": "Pain",
       "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "album": {
+        "name": "Pain.",
+        "url": "https://open.spotify.com/album/47a7Io7rkP9CQk58cI4zeL"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119351,
+      "name": "Pain.",
+      "url": "https://open.spotify.com/track/2O5vBKNXCGyuxIcLPnwT1h"
     },
     {
       "album": {
@@ -37512,7 +37646,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 226166,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm"
@@ -39473,6 +39607,24 @@
     },
     {
       "album": {
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
+    },
+    {
+      "album": {
         "name": "Some Day",
         "url": "https://open.spotify.com/album/5Tppese6BhADn7sSftrKe0"
       },
@@ -40588,7 +40740,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 199128,
       "name": "Stay For A While",
       "url": "https://open.spotify.com/track/1plDpuJtWBRAQvOEqBuzBL"
@@ -42085,6 +42237,24 @@
     },
     {
       "album": {
+        "name": "Take My Body Over",
+        "url": "https://open.spotify.com/album/0AYuFC4I3x150BRryeqZbE"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Take My Body Over",
+      "url": "https://open.spotify.com/track/71wTiVGp09biepC4mioEI9"
+    },
+    {
+      "album": {
         "name": "Take Off All Your Honey",
         "url": "https://open.spotify.com/album/1Irpx7BLNSTjSPzSyZ21Ge"
       },
@@ -43460,7 +43630,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
@@ -44182,6 +44352,24 @@
       "duration_ms": 143560,
       "name": "The story of us",
       "url": "https://open.spotify.com/track/5EvcD5Z5xSw1llxOdYVl2n"
+    },
+    {
+      "album": {
+        "name": "The Strings Of A Poet",
+        "url": "https://open.spotify.com/album/3IaIKNXdBLQBfcTFyCpmeN"
+      },
+      "artists": [
+        {
+          "name": "Lllyric?",
+          "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169018,
+      "name": "The Strings Of A Poet",
+      "url": "https://open.spotify.com/track/5MdGzN7esSKGXUCFtXiD7M"
     },
     {
       "album": {
@@ -44980,7 +45168,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 149430,
       "name": "Tigers",
       "url": "https://open.spotify.com/track/6kzUpCvFPRrJ3HRhV37Nfb"

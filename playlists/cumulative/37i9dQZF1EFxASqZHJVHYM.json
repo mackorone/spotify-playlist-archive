@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 237918,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3"
@@ -2482,10 +2482,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 165289,
       "name": "Story Of Us",
       "url": "https://open.spotify.com/track/1IkzUw8dx0h6dgLGfJib0X"
+    },
+    {
+      "album": {
+        "name": "Songs For You",
+        "url": "https://open.spotify.com/album/6fYCFakqijh8qlgBOJXICO"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165289,
+      "name": "Story Of Us",
+      "url": "https://open.spotify.com/track/3dl7OpBZfGzJF3MydfIV89"
     },
     {
       "album": {

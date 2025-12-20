@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Charlie Weems
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,740 likes - 79 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,774 likes - 79 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 78 | [Tell 'Em Yes \- Live](https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly) | [Brandon A\. Jacobs](https://open.spotify.com/artist/7vF9GXItuv8qrIGpLIubFz), [New Zion Temple Church Choir](https://open.spotify.com/artist/7AtzAGpfJLrbE65N87CjwO), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Tell 'Em Yes \(Live\)](https://open.spotify.com/album/0d92kjgHOfdlS0uNk1GNLE) | 7:11 |
 | 79 | [Better \- Live](https://open.spotify.com/track/5Y8xU9hSO7loZYaP9UqSWe) | [Yemohni Jones](https://open.spotify.com/artist/2CJ0ek3LrVe8hyh0w1Zblg) | [Better \(Live\)](https://open.spotify.com/album/2VaYgbdDdID9R5rmgvXzNF) | 5:13 |
 
-Snapshot ID: `AAAAACIMwHc6RV/MRQIm7AQYm0n8aYqI`
+Snapshot ID: `AAAAAI3tQnLGEX/wD73/k3nm4uML+78Y`

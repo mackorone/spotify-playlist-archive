@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Jevin Julian
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,593 likes - 106 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,604 likes - 106 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 105 | [Give In](https://open.spotify.com/track/5kkxvrdYIrBB8iYZLehfnE) | [Sandrayati](https://open.spotify.com/artist/5rF3UasE0KYra7muGoKpzF) | [arise\*](https://open.spotify.com/album/4SOKYLLdHhxG7BlluQpgkz) | 4:33 |
 | 106 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 
-Snapshot ID: `AAAAADHcQsag4B7I3fWzMKy0dUboV764`
+Snapshot ID: `AAAAAN7eqq3CK8xxztvyuYiDPo8l5WbK`

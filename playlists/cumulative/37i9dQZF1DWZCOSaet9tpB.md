@@ -2,7 +2,7 @@
 
 ### [Hot Hits Naija ](https://open.spotify.com/playlist/37i9dQZF1DWZCOSaet9tpB)
 
-> Nigeria's hottest tracks\.  Cover: Young Jonn
+> Nigeria's hottest tracks\.  Cover: DJ Maphorisa, Wizkid & DJ Tunez
 
 582 songs - 1 day 4 hr 8 min
 

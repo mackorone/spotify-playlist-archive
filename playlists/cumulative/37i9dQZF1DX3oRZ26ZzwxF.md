@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : døpelym
 
-227 songs - 10 hr 32 min
+228 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [BOUSKA YEYO](https://open.spotify.com/track/75ZTJOFuzBIC3N20ppb30A) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [BOUSKA YEYO](https://open.spotify.com/album/1SnEDzWgFxOJOyUtATEaEG) | 1:47 | 2025-06-05 | 2025-07-04 |
 | [BOYAUX](https://open.spotify.com/track/15vzfrp9XoX4bzL0Rqv4RV) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [BOYAUX](https://open.spotify.com/album/4gQv05ciQ2OHDitu830QoT) | 2:57 | 2025-08-07 | 2025-09-26 |
 | [BUY](https://open.spotify.com/track/30o0wPblKLHAgQLlBJcpCz) | [Willy Wallas](https://open.spotify.com/artist/5Y2ZxwT6skaSDBUyteBCL1), [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [LDM](https://open.spotify.com/album/2HzW1rHpw1WECvihshuKuy) | 2:53 | 2025-09-25 | 2025-11-07 |
-| [Béni](https://open.spotify.com/track/39VYC3KC7NrfH8ngz977zZ) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:13 | 2025-12-18 |  |
+| [Béni](https://open.spotify.com/track/39VYC3KC7NrfH8ngz977zZ) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [R2](https://open.spotify.com/artist/0IzqHgfk5cgQ8rR6nm5rQP) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:13 | 2025-12-18 |  |
 | [Béni](https://open.spotify.com/track/6jSuFCEBmPaw57N4Me4bya) | [Lesky](https://open.spotify.com/artist/0VogK6a2ytEmfv2Eg2ZvBp), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Ameka Zrai](https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv), [Bmuxx Carter](https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C) | [Béni](https://open.spotify.com/album/3VGDTzCploKK1PR16XKXPZ) | 3:53 | 2025-06-05 | 2025-08-22 |
 | [C'est Chaud](https://open.spotify.com/track/1UrnbvkVqediUlSSOh4X3S) | [Trois Officiel](https://open.spotify.com/artist/26zFi9Jf1jdloqRU2UEhrb), [Abdel Kader](https://open.spotify.com/artist/16p6gSJtGyIV7oLyPocwP5), [L'Otre Là](https://open.spotify.com/artist/1WUKbTkRm6vjx6szJx5s3c) | [C'est Chaud](https://open.spotify.com/album/2NvPS6rbzPMzNL7COR3b6L) | 2:47 | 2025-12-04 |  |
 | [C'est Du Mélange](https://open.spotify.com/track/10XVh3wR0cBqPBiTCgIuDw) | [Sethlo](https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON) | [C'est Du Mélange](https://open.spotify.com/album/2yAG0Lm31GGQVRcLQozCid) | 2:58 | 2025-08-07 | 2025-09-05 |
@@ -94,6 +94,7 @@
 | [EPASUKA \(feat\. Didi B\)](https://open.spotify.com/track/6bDi4Yg8gS8mLBzP1fCcNB) | [DAVINHOR](https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [EPASUKA \(feat\. Didi B\)](https://open.spotify.com/album/0o3ItaYqqwv5Gjc4LkhSEH) | 2:55 | 2025-11-27 |  |
 | [Epayi na biso \(feat\. C2B\)](https://open.spotify.com/track/7zsehFgn9Qziqlh0jBE3CX) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [C2B](https://open.spotify.com/artist/6zUcMw2Cj20JpCj4XoPqp9) | [Epayi na biso \(feat\. C2B\)](https://open.spotify.com/album/6lm1HFd3rlSGBNbiSEtZeB) | 3:08 | 2025-12-18 |  |
 | [EPHUTRE](https://open.spotify.com/track/5aYBdaiBUwYdLlHhKNFdnf) | [TAAG](https://open.spotify.com/artist/3kYJxolwq5UI5IwXqa8UXH), [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [EPHUTRE](https://open.spotify.com/album/3q6NKS5dyWHjhgs53GKq6I) | 3:00 | 2025-08-07 | 2025-09-05 |
+| [Eza Dega](https://open.spotify.com/track/0jU0RuqVfQqeznl4u9eeLA) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [Trapouka : Kpakolokpa Reloaded](https://open.spotify.com/album/5ocOfsrp418cityB7Rp3Z8) | 2:15 | 2025-12-18 |  |
 | [FAKE](https://open.spotify.com/track/3cAq7nnb7dlVUW8GFkDAkL) | [Sins](https://open.spotify.com/artist/4pgGpt1oWR7yDcKWJqtVSa) | [FAKE](https://open.spotify.com/album/1ND9ff70QTZubcUP1alN5J) | 2:22 | 2025-11-13 | 2025-12-12 |
 | [Farotement](https://open.spotify.com/track/4Eh9KjiUbkdgGAvKk9Bp4Z) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg), [Faroch](https://open.spotify.com/artist/1V81pFbiuSJCKEsRcLvXeK) | [10sTracks](https://open.spotify.com/album/6a6HlmDsfFzNxRrmzhRuCg) | 3:10 | 2025-12-11 |  |
 | [Faut Bouai !](https://open.spotify.com/track/5UFVfnSCRM3bEN4j5IMRTp) | [NÔJ](https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O) | [Faut Bouai !](https://open.spotify.com/album/0hGuTqxGWFnhB5f6yndwYr) | 1:52 | 2025-06-05 | 2025-07-11 |

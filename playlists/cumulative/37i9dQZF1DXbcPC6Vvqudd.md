@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-469 songs - 20 hr 54 min
+470 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Meditation Thunder](https://open.spotify.com/track/3laBFjOEcZRgmlv2StZlDX) | [Water Effects Center](https://open.spotify.com/artist/4ElnPSfB20IpwQlP4UudVG) | [Cloud Force](https://open.spotify.com/album/4KK7mbuJzcbW8pHQSwtytc) | 2:39 | 2021-11-08 | 2025-11-14 |
 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Key Humphrey](https://open.spotify.com/artist/4BJ8h7BuQ1DYcEYrpTFloW) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 | 2021-11-08 | 2025-11-14 |
 | [mid day rain](https://open.spotify.com/track/5KmbZq6mXkaY9O8ANVgKW1) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in copenhagen](https://open.spotify.com/album/52n9DE1JvE1uiN3IiRxBb4) | 3:00 | 2021-11-08 | 2025-11-14 |
+| [Midnight Rain Over the Peaks](https://open.spotify.com/track/2ys6kZL6YMIqEwTem1tIQj) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Midnight Rain Over the Peaks](https://open.spotify.com/album/5Mw46UZwoyFdq4rcofBMoO) | 2:43 | 2025-12-19 |  |
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2021-11-08 | 2025-11-14 |
 | [Mighty Thunder and Light Rain](https://open.spotify.com/track/5hYeSOQ7B9YKMMScdLWpQP) | [Gewittermacher](https://open.spotify.com/artist/2ItJbhjD2B7LxPAdGzLD2O) | [Gewitter](https://open.spotify.com/album/1laHNf9bQDEZdcHd2xvtLl) | 3:30 | 2021-11-08 | 2023-02-14 |
 | [Misty Nights](https://open.spotify.com/track/1VoWakyWCQffi9kJLE8E9e) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rain Flood](https://open.spotify.com/album/7ICJo8n9KU5LyLwivs02CE) | 3:36 | 2021-11-08 | 2025-11-14 |

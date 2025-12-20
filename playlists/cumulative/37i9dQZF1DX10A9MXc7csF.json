@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Sahir Montoya ",
+  "description": "The new school of M\u00fasica Mexicana. Cover: LENCHO",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 167439,
       "name": "11:11",
       "url": "https://open.spotify.com/track/6MQyllG3fZnnqIvSJALdKZ"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 165000,
       "name": "Ahora Te Aguantas",
       "url": "https://open.spotify.com/track/6zB7NJW1QfOMN85gJteqfm"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 235392,
       "name": "Amigos Con Derechos - En Vivo",
       "url": "https://open.spotify.com/track/22NXjAZPjgkfFQO0gRBnI1"
@@ -4316,7 +4316,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 142660,
       "name": "Camionetas Negras",
       "url": "https://open.spotify.com/track/2827Vq2DFFqrAcncTz1caE"
@@ -6054,7 +6054,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 173371,
       "name": "CRF",
       "url": "https://open.spotify.com/track/0l12Eb0ybqQ9DpZbZPXaO0"
@@ -10924,7 +10924,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 178397,
       "name": "esa fui yo",
       "url": "https://open.spotify.com/track/54VjEorHcET8CEvFjijhzv"
@@ -11802,7 +11802,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 192810,
       "name": "Filofobia",
       "url": "https://open.spotify.com/track/0xkUsPUgcSl8Wd0zHZz6Mx"
@@ -11994,6 +11994,24 @@
       "duration_ms": 170451,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/0wI7ORmp7jNtSvEQfCSMaO"
+    },
+    {
+      "album": {
+        "name": "FRENESI",
+        "url": "https://open.spotify.com/album/6crRmbD1w0fVNd96fumPRt"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183233,
+      "name": "FRENESI",
+      "url": "https://open.spotify.com/track/3DL5HZVmpGzlo8G9jrwyko"
     },
     {
       "album": {
@@ -15996,7 +16014,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 203250,
       "name": "Loca y Loco",
       "url": "https://open.spotify.com/track/0JDJNw4EQVielZ1CNX1Cnv"
@@ -16702,6 +16720,28 @@
       "duration_ms": 158306,
       "name": "Made In Paris",
       "url": "https://open.spotify.com/track/3Wt5VJAfUegajg4F3BEpVK"
+    },
+    {
+      "album": {
+        "name": "Madre Mia",
+        "url": "https://open.spotify.com/album/52usi9n7VTM6DLIcipoQj2"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190770,
+      "name": "Madre Mia",
+      "url": "https://open.spotify.com/track/4RggfCU7eVdXnbE6yw958e"
     },
     {
       "album": {
@@ -22021,6 +22061,24 @@
     },
     {
       "album": {
+        "name": "Pagana",
+        "url": "https://open.spotify.com/album/5Nye8aOQ9pfltqffBpQ5A0"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Pagana",
+      "url": "https://open.spotify.com/track/56WRqTs2M4St71G3G6Y9Df"
+    },
+    {
+      "album": {
         "name": "Pal Amor Soy Malo (Remix)",
         "url": "https://open.spotify.com/album/5zwIedXvNKxtqWuZJNWKmF"
       },
@@ -22543,6 +22601,32 @@
     },
     {
       "album": {
+        "name": "Perfil Bajo",
+        "url": "https://open.spotify.com/album/0Q576qmi6iiNEOkRfDOR7b"
+      },
+      "artists": [
+        {
+          "name": "Cheluis",
+          "url": "https://open.spotify.com/artist/08EHv9ysRhyjFxU8woWkRh"
+        },
+        {
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/5lVrLnOGxIY3q8TTqDd5m2"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125354,
+      "name": "Perfil Bajo",
+      "url": "https://open.spotify.com/track/04ErN8a15ohwOQrvqvGPaT"
+    },
+    {
+      "album": {
         "name": "PERLA",
         "url": "https://open.spotify.com/album/4wGQO8krYTucDmi9ilIC8O"
       },
@@ -22684,7 +22768,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 233568,
       "name": "Peso",
       "url": "https://open.spotify.com/track/11PDXMGdJ3fbRrWLvFfmfz"
@@ -23994,7 +24078,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 222000,
       "name": "que mach\u00edn la cagaste",
       "url": "https://open.spotify.com/track/48Eac78I4uzj7O5zkApfdA"
@@ -24958,7 +25042,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 166282,
       "name": "REPEAT",
       "url": "https://open.spotify.com/track/5gACvUnTFFFmKYMHMoVrGO"
@@ -25548,7 +25632,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 155050,
       "name": "SABUESO",
       "url": "https://open.spotify.com/track/4xV09yboZRmiM0Ar8TpFQc"
@@ -26236,6 +26320,24 @@
       "duration_ms": 161234,
       "name": "Si Ma\u00f1ana No Estoy",
       "url": "https://open.spotify.com/track/11DR9ygi9mH4UYYysUaWAr"
+    },
+    {
+      "album": {
+        "name": "Si Me Escuchas",
+        "url": "https://open.spotify.com/album/2MabExRHmOx2JjJdhu6ZvB"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169725,
+      "name": "Si Me Escuchas",
+      "url": "https://open.spotify.com/track/0bJj5uDx0ujXlezS3YIAgT"
     },
     {
       "album": {
@@ -28291,6 +28393,24 @@
     },
     {
       "album": {
+        "name": "Titi",
+        "url": "https://open.spotify.com/album/7KUEiAJABEXvkh0xVbU6xt"
+      },
+      "artists": [
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/7khljrwL1dO6sZDAClVeLF"
+    },
+    {
+      "album": {
         "name": "TMP",
         "url": "https://open.spotify.com/album/429thKPz8y0s5sgOivSWBx"
       },
@@ -30318,7 +30438,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 183600,
       "name": "Vida De Campo",
       "url": "https://open.spotify.com/track/57P9uCKOBfUeL50OERnOGo"
@@ -30581,6 +30701,28 @@
     },
     {
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165949,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
+    },
+    {
+      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/27iHl47FNY4y2h4LJLCv98"
       },
@@ -30614,6 +30756,24 @@
       "duration_ms": 151901,
       "name": "When I was your Man - En Vivo",
       "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
+    },
+    {
+      "album": {
+        "name": "Willy Broncas",
+        "url": "https://open.spotify.com/album/2B99BtDN5UxCDuIewjKW3j"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182370,
+      "name": "Willy Broncas",
+      "url": "https://open.spotify.com/track/5KEkWSE0D6zhBONohmA2z4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u662d\u548c\u306e\u6642\u4ee3\u3092\u5f69\u3063\u305f\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3092\u7279\u96c6\u3002Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 10438,
+  "num_followers": 10453,
   "original_name": "\u662d\u548c\u30a2\u30cb\u30e1",
   "owner": {
     "name": "Spotify",
@@ -639,26 +639,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u5c71\u306e\u3076\u4ee3 (\u30c9\u30e9\u3048\u3082\u3093)",
-          "url": "https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj"
-        },
-        {
-          "name": "\u3053\u304a\u308d\u304e'73",
-          "url": "https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw"
-        }
-      ],
-      "duration_ms": 137880,
-      "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
-      "url": "https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea\u306e\u6b4c \uff0d\u5897\u88dc\u76e4\uff0d",
         "url": "https://open.spotify.com/album/4gDHjZDOdAjgeCTXpMTsE5"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 245800,
       "name": "NIGHT OF SUMMER SIDE",
       "url": "https://open.spotify.com/track/16jpCbb6NSMeBC2WDtHUeH"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "\u30c6\u30ec\u30d3\u30a2\u30cb\u30e1\u653e\u900140\u5468\u5e74\u8a18\u5ff5\u30c9\u30e9\u3048\u3082\u3093 \u3046\u305f\u306e\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2z7ZCvngxAsF4GvFHaXZUx"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u5c71\u306e\u3076\u4ee3 (\u30c9\u30e9\u3048\u3082\u3093)",
+          "url": "https://open.spotify.com/artist/5V0fl2vEUF1LJY0EiOzqdj"
+        },
+        {
+          "name": "\u3053\u304a\u308d\u304e'73",
+          "url": "https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw"
+        }
+      ],
+      "duration_ms": 137880,
+      "name": "\u307c\u304f\u30c9\u30e9\u3048\u3082\u3093",
+      "url": "https://open.spotify.com/track/1PCqZJzzQu7daM74tjlMDL"
     },
     {
       "added_at": "2025-06-13 16:40:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-13 16:40:18",
       "album": {
-        "name": "Step",
-        "url": "https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd"
-      },
-      "artists": [
-        {
-          "name": "a\u30fbchi-a\u30fbchi",
-          "url": "https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi"
-        }
-      ],
-      "duration_ms": 259433,
-      "name": "Step",
-      "url": "https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA"
-    },
-    {
-      "added_at": "2025-06-13 16:40:18",
-      "album": {
         "name": "\u30b9\u30d7\u30fc\u30f3\u304a\u3070\u3055\u3093 \u97f3\u697d\u96c6",
         "url": "https://open.spotify.com/album/2tn11xfn8ykLdxdg1SlyLN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 148233,
       "name": "\u30ea\u30f3\u30b4\u306e\u68ee\u306e\u5b50\u732b\u305f\u3061",
       "url": "https://open.spotify.com/track/3tHYALAtyNsJsR641c6T36"
+    },
+    {
+      "added_at": "2025-06-13 16:40:18",
+      "album": {
+        "name": "Step",
+        "url": "https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd"
+      },
+      "artists": [
+        {
+          "name": "a\u30fbchi-a\u30fbchi",
+          "url": "https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi"
+        }
+      ],
+      "duration_ms": 259433,
+      "name": "Step",
+      "url": "https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA"
     }
   ],
   "unique_name": "\u662d\u548c\u30a2\u30cb\u30e1",

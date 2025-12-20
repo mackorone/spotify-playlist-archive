@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-437 songs - 1 day 1 hr 59 min
+439 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Como?](https://open.spotify.com/track/1zEsqQNC0KrX8cxdBuuTyg) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Como?](https://open.spotify.com/album/7pDO9G4lpBP2vjOZWflOuQ) | 2:35 | 2023-07-16 | 2023-08-09 |
 | [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 | 2023-04-30 | 2023-05-23 |
 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 | 2023-04-30 | 2023-05-23 |
+| [Cumbox](https://open.spotify.com/track/5jjSAzLVHCXqo63fvOrt5e) | [Peritz](https://open.spotify.com/artist/31NVoBcFNTbpsKAvh5jYDp) | [Cumbox](https://open.spotify.com/album/5xyQ6UumlBSInYxRbp0cef) | 3:24 | 2025-12-19 |  |
 | [Damn](https://open.spotify.com/track/0GYQ8MgmNLu8Z9uRmzPUKS) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [Damn](https://open.spotify.com/album/5NQfmvp7sjG2vhWBcWRB5t) | 2:51 | 2023-07-02 | 2023-07-17 |
 | [Damnnn](https://open.spotify.com/track/2CH0ixni5BrCNceFTrIw8B) | [HAYNES](https://open.spotify.com/artist/0WZl1y6QbVezqTc2EqDHr4) | [Thicc N Juiccy](https://open.spotify.com/album/7dNRzgnt2UdVBW9GhxkkmZ) | 6:38 | 2023-01-29 | 2023-03-06 |
 | [Dance With The Groove](https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Dance With The Groove](https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2) | 3:51 | 2023-04-09 | 2023-04-24 |
@@ -444,6 +445,7 @@
 | [You're Not Alone \- Sinner & James Radio Edit](https://open.spotify.com/track/7A7XNiQSeL58ejbuJNflzE) | [Jerome Robins](https://open.spotify.com/artist/56Ci0Hx4pIlkTsNVhI3EQW), [Sinner & James](https://open.spotify.com/artist/6qUhtt7sgKShRCw2FiTrX2) | [You're Not Alone](https://open.spotify.com/album/7imt6YSRHWhpP0FfKorKXY) | 4:14 | 2023-01-22 | 2023-02-20 |
 | [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 | 2023-05-21 | 2023-06-12 |
 | [Z Pack](https://open.spotify.com/track/4fLgtVhfEe9yEjQDkIOgQh) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Z Pack](https://open.spotify.com/album/1gdxFwUOKNIGfEXZZ00Ood) | 3:07 | 2023-06-11 | 2023-07-03 |
+| [Zane](https://open.spotify.com/track/5zJgHPRSPZAx4nWEv93WE5) | [Andrea Moricone](https://open.spotify.com/artist/5smRjMdumk9zNe6UQjc3eh) | [Zane](https://open.spotify.com/album/1owN0NwKWzWoNzmIrBD0D7) | 4:32 | 2025-12-19 |  |
 | [Zed](https://open.spotify.com/track/6ve2DARqa8GFqpDBpYj65y) | [Laera](https://open.spotify.com/artist/66dGFhhv24QNwzclFPMlIz), [Henrik Voght](https://open.spotify.com/artist/2p3u5Wl9xYehO9QRwmnvTc) | [Zed](https://open.spotify.com/album/2Wjq0qdw3QQghtFWcH2zkS) | 4:05 | 2025-12-14 |  |
 
 \*This playlist was first scraped on 2023-02-03. Prior content cannot be recovered.

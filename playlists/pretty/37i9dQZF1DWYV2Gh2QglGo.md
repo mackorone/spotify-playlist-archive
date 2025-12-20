@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Brett Kissel
+> The home of Canadian country music\. Cover: Kelsi Mayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,408 likes - 109 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,409 likes - 109 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Farmer](https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Farmer](https://open.spotify.com/album/13nnrjheHl13arW3ICHMxW) | 3:10 |
-| 2 | [Phone Call From Home](https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Phone Call From Home](https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi) | 3:07 |
-| 3 | [For The Record](https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [For The Record](https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq) | 3:22 |
+| 1 | [For The Record](https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL) | [Kelsi Mayne](https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER) | [For The Record](https://open.spotify.com/album/1TRn6TNE4FkQIEC4NQVhbq) | 3:22 |
+| 2 | [Farmer](https://open.spotify.com/track/0jbVLGFKiT6lDtO1hFfGLV) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Farmer](https://open.spotify.com/album/13nnrjheHl13arW3ICHMxW) | 3:10 |
+| 3 | [Phone Call From Home](https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Phone Call From Home](https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi) | 3:07 |
 | 4 | [That's Just Love For Ya](https://open.spotify.com/track/50U3w2Cj9TRbX9Ea3Yju0L) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [That's Just Love For Ya](https://open.spotify.com/album/5pDtTHZty1ErXzu4r7k1Us) | 3:08 |
 | 5 | [Portland, Maine \(feat\. Jordan Davis\)](https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Portland, Maine \(10th Anniversary Edition\)](https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov) | 3:30 |
 | 6 | [Man Outta Me](https://open.spotify.com/track/51nRWKX2GqMu4h5B0jqlqJ) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [Man Outta Me](https://open.spotify.com/album/4ZWQHVRMLBrwJc3CU1VsiJ) | 3:29 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 108 | [As Long As There's A Bar](https://open.spotify.com/track/06L3jDgNDAuyQfLYTNS0KO) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [As Long As There's A Bar](https://open.spotify.com/album/16YteVMDYXfVk8oAe70u5B) | 2:57 |
 | 109 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 |
 
-Snapshot ID: `AAAAAObpHyEBETcy9aQUlcTNpQW8ZlFA`
+Snapshot ID: `AAAAAOaUUIIQH+pXpWbPBgU9hLYhYKFp`

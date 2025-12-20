@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,141 songs - 3 day 19 hr 34 min
+2,142 songs - 3 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Ginseng Drill 2002](https://open.spotify.com/track/093QVc8x2AguMbxIAd8DzZ) | [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Claylist](https://open.spotify.com/album/0DmPw2KV10pzi6Z2xa2Y13) | 1:57 | 2024-09-05 | 2024-11-01 |
 | [GIRL](https://open.spotify.com/track/7zeafSIdEHF8HoskBRkFto) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [GIRL](https://open.spotify.com/album/0fN88KFmZW8TpFKmM5c7ss) | 2:51 | 2023-02-13 | 2023-04-21 |
 | [GITT](https://open.spotify.com/track/7jjBieRzHT48hUUA1ZAwHC) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [GITT](https://open.spotify.com/album/6HIedHgGtmRQSJBiqIn7yg) | 2:50 | 2022-09-29 | 2022-11-11 |
+| [GIVE ME LOVE](https://open.spotify.com/track/0G9NPVSaZCtmzEjHyiQacu) | [ATTI](https://open.spotify.com/artist/1Goz3lvDEpt5s0Y6mB6O8f) | [GIVE ME LOVE](https://open.spotify.com/album/5tWk0ZKzuaK4Y44yQP6SR4) | 2:29 | 2025-12-18 |  |
 | [GLIDER FÖRBI](https://open.spotify.com/track/79QHrdDudHItZ0EMtWmesM) | [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [GLIDER FÖRBI](https://open.spotify.com/album/4inwta0WyLnLg5RWICQExT) | 2:22 | 2022-12-01 | 2023-01-12 |
 | [GLITTER](https://open.spotify.com/track/2uQzFHxj2KYSFtKvKgcP9p) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [GLITTER](https://open.spotify.com/album/7yIc42XcxS526VSZDBWXaD) | 2:03 | 2023-03-16 | 2023-04-21 |
 | [Glizzy \(with Yasin\)](https://open.spotify.com/track/1cY74NmigcxMes9yokHXpj) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Glizzy \(with Yasin\)](https://open.spotify.com/album/5D5ai2k8Y9MKp9ivAiWzEn) | 2:25 | 2023-04-27 | 2023-05-12 |
@@ -1729,7 +1730,7 @@
 | [SOLUTION](https://open.spotify.com/track/7H21LVLnblKeXb9aPsidBr) | [BANDOW](https://open.spotify.com/artist/6arPEifMs28ehVIDVw256A) | [SOLUTION](https://open.spotify.com/album/2yChGwsBcS6xBtLHrZQN13) | 2:36 | 2022-02-17 | 2022-02-24 |
 | [SOLVALLA](https://open.spotify.com/track/3mhy4u6MBKCfAj18o67DHr) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [SOLVALLA](https://open.spotify.com/album/2j5ELaAQ6EmPiO79lnJIBn) | 2:28 | 2022-10-20 | 2022-12-09 |
 | [SOM DOM](https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [SOM DOM](https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN) | 2:21 | 2021-12-16 | 2022-02-25 |
-| [Som Magnolia](https://open.spotify.com/track/1ZIh3FQJca9NrBoZAwr1De) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [](https://open.spotify.com/album/null) | 2:35 | 2025-12-18 |  |
+| [Som Magnolia](https://open.spotify.com/track/1ZIh3FQJca9NrBoZAwr1De) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [2025](https://open.spotify.com/album/6sWmLtNrlk8TtUixE6XZ3L) | 2:35 | 2025-12-18 |  |
 | [Som oss](https://open.spotify.com/track/3dtH2Zip9yEyXe57AwdBcF) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Som oss](https://open.spotify.com/album/357rPJDdkwcFC5uEBrAX1A) | 2:43 | 2024-05-30 | 2024-09-27 |
 | [SOM OSS](https://open.spotify.com/track/2MOj51vwsIaMR5pkUp1o6c) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [SOM OSS](https://open.spotify.com/album/6qJKrwSYsjyk8vzlXYtjz0) | 2:12 | 2024-09-26 | 2025-02-21 |
 | [SOON HOME](https://open.spotify.com/track/19YCyFWCVZB1sXbMNDgG0t) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [DRILLOGI](https://open.spotify.com/album/2atzFyuCDPe3NWmYlX5Ngt) | 2:07 | 2022-01-31 | 2022-03-17 |

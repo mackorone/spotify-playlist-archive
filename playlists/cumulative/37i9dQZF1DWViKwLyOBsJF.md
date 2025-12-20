@@ -4,7 +4,7 @@
 
 > Traditional Christmas songs for a classic festive feeling.
 
-129 songs - 5 hr 43 min
+130 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [In The Bleak Midwinter](https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ), [Rosie Bennet](https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E) | [In The Bleak Midwinter](https://open.spotify.com/album/51pGZlMTBR9EeAn2CsR1KZ) | 2:18 | 2025-12-01 |  |
 | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2021-11-19 | 2025-12-02 |
 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 | 2021-11-19 |  |
+| [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4fmMD2PMG2hZMH0OXBGunH) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [A Touch Of December](https://open.spotify.com/album/0REuyYIJJ0AXLV4Q2rwwjA) | 2:09 | 2025-12-19 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 | 2025-11-19 |  |
 | [Jingle Bells](https://open.spotify.com/track/0zwo1TTLQ1hT1D0FSUVzJb) | [Clouded Transparency](https://open.spotify.com/artist/5vuqXzXIvJedvrLxiekZk7) | [Jingle Bells](https://open.spotify.com/album/6v06rX8IKFfen73wXhIHcD) | 2:32 | 2024-11-06 | 2025-09-03 |
 | [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 | 2024-10-22 | 2025-09-17 |

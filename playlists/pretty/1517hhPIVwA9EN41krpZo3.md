@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1517hhPIVwA9EN41krpZo3.md) - [plain]
 
 > Check out the top streamed indie tracks of 2016!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,347 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,346 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

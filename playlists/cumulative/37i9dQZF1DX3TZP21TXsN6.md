@@ -4,7 +4,7 @@
 
 > Nieuwe tracks elke week!
 
-308 songs - 13 hr 16 min
+311 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [3x Raden](https://open.spotify.com/track/60y9qgqwAevzgmPMOHAV8K) | [Jc](https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh) | [3x Raden](https://open.spotify.com/album/1BtaGM0eTKVkAoWChTJoPj) | 2:52 | 2025-12-04 |  |
 | [4, 5 Shots](https://open.spotify.com/track/2eeKFKWZLnoQQX886943f1) | [Nerra](https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz) | [4, 5 Shots](https://open.spotify.com/album/7enM3yCOBeuT89LUnKsdX4) | 2:30 | 2025-09-25 | 2025-11-01 |
 | [4\-4\-2](https://open.spotify.com/track/5PPlzo5fkhx5m7aHVAAltZ) | [Harry Femer](https://open.spotify.com/artist/5hAFdBmJbhDaDHOICibLfI) | [4\-4\-2](https://open.spotify.com/album/1nsHMFvMyfXTiBqe9YH67i) | 2:39 | 2025-10-09 | 2025-11-21 |
+| [4am](https://open.spotify.com/track/1nRPOUjlMHlczV5P2gbe7p) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb) | [Satyr](https://open.spotify.com/album/1KyfXlV1UJdfU2Q5eHaMVV) | 2:41 | 2025-12-19 |  |
 | [4WIEL](https://open.spotify.com/track/6fDKErrqoJ82liH3lWBtx8) | [W19](https://open.spotify.com/artist/5016jZ4DoKPDuKy5xZyUpU), [Jaïr](https://open.spotify.com/artist/6vG755giuevRw6BkA3ZQLB), [Devo again](https://open.spotify.com/artist/1IeuC3gQosGED5Nkaf4vIa), [Doomy](https://open.spotify.com/artist/4bmt4gg4vdPPt4E27baJ91) | [4WIEL](https://open.spotify.com/album/7fFiVLLwD0fegc7ZOI4ypV) | 3:06 | 2025-09-18 | 2025-11-01 |
 | [64 Barz](https://open.spotify.com/track/0gFEopcPhGiOFNHvQm3Ta6) | [Parsa](https://open.spotify.com/artist/7zq4HhXQ1Tp9LRE7MtEN9m), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8), [Marrie Mar](https://open.spotify.com/artist/2Y143LRuHJkNwCj5JkvCiI) | [64 Barz](https://open.spotify.com/album/68idpzgNus0f4NcI28tUO2) | 2:32 | 2025-11-20 |  |
 | [7 TIENTJES](https://open.spotify.com/track/6TIh2IzhNqMHdr206dPeJ6) | [Riico](https://open.spotify.com/artist/35Q9Jkoyt1TnlzDzKIrRoP), [MORAAAL](https://open.spotify.com/artist/6R1Q2sS3e5Kn1hpReULtQU) | [7 TIENTJES](https://open.spotify.com/album/6gumy6efHTApp4jB668b43) | 1:30 | 2025-08-07 | 2025-09-05 |
@@ -147,6 +148,7 @@
 | [ik haat je](https://open.spotify.com/track/5WifmLmutp8N3iSoytpimH) | [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [ik haat je](https://open.spotify.com/album/5O0n7AXswglaVnJxDIYwB7) | 2:35 | 2025-11-27 | 2025-12-12 |
 | [Intro Toestand](https://open.spotify.com/track/4UPcRmCwsKCJapg9mh6cvQ) | [FOCUS](https://open.spotify.com/artist/4LPnjKJNGs4iU3gVbP2fUn) | [Toestand](https://open.spotify.com/album/4YogrwLA0r8NNOs1FamLQo) | 1:19 | 2025-09-04 | 2025-10-17 |
 | [Isri](https://open.spotify.com/track/3rDpGytBHq64SXDRf9LQrt) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Poppe](https://open.spotify.com/artist/7rMTGOF2vqBUcsh1cH64bC), [Ayya Ites](https://open.spotify.com/artist/471zrtvGVQFHk0ZKuaxaNf) | [Isri](https://open.spotify.com/album/44UABAk12dzr0x8JRHV4ip) | 2:50 | 2025-08-07 | 2025-09-05 |
+| [Jaloezie](https://open.spotify.com/track/4K5oAJfyaPjszfJXUJNGf6) | [Insayno](https://open.spotify.com/artist/4BwKHXbL1qbaoD73AM4sO8), [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Jaloezie](https://open.spotify.com/album/42Q37iJv2u2AURRKL0AW2m) | 3:29 | 2025-12-19 |  |
 | [Jonge van Beethoven](https://open.spotify.com/track/5LRexkmbnueuLmXhAda0QW) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Jonge van Beethoven](https://open.spotify.com/album/3wPDHdpHJX8zW8pdRimiAR) | 1:40 | 2025-07-17 | 2025-08-15 |
 | [Kamer](https://open.spotify.com/track/4yH7yI0cJCDChG8VpzcUo3) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Kamer](https://open.spotify.com/album/0TbqHBEj88GCdEkRt0m52W) | 2:54 | 2025-10-02 | 2025-11-01 |
 | [KBS \- KING BATI SANKA](https://open.spotify.com/track/2qBFkO5KppgSa0nGr5Mmn2) | [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [KBS \(KING BATI SANKA\)](https://open.spotify.com/album/7MbPLTnnxp1qzlgTeh14s1) | 2:04 | 2025-12-04 |  |
@@ -272,6 +274,7 @@
 | [Team](https://open.spotify.com/track/7JVfx9A6NQv9iFPpviuAXK) | [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Foncé](https://open.spotify.com/artist/2VYoSgP5JVmpOMm3h9Hb1m), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO) | [Team](https://open.spotify.com/album/5tikz6VjPbVvvsc0e6OaaI) | 2:24 | 2025-07-17 | 2025-08-29 |
 | [Tell Me Please](https://open.spotify.com/track/6S73aKrnBlfOY804aKerOQ) | [BOKKI](https://open.spotify.com/artist/4ANqWVazc3lo9jYITK2Ceb) | [Tell Me Please](https://open.spotify.com/album/3rtJ4gojM6STU6iKNWJAzE) | 2:53 | 2025-12-04 |  |
 | [Tetris](https://open.spotify.com/track/55A4jJvAhsQrUMxI3SuBDV) | [Hefner](https://open.spotify.com/artist/0kmyGm8XFYQyoysy0dpuVx) | [Tetris](https://open.spotify.com/album/17i4ocdN2KlaTlQsX8ExXN) | 1:56 | 2025-09-25 | 2025-11-01 |
+| [Therapie](https://open.spotify.com/track/4lYmJo2OkSxZDLXoxx358C) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Therapie](https://open.spotify.com/album/5ATYG1LfG4nxZ1QewUBsXy) | 2:37 | 2025-12-19 |  |
 | [These Dayz](https://open.spotify.com/track/6RTkAAd7wTqLZunCzUIjwi) | [Moony11](https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN) | [These Dayz](https://open.spotify.com/album/1coKPJ6hARR3PuF4h4ASKd) | 2:42 | 2025-07-17 | 2025-08-15 |
 | [Thuisbasis](https://open.spotify.com/track/3TlIlIjY45oQMTNyp0kqOw) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [Thuisbasis](https://open.spotify.com/album/3GQOty3Q4xmoMPFVzvUosr) | 2:22 | 2025-09-08 | 2025-11-01 |
 | [Tijd \(ft\. I am Aisha\)](https://open.spotify.com/track/7ALcOOruuz3K9Y99AZ80Bn) | [Leafs](https://open.spotify.com/artist/6Ul16nbSefjbgfpDz2k9il), [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Making Make Sense](https://open.spotify.com/album/1NTYXp8RvealWDw12yMFYf) | 2:44 | 2025-12-18 |  |

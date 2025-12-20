@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 121713,
+  "num_followers": 121745,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT"
     },
     {
-      "added_at": "2024-10-09 21:20:16",
-      "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 183371,
-      "name": "iAAM",
-      "url": "https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Beloved! Paradise! Jazz!?",
@@ -499,6 +483,22 @@
       "duration_ms": 182307,
       "name": "Run, Run, Run",
       "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
+    },
+    {
+      "added_at": "2024-10-09 21:20:16",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 183371,
+      "name": "iAAM",
+      "url": "https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cheerleader",
-        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
-      },
-      "artists": [
-        {
-          "name": "Porter Robinson",
-          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
-        }
-      ],
-      "duration_ms": 237567,
-      "name": "Cheerleader",
-      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Tainted",
         "url": "https://open.spotify.com/album/52M151r9w3K3vSlpBv4k6h"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 181403,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/6TMNz3UL1piuHox8CNvtgr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cheerleader",
+        "url": "https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI"
+      },
+      "artists": [
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 237567,
+      "name": "Cheerleader",
+      "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1025,26 +1025,6 @@
       "url": "https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo"
     },
     {
-      "added_at": "2024-09-16 18:33:06",
-      "album": {
-        "name": "NASSY",
-        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
-        }
-      ],
-      "duration_ms": 142767,
-      "name": "NASSY",
-      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "SUN NO KUNI",
@@ -1067,6 +1047,26 @@
       "duration_ms": 238346,
       "name": "MIKOTO ~SUN NO KUNI~ (feat. Tsubaki & Awich)",
       "url": "https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e"
+    },
+    {
+      "added_at": "2024-09-16 18:33:06",
+      "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "NOBODY // ME",
-        "url": "https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4"
-      },
-      "artists": [
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "NOBODY // ME",
-      "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5CdmQs8HF79PNpjSLU4C4c"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 157500,
       "name": "Soul",
       "url": "https://open.spotify.com/track/61W3LCawqt9lqbuYHXivoy"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "NOBODY // ME",
+        "url": "https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "NOBODY // ME",
+      "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Blindside",
         "url": "https://open.spotify.com/album/6lONrd4bL4h2ydBqeXqmLk"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 174855,
       "name": "Blindside",
       "url": "https://open.spotify.com/track/3RP9Zaf1K2EQGmbcGfTssX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1741,6 +1741,22 @@
       "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
     },
     {
+      "added_at": "2024-10-15 21:01:54",
+      "album": {
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 166906,
+      "name": "Tomorrow Man",
+      "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
+    },
+    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Today",
@@ -1759,22 +1775,6 @@
       "duration_ms": 184615,
       "name": "Today",
       "url": "https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T"
-    },
-    {
-      "added_at": "2024-10-15 21:01:54",
-      "album": {
-        "name": "Just My Luck / Tomorrow Man",
-        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 166906,
-      "name": "Tomorrow Man",
-      "url": "https://open.spotify.com/track/5FnoiNGpUDvDf2jWh9oz4T"
     },
     {
       "added_at": "2024-09-16 11:00:00",

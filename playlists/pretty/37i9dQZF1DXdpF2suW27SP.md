@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dbraz, DJ Pablu & MOR3NO entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,341 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,369 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 10](https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Sobre nós](https://open.spotify.com/track/0qXdFerKyoeBIvTq76XlEt) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós \(Deluxe\)](https://open.spotify.com/album/6KVnoibLe6O76o6GjwZCj6) | 3:32 |
 | 2 | [Fora do Normal \(feat\. Nenny & Chelsea Dinorath\)](https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [FIM DO NADA DELUXE](https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO) | 4:00 |
 | 3 | [Offline](https://open.spotify.com/track/3dXtvTPF6BzNaiHvS7Nnrh) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Elixir](https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3) | 4:06 |
 | 4 | [Vida Má](https://open.spotify.com/track/7mTsqBB1YopPg8ZFJWSDyY) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [DJ Pablu](https://open.spotify.com/artist/6hAdsoRESfm7BFqVXYkvkX), [MOR3NO](https://open.spotify.com/artist/6AMhf6PcVHkmKuCP4zrfVr) | [Vida Má](https://open.spotify.com/album/0k6UwR90LHmVXyVi86OifM) | 2:31 |

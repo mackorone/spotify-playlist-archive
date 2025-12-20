@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-26",
-  "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Reynaldos de la Sierra",
+  "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Ilusion Eterno ",
   "name": "La Posada",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 139722,
       "name": "Al Llegar La Navidad",
       "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 243290,
       "name": "Alma Navide\u00f1a",
       "url": "https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 186477,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P"
@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/7rqCe7icr9tWXDPNCWzXED"
+      },
+      "artists": [
+        {
+          "name": "Destino",
+          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166615,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/4OMWnF2F4GBhdxovCuaOZu"
+    },
+    {
+      "album": {
         "name": "Contigo En Navidad",
         "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
       },
@@ -278,7 +296,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 187853,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw"
@@ -296,7 +314,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 149276,
       "name": "Blanca Navidad",
       "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
@@ -393,6 +411,24 @@
     },
     {
       "album": {
+        "name": "CADA DICIEMBRE",
+        "url": "https://open.spotify.com/album/6JvERCyevxs4eBJDuqyJnN"
+      },
+      "artists": [
+        {
+          "name": "Grupo debate",
+          "url": "https://open.spotify.com/artist/3bl73qiD4IOQ0WQuyak9RP"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246975,
+      "name": "CADA DICIEMBRE",
+      "url": "https://open.spotify.com/track/3OiHiLROakOyxrbcJpv6ph"
+    },
+    {
+      "album": {
         "name": "Navidad Con DEL",
         "url": "https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd"
       },
@@ -422,7 +458,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 147657,
       "name": "Cada Diciembre",
       "url": "https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX"
@@ -440,7 +476,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 126000,
       "name": "Campanas Navide\u00f1as",
       "url": "https://open.spotify.com/track/6jhN93AlwEqvfBNFVyjzTr"
@@ -476,7 +512,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 182591,
       "name": "Cumbia Navide\u00f1a",
       "url": "https://open.spotify.com/track/2zI42OfeV1hiqKor0ZR1Ou"
@@ -494,7 +530,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 231706,
       "name": "Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/4DT7amzC7kRipgLP0BHQhp"
@@ -530,7 +566,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 207653,
       "name": "Cumbi\u00f3n Navide\u00f1o",
       "url": "https://open.spotify.com/track/5ySFFfzHXjy3SZf0spfMSD"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 258973,
       "name": "El A\u00f1o Viejo",
       "url": "https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP"
@@ -719,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Fiesta Navidad - Noche de Paz, Navidad para Rockear, Cascabel, El Burrito de Belen y Mas",
+        "url": "https://open.spotify.com/album/6vJ2sXHJAL2BYDl7lwLkNP"
+      },
+      "artists": [
+        {
+          "name": "La Rondallita",
+          "url": "https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "El Burrito de Belen (El Burrito Sabanero)",
+      "url": "https://open.spotify.com/track/6j7xchyjTYkdU3myJsQJGO"
+    },
+    {
+      "album": {
         "name": "El Burrito Sabanero",
         "url": "https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU"
       },
@@ -738,7 +792,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 231916,
       "name": "El Burrito Sabanero",
       "url": "https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY"
@@ -760,6 +814,24 @@
       "duration_ms": 143973,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/0cMIrWqljfkcl99TIYTtqf"
+    },
+    {
+      "album": {
+        "name": "El Corrido Del Santa",
+        "url": "https://open.spotify.com/album/5F94uXJrwGX3VGi4Wvd2xS"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128493,
+      "name": "El Corrido Del Santa",
+      "url": "https://open.spotify.com/track/0SBoiyCp52ZAuGCvbHlcAq"
     },
     {
       "album": {
@@ -899,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Tucanes De Oro-Secuestro De Amor...Y Siguen Los Tucanes",
+        "url": "https://open.spotify.com/album/54OgS974bLCe7kAArY5Ngr"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/4oeXYGzdIY2ouB7nAaFRTh"
+    },
+    {
+      "album": {
         "name": "A Bailar Sabroso Con La Sonora Explosiva",
         "url": "https://open.spotify.com/album/63MOeFmNIvAuhfV8YGpH4e"
       },
@@ -928,7 +1018,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 250015,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD"
@@ -964,7 +1054,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 240906,
       "name": "En Esta Navidad",
       "url": "https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO"
@@ -986,6 +1076,24 @@
       "duration_ms": 215310,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
+    },
+    {
+      "album": {
+        "name": "Esta Navidad",
+        "url": "https://open.spotify.com/album/0orS8kV2RUWobaX3SGS0BR"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174370,
+      "name": "Esta Navidad",
+      "url": "https://open.spotify.com/track/1GqLWkdS8w5FhfAXW02cKv"
     },
     {
       "album": {
@@ -1097,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Hoy Vi a Santa Claus Besar a Mam\u00e1",
+        "url": "https://open.spotify.com/album/3GN78Ey9kjxMDQMa1DfqXK"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Hoy Vi a Santa Claus Besar a Mam\u00e1",
+      "url": "https://open.spotify.com/track/1jDR7DohjweArwg58eR3pt"
+    },
+    {
+      "album": {
         "name": "Navidad Con Mariachi",
         "url": "https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj"
       },
@@ -1126,7 +1252,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 155626,
       "name": "Jingle Bells (Vamos All The Way)",
       "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
@@ -1148,7 +1274,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "JOJOJO",
       "url": "https://open.spotify.com/track/1tQ8yvYIwc8tWqDxesGn0O"
@@ -1220,7 +1346,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 224586,
       "name": "La G\u00fcera Salom\u00e9",
       "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
@@ -1301,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "La Navidad De Mi Ciudad",
+        "url": "https://open.spotify.com/album/3SQM0IBBP58hIPaOWejpxd"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107263,
+      "name": "La Navidad De Mi Ciudad",
+      "url": "https://open.spotify.com/track/1eQwjL3lPkNxfafK4rmkCo"
+    },
+    {
+      "album": {
         "name": "Fiesta Mexicana Con La Banda",
         "url": "https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K"
       },
@@ -1362,7 +1506,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
@@ -1492,7 +1636,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 175100,
       "name": "Los Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/2tanhbR7OE2KRuOqKp6WIP"
@@ -1510,7 +1654,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 176025,
       "name": "Los Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom"
@@ -1568,7 +1712,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 239360,
       "name": "Manantial en la Arena",
       "url": "https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE"
@@ -1622,7 +1766,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 190146,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
@@ -1644,6 +1788,24 @@
       "duration_ms": 215238,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/2NPlTDgWAHsxE6uotqY8Oy"
+    },
+    {
+      "album": {
+        "name": "Cumbias",
+        "url": "https://open.spotify.com/album/41lOZhgjYvRshjBaIXz0G1"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Viejitas",
+          "url": "https://open.spotify.com/artist/7uZMoloUqYrmMFJbiu9DCV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238066,
+      "name": "Mi Cuco",
+      "url": "https://open.spotify.com/track/07zJA7QE7DUhaUlp3BfILO"
     },
     {
       "album": {
@@ -1810,6 +1972,24 @@
     {
       "album": {
         "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/2kia1Ru6fCsASqBjYRpmQ9"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179238,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/5qaM8rYlu7voKAa0bFUduE"
+    },
+    {
+      "album": {
+        "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2"
       },
       "artists": [
@@ -1874,7 +2054,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 203062,
       "name": "Navidad Sin t\u00ed",
       "url": "https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1"
@@ -1892,7 +2072,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 165773,
       "name": "Navidad, Feel The Magic",
       "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
@@ -2020,7 +2200,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 192313,
       "name": "Otra Cartita M\u00e1s",
       "url": "https://open.spotify.com/track/1HP8HmI94NFtB4tmTWu713"
@@ -2056,7 +2236,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 253000,
       "name": "Oye Santa Claus",
       "url": "https://open.spotify.com/track/5WoDuB0AMXIH16UJYOpVD4"
@@ -2280,7 +2460,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 120405,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
@@ -2302,7 +2482,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 194960,
       "name": "Santa Claus Lleg\u00f3 A La Ciudad",
       "url": "https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh"
@@ -2374,7 +2554,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 162767,
       "name": "Santa Lleg\u00f3",
       "url": "https://open.spotify.com/track/1q7wIU0d6Mo2JOCky99pFf"
@@ -2392,7 +2572,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 225125,
       "name": "Santa Quiero",
       "url": "https://open.spotify.com/track/2pPT6xpYHd6GQTEDfJxb1g"
@@ -2554,7 +2734,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 211695,
       "name": "Todo Lo Que Quiero Es a Ti",
       "url": "https://open.spotify.com/track/266VR3x043LPRwwuBaVIGS"
@@ -2626,7 +2806,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 202970,
       "name": "Un Diciembre Diferente",
       "url": "https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU"
@@ -2698,7 +2878,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 194826,
       "name": "Vamonos de Fiesta",
       "url": "https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV"
@@ -2738,7 +2918,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 231213,
       "name": "Ven A Cantar",
       "url": "https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7"
@@ -2792,10 +2972,28 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 240750,
       "name": "Ven A Mi Casa Esta Navidad",
       "url": "https://open.spotify.com/track/7cWMHZIakSw3ANHmNSyndX"
+    },
+    {
+      "album": {
+        "name": "ven a mi casa esta navidad",
+        "url": "https://open.spotify.com/album/3aAKIMnGWS3onBBquYKECS"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "ven a mi casa esta navidad",
+      "url": "https://open.spotify.com/track/3ELI7WxrRSvTuzWnVuUT4H"
     },
     {
       "album": {

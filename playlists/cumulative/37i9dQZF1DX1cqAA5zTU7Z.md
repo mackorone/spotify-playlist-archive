@@ -4,13 +4,16 @@
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-27 songs - 1 hr 42 min
+35 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Aaliyah](https://open.spotify.com/track/26hUeZUdgM5AEzs31qr3SU) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [SAHARA](https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o) | 1:58 | 2025-12-19 |  |
 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2025-12-12 |  |
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2025-12-12 |  |
 | [Big Haiti](https://open.spotify.com/track/0FqKjDDccJePA65haxElsA) | [Money Zoe](https://open.spotify.com/artist/29UxazXTsvDqxRWK1TEK4j), [O&O Beats](https://open.spotify.com/artist/3kRl8Zlut5JuCvrzPdUBFT), [PUSH.audio](https://open.spotify.com/artist/6Fym3lIorDt8I7PYvuEcmv) | [M.O.E.](https://open.spotify.com/album/0yRw7vxSWkuftmHFsCQAip) | 2:05 | 2025-12-12 |  |
+| [Bonnie](https://open.spotify.com/track/6ayg8sUSmy5YMXs3aNxTna) | [Absolute Treat](https://open.spotify.com/artist/3tNm5fHC45F0Lb18WSlz1n) | [Dilettante](https://open.spotify.com/album/66TM4VW6gXfj0tvVCtuxIr) | 4:26 | 2025-12-19 |  |
+| [Boys Will Be Girls](https://open.spotify.com/track/6U051MDlFT3fbXjRsQRGvK) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/4MsLYAZDcPux4etKurgfK2) | 3:16 | 2025-12-19 |  |
 | [C'est toi](https://open.spotify.com/track/7vzLRsfNytlCFJzZhM1AXK) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [C'est toi](https://open.spotify.com/album/6vUy11UYLwzE3V89PbpELy) | 1:58 | 2025-12-12 |  |
 | [Chelsea mon amour](https://open.spotify.com/track/4rZyQQVwhgaQrCecTe3IvJ) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Taxidermie](https://open.spotify.com/album/1By52SIJW86LiJU7os710u) | 3:52 | 2025-12-12 |  |
 | [De la tête aux pieds](https://open.spotify.com/track/4x1aXYX1Uw3WBZIXdXfGPy) | [Richy Jay](https://open.spotify.com/artist/1tzsk4xoWgfCkOO5dpR486), [Sentom](https://open.spotify.com/artist/6juXpSuHbzORV1PKUly1Ml), [Jerry Mr\. Jay](https://open.spotify.com/artist/1K4wr8178Us6ZY87c15MIF) | [On Air](https://open.spotify.com/album/1lgQ5akiFXUmUHPabPab2T) | 3:40 | 2025-12-12 |  |
@@ -27,13 +30,18 @@
 | [My Moon My Man](https://open.spotify.com/track/1NMFwd3TGPWYrVmYaBasz6) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK) | 3:48 | 2025-12-12 |  |
 | [Never in a Million Years](https://open.spotify.com/track/04zarnGsuDBxfzCEB82eFB) | [Alvin Stardust](https://open.spotify.com/artist/2yoCXbhsq5CqLCnzDR7a7l) | [Rock With Alvin](https://open.spotify.com/album/3zodV9957N1tL09XXbL7xy) | 3:24 | 2025-12-12 |  |
 | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/track/2q5egBQ2XINmx8j5uipF4t) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [No Brake$ \(feat\. Roshin\)](https://open.spotify.com/album/53rufUypsnaQPfU2Z7tYBv) | 2:36 | 2025-12-12 |  |
+| [Oh My Bride](https://open.spotify.com/track/0cdn4rVGc4UC8mmE3OBO1e) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:16 | 2025-12-19 |  |
+| [Prendre soin du beau](https://open.spotify.com/track/6cqT1guXExDBibebscbGqg) | [Jessica Charlie](https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op) | [Prendre soin du beau](https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY) | 3:15 | 2025-12-19 |  |
 | [Sealion](https://open.spotify.com/track/36Zrl0Kw93L6fyVULnYHlL) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/0gdO7WhaXPUpmWr81AOcMK) | 3:39 | 2025-12-12 |  |
 | [Serenity](https://open.spotify.com/track/1pq8cclkWXs5YQ8RFZMtJX) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Rising Sun](https://open.spotify.com/album/3f6kwkjwZXXxwvSFN0Kjai) | 7:53 | 2025-12-12 |  |
+| [Solutions to My Gloom](https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg) | [Unessential Oils](https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu) | [Unessential Oils](https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq) | 4:25 | 2025-12-19 |  |
 | [Stay up Late](https://open.spotify.com/track/0DIbGVniBKr9scmq6Gq19h) | [Jeff Cormack](https://open.spotify.com/artist/4sY5gneuOslVK0EtWab49w) | [Thirteen013 Summerdreams](https://open.spotify.com/album/3cM2FhgzHC8d274zIJ8IJb) | 5:10 | 2025-12-12 |  |
 | [Tropicana](https://open.spotify.com/track/51OcBJ9M6V4VDXDIjnCAzr) | [Rose Marie Cameron](https://open.spotify.com/artist/5nnzTjmeScbAaduIPSgNgk), [Carey Parder](https://open.spotify.com/artist/4lwsn3IpY4D9pX9hUjPVB5) | [Moonlight in a Winter Sky](https://open.spotify.com/album/4UMdAE4eJagRT3qUkcJkea) | 4:23 | 2025-12-12 |  |
 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2025-12-12 |  |
 | [Une journée parfaite](https://open.spotify.com/track/0t1ksCUcCpBXCi099fjSfi) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/2izU8I6LuUSbpKnQkMS398) | 3:12 | 2025-12-12 |  |
 | [Wall of Love](https://open.spotify.com/track/157yMY1L5ygFcqqDqAxLKB) | [Night Lunch](https://open.spotify.com/artist/0N2IFfbiNyv2qtkbAulQ0y) | [Wall of Love](https://open.spotify.com/album/6l5frrrZicL3vxxvc1J0Vk) | 3:55 | 2025-12-12 |  |
 | [Your Body](https://open.spotify.com/track/50sZMw31RRdqo3C46AF4eW) | [Night Lunch](https://open.spotify.com/artist/0N2IFfbiNyv2qtkbAulQ0y) | [Wall of Love](https://open.spotify.com/album/6l5frrrZicL3vxxvc1J0Vk) | 3:35 | 2025-12-12 |  |
+| [Zhuravli](https://open.spotify.com/track/7qwOIfNgNAupp890KLaW1j) | [Mark Bernes](https://open.spotify.com/artist/1jZ0MrDMFzvOPUgYIAlwrN) | [Tjomnaja noch'](https://open.spotify.com/album/08eRcBZUOJ75DaUjNS62cs) | 4:13 | 2025-12-19 |  |
+| [В землянке](https://open.spotify.com/track/3BbWhvZ7MGwP4OhBrEU3Z3) | [Leonid Utyosov](https://open.spotify.com/artist/2mffFgZDoS2b9aTOtoOS9n) | [Золотая коллекция](https://open.spotify.com/album/7MQLV1ftmK5d2ddyyPs8jm) | 2:13 | 2025-12-19 |  |
 
 \*This playlist was first scraped on 2025-12-15. Prior content cannot be recovered.

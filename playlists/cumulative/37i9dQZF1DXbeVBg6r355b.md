@@ -4,7 +4,7 @@
 
 > Sleep deeper with soft and seamless white noise
 
-74 songs - 4 hr 0 min
+77 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Beyond the Hush](https://open.spotify.com/track/4AfXt0L7VSaGIwF7yXBLbb) | [In The Noise](https://open.spotify.com/artist/3FGtKDRRneWEDpWEUSwnKY) | [Beyond the Hush](https://open.spotify.com/album/4IYZ1RRpyfZ46vQczXeZfg) | 2:42 | 2025-09-17 |  |
 | [Bora \(Noise\)](https://open.spotify.com/track/7pDaNTG69OeSgJiYVtA5KY) | [Sonitaru](https://open.spotify.com/artist/0yFE5Qgqe6pCqJJNTLz5rW) | [Bora \(Noise\)](https://open.spotify.com/album/6Av9uVHp3zSrtnKCAuGgdm) | 2:01 | 2025-09-17 |  |
 | [Brilliant White Noise](https://open.spotify.com/track/5exbKZfn8JHmSqbe0kAp3m) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [Brilliant White Noise](https://open.spotify.com/album/7a0pnsC2Ee9CVeoE2KDec7) | 4:35 | 2025-09-17 |  |
+| [Celestial White Drift](https://open.spotify.com/track/6uZ07X3RBcNwPX8JjvCfU5) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Celestial White Drift](https://open.spotify.com/album/6ewgtzxQT5eJ2BI9KtIcjJ) | 2:39 | 2025-12-19 |  |
 | [Cloudwhisper Noise](https://open.spotify.com/track/5zJwgJhHJjlkazGHdVyPew) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Cloudwhisper Noise](https://open.spotify.com/album/2DdIxPLNZQaPVm7ttnoY1d) | 2:15 | 2025-09-17 |  |
 | [Cozy White Room](https://open.spotify.com/track/5AqFRufeHfDPjGOJOhQXnO) | [Mist Index](https://open.spotify.com/artist/2MmQYTESrB2ARDvn6fjtoD) | [Cozy White Room](https://open.spotify.com/album/3XSImhbrRRiaqPI9Zswv1x) | 2:32 | 2025-09-17 |  |
 | [Cozy Wind White Noise](https://open.spotify.com/track/7ICEBMLpmyN1IRWKifCOPc) | [Spheres of Air](https://open.spotify.com/artist/4ocFgSJFk2gM8GdSkAo3jv) | [Cozy Wind White Noise](https://open.spotify.com/album/2MAP3xTXdmkGDcTIsMVegO) | 2:28 | 2025-09-17 |  |
@@ -61,6 +62,7 @@
 | [Unraveling White Noise](https://open.spotify.com/track/5p9QzJyGnDLlUPIIgSsVoI) | [The Inceptionists](https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT) | [Unraveling White Noise](https://open.spotify.com/album/7DECRMH6cpYKvNZmxixYlu) | 3:37 | 2025-09-17 |  |
 | [Waves of White](https://open.spotify.com/track/6uDOokp0LxxHMy5O98lHSn) | [Artipico](https://open.spotify.com/artist/2skwHFBBbBoFXMN5Nl4hyi) | [Waves of White](https://open.spotify.com/album/0ZHCXQgpHWzuIo57h3LVY2) | 2:16 | 2025-09-17 |  |
 | [Whispering Noise](https://open.spotify.com/track/1dyEcO5r6Kq7if4dgKAEYr) | [Erity](https://open.spotify.com/artist/252S10kCSN54mC9V1Q5xV6) | [Whispering Noise](https://open.spotify.com/album/0YOrixMnxIfNti2G3ovhQo) | 2:58 | 2025-09-17 |  |
+| [Whispering White Calm](https://open.spotify.com/track/6zvZfv1uoIAoJOQj521RNM) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Whispering White Calm](https://open.spotify.com/album/3f6t9R9kfwYDXgcYEGadrY) | 2:01 | 2025-12-19 |  |
 | [White Ambience Noise](https://open.spotify.com/track/1UEZykUxmb33MyQoeFGO3p) | [Aequencies](https://open.spotify.com/artist/6vlpT66mbWkGiI3qy2dCdu) | [White Ambience Noise](https://open.spotify.com/album/14vu6zbdhnNoNipPcq7hEO) | 2:56 | 2025-09-17 |  |
 | [White Arctic Noise](https://open.spotify.com/track/7DbUDCoC1XwQ3Xq4R1Nf8T) | [Focus Noise](https://open.spotify.com/artist/15nL9hF1vK3mHTqpV9Z2jP) | [Fluffy Winds](https://open.spotify.com/album/11utgFeLO1G1HZsyPEaj6U) | 2:45 | 2025-09-17 |  |
 | [White Cloud Noise](https://open.spotify.com/track/4sSUWGb5TSL0RWgtcGv7eq) | [Fizzonaut](https://open.spotify.com/artist/0NBa3X8xLJZR9XD1BK7zI9) | [White Cloud Noise](https://open.spotify.com/album/6rKbwqFP19UCdwcCJ0yAUO) | 2:36 | 2025-09-17 |  |
@@ -77,6 +79,7 @@
 | [White Noise Sleeping Pill](https://open.spotify.com/track/37EoUoGfIfSEprR0UboDNp) | [Atmosphere of Calm](https://open.spotify.com/artist/42KcSR239KEB90nE0wzA09) | [White Noise Sleeping Pill](https://open.spotify.com/album/0H8mV5NFiwHiNP9hAizSLZ) | 4:14 | 2025-09-17 |  |
 | [White Noise Slumber](https://open.spotify.com/track/1sM1cTedFQCsxzLIm5oJYb) | [Jim Efforts](https://open.spotify.com/artist/3Pri5xdT69DwpaSg2JJW2b) | [The Wavy White Noise](https://open.spotify.com/album/0R7bj5svKKE9W7WskEMrnm) | 2:31 | 2025-09-17 |  |
 | [White Noise Time Travel](https://open.spotify.com/track/2I4Km7dgwPhBAOBv2BoFCN) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [White Noise Time Travel](https://open.spotify.com/album/2ub7RpOd2j3PGU4P45UiNl) | 4:40 | 2025-09-17 |  |
+| [White Noise Waves](https://open.spotify.com/track/3aWEzWRjMqRHfKxGhRLrPb) | [The BD Noise Maker](https://open.spotify.com/artist/5WPKIg5kP6Ov7DrSGCqj2H) | [White Noise Waves](https://open.spotify.com/album/66Y4L1cNhmt2gBY8Pz83QE) | 2:53 | 2025-12-19 |  |
 | [White Oasis](https://open.spotify.com/track/5byMQvWH7RUCFVrYgiYluo) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:30 | 2025-09-17 |  |
 | [White Serenity](https://open.spotify.com/track/7dD3etWhKwTaEwy0VinwAY) | [Deepnoum](https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi) | [White Dreams](https://open.spotify.com/album/00kO8yXfqyXquFeMOHJvrL) | 2:08 | 2025-09-17 |  |
 | [White Soft Smoothness](https://open.spotify.com/track/1wyaFxRluiwfpEYD3leeyJ) | [Seismic Dolphin](https://open.spotify.com/artist/31kwIRtITwKwn4NoRdbukb) | [White Soft Smoothness](https://open.spotify.com/album/1zTZt54VOYhKMbgsdT3Mio) | 2:46 | 2025-09-17 |  |

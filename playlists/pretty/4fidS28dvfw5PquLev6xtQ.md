@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > Big Curtiss moving on down and that&\#x27;s on sauce 🍅 type shit twin
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 45 likes - 99 songs - 12 hr 28 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 46 likes - 99 songs - 12 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

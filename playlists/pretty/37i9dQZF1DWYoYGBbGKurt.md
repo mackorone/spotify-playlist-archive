@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,786 likes - 200 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,967 likes - 200 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,23 +29,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 19 | [Escape](https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV) | [Soulflu](https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM) | [Escape](https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ) | 2:30 |
 | 20 | [fade](https://open.spotify.com/track/1TAyi2YdPbbNYSULs0EXbP) | [Beats on 21st](https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5) | [fade](https://open.spotify.com/album/4jIA0uhC3mxgNyHCUk534m) | 2:27 |
 | 21 | [did you call me?](https://open.spotify.com/track/12Vgtv9Ojfv8eN6DY3s6dQ) | [heirloom](https://open.spotify.com/artist/3Q6Jurd5PQMm7Q52Xk6yuW) | [did you call me?](https://open.spotify.com/album/1THQeu9lfK2dXGqhxMxprD) | 1:58 |
-| 22 | [Mostly Mine](https://open.spotify.com/track/513MdRzWL0kO9JXmXGv6C6) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mostly Mine](https://open.spotify.com/album/2aodd4uLYU7rBJqIz6t0Et) | 2:36 |
-| 23 | [Morning Light](https://open.spotify.com/track/2VuL7nGbgTYHsDDBtxZZGq) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Morning Light](https://open.spotify.com/album/3Jl1tF2jc5QA4JExZkEerL) | 2:05 |
-| 24 | [in a haze](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [in a haze](https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK) | 1:56 |
-| 25 | [peaceful](https://open.spotify.com/track/385fgx1lcfPAypihGYYfTT) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [peaceful](https://open.spotify.com/album/7rVGN9NF0yZMxjou6b4YoP) | 2:29 |
-| 26 | [Log](https://open.spotify.com/track/7xGt3D9WriNbOMpL9mpwtH) | [Pacific Moods](https://open.spotify.com/artist/4Q3ggXsKnULRbY46vbtN3J) | [Log](https://open.spotify.com/album/5hmIcZcaPs8aRavrj3jgbk) | 2:08 |
-| 27 | [peach cordial](https://open.spotify.com/track/4qR6uehVA36HgGDSUdCCUv) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [peach cordial](https://open.spotify.com/album/6INTKlHOZOL0q3d8643PNC) | 2:17 |
-| 28 | [Sketchbook](https://open.spotify.com/track/1RfperHZ11qKktnKKyjkGm) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Sketchbook](https://open.spotify.com/album/5Akv4TAoynDbSQfhrd5cm1) | 1:53 |
-| 29 | [headway](https://open.spotify.com/track/4K9JZ7uvEfBuquS7r2k8SM) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [happiness](https://open.spotify.com/album/1beor7dgoMwOu8DWdzeOP5) | 2:19 |
-| 30 | [Soft Breeze](https://open.spotify.com/track/65coIDNjNROuR0xGKC6xnB) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Soft Breeze](https://open.spotify.com/album/6rpr3ngnjcthT3mU2R53tF) | 2:44 |
-| 31 | [Isular](https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Isular](https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA) | 1:32 |
-| 32 | [Hazel](https://open.spotify.com/track/45PYuZOIYoote39ZCjlmB2) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Hazel](https://open.spotify.com/album/0lLKp3yVCtDtOmC7Cvgl0m) | 2:05 |
-| 33 | [for norah](https://open.spotify.com/track/18IYE5it2VcLZfXiloYBS2) | [mellow days](https://open.spotify.com/artist/65tiERODhjgPvUNJg8PE3h), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv), [Somebuddy](https://open.spotify.com/artist/6TfTpFTSQ6z6kQfBRcZvUO) | [for norah](https://open.spotify.com/album/0Y0qDA7ufLFGE63s3Rfeoa) | 1:54 |
-| 34 | [Laissez\-Faire](https://open.spotify.com/track/0iHmdJI6aSAPzNBD3i1ns5) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Laissez\-Faire](https://open.spotify.com/album/3KnBJCc7WyFI0Z81b9AObw) | 2:08 |
-| 35 | [Fading Into Memories](https://open.spotify.com/track/7ErxU5X7uQpatgORcdcTba) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [so.tired](https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy) | [Fading Into Memories](https://open.spotify.com/album/44ICXPxfHGKiId8DKnvxVE) | 2:00 |
-| 36 | [monday coffee](https://open.spotify.com/track/6vIP0ju95U92HjqnHSushK) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [monday coffee](https://open.spotify.com/album/2ohhrwU8RQjJ9dGj1XF8Tc) | 2:10 |
-| 37 | [Ash & Echoes](https://open.spotify.com/track/4RvxAZ9aYCmxGhnmQVowLd) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Ash & Echoes](https://open.spotify.com/album/34DW9SCu4W31XhVNC3IdhF) | 1:58 |
-| 38 | [Settle](https://open.spotify.com/track/66iC0fKiREldbjGpKIFTGX) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Settle](https://open.spotify.com/album/11d4CiYer3sgSxPVDm10mo) | 2:28 |
+| 22 | [Morning Light](https://open.spotify.com/track/2VuL7nGbgTYHsDDBtxZZGq) | [Golden Mist](https://open.spotify.com/artist/0Hd6QWTqvltK9qwevGqQtK) | [Morning Light](https://open.spotify.com/album/3Jl1tF2jc5QA4JExZkEerL) | 2:05 |
+| 23 | [in a haze](https://open.spotify.com/track/0OpsPckPFX5t1fEvPUDeER) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [in a haze](https://open.spotify.com/album/1eDBDOKDYy0wN0V5eRtyHK) | 1:56 |
+| 24 | [peaceful](https://open.spotify.com/track/385fgx1lcfPAypihGYYfTT) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [peaceful](https://open.spotify.com/album/7rVGN9NF0yZMxjou6b4YoP) | 2:29 |
+| 25 | [Log](https://open.spotify.com/track/7xGt3D9WriNbOMpL9mpwtH) | [Pacific Moods](https://open.spotify.com/artist/4Q3ggXsKnULRbY46vbtN3J) | [Log](https://open.spotify.com/album/5hmIcZcaPs8aRavrj3jgbk) | 2:08 |
+| 26 | [peach cordial](https://open.spotify.com/track/4qR6uehVA36HgGDSUdCCUv) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [peach cordial](https://open.spotify.com/album/6INTKlHOZOL0q3d8643PNC) | 2:17 |
+| 27 | [Sketchbook](https://open.spotify.com/track/1RfperHZ11qKktnKKyjkGm) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Sketchbook](https://open.spotify.com/album/5Akv4TAoynDbSQfhrd5cm1) | 1:53 |
+| 28 | [headway](https://open.spotify.com/track/4K9JZ7uvEfBuquS7r2k8SM) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U) | [happiness](https://open.spotify.com/album/1beor7dgoMwOu8DWdzeOP5) | 2:19 |
+| 29 | [Soft Breeze](https://open.spotify.com/track/65coIDNjNROuR0xGKC6xnB) | [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [Soft Breeze](https://open.spotify.com/album/6rpr3ngnjcthT3mU2R53tF) | 2:44 |
+| 30 | [Isular](https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Isular](https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA) | 1:32 |
+| 31 | [Hazel](https://open.spotify.com/track/45PYuZOIYoote39ZCjlmB2) | [nate2timez](https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps) | [Hazel](https://open.spotify.com/album/0lLKp3yVCtDtOmC7Cvgl0m) | 2:05 |
+| 32 | [for norah](https://open.spotify.com/track/18IYE5it2VcLZfXiloYBS2) | [mellow days](https://open.spotify.com/artist/65tiERODhjgPvUNJg8PE3h), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv), [Somebuddy](https://open.spotify.com/artist/6TfTpFTSQ6z6kQfBRcZvUO) | [for norah](https://open.spotify.com/album/0Y0qDA7ufLFGE63s3Rfeoa) | 1:54 |
+| 33 | [Laissez\-Faire](https://open.spotify.com/track/0iHmdJI6aSAPzNBD3i1ns5) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Laissez\-Faire](https://open.spotify.com/album/3KnBJCc7WyFI0Z81b9AObw) | 2:08 |
+| 34 | [Fading Into Memories](https://open.spotify.com/track/7ErxU5X7uQpatgORcdcTba) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [so.tired](https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy) | [Fading Into Memories](https://open.spotify.com/album/44ICXPxfHGKiId8DKnvxVE) | 2:00 |
+| 35 | [monday coffee](https://open.spotify.com/track/6vIP0ju95U92HjqnHSushK) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [monday coffee](https://open.spotify.com/album/2ohhrwU8RQjJ9dGj1XF8Tc) | 2:10 |
+| 36 | [Ash & Echoes](https://open.spotify.com/track/4RvxAZ9aYCmxGhnmQVowLd) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Ash & Echoes](https://open.spotify.com/album/34DW9SCu4W31XhVNC3IdhF) | 1:58 |
+| 37 | [Settle](https://open.spotify.com/track/66iC0fKiREldbjGpKIFTGX) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Settle](https://open.spotify.com/album/11d4CiYer3sgSxPVDm10mo) | 2:28 |
+| 38 | [Mostly Mine](https://open.spotify.com/track/513MdRzWL0kO9JXmXGv6C6) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mostly Mine](https://open.spotify.com/album/2aodd4uLYU7rBJqIz6t0Et) | 2:36 |
 | 39 | [Cloud Drift](https://open.spotify.com/track/2ghWOTwCFmH9gcEqUze4A1) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Cloud Drift](https://open.spotify.com/album/0wP01wGDiLXI5hVxHYPz9G) | 2:13 |
 | 40 | [night walk](https://open.spotify.com/track/2W9bT5Axd73dDGvdmiRIlx) | [bearé](https://open.spotify.com/artist/0y2pOX94bmFYgbD8pFWqfK) | [night walk](https://open.spotify.com/album/59OYLQogKV9Bl6BmHUUhij) | 2:18 |
 | 41 | [Noontide](https://open.spotify.com/track/2m91VLJ1jLbfkUSNaagRhi) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Noontide](https://open.spotify.com/album/0qAsM3qootrAIiQMOIVkE4) | 2:50 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 |
 | 200 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
 
-Snapshot ID: `AAAAAK6A51h57rtFDGGCZ6Hqe+TAKpuR`
+Snapshot ID: `AAAAAGAQUlSdFEcg2k+RiUO3yn75WGC4`

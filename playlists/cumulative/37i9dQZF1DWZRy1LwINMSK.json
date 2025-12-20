@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno al mando de Lleflight.",
+  "description": "La casa del trap chileno al mando de AK4:20",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -396,6 +396,24 @@
       "duration_ms": 181598,
       "name": "ALMIGHTY",
       "url": "https://open.spotify.com/track/2N5mIfZu5dV66bybxad7Hr"
+    },
+    {
+      "album": {
+        "name": "AMELIA",
+        "url": "https://open.spotify.com/album/641QUflPTV7kXk24gL2eQ8"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146816,
+      "name": "AMELIA",
+      "url": "https://open.spotify.com/track/1rqp40neyT7F9OuuG0WOQr"
     },
     {
       "album": {
@@ -1508,7 +1526,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 204391,
       "name": "EL MALO",
       "url": "https://open.spotify.com/track/2O88W3IYkeUhLMJjYTeH4d"
@@ -2066,6 +2084,28 @@
       "duration_ms": 159503,
       "name": "Freestyle Session",
       "url": "https://open.spotify.com/track/6j0G8UFVuGmstwMbzATyOn"
+    },
+    {
+      "album": {
+        "name": "Ganster",
+        "url": "https://open.spotify.com/album/6BQUHmyACn2kDUHlR0px0w"
+      },
+      "artists": [
+        {
+          "name": "BlackRoy",
+          "url": "https://open.spotify.com/artist/7dHiLDmaaoJ7XwEqWCcIah"
+        },
+        {
+          "name": "Melora1n",
+          "url": "https://open.spotify.com/artist/4AIh4fSPNhJnPbtMV7LTHz"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Ganster",
+      "url": "https://open.spotify.com/track/49DRUnhaHMTVVH88ejzWKU"
     },
     {
       "album": {
@@ -3497,6 +3537,32 @@
     },
     {
       "album": {
+        "name": "Infraworld, Vol. 2",
+        "url": "https://open.spotify.com/album/3sAakYFphvJJbjPQ2g7V4r"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        },
+        {
+          "name": "Kuroh",
+          "url": "https://open.spotify.com/artist/1SWKdOrynsD5faJKAoYTPp"
+        },
+        {
+          "name": "Ober",
+          "url": "https://open.spotify.com/artist/1FBafj16EUL4L7I4SmCKUC"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Me Prende",
+      "url": "https://open.spotify.com/track/0bp6WwMbjx271UhIMvz70Z"
+    },
+    {
+      "album": {
         "name": "Me Quieren Ver Mal",
         "url": "https://open.spotify.com/album/31sabNmRapJ0J6HZNCIucU"
       },
@@ -3790,7 +3856,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 200595,
       "name": "MIAMI VIBES 2.0 (with Polim\u00e1 Westcoast and Aqua VS)",
       "url": "https://open.spotify.com/track/2gK4jE05sDGissNGeIYvn7"
@@ -4530,7 +4596,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 111991,
       "name": "PEACEMAKER",
       "url": "https://open.spotify.com/track/5qIUWzY7J22UO2ara3Q2rK"
@@ -6504,7 +6570,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 143000,
       "name": "vip",
       "url": "https://open.spotify.com/track/22jvPPoGnLfFkMQ10c7BcG"

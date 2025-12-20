@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 354768,
       "name": "A Jamais",
       "url": "https://open.spotify.com/track/1GK9dmsZKXlzXHPOz0H0mh"
@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Alles wird gut",
+        "url": "https://open.spotify.com/album/2wHkDwmU6AVELfbMiAmCps"
+      },
+      "artists": [
+        {
+          "name": "BASTI.",
+          "url": "https://open.spotify.com/artist/2uN94a8LcHXQYUQndIBRCu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173819,
+      "name": "Alles wird gut",
+      "url": "https://open.spotify.com/track/5Jv5skStGnDZk8VdG5G7l7"
+    },
+    {
+      "album": {
         "name": "Almathea",
         "url": "https://open.spotify.com/album/7cXysOYfdvPLblDLQPbSs2"
       },
@@ -2378,6 +2396,24 @@
       "duration_ms": 164284,
       "name": "Always About U",
       "url": "https://open.spotify.com/track/2mAhLbFw6UIVrnll5qQ4bU"
+    },
+    {
+      "album": {
+        "name": "Always Open At Christmas",
+        "url": "https://open.spotify.com/album/5ex1cIfZ1HCx3PMe39elU9"
+      },
+      "artists": [
+        {
+          "name": "The Hospitality Choir",
+          "url": "https://open.spotify.com/artist/1KC0F8fRWeyx9H6omlLqdF"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154839,
+      "name": "Always Open At Christmas",
+      "url": "https://open.spotify.com/track/3LcOP4JXvuZMGxhcclqdy1"
     },
     {
       "album": {
@@ -2606,6 +2642,24 @@
       "duration_ms": 236635,
       "name": "Amor T\u00f3xico",
       "url": "https://open.spotify.com/track/7w0FLhBXNuAvhnezTRAswm"
+    },
+    {
+      "album": {
+        "name": "Amor T\u00f3xico",
+        "url": "https://open.spotify.com/album/0QSUMsDFA4zWdLKQ92ckR8"
+      },
+      "artists": [
+        {
+          "name": "Wild Dagger",
+          "url": "https://open.spotify.com/artist/0ovx76SLTQlb4eAXLaWrg4"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Amor T\u00f3xico",
+      "url": "https://open.spotify.com/track/6j4DZIEYAqVuOlEJaR3UAA"
     },
     {
       "album": {
@@ -3068,7 +3122,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Aqui Estoy Yo",
       "url": "https://open.spotify.com/track/2GFkdnHU6qAdfxXZsmW1pH"
@@ -3408,7 +3462,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 179166,
       "name": "Atardecer en Sardina",
       "url": "https://open.spotify.com/track/4vrEyknDHrGSBJmsDGS4XU"
@@ -3846,7 +3900,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 186861,
       "name": "Back Street Baddies",
       "url": "https://open.spotify.com/track/5PLOyAlD4FfH75qpVS8PPd"
@@ -4872,7 +4926,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 228080,
       "name": "Bier vor 4",
       "url": "https://open.spotify.com/track/5FMvloPL0yQExqYmLwc4uJ"
@@ -5664,6 +5718,28 @@
       "duration_ms": 244092,
       "name": "Boom Boom Boom",
       "url": "https://open.spotify.com/track/0q4bqZ5lU5lapRC1dMxhOP"
+    },
+    {
+      "album": {
+        "name": "Boom Boom Boom (never let me go)",
+        "url": "https://open.spotify.com/album/2JBZrEdqV5vc1cksl6Nv4p"
+      },
+      "artists": [
+        {
+          "name": "2 Mystics",
+          "url": "https://open.spotify.com/artist/64LMgimG4QH4C4pyPT9yUI"
+        },
+        {
+          "name": "JAD.DJ",
+          "url": "https://open.spotify.com/artist/4CoLudqxnc6VWCWrwMWFCE"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121634,
+      "name": "Boom Boom Boom (never let me go)",
+      "url": "https://open.spotify.com/track/1Vb8DC02pkTHfAdIYigvTN"
     },
     {
       "album": {
@@ -7214,7 +7290,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 317701,
       "name": "Cascades",
       "url": "https://open.spotify.com/track/3oGbrjRQwEuB6r36Tl8QIg"
@@ -7596,7 +7672,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 104959,
       "name": "Christmas Joy to Share song",
       "url": "https://open.spotify.com/track/7etCLjhbcqgOsFKVpfZPwH"
@@ -7987,6 +8063,24 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/3ujaS2sjTYcaupNvEzP7Io"
+      },
+      "artists": [
+        {
+          "name": "Craig Siderio",
+          "url": "https://open.spotify.com/artist/7tlJEiVMMbX0UlFKTueDxy"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Closure",
+      "url": "https://open.spotify.com/track/3kDr7IGD1MYnHRNPFGbsKj"
+    },
+    {
+      "album": {
         "name": "cloud nine",
         "url": "https://open.spotify.com/album/0vAeDCysTQp6bYsvhwLi9I"
       },
@@ -8256,7 +8350,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 256439,
       "name": "Coming Home for Christmas",
       "url": "https://open.spotify.com/track/2z4FMza8IionixQTzte1Dx"
@@ -9044,7 +9138,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 233812,
       "name": "Daddy's Song feat. Angelica Idalia",
       "url": "https://open.spotify.com/track/03Yit4l0bZgwgejTQIjeIR"
@@ -10596,7 +10690,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 156039,
       "name": "Disaster Follows Disaster",
       "url": "https://open.spotify.com/track/4evxTxhwaJSfs1oESZQRRg"
@@ -11328,7 +11422,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 245199,
       "name": "DROGY II",
       "url": "https://open.spotify.com/track/0bjIiYqeNsVYXstM3SfRAO"
@@ -11966,7 +12060,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 217208,
       "name": "El Agui",
       "url": "https://open.spotify.com/track/7JHjyGedIlc003bM91AsUX"
@@ -16261,6 +16355,24 @@
     },
     {
       "album": {
+        "name": "Gym Crush",
+        "url": "https://open.spotify.com/album/6hmDXK7z1m1JftaGHVa0mg"
+      },
+      "artists": [
+        {
+          "name": "Leighroy",
+          "url": "https://open.spotify.com/artist/6gphwjIIbfBEWnQaaq9qXf"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187479,
+      "name": "Gym Crush",
+      "url": "https://open.spotify.com/track/3UvyBr46EETUntfA5KPd6u"
+    },
+    {
+      "album": {
         "name": "habemichumarmt",
         "url": "https://open.spotify.com/album/5lAG4t4SNy7THoob7yQFme"
       },
@@ -17271,6 +17383,24 @@
     },
     {
       "album": {
+        "name": "Turma do Betinho - Volume 1",
+        "url": "https://open.spotify.com/album/0TjNBGYbbbYE0QAxVv0irp"
+      },
+      "artists": [
+        {
+          "name": "Turma do Betinho",
+          "url": "https://open.spotify.com/artist/2lt6j1GRHOv3ceavBZySMg"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139919,
+      "name": "Homenzinho Torto",
+      "url": "https://open.spotify.com/track/0wGU3m4lrRDa2KHNrjS31H"
+    },
+    {
+      "album": {
         "name": "Hora e minuto...",
         "url": "https://open.spotify.com/album/4oJa9mqk00biII5j9jBbdD"
       },
@@ -17982,6 +18112,24 @@
       "duration_ms": 220000,
       "name": "I Like You So Much, You'll Know It",
       "url": "https://open.spotify.com/track/5Evet2CpChSU6hCl5DPZXG"
+    },
+    {
+      "album": {
+        "name": "I man a Visionary",
+        "url": "https://open.spotify.com/album/5yhwWyTShFB1baETr7FqWs"
+      },
+      "artists": [
+        {
+          "name": "StreamingArt",
+          "url": "https://open.spotify.com/artist/2gjOhUk9JTA2BAfKyS0lQg"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130871,
+      "name": "I man a Visionary",
+      "url": "https://open.spotify.com/track/35mCVrbrUiCBhXnPMkCcRn"
     },
     {
       "album": {
@@ -18711,6 +18859,24 @@
     },
     {
       "album": {
+        "name": "imaginar",
+        "url": "https://open.spotify.com/album/05OTJ2RQ820VbofUBrkiAv"
+      },
+      "artists": [
+        {
+          "name": "IanNoEstaLoco",
+          "url": "https://open.spotify.com/artist/1UvOMYR0RaWUiRiHIUshr4"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150818,
+      "name": "imaginar",
+      "url": "https://open.spotify.com/track/4INwEeGOI7gvSD1xrnf7EY"
+    },
+    {
+      "album": {
         "name": "Imaginations",
         "url": "https://open.spotify.com/album/0tbRIbwdbBOS3gQ37QYvLO"
       },
@@ -19336,7 +19502,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 203278,
       "name": "Into The Unknown",
       "url": "https://open.spotify.com/track/4ShmD4Jxns7Pq3cqif0rR1"
@@ -21574,7 +21740,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 139562,
       "name": "La Roca Contra El Mar",
       "url": "https://open.spotify.com/track/2lFEoJAZR3X0HmkDQgyOWX"
@@ -23840,7 +24006,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 211039,
       "name": "Luzifer Morgenstern",
       "url": "https://open.spotify.com/track/6Fqg9cJVFIyREW6JFZESEN"
@@ -24086,7 +24252,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 219139,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/60r9EZhiEPErxDxHxkv3fG"
@@ -24868,7 +25034,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 224944,
       "name": "Mei Himalaya",
       "url": "https://open.spotify.com/track/3PPztKzm6vyI4FtUrMBn7t"
@@ -25908,7 +26074,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 110082,
       "name": "Monochroom Maatschappij",
       "url": "https://open.spotify.com/track/3M9Jm6fUoZvLHeHr6pm8Kw"
@@ -27776,7 +27942,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 170901,
       "name": "No more chains",
       "url": "https://open.spotify.com/track/4WZOswbpBqQokh5JGABXLU"
@@ -28098,7 +28264,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 372223,
       "name": "Non Narrative Drift",
       "url": "https://open.spotify.com/track/3LdN16cGDvSecepzQ1zcyw"
@@ -28572,7 +28738,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 387439,
       "name": "Oh Se\u00f1or! Perd\u00f3name...",
       "url": "https://open.spotify.com/track/4yXDnMYkN7qp0f0M6aMP1A"
@@ -30164,7 +30330,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 153719,
       "name": "Pino",
       "url": "https://open.spotify.com/track/1eTunylWh1wKwFYDudBgTy"
@@ -30804,6 +30970,24 @@
       "duration_ms": 256000,
       "name": "Puedo Con Todo",
       "url": "https://open.spotify.com/track/79vHBJI8BD1azTNdlvBZaF"
+    },
+    {
+      "album": {
+        "name": "PUERTA DTU ALMA",
+        "url": "https://open.spotify.com/album/0WDVF5SngFzGYxJ9QvDMTu"
+      },
+      "artists": [
+        {
+          "name": "Lee C. Dwyer",
+          "url": "https://open.spotify.com/artist/1A9MlwvAwlMezsDWivdZLx"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "PUERTA DTU ALMA",
+      "url": "https://open.spotify.com/track/1niM5cPSeisomubqwBaKiU"
     },
     {
       "album": {
@@ -32118,7 +32302,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 288791,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6jsNILebZLZNSqwKgID705"
@@ -35233,6 +35417,24 @@
     },
     {
       "album": {
+        "name": "Stellar Maker",
+        "url": "https://open.spotify.com/album/6arMx5EXirxVVaEPwM4LTS"
+      },
+      "artists": [
+        {
+          "name": "Amane Yoru",
+          "url": "https://open.spotify.com/artist/1QnitjgURZBRIXJDaUAOVD"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251312,
+      "name": "Stellar Maker",
+      "url": "https://open.spotify.com/track/0f1e4BrDR5wKbdWwzoBlne"
+    },
+    {
+      "album": {
         "name": "Stellar Wars Reborn (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0NrKYHY7PEjUYbG5zkq90E"
       },
@@ -35486,7 +35688,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 211861,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/5Ygjgc8OR9L6DlaVpKCF6N"
@@ -35544,7 +35746,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 219919,
       "name": "Stunden ohne Sinn",
       "url": "https://open.spotify.com/track/7yM75t2jyRTlY96YAsmoSi"
@@ -36144,7 +36346,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 259168,
       "name": "SWEET MEMORIES",
       "url": "https://open.spotify.com/track/0hziMc6ZMyZz28lU2qr0EE"
@@ -36170,7 +36372,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 200808,
       "name": "Sweet Pain",
       "url": "https://open.spotify.com/track/3v4Ny4uDVGasCpk814zdA6"
@@ -36692,7 +36894,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 105258,
       "name": "Tears",
       "url": "https://open.spotify.com/track/2SoziZB1cuztjosypbq5hW"
@@ -38582,7 +38784,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 281500,
       "name": "Timbukt\u00f9",
       "url": "https://open.spotify.com/track/2E07D3613nC16OFjlLoBtg"
@@ -40546,7 +40748,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 487296,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/38PuCcseF9EApXBrDBtfV0"
@@ -40676,7 +40878,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 378171,
       "name": "Verflucht und Verdammt",
       "url": "https://open.spotify.com/track/69Qyxocvfd9dK535aJlTnu"
@@ -41632,7 +41834,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 197959,
       "name": "Weihnachtswunder",
       "url": "https://open.spotify.com/track/6xyxNukXFINYSweoUzSMkD"
@@ -41704,10 +41906,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 189959,
       "name": "Wenn der Sommer wieder lacht",
       "url": "https://open.spotify.com/track/3IEhv44DYH7BirgtHReFu6"
+    },
+    {
+      "album": {
+        "name": "Wenn der Sommer wieder lacht (Club Remix)",
+        "url": "https://open.spotify.com/album/6MZb8bsXWiNrFpudiizl4O"
+      },
+      "artists": [
+        {
+          "name": "Scally X",
+          "url": "https://open.spotify.com/artist/78Ro4RLsQlzphBG3c4v9Dq"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196479,
+      "name": "Wenn der Sommer wieder lacht - Club Remix",
+      "url": "https://open.spotify.com/track/0MbJyQ3fDu3g0XJLg4tkjE"
     },
     {
       "album": {
@@ -41860,7 +42080,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 348138,
       "name": "What She Said",
       "url": "https://open.spotify.com/track/1r5zYsp7RZJWxBijogvMOa"
@@ -41878,7 +42098,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 193750,
       "name": "What Ya Say",
       "url": "https://open.spotify.com/track/0Ra3x5h1h2yNaLyGV1cfdt"
@@ -42540,7 +42760,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 210280,
       "name": "With You",
       "url": "https://open.spotify.com/track/1M8xjVoGxSVOa0Vs6e1AQZ"
@@ -42940,7 +43160,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 244959,
       "name": "Yara Kintsugi",
       "url": "https://open.spotify.com/track/6rUQeD55dGjftITfftKjAc"
@@ -43801,6 +44021,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0438 \u044f\u043a \u0432\u0456\u0442\u0435\u0440",
+        "url": "https://open.spotify.com/album/1wkw8yzVnTwIWDORa7qeSe"
+      },
+      "artists": [
+        {
+          "name": "Renssi",
+          "url": "https://open.spotify.com/artist/2i6m6cdIwcGsqvm8w7XgWH"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171571,
+      "name": "\u0422\u0438 \u044f\u043a \u0432\u0456\u0442\u0435\u0440",
+      "url": "https://open.spotify.com/track/46eW8P9q2GTJdThLyfaVBn"
+    },
+    {
+      "album": {
         "name": "\u042f \u043a\u0443\u0434\u0438\u0441\u044c \u043b\u0435\u0447\u0443",
         "url": "https://open.spotify.com/album/6KDxFFIwU7Tvg7HvTiNLk3"
       },
@@ -44344,6 +44582,28 @@
       "duration_ms": 316357,
       "name": "\u9bae\u3084\u304b\u306a\u7a7a",
       "url": "https://open.spotify.com/track/4MststCCOhS7XgZeYZguXH"
+    },
+    {
+      "album": {
+        "name": "You showed up",
+        "url": "https://open.spotify.com/album/51SL4sxra3rBLdTQ0q7EiR"
+      },
+      "artists": [
+        {
+          "name": "\uc8fc\uc2dc\ub4dc",
+          "url": "https://open.spotify.com/artist/1Da8lkx57jtJlxbPEiTcUN"
+        },
+        {
+          "name": "BOYM",
+          "url": "https://open.spotify.com/artist/27yJr3da7JbmPae39OtVYP"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169959,
+      "name": "\uacb0\uad6d \ub108\uc600\uc5b4",
+      "url": "https://open.spotify.com/track/14ey5XoSU8hktgocn0PDtL"
     },
     {
       "album": {

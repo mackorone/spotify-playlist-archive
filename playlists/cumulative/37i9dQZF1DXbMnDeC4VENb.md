@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-410 songs - 23 hr 9 min
+413 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Arroba](https://open.spotify.com/track/2GT6dd2dDQPWFNP8JUrHU8) | [The Guadaloops](https://open.spotify.com/artist/7l6cdPhOLYO7lehz5xfzLV) | [Arroba](https://open.spotify.com/album/5M7gDtMiWnGizTUTvio7lq) | 4:27 | 2025-02-13 | 2025-03-08 |
 | [Astronauta de Tus Lunares](https://open.spotify.com/track/03K83Z46K5t8VlhLrh9l6v) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Eso Es](https://open.spotify.com/album/63AS1gi3b6PVi0HgIKZ1eq) | 2:36 | 2022-05-25 |  |
 | [Atrapado en un Sueño](https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Atrapado en un Sueño](https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ) | 3:25 | 2024-01-19 |  |
+| [AY MARÍA](https://open.spotify.com/track/3ChU4ffZzIhNRpOnjFxicj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [AY MARÍA](https://open.spotify.com/album/5efmZWVgIrpNmtO8coOC2w) | 2:32 | 2025-12-19 |  |
 | [Azul](https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM) | [Al Sur de la Noche](https://open.spotify.com/album/20k8vslpDovsribWcjDFX3) | 2:43 | 2023-11-24 | 2024-04-19 |
 | [Azul](https://open.spotify.com/track/3a5W4nmrBbVRjG021nr7TT) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Azul](https://open.spotify.com/album/2FMtltWwGmupZfrxlrBqgf) | 2:43 | 2022-05-25 |  |
 | [BAD BEHAVIORS](https://open.spotify.com/track/2PrvvsroFvKyI8ERdB0URU) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [BAD BEHAVIORS](https://open.spotify.com/album/5fASm7hVEv3LWShYTVXqAV) | 3:10 | 2024-04-19 |  |
@@ -60,6 +61,7 @@
 | [Bonita Tú](https://open.spotify.com/track/5fWJvFE8OWUDC0mijkUxN1) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [Bonita Tú](https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n) | 3:11 | 2024-03-01 |  |
 | [Borracha De Amor](https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Borracha De Amor](https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ) | 3:39 | 2022-05-25 |  |
 | [Borracho](https://open.spotify.com/track/3Q1vXXDsg2k6cgEbE18UuT) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9) | [Borracho](https://open.spotify.com/album/6VW9tAwq1pWd9V18jfKs8i) | 3:39 | 2022-05-25 |  |
+| [Borracho y Dolido](https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5) | [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs) | [Borracho y Dolido](https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ) | 2:49 | 2025-12-19 |  |
 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 | 2022-05-25 |  |
 | [Bésame Lento](https://open.spotify.com/track/702HgdUa5QILPolhhVoktM) | [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Bésame Lento](https://open.spotify.com/album/6nVpmgyiQiBC9dVXnur7VF) | 4:31 | 2023-07-07 |  |
 | [Caballero](https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Caballero](https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5) | 2:29 | 2024-11-08 |  |
@@ -409,6 +411,7 @@
 | [Volvernos a Amar](https://open.spotify.com/track/1gtYYvvXluyVxS6HNXefco) | [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Volvernos a Amar](https://open.spotify.com/album/1Rr0AMdbX6fBn19rKrxo60) | 3:09 | 2023-02-10 |  |
 | [Volvernos a Topar](https://open.spotify.com/track/2g1WWDdLIhLsFTy0t04u3f) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Perder para Ganar](https://open.spotify.com/album/4RnP44jWQF3PptVM0hJXZB) | 3:31 | 2023-09-08 |  |
 | [Who Is You](https://open.spotify.com/track/6fPnZzvRSiKQkhykvHcig6) | [Lil Ziphe](https://open.spotify.com/artist/5gKNOrBwEkdK7jhGqnSYWW) | [iLoveUZiphe](https://open.spotify.com/album/0jIM2QicdRWn1TzsLxEWQQ) | 1:20 | 2025-02-13 | 2025-03-08 |
+| [Ya No Volverás](https://open.spotify.com/track/0ZS647xp15OrbHcM74HLEN) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ya No Volverás](https://open.spotify.com/album/4YIYvNvaFSTT4XlxvEFGnQ) | 3:50 | 2025-12-19 |  |
 | [Ya Sabes Como Soy](https://open.spotify.com/track/4cWIAA9Ua0eEEoZDq8T0Ti) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Ya Sabes Como Soy](https://open.spotify.com/album/524s7F2BKNuGcTVrUmSAe9) | 2:56 | 2024-05-10 |  |
 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 | 2022-05-25 |  |
 | [Yo No Falle](https://open.spotify.com/track/5RPfVviu5jQQrn70CB0Ega) | [Boxor One](https://open.spotify.com/artist/5VcJEsRA3xILLXS3qIl1F7), [Liriko Wan](https://open.spotify.com/artist/6khtPUv6tk5DBepyI3Urq6) | [Yo No Falle](https://open.spotify.com/album/28RbW0K3IVpyoqW6pcm3Sk) | 3:23 | 2025-09-05 |  |

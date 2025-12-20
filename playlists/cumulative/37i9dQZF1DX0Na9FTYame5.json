@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Augenblick",
+        "url": "https://open.spotify.com/album/5FmRBYHxT174E0HtJdhgNY"
+      },
+      "artists": [
+        {
+          "name": "Pouma",
+          "url": "https://open.spotify.com/artist/1xgdN2FchVCKN0GhdjUYyZ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168149,
+      "name": "Augenblick",
+      "url": "https://open.spotify.com/track/73IArrFHGpMR7fAgtWdyCF"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/02JVkteRkb998atUxfw0Xo"
       },
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 128804,
       "name": "Endorphine",
       "url": "https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA"
@@ -2286,10 +2304,28 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 139203,
       "name": "I love you",
       "url": "https://open.spotify.com/track/1RBqjJBhQpOw5J8GnSMzV0"
+    },
+    {
+      "album": {
+        "name": "ich brauch dich",
+        "url": "https://open.spotify.com/album/1tpnNdKuNwIIL3AlTGWo6Q"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155357,
+      "name": "ich brauch dich",
+      "url": "https://open.spotify.com/track/5B7FCEtCFOyFK9OPSWilmd"
     },
     {
       "album": {
@@ -2800,7 +2836,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 169842,
       "name": "King",
       "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 178426,
       "name": "LASS MICH NICHT LOS",
       "url": "https://open.spotify.com/track/3JxhB5TRGsTI1a1mnnQvfH"
@@ -3158,7 +3194,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 196453,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/7IMWZb1BzYwsekwpdWU4BC"
@@ -3198,6 +3234,28 @@
       "duration_ms": 216201,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
+    },
+    {
+      "album": {
+        "name": "LOV",
+        "url": "https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        },
+        {
+          "name": "GWENDO",
+          "url": "https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "LOV",
+      "url": "https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep"
     },
     {
       "album": {
@@ -3336,7 +3394,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 150870,
       "name": "Ma Baby 2",
       "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
@@ -3492,6 +3550,24 @@
       "duration_ms": 139920,
       "name": "Meilen",
       "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "album": {
+        "name": "Mein Traum",
+        "url": "https://open.spotify.com/album/5G9FpnTDMMf2q5wdPy7AMD"
+      },
+      "artists": [
+        {
+          "name": "Rosc",
+          "url": "https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Mein Traum",
+      "url": "https://open.spotify.com/track/5bl6OGSUnPWX2xWDESe5xZ"
     },
     {
       "album": {
@@ -3870,7 +3946,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 179000,
       "name": "Nie wieder",
       "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
@@ -4650,6 +4726,24 @@
       "duration_ms": 177142,
       "name": "Schwarze Wolke",
       "url": "https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV"
+    },
+    {
+      "album": {
+        "name": "Schwarzer Tee",
+        "url": "https://open.spotify.com/album/3wMBW5OwobEyf47dp0eBn1"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143067,
+      "name": "Schwarzer Tee",
+      "url": "https://open.spotify.com/track/4aX1MyFakzqWsvP0YMwtvc"
     },
     {
       "album": {
@@ -5591,6 +5685,24 @@
     },
     {
       "album": {
+        "name": "WEEKEND",
+        "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142640,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
+    },
+    {
+      "album": {
         "name": "Weg zu weit",
         "url": "https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag"
       },
@@ -5708,6 +5820,28 @@
       "duration_ms": 184613,
       "name": "Wellness am Scherbenmeer",
       "url": "https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh"
+    },
+    {
+      "album": {
+        "name": "Welt retten",
+        "url": "https://open.spotify.com/album/2YQIuGnZOHBb9wGbLYtYCJ"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160973,
+      "name": "Welt retten",
+      "url": "https://open.spotify.com/track/7ivlSMMxwPHgFg8ypAmswU"
     },
     {
       "album": {

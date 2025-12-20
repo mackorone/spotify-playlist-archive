@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > ❌ se você n entende ja sabe né ❌  \(vai, bichão solto mm\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,550,138 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,550,061 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 54 | [TUDO DE NOVO](https://open.spotify.com/track/31X6ihiAWsNnKRky0R8532) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Qualywav1](https://open.spotify.com/artist/7MbiFVDZ7SKyG18Im8WGLn) | [CAOS DLX](https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM) | 3:45 |
 | 55 | [Drive\-In](https://open.spotify.com/track/337ctDJq6yBjGmHuN3AYCX) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [808 CLUB: AFTER](https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr) | 3:33 |
 
-Snapshot ID: `AAAAAP4IHV4+NyaE5AuMg0b3mBXrT7vy`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

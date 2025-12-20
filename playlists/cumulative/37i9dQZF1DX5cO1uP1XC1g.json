@@ -1213,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "BOOMX3",
+        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "BOOMX3",
+      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
+    },
+    {
+      "album": {
         "name": "Btaaref Shuur",
         "url": "https://open.spotify.com/album/1Ztk0OR6YwkmsTTnVubzLc"
       },
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 209684,
       "name": "Hadal Ahbek",
       "url": "https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp"
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2025-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 205013,
       "name": "Tach",
       "url": "https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB"
@@ -8276,6 +8294,24 @@
       "duration_ms": 283861,
       "name": "\u0645\u0634\u062a\u0627\u0642",
       "url": "https://open.spotify.com/track/5ZKyKYWEiewaBAGQgiJIu0"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192284,
+      "name": "\u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c"
     },
     {
       "album": {

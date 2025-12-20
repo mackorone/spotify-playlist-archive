@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 上原ひろみ, Hiromi's Sonicwonder
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,536 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,543 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 79 | [Never Gonna Run Away](https://open.spotify.com/track/6RaMCZqzgc9QIZdUJEwdu5) | [Brandon Woody](https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t) | [For The Love Of It All](https://open.spotify.com/album/6Ug4LyNXrVc7W1B4qZlKG4) | 6:51 |
 | 80 | [WeMaj \(feat\. Rapsody\)](https://open.spotify.com/track/01WDhc8gxD59xkrUDqCe5t) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Come As You Are](https://open.spotify.com/album/2WA4zGU2bZdmyQ8tOrNMVJ) | 2:21 |
 
-Snapshot ID: `AAAAAIcZpT4ScVmn1ejwWFho4nOXfQUq`
+Snapshot ID: `AAAAAMXU+ju+jHnOxKl9m7HjifLtixcj`

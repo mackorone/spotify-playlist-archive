@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: josefe
 
-822 songs - 1 day 22 hr 46 min
+823 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Assim](https://open.spotify.com/track/1RzXiVUnCAYlL1gKTrrlmh) | [Chico Bernardes](https://open.spotify.com/artist/1yfkdkJduKGUIgkFR6Qjs0) | [Assim](https://open.spotify.com/album/6dXgx3eYxZEY1JAbFsI75o) | 4:14 | 2024-05-03 | 2024-08-17 |
 | [astronauta](https://open.spotify.com/track/0sVTTF4UBzjzd7iEZxUrXB) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [tudo é mt distante](https://open.spotify.com/album/0vpTpSmRtZHplGUf4019BS) | 2:46 | 2023-03-17 | 2023-08-19 |
 | [Atlanta](https://open.spotify.com/track/17nOJvu5U8WHReykHKY18r) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Atlanta](https://open.spotify.com/album/6thRxrApMjFkSNWT90Az4A) | 3:54 | 2024-05-10 | 2024-06-29 |
+| [Atrás do teu olhar](https://open.spotify.com/track/0ZzykRDMx7FJqOUmtFec0M) | [João Selva](https://open.spotify.com/artist/4RLh1owxLqSCGyVgm875AG) | [Atrás do teu olhar](https://open.spotify.com/album/3uQGqqn02mxG3VrHjrshmF) | 2:00 | 2025-12-19 |  |
 | [Até A Noite Acabar](https://open.spotify.com/track/3mXRBKMajSreOWvtpUsmQw) | [Breno Branches](https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj) | [Transitar](https://open.spotify.com/album/6seVRIB5FtjQkx79j29on1) | 3:51 | 2022-11-04 | 2022-12-10 |
 | [até mais](https://open.spotify.com/track/1FpvAX8BfckZBWTQPkVlXS) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY), [\_\_\_distante](https://open.spotify.com/artist/6lopzQfxPh969CGbyPV5R5) | [até mais](https://open.spotify.com/album/5Czto3i4k0GgScIJYcHJ8f) | 2:48 | 2023-11-10 | 2024-05-03 |
 | [Até Meu Violão](https://open.spotify.com/track/47T54qbp9SreG2h7RBaMEG) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos](https://open.spotify.com/album/2arek67vZ8dshMyO3U4gLH) | 2:49 | 2022-07-01 | 2022-08-13 |

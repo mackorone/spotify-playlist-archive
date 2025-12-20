@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Elsa Japasal
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,569 likes - 124 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,589 likes - 124 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 11 | [TEU](https://open.spotify.com/track/6DgNxu6tT4hJc2XsaIVyUL) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [TEU](https://open.spotify.com/album/37n69aC8grfk6seAbPU5zL) | 2:43 |
 | 12 | [Ini Bukan Hari Baik](https://open.spotify.com/track/30yFype0h35NVc36YGq8vE) | [Ardy Minaj](https://open.spotify.com/artist/28BE5MtjMC3Sqjzviljr6C) | [LIESTYLE](https://open.spotify.com/album/2rcRBAqtuo2HXFanNgz5Pb) | 2:06 |
 | 13 | [Addiction \- Acoustic](https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Addiction \(Acoustic\)](https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz) | 2:35 |
-| 14 | [Sudah Bisa Tertawa](https://open.spotify.com/track/5NZEQEpbcsWu84oA1BQKjn) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Sudah Bisa Tertawa](https://open.spotify.com/album/1bxOhqMwbxQI75wWGqxyQ4) | 3:27 |
+| 14 | [Sudah Bisa Tertawa \- Band Version](https://open.spotify.com/track/5NZEQEpbcsWu84oA1BQKjn) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Sudah Bisa Tertawa \(Band Version\)](https://open.spotify.com/album/1bxOhqMwbxQI75wWGqxyQ4) | 3:27 |
 | 15 | [Malam\-malam](https://open.spotify.com/track/1N2wyU2ZAyGL0expxN7WuO) | [Wijaya 80](https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX) | [Malam\-malam](https://open.spotify.com/album/3sZCsnRE7cxcT5eLgktca2) | 4:19 |
 | 16 | [Untukmu yang Masih Bertahan](https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv) | [Valent Duga](https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC) | [Latihan Bahagia](https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv) | 3:53 |
 | 17 | [Nina Belum Bobo](https://open.spotify.com/track/1mNQ7jy4kDAFNqTnaFrgXX) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Nina Belum Bobo](https://open.spotify.com/album/29cTzI5hY9f89JBpEzHUXa) | 4:38 |

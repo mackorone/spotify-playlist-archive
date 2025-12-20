@@ -2,9 +2,9 @@
 
 ### [New Music Friday AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DWT2SPAYawYcO)
 
-> Brand new music from Young Franco, Charlotte Plank,  DaBaby, STÜM, X & Ivy, Peach PRC + more
+> Brand new music from Young Franco, Charlotte Plank, Kali Uchis, DaBaby, STÜM, X & Ivy, Peach PRC + more
 
-11,361 songs - 25 day 17 hr 49 min
+11,363 songs - 25 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6528,6 +6528,7 @@
 | [Money](https://open.spotify.com/track/4SnoNz5b5HmC2SeBgZJnwV) | [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE) | [Money](https://open.spotify.com/album/508J4nsyCqoIA95pOhc3Ud) | 2:22 | 2025-07-03 | 2025-07-11 |
 | [Money & My Vices](https://open.spotify.com/track/5T3t7QWuDW56R7Q5BYqICU) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Money & My Vices](https://open.spotify.com/album/7ILctsUA1yKzXlEAGlp78G) | 1:57 | 2023-08-31 | 2023-09-08 |
 | [MONEY AND VIBES](https://open.spotify.com/track/6XH5Uqo3d0cvBv0dv9Jwh8) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [MONEY AND VIBES](https://open.spotify.com/album/7s4VOuuo8CvJ5VLCmpBU8P) | 2:02 | 2023-10-19 | 2023-12-16 |
+| [Money Call](https://open.spotify.com/track/7yCi7YxF9hYiMGNiP833EW) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Money Call](https://open.spotify.com/album/04Lpgal8rYIqTIKZTVcy9h) | 3:02 | 2025-12-18 |  |
 | [MONEY CALLIN \(feat\. Halfsing\)](https://open.spotify.com/track/5ndrJDMYHj2ZNO5M3cnvCm) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Halfsing](https://open.spotify.com/artist/2N9LXayJ8gJPbgpehVKMAZ) | [MONEY CALLIN \(feat\. Halfsing\)](https://open.spotify.com/album/4F48UjmhCkQ7oQGmhtDquo) | 2:51 | 2025-05-29 | 2025-06-06 |
 | [Money Coming My Way](https://open.spotify.com/track/5s6KKvr41m02j8yJDqHh6h) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Money Coming My Way](https://open.spotify.com/album/1BUbmqH856frYyuh4kN59H) | 3:03 | 2023-06-23 | 2023-06-30 |
 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-25 | 2025-05-02 |
@@ -6669,6 +6670,7 @@
 | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/track/1ubTdHUiLRXe9XaHjo6aAX) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [MUSTARD \(WITH 6LACK\)](https://open.spotify.com/album/4alOM8XlyGXSsr3IIlshl8) | 3:21 | 2023-08-03 | 2023-08-11 |
 | [Mutations \- Edit](https://open.spotify.com/track/5Uzoly9A6Y1SZt4Um5cU5u) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Mutations](https://open.spotify.com/album/3le0WTsv4dcgH7mqZ7bL0Z) | 2:44 | 2024-08-15 | 2024-08-23 |
 | [Mutt](https://open.spotify.com/track/0bQmS1DS24E6TK5gdVm1jD) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Mutt](https://open.spotify.com/album/4xSgTuaoaNwARRsmI0cMxD) | 3:20 | 2025-02-06 | 2025-02-14 |
+| [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 | 2025-12-19 |  |
 | [Mwaki \- Major Lazer Remix](https://open.spotify.com/track/0c6dw8qe0mNA2sMETrDUl9) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Major Lazer Remix\)](https://open.spotify.com/album/7MAWQ0wUnEZiI7Y9qkqlhd) | 3:15 | 2024-01-11 | 2024-01-19 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-27 | 2023-08-04 |
 | [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 | 2024-08-09 |
@@ -10906,7 +10908,7 @@
 | [When The Rain Comes Down](https://open.spotify.com/track/37QV0TKKkLTWo5ipfm0kAr) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes \(Expanded Edition\)](https://open.spotify.com/album/7Jz15loeFy1pRa5l3YpaQK) | 3:49 | 2023-10-05 | 2023-10-13 |
 | [When This Is Over](https://open.spotify.com/track/7xPVO9T4tnz7SFGGbHc7s5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [When This Is Over](https://open.spotify.com/album/64s9ludX1CjfPAlCdmmBWa) | 4:24 | 2025-06-27 | 2025-07-04 |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-25 | 2024-02-02 |
-| [When We Speak](https://open.spotify.com/track/7ISZFU6e97I9dArIfb86hR) | [P.R.](https://open.spotify.com/artist/2E3bcBuFtcj1U889jLQJYH), [Sélavi](https://open.spotify.com/artist/1FwYPF2hY7sUvfaLvrekH8), [Kenji](https://open.spotify.com/artist/0gTS8sJlDKbTy0QMrUGPa1) | [](https://open.spotify.com/album/null) | 3:09 | 2025-12-18 |  |
+| [When We Speak](https://open.spotify.com/track/7ISZFU6e97I9dArIfb86hR) | [P.R.](https://open.spotify.com/artist/2E3bcBuFtcj1U889jLQJYH), [Sélavi](https://open.spotify.com/artist/1FwYPF2hY7sUvfaLvrekH8), [Kenji](https://open.spotify.com/artist/0gTS8sJlDKbTy0QMrUGPa1) | [Soundness of Mind](https://open.spotify.com/album/0dREigET4UujDrqQFmXaGV) | 3:09 | 2025-12-18 |  |
 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 | 2023-11-09 | 2023-11-17 |
 | [When You Call](https://open.spotify.com/track/00AitwJWRhIH5IuNLGYLVD) | [Clay Western](https://open.spotify.com/artist/2P6v6oHKqOcoK4tMlfQgHr) | [When You Call](https://open.spotify.com/album/3RrkhujnaChJgMJzKS5Wbd) | 3:13 | 2024-12-05 | 2024-12-13 |
 | [When You Call](https://open.spotify.com/track/1ijOzegJHJZGOOM0CgokKL) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [When You Call](https://open.spotify.com/album/17JFxXWM6ey8nzM4I6Tihs) | 3:53 | 2024-07-18 | 2024-07-27 |

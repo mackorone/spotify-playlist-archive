@@ -4,7 +4,7 @@
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 38 min
+73 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Cleva](https://open.spotify.com/track/1GoTvQP3JEeA8oh5I9b2xc) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:45 | 2025-03-11 |  |
 | [Coffy Is The Color \- From The "Coffy" Soundtrack](https://open.spotify.com/track/68zf056H6baAiSGCuaEH2p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Dee Dee Bridgewater](https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI), [Wayne Garfield](https://open.spotify.com/artist/1GetcOtM6fZmV1JPZ1CSlO) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:00 | 2025-03-11 |  |
 | [Dangerous Jazz](https://open.spotify.com/track/1SyHsoEU6g8Q9VScDsFEcJ) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Dangerous Vibes](https://open.spotify.com/album/3BTGZPdpMC4J4OPQ3lrRVO) | 6:59 | 2025-12-18 | 2025-12-19 |
-| [Dangerous Vibes \- Emmaculate Remix / Edit](https://open.spotify.com/track/59o9HdXbhgQRCzAkDUr3IF) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/72d5mhtRADQ4eMVcLzkLR9) | 3:25 | 2025-03-11 |  |
+| [Dangerous Vibes \(Emmaculate Remix / Edit\)](https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W) | 3:25 | 2025-12-20 |  |
+| [Dangerous Vibes \- Emmaculate Remix / Edit](https://open.spotify.com/track/59o9HdXbhgQRCzAkDUr3IF) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/72d5mhtRADQ4eMVcLzkLR9) | 3:25 | 2025-03-11 | 2025-12-20 |
 | [Day Dreaming](https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 5:34 | 2025-03-11 |  |
 | [Don't Stop The Feeling](https://open.spotify.com/track/3ZDW6AElGDqEchxoMvFwQ4) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 8:15 | 2025-03-11 | 2025-07-22 |
 | [Escape \- From The "Coffy" Soundtrack](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 | 2025-03-11 |  |

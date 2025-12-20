@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-375 songs - 21 hr 36 min
+376 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2023-12-08 | 2024-04-20 |
 | [Anywhere](https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:11 | 2023-12-08 | 2024-11-30 |
 | [Arrival](https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Arrival](https://open.spotify.com/album/52nTSpBzE91qPdD4B2FKQq) | 4:31 | 2024-04-19 | 2024-08-24 |
+| [Ave Maria](https://open.spotify.com/track/2jzTajeJf0HtycS8wSYUkQ) | [VVonder](https://open.spotify.com/artist/4p3dOkvr9RzvSgrhoKhub7) | [Ave Maria](https://open.spotify.com/album/7KeRveTlld5CoBXU13hWHj) | 4:13 | 2025-12-19 |  |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-10 | 2024-08-24 |
 | [Back For The Funeral](https://open.spotify.com/track/3YIQtNLONCMhdVHAz4axNK) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Back For The Funeral](https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX) | 3:12 | 2024-05-03 | 2024-11-16 |
 | [Back to Me](https://open.spotify.com/track/6efhAWCL5nLpIHvOwojuMr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Back to Me](https://open.spotify.com/album/5oVyW0Lsox64SixboTYYYE) | 3:15 | 2024-01-19 | 2024-12-07 |
@@ -178,7 +179,7 @@
 | [Is This What Love Is?](https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Is This What Love Is?](https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt) | 3:37 | 2024-03-22 | 2024-07-06 |
 | [It's No Fun](https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [It's No Fun](https://open.spotify.com/album/6qDA7zAfwhlinzTUzuxaK5) | 2:43 | 2024-07-12 | 2024-07-20 |
 | [It's Tonight](https://open.spotify.com/track/3PRAHq4iWrBA51Se3EkcR8) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [It's Tonight](https://open.spotify.com/album/7LWkvp1vt2WDWhLD6cfspU) | 2:45 | 2024-09-13 | 2024-10-19 |
-| [Jukebox](https://open.spotify.com/track/2l2AC4yCiOWzQlPGOVLbQG) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Jukebox](https://open.spotify.com/album/1azoCmZ8SMes8V8XceTVx9) | 3:24 | 2025-12-12 |  |
+| [Jukebox](https://open.spotify.com/track/2l2AC4yCiOWzQlPGOVLbQG) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Jukebox](https://open.spotify.com/album/1azoCmZ8SMes8V8XceTVx9) | 3:24 | 2025-12-12 | 2025-12-20 |
 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 | 2024-07-26 | 2024-11-16 |
 | [Just Us](https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Just Us](https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc) | 3:34 | 2023-12-08 | 2023-12-16 |
 | [J’imagine que tu sais](https://open.spotify.com/track/0dr1pbRZF2xB5pFxv8jsuQ) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6XZTzOjOjYoHAnGV7dzJnS) | 3:29 | 2025-09-19 |  |
@@ -291,7 +292,7 @@
 | [Smooth Like Vinyl](https://open.spotify.com/track/6mnA0MvgEeJTQVJ1QnOqPI) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Smooth Like Vinyl](https://open.spotify.com/album/5CYp5SgznyJC9iIoa2p2MH) | 3:39 | 2025-06-20 |  |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-12-08 | 2024-11-23 |
 | [snow globe on an alien's desk](https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [snow globe on an alien's desk](https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx) | 2:58 | 2024-12-06 | 2025-07-26 |
-| [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-08 |  |
+| [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-08 | 2025-12-20 |
 | [So Many Ways To Say I Love You](https://open.spotify.com/track/5KJKKDAtaZdH962ET3HPEu) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/7Ld0nJtPBxkJRqq2mFgsFr) | 2:46 | 2024-10-04 | 2025-08-09 |
 | [Some Kinda Nerve](https://open.spotify.com/track/4fD2XwoZJLyeGJD07ctWyW) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Nerve](https://open.spotify.com/album/67njACuhii6ppE1nFoHazz) | 3:15 | 2024-09-03 | 2024-12-07 |
 | [Somehow I Forgot](https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/0hKRKYg5UNFALZdhwukJVL) | 3:11 | 2024-05-24 | 2024-07-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Mujeres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,635 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,665 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 20 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 21 | [Matanza En El Hotel](https://open.spotify.com/track/1HoQJxHaWa8USxYXjuJpTK) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Pelo De Foca](https://open.spotify.com/album/7IaN8e5ag5SEFaHLBmKBss) | 3:10 |
 | 22 | [La estación](https://open.spotify.com/track/0UlMQ9DkbAYqd68OAyTFFj) | [Linze](https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq) | [La estación](https://open.spotify.com/album/06NexD0q5IT5pEuozV5KOy) | 3:58 |
-| 23 | [ARDE LA RIVERA](https://open.spotify.com/track/05Ck5EFVbCdSpvSCCongUr) | [MARTIZ](https://open.spotify.com/artist/3EhQ0MJjbGPIHsolimNXh6) | [ARDE LA RIVIERA](https://open.spotify.com/album/0KiHOxyxBrkhLGQMWldydx) | 3:03 |
+| 23 | [ARDE LA RIVIERA](https://open.spotify.com/track/05Ck5EFVbCdSpvSCCongUr) | [MARTIZ](https://open.spotify.com/artist/3EhQ0MJjbGPIHsolimNXh6) | [ARDE LA RIVIERA](https://open.spotify.com/album/0KiHOxyxBrkhLGQMWldydx) | 3:03 |
 | 24 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 |
 | 25 | [Marisol](https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Marisol](https://open.spotify.com/album/0jL7FguTJUNtRes3fQi7KR) | 4:11 |
 | 26 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/4Cm7RD603oQOB9vPZm92xx) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/0ysQ9rMzgChnl3Qn2Ofmbu) | 3:15 |

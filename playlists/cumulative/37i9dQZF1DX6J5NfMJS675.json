@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "3 Shot Espresso",
+        "url": "https://open.spotify.com/album/4WSmXPDiYGb0NoZwllnP3O"
+      },
+      "artists": [
+        {
+          "name": "METODI",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257892,
+      "name": "3 Shot Espresso",
+      "url": "https://open.spotify.com/track/12Wv0v8E8fgVIvZFTmkWt8"
+    },
+    {
+      "album": {
         "name": "303 State",
         "url": "https://open.spotify.com/album/2Rk7WeMa2O3KhtTlKbg4vH"
       },
@@ -616,6 +634,28 @@
       "duration_ms": 193714,
       "name": "Addicted To That Sound",
       "url": "https://open.spotify.com/track/17yKP8A9an4wncv2tDLr5u"
+    },
+    {
+      "album": {
+        "name": "Addicted to You",
+        "url": "https://open.spotify.com/album/4YhgeoxIF0rz7hqRXhNcEm"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Addicted to You",
+      "url": "https://open.spotify.com/track/6MBCIz3ryX6INVwCXmMKHi"
     },
     {
       "album": {
@@ -1648,7 +1688,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 168857,
       "name": "B.M.S.",
       "url": "https://open.spotify.com/track/2mrzOXuskEOToVlp2QaC5E"
@@ -3506,7 +3546,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 239580,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY"
@@ -4016,7 +4056,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 302539,
       "name": "Cryptic - Kobosil Hart Mix",
       "url": "https://open.spotify.com/track/7fXK4nSADxslMaAHshrkZI"
@@ -5226,6 +5266,24 @@
       "duration_ms": 343111,
       "name": "Dreams Machine",
       "url": "https://open.spotify.com/track/5OhyqOcmZIZ9krDUJB3vNd"
+    },
+    {
+      "album": {
+        "name": "EB003",
+        "url": "https://open.spotify.com/album/4uHBaJPKzlZTlJ0GQTfXN9"
+      },
+      "artists": [
+        {
+          "name": "Estella Boersma",
+          "url": "https://open.spotify.com/artist/4UCy3TOuu2eA6zNY50JQSV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290105,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5NUv3cwQOS7mFDyPk2Dp13"
     },
     {
       "album": {
@@ -6616,7 +6674,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 172941,
       "name": "Felina",
       "url": "https://open.spotify.com/track/1DRzdxAO6nuaEwBHIaoi4l"
@@ -8220,7 +8278,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 216214,
       "name": "Hakanai",
       "url": "https://open.spotify.com/track/6sUBjTfWHXojoofvIj0BUi"
@@ -9796,7 +9854,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 197142,
       "name": "Jack",
       "url": "https://open.spotify.com/track/0JvSCk4PtLNOcAXv0b9Ks1"
@@ -9854,7 +9912,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 301714,
       "name": "John Doe",
       "url": "https://open.spotify.com/track/69ezmblTwQnwVoA4oAuoJU"
@@ -10495,6 +10553,28 @@
     },
     {
       "album": {
+        "name": "League of Killers",
+        "url": "https://open.spotify.com/album/2Dv4ES2X9eqrFgKTf9ElDc"
+      },
+      "artists": [
+        {
+          "name": "Raden (UK)",
+          "url": "https://open.spotify.com/artist/6BW1auskrxNZ5Ap83LtamK"
+        },
+        {
+          "name": "Tom Meier",
+          "url": "https://open.spotify.com/artist/5nlG1kNn09T1PVSbzQTlGr"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "League of Killers",
+      "url": "https://open.spotify.com/track/5tOuh1FdOREeJFAbvuqKS2"
+    },
+    {
+      "album": {
         "name": "Leave This Crap",
         "url": "https://open.spotify.com/album/5n17k1MRhfMq5wHqhoQ7N5"
       },
@@ -10730,7 +10810,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 224892,
       "name": "Lights in the Sky",
       "url": "https://open.spotify.com/track/3WZUuWT2vBQZTUS9zbe9NX"
@@ -11617,6 +11697,24 @@
     },
     {
       "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/4XQ0HsIGDTPymXAhS041dR"
+      },
+      "artists": [
+        {
+          "name": "Jay Lumen",
+          "url": "https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428000,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/39lUfEQyMiZUWnKKSbj74C"
+    },
+    {
+      "album": {
         "name": "Metron",
         "url": "https://open.spotify.com/album/3Cd2TcLNpCpsDOmsAYHbE8"
       },
@@ -11954,6 +12052,32 @@
       "duration_ms": 245142,
       "name": "MOraaaa",
       "url": "https://open.spotify.com/track/0ChdUVqCF3hzzirWAhiX7t"
+    },
+    {
+      "album": {
+        "name": "Morals",
+        "url": "https://open.spotify.com/album/2HlmQVBNrnKlTY7uBB5dJk"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        },
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "ROWN",
+          "url": "https://open.spotify.com/artist/4WZfWEaVAJg0Sil7Ju7iea"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161697,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj"
     },
     {
       "album": {
@@ -13261,6 +13385,24 @@
     },
     {
       "album": {
+        "name": "Oldschool",
+        "url": "https://open.spotify.com/album/7yJv3wCnR4Hx91a84dHXHr"
+      },
+      "artists": [
+        {
+          "name": "Frankyeffe",
+          "url": "https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Oldschool",
+      "url": "https://open.spotify.com/track/799cie8KYXJ8sYGmrfCFI9"
+    },
+    {
+      "album": {
         "name": "Black Jupiter",
         "url": "https://open.spotify.com/album/6HIgcKru4CgQsiPcDb7Nu9"
       },
@@ -13649,6 +13791,28 @@
     },
     {
       "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/0GaPcvGV8MMDFSiEKfBGat"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "DeeStylez",
+          "url": "https://open.spotify.com/artist/0Oqyd9ecGXaqHOAiCUxNH6"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Out of This World",
+      "url": "https://open.spotify.com/track/7Mch5YIuWLv1QUD4tUL4l5"
+    },
+    {
+      "album": {
         "name": "Out Of Your Mind",
         "url": "https://open.spotify.com/album/6RrcAwS5t4xzn22Lm4KmV0"
       },
@@ -13997,6 +14161,28 @@
     },
     {
       "album": {
+        "name": "Phantaxxxy",
+        "url": "https://open.spotify.com/album/59ic7Z0BTDocjAo7nd5q2Y"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        },
+        {
+          "name": "JindaLee",
+          "url": "https://open.spotify.com/artist/3w0mSbEenm5no9kuuDbCeq"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204506,
+      "name": "Phantaxxxy",
+      "url": "https://open.spotify.com/track/5Yh7gED0sQPPwGPDFDamx5"
+    },
+    {
+      "album": {
         "name": "Kombination",
         "url": "https://open.spotify.com/album/4FRPuTAYcHZuzUKwRHamHr"
       },
@@ -14150,7 +14336,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 271448,
       "name": "Place To Hide",
       "url": "https://open.spotify.com/track/0rYpwydJwFVM2Wgcg4NHNR"
@@ -15876,7 +16062,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
@@ -17255,6 +17441,24 @@
     },
     {
       "album": {
+        "name": "Sommer in Berlin",
+        "url": "https://open.spotify.com/album/7Kb27qm3fkkTTjMxWLo3p5"
+      },
+      "artists": [
+        {
+          "name": "Alyne",
+          "url": "https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228245,
+      "name": "Sommer in Berlin",
+      "url": "https://open.spotify.com/track/4WZy4hzJpTwt3dT5B5hY9N"
+    },
+    {
+      "album": {
         "name": "Sonic",
         "url": "https://open.spotify.com/album/0qT89bxDsPY9n5Ec4PvkGR"
       },
@@ -18018,7 +18222,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 397333,
       "name": "Take It Down",
       "url": "https://open.spotify.com/track/4oGujfzpCA9H3JhkiLN7qF"
@@ -19552,7 +19756,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 241804,
       "name": "Torn Clouds",
       "url": "https://open.spotify.com/track/4yA3q8B64cpYT7M37RxKVu"
@@ -19788,6 +19992,24 @@
       "duration_ms": 347294,
       "name": "Triple H",
       "url": "https://open.spotify.com/track/5JyafhDS6oapE6GCQMY0SD"
+    },
+    {
+      "album": {
+        "name": "Triplet King",
+        "url": "https://open.spotify.com/album/3q0HQM9UFSoxGRWPMeJ3HZ"
+      },
+      "artists": [
+        {
+          "name": "Anna Reusch",
+          "url": "https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239142,
+      "name": "Triplet King",
+      "url": "https://open.spotify.com/track/455nVkQ1n03Ij3fpTlwZsi"
     },
     {
       "album": {
@@ -20724,7 +20946,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 212343,
       "name": "We Bring The Fire Now",
       "url": "https://open.spotify.com/track/0B7m6RLWfwxUsZWOSlPt5K"
@@ -21433,6 +21655,32 @@
     },
     {
       "album": {
+        "name": "You Need The Drugs (Kobosil Kartell Mix)",
+        "url": "https://open.spotify.com/album/6mDOkJVFL4OXkuAtZv6SO4"
+      },
+      "artists": [
+        {
+          "name": "Westbam",
+          "url": "https://open.spotify.com/artist/1zcj0EOWK3jRZKeh20dnMR"
+        },
+        {
+          "name": "Kobosil",
+          "url": "https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC"
+        },
+        {
+          "name": "Richard Butler",
+          "url": "https://open.spotify.com/artist/5fVMfAQORpuaEoScZO3PBc"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217750,
+      "name": "You Need The Drugs - Kobosil Kartell Mix",
+      "url": "https://open.spotify.com/track/4z4iPMgajQ2ZTQWpFyG6kE"
+    },
+    {
+      "album": {
         "name": "You Want This",
         "url": "https://open.spotify.com/album/3Ac6kfx5UiODlBPpvnuhl2"
       },
@@ -21524,6 +21772,32 @@
       "duration_ms": 269204,
       "name": "Your Madness",
       "url": "https://open.spotify.com/track/1kVs2W1r9xxWq9oW4iTRCN"
+    },
+    {
+      "album": {
+        "name": "Your Mind (HNTR Remix)",
+        "url": "https://open.spotify.com/album/02YQrPMD5VcaisSzijQyuD"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221837,
+      "name": "Your Mind - HNTR Remix",
+      "url": "https://open.spotify.com/track/2HC3zCi2hZffYhY7UBKBWa"
     },
     {
       "album": {

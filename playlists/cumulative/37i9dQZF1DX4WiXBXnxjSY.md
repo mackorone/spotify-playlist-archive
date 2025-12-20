@@ -4,7 +4,7 @@
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-142 songs - 6 hr 31 min
+145 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,12 +62,14 @@
 | [Green Noise 500 Hz](https://open.spotify.com/track/0rxmsK0e7l4FImr7HnYSEu) | [WNBN](https://open.spotify.com/artist/7u9Ogseij8tcGiDLTCjpbC) | [Natures Soundtrack](https://open.spotify.com/album/3i94lLag4dkjHTEsRug0rE) | 2:05 | 2023-10-05 |  |
 | [Green Noise and Calming Ocean Waves](https://open.spotify.com/track/2Mru2svx8kplFkQ3vn6n4M) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Green Noise Moments](https://open.spotify.com/album/2m9XRZvwhhbjciq6ZcPOey) | 3:23 | 2023-10-05 |  |
 | [Green Noise Beside the Waterfall](https://open.spotify.com/track/4qzc7OV8QSLyVQjnL3IfxR) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Green Noise Water](https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw) | 2:06 | 2023-10-05 |  |
+| [Green Noise Breeze](https://open.spotify.com/track/0wHWG3uv5qTD6yB4SECv5G) | [The Urban Ambience](https://open.spotify.com/artist/60qVetkhprVt1tm5sz0o83) | [Green Noise Breeze](https://open.spotify.com/album/0bDoRcTpGQFX09zK0VuNcR) | 4:19 | 2025-12-19 |  |
 | [Green Noise by the Ocean](https://open.spotify.com/track/3pK1CJLQRIIG2dxxZFzJ71) | [Moon Geel](https://open.spotify.com/artist/233dPasuKQ0Iy9txhTLRHa) | [Green Noise For Sleep](https://open.spotify.com/album/0Uzy6dzGt6kPaZDDYzwQgb) | 2:25 | 2023-10-05 |  |
 | [Green Noise by the Ocean](https://open.spotify.com/track/4Bg9Zi8BW680FYiffjRuK4) | [Relaxation Labs](https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB) | [Green Noise for Sleep and Stress Relief](https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC) | 3:08 | 2023-10-05 |  |
 | [Green Noise by The Waterfall](https://open.spotify.com/track/5ZHzsDYbi4WWHPzrM0wQNR) | [Gentle Nature](https://open.spotify.com/artist/7f3QypUiild5XYfNKBttO4) | [Focus Green Noise](https://open.spotify.com/album/5OosOpXbAFgRquModHjs8q) | 2:24 | 2023-10-05 |  |
 | [Green Noise by the Waterfall](https://open.spotify.com/track/7Ki5WXfbWX68LVbTgFhmIH) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Green Noise](https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd) | 3:46 | 2023-10-05 |  |
 | [Green Noise Calming Seawaves](https://open.spotify.com/track/5mIpcAqJY7yCbUf9SmWgmz) | [Pinkertonal](https://open.spotify.com/artist/2hLz3SbvPqYoAKieYwEh73) | [Green Noise Calming Seawaves](https://open.spotify.com/album/2RBPXZIVhME69FEtjXzIO4) | 2:52 | 2023-10-05 |  |
 | [Green Noise Chilled waves](https://open.spotify.com/track/7Exb0qTNjy4ze0QuMhRhk1) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Green Noise To Make you Sleepy](https://open.spotify.com/album/4Y11tk3z99h78kah4lKcsF) | 2:31 | 2023-10-05 |  |
+| [Green Noise Cocoon](https://open.spotify.com/track/5ECmONtEJ5cmY6qZOZPBqg) | [Baby Memories](https://open.spotify.com/artist/1Tcr58kDfgSdnI3PCCDAP4) | [Green Noise Cocoon](https://open.spotify.com/album/4zMTIGkihB4KJV79sSzOMh) | 3:42 | 2025-12-19 |  |
 | [Green Noise Comes and Goes](https://open.spotify.com/track/703ixSHbQ6lOAqOfdXsz18) | [Inverted Noise](https://open.spotify.com/artist/161UkB7gyd1nQMVFLwUrDP) | [Green Ocean Spray](https://open.spotify.com/album/1Y0iPYHEo4Wj5HwkZMppZz) | 2:15 | 2023-10-05 |  |
 | [Green Noise Deep Sleep](https://open.spotify.com/track/2u4dw8dB6tSFeXH4KaCSTn) | [JBE Noise Factory](https://open.spotify.com/artist/4s7Ydghmi9eEHS0gjp8zk1), [White Noise for Babies](https://open.spotify.com/artist/4ZfEELHfyKd4odAb6YfDFw), [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Green Noise](https://open.spotify.com/album/7ed4GStbSffE9Lqo0uS7Uk) | 2:39 | 2024-02-13 |  |
 | [Green Noise Deep Sleep](https://open.spotify.com/track/0lGkdg4u1vVo3qmeGQvfDa) | [Soothing White Noise for Relaxation](https://open.spotify.com/artist/7ovU9nJ62sM3mWmsa5Wi8L), [White Noise Spa](https://open.spotify.com/artist/2v4Lbdw4AEnnNVVUHi9esf), [Green Noise For Sleep](https://open.spotify.com/artist/38SWhNBDTM7Y2pYFkkKkkz) | [Green Noise](https://open.spotify.com/album/04psKfj74O74LSigijmY49) | 2:38 | 2024-02-13 |  |
@@ -119,6 +121,7 @@
 | [Oceanic Lullaby](https://open.spotify.com/track/4fERqAKsIRFapCt63YUdAF) | [Green Noise Ocean Waves](https://open.spotify.com/artist/0Mm1dGNfMvNsFvw34toKOX) | [Green Noise Ocean Waves, Vol\. 1](https://open.spotify.com/album/2ndfGqVF0gc91MDgxvoE4Y) | 5:56 | 2024-02-13 |  |
 | [Pouring Noise](https://open.spotify.com/track/6Ngp4e90mK3LdVPU9YTNAX) | [Mind Noises](https://open.spotify.com/artist/3zopqDmnylp1biwM4hg2gN) | [Green Noise For Sleep](https://open.spotify.com/album/5FJxX8YnoQcjcxu4L9yea1) | 2:30 | 2023-10-05 |  |
 | [Pure Green Noise](https://open.spotify.com/track/21pgyPZPRk1kGIPgdBulZ2) | [Soothing White Noise for Relaxation](https://open.spotify.com/artist/7ovU9nJ62sM3mWmsa5Wi8L), [White Noise Spa](https://open.spotify.com/artist/2v4Lbdw4AEnnNVVUHi9esf), [Green Noise For Sleep](https://open.spotify.com/artist/38SWhNBDTM7Y2pYFkkKkkz) | [Green Noise](https://open.spotify.com/album/04psKfj74O74LSigijmY49) | 2:37 | 2024-02-13 |  |
+| [Ravine Dreams](https://open.spotify.com/track/0tbjXKG0dTlWvuAKM5qP3b) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Ravine Dreams](https://open.spotify.com/album/1VakQLdmMJF4w1TjN0L2lq) | 3:42 | 2025-12-19 |  |
 | [Reading Green Noise](https://open.spotify.com/track/2snItDU0GMJczVLUphPhU8) | [Eltern FX](https://open.spotify.com/artist/0VV8uJMoSg5QJHEigLjulE) | [Study Green Noise](https://open.spotify.com/album/0fSfFSn50FtC2Z2q2QHwzP) | 2:33 | 2023-10-05 |  |
 | [Relaxing Wave Sounds](https://open.spotify.com/track/7sdoVOZWSmSJGZMqKUUsu5) | [Ilmium](https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8) | [Sleep Sound Green Noise](https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb) | 2:00 | 2023-10-05 |  |
 | [Relaxing Wide Green Noise Ambience](https://open.spotify.com/track/561ncaCUFlLzmQFOwwtK6Q) | [Green Noise Deep Sleep](https://open.spotify.com/artist/4tns5cCeDNeFVHyediVGSy) | [Green Noise Deep Sleep](https://open.spotify.com/album/56QixlGj8zSI1APM8R0PDn) | 2:00 | 2024-02-13 |  |

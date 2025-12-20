@@ -4,7 +4,7 @@
 
 > R&B and good vibe tracks for your current mood\. Cover: JUNNY
 
-1,480 songs - 3 day 7 hr 8 min
+1,481 songs - 3 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [better than he does](https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [better than he does](https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF) | 2:33 | 2024-10-24 | 2024-12-05 |
 | [better than u](https://open.spotify.com/track/7h7WqKE1VcH5mSUntNZXe0) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [better than u](https://open.spotify.com/album/2M1M1b8IG5nvXcKFvR99ea) | 3:02 | 2025-06-06 | 2025-06-20 |
 | [Bittersweet](https://open.spotify.com/track/50ExJUNgfTOmpgl1PwSm0N) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Bittersweet](https://open.spotify.com/album/6AUSTrQAtjAsI0zGqBEzGd) | 2:54 | 2025-08-07 | 2025-10-17 |
-| [Black Coffee](https://open.spotify.com/track/7jV5OFmieh5iCMqErfDrdL) | [Seewah Chadworth](https://open.spotify.com/artist/6rudotzBaDEZORXGffGCrD), [Barbie Mak](https://open.spotify.com/artist/1rnMncuiUjiXdGDpgmqlNY) | [Black Coffee](https://open.spotify.com/album/4j0Q2CqSLcwyS1X2aNnPUm) | 3:11 | 2025-12-11 |  |
+| [Black Coffee](https://open.spotify.com/track/7jV5OFmieh5iCMqErfDrdL) | [Seewah Chadworth](https://open.spotify.com/artist/6rudotzBaDEZORXGffGCrD), [Barbie Mak](https://open.spotify.com/artist/1rnMncuiUjiXdGDpgmqlNY) | [Black Coffee](https://open.spotify.com/album/4j0Q2CqSLcwyS1X2aNnPUm) | 3:23 | 2025-12-11 |  |
 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 | 2024-04-11 | 2024-07-27 |
 | [Blame It On Me](https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blame It On Me](https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY) | 2:51 | 2025-07-10 | 2025-10-17 |
 | [BLEU](https://open.spotify.com/track/2ejXbpySI4QktdyRmWwHWn) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [BLEU](https://open.spotify.com/album/5Po9lNxbAHpLCo9XHKfu24) | 3:08 | 2024-09-26 | 2024-12-05 |
@@ -333,6 +333,7 @@
 | [Don’t go home](https://open.spotify.com/track/2ROP0upaRoZuU3WZAAv4d3) | [seoseo](https://open.spotify.com/artist/19fpoLzmPBNG4TdMQMSSc8) | [Don’t go home](https://open.spotify.com/album/5Z2DV5deJlPtSIgLPta6Hb) | 3:07 | 2023-01-05 | 2023-01-14 |
 | [Dope \(with JID\)](https://open.spotify.com/track/3E1y4V7dxcn5AwKCD4AqFn) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Dope](https://open.spotify.com/album/0dbPpCxqmGEw1wQ5SH7q9O) | 2:38 | 2022-06-08 | 2022-06-10 |
 | [double tap](https://open.spotify.com/track/1ihLTwHjpxs2waSvf5yOrj) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [double tap](https://open.spotify.com/album/4fwBRNDbioQ2eO0DZxyzyK) | 2:37 | 2022-06-08 | 2022-06-10 |
+| [Down Bad](https://open.spotify.com/track/4riwHe2TGDQvqNcPrnsw2Z) | [JeryC](https://open.spotify.com/artist/71rLWhdALdq6mKlVApbmJW) | [Down Bad](https://open.spotify.com/album/0LT2D8y0TUFsdJZRqD0bl1) | 2:25 | 2025-12-18 |  |
 | [Dragon in the Lagoon](https://open.spotify.com/track/57wYaeSHIt4uz6AcGSTdDM) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Where They Dwell](https://open.spotify.com/album/14O5YDNG8hFL27azFEQAPI) | 4:07 | 2025-05-22 | 2025-07-25 |
 | [Dream](https://open.spotify.com/track/44JjaIcssjh9md4oEsoebj) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps) | [Dream](https://open.spotify.com/album/6Eoz5t6TnTaQRJM2ZiUaih) | 2:27 | 2024-01-11 | 2024-03-16 |
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-08 | 2024-12-05 |

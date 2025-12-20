@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-21",
-  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: RIA",
+  "description": "Lo que diga el coraz\u00f3n \u2764\ufe0f\ud83d\udc94 Cover: Eddy,  Chuyin",
   "name": "Tumbado Rom\u00e1ntico",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 213500,
       "name": "A Peso",
       "url": "https://open.spotify.com/track/2FpB6JGNUf52YCtMrLqvDy"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 132330,
       "name": "Cayenne",
       "url": "https://open.spotify.com/track/146J2us6wxdOxZUOK2LPXj"
@@ -1126,7 +1126,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 179156,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/6LDB1KY7hbf9r7iiroZzPC"
@@ -1152,6 +1152,24 @@
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
+    },
+    {
+      "album": {
+        "name": "Ella Pensaba En El",
+        "url": "https://open.spotify.com/album/6LQSFx2zsLlYrriRHT6Q4w"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Ella Pensaba En El",
+      "url": "https://open.spotify.com/track/3wkwIYzXWcJB18SIc6DbZE"
     },
     {
       "album": {
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 182333,
       "name": "Fantas\u00edas",
       "url": "https://open.spotify.com/track/34jKw1BzBbkml9IKq3VRIs"
@@ -1423,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "FRENESI",
+        "url": "https://open.spotify.com/album/6crRmbD1w0fVNd96fumPRt"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183233,
+      "name": "FRENESI",
+      "url": "https://open.spotify.com/track/3DL5HZVmpGzlo8G9jrwyko"
+    },
+    {
+      "album": {
         "name": "Ganas De Ti",
         "url": "https://open.spotify.com/album/3oOyMmhpVUQ0r8BdP1y5ox"
       },
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 190629,
       "name": "INDIRECTAS",
       "url": "https://open.spotify.com/track/4QrhVVSIR2tY17lOZhM8CZ"
@@ -1694,7 +1730,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 187500,
       "name": "LA PEDA",
       "url": "https://open.spotify.com/track/4toD3IqqcuHWGl6bnNkM4s"
@@ -1864,10 +1900,32 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 189298,
       "name": "MACALLAN",
       "url": "https://open.spotify.com/track/3WsrcYFPa0sXqaTbVr9bGo"
+    },
+    {
+      "album": {
+        "name": "Madre Mia",
+        "url": "https://open.spotify.com/album/52usi9n7VTM6DLIcipoQj2"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190770,
+      "name": "Madre Mia",
+      "url": "https://open.spotify.com/track/4RggfCU7eVdXnbE6yw958e"
     },
     {
       "album": {
@@ -2378,7 +2436,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
@@ -2440,6 +2498,24 @@
       "duration_ms": 159000,
       "name": "No Eras T\u00fa",
       "url": "https://open.spotify.com/track/4tS4m9YXk1hpFRCZQbzoTZ"
+    },
+    {
+      "album": {
+        "name": "NO ES CIERTO",
+        "url": "https://open.spotify.com/album/5VrBmDljkyHPGAkUlk6bY8"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166679,
+      "name": "NO ES CIERTO",
+      "url": "https://open.spotify.com/track/1iPKERaGXgx0xHUwE4En0c"
     },
     {
       "album": {
@@ -2669,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Ojitos Japoneses",
+        "url": "https://open.spotify.com/album/6HjBoIG8Gbw4eTWz6tcDSi"
+      },
+      "artists": [
+        {
+          "name": "Anakin Larios",
+          "url": "https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145956,
+      "name": "Ojitos Japoneses",
+      "url": "https://open.spotify.com/track/6dLw4htVNWa8Xn8pO1jICe"
+    },
+    {
+      "album": {
         "name": "OOTD",
         "url": "https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU"
       },
@@ -2756,7 +2850,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 190500,
       "name": "Paris Hilton",
       "url": "https://open.spotify.com/track/3wXNKzyuuSZoGgnuCI2ly3"
@@ -3243,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Si Me Escuchas",
+        "url": "https://open.spotify.com/album/2MabExRHmOx2JjJdhu6ZvB"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169725,
+      "name": "Si Me Escuchas",
+      "url": "https://open.spotify.com/track/0bJj5uDx0ujXlezS3YIAgT"
+    },
+    {
+      "album": {
         "name": "Palabra De To's (Seca)",
         "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
       },
@@ -3355,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Suelto El Cuerno",
+        "url": "https://open.spotify.com/album/4bmonbHICCKZq37Aq2khr7"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230514,
+      "name": "Suelto El Cuerno",
+      "url": "https://open.spotify.com/track/4N7lLsEHnvR3pWuy3X0A5v"
+    },
+    {
+      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/6jm6xoq0cOwygfA9JI5C4W"
       },
@@ -3402,7 +3532,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 190054,
       "name": "Ta\u2019Cabr\u00f3n",
       "url": "https://open.spotify.com/track/7DmiGQO54rLxsJhvkjCQWG"
@@ -3424,6 +3554,24 @@
       "duration_ms": 243610,
       "name": "Te Compre Unas Flores",
       "url": "https://open.spotify.com/track/5uBydlXbPK3ieL6lNrjTvt"
+    },
+    {
+      "album": {
+        "name": "Te Juro Jam\u00e1s",
+        "url": "https://open.spotify.com/album/7qmbZJx55TMAJgQblzEa5x"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180322,
+      "name": "Te Juro Jam\u00e1s",
+      "url": "https://open.spotify.com/track/5L5AYy2Vh2QeWDbJm5Tm4I"
     },
     {
       "album": {
@@ -3813,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Willy Broncas",
+        "url": "https://open.spotify.com/album/2B99BtDN5UxCDuIewjKW3j"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Buelna",
+          "url": "https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182370,
+      "name": "Willy Broncas",
+      "url": "https://open.spotify.com/track/5KEkWSE0D6zhBONohmA2z4"
+    },
+    {
+      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -3912,6 +4078,24 @@
       "duration_ms": 172373,
       "name": "Ya No Saben Igual",
       "url": "https://open.spotify.com/track/04So7ztX0zmpojweaXY0ss"
+    },
+    {
+      "album": {
+        "name": "desconectado (Live)",
+        "url": "https://open.spotify.com/album/2QLBsx0O3j6JFdG1pVB7jk"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179643,
+      "name": "ya yo s\u00e9 - Live",
+      "url": "https://open.spotify.com/track/7iigWtzOmyTizRNmwOkKUh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from Courtney Marie Andrews
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,723,886 likes - 107 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,723,713 likes - 107 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 106 | [Impressions \(feat\. Madison Cunningham\)](https://open.spotify.com/track/6vgV9COfjlPVbz3R2QgJRC) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Impressions \(feat\. Madison Cunningham\)](https://open.spotify.com/album/6xeD1QV6tIq2uzIZeZRmQJ) | 3:46 |
 | 107 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 
-Snapshot ID: `AAAAAEOp2PyTc69mTKUYAnYgFZdVTRBJ`
+Snapshot ID: `AAAAAE5gQOBq9ysz0439lkADk4Qsvzoo`

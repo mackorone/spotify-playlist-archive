@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3lo cl\u00e1sicos tropicales.",
-  "num_followers": 17623,
+  "num_followers": 17626,
   "original_name": "Salsa, Vallenato & Merengue",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Paso Firme",
         "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 245081,
       "name": "Anhelo",
       "url": "https://open.spotify.com/track/4HIeIbJeQMUurTM57KVQU7"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-06-25 16:18:42",

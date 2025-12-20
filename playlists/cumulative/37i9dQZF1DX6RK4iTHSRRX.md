@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-152 songs - 6 hr 15 min
+153 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Joy To The World \- Acoustic Guitar](https://open.spotify.com/track/6SKzR8spoKFfgeNPNcOLxe) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [Home For The Holidays \(Acoustic Guitar\)](https://open.spotify.com/album/0FsvvymDjPfsKaDNvmYVQk) | 3:23 | 2024-11-06 | 2025-12-04 |
 | [Last Christmas](https://open.spotify.com/track/2bMTaFsvRxO05fjCKEc0Sn) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [Last Christmas](https://open.spotify.com/album/7c8HuqoBKlSFFIDhJS1ehD) | 1:57 | 2021-12-22 |  |
 | [Last Christmas \- Acoustic Guitar](https://open.spotify.com/track/31Go9Hns7JRuWWlmXYYinU) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Last Christmas & O Holy Night \(Acoustic Guitar\)](https://open.spotify.com/album/2rBIk1W6679h4AGtUClArQ) | 4:40 | 2024-11-26 |  |
-| [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 | 2021-12-22 |  |
+| [Let It Snow](https://open.spotify.com/track/7nD6zoYPL1ShkHwcsev9DV) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Christmas Acoustic](https://open.spotify.com/album/4GEU8iOMl6c38XpYY1mesV) | 3:02 | 2021-12-22 | 2025-12-20 |
 | [Let It Snow](https://open.spotify.com/track/3CYQ5CLgRMAIZcriPtkOfF) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Let It Snow](https://open.spotify.com/album/4FI4gSfytb5pqvImHDHtYC) | 2:29 | 2024-10-01 |  |
 | [Let It Snow](https://open.spotify.com/track/5fPCSBZG92XJUO6zKO9HZm) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Let It Snow](https://open.spotify.com/album/6V0uJJo3OteLEvvsx9ZWhA) | 2:26 | 2022-11-11 | 2023-09-14 |
 | [Little Drummer Boy](https://open.spotify.com/track/2rDERDzsgo0uw7n3oNXRE3) | [C\. Moreira](https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02) | [Little Drummer Boy](https://open.spotify.com/album/5Jxcb6JzPcxlHedDluLm23) | 3:05 | 2024-10-01 |  |
@@ -141,6 +141,7 @@
 | [The Christmas Song](https://open.spotify.com/track/1zmP3a454QKW9nIYuRAvDp) | [Leif Skoog](https://open.spotify.com/artist/1lwfwnXehk28VHeVJ5BtQG) | [The Christmas Song](https://open.spotify.com/album/7Fp4g5ty24nL3bKszUVdGm) | 3:37 | 2024-11-26 |  |
 | [The Christmas Song](https://open.spotify.com/track/1bhNFAJ9oV7IR9cftCbQD8) | [Steve Erquiaga](https://open.spotify.com/artist/21og01vigGgPGi1EPjcSON) | [The Essential Winter's Solstice](https://open.spotify.com/album/6Fo4dwa90VBEazdDqkecIt) | 3:04 | 2021-12-22 |  |
 | [The First Noel](https://open.spotify.com/track/2ijFTJ7XHAbD9sgcVfPy5w) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [The First Noel](https://open.spotify.com/album/66Q3ybskRWvQHk1BMNfsM6) | 1:55 | 2021-12-22 | 2025-09-03 |
+| [The First Noel \(Arr\. for Guitar by Gerard Cousins\) \[Bedtime Guitar Version\]](https://open.spotify.com/track/7brubAmLoPnMe5OHcxdCv0) | [William Sandys](https://open.spotify.com/artist/2OTHUt04L2FYG3yoZAQ9sj), [Gerard Cousins](https://open.spotify.com/artist/3WKXj3RFryJ1fOr8jrj58V) | [The First Noel \(Arr\. for Guitar by Gerard Cousins\) \[Bedtime Guitar Version\]](https://open.spotify.com/album/1RP8VaYIYKjeuo4s9Nzz93) | 3:06 | 2025-12-19 |  |
 | [The Holly and the Ivy](https://open.spotify.com/track/2OrUtaBrxts1s6xPPdI3QV) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:53 | 2024-06-10 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/2xgdBf1HwP2frbKncjEszh) | [Edward Wright](https://open.spotify.com/artist/4RyILBSzO6HaIMayAo6M4W) | [Christmas\-Peaceful Christmas Guitar Solos](https://open.spotify.com/album/6lwSZRUhZiKI1uMkx5Ao96) | 2:59 | 2021-12-22 | 2023-10-20 |
 | [The Nutcracker Suite, Op\. 71a: II.f, Dance of the Reed Pipes \- Version for Solo Guitar by Roberto Zadra](https://open.spotify.com/track/3IRTUcwhY1OK8ocdD5jTJ4) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Laura Lootens](https://open.spotify.com/artist/7I0fSWXDh8esp66RqFS7g4) | [Tchaikovsky: Dance of the Reed Pipes \(from the Nutcracker Suite, Op\. 71a\) \[Version for Solo Guitar by Roberto Zadra\]](https://open.spotify.com/album/6OmNOnej04NBqrQpblQh8f) | 2:40 | 2025-12-05 |  |

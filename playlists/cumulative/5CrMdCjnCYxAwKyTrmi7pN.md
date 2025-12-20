@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5CrMdCjnCYxAwKyTrmi7pN.md) - cumulative - [plain](/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5CrMdCjnCYxAwKyTrmi7pN)
 
-### [Winter Vibes 2025 ](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
+### [Winter Vibes 2026](https://open.spotify.com/playlist/5CrMdCjnCYxAwKyTrmi7pN)
 
 > Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...
 

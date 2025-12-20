@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Diana Meril en portada\. 🌊✨
+> la nueva ola de artistas con Nash en portada\. 🌊✨
 
-806 songs - 1 day 17 hr 23 min
+809 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Cicatrices](https://open.spotify.com/track/47aJuPKFlwsBcTyECetM4S) | [Valeria Scolari](https://open.spotify.com/artist/1RE6hxyCRV22rq5Kr3xdGJ) | [Cicatrices](https://open.spotify.com/album/6OTYAR1Wc6i7NrdkwhIL84) | 3:14 | 2022-06-17 | 2022-07-14 |
 | [Cielo](https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:56 | 2024-12-04 | 2025-04-05 |
 | [cielo dorado](https://open.spotify.com/track/0ZkB37rQ8hYoSnDobrVyGo) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [cielo dorado](https://open.spotify.com/album/2gBXxUuHufZAhud4hD4wnX) | 2:57 | 2024-12-04 | 2025-05-17 |
+| [Cierra los Ojos](https://open.spotify.com/track/3oqYSm8Hwq5mGaHTVqaN7p) | [Duck Fizz](https://open.spotify.com/artist/6sk1tzWevukbzNTIDTlhzy) | [Un Idiota con el Corazón de Oro](https://open.spotify.com/album/0lwIiOL4dRzL9Cv0FLV4GA) | 4:08 | 2025-12-19 |  |
 | [Ciudad de México](https://open.spotify.com/track/23XJDQ3BhNMJZA3vl0PHNz) | [Eliangel](https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA) | [Ciudad de México](https://open.spotify.com/album/2vWgcOzbutlMEmBMKDGXF3) | 2:29 | 2025-05-02 | 2025-07-12 |
 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 | 2025-09-19 | 2025-11-29 |
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-25 | 2024-03-09 |
@@ -236,7 +237,7 @@
 | [el niño bueno](https://open.spotify.com/track/6WW6JomwQgE8GWNt4pF6vP) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [para ti: querida amiga](https://open.spotify.com/album/41Xi6hQy7ywcAEB4zTEhB6) | 2:17 | 2025-09-26 | 2025-11-08 |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 | 2024-12-05 |
 | [Elefante Rosado](https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Elefante Rosado](https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl) | 2:13 | 2022-02-18 | 2023-01-11 |
-| [Elijo Volar \(Otoño\)](https://open.spotify.com/track/0ATcMjaIw9zDemjRDZYsXW) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Jimi Boy](https://open.spotify.com/artist/2GbAhgjChhvp97LUEvT2G3) | [Elijo Volar \(Otoño\)](https://open.spotify.com/album/41VmvkTpZaZeSN8GhVlXrU) | 3:03 | 2025-10-24 |  |
+| [Elijo Volar \(Otoño\)](https://open.spotify.com/track/0ATcMjaIw9zDemjRDZYsXW) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Jimi Boy](https://open.spotify.com/artist/2GbAhgjChhvp97LUEvT2G3) | [Elijo Volar \(Otoño\)](https://open.spotify.com/album/41VmvkTpZaZeSN8GhVlXrU) | 3:03 | 2025-10-24 | 2025-12-20 |
 | [Ella](https://open.spotify.com/track/5JA1R6ex7F9ZpQNEB8tTGZ) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Ella](https://open.spotify.com/album/25Pah4zBOkhKHi50Z31FvJ) | 3:04 | 2025-11-14 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-12-04 | 2025-02-01 |
 | [ella es](https://open.spotify.com/track/4Z6qlqb112fVPqCAtZ8j2Z) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma), [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [ella es](https://open.spotify.com/album/0RDuV4WmFjVHvCqKMyZWeH) | 2:47 | 2025-06-20 | 2025-08-16 |
@@ -277,6 +278,7 @@
 | [feliz año nuevo](https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U) | [feliz año nuevo](https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG) | 2:43 | 2024-01-12 | 2024-12-05 |
 | [Femme Fatale](https://open.spotify.com/track/2HayaiNRgl2MymW2creYkH) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Femme Fatale](https://open.spotify.com/album/4pvV8p2UmmlM5vGZw3nA6r) | 2:42 | 2022-01-28 | 2022-06-25 |
 | [Femme Fatale](https://open.spotify.com/track/5ugMXDvnwqRDBGaYbHfIJb) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Femme Fatale](https://open.spotify.com/album/6wX6esnD9cfrG4WszpaE4r) | 2:42 | 2022-11-30 | 2023-01-11 |
+| [ferrari](https://open.spotify.com/track/3OCJ6pdAoGBnGLP7mRRVnz) | [bri!!o](https://open.spotify.com/artist/26htoE4F3CuVTp2MFG1sSN) | [ferrari](https://open.spotify.com/album/1YtfFPuIdXnLS0lUjwbGrI) | 2:42 | 2025-12-19 |  |
 | [flash y pose](https://open.spotify.com/track/0Pg1kpLvT0TxWWLsDERTpV) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [flash y pose](https://open.spotify.com/album/64D3u9SGPGXcG2nBOqCVg0) | 2:32 | 2025-03-14 | 2025-05-24 |
 | [Flojo](https://open.spotify.com/track/0YVD1FSxb3VD7bYcwe0HZI) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f) | [Flojo](https://open.spotify.com/album/5sbToNaAbz0qZZ2PeTZjvi) | 2:48 | 2025-05-02 | 2025-05-31 |
 | [Flores](https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:16 | 2022-10-31 | 2023-05-20 |
@@ -336,6 +338,7 @@
 | [KR1MIN4L](https://open.spotify.com/track/6d7soGB2HvAmherylJVWeG) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Armadura](https://open.spotify.com/album/1l2nFthdK9TqyVnniGywn4) | 2:17 | 2024-12-04 | 2025-05-03 |
 | [KYKY](https://open.spotify.com/track/0MZ1CFAEOBNXpbXDe4t4Pi) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [Joseph Taics](https://open.spotify.com/artist/3coDOUiaa2LyoNIBZ2HJUI) | [KYKY](https://open.spotify.com/album/3Zdd6yPvAyUYPVuRnoHgiv) | 3:33 | 2025-11-14 |  |
 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 | 2024-07-26 | 2024-12-05 |
+| [La Ayuda](https://open.spotify.com/track/6kT1BQi9VzESyufRLgg3RL) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3) | [La Ayuda](https://open.spotify.com/album/4gLErL5IchmuKP6He0Fefa) | 2:29 | 2025-12-19 |  |
 | [la calle](https://open.spotify.com/track/1Z46DKkcu0ZVpp5MQSSdi1) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 4:03 | 2024-12-04 | 2025-02-22 |
 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 | 2024-01-26 | 2024-11-30 |
 | [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-20 | 2025-09-13 |
@@ -500,7 +503,7 @@
 | [Noches](https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Noches](https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV) | 2:49 | 2023-07-28 | 2024-01-13 |
 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 | 2025-05-30 | 2025-08-16 |
 | [nomás tú](https://open.spotify.com/track/2QOWWawJs7RLfttH4BXPXa) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [nomás tú](https://open.spotify.com/album/638iojk5ANMxC2zlVcjd16) | 2:37 | 2022-03-23 | 2024-03-09 |
-| [normal](https://open.spotify.com/track/5Sl9DQqkVANHgljFrNGqbG) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [normal](https://open.spotify.com/album/6fz0R3nSpt8BfVbWC32Tlk) | 4:10 | 2025-10-24 |  |
+| [normal](https://open.spotify.com/track/5Sl9DQqkVANHgljFrNGqbG) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [normal](https://open.spotify.com/album/6fz0R3nSpt8BfVbWC32Tlk) | 4:10 | 2025-10-24 | 2025-12-20 |
 | [Nostalgia](https://open.spotify.com/track/0A91vGTQe1bwbm6QuL8x1B) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Nostalgia](https://open.spotify.com/album/7x4Hba5M5kjsR67wCdtWnB) | 5:22 | 2022-07-01 | 2022-08-06 |
 | [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 | 2025-02-21 | 2025-04-05 |
 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 | 2022-10-14 | 2023-05-20 |
@@ -605,7 +608,7 @@
 | [REPROGRAMAR](https://open.spotify.com/track/2dvxBDC0XVxQDk584mjn0s) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL.3](https://open.spotify.com/album/3l2saSDzvDxeviPVDMNnzY) | 2:34 | 2023-01-27 | 2023-03-02 |
 | [Respira](https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Respira](https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW) | 3:30 | 2021-12-10 | 2023-01-11 |
 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 | 2022-06-24 | 2023-01-14 |
-| [Rewind](https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Rewind](https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38) | 2:26 | 2025-09-26 |  |
+| [Rewind](https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Rewind](https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38) | 2:26 | 2025-09-26 | 2025-12-20 |
 | [RIKISIMA](https://open.spotify.com/track/3qhwPyhikkOHeTb41RWgm1) | [Julia Amoroso](https://open.spotify.com/artist/6chzluS9BC5JE8m6DWSUzF) | [RIKISIMA](https://open.spotify.com/album/70dM2LSWSAdaeK0W6GVaUQ) | 2:31 | 2025-07-25 | 2025-10-04 |
 | [rimel](https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [rimel](https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA) | 2:06 | 2024-04-12 | 2024-12-05 |
 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 | 2023-07-21 | 2024-04-27 |

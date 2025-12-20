@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Le Scimmie, Vale Lambo e Lele Blade, in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,258 likes - 74 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,253 likes - 74 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 22 | [ZE PEQUENO](https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ) | [SCUGNIZZI X SEMPRE](https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM) | 2:01 |
 | 23 | [Mattone](https://open.spotify.com/track/2RIrF5dbTNoR1ydLhtIuY2) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [Mattone](https://open.spotify.com/album/1t2RqSEAiE3JGzffJOLKmg) | 2:29 |
 | 24 | [PEZZI DA NOVANTA \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza\)](https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:14 |
-| 25 | [2 FRAT](https://open.spotify.com/track/3lfoDvu8QOhGX5iTK8UKsR) | [Le Scimmie](https://open.spotify.com/artist/4ZWezIz4lP1tqeBaO9eoie), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [2 FRAT](https://open.spotify.com/album/3NtgFylmX1QdICBE6QaIpB) | 3:16 |
+| 25 | [2 FRAT](https://open.spotify.com/track/3lfoDvu8QOhGX5iTK8UKsR) | [Le Scimmie](https://open.spotify.com/artist/4ZWezIz4lP1tqeBaO9eoie), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB) | [2 FRAT](https://open.spotify.com/album/3NtgFylmX1QdICBE6QaIpB) | 3:16 |
 | 26 | [BRUMOTTI](https://open.spotify.com/track/0A9r5sCaK9134x7wqeOrgX) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 2:25 |
 | 27 | [FLOW LACOSTE](https://open.spotify.com/track/2KPjsuO3olYhmtXs9doqnK) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [Tremezio](https://open.spotify.com/artist/02abHMifVy7w6c885Shskd) | [FLOW LACOSTE](https://open.spotify.com/album/3g90o8oZzDtb2xwr9N0jMZ) | 1:54 |
 | 28 | [TERRORIST](https://open.spotify.com/track/5REi9GidMTcisKNmXHUyAd) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [TERRORIST](https://open.spotify.com/album/0GtfXfhSj43kGiMrq0F16N) | 2:02 |

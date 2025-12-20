@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Can't Hold A Candle To",
+        "url": "https://open.spotify.com/album/58XxW10On4MrmgPyxARAyx"
+      },
+      "artists": [
+        {
+          "name": "Karli Lar Durden",
+          "url": "https://open.spotify.com/artist/7lQRgNE4OVcj5EB2lz00Bp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261493,
+      "name": "Can't Hold A Candle To",
+      "url": "https://open.spotify.com/track/6txJCnbb6w8y5zAqdWTW4M"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/5hI4ahapQh9Ee9R45vweYX"
       },

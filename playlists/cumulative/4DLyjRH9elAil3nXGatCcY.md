@@ -4,7 +4,7 @@
 
 > 
 
-520 songs - 1 day 10 hr 31 min
+521 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Surface](https://open.spotify.com/track/1BJl756YFdFTIvkBvZSA9Z) | [Ed Harrison](https://open.spotify.com/artist/4NyWqUzbs6gmlo1GlIoq1O) | [Neotokyo](https://open.spotify.com/album/6gNyXr6nNjX0JVQd5VCUM6) | 3:59 | 2025-10-15 |  |
 | [Swandive](https://open.spotify.com/track/7cGefIBo5jltiRxbb2k03g) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Swandive](https://open.spotify.com/album/0FDhedkQAxzUDS3ZSgOyjj) | 6:31 | 2021-03-02 |  |
 | [Swoon](https://open.spotify.com/track/2drOnGxH4NvagDjre7GXCd) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb) | 6:05 | 2025-10-15 |  |
+| [Sympathy](https://open.spotify.com/track/2lGKEYXwu1alvxAhJvpBAX) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ), [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [Before I Go](https://open.spotify.com/album/366XvcUJsBFppuOhYRvsLW) | 2:59 | 2025-12-20 |  |
 | [Synergy](https://open.spotify.com/track/2ZWecH3XQmt3znKe6xJVS3) | [lapix](https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC) | [Frequency Blitz 5](https://open.spotify.com/album/2q1oGSWfuCPh8IfXjEjApU) | 4:34 | 2020-03-11 |  |
 | [Synthetes](https://open.spotify.com/track/3vzSl4spQjyd7sIqmbUz8q) | [Mr Beatnick](https://open.spotify.com/artist/3znZaFxK0ZZXSSrmBqmMIV) | [Synthetes](https://open.spotify.com/album/0tlC9FlrKvdeUHoKk9tAwU) | 4:46 | 2025-10-15 |  |
 | [Taiko](https://open.spotify.com/track/4CzFgEZcZDlXTvksZq7cyO) | [Uyama Hiroto](https://open.spotify.com/artist/6AE5XsUcbWE2XrQccVVJyd) | [freeform jazz](https://open.spotify.com/album/63rOAHUgHI5icGDrt0PAWe) | 4:01 | 2025-10-15 |  |

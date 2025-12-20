@@ -4,7 +4,7 @@
 
 > Rvfv & Cano, Omar Courtz,  Beéle & Elvis Crespo, Arcángel y más novedades de la semana.
 
-4,144 songs - 8 day 19 hr 36 min
+4,145 songs - 8 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2299,7 +2299,7 @@
 | [Mi diario](https://open.spotify.com/track/1MLjW7uYnc3xE5NLoFEHNs) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Mi diario](https://open.spotify.com/album/3e4dsbu3Ft2gndDqqHPRnN) | 3:31 | 2025-11-13 | 2025-11-21 |
 | [Mi Diely](https://open.spotify.com/track/0csWdJvPunATyF3jeaI6a4) | [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG) | [Mi Diely](https://open.spotify.com/album/7x8a7lxJlNNpChPW4z3439) | 3:11 | 2025-02-13 | 2025-02-21 |
 | [Mi Dignidad](https://open.spotify.com/track/2sjCP0IoXxfG2oTcNLkoOd) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Mi Dignidad](https://open.spotify.com/album/2cQ7PHJLLrwwx0Qcx1uG1x) | 3:24 | 2025-03-20 | 2025-03-28 |
-| [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:42 | 2025-12-18 |  |
+| [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:44 | 2025-12-18 |  |
 | [Mi día preferido](https://open.spotify.com/track/2rsLMD3pXqaYUiAaSsrZoJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:27 | 2025-08-21 | 2025-08-29 |
 | [MI FLAQUITA \- Banda Sonora Original Maleficio: La Regla de Osha](https://open.spotify.com/track/34l7JYTHfwKUXftad1rV8U) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [MI FLAQUITA \(Banda Sonora Original Maleficio: La Regla de Osha\)](https://open.spotify.com/album/16hXyq7580Ts5jdbMObSFA) | 3:04 | 2025-09-05 | 2025-09-13 |
 | [Mi Fortuna](https://open.spotify.com/track/6Z6SZeBkGP0qmJdq4RvvUY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Mi Fortuna](https://open.spotify.com/album/1H82HION3y20FuBl1ySqcq) | 2:37 | 2025-12-04 | 2025-12-12 |
@@ -2429,6 +2429,7 @@
 | [muy buena suerte!](https://open.spotify.com/track/3svm7a4nFjzomdx3LPdUpI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [muy buena suerte!](https://open.spotify.com/album/57CGytyS2RkWvv18uxlLnI) | 3:16 | 2025-11-27 | 2025-12-05 |
 | [Muérdeme](https://open.spotify.com/track/5SJMH51Pe5MaWJ3Opyw3rn) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Muérdeme](https://open.spotify.com/album/0d32acZTQZfkiK0249EndC) | 3:51 | 2025-09-25 | 2025-10-03 |
 | [Muérdeme](https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Muérdeme](https://open.spotify.com/album/7K2XAZBsgSATKy4F3zCFRt) | 3:04 | 2025-12-04 | 2025-12-12 |
+| [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 | 2025-12-18 |  |
 | [MUÑECA DE URBA](https://open.spotify.com/track/3BYsz5bUXe92mkIZ7XEOpN) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 3:02 | 2025-08-07 | 2025-08-15 |
 | [Muñeca Rota](https://open.spotify.com/track/2B6s6heEizLA4DC0IRzEDn) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Muñeca Rota](https://open.spotify.com/album/09Z24XzMwqL3xjg3ngXJXs) | 3:17 | 2024-11-21 | 2024-11-29 |
 | [MUÑECOTA](https://open.spotify.com/track/0TQAhtR3faikBDjzFyis4f) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MUÑECOTA](https://open.spotify.com/album/4anQADYMI44HzlZM98d7r2) | 2:55 | 2025-07-24 | 2025-08-01 |

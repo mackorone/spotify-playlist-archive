@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,420 likes - 80 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,477 likes - 80 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [No Daré a Otros Mis Amores \(En Vivo\)](https://open.spotify.com/track/2ren3VgBI1cPqdCkqe55M0) | [Wladimir Aranda](https://open.spotify.com/artist/2uBz9aZB0G3DejMlreC8J4), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [No Daré a Otros Mis Amores \(En Vivo\)](https://open.spotify.com/album/28KDDujxlIOLDE0dRv1kPz) | 9:38 |
 | 80 | [Mi Rey Siempre Serás](https://open.spotify.com/track/0dGwd2FdpxJ7VC45WW7VNf) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Mi Rey Siempre Serás](https://open.spotify.com/album/6lPMJC8PrwcLPbg08MHe8l) | 4:13 |
 
-Snapshot ID: `AAAAAK1oz8JISM6pjTF2IVUOGJfa3x+w`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Midnight Rain Over the Peaks",
+        "url": "https://open.spotify.com/album/5Mw46UZwoyFdq4rcofBMoO"
+      },
+      "artists": [
+        {
+          "name": "Verdelume",
+          "url": "https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Midnight Rain Over the Peaks",
+      "url": "https://open.spotify.com/track/2ys6kZL6YMIqEwTem1tIQj"
+    },
+    {
+      "album": {
         "name": "Midnight Storm",
         "url": "https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH"
       },
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-20",
       "duration_ms": 360000,
       "name": "Rain Sounds for Sleeping, Pt. 08 (Continuous No Gaps)",
       "url": "https://open.spotify.com/track/5nExIx1tJJ1xYM5GfGwlGg"

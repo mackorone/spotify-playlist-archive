@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: Nafe Smallz
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 47 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,156 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dark Skin Girl](https://open.spotify.com/track/1EMhBmEv65xyBIIB6Cfrgi) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Dark Skin Girl](https://open.spotify.com/album/4Y7skuU0oFJNg870UIMLrW) | 2:24 |
-| 2 | [Legends Don't Die](https://open.spotify.com/track/5dpV6pxZa9fKr4SPsnO10o) | [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Legends Don't Die](https://open.spotify.com/album/6SBrDo2uMJD2i7OBOvSmZ6) | 3:49 |
+| 1 | [SAVE ME](https://open.spotify.com/track/5xmxThQHMqYRItILkCiHIP) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [SAVE ME](https://open.spotify.com/album/6itPCD7uqpW0SNhwFO9UJD) | 2:49 |
+| 2 | [Dark Skin Girl](https://open.spotify.com/track/1EMhBmEv65xyBIIB6Cfrgi) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Dark Skin Girl](https://open.spotify.com/album/4Y7skuU0oFJNg870UIMLrW) | 2:24 |
 | 3 | [Circles](https://open.spotify.com/track/3w1ZQE2mVWLbJtOuYCbhJc) | [STEVIE.](https://open.spotify.com/artist/2SM8najql91sR1sjsIAlW2), [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [Circles / Intruder](https://open.spotify.com/album/10wD7KWqdUhc43rkK7wBIR) | 2:45 |
 | 4 | [Penny Up](https://open.spotify.com/track/0s57hh6VeOcVsO7R9Q9n7v) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Penny Up](https://open.spotify.com/album/6WxIrab8jGvccd7Kz6URFK) | 3:05 |
 | 5 | [Lying To Me](https://open.spotify.com/track/1XIeDPJ4Bxt9UckwCUmbpr) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl) | [Lying To Me](https://open.spotify.com/album/6IetHvnHn9gxdwuw6A9JIl) | 2:37 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 8 | [Daily Duppy](https://open.spotify.com/track/5AIVDb3j3VmcwuPPNd4A8M) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Daily Duppy](https://open.spotify.com/album/0rZLiOiE4JIWUiIyvFmtPe) | 4:16 |
 | 9 | [Down](https://open.spotify.com/track/29ICJGKOCsxqhw0nmEu5m2) | [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0) | [Down](https://open.spotify.com/album/2jH0Z7D3mW0HQLafDTaEwf) | 2:25 |
 | 10 | [Day n Nite](https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Day n Nite](https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J) | 2:22 |
-| 11 | [Track 5](https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2) | [QuincyTellEm](https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [LEAN BACK](https://open.spotify.com/track/1iq9MflxNbIdVdo0d6Q6R2) | [QuincyTellEm](https://open.spotify.com/artist/1rgOCytQ8268VcEGbZVWKP), [Treez0](https://open.spotify.com/artist/7LAkS5AlVlBew1H68qfRq2), [Groundworks](https://open.spotify.com/artist/56CfSlwdtBBEfzMuIDMhUc) | [TRAP EXHIBITION](https://open.spotify.com/album/4jhfR41qk6dNrJuNjQFplD) | 2:41 |
 | 12 | [Colder Than Most](https://open.spotify.com/track/7BIaB1LRFMk4XQnhrFFXCG) | [Aanya Martin](https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY) | [Colder Than Most](https://open.spotify.com/album/7ngAqkSvOTRJNDGpZsmhSb) | 2:42 |
 | 13 | [Michael Olise](https://open.spotify.com/track/21PyKSglCbjBApRt0s6Q4G) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp), [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [Michael Olise](https://open.spotify.com/album/6pgvtJgsRSNsoEc0I4Fyoi) | 2:41 |
 | 14 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 |
@@ -55,5 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 45 | [Nonchalant](https://open.spotify.com/track/4usbXc7kKixh1pN7qrnzZd) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Horrid1](https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ) | [Nonchalant](https://open.spotify.com/album/2cviWMLKGdqmjXNtq1ESdZ) | 2:31 |
 | 46 | [Cana](https://open.spotify.com/track/7A07lS4vDCUUvuHzorS1ZW) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Duplicity](https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq) | 2:39 |
 | 47 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL) | 3:39 |
+| 48 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 
-Snapshot ID: `AAAAAGQ/xbsVEB98lWBhL+4IIu68byIQ`
+Snapshot ID: `AAAAAOFMoxDvyqd0QV21pNw3SIzwRJCG`

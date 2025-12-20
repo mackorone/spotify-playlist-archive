@@ -4,16 +4,17 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,566 likes - 7 songs - 27 min 42 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,566 likes - 8 songs - 25 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Baddies \- Slammed Mix](https://open.spotify.com/track/0VeIaX0aVJv6HWRMROZtn1) | [B\-complex](https://open.spotify.com/artist/46oL0QioEQMSSvkxxifCok), [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP), [MP](https://open.spotify.com/artist/5VhuN75QUKv9sBWbltRqQV) | [Baddies](https://open.spotify.com/album/7tsoJKffQinqMumsDz0EEj) | 4:06 |
-| 2 | [En Stjerne Skinner I Natt](https://open.spotify.com/track/2MCNneSDdmZGQGYJl8VkMd) | [Thosebricks](https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj) | [Jul Med Thosebricks](https://open.spotify.com/album/2IgStT4vJrt5NLZvgBj22A) | 2:52 |
-| 3 | [Glansdagar](https://open.spotify.com/track/7pGgwDqb2lW3OlqE1obaIH) | [Dan, Julian & Frank](https://open.spotify.com/artist/5AjQHyfAq94mUgu3s1jfja) | [Glansdagar](https://open.spotify.com/album/1zI3OMzdyH911Rd3AqrUk0) | 3:43 |
-| 4 | [Kaikki Loistaa Hetken](https://open.spotify.com/track/5IRQaL8GuKiiwgcdWdrXtQ) | [Nenä Inc.](https://open.spotify.com/artist/6Lhk2MZE8niAICw9SGiG9I), [Jykä](https://open.spotify.com/artist/3KCZCNTxLogWkv89u8BtoS) | [Kaikki Loistaa Hetken](https://open.spotify.com/album/7cXDMdMvp4csHzjQpASo1M) | 3:08 |
-| 5 | [Torreznos \- 2025 Remaster](https://open.spotify.com/track/4zYIHipamv81Ey9Y2MHnlg) | [Pladür](https://open.spotify.com/artist/1iVenylfhTbxWr9Qj60RrD) | [Ensayos, fallos y..\. desmayos \(2025 Remaster\)](https://open.spotify.com/album/1DHhNUyFqN7Y5eS2FsA3IY) | 2:52 |
-| 6 | [Complicated Hand](https://open.spotify.com/track/5bwebfOSyUzX5AWtUwUkfr) | [Forgotten King](https://open.spotify.com/artist/0UZMZR6ZxchlP4Ba6Bvkzk) | [Complicated Hand](https://open.spotify.com/album/5AsDg0Xw3a0FKkJOZY4xVp) | 7:33 |
-| 7 | [As Long as I Breathe](https://open.spotify.com/track/7H4JTyqOPZmXgipDw97b0E) | [WISP.](https://open.spotify.com/artist/1PJGi72nAhzNmESDrqLq6F) | [As Long as I Breathe](https://open.spotify.com/album/1ZJ9YM0h1HDIRjhE9vfvoX) | 3:24 |
+| 1 | [GRAPEKEEPER](https://open.spotify.com/track/4eKlFmLISDHmvvStWXirpe) | [Enter The Animus](https://open.spotify.com/artist/6eK3Q6dKMsZdt2rPs6V0o4), [Berried Alive](https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e), [Noah Crenshaw](https://open.spotify.com/artist/4cNADx5YLcOfJl6cb5Ocxl), [wimble](https://open.spotify.com/artist/3mLLPTOQIAxD8Hjd3ER9HW) | [GRAPEKEEPER](https://open.spotify.com/album/3e5AYDUWrxgztEFGESqVrY) | 2:58 |
+| 2 | [BURN](https://open.spotify.com/track/3Zh6XQFvvK4tNPZkFi5X6V) | [Dracinda](https://open.spotify.com/artist/2E22V5h9X6XRXbPfLYh20b) | [BURN](https://open.spotify.com/album/6de3vYbDna8pyJ5mtZdYtd) | 2:38 |
+| 3 | [Guardian Angel](https://open.spotify.com/track/3Tf5yZRIfCtyBuen2ySxPo) | [Person of Interest](https://open.spotify.com/artist/4JAu4KquLJdUnMBWUOqN7N) | [The Double Album Side 4](https://open.spotify.com/album/5rX9FGipvLjskzBscl23WS) | 3:52 |
+| 4 | [Labussa](https://open.spotify.com/track/0fbSyZcTVTOECWMrnGOMXU) | [JK](https://open.spotify.com/artist/2VqkHHnKdluoRzw5OcD6Oq) | [Labussa](https://open.spotify.com/album/0ZjZj89QWEcyWDkt3LBiBF) | 3:56 |
+| 5 | [Perfect Combination](https://open.spotify.com/track/0DeZ2FmKWcKD9TdYQkwSWA) | [The Jolly Company](https://open.spotify.com/artist/5HWg5rOfAFMiFSfENTgHNQ), [Göran Edman](https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa) | [Perfect Combination](https://open.spotify.com/album/0sROl07f8hWQ2yOslCuIE1) | 3:21 |
+| 6 | [Allting dör](https://open.spotify.com/track/7yHKJ4CRX7gl59gTLJom20) | [Anders Barsk](https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO) | [Allting dör](https://open.spotify.com/album/6DDFxqkaDoYmG7RN32vPgs) | 3:11 |
+| 7 | [Built Different](https://open.spotify.com/track/0Ucrh6gcSwUDs3cFeDLxuC) | [Freddyrobb baby](https://open.spotify.com/artist/2Wwq5ojGeu2csuAMhRigDw) | [Built Different](https://open.spotify.com/album/7bRziBAFMGf9Dspd1QUGRq) | 2:00 |
+| 8 | [Champagne Promises](https://open.spotify.com/track/5EINzjnw2gNBbBuEHD0av7) | [Neon Cherry Riot](https://open.spotify.com/artist/76bS65hCAzwZpmwVRsc7li) | [RIOT ACT](https://open.spotify.com/album/6943XEC9hJsnKEJWsF6fBK) | 3:24 |
 
-Snapshot ID: `AAAEbNKOvWE2t6dVN2LpgvKgfERR+N4T`
+Snapshot ID: `AAAEbhcz4ieToX/vl8XFU2JrwXKNINo+`
