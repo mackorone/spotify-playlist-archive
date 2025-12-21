@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,145 songs - 3 day 11 hr 32 min
+1,146 songs - 3 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@
 | [Invaluable Waste from the Outlying Districts, Pt\. 04](https://open.spotify.com/track/0SpAYfKBDclNahOhi33FBN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [A Thought of Ecstasy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22uj2KrXiwMoLGSMlnPcLz) | 4:27 | 2019-06-19\* | 2020-10-21 |
 | [invisible cities](https://open.spotify.com/track/1sahphClzfyrq8C3sdgPzR) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9) | [a pool, a portal](https://open.spotify.com/album/4u4RJlUhvlenhfRpcmAXkQ) | 4:48 | 2025-01-18 | 2025-05-28 |
 | [Isolate](https://open.spotify.com/track/7duCz5DC1bQyaViBGZcDjs) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Waves & Whirlwinds](https://open.spotify.com/album/0InAq8EFs2jvhFfEX0dPih) | 3:26 | 2019-06-19\* | 2022-04-21 |
-| [Isopolis](https://open.spotify.com/track/6J9gYOk0Go8OIMDc8gLOur) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Isopolis](https://open.spotify.com/album/4J6j73B5Kcb3FK6MSsKu92) | 3:49 | 2021-03-15 |  |
+| [Isopolis](https://open.spotify.com/track/6J9gYOk0Go8OIMDc8gLOur) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Isopolis](https://open.spotify.com/album/4J6j73B5Kcb3FK6MSsKu92) | 3:49 | 2021-03-15 | 2025-12-21 |
 | [It Fades Away](https://open.spotify.com/track/4mr0X52T5dX5wtDgKcYx3h) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [It Fades Away](https://open.spotify.com/album/5cgWQN3hEVXfkyFAUGNFNa) | 4:55 | 2019-06-19\* | 2020-10-22 |
 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 | 2024-06-28 |
 | [Its Been Real](https://open.spotify.com/track/6I8SEy5W6gcBY5vzF8Fk4y) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Feels](https://open.spotify.com/album/3JJooKCUYSStZMieqXok6U) | 4:48 | 2019-05-26\* | 2020-08-26 |
@@ -587,6 +587,7 @@
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |
 | [Lucid Dream \- Original Mix](https://open.spotify.com/track/3T4iVA2ozQMew8uRjQBPHc) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [Lucid Dream](https://open.spotify.com/album/7GMbLoHGfaCGSQV8m2g8my) | 7:33 | 2019-06-21 | 2020-10-22 |
+| [Luminescent](https://open.spotify.com/track/05Y1Aze2Yj9Vp5Og1wic3Z) | [Rod Modell](https://open.spotify.com/artist/6ZX4eVTPQBJ7q0cIShOmKD) | [Kettle Point](https://open.spotify.com/album/54DISapbGDCL9c01qJKE5k) | 7:59 | 2025-12-18 |  |
 | [Luminous Beings](https://open.spotify.com/track/3Ha9TeaqCdcS6cqKmFGCO3) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Singularity](https://open.spotify.com/album/1nvzBC1M3dlCMIxfUCBhlO) | 11:51 | 2019-06-19\* | 2023-12-07 |
 | [Lunar](https://open.spotify.com/track/4u5073p9qQ3EdBUuh7Qp05) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Lunar](https://open.spotify.com/album/2nLR051PemM1cp2jr2U1Db) | 3:14 | 2023-10-27 |  |
 | [Machine Keys](https://open.spotify.com/track/7L96oyotFbLOxKAfywRczR) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 3:32 | 2019-06-22 | 2025-11-23 |

@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 30 | [Simulation](https://open.spotify.com/track/5qmofSYIqQIDfm09Q8gwal) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 3:01 |
 | 31 | [EVERYTHING](https://open.spotify.com/track/0e5VVBA3Y3w0uCiHoWgXNQ) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [Pretty In Black \(Deluxe\)](https://open.spotify.com/album/0mYQnhiqwscLVlk0LgVia1) | 1:45 |
 | 32 | [100YD Dash \(Madden 20 Original Soundtrack\)](https://open.spotify.com/track/3udJ09ioWBam8g9AlfUpvY) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [100YD Dash \(Madden 20 Original Soundtrack\)](https://open.spotify.com/album/4UyKbjtQ4cn8UOUHNlLWPR) | 2:42 |
-| 33 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 |
-| 34 | [FAMOUS.](https://open.spotify.com/track/21prC6Di5O8rqycidi5IDv) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:00 |
+| 33 | [FAMOUS.](https://open.spotify.com/track/21prC6Di5O8rqycidi5IDv) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:00 |
+| 34 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 |
 | 35 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/09aO4VPeWw46qecXpHXEV5) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/5NATm6ps7E8oOSmroG4eFv) | 3:04 |
 | 36 | [GO SHORTY](https://open.spotify.com/track/4zX3kNYoVwmU1dkkg5zvNt) | [SWAVAY](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:53 |
 | 37 | [Nada](https://open.spotify.com/track/3CVEQzKtULatPcRoCUMDvU) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:17 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 108 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 109 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `AcErJgAAAAAozLvZUkQLiYGYZZ2zWfrg`
+Snapshot ID: `AcEwxgAAAABrSSCEHrbXtWJiIzI2zCUM`

@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 212011,
+  "num_followers": 212002,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFWWBAOZA7pzcYRRJAcDit69X7x",
+  "snapshot_id": "AAAAAMwpcoTaot9FvPrPigVeQzGMoThG",
   "tracks": [
     {
       "added_at": "2025-12-11 23:00:17",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-12-11 23:00:17",
       "album": {
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
+    },
+    {
+      "added_at": "2025-12-11 23:00:17",
+      "album": {
         "name": "Gettin' Away With It",
         "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 193133,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
-    },
-    {
-      "added_at": "2025-12-11 23:00:17",
-      "album": {
-        "name": "Ordner seg",
-        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
-      },
-      "artists": [
-        {
-          "name": "3D",
-          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
-        }
-      ],
-      "duration_ms": 175181,
-      "name": "Ordner seg",
-      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
     },
     {
       "added_at": "2025-12-11 23:00:17",
@@ -595,18 +595,18 @@
     {
       "added_at": "2025-12-11 23:00:17",
       "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+        "name": "Ordner seg",
+        "url": "https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu"
       },
       "artists": [
         {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
         }
       ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
+      "duration_ms": 175181,
+      "name": "Ordner seg",
+      "url": "https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6"
     },
     {
       "added_at": "2025-12-11 23:00:17",
@@ -631,22 +631,18 @@
     {
       "added_at": "2025-12-11 23:00:17",
       "album": {
-        "name": "Sklir forbi",
-        "url": "https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB"
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
         }
       ],
-      "duration_ms": 184324,
-      "name": "Sklir forbi",
-      "url": "https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C"
+      "duration_ms": 151800,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
     },
     {
       "added_at": "2025-12-11 23:00:17",
@@ -667,18 +663,22 @@
     {
       "added_at": "2025-12-11 23:00:17",
       "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
+        "name": "Sklir forbi",
+        "url": "https://open.spotify.com/album/2mzmtYNrOKPl14rf1ufBIB"
       },
       "artists": [
         {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
         }
       ],
-      "duration_ms": 151800,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
+      "duration_ms": 184324,
+      "name": "Sklir forbi",
+      "url": "https://open.spotify.com/track/0oIzMn02dSwybQMobQMp6C"
     },
     {
       "added_at": "2025-12-11 23:00:17",

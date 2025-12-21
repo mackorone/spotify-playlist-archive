@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,811 likes - 60 songs - 3 hr 10 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,822 likes - 61 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 44 | [Second Guessing](https://open.spotify.com/track/0vnUYIci7W2JoTY5rYRe6w) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Second Guessing](https://open.spotify.com/album/5V4RJbimCinH8EzkcTgggH) | 2:45 |
 | 45 | [Ecstasy \(Take Your Shirts Off\) \- DJ Licious Remix](https://open.spotify.com/track/3qKz4gYsU8aOJXld0SPawR) | [Johnny Vicious](https://open.spotify.com/artist/0ElFqgRJ2ntCvvdWNyXUBh), [Lula](https://open.spotify.com/artist/6LRf0MemUNpINQO47Fhe7W), [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH) | [Ecstasy \(Take Your Shirts Off\) \(DJ Licious Remix\)](https://open.spotify.com/album/1FwIX5kmJMChTv4y18ukPa) | 2:29 |
 | 46 | [Freaks](https://open.spotify.com/track/4Dny38Rxq5EdaBju4FdJwH) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Freaks](https://open.spotify.com/album/5Mv2BPZz63phB2yyQkVlLi) | 3:04 |
-| 47 | [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 |
+| 47 | [The Way I Are \- Max Dean Remix \- Extended](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix \- Extended\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 |
 | 48 | [Buster Speaker](https://open.spotify.com/track/0sPFIFlnK5xAi86IOmlx35) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn) | [Speaker Buster EP](https://open.spotify.com/album/7LV63BuUYqmiJ4FHYnu50x) | 4:35 |
 | 49 | [Rewind \- Original Mix](https://open.spotify.com/track/3PhjqeOv72Po0uWy3OuvOg) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Closer](https://open.spotify.com/album/4q8NS6HeARF1lUHjMNmdK3) | 2:59 |
 | 50 | [Little Kitty](https://open.spotify.com/track/0QB2O3SvRuEU0MXyLE4osd) | [OMRI.](https://open.spotify.com/artist/36jn1T9teX1BHEJYcPoazX), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Little Kitty](https://open.spotify.com/album/0cSb96vLKmP2zmYa6C3b3V) | 3:47 |
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 58 | [Take Your Places](https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Take Your Places](https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk) | 3:57 |
 | 59 | [Lift Me Up](https://open.spotify.com/track/0b7PbH7jnPDx9cZ77nc6Fe) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:34 |
 | 60 | [Cupcake](https://open.spotify.com/track/6IF1HVAlCQkIEOVsVe0Hmi) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz), [Joey London Style](https://open.spotify.com/artist/64GSxyOhYgXzaQs30QFi9i) | [Cupcake](https://open.spotify.com/album/0GAmE1A4pOD0nhLHEs3I0q) | 2:53 |
+| 61 | [Something About You](https://open.spotify.com/track/2SbylI8B8hGqdnPV8pXEkD) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [House FC](https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0) | 4:58 |
 
-Snapshot ID: `AAAndOhJA1hKeD66PMIHzQhtR6WZgAjw`
+Snapshot ID: `AAAndbFuLmRJp9p55xHLw0aPbS9B1RPX`

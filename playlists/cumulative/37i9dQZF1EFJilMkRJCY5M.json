@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "do over",
+        "url": "https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G"
+      },
+      "artists": [
+        {
+          "name": "Homegrown Trio",
+          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "do over",
+      "url": "https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6"
+    },
+    {
+      "album": {
         "name": "Down the Road",
         "url": "https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn"
       },
@@ -2268,6 +2286,24 @@
       "duration_ms": 186659,
       "name": "Old Love New",
       "url": "https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl"
+    },
+    {
+      "album": {
+        "name": "Abby Anderson\u2019s Merry Merry-achi Christmas",
+        "url": "https://open.spotify.com/album/0CxUcChvyRCwVlaabL3wPO"
+      },
+      "artists": [
+        {
+          "name": "Abby Anderson",
+          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180887,
+      "name": "One Christmas",
+      "url": "https://open.spotify.com/track/2GOH0jfQmq1lodavdkPeXi"
     },
     {
       "album": {

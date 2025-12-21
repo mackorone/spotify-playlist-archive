@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 83981,
+  "num_followers": 83994,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACF1O+LDoiCLrvyQ1RR+8dV",
+  "snapshot_id": "aUSVgAAAAADQ1VBXeSBFiQxQ+oaHjvxh",
   "tracks": [
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 141720,
-      "name": "Flat Earth Society",
-      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
+      "duration_ms": 123666,
+      "name": "Come Join Us",
+      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gray Race",
-        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 123666,
-      "name": "Come Join Us",
-      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
+      "duration_ms": 141720,
+      "name": "Flat Earth Society",
+      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
-        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95875,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 164489,
       "name": "What Can You Do?",
       "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95875,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Taylor Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,428 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,443 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 66 | [In the middle](https://open.spotify.com/track/2wVUvuhjTEBX1UHS15GNJS) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [In the middle](https://open.spotify.com/album/1vsuqdkQj3U6avr1aeqEHL) | 2:49 |
 | 67 | [Safe](https://open.spotify.com/track/2HYq0OR8xQZL6vAsHQ9tL0) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Safe](https://open.spotify.com/album/0c0LgprqXT2ekDAEzHUS3P) | 2:21 |
 | 68 | [The Mercy Room](https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Mercy Room](https://open.spotify.com/album/1Beku06tr0tlr8ScsF8CsG) | 3:42 |
-| 69 | [Everything](https://open.spotify.com/track/4fpTJoUZwwt16CuKPahUsK) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Everything](https://open.spotify.com/album/0rW9TIMpD9p9bo86ktsXh7) | 2:49 |
+| 69 | [everything](https://open.spotify.com/track/4fpTJoUZwwt16CuKPahUsK) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [everything](https://open.spotify.com/album/0rW9TIMpD9p9bo86ktsXh7) | 2:49 |
 | 70 | [Jumping Fences \- GREGATRON Remix](https://open.spotify.com/track/7F3OGOKsNgjfy6Oa7YSLol) | [Kim Viera](https://open.spotify.com/artist/4cmSUhjO83qNmK2AvxKQ41), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX) | [Jumping Fences \(GREGATRON Remix\)](https://open.spotify.com/album/3xohme0JhBOoJ9Q4nVrQvC) | 2:41 |
 | 71 | [We Are Alive](https://open.spotify.com/track/1wPXJMxyf4WgApq94cVi3u) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [LEAD](https://open.spotify.com/album/2l5pRI3rtG0NVJfdGREyow) | 3:10 |
 | 72 | [\(re\)introduction](https://open.spotify.com/track/1eF80nckFSHyaRUhnJ593Z) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [\(re\)introduction](https://open.spotify.com/album/2kHAzFXXpEzyKLFs3RdbrI) | 3:29 |

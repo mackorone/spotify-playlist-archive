@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,443 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,451 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 2 | [Christmas All Over Again](https://open.spotify.com/track/30SNjazZhzunhAWCjhdyyD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:14 |
 | 3 | [Layaway Momma](https://open.spotify.com/track/52mQXs8ivWJ31OWWe17n4v) | [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj) | [Layaway Momma](https://open.spotify.com/album/7pvVSeTgNaPQOalWPBNfCr) | 2:59 |
 | 4 | [I'll Be Home for Christmas](https://open.spotify.com/track/4jbe59AoOM81GJQ8tT8IZy) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [I'll Be Home for Christmas](https://open.spotify.com/album/5bniqKvnu2j876NboUuw0Y) | 2:01 |
-| 5 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 |
+| 5 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
 | 6 | [December Song](https://open.spotify.com/track/6jmtD3wBCznMagjURJHVBx) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [December Song](https://open.spotify.com/album/4oepkwqAEiysj5ObhWFNUK) | 3:35 |
 | 7 | [When It Snows In Texas](https://open.spotify.com/track/5By307vqu6ZwxuLlkHpDRx) | [Chaparelle](https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [When It Snows In Texas](https://open.spotify.com/album/7A9urqXlw6unu8iR8aYaEe) | 2:46 |
 | 8 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/5Sl5pUXUNF3KqM8a3MG7ZO) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [OCMS XMAS](https://open.spotify.com/album/1r4kv5VvrBD8gN0C27vzKH) | 3:57 |
 | 9 | [Don't Go Leaving Me \(It's Christmas Eve\)](https://open.spotify.com/track/6mWR4jxmxFMTOxxN38mSnN) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 4:38 |
 | 10 | [Every Day Will Be Like A Holiday](https://open.spotify.com/track/7atdNxVyqvUr9rx9gopbEZ) | [The Band Loula](https://open.spotify.com/artist/3BkvqhICmG3IyD4z9xGu7i) | [Every Day Will Be Like A Holiday](https://open.spotify.com/album/5P8GsBhwdeR0BWF8E3ZzUL) | 3:20 |
 | 11 | [Run Run Rudolph](https://open.spotify.com/track/1peneheWnX3aKzzGrYxzMU) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR), [Zoe Cummins](https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh) | [Run Run Rudolph](https://open.spotify.com/album/0EqYc3ksSCvtYEAvDKL8XU) | 2:54 |
-| 12 | [Christmas Makes Me Cry](https://open.spotify.com/track/0pZjp6KTdWZVBIHGqfBaW7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [A Very Kacey Christmas](https://open.spotify.com/album/7sIB15nu0Rp1vR8wXnTx3a) | 2:50 |
+| 12 | [Santa Baby](https://open.spotify.com/track/7xvlox2hXKaiZAtgKo1G8H) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Baby It's Cold Outside](https://open.spotify.com/album/7scLrdjLUGo5VrGbbXXq8j) | 3:20 |
 | 13 | [The Light Of Christmas Day \- From "Love The Coopers" Soundtrack](https://open.spotify.com/track/1UwnjTHeagqBKTmFMe9CwF) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Light Of Christmas Day \(From "Love The Coopers" Soundtrack\)](https://open.spotify.com/album/3B9kzvGmlBGIe7OBKpo5xJ) | 3:26 |
 | 14 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
 | 15 | [We Three Kings](https://open.spotify.com/track/06jFpzCr6TfpIL4L0a5fmw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home For Christmas](https://open.spotify.com/album/1UB8y2zZGk6kxoDVY026zW) | 2:44 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 46 | [The Christmas Song](https://open.spotify.com/track/3g0qK0NS7owXH1rKDbhRl4) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Christmas Song](https://open.spotify.com/album/0hs1LUkCfcNvSMNmTEAgxw) | 3:51 |
 | 47 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
 | 48 | [Christmas in Prison](https://open.spotify.com/track/6HsawLUXxIwjPjkxgYFUwx) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Christmas in Prison](https://open.spotify.com/album/6nkGgQ0pw4m3houhqn17rG) | 3:32 |
-| 49 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
-| 50 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
+| 49 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
+| 50 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
 
 Snapshot ID: `AAAAAACYV2V0UdJb/Y8O+UDZ2KHH4TQH`

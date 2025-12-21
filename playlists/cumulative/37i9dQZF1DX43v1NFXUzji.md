@@ -4,7 +4,7 @@
 
 > Latin music bangers for your gaming session! LIT Killah on cover
 
-782 songs - 1 day 18 hr 59 min
+783 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Arsénicos](https://open.spotify.com/track/6dfA9PQS6vRElZLngNEQK7) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 4:58 | 2023-11-10 | 2023-11-18 |
 | [Asesina \- Original mix](https://open.spotify.com/track/6PniMs08lEakpuRp2nsMGv) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Barloe Team](https://open.spotify.com/artist/4okiIReqptfBJ5UULmWycZ) | [Asesina](https://open.spotify.com/album/0Xr2X0dAUZK8H0RXXRncm4) | 3:07 | 2021-12-16 | 2022-04-27 |
 | [Asesina \- Remix](https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Asesina \(Remix\)](https://open.spotify.com/album/3kszVyyPdSKYihlQkme1Vv) | 5:27 | 2021-12-16 | 2022-04-30 |
+| [ASHE ASHE](https://open.spotify.com/track/0RyDhL726SsIW5X9Jv6DwB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [ASHE ASHE](https://open.spotify.com/album/5jumlYxx4AjDMUSYuMsFOQ) | 2:01 | 2025-12-19 |  |
 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 | 2022-01-01 | 2022-04-26 |
 | [Avemaría](https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Avemaría](https://open.spotify.com/album/6GOqInT9DDFsX6yyvdyC6q) | 2:12 | 2022-10-07 | 2023-04-04 |
 | [AWITA](https://open.spotify.com/track/0fwsGVr7hWHqkmXlwis8aZ) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [NO TE ENAMORES DE UN ARTISTA](https://open.spotify.com/album/5fkMnrIODdP2v1EjIsP7BV) | 2:34 | 2025-12-05 |  |
@@ -754,7 +755,7 @@
 | [Viendo El Techo](https://open.spotify.com/track/1KVkcUbK8rJpDyO6n0H5t2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:08 | 2022-04-29 | 2023-04-04 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-08-02 | 2023-04-04 |
 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2023-04-03 | 2025-06-04 |
-| [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-09 |  |
+| [VITALICIO](https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [VITALICIO](https://open.spotify.com/album/3oTtPK9gUgOnHznnjNo161) | 2:00 | 2024-02-09 | 2025-12-21 |
 | [Vivo De Bichote](https://open.spotify.com/track/7vBBw9NWKIIB1NEHrhbeOc) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Vivo De Bichote](https://open.spotify.com/album/4gBynrkIBlOwPKtL2xrsZe) | 3:37 | 2022-01-01 | 2022-04-20 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2022-02-05 | 2023-04-04 |
 | [VOODOO](https://open.spotify.com/track/2SRiJNA3yILEMOPbETtL6M) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:46 | 2023-04-03 |  |

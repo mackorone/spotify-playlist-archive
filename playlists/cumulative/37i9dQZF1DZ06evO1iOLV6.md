@@ -4,7 +4,7 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-140 songs - 8 hr 9 min
+141 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bwana Mdogo \(feat\. Patoranking\)](https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:25 | 2021-12-28 | 2025-10-05 |
 | [Celebrate Me](https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Celebrate Me](https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56) | 3:59 | 2021-12-29 |  |
 | [Champion](https://open.spotify.com/track/1MgeahgsOalFDm0cdsqnMu) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:34 | 2021-12-28 | 2022-02-01 |
-| [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-28 |  |
+| [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 | 2021-12-28 | 2025-12-21 |
 | [Clean and Pure](https://open.spotify.com/track/4FfweIA6z8WoNKGMv6G2S0) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Madina to the Universe](https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW) | 3:10 | 2021-12-31 | 2024-01-17 |
 | [Confirm \(feat\. Davido\)](https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Confirm \(feat\. Davido\)](https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy) | 3:49 | 2021-12-28 |  |
 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 | 2023-09-09 |  |
@@ -50,6 +50,7 @@
 | [Girls](https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Girls](https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt) | 3:37 | 2021-12-28 | 2022-08-18 |
 | [Girls Dem](https://open.spotify.com/track/2zXALsJFKguDSbGZK6i1mB) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:29 | 2022-05-10 | 2022-05-12 |
 | [Go Crazy](https://open.spotify.com/track/5ZEyOWZ3MTkLXyfMmgybID) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Wilmer](https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc) | 3:25 | 2021-12-28 | 2022-09-04 |
+| [Grateful \(feat\. Soweto Spiritual Singers\)](https://open.spotify.com/track/2OUkyY3ibF5RNw29ssSFOD) | [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Soweto Spiritual Singers](https://open.spotify.com/artist/3232leMew7GVv6CsB87gb8) | [Grateful \(feat\. Soweto Spiritual Singers\)](https://open.spotify.com/album/1kY5A0DeMmBBIcIuB1zJb0) | 3:11 | 2025-12-21 |  |
 | [Gyal Like You](https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Kizz Daniel](https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:12 | 2023-09-09 | 2024-04-19 |
 | [Hale Hale](https://open.spotify.com/track/2iSeKtlHJAc9COUxZ5f57p) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:28 | 2021-12-28 | 2022-02-13 |
 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 | 2022-02-12 |  |

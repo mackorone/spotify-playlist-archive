@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 10 hr 13 min
+169 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,11 +27,13 @@
 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 | 2024-06-11 |  |
 | [BOSS](https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:04 | 2024-06-11 |  |
 | [Cadillac \(A Pimp's Anthem\)](https://open.spotify.com/track/7JcdUjXpo22ggCrvsGHkCj) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:02 | 2024-06-11 |  |
+| [Cadillac Christmas](https://open.spotify.com/track/0jltHrhWOhI5op9rgGmhgk) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:31 | 2025-12-20 |  |
 | [CALI LOVE](https://open.spotify.com/track/15PfsHwrnQ43VSQP3BngxW) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 3:16 | 2024-06-11 |  |
 | [Can't Stop](https://open.spotify.com/track/6eqWh2RHCIzcVS58xWb365) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 3:11 | 2024-06-11 |  |
 | [Carried Away](https://open.spotify.com/track/7dA5TuziQNiseDqFTyVWzi) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:41 | 2024-06-11 |  |
 | [Casino](https://open.spotify.com/track/7nIMtLGnPTb2xxYCax4dH6) | [Daye Jack](https://open.spotify.com/artist/0LSjb1pZ3uHwuvIaVzhdyT) | [No Data](https://open.spotify.com/album/64wV0bHpfRBo9eiCHr8tJo) | 4:10 | 2024-06-11 |  |
 | [Casual Love \(feat\. Shaggy\)](https://open.spotify.com/track/1HTnPCCahgji49Ocub64XE) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Right Here Right Now](https://open.spotify.com/album/2aGFVwpZFTQXpxx9ag96cd) | 3:56 | 2024-06-11 |  |
+| [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 | 2025-12-20 |  |
 | [Come Down \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6gZ71CxlnjRhInIvKLF4cM) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 4:04 | 2025-09-10 |  |
 | [Come on Over](https://open.spotify.com/track/0tOxz20YPSt0rJm1YdBNu4) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 3:24 | 2024-06-11 |  |
 | [Concentrate](https://open.spotify.com/track/2RxbUs1UfebXymMwrAKZVB) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:36 | 2024-06-11 |  |
@@ -81,6 +83,7 @@
 | [I Will](https://open.spotify.com/track/11dFezSZ2BbFgfxFjtuAOf) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 3:29 | 2024-06-11 |  |
 | [I'm Good](https://open.spotify.com/track/38UeExWa31NHemCKdFVpCe) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Rare](https://open.spotify.com/album/2Y6xQJuqeyr3YjGhQst4nF) | 4:04 | 2024-06-11 |  |
 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 | 2024-06-11 |  |
+| [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 | 2025-12-20 |  |
 | [Jaguar](https://open.spotify.com/track/6mnnWzRl1C6LABvoUar9tF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:31 | 2024-06-11 |  |
 | [Karma](https://open.spotify.com/track/0xB7i2AhQZT7nnor7rb15L) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:04 | 2024-06-11 |  |
 | [Kill \(feat\. Ty Dolla $ign & Victoria Monet\)](https://open.spotify.com/track/2w4DP2LlOb7vmnzy2eflE4) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [DROGAS Light](https://open.spotify.com/album/5URLytQmeXTIT7B4U1Tynd) | 7:10 | 2024-06-11 |  |

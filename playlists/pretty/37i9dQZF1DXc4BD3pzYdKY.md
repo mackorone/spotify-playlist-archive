@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover: Andy Mineo
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,214 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,241 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [When It's Cold](https://open.spotify.com/track/2o9LVPMR3Ld9UCejac6y0W) | [Kijan Boone](https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V) | [When It's Cold](https://open.spotify.com/album/5gFPsSNALRqMZeqmiIcFWE) | 2:38 |
 | 100 | [CROSSES UP \- Remix](https://open.spotify.com/track/4gIaaHyRRpvXXyjeTZ9N67) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [CROSSES UP \(Remix\)](https://open.spotify.com/album/2T3xmPWQ3XAQbYtScBHoWm) | 2:24 |
 
-Snapshot ID: `AAAAALbwBqW4+7+hPbSfLzUvhHUsni8i`
+Snapshot ID: `AAAAAC5YNW93JermS9YrxiI+EP5pZlaY`

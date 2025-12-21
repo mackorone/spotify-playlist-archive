@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,379 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,380 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 49 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 50 | [現実逃避](https://open.spotify.com/track/2xujkIBBB5jDAPr5mJI3oi) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [現実逃避](https://open.spotify.com/album/6boh4OAwiSLKFVpPRJU3uF) | 2:45 |
 | 51 | [Trade Places](https://open.spotify.com/track/1fefqX1DhNlZkyshLYfaxD) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Trade Places](https://open.spotify.com/album/1cX6JyDPtVZ1eSYAhDTuOg) | 2:25 |
-| 52 | [Hero or Villan](https://open.spotify.com/track/7HhwLqAARQFWlmfAu3H6sJ) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Hero or Villan](https://open.spotify.com/album/0hRQVjWETPPQcOvi5ilLAW) | 3:03 |
+| 52 | [Hero or Villain](https://open.spotify.com/track/7HhwLqAARQFWlmfAu3H6sJ) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Hero or Villain](https://open.spotify.com/album/0hRQVjWETPPQcOvi5ilLAW) | 3:03 |
 | 53 | [28 Degrees In Houston \- Acoustic](https://open.spotify.com/track/1snIH5F1BcCT0ASu8iKImP) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [28 Degrees In Houston \(Acoustic\)](https://open.spotify.com/album/2xySHe99qRHvo8DFbzsVlr) | 2:18 |
 | 54 | [Multicolor](https://open.spotify.com/track/0q1Oc9NUSWzdbZMzTrMUyz) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/0TzY1OTlVZZ7RyJuSph5t6) | 4:04 |
 | 55 | [Hazel Eyes \- Christmas Version](https://open.spotify.com/track/6vyry9LzyzlBQ2up0mJ60T) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Hazel Eyes \(Christmas Version\)](https://open.spotify.com/album/2VUJryfY8iT4dGQc4TcggD) | 3:54 |

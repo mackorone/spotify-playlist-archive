@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 ACRU
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,607 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,606 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 8 | [PERDIDO EN BAIRES](https://open.spotify.com/track/3pztjaZmAfUPpxDYFJPZ6x) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [PERDIDO EN BAIRES](https://open.spotify.com/album/29x7ChiCxh4pSN96j4Tdkf) | 2:17 |
 | 9 | [Extraño](https://open.spotify.com/track/6BIiZtA4MMyUx2YrQ6xOYi) | [Ronpe 99](https://open.spotify.com/artist/5aJWEc5r4loyrMRAXgPxsh) | [Extraño](https://open.spotify.com/album/1mRJ6tAbjiDpNh1SWwajr7) | 3:44 |
 | 10 | [344](https://open.spotify.com/track/5lBGVYffaIHiCzL5yD3xXV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [EL ÚLTIMO BAILE \(DELUXE\)](https://open.spotify.com/album/1zo5A6EgXxk6Jp51OMetsx) | 2:56 |
-| 11 | [NO LOS JUNO](https://open.spotify.com/track/0jKIrsHNLiQ2QbklqSSk46) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [490\_](https://open.spotify.com/artist/1NNu3b3gvuvDZmFPv8eujr) | [NO LOS JUNO](https://open.spotify.com/album/5mobF9UGyjLR1FRL4RDDzd) | 2:35 |
+| 11 | [CAPAZ PUEDEN SONAR PERO](https://open.spotify.com/track/0jKIrsHNLiQ2QbklqSSk46) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [490\_](https://open.spotify.com/artist/1NNu3b3gvuvDZmFPv8eujr) | [CAPAZ PUEDEN SONAR PERO](https://open.spotify.com/album/5mobF9UGyjLR1FRL4RDDzd) | 2:35 |
 | 12 | [CON MI GANGA](https://open.spotify.com/track/0JZMjSdMFiVDraXygvrDUF) | [KMI420](https://open.spotify.com/artist/27aZHh70FUjFxP5IPg7dra), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [CON MI GANGA](https://open.spotify.com/album/5JWX1Vq1QbOWhi5ObTSPXs) | 3:00 |
 | 13 | [Resurrección](https://open.spotify.com/track/4zt8ZHxJ3NyhptyRiXR1W9) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Resurrección](https://open.spotify.com/album/6EufEEogtFpZ9muntOzeiu) | 2:39 |
 | 14 | [Drake & Josh](https://open.spotify.com/track/0UByGcqMxJaHbTGj36dH9A) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf) | [La Ciudad del Pop](https://open.spotify.com/album/3S1ugX75zwHqXYpOTaMmWb) | 3:32 |

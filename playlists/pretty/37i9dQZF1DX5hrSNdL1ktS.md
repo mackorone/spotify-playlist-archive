@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Dani Flow y Alu Mix..\. Ahueeeeeeevo
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,287 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,378 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [REGGAETON MEXA](https://open.spotify.com/track/43wSjuhR6i2AXBLUoeHDIN) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REGGAETON MEXA](https://open.spotify.com/album/0WWprYlbWvRUe54GvBG1yW) | 2:19 |
+| 1 | [REGGAETÓN MEXA](https://open.spotify.com/track/43wSjuhR6i2AXBLUoeHDIN) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REGGAETÓN MEXA](https://open.spotify.com/album/0WWprYlbWvRUe54GvBG1yW) | 2:19 |
 | 2 | [Dime si recuerdas](https://open.spotify.com/track/1V7RNyHNVZCkPaqLXxdikS) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [FRÍO](https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu) | 2:17 |
 | 3 | [Los Más Sueltos \(Remix\)](https://open.spotify.com/track/07KsWpzh1iP6OiUgcwc5rH) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Los Más Sueltos \(Remix\)](https://open.spotify.com/album/6nBwbdfslYHIXl4khw2ssR) | 2:59 |
 | 4 | [SiNoMeLloranVivo](https://open.spotify.com/track/28L5hz89OMvfcyu9Ef89wC) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 2:32 |

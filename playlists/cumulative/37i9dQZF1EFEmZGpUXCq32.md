@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-109 songs - 7 hr 33 min
+110 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Dedicated](https://open.spotify.com/track/6d9300vLY1yGZg98A8YelW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:55 | 2024-05-01 |  |
 | [Divine Time](https://open.spotify.com/track/2JBSUManxgHPTJl1MwpAmD) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 4:40 | 2025-10-25 |  |
 | [Don't Forget](https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:49 | 2024-05-01 |  |
-| [Don't Look](https://open.spotify.com/track/5MEFpPKKGhMNlFuMyjCTyc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Beat Tape II](https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F) | 1:19 | 2024-05-01 |  |
+| [Don't Look](https://open.spotify.com/track/5MEFpPKKGhMNlFuMyjCTyc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Beat Tape II](https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F) | 1:19 | 2024-05-01 | 2025-12-21 |
+| [Don't Look \(feat\. Kenny Beats & Cory Henry\)](https://open.spotify.com/track/0Mfz7iCjcv7DvYdDhInHyz) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Beat Tape II](https://open.spotify.com/album/7LS7NSXDdks2I644tuHDGj) | 1:19 | 2025-12-20 |  |
 | [Dreaming Of](https://open.spotify.com/track/46l1Wgtbzy74JDQ4Wkylwq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:52 | 2024-05-01 |  |
 | [Ecstasy](https://open.spotify.com/track/52JtIQpkzgcNLmDoDBHuTp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 2:13 | 2024-05-01 |  |
 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 | 2024-05-01 |  |

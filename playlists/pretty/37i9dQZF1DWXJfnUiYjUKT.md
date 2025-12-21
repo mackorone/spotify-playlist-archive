@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Kali Uchis on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,860 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,920 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 71 | [HOY SE GUAYA](https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [HOY SE GUAYA](https://open.spotify.com/album/4bDcoGYOho0rcPLm7FV8Te) | 2:55 |
 | 72 | [Day n Nite](https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Day n Nite](https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J) | 2:22 |
 | 73 | [Blackout](https://open.spotify.com/track/5DKR11pbJyC6sVPMHAN4ph) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Blackout](https://open.spotify.com/album/4SyyQAWl00FQRlokK9c0yk) | 3:01 |
-| 74 | [PERMANENT TEARS](https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [PERMANENT TEARS](https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0) | 3:17 |
+| 74 | [PERMANENT TEARS](https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [PERMANENT TEARS](https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0) | 3:13 |
 | 75 | [Shades On](https://open.spotify.com/track/11sT6ogSSw8waTWBy0BG3z) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Shades On](https://open.spotify.com/album/2wsbSos56mpRgF8QmJ6x5M) | 3:00 |
 | 76 | [21](https://open.spotify.com/track/1XvRnK2uLO98kIwjTKVAM9) | [Boxrooster](https://open.spotify.com/artist/4MyemXDuB1bsOb4MO3lze3) | [21](https://open.spotify.com/album/6JQWyRnWYdIx3uxYgJZKXa) | 4:21 |
 | 77 | [Golden Boy](https://open.spotify.com/track/5VT0xlntv9lzgytFTpG5Q0) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Golden Boy / Romance](https://open.spotify.com/album/5ks1NxkoQzL6dtxuk3NXAw) | 2:56 |

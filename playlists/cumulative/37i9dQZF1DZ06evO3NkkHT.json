@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "BigXmas",
+        "url": "https://open.spotify.com/album/374CAh7sWDNDNcAuOH4cOt"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136308,
+      "name": "BigXmas",
+      "url": "https://open.spotify.com/track/5W8a43gnXVrPHdsFjdyfGB"
+    },
+    {
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -842,7 +860,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 181333,
       "name": "Long Nights (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/0Q1npl2NHanrUYBGGC6sNo"

@@ -1,13 +1,29 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168552,
+  "num_followers": 168570,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAABqg8Vxoo3o7aKhJpDcPwmq",
+  "snapshot_id": "aUSVgAAAAAA1k4jxOgKnQD948NT1OmPA",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ice Queen (Acoustic 2025)",
+        "url": "https://open.spotify.com/album/3h5ckdhwdUoxLNkjPSrkWP"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 221113,
+      "name": "Ice Queen - Acoustic 2025",
+      "url": "https://open.spotify.com/track/5wpIJlaphyu0EPZJjcGjTK"
+    },
     {
       "added_at": null,
       "album": {
@@ -307,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Our Solemn Hour",
-      "url": "https://open.spotify.com/track/6KaLRddxDnr9hufQCW3Kzx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Mercy Mirror",
-      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Like A Siren",
         "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
       },
@@ -359,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Earth",
-        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
       },
       "artists": [
         {
@@ -368,9 +352,25 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 322800,
-      "name": "Ice Queen",
-      "url": "https://open.spotify.com/track/140cSu65JC8smYw53nPP0q"
+      "duration_ms": 229026,
+      "name": "Mercy Mirror",
+      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Our Solemn Hour",
+      "url": "https://open.spotify.com/track/6KaLRddxDnr9hufQCW3Kzx"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Endless War",
-      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 330253,
       "name": "A Demon's Fate",
       "url": "https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 249360,
+      "name": "Endless War",
+      "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 286680,
+      "name": "Jillian (I'd Give My Heart)",
+      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resist (Extended Deluxe)",
         "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 334360,
       "name": "Raise Your Banner",
       "url": "https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 286680,
-      "name": "Jillian (I'd Give My Heart)",
-      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hydra (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 287773,
+      "name": "Covered by Roses",
+      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resist (Extended Deluxe)",
         "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
       },
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hydra (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
+        "name": "Mother Earth",
+        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 287773,
-      "name": "Covered by Roses",
-      "url": "https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N"
+      "duration_ms": 331280,
+      "name": "Mother Earth",
+      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mother Earth",
-        "url": "https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 331280,
-      "name": "Mother Earth",
-      "url": "https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "See What's On The Inside (Deluxe)",
         "url": "https://open.spotify.com/album/39irqLBf1rIbVtzmnl9qnA"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 333866,
       "name": "The Howling",
       "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forgotten Songs",
-        "url": "https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "The Fire Within",
-      "url": "https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heart Of Everything",
         "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
@@ -727,22 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Fool's Parade",
-        "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
+        "name": "Forgotten Songs",
+        "url": "https://open.spotify.com/album/1zKoozwfsotBJcZjYUXmE7"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Alex Yarmak",
-          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
         }
       ],
-      "duration_ms": 222128,
-      "name": "A Fool's Parade",
-      "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
+      "duration_ms": 213000,
+      "name": "The Fire Within",
+      "url": "https://open.spotify.com/track/21rY9mKlKWRD6aHsdT5Pqu"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 331240,
       "name": "Let Us Burn",
       "url": "https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Fool's Parade",
+        "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Alex Yarmak",
+          "url": "https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "A Fool's Parade",
+      "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
     },
     {
       "added_at": null,

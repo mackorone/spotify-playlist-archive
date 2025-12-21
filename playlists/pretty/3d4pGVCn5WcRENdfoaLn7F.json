@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 370,
+  "num_followers": 376,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACJiEaruuocezV3n5SPpyWD4ojqbAh",
+  "snapshot_id": "AAACKTCWWMfijNGz12RYL9PQYggTMoEa",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1071,6 +1071,54 @@
       "duration_ms": 234532,
       "name": "Good Dreams",
       "url": "https://open.spotify.com/track/0z2V3roWgX3rZERtuA6Vrr"
+    },
+    {
+      "added_at": "2025-12-20 13:45:40",
+      "album": {
+        "name": "Paper Mache",
+        "url": "https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0"
+      },
+      "artists": [
+        {
+          "name": "Katrina",
+          "url": "https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Paper Mache",
+      "url": "https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg"
+    },
+    {
+      "added_at": "2025-12-20 14:42:17",
+      "album": {
+        "name": "Leaving For The Summer",
+        "url": "https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "duration_ms": 232731,
+      "name": "Leaving For The Summer",
+      "url": "https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX"
+    },
+    {
+      "added_at": "2025-12-20 14:49:27",
+      "album": {
+        "name": "The Hope and Desperation of the Sea",
+        "url": "https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "The Hope and Desperation of the Sea",
+      "url": "https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

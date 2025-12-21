@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 62 songs - 3 hr 24 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,172 likes - 63 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 60 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 |
 | 61 | [Half\-Blood](https://open.spotify.com/track/5AFcFKZCB62xZ1Tb0bV9Gr) | [Laylo](https://open.spotify.com/artist/5ENIBFuGai1t1NPOaUaqoX) | [Roots](https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C) | 2:49 |
 | 62 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 |
+| 63 | [Dans](https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8) | [Dapper Muis](https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET) | [Dans](https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b) | 3:56 |
 
-Snapshot ID: `AAAMmQCaq3hnbqornlq7ThJ8ua9Rj6tB`
+Snapshot ID: `AAAMmtsbX+c1uK7D5Qcd8AzGyZaTxstI`

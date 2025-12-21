@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8062,
+  "num_followers": 8081,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAADac/BxGTeFu5z9ilQBFPdi",
+  "snapshot_id": "aUSVgAAAAABLGZAmayDtnCBoVW/Er0oj",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 144065,
-      "name": "Wire",
-      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okanlawon, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 212871,
       "name": "The Way (Remix)",
       "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 135070,
-      "name": "Popori",
-      "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escober",
         "url": "https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 183693,
       "name": "Escober",
       "url": "https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 135070,
+      "name": "Popori",
+      "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
     },
     {
       "added_at": null,
@@ -731,18 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
+        "name": "Bere Mi (Reimagined)",
+        "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
       },
       "artists": [
+        {
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
+      "duration_ms": 177963,
+      "name": "Bere Mi (Reimagined)",
+      "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
     },
     {
       "added_at": null,
@@ -767,26 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bere Mi (Reimagined)",
-        "url": "https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui"
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
       },
       "artists": [
-        {
-          "name": "Id Cabasa",
-          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 177963,
-      "name": "Bere Mi (Reimagined)",
-      "url": "https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez"
+      "duration_ms": 174863,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,

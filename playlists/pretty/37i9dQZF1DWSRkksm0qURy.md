@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,035 likes - 96 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,068 likes - 96 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 95 | [417 Hz Unity Healing](https://open.spotify.com/track/4SsyJ6wO0IJi2iZyj7K2xo) | [Edda Prado](https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc) | [417 Hz Unity Healing](https://open.spotify.com/album/5SdV03KnGJdl7ougERDrx5) | 3:12 |
 | 96 | [417 Hz Solfeggio](https://open.spotify.com/track/08Zmt06jnhqOL4vmdKkESb) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [417 Hz Solfeggio](https://open.spotify.com/album/7jqvgtRJuivWriMordfwYL) | 2:36 |
 
-Snapshot ID: `AAAAABEEsLWj8etzUc2RGapUnFGyR5YX`
+Snapshot ID: `AAAAAKCG4/TqfkcHyR/C2ir+ahQASO7P`

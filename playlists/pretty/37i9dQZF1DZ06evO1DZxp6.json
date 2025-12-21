@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 238403,
+  "num_followers": 238531,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAA1NQl5bV/mP6dCBBEm96K7",
+  "snapshot_id": "aUSVgAAAAABkmoel5Qd8tgxu8rpaezyC",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Mala Memoria",
-      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
-        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 200906,
-      "name": "Tu Nombre - Live",
-      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
+      "duration_ms": 182333,
+      "name": "Mala Memoria",
+      "url": "https://open.spotify.com/track/1etbG9pmtMYEZwlRItSbv0"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 218040,
       "name": "Abracadabras (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2mJYTwrs3lMTJ0Z2TXnbZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esta Ma\u00f1ana Y Otros Cuentos",
+        "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Tu Nombre - Live",
+      "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
     },
     {
       "added_at": null,

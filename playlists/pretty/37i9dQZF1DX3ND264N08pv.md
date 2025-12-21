@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,815 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,828 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Lose My Mind](https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto) | [Spiady](https://open.spotify.com/artist/49mf75hTY4Bjka8yxByfMs), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Lose My Mind](https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj) | 3:14 |
 | 50 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
 
-Snapshot ID: `AAAAAIF838UGOxvOvzFygUAPs7iBXLJr`
+Snapshot ID: `AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4`

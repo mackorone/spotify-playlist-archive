@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1077,
+  "num_followers": 1078,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAADiBSBo4XT/0EYsLpHrGw6S",
+  "snapshot_id": "aUSVgAAAAADyKqd0yMC/+WIKHDTyNM4m",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Something Big",
-      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tom Petty And The Heartbreakers",
         "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Something Big",
+      "url": "https://open.spotify.com/track/4baFF50eIx6z3xz7HCL7DF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -523,42 +523,6 @@
       "duration_ms": 352413,
       "name": "Louisiana Rain",
       "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Something Good Coming",
-      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -595,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215613,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
+      "duration_ms": 250520,
+      "name": "Something Good Coming",
+      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "All The Wrong Reasons",
+      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 225293,
-      "name": "All The Wrong Reasons",
-      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
+      "duration_ms": 215613,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
     },
     {
       "added_at": null,
@@ -683,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 264453,
-      "name": "Shadow Of A Doubt (A Complex Kid)",
-      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -731,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
@@ -740,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 237440,
-      "name": "Nightwatchman",
-      "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
+      "duration_ms": 264453,
+      "name": "Shadow Of A Doubt (A Complex Kid)",
+      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
     },
     {
       "added_at": null,
@@ -783,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
       },
       "artists": [
         {
@@ -792,9 +760,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Straight Into Darkness",
-      "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Nightwatchman",
+      "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
     },
     {
       "added_at": null,
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Southern Accents",
-        "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
       "artists": [
         {
@@ -824,9 +808,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 212200,
-      "name": "Spike",
-      "url": "https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw"
+      "duration_ms": 229000,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
+        "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 215802,
+      "name": "Thirteen Days",
+      "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

@@ -1,12 +1,12 @@
 {
   "description": "This is Meg Smith. The essential tracks, all in one playlist.",
-  "num_followers": 441,
+  "num_followers": 442,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAA5SJJngEpbAq2NdDiE0zCe",
+  "snapshot_id": "aUSVgAAAAACZY1gaiapECWSSPbKM5ZPz",
   "tracks": [
     {
       "added_at": null,
@@ -203,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd miss you too much!",
-        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
       },
       "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 178301,
-      "name": "...but i'd miss you too much!",
-      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
+      "duration_ms": 164213,
+      "name": "Sideways (feat. Meg Smith)",
+      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
     },
     {
       "added_at": null,
@@ -251,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36"
+        "name": "...but i'd miss you too much!",
+        "url": "https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz"
       },
       "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
         {
           "name": "Meg Smith",
           "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
         }
       ],
-      "duration_ms": 164213,
-      "name": "Sideways (feat. Meg Smith)",
-      "url": "https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF"
+      "duration_ms": 178301,
+      "name": "...but i'd miss you too much!",
+      "url": "https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American in Paris",
-        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Because of Me",
-      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cool 4 U",
         "url": "https://open.spotify.com/album/7Je3FV6srb7kY3BvTmUdhG"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 139666,
       "name": "Cool 4 U",
       "url": "https://open.spotify.com/track/2zMHIXmpPEz9XqGZVg4Ks4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American in Paris",
+        "url": "https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Because of Me",
+      "url": "https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D"
     },
     {
       "added_at": null,

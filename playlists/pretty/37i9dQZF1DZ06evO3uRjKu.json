@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74621,
+  "num_followers": 74624,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAABB9ZVkZXCwLME2zwtA/T5i",
+  "snapshot_id": "aUSVgAAAAADEG7i3ypWkRhgUGoK4ulvw",
   "tracks": [
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+        "name": "Muchachos",
+        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
       "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
+      "duration_ms": 229469,
+      "name": "Te Quiero Comer la Boca",
+      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
     },
     {
       "added_at": null,
@@ -599,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchachos",
-        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 229469,
-      "name": "Te Quiero Comer la Boca",
-      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 267213,
+      "name": "Pasar\u00e1",
+      "url": "https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psic\u00f3tico",
         "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 201596,
       "name": "Psic\u00f3tico",
       "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "Pasar\u00e1",
-      "url": "https://open.spotify.com/track/3k9YsjdlHyvgx8ddwHXvaa"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

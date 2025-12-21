@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Merve Özbey x Mustafa Ceceli
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,744 likes - 49 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,763 likes - 49 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 15 | [Herkes Gibi](https://open.spotify.com/track/6zBdAOcSXzPiwxXllOlZmp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Herkes Gibi](https://open.spotify.com/album/2FzyGoAXFyzdlLemRucz7F) | 2:59 |
 | 16 | [Kemik](https://open.spotify.com/track/4grEOjFMGUZZkLCG3GqIyg) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kemik](https://open.spotify.com/album/3Shgi2kOLuQ3PByLv54XR5) | 3:47 |
 | 17 | [Sevilmeye Doy Diye](https://open.spotify.com/track/47gwZxbkrZ4ko9nKheRsTH) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Anlatasım Var](https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ) | 3:52 |
-| 18 | [Ara Durak](https://open.spotify.com/track/5v6cl5MUmH8RUbrgxfUbH4) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Ara Durak](https://open.spotify.com/album/5nfa7aYWzUps3cKKgDM3MY) | 2:54 |
+| 18 | [Ara Durak](https://open.spotify.com/track/5v6cl5MUmH8RUbrgxfUbH4) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Ara Durak](https://open.spotify.com/album/5nfa7aYWzUps3cKKgDM3MY) | 2:56 |
 | 19 | [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 |
 | 20 | [Bir Çiçek Daha Aldım Kendime](https://open.spotify.com/track/4j1wr7DQM6OG2Rl5VErGM2) | [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [Bir Çiçek Daha Aldım Kendime](https://open.spotify.com/album/6jFGK9iyhU4DAcLLS0zPYY) | 3:54 |
 | 21 | [Gül Beyaz Gül](https://open.spotify.com/track/6bZotFrNJubsgz8fumWfwy) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar), [Ümit Sayın](https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM) | [Gül Beyaz Gül](https://open.spotify.com/album/6mzJJCzNVRJwDJ1Nnp4KI7) | 3:23 |

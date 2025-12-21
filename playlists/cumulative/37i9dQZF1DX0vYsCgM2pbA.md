@@ -4,7 +4,7 @@
 
 > Electronic music from AUS + NZ
 
-315 songs - 19 hr 18 min
+316 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Our Friends \(with Zoe from The Buoys\)](https://open.spotify.com/track/2igA9Xc274UG9uQ7mSkUT2) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Our Friends \(with Zoe from The Buoys\)](https://open.spotify.com/album/3xX6NxHuFpxkTtul7OWczm) | 3:24 | 2025-02-05 | 2025-02-13 |
 | [Patience](https://open.spotify.com/track/0MYqjhoG0r9K23MAk4ok5A) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:17 | 2023-04-13 | 2024-04-19 |
 | [Patience \(feat\. Jordan Dennis & Connie Diiamond\)](https://open.spotify.com/track/2zuM3nqTH81o1BunatvoZ6) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5), [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Patience \(feat\. Jordan Dennis & Connie Diiamond\)](https://open.spotify.com/album/5wK2hEKHTXRY2QUwaArhq4) | 2:38 | 2025-10-17 | 2025-12-19 |
+| [Peaches](https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Peaches](https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB) | 2:27 | 2025-12-18 |  |
 | [Perfect World](https://open.spotify.com/track/2MJSfxRPUPYYJoXqsA2eCF) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji) | 4:38 | 2023-06-22 | 2023-08-13 |
 | [Perfect World](https://open.spotify.com/track/3fPSulmetwSxRIQ8cfU8Yl) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Perfect World](https://open.spotify.com/album/50fK5JmEYqHvxne5EGJpSc) | 4:38 | 2023-08-10 | 2024-04-19 |
 | [Pictures](https://open.spotify.com/track/36gRhO8ZVp0GhiSgWNuxI8) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Pictures](https://open.spotify.com/album/38lQOGTxfUXNG3noemTqxW) | 2:25 | 2024-01-18 | 2024-08-23 |
@@ -265,7 +266,7 @@
 | [Sun Moon](https://open.spotify.com/track/3PdWdN2ATpRSWOsZMdChgp) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Noé](https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi) | [So Far to Go](https://open.spotify.com/album/2xVOsuiQzvlvkKBIVXxjtc) | 2:34 | 2022-12-15 | 2024-04-19 |
 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 | 2022-12-01 | 2025-03-05 |
 | [Sundream](https://open.spotify.com/track/0PHWXLXOQXGlyUGq7woVFZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Atlas \(Light / Dark Deluxe Edition\)](https://open.spotify.com/album/3HZKPiOGyFqmLvehf77H47) | 4:35 | 2022-12-01 | 2023-02-10 |
-| [Sunflower](https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Sunflower](https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2) | 2:30 | 2025-06-03 |  |
+| [Sunflower](https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Sunflower](https://open.spotify.com/album/0TmsFeOuj0db0Mi4plBxB2) | 2:30 | 2025-06-03 | 2025-12-21 |
 | [Sunny Day](https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT) | [Niicap](https://open.spotify.com/artist/7CyI6goJm3xgAzz8RbYDmW), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Sunny Day](https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa) | 2:08 | 2023-11-30 | 2025-10-09 |
 | [Sunrise](https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Sunrise](https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P) | 5:28 | 2025-06-03 |  |
 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 | 2022-12-15 | 2025-12-09 |

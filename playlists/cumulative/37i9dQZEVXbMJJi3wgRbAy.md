@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,238 songs - 2 day 17 hr 36 min
+1,239 songs - 2 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,7 +892,8 @@
 | [Que Se Repita](https://open.spotify.com/track/4kyFxll3kvqsApJ1c4R9hh) | [Rania](https://open.spotify.com/artist/4HwYSjc9xKK1GODiz7pP78) | [Que Se Repita](https://open.spotify.com/album/2RyVK43qufgvr7l4RDdYyT) | 2:48 | 2025-11-19 | 2025-11-26 |
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-03-30 | 2024-05-17 |
 | [Que Tiene la Noche](https://open.spotify.com/track/6ClL99PvuCeBLTFTdnR1Hw) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Causalidades](https://open.spotify.com/album/6zhawgybFcgvkdqpbFjbRK) | 2:59 | 2021-12-26 | 2025-08-28 |
-| [Quedate](https://open.spotify.com/track/18a2MVpqCwgREUEDduvMTX) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Quedate](https://open.spotify.com/album/4CXFolOYSiYKQl8ga7KcCa) | 2:21 | 2025-06-30 |  |
+| [Quedate](https://open.spotify.com/track/18a2MVpqCwgREUEDduvMTX) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [Quedate](https://open.spotify.com/album/4CXFolOYSiYKQl8ga7KcCa) | 2:21 | 2025-06-30 | 2025-12-21 |
+| [Quedate](https://open.spotify.com/track/1Xua15a4cEbIRkEWkHBSxT) | [Maxi Alvarez](https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae), [ONE PLAY](https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe) | [\#Directamentedebb](https://open.spotify.com/album/1IHekLzXtIzpFT8N32vPzW) | 2:21 | 2025-12-20 |  |
 | [QUEMARÁS](https://open.spotify.com/track/37o3TuM0nRPMa9f9qpUKlo) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 4:23 | 2024-03-23 | 2024-03-26 |
 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 | 2024-03-22 | 2024-03-24 |
 | [Querida Yo](https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Querida Yo](https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7) | 1:55 | 2025-03-13 | 2025-03-17 |

@@ -2,7 +2,7 @@
 
 ### [Obama’s Summer Playlist 2025](https://open.spotify.com/playlist/3xN6J0LCyVj8k1gVCguWRH)
 
-> Obama&\#x27;s favorite music of 2025.
+> Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
 5,557 songs - 12 day 22 hr 40 min
 
@@ -3709,7 +3709,7 @@
 | [Piero l'alcolista](https://open.spotify.com/track/2lWhNw8IRC1sB2gfAwleMo) | [Rumori Sospetti](https://open.spotify.com/artist/4jUQPw0JvZCKnt3VrNC9rj) | [Piero l'alcolista](https://open.spotify.com/album/5F7bU9PcJjVsnoDI0r5rEA) | 3:01 | 2020-06-01 | 2020-07-02 |
 | [Pink](https://open.spotify.com/track/1TyDvm0QokpBLekSqhcVSF) | [Comforts](https://open.spotify.com/artist/0DTo7Y75bhTLMs5vlUSaxM) | [Pink](https://open.spotify.com/album/0pMKqDogGoFVJuDersfQ0d) | 3:33 | 2022-06-10 | 2022-06-26 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-05-25 | 2023-06-23 |
-| [Pink Cigarette](https://open.spotify.com/track/4MdaWs0CMx1Jwl01LnCVbs) | [HAMEX](https://open.spotify.com/artist/2V16fiJ3HvYKclGULE2AW7) | [Pink Cigarette](https://open.spotify.com/album/2lWD8jUZsjMa5uzgUoHl92) | 2:23 | 2025-11-19 |  |
+| [Pink Cigarette](https://open.spotify.com/track/4MdaWs0CMx1Jwl01LnCVbs) | [HAMEX](https://open.spotify.com/artist/2V16fiJ3HvYKclGULE2AW7) | [Pink Cigarette](https://open.spotify.com/album/2lWD8jUZsjMa5uzgUoHl92) | 2:23 | 2025-11-19 | 2025-12-21 |
 | [Pink Flowers](https://open.spotify.com/track/3QnNU8xJq6uzrYqUj36qd5) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Pink Flowers](https://open.spotify.com/album/4FZWZ23S4T2FxAaQZIKEsN) | 2:55 | 2022-10-12 | 2022-11-03 |
 | [Pink Moscato Nights](https://open.spotify.com/track/09KITqq9YNd5Z0cEEc8uys) | [The Wave Pilots](https://open.spotify.com/artist/5RLkzaPLsVg0VRo8qviXuM) | [Pink Moscato Nights](https://open.spotify.com/album/6GGSNJRXj1xgL1jlviusEI) | 3:05 | 2023-09-22 | 2023-12-14 |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-04-15 | 2025-12-19 |
@@ -4087,7 +4087,7 @@
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-13 | 2024-08-13 |
 | [Saturn’s Moon](https://open.spotify.com/track/4zzC42HMdFYdSOwOquBAqm) | [Justelle](https://open.spotify.com/artist/5jKZa3GZPDDmC0QFBMMK6Q) | [Saturn’s Moon](https://open.spotify.com/album/3mURA1aKd0D6dob4F1i9oo) | 4:08 | 2024-11-19 | 2024-12-02 |
 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR) | 4:02 | 2020-07-12 | 2023-08-28 |
-| [Savanna](https://open.spotify.com/track/1Yi2vwd6G0xFuKHydFImB7) | [Ignatius](https://open.spotify.com/artist/4KaYaCjRR42kLDmAvSfzqf) | [Savanna](https://open.spotify.com/album/3KWiOcD3c0VjUoGItTUq4K) | 2:28 | 2025-11-25 |  |
+| [Savanna](https://open.spotify.com/track/1Yi2vwd6G0xFuKHydFImB7) | [Ignatius](https://open.spotify.com/artist/4KaYaCjRR42kLDmAvSfzqf) | [Savanna](https://open.spotify.com/album/3KWiOcD3c0VjUoGItTUq4K) | 2:28 | 2025-11-25 | 2025-12-21 |
 | [Save Me](https://open.spotify.com/track/7mvKpoeI6sq6osDtSb9xcF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:21 | 2022-07-26 | 2024-04-30 |
 | [Save Me](https://open.spotify.com/track/6ZMRWQBdNNUVpSlVOE8puD) | [Shane Fallon](https://open.spotify.com/artist/0vHn0xsfcB6aggWW09GXFB) | [Save Me](https://open.spotify.com/album/5D4HyulKHtxWOYoZ1FETH5) | 3:30 | 2024-01-14 | 2024-01-22 |
 | [Save Me](https://open.spotify.com/track/7qDJpm2mrNGsM4VubSDxek) | [YFRS](https://open.spotify.com/artist/3OApJV6ZV4UUqpxiVBHmGc) | [Save Me](https://open.spotify.com/album/4ogUfhyvyPASSHVg1zonjI) | 3:22 | 2020-11-06 | 2020-11-21 |
@@ -5111,7 +5111,7 @@
 | [Vampiro de Sangre Ajena](https://open.spotify.com/track/7N1pt1vCkErPegRLWG6smr) | [Mia Catalina](https://open.spotify.com/artist/2lZWcBs83PIftGNK5jn176) | [Vampiro de Sangre Ajena](https://open.spotify.com/album/4NuFeWHdccvce1BYFceSjh) | 3:28 | 2024-08-15 | 2024-08-23 |
 | [VAMPIROS](https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 2:56 | 2023-07-20 |  |
 | [Vanity Fool](https://open.spotify.com/track/3ooSk2s81OIX51OkkWASD6) | [Peter Serrado](https://open.spotify.com/artist/7gcJVmqrLeEiKfWsTNZ9QK) | [Vanity Fool](https://open.spotify.com/album/6nBWg4bLNbpR0lDaTrgfKZ) | 3:13 | 2022-10-30 | 2022-11-21 |
-| [Velvet Fire](https://open.spotify.com/track/28RZfi7szB8jCZiws7YnsU) | [SlagneY](https://open.spotify.com/artist/4v4ypppwNjPLgjfyQprtmR) | [Velvet Fire](https://open.spotify.com/album/0Vl6lfMoVuTBwk1SfbRtll) | 2:56 | 2025-11-25 |  |
+| [Velvet Fire](https://open.spotify.com/track/28RZfi7szB8jCZiws7YnsU) | [SlagneY](https://open.spotify.com/artist/4v4ypppwNjPLgjfyQprtmR) | [Velvet Fire](https://open.spotify.com/album/0Vl6lfMoVuTBwk1SfbRtll) | 2:56 | 2025-11-25 | 2025-12-21 |
 | [Ven Pa Ca](https://open.spotify.com/track/19felDAYliRHZSwBwdAO6O) | [HERMANN](https://open.spotify.com/artist/39nfOPNks3gAIk1jIbVVGJ) | [Ven Pa Ca](https://open.spotify.com/album/3DGFY8fwmkgdKu9s0E0Fuc) | 2:36 | 2024-01-10 | 2024-01-28 |
 | [Venice](https://open.spotify.com/track/29SgYi3K9xTnueAOdJCGf8) | [Parker Wilkins](https://open.spotify.com/artist/6igZZYtkBvDiAl9KF34BD4) | [Venice](https://open.spotify.com/album/6IzdxPmeIKK5BFZkmDxR0R) | 2:57 | 2021-04-30 | 2021-05-16 |
 | [venice beach when i met you](https://open.spotify.com/track/2uQGWB7S4YKVgMfCgZIeuU) | [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [venice beach when i met you](https://open.spotify.com/album/7wLnXExY5Vhth8QgnpnURs) | 3:29 | 2021-05-14 | 2021-05-30 |

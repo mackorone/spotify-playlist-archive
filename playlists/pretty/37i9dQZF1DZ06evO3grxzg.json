@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235767,
+  "num_followers": 235765,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAC0u657Qw4KsHxVME3of4Cy",
+  "snapshot_id": "aUSVgAAAAABVxWOWXCv+vd1t4GCx+JBW",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danna Paola (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
       },
@@ -727,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Todo Fue Un Show",
+      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola",
-        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
       },
       "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Todo Fue Un Show",
-      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
     },
     {
       "added_at": null,

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,493 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,529 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [VAI DESCE BABY](https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [MIXTAPE DE VERÃO: GOSTOSAS OUVEM TZ](https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv) | 3:37 |
 | 2 | [Colheita](https://open.spotify.com/track/1FLCxgmaHyHssgFooefoss) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Colheita](https://open.spotify.com/album/0hfec1gX94fjHRCrhDRQ35) | 4:21 |
-| 3 | [6X1](https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6) | [6X1](https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r) | 3:31 |
+| 3 | [6X1](https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [6X1](https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r) | 3:31 |
 | 4 | [Antes do Mundo Ouvir Meu Nome](https://open.spotify.com/track/2mUOzjO0a5LeeaWaTVSbJC) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Antes Do Mundo Ouvir Meu Nome](https://open.spotify.com/album/5hVMxpVb5w5oJ3G6F7dnOS) | 2:10 |
 | 5 | [Gabriela](https://open.spotify.com/track/38P7D5dzZ7l5FSnhd7Ld0b) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Gabriela](https://open.spotify.com/album/3jcJYhr956hPIyMf6xx7BW) | 3:22 |
 | 6 | [Fresh Frozen](https://open.spotify.com/track/7lqdneiiVMBjfjtOLffDx8) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Fresh Frozen](https://open.spotify.com/album/29eS6ntfEmstqdTC0kzU3a) | 1:49 |

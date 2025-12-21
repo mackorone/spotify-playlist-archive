@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ozan Bayraşa x Hande Yener
 
-460 songs - 23 hr 8 min
+461 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Farkındaydın](https://open.spotify.com/track/1OUuYxtMnyNS4etNDpto3A) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS), [Lil Orxan](https://open.spotify.com/artist/4se0Sn6hGwzmytn5VYtc6d) | [Farkındaydın](https://open.spotify.com/album/60T9anGFIN7i4zAYEJ7hfU) | 2:56 | 2025-07-31 | 2025-08-09 |
 | [Felaket](https://open.spotify.com/track/3oFew1USP4dXQxDsivrTO0) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Felaket](https://open.spotify.com/album/6BD9aDBrdBRnJ88a5bnInr) | 2:21 | 2025-05-22 | 2025-06-27 |
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-05-26 |
-| [Gamzende](https://open.spotify.com/track/1loCwvZw3uM5Li96oNsSsR) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Gamzende](https://open.spotify.com/album/7jXmha4CZ50hn8dJx98OqB) | 2:43 | 2025-09-25 |  |
+| [Gamzende](https://open.spotify.com/track/1loCwvZw3uM5Li96oNsSsR) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Gamzende](https://open.spotify.com/album/7jXmha4CZ50hn8dJx98OqB) | 2:43 | 2025-09-25 | 2025-12-21 |
 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 |  |
 | [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 | 2025-08-07 | 2025-10-26 |
 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 | 2025-10-09 |  |
@@ -392,6 +392,7 @@
 | [Uzun Lafın Kısası](https://open.spotify.com/track/4HJPlJMtvDUeaQ7LCNczLW) | [Ozan Doğulu](https://open.spotify.com/artist/6xLv41SHPrVVfvyGd1M7ut), [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [130 Bpm Forte](https://open.spotify.com/album/00yuJBXaDotJUgEI2LZeQC) | 3:39 | 2024-06-27 | 2025-05-16 |
 | [Vakitsiz Geldin](https://open.spotify.com/track/4sXE51Fg8kmWLzoi9cXvun) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Aşığım Hâlâ](https://open.spotify.com/album/26zTtSG5cpSRvIS7ibxG0O) | 3:41 | 2024-06-27 | 2024-11-11 |
 | [Vaktimiz Dar Sevgilim](https://open.spotify.com/track/61J7Zh1Nj0vCive6SKdy7O) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Bir Yol Bu](https://open.spotify.com/album/2OAJgY6y0u5IIRJES9mP03) | 4:54 | 2025-05-15 | 2025-08-20 |
+| [Vazgeçemem](https://open.spotify.com/track/0CMXBZFcJZkqCpTVnGsiod) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Vazgeçemem](https://open.spotify.com/album/665aKvT1hmIZ3ixjNNa0T1) | 3:58 | 2025-12-18 |  |
 | [Vazgeçmem](https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [4K](https://open.spotify.com/album/1mPLFeBrXi3wjDJWTqjI70) | 2:38 | 2025-12-04 | 2025-12-12 |
 | [VEDA BUSESİ](https://open.spotify.com/track/0I3tf6OIWLHGPrphkE7v8W) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [VEDA BUSESİ](https://open.spotify.com/album/7JI3SLFixTxEybtyqQdtui) | 3:21 | 2025-11-27 | 2025-12-05 |
 | [Vertigo](https://open.spotify.com/track/2h48UWdDoaf2L8fJ3y3gdw) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Vertigo](https://open.spotify.com/album/4XjYiO58q1YBE31SNDh6g5) | 2:44 | 2025-07-31 | 2025-08-08 |

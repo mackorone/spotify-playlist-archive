@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Ajnabee",
+        "url": "https://open.spotify.com/album/0iZDAWTdaX2HOk8J7CJ63i"
+      },
+      "artists": [
+        {
+          "name": "The Western Ghats",
+          "url": "https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "Ajnabee",
+      "url": "https://open.spotify.com/track/7qH8uppXORP4UQvXGc9dNl"
+    },
+    {
+      "album": {
         "name": "AKELE",
         "url": "https://open.spotify.com/album/2oIwSmIxmfDH9Ii2PWBMCN"
       },
@@ -4490,7 +4508,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 194380,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/0jb3Iwz56sdRxPXlXhlWPY"
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 136000,
       "name": "Dilshad",
       "url": "https://open.spotify.com/track/1dNuiofeiGzh32uqPSbjvw"
@@ -14832,7 +14850,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 333000,
       "name": "Madno",
       "url": "https://open.spotify.com/track/6JQGsT4utFMNXUanXvrAEd"
@@ -19040,6 +19058,32 @@
       "duration_ms": 173164,
       "name": "Raabta",
       "url": "https://open.spotify.com/track/0cE5wo0RTJf4ieALG6howp"
+    },
+    {
+      "album": {
+        "name": "Raah",
+        "url": "https://open.spotify.com/album/1DtMpwSW0gKR3nZ6Cbd7VE"
+      },
+      "artists": [
+        {
+          "name": "C&A Kalatva",
+          "url": "https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6"
+        },
+        {
+          "name": "Qaaz",
+          "url": "https://open.spotify.com/artist/2ekPx6udAuwSYk5Prd404H"
+        },
+        {
+          "name": "A Adithya Sreeraam",
+          "url": "https://open.spotify.com/artist/4ozrCJouzUEgS8erOyoham"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147087,
+      "name": "Raah",
+      "url": "https://open.spotify.com/track/4wnzvWZJG5U5bdkoRPRyqY"
     },
     {
       "album": {
@@ -23740,7 +23784,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 184447,
       "name": "the party song",
       "url": "https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27"
@@ -23784,16 +23828,12 @@
         {
           "name": "Priyansh Srivastava",
           "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
-        },
-        {
-          "name": "Aniket Shukla",
-          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
         }
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 248118,
+      "duration_ms": 249062,
       "name": "Theher Ja",
       "url": "https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw"
     },

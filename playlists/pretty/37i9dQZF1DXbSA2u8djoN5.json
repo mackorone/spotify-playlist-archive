@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Bvcovia, Marko Glass",
-  "num_followers": 22169,
+  "num_followers": 22207,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-12-18 22:00:34",
       "album": {
+        "name": "Sa MM Care Pleaca",
+        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "duration_ms": 119343,
+      "name": "Sa MM Care Pleaca",
+      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
+    },
+    {
+      "added_at": "2025-12-18 22:00:34",
+      "album": {
         "name": "ultima (noapte)",
         "url": "https://open.spotify.com/album/6rlFAvwB2e8ye7JeQZkxZC"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 228750,
       "name": "ultima (noapte)",
       "url": "https://open.spotify.com/track/2CGaabfPeMsfEUpYN7gOti"
-    },
-    {
-      "added_at": "2025-12-18 22:00:34",
-      "album": {
-        "name": "Sa MM Care Pleaca",
-        "url": "https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        }
-      ],
-      "duration_ms": 119343,
-      "name": "Sa MM Care Pleaca",
-      "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
     },
     {
       "added_at": "2025-12-18 22:00:34",
@@ -347,26 +347,6 @@
     {
       "added_at": "2025-12-18 22:00:34",
       "album": {
-        "name": "Arunca-ma La Lei",
-        "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        },
-        {
-          "name": "Badd G",
-          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
-        }
-      ],
-      "duration_ms": 152144,
-      "name": "Arunca-ma La Lei",
-      "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
-    },
-    {
-      "added_at": "2025-12-18 22:00:34",
-      "album": {
         "name": "Poti Sa-mi Iei Tot (Doamna si Vagabondu)",
         "url": "https://open.spotify.com/album/5VeMNO8D7StyEC3YYKbz9B"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 193481,
       "name": "Poti Sa-mi Iei Tot - Doamna si Vagabondu",
       "url": "https://open.spotify.com/track/0fq0NieyTdydUQJ0FWrtTy"
+    },
+    {
+      "added_at": "2025-12-18 22:00:34",
+      "album": {
+        "name": "Arunca-ma La Lei",
+        "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        },
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        }
+      ],
+      "duration_ms": 152144,
+      "name": "Arunca-ma La Lei",
+      "url": "https://open.spotify.com/track/7ey9WXRJsnb9Bgsg7U41xb"
     },
     {
       "added_at": "2025-12-18 22:00:34",
@@ -831,6 +831,30 @@
     {
       "added_at": "2025-12-18 22:00:34",
       "album": {
+        "name": "Deliric X Silent Strike III",
+        "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
+      },
+      "artists": [
+        {
+          "name": "Deliric",
+          "url": "https://open.spotify.com/artist/357du2352LkLWerYcY49WY"
+        },
+        {
+          "name": "Silent Strike",
+          "url": "https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 257259,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
+    },
+    {
+      "added_at": "2025-12-18 22:00:34",
+      "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
-    },
-    {
-      "added_at": "2025-12-18 22:00:34",
-      "album": {
-        "name": "Deliric X Silent Strike III",
-        "url": "https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch"
-      },
-      "artists": [
-        {
-          "name": "Deliric",
-          "url": "https://open.spotify.com/artist/357du2352LkLWerYcY49WY"
-        },
-        {
-          "name": "Silent Strike",
-          "url": "https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 257259,
-      "name": "Adam",
-      "url": "https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ"
     },
     {
       "added_at": "2025-12-18 22:00:34",

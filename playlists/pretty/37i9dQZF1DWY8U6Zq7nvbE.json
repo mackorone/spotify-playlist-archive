@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2439001,
+  "num_followers": 2439014,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Listen to Your Heart",
-        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
-      },
-      "artists": [
-        {
-          "name": "Grey Grey",
-          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Listen to Your Heart",
-      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 223874,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Listen to Your Heart",
+        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+      },
+      "artists": [
+        {
+          "name": "Grey Grey",
+          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+        }
+      ],
+      "duration_ms": 186153,
+      "name": "Listen to Your Heart",
+      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -843,8 +843,8 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Nobody Gets Me",
-        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
         }
       ],
-      "duration_ms": 158080,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
+      "duration_ms": 206819,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -923,8 +923,8 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1"
+        "name": "Nobody Gets Me",
+        "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY"
         }
       ],
-      "duration_ms": 206819,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF"
+      "duration_ms": 158080,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Love Or Something Like It",
-        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 172741,
-      "name": "Love Or Something Like It",
-      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Just The Two Of Us - Acoustic",
         "url": "https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 186008,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Love Or Something Like It",
+        "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 172741,
+      "name": "Love Or Something Like It",
+      "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Mitchell",
-          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "All of me - Acoustic",
         "url": "https://open.spotify.com/album/2TsiANPJWN2t0z0ya5wAcd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 268551,
       "name": "All of me - Acoustic",
       "url": "https://open.spotify.com/track/5vWzHxL50EEk7GCEBhXwrQ"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/7yLDElxlTWwOKPaZ3fTMH6"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Mitchell",
+          "url": "https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/6ZwapbdaYHnbZ0ZJr79SP7"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
-      },
-      "artists": [
-        {
-          "name": "Water and Salt",
-          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
-        }
-      ],
-      "duration_ms": 242011,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "In The Meantime",
         "url": "https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 178966,
       "name": "In The Meantime",
       "url": "https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
+      },
+      "artists": [
+        {
+          "name": "Water and Salt",
+          "url": "https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv"
+        }
+      ],
+      "duration_ms": 242011,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Kiss An Angel Good Mornin'",
-        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+        "name": "Jealous (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
         }
       ],
-      "duration_ms": 164785,
-      "name": "Kiss An Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
+      "duration_ms": 211639,
+      "name": "Jealous (Acoustic)",
+      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1275,34 +1275,18 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Jealous (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
       },
       "artists": [
         {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
         }
       ],
-      "duration_ms": 211639,
-      "name": "Jealous (Acoustic)",
-      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
-        "name": "How to save a life - Acoustic version",
-        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
-      },
-      "artists": [
-        {
-          "name": "VDVM",
-          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
-        }
-      ],
-      "duration_ms": 207824,
-      "name": "How to save a life - Acoustic version",
-      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1319,6 +1303,22 @@
       "duration_ms": 197850,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "How to save a life - Acoustic version",
+        "url": "https://open.spotify.com/album/2EKwCG3Kl1zrhIPhLpC353"
+      },
+      "artists": [
+        {
+          "name": "VDVM",
+          "url": "https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4"
+        }
+      ],
+      "duration_ms": 207824,
+      "name": "How to save a life - Acoustic version",
+      "url": "https://open.spotify.com/track/7HGtkOGnbN42cQpktxHq1i"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW"
-      },
-      "artists": [
-        {
-          "name": "Sky Garden",
-          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
-        }
-      ],
-      "duration_ms": 172732,
-      "name": "People",
-      "url": "https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 160754,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3HF431lIPIv0IGcVUpmnxW"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "duration_ms": 172732,
+      "name": "People",
+      "url": "https://open.spotify.com/track/0uXTFIFDxA7Wxaq56rhN9C"
     },
     {
       "added_at": "2025-12-19 08:03:17",

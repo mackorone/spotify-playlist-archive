@@ -423,6 +423,28 @@
     },
     {
       "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+    },
+    {
+      "album": {
         "name": "Cu\u00e1nto Cuesta",
         "url": "https://open.spotify.com/album/1gvqyzXOiMGuJKNhSLGdRf"
       },
@@ -1614,7 +1636,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 166720,
       "name": "Las Heladas (En Vivo)",
       "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,292 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 5 | [midnight](https://open.spotify.com/track/2I4wbn6mSyyXJOXMlNB12n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 3:18 |
 | 6 | [Babel \- Re\-recorded](https://open.spotify.com/track/10xfnXloDbfdwDwA9MyEyK) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Babel \(Re\-recorded\)](https://open.spotify.com/album/2eyT1jowj8QUaDUl0qz9fO) | 4:38 |
 | 7 | [AFTER TASTE](https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [AFTER TASTE](https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9) | 4:07 |
-| 8 | [Hero or Villan](https://open.spotify.com/track/7HhwLqAARQFWlmfAu3H6sJ) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Hero or Villan](https://open.spotify.com/album/0hRQVjWETPPQcOvi5ilLAW) | 3:03 |
+| 8 | [Hero or Villain](https://open.spotify.com/track/7HhwLqAARQFWlmfAu3H6sJ) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Hero or Villain](https://open.spotify.com/album/0hRQVjWETPPQcOvi5ilLAW) | 3:03 |
 | 9 | [Sparkling Wine](https://open.spotify.com/track/4Zs8qpSHIKyHH0jzdj7MTX) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [Sparkling Wine](https://open.spotify.com/album/75Th3C5rIrrDfCDBtq5073) | 2:57 |
 | 10 | [ちょっちゅね！！！ \(feat\. R\-指定\)](https://open.spotify.com/track/38nPGn1D7Spw6gNfSVHtdo) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [親子星 \(Deluxe\)](https://open.spotify.com/album/3hCyx8xnpqoVpXeqE3VbGu) | 2:32 |
 | 11 | [ニコニコ](https://open.spotify.com/track/6lcB8WwLLqy9gCuKKLysL6) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [ニコニコ](https://open.spotify.com/album/7m82eOT4KRYDwt4dF7GBXF) | 2:28 |

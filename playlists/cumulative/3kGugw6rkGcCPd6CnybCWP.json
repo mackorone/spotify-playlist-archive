@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Dans",
+        "url": "https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b"
+      },
+      "artists": [
+        {
+          "name": "Dapper Muis",
+          "url": "https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236450,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8"
+    },
+    {
+      "album": {
         "name": "Days, Years & Months",
         "url": "https://open.spotify.com/album/1U63ykUIU3haPpDKQtNvZB"
       },

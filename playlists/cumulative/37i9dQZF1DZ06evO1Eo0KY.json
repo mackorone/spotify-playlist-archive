@@ -2621,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Symptoms",
+        "url": "https://open.spotify.com/album/673hOZVstNxB6Xm6WTRVSS"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Symptoms",
+      "url": "https://open.spotify.com/track/5O9E2CjJr6e1nOlzez3iey"
+    },
+    {
+      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },

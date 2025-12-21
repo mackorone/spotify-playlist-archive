@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Spotify editors highlight the best of 2025, listen to women at full volume! Cover: <a href="spotify:artist:1IXhBghuEWlU4soJjaV5gH">Min Taka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,600 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,599 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

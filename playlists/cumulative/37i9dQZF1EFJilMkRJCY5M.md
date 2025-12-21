@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 9 hr 4 min
+177 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [die 4 u](https://open.spotify.com/track/0EpvQGvlRj414hJ1s93UP9) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/1jS2Iktf5SkTmQH04nWHkZ) | 2:53 | 2025-11-27 |  |
 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 | 2022-05-29 | 2025-11-28 |
 | [Different](https://open.spotify.com/track/6bftsMpTdePICqVv971m9v) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/7HMr6WMf0T6E3RSOCskl4L) | 2:47 | 2025-07-24 | 2025-07-30 |
+| [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 | 2025-12-20 |  |
 | [Down the Road](https://open.spotify.com/track/2RaRWh3h6F08UmDVf2LVlm) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn) | 3:13 | 2025-10-08 |  |
 | [Easy for You to Say](https://open.spotify.com/track/2JlJyrMZetXkuwAL7ntuWz) | [Dave Blenkhorn](https://open.spotify.com/artist/2PnXjyP9d0S0qW7XL8SIvh), [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [Easy for You to Say](https://open.spotify.com/album/57359rsxD8n5crU2jNz7tP) | 3:04 | 2025-07-24 | 2025-07-31 |
 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 | 2022-05-29 |  |
@@ -125,6 +126,7 @@
 | [Oh Emma](https://open.spotify.com/track/1QN3b7hY39xs4Gr2Szai5f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:34 | 2024-05-26 |  |
 | [Oh Emma](https://open.spotify.com/track/3Hw3iY34TYPXLDochBPjqc) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Oh Emma](https://open.spotify.com/album/05X7826UK8nDVhJ0AOWNJp) | 3:34 | 2024-05-17 | 2024-05-27 |
 | [Old Love New](https://open.spotify.com/track/4NsgNG9MNSeuN5jbHdCAsl) | [Makenzie Schriner](https://open.spotify.com/artist/5Z9ZOYc8dwjeD054CUqbBu) | [Old Love New](https://open.spotify.com/album/4XViFfHuuvDAHUCZIqWyQ6) | 3:06 | 2022-05-29 |  |
+| [One Christmas](https://open.spotify.com/track/2GOH0jfQmq1lodavdkPeXi) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Abby Anderson’s Merry Merry\-achi Christmas](https://open.spotify.com/album/0CxUcChvyRCwVlaabL3wPO) | 3:00 | 2025-12-20 |  |
 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 | 2022-05-29 |  |
 | [Own My Body](https://open.spotify.com/track/5a6QsW35imEPjk7TP9g4N6) | [MEG + JAC](https://open.spotify.com/artist/6q6isSwnbC9MxmWGZYl7sk), [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [Own My Body](https://open.spotify.com/album/6WL5v0CjTwys4HuN6RSH3Y) | 2:42 | 2024-01-28 |  |
 | [Paradise](https://open.spotify.com/track/5Jmsr67WAnCuhdx0lCobdG) | [Avaena](https://open.spotify.com/artist/6RM0SjbUGAqr5N3CFLT9Yc) | [Paradise](https://open.spotify.com/album/3sKhpHTeMpNqmjlXSMurKt) | 1:31 | 2025-07-24 | 2025-08-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,958 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,976 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 74 | [Everybody Ate](https://open.spotify.com/track/2AOPRnFQGqUdtEvGuU7fGs) | [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Everybody Ate](https://open.spotify.com/album/6rBBpdKbdlGhbXoaXP0FNi) | 1:52 |
 | 75 | [Coke Bottle Body](https://open.spotify.com/track/4rcoYD8ZynhOMzSsoW1Sm7) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 3:41 |
 
-Snapshot ID: `AAAAAHhNNKeM75ywV6hLRhasqzFnaKhQ`
+Snapshot ID: `AAAAAHf1J0axjX3KZc97cQg9TqqUMTS/`

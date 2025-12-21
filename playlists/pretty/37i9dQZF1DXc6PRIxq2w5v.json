@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only",
-  "num_followers": 187047,
+  "num_followers": 187079,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,30 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "JUDAS",
+        "url": "https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "JUDAS",
+      "url": "https://open.spotify.com/track/7gDMLxabbUqNucRhazMmeM"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Jo\u00e3o 16:33",
         "url": "https://open.spotify.com/album/2Oipu9q43QiXD7RwCiGN6s"
       },
@@ -155,6 +179,22 @@
       "duration_ms": 157393,
       "name": "Jo\u00e3o 16:33",
       "url": "https://open.spotify.com/track/3Da9B1a75oSL23u8UqS4nE"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 198267,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -183,18 +223,18 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Detalhes",
-        "url": "https://open.spotify.com/album/35Ig0rbCPiBZYvlDXe3X4H"
+        "name": "Guardado",
+        "url": "https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W"
       },
       "artists": [
         {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
         }
       ],
-      "duration_ms": 198267,
-      "name": "Detalhes",
-      "url": "https://open.spotify.com/track/1Bie0bzOswMPKBznGUv3Bb"
+      "duration_ms": 222214,
+      "name": "Guardado",
+      "url": "https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -223,22 +263,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Guardado",
-        "url": "https://open.spotify.com/album/2ZMxaNUQpbTwSwm9GlVN0W"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Guardado",
-      "url": "https://open.spotify.com/track/0ZlsRfRclj0ycEPk0XTF4J"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Eu Vou Viver",
         "url": "https://open.spotify.com/album/14U0AXMCTkBfRlT1uaD5X1"
       },
@@ -259,30 +283,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "JUDAS",
-        "url": "https://open.spotify.com/album/1HmnsaJjvtrbjaYzE6Tc04"
-      },
-      "artists": [
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "JUDAS",
-      "url": "https://open.spotify.com/track/7gDMLxabbUqNucRhazMmeM"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/5rJC6uOioyRXvD28qvdv1v"
       },
@@ -295,38 +295,6 @@
       "duration_ms": 138187,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/0HC8kh6xCPMmMm7PKI9L4S"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "P\u00e9s Descal\u00e7os",
-        "url": "https://open.spotify.com/album/2t1XM0tpDYOTnWKLmnF4wD"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "P\u00e9s Descal\u00e7os",
-      "url": "https://open.spotify.com/track/1mqXptxIywQXMnCXAQqexs"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "Cristo E Mais Nada",
-        "url": "https://open.spotify.com/album/1S7DxfhcxZncCq7SKqm9iQ"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 229375,
-      "name": "Contempla\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0mt27i3k4NaekEtyerwLUr"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -347,6 +315,38 @@
       "duration_ms": 154300,
       "name": "Cicatrizes",
       "url": "https://open.spotify.com/track/7KaAZJxdFRSW8FTDkJZfcV"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "Cristo E Mais Nada",
+        "url": "https://open.spotify.com/album/1S7DxfhcxZncCq7SKqm9iQ"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 229375,
+      "name": "Contempla\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0mt27i3k4NaekEtyerwLUr"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "P\u00e9s Descal\u00e7os",
+        "url": "https://open.spotify.com/album/2t1XM0tpDYOTnWKLmnF4wD"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "P\u00e9s Descal\u00e7os",
+      "url": "https://open.spotify.com/track/1mqXptxIywQXMnCXAQqexs"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "Live do Ano",
+        "url": "https://open.spotify.com/album/575GmtWM5hdJa78HmVI545"
+      },
+      "artists": [
+        {
+          "name": "AO Cubo",
+          "url": "https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV"
+        }
+      ],
+      "duration_ms": 408576,
+      "name": "1980",
+      "url": "https://open.spotify.com/track/6Gu7frNvliV21EVJFhW65V"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Amor Freestyle",
         "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 168861,
       "name": "Amor Freestyle",
       "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "Live do Ano",
-        "url": "https://open.spotify.com/album/575GmtWM5hdJa78HmVI545"
-      },
-      "artists": [
-        {
-          "name": "AO Cubo",
-          "url": "https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV"
-        }
-      ],
-      "duration_ms": 408576,
-      "name": "1980",
-      "url": "https://open.spotify.com/track/6Gu7frNvliV21EVJFhW65V"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "O Apocalipse \u00c9 Real",
+        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 155084,
+      "name": "O Apocalipse \u00c9 Real",
+      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Renuncio o Meu Eu",
         "url": "https://open.spotify.com/album/2iZwzjtMRpJzJItKSPwZ3D"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 190408,
       "name": "Renuncio o Meu Eu",
       "url": "https://open.spotify.com/track/5qjBbam0G6iIZgbdtinV61"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
-        "name": "O Apocalipse \u00c9 Real",
-        "url": "https://open.spotify.com/album/0L1ThEUkm2eBunpHdSNTmq"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 155084,
-      "name": "O Apocalipse \u00c9 Real",
-      "url": "https://open.spotify.com/track/4XNDo3q3PjOoTjQkJ3PK1Z"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "1 Jo\u00e3o 4:18",
-        "url": "https://open.spotify.com/album/73renOoWwTlCUxzX6wMdjn"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        }
-      ],
-      "duration_ms": 166833,
-      "name": "1 Jo\u00e3o 4:18",
-      "url": "https://open.spotify.com/track/3UmAeX6ip7euxUQ8kBXSJ5"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Metanoia",
         "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 171428,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "1 Jo\u00e3o 4:18",
+        "url": "https://open.spotify.com/album/73renOoWwTlCUxzX6wMdjn"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 166833,
+      "name": "1 Jo\u00e3o 4:18",
+      "url": "https://open.spotify.com/track/3UmAeX6ip7euxUQ8kBXSJ5"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -983,30 +983,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Sangue",
-        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Sangue",
-      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Sangue",
+      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
+        "name": "Tamo Junto E Misturado",
+        "url": "https://open.spotify.com/album/2ZZYZuq6P5f01QRSeDbVce"
+      },
+      "artists": [
+        {
+          "name": "AO Cubo",
+          "url": "https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV"
+        }
+      ],
+      "duration_ms": 247476,
+      "name": "365 Chances",
+      "url": "https://open.spotify.com/track/12ywId8y3RfRoQBME6pmwk"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
         "name": "Procurado",
         "url": "https://open.spotify.com/album/50pAoiOssYAgexHUdlBu1e"
       },
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Tamo Junto E Misturado",
-        "url": "https://open.spotify.com/album/2ZZYZuq6P5f01QRSeDbVce"
-      },
-      "artists": [
-        {
-          "name": "AO Cubo",
-          "url": "https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV"
-        }
-      ],
-      "duration_ms": 247476,
-      "name": "365 Chances",
-      "url": "https://open.spotify.com/track/12ywId8y3RfRoQBME6pmwk"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Se Anima",
         "url": "https://open.spotify.com/album/0faa1nNdzx3P1odMtra4m8"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Boas Novas",
-        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Boas Novas",
-      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "777 na Mente",
         "url": "https://open.spotify.com/album/03yWHI8We0NZAfknyQJ0qT"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 165899,
       "name": "777 na Mente",
       "url": "https://open.spotify.com/track/0aSkRNhaDky7FO13Z13hGb"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
     },
     {
       "added_at": "2025-12-19 03:01:33",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-12-19 03:01:33",
       "album": {
-        "name": "Passos",
-        "url": "https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 195756,
-      "name": "Passos",
-      "url": "https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL"
-    },
-    {
-      "added_at": "2025-12-19 03:01:33",
-      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 187950,
       "name": "Alma",
       "url": "https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA"
+    },
+    {
+      "added_at": "2025-12-19 03:01:33",
+      "album": {
+        "name": "Passos",
+        "url": "https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 195756,
+      "name": "Passos",
+      "url": "https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL"
     },
     {
       "added_at": "2025-12-19 03:01:33",

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-827 songs - 2 day 0 hr 47 min
+829 songs - 2 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 | 2024-04-01 | 2024-05-16 |
 | [Topknot](https://open.spotify.com/track/1bxv3sjiuqgmkgNkjN59Tc) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Cornershop & The Double 'O' Groove Of](https://open.spotify.com/album/2xBCzmHtb0SuHcUmTYim64) | 3:39 | 2024-07-29 | 2024-09-08 |
 | [Tossed Away](https://open.spotify.com/track/7vNMpCeU4hQSU94pdcmdr0) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:50 | 2025-08-25 | 2025-09-11 |
+| [Touched By Rodin In A Paris Museum](https://open.spotify.com/track/7IIY6X0BkfnPD8h3dz1t8G) | [Patty Waters](https://open.spotify.com/artist/51Oyt5Jb1UvVmT9n90T8cY) | [You Thrill Me: A Musical Odyssey 1960 \- 1979](https://open.spotify.com/album/7tuWv7aOp4XP9J9M7zFTHy) | 14:36 | 2025-12-20 |  |
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 | 2024-03-10 |
 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2025-03-01 | 2025-05-09 |
 | [Tristan in der Bar](https://open.spotify.com/track/4vu7aSR61LyBlrF8MoppoF) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Curiosum](https://open.spotify.com/album/2CaEJCDIN1DCOw0naWrhd8) | 2:55 | 2024-07-12 | 2024-09-08 |
@@ -798,6 +799,7 @@
 | [What We Had](https://open.spotify.com/track/77bNzHFSySgW4GgkYaJs8x) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Woodland](https://open.spotify.com/album/7zZI8ki72x4CYVJ1H2JgUA) | 3:58 | 2025-04-15 | 2025-05-09 |
 | [Wheeling](https://open.spotify.com/track/2uySYaNa2fZhuUZIlCg6pH) | [Big Bend](https://open.spotify.com/artist/3wMxhIZL4RU4vomEuKlu8G) | [Wheeling](https://open.spotify.com/album/3ZZWP0kXZ3c4nMDyufC5W0) | 4:04 | 2024-07-26 | 2024-09-08 |
 | [When Debbie's Back From Texas](https://open.spotify.com/track/0gHTUeFmeb0k2led76eJHn) | [Stina Nordenstam](https://open.spotify.com/artist/7gPBpCNPTXfU4B6GJ17CwL) | [And She Closed Her Eyes](https://open.spotify.com/album/13afX31wQfHT87BjRUFjU1) | 4:08 | 2025-10-09 | 2025-11-15 |
+| [When Love Lived](https://open.spotify.com/track/0Uqaq9LjLtbWD1AORKGoOx) | [Earth House Hold](https://open.spotify.com/artist/7hWxpOKCS5F6mYf4NCrP8J) | [When Love Lived](https://open.spotify.com/album/2b6UF3nj6sWjdIM5cNkrGr) | 10:13 | 2025-12-20 |  |
 | [When You Love Someone](https://open.spotify.com/track/37LXvMkc6YhGGEoTQn6CHi) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 7:11 | 2025-05-17 | 2025-07-04 |
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [Whirlweek](https://open.spotify.com/track/6O7wJ5qyIeiBwCzbepuYnK) | [David Grubbs](https://open.spotify.com/artist/03XSVbjjgDX2hrw1VXlj87) | [The Spectrum Between](https://open.spotify.com/album/5WhrK9nlsdcle9fGCLvE3I) | 4:35 | 2024-08-10 | 2024-09-08 |

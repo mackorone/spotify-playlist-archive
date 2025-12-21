@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,749 songs - 8 day 6 hr 47 min
+3,750 songs - 8 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -887,6 +887,7 @@
 | [DOSMIL12](https://open.spotify.com/track/7B8R7aR8PGHVAAQUgX2Dq5) | [Esteban ZG](https://open.spotify.com/artist/3bZQ5XeGVj4EOhwIzhVrIa), [Satelo](https://open.spotify.com/artist/2aEonlOUwQ2geovvYxpoHX) | [DOSMIL12](https://open.spotify.com/album/1oWj2c4nP2PMX8kNDgqcqK) | 2:56 | 2025-12-18 |  |
 | [Double Up](https://open.spotify.com/track/3F21MFNDoD9ovk9EG0rC3o) | [prodl3vi](https://open.spotify.com/artist/2eiR9qBkXpYLFmvB6r7sVd), [axaero](https://open.spotify.com/artist/5RuSwAt2v9Oy1uMQWzhZAz) | [Double Up](https://open.spotify.com/album/1wr2hQLbwuH6YtTBIB1myA) | 2:54 | 2025-06-23 |  |
 | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/track/3loZeLVTG8DjJLjMbnge2t) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/album/0Oo0LauukZP2mXWR1n4exK) | 2:01 | 2025-07-28 |  |
+| [Doubling Down](https://open.spotify.com/track/7gXtVsi4nxUp6r6adDaQO8) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Started](https://open.spotify.com/album/46sgVlfE4GLSGJlzob6k8x) | 3:58 | 2025-12-20 |  |
 | [Dove potremmo volare](https://open.spotify.com/track/6E5inIWTfbmyqz9JM2CpHo) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:07 | 2021-11-13 |  |
 | [dove vai](https://open.spotify.com/track/6V9d6QWqTAMGEgRuk854zU) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [scompigliato](https://open.spotify.com/album/7GkWaSB7g9aG4hAV0gsGe4) | 3:30 | 2025-06-05 |  |
 | [Down Bad](https://open.spotify.com/track/28Jr5KVmMrBKLSlkpSwQnK) | [YKI\-Vlad](https://open.spotify.com/artist/1RPdZryHy0yaoNZIGgwC5L) | [Down Bad](https://open.spotify.com/album/73KhN8ozSFPOV4bOmxCJV3) | 2:45 | 2025-10-08 |  |
@@ -2375,7 +2376,7 @@
 | [One More Time](https://open.spotify.com/track/3BAVKeHXjW1IvxyZkyTdVh) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:13 | 2025-04-09 |  |
 | [One Of Those Things](https://open.spotify.com/track/4nNgCSV5edJeQWjjbYN4in) | [Beija Flo](https://open.spotify.com/artist/4GaPbBHKMH1cxz6DG22fJl) | [One Of Those Things](https://open.spotify.com/album/3QL9C2iVYHeZg1J28LqtSs) | 3:01 | 2025-11-05 |  |
 | [ONE SECOND \(feat\. Yung Lean\)](https://open.spotify.com/track/2TGwmgjl7qszphP6hfe6Df) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Cold Visions](https://open.spotify.com/album/2cEL04tddUszYFy6tEM1rI) | 1:51 | 2025-07-28 |  |
-| [One Step Closer to You](https://open.spotify.com/track/4fuaqQTVuQOr7vTNdfXGax) | [Vincent Projects](https://open.spotify.com/artist/6P8kClrXTKESI4G5bwW6gJ) | [Five Horizons](https://open.spotify.com/album/4JBYAkVluXXDBSLuD3MTg2) | 3:12 | 2025-12-11 |  |
+| [One Step Closer to You](https://open.spotify.com/track/4fuaqQTVuQOr7vTNdfXGax) | [Vincent Projects](https://open.spotify.com/artist/6P8kClrXTKESI4G5bwW6gJ) | [Five Horizons](https://open.spotify.com/album/4JBYAkVluXXDBSLuD3MTg2) | 3:12 | 2025-12-11 | 2025-12-21 |
 | [One Way! 2](https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way! 2](https://open.spotify.com/album/1BIHuR5QMyGqhTqy9Ldtvf) | 3:45 | 2025-07-28 |  |
 | [Only Dreamer is Real](https://open.spotify.com/track/52yMT5xCwSivgSHXuohwXl) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Only Dreamer is Real](https://open.spotify.com/album/1YkKOsvGuRpYMzWgqN5W8f) | 9:31 | 2025-06-04 |  |
 | [Only love matters](https://open.spotify.com/track/7kl0acdjYhuxJgF4w7muMd) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters](https://open.spotify.com/album/7nCc9JShXPUm0N3WysAMO6) | 3:11 | 2025-09-02 |  |

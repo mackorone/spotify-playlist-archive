@@ -4,7 +4,7 @@
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-62 songs - 2 hr 47 min
+63 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 | 2023-03-10 |  |
 | [Alpaca Hearts](https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Alpaca Hearts](https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt) | 3:18 | 2023-03-10 |  |
 | [Alto Calibre](https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Tapz Money](https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt) | [Alto Calibre](https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek) | 2:40 | 2023-03-10 | 2024-08-12 |
+| [Baila Esta Cumbia](https://open.spotify.com/track/58uqJXtPu8nzTLMJxVN45C) | [Esebree](https://open.spotify.com/artist/2tGm14JsABUh9tc7GmS0ft), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Calle 360](https://open.spotify.com/album/4pZxhIj55GzPJcR9OP5Cpf) | 2:45 | 2025-12-21 |  |
 | [BBS Interlude](https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 0:30 | 2023-03-10 | 2025-11-14 |
 | [Beamer](https://open.spotify.com/track/3OL0bIhbnzpPgQlR8BWfRg) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Beamer](https://open.spotify.com/album/6Rs7o9wq4jXCnCJuwfo0Ce) | 1:57 | 2023-03-10 | 2023-12-19 |
 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 | 2023-03-10 |  |

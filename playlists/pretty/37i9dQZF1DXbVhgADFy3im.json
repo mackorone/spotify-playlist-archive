@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1157559,
+  "num_followers": 1159140,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
+        "name": "Good Goodbye",
+        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Good Goodbye",
+      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
         "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "Good Goodbye",
-        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Good Goodbye",
-      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 140250,
       "name": "High On You",
       "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
-        "name": "Naam Chale",
-        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
-      },
-      "artists": [
-        {
-          "name": "Vikram Sarkar",
-          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
-        }
-      ],
-      "duration_ms": 149375,
-      "name": "Naam Chale",
-      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -731,6 +715,22 @@
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
+        "name": "Naam Chale",
+        "url": "https://open.spotify.com/album/19mkO5hlqAU0e0qMyIHign"
+      },
+      "artists": [
+        {
+          "name": "Vikram Sarkar",
+          "url": "https://open.spotify.com/artist/4naSOUBsPQeISuibs56w6Y"
+        }
+      ],
+      "duration_ms": 149375,
+      "name": "Naam Chale",
+      "url": "https://open.spotify.com/track/6M6Jgms4Z3x5xYLbnMk5TU"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1007,18 +1007,26 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+        "name": "Kailasa",
+        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
       },
       "artists": [
         {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+          "name": "Kailash Kher",
+          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+        },
+        {
+          "name": "Paresh Kamath",
+          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
+        },
+        {
+          "name": "Naresh Kamath",
+          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
         }
       ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+      "duration_ms": 323520,
+      "name": "Teri Deewani",
+      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1043,26 +1051,18 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "Kailasa",
-        "url": "https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD"
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
       },
       "artists": [
         {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        },
-        {
-          "name": "Paresh Kamath",
-          "url": "https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f"
-        },
-        {
-          "name": "Naresh Kamath",
-          "url": "https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ"
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
         }
       ],
-      "duration_ms": 323520,
-      "name": "Teri Deewani",
-      "url": "https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T"
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "YRF Top 10 - Falling in Love",
-        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 260536,
-      "name": "Dil Diyan Gallan",
-      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
         "name": "Andaaz e Karam",
         "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 437679,
       "name": "Andaaz e Karam",
       "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
+        "name": "YRF Top 10 - Falling in Love",
+        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 260536,
+      "name": "Dil Diyan Gallan",
+      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
+        "name": "Everything Is Romantic",
+        "url": "https://open.spotify.com/album/6ZTlwCCHO88CwzKxXiotaS"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Club",
+          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Everything Is Romantic",
+      "url": "https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
         "name": "Tum Mere Na Huye (From \u201cThamma\u201d)",
         "url": "https://open.spotify.com/album/7jAkBw3P85Q4b96Ecfs9XA"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 194640,
       "name": "Tum Mere Na Huye - From \u201cThamma\u201d",
       "url": "https://open.spotify.com/track/33wyJm0ojRHTBzzmHy70IB"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
-        "name": "Everything Is Romantic",
-        "url": "https://open.spotify.com/album/6ZTlwCCHO88CwzKxXiotaS"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Club",
-          "url": "https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Everything Is Romantic",
-      "url": "https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1363,6 +1363,30 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
+        "name": "Sitaare (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 242916,
+      "name": "Sitaare (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -1379,6 +1403,26 @@
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
+        "name": "O Saathi (From \"Baaghi 2\")",
+        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "O Saathi",
+      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1411,26 +1455,6 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "O Saathi (From \"Baaghi 2\")",
-        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        }
-      ],
-      "duration_ms": 251818,
-      "name": "O Saathi",
-      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
         "name": "WITHOUT PREJUDICE",
         "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
       },
@@ -1451,34 +1475,6 @@
       "duration_ms": 171789,
       "name": "Qatal",
       "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
-        "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "url": "https://open.spotify.com/album/3vVIhgkDoC0vRBba5drHPe"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Raghav Chaitanya",
-          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
-        },
-        {
-          "name": "Varun Jain",
-          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
-        },
-        {
-          "name": "Indraneel",
-          "url": "https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B"
-        }
-      ],
-      "duration_ms": 264089,
-      "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1507,26 +1503,30 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "Sitaare (From \"Ikkis\")",
-        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+        "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/3vVIhgkDoC0vRBba5drHPe"
       },
       "artists": [
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         },
         {
-          "name": "White Noise Collectives",
-          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
         },
         {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Indraneel",
+          "url": "https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B"
         }
       ],
-      "duration_ms": 242916,
-      "name": "Sitaare (From \"Ikkis\")",
-      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+      "duration_ms": 264089,
+      "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE"
     },
     {
       "added_at": "2025-12-19 07:05:39",

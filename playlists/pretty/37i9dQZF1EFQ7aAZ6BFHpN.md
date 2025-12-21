@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 158 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 158 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 32 | [Bess You Is My Woman Now](https://open.spotify.com/track/4nGdWMAi7zChqNfuMzUHxc) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 5:28 |
 | 33 | [Love Walked In](https://open.spotify.com/track/0EKksM4Hbt4DwTTApwBcDZ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Rhapsody In Blue: Saint\-Säens, Ravel, Gershwin](https://open.spotify.com/album/3hFTO4FkWbD6SD0ekUY5f1) | 3:59 |
 | 34 | [Oh, Lady Be Good](https://open.spotify.com/track/0NR8vZH2fmIG0HDqYnYMpS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 4:01 |
-| 35 | [Dawn of a new day](https://open.spotify.com/track/4YpFUa7c9naE00Dtb14ZMZ) | [Horace Heidt And His Orchestra](https://open.spotify.com/artist/1WeF9tMRvJCIcd9WDMyz40), [Horace Heidt](https://open.spotify.com/artist/4l7CLwtYLJMTlrBpoNJtMy) | [Horace Heidt & His Orchestra, Popular Songs](https://open.spotify.com/album/1tF2sOjVZtdUvWJbeRHLMv) | 2:30 |
+| 35 | [Dawn of a new day](https://open.spotify.com/track/4uyKviQdYun2MGKTaGbNEQ) | [Horace Heidt And His Orchestra](https://open.spotify.com/artist/1WeF9tMRvJCIcd9WDMyz40), [Horace Heidt](https://open.spotify.com/artist/4l7CLwtYLJMTlrBpoNJtMy) | [Horace Heidt & His Orchestra, Popular Songs](https://open.spotify.com/album/1cvmYEco3NhUG1J51dH0WQ) | 2:30 |
 | 36 | [Oh Lawd, I'm on My Way](https://open.spotify.com/track/4Hpj72WvRBn2015EZUh73X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 2:58 |
 | 37 | [A Woman Is A Sometime Thing](https://open.spotify.com/track/5vbBHk6iJzOqjP6VdoxvL3) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:43 |
 | 38 | [A Day to God Is 1000 Years](https://open.spotify.com/track/5nYrCeufU1KfSmgB5dm8bM) | [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Birth of a Prince](https://open.spotify.com/album/54TKCQqJTfYF7P730Nza5q) | 3:57 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 157 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 158 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `AcErEgAAAADUzCJTIg7lkdCMFWsugSYa`
+Snapshot ID: `AcEwsgAAAACDB8QRibe8JaQSwsiD6nfQ`

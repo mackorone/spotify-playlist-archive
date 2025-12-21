@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best of Black music in 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,919 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,104,907 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/0W7N6YFobg7uRj861243Rq) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/album/5MksvSH5AyM1VNYJM8d9st) | 3:09 |
 | 100 | [Arike](https://open.spotify.com/track/4WnlAkJ3S0r6C7ofHy6kNP) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Arike](https://open.spotify.com/album/10oRGnehj5sWYQ89KuLa0n) | 2:04 |
 
-Snapshot ID: `AAAAAHoCsz0ErO6j1rr646om8J1dLyzc`
+Snapshot ID: `AAAAABTYrYzSNQETVJQVedHNYw6pyzQm`

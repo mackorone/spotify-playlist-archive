@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,243 songs - 3 day 4 hr 2 min
+1,244 songs - 3 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1129,7 +1129,7 @@
 | [TOUCH THE SKY](https://open.spotify.com/track/3kJptBOmtHgfHkAJstQSV7) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(The Lost Tapes\)](https://open.spotify.com/album/3OOJWCsqkuGohtYAj8WI7D) | 2:30 | 2025-08-05 | 2025-12-08 |
 | [TOUCH THE SKY](https://open.spotify.com/track/2tJUxg2ZoLqsjaqjXz75qD) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(D SIDES\)](https://open.spotify.com/album/4vBU4v2QoZ4IL6QL0bpbva) | 2:31 | 2025-07-29 | 2025-08-30 |
 | [Touch The Sky](https://open.spotify.com/track/2pRyjmTGkz5i8xemOtJ7pG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Late Registration](https://open.spotify.com/album/0Ds6i3h0F9RcYIKAD5Olum) | 3:56 | 2022-06-13 |  |
-| [TOUCH THE SKY](https://open.spotify.com/track/3bfeZIvUQEmtpGs6VQKgUy) | [retroclinic](https://open.spotify.com/artist/3U5yxvcDQ3AhEM0YDBWsOU) | [Horizon Scraper](https://open.spotify.com/album/3CGRmoOQTDPWNWkt5Q7DCI) | 2:29 | 2025-12-02 |  |
+| [TOUCH THE SKY](https://open.spotify.com/track/3bfeZIvUQEmtpGs6VQKgUy) | [retroclinic](https://open.spotify.com/artist/3U5yxvcDQ3AhEM0YDBWsOU) | [Horizon Scraper](https://open.spotify.com/album/3CGRmoOQTDPWNWkt5Q7DCI) | 2:29 | 2025-12-02 | 2025-12-21 |
 | [Touching God \(Feat\. Yebba & Blood Orange\)](https://open.spotify.com/track/3Ws7pcKeEo6dW2xPUFgmQv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 4:41 | 2025-12-02 |  |
 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 | 2020-11-11 |  |
 | [Traveling Alone](https://open.spotify.com/track/00c6I4e1BL1vqbD97KIh50) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Traveling Alone](https://open.spotify.com/album/6pOevfLRzz8OWOkrg7SrZn) | 2:40 | 2021-11-28 |  |
@@ -1241,6 +1241,7 @@
 | [Yikes](https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:08 | 2022-04-14 |  |
 | [Yoko Ono](https://open.spotify.com/track/05tlX1Wz6IjUBNOJ1EKUxF) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Makana XO](https://open.spotify.com/artist/72Skr9uHuQfIT7ezeKuvt1) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:59 | 2025-06-26 |  |
 | [You and Your Friends](https://open.spotify.com/track/1p65J6pUtctKgmftkWkMRI) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:56 | 2022-06-29 |  |
+| [You Are](https://open.spotify.com/track/3UCwh3iDpoU68SQMvJHmqU) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 9:42 | 2025-12-21 |  |
 | [You Make It Easier](https://open.spotify.com/track/2toz89nXx6wvBvfhQ6RLwi) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Beneath The Lilypad](https://open.spotify.com/album/3nuV6fPLQr62sQpBRBz1Pf) | 4:51 | 2025-05-16 |  |
 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 | 2024-06-17 |  |
 | [You Won't Be Missing That Part of Me](https://open.spotify.com/track/2R1N9phzXX0TRg8jSj8qPS) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2tvHcQfvtXvmFHIGyBiPVt) | 4:16 | 2022-12-20 |  |

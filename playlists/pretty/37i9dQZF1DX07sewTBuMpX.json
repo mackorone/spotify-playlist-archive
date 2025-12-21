@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140467,
+  "num_followers": 140470,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "COMO TU",
-      "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 170721,
       "name": "WAHALA (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "COMO TU",
+      "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Zonder Mij",
         "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 203338,
       "name": "Zonder Mij",
       "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1623,30 +1623,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Noncha",
-        "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
-      },
-      "artists": [
-        {
-          "name": "Dubbel R",
-          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
-        },
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "GEM-Z",
-          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Noncha",
-      "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Noncha",
+        "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
+      },
+      "artists": [
+        {
+          "name": "Dubbel R",
+          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
+        },
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Noncha",
+      "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
     },
     {
       "added_at": "2025-12-10 23:00:04",

@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-145 songs - 6 hr 47 min
+146 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Straight & Tall](https://open.spotify.com/track/6jkH0vs7rpSBH4RcphlrwC) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:58 | 2023-12-13 |  |
 | [Straight As](https://open.spotify.com/track/2bXWeAPqADmPI12ymxzuxW) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 2:52 | 2024-01-13 | 2024-02-10 |
 | [Stuck in Traffic](https://open.spotify.com/track/6RKVaQhPzmtlDdcysWIV67) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:11 | 2023-12-13 |  |
+| [Symptoms](https://open.spotify.com/track/5O9E2CjJr6e1nOlzez3iey) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Symptoms](https://open.spotify.com/album/673hOZVstNxB6Xm6WTRVSS) | 2:29 | 2025-12-21 |  |
 | [Tha Riddle of Steel](https://open.spotify.com/track/54Ok7I4CgsfiMQ7NgtHUHj) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:18 | 2025-05-18 |  |
 | [Tha Unfathomable Horror](https://open.spotify.com/track/336iH8AOK9cjM82vrqMmh5) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Ultimate Dump Gawd](https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP) | 2:30 | 2025-05-18 | 2025-07-30 |
 | [The Desolate One](https://open.spotify.com/track/7dSANKxf0vVbUEVFqea5Uv) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [SPARE THE ROD, SPOIL THE CHILD](https://open.spotify.com/album/53fyaQZoh6R4iElw2Uv1jZ) | 2:39 | 2023-12-13 | 2024-09-08 |

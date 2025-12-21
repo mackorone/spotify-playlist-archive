@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, MIK's Reaction, Organoclorados and more",
+  "description": "With AlligatorX, MIK's Reaction, Jon Drake and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 363266,
       "name": "Beati i perseguitati",
       "url": "https://open.spotify.com/track/5FhY4jqBqPUnVUL8R9v5Wa"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 255866,
       "name": "Devil Inside",
       "url": "https://open.spotify.com/track/1l8P18jhwHvEOzzQD0j7PO"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 357373,
       "name": "Hjelp",
       "url": "https://open.spotify.com/track/03fSLUp3zw4YytSCWmIsTu"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 271226,
       "name": "Ilaanningooq",
       "url": "https://open.spotify.com/track/6JJzChNf3xDCvpnIuZTNKl"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 266506,
       "name": "Imposter's Dance",
       "url": "https://open.spotify.com/track/7lH3ksZ0uu1as57zkyvmlR"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 302660,
       "name": "In The Office",
       "url": "https://open.spotify.com/track/31mtADk1NLJawmdrfO4zFe"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -1794,6 +1794,24 @@
       "duration_ms": 228902,
       "name": "Kozmik Tide",
       "url": "https://open.spotify.com/track/2zAR8CHIPp822PtrU00SOd"
+    },
+    {
+      "album": {
+        "name": "Vicoli diari e pedali",
+        "url": "https://open.spotify.com/album/15t7CrST7YWsZlbcgxeshG"
+      },
+      "artists": [
+        {
+          "name": "FrogTales",
+          "url": "https://open.spotify.com/artist/4W06CdC1pED5qvUEmAOBWM"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "L'aviatore",
+      "url": "https://open.spotify.com/track/0BJ3FSZtKearV4b1honHat"
     },
     {
       "album": {
@@ -1884,7 +1902,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 277896,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/2YwNJhQDI2xwexPaffRnBf"
@@ -1906,7 +1924,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 256584,
       "name": "Light years",
       "url": "https://open.spotify.com/track/3KrIyUCo9j6sdeYOYcXbTY"
@@ -1946,7 +1964,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -2018,7 +2036,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 238200,
       "name": "Look at the Violence",
       "url": "https://open.spotify.com/track/50zDVDwhXmzaszuoMAe20L"
@@ -2036,7 +2054,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -2422,10 +2440,28 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 258000,
       "name": "No Temer\u00e9",
       "url": "https://open.spotify.com/track/51NA27akDrIDyaJfkNOtaK"
+    },
+    {
+      "album": {
+        "name": "Not Coming Back",
+        "url": "https://open.spotify.com/album/21WpucwL9I2Mb1ffqzAoLs"
+      },
+      "artists": [
+        {
+          "name": "Aoraki",
+          "url": "https://open.spotify.com/artist/3mKMPvWqbj49dyQP2yNLvS"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198730,
+      "name": "Not Coming Back",
+      "url": "https://open.spotify.com/track/4yl6xJ1iavjDOoyLtPenNL"
     },
     {
       "album": {
@@ -2440,7 +2476,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -2736,7 +2772,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 203941,
       "name": "Prisionero del Amor",
       "url": "https://open.spotify.com/track/1RXVsrMTccnIYso9Da4WQM"
@@ -2754,7 +2790,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 242466,
       "name": "Promise",
       "url": "https://open.spotify.com/track/0wd5vQAbVsBFxlungrDqlV"
@@ -3032,7 +3068,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 216368,
       "name": "Skuggan fr\u00e5n ig\u00e5r",
       "url": "https://open.spotify.com/track/2g6IrSIfwNvRW85KPe2wxz"
@@ -3140,7 +3176,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 251145,
       "name": "Sorry (In Bloom)",
       "url": "https://open.spotify.com/track/1CRjLq6UtODERxslpPHI4O"
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 254185,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/0I1pjXfxBby3nA7zz3lD0t"
@@ -3519,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "The Sky as We Know It, Pt. 1",
+        "url": "https://open.spotify.com/album/085Do2eBXpTEdwSkfqpCQK"
+      },
+      "artists": [
+        {
+          "name": "Junkyard Wizards",
+          "url": "https://open.spotify.com/artist/4pw2LcQBVkT7cqhRa51ibJ"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444582,
+      "name": "The Sky as We Know It, Pt. 1",
+      "url": "https://open.spotify.com/track/1FshPsffi4BeoCmzVLRA0A"
+    },
+    {
+      "album": {
         "name": "The Soul Project",
         "url": "https://open.spotify.com/album/0z6eY7Uvn7cSzVIBl8LSLs"
       },
@@ -3610,7 +3664,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -3646,7 +3700,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 264877,
       "name": "This World\u2019s For Sharing",
       "url": "https://open.spotify.com/track/0JuMG668Xof1s2ApVkABAm"
@@ -3812,10 +3866,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 346800,
       "name": "Universo",
       "url": "https://open.spotify.com/track/2XAGc1WMtq9YcLMraAmpx6"
+    },
+    {
+      "album": {
+        "name": "Rainy night",
+        "url": "https://open.spotify.com/album/7f365JQhbZYP2U1HZu4siR"
+      },
+      "artists": [
+        {
+          "name": "Sinn Fein",
+          "url": "https://open.spotify.com/artist/3TKrDA8ErhmkA48U5nMTzG"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "Untold",
+      "url": "https://open.spotify.com/track/6rdVrS2xZHfyTGPGQ8t8ge"
     },
     {
       "album": {
@@ -3884,7 +3956,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -4014,6 +4086,28 @@
       "duration_ms": 290000,
       "name": "When Everything Is Lost",
       "url": "https://open.spotify.com/track/3u6Hy2HCjmpt98RR57cBOO"
+    },
+    {
+      "album": {
+        "name": "Where I Belong",
+        "url": "https://open.spotify.com/album/4GlgnAjIuetBCu7vU45Ssa"
+      },
+      "artists": [
+        {
+          "name": "Call Me T",
+          "url": "https://open.spotify.com/artist/23H6nhAuaXfnfLg2JHzXpF"
+        },
+        {
+          "name": "Reunion Station",
+          "url": "https://open.spotify.com/artist/1p75FiVGOkcOzxZPGlx7GC"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/2YgcnK6aotnzoRkGdHHM18"
     },
     {
       "album": {

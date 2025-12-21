@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow de to el mundo pa to el mundo\. Foto: Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,153 likes - 90 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,147 likes - 90 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

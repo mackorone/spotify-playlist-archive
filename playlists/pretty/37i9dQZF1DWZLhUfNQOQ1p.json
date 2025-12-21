@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252758,
+  "num_followers": 252752,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -159,26 +159,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Jolie Fille (feat. Layefa)",
         "url": "https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 194442,
       "name": "Jolie Fille (feat. Layefa)",
       "url": "https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -379,38 +379,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
-        "name": "A Deeper Life",
-        "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 255918,
-      "name": "Barefoot On The Tarmac",
-      "url": "https://open.spotify.com/track/6yhtDCljVo3jcCMbDpTRnA"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Ice 2 Water",
         "url": "https://open.spotify.com/album/07QpZOg940gjr7NqqtdPTd"
       },
@@ -431,6 +399,38 @@
       "duration_ms": 196700,
       "name": "Ice 2 Water",
       "url": "https://open.spotify.com/track/697Ub7j26uCkn3VtWSucG3"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "A Deeper Life",
+        "url": "https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 255918,
+      "name": "Barefoot On The Tarmac",
+      "url": "https://open.spotify.com/track/6yhtDCljVo3jcCMbDpTRnA"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Pullin'",
-        "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 220150,
-      "name": "Pullin'",
-      "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Good Life (Remastered)",
         "url": "https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 196363,
       "name": "Good Life (Remastered)",
       "url": "https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Pullin'",
+        "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 220150,
+      "name": "Pullin'",
+      "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
     },
     {
       "added_at": "2025-12-02 11:48:38",

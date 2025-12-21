@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "CONCEITED",
       "url": "https://open.spotify.com/track/4buagghd2W3oZoDExjITFo"
@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 182292,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
@@ -1991,6 +1991,28 @@
     },
     {
       "album": {
+        "name": "Space Jungle 2026",
+        "url": "https://open.spotify.com/album/1RSIjwc8YpxF7VSem773cV"
+      },
+      "artists": [
+        {
+          "name": ".EXA",
+          "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Space Jungle 2026",
+      "url": "https://open.spotify.com/track/5R4ExC1GrvfGsF6I4nmJxF"
+    },
+    {
+      "album": {
         "name": "SPLASH GOD",
         "url": "https://open.spotify.com/album/5jZarzGdeYv5qByBbxPpG6"
       },
@@ -2454,7 +2476,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 196666,
       "name": "WOKE B",
       "url": "https://open.spotify.com/track/0jKxzLfyK2gLds4PvkSdJf"

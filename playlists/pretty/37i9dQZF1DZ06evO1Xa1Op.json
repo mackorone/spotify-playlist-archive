@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22005,
+  "num_followers": 22004,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAADetUXWT2Xz95yi+w6w9N3w",
+  "snapshot_id": "aUSVgAAAAABJ9kK1rKqggwG3C4EBhpYO",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 210293,
-      "name": "Soumbou Ya Ya",
-      "url": "https://open.spotify.com/track/05tAeEZpxFRnYnrb4LUrSz"
+      "duration_ms": 240186,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 240186,
-      "name": "Simbo",
-      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
+      "duration_ms": 210293,
+      "name": "Soumbou Ya Ya",
+      "url": "https://open.spotify.com/track/05tAeEZpxFRnYnrb4LUrSz"
     },
     {
       "added_at": null,
@@ -614,11 +614,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 392226,
+      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
     },
     {
       "added_at": null,
@@ -682,15 +686,11 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 392226,
-      "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     }
   ],
   "unique_name": "This Is Ali Farka Tour\u00e9",

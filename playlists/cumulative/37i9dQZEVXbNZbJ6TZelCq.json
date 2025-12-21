@@ -828,7 +828,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 158332,
       "name": "7 zile",
       "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
@@ -8519,6 +8519,28 @@
     },
     {
       "album": {
+        "name": "Ciumi Ciumi",
+        "url": "https://open.spotify.com/album/0XqnUIdJNhhFK7OSy9BTDD"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        },
+        {
+          "name": "Gya",
+          "url": "https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ciumi Ciumi",
+      "url": "https://open.spotify.com/track/1vB5YIUqtCesrFyxAAftgq"
+    },
+    {
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2RYBhGpncCqy05vs85P8NV"
       },
@@ -9042,7 +9064,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -12234,7 +12256,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 137875,
       "name": "Doua Bagaboante",
       "url": "https://open.spotify.com/track/2xcgKHm4xf4oQqCeIqyeV7"
@@ -12990,7 +13012,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -15350,7 +15372,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 227021,
       "name": "Foca",
       "url": "https://open.spotify.com/track/3plHE4mbRjz3uOQ9P6MOMG"
@@ -26212,7 +26234,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 154939,
       "name": "Minora",
       "url": "https://open.spotify.com/track/6M0nZw1Rts7bdmx7i4Pv6f"
@@ -28218,7 +28240,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/3HWS3HVkirA39KnT84Io5g"

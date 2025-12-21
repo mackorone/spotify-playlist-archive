@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 28 | [I Can’t Be Me](https://open.spotify.com/track/3LvBL2OMiI2Rn5JMIs1Vky) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4) | [I Can’t Be Me](https://open.spotify.com/album/0RhpeumYFxFcToi41lDdsh) | 3:11 |
 | 29 | [Red Sangria](https://open.spotify.com/track/0rvBpvSy3on3VR1oDJ46sG) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Red Sangria](https://open.spotify.com/album/3bNtHQhVXWiBq2lX07D7m1) | 3:05 |
 | 30 | [Diamonds](https://open.spotify.com/track/1wfUGpVX8ufoTJpKOVctFt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lord Quest](https://open.spotify.com/artist/1ckwRTxh0ESM12gYEUHf89), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [The Kelly Rowland Edition](https://open.spotify.com/album/0yVRzvvD1Wes1p4ffeZhhC) | 3:11 |
-| 31 | [We Never Know Anymore](https://open.spotify.com/track/69k8DIplCut6DkdXwywYGN) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/5K308e4DDvkBz2q0AZeujZ) | 3:24 |
-| 32 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
+| 31 | [There for You](https://open.spotify.com/track/5SMjLDinukPvhXnZkY3Uhf) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [There for You](https://open.spotify.com/album/4mflxpzrTCEAc5KphX0B6o) | 2:37 |
+| 32 | [We Never Know Anymore](https://open.spotify.com/track/69k8DIplCut6DkdXwywYGN) | [Hamster](https://open.spotify.com/artist/0XfWtCWAgbbYP899ssoZSo), [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [White Lie](https://open.spotify.com/album/5K308e4DDvkBz2q0AZeujZ) | 3:24 |
 | 33 | [dear whatever](https://open.spotify.com/track/4kDVrzz871IGFeYwdweUYJ) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [dear whatever](https://open.spotify.com/album/5lxeZj31ST56LJXKMWQpvF) | 2:29 |
 | 34 | [crydancing](https://open.spotify.com/track/5lnzgm4UQDiwrC5edZjGFp) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [crydancing](https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD) | 3:02 |
 | 35 | [rearview](https://open.spotify.com/track/2MSAwuM5wRtyOlKsTOl6AY) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [rearview](https://open.spotify.com/album/3m4yOqyElVb8RkJeDyciz8) | 3:37 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 75 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 76 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `AcEq6gAAAADuoumVLn6GWZZ1p/q0C3rs`
+Snapshot ID: `AcEwxgAAAAB8Lk1X3wncRhFdBfbilpPQ`

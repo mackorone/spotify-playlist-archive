@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LhW5nPZDse.md) - [plain]
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,183 likes - 68 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,186 likes - 68 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LhW5nPZDse.md) - [plain]
 | 29 | [Teeth](https://open.spotify.com/track/6MynbspeogZ1SeMXsoD0Nf) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z) | 3:09 |
 | 30 | [Swamp](https://open.spotify.com/track/1BXA1pNfvmLsV4M8DKbLy4) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Swamp](https://open.spotify.com/album/2GxiEFC1dAxDtsLQxCRuHV) | 3:20 |
 | 31 | [skeleton](https://open.spotify.com/track/3N4BAdqBTFuWqgCIkqU3hR) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [skeleton](https://open.spotify.com/album/2b920brJm4zSDEp2M6GKJp) | 2:23 |
-| 32 | [Somewhere to Dream](https://open.spotify.com/track/6eTgBw5HOIonORsy0iWJ0o) | [Jay Ramsey](https://open.spotify.com/artist/1SS414roSdAE4B7bUsr3Az) | [Jay Ramsey Anthology, Vol\. 3](https://open.spotify.com/album/7Jso93nDvuqkTpzmMhvm3A) | 3:27 |
+| 32 | [Somewhere to Dream](https://open.spotify.com/track/6eTgBw5HOIonORsy0iWJ0o) | [Jay Ramsey](https://open.spotify.com/artist/7AKzqoDogZeiY1OEfbzv9m) | [Jay Ramsey Anthology, Vol\. 3](https://open.spotify.com/album/7Jso93nDvuqkTpzmMhvm3A) | 3:27 |
 | 33 | [Family Tree](https://open.spotify.com/track/5l79pLYX6NwTa6FiT8Eoyo) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:10 |
 | 34 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 |
 | 35 | [My Clothes From Last Night](https://open.spotify.com/track/1EiciOsz8auDbBTEYMN1mW) | [Seb Torgus](https://open.spotify.com/artist/39fzQ0Vv8BJ3J8bkf1VFUz) | [Male Madonna](https://open.spotify.com/album/4yKwOUQFUk9619mweEsuh4) | 1:54 |

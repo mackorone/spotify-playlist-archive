@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAD2tg/W/X2ULUELH86m7I1R",
+  "snapshot_id": "aUSVgAAAAAAvqmEnEVtw55Q1hgPmDhhT",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yerbero Moderno (En Vivo)",
-        "url": "https://open.spotify.com/album/5hZKckjSIOhhmXuvV1IbYk"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia",
-          "url": "https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Yerbero Moderno - En Vivo",
-      "url": "https://open.spotify.com/track/3qMD1UGuTIqBB705bFIpfH"
-    },
     {
       "added_at": null,
       "album": {
@@ -615,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Vasos Vacios",
-      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Pilanderas",
         "url": "https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma"
       },
@@ -651,6 +611,26 @@
       "duration_ms": 199666,
       "name": "Las Pilanderas",
       "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/3rKykknsy5wADknhS9qzQE"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 278253,
+      "name": "Vasos Vacios",
+      "url": "https://open.spotify.com/track/6fbXUe5U907TzwyLeUw4NA"
     },
     {
       "added_at": null,
@@ -1051,6 +1031,26 @@
       "duration_ms": 223466,
       "name": "Dos D\u00edas en la Vida",
       "url": "https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Y Mi Negro Esta Cansao",
+      "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
     }
   ],
   "unique_name": "This Is Celia Cruz",

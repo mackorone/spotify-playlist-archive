@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1073,
+  "num_followers": 1075,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAN3/2Bcl1DAp12ymgK14fEJpI8Tnso",
+  "snapshot_id": "AAAOF6jzqypp2tIcNJKQjt6CM1+EoUBE",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -51,22 +51,6 @@
       "duration_ms": 227510,
       "name": "You're Leaving",
       "url": "https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2"
-    },
-    {
-      "added_at": "2025-10-17 11:10:22",
-      "album": {
-        "name": "Kiss Me Before I Die",
-        "url": "https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg"
-      },
-      "artists": [
-        {
-          "name": "DJ Connery",
-          "url": "https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au"
-        }
-      ],
-      "duration_ms": 253085,
-      "name": "Kiss Me Before I Die",
-      "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
     },
     {
       "added_at": "2025-12-17 20:03:42",
@@ -133,6 +117,22 @@
       "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
     },
     {
+      "added_at": "2025-12-20 16:57:36",
+      "album": {
+        "name": "The Captains",
+        "url": "https://open.spotify.com/album/0FzNiMxsvNVX9TXpQL4oMZ"
+      },
+      "artists": [
+        {
+          "name": "Older Future",
+          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
+        }
+      ],
+      "duration_ms": 178444,
+      "name": "Mitch",
+      "url": "https://open.spotify.com/track/4ywimcJa2DVRV4WYX4FJq7"
+    },
+    {
       "added_at": "2025-12-04 17:41:56",
       "album": {
         "name": "Lifespan",
@@ -147,22 +147,6 @@
       "duration_ms": 142080,
       "name": "Lifespan",
       "url": "https://open.spotify.com/track/061iJoemR1JeGwFZa0339j"
-    },
-    {
-      "added_at": "2025-11-17 09:29:37",
-      "album": {
-        "name": "Broken Trust",
-        "url": "https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Broken Trust",
-      "url": "https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK"
     },
     {
       "added_at": "2025-11-24 18:01:09",
@@ -195,22 +179,6 @@
       "duration_ms": 184024,
       "name": "Hiera",
       "url": "https://open.spotify.com/track/0a9gOCvUzQBstABF9iVDCQ"
-    },
-    {
-      "added_at": "2025-11-11 18:03:02",
-      "album": {
-        "name": "Broken Trust",
-        "url": "https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Broken Trust",
-      "url": "https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK"
     },
     {
       "added_at": "2025-11-30 09:11:25",
@@ -289,22 +257,6 @@
       "url": "https://open.spotify.com/track/403Ydn6kygiS70b89NOAV6"
     },
     {
-      "added_at": "2025-10-12 15:58:24",
-      "album": {
-        "name": "Lifespan",
-        "url": "https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Lifespan",
-      "url": "https://open.spotify.com/track/061iJoemR1JeGwFZa0339j"
-    },
-    {
       "added_at": "2025-12-16 10:59:47",
       "album": {
         "name": "Haze",
@@ -319,46 +271,6 @@
       "duration_ms": 217206,
       "name": "Candor",
       "url": "https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2"
-    },
-    {
-      "added_at": "2025-11-11 18:03:31",
-      "album": {
-        "name": "Under Lights",
-        "url": "https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD"
-      },
-      "artists": [
-        {
-          "name": "Malik Amer",
-          "url": "https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar"
-        },
-        {
-          "name": "Adam Kriss",
-          "url": "https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Under Lights",
-      "url": "https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS"
-    },
-    {
-      "added_at": "2025-08-08 07:45:58",
-      "album": {
-        "name": "My one and only love",
-        "url": "https://open.spotify.com/album/13Wopplk2WPBVVvVptJ7Pb"
-      },
-      "artists": [
-        {
-          "name": "Pasquale Innarella",
-          "url": "https://open.spotify.com/artist/5YrSnPBsG33kyfu269gvOA"
-        },
-        {
-          "name": "Andrea Zanchi",
-          "url": "https://open.spotify.com/artist/13WyEnJNeqxrCxrLlcSWX5"
-        }
-      ],
-      "duration_ms": 266611,
-      "name": "My one and only love",
-      "url": "https://open.spotify.com/track/2R5WpQBKFicMHyMkxg9cQh"
     },
     {
       "added_at": "2025-11-24 18:02:06",
@@ -391,22 +303,6 @@
       "duration_ms": 214468,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/0854rJz7ZGPmB3MLFjnUix"
-    },
-    {
-      "added_at": "2025-10-23 19:55:20",
-      "album": {
-        "name": "Kick It Up!",
-        "url": "https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR"
-      },
-      "artists": [
-        {
-          "name": "Surrounded by Spiders",
-          "url": "https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb"
-        }
-      ],
-      "duration_ms": 199504,
-      "name": "Kick It Up!",
-      "url": "https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i"
     },
     {
       "added_at": "2025-11-24 18:02:25",
@@ -509,38 +405,6 @@
       "url": "https://open.spotify.com/track/32BI9PMpCX7jROdJaCryrw"
     },
     {
-      "added_at": "2025-10-23 19:54:08",
-      "album": {
-        "name": "Lunar Soul",
-        "url": "https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq"
-      },
-      "artists": [
-        {
-          "name": "Gobaith",
-          "url": "https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80"
-        }
-      ],
-      "duration_ms": 158515,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/2pkaTtOzMeHZAbqMYcZtJx"
-    },
-    {
-      "added_at": "2025-06-21 16:09:31",
-      "album": {
-        "name": "A Night in Tunisia",
-        "url": "https://open.spotify.com/album/67GwDavJ4mrJCX253N7Wwc"
-      },
-      "artists": [
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        }
-      ],
-      "duration_ms": 168016,
-      "name": "A Night in Tunisia",
-      "url": "https://open.spotify.com/track/09jf8MIpTR78RsaR7TZvj4"
-    },
-    {
       "added_at": "2025-11-24 18:02:56",
       "album": {
         "name": "Neon Dreaming",
@@ -559,54 +423,6 @@
       "duration_ms": 142330,
       "name": "Neon Dreaming",
       "url": "https://open.spotify.com/track/5SsOc7C3CtRl77BV5ALe3p"
-    },
-    {
-      "added_at": "2025-10-17 11:08:53",
-      "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/5DAYPurXKBVwVvC1wdLEPv"
-      },
-      "artists": [
-        {
-          "name": "De Santtis",
-          "url": "https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Memento",
-      "url": "https://open.spotify.com/track/0Nm7ZIm2GgvWBoDktEn8eC"
-    },
-    {
-      "added_at": "2025-11-04 18:24:54",
-      "album": {
-        "name": "Marijuana",
-        "url": "https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH"
-      },
-      "artists": [
-        {
-          "name": "Plastic Madmen",
-          "url": "https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA"
-        }
-      ],
-      "duration_ms": 277744,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l"
-    },
-    {
-      "added_at": "2025-08-15 15:14:29",
-      "album": {
-        "name": "The Heart of the Human Race",
-        "url": "https://open.spotify.com/album/0bBWYwFEEvQndQbUEVLZkg"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 154521,
-      "name": "The Heart of the Human Race",
-      "url": "https://open.spotify.com/track/5Gl5MhNUOIOlJx2cpwOXir"
     },
     {
       "added_at": "2025-06-21 16:08:49",
@@ -631,118 +447,6 @@
       "duration_ms": 255997,
       "name": "A Handful Of Sand",
       "url": "https://open.spotify.com/track/6yqKyLUm8vdfBRTLxaDfBd"
-    },
-    {
-      "added_at": "2025-10-12 15:58:38",
-      "album": {
-        "name": "Surrounded by Spiders",
-        "url": "https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT"
-      },
-      "artists": [
-        {
-          "name": "Surrounded by Spiders",
-          "url": "https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb"
-        }
-      ],
-      "duration_ms": 244373,
-      "name": "Wait No More",
-      "url": "https://open.spotify.com/track/61CP0xYxaPDXjMPv11Txv5"
-    },
-    {
-      "added_at": "2025-06-21 16:09:47",
-      "album": {
-        "name": "Sicilian Connection",
-        "url": "https://open.spotify.com/album/4LRnpkrPSzdcd9RY5DzeVD"
-      },
-      "artists": [
-        {
-          "name": "Manosanta Hard Soul",
-          "url": "https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb"
-        }
-      ],
-      "duration_ms": 211075,
-      "name": "Ger-ru",
-      "url": "https://open.spotify.com/track/6NhjyDPvfIbR72a0aPwgpI"
-    },
-    {
-      "added_at": "2025-10-17 11:08:25",
-      "album": {
-        "name": "Lifespan",
-        "url": "https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Lifespan",
-      "url": "https://open.spotify.com/track/061iJoemR1JeGwFZa0339j"
-    },
-    {
-      "added_at": "2025-09-29 14:33:27",
-      "album": {
-        "name": "Falling Overboard",
-        "url": "https://open.spotify.com/album/7jELmunE3P5jU0JmzF0EcG"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Falling Overboard",
-      "url": "https://open.spotify.com/track/6AfWBqiJuRf4dlphj8lshD"
-    },
-    {
-      "added_at": "2025-07-28 18:26:36",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/3mwqkzMbdRtz59lnBmzfNm"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/5gzCMaW6LEv0QqS4hLCLFP"
-    },
-    {
-      "added_at": "2025-09-23 07:34:00",
-      "album": {
-        "name": "Falling Overboard",
-        "url": "https://open.spotify.com/album/7jELmunE3P5jU0JmzF0EcG"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Falling Overboard",
-      "url": "https://open.spotify.com/track/6AfWBqiJuRf4dlphj8lshD"
-    },
-    {
-      "added_at": "2025-09-29 14:33:49",
-      "album": {
-        "name": "Arrependimento no Escuro - Vers\u00e3o Pop",
-        "url": "https://open.spotify.com/album/7nLjJcrMiTfwhE4xWgZoN2"
-      },
-      "artists": [
-        {
-          "name": "De Santtis",
-          "url": "https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Arrependimento no Escuro - Vers\u00e3o Pop",
-      "url": "https://open.spotify.com/track/4fpdREqiHneSVAwdFE2ScN"
     },
     {
       "added_at": "2025-06-05 14:54:19",
@@ -793,22 +497,6 @@
       "url": "https://open.spotify.com/track/0cCnxDYuxT5LzPmzwO2IZ1"
     },
     {
-      "added_at": "2024-11-14 17:36:42",
-      "album": {
-        "name": "An Oracle Told Me...",
-        "url": "https://open.spotify.com/album/5jkRcJhNoL3bmd9VpO3qTO"
-      },
-      "artists": [
-        {
-          "name": "Joe Siciliano Jazz Trio",
-          "url": "https://open.spotify.com/artist/0DDVg8KuFfA7fjD2M2x3N3"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "An Oracle Told Me...",
-      "url": "https://open.spotify.com/track/3VKpgXu5oNFuaJtafkOuS5"
-    },
-    {
       "added_at": "2025-03-13 11:23:44",
       "album": {
         "name": "Latino",
@@ -841,38 +529,6 @@
       "url": "https://open.spotify.com/track/6zr9elbnpV5Idcb1IVnWrO"
     },
     {
-      "added_at": "2025-10-17 11:09:25",
-      "album": {
-        "name": "Spit Me Out",
-        "url": "https://open.spotify.com/album/6uIa2WNAzkXo44Md75LRmv"
-      },
-      "artists": [
-        {
-          "name": "Mia Knox",
-          "url": "https://open.spotify.com/artist/0A1S6lxHxtebgeix4RUTix"
-        }
-      ],
-      "duration_ms": 234679,
-      "name": "Spit Me Out",
-      "url": "https://open.spotify.com/track/7ivSMyiVYhgF3RdJptRXTu"
-    },
-    {
-      "added_at": "2025-09-11 11:33:31",
-      "album": {
-        "name": "The Heart of the Human Race",
-        "url": "https://open.spotify.com/album/0bBWYwFEEvQndQbUEVLZkg"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 154521,
-      "name": "The Heart of the Human Race",
-      "url": "https://open.spotify.com/track/5Gl5MhNUOIOlJx2cpwOXir"
-    },
-    {
       "added_at": "2024-11-07 13:28:35",
       "album": {
         "name": "The Flying Devils (Shows Combined)",
@@ -893,38 +549,6 @@
       "url": "https://open.spotify.com/track/2FZWE52XorhcjHQFUK6T6o"
     },
     {
-      "added_at": "2024-10-10 17:30:28",
-      "album": {
-        "name": "Sunset in Naxos",
-        "url": "https://open.spotify.com/album/6r3RIRu1YyWrrg0S69HLIE"
-      },
-      "artists": [
-        {
-          "name": "Joe Siciliano Jazz Trio",
-          "url": "https://open.spotify.com/artist/0DDVg8KuFfA7fjD2M2x3N3"
-        }
-      ],
-      "duration_ms": 200857,
-      "name": "Sunset in Naxos",
-      "url": "https://open.spotify.com/track/7nPIDiLVB1SAQSXhUGjPbe"
-    },
-    {
-      "added_at": "2024-09-19 15:11:31",
-      "album": {
-        "name": "Buenos Aires Lounge Deluxe Vol. 1",
-        "url": "https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fernandez Lecce",
-          "url": "https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re"
-        }
-      ],
-      "duration_ms": 233570,
-      "name": "Taxi a Arenales",
-      "url": "https://open.spotify.com/track/35malk9KXRyc4rcZn3RSf7"
-    },
-    {
       "added_at": "2024-10-03 20:13:00",
       "album": {
         "name": "A Bad Place To Be Born",
@@ -939,22 +563,6 @@
       "duration_ms": 241500,
       "name": "A Bad Place To Be Born",
       "url": "https://open.spotify.com/track/3dgJ3pBAYy2O9BOK1gU41x"
-    },
-    {
-      "added_at": "2025-10-17 11:10:38",
-      "album": {
-        "name": "Snap",
-        "url": "https://open.spotify.com/album/4ErbPCHn0Fc7yGiNTnoFOr"
-      },
-      "artists": [
-        {
-          "name": "Glorification",
-          "url": "https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I"
-        }
-      ],
-      "duration_ms": 203993,
-      "name": "Snap",
-      "url": "https://open.spotify.com/track/5t2KnkJ348gY4DvYudL47k"
     },
     {
       "added_at": "2024-09-05 15:33:40",
@@ -999,38 +607,6 @@
       "duration_ms": 247923,
       "name": "Moon Dance",
       "url": "https://open.spotify.com/track/0A8ioyDhryFjhSjJbGoqyp"
-    },
-    {
-      "added_at": "2024-09-19 15:11:31",
-      "album": {
-        "name": "Buenos Aires Lounge Deluxe Vol. 1",
-        "url": "https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fernandez Lecce",
-          "url": "https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re"
-        }
-      ],
-      "duration_ms": 243411,
-      "name": "Camminando con Astor",
-      "url": "https://open.spotify.com/track/2GZdQm0vyiIGW5DQgyrQHH"
-    },
-    {
-      "added_at": "2024-09-19 15:11:31",
-      "album": {
-        "name": "Buenos Aires Lounge Deluxe Vol. 1",
-        "url": "https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fernandez Lecce",
-          "url": "https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re"
-        }
-      ],
-      "duration_ms": 199785,
-      "name": "Kavanagh",
-      "url": "https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx"
     },
     {
       "added_at": "2024-08-01 11:14:15",
@@ -1383,462 +959,6 @@
       "duration_ms": 150390,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN"
-    },
-    {
-      "added_at": "2025-09-11 11:32:52",
-      "album": {
-        "name": "I Can't Wait",
-        "url": "https://open.spotify.com/album/5FTGujsJdSOvZqz1GQ4k8z"
-      },
-      "artists": [
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        }
-      ],
-      "duration_ms": 216407,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/7aGZ7Vk2d3k1Nme5DEAC23"
-    },
-    {
-      "added_at": "2025-09-11 11:33:04",
-      "album": {
-        "name": "Fight My Demons",
-        "url": "https://open.spotify.com/album/4IyPCqRvou8VDSMWIzRMSD"
-      },
-      "artists": [
-        {
-          "name": "Motom Beats",
-          "url": "https://open.spotify.com/artist/40x1m6mMmfEvUO4k1RwkaS"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "Suffocation",
-      "url": "https://open.spotify.com/track/6PgbBc05GDqJij9ilR9RAq"
-    },
-    {
-      "added_at": "2025-09-11 11:33:04",
-      "album": {
-        "name": "Last Uh' Da' Rap Mafia Dons (Official Instrumental)",
-        "url": "https://open.spotify.com/album/48HS51HjXNZaIRDoqmL5yy"
-      },
-      "artists": [
-        {
-          "name": "Young Bleed",
-          "url": "https://open.spotify.com/artist/5GQgxUq4MOuXXV99WrRuev"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        }
-      ],
-      "duration_ms": 212575,
-      "name": "Last Uh' Da' Rap Mafia Dons - Official Instrumental",
-      "url": "https://open.spotify.com/track/2KPz1PKwj13GyyFdHveEKy"
-    },
-    {
-      "added_at": "2025-09-11 11:33:05",
-      "album": {
-        "name": "Chainsaws And Machetes (CRISISBEATZZ & PROD. MYKEY Remix Version)",
-        "url": "https://open.spotify.com/album/6sCVnNzWzE0Ig3HM4JomcV"
-      },
-      "artists": [
-        {
-          "name": "M-Cray",
-          "url": "https://open.spotify.com/artist/0Pjtw8hYTa1OlObMo8sMcD"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "Prod. MyKey",
-          "url": "https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm"
-        }
-      ],
-      "duration_ms": 87209,
-      "name": "Chainsaws And Machetes - CRISISBEATZZ & PROD. MYKEY Remix Version",
-      "url": "https://open.spotify.com/track/3Nq7RhYY4RtdQ627ijEpg4"
-    },
-    {
-      "added_at": "2025-10-06 15:45:04",
-      "album": {
-        "name": "Attached",
-        "url": "https://open.spotify.com/album/3Mjld0y5ko1Lxe8axCJTrv"
-      },
-      "artists": [
-        {
-          "name": "Chris Mark Mickey",
-          "url": "https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        }
-      ],
-      "duration_ms": 159191,
-      "name": "Take Your Shot",
-      "url": "https://open.spotify.com/track/704CpoCxtX6Z7ubRxD3QTc"
-    },
-    {
-      "added_at": "2025-10-06 15:45:05",
-      "album": {
-        "name": "Canzoni Contromano",
-        "url": "https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ceriani",
-          "url": "https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H"
-        }
-      ],
-      "duration_ms": 277085,
-      "name": "La Cultura Del Sospetto - feat. Gianni Moretti",
-      "url": "https://open.spotify.com/track/3HbYEChQJrQSmkBLeX86W2"
-    },
-    {
-      "added_at": "2025-11-04 18:24:21",
-      "album": {
-        "name": "Tranquility",
-        "url": "https://open.spotify.com/album/5EOfIpRs4JMH9M52TVzxs4"
-      },
-      "artists": [
-        {
-          "name": "Barrie Johnson",
-          "url": "https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4"
-        }
-      ],
-      "duration_ms": 274690,
-      "name": "Tranquility",
-      "url": "https://open.spotify.com/track/4GhdgLqCsD2cDPKZyXuNKR"
-    },
-    {
-      "added_at": "2025-11-04 18:24:28",
-      "album": {
-        "name": "Kiss Me Before I Die",
-        "url": "https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg"
-      },
-      "artists": [
-        {
-          "name": "DJ Connery",
-          "url": "https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au"
-        }
-      ],
-      "duration_ms": 253085,
-      "name": "Kiss Me Before I Die",
-      "url": "https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb"
-    },
-    {
-      "added_at": "2025-11-04 18:24:29",
-      "album": {
-        "name": "Integrity",
-        "url": "https://open.spotify.com/album/483UjSRVQgX3AxMReVprJ9"
-      },
-      "artists": [
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        }
-      ],
-      "duration_ms": 152669,
-      "name": "Integrity",
-      "url": "https://open.spotify.com/track/6HcCERnjCZyZaFF4Evhwe6"
-    },
-    {
-      "added_at": "2025-11-04 18:24:30",
-      "album": {
-        "name": "CTRL FREQS (The Album)",
-        "url": "https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv"
-      },
-      "artists": [
-        {
-          "name": "CTRL FREQS",
-          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Screen Love",
-      "url": "https://open.spotify.com/track/1N4AQ3hVyx4o98gZ3vDGzP"
-    },
-    {
-      "added_at": "2025-11-11 18:02:38",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq"
-      },
-      "artists": [
-        {
-          "name": "Chronic Dream",
-          "url": "https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk"
-        },
-        {
-          "name": "April Afternoon",
-          "url": "https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Wide Awake",
-      "url": "https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm"
-    },
-    {
-      "added_at": "2025-11-11 18:02:38",
-      "album": {
-        "name": "My Tribe - EP",
-        "url": "https://open.spotify.com/album/782Sz599wkUZsZOXhuOTOh"
-      },
-      "artists": [
-        {
-          "name": "Harold Payne",
-          "url": "https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC"
-        }
-      ],
-      "duration_ms": 207566,
-      "name": "Break the Chain",
-      "url": "https://open.spotify.com/track/0AA9NZXJtDtqkjRevrDgv7"
-    },
-    {
-      "added_at": "2025-11-11 18:02:40",
-      "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz"
-      },
-      "artists": [
-        {
-          "name": "Hana Wiess",
-          "url": "https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9"
-        }
-      ],
-      "duration_ms": 199446,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ"
-    },
-    {
-      "added_at": "2025-11-11 18:02:40",
-      "album": {
-        "name": "Canzoni Contromano",
-        "url": "https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII"
-      },
-      "artists": [
-        {
-          "name": "Angelo Ceriani",
-          "url": "https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H"
-        }
-      ],
-      "duration_ms": 306425,
-      "name": "La Differenza",
-      "url": "https://open.spotify.com/track/6slMNhIM650C5PJOaGBX2K"
-    },
-    {
-      "added_at": "2025-11-11 18:02:44",
-      "album": {
-        "name": "3.32",
-        "url": "https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i"
-      },
-      "artists": [
-        {
-          "name": "001 BEST",
-          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
-        }
-      ],
-      "duration_ms": 152720,
-      "name": "3.32",
-      "url": "https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r"
-    },
-    {
-      "added_at": "2025-11-11 18:02:44",
-      "album": {
-        "name": "CTRL FREQS (The Album)",
-        "url": "https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv"
-      },
-      "artists": [
-        {
-          "name": "CTRL FREQS",
-          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
-        }
-      ],
-      "duration_ms": 214163,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/0yjGhB4nn0S3YePwRcHbhZ"
-    },
-    {
-      "added_at": "2025-11-14 09:53:12",
-      "album": {
-        "name": "The Steel II",
-        "url": "https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd"
-      },
-      "artists": [
-        {
-          "name": "The Steel",
-          "url": "https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY"
-        }
-      ],
-      "duration_ms": 249738,
-      "name": "Until the End of the World",
-      "url": "https://open.spotify.com/track/1pE14eN9lfdPeg73TcCM46"
-    },
-    {
-      "added_at": "2025-11-14 09:53:13",
-      "album": {
-        "name": "The Price of Not Being Me",
-        "url": "https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA"
-      },
-      "artists": [
-        {
-          "name": "Donkey Shots",
-          "url": "https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx"
-        }
-      ],
-      "duration_ms": 214090,
-      "name": "The Price of Not Being Me",
-      "url": "https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV"
-    },
-    {
-      "added_at": "2025-11-14 09:53:15",
-      "album": {
-        "name": "La ansiedad",
-        "url": "https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 128998,
-      "name": "Sed de venganza",
-      "url": "https://open.spotify.com/track/4dnEM2HxWH1PSTGQdRjjHu"
-    },
-    {
-      "added_at": "2025-11-14 09:53:15",
-      "album": {
-        "name": "Caballito de arena",
-        "url": "https://open.spotify.com/album/3YMi7sNqtCHUBY1hk5l0Zm"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
-          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
-        }
-      ],
-      "duration_ms": 179799,
-      "name": "Caballito de arena",
-      "url": "https://open.spotify.com/track/4MbmHQqmrbA3jyaUGDiHyw"
-    },
-    {
-      "added_at": "2025-11-14 09:53:26",
-      "album": {
-        "name": "Ticket To The Moon",
-        "url": "https://open.spotify.com/album/1VpdLVkm6TIixsUtU68qnp"
-      },
-      "artists": [
-        {
-          "name": "Earth Zep Tepi",
-          "url": "https://open.spotify.com/artist/5rrEyXFSwau2wwN0JcrRLh"
-        },
-        {
-          "name": "420 Sir$mokealot",
-          "url": "https://open.spotify.com/artist/4K1wW4mswgXDZUks88Up8O"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Ticket To The Moon",
-      "url": "https://open.spotify.com/track/6j5upLhN41mzpAwK3NWFrv"
-    },
-    {
-      "added_at": "2025-11-17 12:43:05",
-      "album": {
-        "name": "UNDERNEATH THE MISTLETOE",
-        "url": "https://open.spotify.com/album/0Xq9hTLQCUBnhGVNBqg9DS"
-      },
-      "artists": [
-        {
-          "name": "Georgia Jay",
-          "url": "https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK"
-        }
-      ],
-      "duration_ms": 167341,
-      "name": "UNDERNEATH THE MISTLETOE",
-      "url": "https://open.spotify.com/track/0hfikWpzoANNDL4o9Kz2A0"
-    },
-    {
-      "added_at": "2025-11-17 12:43:06",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/3ogH4sbNLfvoo5B83dywvS"
-      },
-      "artists": [
-        {
-          "name": "Amovura",
-          "url": "https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "Heartbreak",
-      "url": "https://open.spotify.com/track/4Kfz8tiFJqYn8lVRYwsdSC"
-    },
-    {
-      "added_at": "2025-11-17 12:43:06",
-      "album": {
-        "name": "Right guy wrong mouth",
-        "url": "https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I"
-      },
-      "artists": [
-        {
-          "name": "Phantom goblin king",
-          "url": "https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9"
-        }
-      ],
-      "duration_ms": 156862,
-      "name": "Right guy wrong mouth",
-      "url": "https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2"
-    },
-    {
-      "added_at": "2025-11-17 12:43:14",
-      "album": {
-        "name": "Devour / The Performer",
-        "url": "https://open.spotify.com/album/0WjR5u6xA9bI9qu0lhDurj"
-      },
-      "artists": [
-        {
-          "name": "TULLE",
-          "url": "https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI"
-        }
-      ],
-      "duration_ms": 240612,
-      "name": "Devour / The Performer",
-      "url": "https://open.spotify.com/track/5FDV4uoXH08RdtWYK59TJv"
-    },
-    {
-      "added_at": "2025-11-17 12:43:22",
-      "album": {
-        "name": "The queen and the tearaway",
-        "url": "https://open.spotify.com/album/1BKkGNtx5n0Rvmvyv25hXp"
-      },
-      "artists": [
-        {
-          "name": "good afternoon",
-          "url": "https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2"
-        }
-      ],
-      "duration_ms": 207934,
-      "name": "The queen and the tearaway",
-      "url": "https://open.spotify.com/track/6RzjgO7QhYIYbNZGVE4LQI"
     },
     {
       "added_at": "2025-11-21 16:44:12",
@@ -3579,6 +2699,46 @@
       "duration_ms": 224802,
       "name": "Sunday Morning Fight (About Saturday Night)",
       "url": "https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7"
+    },
+    {
+      "added_at": "2025-12-20 17:47:55",
+      "album": {
+        "name": "Per lo Scoglio, Per il Rifugio, Per il Pianeta",
+        "url": "https://open.spotify.com/album/0GSsv7hJyp5k8cKacEPN1e"
+      },
+      "artists": [
+        {
+          "name": "Xlofono",
+          "url": "https://open.spotify.com/artist/5P29J1CH2yBHIVleAbVtwb"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Per lo Scoglio, Per il Rifugio, Per il Pianeta",
+      "url": "https://open.spotify.com/track/0GZs32uL7rWpDLqJApdzKv"
+    },
+    {
+      "added_at": "2025-12-20 22:01:35",
+      "album": {
+        "name": "Sothu",
+        "url": "https://open.spotify.com/album/3wrt0lv7o44oqYfjp4rKv3"
+      },
+      "artists": [
+        {
+          "name": "TED",
+          "url": "https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T"
+        },
+        {
+          "name": "Yohanan",
+          "url": "https://open.spotify.com/artist/1qPbBhNU3F8FyL9iV7Zd3A"
+        },
+        {
+          "name": "A Shreyas",
+          "url": "https://open.spotify.com/artist/0r7iBMzsdaH9KpxOj4bWhG"
+        }
+      ],
+      "duration_ms": 412173,
+      "name": "Sothu",
+      "url": "https://open.spotify.com/track/0NJ2LQIXckdyBXQo1OIDvm"
     }
   ],
   "unique_name": "New Indie Music",

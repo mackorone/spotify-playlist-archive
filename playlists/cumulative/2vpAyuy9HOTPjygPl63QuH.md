@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,382 songs - 5 day 14 hr 10 min
+2,383 songs - 5 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1876,6 +1876,7 @@
 | [Somebody To Love](https://open.spotify.com/track/4kdnXIncjnnhHGUiha3JSr) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Duwayne Motley](https://open.spotify.com/artist/4bLu5NhZ3qGpZvXOtAvMXq), [Kelli Sae](https://open.spotify.com/artist/5BtZ4qimzjq5yGth6PBJ17) | [Somebody To Love](https://open.spotify.com/album/4ffH2BVHtKgRBvpNdoKs9j) | 3:25 | 2024-01-05 | 2024-01-28 |
 | [Someday](https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Someday](https://open.spotify.com/album/27N3fOm7u8Sj4JEGraTc1d) | 3:47 | 2025-04-18 | 2025-05-17 |
 | [Someone Like You](https://open.spotify.com/track/50er2te7txC3DkR4y8cANW) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Someone Like You](https://open.spotify.com/album/1Z9mfaM5XeMIqhlZzCeuyX) | 2:51 | 2023-03-24 | 2023-04-01 |
+| [Something About You](https://open.spotify.com/track/2SbylI8B8hGqdnPV8pXEkD) | [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [House FC](https://open.spotify.com/album/26hpMQzEN8ozoQEMythwP0) | 4:58 | 2025-12-20 |  |
 | [Something To Me](https://open.spotify.com/track/2oCShkda3AnUzwPzZPvQyf) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Something To Me](https://open.spotify.com/album/6kbGkFNoQrF3EWaQxky9sO) | 3:45 | 2024-06-21 | 2024-07-13 |
 | [Sometimes](https://open.spotify.com/track/20brrH31YYu9ymOYPercas) | [De La Trinidad](https://open.spotify.com/artist/5ZDwQ9rN1DjNqqXDr9cDw6) | [Bang Bang Miami 2023](https://open.spotify.com/album/0XU5JI77mzyqtcn2NMoSnA) | 4:12 | 2023-05-05 | 2023-05-13 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-24 | 2023-07-01 |
@@ -2082,7 +2083,7 @@
 | [The Unknown](https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [The Unknown](https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M) | 2:56 | 2024-05-01 | 2024-06-22 |
 | [The Volume \- Will Clarke Remix](https://open.spotify.com/track/6baLbtSU7YSbYBF1LkH3hf) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Alan T](https://open.spotify.com/artist/4ljjZIEv8N2ggxgoOzTOkb), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mood Elevation Vol\. 1](https://open.spotify.com/album/4HEougE05gNRn60rJsmArX) | 3:12 | 2022-07-09 | 2022-07-16 |
 | [The Way](https://open.spotify.com/track/2Zj2cVmD1XgTqWijyHreVj) | [Empher](https://open.spotify.com/artist/1JFNXZzuUFbJchlBRM2yL0) | [The Way](https://open.spotify.com/album/2s0cu5Ix8K26yIFwvrp0Xi) | 2:53 | 2023-03-24 | 2023-04-01 |
-| [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 | 2025-12-19 |  |
+| [The Way I Are \- Max Dean Remix \- Extended](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix \- Extended\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 | 2025-12-19 |  |
 | [The Way I Feel](https://open.spotify.com/track/5l8Ilpn3w5tszqeJxxn6bF) | [Burman Boys](https://open.spotify.com/artist/14t9v3nuI2zfTAza5uQ6b9), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [The Way I Feel](https://open.spotify.com/album/3Hp0oydoYQWMIMEw0PqBHB) | 3:20 | 2023-03-10 | 2023-03-18 |
 | [The Way I Like It](https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [The Way I Like It EP](https://open.spotify.com/album/5or9Wn5yIGMLW8waFsbKEM) | 3:15 | 2024-11-29 | 2025-01-25 |
 | [The Way You Act](https://open.spotify.com/track/28Dj2arHz2IM8PMSI5NCjz) | [Labeeb](https://open.spotify.com/artist/5Wm9RIPoJKWlJNEE9iZDe0) | [The Way You Act](https://open.spotify.com/album/7aV6ojZOYkd9FGvSXayF8c) | 3:38 | 2024-07-29 | 2024-08-31 |

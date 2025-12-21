@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "What Happened",
+        "url": "https://open.spotify.com/album/6epAWsXHGwVc8utKHf1wmI"
+      },
+      "artists": [
+        {
+          "name": "Leith",
+          "url": "https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "What Happened",
+      "url": "https://open.spotify.com/track/6oYDesnbzrC6Hzbd9Tk17y"
+    },
+    {
+      "album": {
         "name": "NEVER REALLY THE END",
         "url": "https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD"
       },

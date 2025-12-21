@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 151502,
+  "num_followers": 151515,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "LIFEBLOOD",
-        "url": "https://open.spotify.com/album/3kPyvyNnnP6HA7H4raJmzE"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "LIFEBLOOD",
-      "url": "https://open.spotify.com/track/1UCIAHa0RAVGY8sOyM6lma"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 172466,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "LIFEBLOOD",
+        "url": "https://open.spotify.com/album/3kPyvyNnnP6HA7H4raJmzE"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "LIFEBLOOD",
+      "url": "https://open.spotify.com/track/1UCIAHa0RAVGY8sOyM6lma"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 189163,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 133678,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Loser",
-        "url": "https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5"
-      },
-      "artists": [
-        {
-          "name": "Sueco",
-          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
-        }
-      ],
-      "duration_ms": 133678,
-      "name": "Loser",
-      "url": "https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 263389,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 263389,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/43U88NL56TYXF9sR6n7cHM"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+        "name": "Oh No :: He Said What?",
+        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 162013,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+      "duration_ms": 228138,
+      "name": "Oh No :: He Said What?",
+      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Oh No :: He Said What?",
-        "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
         }
       ],
-      "duration_ms": 228138,
-      "name": "Oh No :: He Said What?",
-      "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "RENO (ALL IN)",
-        "url": "https://open.spotify.com/album/6xx3OFM5pcN9orjxumOoKG"
-      },
-      "artists": [
-        {
-          "name": "Red Leather",
-          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
-        }
-      ],
-      "duration_ms": 161327,
-      "name": "UNSTOPPABLE",
-      "url": "https://open.spotify.com/track/2bPZTakU4YDTYtfM895oFx"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Goals",
         "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 133746,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3rW9rYv7SE0l8MIOWnkZ2i"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "RENO (ALL IN)",
+        "url": "https://open.spotify.com/album/6xx3OFM5pcN9orjxumOoKG"
+      },
+      "artists": [
+        {
+          "name": "Red Leather",
+          "url": "https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1"
+        }
+      ],
+      "duration_ms": 161327,
+      "name": "UNSTOPPABLE",
+      "url": "https://open.spotify.com/track/2bPZTakU4YDTYtfM895oFx"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Communicating",
-        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Communicating",
-      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "third degree",
         "url": "https://open.spotify.com/album/21DyQCFJhDNPIzX4HB79kH"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 188000,
       "name": "third degree",
       "url": "https://open.spotify.com/track/2tAvRoEE2g5IukKQlHhdvm"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Communicating",
+        "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Communicating",
+      "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Stepper",
-        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 196748,
-      "name": "Stepper",
-      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Over You",
         "url": "https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 170266,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Stepper",
+        "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 196748,
+      "name": "Stepper",
+      "url": "https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Recipe For Disaster",
-        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 165971,
-      "name": "Recipe For Disaster",
-      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Recipe For Disaster",
+        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 165971,
+      "name": "Recipe For Disaster",
+      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197164,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 179800,
       "name": "Hotel Lights",
       "url": "https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "added_at": "2025-12-09 20:34:50",

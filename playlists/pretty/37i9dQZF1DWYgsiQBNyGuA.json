@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day. Cover: Tone Stith",
-  "num_followers": 109482,
+  "num_followers": 109531,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANbU+N64sLEJdD+zo/chMc6OAXh6",
+  "snapshot_id": "AAAAAGcKiPeU+KWD60ukDpYSyqpjYJZv",
   "tracks": [
     {
       "added_at": "2025-12-12 05:00:38",
@@ -1077,6 +1077,26 @@
       "url": "https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4"
     },
     {
+      "added_at": "2025-12-12 05:00:38",
+      "album": {
+        "name": "Summer In December",
+        "url": "https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Summer In December",
+      "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "My World",
@@ -1245,42 +1265,6 @@
       "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
     },
     {
-      "added_at": "2025-12-12 05:00:38",
-      "album": {
-        "name": "Summer In December",
-        "url": "https://open.spotify.com/album/1p9Y7847XEVASZ0seH1mup"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        },
-        {
-          "name": "Aaron Childs",
-          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Summer In December",
-      "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
-    },
-    {
-      "added_at": "2025-09-05 04:13:32",
-      "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 100122,
-      "name": "LOVE!",
-      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
-    },
-    {
       "added_at": "2025-04-21 15:39:41",
       "album": {
         "name": "Three Piece Suit (feat. Azekel)",
@@ -1299,6 +1283,22 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "added_at": "2025-09-05 04:13:32",
+      "album": {
+        "name": "wHIMSY",
+        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "LOVE!",
+      "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Spiritual Thang",
-      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
-    },
-    {
       "added_at": "2025-06-20 04:00:56",
       "album": {
         "name": "Just Can't Wait",
@@ -1379,6 +1363,22 @@
       "duration_ms": 382508,
       "name": "Just Can't Wait",
       "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+      },
+      "artists": [
+        {
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Spiritual Thang",
+      "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
     },
     {
       "added_at": "2025-08-29 19:27:46",
@@ -1433,6 +1433,30 @@
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
+      "added_at": "2025-12-12 05:00:38",
+      "album": {
+        "name": "HOWWEFLOW",
+        "url": "https://open.spotify.com/album/7CPafRVIO0pXc6WMkKzYnv"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 161596,
+      "name": "HOWWEFLOW",
+      "url": "https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM"
+    },
+    {
       "added_at": "2025-03-07 06:27:51",
       "album": {
         "name": "Yonder: Book III",
@@ -1463,30 +1487,6 @@
       "duration_ms": 107080,
       "name": "Crysalis",
       "url": "https://open.spotify.com/track/0JTaxloJYWa8xu8VZ9DqbF"
-    },
-    {
-      "added_at": "2025-12-12 05:00:38",
-      "album": {
-        "name": "HOWWEFLOW",
-        "url": "https://open.spotify.com/album/7CPafRVIO0pXc6WMkKzYnv"
-      },
-      "artists": [
-        {
-          "name": "GENA",
-          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        }
-      ],
-      "duration_ms": 161596,
-      "name": "HOWWEFLOW",
-      "url": "https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM"
     },
     {
       "added_at": "2024-08-30 05:32:52",

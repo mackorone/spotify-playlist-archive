@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: JUNNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,412 likes - 95 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,410 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SEASONS](https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [SEASONS](https://open.spotify.com/album/18VqntcpIxlNqJerVxFHTD) | 3:31 |
 | 2 | [Recently Deleted](https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas: Unlocked](https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ) | 3:43 |
-| 3 | [Do What We Do \(Kenny Gabriel Remix Feat\. PB GLAS\)](https://open.spotify.com/track/2NxPqLvFN1VLwg5X7YnceL) | [Salon RnB](https://open.spotify.com/artist/6SWMaCAmvv0L6J3UenIEIN), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [PB GLAS](https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG), [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu) | [Do What We Do \(Remixes\)](https://open.spotify.com/album/3L5pwJb6qtKfU8EMAhl3Pe) | 3:36 |
+| 3 | [Do What We Do \(Kenny Gabriel Remix Feat\. PB GLAS\)](https://open.spotify.com/track/2NxPqLvFN1VLwg5X7YnceL) | [Salon RnB](https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [PB GLAS](https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG), [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu) | [Do What We Do \(Remixes\)](https://open.spotify.com/album/3L5pwJb6qtKfU8EMAhl3Pe) | 3:36 |
 | 4 | [Hold Me Close](https://open.spotify.com/track/2YbOFI7toDU4OXhzVj2W4g) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [Hold Me Close](https://open.spotify.com/album/2eQTnbafLLbArXLa8chE2y) | 3:02 |
 | 5 | [LONDON](https://open.spotify.com/track/18844b41WtHrs6E0rmK5fE) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [lamida](https://open.spotify.com/album/7mQq1P2ZbBMLcRVHbtT5JV) | 1:29 |
 | 6 | [Down Bad](https://open.spotify.com/track/4riwHe2TGDQvqNcPrnsw2Z) | [JeryC](https://open.spotify.com/artist/71rLWhdALdq6mKlVApbmJW) | [Down Bad](https://open.spotify.com/album/0LT2D8y0TUFsdJZRqD0bl1) | 2:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 258 likes - 88 songs - 5 hr 22 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 263 likes - 94 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,11 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 86 | [Still](https://open.spotify.com/track/7jaJmDGkrPIlAA6IlyiYa3) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:30 |
 | 87 | [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 |
 | 88 | [Cut the Music](https://open.spotify.com/track/0kub1ztt7OU6gzch4MpEjU) | [Evan Rotella](https://open.spotify.com/artist/01UvushZJthpdyuMbDFpDS) | [Cut the Music](https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv) | 4:06 |
+| 89 | [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 |
+| 90 | [Blue Hands](https://open.spotify.com/track/1w3oIrfHqtPdFLt7sn4rwy) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Blue Hands](https://open.spotify.com/album/3PzzUiNtsYSDMRNhSPL1yT) | 2:47 |
+| 91 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 |
+| 92 | [Your Revolution](https://open.spotify.com/track/1WSbOpf77PWVKHqiPhTdmI) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Your Revolution](https://open.spotify.com/album/27Q2F1616jpd9nAUjqlnVw) | 3:46 |
+| 93 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 |
+| 94 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 |
 
-Snapshot ID: `AAAA3mDOvtPbs1yQJ4kw3WnKZ/sYbJeW`
+Snapshot ID: `AAAA5HXCONztCCtcofkUe1YdoliyQ2yp`

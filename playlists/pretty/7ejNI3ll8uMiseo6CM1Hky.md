@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,860 likes - 171 songs - 9 hr 42 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 3,864 likes - 172 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,5 +179,6 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 169 | [Danny Don't You Know](https://open.spotify.com/track/2UAkvf29DvpqYCqK0VFf84) | [Ninja Sex Party](https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx) | [Cool Patrol](https://open.spotify.com/album/05VZA6Th4AQvZwDL3XUHt5) | 4:34 |
 | 170 | [Gravity](https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij) | [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Alex Brightman](https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Gravity](https://open.spotify.com/album/74HNHfB066STy568ETJsPl) | 1:53 |
 | 171 | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/track/5EcejFT18sRlINSUm9UrN2) | [Lyamev](https://open.spotify.com/artist/66JRvwn4ZWl96JJauc7xXa) | [CHIPI CHIPI CHAPA CHAPA PHONK](https://open.spotify.com/album/3DBq5ATRCN44y57HL3HCzl) | 1:21 |
+| 172 | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/track/2S4N7RYlhHr1vWadDaleuJ) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Yung GEMMY](https://open.spotify.com/artist/5ZAPfZ2QrWRwg7vtyfky9t) | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/album/2QIAWsoHz28fOoMDnDwRXc) | 2:00 |
 
-Snapshot ID: `AAAB/HWU8h4gvFEUgPRmElchkX04X85C`
+Snapshot ID: `AAAB/YkofIRPHfFX470hufbFwK1smBuU`

@@ -22775,6 +22775,32 @@
     },
     {
       "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/65BSV9uKC2RiWIx7ULUFbD"
+      },
+      "artists": [
+        {
+          "name": "GHALIA",
+          "url": "https://open.spotify.com/artist/7G25QOtyexazRpK1ZYqhOc"
+        },
+        {
+          "name": "Freaky DJs",
+          "url": "https://open.spotify.com/artist/2tZINeGiB74TsojN6RF0b0"
+        },
+        {
+          "name": "Majewski",
+          "url": "https://open.spotify.com/artist/7rddKaBLeToWjektrVnUCm"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147820,
+      "name": "Dum Dum",
+      "url": "https://open.spotify.com/track/5BGqyZ8p5l2LGC0CEoDEyg"
+    },
+    {
+      "album": {
         "name": "Dun Dun",
         "url": "https://open.spotify.com/album/4Ycyp1cQVW9VPOzlEdSk83"
       },

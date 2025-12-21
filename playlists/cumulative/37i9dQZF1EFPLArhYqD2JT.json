@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -8290,10 +8290,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 194612,
       "name": "Was There Ever A Pal Like You",
       "url": "https://open.spotify.com/track/1I8benLwWYXV3wvXG7524W"
+    },
+    {
+      "album": {
+        "name": "Greatest Songs & Tunes of 1920",
+        "url": "https://open.spotify.com/album/23zExijyHeZ6uQIcatGpsH"
+      },
+      "artists": [
+        {
+          "name": "Henry Burr",
+          "url": "https://open.spotify.com/artist/4KamiHhXFArPH2d7aX6qOF"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194612,
+      "name": "Was There Ever A Pal Like You",
+      "url": "https://open.spotify.com/track/5SFp8kENuIDdN4koQL3hu2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-161 songs - 9 hr 3 min
+162 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2023-05-02 | 2024-02-07 |
 | [Lovely Soul](https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:40 | 2024-02-07 |  |
 | [Lovely Soul](https://open.spotify.com/track/1SjMeC7cK1SiK76J0qm5mi) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX) | 3:40 | 2023-05-02 | 2024-02-08 |
-| [Lucky U](https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:50 | 2025-03-22 |  |
+| [Lucky U](https://open.spotify.com/track/2hyAkWYn2qNs3gXa1K9luF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 2:50 | 2025-03-22 | 2025-12-21 |
 | [Lucky U](https://open.spotify.com/track/69TklvtT4VDOJBfszvE7k2) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Lucky U](https://open.spotify.com/album/34kDH9MUkQvu30RSSlWmCZ) | 2:50 | 2025-02-09 | 2025-03-22 |
+| [Lucky U \- Instrumental](https://open.spotify.com/track/7dodskvNou5tari9Tpssjk) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Eternal Reverie \(Instrumentals\)](https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A) | 2:50 | 2025-12-21 |  |
 | [Lune](https://open.spotify.com/track/0OWM271M81gfFl3RdM9AmI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s) | 3:02 | 2023-05-02 | 2024-02-08 |
 | [Lune](https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:02 | 2024-02-07 |  |
 | [Mind Of](https://open.spotify.com/track/6wq6qtnJCEQET0of8vhit8) | [Analogue Monsta](https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Suzi Analogue](https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8) | [Boom](https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO) | 3:02 | 2023-12-16 | 2024-03-01 |

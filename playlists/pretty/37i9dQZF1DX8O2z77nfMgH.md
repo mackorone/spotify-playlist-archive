@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,685 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,567 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 43 | [Cuero](https://open.spotify.com/track/1bcI8QUbJ4M4QydpAFlpPi) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [OKEIFLOU](https://open.spotify.com/artist/151g6ClefcL7Owo9EZNz9e) | [Cuero](https://open.spotify.com/album/7foYHAyQEwsoq4kmuMbVKn) | 2:26 |
 | 44 | [Señora Oficial](https://open.spotify.com/track/6cjjiqFRI5CgJI6r70drbO) | [Juan Vibra](https://open.spotify.com/artist/59odoIWAi1XM8pGRpczKYb), [Martin Lora](https://open.spotify.com/artist/2IJctmvAfCpc1prOdWE54K), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Beauty Pikete](https://open.spotify.com/artist/3MpMuiI6gcFqUWmw54W3iB) | [Señora Oficial](https://open.spotify.com/album/2lTIHCOPiA2CooiQwTMJYu) | 3:00 |
 | 45 | [Linda](https://open.spotify.com/track/7MLex61Szt77tNNnF4CRqE) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Linda](https://open.spotify.com/album/5iokP9D0XddoVfhjNMg7UK) | 2:58 |
-| 46 | [Xxxmas](https://open.spotify.com/track/67vStLBNidIrDzYyF0szuq) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Xxxmas](https://open.spotify.com/album/0upxX0pAdYzafSDB2LXVqe) | 2:28 |
-| 47 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 |
-| 48 | [222](https://open.spotify.com/track/3LyJgyVfrcFeHytNGMaWAI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [222](https://open.spotify.com/album/5VpLSWAHe0qDLZ4ORLojCZ) | 2:36 |
-| 49 | [JAIME](https://open.spotify.com/track/77QfYuCcElrFNe7znXSROV) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [JAIME](https://open.spotify.com/album/7cslk9e3K2tuVKkM4Zvawr) | 3:29 |
-| 50 | [Mexas en Texas](https://open.spotify.com/track/0k7yVRgr59ErbHuRS73Ilf) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Mexas en Texas](https://open.spotify.com/album/2oKfl0U7ogxgMz85yzbZAg) | 2:41 |
-| 51 | [Calibre 22](https://open.spotify.com/track/0lLppULGHhrbWKeOIzM0Cn) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Calibre 22](https://open.spotify.com/album/5eP8mZHs9W3ug5Msvvvt5e) | 2:53 |
-| 52 | [Alma Pequeña](https://open.spotify.com/track/1jOt4DEYffEjM4pygVExHi) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Alma Pequeña](https://open.spotify.com/album/7GKH4GgJ82pBVyZ2hpGzVt) | 3:58 |
-| 53 | [Enamorando](https://open.spotify.com/track/0YcAxi5W1W1MK8nFFxCpiW) | [brokencray](https://open.spotify.com/artist/7EKvcRXgqrkgy5NC8RRcyB) | [Enamorando](https://open.spotify.com/album/7FfLA13pUiIllsy4dmUHQX) | 2:38 |
-| 54 | [Vuélveme A Besar](https://open.spotify.com/track/3xXJZCrFTb2WFwAOpFJxHT) | [Fabiola Roudha](https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71), [Maria Del Sol](https://open.spotify.com/artist/5zG3ksNu7WAhSc3G0Xcs0O) | [Vuélveme A Besar](https://open.spotify.com/album/79IQOWCvLyOZfxmlMUNgIT) | 3:16 |
-| 55 | [Bambuu](https://open.spotify.com/track/54sqIcw0iDE7IzkszeyoiZ) | [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [Los Hice Yo](https://open.spotify.com/album/2MwayZxlfS1hk1q4W8LfCZ) | 2:26 |
+| 46 | [XXX](https://open.spotify.com/track/1khixdLGwMl94ThLBQT8x3) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo) | [XXX](https://open.spotify.com/album/0CYupcMeQ0INRvreQCjl9k) | 2:20 |
+| 47 | [Xxxmas](https://open.spotify.com/track/67vStLBNidIrDzYyF0szuq) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Xxxmas](https://open.spotify.com/album/0upxX0pAdYzafSDB2LXVqe) | 2:28 |
+| 48 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 |
+| 49 | [222](https://open.spotify.com/track/3LyJgyVfrcFeHytNGMaWAI) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Hillkidd](https://open.spotify.com/artist/4nk1I74jOOJiPdKPU6GfWk) | [222](https://open.spotify.com/album/5VpLSWAHe0qDLZ4ORLojCZ) | 2:36 |
+| 50 | [JAIME](https://open.spotify.com/track/77QfYuCcElrFNe7znXSROV) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [JAIME](https://open.spotify.com/album/7cslk9e3K2tuVKkM4Zvawr) | 3:29 |
+| 51 | [Mexas en Texas](https://open.spotify.com/track/0k7yVRgr59ErbHuRS73Ilf) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Mexas en Texas](https://open.spotify.com/album/2oKfl0U7ogxgMz85yzbZAg) | 2:41 |
+| 52 | [Calibre 22](https://open.spotify.com/track/0lLppULGHhrbWKeOIzM0Cn) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Calibre 22](https://open.spotify.com/album/5eP8mZHs9W3ug5Msvvvt5e) | 2:53 |
+| 53 | [Alma Pequeña](https://open.spotify.com/track/1jOt4DEYffEjM4pygVExHi) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Alma Pequeña](https://open.spotify.com/album/7GKH4GgJ82pBVyZ2hpGzVt) | 3:58 |
+| 54 | [Enamorando](https://open.spotify.com/track/0YcAxi5W1W1MK8nFFxCpiW) | [brokencray](https://open.spotify.com/artist/7EKvcRXgqrkgy5NC8RRcyB) | [Enamorando](https://open.spotify.com/album/7FfLA13pUiIllsy4dmUHQX) | 2:38 |
+| 55 | [Vuélveme A Besar](https://open.spotify.com/track/3xXJZCrFTb2WFwAOpFJxHT) | [Fabiola Roudha](https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71), [Maria Del Sol](https://open.spotify.com/artist/5zG3ksNu7WAhSc3G0Xcs0O) | [Vuélveme A Besar](https://open.spotify.com/album/79IQOWCvLyOZfxmlMUNgIT) | 3:16 |
+| 56 | [Bambuu](https://open.spotify.com/track/54sqIcw0iDE7IzkszeyoiZ) | [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [Los Hice Yo](https://open.spotify.com/album/2MwayZxlfS1hk1q4W8LfCZ) | 2:26 |
 
 Snapshot ID: `AAAAADtqZrVmCkIviolHwQcH+940y7Vr`

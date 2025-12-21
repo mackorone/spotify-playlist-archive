@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 160879,
+  "num_followers": 160915,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "In Sides",
-        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
-      },
-      "artists": [
-        {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
-        }
-      ],
-      "duration_ms": 359586,
-      "name": "The Box - Part 2",
-      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/0u37PeJMtmWiydx4SfHCC5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/2cmSBwuHbYJvVEmDtZR2X0"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "In Sides",
+        "url": "https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 359586,
+      "name": "The Box - Part 2",
+      "url": "https://open.spotify.com/track/1kV6GsEtVGmPehcGpmYtnr"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Midnight In A Perfect World",
+      "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "Play & Play: B Sides",
-        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Bodyrock",
-      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Post",
-        "url": "https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE"
+        "name": "Play & Play: B Sides",
+        "url": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Army Of Me",
-      "url": "https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI"
+      "duration_ms": 216440,
+      "name": "Bodyrock",
+      "url": "https://open.spotify.com/track/1Go2Lyy4cQNKCz0PzUkj9S"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1287,6 +1287,22 @@
       "duration_ms": 368400,
       "name": "Windowlicker",
       "url": "https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Post",
+        "url": "https://open.spotify.com/album/51LMZCfC9erobzqcVNWYNE"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Army Of Me",
+      "url": "https://open.spotify.com/track/2AS1h6NKoBzCoxlnmddOjI"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 298373,
-      "name": "Midnight In A Perfect World",
-      "url": "https://open.spotify.com/track/1z6zJqayfsAiiYtQ3minb7"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "90 Discomania",
         "url": "https://open.spotify.com/album/0lEHEHDsJLM2s0ZRre0d3m"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Battleflag",
-        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
-      },
-      "artists": [
-        {
-          "name": "Lo Fidelity Allstars",
-          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Battleflag",
-      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Reconstructed : The Best Of DJ Shadow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6nhxaoHgGJ07EwUPlhPiNN"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 238680,
       "name": "High Noon",
       "url": "https://open.spotify.com/track/4GblofF1pKJvQM3PS7LL2G"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Battleflag",
+        "url": "https://open.spotify.com/album/1GxB3FFX5Zy2cOYlWZtwTj"
+      },
+      "artists": [
+        {
+          "name": "Lo Fidelity Allstars",
+          "url": "https://open.spotify.com/artist/2YiWXa7E1raYyY0uQDLpgs"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Battleflag",
+      "url": "https://open.spotify.com/track/1PI6HcPT1Wx9hTLdTvMwv7"
     },
     {
       "added_at": "2021-07-14 17:36:34",

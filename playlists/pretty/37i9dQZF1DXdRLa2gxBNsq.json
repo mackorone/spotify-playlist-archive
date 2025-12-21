@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 113567,
+  "num_followers": 113595,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
         "name": "Bienvenidos a Occidente",
         "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -891,30 +891,6 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "\u00a1Qu\u00e9 Est\u00e1s Contando! (Versi\u00f3n 2025)",
-        "url": "https://open.spotify.com/album/34fTTz5yEC9IThpbbP7l1L"
-      },
-      "artists": [
-        {
-          "name": "Sonotones",
-          "url": "https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU"
-        },
-        {
-          "name": "Lilith",
-          "url": "https://open.spotify.com/artist/0Xtr51c3W1QkRm8eU8fKnQ"
-        },
-        {
-          "name": "Miss Octubre",
-          "url": "https://open.spotify.com/artist/4vuN1oaqEd0z03f1ZIBHp3"
-        }
-      ],
-      "duration_ms": 184864,
-      "name": "\u00a1Qu\u00e9 Est\u00e1s Contando! - Versi\u00f3n 2025",
-      "url": "https://open.spotify.com/track/2iolrAgxOuVtYDgb9lfqqF"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -939,18 +915,26 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Himnos desde el Infierno",
-        "url": "https://open.spotify.com/album/49KlmVmf1aFKXpXuQ65C0x"
+        "name": "\u00a1Qu\u00e9 Est\u00e1s Contando! (Versi\u00f3n 2025)",
+        "url": "https://open.spotify.com/album/34fTTz5yEC9IThpbbP7l1L"
       },
       "artists": [
         {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+          "name": "Sonotones",
+          "url": "https://open.spotify.com/artist/1R7Qi5gy56OoJ8yG6cfJWU"
+        },
+        {
+          "name": "Lilith",
+          "url": "https://open.spotify.com/artist/0Xtr51c3W1QkRm8eU8fKnQ"
+        },
+        {
+          "name": "Miss Octubre",
+          "url": "https://open.spotify.com/artist/4vuN1oaqEd0z03f1ZIBHp3"
         }
       ],
-      "duration_ms": 143581,
-      "name": "Le\u00f1a Al Fuego",
-      "url": "https://open.spotify.com/track/2pJuGbbOLT6P2wv0xyCfnj"
+      "duration_ms": 184864,
+      "name": "\u00a1Qu\u00e9 Est\u00e1s Contando! - Versi\u00f3n 2025",
+      "url": "https://open.spotify.com/track/2iolrAgxOuVtYDgb9lfqqF"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -967,6 +951,22 @@
       "duration_ms": 171213,
       "name": "Underground",
       "url": "https://open.spotify.com/track/2BGNJWScSTBdAP4v2ZV4G4"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
+        "name": "Himnos desde el Infierno",
+        "url": "https://open.spotify.com/album/49KlmVmf1aFKXpXuQ65C0x"
+      },
+      "artists": [
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        }
+      ],
+      "duration_ms": 143581,
+      "name": "Le\u00f1a Al Fuego",
+      "url": "https://open.spotify.com/track/2pJuGbbOLT6P2wv0xyCfnj"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
         "name": "no quiero irme",
         "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
       },
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Vuelvo",
-        "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
       "artists": [
         {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
-        },
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
         }
       ],
-      "duration_ms": 176481,
-      "name": "Vuelvo",
-      "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1127,6 +1107,26 @@
       "duration_ms": 260127,
       "name": "Antifascismo",
       "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
+        "name": "Vuelvo",
+        "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
+      },
+      "artists": [
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        },
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Bea Vapea",
-        "url": "https://open.spotify.com/album/3QPZ9WnYQPrBoJJJ6n1ZC0"
+        "name": "El Orden",
+        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
       },
       "artists": [
         {
-          "name": "Estrogenuinas",
-          "url": "https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
         }
       ],
-      "duration_ms": 123042,
-      "name": "Bea Vapea",
-      "url": "https://open.spotify.com/track/76Za4td3sHtz7c9PcqbHau"
+      "duration_ms": 220678,
+      "name": "El enemigo p\u00fablico",
+      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "El Orden",
-        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
+        "name": "Bea Vapea",
+        "url": "https://open.spotify.com/album/3QPZ9WnYQPrBoJJJ6n1ZC0"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+          "name": "Estrogenuinas",
+          "url": "https://open.spotify.com/artist/1BLJdXtcMhQJRxKWGfhvTM"
         }
       ],
-      "duration_ms": 220678,
-      "name": "El enemigo p\u00fablico",
-      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
+      "duration_ms": 123042,
+      "name": "Bea Vapea",
+      "url": "https://open.spotify.com/track/76Za4td3sHtz7c9PcqbHau"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
+        "name": "ANTIFASCISTA",
+        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 273052,
+      "name": "ANTIFASCISTA",
+      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
         "name": "Incomunicado",
         "url": "https://open.spotify.com/album/79BlGaN24zhGl6wTNMcV1b"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 165750,
       "name": "Incomunicado",
       "url": "https://open.spotify.com/track/0t5spY5W5ArBj5lv7UIH6E"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
-        "name": "ANTIFASCISTA",
-        "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 273052,
-      "name": "ANTIFASCISTA",
-      "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Ni\u00f1os Perdidos",
-        "url": "https://open.spotify.com/album/0HdyU9Ozh37WppNBYGFyJN"
-      },
-      "artists": [
-        {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "Ni\u00f1os Perdidos",
-      "url": "https://open.spotify.com/track/108dqN2TqWExBnnmugs5xl"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
         "name": "M\u00fasica M\u00e1quina",
         "url": "https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 240840,
       "name": "El Trabajo No Dignifica",
       "url": "https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
+        "name": "Ni\u00f1os Perdidos",
+        "url": "https://open.spotify.com/album/0HdyU9Ozh37WppNBYGFyJN"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        }
+      ],
+      "duration_ms": 169943,
+      "name": "Ni\u00f1os Perdidos",
+      "url": "https://open.spotify.com/track/108dqN2TqWExBnnmugs5xl"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Soy un NiNi",
-        "url": "https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD"
-      },
-      "artists": [
-        {
-          "name": "Tribu",
-          "url": "https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "Soy un NiNi",
-      "url": "https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
         "name": "Ser Libre",
         "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 216250,
       "name": "Ser Libre",
       "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
+        "name": "Soy un NiNi",
+        "url": "https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD"
+      },
+      "artists": [
+        {
+          "name": "Tribu",
+          "url": "https://open.spotify.com/artist/0LD2Rn90fDJoafHVQqBllr"
+        }
+      ],
+      "duration_ms": 183100,
+      "name": "Soy un NiNi",
+      "url": "https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK"
     },
     {
       "added_at": "2025-12-18 23:01:07",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-18 23:01:07",
       "album": {
-        "name": "Futur Medieval",
-        "url": "https://open.spotify.com/album/3SrJBezJIctz4q0CVYyWUQ"
-      },
-      "artists": [
-        {
-          "name": "Crim",
-          "url": "https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2"
-        }
-      ],
-      "duration_ms": 186080,
-      "name": "Futur Medieval",
-      "url": "https://open.spotify.com/track/1VYf8hXQLVTXKdKHWNzggl"
-    },
-    {
-      "added_at": "2025-12-18 23:01:07",
-      "album": {
         "name": "Ciudadano periodista",
         "url": "https://open.spotify.com/album/2FPJXNXLpush0YMcUVVpJw"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 176093,
       "name": "Ciudadano periodista",
       "url": "https://open.spotify.com/track/74GxS1s5mX7DRRD3CdOMk3"
+    },
+    {
+      "added_at": "2025-12-18 23:01:07",
+      "album": {
+        "name": "Futur Medieval",
+        "url": "https://open.spotify.com/album/3SrJBezJIctz4q0CVYyWUQ"
+      },
+      "artists": [
+        {
+          "name": "Crim",
+          "url": "https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2"
+        }
+      ],
+      "duration_ms": 186080,
+      "name": "Futur Medieval",
+      "url": "https://open.spotify.com/track/1VYf8hXQLVTXKdKHWNzggl"
     },
     {
       "added_at": "2025-12-18 23:01:07",

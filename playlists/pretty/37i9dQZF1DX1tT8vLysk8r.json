@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the best-loved works of Russian composer Sergei Prokofiev.",
-  "num_followers": 46927,
+  "num_followers": 46935,
   "original_name": "This Is Prokofiev",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,26 @@
     {
       "added_at": "2025-12-15 12:32:08",
       "album": {
+        "name": "Prokofiev: Romeo & Juliet - Highlights",
+        "url": "https://open.spotify.com/album/4TPy1jWQxk2n9PhMwgtU9E"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "duration_ms": 77693,
+      "name": "Romeo and Juliet, Op. 64 (Excerpts): The Balcony Scene",
+      "url": "https://open.spotify.com/track/0FcEHMug135UWqWsP40k3v"
+    },
+    {
+      "added_at": "2025-12-15 12:32:08",
+      "album": {
         "name": "Prokofiev: Symphony No. 3 / Mosolov: Iron Foundry / Var\u00e8se: Arcana",
         "url": "https://open.spotify.com/album/7fA8KqNhbPnvRPP0HDVmQh"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 424266,
       "name": "Symphony No. 3 in C minor, Op. 44: 2. Andante",
       "url": "https://open.spotify.com/track/3brbTmkILtH8KsJiMOYI4M"
-    },
-    {
-      "added_at": "2025-12-15 12:32:08",
-      "album": {
-        "name": "Prokofiev: Romeo & Juliet - Highlights",
-        "url": "https://open.spotify.com/album/4TPy1jWQxk2n9PhMwgtU9E"
-      },
-      "artists": [
-        {
-          "name": "Sergei Prokofiev",
-          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
-        }
-      ],
-      "duration_ms": 77693,
-      "name": "Romeo and Juliet, Op. 64 (Excerpts): The Balcony Scene",
-      "url": "https://open.spotify.com/track/0FcEHMug135UWqWsP40k3v"
     },
     {
       "added_at": "2025-12-15 12:32:08",

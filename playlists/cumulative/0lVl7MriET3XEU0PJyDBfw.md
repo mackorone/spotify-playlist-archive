@@ -4,7 +4,7 @@
 
 > Only the best Tech House 🔥 Submit: tstack.link&\#x2F;bassline\-therapy
 
-902 songs - 1 day 23 hr 46 min
+904 songs - 1 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Come Back](https://open.spotify.com/track/2lCCMbFptTfOut1X4zCPcB) | [Ekonovah](https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x) | [Come Back](https://open.spotify.com/album/5fsXv4VyocGOBf7pMYKi5O) | 3:10 | 2023-12-31 | 2024-01-09 |
 | [Come On \- Radio Edit](https://open.spotify.com/track/3TZMiztgCJgsDmNsynCYOi) | [FORTWENTEEZ](https://open.spotify.com/artist/60ZGFZRapwBKb2l2R5hhJL) | [Come On](https://open.spotify.com/album/0YnMyGIp4OGkpSJ3w41I3h) | 2:51 | 2024-01-08 | 2024-01-22 |
 | [Come on Now \(Set It Off\) \- Tony Romera Remix](https://open.spotify.com/track/3TghVl22Xjl8r2JTZRLy4f) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Juliet Sikora](https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Come on Now \(Set It Off\) \[Tony Romera Remix\]](https://open.spotify.com/album/1H6UdEcEpMqtkAbfZ4dnPZ) | 3:52 | 2025-03-29 | 2025-06-08 |
+| [Coming Up \(It’s Dare\)](https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Coming Up \(It’s Dare\)](https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq) | 3:00 | 2025-12-20 |  |
 | [Concentrate](https://open.spotify.com/track/3BmJBrQVekUXuUZbaGHjzU) | [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Concentrate](https://open.spotify.com/album/7JXGN7gAAXh8FGr04Y8qn3) | 2:48 | 2024-01-21 | 2024-02-06 |
 | [Connect](https://open.spotify.com/track/6An6JPuqOMgE9DV3Nk1u7A) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC) | [Connect](https://open.spotify.com/album/1183FzAgAXFIGnGtzsrqxd) | 2:17 | 2025-03-16 | 2025-05-19 |
 | [Contact](https://open.spotify.com/track/21eXY8KQDQ2j06jkmRy3IL) | [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Sweet Contact EP](https://open.spotify.com/album/69083nqbds1YIqZDmgyuUC) | 3:18 | 2025-05-23 | 2025-08-17 |
@@ -572,6 +573,7 @@
 | [Nocturnal](https://open.spotify.com/track/3WHvZIHfuSUEwCPwTb8qp5) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Doriann](https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq) | [Nocturnal](https://open.spotify.com/album/53OscaKeCHV7t7iAkPNPkh) | 3:35 | 2025-09-21 |  |
 | [Nonstop](https://open.spotify.com/track/47tijquLiTrK9e88AqncdG) | [NUVZ](https://open.spotify.com/artist/4fpIbSptfUs03L8woqtSPE), [NETWERK](https://open.spotify.com/artist/5NcQH0KEEAwdMYKZr6o7Go) | [Nonstop](https://open.spotify.com/album/3wQhNBJyysFXnNeEnTZPC5) | 3:50 | 2024-02-02 | 2024-06-24 |
 | [Nonstop](https://open.spotify.com/track/0dIK6A97udcCJ3oq55sl2f) | [Roxe](https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp) | [Nonstop](https://open.spotify.com/album/4p1ELNciXIW8lKeeWQBsVn) | 2:41 | 2025-05-03 | 2025-07-19 |
+| [Not Gonna Be Your Boo \(feat\. Robin S\)](https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Not Gonna Be Your Boo \(feat\. Robin S\)](https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4) | 2:54 | 2025-12-20 |  |
 | [Numb](https://open.spotify.com/track/7zjm4MakxzCAZa3wHXezO8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Numb](https://open.spotify.com/album/3nnrKNmGfvnZofnAA8wxMq) | 2:11 | 2024-08-19 | 2024-10-14 |
 | [Ocean](https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Ocean](https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf) | 3:16 | 2024-12-15 |  |
 | [OG Vibe](https://open.spotify.com/track/3n0jaV61HTthld1wRfPSHk) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Juno What I Mean EP](https://open.spotify.com/album/2gFIvUqoypu1CxVg7OZtvc) | 6:45 | 2024-10-12 | 2024-12-29 |

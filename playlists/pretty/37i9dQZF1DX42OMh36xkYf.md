@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Motherflowers y L\-Gante en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,649 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,656 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 49 | [Pinta Bonito](https://open.spotify.com/track/6j98s4dlTDuUl8tMy8BUZ7) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Pinta Bonito](https://open.spotify.com/album/3tRAsO7rFrSh6uDYFl1uiJ) | 3:36 |
 | 50 | [no voy a salir de casa](https://open.spotify.com/track/5b9jMIQTn9LDmvAiiytOLg) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no voy a salir de casa](https://open.spotify.com/album/3tB4pqG0iTBbrg9oH37sCu) | 2:52 |
 
-Snapshot ID: `AAAAACB+wn9KAcRSprPjVttUOVrLtQNU`
+Snapshot ID: `AAAAAMwlWlbh5vMLorcD8s41vsHOWE0f`

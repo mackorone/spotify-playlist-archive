@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain]
 
 > De mooiste Nederlandse liefdesliedjes verzameld
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,924 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,935 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X4eYJIURJC.md) - [plain]
 | 54 | [Hoeveel Ik Van Je Hou](https://open.spotify.com/track/0tQUi7zkVGHWf8dDY9NPYc) | [Elske DeWall](https://open.spotify.com/artist/3iORog227J0qlfKXYHdR6M) | [Hoeveel Ik Van Je Hou](https://open.spotify.com/album/3Xdvmx5uuSGYnA9a5Pg73u) | 3:10 |
 | 55 | [Alles Geprobeerd \- Remastered](https://open.spotify.com/track/6Mq07GEaZxpOFITmaKwLKZ) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Golden Years Of Dutch Pop Music](https://open.spotify.com/album/5uNcYibmvWYseOaHHU2UdR) | 6:13 |
 
-Snapshot ID: `AAAAAENL39zCiOrCLGnUdr2NNeNemUmV`
+Snapshot ID: `AAAAAJ3LVIYBXGcB0PEClEN5FaTibqsf`

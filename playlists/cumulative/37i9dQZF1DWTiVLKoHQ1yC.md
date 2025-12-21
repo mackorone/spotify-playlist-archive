@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-344 songs - 23 hr 16 min
+345 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fallen](https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA) | 3:25 | 2022-01-14 | 2022-11-26 |
 | [Fallen](https://open.spotify.com/track/71yhzfnnCJGyqASU49wKJO) | [Jerome Price](https://open.spotify.com/artist/4EREP1nDxGjXE6V4sOuUy8) | [Fallen](https://open.spotify.com/album/2lU1O72Qpkh9PFhP5UQM4F) | 3:25 | 2022-11-25 | 2024-02-22 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-05 | 2024-07-20 |
-| [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 | 2025-11-14 |  |
+| [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 | 2025-11-14 | 2025-12-21 |
 | [Fauna](https://open.spotify.com/track/3LQ23jIekEzoP1BG0BMOv2) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Fauna](https://open.spotify.com/album/4PnKCCuzXvDg1QQobNfPD7) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Faya](https://open.spotify.com/track/014CvkxnvQX6GhBqwzMK68) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [Faya / The Crack](https://open.spotify.com/album/0izMn5RtpSfigpljdTtKXF) | 5:10 | 2022-01-14 | 2024-02-24 |
 | [Feel It Still](https://open.spotify.com/track/7MKVZqTTMCwuJevnFX8rtu) | [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr), [Warren](https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY) | [Feel It Still](https://open.spotify.com/album/2mw8ukho8umDiLim1lKQ0E) | 3:03 | 2024-05-10 | 2024-06-19 |
@@ -238,6 +238,7 @@
 | [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-01 | 2025-04-18 |
 | [OnlyL ft\. TSHA & NIMMO](https://open.spotify.com/track/6IgYMKfaqv8VIYYIbsmlpo) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5) | 6:07 | 2024-02-23 | 2024-07-05 |
 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 | 2022-01-14 | 2024-03-29 |
+| [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 | 2025-12-19 |  |
 | [Overgrown](https://open.spotify.com/track/5jSeRMnM20bsVnqI86NsYa) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Overgrown](https://open.spotify.com/album/3E7HLysdFPM1yBwEXY6Qwc) | 4:28 | 2024-04-12 | 2024-05-11 |
 | [Paint My Tomorrow](https://open.spotify.com/track/7FI9lWbsdyv5BGnO8eBBgw) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [GAM8Y](https://open.spotify.com/artist/5ch71xT3tifThqNN03BCy6), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Paint My Tomorrow](https://open.spotify.com/album/5A6O6zDkdKNo94ZGErrQlK) | 2:30 | 2024-03-15 | 2024-07-22 |
 | [Paradise \(Feat\. Jem Cooke\)](https://open.spotify.com/track/6IB7ACtFpfxFbUR06pA7Xc) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Life Through A Different Lens](https://open.spotify.com/album/4qkVLM1dHnydhcWUOg6U4A) | 3:36 | 2025-05-29 | 2025-10-04 |

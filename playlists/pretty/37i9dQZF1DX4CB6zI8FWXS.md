@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Blxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,018 likes - 78 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,024 likes - 78 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 77 | [Saturday](https://open.spotify.com/track/6enkksGYGtDNTKzZ3JFwAl) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Ámina](https://open.spotify.com/artist/3VALVC9YYh3KJ6rHlaXBK2) | [Saturday](https://open.spotify.com/album/4tucOvvk3jIYTV4Dbmz5G3) | 3:24 |
 | 78 | [Best Love](https://open.spotify.com/track/3kKARZpYbQF03fHywQ8dto) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Inner Orchid](https://open.spotify.com/album/7lHwAdsxlbu67rOz6lAhoS) | 3:29 |
 
-Snapshot ID: `AAAAAEgfrFn93Y673z13wCQr4tBCOamG`
+Snapshot ID: `AAAAAOCKKVvNQghXNyD9ChmvuIJnBNox`

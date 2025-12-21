@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 15631,
+  "num_followers": 15637,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAAUhw+GUFZN+kEiYOT99UdX",
+  "snapshot_id": "aUSVgAAAAAA9m62c8LAKRHnwEZ61WQoz",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Idea",
         "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Idea",
-        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 181310,
-      "name": "Sweet Serotonin",
-      "url": "https://open.spotify.com/track/0RLl3obXeC2HsCQcI1EglP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comin\u2019 Around Again",
         "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 186900,
       "name": "Comin\u2019 Around Again",
       "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 181310,
+      "name": "Sweet Serotonin",
+      "url": "https://open.spotify.com/track/0RLl3obXeC2HsCQcI1EglP"
     },
     {
       "added_at": null,
@@ -167,22 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Idea",
-        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 174663,
-      "name": "By The End of the Night",
-      "url": "https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 215239,
       "name": "What If",
       "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 174663,
+      "name": "By The End of the Night",
+      "url": "https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Idea",
-        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 212281,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loosies",
         "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 220302,
       "name": "Won't Cry",
       "url": "https://open.spotify.com/track/6pgHkxKQh1LnW9wdTQCQDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 212281,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Idea",
-        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 172084,
-      "name": "Cherry Reds",
-      "url": "https://open.spotify.com/track/7dSTmzAK2dvMNL3g6FI0do"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loosies",
         "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 151371,
       "name": "Stop Calling Me",
       "url": "https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 172084,
+      "name": "Cherry Reds",
+      "url": "https://open.spotify.com/track/7dSTmzAK2dvMNL3g6FI0do"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Idea",
-        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 178975,
-      "name": "ooo",
-      "url": "https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loosies",
         "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 211878,
       "name": "City Starlight",
       "url": "https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Idea",
+        "url": "https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 178975,
+      "name": "ooo",
+      "url": "https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space & Time",
-        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 183980,
-      "name": "Space & Time",
-      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loosies",
         "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 193316,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/5VvMjagk1oBlUG1yQ9lXKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 183980,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loosies",
-        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 141384,
-      "name": "Wait So Yeah",
-      "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 205845,
       "name": "S P A C E",
       "url": "https://open.spotify.com/track/5qbNuYdT99BCBM8KwVNVW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loosies",
+        "url": "https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 141384,
+      "name": "Wait So Yeah",
+      "url": "https://open.spotify.com/track/7thsRzXNfsM38Z3DuUB3AB"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put You On",
-        "url": "https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 224553,
-      "name": "Put You On",
-      "url": "https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 277151,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put You On",
+        "url": "https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 224553,
+      "name": "Put You On",
+      "url": "https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAKER'S DESIGN",
-        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
-      },
-      "artists": [
-        {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
-        },
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "GODDESS REIGN",
-      "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3:33am",
         "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAKER'S DESIGN",
+        "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
+      },
+      "artists": [
+        {
+          "name": "Sherwyn",
+          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "GODDESS REIGN",
+      "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
     },
     {
       "added_at": null,

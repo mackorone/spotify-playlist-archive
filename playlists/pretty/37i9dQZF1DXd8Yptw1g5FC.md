@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zeynep Bastık ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,444 likes - 114 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,485 likes - 114 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 11 | [DYD](https://open.spotify.com/track/3d2EEXQEqnbiIXWF83D4b8) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [DYD](https://open.spotify.com/album/7GuDoIhchjfQQjkDstwjqK) | 3:23 |
 | 12 | [Kemik](https://open.spotify.com/track/4grEOjFMGUZZkLCG3GqIyg) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kemik](https://open.spotify.com/album/3Shgi2kOLuQ3PByLv54XR5) | 3:47 |
 | 13 | [Amateur](https://open.spotify.com/track/1LJ8ODaoio5lJMgtXzALMw) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amateur](https://open.spotify.com/album/0aABbxpIwIGBeVOOvY50rl) | 2:43 |
-| 14 | [Ara Durak](https://open.spotify.com/track/5v6cl5MUmH8RUbrgxfUbH4) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Ara Durak](https://open.spotify.com/album/5nfa7aYWzUps3cKKgDM3MY) | 2:54 |
+| 14 | [Ara Durak](https://open.spotify.com/track/5v6cl5MUmH8RUbrgxfUbH4) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Ara Durak](https://open.spotify.com/album/5nfa7aYWzUps3cKKgDM3MY) | 2:56 |
 | 15 | [Karadır Kaşların](https://open.spotify.com/track/1csjWcmRc3eXnswoZKRbex) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [SEYİR IV](https://open.spotify.com/album/31S38ebqqrO2MOLLheIqIj) | 4:10 |
 | 16 | [Jelatin \(Freestyle\)](https://open.spotify.com/track/2MbztR1sDbxGxqkv7GXcas) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Jelatin \(Freestyle\)](https://open.spotify.com/album/5GOELxorLCrHSgH3zajC2i) | 2:34 |
 | 17 | [HILTON](https://open.spotify.com/track/2b7lUxdK9yDsrhAf6Cm9Z9) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [HILTON](https://open.spotify.com/album/0BTstsVZvG5p5g9D9ISApk) | 2:36 |

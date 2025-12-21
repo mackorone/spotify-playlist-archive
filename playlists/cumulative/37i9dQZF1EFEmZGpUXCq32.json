@@ -470,10 +470,36 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 79549,
       "name": "Don't Look",
       "url": "https://open.spotify.com/track/5MEFpPKKGhMNlFuMyjCTyc"
+    },
+    {
+      "album": {
+        "name": "Beat Tape II",
+        "url": "https://open.spotify.com/album/7LS7NSXDdks2I644tuHDGj"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79549,
+      "name": "Don't Look (feat. Kenny Beats & Cory Henry)",
+      "url": "https://open.spotify.com/track/0Mfz7iCjcv7DvYdDhInHyz"
     },
     {
       "album": {

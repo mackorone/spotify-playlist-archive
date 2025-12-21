@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-343 songs - 17 hr 33 min
+344 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,11 +104,12 @@
 | [He Hit Me \(It Felt Like a Kiss\)](https://open.spotify.com/track/5TdCUrQdTWZoTSAZH7Pfup) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [He's A Rebel](https://open.spotify.com/album/3yYINO0VYoVcFeiUkEZzUg) | 2:33 | 2025-10-03 |  |
 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 | 2023-12-30 |  |
 | [He's a Bad Boy](https://open.spotify.com/track/16rPqhuTKqG41N4tHUGzZN) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Breaking up Is Hard to Do](https://open.spotify.com/album/2Ea6BUGbGQL8tmPmhNN1gY) | 2:22 | 2023-12-30 |  |
-| [He's in Town](https://open.spotify.com/track/6bt4wAVIw1xW7oCt6gXTUy) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [They're in Town](https://open.spotify.com/album/5qpInSEP0qvV8XA6hsQ99i) | 2:39 | 2023-12-30 |  |
+| [He's in Town](https://open.spotify.com/track/6bt4wAVIw1xW7oCt6gXTUy) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [They're in Town](https://open.spotify.com/album/5qpInSEP0qvV8XA6hsQ99i) | 2:39 | 2023-12-30 | 2025-12-21 |
 | [Heartbreaker](https://open.spotify.com/track/1yYfpshvncxodfCWjFsgbn) | [Gerald Brown](https://open.spotify.com/artist/0UBFE9knxbTF9bopaqiTqh) | [I\-35 Corridor: Rock, Blues, 80's, R&B and Funk Compilation](https://open.spotify.com/album/1IomGUBY624tyBMSOGsSri) | 4:04 | 2023-12-30 |  |
 | [Help Me \(Find the Way Back to Your Heart](https://open.spotify.com/track/06bZN8p1dBhpoQZLL5BmAD) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Andy Williams \- The Ultimate Hits Collection](https://open.spotify.com/album/5qeqn1KSQ8oEKsaEv99w3Z) | 2:16 | 2023-12-30 | 2024-06-23 |
 | [Her Royal Majesty](https://open.spotify.com/track/1lnCcWCcHCN1uKx6toQuaA) | [James Darren, Shelley Fabares & Paul Peter](https://open.spotify.com/artist/0OD3Hhi7Dprc8AALYNHm5A) | [The Very Best of James Darren](https://open.spotify.com/album/6C145biC4F00ZZtwUcLvjt) | 2:13 | 2023-12-30 | 2024-05-27 |
 | [Hey Everybody](https://open.spotify.com/track/4MBgFs1AHq1PiC5obtdIof) | [Ramona King](https://open.spotify.com/artist/2FH3KVprpZlLbqXdYQc18G) | [Feline Soul](https://open.spotify.com/album/4vNiz9OzQepp5tPHZrBLak) | 2:27 | 2023-12-30 | 2024-08-21 |
+| [HE’S IN TOWN](https://open.spotify.com/track/6O8EwrqSfaZkeWx8gNuiif) | [The Rockin' Berries](https://open.spotify.com/artist/6G18NLfr5luyGYgMKIupm3) | [イン・タウン](https://open.spotify.com/album/7kN6xIFWxiHwu1b2xlwpqB) | 2:39 | 2025-12-20 |  |
 | [Hi\-De\-Ho](https://open.spotify.com/track/26BpoFfXMCt0iX4daD6U9O) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Blood, Sweat And Tears 3](https://open.spotify.com/album/3Va4LEJ4n3EZxMo3CGLpB5) | 4:23 | 2023-12-30 |  |
 | [High Out Of Time](https://open.spotify.com/track/1OG2IBegrMugiKf0QVjwRb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:15 | 2023-12-30 |  |
 | [Hold On](https://open.spotify.com/track/3irgvXGk89v6h2Wt7jWAS1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 4:37 | 2023-12-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 717471,
+  "num_followers": 717593,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 165961,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Sauti",
         "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 208770,
       "name": "Sauti",
       "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 165961,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        }
-      ],
-      "duration_ms": 196198,
-      "name": "Catch & Release - Deepend Remix",
-      "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 276600,
       "name": "Fade Out Lines - The Avener Rework",
       "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/3GXs3mom2sIaz3FMjPTrxv"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 196198,
+      "name": "Catch & Release - Deepend Remix",
+      "url": "https://open.spotify.com/track/11Yp4S3WZA7yqWIbUmMJSd"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1891,6 +1891,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR"
       },
@@ -1927,26 +1947,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Reality",
         "url": "https://open.spotify.com/album/7JhwZ7qr8knsl9iX1lidtx"
       },
@@ -1963,26 +1963,6 @@
       "duration_ms": 159480,
       "name": "Reality",
       "url": "https://open.spotify.com/track/5Xu7nrKiVHslrdlNHRsSsP"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "To Love Again",
-      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -2019,6 +1999,26 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "To Love Again",
+      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 234053,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Cut Your Teeth (Kygo Remix)",
         "url": "https://open.spotify.com/album/2i4AbvFA9e6XszmH1x4G2h"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 399013,
       "name": "Cut Your Teeth - Kygo Remix",
       "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 234053,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Swimming In The Dark",
-        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 236573,
-      "name": "Swimming In The Dark",
-      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5yFZxRJaW7Vrc7lV8cXl7s"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 237235,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/6g9LmVrQJPVYSeBdPVxrrr"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Swimming In The Dark",
+        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Swimming In The Dark",
+      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
     },
     {
       "added_at": "2025-10-17 04:00:45",

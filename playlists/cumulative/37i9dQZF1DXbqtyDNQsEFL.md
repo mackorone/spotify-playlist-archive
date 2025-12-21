@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze
 
-662 songs - 2 day 11 hr 14 min
+663 songs - 2 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 | 2024-06-28 |  |
 | [Ebenezer](https://open.spotify.com/track/0igpnDi8h7lcvZLcOYmxQ7) | [Adegrace](https://open.spotify.com/artist/3ycO6fT2nSoiIiXuo2Omoe) | [Ebenezer](https://open.spotify.com/album/2luXTGuNZ7ErHMn9uubKzr) | 2:07 | 2025-09-19 | 2025-09-26 |
 | [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 | 2025-11-28 |
-| [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 |  |
+| [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 | 2025-12-21 |
 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 | 2023-12-05 | 2023-12-11 |
 | [Ebenezeri](https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE), [APEX CHOIR](https://open.spotify.com/artist/6tbSCyDNRxBtF922LryPyn), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [Ebenezeri](https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03) | 4:53 | 2023-06-09 |  |
 | [Ebezina \- Remix](https://open.spotify.com/track/4aeJUqWP7Sa1PKd8E0ZpDV) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Promise Effiong](https://open.spotify.com/artist/1I9z32ju9HEWHAZcEhKGqp) | [Ebezina \(Remix\)](https://open.spotify.com/album/0WCYtMFPpuBcdlLzeKfztd) | 4:54 | 2024-12-31 | 2025-01-07 |
@@ -218,6 +218,7 @@
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-26 | 2025-10-31 |
 | [He Still Can](https://open.spotify.com/track/01sYriRDv878NT0GrCjPNn) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [He Still Can](https://open.spotify.com/album/4i6Flpm2PMEYdPzebXvKGy) | 7:20 | 2025-04-04 | 2025-06-16 |
 | [Head 2 Core](https://open.spotify.com/track/0MOiNpIjZcHegtStf7gCY7) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Head 2 Core](https://open.spotify.com/album/1dxCRwSNSXpyNPK5GT73DJ) | 2:26 | 2025-10-31 |  |
+| [Head Up 2.0](https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Head Up 2.0](https://open.spotify.com/album/1q8sV0zHiVKRvgQqMf0V1d) | 3:45 | 2025-12-19 |  |
 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 | 2025-10-10 |
 | [here](https://open.spotify.com/track/6C4DacOnoWaXnXXjg0AmRu) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Soliloquy II](https://open.spotify.com/album/3ZnyJyblnIdEDtYXP6D9A5) | 2:25 | 2025-10-31 |  |
 | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/track/7vICvbajavcYKgm9xjLwnk) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He’s Here \(Acoustic Live Version\)](https://open.spotify.com/album/7hu9MzBVuIvzRcPeKRbPKf) | 6:04 | 2022-10-14 | 2022-11-05 |

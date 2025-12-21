@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: 21 Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,498 likes - 84 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,497 likes - 84 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 83 | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Something Wrong \(with Don Toliver\)](https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a) | 2:22 |
 | 84 | [Professional](https://open.spotify.com/track/6vkHTGIAdDW7gTzliLM4ui) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Professional](https://open.spotify.com/album/3szFCrznF383ASda6GRzq2) | 2:57 |
 
-Snapshot ID: `AAAAACL8Q+qvmrRv9HSk7n8Cvics0rjk`
+Snapshot ID: `AAAAAC0zoYXrIP1ipMn/yAqM5zXpW5Ar`

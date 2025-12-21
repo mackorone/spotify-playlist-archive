@@ -4,7 +4,7 @@
 
 > Celebrate the season with these fun tracks
 
-368 songs - 16 hr 7 min
+369 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 | 2021-08-30 | 2024-09-21 |
 | [Cute Christmas \(Cosy & Cute\)](https://open.spotify.com/track/2xzHwg8lK9RlVlre8576em) | [JellyBoing](https://open.spotify.com/artist/0hLkCH8q0VuDjxqk82lDJm), [Kiwi Wiwi](https://open.spotify.com/artist/1gE1kcJKl2vasX1owUDQn1), [BooWoo](https://open.spotify.com/artist/70Jn3cWQgNPG9Hja9AtM9R), [Cadeautje voor jou](https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ), [Bimbly](https://open.spotify.com/artist/0MWnRjqAWTMiJ1C0PnBDRN) | [Cute Christmas \(Cosy & Cute\)](https://open.spotify.com/album/376t3CKdq9neidf6F4oKYS) | 2:21 | 2025-11-14 |  |
 | [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 | 2023-10-02 | 2025-09-06 |
-| [Dear Santa, I tried](https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dear Santa, I tried](https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4) | 1:46 | 2024-12-20 |  |
+| [Dear Santa, I tried](https://open.spotify.com/track/0ibytb9kWM9HOlzfT6ND0D) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [Dear Santa, I tried](https://open.spotify.com/album/15Yi1iLZt6Zrf8dkNhX6D4) | 1:46 | 2024-12-20 | 2025-12-21 |
 | [December](https://open.spotify.com/track/0ldDNBNLg6qcoYSnWCAh0n) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [What Rhymes with Christmas?](https://open.spotify.com/album/572SOvoRt1WapSCxJDn4Mc) | 3:31 | 2024-11-21 |  |
 | [Deck The Halls](https://open.spotify.com/track/57BVt9b2z7W2Ih2TxfdNqs) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora's Christmas](https://open.spotify.com/album/06d3icNwTGKGMOP7SDsXaF) | 2:54 | 2024-11-21 |  |
 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 | 2024-11-26 |  |
@@ -211,6 +211,7 @@
 | [Monster Party](https://open.spotify.com/track/7niABza1kHX9RmKGxpXVnb) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Monster Party](https://open.spotify.com/album/6S6SItFon75RaEaRSmKonV) | 1:43 | 2022-10-11 | 2025-11-04 |
 | [Monsters](https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:32 | 2021-09-24 | 2025-09-28 |
 | [Monsters Everywhere](https://open.spotify.com/track/51YsC4rFVkvLI558jVDYv1) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [It’s Halloween!](https://open.spotify.com/album/5iCbpallmqJEEdk6EpBVIJ) | 2:06 | 2021-09-10 | 2025-11-04 |
+| [My Family](https://open.spotify.com/track/1mhGrjiQsTOGPIafaw9Q4v) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [In Santa We Trust](https://open.spotify.com/album/6ykOQ2DXafiHwmid5ybwfJ) | 2:58 | 2025-12-20 |  |
 | [My Happy Sled + Jingle Bells](https://open.spotify.com/track/2fftyBYmRMCTiIIpQNa8JC) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [My Happy Sled + Jingle Bells](https://open.spotify.com/album/3ZCCNYnKQwlLCqtcoEygIh) | 3:00 | 2024-11-21 |  |
 | [Old MacDonald's Haunted Farm](https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:21 | 2022-10-11 | 2024-09-21 |
 | [On Halloween](https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 1:36 | 2024-09-20 | 2024-10-21 |

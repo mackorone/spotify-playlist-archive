@@ -1,33 +1,13 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11036,
+  "num_followers": 11046,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACUPFWFEsZWagsmORnO0kG8",
+  "snapshot_id": "aUSVgAAAAABEoTuxchHivtzAZtZFzPj7",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 377098,
-      "name": "For Good",
-      "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
-    },
     {
       "added_at": null,
       "album": {
@@ -112,13 +92,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
+      "duration_ms": 377098,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
     },
     {
       "added_at": null,
@@ -202,11 +182,15 @@
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
         }
       ],
-      "duration_ms": 231233,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
     },
     {
       "added_at": null,
@@ -268,21 +252,13 @@
       },
       "artists": [
         {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 285456,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/0fn8RZiNxBfRHRLX8UJI9T"
+      "duration_ms": 231233,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
     },
     {
       "added_at": null,
@@ -340,25 +316,21 @@
       },
       "artists": [
         {
-          "name": "Wicked Movie Cast",
-          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Michelle Yeoh",
-          "url": "https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu"
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
         },
         {
           "name": "Ariana Grande",
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 288766,
-      "name": "Every Day More Wicked",
-      "url": "https://open.spotify.com/track/6RO76UK0g0r1BJqpk3VwXJ"
+      "duration_ms": 285456,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/0fn8RZiNxBfRHRLX8UJI9T"
     },
     {
       "added_at": null,
@@ -436,21 +408,25 @@
       },
       "artists": [
         {
-          "name": "Marissa Bode",
-          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
+          "name": "Wicked Movie Cast",
+          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Ethan Slater",
-          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+          "name": "Michelle Yeoh",
+          "url": "https://open.spotify.com/artist/5IaJcuBeBkVqhGAzxMciwu"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 203330,
-      "name": "The Wicked Witch of the East",
-      "url": "https://open.spotify.com/track/1hSbcsqNmTaLVOUQ340Flt"
+      "duration_ms": 288766,
+      "name": "Every Day More Wicked",
+      "url": "https://open.spotify.com/track/6RO76UK0g0r1BJqpk3VwXJ"
     },
     {
       "added_at": null,
@@ -631,22 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
-        "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
+        "name": "When You Believe",
+        "url": "https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi"
       },
       "artists": [
         {
-          "name": "Morgan James & Company",
-          "url": "https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG"
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
         }
       ],
-      "duration_ms": 230782,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
+      "duration_ms": 247997,
+      "name": "When You Believe",
+      "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
     },
     {
       "added_at": null,
@@ -683,26 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "When You Believe",
-        "url": "https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi"
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
       },
       "artists": [
         {
-          "name": "Shoshana Bean",
-          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+          "name": "Morgan James & Company",
+          "url": "https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Stephen Schwartz",
-          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
         }
       ],
-      "duration_ms": 247997,
-      "name": "When You Believe",
-      "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
+      "duration_ms": 230782,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
     },
     {
       "added_at": null,
@@ -975,6 +951,26 @@
       "duration_ms": 232800,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2Ik7E8xdOe42xZxM15k8hc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspirational",
+        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
+      },
+      "artists": [
+        {
+          "name": "Alison Jiear",
+          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 360527,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

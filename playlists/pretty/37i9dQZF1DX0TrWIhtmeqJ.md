@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: TR Gobrazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,516 likes - 79 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,509 likes - 79 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Grandad](https://open.spotify.com/track/3lyJqisiNRrhiXlYDR5zT7) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [Grandad](https://open.spotify.com/album/4tJ259cv5qvtU68KYRVClg) | 1:28 |
 | 2 | [Black Jeep](https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Black Jeep](https://open.spotify.com/album/0GapUYcDxeItfst1KafpmB) | 1:48 |
 | 3 | [gotta go](https://open.spotify.com/track/4vemNtc49DTOC9msYE5wge) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [it's all up in the air.](https://open.spotify.com/album/3B3C3UznoLakeONA1ulfbW) | 2:59 |
-| 4 | [12 Car Convoy](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 Car Convoy](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 |
+| 4 | [12 Car Convoy](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 CAR CONVOY.](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 |
 | 5 | [T.O.X.I.C](https://open.spotify.com/track/7v6auYXDg9PW13j184wIZP) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu), [prod\. otis](https://open.spotify.com/artist/2AaJiT6ubwdNcRqDzcXzY2) | [T.O.X.I.C](https://open.spotify.com/album/33GLxYrnocW7ZWqSxMwmUV) | 2:01 |
 | 6 | [the gospel \(as according to tony blair\)](https://open.spotify.com/track/0cH4xuc2UOGWg2wpTxj77y) | [Ceebo](https://open.spotify.com/artist/4wtelmF043mIcSEjNs7wWB) | [blair babies](https://open.spotify.com/album/5o7UOnKJFoPn38FPH4HNZL) | 3:31 |
 | 7 | [WHAT’S THE REASON?](https://open.spotify.com/track/3B8ImluWjECLwyWi3Bd455) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [WHAT’S THE REASON?](https://open.spotify.com/album/4xIUXkQHnrtQN2x1C7Ls1V) | 2:12 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 78 | [Valet](https://open.spotify.com/track/246MSbcmuI8gaJtmb77K7C) | [DeeOrSlim](https://open.spotify.com/artist/0RKAtzzwqFICIFLTCTTHDN) | [Valet](https://open.spotify.com/album/0a9HPiOW1oisNtxZzOS2oQ) | 1:51 |
 | 79 | [WYM](https://open.spotify.com/track/0mjKjy6rnqi3MuHCdM2MUZ) | [Wohdee](https://open.spotify.com/artist/3lEOvjSLQnYiE2fUqUKvzE) | [Mind Games](https://open.spotify.com/album/3ZOdRsqa7vXbF8fmhbHlbu) | 2:08 |
 
-Snapshot ID: `AAAAAJQNhBkYsTc+H9MpJfdsKkvuTG4a`
+Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`

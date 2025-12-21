@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 28948,
+  "num_followers": 28954,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
         "name": "Kimarad\u00e1s",
         "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 135000,
       "name": "Kimarad\u00e1s",
       "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -823,34 +823,18 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "TARR B\u00c9LA",
-        "url": "https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu"
+        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
         }
       ],
-      "duration_ms": 172235,
-      "name": "TARR B\u00c9LA",
-      "url": "https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
-        "name": "Demo",
-        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 171806,
-      "name": "Demo",
-      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+      "duration_ms": 174843,
+      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -871,18 +855,34 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
       "artists": [
         {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 174843,
-      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
+      "duration_ms": 171806,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
+        "name": "TARR B\u00c9LA",
+        "url": "https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "TARR B\u00c9LA",
+      "url": "https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
+        "name": "VID\u00c9KI CSAJSZI",
+        "url": "https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "VID\u00c9KI CSAJSZI",
+      "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
         "name": "ANGYALOK",
         "url": "https://open.spotify.com/album/7El982ts9FR1auscPCNLr6"
       },
@@ -955,6 +971,26 @@
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
+        "name": "vemzavr!",
+        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 183931,
+      "name": "vemzavr!",
+      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -983,38 +1019,18 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "vemzavr!",
-        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
+        "name": "KETT\u0150/KETT\u0150",
+        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 183931,
-      "name": "vemzavr!",
-      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
-        "name": "VID\u00c9KI CSAJSZI",
-        "url": "https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "VID\u00c9KI CSAJSZI",
-      "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
+      "duration_ms": 177791,
+      "name": "KETT\u0150/KETT\u0150",
+      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "KETT\u0150/KETT\u0150",
-        "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
+        "name": "PLETYKA",
+        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
       },
       "artists": [
         {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 177791,
-      "name": "KETT\u0150/KETT\u0150",
-      "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
+      "duration_ms": 155121,
+      "name": "PLETYKA",
+      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "PLETYKA",
-        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
+        "name": "EGY/KETT\u0150",
+        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 155121,
-      "name": "PLETYKA",
-      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+      "duration_ms": 299768,
+      "name": "EGY/KETT\u0150",
+      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1119,22 +1135,6 @@
       "duration_ms": 238105,
       "name": "Reneg\u00e1t",
       "url": "https://open.spotify.com/track/0wUyAVmdEqR0pMqyP5AtV9"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
-        "name": "EGY/KETT\u0150",
-        "url": "https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 299768,
-      "name": "EGY/KETT\u0150",
-      "url": "https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
-        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
-      },
-      "artists": [
-        {
-          "name": "Mirror Glimpse",
-          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
-        }
-      ],
-      "duration_ms": 206983,
-      "name": "B\u00c1MM 2",
-      "url": "https://open.spotify.com/track/2jWpA2NgW9xVXBESy3JGsP"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
         "name": "HA MEG\u00c9RKEZEL",
         "url": "https://open.spotify.com/album/0Pr7RO2APWS9vip0G4n8HS"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 191687,
       "name": "Boldog igaz\u00e1n",
       "url": "https://open.spotify.com/track/335Wifss6mmpkiypUEnsIA"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
+        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
+        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
+      },
+      "artists": [
+        {
+          "name": "Mirror Glimpse",
+          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
+        }
+      ],
+      "duration_ms": 206983,
+      "name": "B\u00c1MM 2",
+      "url": "https://open.spotify.com/track/2jWpA2NgW9xVXBESy3JGsP"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
+        "name": "Europa",
+        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
+      },
+      "artists": [
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "THC",
+      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/10cKEAf2bKBFIcWIrsQFKV"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 146526,
       "name": "10/10",
       "url": "https://open.spotify.com/track/32OAOWJCY2IweKSGggKWta"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
-        "name": "Europa",
-        "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
-      },
-      "artists": [
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "THC",
-      "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "Aziverzum",
-        "url": "https://open.spotify.com/album/4xXvoQdTClfi7CYpWANDRm"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "deLfincity",
-      "url": "https://open.spotify.com/track/6hcCtr9q2hiOmgUgZyE0pM"
-    },
-    {
-      "added_at": "2025-12-15 11:58:56",
-      "album": {
         "name": "SZ\u00cdVTIPR\u00d3 SZ\u00c1LLODA (1. R\u00c9SZ)",
         "url": "https://open.spotify.com/album/7FnnqrwibMHb5j59gifRhF"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 208000,
       "name": "SZ\u00d6RNYETEG",
       "url": "https://open.spotify.com/track/3MlKk8TP3xjM80j5uUXtRr"
+    },
+    {
+      "added_at": "2025-12-15 11:58:56",
+      "album": {
+        "name": "Aziverzum",
+        "url": "https://open.spotify.com/album/4xXvoQdTClfi7CYpWANDRm"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "deLfincity",
+      "url": "https://open.spotify.com/track/6hcCtr9q2hiOmgUgZyE0pM"
     },
     {
       "added_at": "2025-12-15 11:58:56",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-12-15 11:58:56",
       "album": {
-        "name": "Aziverzum",
-        "url": "https://open.spotify.com/album/4xXvoQdTClfi7CYpWANDRm"
+        "name": "Sebzett",
+        "url": "https://open.spotify.com/album/11JAPYRxWP0r7BR1Kwl96R"
       },
       "artists": [
         {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+          "name": "Herceg Erika",
+          "url": "https://open.spotify.com/artist/2wkHAzK5sbzwoDKW9rDtNU"
         }
       ],
-      "duration_ms": 185590,
-      "name": "lef\u0151akaf\u00c9",
-      "url": "https://open.spotify.com/track/1si50tNPc6owCXzp2p6P05"
+      "duration_ms": 168994,
+      "name": "Sebzett",
+      "url": "https://open.spotify.com/track/26BYBEI65RAmGeyHkILFEQ"
     }
   ],
   "unique_name": "Most Men\u0151",

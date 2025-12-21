@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23477,
+  "num_followers": 23492,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACfg5RwhSYkSOsM/ZF4rv0h",
+  "snapshot_id": "aUSVgAAAAAA82xhfcYhRjROdMjskXQBw",
   "tracks": [
     {
       "added_at": null,
@@ -811,26 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chitty Bang",
-        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Devin The Dude",
-          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
-        },
-        {
-          "name": "Jarren Benton",
-          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Chitty Bang",
-      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
+      "duration_ms": 175493,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
     },
     {
       "added_at": null,
@@ -859,18 +851,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+        "name": "Chitty Bang",
+        "url": "https://open.spotify.com/album/6bTXdnnsOOgsWdxxNGnwPA"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Devin The Dude",
+          "url": "https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi"
+        },
+        {
+          "name": "Jarren Benton",
+          "url": "https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP"
         }
       ],
-      "duration_ms": 175493,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+      "duration_ms": 208000,
+      "name": "Chitty Bang",
+      "url": "https://open.spotify.com/track/14EUifm44d6gODebTIEDSn"
     },
     {
       "added_at": null,

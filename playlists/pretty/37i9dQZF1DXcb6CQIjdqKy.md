@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: SONDAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,629,270 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,265 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Our God Reigns \(Over All The Earth\) \- Live](https://open.spotify.com/track/6AZ5rlcvoh3VHG7A6dgUuB) | [Martin Smith](https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Our God Reigns \(Over All The Earth\) \[Live\]](https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl) | 9:23 |
 | 100 | [Come Jesus Come](https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Come Jesus Come](https://open.spotify.com/album/0qHcqC09wyyfvnEfE2y3UJ) | 5:01 |
 
-Snapshot ID: `AAAAAAHzSQjuMs13lU3+kzMvUoWHdjCd`
+Snapshot ID: `AAAAADxOb2Kb2KiP6/wHpv4J9rTLOySp`

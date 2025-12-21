@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 264948,
+  "num_followers": 265056,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
+        "name": "El Comboloco",
+        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
+      },
+      "artists": [
+        {
+          "name": "El Combo Loco",
+          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Ser\u00e1 Porque Te Amo",
+      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 205611,
       "name": "Boleto al Amor",
       "url": "https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "El Comboloco",
-        "url": "https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0"
-      },
-      "artists": [
-        {
-          "name": "El Combo Loco",
-          "url": "https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Ser\u00e1 Porque Te Amo",
-      "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "VAS A VOLVER",
-        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Fauna Music",
-          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "VAS A VOLVER",
-      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
         "name": "Maravillosa Esta Noche",
         "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
       },
@@ -1123,6 +1099,30 @@
       "duration_ms": 229093,
       "name": "Pega la Vuelta",
       "url": "https://open.spotify.com/track/51seuwibGTQsUod6oScKtR"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "VAS A VOLVER",
+        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "VAS A VOLVER",
+      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "Adi\u00f3s",
-        "url": "https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
       },
       "artists": [
         {
           "name": "Mat\u00edas Valdez",
           "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
-        },
-        {
-          "name": "Gonzalo Castillo",
-          "url": "https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg"
         }
       ],
-      "duration_ms": 155134,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs"
+      "duration_ms": 164949,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1427,6 +1423,22 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -1455,18 +1467,54 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+        "name": "A Chillar a Otra Parte",
+        "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
       },
       "artists": [
         {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "Huguito Flores el Super",
+          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
         }
       ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+      "duration_ms": 221204,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
+        "name": "Mi Primer Amor",
+        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 188286,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1503,58 +1551,6 @@
       "duration_ms": 164794,
       "name": "Estaba Aqu\u00ed Pensando",
       "url": "https://open.spotify.com/track/3KLJ5whtoUtU410ngf5Rzu"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Mi Primer Amor",
-        "url": "https://open.spotify.com/album/5HKegx8eIQiHoHrsqBbYxj"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 188286,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/1rBk8sHUL4ivoL9WqM89CY"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "A Chillar a Otra Parte",
-        "url": "https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l"
-      },
-      "artists": [
-        {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
-        },
-        {
-          "name": "Huguito Flores el Super",
-          "url": "https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR"
-        }
-      ],
-      "duration_ms": 221204,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1631,6 +1627,22 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 206346,
+      "name": "Boquita de Caramelo",
+      "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/7alkgGGl2I9glrEs5m3nkT"
       },
@@ -1647,22 +1659,6 @@
       "duration_ms": 131947,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/2N9LvPp7o61eerdZEyKQ19"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
-        }
-      ],
-      "duration_ms": 206346,
-      "name": "Boquita de Caramelo",
-      "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
     },
     {
       "added_at": "2025-11-21 03:00:37",
@@ -1831,6 +1827,22 @@
     {
       "added_at": "2025-11-21 03:00:37",
       "album": {
+        "name": "20 LABIOS",
+        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 205176,
+      "name": "20 Labios",
+      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
+    },
+    {
+      "added_at": "2025-11-21 03:00:37",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -1847,22 +1859,6 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2025-11-21 03:00:37",
-      "album": {
-        "name": "20 LABIOS",
-        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 205176,
-      "name": "20 Labios",
-      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
     },
     {
       "added_at": "2025-11-21 03:00:37",

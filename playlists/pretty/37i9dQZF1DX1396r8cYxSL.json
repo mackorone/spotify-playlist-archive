@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuran \u015fark\u0131lar.",
-  "num_followers": 288516,
+  "num_followers": 288505,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
+        "name": "manifestival",
+        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 166425,
+      "name": "Ya\u015fanacaksa",
+      "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
         "name": "A\u015fiyan",
         "url": "https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 163888,
       "name": "A\u015fiyan",
       "url": "https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
-        "name": "manifestival",
-        "url": "https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ"
-      },
-      "artists": [
-        {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
-        }
-      ],
-      "duration_ms": 166425,
-      "name": "Ya\u015fanacaksa",
-      "url": "https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl"
     },
     {
       "added_at": "2025-09-05 15:48:11",
@@ -295,22 +295,6 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "HA\u0130NS\u0130N",
-        "url": "https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx"
-      },
-      "artists": [
-        {
-          "name": "Poizi",
-          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "HA\u0130NS\u0130N",
-      "url": "https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
         "name": "A\u015fkperest",
         "url": "https://open.spotify.com/album/2fWCOHMMAq9vZXwjQGMkhp"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 280560,
       "name": "A\u015fk Yok Olmakt\u0131r",
       "url": "https://open.spotify.com/track/0F7e5Ot8PrsdHBW0SmeXi7"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "HA\u0130NS\u0130N",
+        "url": "https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "HA\u0130NS\u0130N",
+      "url": "https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh"
     },
     {
       "added_at": "2025-09-05 15:48:11",

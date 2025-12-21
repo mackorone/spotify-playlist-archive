@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 130290,
       "name": "Alleycat Skyline",
       "url": "https://open.spotify.com/track/0dgvWisSlXX4SuBH33L4IN"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 207749,
       "name": "Am I To Blame",
       "url": "https://open.spotify.com/track/74B2pJ9GrX503fgn3tzuIZ"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 215040,
       "name": "Break the Chain",
       "url": "https://open.spotify.com/track/2aiIzGqB0Z7ELmjECGrQjg"
@@ -632,6 +632,24 @@
       "duration_ms": 144004,
       "name": "Clout Crash Anthem",
       "url": "https://open.spotify.com/track/0wjnbpIAVAxT2OGsUwjI8X"
+    },
+    {
+      "album": {
+        "name": "Crime Cracker",
+        "url": "https://open.spotify.com/album/0dBUHA7qGQQNZiJqGoopzV"
+      },
+      "artists": [
+        {
+          "name": "Green Devil",
+          "url": "https://open.spotify.com/artist/6qxax17KqXXZhcWXjgrRfu"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323100,
+      "name": "Crime Cracker",
+      "url": "https://open.spotify.com/track/5OVeOdboNwSElKZfOS7ZTc"
     },
     {
       "album": {
@@ -862,7 +880,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 121718,
       "name": "Drip Drop Revolt",
       "url": "https://open.spotify.com/track/4cPrWWnGnQdBHu486PpK8d"
@@ -934,7 +952,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 143360,
       "name": "Fake It Till You Make It",
       "url": "https://open.spotify.com/track/3pm8q1JHu2VJB1xmSFld2H"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -992,6 +1010,28 @@
       "duration_ms": 197440,
       "name": "Finding Home",
       "url": "https://open.spotify.com/track/75RCnOzYqnnGJca93TJ0D5"
+    },
+    {
+      "album": {
+        "name": "Smash It Up",
+        "url": "https://open.spotify.com/album/5oYOfmiJloMsv1pjD0LTbQ"
+      },
+      "artists": [
+        {
+          "name": "A.D.A.M. MUSIC PROJECT",
+          "url": "https://open.spotify.com/artist/19NbQWCfWWDi4gNidk4ooe"
+        },
+        {
+          "name": "Hartleigh Buwick",
+          "url": "https://open.spotify.com/artist/1BatFKTaYilR19NPZZn2sl"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182765,
+      "name": "Finer Things",
+      "url": "https://open.spotify.com/track/7ejc0lyJNODAzVysncQIxw"
     },
     {
       "album": {
@@ -1024,7 +1064,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "Flea Circus",
       "url": "https://open.spotify.com/track/0JJxfvSsBejurZVnvR2tCS"
@@ -1186,7 +1226,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 171279,
       "name": "Full of Hate",
       "url": "https://open.spotify.com/track/784dUX0QsFOPg9gNI1U3E2"
@@ -1222,7 +1262,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
@@ -1424,7 +1464,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -1838,7 +1878,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 164389,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/7ygnnIP16QYsqErfosSruw"
@@ -1928,7 +1968,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 140575,
       "name": "Lone Star Reverie",
       "url": "https://open.spotify.com/track/4fFQWqQnGaJFNRRotgHx74"
@@ -2018,7 +2058,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Medication",
       "url": "https://open.spotify.com/track/5WpxPUOQ4E0DptaY0G377m"
@@ -2090,7 +2130,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 182426,
       "name": "Miss Americvnt",
       "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
@@ -2180,7 +2220,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -2198,7 +2238,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -2468,7 +2508,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 200959,
       "name": "Powder\u2019s Gone (Jinx Is Home)",
       "url": "https://open.spotify.com/track/1Oz5kVDmK8wIUoZgzULx2Z"
@@ -2540,7 +2580,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 210167,
       "name": "Racing Wild",
       "url": "https://open.spotify.com/track/1pCjQDqfl8HUUSrL9oyuhA"
@@ -2594,7 +2634,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 129920,
       "name": "Reves en pixels",
       "url": "https://open.spotify.com/track/08pimJSWL3vPwHkZSZNyxM"
@@ -2666,7 +2706,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"

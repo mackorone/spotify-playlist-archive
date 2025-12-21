@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 733341,
+  "num_followers": 733378,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAClwr63tpjpbmeNvl4lghun",
+  "snapshot_id": "aUSVgAAAAAC00tpv7S4CzRfAODhz0QQl",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 177219,
+      "name": "RUNNING OUT OF TIME",
+      "url": "https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 319279,
       "name": "IFHY (feat. Pharrell)",
       "url": "https://open.spotify.com/track/0NjW4SKY3gbfl2orl1p8hr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 177219,
-      "name": "RUNNING OUT OF TIME",
-      "url": "https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 212016,
+      "name": "I THINK",
+      "url": "https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 194933,
       "name": "Where This Flower Blooms (feat. Frank Ocean)",
       "url": "https://open.spotify.com/track/6KuXb26rHuRy3ZDse1VRmx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 212016,
-      "name": "I THINK",
-      "url": "https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 230090,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 375386,
       "name": "GONE, GONE / THANK YOU",
       "url": "https://open.spotify.com/track/1hz7SRTGUNAtIQ46qiNv2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 230090,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/6rqj2zeKhLy3exkuFi6mSz"
     },
     {
       "added_at": null,

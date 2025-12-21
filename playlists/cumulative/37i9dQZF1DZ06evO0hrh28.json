@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Genio Atrapado",
+        "url": "https://open.spotify.com/album/7edxAWf9U5vtuc6Ny6wAYw"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161178,
+      "name": "Genio Atrapado",
+      "url": "https://open.spotify.com/track/2ctChUbjtzD0TiJo1JSs3U"
+    },
+    {
+      "album": {
         "name": "GTA.mp3",
         "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
       },

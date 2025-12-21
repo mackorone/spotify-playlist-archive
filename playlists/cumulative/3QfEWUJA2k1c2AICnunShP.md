@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-151 songs - 8 hr 9 min
+152 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Diaries \(from Home\)](https://open.spotify.com/track/0sLS9v4QnJooMkuFpj2put) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Diaries \(from Home\)](https://open.spotify.com/album/0tP2FAL1BUQqalXr9dUMGz) | 2:49 | 2020-12-01 |  |
 | [Die Zauberflöte: Aria Variation \(Arr\. for Piano from K\. 620 by Vivan und Ketan Bhatti\)](https://open.spotify.com/track/3HyxDXDlP4oPtVL8WOoOi7) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Die Zauberflöte: Aria Variation \(Arr\. for Piano from K\. 620 by Vivan und Ketan Bhatti\)](https://open.spotify.com/album/4d1hMB0mhHtQRWFdVBhWRu) | 2:56 | 2022-04-30 |  |
 | [Dragon's Lullaby](https://open.spotify.com/track/2ycFs3p8tqAMN9jRphGIBB) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Exposition](https://open.spotify.com/album/52jGOYTzIFk9cfrYHxzbhG) | 3:42 | 2025-02-08 |  |
+| [Ellie's Lullaby](https://open.spotify.com/track/3SsQQsmGOlggT2suZeMTKD) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Ellie's Lullaby](https://open.spotify.com/album/62Gw4EmDhf4wrX2rOyeEmm) | 2:05 | 2025-12-20 |  |
 | [Emma: Piano Suite](https://open.spotify.com/track/4VZZgBgdeLdaWjEnxl7iHD) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Emma: Piano Suite](https://open.spotify.com/album/1AEkzEnuG5bVxSg800d5Tn) | 3:10 | 2022-03-05 |  |
 | [Family Theme \(from "The Blue Planet"\)](https://open.spotify.com/track/66YQPbdSzTyLkXaQhEXRYt) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Family](https://open.spotify.com/album/1Jnd4ZqS9ev1hT6Fj0JRlP) | 2:35 | 2021-11-06 |  |
 | [Feather](https://open.spotify.com/track/4ejf6jvDi7nEI65NhbnL3e) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [Ocean](https://open.spotify.com/album/37rOTuv9PEVP3ZQ1PuiVt0) | 4:41 | 2020-02-27 |  |

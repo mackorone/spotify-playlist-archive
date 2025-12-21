@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,671 songs - 4 day 5 hr 16 min
+1,674 songs - 4 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Do Outro Lado da Rua](https://open.spotify.com/track/0ltwRdcobZeo4kEkgFQOYk) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Do Outro Lado da Rua](https://open.spotify.com/album/3BcEjngH9PV2W3L3mNDDYK) | 2:45 | 2025-05-25 |  |
 | [Doble lazo](https://open.spotify.com/track/4Z288tB6RJzge7RbPChNZ5) | [LOS PÁJAROSS](https://open.spotify.com/artist/1RcuUbplaqk6mZOdgy9fNN) | [Indescriptible](https://open.spotify.com/album/5e8sDWPesVW6H2ChI6RQaN) | 4:19 | 2025-07-14 |  |
 | [Don't Give Up](https://open.spotify.com/track/7FjhQCzRb6Gosec1DzVgCV) | [Bagjuice](https://open.spotify.com/artist/4oWnABl83YPO88wXnPflld) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:18 | 2024-03-23 |  |
+| [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 | 2025-12-20 |  |
 | [Don't Wanna Leave](https://open.spotify.com/track/0DgRl8r8V2I64OJHswUHTg) | [Matt B](https://open.spotify.com/artist/5UIhurWmSlzXbfilRY4DPd) | [Don't Wanna Leave](https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY) | 3:26 | 2025-10-07 |  |
 | [Donna](https://open.spotify.com/track/66sdHutyhAscFkVzSW4TIA) | [LadyCatFree](https://open.spotify.com/artist/1QOBbwFFEiby0ceGMMwzRO) | [Freedom](https://open.spotify.com/album/3tsDWU8dCCgwpBloj9AVG0) | 3:22 | 2024-06-24 |  |
 | [Double Sword Dub](https://open.spotify.com/track/7BjF9cIwLENsyttCCXemyu) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 3:50 | 2024-03-10 |  |
@@ -722,6 +723,7 @@
 | [Istanti](https://open.spotify.com/track/0eSpYJexCl777deCYp24Pr) | [Marco Labbate](https://open.spotify.com/artist/6IPAFrlvTCpVg95pj3GykX) | [Istanti](https://open.spotify.com/album/318dHLeE2qPqiiwX6Qpie6) | 3:29 | 2024-10-12 |  |
 | [It Never Rains in Southern California](https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V) | [Darow](https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l) | [It Never Rains in Southern California](https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs) | 3:52 | 2025-11-02 |  |
 | [It Would Be a Delight](https://open.spotify.com/track/4X6tx53seoOStba1QbpSci) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Televangelist](https://open.spotify.com/album/4EQ8Q3in2KptGJU8Ilo7uM) | 3:14 | 2025-07-02 |  |
+| [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 | 2025-12-20 |  |
 | [It's Because of You](https://open.spotify.com/track/7xMXgeArkcfPbtqMkIpIPp) | [Lou Lollio](https://open.spotify.com/artist/3e4hlZjeNc6W5jnfFXGYgd) | [Praise and Worship, Vol 5](https://open.spotify.com/album/3XEGc9mHpOPcopmcYeqlba) | 4:07 | 2025-10-02 |  |
 | [It's Love](https://open.spotify.com/track/4DACrP3f2V0rw16x1CrOU4) | [ELIO](https://open.spotify.com/artist/6ZajrNx8myxFGX6KYIQLRE) | [It's Love](https://open.spotify.com/album/5Hb3ECHgGq31IJhUyAXAtN) | 2:26 | 2025-09-06 |  |
 | [Ital Dub](https://open.spotify.com/track/1jHpDYR00GgUHh5BjzoE3k) | [Zion Irie](https://open.spotify.com/artist/5noXAEZH9V1X7qtOSjM2Aw), [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V) | [New Generation](https://open.spotify.com/album/6RyvPp3UVehoVieHF7mLuh) | 4:08 | 2024-05-04 |  |
@@ -1495,6 +1497,7 @@
 | [Top 5](https://open.spotify.com/track/0OyiJVKXf6OrEN7bJNog8x) | [C.O.M Young Rico](https://open.spotify.com/artist/22Cj3ARtVVG9vSVRZCI8JF), [Keshia Kash](https://open.spotify.com/artist/2i7rcogwiihA8geNpSa5gb) | [Top 5](https://open.spotify.com/album/0RLeij35VtSeWpgajbcIyS) | 3:03 | 2025-09-30 |  |
 | [Torpedo](https://open.spotify.com/track/7DENJPiOASwRCZb5J6sQ3o) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 2:50 | 2024-03-23 |  |
 | [Towards Infinity](https://open.spotify.com/track/6L8qqTwyUUim4eIi7AzDUO) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Towards Infinity](https://open.spotify.com/album/3oQDxpzKuvmGa7CUW0q36u) | 3:07 | 2024-10-24 |  |
+| [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [BleuShxll](https://open.spotify.com/artist/3uZrhLXR3UZkvDcF3abMz2), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 | 2025-12-20 |  |
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-03-04 |  |
 | [Trail Ride](https://open.spotify.com/track/6WYDRRJWIZfY36UZaIMfJ5) | [Alexus Bria](https://open.spotify.com/artist/4RIMm4W0mCWfjC3MgrTjgX) | [Trail Ride](https://open.spotify.com/album/3Lyp6ontdCz9fOhJmmI5W7) | 3:31 | 2025-10-07 |  |
 | [TRAIN](https://open.spotify.com/track/7kRB1EBQBSVYjrf0elg7hG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [TRAIN](https://open.spotify.com/album/5pOw1eegWGypFu63gvhYcN) | 3:48 | 2025-10-21 |  |

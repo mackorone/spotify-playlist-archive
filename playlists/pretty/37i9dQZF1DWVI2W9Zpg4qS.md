@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVI2W9Zpg4qS.md) - [plain]
 
 > enjoy the NMIXX 1ST WORLD TOUR \[EPISODE 1: ZERO FRONTIER\] LIVE SET including the voices of them on stage! \(엔믹스의 무대 멘트와 목소리가 포함된 \[EPISODE 1: ZERO FRONTIER\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,415 likes - 32 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,458 likes - 32 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVI2W9Zpg4qS.md) - [plain]
 | 31 | [ADORE U](https://open.spotify.com/track/5wAVnAV1djH9QQpifjlgod) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 2:30 |
 | 32 | [MENT5](https://open.spotify.com/track/4l6RfDHWnJz621i9wl9JO6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [NMIXX 1ST WORLD TOUR \[EPISODE 1: ZERO FRONTIER\]](https://open.spotify.com/album/0vagiiuyucB7aoVBvNzUKD) | 0:24 |
 
-Snapshot ID: `AAAAANwcpUEWp8IL8EekmTbeyvVSzqSO`
+Snapshot ID: `AAAAAPdrjX6Edc14M83fhmtkqWC4EYMd`

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 395279,
+  "num_followers": 395458,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
+      },
+      "artists": [
+        {
+          "name": "HAEVN",
+          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
+        }
+      ],
+      "duration_ms": 216005,
+      "name": "Beginners",
+      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "Here's To Forever",
         "url": "https://open.spotify.com/album/3p9p5hYgfz4AiC3tNfX4g7"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 174336,
       "name": "Don't Break My Heart",
       "url": "https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN"
-      },
-      "artists": [
-        {
-          "name": "HAEVN",
-          "url": "https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6"
-        }
-      ],
-      "duration_ms": 216005,
-      "name": "Beginners",
-      "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 150937,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 221271,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "One Life",
-        "url": "https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 150937,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "I Look For You",
-        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
-      },
-      "artists": [
-        {
-          "name": "BYNK",
-          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
-        }
-      ],
-      "duration_ms": 211704,
-      "name": "I Look For You",
-      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Who Am I",
         "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+        "name": "I Look For You",
+        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
       },
       "artists": [
         {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+          "name": "BYNK",
+          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
         }
       ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
+      "duration_ms": 211704,
+      "name": "I Look For You",
+      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1175,6 +1159,22 @@
       "duration_ms": 193749,
       "name": "Illusion (feat. Tangarine) - acoustic",
       "url": "https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "Queen Of My Castle",
-        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 179054,
-      "name": "Company Store",
-      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 291706,
       "name": "Julianne",
       "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Queen Of My Castle",
+        "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Company Store",
+      "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
-      },
-      "artists": [
-        {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "BROWN & GRAY",
-          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
-        }
-      ],
-      "duration_ms": 169585,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
       },
@@ -1419,38 +1399,6 @@
       "duration_ms": 195586,
       "name": "Lonely On Lovers Lane",
       "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "Dark Harvest, Pt. 1",
-        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 292148,
-      "name": "Solastalgia",
-      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
-    },
-    {
-      "added_at": "2025-12-05 07:59:18",
-      "album": {
-        "name": "The Indien",
-        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "Numbers",
-      "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1475,18 +1423,38 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "seasons",
-        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
         }
       ],
-      "duration_ms": 220621,
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+      "duration_ms": 169585,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "Dark Harvest, Pt. 1",
+        "url": "https://open.spotify.com/album/49amBSRQBO1RRPfMsDuKwW"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 292148,
+      "name": "Solastalgia",
+      "url": "https://open.spotify.com/track/132Dk6XKefIL9Ngja1xuya"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1503,6 +1471,22 @@
       "duration_ms": 245562,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 220621,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1551,6 +1535,22 @@
       "duration_ms": 236801,
       "name": "Bend",
       "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
+    },
+    {
+      "added_at": "2025-12-05 07:59:18",
+      "album": {
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 195293,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/7qoy1PDbdn85kXaMwtZT2U"
     },
     {
       "added_at": "2025-12-05 07:59:18",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2025-12-05 07:59:18",
       "album": {
-        "name": "A Way With My Heart",
-        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+        "name": "Nice To Meet You",
+        "url": "https://open.spotify.com/album/0rNN9txzPOXExZAtE8XFth"
       },
       "artists": [
         {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        },
-        {
-          "name": "Sven Hammond",
-          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
         }
       ],
-      "duration_ms": 195453,
-      "name": "A Way With My Heart",
-      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
+      "duration_ms": 187802,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/7dmiORZteCCZMj9yWRtdsb"
     }
   ],
   "unique_name": "'t Koffiehuis",

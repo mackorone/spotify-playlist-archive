@@ -2417,6 +2417,24 @@
     },
     {
       "album": {
+        "name": "EDM",
+        "url": "https://open.spotify.com/album/7hKc4j4yDRd8ikW7bttjt0"
+      },
+      "artists": [
+        {
+          "name": "Pepel Nahudi",
+          "url": "https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "EDM",
+      "url": "https://open.spotify.com/track/6EUL0TTFND84MYUS4haTH3"
+    },
+    {
+      "album": {
         "name": "Chita Drita",
         "url": "https://open.spotify.com/album/6bhs5CVBzNK2EcdxgVs3mv"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -6922,7 +6940,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -7632,6 +7650,24 @@
       "duration_ms": 214258,
       "name": "Sweet Night (Inst.)",
       "url": "https://open.spotify.com/track/2t4Ab1dHWWgc9QrU8erQ5k"
+    },
+    {
+      "album": {
+        "name": "Tainted Love",
+        "url": "https://open.spotify.com/album/7kftp73WORQ7gxmTBpkZaK"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/5aCFtZalZpNbR5MHFkMdf7"
     },
     {
       "album": {
@@ -8430,7 +8466,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 166809,
       "name": "Who (Shibuyakei Remix)",
       "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
@@ -9048,7 +9084,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 233827,
       "name": "\u0411\u0435\u0441\u043f\u0435\u0447\u043d\u044b\u0439 \u0440\u044b\u0446\u0430\u0440\u044c \u0442\u044c\u043c\u044b",
       "url": "https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK"
@@ -9532,7 +9568,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 61426,
       "name": "\u0432\u0438\u0441\u043a\u0438 \u0441 \u043c\u043e\u043b\u043e\u043a\u043e\u043c",
       "url": "https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO"
@@ -11914,7 +11950,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 120397,
       "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/4clWtg8OzmLO0TFBY7FGRm"
@@ -13424,7 +13460,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO"
@@ -16098,7 +16134,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 138305,
       "name": "\u0446\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u"

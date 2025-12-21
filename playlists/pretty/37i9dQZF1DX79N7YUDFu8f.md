@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,743 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,766 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 99 | [Abigail](https://open.spotify.com/track/7agIX3ge0VVzTQAJTvJH5E) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:50 |
 | 100 | [Strongest Girl](https://open.spotify.com/track/4kjgZBKYqcawEEPrKVMleZ) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Strongest Girl](https://open.spotify.com/album/6V6ikokpSTTqRoa0ZySpTu) | 3:27 |
 
-Snapshot ID: `AAAAAMF7Y+iROnWI9ENWXJ2s1k1oNkOq`
+Snapshot ID: `AAAAAFDo+MKp363X713JpyBafYh/QqXD`

@@ -766,20 +766,8 @@
           "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
         },
         {
-          "name": "Muyiwa & Riversongz",
-          "url": "https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb"
-        },
-        {
-          "name": "Paul Adefarasin",
-          "url": "https://open.spotify.com/artist/7sQ5hIV1eBuBdUFrXDvURx"
-        },
-        {
           "name": "Chevelle Franklyn",
           "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         },
         {
           "name": "Mercy Chinwo",
@@ -790,12 +778,24 @@
           "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         },
         {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        },
-        {
           "name": "Eben",
           "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
+        {
+          "name": "Muyiwa & Riversongz",
+          "url": "https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb"
+        },
+        {
+          "name": "Paul Adefarasin",
+          "url": "https://open.spotify.com/artist/7sQ5hIV1eBuBdUFrXDvURx"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
         },
         {
           "name": "Don Moen",
@@ -1846,10 +1846,28 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 287831,
       "name": "We Move",
       "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
+      "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287831,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/6likapyk4BKzhXL386Db8s"
     },
     {
       "album": {

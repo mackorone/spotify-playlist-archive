@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: MINHO\(민호\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,605 likes - 99 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,603 likes - 99 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
 | 2 | [Gift \(feat\. Drake\)](https://open.spotify.com/track/4Kcb43AOZE71Wnk9ueVulW) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Gift](https://open.spotify.com/album/2AiGuLywlNPHz4O5iPvYY5) | 4:01 |
 | 3 | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Gangcheol Seongdae\)](https://open.spotify.com/track/3BkmFNFRtArv4tXPcPvyNB) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Gangcheol Seongdae\)](https://open.spotify.com/album/0HXfGVkAK8VXYylhCQO1Rg) | 3:33 |
-| 4 | [White](https://open.spotify.com/track/3hIRjHc6Um75niFZcdt2XJ) | [Ok Joo Hyun](https://open.spotify.com/artist/2e88kBLGROab1vqnuT4Gp5) | [White](https://open.spotify.com/album/30VFRpIJwcI1Eaz6GHJaTV) | 3:55 |
+| 4 | [White](https://open.spotify.com/track/3hIRjHc6Um75niFZcdt2XJ) | [Ok Joo Hyun](https://open.spotify.com/artist/2e88kBLGROab1vqnuT4Gp5) | [White](https://open.spotify.com/album/30VFRpIJwcI1Eaz6GHJaTV) | 3:52 |
 | 5 | [Last Christmas](https://open.spotify.com/track/5XXjQsOErIFZBI8FTkbGpi) | [FIVE O ONE](https://open.spotify.com/artist/4X9QVV3BpaMsBebj73DZ6U) | [FIVE O ONE 20th Anniversary Digital Single](https://open.spotify.com/album/7aEP6XpsFZkm7bAYfhA1yE) | 3:29 |
 | 6 | [As ever](https://open.spotify.com/track/4MrT9XfDgPp1efVAxbFmK2) | [Dahye & Dongjin](https://open.spotify.com/artist/57iCv0HZVw8MQwOlErtlNC) | [As ever](https://open.spotify.com/album/65sebQR30ekIMMnGV1SmS6) | 2:53 |
 | 7 | [살구잼과 크래커 \(Apricot Jam & Cracker\)](https://open.spotify.com/track/1QXfEi6JddfjpDFXm1Oyb5) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [살구잼과 크래커 \(Apricot Jam & Cracker\)](https://open.spotify.com/album/33Z7YX5UArkfRPApTUWI2r) | 3:41 |

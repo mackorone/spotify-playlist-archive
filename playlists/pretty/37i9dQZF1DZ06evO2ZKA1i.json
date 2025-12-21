@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300418,
+  "num_followers": 300435,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACrKhuM+MH0yFLFYGMJj164",
+  "snapshot_id": "aUSVgAAAAADT/RMl8rRmN1bsqCii4OOj",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "=1",
         "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 228040,
       "name": "Portable Door",
       "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapture of the Deep (20th Anniversary Remix)",
-        "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 354884,
-      "name": "Rapture of the Deep - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/7ayF99jzq2CWQ8CVyrWw7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The House Of Blue Light",
         "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 277533,
       "name": "The Unwritten Law",
       "url": "https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapture of the Deep (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 354884,
+      "name": "Rapture of the Deep - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/7ayF99jzq2CWQ8CVyrWw7K"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapture of the Deep (20th Anniversary Remix)",
-        "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
+        "name": "inFinite",
+        "url": "https://open.spotify.com/album/15nE1szoTUhzet5GUQnp4P"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 324589,
-      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/6YL0X5G9adAUiJG6t4r0p4"
+      "duration_ms": 282426,
+      "name": "All I Got Is You",
+      "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
     }
   ],
   "unique_name": "This Is Deep Purple",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,102 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,103 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 4 | [1999](https://open.spotify.com/track/5664npiyyvli6veD4VINZ1) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [1999](https://open.spotify.com/album/1wj9CGnWoclmhiXlxjPwrW) | 4:49 |
 | 5 | [蟲](https://open.spotify.com/track/6B6eCDW47Js0weGjB9XQfD) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [蟲](https://open.spotify.com/album/0vuOsyCckYH8Ibw1O2kx4g) | 3:20 |
 | 6 | [花食](https://open.spotify.com/track/7C794bPJdScYfVAiFlsQlm) | [瀬梨亜](https://open.spotify.com/artist/77ev0kz8AFULUEyqP6RCxz) | [Specimen No\. ███](https://open.spotify.com/album/1we764ayBfpPQCqItVokfc) | 3:54 |
-| 7 | [Hero or Villan](https://open.spotify.com/track/7HhwLqAARQFWlmfAu3H6sJ) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Hero or Villan](https://open.spotify.com/album/0hRQVjWETPPQcOvi5ilLAW) | 3:03 |
+| 7 | [Hero or Villain](https://open.spotify.com/track/7HhwLqAARQFWlmfAu3H6sJ) | [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Hero or Villain](https://open.spotify.com/album/0hRQVjWETPPQcOvi5ilLAW) | 3:03 |
 | 8 | [怪獣とヒーロー](https://open.spotify.com/track/2imsRvMO3fNxMWmJsbNXFD) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Dawn](https://open.spotify.com/album/5ueJa5Ve1WSAwbuuH3ede6) | 3:47 |
 | 9 | [忘れてしまいそう](https://open.spotify.com/track/7ANRDMXL1yKnJ5pGwuvXAU) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [Trooper Salute 2](https://open.spotify.com/album/5r9Ysu2h2WSv26ArIAzX5j) | 6:27 |
 | 10 | [まれびと](https://open.spotify.com/track/0Hixq9hxVTMmLhFxZ1YGpu) | [めっちゃ美人](https://open.spotify.com/artist/3qFK1j4FfFGUiR7EeeLbuZ) | [美人ノシカク](https://open.spotify.com/album/4HKu5REXJWhM6X2wiF4pn6) | 4:57 |

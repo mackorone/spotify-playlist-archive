@@ -1,13 +1,29 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - AUR",
-  "num_followers": 15756,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Zafar",
+  "num_followers": 15816,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANVVbvhk/3GvsFPhbMelPFGJY8JW",
+  "snapshot_id": "AAAAAHhDer2od/61mYflmPmzIG4XBvM4",
   "tracks": [
+    {
+      "added_at": "2025-12-20 03:00:14",
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Ruxaana",
+      "url": "https://open.spotify.com/track/7IiueoPtKbX2eFrvbi75WG"
+    },
     {
       "added_at": "2025-12-12 05:08:46",
       "album": {
@@ -79,6 +95,22 @@
       "duration_ms": 264960,
       "name": "Adhoori Mohabbat",
       "url": "https://open.spotify.com/track/4yipOUCmZ7nvnf90iajgZo"
+    },
+    {
+      "added_at": "2025-12-20 03:00:14",
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Tere Bin Mein",
+      "url": "https://open.spotify.com/track/4YeJlz6BkvV58ooYUelsyT"
     },
     {
       "added_at": "2025-12-19 04:00:28",
@@ -163,22 +195,6 @@
     {
       "added_at": "2025-12-12 05:08:46",
       "album": {
-        "name": "Tum",
-        "url": "https://open.spotify.com/album/2wicz6VPYwgaGmK2NDqdIr"
-      },
-      "artists": [
-        {
-          "name": "Raafay Israr",
-          "url": "https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Tum",
-      "url": "https://open.spotify.com/track/0ttqsyXAGjvePZrtrYJfT5"
-    },
-    {
-      "added_at": "2025-12-12 05:08:46",
-      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/5MBtkRL6aVedksoScccrTx"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 179009,
       "name": "Flex",
       "url": "https://open.spotify.com/track/4HrlELLlJC77wgmmqd7M8I"
-    },
-    {
-      "added_at": "2025-12-12 05:08:46",
-      "album": {
-        "name": "Mouj",
-        "url": "https://open.spotify.com/album/7jZempsIS4n60E240JuApE"
-      },
-      "artists": [
-        {
-          "name": "Roziisho",
-          "url": "https://open.spotify.com/artist/5fKtW6lU8M96Yg77YddvG2"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Mouj",
-      "url": "https://open.spotify.com/track/01JBOoSGUT0zBWW5jZJyd7"
     },
     {
       "added_at": "2025-12-12 05:08:46",

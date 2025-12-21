@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62264,
+  "num_followers": 62273,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAADXR+nF2zIRnPmqGG4ONdYo",
+  "snapshot_id": "aUSVgAAAAACSL2TY6NCjgiimDj4R1qaM",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "Eu Vim Da Bahia",
-      "url": "https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chega de Saudade",
         "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 123333,
       "name": "Chega De Saudade - Ultimate Mix",
       "url": "https://open.spotify.com/track/6ZVkcZXg252nVEbMETBT1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "Eu Vim Da Bahia",
+      "url": "https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7t0Wbk6mXzMEC2GDU4ND1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
         "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 72671,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de Saudade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7t0Wbk6mXzMEC2GDU4ND1k"
     },
     {
       "added_at": null,
@@ -667,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 526200,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -723,6 +691,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 526200,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -739,6 +739,30 @@
       "duration_ms": 171253,
       "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
       "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do the Bossa Nova",
+        "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
+      },
+      "artists": [
+        {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "Deve Ser Amor (It Must Be Love)",
+      "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
     },
     {
       "added_at": null,
@@ -771,30 +795,6 @@
       "duration_ms": 118661,
       "name": "Corcovado",
       "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do the Bossa Nova",
-        "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
-      },
-      "artists": [
-        {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "Deve Ser Amor (It Must Be Love)",
-      "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
     },
     {
       "added_at": null,

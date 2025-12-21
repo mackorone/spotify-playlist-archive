@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Frank Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,249 likes - 109 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,277 likes - 109 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

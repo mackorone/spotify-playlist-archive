@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2648,
+  "num_followers": 2649,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARLkVLqiKZqrKIfzwXanrwAr6SvhU2",
+  "snapshot_id": "AAARL6bbAyH4VaV3rig63eZvZc66J7fv",
   "tracks": [
+    {
+      "added_at": "2025-12-20 10:24:52",
+      "album": {
+        "name": "Spectacular",
+        "url": "https://open.spotify.com/album/1KOpwNonQK0U80u3gAxb8O"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Spectacular",
+      "url": "https://open.spotify.com/track/0xIEDcRTdiBBPjvcelpp8L"
+    },
     {
       "added_at": "2025-12-19 13:14:05",
       "album": {

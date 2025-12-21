@@ -2,7 +2,7 @@
 
 ### [Classiques du Rap FR](https://open.spotify.com/playlist/37i9dQZF1DWSrqNVMcxGKc)
 
-> Tous les classiques du rap français dans une seule playlist ! Photo : 113
+> Tous les classiques du rap français dans une seule playlist ! Photo : Diam's
 
 60 songs - 4 hr 24 min
 

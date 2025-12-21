@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,620 likes - 108 songs - 4 hr 38 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 108,605 likes - 112 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,9 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 106 | [Call Me When You Break Up](https://open.spotify.com/track/5fBVuk8KYYixQvROiqrMeK) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Call Me When You Break Up](https://open.spotify.com/album/1FTJdN3L5MOdQatZmGBX3u) | 2:23 |
 | 107 | [Eyes Shut](https://open.spotify.com/track/0NgOwfHLUzmfgRY0XoXzbr) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Eyes Shut](https://open.spotify.com/album/3XdLCfK6V5vtKrGlzmNrO1) | 2:16 |
 | 108 | [Every Night](https://open.spotify.com/track/64O22PBIITfHsF5Lfq19yj) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Every Night](https://open.spotify.com/album/3aQSYBt49ImLqpdP5Eve6r) | 2:03 |
+| 109 | [Every Breath You Take \(feat\. Luciana Silva\)](https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Luciana Silva](https://open.spotify.com/artist/5ntgWfc9qPsKU0yUQwDqUF) | [Every Breath You Take \(feat\. Luciana Silva\)](https://open.spotify.com/album/1AIHqyuiMXredm3CnRSWSS) | 2:15 |
+| 110 | [We Belong Together \(feat\. Michael Hausted\)](https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [Michael Hausted](https://open.spotify.com/artist/0QlmyIn6tbtm2hn8dpljom) | [We Belong Together](https://open.spotify.com/album/4zEe9tBcYeo82snVqlznVh) | 2:21 |
+| 111 | [One More Night](https://open.spotify.com/track/0uVZiBza1iFPhkaXgX4Oeg) | [Miriam Cooper](https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [One More Night](https://open.spotify.com/album/7owWRGLCF42ycQlb3svESq) | 2:20 |
+| 112 | [Deeplow](https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Deeplow](https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs) | 2:29 |
 
-Snapshot ID: `AAAiV1TCtiQ+dvbIBHMdv3TdtVpoaf1X`
+Snapshot ID: `AAAiWycctu1otfo7Jqqh69RGzxuqCzdS`

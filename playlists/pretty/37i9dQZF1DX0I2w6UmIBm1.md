@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Land of Color
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,042 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,082 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 79 | [Years and Years](https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Years and Years](https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm) | 4:00 |
 | 80 | [Nothing But the Blood of Jesus](https://open.spotify.com/track/21tBbmZyqyqqJnUPwuNVhV) | [Nate Diaz](https://open.spotify.com/artist/0jC2wYCgbKNiSveN32TA9u) | [Nothing But the Blood of Jesus](https://open.spotify.com/album/5BW3AskNuRbZTfkpILar0w) | 4:31 |
 
-Snapshot ID: `AAAAACeBkNPrmUvw4TL+linWGuaWPkm6`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

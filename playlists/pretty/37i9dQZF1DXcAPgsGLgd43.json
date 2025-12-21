@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 105078,
+  "num_followers": 105183,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "BaBaBa (Hangover)",
         "url": "https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo"
       },
@@ -1455,26 +1475,6 @@
       "duration_ms": 172384,
       "name": "BaBaBa (Hangover)",
       "url": "https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Siente la Conexi\u00f3n",
         "url": "https://open.spotify.com/album/1FidVVYkjZfocPwCtx0qAw"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Capitale",
-        "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
-      },
-      "artists": [
-        {
-          "name": "Illyus Barrientos ",
-          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Capitale",
-      "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Al Ritmo",
         "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
       },
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Capitale",
+        "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
+      },
+      "artists": [
+        {
+          "name": "Illyus Barrientos ",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Capitale",
+      "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Carretero",
         "url": "https://open.spotify.com/album/5uNJJWose8r2Mebm3BuYDa"
       },
@@ -1939,6 +1939,30 @@
       "duration_ms": 156000,
       "name": "Carretero",
       "url": "https://open.spotify.com/track/7h84kkGWk5WMo31VBnQZpx"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        },
+        {
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1979,30 +2003,6 @@
       "duration_ms": 160000,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Novak",
-          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
-        },
-        {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "added_at": "2025-12-19 05:00:35",

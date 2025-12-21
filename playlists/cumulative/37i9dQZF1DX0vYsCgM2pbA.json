@@ -4263,6 +4263,28 @@
     },
     {
       "album": {
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147243,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
+    },
+    {
+      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/5GQAZHrUnJgaM3mNcTOmji"
       },
@@ -5254,7 +5276,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 150117,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/73hu23f3N0BQkwQ4Kp5aiq"

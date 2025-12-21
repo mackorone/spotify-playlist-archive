@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-127 songs - 7 hr 43 min
+128 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Keep Us On The Road \(Live\) \[The Brains Mix\]](https://open.spotify.com/track/2WItOigPNcXeMExEKgW9OY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [The Boys Of Ladbroke Grove](https://open.spotify.com/album/4odEMh1B3bNvNAwIvsjsmU) | 3:14 | 2023-09-09 | 2023-10-05 |
 | [Killed by Death](https://open.spotify.com/track/2XvVueul226rT8g4DQuKSK) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [All the Aces](https://open.spotify.com/album/13NfYO9kPsulhr0QpklkHF) | 4:38 | 2023-12-13 |  |
 | [Killed by Death](https://open.spotify.com/track/4cuPWrSsjNLAkYRJwQLCzt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse](https://open.spotify.com/album/7sRhaLxwU2iUWuSBCNU5ba) | 4:39 | 2022-12-30 | 2023-12-14 |
+| [Killers](https://open.spotify.com/track/0gYX80G1UvhaGcpkuWwIuY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:14 | 2025-12-21 |  |
 | [Leavin' Here \- The Manticore Tapes](https://open.spotify.com/track/79rlrnFpFrXZQTvDCsgcdg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Leavin' Here \(The Manticore Tapes\)](https://open.spotify.com/album/1aMdAEM4FntrFDbrOdpKph) | 3:23 | 2025-06-14 | 2025-08-08 |
 | [Life's a Bitch](https://open.spotify.com/track/08qd7KzrvVKwEU5mfBnU8j) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 4:13 | 2023-01-24 | 2023-04-04 |
 | [Life's a Bitch](https://open.spotify.com/track/3MrXb1U5gZ8MQkCff0yW1X) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:13 | 2025-01-05 |  |
@@ -84,7 +85,7 @@
 | [Metropolis \- Live at Sporthalle, Heilbronn, 29th December 1984](https://open.spotify.com/track/0JaWMlB8iyfQ5yC6XM5Gdv) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes, Vol\. 4 \(Live in Heilbronn 1984\)](https://open.spotify.com/album/7JZtTrkPykywMjnwnzqwkS) | 3:05 | 2022-12-31 | 2023-02-27 |
 | [Motörhead](https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 3:10 | 2022-12-30 |  |
 | [Motörhead \- The Manticore Tapes](https://open.spotify.com/track/6XdjmNTpTFvkaRJYh2YPKV) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motörhead \(The Manticore Tapes\)](https://open.spotify.com/album/28rdvbkzj08VuBfLDr45LQ) | 3:09 | 2025-05-10 | 2025-06-06 |
-| [Neat Neat Neat](https://open.spotify.com/track/5eYqGfKM0BudNWYUFvtJX7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Neat Neat Neat](https://open.spotify.com/album/1v3bSptWKdJ9jqU5J5DR0L) | 3:14 | 2025-09-12 |  |
+| [Neat Neat Neat](https://open.spotify.com/track/5eYqGfKM0BudNWYUFvtJX7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Neat Neat Neat](https://open.spotify.com/album/1v3bSptWKdJ9jqU5J5DR0L) | 3:14 | 2025-09-12 | 2025-12-21 |
 | [No Class](https://open.spotify.com/track/2iBtKDOBYvIMcGvsbmyYn5) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Edition\)](https://open.spotify.com/album/6rfGeD9P5kyZTSwif5tOJb) | 2:38 | 2023-12-13 |  |
 | [No Class](https://open.spotify.com/track/7tcjO6ihGhcKi5mRu0jXZy) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 2:38 | 2022-12-30 | 2023-12-14 |
 | [On Your Feet or On Your Knees \(Live at Sala Aqualung, Madrid, 1st June 1995\)](https://open.spotify.com/track/1o0jKmFRtDvCkHoJjUih0S) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes \- The Collection \(Vol\. 1\-5\)](https://open.spotify.com/album/4HxP17nKQuzZpzIVq0wu3L) | 2:44 | 2024-03-01 | 2024-03-12 |

@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-693 songs - 1 day 11 hr 39 min
+694 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Paradise](https://open.spotify.com/track/7d9OgDTo1Q5TMTaY6oUQOB) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Settled in Motion \(Silent Minds, Pt\. 3\)](https://open.spotify.com/album/4S26ALgxJHytVYSmr5NETb) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/50YvgSEJQpNlvOaTNJzwnk) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O) | [Patience](https://open.spotify.com/album/5NeVFESnfQbNb14PTKn3y4) | 2:32 | 2023-04-20 | 2023-11-07 |
 | [Peace](https://open.spotify.com/track/2jVophLAvSRFwiC0bhk8K4) | [QUiNNA](https://open.spotify.com/artist/22rDvoC9Ih125ORFkRXU1p), [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Sevendays](https://open.spotify.com/artist/7Bjrqi8xQL35Lp9KCRI3sY) | [Peace](https://open.spotify.com/album/4XyrBfLYVSRYIAIeAEJWF1) | 2:49 | 2023-05-12 | 2024-08-02 |
+| [Peace in my violence](https://open.spotify.com/track/2ZGFtsy0gYKcm5WhnybpMY) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Peace in my violence](https://open.spotify.com/album/3tZcpeDTc4Hor6hrpvZLri) | 2:39 | 2025-12-18 |  |
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-12-16 | 2023-02-03 |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-03-25 | 2022-07-23 |
 | [peter pan.](https://open.spotify.com/track/1zwUCjt4sxia9JxjnxujjX) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [peter pan.](https://open.spotify.com/album/3JNDDhe0k1sOWR0HNXtW4L) | 3:04 | 2025-07-17 |  |
@@ -556,7 +557,7 @@
 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 | 2021-12-16 | 2023-01-13 |
 | [Something True](https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Something True](https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5) | 2:43 | 2023-10-12 | 2024-10-05 |
 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 | 2024-05-30 | 2025-03-08 |
-| [Sonho \(Summer\)](https://open.spotify.com/track/6yjfTTqYwypuxqICDMsm7Y) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Words From Venus](https://open.spotify.com/album/35gXzZCAYihydBIiivsmGr) | 1:54 | 2025-06-02 |  |
+| [Sonho \(Summer\)](https://open.spotify.com/track/6yjfTTqYwypuxqICDMsm7Y) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Words From Venus](https://open.spotify.com/album/35gXzZCAYihydBIiivsmGr) | 1:54 | 2025-06-02 | 2025-12-21 |
 | [SORRY](https://open.spotify.com/track/7KSjkI2iVDzM2woJF1wCLw) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX), [Vianni](https://open.spotify.com/artist/3gA1e0cQPKvNeM10wn9CT3) | [SORRY](https://open.spotify.com/album/5pAsALzohJ1fwGgVGjXtIl) | 2:35 | 2025-02-27 | 2025-06-28 |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-08-29 | 2024-11-22 |
 | [Space and Pussy](https://open.spotify.com/track/0uExujZlh2J2XxNRn6ZJBu) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Space and Pussy](https://open.spotify.com/album/03GodmV6v7GWeXW1vGEUHw) | 2:34 | 2024-10-04 | 2025-11-21 |

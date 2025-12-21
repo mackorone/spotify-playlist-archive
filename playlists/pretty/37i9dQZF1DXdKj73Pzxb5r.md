@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: starrducc
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,953 likes - 95 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,962 likes - 95 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

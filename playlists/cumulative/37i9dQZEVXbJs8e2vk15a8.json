@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -9581,6 +9581,24 @@
     },
     {
       "album": {
+        "name": "4AMTapes",
+        "url": "https://open.spotify.com/album/1udjEYm5unTMFcdg1mQCiO"
+      },
+      "artists": [
+        {
+          "name": "4AMTapes",
+          "url": "https://open.spotify.com/artist/4d65skQOI4fUyy3CKDTFqh"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274877,
+      "name": "BONITA BONITA",
+      "url": "https://open.spotify.com/track/4EMJl0imBLiNOQ21WdE7ZH"
+    },
+    {
+      "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
       },
@@ -16140,7 +16158,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 197869,
       "name": "Dame Otro Motivo",
       "url": "https://open.spotify.com/track/40iaOidXr2AwfjXFqlWqcg"
@@ -30117,6 +30135,24 @@
     },
     {
       "album": {
+        "name": "Hurts",
+        "url": "https://open.spotify.com/album/0vDh8V4WLb0OJEnbiFtOuo"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223593,
+      "name": "Hurts",
+      "url": "https://open.spotify.com/track/6bKOQSAL8FMeu8qEdlBZNx"
+    },
+    {
+      "album": {
         "name": "de l'accordeoniste a milord",
         "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
       },
@@ -33796,6 +33832,28 @@
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "album": {
+        "name": "La Intuici\u00f3n",
+        "url": "https://open.spotify.com/album/57FEOShxnLZEo29OFNnZWa"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Chusi",
+          "url": "https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "La Intuici\u00f3n",
+      "url": "https://open.spotify.com/track/4FPcrNWSVIdGcqDXUKbOQk"
     },
     {
       "album": {
@@ -37786,7 +37844,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 186680,
       "name": "Luci\u00e9rnagas",
       "url": "https://open.spotify.com/track/2YaOGEaBCoISE521kunnyK"
@@ -50090,7 +50148,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 147520,
       "name": "Para Que Nunca Mas",
       "url": "https://open.spotify.com/track/3hucW9oJIdJkxjaNxAc6wd"
@@ -72330,7 +72388,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 518,
+  "num_followers": 536,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEMpe+1sNzvgZlPTOUkjOMFhUKiVO7",
+  "snapshot_id": "AAAEOW1flKKpX3PV2301fCKsPcDslNzx",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1459,6 +1459,118 @@
       "duration_ms": 241860,
       "name": "Been So Long",
       "url": "https://open.spotify.com/track/181JBo6fgmCPougtkMU4xO"
+    },
+    {
+      "added_at": "2025-12-20 02:21:09",
+      "album": {
+        "name": "Skin Deep",
+        "url": "https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8"
+      },
+      "artists": [
+        {
+          "name": "People You Know",
+          "url": "https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz"
+        }
+      ],
+      "duration_ms": 268700,
+      "name": "Skin Deep",
+      "url": "https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft"
+    },
+    {
+      "added_at": "2025-12-20 12:23:37",
+      "album": {
+        "name": "Plummeting",
+        "url": "https://open.spotify.com/album/0GQqX233VMGh74rhPJcdVz"
+      },
+      "artists": [
+        {
+          "name": "Moviegoer",
+          "url": "https://open.spotify.com/artist/3SjWkSiIhsJDqU05WfrUJG"
+        }
+      ],
+      "duration_ms": 159234,
+      "name": "Plummeting",
+      "url": "https://open.spotify.com/track/7mIYYO8ISbtuPahooGa6ha"
+    },
+    {
+      "added_at": "2025-12-20 12:29:34",
+      "album": {
+        "name": "Plato",
+        "url": "https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x"
+      },
+      "artists": [
+        {
+          "name": "Americarnage",
+          "url": "https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD"
+        }
+      ],
+      "duration_ms": 260489,
+      "name": "April Breaking Down",
+      "url": "https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk"
+    },
+    {
+      "added_at": "2025-12-20 13:52:07",
+      "album": {
+        "name": "Stockholm Syndrome",
+        "url": "https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB"
+      },
+      "artists": [
+        {
+          "name": "Arnold Alaniz",
+          "url": "https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR"
+    },
+    {
+      "added_at": "2025-12-20 14:46:16",
+      "album": {
+        "name": "Unmovable Fires",
+        "url": "https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 257321,
+      "name": "Unmovable Fires",
+      "url": "https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt"
+    },
+    {
+      "added_at": "2025-12-20 14:53:00",
+      "album": {
+        "name": "SOUP",
+        "url": "https://open.spotify.com/album/4ZEjgFMkrNjQD3pzTiPyVx"
+      },
+      "artists": [
+        {
+          "name": "Felix Rice",
+          "url": "https://open.spotify.com/artist/7nhM2WgCUKLEgvLS520BaQ"
+        }
+      ],
+      "duration_ms": 153383,
+      "name": "SOUP",
+      "url": "https://open.spotify.com/track/61Kf8AcZVzt4DKcmCSL67F"
+    },
+    {
+      "added_at": "2025-12-20 15:09:07",
+      "album": {
+        "name": "wild",
+        "url": "https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW"
     }
   ],
   "unique_name": "Unsigned Rock",

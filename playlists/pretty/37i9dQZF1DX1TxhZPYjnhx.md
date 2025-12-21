@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: MINHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,630 likes - 114 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,628 likes - 114 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

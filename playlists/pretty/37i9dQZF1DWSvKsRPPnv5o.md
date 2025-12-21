@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: PayGotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,361 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,358 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 9 | [ROCKIN](https://open.spotify.com/track/6m5cyVx8qLqu69MFiBVnMI) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [ROCKIN](https://open.spotify.com/album/44CG52mqjcKpzJL8L4yXkB) | 2:09 |
 | 10 | [Step For Me](https://open.spotify.com/track/5gfL2PRP2Z1kbCkwFCVsWO) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Step For Me](https://open.spotify.com/album/5dr8x0eAwGR7SaQylNBodR) | 3:33 |
 | 11 | [Hadju](https://open.spotify.com/track/67boR1qcg0tmLQDcWntTqX) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Hadju](https://open.spotify.com/album/0H91S2e4amzMxtmqBo2YcR) | 2:26 |
-| 12 | [PERMANENT TEARS](https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [PERMANENT TEARS](https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0) | 3:17 |
+| 12 | [PERMANENT TEARS](https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [PERMANENT TEARS](https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0) | 3:13 |
 | 13 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
 | 14 | [Blood Tears](https://open.spotify.com/track/1I9aXgTYebsxJNweImB0LG) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Gangsta Grillz: Every Movie Needs A Trailer](https://open.spotify.com/album/2M58HatkKSxlexlk5CMikI) | 3:02 |
 | 15 | [Intro](https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [My Evil Thoughts](https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2) | 2:19 |

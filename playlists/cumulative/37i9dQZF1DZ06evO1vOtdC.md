@@ -4,7 +4,7 @@
 
 > This is Jennifer Lopez\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 2 min
+85 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Feel The Light \- From The "Home" Soundtrack](https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Feel The Light \(From The "Home" Soundtrack\)](https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K) | 4:51 | 2023-07-28 |  |
 | [Follow The Leader](https://open.spotify.com/track/2RMWA3mvD4nxBR1sGF7wRp) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Líderes](https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae) | 4:00 | 2023-07-28 |  |
 | [Get Right](https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 3:45 | 2023-07-28 |  |
-| [Get Right](https://open.spotify.com/track/6eKJ2f4krilnklIXlVs2vK) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/4GX4TjznT6VPHHXhZepZZd) | 2:56 | 2025-06-15 |  |
+| [Get Right](https://open.spotify.com/track/6eKJ2f4krilnklIXlVs2vK) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/4GX4TjznT6VPHHXhZepZZd) | 2:56 | 2025-06-15 | 2025-12-21 |
+| [Get Right \- Joel Corry VIP Mix](https://open.spotify.com/track/5XYX6qohHM4zIdCZU3o9Dn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Get Right](https://open.spotify.com/album/426RnvYSHgtWcBwyXeZ5L4) | 2:37 | 2025-12-21 |  |
 | [Hearts and Flowers](https://open.spotify.com/track/0OWoqy35NqD7uCHP0GfnYz) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 4:10 | 2024-02-29 | 2024-06-01 |
 | [Hearts and Flowers](https://open.spotify.com/track/1DEKs02MT6zYDEeeCLJ0Y6) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 4:10 | 2024-02-25 | 2024-03-01 |
 | [Hold You Down \(feat\. Fat Joe\)](https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Rebirth](https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2) | 4:32 | 2023-07-29 |  |

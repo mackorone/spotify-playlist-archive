@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Justin Quiles, Lenny Tavárez y Blessd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,955 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,942 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LAS NEAS](https://open.spotify.com/track/4VPetBH68wPQ67N8LwwJAI) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [LAS NEAS](https://open.spotify.com/album/7obxopROLfWvdgoO6oWvZ8) | 3:23 |
 | 2 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 3 | [Si Tu Te Vas](https://open.spotify.com/track/12fN9im0FoCyj2rVVTnzAL) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Si Tu Te Vas](https://open.spotify.com/album/02mOLNpS1PEF8t7o2Tluik) | 2:05 |
-| 4 | [REGGAETON MEXA](https://open.spotify.com/track/43wSjuhR6i2AXBLUoeHDIN) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REGGAETON MEXA](https://open.spotify.com/album/0WWprYlbWvRUe54GvBG1yW) | 2:19 |
+| 4 | [REGGAETÓN MEXA](https://open.spotify.com/track/43wSjuhR6i2AXBLUoeHDIN) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [REGGAETÓN MEXA](https://open.spotify.com/album/0WWprYlbWvRUe54GvBG1yW) | 2:19 |
 | 5 | [LA VILLA](https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 3:12 |
 | 6 | [EL TOQUE](https://open.spotify.com/track/3Vje1J5ell0QAYTEtCm91G) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LAMENTO EN BAILE](https://open.spotify.com/album/3jAzXWlEKBUw3eJvrXM74t) | 2:48 |
 | 7 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |

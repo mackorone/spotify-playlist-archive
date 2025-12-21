@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next gen pop and beyond  💫 cover: DJ Suzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,907 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,888 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 |
 | 80 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 |
 
-Snapshot ID: `AAAAAAbCtNROqv/eE/HzhGJYMX+viCff`
+Snapshot ID: `AAAAAGpLj8l5zkc6qjt1tlG8ByQ4B5Ze`

@@ -2,23 +2,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 ### [New Pakistani Pop](https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX)
 
-> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- AUR
+> Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Zafar
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,756 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,816 likes - 55 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You](https://open.spotify.com/track/46kEe1OzYWAzQowuQBoYo5) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [You paint me again “PURPLE”](https://open.spotify.com/album/0KUWZOvXO6Uvsih3zDpwYa) | 4:02 |
-| 2 | [khoya rahun](https://open.spotify.com/track/47RuLAnZSOL5Hzhnc8N1xp) | [Muneeb Haque](https://open.spotify.com/artist/6NRRW0ZMoyvGapWRoMy5n4), [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [khoya rahun](https://open.spotify.com/album/2mjsgxm7arutCe56yQlgUC) | 2:32 |
-| 3 | [tere bin](https://open.spotify.com/track/6FT4KeYDDF8KEY4KVGLTZ5) | [MAARIJ](https://open.spotify.com/artist/70dkTHwH6Pkzo2rvGfukp2) | [tere bin](https://open.spotify.com/album/1hxtjM4qAC4W5PFRsNDTVg) | 4:07 |
-| 4 | [Adhoori Mohabbat](https://open.spotify.com/track/4yipOUCmZ7nvnf90iajgZo) | [Matee Ur Rehman](https://open.spotify.com/artist/1X2cTzy8Xxdc7BKDmZbGk1) | [Adhoori Mohabbat](https://open.spotify.com/album/5onKuEnxdE6itiBT1DLx4N) | 4:24 |
-| 5 | [Afreen](https://open.spotify.com/track/00T6h7uZ7eYd6JU36bksGH) | [Shamikh](https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Afreen](https://open.spotify.com/album/0FNlqJH6JfhH4FSeWxgx6i) | 3:03 |
-| 6 | [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 |
-| 7 | [Wo Noor](https://open.spotify.com/track/3Dl1JUk69O39rSaIllYzzA) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Wo Noor](https://open.spotify.com/album/5bJ4KT2nA3oE2YNwvcArzI) | 3:27 |
-| 8 | [Kyun Yeh](https://open.spotify.com/track/5vTXpzPssBtEdk3rMFG4PY) | [Fakhar Abbas](https://open.spotify.com/artist/7L8VPgAXW4fcZBFgtkAAEb) | [Kyun Yeh](https://open.spotify.com/album/7dXjJKypkeRh6Q3i6g9JHo) | 3:40 |
-| 9 | [Tum](https://open.spotify.com/track/0ttqsyXAGjvePZrtrYJfT5) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57) | [Tum](https://open.spotify.com/album/2wicz6VPYwgaGmK2NDqdIr) | 3:26 |
-| 10 | [Flex](https://open.spotify.com/track/4HrlELLlJC77wgmmqd7M8I) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5) | [Flex](https://open.spotify.com/album/5MBtkRL6aVedksoScccrTx) | 2:59 |
-| 11 | [Mouj](https://open.spotify.com/track/01JBOoSGUT0zBWW5jZJyd7) | [Roziisho](https://open.spotify.com/artist/5fKtW6lU8M96Yg77YddvG2) | [Mouj](https://open.spotify.com/album/7jZempsIS4n60E240JuApE) | 3:43 |
+| 1 | [Ruxaana](https://open.spotify.com/track/7IiueoPtKbX2eFrvbi75WG) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Roshni](https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS) | 2:55 |
+| 2 | [You](https://open.spotify.com/track/46kEe1OzYWAzQowuQBoYo5) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [You paint me again “PURPLE”](https://open.spotify.com/album/0KUWZOvXO6Uvsih3zDpwYa) | 4:02 |
+| 3 | [khoya rahun](https://open.spotify.com/track/47RuLAnZSOL5Hzhnc8N1xp) | [Muneeb Haque](https://open.spotify.com/artist/6NRRW0ZMoyvGapWRoMy5n4), [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [khoya rahun](https://open.spotify.com/album/2mjsgxm7arutCe56yQlgUC) | 2:32 |
+| 4 | [tere bin](https://open.spotify.com/track/6FT4KeYDDF8KEY4KVGLTZ5) | [MAARIJ](https://open.spotify.com/artist/70dkTHwH6Pkzo2rvGfukp2) | [tere bin](https://open.spotify.com/album/1hxtjM4qAC4W5PFRsNDTVg) | 4:07 |
+| 5 | [Adhoori Mohabbat](https://open.spotify.com/track/4yipOUCmZ7nvnf90iajgZo) | [Matee Ur Rehman](https://open.spotify.com/artist/1X2cTzy8Xxdc7BKDmZbGk1) | [Adhoori Mohabbat](https://open.spotify.com/album/5onKuEnxdE6itiBT1DLx4N) | 4:24 |
+| 6 | [Tere Bin Mein](https://open.spotify.com/track/4YeJlz6BkvV58ooYUelsyT) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Roshni](https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS) | 3:22 |
+| 7 | [Afreen](https://open.spotify.com/track/00T6h7uZ7eYd6JU36bksGH) | [Shamikh](https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Afreen](https://open.spotify.com/album/0FNlqJH6JfhH4FSeWxgx6i) | 3:03 |
+| 8 | [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 |
+| 9 | [Wo Noor](https://open.spotify.com/track/3Dl1JUk69O39rSaIllYzzA) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Wo Noor](https://open.spotify.com/album/5bJ4KT2nA3oE2YNwvcArzI) | 3:27 |
+| 10 | [Kyun Yeh](https://open.spotify.com/track/5vTXpzPssBtEdk3rMFG4PY) | [Fakhar Abbas](https://open.spotify.com/artist/7L8VPgAXW4fcZBFgtkAAEb) | [Kyun Yeh](https://open.spotify.com/album/7dXjJKypkeRh6Q3i6g9JHo) | 3:40 |
+| 11 | [Flex](https://open.spotify.com/track/4HrlELLlJC77wgmmqd7M8I) | [Raafay Israr](https://open.spotify.com/artist/53CSmkUOcrOUOwaDW0Eh57), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5) | [Flex](https://open.spotify.com/album/5MBtkRL6aVedksoScccrTx) | 2:59 |
 | 12 | [Le Ke Chalun](https://open.spotify.com/track/3YSXBlmagLAygpwULRX6RV) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7) | [Le Ke Chalun](https://open.spotify.com/album/7fOXjJOQuAjePZED94AGe8) | 3:46 |
 | 13 | [Gal Sun Vay](https://open.spotify.com/track/0uv2lgvu13jL6PsK7cpf15) | [Tamur](https://open.spotify.com/artist/3apFGVfm0YI1SVk0hAVU95) | [Gal Sun Vay](https://open.spotify.com/album/6tREeksVhUKOOjbeyiD6R2) | 2:38 |
 | 14 | [iztiraar](https://open.spotify.com/track/4l3bGsqwVAIw5muxnl8lPo) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [iztiraar](https://open.spotify.com/album/1hNzoGvua5JWHiXL5Kt7mI) | 2:53 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 54 | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/track/4XV8zaWcumB5Et8IdhfSUa) | [Fazeel Khan](https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h) | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/album/3csWupL9ILbd6zbuBZR6pF) | 2:07 |
 | 55 | [Supreme Mode](https://open.spotify.com/track/6dAdThAhyvjGetAW8v8Ztu) | [Momin Ali Wajid](https://open.spotify.com/artist/2Bwz11LGCMXreTn8SFupGY) | [Supreme Mode](https://open.spotify.com/album/7DCYJtI3Vcczf71fKWuo8F) | 2:18 |
 
-Snapshot ID: `AAAAANVVbvhk/3GvsFPhbMelPFGJY8JW`
+Snapshot ID: `AAAAAHhDer2od/61mYflmPmzIG4XBvM4`

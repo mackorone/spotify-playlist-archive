@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 
 > Get the party started with these classics\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 546 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqryD4rCK8f.md) - [plain]
 | 49 | [Sexy And I Know It](https://open.spotify.com/track/2EKutm0aSnll5NIM851wZa) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [Sexy And I Know It](https://open.spotify.com/album/1uJuPP4h1tv6Lrq9yRtpY7) | 3:24 |
 | 50 | [Lapdance](https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL), [Lee Harvey](https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 3:29 |
 
-Snapshot ID: `AAAAAGqoCFQ5nFEfvLG9VgRflTVMaJCR`
+Snapshot ID: `AAAAAJp/PWCB52zDJ7wZ+6L7Js0YWl+F`

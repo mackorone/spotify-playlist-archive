@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Art of Dying
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,536 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,612 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [Undefeated](https://open.spotify.com/track/0RNrPMV3W7fy1kuJMOFPJN) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [By Faith](https://open.spotify.com/album/4bjzcdjO7NXSocnuLs1pWK) | 3:06 |
 | 75 | [Found Again](https://open.spotify.com/track/6GBlqgArnysPVm2dxsGY6T) | [Ryan Tobin](https://open.spotify.com/artist/3fa1pOq8hmczAGWfYtxDPi) | [Found Again](https://open.spotify.com/album/3RRncCTfbBp4ZWBxigLYT6) | 2:36 |
 
-Snapshot ID: `AAAAAI7FWOJsKW6JWMFskEZoIPtR9fwW`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

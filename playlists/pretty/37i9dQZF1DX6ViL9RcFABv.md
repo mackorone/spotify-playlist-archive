@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Bandidos do Cante, António Zambujo
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,457 likes - 71 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,455 likes - 71 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

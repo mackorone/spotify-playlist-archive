@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3136,
+  "num_followers": 3137,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Tyd Saam",
+        "url": "https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c"
+      },
+      "artists": [
+        {
+          "name": "EAZY CPT",
+          "url": "https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Tyd Saam",
+      "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Hosh Pakamisa",
         "url": "https://open.spotify.com/album/4D6iPZIuBPfjXcvqm6pbd3"
       },
@@ -899,42 +915,18 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Tyd Saam",
-        "url": "https://open.spotify.com/album/1ZVA1TwHvzCTC9UsVw3c7c"
+        "name": "Nikes & Jordans (Original)",
+        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
       },
       "artists": [
         {
-          "name": "EAZY CPT",
-          "url": "https://open.spotify.com/artist/6J5gjRHi3E9eLTKtsvT0cm"
+          "name": "Bigbforever",
+          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Tyd Saam",
-      "url": "https://open.spotify.com/track/6J9rWNVO1o859GVwSM088z"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Dala",
-        "url": "https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ"
-      },
-      "artists": [
-        {
-          "name": "CTT Beats",
-          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
-        },
-        {
-          "name": "Don Capo",
-          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
-        },
-        {
-          "name": "21 Promo & Pengii",
-          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
-        }
-      ],
-      "duration_ms": 134904,
-      "name": "Dala",
-      "url": "https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0"
+      "duration_ms": 194037,
+      "name": "Nikes & Jordans (Original)",
+      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -971,18 +963,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Nikes & Jordans (Original)",
-        "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
+        "name": "Dala",
+        "url": "https://open.spotify.com/album/3MzmsMHH8FSajkODlgCFYZ"
       },
       "artists": [
         {
-          "name": "Bigbforever",
-          "url": "https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i"
+          "name": "CTT Beats",
+          "url": "https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt"
+        },
+        {
+          "name": "Don Capo",
+          "url": "https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF"
+        },
+        {
+          "name": "21 Promo & Pengii",
+          "url": "https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0"
         }
       ],
-      "duration_ms": 194037,
-      "name": "Nikes & Jordans (Original)",
-      "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
+      "duration_ms": 134904,
+      "name": "Dala",
+      "url": "https://open.spotify.com/track/3TxfEFV2IVkLLf7rlbDDd0"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

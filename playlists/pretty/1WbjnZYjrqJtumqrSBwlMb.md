@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,187 songs - 3 day 0 hr 51 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,187 songs - 3 day 0 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1181,19 +1181,19 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1171 | [Past Won't Leave My Bed](https://open.spotify.com/track/16Z0an8D4BJNm3VbWWpTnv) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/3WVLl7wbF8oNra7oMZ62Ta) | 2:46 |
 | 1172 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 1173 | [If It Only Gets Better](https://open.spotify.com/track/2Q5L6Ix8jIzF7G4u7XZVxp) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [If It Only Gets Better](https://open.spotify.com/album/6J6XOZ3BmeKnT99JuIDaFE) | 1:08 |
-| 1174 | [TOUCH THE SKY](https://open.spotify.com/track/3bfeZIvUQEmtpGs6VQKgUy) | [retroclinic](https://open.spotify.com/artist/3U5yxvcDQ3AhEM0YDBWsOU) | [Horizon Scraper](https://open.spotify.com/album/3CGRmoOQTDPWNWkt5Q7DCI) | 2:29 |
-| 1175 | [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 |
-| 1176 | [The House That Doesn’t Exist](https://open.spotify.com/track/0BxcLVV1TfIyEYMbIJwS2Q) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unclouded](https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG) | 2:23 |
-| 1177 | [Into Shadows](https://open.spotify.com/track/5OSAHbp7LCACTxswtIdghY) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unclouded](https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG) | 2:47 |
-| 1178 | [Every Knife In The House Was Mine](https://open.spotify.com/track/4M14hej68kjivrEtJbE0lm) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:01 |
-| 1179 | [Heaven](https://open.spotify.com/track/1n1G50uQhFrymy3wUIJGIX) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:15 |
-| 1180 | [In A Lonely Place](https://open.spotify.com/track/0SCQFv3crsaMLNtW8QGk6Q) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 1:39 |
-| 1181 | [The Detroit Strangler](https://open.spotify.com/track/2d0q8tLKAULZpC6PXjzqUB) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 1:30 |
-| 1182 | [Flowers](https://open.spotify.com/track/7rRyvkf35kt8BYrbVykhwF) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:03 |
-| 1183 | [Beautiful World](https://open.spotify.com/track/4f4CAiVf1lTCNJgBi1mVKn) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:35 |
-| 1184 | [If I Come Home](https://open.spotify.com/track/26xHjn5s53YlN6wa2tV9rh) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:19 |
-| 1185 | [Heroin](https://open.spotify.com/track/0N9HoTDxy2pVRHV7Zmt9Ok) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:10 |
-| 1186 | [Somehow A Part Of Me Still Thinks You're Coming Home Because In My Dreams I Get To Kiss You Goodbye](https://open.spotify.com/track/06VeQCsGZM7sIAeRwSJHyE) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:04 |
-| 1187 | [Psychoboost](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 |
+| 1174 | [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 |
+| 1175 | [The House That Doesn’t Exist](https://open.spotify.com/track/0BxcLVV1TfIyEYMbIJwS2Q) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unclouded](https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG) | 2:23 |
+| 1176 | [Into Shadows](https://open.spotify.com/track/5OSAHbp7LCACTxswtIdghY) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Unclouded](https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG) | 2:47 |
+| 1177 | [Every Knife In The House Was Mine](https://open.spotify.com/track/4M14hej68kjivrEtJbE0lm) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:01 |
+| 1178 | [Heaven](https://open.spotify.com/track/1n1G50uQhFrymy3wUIJGIX) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:15 |
+| 1179 | [In A Lonely Place](https://open.spotify.com/track/0SCQFv3crsaMLNtW8QGk6Q) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 1:39 |
+| 1180 | [The Detroit Strangler](https://open.spotify.com/track/2d0q8tLKAULZpC6PXjzqUB) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 1:30 |
+| 1181 | [Flowers](https://open.spotify.com/track/7rRyvkf35kt8BYrbVykhwF) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:03 |
+| 1182 | [Beautiful World](https://open.spotify.com/track/4f4CAiVf1lTCNJgBi1mVKn) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:35 |
+| 1183 | [If I Come Home](https://open.spotify.com/track/26xHjn5s53YlN6wa2tV9rh) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:19 |
+| 1184 | [Heroin](https://open.spotify.com/track/0N9HoTDxy2pVRHV7Zmt9Ok) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:10 |
+| 1185 | [Somehow A Part Of Me Still Thinks You're Coming Home Because In My Dreams I Get To Kiss You Goodbye](https://open.spotify.com/track/06VeQCsGZM7sIAeRwSJHyE) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:04 |
+| 1186 | [Psychoboost](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 |
+| 1187 | [You Are](https://open.spotify.com/track/3UCwh3iDpoU68SQMvJHmqU) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 9:42 |
 
-Snapshot ID: `AAAJj3xHGLovTVheQkzNbqgTQjKUhnCK`
+Snapshot ID: `AAAJkZ8lMqjnPqy2vZyQg2AXc8BFTgTB`

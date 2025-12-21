@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Nko, Le Scimmie, Néza e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,240 likes - 135 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,250 likes - 135 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 |
+| 1 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 |
 | 2 | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/track/6iFfFjKnr615pD7aL5Z2Cx) | [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Warzone \(feat\. Artie 5ive, Capo Plaza & Nerissima Serpe\)](https://open.spotify.com/album/3AXrg1yOKAwMlUbRDRfQbu) | 2:26 |
 | 3 | [SAYAN](https://open.spotify.com/track/3kv70BJZSKR7QJN73UwQU1) | [Le Scimmie](https://open.spotify.com/artist/4ZWezIz4lP1tqeBaO9eoie), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Niko Beatz](https://open.spotify.com/artist/38KfktpTerKDEMxWtbSdCH) | [SAYAN](https://open.spotify.com/album/43z3ZJtXd5dJ1vhbqkT4Mg) | 3:17 |
 | 4 | [Nato in mezzo ai guai](https://open.spotify.com/track/5PdcKNHLopN4Mj9a8zLFDD) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [TonTon](https://open.spotify.com/artist/1ahEnU32IFHlomnoWGS3gv) | [Nato in mezzo ai guai](https://open.spotify.com/album/7N1xLrRKjHK7u1TOuaFos3) | 2:06 |

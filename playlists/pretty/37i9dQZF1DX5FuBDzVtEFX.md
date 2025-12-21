@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 
 > Kick back to the soothing sounds of the Ukulele...
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,143 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,120 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FuBDzVtEFX.md) - [plain]
 | 49 | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/track/5yFEuHawcsewDx3aSYFJss) | [Relaxation Guitar Maestro](https://open.spotify.com/artist/6B5MoYNLUzzteweIhTxIaC) | [Over the Rainbow \- What a Wonderful World: Instrumental Guitar & Hawaiian Ukelele](https://open.spotify.com/album/3axtiXVPio96WlTBczCKKG) | 4:47 |
 | 50 | [Yesterday](https://open.spotify.com/track/3SdPIwKA7dmxrYJIs63KCj) | [Winton Pearl](https://open.spotify.com/artist/5eM9121fISPjCeJjixEnqZ) | [You Are The Sunshine Of My Life](https://open.spotify.com/album/5gCYcWDJ34dH9oV2zWeaKi) | 2:35 |
 
-Snapshot ID: `AAAAADDvUPTT679DfGPCwbnIAApzU/Dg`
+Snapshot ID: `AAAAABa/HYnVCoxPf9KoSzvstBsSNt8a`

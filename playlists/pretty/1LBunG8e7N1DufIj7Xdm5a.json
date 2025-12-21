@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 246,
+  "num_followers": 248,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGVsCT+JntpmOX/jwkXpQtcDV6D3gk",
+  "snapshot_id": "AAAGWfhAPy5fl9xA8mdnzHRkWadytn9A",
   "tracks": [
     {
       "added_at": "2025-12-14 23:10:38",
@@ -23,22 +23,6 @@
       "duration_ms": 303728,
       "name": "Vicios",
       "url": "https://open.spotify.com/track/5aIsFPmNUDxWhkIdG4u9oY"
-    },
-    {
-      "added_at": "2025-12-11 09:36:12",
-      "album": {
-        "name": "Five Horizons",
-        "url": "https://open.spotify.com/album/4JBYAkVluXXDBSLuD3MTg2"
-      },
-      "artists": [
-        {
-          "name": "Vincent Projects",
-          "url": "https://open.spotify.com/artist/6P8kClrXTKESI4G5bwW6gJ"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "One Step Closer to You",
-      "url": "https://open.spotify.com/track/4fuaqQTVuQOr7vTNdfXGax"
     },
     {
       "added_at": "2025-12-10 23:11:24",
@@ -61855,6 +61839,22 @@
       "duration_ms": 218514,
       "name": "Sheeshe Ka Dil",
       "url": "https://open.spotify.com/track/1XNErXg8Ruh8qg2u7qTPbL"
+    },
+    {
+      "added_at": "2025-12-20 09:13:14",
+      "album": {
+        "name": "Started",
+        "url": "https://open.spotify.com/album/46sgVlfE4GLSGJlzob6k8x"
+      },
+      "artists": [
+        {
+          "name": "Digsby",
+          "url": "https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA"
+        }
+      ],
+      "duration_ms": 238250,
+      "name": "Doubling Down",
+      "url": "https://open.spotify.com/track/7gXtVsi4nxUp6r6adDaQO8"
     }
   ],
   "unique_name": "playlist spotify free",

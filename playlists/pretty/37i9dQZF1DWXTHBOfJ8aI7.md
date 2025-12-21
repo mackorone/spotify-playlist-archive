@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTHBOfJ8aI7.md) - [plain]
 
 ### [Légendes du Rock](https://open.spotify.com/playlist/37i9dQZF1DWXTHBOfJ8aI7)
 
-> Les plus grands classiques du rock\. Photo : Oasis
+> Les plus grands classiques du rock\. Photo : AC/DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,216 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,327 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

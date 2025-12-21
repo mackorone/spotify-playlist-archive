@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MNjB+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MNoYKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -25,7 +25,55 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 231535,
+      "name": "Gimme Gimme",
+      "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 223803,
+      "name": "\u5bc2\u5bde\u5713\u821e",
+      "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Boulder",
+        "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 248241,
+      "name": "Boulder",
+      "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -45,55 +93,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 231535,
-      "name": "Gimme Gimme",
-      "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Boulder",
-        "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 248241,
-      "name": "Boulder",
-      "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 223803,
-      "name": "\u5bc2\u5bde\u5713\u821e",
-      "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/4vGg44GdCw3X8i8r01XJH0"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -125,23 +125,7 @@
       "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 219263,
-      "name": "\u8ffd\u611b\u72c2\u60f3",
-      "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "\u7528\u80cc\u810a\u5531\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8"
@@ -157,23 +141,23 @@
       "url": "https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
       },
       "artists": [
         {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 198217,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/55IRq8Ju359hkoGdkJ010e"
+      "duration_ms": 219263,
+      "name": "\u8ffd\u611b\u72c2\u60f3",
+      "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -205,7 +189,23 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/55IRq8Ju359hkoGdkJ010e"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/2byDwLSm9jA7H7Fm7Zb5I9"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -237,71 +237,7 @@
       "url": "https://open.spotify.com/track/3OE79FmEvvXym1uIBFIkBD"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 221791,
-      "name": "\u6211\u7684\u652f\u6301\u578b\u4f34\u4fb6",
-      "url": "https://open.spotify.com/track/5y3pmjOQvxW5TT5JuLyZRh"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 227542,
-      "name": "\u6d41\u6d6a\u661f\u7403",
-      "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 189617,
-      "name": "Trippin\u2019 Up",
-      "url": "https://open.spotify.com/track/4IRwuvE6Wo81j8VcyUN6JI"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 178241,
-      "name": "Rude Boy",
-      "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "\u7dca\u6025\u806f\u7d61\u4eba",
         "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
@@ -317,7 +253,7 @@
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -328,60 +264,28 @@
           "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
         }
       ],
-      "duration_ms": 189941,
-      "name": "Take That",
-      "url": "https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf"
+      "duration_ms": 221791,
+      "name": "\u6211\u7684\u652f\u6301\u578b\u4f34\u4fb6",
+      "url": "https://open.spotify.com/track/5y3pmjOQvxW5TT5JuLyZRh"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
       },
       "artists": [
         {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+      "duration_ms": 227542,
+      "name": "\u6d41\u6d6a\u661f\u7403",
+      "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 249136,
-      "name": "\u8aaa\u8b0a\u8005",
-      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
@@ -397,23 +301,103 @@
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "\u5074\u7530",
-        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
       },
       "artists": [
         {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
         }
       ],
-      "duration_ms": 217013,
-      "name": "\u547d\u786c",
-      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
+      "duration_ms": 178241,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 249136,
+      "name": "\u8aaa\u8b0a\u8005",
+      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 189617,
+      "name": "Trippin\u2019 Up",
+      "url": "https://open.spotify.com/track/4IRwuvE6Wo81j8VcyUN6JI"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 189941,
+      "name": "Take That",
+      "url": "https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -429,23 +413,7 @@
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 182588,
-      "name": "\u767d\u679c",
-      "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "\u8ddf\u60b2\u50b7\u7d50\u4e86\u5e33",
         "url": "https://open.spotify.com/album/20mUgXnBxw1q6UkgikTTuo"
@@ -465,27 +433,7 @@
       "url": "https://open.spotify.com/track/2asybJtO3YT7zg22tsIJBD"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "White Christmas (with V of BTS)",
-        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 173033,
-      "name": "White Christmas (with V of BTS)",
-      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
@@ -505,23 +453,55 @@
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+        "name": "\u5074\u7530",
+        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
         }
       ],
-      "duration_ms": 123517,
-      "name": "like JENNIE",
-      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+      "duration_ms": 217013,
+      "name": "\u547d\u786c",
+      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 182588,
+      "name": "\u767d\u679c",
+      "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -537,23 +517,55 @@
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "Good Goodbye",
-        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Good Goodbye",
-      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 123517,
+      "name": "like JENNIE",
+      "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "\u7d66\u5343\u5104\u9846\u661f\u9078\u4e2d\u7684\u4e8c\u4eba",
+        "url": "https://open.spotify.com/album/6o1aJgMWZ5t1qB3uKQNyYZ"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 244686,
+      "name": "\u7d66\u5343\u5104\u9846\u661f\u9078\u4e2d\u7684\u4e8c\u4eba",
+      "url": "https://open.spotify.com/track/3rT8GbzEYNApPxU7yYQlYU"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -573,71 +585,23 @@
       "url": "https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "Good Goodbye",
+        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+      "duration_ms": 223000,
+      "name": "Good Goodbye",
+      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "\u7d66\u5343\u5104\u9846\u661f\u9078\u4e2d\u7684\u4e8c\u4eba",
-        "url": "https://open.spotify.com/album/6o1aJgMWZ5t1qB3uKQNyYZ"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 244686,
-      "name": "\u7d66\u5343\u5104\u9846\u661f\u9078\u4e2d\u7684\u4e8c\u4eba",
-      "url": "https://open.spotify.com/track/3rT8GbzEYNApPxU7yYQlYU"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Let go",
-        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
-      },
-      "artists": [
-        {
-          "name": "Nancy Kwai",
-          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
-        }
-      ],
-      "duration_ms": 230581,
-      "name": "Let go",
-      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -653,55 +617,23 @@
       "url": "https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
-      "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -721,23 +653,39 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "No Protection",
-        "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
       },
       "artists": [
         {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 244018,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "\u8001\u6d3e\u7d04\u6703\u4e4b\u5fc5\u8981",
+      "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
@@ -757,23 +705,23 @@
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 156685,
-      "name": "toxic till the end",
-      "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -793,23 +741,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
-      "album": {
-        "name": "a kiridiculous distance",
-        "url": "https://open.spotify.com/album/1ymz2jNDGgtvGQghYkFAV1"
-      },
-      "artists": [
-        {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
-        }
-      ],
-      "duration_ms": 232839,
-      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
-      "url": "https://open.spotify.com/track/3qFJpsQaOGkea5MLxbk9Jc"
-    },
-    {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -825,23 +757,55 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+        "name": "a kiridiculous distance",
+        "url": "https://open.spotify.com/album/1ymz2jNDGgtvGQghYkFAV1"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
         }
       ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+      "duration_ms": 232839,
+      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/3qFJpsQaOGkea5MLxbk9Jc"
     },
     {
-      "added_at": "2025-12-19 13:57:32",
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "Let go",
+        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "duration_ms": 230581,
+      "name": "Let go",
+      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -855,6 +819,42 @@
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "White Christmas (with V of BTS)",
+        "url": "https://open.spotify.com/album/07IeFJu4WPp8f98lnkHe8L"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 173033,
+      "name": "White Christmas (with V of BTS)",
+      "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
+    },
+    {
+      "added_at": "2025-12-20 13:54:48",
+      "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
+      },
+      "artists": [
+        {
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+        }
+      ],
+      "duration_ms": 244018,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/5hQwJOWx41wiWH305GT7pf"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

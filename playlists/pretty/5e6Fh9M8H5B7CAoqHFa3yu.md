@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,736 songs - 4 day 9 hr 16 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,739 songs - 4 day 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1744,5 +1744,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1734 | [Verso il Mare è Natale](https://open.spotify.com/track/4M3FcpXYq09NL2ib7FVP6J) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:01 |
 | 1735 | [Happy New Year](https://open.spotify.com/track/0WOL8krAstMsQYhGL9N2Bj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:21 |
 | 1736 | [Hello](https://open.spotify.com/track/0Oi5hWNh0txuqGESiMTvIP) | [Redo](https://open.spotify.com/artist/0rRr0u1oYFDzgEArecZjrA) | [Hello](https://open.spotify.com/album/2CD54EnEme3id2GHduEaYf) | 4:02 |
+| 1737 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 |
+| 1738 | [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 |
+| 1739 | [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [BleuShxll](https://open.spotify.com/artist/3uZrhLXR3UZkvDcF3abMz2), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 |
 
-Snapshot ID: `AAAHmRv2/YlBCu0gCSuCSolQNnBciIg5`
+Snapshot ID: `AAAHnAIkGNeyu6sBiWdWfm5r8FN23rKW`

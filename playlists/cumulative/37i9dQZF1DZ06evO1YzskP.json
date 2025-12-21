@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191914,
+      "name": "cosas raras",
+      "url": "https://open.spotify.com/track/1Oo91InghZYlhbUL4o3QoW"
+    },
+    {
+      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 183160,
       "name": "Lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/7zrsSimdPZxyPZ0D3nHIWz"
@@ -1692,6 +1710,28 @@
       "duration_ms": 143162,
       "name": "Mi m\u00e1s grande error",
       "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
+    },
+    {
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187008,
+      "name": "Mi pareja en turno",
+      "url": "https://open.spotify.com/track/6F6PRX5lKN7sbXnlfx2Q0N"
     },
     {
       "album": {
@@ -2386,7 +2426,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 155424,
       "name": "Venecia",
       "url": "https://open.spotify.com/track/60Ptp69mDiYRmpE8V4ZtTE"

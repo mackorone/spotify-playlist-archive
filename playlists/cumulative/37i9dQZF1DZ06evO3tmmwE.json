@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Calle 360",
+        "url": "https://open.spotify.com/album/4pZxhIj55GzPJcR9OP5Cpf"
+      },
+      "artists": [
+        {
+          "name": "Esebree",
+          "url": "https://open.spotify.com/artist/2tGm14JsABUh9tc7GmS0ft"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/58uqJXtPu8nzTLMJxVN45C"
+    },
+    {
+      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },

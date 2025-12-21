@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8560,
+  "num_followers": 8562,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAAI6TNM2wKhakME2mlRPPQy",
+  "snapshot_id": "aUSVgAAAAADByBSJ3sGDYUSF8kZJikzH",
   "tracks": [
     {
       "added_at": null,
@@ -839,30 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Voc\u00ea Ficar a Vontade",
-        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
-      },
-      "artists": [
-        {
-          "name": "akao.47",
-          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "BREEZE",
-          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Pra Voc\u00ea Ficar a Vontade",
-      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outro Som de Sacanagem",
         "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 115275,
       "name": "Outro Som de Sacanagem",
       "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Voc\u00ea Ficar a Vontade",
+        "url": "https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c"
+      },
+      "artists": [
+        {
+          "name": "akao.47",
+          "url": "https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Pra Voc\u00ea Ficar a Vontade",
+      "url": "https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn"
     },
     {
       "added_at": null,

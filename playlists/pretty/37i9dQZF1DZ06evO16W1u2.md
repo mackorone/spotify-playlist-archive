@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,877 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,879 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16W1u2.md) - [plain]
 | 49 | [Esa Luz Se Va](https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq) | 3:34 |
 | 50 | [Sin Ti](https://open.spotify.com/track/7E2vSzLfTAbFkXilM5pwpD) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:38 |
 
-Snapshot ID: `aUNEAAAAAADqETzDOmo6F4ycetP/9LDb`
+Snapshot ID: `aUSVgAAAAADgxZEE53fBloMDF4dX0qTQ`

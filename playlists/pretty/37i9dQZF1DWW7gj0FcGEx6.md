@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,131 likes - 179 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,161 likes - 179 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 16 | [Of the undiscovered country](https://open.spotify.com/track/0PF2ZG8nMgAAcYwWLwYqnM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 5:22 |
 | 17 | [The Finest Gentleman](https://open.spotify.com/track/1oVjbcfXchR3gza5rBBBiB) | [Masaru Yokoyama](https://open.spotify.com/artist/3RN3VTAcHI62WWV3PlwlLK) | [10DANCE \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0Gco9oF8hOjn9cnxjQro8r) | 3:16 |
 | 18 | [The Cards Game is Starting](https://open.spotify.com/track/4toFjGjt3eXWEBx3P0gtDU) | [Mark Isham](https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI) | [Soul On Fire \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3BhU9a3Ao2Q1rsYpEYt5O7) | 2:04 |
-| 19 | [I Want To Be A Cowboy's Sweetheart \- from Palm Royale Season 2](https://open.spotify.com/track/1J2ff6TGSyBCPtRtE0GPDH) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [I Want To Be A Cowboy's Sweetheart \(from Palm Royale Season 2\)](https://open.spotify.com/album/6GFCN5rj0sF0NmUwFWGPsi) | 3:18 |
+| 19 | [I Want To Be A Cowboy's Sweetheart](https://open.spotify.com/track/1J2ff6TGSyBCPtRtE0GPDH) | [Patti LuPone](https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944) | [I Want To Be A Cowboy's Sweetheart \(from Palm Royale Season 2\)](https://open.spotify.com/album/6GFCN5rj0sF0NmUwFWGPsi) | 3:18 |
 | 20 | [Lluvia](https://open.spotify.com/track/1t07AT62YtYPqjunostRar) | [Carlos Jean](https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA) | [Dímelo Bajito \(Prime Video Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22nOuCBeqe4PnrJ5OgLhgZ) | 2:06 |
 | 21 | [L'article](https://open.spotify.com/track/4VvrfCMacfa5oPl7bKA2Sa) | [Superpoze](https://open.spotify.com/artist/1iQhd9xO2v82j0dBbt4tHz) | [Louise \(Bande Originale du Film\)](https://open.spotify.com/album/6byr54dxvqleO3Vb8JwQFA) | 3:32 |
 | 22 | [Clothed by the Sun](https://open.spotify.com/track/7oUXP4X9R6WC6YzJGWDhiC) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj), [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Clothed by the Sun \(from "The Testament of Ann Lee" Soundtrack\)](https://open.spotify.com/album/74S3OrNWGF5bc31l9c4fIn) | 3:36 |

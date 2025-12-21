@@ -9501,6 +9501,24 @@
     },
     {
       "album": {
+        "name": "Songs from Scratch",
+        "url": "https://open.spotify.com/album/7aH6PIR1zFMUlxIjacTehF"
+      },
+      "artists": [
+        {
+          "name": "Col3man",
+          "url": "https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/0pKhAdJmnfvNx0WHxm7EP5"
+    },
+    {
+      "album": {
         "name": "Last Forever",
         "url": "https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf"
       },
@@ -17434,7 +17452,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 239142,
       "name": "vision (wish u could see)",
       "url": "https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN"

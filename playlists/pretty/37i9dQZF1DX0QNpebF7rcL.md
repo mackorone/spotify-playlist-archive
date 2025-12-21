@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,887 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,943 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Thunderbird](https://open.spotify.com/track/304JLq9u9DrvO0rw7u9Yq1) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B) | [Thunderbird](https://open.spotify.com/album/6TQPU0JjKFlTL9H5EMJfSa) | 3:51 |
 | 100 | [Whiskey Got Me Married](https://open.spotify.com/track/1LlJhzftKCr4SVRfOgIYXN) | [Altered Five Blues Band](https://open.spotify.com/artist/7idP7O5Y5lvJw4XFeAJxzg) | [Testifyin'](https://open.spotify.com/album/0zNY2rhuQ5b3MLYFjqfNtp) | 3:51 |
 
-Snapshot ID: `AAAAADSQjruWKazyU2sfSB3biMKELFYi`
+Snapshot ID: `AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc`

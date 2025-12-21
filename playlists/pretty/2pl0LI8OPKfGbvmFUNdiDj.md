@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 434 likes - 108 songs - 6 hr 0 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 447 likes - 122 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,19 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 106 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 |
 | 107 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 |
 | 108 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 |
+| 109 | [BTC \- Live](https://open.spotify.com/track/2mSsTajIROCRN8Ffri2ZjF) | [Gal\_or](https://open.spotify.com/artist/0j0hVZhTBQrmQNMjyzI0QM), [Gal Dahan](https://open.spotify.com/artist/21x9QjLzTIpMonjnMzVvQB), [Tal Michles](https://open.spotify.com/artist/5qMmNcUwmq0QNJCulxMTQO), [Yair Samoylov](https://open.spotify.com/artist/6lYlIZdEaIKjrhAmwCgZse) | [BTC \(Live\)](https://open.spotify.com/album/3wkU4WU6EXuuAFvGEFWlbc) | 5:19 |
+| 110 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 |
+| 111 | [Amigo](https://open.spotify.com/track/2QgpEmuwzP26oBGcUkfne0) | [Argonautas](https://open.spotify.com/artist/65Pc1uHVu0oDDfNoErHinw) | [Amigo](https://open.spotify.com/album/5OsWun9BqiD3V7fs9b0D8I) | 3:40 |
+| 112 | [Can't Find My Phone](https://open.spotify.com/track/0BWh4xchOtRdQAlRfelPFS) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Can't Find My Phone](https://open.spotify.com/album/2HjLHGRtW7yhxBKY0V5Mge) | 2:31 |
+| 113 | [THE HEAT](https://open.spotify.com/track/1ACm87Fnd6ZFTLApCDxy70) | [TESHEA SOUL](https://open.spotify.com/artist/3ztTKXVVM22GWaTAspU2Ws) | [DAYDREAM](https://open.spotify.com/album/6BRskXafHlWiagqmLP6NgK) | 2:55 |
+| 114 | [Dope Sick](https://open.spotify.com/track/4PRp06peNwtw92ENEAfQpc) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Dope Sick](https://open.spotify.com/album/4FSfK9VoOCnjZ08xn28xNy) | 2:56 |
+| 115 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 |
+| 116 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 |
+| 117 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 |
+| 118 | [Amor Odio](https://open.spotify.com/track/6AnFuGA2s2kW3pdwJgL6DD) | [AnalogHeads](https://open.spotify.com/artist/7ELGlDonTv8CtHZOTpLFML), [SAF.TD](https://open.spotify.com/artist/3Dj7Xjk8zY4A0ysb6fEARD) | [Amor Odio](https://open.spotify.com/album/4bc8EFjSFHcfxrzNqzM9dm) | 3:46 |
+| 119 | [Shine Again](https://open.spotify.com/track/3gvW1GzMz9ZziCm7oMzxFK) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Shine Again](https://open.spotify.com/album/1EIhHwdJLtXEvXDWtSpjPc) | 3:39 |
+| 120 | [Running Away](https://open.spotify.com/track/39tycuF0unuJqmzJw0EJqI) | [LUKAS R](https://open.spotify.com/artist/0exPooezHP0XsOH5KsQXx4) | [Running Away](https://open.spotify.com/album/40CBcKFeRq54eWM9HquVE8) | 3:22 |
+| 121 | [For Tonight](https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Brother](https://open.spotify.com/album/5RV6Ggi9hnALeXXchpW37O) | 2:29 |
+| 122 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 |
 
-Snapshot ID: `AAACd28fidUgz1Ieo9y4xp7PoFYyPcAw`
+Snapshot ID: `AAAChUz4zz4lDVOensTZudTzzSTNg6VL`

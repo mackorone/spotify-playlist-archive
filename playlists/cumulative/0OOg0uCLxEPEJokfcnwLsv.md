@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-170 songs - 10 hr 21 min
+177 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-05 |  |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-30 | 2025-11-22 |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
+| [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 | 2025-12-20 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-12 |
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-11-04 | 2025-12-12 |
 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 | 2025-10-27 | 2025-11-22 |
@@ -113,7 +114,9 @@
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-04 | 2025-11-22 |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |
 | [Playing God](https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Playing God](https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv) | 3:40 | 2025-11-04 | 2025-12-12 |
+| [Plummeting](https://open.spotify.com/track/7mIYYO8ISbtuPahooGa6ha) | [Moviegoer](https://open.spotify.com/artist/3SjWkSiIhsJDqU05WfrUJG) | [Plummeting](https://open.spotify.com/album/0GQqX233VMGh74rhPJcdVz) | 2:39 | 2025-12-20 |  |
 | [Pop Punk Was Dead](https://open.spotify.com/track/18cYjNMNy2KDjiCTvl2XY8) | [Bad Halloween](https://open.spotify.com/artist/2twrObmRnmEG5sF2njB0tr) | [Pop Punk Was Dead](https://open.spotify.com/album/1RsRlGI6VRobAOMVhdZEV3) | 3:32 | 2025-09-17 |  |
+| [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-12-20 |  |
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-11-27 |  |
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-12 |
 | [Reactor Startup](https://open.spotify.com/track/2q57gWobR1INudWdwk5V6Y) | [The Naives](https://open.spotify.com/artist/05VhSO0dsvH5xk905U9fdo) | [Reactor Startup](https://open.spotify.com/album/5YDkIYrHq4EGq96ThcWq28) | 2:43 | 2025-09-04 |  |
@@ -132,12 +135,15 @@
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2025-12-12 |  |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
+| [Skin Deep](https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Skin Deep](https://open.spotify.com/album/3g0JxbfNLFh4VTmdACc9f8) | 4:28 | 2025-12-20 |  |
 | [Sleepless Nights](https://open.spotify.com/track/2rx2mOt8glRMwPo2mKyBgc) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Sleepless Nights](https://open.spotify.com/album/6APVwDWm6gGbtYhfnbC0CT) | 5:07 | 2025-10-30 | 2025-11-22 |
 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 | 2025-11-21 | 2025-12-12 |
 | [So Long, it's a Shame About the Fish \- Radio Edit](https://open.spotify.com/track/1LRCIZlYb4bxhwAVjeUbMI) | [One Dimensional Creatures](https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o) | [So Long, it's a Shame About the Fish](https://open.spotify.com/album/58jcUai7lmTiBkpotllfpl) | 2:26 | 2025-11-04 | 2025-12-12 |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-29 | 2025-11-22 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-11-27 |  |
+| [SOUP](https://open.spotify.com/track/61Kf8AcZVzt4DKcmCSL67F) | [Felix Rice](https://open.spotify.com/artist/7nhM2WgCUKLEgvLS520BaQ) | [SOUP](https://open.spotify.com/album/4ZEjgFMkrNjQD3pzTiPyVx) | 2:33 | 2025-12-20 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 |  |
+| [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-20 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-11 |  |
 | [Streetlights](https://open.spotify.com/track/7ubD7mlFekl7QGt6Vb6MAE) | [Dylan Camp](https://open.spotify.com/artist/0j2dNJnUm8oeQGR10pbBGv) | [Streetlights](https://open.spotify.com/album/5HpOdgBKfslIGUTMCGrXJP) | 4:19 | 2025-12-11 |  |
 | [Strength](https://open.spotify.com/track/7sDdpxYqkM1iNdlKeICNpQ) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9) | [Strength](https://open.spotify.com/album/77PRbZD0JWk9peqfMxVsM1) | 4:12 | 2025-11-26 |  |
@@ -164,6 +170,7 @@
 | [UNITED](https://open.spotify.com/track/4qpFehbPX0sdg7UgxB2na7) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:47 | 2025-11-26 |  |
 | [Universal Cowboy](https://open.spotify.com/track/3E1Xd1dU70XoR3RDSLJVpH) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Universal Cowboy](https://open.spotify.com/album/4rOErxwAu1auXgapFpo84E) | 4:23 | 2025-11-08 | 2025-12-12 |
 | [Unlove](https://open.spotify.com/track/5JxRYj0zmD6AfCciOXHTCN) | [Miwa](https://open.spotify.com/artist/6Y1cYyAqPwrzXNogyOKzDd), [Go To](https://open.spotify.com/artist/73EOGQFxjF1dcHwZYL3Y76) | [Unlove](https://open.spotify.com/album/1WYDpofR1agI395mA14xCE) | 5:30 | 2025-11-06 | 2025-12-12 |
+| [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2025-12-20 |  |
 | [Urge for tears](https://open.spotify.com/track/27GgZNxJqBwNDc9taf6vvC) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Anton Premec](https://open.spotify.com/artist/0CPqOLIo6t828XgtQu0f25) | [Urge for tears](https://open.spotify.com/album/5Wkir5ZGd1SoOX5AdRdXXa) | 4:24 | 2025-11-04 | 2025-12-12 |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-10-28 | 2025-11-22 |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-12-03 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAC+K4U+IovDICrLs+adRYFD",
+  "snapshot_id": "aUSVgAAAAADBBjFlNG87u0ZNMCBRPB0A",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BODY PARTS (Full Frontal)",
-        "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 192881,
-      "name": "BODY PARTS",
-      "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 130095,
       "name": "BOYS BOYS BOYS",
       "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BODY PARTS (Full Frontal)",
+        "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 192881,
+      "name": "BODY PARTS",
+      "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
     },
     {
       "added_at": null,

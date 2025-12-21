@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35446,
+  "num_followers": 35451,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACGBMioeCYCVCic7/4mfQmW",
+  "snapshot_id": "aUSVgAAAAAAL9WCXTfPM53WnUzZJVoQF",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol5 / 1937",
+        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 204781,
       "name": "Nuages",
       "url": "https://open.spotify.com/track/2bRjs9011aMUeerhcPvoHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol5 / 1937",
-        "url": "https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: Rol3ert
 
-1,085 songs - 2 day 20 hr 22 min
+1,086 songs - 2 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Aimayu](https://open.spotify.com/track/2iB24OTJfF6Gx1wjkJxX0n) | [Xiwum.](https://open.spotify.com/artist/4vgoKIbrBmS4kOXu6gd1aC) | [Aimayu](https://open.spotify.com/album/6GRTfTrsmQsaLaHBDENzid) | 3:18 | 2025-12-09 | 2025-12-17 |
 | [aishiteru](https://open.spotify.com/track/79iFhIEFTqS5YykBPUMcon) | [宇雪](https://open.spotify.com/artist/1XxIFOqghfXfAuvXiYPHEE) | [aishiteru](https://open.spotify.com/album/2KqF4NM13iQ5UaIFP3loUR) | 3:16 | 2025-06-11 | 2025-06-18 |
 | [Akimeki](https://open.spotify.com/track/0hbAvN27256Zd2wecZZba9) | [YAMORI](https://open.spotify.com/artist/2codmpRc4fctFpQQaEYUe7) | [Akimeki](https://open.spotify.com/album/4JdjJvwztEpiIiDKurLyh2) | 4:41 | 2024-11-13 | 2024-11-20 |
+| [Alive](https://open.spotify.com/track/2uoJ1GfCQHmwqmKNAYSauH) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Alive](https://open.spotify.com/album/6EDT74EiZ5pKdiTuGpeD0O) | 3:31 | 2025-12-16 |  |
 | [All Right](https://open.spotify.com/track/7zkIecA4DD0VQlCRVM8h4o) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP) | [Minds & Colors](https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36) | 3:18 | 2025-03-25 | 2025-04-23 |
 | [ALONE](https://open.spotify.com/track/2445JyDGRHYTKR9z80bAK6) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [ALONE](https://open.spotify.com/album/42F5ZokDngGpz1CA5xGfkS) | 2:40 | 2025-11-04 |  |
 | [Amai Ai o](https://open.spotify.com/track/07T1CJP6aRohqkB5bL1Vfr) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [Amai Ai o](https://open.spotify.com/album/58UxpnjptyhQTpG3uQCZ85) | 3:45 | 2025-09-16 | 2025-09-24 |
@@ -219,7 +220,7 @@
 | [If Filled With Rain](https://open.spotify.com/track/6IGZhGRJ3eMf8n3bXTMciY) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [If Filled With Rain](https://open.spotify.com/album/0rw3HWNsN4Vnv5Zz0pGXLF) | 3:29 | 2025-01-14 | 2025-02-19 |
 | [If I were to fall in love again](https://open.spotify.com/track/6zT6xEf2qpn9er9JhzfuvL) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [If I were to fall in love again](https://open.spotify.com/album/4DhgV1EMe5RcZiJB6di91X) | 3:55 | 2024-09-17 | 2024-10-02 |
 | [illusion](https://open.spotify.com/track/6m53DkRrzvS8oZWHs9oiz0) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [illusion](https://open.spotify.com/album/0wimYbq1Bt4h831oilomYX) | 2:49 | 2024-12-24 | 2025-02-12 |
-| [In Bloom](https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [In Bloom](https://open.spotify.com/album/3ynxUwwaoRYf2JW8nbID9L) | 3:06 | 2025-12-02 | 2025-12-17 |
+| [In Bloom](https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [In Bloom](https://open.spotify.com/album/3ynxUwwaoRYf2JW8nbID9L) | 3:06 | 2025-12-02 |  |
 | [In My Life \(feat\. Madoki Yamasaki\)](https://open.spotify.com/track/7nuoQJnmtOGWHu00aJ46sr) | [Caravan](https://open.spotify.com/artist/6HcUBQ9LwRrhBwJdZguoma), [Madoki Yamasaki](https://open.spotify.com/artist/4h7zqN5uuUd5hwJVTe4Q4j) | [HOMEWORK \#2](https://open.spotify.com/album/191yjVDlKjKxb7lpTsJ7ws) | 4:55 | 2025-09-23 | 2025-10-01 |
 | [INNER CHILD](https://open.spotify.com/track/0gOORv5Wb6gOqt2pqtWBHv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [INNER CHILD](https://open.spotify.com/album/23WzSTrMBGr5j91gIyLfx7) | 3:36 | 2024-07-02 | 2024-07-17 |
 | [INSOMNIA](https://open.spotify.com/track/0L0nrPEHffucQqfWusbmrb) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [INSOMNIA](https://open.spotify.com/album/6HcP5DlLCM8vEagkSE1Uhu) | 4:03 | 2025-04-22 | 2025-06-12 |
@@ -421,7 +422,7 @@
 | [Soumatou](https://open.spotify.com/track/382WGaX13ezr4o5oOYBGrR) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Soumatou](https://open.spotify.com/album/50m973Fnyxo9Tx2ijPKZAi) | 4:15 | 2025-02-11 | 2025-02-19 |
 | [sound check](https://open.spotify.com/track/7MGaWFYlL6aILNKGWYEr8z) | [Akiyama ritsuki](https://open.spotify.com/artist/7Lb20kUMIBtHb0dqfR7vB9) | [FLAT LAND](https://open.spotify.com/album/68bOoBVhdvHiefJLrjlGJg) | 3:17 | 2025-11-04 | 2025-11-12 |
 | [Space Gate](https://open.spotify.com/track/6RTNlXnnOFHr4fQm5xwFaI) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Space Gate](https://open.spotify.com/album/3oF1hLocoFIBLF2JdtJotp) | 4:15 | 2025-11-04 | 2025-11-12 |
-| [SPEC!](https://open.spotify.com/track/7v00K6vAKAntMGSZv58UPc) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [SPEC!](https://open.spotify.com/album/4VeHYyS1fOuhT1wAvQR0DI) | 3:00 | 2025-10-08 |  |
+| [SPEC!](https://open.spotify.com/track/7v00K6vAKAntMGSZv58UPc) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [SPEC!](https://open.spotify.com/album/4VeHYyS1fOuhT1wAvQR0DI) | 3:00 | 2025-10-08 | 2025-12-21 |
 | [Special](https://open.spotify.com/track/2BV4ap1td4rbvwNXvM2pfD) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [Special](https://open.spotify.com/album/2woDlrCJBUkQSrPbsRWe4j) | 2:15 | 2025-04-29 | 2025-05-07 |
 | [Square](https://open.spotify.com/track/0m2WidrVpzIIkXe4146MMJ) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:02 | 2024-09-17 | 2024-09-25 |
 | [Stand by side](https://open.spotify.com/track/0KkbO34LFk9lk8ccukJi6R) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Stand by side](https://open.spotify.com/album/7t3NdWUuz2SRMOB1rDYA2N) | 3:27 | 2025-10-14 | 2025-10-22 |
@@ -890,7 +891,7 @@
 | [幸せってなに？](https://open.spotify.com/track/1lpo19jyZjlOAV5EJfsOsO) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [幸せってなに？](https://open.spotify.com/album/6jxZUmvZamQLbDxfCMOYLw) | 4:17 | 2025-10-08 | 2025-10-22 |
 | [幸せな約束。](https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [軌跡](https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt) | 3:49 | 2025-01-14 | 2025-07-16 |
 | [幸せのレシピ](https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [幸せのレシピ](https://open.spotify.com/album/6CPkOcAuD3omh45m8SQHbL) | 3:12 | 2025-01-14 | 2025-12-03 |
-| [幻界](https://open.spotify.com/track/3UELWrwO3UU5nIJxGKGpIB) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [幻界](https://open.spotify.com/album/4MpvzmWjhtncO9oZsYgy52) | 4:09 | 2025-09-09 |  |
+| [幻界](https://open.spotify.com/track/3UELWrwO3UU5nIJxGKGpIB) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [幻界](https://open.spotify.com/album/4MpvzmWjhtncO9oZsYgy52) | 4:09 | 2025-09-09 | 2025-12-21 |
 | [弾きこもり](https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [弾きこもり](https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e) | 2:59 | 2024-08-06 | 2024-12-25 |
 | [後悔史](https://open.spotify.com/track/5XuZZQWCtLglKAAe1Tt1ph) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [後悔史](https://open.spotify.com/album/3Zq1ApCERbdxujr272P2IW) | 4:20 | 2025-05-21 | 2025-09-01 |
 | [徒然 \- Tsurezure](https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [徒然 \- Tsurezure](https://open.spotify.com/album/3CEl2MbwS5i0aulXWQQ8gy) | 2:36 | 2025-10-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > Highlights of 2025 from New Ambient\. Cover: Malibu  🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,448 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,508 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

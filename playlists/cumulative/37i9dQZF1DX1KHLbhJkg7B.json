@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 209586,
       "name": "I'm On Fire - Spotify Singles",
       "url": "https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf"
@@ -4090,7 +4090,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 269525,
       "name": "Just to See You Smile",
       "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
@@ -5082,6 +5082,24 @@
       "duration_ms": 269382,
       "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
       "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
+    },
+    {
+      "album": {
+        "name": "No More Tears (live from the let go letters tour)",
+        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231155,
+      "name": "No More Tears - live from the let go letters tour",
+      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
     },
     {
       "album": {
@@ -8454,6 +8472,24 @@
       "duration_ms": 217659,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw"
+    },
+    {
+      "album": {
+        "name": "Yukon",
+        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B"

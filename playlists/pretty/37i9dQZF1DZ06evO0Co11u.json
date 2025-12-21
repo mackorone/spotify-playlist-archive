@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196225,
+  "num_followers": 196239,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAA1JOA2oJBV/unRXPodpAuH",
+  "snapshot_id": "aUSVgAAAAADaU+R2dX6vDDrhPbHR3AhG",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 298133,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 279733,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 298133,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 179866,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 353266,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/5TNpCThzzXHEipXGKgNG8T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 179866,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "It's Been A Long, Long Time",
-      "url": "https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 342133,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/75LI0OCqjssEzuhEv42jYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "It's Been A Long, Long Time",
+      "url": "https://open.spotify.com/track/14TmAdCnF2aR5OoguGZ2JA"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Her Majesty's Secret Service (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "We Have All The Time In The World - From \u201cOn Her Majesty\u2019s Secret Service\u201d Soundtrack / Remastered 2003",
-      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 214226,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Her Majesty's Secret Service (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "We Have All The Time In The World - From \u201cOn Her Majesty\u2019s Secret Service\u201d Soundtrack / Remastered 2003",
+      "url": "https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
-        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 190293,
-      "name": "I'm In The Mood For Love - Single Version",
-      "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 227493,
       "name": "Can't We Be Friends?",
       "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume 1: Rhythm Saved The World (1935-1936)",
+        "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 190293,
+      "name": "I'm In The Mood For Love - Single Version",
+      "url": "https://open.spotify.com/track/5rsGCb9gGF94iibePU5jMO"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles 1949-1958",
-        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Can Anyone Explain?",
-      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ella and Louis",
         "url": "https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE"
       },
@@ -487,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Can Anyone Explain?",
+      "url": "https://open.spotify.com/track/2bCNsUB6OfZOoWV34eOpZl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volume 1: Rhythm Saved The World (1935-1936)",
         "url": "https://open.spotify.com/album/2ce0x6CSfBLGz5QIOYKlc4"
       },
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Fantastic, That's You",
-      "url": "https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello, Dolly! (Remastered)",
         "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 200066,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Fantastic, That's You",
+      "url": "https://open.spotify.com/track/0SyYvxTKhF3fMxYBz3Zmdm"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louis Under The Stars",
-        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 211306,
       "name": "Hello Brother - Single Version",
       "url": "https://open.spotify.com/track/0bhczlo67Yc6LqMWYqDHyo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louis Under The Stars",
+        "url": "https://open.spotify.com/album/75C4EhW6oQjXpDvbKQwbpM"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/77Aqjy8Kcd5GK1ZORCTNnF"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satch Plays Fats",
-        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 319293,
-      "name": "All That Meat And No Potatoes",
-      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Reunion",
         "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 303173,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/02Z7LG6DNTuVTJiGdvTwDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Satch Plays Fats",
+        "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "All That Meat And No Potatoes",
+      "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
     },
     {
       "added_at": null,

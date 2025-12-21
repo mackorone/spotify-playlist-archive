@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-685 songs - 2 day 9 hr 13 min
+686 songs - 2 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Awudeli Kimi \- Live At The Octagon / 2024](https://open.spotify.com/track/16SHtnLYIh8YXJE6d8BN30) | [Musa Yende](https://open.spotify.com/artist/04lvbGgTkiM8PjDktWQehd) | [Sustained By Grace](https://open.spotify.com/album/5RWsRd2bGY4sjXWC25emKV) | 8:46 | 2025-05-16 | 2025-06-27 |
 | [Ayeyi](https://open.spotify.com/track/75csLQEYcOm3S8HVDL6FX6) | [Queendalyn Yurglee](https://open.spotify.com/artist/7CgCgY6thMKEKWc0h9iEWI) | [Ayeyi](https://open.spotify.com/album/62QjGeTeWvErqJJvQjc8K5) | 9:01 | 2025-07-04 | 2025-07-11 |
 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 | 2024-11-01 | 2025-06-20 |
+| [Ayó \(Joy Song\) \[Worship free flow\]](https://open.spotify.com/track/2vtOulr9QRJxYFbAvUwWDV) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI) | [Ayó \(Joy Song\) \[Worship free flow\]](https://open.spotify.com/album/07MjeRltyrtndCYE345vga) | 7:43 | 2025-11-28 |  |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-09-15 | 2024-03-16 |
 | [BABA](https://open.spotify.com/track/2D8XyKuIJEFxlRxboY3Bab) | [Callie4k](https://open.spotify.com/artist/2j9rROYpEIotEUlh8FescC), [ManLikeStunna](https://open.spotify.com/artist/2vHJNXr3Xe6p0wi2YPSXxL) | [BABA](https://open.spotify.com/album/6jXXw60JwgQJczltb0uMmy) | 2:24 | 2024-06-28 | 2024-08-13 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-05 | 2024-09-03 |
@@ -572,7 +573,7 @@
 | [Tenkou! Why Feel Sorry?](https://open.spotify.com/track/1CpY1MgTJFWzXVpXU19L89) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Souvenirs](https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx) | 4:03 | 2024-02-23 | 2024-03-31 |
 | [Testify](https://open.spotify.com/track/03B6wjiG0kuJlWCv3neYcg) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB) | [Testify](https://open.spotify.com/album/0YnszxnoNksutwA8iVijVt) | 2:34 | 2025-05-30 | 2025-06-27 |
 | [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-15 | 2024-08-21 |
-| [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 | 2025-05-23 |  |
+| [Testimony \- Choral Version](https://open.spotify.com/track/6nhJkF99jatJAKMVdoWxO3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Testimony \(Choral Version\)](https://open.spotify.com/album/5Vk4yGQfPgw5ln90mMEYfR) | 3:53 | 2025-05-23 | 2025-12-21 |
 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-12-15 |
 | [Thank God I Do](https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 4:18 | 2023-09-15 | 2024-03-16 |
 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 | 2025-10-17 |  |

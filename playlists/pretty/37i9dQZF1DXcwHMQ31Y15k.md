@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Gilga Sahid
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,574 likes - 98 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,693 likes - 98 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

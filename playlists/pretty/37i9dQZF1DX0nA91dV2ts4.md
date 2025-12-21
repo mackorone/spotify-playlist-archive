@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Thug Life
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,292 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,375 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

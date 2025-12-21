@@ -4,7 +4,7 @@
 
 > Future & melodic bass 🛸 with Seven Lions
 
-851 songs - 2 day 2 hr 56 min
+852 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,6 +432,7 @@
 | [Knock On Wood](https://open.spotify.com/track/1dqt7PgZm65K8Ctm7nOimH) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Lousy](https://open.spotify.com/artist/2KbWUA7pMd5ZpNdj5LPp3s) | [Knock On Wood](https://open.spotify.com/album/7mhsD3T9IWt5pkP90a1In3) | 3:08 | 2022-07-08 | 2022-08-06 |
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
+| [Last Forever](https://open.spotify.com/track/0pKhAdJmnfvNx0WHxm7EP5) | [Col3man](https://open.spotify.com/artist/2kT0QKVXW2YOnhpqvhy4qv) | [Songs from Scratch](https://open.spotify.com/album/7aH6PIR1zFMUlxIjacTehF) | 3:07 | 2025-12-19 |  |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
 | [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 | 2024-04-27 |
 | [Let Me Out](https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Let Me Out](https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a) | 3:36 | 2024-09-06 | 2025-12-13 |
@@ -789,7 +790,7 @@
 | [Vertigo](https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Stefan PVDS](https://open.spotify.com/artist/3E2x6EOf4JvJp2gnxjYO6j) | [Vertigo](https://open.spotify.com/album/4ioTFZoD68Bv2NZ7Buc1sK) | 4:05 | 2025-12-19 |  |
 | [Villain in the Story](https://open.spotify.com/track/0cGhiFcQVnD5lzi33lfzz6) | [Cloudy Parallels](https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Villain in the Story](https://open.spotify.com/album/6KZBYCRYduvxKQ3fYbXzWq) | 4:04 | 2024-05-24 | 2024-11-17 |
 | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Violet Sky \(feat\. Sarah de Warren\)](https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf) | 3:48 | 2023-06-30 | 2025-08-10 |
-| [vision \(wish u could see\)](https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [vision \(wish u could see\)](https://open.spotify.com/album/3Jw3BAEuYNZwWWDxXduAL5) | 3:59 | 2025-02-16 |  |
+| [vision \(wish u could see\)](https://open.spotify.com/track/6G39I31AmQEHtIINlYWwiN) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [vision \(wish u could see\)](https://open.spotify.com/album/3Jw3BAEuYNZwWWDxXduAL5) | 3:59 | 2025-02-16 | 2025-12-21 |
 | [Voices](https://open.spotify.com/track/3QFK0Yga88uv2gC8Yz3P8j) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Voices](https://open.spotify.com/album/6kNbjMxKLsoplhgfPomGce) | 3:48 | 2024-03-08 |  |
 | [Wait for Fate](https://open.spotify.com/track/7CedP29UcimYIrxEViMPo2) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Awon](https://open.spotify.com/artist/3PHUMTV0xDmeztu4D3fhbz), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Wait for Fate](https://open.spotify.com/album/44pzhFsX019bA88c9GF7YO) | 4:08 | 2025-03-07 | 2025-05-31 |
 | [Waiting](https://open.spotify.com/track/3l5bgBsTb7lx6p72oJ9BWD) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [Waiting / Paradise](https://open.spotify.com/album/24aWSkyPzUBq8RCJ2Kprdf) | 5:01 | 2023-09-15 | 2024-03-23 |

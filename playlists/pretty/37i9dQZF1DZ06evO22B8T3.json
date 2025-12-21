@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1307309,
+  "num_followers": 1307304,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAA0CMxhC2mkwzZnoDQRbzK2",
+  "snapshot_id": "aUSVgAAAAABDfKxV1KwNyH3c+5PRvZQ2",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/7hQwCAdC7EpLTp0hExtywN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NANAENA",
         "url": "https://open.spotify.com/album/1EnBKvyQPu5RAWUbE3e2ju"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 191445,
       "name": "NANAENA",
       "url": "https://open.spotify.com/track/5XX8OtWCYAP4s0zMVp5REJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/7hQwCAdC7EpLTp0hExtywN"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Game",
-        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 191186,
-      "name": "A Veces (feat. Feid)",
-      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERREITO PA LLORAR",
         "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
       },
@@ -543,34 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Llena",
-        "url": "https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i"
+        "name": "Back To The Game",
+        "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
       "artists": [
         {
           "name": "Paulo Londra",
           "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 181315,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
+        },
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 141475,
-      "name": "GLAMPING",
-      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
+      "duration_ms": 191186,
+      "name": "A Veces (feat. Feid)",
+      "url": "https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i"
     },
     {
       "added_at": null,
@@ -607,6 +575,38 @@
       "duration_ms": 319105,
       "name": "A200 - Remix",
       "url": "https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 141475,
+      "name": "GLAMPING",
+      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna Llena",
+        "url": "https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 181315,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ubuntu",
+        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Te Amo (feat. Paulo Londra)",
+      "url": "https://open.spotify.com/track/7AyWQEgFHVM5EVQqggX78M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To The Game",
         "url": "https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 169162,
       "name": "Posdata:",
       "url": "https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ubuntu",
-        "url": "https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Te Amo (feat. Paulo Londra)",
-      "url": "https://open.spotify.com/track/7AyWQEgFHVM5EVQqggX78M"
     },
     {
       "added_at": null,

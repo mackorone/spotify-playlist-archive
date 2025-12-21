@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 58 min
+94 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Callao](https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Callao](https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L) | 2:58 | 2023-11-10 | 2025-06-07 |
 | [Calor y Frío](https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3) | [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Calor y Frío](https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2) | 3:35 | 2023-11-10 | 2024-10-13 |
 | [Caricatura](https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Caricatura](https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb) | 3:21 | 2025-10-23 |  |
-| [Carita de Santa](https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Carita de Santa](https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN) | 2:21 | 2023-11-10 |  |
+| [Carita de Santa](https://open.spotify.com/track/4eYKV4x82gEFKkZy6leFIB) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Carita de Santa](https://open.spotify.com/album/6mm90NxozSRb53D9Pmw9QN) | 2:21 | 2023-11-10 | 2025-12-21 |
 | [Chamaquito](https://open.spotify.com/track/6uARD0mOA6zjXexD11Mpgs) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Chamaquito](https://open.spotify.com/album/05xOvNfOYaYAtXNfHafE73) | 3:52 | 2025-03-22 | 2025-06-17 |
 | [Cholo en un Low](https://open.spotify.com/track/4Orw6MjT2VFgwGH9YI9ATY) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:20 | 2023-11-10 |  |
 | [Creo En Mi](https://open.spotify.com/track/6n6sZz85ncrEiOaNNrjs4c) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Creo En Mi](https://open.spotify.com/album/0hgY2SAqUIOT10A3q9Qxj9) | 3:08 | 2023-12-16 | 2024-03-08 |
@@ -96,6 +96,7 @@
 | [Una Leyenda Nunca Muere](https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Una Leyenda Nunca Muere](https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg) | 2:46 | 2023-11-10 | 2024-06-22 |
 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 | 2023-11-10 | 2025-01-28 |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-11-10 |  |
+| [Ya No Volverás](https://open.spotify.com/track/0ZS647xp15OrbHcM74HLEN) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Ya No Volverás](https://open.spotify.com/album/4YIYvNvaFSTT4XlxvEFGnQ) | 3:50 | 2025-12-21 |  |
 | [Yo No Fui](https://open.spotify.com/track/0e50i7uScPMfqZWBfYE3Vs) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Yo No Fui](https://open.spotify.com/album/3a9L76jK0d4jVlEooWCbuU) | 3:12 | 2024-08-11 | 2024-09-08 |
 | [Yo Soy Así](https://open.spotify.com/track/5iXaMajfZihMt5NhDVmGiw) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j) | [Yo Soy Así](https://open.spotify.com/album/60ghnmW09KFOQTTzLDRjdP) | 3:44 | 2024-04-20 | 2024-08-23 |
 | [¿Qué Hay Que Hacer?](https://open.spotify.com/track/2tiXLneyqVcxCKqvu68ttD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [¿Qué Hay Que Hacer?](https://open.spotify.com/album/79tcHrJgNxrDK0io6YfZ76) | 2:35 | 2023-11-10 | 2024-03-18 |

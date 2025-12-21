@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 
 > This is Ivan Cornejo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,963 likes - 33 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,038 likes - 33 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42sQCY.md) - [plain]
 | 32 | [Corazón Frio](https://open.spotify.com/track/3a0EjZTzCLx1ztmtaZb9Cp) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:43 |
 | 33 | [Soy el Mejor \- Deluxe](https://open.spotify.com/track/3KolJYFk80M5gl5TWYoEd1) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Off the Juice \(Deluxe\)](https://open.spotify.com/album/1KaaqC2PnSygiw7cKz72mK) | 3:06 |
 
-Snapshot ID: `aUNEAAAAAAC/vRjGL/nsHaZ9+XwD/4ir`
+Snapshot ID: `aUSVgAAAAAAhZApjza3105QDfYgScSyf`

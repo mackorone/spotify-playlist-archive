@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,840 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,841 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 23 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 |
 | 24 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
 | 25 | [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 |
-| 26 | [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 |
+| 26 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
 | 27 | [She Needs Lovin' Too](https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Time Jumper](https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25) | 3:06 |
-| 28 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
+| 28 | [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 |
 | 29 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 30 | [Dear Maria](https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [May](https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6) | 3:13 |
 | 31 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
 | 32 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 |
-| 33 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
+| 33 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 |
 | 34 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
-| 35 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
-| 36 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 |
+| 35 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
+| 36 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
 | 37 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |
 | 38 | [Scary Movie](https://open.spotify.com/track/3Z3icAo1sqdhqHQIVEDIJ0) | [Jennifer Ewbank](https://open.spotify.com/artist/4u4FMpLyYiyJzP3AULKdO8) | [Scary Movie](https://open.spotify.com/album/4HAbJtpr5QJobYQoveKLvd) | 3:03 |
 | 39 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 47 | [Mighty Fine](https://open.spotify.com/track/7mQ1GhZ30ytGO2902sj3GU) | [Minko](https://open.spotify.com/artist/5rKmNZs0FFUjd9yCfwjV50) | [MINKO](https://open.spotify.com/album/0uibIGsdawV51MmrL5oOYY) | 3:12 |
 | 48 | [In The Middle Of It](https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [In The Middle Of It](https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE) | 4:00 |
 | 49 | [Rolling on a Dime](https://open.spotify.com/track/6PomA1h11dVqihNpfNigIE) | [Quinty's](https://open.spotify.com/artist/1JoY6O6ym40XfR6ClxIJJl) | [Rolling on a Dime](https://open.spotify.com/album/19kvlZcYGKC7AieVWT6HtI) | 3:07 |
-| 50 | [Wanderings](https://open.spotify.com/track/1yXyhyBswAdt1JHqGgzXa2) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/28DGp5jcVGfb33fUl8ou2L) | 3:33 |
+| 50 | [Hold Your Fire](https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Hold Your Fire](https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY) | 3:16 |
 
 Snapshot ID: `AAAAAIGdA89Sv5c1SOKedyQ7Z1i9nYiU`

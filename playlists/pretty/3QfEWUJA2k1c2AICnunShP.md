@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 31,505 likes - 150 songs - 8 hr 4 min
+[Filtr Germany](https://open.spotify.com/user/playlists.germany) - 31,518 likes - 151 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,5 +158,6 @@ pretty - [cumulative](/playlists/cumulative/3QfEWUJA2k1c2AICnunShP.md) - [plain]
 | 148 | [Nessun Dorma](https://open.spotify.com/track/6NsZucPvDbyARfXLgTpY9u) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 2:57 |
 | 149 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 |
 | 150 | [Seuls](https://open.spotify.com/track/6bmSDTpDpOdl9kLA3p6S1n) | [Thomas Horeczko](https://open.spotify.com/artist/45hfjgJ2kOKtAhKIHLpTZX), [Stéphane Horeczko](https://open.spotify.com/artist/1t3wHfR1IXybR0wztmjkyG), [Braths](https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd) | [Seuls](https://open.spotify.com/album/0NOAGelOYr8fjnjZ1nCw1K) | 2:48 |
+| 151 | [Ellie's Lullaby](https://open.spotify.com/track/3SsQQsmGOlggT2suZeMTKD) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Ellie's Lullaby](https://open.spotify.com/album/62Gw4EmDhf4wrX2rOyeEmm) | 2:05 |
 
-Snapshot ID: `AAACGqltvwFkJ91eUZIfX07nHKGLI92u`
+Snapshot ID: `AAACGyOr6kZHQtFwccQScGU9bPcR5mZl`

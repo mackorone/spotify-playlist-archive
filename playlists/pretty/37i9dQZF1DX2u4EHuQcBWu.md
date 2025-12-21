@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Recorriendo nuestra tierra a través de su acervo musical\. Omara Portuondo e Ibrahim Ferrer en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,962 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,954 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

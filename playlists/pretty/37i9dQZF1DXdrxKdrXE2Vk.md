@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Melissa Helser of Cageless Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,966 likes - 70 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,962 likes - 70 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 69 | [You Came \(Lazarus\) \- Live](https://open.spotify.com/track/2yhTgPuKglbiDrAWZJj0mi) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Olivia Parker](https://open.spotify.com/artist/1pz9COAroxf4sIonu7T1XV) | [You Came \(Lazarus\) \[Live\]](https://open.spotify.com/album/1RmXKqaj24Nznnu6IRhSdk) | 5:06 |
 | 70 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 |
 
-Snapshot ID: `AAAAAFB6h3SRt3yIuQSnzK7Al46MJWI/`
+Snapshot ID: `AAAAANpW5uRAR0mH5UIB9E/UxY/xGHQo`

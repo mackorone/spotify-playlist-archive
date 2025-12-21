@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-92 songs - 5 hr 9 min
+93 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Cold](https://open.spotify.com/track/3MJ1nEyVm5Piuo6oQX7TwZ) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Cold](https://open.spotify.com/album/1EwXopMzkWSHj3mfJaT77t) | 2:21 | 2025-11-02 |  |
 | [CRASHOUT](https://open.spotify.com/track/7EPzWnfd7oVBlsQHZQrPsR) | [SALLIE](https://open.spotify.com/artist/11nm1LNMhlPFZyljj3IGrC) | [ASK ME IF I'M OKAY](https://open.spotify.com/album/2UNzkfXa2aUPYjE6jsu3cb) | 3:16 | 2025-11-14 |  |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-07 |  |
+| [Dans](https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8) | [Dapper Muis](https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET) | [Dans](https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b) | 3:56 | 2025-12-20 |  |
 | [Days, Years & Months](https://open.spotify.com/track/45nZXh0QNDfot6DifudLZe) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Days, Years & Months](https://open.spotify.com/album/1U63ykUIU3haPpDKQtNvZB) | 5:19 | 2025-10-27 | 2025-12-02 |
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 |  |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |

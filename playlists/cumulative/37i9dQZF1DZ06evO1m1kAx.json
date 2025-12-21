@@ -642,9 +642,35 @@
           "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
         }
       ],
-      "date_added": "2025-11-28",
+      "date_added": "2025-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/6uZFP7GNxTuyoUXBnQ1zXr"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "The Kabal",
+          "url": "https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2025-12-21",
       "duration_ms": 193939,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1"

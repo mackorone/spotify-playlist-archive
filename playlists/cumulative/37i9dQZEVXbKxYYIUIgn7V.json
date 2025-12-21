@@ -15415,6 +15415,32 @@
     },
     {
       "album": {
+        "name": "Fendi 2",
+        "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
+      },
+      "artists": [
+        {
+          "name": "Rakhim",
+          "url": "https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0"
+        },
+        {
+          "name": "Khim",
+          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
+        },
+        {
+          "name": "ayv1o",
+          "url": "https://open.spotify.com/artist/2CeSBZrsPySr5XwmdoiGzv"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90526,
+      "name": "Fendi 2",
+      "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
+    },
+    {
+      "album": {
         "name": "ANOTHER DIMENSION",
         "url": "https://open.spotify.com/album/0qLJC6nODiFrkmjU00g3qO"
       },
@@ -18426,7 +18452,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 140348,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
@@ -20786,7 +20812,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 143000,
       "name": "Heut Bums Ich Ne Fette",
       "url": "https://open.spotify.com/track/414MCuA7ny3xYm5KGiTcWv"
@@ -22434,7 +22460,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 228840,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
@@ -23826,7 +23852,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 182531,
       "name": "Intimschmuck - Remix",
       "url": "https://open.spotify.com/track/5zQDNTPbhYPAsaWyonXosl"
@@ -28556,7 +28582,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -28952,6 +28978,28 @@
       "duration_ms": 170624,
       "name": "Lumi Une",
       "url": "https://open.spotify.com/track/7GYvfyzpwBIUejDlXQ5XGh"
+    },
+    {
+      "album": {
+        "name": "Clair Obscur: Expedition 33 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc"
+      },
+      "artists": [
+        {
+          "name": "Lorien Testard",
+          "url": "https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8"
+        },
+        {
+          "name": "Alice Duport-Percier",
+          "url": "https://open.spotify.com/artist/738VbZ4yn3Kg6aR1m2GXtF"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/1A1XuDIYZxSKrQ6mzkWwAT"
     },
     {
       "album": {
@@ -45822,7 +45870,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 212516,
       "name": "The Upside Down",
       "url": "https://open.spotify.com/track/0Ruke6176pqWxtKyktLUOb"
@@ -46160,7 +46208,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -46178,7 +46226,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"

@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 465567,
+  "num_followers": 465629,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAAmaHNf9gFVMovuEI+LFv6c",
+  "snapshot_id": "aUSVgAAAAABrfWfXo5kpCA/CMZgKSNM5",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Ultima Bohemia (En Vivo)",
+        "url": "https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 167520,
+      "name": "Linda Guerita",
+      "url": "https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Valentin Elizalde En Vivo",
         "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 144613,
-      "name": "Se\u00f1ora Equivocada",
-      "url": "https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regresan Los Mafiosos",
         "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Ultima Bohemia (En Vivo)",
-        "url": "https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y"
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 167520,
-      "name": "Linda Guerita",
-      "url": "https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS"
+      "duration_ms": 144613,
+      "name": "Se\u00f1ora Equivocada",
+      "url": "https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi"
     },
     {
       "added_at": null,

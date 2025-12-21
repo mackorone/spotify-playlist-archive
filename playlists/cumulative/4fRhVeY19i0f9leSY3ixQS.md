@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-415 songs - 23 hr 56 min
+419 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-11-24 |  |
 | [Blurred Lines](https://open.spotify.com/track/7sXfJTOznJbICGUsKeMnjs) | [Red40](https://open.spotify.com/artist/2Etd7doNa5DY3N2TBNuqFV) | [Blurred Lines](https://open.spotify.com/album/0q8HHYUschGNtFK7iOTbMZ) | 3:05 | 2025-12-11 |  |
 | [Bodybag](https://open.spotify.com/track/2HMpllgIo6pZGmTa4zxPtb) | [GAMBO HEMP](https://open.spotify.com/artist/5AylFyo3mXfThbd1n6UCIn), [Scum](https://open.spotify.com/artist/39DyOAXVMHpdDSyY0WnoZ9) | [Bodybag](https://open.spotify.com/album/5D8HVIDQalzqh6LYJFhKyU) | 2:45 | 2025-10-31 | 2025-12-10 |
+| [bonfire](https://open.spotify.com/track/7oQwm1ERAfL70tdntWaGTJ) | [rudeboy26](https://open.spotify.com/artist/1GHpYU4f147Y0yh2IGoOIp) | [bonfire](https://open.spotify.com/album/641nDQqseu12E0yRj1p68q) | 3:48 | 2025-12-20 |  |
 | [Bonus track](https://open.spotify.com/track/3VaxAOlebOyD0eoA2Gh1D1) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Bonus track](https://open.spotify.com/album/1vmZK9GQbvZKGCy8EKcoQk) | 1:03 | 2025-08-03 |  |
 | [Borderline Hitchhike](https://open.spotify.com/track/4o94aMGa2mAsIbKhXpBn9n) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 4:25 | 2025-09-16 |  |
 | [Born in the wrong time](https://open.spotify.com/track/4ACGqdpZ2mVlyYyinGaNfC) | [Herr Vorragend](https://open.spotify.com/artist/4Vykok0WCLucn90FdKHfkR) | [Born in the wrong time](https://open.spotify.com/album/5VMPdJyEL2vuEt5k8JgdTT) | 4:40 | 2025-11-29 |  |
@@ -214,6 +215,7 @@
 | [Lovely Head](https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 3:49 | 2025-08-03 |  |
 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 | 2025-12-16 |  |
 | [Make Those Eyes](https://open.spotify.com/track/4j9vc99u7Oza7DGXbE8goh) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 3:01 | 2025-08-03 |  |
+| [Malibu](https://open.spotify.com/track/2ffAtS4ttCEL4cK4TL4lET) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Malibu](https://open.spotify.com/album/2uCSDnxXMqfED6Kb5qUTFZ) | 2:20 | 2025-12-20 |  |
 | [March of the Needle](https://open.spotify.com/track/5808lWNwH0Shnbr5anwiCF) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [March of the Needle](https://open.spotify.com/album/5vJibShFSLAUzJ42DK1MQX) | 3:10 | 2025-11-03 | 2025-12-10 |
 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 | 2025-12-11 |  |
 | [Mayday!](https://open.spotify.com/track/1i4xOypQPdbxUTdFSui0Ti) | [The Pressed Pills](https://open.spotify.com/artist/3ynCo9KEvzlnxYh4FY1E94), [Kodin Hill](https://open.spotify.com/artist/43EOS6YmKjvyFdB0Sxi7Wb) | [Mayday!](https://open.spotify.com/album/0VYJ5HbvA7zCvPQKxVHyIa) | 2:00 | 2025-12-19 |  |
@@ -227,6 +229,7 @@
 | [Mosh Pit](https://open.spotify.com/track/4Altxk4i8D6xIdkuySj5UO) | [Angelo](https://open.spotify.com/artist/1jBGWZRphBTMVcPLjxEuzC) | [Hellhound](https://open.spotify.com/album/0thfiUsL5V6uRLFA9bIOMj) | 2:14 | 2025-11-16 | 2025-12-10 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-15 | 2025-12-10 |
 | [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 | 2025-12-03 |  |
+| [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 | 2025-12-20 |  |
 | [My Endless Journey](https://open.spotify.com/track/39USGgtJdnzQQvIBeNSp4c) | [The Antarctica Project](https://open.spotify.com/artist/4DDrHTmwLmDFgv8CoobPjr) | [My Endless Journey](https://open.spotify.com/album/7DotwfknL0UFLufl9HQg9T) | 4:26 | 2025-12-08 |  |
 | [My Love's on Fire](https://open.spotify.com/track/6vMWFWIgBAlPQeagClw0Ss) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 3:00 | 2025-11-29 |  |
 | [MY SONG](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [MY SONG](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 | 2025-12-17 |  |
@@ -247,6 +250,7 @@
 | [Nothing To Say](https://open.spotify.com/track/31koy7libiolbDXN0ZQozQ) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:44 | 2025-08-03 |  |
 | [notwhatiexpected](https://open.spotify.com/track/2tGn18N8m9HsjUoGaFnMtk) | [SUNPRAYER](https://open.spotify.com/artist/2VjHiKZv3FNnnVCXL97e4s), [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [depresso espresso](https://open.spotify.com/album/27g0aGZYUMPb6H7kLM2a7x) | 2:55 | 2025-11-16 | 2025-12-10 |
 | [Novocaine](https://open.spotify.com/track/3aAsG5hK6ip6Kh2q5Z4ikT) | [Stereogarcia](https://open.spotify.com/artist/3QaSLsSItR9AYbjYA8ZQNt) | [The Broken Homeland Sons](https://open.spotify.com/album/5Qpq8vcWkqmAGBt5CPfinY) | 4:24 | 2025-12-12 |  |
+| [Ocean Blue](https://open.spotify.com/track/7AvxrXZVora0RLzC4YgVFK) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 3:01 | 2025-12-20 |  |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-10 |  |
 | [On The Run](https://open.spotify.com/track/182G73eUtTppSaqS7X9Tv2) | [XXX Smut](https://open.spotify.com/artist/1eusvoPqnUbdL0nNgQ4hgv), [Todd Hogan](https://open.spotify.com/artist/11t6B3gdxHdRCS6kUHH7Mf) | [Fuck Milk Got Beer](https://open.spotify.com/album/4w00V58UjpWPN7WtByA5Ea) | 2:23 | 2025-11-29 |  |
 | [On Your Left](https://open.spotify.com/track/6Q6yfXDK0zeODwrQzotkPm) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:22 | 2025-08-03 |  |

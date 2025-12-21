@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p?si=qSgYDzOCSyqt8\_\-ZdbhLCQ>Dumi Mkokstad</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,644 likes - 100 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,731 likes - 100 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 |
 | 100 | [Qhubeka Njalo](https://open.spotify.com/track/4IgBm1I3KqsumRjbHWBlLI) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Qhubeka Njalo](https://open.spotify.com/album/1MQ1niU1Fca4c7sekou43z) | 6:33 |
 
-Snapshot ID: `AAAAAGAFZ8sCJaQ0/Ggizx/OmphGuRUl`
+Snapshot ID: `AAAAAN1S7uYml8RnEdaxM7zdAoqwJxwR`

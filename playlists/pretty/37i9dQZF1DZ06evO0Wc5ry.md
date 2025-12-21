@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,013 likes - 48 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,029 likes - 48 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 47 | [Throw Your Hands Up \(feat\. Outkast\)](https://open.spotify.com/track/7LTyTsaXmJ7A1YtNo24XhN) | [8Ball](https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda), [MJG](https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [We Are The South \(Greatest Hits\)](https://open.spotify.com/album/50TNviDm3rDP4409wtFwDQ) | 5:25 |
 | 48 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `aUNEAAAAAAAbRE9avm/7saAHKanzDr0q`
+Snapshot ID: `aUSVgAAAAAD6fEScQTO4+eZ+/jI0VwfM`

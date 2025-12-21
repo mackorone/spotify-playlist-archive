@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-201 songs - 14 hr 48 min
+202 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Smooth Lines](https://open.spotify.com/track/37wOzVfpUxcs7yf2OdxE1R) | [Irvine](https://open.spotify.com/artist/3AXCBCm78dD72ONT759Msq) | [Smooth Lines](https://open.spotify.com/album/46cSsCZNSPKDCuDXtLvGZJ) | 2:42 | 2024-07-22 | 2025-11-11 |
 | [So Beautiful](https://open.spotify.com/track/4ffJ3kxKr4XP5pjfFm6uZR) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Ride](https://open.spotify.com/album/5x5eUg69ezurxlTfSriyjv) | 4:21 | 2022-05-06 | 2023-02-08 |
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2022-05-06 | 2022-08-11 |
-| [Southend Sunset](https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1) | [Afterglow Society](https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g) | [Southend Sunset](https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap) | 4:21 | 2025-12-02 |  |
+| [Southend Sunset](https://open.spotify.com/track/25FsBrIzkGn3lRPQRKyWa1) | [Afterglow Society](https://open.spotify.com/artist/5NgMXPrQAug1kltFTG9c8g) | [Southend Sunset](https://open.spotify.com/album/3kXRiCDIHhTcyi4f28qrap) | 4:21 | 2025-12-02 | 2025-12-21 |
 | [Squeeze Me](https://open.spotify.com/track/01XCanusQyKKtuhfMq5c0C) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 6:54 | 2022-06-28 | 2023-10-22 |
 | [Squeeze Me](https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 6:54 | 2022-05-06 |  |
 | [Stay](https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x) | [Club 1600](https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn), [David Mann](https://open.spotify.com/artist/2UTzELEmZE65dDKRmzj7S6) | [Club 1600](https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z) | 4:43 | 2022-05-06 |  |
@@ -196,6 +196,7 @@
 | [Vinyl](https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Euge Groove](https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG) | 4:29 | 2022-08-16 |  |
 | [West Coast Coolin'](https://open.spotify.com/track/07pe7c2ytCutxLyykBo1AX) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [West Coast Coolin'](https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx) | 4:30 | 2022-05-06 |  |
 | [What Cha Gonna Do?](https://open.spotify.com/track/2RMl0c68DWw6zamWB6R1Ce) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:00 | 2022-05-06 | 2022-10-05 |
+| [What’s The Score?](https://open.spotify.com/track/2Be8e1STQgWtsbYcETqT3L) | [Charles Rudy](https://open.spotify.com/artist/03WvbMNTjKoYCNPF72qCaE) | [What’s The Score?](https://open.spotify.com/album/0popt4iTWZquTjXmVHUc6H) | 4:24 | 2025-12-02 |  |
 | [When You Love Somebody](https://open.spotify.com/track/18kK4W1IU9j5cyu3ZtpQKr) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Smooth Jazz n Chill 2](https://open.spotify.com/album/4uKTQFjPwEC454ED2p0KDY) | 4:24 | 2022-11-08 | 2022-11-13 |
 | [When You Love Somebody](https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR) | 4:24 | 2022-06-28 | 2024-02-24 |
 | [When You Love Somebody](https://open.spotify.com/track/7AeS3Lkmps2klORaU65IMq) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Influences](https://open.spotify.com/album/7pJZjU3feX0JRmJsyNMUKk) | 4:24 | 2022-05-06 |  |

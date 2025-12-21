@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tayna, Ninho, Kiddo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,507 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,508 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 18 | [WEEKEND](https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [WEEKEND](https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT) | 2:22 |
 | 19 | [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 |
 | 20 | [Rivers](https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Amél](https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG) | [Rivers](https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8) | 3:22 |
-| 21 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 |
+| 21 | [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 |
 | 22 | [Igotthisfeeling](https://open.spotify.com/track/4NsxdiQTYkcWdBb7N8A5m2) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Igotthisfeeling](https://open.spotify.com/album/5rtjiwTezMkrXEPV702Xrk) | 2:35 |
 | 23 | [La Manigance](https://open.spotify.com/track/3783yZ3NyvQDHEJdLLdaZm) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg), [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe), [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [DJ SEBB](https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF), [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO), [YSN](https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q), [Da Nillo](https://open.spotify.com/artist/7cAfI5o7zAEoaPx8zbllik), [Vanou](https://open.spotify.com/artist/5bRjVnu5q4ySUkVYifxtGE), [Kikitox](https://open.spotify.com/artist/2b3zdcBZyzcAfnsKvsKbRu) | [La Manigance](https://open.spotify.com/album/3198qbbSk4NiSrT5e6aNog) | 2:30 |
 | 24 | [Roommates](https://open.spotify.com/track/48tRJaSTyD9JJ1qcybPZiq) | [Tobias Jensen](https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK), [Tobias Carshey](https://open.spotify.com/artist/1fmlzagVqokRcqqNrdueqo) | [Roommates](https://open.spotify.com/album/5Fl6WfcI7nBW7XPnUcEiLk) | 2:31 |

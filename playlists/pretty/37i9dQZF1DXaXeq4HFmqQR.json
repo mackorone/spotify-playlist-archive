@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Rosario Alfonso en portada. ",
-  "num_followers": 14861,
+  "num_followers": 14862,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
+        "name": "Canci\u00f3n por Palestina",
+        "url": "https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Cornejo",
+          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Canci\u00f3n por Palestina",
+      "url": "https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj"
+    },
+    {
+      "added_at": "2025-11-05 20:09:30",
+      "album": {
         "name": "Lo Que So\u00f1amos Vivir",
         "url": "https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 210480,
       "name": "Lo Que So\u00f1amos Vivir",
       "url": "https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF"
-    },
-    {
-      "added_at": "2025-11-05 20:09:30",
-      "album": {
-        "name": "Canci\u00f3n por Palestina",
-        "url": "https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Cornejo",
-          "url": "https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Canci\u00f3n por Palestina",
-      "url": "https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -519,18 +519,26 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Trafun",
-        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
+        "name": "Kumbita",
+        "url": "https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d"
       },
       "artists": [
         {
-          "name": "Daniela Millaleo",
-          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
         }
       ],
-      "duration_ms": 239960,
-      "name": "Me Fu\u00ed a Caminar",
-      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
+      "duration_ms": 278222,
+      "name": "Un a\u00f1o m\u00e1s - Bolero",
+      "url": "https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -555,26 +563,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Kumbita",
-        "url": "https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d"
+        "name": "Trafun",
+        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+          "name": "Daniela Millaleo",
+          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
         }
       ],
-      "duration_ms": 278222,
-      "name": "Un a\u00f1o m\u00e1s - Bolero",
-      "url": "https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw"
+      "duration_ms": 239960,
+      "name": "Me Fu\u00ed a Caminar",
+      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -679,6 +679,26 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
+        "name": "Chao (Remix Reversiones)",
+        "url": "https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ment\u00ed - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/65Er3QDAJ1rfoZUShScTPB"
+    },
+    {
+      "added_at": "2025-11-05 20:09:30",
+      "album": {
         "name": "Una Vez",
         "url": "https://open.spotify.com/album/1BjF19Mu1Lr4RguO7aWcja"
       },
@@ -699,22 +719,6 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Ermitar",
-        "url": "https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy"
-      },
-      "artists": [
-        {
-          "name": "Martina Montaldo",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
-        }
-      ],
-      "duration_ms": 208582,
-      "name": "\u00bfQu\u00e9 vas a hacer?",
-      "url": "https://open.spotify.com/track/4Xyk3CoKnQAshCBUDZAeSZ"
-    },
-    {
-      "added_at": "2025-11-05 20:09:30",
-      "album": {
         "name": "La Piel \u2652\ufe0e",
         "url": "https://open.spotify.com/album/7sOxbDZ5i4pQ2VtrGhWyLY"
       },
@@ -731,22 +735,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Chao (Remix Reversiones)",
-        "url": "https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW"
+        "name": "Ermitar",
+        "url": "https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy"
       },
       "artists": [
         {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
+          "name": "Martina Montaldo",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ment\u00ed - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/65Er3QDAJ1rfoZUShScTPB"
+      "duration_ms": 208582,
+      "name": "\u00bfQu\u00e9 vas a hacer?",
+      "url": "https://open.spotify.com/track/4Xyk3CoKnQAshCBUDZAeSZ"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Las palabras que no sientes",
-        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
+        "name": "Ermitar",
+        "url": "https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy"
       },
       "artists": [
         {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+          "name": "Martina Montaldo",
+          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
         }
       ],
-      "duration_ms": 148339,
-      "name": "Las palabras que no sientes",
-      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
+      "duration_ms": 315092,
+      "name": "Suave Brisa",
+      "url": "https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Ermitar",
-        "url": "https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy"
+        "name": "Las palabras que no sientes",
+        "url": "https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR"
       },
       "artists": [
         {
-          "name": "Martina Montaldo",
-          "url": "https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo"
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
         }
       ],
-      "duration_ms": 315092,
-      "name": "Suave Brisa",
-      "url": "https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb"
+      "duration_ms": 148339,
+      "name": "Las palabras que no sientes",
+      "url": "https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW"
     },
     {
       "added_at": "2025-11-05 20:09:30",

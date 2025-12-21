@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-174 songs - 9 hr 8 min
+175 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 | 2022-05-25 |  |
 | [Stop Making It Worse](https://open.spotify.com/track/5XJiYEHHCfbghn4Ddbgij3) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [It's Nothing](https://open.spotify.com/album/26IXcJnpviztnonKfhaXkF) | 3:51 | 2024-09-29 |  |
 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 | 2022-05-25 |  |
+| [Swimming In The Sky](https://open.spotify.com/track/3xZyOAfKRK2LTPgrZY8U76) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Swimming In The Sky](https://open.spotify.com/album/6t6EpphDwNwRTLpDMT22t5) | 3:48 | 2025-12-20 |  |
 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 | 2022-05-25 |  |
 | [Switching Gears](https://open.spotify.com/track/4gIGodi4ksOcavBosvDHRr) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/7BIbiX7wrPRaXuJ2RZ37kK) | 3:02 | 2022-05-25 | 2025-10-27 |
 | [Switching Gears](https://open.spotify.com/track/66CJDRoZn4xejDsFJ308lu) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [This Is Wulf](https://open.spotify.com/album/4VRC31rQtZ9tISJFRSGbTR) | 3:02 | 2025-10-26 |  |

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 19 Dec 19:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 20 Dec 19:04 UTC.
 
-5,955 songs - 13 day 19 hr 9 min
+5,957 songs - 13 day 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [believe the hype](https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [believe the hype](https://open.spotify.com/album/5sZDwRqDaOOdplyfSc2w3I) | 3:35 | 2024-07-16 | 2024-07-18 |
 | [Believe What You Want](https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Believe What You Want](https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe) | 4:38 | 2024-09-30 | 2024-10-03 |
 | [BELLO DI NOTTE II](https://open.spotify.com/track/6BG0BVeQ30GjRcxifZc1Bb) | [TUZZA Globale](https://open.spotify.com/artist/5mufBhOA5JhyLcRr3bPYpA), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [BENITO](https://open.spotify.com/artist/6aWXxZlSCw9FVzVgIMT9i8), [Ricci Tuzza](https://open.spotify.com/artist/6N1ErmztHVJLWxXuTSGU9A), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb), [OSXAR](https://open.spotify.com/artist/7tEp376jDL51R9H8XQnvU3) | [BELLO DI NOTTE II](https://open.spotify.com/album/6Rj9gbVn9S5L0QBMDPomtL) | 2:09 | 2024-05-23 | 2024-05-25 |
+| [Belly](https://open.spotify.com/track/6prrhdvdU1k4nxFPHS8uD4) | [2slimey](https://open.spotify.com/artist/0ZXbQLu4a7sk3iQ8tlgFy4) | [Belly](https://open.spotify.com/album/5dx1uTRJ2JjKg38ept2O3q) | 1:26 | 2025-12-20 |  |
 | [Beloved](https://open.spotify.com/track/6lP2zZR4IIzH8uMlwDXxrA) | [Alon Mor](https://open.spotify.com/artist/6OLvF6GmX0tMBJJDoeM9Hh) | [Beloved](https://open.spotify.com/album/6tJKwTfmnYwpzwyhsKTAPx) | 4:36 | 2024-06-11 | 2024-06-13 |
 | [BEN DROWNED](https://open.spotify.com/track/5kLY7wPvQc7U2jTZxOA2ge) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [BEN DROWNED](https://open.spotify.com/album/0VenAYlr00TrCHNQHI4GMd) | 2:18 | 2024-08-01 | 2024-08-03 |
 | [Ben Senin Delinim](https://open.spotify.com/track/055YVbBBnytDpM9K1ruqwx) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Ben Senin Delinim](https://open.spotify.com/album/12DkfRVFqWkzAcQIci2HyF) | 3:43 | 2024-06-10 | 2024-06-12 |
@@ -2259,7 +2260,7 @@
 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-01 | 2024-08-03 |
 | [Heaven](https://open.spotify.com/track/5JcTFymotnR2xQUe4nZuQn) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [First December with You](https://open.spotify.com/album/0D6qtfGRCa4IrVhmXDG4WP) | 2:35 | 2024-12-03 | 2024-12-06 |
 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 | 2024-11-08 | 2024-11-13 |
-| [Heaven Has No Wings](https://open.spotify.com/track/3hhotiMXyPZRyTGmJ5X403) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Heaven Has No Wings](https://open.spotify.com/album/0uxbyR5DZkpOTSHqgq6p7C) | 2:50 | 2025-12-11 |  |
+| [Heaven Has No Wings](https://open.spotify.com/track/3hhotiMXyPZRyTGmJ5X403) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Heaven Has No Wings](https://open.spotify.com/album/0uxbyR5DZkpOTSHqgq6p7C) | 2:50 | 2025-12-11 | 2025-12-21 |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-21 | 2024-08-24 |
 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-08 | 2024-11-14 |
 | [Heaven In Your Arms](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Heaven In Your Arms](https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n) | 4:08 | 2024-11-11 | 2024-11-26 |
@@ -2421,6 +2422,7 @@
 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 | 2025-07-28 | 2025-08-09 |
 | [HUH!](https://open.spotify.com/track/3kklyXNq4A3xgKFFW4SYPs) | [detahjae](https://open.spotify.com/artist/7hx5UNqYxEh0RnyWRExG7g) | [HUH!](https://open.spotify.com/album/6ckJARXNXUyT2uUXMuByYL) | 2:33 | 2025-03-11 | 2025-03-22 |
 | [Hum From The Hollow](https://open.spotify.com/track/2WiLtGRWHw2badAuJIJDkb) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Hum From The Hollow](https://open.spotify.com/album/3SUGVh17YHtmDYswbcCmkY) | 3:51 | 2025-07-12 | 2025-07-19 |
+| [Human](https://open.spotify.com/track/0UVwVTPmwbNW0PzFZraOzl) | [FLAVOR FOLEY](https://open.spotify.com/artist/2f5AcZbndYPEd7W5EfsZjY) | [Human](https://open.spotify.com/album/7Aejml867PuvnFptHpgBUj) | 4:27 | 2025-12-20 |  |
 | [Human Disdain](https://open.spotify.com/track/4d8ntpM9o8y9QTiYQ73osG) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Human Disdain](https://open.spotify.com/album/1gD6vlx23EQLoMJCLERpqi) | 2:58 | 2024-05-01 | 2024-05-04 |
 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 | 2025-10-17 | 2025-10-29 |
 | [Humble](https://open.spotify.com/track/2bGbWQwWJ6EjLUas1tCWTK) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Humble](https://open.spotify.com/album/3Joy3iFF57gPJkonUmWPg4) | 3:55 | 2024-08-02 | 2024-08-07 |
@@ -4245,7 +4247,7 @@
 | [Riley \- FAAAHHH Remix](https://open.spotify.com/track/41JieZnmKWocQgwJjuJujh) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Riley \(FAAAHHH Remix\)](https://open.spotify.com/album/72bYVsRhWzg37zjmX3F2Q7) | 3:24 | 2025-10-16 | 2025-10-25 |
 | [Ring of Chaos](https://open.spotify.com/track/6QnZf9uIUEqxohWHTPlPi7) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [<Ring of Chaos>](https://open.spotify.com/album/3DMdQcyOIyqFEeyHnNw2cT) | 2:42 | 2025-10-25 | 2025-11-01 |
 | [Ring Ring](https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Ring Ring](https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS) | 2:51 | 2024-09-04 | 2024-09-07 |
-| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-09 |  |
+| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [Tom Rowlands](https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-09 | 2025-12-21 |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-25 | 2025-02-05 |
 | [Rio de Janeiro](https://open.spotify.com/track/6boyn4SXKOUuHpJlJGugaK) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Rio de Janeiro](https://open.spotify.com/album/5p6O62jnMxocLxsR9mW0x2) | 3:46 | 2024-10-02 | 2024-10-05 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-05 | 2024-06-07 |

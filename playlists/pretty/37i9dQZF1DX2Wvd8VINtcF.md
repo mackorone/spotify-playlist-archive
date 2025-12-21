@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Smerz✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,451 likes - 315 songs - 17 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,483 likes - 315 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

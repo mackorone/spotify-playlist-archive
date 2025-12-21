@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-180 songs - 10 hr 9 min
+181 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Build Our Machine](https://open.spotify.com/track/73X3FOZWP0ktM0bebojQd4) | [Dagames](https://open.spotify.com/artist/6O2VM2aM7KwyDIJ4VvAbYx) | [Build Our Machine](https://open.spotify.com/album/2ZoGAccGBvg7gqSm7LgH4l) | 4:05 | 2018-12-23 |  |
 | [Bullet](https://open.spotify.com/track/7MB22jLCA12Ev7Jjp3e1aU) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [American Tragedy \(Deluxe Edition\)](https://open.spotify.com/album/00LaE2YT3EkPBED8vLyFvp) | 3:17 | 2020-06-08 |  |
 | [Buried Alive](https://open.spotify.com/track/7lsgrMBv932dXUdSc09s6a) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Are You Scared Yet?](https://open.spotify.com/album/06VDbd0Nb2zQCVuSXgmvOL) | 2:54 | 2020-12-17 |  |
+| [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/track/2S4N7RYlhHr1vWadDaleuJ) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Yung GEMMY](https://open.spotify.com/artist/5ZAPfZ2QrWRwg7vtyfky9t) | [Burnt Rice \(feat\. Yung GEMMY\)](https://open.spotify.com/album/2QIAWsoHz28fOoMDnDwRXc) | 2:00 | 2025-12-20 |  |
 | [Buttercup](https://open.spotify.com/track/2mlGPkAx4kwF8Df0GlScsC) | [Jack Stauber](https://open.spotify.com/artist/1vVHevk2PD45epYnDi9CCc) | [Pop Food](https://open.spotify.com/album/1RHa1VdX6lsLbeedgsV1cb) | 3:28 | 2019-11-12 |  |
 | [Can't Be Erased](https://open.spotify.com/track/053TIge1m58aqeEI9iTq5y) | [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Crate Expectations](https://open.spotify.com/album/7iyNKSGmxh867m5VOEvWCk) | 5:21 | 2019-11-30 |  |
 | [CAN'T GET OVER YOU \(feat\. Clams Casino\)](https://open.spotify.com/track/39oeKRgsLeynDIbWuXyA47) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 1:47 | 2019-11-21 |  |

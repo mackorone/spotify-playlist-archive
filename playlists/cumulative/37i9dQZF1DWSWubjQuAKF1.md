@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Paula Biskup
 
-681 songs - 1 day 9 hr 20 min
+682 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-04-18 |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 | 2024-11-08 |
 | [Myślę o Tobie przed snem](https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Myślę o Tobie przed snem](https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd) | 2:52 | 2024-10-18 | 2025-01-24 |
+| [Mów do Mnie](https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3) | [OG KAMKA](https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb), [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Mów do Mnie](https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ) | 2:38 | 2025-12-18 |  |
 | [Mów mi tak](https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Mów mi tak](https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu) | 2:37 | 2025-09-30 | 2025-12-08 |
 | [Na chwilę](https://open.spotify.com/track/2cqTnKnKnYKeS91hpSI2d4) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Na chwilę](https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI) | 2:30 | 2025-07-17 | 2025-09-17 |
 | [Na części pierwsze](https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [PO FAKCIE](https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6) | 3:06 | 2025-05-08 | 2025-09-17 |
@@ -543,7 +544,7 @@
 | [Stranger](https://open.spotify.com/track/6qcNQVplYV2f3Ra6PniM5t) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Stranger](https://open.spotify.com/album/71GP0asXIktlgEL8t3qcyk) | 2:14 | 2025-07-10 | 2025-09-24 |
 | [Syriusz Black](https://open.spotify.com/track/40H7zSUClxjh5Wz3IXiy8J) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Syriusz Black](https://open.spotify.com/album/6XSYlXmWtXDhuDzNYB0JfF) | 2:58 | 2024-07-11 | 2024-09-28 |
 | [Szach i mat](https://open.spotify.com/track/5QJD59lfNELT6Lgv9S4KvV) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Szach i mat](https://open.spotify.com/album/2W1QxAsVDF9EHlJfNsYPRh) | 2:40 | 2024-07-18 | 2024-12-21 |
-| [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 | 2025-10-21 |  |
+| [szał uniesień](https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [szał uniesień](https://open.spotify.com/album/1qJ9UbacO954tQdktoddmd) | 3:12 | 2025-10-21 | 2025-12-21 |
 | [szczeniak](https://open.spotify.com/track/5o2lw4fkXIqa7DAEVOhoZL) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu) | [szczeniak](https://open.spotify.com/album/68aDKhVBwIXsX48odWmoe4) | 2:33 | 2024-09-13 | 2024-11-08 |
 | [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 | 2025-10-21 |  |
 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |

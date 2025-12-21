@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Kokoroko",
-  "num_followers": 425664,
+  "num_followers": 425657,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Dance For Love",
         "url": "https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 262536,
       "name": "Dance For Love",
       "url": "https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 321400,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 237587,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
-      },
-      "artists": [
-        {
-          "name": "Ben Goldsmith",
-          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "The Dark Of The Morning EP",
         "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 239706,
       "name": "When We Were On Fire",
       "url": "https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Blown Away",
+      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Rolling Over Me",
-        "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav"
       },
       "artists": [
         {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+          "name": "MICKY",
+          "url": "https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH"
         }
       ],
-      "duration_ms": 289080,
-      "name": "Rolling Over Me",
-      "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
+      "duration_ms": 209248,
+      "name": "Candid",
+      "url": "https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3"
     }
   ],
   "unique_name": "the new retro",

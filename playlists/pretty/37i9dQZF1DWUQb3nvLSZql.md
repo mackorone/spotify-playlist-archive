@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQb3nvLSZql.md) - [plain]
 
 > enjoy the Stray Kids World Tour \[dominATE : celebrATE\] LIVE SET including the voices of them on stage! \(스트레이 키즈의 무대 멘트와 목소리가 포함된 \[dominATE : celebrATE\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,136 likes - 38 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,174 likes - 38 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

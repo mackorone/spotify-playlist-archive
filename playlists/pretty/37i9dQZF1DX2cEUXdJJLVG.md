@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,590 likes - 110 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,587 likes - 110 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 109 | [TIRED](https://open.spotify.com/track/6N8VWaHtkUzJ4uF1gj5wIU) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [TIRED](https://open.spotify.com/album/4dQLC2L4bzoTUafGssjJEX) | 2:10 |
 | 110 | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Run \(feat\. Andreya Triana\)](https://open.spotify.com/album/0w7qVZZaZ2pMdEtdZY62J0) | 3:43 |
 
-Snapshot ID: `AAAAAFyPE2Qto65RNPj7X00ogzjKVtQt`
+Snapshot ID: `AAAAALvEyFHBn1d5FvASxnnERUHAP9MW`

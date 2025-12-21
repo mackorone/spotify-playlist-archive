@@ -911,6 +911,32 @@
     },
     {
       "album": {
+        "name": "Ellie's Lullaby",
+        "url": "https://open.spotify.com/album/62Gw4EmDhf4wrX2rOyeEmm"
+      },
+      "artists": [
+        {
+          "name": "Leon Wolf",
+          "url": "https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S"
+        },
+        {
+          "name": "Robin Kallenberger",
+          "url": "https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125871,
+      "name": "Ellie's Lullaby",
+      "url": "https://open.spotify.com/track/3SsQQsmGOlggT2suZeMTKD"
+    },
+    {
+      "album": {
         "name": "Emma: Piano Suite",
         "url": "https://open.spotify.com/album/1AEkzEnuG5bVxSg800d5Tn"
       },

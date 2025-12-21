@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24809,
+  "num_followers": 24806,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACe8yvVr5fISo2apZd8CgSV",
+  "snapshot_id": "aUSVgAAAAABfdSXRISowFHNk/5H6KmM4",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
-        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Something To Dance For - From \"Shake It Up\"",
-      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 232216,
       "name": "X (feat. Zendaya)",
       "url": "https://open.spotify.com/track/58Lj1OJrwR3huIt1xNMvkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Dance For (From \"Shake It Up: Live 2 Dance\")",
+        "url": "https://open.spotify.com/album/3fNsftRp4lSqwXgjx9p8le"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 163266,
+      "name": "Something To Dance For - From \"Shake It Up\"",
+      "url": "https://open.spotify.com/track/0WcBvAA59kSYFHeqy0fpZp"
     },
     {
       "added_at": null,

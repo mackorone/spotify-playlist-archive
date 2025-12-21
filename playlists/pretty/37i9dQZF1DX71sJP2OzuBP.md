@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,862 likes - 122 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,860 likes - 122 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 5 | [大小孩](https://open.spotify.com/track/3KmVHZGItxsn05PMXmSf8p) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [与世之争](https://open.spotify.com/album/1eidXSXNLbXQ0mtnV289an) | 4:53 |
 | 6 | [是你照亮我的心](https://open.spotify.com/track/6I5hh8G8jf9MTBZK1XB8cY) | [邰正宵](https://open.spotify.com/artist/4t3kmZV59tEONpRUZmXjpP) | [是你照亮我的心](https://open.spotify.com/album/18ljEOSpQfNlIFe7zfdhYZ) | 4:40 |
 | 7 | [海的模樣](https://open.spotify.com/track/5iKKMU8H9UhD5s9IuhFkGm) | [李芷婷](https://open.spotify.com/artist/6MKG8dGJOKNwS2a8qZwtKs) | [海的模樣](https://open.spotify.com/album/0RYsFfUan31oGfQWsZsxAL) | 3:30 |
-| 8 | [无想](https://open.spotify.com/track/6rgOsgUgLqpQOBYwdIyzmJ) | [黃子弘凡](https://open.spotify.com/artist/6GlQVohOENKG7T7qktUxfK) | [无想](https://open.spotify.com/album/4aziq6N5FbyWLt1A0a4HmS) | 3:09 |
+| 8 | [無想](https://open.spotify.com/track/6rgOsgUgLqpQOBYwdIyzmJ) | [黃子弘凡](https://open.spotify.com/artist/6GlQVohOENKG7T7qktUxfK) | [無想](https://open.spotify.com/album/4aziq6N5FbyWLt1A0a4HmS) | 3:09 |
 | 9 | [和你一起的風景](https://open.spotify.com/track/5sXgC20W4HQKyJEp46qUqv) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [和你一起的風景未完待續](https://open.spotify.com/album/0tFoZb3tdwfNnjNIwG4mnO) | 3:25 |
 | 10 | [別忘了我](https://open.spotify.com/track/7wDSzub9ql6p9nkcHSmP7N) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [別忘了我](https://open.spotify.com/album/4ZcPWhcdabDMyq8gPfYdg4) | 3:50 |
 | 11 | [不管最後的結局](https://open.spotify.com/track/6tt2nXQpG2bSRoBZo3waHD) | [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [不管最後的結局](https://open.spotify.com/album/6gq7MtCyf2iAIWcWKQxMPK) | 2:42 |

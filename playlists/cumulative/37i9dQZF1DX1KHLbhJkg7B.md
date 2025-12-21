@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-442 songs - 1 day 3 hr 39 min
+444 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [I'm in a Hurry \(Live from Boca Grande\)](https://open.spotify.com/track/6G5b1UmULnwGOIo7xKwcn3) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Covering the World, Vol\. 2](https://open.spotify.com/album/0bh6SOs8IsLrpNMYHRPgyy) | 2:33 | 2022-07-08 | 2023-01-06 |
 | [I'm No Stranger To The Rain](https://open.spotify.com/track/0hWE8Zp01Qey6oKvWUT44L) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [I'm No Stranger To The Rain](https://open.spotify.com/album/71xGK618KiRbOVZTyVd3H7) | 3:52 | 2021-12-10 | 2022-07-29 |
 | [I'm On Fire](https://open.spotify.com/track/7csCw7vTJbBKTxjyeBE3of) | [Jake Hoot](https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7) | [Fan Made Tapes](https://open.spotify.com/album/4XE4IEB228NFiz8wjvEPWq) | 3:24 | 2022-01-21 | 2022-07-15 |
-| [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 | 2023-11-24 |  |
+| [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 | 2023-11-24 | 2025-12-21 |
 | [If I Ain't Got You](https://open.spotify.com/track/2zlTyYbE5pUZnzPVHa9o7N) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:42 | 2023-09-22 |  |
 | [If I Can't Have You](https://open.spotify.com/track/2qmlRn3crX6OxoJuoDJMyq) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Copy That](https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H) | 3:10 | 2021-12-10 | 2022-07-28 |
 | [If I Needed You](https://open.spotify.com/track/4VtVQjEOaRzZQK1fnqNwNa) | [Rachel Bradshaw](https://open.spotify.com/artist/6b62EC4kRXUMm8JbMhl3I4), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Rachel Bradshaw](https://open.spotify.com/album/0V2PkvIAZN1VMW6wNPHGUp) | 3:12 | 2022-01-07 | 2023-08-26 |
@@ -221,7 +221,7 @@
 | [Jolene](https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:20 | 2022-07-08 | 2024-04-19 |
 | [Jolene](https://open.spotify.com/track/6xU4ei3n99VRE7Hog5WZJw) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/5GP6INOrUkZJyXOqoTUlxZ) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Just a Girl](https://open.spotify.com/track/7d5TsfUb4ZTIwso4mGfPpz) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [Just a Girl](https://open.spotify.com/album/1Qufhr4hAi2pr7D8e4L0UD) | 3:23 | 2022-07-08 | 2023-01-06 |
-| [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 | 2021-12-10 |  |
+| [Just to See You Smile](https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Just to See You Smile](https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA) | 4:29 | 2021-12-10 | 2025-12-21 |
 | [Landslide](https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Landslide](https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n) | 3:38 | 2024-06-07 |  |
 | [Landslide](https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 3:50 | 2021-12-10 |  |
 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:40 | 2021-12-10 | 2024-08-03 |
@@ -272,6 +272,7 @@
 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 | 2021-12-10 |  |
 | [Night Life](https://open.spotify.com/track/0z73ztDPP0iDsCkvxxBPQf) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Night Life](https://open.spotify.com/album/5UbF3KhUkJBy3iYWdvrs5N) | 3:32 | 2023-04-28 | 2023-05-06 |
 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 | 2023-05-26 | 2024-01-25 |
+| [No More Tears \- live from the let go letters tour](https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [No More Tears \(live from the let go letters tour\)](https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL) | 3:51 | 2025-12-19 |  |
 | [Nobody Knows](https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Nobody Knows](https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP) | 3:43 | 2022-03-25 | 2022-10-04 |
 | [Not Over You \(feat\. Gavin DeGraw\) \(feat\. Gavin DeGraw\)](https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Slow Me Down](https://open.spotify.com/album/78bfZn6WFHAwutuhbD36sD) | 3:52 | 2021-12-10 | 2022-07-27 |
 | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Nothing Breaks Like a Heart \- Spotify Singles](https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2) | 3:38 | 2025-02-07 |  |
@@ -450,5 +451,6 @@
 | [You're Still the One \- Acoustic](https://open.spotify.com/track/00CwtIxDlqd1alEi3WTPXE) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [You're Still the One \(Acoustic\)](https://open.spotify.com/album/0gartpyZ1UQqc2uJoD4hFX) | 3:33 | 2024-05-03 | 2024-08-03 |
 | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/track/0cBjARqDzROgtgo99Ppi5q) | [Matt Austin](https://open.spotify.com/artist/4x6n7QYlPdUoaf7gwaqNq5) | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/album/77rlszvmPmrGtt1DCWJYd6) | 3:07 | 2022-03-25 | 2022-04-21 |
 | [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 | 2023-07-25 |
+| [Yukon](https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Yukon](https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6) | 2:36 | 2025-12-19 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

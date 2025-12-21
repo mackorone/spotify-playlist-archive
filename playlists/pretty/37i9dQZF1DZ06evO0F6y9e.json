@@ -1,13 +1,33 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1085686,
+  "num_followers": 1086113,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAABgxQ4lla/XcIbfdrHiCTcI",
+  "snapshot_id": "aUSVgAAAAADB2KXaxywQG2bzuDZa/5tX",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+    },
     {
       "added_at": null,
       "album": {
@@ -103,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El T\u00f3xico",
-        "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "El T\u00f3xico",
-      "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/7b01UUiyCasivZJP3Suj4C"
       },
@@ -139,6 +139,26 @@
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/6IV5Y1eWaQZ1jV5apkUMS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El T\u00f3xico",
+        "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "El T\u00f3xico",
+      "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
     },
     {
       "added_at": null,
@@ -235,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
       },
@@ -275,6 +275,26 @@
       "duration_ms": 280250,
       "name": "Tus Mentiras (En Vivo)",
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/0RkWV2GJE6IL6u2ceoiyhx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/0x9hoejskPyskIfWc0P3uW"
     },
     {
       "added_at": null,
@@ -306,35 +326,11 @@
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Todav\u00eda Te Amo",
-      "url": "https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Felicidades",
-        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 189696,
-      "name": "Felicidades",
-      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
+      "duration_ms": 229400,
+      "name": "Hubi\u00e9ramos",
+      "url": "https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8"
     },
     {
       "added_at": null,
@@ -355,6 +351,26 @@
       "duration_ms": 232611,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Felicidades",
+        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "Felicidades",
+      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
     },
     {
       "added_at": null,
@@ -390,11 +406,15 @@
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 229400,
-      "name": "Hubi\u00e9ramos",
-      "url": "https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8"
+      "duration_ms": 152200,
+      "name": "Todav\u00eda Te Amo",
+      "url": "https://open.spotify.com/track/06jscxwNwqueJ5NAmBsSwt"
     },
     {
       "added_at": null,
@@ -579,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Que un d\u00eda",
-        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Hasta Que un d\u00eda",
-      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4NT68hH4qv8qFOaWI8unla"
       },
@@ -611,6 +615,22 @@
       "duration_ms": 226815,
       "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Que un d\u00eda",
+        "url": "https://open.spotify.com/album/1QXk3H0o51ol8VFHX7GJlK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Hasta Que un d\u00eda",
+      "url": "https://open.spotify.com/track/7z93C7I6uigwsrLzIAgjzE"
     },
     {
       "added_at": null,
@@ -951,30 +971,6 @@
       "duration_ms": 193237,
       "name": "El Roto (En Vivo)",
       "url": "https://open.spotify.com/track/7yPTuRbi0UUUmiT04Jshhc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
-        "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        },
-        {
-          "name": "Tapy Quintero",
-          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
-        }
-      ],
-      "duration_ms": 166720,
-      "name": "Las Heladas (En Vivo)",
-      "url": "https://open.spotify.com/track/49sWgJFx6kdGSqejVZrF6C"
     }
   ],
   "unique_name": "This Is Grupo Firme",

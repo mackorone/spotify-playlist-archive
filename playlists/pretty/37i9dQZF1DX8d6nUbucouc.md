@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,094 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,115 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 15 | [W.I.N.N.E.](https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 3:42 |
 | 16 | [HoedenPlank](https://open.spotify.com/track/4ISig8xvPT0SPkeGt3w4GN) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
 | 17 | [Begraaf Me Als Een G](https://open.spotify.com/track/4oW3qbGwpOxDe7wrwblpdQ) | [Crooks](https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Freddy & Bundy](https://open.spotify.com/album/1ngvghSiq9Ze5hMaTLIIO8) | 3:20 |
-| 18 | [Hele Meneer](https://open.spotify.com/track/7AbTXC2v7zuDE5lxthGQg5) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Vossig](https://open.spotify.com/album/6uA7RHsJLbT3IS5cWkRmJe) | 1:57 |
-| 19 | [Als Zij Langsloopt](https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:39 |
+| 18 | [Als Zij Langsloopt](https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:39 |
+| 19 | [Hele Meneer](https://open.spotify.com/track/7AbTXC2v7zuDE5lxthGQg5) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Vossig](https://open.spotify.com/album/6uA7RHsJLbT3IS5cWkRmJe) | 1:57 |
 | 20 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
 | 21 | [Regendans](https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
 | 22 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 51 | [Blam Blam](https://open.spotify.com/track/63ajJl52FOdeBYsUthJUyc) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Slapeloze Nachten](https://open.spotify.com/album/1HFoz1ACfQuTwhV9xwRAgL) | 2:55 |
 | 52 | [Succes](https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 3:31 |
 | 53 | [Spraakwater Lest De Dorst!](https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT) | [Extince](https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5) | [De Avonturen...](https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX) | 3:23 |
-| 54 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 |
-| 55 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
+| 54 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
+| 55 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 |
 | 56 | [De Flexte](https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 4:02 |
-| 57 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
-| 58 | [Iemand Moet Het Doen](https://open.spotify.com/track/3DA1wJqjecOmc5ciyKZbjJ) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:44 |
+| 57 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
+| 58 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
 | 59 | [Utopia](https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS) | [Sticks & Delic](https://open.spotify.com/artist/6RQVbkxQcRhkvDEtOUc3Pn), [James](https://open.spotify.com/artist/1AJcyFwtpIj2RqsqYVqKKG), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Fakkelteit](https://open.spotify.com/album/5YGJo9Oc4OuSYdKEtUJ2fJ) | 4:10 |
 | 60 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
 | 61 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 96 | [Wij Zijn](https://open.spotify.com/track/3GWUyMwZfzLCUktWzns0jP) | [Boef en de Gelogeerde Aap](https://open.spotify.com/artist/3evPnx06muDkZD3j1m1QZp) | [Wij Zijn](https://open.spotify.com/album/4w80bpfxGVJqrPPevTLuGS) | 3:26 |
 | 97 | [De Goeie In 'T Vloeien](https://open.spotify.com/track/4NjFgBvxAYdMXzel7sYvjs) | [Osdorp Posse](https://open.spotify.com/artist/28vr2serZZW0HfUHTke4Ic) | [Osdorp Posse Top 100](https://open.spotify.com/album/7u78X1dcYpJeN57fCAjPnW) | 3:55 |
 | 98 | [Niets Anders \(Met Winne\)](https://open.spotify.com/track/4CdaZE7Bnt2kCSw5UQPtSz) | [Wudstik](https://open.spotify.com/artist/4673XVOYba8vZe6hHoMeW3), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Niets Anders \(Met Winne\)](https://open.spotify.com/album/1ADmm93Chcv5NcBn9415Zs) | 3:04 |
-| 99 | [Welkom In Ons Leven](https://open.spotify.com/track/226yHrBKVmNGtgE7W0bqTU) | [Bolletjes Blues Cast](https://open.spotify.com/artist/1GyTX0nfFFTEMVkNXhgVef) | [Soundtrack Bolletjes Blues](https://open.spotify.com/album/56CxPAl7VK30Q6ztip9rs2) | 4:03 |
-| 100 | [Check Out Melodee](https://open.spotify.com/track/21gViv0Q8K2CimHjVfCxhm) | [Mc Melodee](https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8) | [Check Out Melodee](https://open.spotify.com/album/6tlAcJ78PqBy6RRcuOqL5v) | 3:20 |
+| 99 | [Check Out Melodee](https://open.spotify.com/track/21gViv0Q8K2CimHjVfCxhm) | [Mc Melodee](https://open.spotify.com/artist/0JlylEmvQDSl60PLkYe9r8) | [Check Out Melodee](https://open.spotify.com/album/6tlAcJ78PqBy6RRcuOqL5v) | 3:20 |
+| 100 | [Welkom In Ons Leven](https://open.spotify.com/track/226yHrBKVmNGtgE7W0bqTU) | [Bolletjes Blues Cast](https://open.spotify.com/artist/1GyTX0nfFFTEMVkNXhgVef) | [Soundtrack Bolletjes Blues](https://open.spotify.com/album/56CxPAl7VK30Q6ztip9rs2) | 4:03 |
 
 Snapshot ID: `AAAAAAJvwmt4K6y73q6+LlZPaNiK6tgx`

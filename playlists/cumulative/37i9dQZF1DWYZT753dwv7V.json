@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Che sia benedetta",
+        "url": "https://open.spotify.com/album/2T1GXFFHz7hCs01oYacAER"
+      },
+      "artists": [
+        {
+          "name": "Fiorella Mannoia",
+          "url": "https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L"
+        }
+      ],
+      "date_added": "2025-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193440,
+      "name": "Che sia benedetta",
+      "url": "https://open.spotify.com/track/0zWQHhueWVnSvdmOFWuWoh"
+    },
+    {
+      "album": {
         "name": "Chiamami Ancora Amore",
         "url": "https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT"
       },
@@ -636,7 +654,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 219939,
       "name": "I Tuoi Particolari",
       "url": "https://open.spotify.com/track/524euygKKFWurhvIdSrkg6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Polo G, DaBaby, Chase B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,772 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,915 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 14 | [Bad Terms](https://open.spotify.com/track/5FI6krtk9iWKvhdjv6xzuQ) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Bad Terms](https://open.spotify.com/album/3vCdBMNH1b6WdZR8rObDtg) | 3:14 |
 | 15 | [Watch It Burn](https://open.spotify.com/track/32FM8juG27Fst9SqKpxiTx) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [Watch It Burn](https://open.spotify.com/album/5YNn4y6IkGRXsA09zDgG8R) | 2:03 |
 | 16 | [From Time \- EASTMIX](https://open.spotify.com/track/761zsGo8lptkYKzQ0Wxrlb) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [EASTMIX, Vol\. 1](https://open.spotify.com/album/2yngRjGxgCQaMqaQcDvCOO) | 1:00 |
-| 17 | [PERMANENT TEARS](https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [PERMANENT TEARS](https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0) | 3:17 |
+| 17 | [PERMANENT TEARS](https://open.spotify.com/track/5JXfYf6aAUcDfd6Y98xHEp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [PERMANENT TEARS](https://open.spotify.com/album/6v3moxgMB9grJbdw65PBs0) | 3:13 |
 | 18 | [Woahhh](https://open.spotify.com/track/6ktwzFa1onyLbqHrfhxGV7) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Fwaygo](https://open.spotify.com/album/0QoVtmADKKbSodCvhSC1kO) | 1:42 |
 | 19 | [Gorgeous](https://open.spotify.com/track/0byfLZu1ZnNEc5DaiqIZZX) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Pup Pack: 2nd Shift](https://open.spotify.com/album/6qrVHVkM0T4A0yh0wQz9BW) | 3:50 |
 | 20 | [Walk to me](https://open.spotify.com/track/1vv0xkgcZ4irTApTzUETpu) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Walk to me](https://open.spotify.com/album/0hCyOgrPCjWkem5DhxSpoT) | 1:48 |

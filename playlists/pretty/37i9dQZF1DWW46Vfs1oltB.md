@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ksmartboi\(김상민그는감히전설이라고할수있다\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,277 likes - 107 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,199 likes - 107 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

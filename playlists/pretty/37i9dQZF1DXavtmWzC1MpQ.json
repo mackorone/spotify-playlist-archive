@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 155644,
+  "num_followers": 155636,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
+        "name": "Tropical wet forest in Columbia",
+        "url": "https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp"
+      },
+      "artists": [
+        {
+          "name": "Nicoguga",
+          "url": "https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS"
+        }
+      ],
+      "duration_ms": 126375,
+      "name": "Tropical wet forest in Columbia",
+      "url": "https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
         "name": "Soothing River Sounds",
         "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 146000,
       "name": "Bird Life",
       "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
-        "name": "Tropical wet forest in Columbia",
-        "url": "https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp"
-      },
-      "artists": [
-        {
-          "name": "Nicoguga",
-          "url": "https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS"
-        }
-      ],
-      "duration_ms": 126375,
-      "name": "Tropical wet forest in Columbia",
-      "url": "https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc"
     },
     {
       "added_at": "2025-09-23 10:00:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-23 10:00:46",
       "album": {
-        "name": "Healing Rainforest",
-        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
-      },
-      "artists": [
-        {
-          "name": "Manaus",
-          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Walking In The Rainforest",
-      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
-    },
-    {
-      "added_at": "2025-09-23 10:00:46",
-      "album": {
         "name": "Temperate Rainforest Sounds",
         "url": "https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 191500,
       "name": "Temperate Rainforest Sounds",
       "url": "https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr"
+    },
+    {
+      "added_at": "2025-09-23 10:00:46",
+      "album": {
+        "name": "Healing Rainforest",
+        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
+      },
+      "artists": [
+        {
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Walking In The Rainforest",
+      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
     },
     {
       "added_at": "2025-09-23 10:00:46",

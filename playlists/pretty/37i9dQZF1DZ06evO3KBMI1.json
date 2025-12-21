@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 74190,
+  "num_followers": 74192,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAD35oJsQLGPcUN9v8ieoe56",
+  "snapshot_id": "aUSVgAAAAAAqvG42UwZJgXhI1H0/GeA/",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "\u30b7\u30ea\u30a6\u30b9",
-      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 206760,
-      "name": "WINGS ever",
-      "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"
+      "duration_ms": 291600,
+      "name": "\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 328506,
       "name": "MONDO PIECE",
       "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "WINGS ever",
+      "url": "https://open.spotify.com/track/1XJ40s9ENDiSeHVuqVkgEP"
     },
     {
       "added_at": null,
@@ -723,26 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6765\u9ce5\u6c5f",
-        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
       "artists": [
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        },
-        {
-          "name": "\u5c71\u7530\u5b5d\u4e4b",
-          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
-        },
-        {
-          "name": "Aiemu",
-          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
         }
       ],
-      "duration_ms": 219200,
-      "name": "\u6765\u9ce5\u6c5f",
-      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
+      "duration_ms": 270173,
+      "name": "\u30af\u30aa\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
     },
     {
       "added_at": null,
@@ -779,18 +771,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "\u6765\u9ce5\u6c5f",
+        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
       },
       "artists": [
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "\u5c71\u7530\u5b5d\u4e4b",
+          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
+        },
+        {
+          "name": "Aiemu",
+          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
         }
       ],
-      "duration_ms": 270173,
-      "name": "\u30af\u30aa\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+      "duration_ms": 219200,
+      "name": "\u6765\u9ce5\u6c5f",
+      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
     },
     {
       "added_at": null,

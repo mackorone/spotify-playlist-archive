@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 203243,
       "name": "190",
       "url": "https://open.spotify.com/track/4TMx8KU7iRjqIJumDmXWvg"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 219348,
       "name": "Tipo Giroflex",
       "url": "https://open.spotify.com/track/0L5ZZJcXPBljIjFQQqUcxG"
@@ -2498,6 +2498,24 @@
       "duration_ms": 189000,
       "name": "ZSFreestyle",
       "url": "https://open.spotify.com/track/3ps6QiDjiFZ90YFHXZsjra"
+    },
+    {
+      "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\u26a1 (Bivolt)",
+      "url": "https://open.spotify.com/track/3T8uez7nJu98LuhVovCYDY"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Novel 729
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,773 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,774 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 12 | [OSE](https://open.spotify.com/track/0Ythgq8uacb9uwkWSs0Vkb) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Mario Kush](https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [OSE](https://open.spotify.com/album/0l5jdAXg0JYj3ELh8Rmy8f) | 2:19 |
 | 13 | [Multivitamin](https://open.spotify.com/track/12kbGZkxsbmAnzLJlpjkOK) | [Verde](https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v) | [Multivitamin](https://open.spotify.com/album/2KiGWx6TyAuzPyAuSpruT5) | 3:08 |
 | 14 | [LADY DIOR](https://open.spotify.com/track/0dDlLhfgHqLLWyvKGDAzxD) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Kest](https://open.spotify.com/artist/2EnhdBc8wuBfUBIWDBVjEv), [Adams](https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv) | [CAPO DEI CAPI \(Deluxe\)](https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50) | 3:06 |
-| 15 | [DEN STAMATO](https://open.spotify.com/track/1kUQknb5UNq0o3jXwOCBwr) | [YT K](https://open.spotify.com/artist/24YLsxaeE17GVfcqwEQLpH) | [DEN STAMATO](https://open.spotify.com/album/2nICjbqaQBRwyrwlhup9FG) | 3:17 |
+| 15 | [DEN STAMATO](https://open.spotify.com/track/1kUQknb5UNq0o3jXwOCBwr) | [YT K](https://open.spotify.com/artist/24YLsxaeE17GVfcqwEQLpH) | [DEN STAMATO](https://open.spotify.com/album/2nICjbqaQBRwyrwlhup9FG) | 2:56 |
 | 16 | [CPR](https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [CPR](https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL) | 2:44 |
 | 17 | [STABA](https://open.spotify.com/track/1zPbtDdZs62xoHsGulS64C) | [Mel](https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3), [GXHAN](https://open.spotify.com/artist/6rdyRCKpxlwH5dMRYr1fUD) | [STABA](https://open.spotify.com/album/48jUEMkqv3UVdWoxUsuDFb) | 2:27 |
 | 18 | [Pyrricheio](https://open.spotify.com/track/6abFZcYaCuwT2HLcKCfDoG) | [Pindos Atletico](https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4) | [URSA MAJOR](https://open.spotify.com/album/2TpmZaD64ZErUA0VdPnbyE) | 3:18 |

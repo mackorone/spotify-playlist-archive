@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 267105,
+  "num_followers": 267165,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "@0 EP1",
         "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 312000,
       "name": "Mt Baker",
       "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
+      },
+      "artists": [
+        {
+          "name": "Marc Van Mourik",
+          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
+        }
+      ],
+      "duration_ms": 259042,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "Aves del Sur",
         "url": "https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
-      },
-      "artists": [
-        {
-          "name": "Marc Van Mourik",
-          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
-        }
-      ],
-      "duration_ms": 259042,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Atlantic Diva",
         "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1231,58 +1231,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Pantano Lontano",
-        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
-      },
-      "artists": [
-        {
-          "name": "Nodes",
-          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
-        }
-      ],
-      "duration_ms": 341621,
-      "name": "Sin\u00fa",
-      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "From Kolkata",
-        "url": "https://open.spotify.com/album/2xuB9TdTcRO2su4c4WKef0"
-      },
-      "artists": [
-        {
-          "name": "Passepartout Duo",
-          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
-        }
-      ],
-      "duration_ms": 190645,
-      "name": "From Kolkata",
-      "url": "https://open.spotify.com/track/5FhJJfHzmBKkzoE42skKib"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 152901,
-      "name": "eons away",
-      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Doff",
         "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
       },
@@ -1311,6 +1259,58 @@
       "duration_ms": 266277,
       "name": "Orizzontale Verticale",
       "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 152901,
+      "name": "eons away",
+      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Pantano Lontano",
+        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
+      },
+      "artists": [
+        {
+          "name": "Nodes",
+          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
+        }
+      ],
+      "duration_ms": 341621,
+      "name": "Sin\u00fa",
+      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "From Kolkata",
+        "url": "https://open.spotify.com/album/2xuB9TdTcRO2su4c4WKef0"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "duration_ms": 190645,
+      "name": "From Kolkata",
+      "url": "https://open.spotify.com/track/5FhJJfHzmBKkzoE42skKib"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Les Marie Louise",
-        "url": "https://open.spotify.com/album/5r3RoboaUhWsHvNEvg0EbZ"
-      },
-      "artists": [
-        {
-          "name": "Blundetto",
-          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Les Marie Louise",
-      "url": "https://open.spotify.com/track/11V5U9PIzSjIdpJmDi35B6"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "FOREVERANDEVERNOMORE",
         "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 501453,
       "name": "Making Gardens Out of Silence",
       "url": "https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Les Marie Louise",
+        "url": "https://open.spotify.com/album/5r3RoboaUhWsHvNEvg0EbZ"
+      },
+      "artists": [
+        {
+          "name": "Blundetto",
+          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Les Marie Louise",
+      "url": "https://open.spotify.com/track/11V5U9PIzSjIdpJmDi35B6"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
         }
       ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+      "duration_ms": 454576,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 454576,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2025-11-21 14:36:15",

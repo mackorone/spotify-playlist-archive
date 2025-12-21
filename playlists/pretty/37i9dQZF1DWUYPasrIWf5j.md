@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 
 > Instrumental covers of favourites played on ukulele.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,148 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,171 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYPasrIWf5j.md) - [plain]
 | 74 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 |
 | 75 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 |
 
-Snapshot ID: `AAAAAI56ge4GF8abvTkqL/7afhCk4vRY`
+Snapshot ID: `AAAAAHsAQiTMfK22TROj0hPZtn8Vt3UQ`

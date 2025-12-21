@@ -4,12 +4,13 @@
 
 > <a>https://bit.ly/2WYLxJM </a>
 
-212 songs - 16 hr 55 min
+213 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20 Hours \(feat\. Eleonora\)](https://open.spotify.com/track/67bEUw1bJ3Gi7UaT0rs7V6) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [20 Hours \(feat\. Eleonora\)](https://open.spotify.com/album/0vSTidjll5U6h4C4C11VEq) | 4:03 | 2022-11-18 | 2023-04-23 |
 | [2STEP](https://open.spotify.com/track/4s4czNgTmtZqN0rLKXpuZ3) | [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [2STEP](https://open.spotify.com/album/5BzxA2njp6eYTM7jjtiRCx) | 4:20 | 2023-12-02 | 2024-02-11 |
+| [3 Shot Espresso](https://open.spotify.com/track/12Wv0v8E8fgVIvZFTmkWt8) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [3 Shot Espresso](https://open.spotify.com/album/4WSmXPDiYGb0NoZwllnP3O) | 4:17 | 2025-12-20 |  |
 | [Afraid of the Time \- Radio Edit](https://open.spotify.com/track/6V8X3Q0Eu8pkjXdqbs96JW) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 3:41 | 2023-03-31 | 2023-12-14 |
 | [Afraid of the Time \- Reprise](https://open.spotify.com/track/33oY9P0s7mZO73OJVun7jK) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [Afraid of the Time](https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5) | 4:58 | 2023-03-31 | 2023-12-23 |
 | [Afraid of the Time \- Vocal Mix 2024](https://open.spotify.com/track/4KaPsqrGROPtVMxj4In3vj) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [The Unknown](https://open.spotify.com/album/2ZrdUOOU4vr66riT9aJ4Kc) | 3:47 | 2023-12-22 |  |

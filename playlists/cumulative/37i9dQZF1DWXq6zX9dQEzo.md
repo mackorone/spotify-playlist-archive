@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-865 songs - 1 day 17 hr 13 min
+866 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [2 Major](https://open.spotify.com/track/1OFAjnS59a3QKIZD7ovz5h) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [2 Major](https://open.spotify.com/album/7opILR5fivGIZoHoH8sROn) | 2:18 | 2025-04-04 |  |
 | [2003](https://open.spotify.com/track/2kQhnUGXjDIpG6yCn5Rzll) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [Ots J Huncho](https://open.spotify.com/artist/3t0reSevrtrvnbSccbMo7l) | [2003](https://open.spotify.com/album/47A2NYUmjD9qRnO48VgNxN) | 2:26 | 2025-11-07 |  |
 | [2BIG!](https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [2BIG!](https://open.spotify.com/album/3P5YjGhkXFyHHYxxR9IHPL) | 3:14 | 2024-02-02 | 2024-07-06 |
-| [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 | 2025-05-09 |  |
+| [Abacus](https://open.spotify.com/track/6NWHhbD4HG7IqLrks7aAju) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Abacus](https://open.spotify.com/album/3KyWbqtqq3MXd7QOQMS7D1) | 2:03 | 2025-05-09 | 2025-12-21 |
 | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [ABOVE ME \(feat\. Parris Chariz\)](https://open.spotify.com/album/7a7gNlcfFqoq2tCQmz2RoG) | 2:47 | 2022-02-04 | 2023-08-12 |
 | [Accelerate](https://open.spotify.com/track/0aehvRfRVZiMNnNvoiU2AW) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Accelerate](https://open.spotify.com/album/2LR1F2JXim0aa9NX9twn1l) | 2:07 | 2022-03-23 | 2023-11-03 |
 | [Adrenaline](https://open.spotify.com/track/0ERCGKsYNznAb9j5EZNJO9) | [Deraj](https://open.spotify.com/artist/1iYLxzjCinlEJENGThVxjD), [Knives At Sea](https://open.spotify.com/artist/2VZYuo718BYqHH2WW9qfNh) | [Adrenaline](https://open.spotify.com/album/6Bv1hH3713QHHQqlg5R7Pe) | 3:07 | 2025-07-18 | 2025-08-08 |
@@ -724,6 +724,7 @@
 | [SWITCH](https://open.spotify.com/track/1Gro4Q3KEZZXEcERr7udH1) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p) | [SWITCH](https://open.spotify.com/album/6ncZj0ClMnM1MxgTVLT6pL) | 2:44 | 2025-02-07 |  |
 | [Switch](https://open.spotify.com/track/5KCw2qJmUgquvJ9ggomSLX) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Switch](https://open.spotify.com/album/6oK5JjSPrkBYfCN5J8TLh9) | 3:08 | 2025-09-19 |  |
 | [Tables Turned](https://open.spotify.com/track/29JdRQohqfWj35j4p6tzCZ) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Signing Bonus](https://open.spotify.com/album/6qHMc5xzKuR1Yz4Imf4RWj) | 2:39 | 2024-02-02 | 2024-06-08 |
+| [Take The Squad](https://open.spotify.com/track/3NYmNSJMWwZLhRaPpN3aUS) | [Dante' pride](https://open.spotify.com/artist/3KF3FfIlybRWFHZNhLKi4G) | [Take The Squad](https://open.spotify.com/album/6Iwh0Za8sQlla95qsU7AUX) | 1:58 | 2025-12-12 |  |
 | [take the wheel](https://open.spotify.com/track/2H6Xw9IKbZirY1camQHot3) | [GRAHAM](https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G) | [take the wheel](https://open.spotify.com/album/7sWUex3pzMhcKIvx5Kx3Ig) | 2:17 | 2025-05-09 | 2025-09-20 |
 | [Take Your Time](https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Take Your Time](https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt) | 3:19 | 2022-10-01 | 2023-08-12 |
 | [TALK SPICY](https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [TALK SPICY](https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd) | 1:52 | 2025-05-09 |  |

@@ -1,29 +1,13 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 410328,
+  "num_followers": 410564,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAAAPgfYkc87Q1l+xA0oLjZku",
+  "snapshot_id": "aUSVgAAAAABaIsHXoOBPEEJT1SMBPAxJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 168134,
-      "name": "NOBODY'S GIRL",
-      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +27,6 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TIT FOR TAT",
-        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "TIT FOR TAT",
-      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
       "added_at": null,
@@ -83,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
       },
@@ -92,9 +76,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 147293,
-      "name": "ANYTHING BUT LOVE",
-      "url": "https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5"
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
     },
     {
       "added_at": null,
@@ -156,9 +140,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 182017,
-      "name": "TRYING ON SHOES",
-      "url": "https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E"
+      "duration_ms": 147293,
+      "name": "ANYTHING BUT LOVE",
+      "url": "https://open.spotify.com/track/66tlRqExpkn4kRyuxelzs5"
     },
     {
       "added_at": null,
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 181020,
-      "name": "HORSESHOE",
-      "url": "https://open.spotify.com/track/3unY0p45pcQVnABntzlX8B"
+      "duration_ms": 182017,
+      "name": "TRYING ON SHOES",
+      "url": "https://open.spotify.com/track/7AxXJXqJOMRqkgZxvG3r6E"
     },
     {
       "added_at": null,
@@ -284,9 +268,9 @@
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 191132,
-      "name": "Purple lace bra",
-      "url": "https://open.spotify.com/track/2AO3eTcub4Gh8epdyYoZEv"
+      "duration_ms": 181020,
+      "name": "HORSESHOE",
+      "url": "https://open.spotify.com/track/3unY0p45pcQVnABntzlX8B"
     },
     {
       "added_at": null,
@@ -346,15 +330,11 @@
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 162403,
-      "name": "bloodonmyhands (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/5XEiB0fnWSZpBhE2t7sumF"
+      "duration_ms": 191132,
+      "name": "Purple lace bra",
+      "url": "https://open.spotify.com/track/2AO3eTcub4Gh8epdyYoZEv"
     },
     {
       "added_at": null,
@@ -418,11 +398,15 @@
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 173765,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/47fmAJR4rBqOu2c1Vmh73f"
+      "duration_ms": 162403,
+      "name": "bloodonmyhands (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/5XEiB0fnWSZpBhE2t7sumF"
     },
     {
       "added_at": null,

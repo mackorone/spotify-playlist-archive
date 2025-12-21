@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' destapar los aguinaldos, made pa' sacar a bailar a las tías\. Made In Colombia por Ryan Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,016 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,099 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

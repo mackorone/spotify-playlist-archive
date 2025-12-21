@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 48823,
+  "num_followers": 48826,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAACwEsvg67BHJcBh0YSe+Qh4",
+  "snapshot_id": "aUSVgAAAAACz2yNYjxW5th1uAdBqLDkC",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
+      "duration_ms": 160560,
+      "name": "Your New Aesthetic",
+      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Your New Aesthetic",
-      "url": "https://open.spotify.com/track/0gL7j0cio6IOFizDz0kKpu"
+      "duration_ms": 191796,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4WgqQODh6GOGqIf7o7pkX4"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay On My Side Tonight",
-        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 464200,
-      "name": "Disintegration",
-      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+        "name": "Stay On My Side Tonight",
+        "url": "https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+      "duration_ms": 464200,
+      "name": "Disintegration",
+      "url": "https://open.spotify.com/track/7jqlpEgPLAYpj7ZfESA294"
     },
     {
       "added_at": null,

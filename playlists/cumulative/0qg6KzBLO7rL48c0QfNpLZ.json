@@ -5638,7 +5638,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 149939,
       "name": "Deeplow",
       "url": "https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55"
@@ -7462,7 +7462,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -19061,6 +19061,28 @@
     },
     {
       "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/7owWRGLCF42ycQlb3svESq"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cooper",
+          "url": "https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0uVZiBza1iFPhkaXgX4Oeg"
+    },
+    {
+      "album": {
         "name": "One More Reason",
         "url": "https://open.spotify.com/album/0hF0hYm4RCJhlONAoqJgae"
       },
@@ -26932,7 +26954,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 141052,
       "name": "We Belong Together (feat. Michael Hausted)",
       "url": "https://open.spotify.com/track/608TDka6vmrWkxx5GwZh1N"

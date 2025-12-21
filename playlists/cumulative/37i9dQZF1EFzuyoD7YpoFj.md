@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-638 songs - 1 day 10 hr 24 min
+639 songs - 1 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,8 @@
 | [I'm a Gigolo](https://open.spotify.com/track/1Z5IHeiO79ju4bSi7tK3vO) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter](https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q) | 2:26 | 2025-05-25 |  |
 | [I'm a Gigolo](https://open.spotify.com/track/6l3C30m3DDDddAM2Ty9XUP) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [The Swinging Thirties](https://open.spotify.com/album/2jtfYgsZIwvN0ii3A75xUy) | 2:27 | 2025-06-27 | 2025-07-10 |
 | [I'm a Gigolo \(2023 Remastered\)](https://open.spotify.com/track/50keLfAcioOZyCdKvRMU6x) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Essential Classics, Vol\. 44: Cole Porter](https://open.spotify.com/album/1EDnnWpTU7c7sKrWxd6z4w) | 2:26 | 2024-07-24 | 2025-05-26 |
-| [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 | 2024-07-24 |  |
+| [I'm gettin' myself ready for you](https://open.spotify.com/track/3OHDDHdqLCsoZ8nBVw0yg7) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/6xfl3npd0wHLenah8VGBJS) | 3:07 | 2025-12-20 |  |
+| [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 | 2024-07-24 | 2025-12-21 |
 | [I'm Going in for Love](https://open.spotify.com/track/6GzVz91Fk34wEVdTwnkXq3) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 | 2025-06-27 |  |
 | [I'm In Love](https://open.spotify.com/track/7LCD89We5JZALirKxgsGXM) | [Jennifer Lara](https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4) | [Rare Funk & Disco 42](https://open.spotify.com/album/5FCTng1W3Mu7QxS4XSxMcl) | 3:29 | 2025-05-31 |  |
 | [I'm in Love](https://open.spotify.com/track/2ygoMI0BxQ0MYrKMevSsqb) | [Junior Kimbrough](https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr) | [Sad Days, Lonely Nights](https://open.spotify.com/album/2g1i64zCARGWm8i2k3ipGK) | 5:04 | 2025-06-27 | 2025-07-10 |

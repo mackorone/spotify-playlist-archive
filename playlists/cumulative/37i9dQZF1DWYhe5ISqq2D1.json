@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/6EDT74EiZ5pKdiTuGpeD0O"
+      },
+      "artists": [
+        {
+          "name": "Soala",
+          "url": "https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer"
+        }
+      ],
+      "date_added": "2025-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211493,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2uoJ1GfCQHmwqmKNAYSauH"
+    },
+    {
+      "album": {
         "name": "Minds & Colors",
         "url": "https://open.spotify.com/album/2kGVYLGUhJ9pSRr7jOOs36"
       },
@@ -3850,7 +3868,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 186733,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh"
@@ -7542,7 +7560,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 180406,
       "name": "SPEC!",
       "url": "https://open.spotify.com/track/7v00K6vAKAntMGSZv58UPc"
@@ -16056,7 +16074,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-21",
       "duration_ms": 249066,
       "name": "\u5e7b\u754c",
       "url": "https://open.spotify.com/track/3UELWrwO3UU5nIJxGKGpIB"

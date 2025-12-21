@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Vamos calentando motores para Navidad 🎄 Grupo Firme y Lenin Ramírez en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106,450 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,625 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 12 | [Otro Como Tú](https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Otro Como Tú](https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S) | 3:22 |
 | 13 | [Dueles](https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Dueles](https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN) | 2:55 |
 | 14 | [Ni Que Fuera](https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Ni Que Fuera](https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO) | 2:43 |
-| 15 | [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:42 |
+| 15 | [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:44 |
 | 16 | [Honguito](https://open.spotify.com/track/3g9a7CuaRwsv498HmPH7vC) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Honguito](https://open.spotify.com/album/5jY0ca4qtVTPNzlLr24CRm) | 2:42 |
 | 17 | [HOY SE GUAYA](https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [HOY SE GUAYA](https://open.spotify.com/album/4bDcoGYOho0rcPLm7FV8Te) | 2:55 |
 | 18 | [Someday at Christmas \- Live from the Eiffel Tower](https://open.spotify.com/track/1IXeMbM6xaF859CNv7E9S2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christmas in Paris](https://open.spotify.com/album/7vbYwDcTugkSP4WGZeIpbI) | 4:10 |

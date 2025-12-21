@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with IDEMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,559 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,606 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 |
+| 1 | [The Way I Are \- Max Dean Remix \- Extended](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix \- Extended\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 |
 | 2 | [How Deep Are Your Dreams?](https://open.spotify.com/track/31YCj2AQ7DMeMLVvtwfxhM) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [How Deep Are Your Dreams?](https://open.spotify.com/album/3d4ePJKLgTDCOfuPz4Jrl7) | 3:48 |
 | 3 | [Point Zero](https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:11 |
 | 4 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Big Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,516 likes - 121 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,517 likes - 121 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 120 | [Bear Creek Clay](https://open.spotify.com/track/3HrhchVnpyeXwpmA5dW2zC) | [Pitney Meyer](https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh), [Mo Pitney](https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4), [Johnny Meyer](https://open.spotify.com/artist/5Es4Wqq8MnDt35kqLhPFZh) | [Bear Creek Clay](https://open.spotify.com/album/7vrTG3jiHOAPgavHacBtxr) | 2:45 |
 | 121 | [Shake It For Me Baby \(feat\. Rob McCoury\)](https://open.spotify.com/track/536geID7EzIvPztEwiX9aW) | [Mike Flanigin](https://open.spotify.com/artist/7cnkDX28roNvytHJoViAkD), [Rob McCoury](https://open.spotify.com/artist/4IJwKdebetLghTmxqpao3V) | [Shake It For Me Baby \(feat\. Rob McCoury\)](https://open.spotify.com/album/6gucywFL8zTiNvYFvEAJRS) | 2:53 |
 
-Snapshot ID: `AAAAAGM6CftKq5/kOsDmkPbiFOOMl4U1`
+Snapshot ID: `AAAAAOF1SxAJnWcRr2uUF5mFcMSZ4FyM`

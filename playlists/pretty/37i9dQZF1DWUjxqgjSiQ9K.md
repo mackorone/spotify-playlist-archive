@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,904 likes - 80 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,996 likes - 80 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 79 | [Barro](https://open.spotify.com/track/5ch9ic7jJvh2Y9uDSjXzgM) | [Kairo Worship](https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Barro](https://open.spotify.com/album/7vmYLmjGtBR6iM8SsundgH) | 21:32 |
 | 80 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
 
-Snapshot ID: `AAAAAEY5cXk6sphOLtH4KmWvPl7q/Q6O`
+Snapshot ID: `AAAAAIPeBzD1IKloEzXh25mgrYKGZdIN`

@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-888 songs - 1 day 18 hr 59 min
+889 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Casanova](https://open.spotify.com/track/6J7xEQtzvdCzEcwdDVRSR1) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Casanova](https://open.spotify.com/album/1XWnTZtP6EICZa34XlISes) | 3:03 | 2024-05-03 | 2024-06-28 |
 | [Case](https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Case](https://open.spotify.com/album/3vhhduoyZmze3Av47M9OvM) | 3:22 | 2024-02-13 | 2024-02-16 |
 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 | 2024-02-02 | 2024-06-28 |
-| [Chances](https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Chances](https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq) | 2:44 | 2025-09-05 |  |
+| [Chances](https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Chances](https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq) | 2:44 | 2025-09-05 | 2025-12-21 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2024-04-19 |
 | [Charm](https://open.spotify.com/track/3de3ASYwXvqgEzqJaMWYEQ) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 3:24 | 2024-04-19 | 2024-06-28 |
 | [Check & Balance](https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5) | [Synnex Music](https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB), [Musta4a](https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9) | [Check & Balance](https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx) | 2:36 | 2025-08-25 | 2025-09-29 |
@@ -196,6 +196,7 @@
 | [Dangerous](https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Dangerous](https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI) | 3:01 | 2023-01-13 | 2023-03-30 |
 | [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-18 | 2023-01-20 |
 | [Darling \- Focus](https://open.spotify.com/track/59klPCK4zRYws4adUXJkYg) | [Boi Chase](https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb) | [Darling \- Focus](https://open.spotify.com/album/7Ef8FXjbmBIq38AYmrdzCq) | 1:52 | 2025-04-07 | 2025-08-26 |
+| [Day n Nite](https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Day n Nite](https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J) | 2:22 | 2025-12-19 |  |
 | [Days Pass By](https://open.spotify.com/track/0VXpnz5jbnBD1FWId6uXVn) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Days Pass By](https://open.spotify.com/album/3SNTjv4aCRRWMfZTNy8hYP) | 2:26 | 2024-11-22 | 2025-06-28 |
 | [Deep](https://open.spotify.com/track/0qhfALctZENRjIITNtqWti) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2024-10-04 | 2025-08-26 |
 | [Desire](https://open.spotify.com/track/0U1EVGdTkRoDogEAlKv8Go) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Recess](https://open.spotify.com/album/6CkWdslQmB9E9XdYD9opr6) | 2:36 | 2024-12-06 | 2025-04-06 |

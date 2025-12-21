@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22543,
+  "num_followers": 22546,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "SOLEAO",
         "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Mar de Rosas",
-        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Mar de Rosas",
-      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Repare",
         "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 202245,
       "name": "Repare",
       "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Mar de Rosas",
+        "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Mar de Rosas",
+      "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -843,22 +843,26 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Asop\u00f8",
-        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
+        "name": "Intens\u00e3o",
+        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
       },
       "artists": [
         {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
         }
       ],
-      "duration_ms": 195421,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
+      "duration_ms": 210526,
+      "name": "Intens\u00e3o",
+      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -887,26 +891,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Intens\u00e3o",
-        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
+        "name": "Asop\u00f8",
+        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
       },
       "artists": [
         {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 210526,
-      "name": "Intens\u00e3o",
-      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
+      "duration_ms": 195421,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -939,50 +939,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Rolls Royce",
-        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "TR3VAS",
-          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Rolls Royce",
-      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "fases",
         "url": "https://open.spotify.com/album/2yT1thUgDc2RHUVpv37Uyb"
       },
@@ -1007,6 +963,30 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "P\u00f4kas / Mfalme",
         "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 345022,
       "name": "P\u00f4kas",
       "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 191463,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Porta Aberta",
         "url": "https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H"
       },
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
         "name": "MAIS VERDE",
         "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
       },
@@ -1123,26 +1123,6 @@
       "duration_ms": 208000,
       "name": "MAIS VERDE",
       "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150094,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1163,6 +1143,26 @@
       "duration_ms": 164000,
       "name": "Blues",
       "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150094,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Guetto Wave\u2019s",
         "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 193661,
       "name": "Soul da Noite.",
       "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "12 de Junho",
-        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "12 de Junho",
-      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "1 a 1.",
         "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
       },
@@ -1395,26 +1375,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -1431,6 +1391,46 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "12 de Junho",
+        "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "12 de Junho",
+      "url": "https://open.spotify.com/track/7EzBbffkrBToB3Gh7kvP8c"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-12-11 16:00:17",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 91356,
+  "num_followers": 91343,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,26 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
+        "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
+      },
+      "artists": [
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 147807,
+      "name": "Mit\u00e4 vaan",
+      "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Unitas Sigma",
         "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 203920,
       "name": "Sillat - Unitas Sigma",
       "url": "https://open.spotify.com/track/0Zlma6HSkzlQDGoGMmrtS9"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Mit\u00e4 vaan / Syyt\u00e4 t\u00e4t\u00e4 iltaa",
-        "url": "https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD"
-      },
-      "artists": [
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        },
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 147807,
-      "name": "Mit\u00e4 vaan",
-      "url": "https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -423,6 +423,30 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Tello Tape",
+        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 196915,
+      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
+      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Jos ei oo meit",
         "url": "https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd"
       },
@@ -451,30 +475,6 @@
       "duration_ms": 180534,
       "name": "Jos t\u00e4\u00e4 ei oo se",
       "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Tello Tape",
-        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
-      },
-      "artists": [
-        {
-          "name": "Danitello",
-          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 196915,
-      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
-      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Parempi mies",
-        "url": "https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a"
-      },
-      "artists": [
-        {
-          "name": "Sexmane",
-          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
-        }
-      ],
-      "duration_ms": 177928,
-      "name": "Parempi mies",
-      "url": "https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
         "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 154443,
       "name": "Ik\u00e4v\u00e4 mua",
       "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Parempi mies",
+        "url": "https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a"
+      },
+      "artists": [
+        {
+          "name": "Sexmane",
+          "url": "https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq"
+        }
+      ],
+      "duration_ms": 177928,
+      "name": "Parempi mies",
+      "url": "https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Kukkahattuset\u00e4 Freestyle",
+        "url": "https://open.spotify.com/album/1J6K7QIZ4mc8CZgJEtu35k"
+      },
+      "artists": [
+        {
+          "name": "Jokrates",
+          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
+        }
+      ],
+      "duration_ms": 116413,
+      "name": "Kukkahattuset\u00e4 Freestyle",
+      "url": "https://open.spotify.com/track/7Dc0Mf1GxczoZQJGUYWkpj"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Mit\u00e4 jos?",
         "url": "https://open.spotify.com/album/4aZhGEemQewECZbqQrFAkw"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 190191,
       "name": "Mit\u00e4 jos?",
       "url": "https://open.spotify.com/track/2c8jKORMUzoB2Gy5Zoc8BF"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Kukkahattuset\u00e4 Freestyle",
-        "url": "https://open.spotify.com/album/1J6K7QIZ4mc8CZgJEtu35k"
-      },
-      "artists": [
-        {
-          "name": "Jokrates",
-          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
-        }
-      ],
-      "duration_ms": 116413,
-      "name": "Kukkahattuset\u00e4 Freestyle",
-      "url": "https://open.spotify.com/track/7Dc0Mf1GxczoZQJGUYWkpj"
     },
     {
       "added_at": "2025-12-18 22:00:31",

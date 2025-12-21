@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-439 songs - 1 day 2 hr 7 min
+440 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [Space Trip](https://open.spotify.com/track/1tXXkKnv5QfIQ88XNNPvbf) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Space Trip](https://open.spotify.com/album/2cPvcE5SPbVPyWNGOsisRD) | 2:50 | 2023-03-26 | 2023-04-10 |
 | [Spam](https://open.spotify.com/track/0dEY2uCcwVSkk2Zk8q6fAm) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Spam EP](https://open.spotify.com/album/4b6vJdlkIU8jbqecXaeOKa) | 2:29 | 2023-08-20 | 2023-09-26 |
 | [Spatial](https://open.spotify.com/track/3Fxceybn6mUOFlAHIz3Zsn) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial](https://open.spotify.com/album/6b7WFerr0JRtw8X5H9L9IS) | 2:15 | 2025-12-10 |  |
+| [Spectacular](https://open.spotify.com/track/0xIEDcRTdiBBPjvcelpp8L) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu) | [Spectacular](https://open.spotify.com/album/1KOpwNonQK0U80u3gAxb8O) | 3:41 | 2025-12-20 |  |
 | [State Of Mind](https://open.spotify.com/track/7I6VWFNZoUo0gRDYiAcC4M) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [State Of Mind / Westside Trippin](https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ) | 3:36 | 2023-03-05 | 2023-03-20 |
 | [Step Into It](https://open.spotify.com/track/533T9iIMBhmRXcKVH48CxO) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Step Into It](https://open.spotify.com/album/3beTqABOznAfcdIZraOboj) | 3:15 | 2023-01-29 | 2023-03-06 |
 | [Still Pushin' \- Radio Edit](https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV) | [YOUniverse \(IT\)](https://open.spotify.com/artist/3q3smKL7PiVd9oFRPvB7Ii), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Still Pushin'](https://open.spotify.com/album/5XkhKswrwGVMQB6izwSj4W) | 3:12 | 2024-04-14 | 2024-07-08 |

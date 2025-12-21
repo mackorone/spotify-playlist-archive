@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,807 likes - 125 songs - 6 hr 48 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,809 likes - 125 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 6 | [Taking Me Higher](https://open.spotify.com/track/3xhHrJujvMsuArqRj9QLWy) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Taking Me Higher](https://open.spotify.com/album/1kR2yImBZtp7TqlUo1boZV) | 3:46 |
 | 7 | [Jupiter](https://open.spotify.com/track/5dB0r1IzsxwI1JWjycmP8C) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [TOOLS 4 HARDWORKERS 005](https://open.spotify.com/album/5dtispZzlDlvWYFEk9WqmG) | 5:10 |
 | 8 | [Touch It](https://open.spotify.com/track/1dw6NEuLrDfbbKa5WHYmSl) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Touch It](https://open.spotify.com/album/05anKE7TRV73zvmE6eQyko) | 3:32 |
-| 9 | [The Way I Are \- Max Dean Remix](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 |
+| 9 | [The Way I Are \- Max Dean Remix \- Extended](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix \- Extended\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 |
 | 10 | [Renegade](https://open.spotify.com/track/5tRIPbsFHjYUPgJvj9Ktol) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Renegade](https://open.spotify.com/album/25Y3JMuvFsIO1cSDriMKqQ) | 3:05 |
 | 11 | [Fancy $hit \- Skepsis Remix](https://open.spotify.com/track/6vrHmb5lwdWKc9kdhGUv7Z) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Fancy $hit \(Skepsis Remix\)](https://open.spotify.com/album/0p1P9uYMuVESTEoj4uDUCG) | 2:37 |
 | 12 | [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 |

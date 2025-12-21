@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "3 Shot Espresso",
+        "url": "https://open.spotify.com/album/4WSmXPDiYGb0NoZwllnP3O"
+      },
+      "artists": [
+        {
+          "name": "METODI",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2025-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257892,
+      "name": "3 Shot Espresso",
+      "url": "https://open.spotify.com/track/12Wv0v8E8fgVIvZFTmkWt8"
+    },
+    {
+      "album": {
         "name": "Afraid of the Time",
         "url": "https://open.spotify.com/album/2YF493Mn9nfimBiveq5lZ5"
       },

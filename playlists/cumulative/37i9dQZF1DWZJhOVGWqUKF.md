@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Tom Morello, Beartooth
 
-775 songs - 1 day 20 hr 8 min
+776 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Growing Numb](https://open.spotify.com/track/2BgO2kaEPZOL0LDEPubOEF) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Soft Noise](https://open.spotify.com/album/3NhMG4t5Jt8fKwGEXeXc1A) | 3:59 | 2024-11-28 | 2024-12-13 |
 | [Grown Up](https://open.spotify.com/track/7Dp9v2Z4X8coGY1r36tJmt) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [Grown Up](https://open.spotify.com/album/2Fxdg9fTIT0tSL6mF820Y7) | 1:45 | 2025-09-11 | 2025-09-19 |
 | [Guardian](https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Guardian](https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8) | 3:14 | 2025-12-04 |  |
-| [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-06 |  |
+| [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-06 | 2025-12-21 |
 | [H3ART](https://open.spotify.com/track/2HwyEx4K2GQgd6qeHHwW2G) | [Generation.F](https://open.spotify.com/artist/7GeVC42xynFBkB6k4R5upa) | [H3ART](https://open.spotify.com/album/3mWCpFJ6BCujuMNFHBlLzd) | 3:41 | 2024-08-08 | 2024-08-20 |
 | [Halfway Famous](https://open.spotify.com/track/19gWJsiVulKfzXFvP4LQS7) | [No Soul Society](https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS) | ["This Isn't Real" Mixtape](https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ) | 3:21 | 2025-08-29 | 2025-09-06 |
 | [Halloween](https://open.spotify.com/track/0gMm1LKXxHHCbKAmExoA9d) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Halloween](https://open.spotify.com/album/1xBwJ6Wdfgdx6XZvwtpNwl) | 3:29 | 2025-10-30 | 2025-11-07 |
@@ -393,6 +393,7 @@
 | [Lazy Sod](https://open.spotify.com/track/4HHOsyrXFH2dB3ySFGIfpf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Lazy Sod](https://open.spotify.com/album/7MpBUXAl2vo4ODN9kdpVT9) | 3:40 | 2024-07-04 | 2024-07-19 |
 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 | 2025-07-10 | 2025-09-03 |
 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 | 2024-06-27 | 2024-12-20 |
+| [Let There Be Shred](https://open.spotify.com/track/18HAI5WUpc0f18ZpCDrPa0) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Let There Be Shred](https://open.spotify.com/album/5ccNJ8oSnyKPgTwK0ntWHz) | 3:58 | 2025-12-18 |  |
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-15 | 2025-06-20 |
 | [Lie To Me](https://open.spotify.com/track/6l1OyKCt9mdDqRC2J1LQ0H) | [Chiefland](https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW) | [Lie To Me](https://open.spotify.com/album/4I6LcxtZoRqaZYIAA6Na9L) | 3:00 | 2025-05-08 | 2025-05-16 |
 | [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2Qmf8FFj2zKicY86pitOI3) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Light Can Only Shine In The Darkness](https://open.spotify.com/album/6chFakF4QAf8X0BvU1Hf52) | 3:36 | 2025-07-24 | 2025-08-24 |

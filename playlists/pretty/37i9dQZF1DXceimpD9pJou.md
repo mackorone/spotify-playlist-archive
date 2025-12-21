@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Felipe S\. Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,879 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,889 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Dinero y Poder](https://open.spotify.com/track/3GHOsg4fBZD8p13fdusbbI) | [Mr\. Fonsy](https://open.spotify.com/artist/2bt2ykTXwoOHfg8pQo5FSh), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Dinero y Poder](https://open.spotify.com/album/2gaEl63eG6dptCb7GzJriT) | 2:43 |
 | 100 | [Consciente](https://open.spotify.com/track/1yG2rZOxS8nhdM9YjRbZSv) | [Giovani](https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG), [Yarielofficial](https://open.spotify.com/artist/2g0PVe0auNAM1mMHTcntcx) | [Consciente](https://open.spotify.com/album/37eLIftd7dGtOZDArOSn2y) | 2:33 |
 
-Snapshot ID: `AAAAAATaZ9Dy2XilpUhJzu0Btf4nJDVu`
+Snapshot ID: `AAAAACn7tfixPfFAU2zsAxNKoHkrVIv1`

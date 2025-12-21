@@ -4,7 +4,7 @@
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Peces Raros
 
-12,101 songs - 26 day 17 hr 11 min
+12,102 songs - 26 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11772,6 +11772,7 @@
 | [XQTECE?](https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [Omarcito Glock](https://open.spotify.com/artist/5hanOusf1zrEPAXTWJtvMD), [Zalo La Z](https://open.spotify.com/artist/0kBypOF0SIMAhMYaNb4Etn), [Enayy](https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ) | [XQTECE?](https://open.spotify.com/album/2e5r2q49amYBcZBPDnxAoK) | 3:54 | 2025-02-21 | 2025-03-01 |
 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 | 2022-08-12 | 2022-08-20 |
 | [XXL](https://open.spotify.com/track/2VtCQgBsKrwpi22g8q5nWz) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [XXL](https://open.spotify.com/album/2xWGZx7WeIt5sVKAFWC51e) | 2:36 | 2025-02-14 | 2025-02-22 |
+| [XXX](https://open.spotify.com/track/1khixdLGwMl94ThLBQT8x3) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo) | [XXX](https://open.spotify.com/album/0CYupcMeQ0INRvreQCjl9k) | 2:20 | 2025-12-12 |  |
 | [XXX2](https://open.spotify.com/track/10eG8B2yJvRGHn7P0IDnKL) | [Ryodan](https://open.spotify.com/artist/2wTtZEIbZz2KBoRuF2xLRl) | [XXX2](https://open.spotify.com/album/7eliChsSXBZlJtcvHcUfeN) | 1:45 | 2023-02-17 | 2023-02-25 |
 | [Xxx\_Rosario\_xxX](https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Saliendo del Planeta](https://open.spotify.com/album/4c9baK6KJXLlly01POapWY) | 3:08 | 2023-12-22 | 2024-01-05 |
 | [Xxxmas](https://open.spotify.com/track/67vStLBNidIrDzYyF0szuq) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Xxxmas](https://open.spotify.com/album/0upxX0pAdYzafSDB2LXVqe) | 2:28 | 2025-12-12 |  |

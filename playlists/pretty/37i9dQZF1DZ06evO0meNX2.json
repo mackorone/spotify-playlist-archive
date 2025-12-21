@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 41807,
+  "num_followers": 41819,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUNEAAAAAADjllUJheOzDf/VpAJMZE9G",
+  "snapshot_id": "aUSVgAAAAAAr4qplxSLfHhX76zzhtLZ0",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 245076,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/5rHHjCMAWQbTsM9T4b98I0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notas Musicales",
         "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 250991,
       "name": "Notas Musicales",
       "url": "https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 245076,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/5rHHjCMAWQbTsM9T4b98I0"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 179605,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mimimi",
         "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 179778,
       "name": "Mimimi",
       "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 179605,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/3ACSiYnQcqaKf0p3OfzQrU"
     }
   ],
   "unique_name": "This Is Codiciado",
