@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 187749,
       "name": "Dreamscape Calmitude",
       "url": "https://open.spotify.com/track/1gnYXbQ7MVciBMO5MtXIfN"
@@ -5078,7 +5078,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 158166,
       "name": "Eternal Oasis",
       "url": "https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc"
@@ -10903,6 +10903,24 @@
     },
     {
       "album": {
+        "name": "Profondo",
+        "url": "https://open.spotify.com/album/1Ze2F6nordqswiFJ4ZbPy8"
+      },
+      "artists": [
+        {
+          "name": "Nebula Somni",
+          "url": "https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164077,
+      "name": "Profondo",
+      "url": "https://open.spotify.com/track/7EDTBzNFkNrHmE8dFnb3AL"
+    },
+    {
+      "album": {
         "name": "Profusion of Dreams",
         "url": "https://open.spotify.com/album/6cZalJG7mYR8bkzWJPf6Bn"
       },
@@ -14500,6 +14518,24 @@
       "duration_ms": 246655,
       "name": "The Road Back",
       "url": "https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4"
+    },
+    {
+      "album": {
+        "name": "The Sands Of Time",
+        "url": "https://open.spotify.com/album/3EnD16S2cegLLGw9hwFJ6K"
+      },
+      "artists": [
+        {
+          "name": "Benjin Blund",
+          "url": "https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164311,
+      "name": "The Sands Of Time",
+      "url": "https://open.spotify.com/track/14eeOIv9mDtcXTJJua4XBz"
     },
     {
       "album": {

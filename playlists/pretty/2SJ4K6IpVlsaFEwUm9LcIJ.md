@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,694 likes - 38 songs - 2 hr 42 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,695 likes - 40 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 36 | [I Have The Touch](https://open.spotify.com/track/7gl4P3X846By90qi9uolSM) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 4: Security \(Remastered Version\)](https://open.spotify.com/album/0O3lEaGkc2Q8TkxCShZyfa) | 4:35 |
 | 37 | [When Love Lived](https://open.spotify.com/track/0Uqaq9LjLtbWD1AORKGoOx) | [Earth House Hold](https://open.spotify.com/artist/7hWxpOKCS5F6mYf4NCrP8J) | [When Love Lived](https://open.spotify.com/album/2b6UF3nj6sWjdIM5cNkrGr) | 10:13 |
 | 38 | [Touched By Rodin In A Paris Museum](https://open.spotify.com/track/7IIY6X0BkfnPD8h3dz1t8G) | [Patty Waters](https://open.spotify.com/artist/51Oyt5Jb1UvVmT9n90T8cY) | [You Thrill Me: A Musical Odyssey 1960 \- 1979](https://open.spotify.com/album/7tuWv7aOp4XP9J9M7zFTHy) | 14:36 |
+| 39 | [Sparrowsong](https://open.spotify.com/track/52MWdbfrFoFm7Yd4ai894U) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Shieling](https://open.spotify.com/album/6TR2hNF3iX8z7NuY0WqPac) | 3:46 |
+| 40 | [The Failure Of The Leading Sign Industry](https://open.spotify.com/track/5rkLS6rRzCx5Y5ExiFgih4) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [I Thought I Was Over That](https://open.spotify.com/album/1sMD93TOAOcqfPtfaGil5K) | 1:27 |
 
-Snapshot ID: `AAANiEAKNUxTpNyM7uvKCebXAc/EEGkj`
+Snapshot ID: `AAANitKpuAyEzin0V60HcB6/b0rwHDzT`

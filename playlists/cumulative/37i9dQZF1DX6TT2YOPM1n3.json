@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Bhool",
+        "url": "https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Bhool",
+      "url": "https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE"
+    },
+    {
+      "album": {
         "name": "BIG DAWG THING",
         "url": "https://open.spotify.com/album/0Bp1c8XFPOyJFgSSI9yOzr"
       },
@@ -944,6 +962,28 @@
       "duration_ms": 221132,
       "name": "Bulleya",
       "url": "https://open.spotify.com/track/6xIhjZX1ZtFIXg1IDa3DAi"
+    },
+    {
+      "album": {
+        "name": "Roshni",
+        "url": "https://open.spotify.com/album/4MMcwveAu8nkkq7IeSzpMS"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Chal Dil Mere",
+      "url": "https://open.spotify.com/track/5KChlGYLI6wIPnDR3OTaFK"
     },
     {
       "album": {
@@ -1144,7 +1184,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 206132,
       "name": "Cold Hours",
       "url": "https://open.spotify.com/track/0WZh83RUR70ZJzqo1hJ86M"
@@ -3544,7 +3584,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 158333,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0XtNMC1jG97ysiIvcAQDGN"
@@ -4583,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "Ronay Na Diyaa",
+        "url": "https://open.spotify.com/album/5Ia8AO7FlXh26zXuPiYdNn"
+      },
+      "artists": [
+        {
+          "name": "Ghayas Haider",
+          "url": "https://open.spotify.com/artist/2tkZLbhG41sN7Kf4MsiNrw"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205391,
+      "name": "Ronay Na Diyaa",
+      "url": "https://open.spotify.com/track/3O6hCRofBptFDA86oyrxSJ"
+    },
+    {
+      "album": {
         "name": "ROOP",
         "url": "https://open.spotify.com/album/4SkBxlilZZsloBNShyEXuE"
       },
@@ -5172,7 +5230,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 347040,
       "name": "Tera Mera Rishta",
       "url": "https://open.spotify.com/track/23T4WcVkvuaAEOgXr848i1"

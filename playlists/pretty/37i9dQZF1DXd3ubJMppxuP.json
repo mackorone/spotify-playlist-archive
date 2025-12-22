@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 85216,
+  "num_followers": 85230,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -363,26 +363,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Weet Je Wel Wie Wij Zijn",
-        "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6ssels",
-          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
-        },
-        {
-          "name": "Roosterz",
-          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
-        }
-      ],
-      "duration_ms": 170926,
-      "name": "Weet Je Wel Wie Wij Zijn",
-      "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "In De Hemel Is Geen Bier",
         "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 144000,
       "name": "In De Hemel Is Geen Bier",
       "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Weet Je Wel Wie Wij Zijn",
+        "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6ssels",
+          "url": "https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC"
+        },
+        {
+          "name": "Roosterz",
+          "url": "https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm"
+        }
+      ],
+      "duration_ms": 170926,
+      "name": "Weet Je Wel Wie Wij Zijn",
+      "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -651,6 +651,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Outsiders Remix EP",
+        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Rene Froger",
+          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+        }
+      ],
+      "duration_ms": 226245,
+      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Rave, Rinse, Repeat",
         "url": "https://open.spotify.com/album/08eNBdSHZJ90KQXsKPOi81"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 171561,
       "name": "Rave, Rinse, Repeat",
       "url": "https://open.spotify.com/track/4Ace8alexaAj3QHwprUqQq"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Outsiders Remix EP",
-        "url": "https://open.spotify.com/album/4h8wUzTlXc3kMkc8ClRJPJ"
-      },
-      "artists": [
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
-        }
-      ],
-      "duration_ms": 226245,
-      "name": "Bon Gepakt (feat. Rene Froger) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/1PciHKTKIJIUXNB459GHC1"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Als De Morgen Is Gekomen (Remix)",
+        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
+      },
+      "artists": [
+        {
+          "name": "Nederlandse Hardstyle",
+          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
+        }
+      ],
+      "duration_ms": 145241,
+      "name": "Als De Morgen Is Gekomen (Remix)",
+      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Nog Un Likkie! (Matt Ardeo & PartyTigers Remix)",
         "url": "https://open.spotify.com/album/1L9rITrHvWleou3YsiDAQx"
       },
@@ -847,42 +863,6 @@
       "duration_ms": 171200,
       "name": "Nog Un Likkie! - Matt Ardeo & PartyTigers Remix",
       "url": "https://open.spotify.com/track/6MkAsFZT1l2MmUZnDtNix7"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Als De Morgen Is Gekomen (Remix)",
-        "url": "https://open.spotify.com/album/7qTX3e6tbD9E0y4tFMeHnh"
-      },
-      "artists": [
-        {
-          "name": "Nederlandse Hardstyle",
-          "url": "https://open.spotify.com/artist/3Kj6Jw1opUnWyO3EgKHd3r"
-        }
-      ],
-      "duration_ms": 145241,
-      "name": "Als De Morgen Is Gekomen (Remix)",
-      "url": "https://open.spotify.com/track/7yNPDa3hkjmIOY8tWnLzar"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Pizza Met Ananas (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 184329,
-      "name": "Pizza Met Ananas - Outsiders Remix",
-      "url": "https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -935,6 +915,26 @@
       "duration_ms": 165375,
       "name": "Van God Los - Official 2025 Kamping Kitsch Club Anthem",
       "url": "https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Pizza Met Ananas (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 184329,
+      "name": "Pizza Met Ananas - Outsiders Remix",
+      "url": "https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu"
     },
     {
       "added_at": "2025-10-21 11:57:23",

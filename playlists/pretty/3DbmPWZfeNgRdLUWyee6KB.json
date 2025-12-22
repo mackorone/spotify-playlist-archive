@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1075,
+  "num_followers": 1076,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOF6jzqypp2tIcNJKQjt6CM1+EoUBE",
+  "snapshot_id": "AAAOGymAvhe77p8NXaxTD+SmeRWJQyyM",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -2739,6 +2739,70 @@
       "duration_ms": 412173,
       "name": "Sothu",
       "url": "https://open.spotify.com/track/0NJ2LQIXckdyBXQo1OIDvm"
+    },
+    {
+      "added_at": "2025-12-21 10:38:23",
+      "album": {
+        "name": "Our Place Behind the Stars",
+        "url": "https://open.spotify.com/album/6LNqoOjahbMiv5j00m9Maw"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "duration_ms": 259940,
+      "name": "Where Gods Lie",
+      "url": "https://open.spotify.com/track/2TVpP80tpLVOVeq1YKOlVV"
+    },
+    {
+      "added_at": "2025-12-21 17:04:16",
+      "album": {
+        "name": "Tu sei il mattino (Piano Session)",
+        "url": "https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM"
+      },
+      "artists": [
+        {
+          "name": "Michele Blasco",
+          "url": "https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW"
+        }
+      ],
+      "duration_ms": 204547,
+      "name": "Tu sei il mattino - Piano Session",
+      "url": "https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm"
+    },
+    {
+      "added_at": "2025-12-21 17:04:32",
+      "album": {
+        "name": "Scars (Official Instrumental)",
+        "url": "https://open.spotify.com/album/7I3GdOMzSU0CWfo1Jtcqzj"
+      },
+      "artists": [
+        {
+          "name": "t-WIN",
+          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
+        }
+      ],
+      "duration_ms": 186663,
+      "name": "Scars - Official Instrumental",
+      "url": "https://open.spotify.com/track/661f78h01ofUIAcUY4RJON"
+    },
+    {
+      "added_at": "2025-12-21 22:03:25",
+      "album": {
+        "name": "Un ciclo sin remedio",
+        "url": "https://open.spotify.com/album/7HKcT6JUt4O8fATJE0ic94"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Emilio Alvarez Parafita",
+          "url": "https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j"
+        }
+      ],
+      "duration_ms": 181454,
+      "name": "Disc\u00falpame por favor",
+      "url": "https://open.spotify.com/track/5cdp1jlB5RDbywqL9Kaiuk"
     }
   ],
   "unique_name": "New Indie Music",

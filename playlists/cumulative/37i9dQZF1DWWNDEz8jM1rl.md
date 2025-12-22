@@ -4,7 +4,7 @@
 
 > ¡Vamos a bailar con Dios!
 
-226 songs - 13 hr 10 min
+227 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 | 2020-09-18 | 2024-07-05 |
 | [Le Llaman Jesus](https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 3:52 | 2020-09-18 | 2024-07-05 |
 | [Libre Soy \(feat\. Alex Campos\)](https://open.spotify.com/track/78jFL7f7KpUdOc14RQ3mtt) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Generacion Radical](https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT) | 4:55 | 2024-08-23 | 2025-03-29 |
+| [Lo Mejor De La Vida \- Cumbia Remix](https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx) | [Lo Mejor De La Vida \(Cumbia Remix\)](https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC) | 2:59 | 2025-12-12 |  |
 | [Lo Mío Es Tuyo](https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih) | [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Lo Mío Es Tuyo](https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0) | 3:05 | 2024-07-05 |  |
 | [Locura](https://open.spotify.com/track/5hHDsJhk22leT1ve97m70j) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Jinys](https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir), [Guerrero De Cristo](https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H) | [Locura](https://open.spotify.com/album/1adMCOb4aseM7hhxcVC1wQ) | 3:26 | 2025-09-14 |  |
 | [Los Muros Caerán](https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 4:29 | 2024-08-23 | 2024-09-07 |
@@ -228,7 +229,7 @@
 | [Vive](https://open.spotify.com/track/5sbL2s9BSqy12XudGLmrje) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [VIVE](https://open.spotify.com/album/2brR0s3blQgdHhQaTIcEmH) | 3:43 | 2024-12-11 |  |
 | [Viviré](https://open.spotify.com/track/7K2qc56QUuCNYBfLAgziWR) | [Andrés Castellano RPR](https://open.spotify.com/artist/3RESoEHIMMDVnKeowXjmMq), [Maxi Larghi](https://open.spotify.com/artist/6jXQYWM55xKpAFPAYZcryE), [Braian El Legendario](https://open.spotify.com/artist/3qdCYLopZaOd4rdEWIpzxj) | [Viviré](https://open.spotify.com/album/0XNfWvVP85GebTkA0C3e1B) | 3:43 | 2025-09-14 | 2025-12-13 |
 | [Vivo por Cristo](https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d) | [Redimidos](https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7) | [Contigo Todo Es Posible](https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2) | 4:05 | 2020-09-18 | 2025-03-29 |
-| [Volverá](https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ) | [Maca Andres](https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [Volverá](https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7) | 2:48 | 2024-12-11 |  |
+| [Volverá](https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ) | [Maca Andres](https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7), [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [Volverá](https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7) | 2:48 | 2024-12-11 | 2025-12-22 |
 | [Yeshua Hamashiaj \- MelGod \- Remix](https://open.spotify.com/track/3nqBd4EKWTW822kwFikdVB) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [MelGod](https://open.spotify.com/artist/6WOIGIpz0WT33xUMVvEA7n) | [Yeshua Hamashiaj \- MelGod \(Remix\)](https://open.spotify.com/album/2XTIYiYuAmD7oIQBlp6Eeg) | 3:20 | 2025-09-14 |  |
 | [Yo Soy Cristiano](https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz), [La Cuarta Tribu](https://open.spotify.com/artist/53PHZJeh2gWISiEJs7wtz7) | [Yo Soy Cristiano](https://open.spotify.com/album/3ezTbT0FVV4rumNvbqXqRr) | 3:23 | 2025-03-28 |  |
 | [Yo Tierra, Tú Semilla](https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Soldados](https://open.spotify.com/album/408HP6kZX2afGve443MAyu) | 3:44 | 2020-09-18 | 2024-04-19 |

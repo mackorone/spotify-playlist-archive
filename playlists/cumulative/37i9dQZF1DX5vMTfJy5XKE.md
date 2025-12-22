@@ -2,7 +2,7 @@
 
 ### [New Music Holiday](https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE)
 
-> 'Tis the season! All new holiday releases\. Cover: Cher
+> 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
 1,092 songs - 2 day 10 hr 23 min
 

@@ -1656,10 +1656,28 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 219920,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/0GKtTYzxmksXnlTBNfZqgT"
+    },
+    {
+      "album": {
+        "name": "Soft Echoes",
+        "url": "https://open.spotify.com/album/2pSUXMvtm2I5VowwSgzenx"
+      },
+      "artists": [
+        {
+          "name": "Sienna Rose",
+          "url": "https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219920,
+      "name": "Breathe Again",
+      "url": "https://open.spotify.com/track/63aYFTVJyBKPdkUGqoAxTL"
     },
     {
       "album": {
@@ -4579,6 +4597,32 @@
     },
     {
       "album": {
+        "name": "Idolen",
+        "url": "https://open.spotify.com/album/4Uu7gSBUsHiZIy6EajKiXR"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140145,
+      "name": "Handbag Moet Van Een Merk Zijn",
+      "url": "https://open.spotify.com/track/1BYqFxfaZUG2bO8GZUKBHn"
+    },
+    {
+      "album": {
         "name": "HARDSTYLE IS BACK",
         "url": "https://open.spotify.com/album/1fS0q3BMSzn22GFWnlIbwW"
       },
@@ -5892,6 +5936,24 @@
     {
       "album": {
         "name": "Velvet Embrace",
+        "url": "https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70"
+      },
+      "artists": [
+        {
+          "name": "Sienna Rose",
+          "url": "https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Into the Blue",
+      "url": "https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ"
+    },
+    {
+      "album": {
+        "name": "Velvet Embrace",
         "url": "https://open.spotify.com/album/5VWMv18uhWoRqSL9UUkBFA"
       },
       "artists": [
@@ -5902,7 +5964,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 224480,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/5vuhKfNo001LxL7nh5Br7i"
@@ -7092,7 +7154,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
@@ -7110,7 +7172,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -7928,7 +7990,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 234810,
       "name": "Move As One (Official Thunderdome 2025 Anthem)",
       "url": "https://open.spotify.com/track/3uljsRfJgrU0WnAbKXOQdZ"
@@ -8170,7 +8232,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -8648,7 +8710,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 225787,
       "name": "Octopus (100.000 H\u00e4nde)",
       "url": "https://open.spotify.com/track/1FTHHYLGiFPujMx43PBcpm"

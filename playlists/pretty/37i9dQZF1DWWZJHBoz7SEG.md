@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Vamos calentando motores para Navidad 🎄 Grupo Firme y Lenin Ramírez en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,625 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,828 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 8 | [ASHE ASHE](https://open.spotify.com/track/0RyDhL726SsIW5X9Jv6DwB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Garena Free Fire](https://open.spotify.com/artist/6Lad89OaqnRo5nf7FyVipt) | [ASHE ASHE](https://open.spotify.com/album/5jumlYxx4AjDMUSYuMsFOQ) | 2:01 |
 | 9 | [TE PROMETO \- el fin de una era](https://open.spotify.com/track/3C5gQF6TaeIwLQcl8cog8y) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [RESPUESTAS A LAS 11:11](https://open.spotify.com/album/364IOd4AuHwxfLyC8fbCXQ) | 3:02 |
 | 10 | [Los Más Sueltos \(Remix\)](https://open.spotify.com/track/07KsWpzh1iP6OiUgcwc5rH) | [Joss ML](https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Los Más Sueltos \(Remix\)](https://open.spotify.com/album/6nBwbdfslYHIXl4khw2ssR) | 2:59 |
-| 11 | [MY LOVE](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MY LOVE](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
+| 11 | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
 | 12 | [Otro Como Tú](https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Otro Como Tú](https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S) | 3:22 |
 | 13 | [Dueles](https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t) | [Low](https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Dueles](https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN) | 2:55 |
 | 14 | [Ni Que Fuera](https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Ni Que Fuera](https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO) | 2:43 |

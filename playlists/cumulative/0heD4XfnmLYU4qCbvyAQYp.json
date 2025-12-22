@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Black Beach",
+        "url": "https://open.spotify.com/album/4kM8ETgFcYp1FwRGZO9gCn"
+      },
+      "artists": [
+        {
+          "name": "#R!sK",
+          "url": "https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152049,
+      "name": "Black Beach",
+      "url": "https://open.spotify.com/track/4GAfjkz3Df80JzLsCl8kKg"
+    },
+    {
+      "album": {
         "name": "Throne of Flies",
         "url": "https://open.spotify.com/album/3r31wntjvkorILoHmC2bav"
       },

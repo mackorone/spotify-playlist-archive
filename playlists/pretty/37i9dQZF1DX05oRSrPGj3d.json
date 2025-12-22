@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 285932,
+  "num_followers": 285953,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
-    },
-    {
-      "added_at": "2025-11-03 22:12:55",
-      "album": {
         "name": "Resurrection EP",
         "url": "https://open.spotify.com/album/7BagySvnOa3RQONCo7oJbx"
       },
@@ -899,18 +883,18 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Wicked Twisted Road",
-        "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
         {
-          "name": "Reckless Kelly",
-          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Wicked Twisted Road",
-      "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -927,6 +911,22 @@
       "duration_ms": 303000,
       "name": "The Road Goes On Forever",
       "url": "https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj"
+    },
+    {
+      "added_at": "2025-11-03 22:12:55",
+      "album": {
+        "name": "Wicked Twisted Road",
+        "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
+      },
+      "artists": [
+        {
+          "name": "Reckless Kelly",
+          "url": "https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg"
+        }
+      ],
+      "duration_ms": 205760,
+      "name": "Wicked Twisted Road",
+      "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": "2025-11-03 22:12:55",
-      "album": {
         "name": "Snake Farm",
         "url": "https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV"
       },
@@ -983,18 +967,34 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Just A Matter Of Time",
-        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 254613,
-      "name": "One More Goodbye",
-      "url": "https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX"
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
+    },
+    {
+      "added_at": "2025-11-03 22:12:55",
+      "album": {
+        "name": "Walking Distance",
+        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Feelin' Good Again",
+      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Walking Distance",
-        "url": "https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq"
+        "name": "Just A Matter Of Time",
+        "url": "https://open.spotify.com/album/1ZGlAnJ6h0f0pq4Ua78ntT"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
         }
       ],
-      "duration_ms": 196866,
-      "name": "Feelin' Good Again",
-      "url": "https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6"
+      "duration_ms": 254613,
+      "name": "One More Goodbye",
+      "url": "https://open.spotify.com/track/1kUV3tBwWb6FIEJZutbPgX"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "Willis Alan Ramsey",
-        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
+        "name": "With You Gone",
+        "url": "https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6"
       },
       "artists": [
         {
-          "name": "Willis Alan Ramsey",
-          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
+          "name": "David Pugh",
+          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
         }
       ],
-      "duration_ms": 258200,
-      "name": "Ballad Of Spider John",
-      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
+      "duration_ms": 246222,
+      "name": "With You Gone",
+      "url": "https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN"
     },
     {
       "added_at": "2025-11-03 22:12:55",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2025-11-03 22:12:55",
       "album": {
-        "name": "With You Gone",
-        "url": "https://open.spotify.com/album/4fPB3brCS9rOmoU54rIBK6"
+        "name": "Willis Alan Ramsey",
+        "url": "https://open.spotify.com/album/1isk3Q87nsxN1p47aBVyPL"
       },
       "artists": [
         {
-          "name": "David Pugh",
-          "url": "https://open.spotify.com/artist/78vWObWn1yGHBmZlZTXZog"
+          "name": "Willis Alan Ramsey",
+          "url": "https://open.spotify.com/artist/0e4Y5YLe1wySeraOkkUiAX"
         }
       ],
-      "duration_ms": 246222,
-      "name": "With You Gone",
-      "url": "https://open.spotify.com/track/2obuXeXtTvUx2O3cppurXN"
+      "duration_ms": 258200,
+      "name": "Ballad Of Spider John",
+      "url": "https://open.spotify.com/track/3FOkwx3AhHEuRBu1rUJCsd"
     }
   ],
   "unique_name": "Heart Of Texas",

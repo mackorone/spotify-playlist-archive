@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/smerz\-daniel\-caesar\-and\-the\-dawn">November newsletter w/ Daniel Caesar & Smerz is live 📿</a> Cover: Cameron Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,991 likes - 194 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,972 likes - 194 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

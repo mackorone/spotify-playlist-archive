@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Nko con Artie 5ive, Capo Plaza e Nerissima Serpe, Kid Yugi, Levante, Mr\. Rain, Anyma e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,062 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,055 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

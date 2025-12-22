@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-368 songs - 22 hr 25 min
+369 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Feliz Nochebuena](https://open.spotify.com/track/4uC2MaLgcwhU0Hvi4wgcOY) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Músical \- 40 Éxitos Inolvidables](https://open.spotify.com/album/2qqjxauiRKYCTksiZnp2ZF) | 3:13 | 2025-09-09 | 2025-10-04 |
 | [Festival En Guarare](https://open.spotify.com/track/0J3WJy4IGIaGcfWR85xv2g) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [30 Mejores](https://open.spotify.com/album/0IjPHQGoyrniScZYyYfWtE) | 2:58 | 2023-11-09 | 2023-12-14 |
 | [Festival en Guararé](https://open.spotify.com/track/5cOI16GNvBOmfgbuKV7kg2) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A), [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4) | [Mis Mejores Éxitos](https://open.spotify.com/album/3mXNuSz9Z5piZOVIHsfB4D) | 3:07 | 2025-09-09 | 2025-10-04 |
+| [Fiesta de Mi Pueblo](https://open.spotify.com/track/0WXMlNme92zpMKnORbFqcX) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 1:43 | 2025-12-17 |  |
 | [Golpe Con Golpe](https://open.spotify.com/track/62ebrScTyZO1d93HVmHvnb) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Historia Musical de Pastor López](https://open.spotify.com/album/1KsOjvT6ah4LQ7ewBUXWrf) | 3:33 | 2024-09-01 | 2025-11-16 |
 | [Golpe Con Golpe](https://open.spotify.com/track/7lG5rKK7defs3wLH3A1wtd) | [Pastor López](https://open.spotify.com/artist/5eHNeUjS4GogffJdQ1vVN5) | [Recordando a Pastor Lopez](https://open.spotify.com/album/5tmSVevQNFdbxFKTFOHWAk) | 3:30 | 2025-09-09 | 2025-10-04 |
 | [Grito Vagabundo](https://open.spotify.com/track/446pTrOb9GlhZgPMC3j6ye) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:52 | 2025-09-09 | 2025-10-04 |
@@ -179,7 +180,7 @@
 | [La Danza de los Mirlos \- Instrumental](https://open.spotify.com/track/2iOXvCGxOqsTw5YQbn5gTY) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Afrosound](https://open.spotify.com/album/6in40IqHfe77K9tnK7gQ2q) | 2:54 | 2023-02-03 | 2024-09-02 |
 | [La Derrota](https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:16 | 2023-02-03 | 2024-09-02 |
 | [La Dueña de Mi Suerte](https://open.spotify.com/track/6d2ZhAW3xzDwI5fDVbas02) | [Ramiro Padilla](https://open.spotify.com/artist/1tQn5ARp4znqONd5kRJ3sC), [Joche Zuluaga](https://open.spotify.com/artist/6R87zpyEKipf23mOQTVivs) | [Más Románticos](https://open.spotify.com/album/7pG9FNDuH1ExtPjOGOJ7MK) | 5:11 | 2023-11-09 | 2024-04-19 |
-| [La Dueña de Mi Suerte](https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco) | [Ramiro Y Joche](https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1) | [Premio Platino para los Vallenatos Nueva Generación](https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI) | 5:05 | 2023-12-20 |  |
+| [La Dueña de Mi Suerte](https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco) | [Ramiro Y Joche](https://open.spotify.com/artist/7Is8U6C3xnnwIf3PQuAsI1) | [Premio Platino para los Vallenatos Nueva Generación](https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI) | 5:05 | 2023-12-20 | 2025-12-22 |
 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 | 2023-02-03 | 2024-09-02 |
 | [La Matica](https://open.spotify.com/track/37TH0D7WqEAjnKKjSWVCCa) | [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [Banda Los Hijos De La Niña Luz](https://open.spotify.com/album/5RGfBz5Vn70danDfxPRNry) | 3:58 | 2023-12-05 | 2025-10-04 |
 | [La Mesa Del Rincón](https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Los Dos Plebes](https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK) | 3:23 | 2023-02-03 | 2024-09-02 |

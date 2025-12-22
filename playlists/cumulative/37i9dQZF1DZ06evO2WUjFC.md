@@ -4,11 +4,12 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-155 songs - 8 hr 35 min
+156 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [200 COPAS \- En Vivo](https://open.spotify.com/track/4XT2sT6AhEjI7O7dFsLWrH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:01 | 2025-07-13 | 2025-09-17 |
+| [30 Cartas \- En Vivo](https://open.spotify.com/track/0GVN5krhhtWiyBmZaUZpD5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 4:07 | 2025-12-22 |  |
 | [A Mi Me Perteneces \(Live\)](https://open.spotify.com/track/5pMTvK0B21I1xIJuyAwKks) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 3:42 | 2025-07-20 | 2025-08-07 |
 | [A Quién No Le Gusta Eso \- En Vivo](https://open.spotify.com/track/6UMAQA7SccxUbw4oA0AIkf) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [A Quién No Le Gusta Eso \(En Vivo\)](https://open.spotify.com/album/5j2VUYmnBUtDCQJrMID12X) | 5:59 | 2024-06-13 | 2024-08-08 |
 | [AMG \- En Vivo](https://open.spotify.com/track/0YlNa1FpjxrmtqnorgBVLY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:45 | 2025-01-22 | 2025-07-28 |
@@ -70,7 +71,7 @@
 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 |  |
 | [El Tucanazo \- En Vivo](https://open.spotify.com/track/08EQVtwQGWyXRUNYeXBwMz) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:10 | 2025-12-21 |  |
 | [fake](https://open.spotify.com/track/4g42FsFm9WVhl1fReFPxNg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:56 | 2024-06-09 | 2024-06-22 |
-| [Falsas Amistades](https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8), [Grupo Xclusivo](https://open.spotify.com/artist/3ow1pOzmEWbtGbqtMUXHdq), [El Buffalo](https://open.spotify.com/artist/2TeBC9zX5PmG0YzvtGIbWe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Falsas Amistades](https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT) | 3:44 | 2024-01-29 |  |
+| [Falsas Amistades](https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8), [Grupo Xclusivo](https://open.spotify.com/artist/3ow1pOzmEWbtGbqtMUXHdq), [El Buffalo](https://open.spotify.com/artist/2TeBC9zX5PmG0YzvtGIbWe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Falsas Amistades](https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT) | 3:44 | 2024-01-29 | 2025-12-22 |
 | [Fiesta En La Sierra \- En Vivo](https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 5:04 | 2025-01-12 |  |
 | [Fin De Semana \- En Vivo](https://open.spotify.com/track/1OVkTf8DQn3007lhgUVuTB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 4:12 | 2025-02-04 | 2025-02-18 |
 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 | 2024-01-29 | 2025-10-07 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Beat Boy y Victor Mendivil en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,876 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,844 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pase y Toque](https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6) | [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Pase y Toque](https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3) | 2:48 |
-| 2 | [MY LOVE](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MY LOVE](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
+| 2 | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
 | 3 | [FELINASS](https://open.spotify.com/track/7m1Q6d6wr5NACufqR3Zuvz) | [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [LOS DEL GLAMOÜR](https://open.spotify.com/album/2U5gfW5Iu34J8AZKkOWSBJ) | 3:13 |
 | 4 | [LAS CONTRARIAS](https://open.spotify.com/track/0aQDlTxWsB9phpxMp7PKOB) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LAS CONTRARIAS](https://open.spotify.com/album/0MPslKgX9SCETY6Rs72FcQ) | 3:01 |
 | 5 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |

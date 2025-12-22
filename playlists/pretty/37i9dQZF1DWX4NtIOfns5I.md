@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > jake minch\. that's it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,014 likes - 160 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,023 likes - 160 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

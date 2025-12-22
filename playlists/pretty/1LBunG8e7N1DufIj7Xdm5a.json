@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 248,
+  "num_followers": 251,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGWfhAPy5fl9xA8mdnzHRkWadytn9A",
+  "snapshot_id": "AAAGXOXj9ARYpVxCrHiXgza9+c3/Fh1B",
   "tracks": [
     {
       "added_at": "2025-12-14 23:10:38",
@@ -61855,6 +61855,54 @@
       "duration_ms": 238250,
       "name": "Doubling Down",
       "url": "https://open.spotify.com/track/7gXtVsi4nxUp6r6adDaQO8"
+    },
+    {
+      "added_at": "2025-12-21 11:48:10",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1I6yKEF5aHqj1YItc21dIh"
+      },
+      "artists": [
+        {
+          "name": "Double'D",
+          "url": "https://open.spotify.com/artist/3E408YByYaGLDLkP5MMYYX"
+        }
+      ],
+      "duration_ms": 132052,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/5ADzfBmVwBYHcqfoTxj9D7"
+    },
+    {
+      "added_at": "2025-12-21 22:44:05",
+      "album": {
+        "name": "Stockholm Syndrome",
+        "url": "https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB"
+      },
+      "artists": [
+        {
+          "name": "Arnold Alaniz",
+          "url": "https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR"
+    },
+    {
+      "added_at": "2025-12-21 22:44:07",
+      "album": {
+        "name": "I am not the one",
+        "url": "https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk"
+      },
+      "artists": [
+        {
+          "name": "ilhan akkaya",
+          "url": "https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV"
+        }
+      ],
+      "duration_ms": 240018,
+      "name": "Shadows of the night",
+      "url": "https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG"
     }
   ],
   "unique_name": "playlist spotify free",

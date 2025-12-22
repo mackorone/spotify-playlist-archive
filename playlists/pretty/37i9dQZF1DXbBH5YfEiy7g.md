@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Sneziey
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,309 likes - 99 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,380 likes - 99 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

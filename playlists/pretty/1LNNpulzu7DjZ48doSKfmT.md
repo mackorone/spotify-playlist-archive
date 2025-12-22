@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 451 likes - 541 songs - 1 day 4 hr 0 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 451 likes - 542 songs - 1 day 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -549,5 +549,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 539 | [Apology](https://open.spotify.com/track/2wdAXsku85d1vbcd6Pp3u4) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Apology](https://open.spotify.com/album/0nXerWAPAYXOvN4ty5PjzJ) | 2:40 |
 | 540 | [Liar Liar](https://open.spotify.com/track/2IBdJeKUQJTaP5Ue4neDFr) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Classic Favoritism](https://open.spotify.com/album/3ZQfefsjENuhY1bi2CqPMd) | 2:41 |
 | 541 | [Tchéké](https://open.spotify.com/track/0kwudsrhzaxvk0OggRPwmm) | [Kento](https://open.spotify.com/artist/0vjUtQS6oymGeehfZsSaGJ) | [Tchéké](https://open.spotify.com/album/0iFlCXwIzB0JLCjrCGeJqK) | 2:28 |
+| 542 | [O Nome É Teu \(Trip Na Floresta\)](https://open.spotify.com/track/6FIbZwBVljRfIEqmr71T5h) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [The Jump out Helicopters](https://open.spotify.com/album/6yl8yZIaRCGFQEIw0K4Y1R) | 2:30 |
 
-Snapshot ID: `AAAXPrwYoRwPWyqDT2DRzjxwkFxxmZFe`
+Snapshot ID: `AAAXPx6TrbKtElg7WCwzlP+lq1IUQs4f`

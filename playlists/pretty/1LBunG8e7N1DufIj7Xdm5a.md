@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 248 likes - 3,789 songs - 8 day 8 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 251 likes - 3,792 songs - 8 day 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3797,5 +3797,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3787 | [Hanahaki](https://open.spotify.com/track/7iZZ0nvDWuDSSxq7JtNtMO) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:56 |
 | 3788 | [Sheeshe Ka Dil](https://open.spotify.com/track/1XNErXg8Ruh8qg2u7qTPbL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Sheeshe Ka Dil](https://open.spotify.com/album/5uIExKGcW286CjQ4QuIxkJ) | 3:38 |
 | 3789 | [Doubling Down](https://open.spotify.com/track/7gXtVsi4nxUp6r6adDaQO8) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Started](https://open.spotify.com/album/46sgVlfE4GLSGJlzob6k8x) | 3:58 |
+| 3790 | [Manic Pixie Dream Girl](https://open.spotify.com/track/5ADzfBmVwBYHcqfoTxj9D7) | [Double'D](https://open.spotify.com/artist/3E408YByYaGLDLkP5MMYYX) | [Alive](https://open.spotify.com/album/1I6yKEF5aHqj1YItc21dIh) | 2:12 |
+| 3791 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 |
+| 3792 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 |
 
-Snapshot ID: `AAAGWfhAPy5fl9xA8mdnzHRkWadytn9A`
+Snapshot ID: `AAAGXOXj9ARYpVxCrHiXgza9+c3/Fh1B`

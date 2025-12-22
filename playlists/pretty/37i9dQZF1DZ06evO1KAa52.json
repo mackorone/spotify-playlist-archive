@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 664074,
+  "num_followers": 664094,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAACXyyWytWnyGjizrKh4AJmH",
+  "snapshot_id": "aUXnAAAAAAD5nwDKY964pB7j10CnIqcP",
   "tracks": [
     {
       "added_at": null,
@@ -1123,22 +1123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/2UQSMFU11WqCr7shuCRGZL"
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
       "artists": [
         {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        },
-        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
         }
       ],
-      "duration_ms": 233066,
-      "name": "My Kinda Girl",
-      "url": "https://open.spotify.com/track/0uxjxRAqlPEUwQh9db0pCP"
+      "duration_ms": 304133,
+      "name": "Chop Me Up (feat. Timbaland & Three-6 Mafia)",
+      "url": "https://open.spotify.com/track/0LlObwsSjhvPFKPPpSWOeh"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

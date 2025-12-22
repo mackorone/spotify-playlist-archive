@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-401 songs - 23 hr 14 min
+402 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2022-12-11 | 2024-11-18 |
 | [Christmas Time Again](https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Joy](https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa) | 3:13 | 2022-12-11 |  |
 | [Christmas Time Has Come](https://open.spotify.com/track/0JDniarTARP2tibPvHenUH) | [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Christmas Time Has Come](https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V) | 3:11 | 2025-11-16 |  |
+| [Christmas Time Is Here](https://open.spotify.com/track/7ybMVGJ3tuqyvqNRKKWoo5) | [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq), [Reach City Worship](https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5), [Breanna Rae](https://open.spotify.com/artist/5SSZ5FQWl8w5uIRtrEMSFK) | [Christmas Time Is Here](https://open.spotify.com/album/00OxvkjXfK28CW4xlXwmBG) | 2:26 | 2025-12-12 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [Christmas Time Is Here](https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj) | 3:55 | 2023-12-15 | 2024-07-30 |
 | [Christmas Time Is Here](https://open.spotify.com/track/6qsGiwpMUHXo752nUPg1YW) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [this is our Christmas album](https://open.spotify.com/album/6wBted9sjsgGSoGhELXaBC) | 2:45 | 2022-11-26 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2BhqB61ZY7vrsE6sQ2W1XE) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/3ZaX7lHCPdIXpnOZBeTnKQ) | 4:11 | 2024-07-29 | 2024-10-27 |
@@ -131,7 +132,7 @@
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/56DElTLvI7peDl0xwNWkKD) | [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [First Christmas](https://open.spotify.com/album/23LrVKy384fPOxmf8sII9j) | 2:37 | 2025-11-28 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2TQ5LnGMe1vbzSeqLBDfSk) | [Megan Kerr](https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7fHOTqGVhhvILUzs5KHZGL) | 3:33 | 2025-11-22 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2TQ5LnGMe1vbzSeqLBDfSk) | [Megan Kerr](https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7fHOTqGVhhvILUzs5KHZGL) | 3:33 | 2025-11-22 | 2025-12-22 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5XBBLp2quztPBIPeAH6Cjg) | [Rebecca Hart](https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/11HlNo4BzgDoPyK4zEVWMC) | 4:42 | 2024-10-27 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2022-12-11 | 2025-03-17 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 | 2022-12-11 | 2023-02-28 |

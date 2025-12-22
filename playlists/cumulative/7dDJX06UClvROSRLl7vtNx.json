@@ -2636,6 +2636,28 @@
     {
       "album": {
         "name": "By My Side",
+        "url": "https://open.spotify.com/album/7xL3YfeoQGWeqTjjxgN0Tr"
+      },
+      "artists": [
+        {
+          "name": "ay-Mill",
+          "url": "https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168138,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/1S4E6MYNIAorzv5lbAhm7h"
+    },
+    {
+      "album": {
+        "name": "By My Side",
         "url": "https://open.spotify.com/album/0icgaKoNR01UBKAuoxGWfl"
       },
       "artists": [
@@ -3320,7 +3342,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 145980,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5I7Eyx3dB89WV65ki8LdJQ"
@@ -4886,7 +4908,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 182419,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/4kl7U6Hrb03cY11RrQmIrO"
@@ -6910,6 +6932,28 @@
       "duration_ms": 180773,
       "name": "Fly",
       "url": "https://open.spotify.com/track/5Lwdx5gUegew9hbycRnjSw"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/1lLp7Ffdf37fCVkKfC9kKU"
+      },
+      "artists": [
+        {
+          "name": "Namt\u00e9",
+          "url": "https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6"
+        },
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157118,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/24xylrY9ijPtljf7uC5NXy"
     },
     {
       "album": {
@@ -11082,7 +11126,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 136034,
       "name": "Just A Lie",
       "url": "https://open.spotify.com/track/7cyGzM05jzGUV8LmC8busl"
@@ -14216,7 +14260,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 145862,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/2pywVlAMahngbt68zwH4jB"
@@ -24433,6 +24477,32 @@
     },
     {
       "album": {
+        "name": "Why Do You Love Me",
+        "url": "https://open.spotify.com/album/7H0pR2JGBg9PuPig7QNUE1"
+      },
+      "artists": [
+        {
+          "name": "NGTY",
+          "url": "https://open.spotify.com/artist/5M7e2oB23MW1a8WIpCdnqh"
+        },
+        {
+          "name": "Jack Kelly",
+          "url": "https://open.spotify.com/artist/1qXQAJC0HsasWQhGI8P1QC"
+        },
+        {
+          "name": "Kayee",
+          "url": "https://open.spotify.com/artist/5q3CwCGqX3ROKpicP2GTFl"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Why Do You Love Me",
+      "url": "https://open.spotify.com/track/1mLjB8tOLEpPmEkoidt6uk"
+    },
+    {
+      "album": {
         "name": "WHY?",
         "url": "https://open.spotify.com/album/7KuRWzZHCwrX9YLIkDrx12"
       },
@@ -25156,7 +25226,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 128780,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/150iydyHGcXmZ8ijifkyMF"

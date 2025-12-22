@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,750 songs - 8 day 6 hr 51 min
+3,753 songs - 8 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1979,6 +1979,7 @@
 | [mamma](https://open.spotify.com/track/5pG1uNhhrWeLpgiqonGLb8) | [Die](https://open.spotify.com/artist/7CXRmSDpHDeasaFFj6xG9Y) | [mamma](https://open.spotify.com/album/0Kla7rUP2FxoERszAPT3U1) | 1:24 | 2025-06-22 |  |
 | [MAN Hunt](https://open.spotify.com/track/6mlOgnL1AcYUXOX2P4jWFZ) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:27 | 2025-09-08 |  |
 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 | 2025-07-28 |  |
+| [Manic Pixie Dream Girl](https://open.spotify.com/track/5ADzfBmVwBYHcqfoTxj9D7) | [Double'D](https://open.spotify.com/artist/3E408YByYaGLDLkP5MMYYX) | [Alive](https://open.spotify.com/album/1I6yKEF5aHqj1YItc21dIh) | 2:12 | 2025-12-21 |  |
 | [MAPS](https://open.spotify.com/track/6cInTWiLuUzfegInu4IyAt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 2:49 | 2025-08-28 |  |
 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2025-07-28 |  |
 | [Marea](https://open.spotify.com/track/6pupcYuNdojFc5W4o26BdJ) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Marea](https://open.spotify.com/album/3j9RYKrmygjLkdZNKDX1Sl) | 2:49 | 2025-06-08 |  |
@@ -2775,6 +2776,7 @@
 | [Shadows in the Rain](https://open.spotify.com/track/6wBMCeo0agAstejtMskzum) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Brit pop emotions](https://open.spotify.com/album/5WC359ysjzx5ttU8vtw59R) | 2:55 | 2025-08-19 |  |
 | [Shadows in the Rain \(another\)](https://open.spotify.com/track/6NKczgeGikyLurMd6qiyBq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Brit pop emotions](https://open.spotify.com/album/5WC359ysjzx5ttU8vtw59R) | 3:21 | 2025-08-19 |  |
 | [Shadows of Autumn](https://open.spotify.com/track/2uhdnA6XUwwH6SQAtS6pZF) | [Wolves of Totem](https://open.spotify.com/artist/1YPgVxpuJHs9FVRejxxKV4) | [Dance of the Dead](https://open.spotify.com/album/7nJFwiZnbSFdxXQ8ZjFeDW) | 5:17 | 2025-07-01 |  |
+| [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 | 2025-12-21 |  |
 | [Shadows of Tomorrow](https://open.spotify.com/track/03Y4yZjOnLBq46IIbwwTo8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard 'n Pop Rock](https://open.spotify.com/album/2EO8bOHrgxO8jNPR7ASHcA) | 3:04 | 2025-09-17 |  |
 | [Shadows of Tomorrow \(another\)](https://open.spotify.com/track/6INcYLCpN2CnoFV7SeuHtI) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard 'n Pop Rock](https://open.spotify.com/album/2EO8bOHrgxO8jNPR7ASHcA) | 2:04 | 2025-09-17 |  |
 | [Shadows of Yesterday](https://open.spotify.com/track/1EO8Atavkvttoo4fOgCC6V) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sentimental rock](https://open.spotify.com/album/10MwxoHl3Ol00lsw6NrdDi) | 4:09 | 2025-09-13 |  |
@@ -3059,6 +3061,7 @@
 | [Still High](https://open.spotify.com/track/3fYYpo0z2KCpVd4YUtfHiC) | [Billionaire](https://open.spotify.com/artist/4Z2lKTXxd7UmdBkzMlsriX) | [Brown Cigarettes & Sunsets](https://open.spotify.com/album/2STjtjHeuKXzwWbms43eNy) | 2:36 | 2025-06-16 |  |
 | [Still Streets](https://open.spotify.com/track/5LoIhSmzdEyBik5b7BKTxi) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:34 | 2025-07-03 |  |
 | [Sto bene](https://open.spotify.com/track/19E8ChjGPz0ndKJMKIC4G2) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Sto bene](https://open.spotify.com/album/3N7sL4sTcMEnoSfTvNrIot) | 3:44 | 2025-06-06 |  |
+| [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-21 |  |
 | [Stop Me](https://open.spotify.com/track/4CuXQ9mercSGlJj0n7yOfw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Stop Me](https://open.spotify.com/album/2KEXeYDi8pDJIPSDxR61b6) | 3:38 | 2025-06-05 |  |
 | [Stop What You're doing](https://open.spotify.com/track/5mcRtAZ9gOwLf2CkINf5NS) | [Patrick DeVille](https://open.spotify.com/artist/4viUY1EItvZqlpcFk8BDpy) | [Stop What You're doing](https://open.spotify.com/album/0vlImhxJOVAkfi2Z9tAIRM) | 2:30 | 2025-08-19 |  |
 | [Storm in My Head](https://open.spotify.com/track/5I96Ksec6DFpsWNeHLDb2I) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 2:28 | 2025-09-12 |  |

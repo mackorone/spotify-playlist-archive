@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "Captain Kelly's Kitchen",
+      "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/7wuhI5WnPheOTenvXEGxy9"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 220927,
       "name": "Drunk and Fucked Up",
       "url": "https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo"
+    },
+    {
+      "album": {
+        "name": "Waiting for Herb (Expanded)",
+        "url": "https://open.spotify.com/album/69vD0HK1U0jJ5ytmYFgO76"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        }
+      ],
+      "date_added": "2024-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397239,
+      "name": "Drunken Boat",
+      "url": "https://open.spotify.com/track/1k2BRKal1XTyPGjt3osyGG"
     },
     {
       "album": {
@@ -1374,7 +1410,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 146000,
       "name": "Old Maui",
       "url": "https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO"
@@ -1518,7 +1554,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 306520,
       "name": "Rose Tattoo",
       "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"

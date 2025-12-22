@@ -4,7 +4,7 @@
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-350 songs - 16 hr 29 min
+351 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cadaria \(Rain\)](https://open.spotify.com/track/5PhiuzclYBgvYsHUR2oQ97) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Serene Rain Soundscapes](https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS) | 3:00 | 2023-12-20 |  |
 | [Calm Evening Rain](https://open.spotify.com/track/26d4W0pwjf1hLxkVOzvA9v) | [Elevated Noise](https://open.spotify.com/artist/5n0TKE1VfySZBwBgPPV9yj) | [Relaxing Night Rain](https://open.spotify.com/album/1MvLHAL8JIC9d7S5mOnrja) | 2:32 | 2023-12-20 |  |
 | [Calm Garden \(Rain\)](https://open.spotify.com/track/0QtoO7wi3Y78vMf8gHBGso) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Calm Sounds of Nature](https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE) | 3:00 | 2023-12-20 | 2025-12-01 |
-| [Calm Pour](https://open.spotify.com/track/4RRfrzCiOHZ8lT9DGvQewc) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:03 | 2024-03-21 |  |
+| [Calm Pour](https://open.spotify.com/track/4RRfrzCiOHZ8lT9DGvQewc) | [Lissabon Spring Rain](https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3) | [More Algarve Rain Sounds](https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU) | 2:03 | 2024-03-21 | 2025-12-22 |
 | [Calm Trickle \- Rain](https://open.spotify.com/track/55ioDcErmBxGxKiOyklNlX) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Skyfall Oasis \(Rain\)](https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC) | 2:16 | 2023-12-20 |  |
 | [Calming Memory \(Rain\)](https://open.spotify.com/track/5JtM2LkkQXwp8TmzVVUQBJ) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2024-03-21 |  |
 | [Calming Rain Deluxe](https://open.spotify.com/track/4KhpDFwW3HxjX70PKNTY5d) | [Always Raining](https://open.spotify.com/artist/3LQVNu4j9sFJRAXSD9AWGN) | [Always Raining](https://open.spotify.com/album/2guN86OowlAoUmcZBIpDs9) | 1:26 | 2022-10-27 | 2023-12-21 |
@@ -158,6 +158,7 @@
 | [Memories Of Rain](https://open.spotify.com/track/2djsrAf6nUCMHaseamvwv4) | [Jeff Olaf](https://open.spotify.com/artist/6giyCf63EfeAgxIofVymOq) | [Gotland Rain Sounds](https://open.spotify.com/album/0Zl63O9EmQKZQRl8xSsqk5) | 2:20 | 2023-12-20 |  |
 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 | 2022-10-27 |  |
 | [mid day rain](https://open.spotify.com/track/5KmbZq6mXkaY9O8ANVgKW1) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in copenhagen](https://open.spotify.com/album/52n9DE1JvE1uiN3IiRxBb4) | 3:00 | 2022-10-27 |  |
+| [Midnight Rain Over the Peaks](https://open.spotify.com/track/2ys6kZL6YMIqEwTem1tIQj) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Midnight Rain Over the Peaks](https://open.spotify.com/album/5Mw46UZwoyFdq4rcofBMoO) | 2:43 | 2025-12-19 |  |
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2022-10-27 |  |
 | [Mistwood Gardens \(Rain\)](https://open.spotify.com/track/0tYBGHNvJqSDV9FrY52fu4) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Lightrise \(Rain\)](https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6) | 3:00 | 2024-03-21 |  |
 | [Monsoon](https://open.spotify.com/track/0bEOey9OHVNI8MfEc2328F) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Monsoon](https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO) | 3:00 | 2022-10-27 |  |

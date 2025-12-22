@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 91 | [Beba Mais](https://open.spotify.com/track/7ygGZuPgwrbJuPME6xGNNm) | [Naiara Azevedo](https://open.spotify.com/artist/59cS4hKVb5yWG2LYPK3KvC) | [Beba Mais](https://open.spotify.com/album/20ewZHUU11Qp6yuDaE3ymT) | 2:55 |
 | 92 | [Havaianas](https://open.spotify.com/track/4eTKRobR6jVeoUQR5JAr9Y) | [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Havaianas](https://open.spotify.com/album/14Bgm8DB5a2AbtNaVqBtf9) | 2:49 |
 | 93 | [Marque Alguém \- Ao Vivo](https://open.spotify.com/track/5EQP15IuWB6lncatia3yGo) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Marque Alguém \(Ao Vivo\)](https://open.spotify.com/album/5mImZWnI58Aedwg81ZzQS1) | 2:57 |
-| 94 | [Viajante de Corações](https://open.spotify.com/track/1f9qtqV7NfcPeGPSujrxEy) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Viajante de Corações](https://open.spotify.com/album/6lLM4NDNxEHBNHeYE7OrZk) | 2:53 |
-| 95 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 94 | [Apaga Apaga Apaga](https://open.spotify.com/track/1IpIfC75FTA8l4i3RQzRbq) | [Unha Pintada Show](https://open.spotify.com/artist/0YyR6xgollAvHIMDnKog3s) | [Apaga Apaga Apaga](https://open.spotify.com/album/3S93Ed0gdYWBU9zlLW1i85) | 3:15 |
+| 95 | [Viajante de Corações](https://open.spotify.com/track/1f9qtqV7NfcPeGPSujrxEy) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Viajante de Corações](https://open.spotify.com/album/6lLM4NDNxEHBNHeYE7OrZk) | 2:53 |
 | 96 | [Muda De Planeta](https://open.spotify.com/track/02pratXuIvJ6NlCdmNcFhR) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Acústico Do Nada](https://open.spotify.com/album/64p7CrFGlKyEFvAnv3P0D4) | 2:07 |
 | 97 | [Se Quiser Melhorar](https://open.spotify.com/track/2GDBzFMJaokCDXWTc8edqL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos, EP3](https://open.spotify.com/album/3kEAw83xB24KyNKuLhjz1m) | 3:25 |
 | 98 | [Alcontece \- Ao Vivo](https://open.spotify.com/track/4qkmikm7bWz5RYjkCm6Bn2) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [1 Dois 3 \(Ao Vivo\)](https://open.spotify.com/album/6fVTu62HtqwjVwYwidjkVi) | 2:44 |
@@ -318,4 +318,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 308 | [Tem a Senha](https://open.spotify.com/track/2XFlvQgefJIMVGkcZfMyW2) | [Artthurzinho](https://open.spotify.com/artist/0MHUejZdGYlArcSqjUsJ8q) | [Tem a Senha](https://open.spotify.com/album/7LkNcS5pEwLDMOeRAUmceh) | 2:39 |
 | 309 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcEwsgAAAAAIPm5C+8qf0rChbp9c2dvp`
+Snapshot ID: `AcE2UgAAAACnagSRNlcndGqPMjXPdzSB`

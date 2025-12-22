@@ -9870,7 +9870,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 158838,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/0l6JC8K9Z4n9Gj4KBfgSvA"
@@ -16248,7 +16248,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -16666,7 +16666,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 149966,
       "name": "Divok\u00e9 srdce",
       "url": "https://open.spotify.com/track/7LVDTqOz7TLNFgnKPt3qpu"
@@ -17294,7 +17294,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 132485,
       "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
@@ -30842,7 +30842,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
@@ -45151,6 +45151,24 @@
     },
     {
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
+    },
+    {
+      "album": {
         "name": "MY PROBLEM$ ARE OVERLOOKED",
         "url": "https://open.spotify.com/album/1dNY01CcbMguW16m0lSfi7"
       },
@@ -47956,7 +47974,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -57634,7 +57652,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"
@@ -63832,7 +63850,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 156190,
       "name": "STARBOY",
       "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
@@ -72168,6 +72186,24 @@
       "duration_ms": 76046,
       "name": "vianoce s pellem",
       "url": "https://open.spotify.com/track/6rdnKMPbsB4cvV6YiTK9WJ"
+    },
+    {
+      "album": {
+        "name": "Najkraj\u0161ie Vianoce",
+        "url": "https://open.spotify.com/album/4jFk7Rvm2VCXV9jxotCXaZ"
+      },
+      "artists": [
+        {
+          "name": "Dano Junas",
+          "url": "https://open.spotify.com/artist/573EHIgyCYaA2A7pzOj11w"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311266,
+      "name": "Viano\u010dn\u00e1 piese\u0148",
+      "url": "https://open.spotify.com/track/1oqXYNRNjECrscFbUzIT3x"
     },
     {
       "album": {

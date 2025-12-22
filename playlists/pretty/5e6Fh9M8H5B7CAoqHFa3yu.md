@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,739 songs - 4 day 9 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,740 songs - 4 day 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1747,5 +1747,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1737 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 |
 | 1738 | [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 |
 | 1739 | [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [BleuShxll](https://open.spotify.com/artist/3uZrhLXR3UZkvDcF3abMz2), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 |
+| 1740 | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/track/5YbPc0RcKGElmURNIJitGi) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/album/0NbjicAcU5t5lkwYvx7jA9) | 3:02 |
 
-Snapshot ID: `AAAHnAIkGNeyu6sBiWdWfm5r8FN23rKW`
+Snapshot ID: `AAAHnQ3j+UWh2YjxgyYYM7NEKJm7oCBH`

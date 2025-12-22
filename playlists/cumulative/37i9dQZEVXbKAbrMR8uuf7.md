@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-2,066 songs - 4 day 12 hr 5 min
+2,067 songs - 4 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Freakky](https://open.spotify.com/track/7ix4x4yDxKjONlp2ORvIjQ) | [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Freakky](https://open.spotify.com/album/55tQRmJvWTpAxe6cvyCLG9) | 2:38 | 2023-08-27 | 2023-09-05 |
 | [Frename](https://open.spotify.com/track/3etn3b0UZ2TSzsHiJCvFmd) | [Fredo Versatil](https://open.spotify.com/artist/4PUBnfKhaqD68JLy0Y0M67) | [Frename](https://open.spotify.com/album/7Hgyjr9SFojJv4m2LsH2j1) | 2:52 | 2024-11-28 | 2024-12-11 |
 | [Frename En El Party Sin Panty](https://open.spotify.com/track/3h4brm7AUNiZZ7wboMkWni) | [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Frename En El Party Sin Panty](https://open.spotify.com/album/4CwK9U1R8rBwNPavmuzbLY) | 1:52 | 2024-01-02 | 2024-03-30 |
-| [frente al mar](https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:45 | 2025-05-17 |  |
+| [frente al mar](https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:45 | 2025-05-17 | 2025-12-22 |
 | [frente al mar](https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [frente al mar](https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs) | 2:45 | 2024-09-28 | 2025-05-18 |
 | [Friends](https://open.spotify.com/track/4rzWmtnly4bVIi6QGUETV0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:49 | 2022-11-19 | 2022-12-11 |
 | [Friends \- Remix](https://open.spotify.com/track/54iyLNmcnLWNdCqX5pdtuL) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:08 | 2023-03-18 | 2023-03-31 |
@@ -1817,6 +1817,7 @@
 | [TEMA DE JORY](https://open.spotify.com/track/2mlMfacUBUbWcPtHlOZqdr) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:59 | 2025-05-20 | 2025-05-23 |
 | [Tenerte](https://open.spotify.com/track/79U2fS41tzUFSdnAb9MhAk) | [Jay Aponte](https://open.spotify.com/artist/6ZO8MJdmtvD2p4zblbSSQx) | [Tenerte](https://open.spotify.com/album/68MKCGqSjFcUYBrXBuwa3t) | 3:16 | 2024-06-23 | 2024-06-26 |
 | [Tengo Deseo](https://open.spotify.com/track/30gdfpJCK63a7BG9MeqnDQ) | [Unik0](https://open.spotify.com/artist/61QLOHMl58jhCqIBw6s82c), [La Yumi Rd](https://open.spotify.com/artist/78yTMwVxgBhdCrEoP733k4) | [Tengo Deseo](https://open.spotify.com/album/1OCSOgjvUgF6Ai9kR2f3cG) | 2:32 | 2025-05-04 | 2025-06-14 |
+| [Tesoro Perdido](https://open.spotify.com/track/2Mb1J5mrXMqeFLRLUv2ynN) | [Dalvin La Melodia](https://open.spotify.com/artist/6oYf3YTP3CaTNPlUqAK7xJ) | [Tesoro Perdido](https://open.spotify.com/album/3dFmTektFLciqkGSDn7b2x) | 3:14 | 2025-12-21 |  |
 | [Teteo](https://open.spotify.com/track/1rnTP7ptxaj0rq2Iyc4Ufv) | [El Marci](https://open.spotify.com/artist/4bJuppq8R7GPtZfc8W7wx2) | [The World Is Mine](https://open.spotify.com/album/0nJ8vP6SNGyINePsl6GdlG) | 2:25 | 2023-06-09 | 2023-06-19 |
 | [TETEO](https://open.spotify.com/track/21L0hDSgXhFxniIBug6WAO) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [TETEO](https://open.spotify.com/album/1mnkzLm2harcXTYeKIJqVJ) | 2:32 | 2024-01-09 | 2024-02-08 |
 | [TETEO \(feat\. Axel Rulay, White Star\)](https://open.spotify.com/track/0Vhn5cKzaOuAXq0G7fnY0H) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Axel Rulay](https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB), [White Star](https://open.spotify.com/artist/70nM9ixtEAtdmEQrmxgMHf) | [REAL](https://open.spotify.com/album/6UZakYFr3nYNaAcFvvbcsf) | 4:05 | 2024-10-26 | 2024-11-04 |

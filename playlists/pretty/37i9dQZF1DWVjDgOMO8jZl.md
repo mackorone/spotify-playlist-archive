@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,117 likes - 31 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,118 likes - 31 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

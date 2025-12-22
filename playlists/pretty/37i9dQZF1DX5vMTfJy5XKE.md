@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 ### [New Music Holiday](https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE)
 
-> 'Tis the season! All new holiday releases\. Cover: Cher
+> 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,890 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,152 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Christmas Is Here](https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas Is Here](https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX) | 3:06 |
-| 2 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
-| 3 | [Coming Home This Christmas \- From "A Very Jonas Christmas Movie"](https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Coming Home This Christmas \(From "A Very Jonas Christmas Movie"\)](https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY) | 3:24 |
-| 4 | [Hot in December](https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y) | 3:12 |
-| 5 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
-| 6 | [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 |
-| 7 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
-| 8 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/794chmpAl8jGk4Y6TDhqbO) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Oh\. What\. Fun\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5UsgaDjEL9Jt4010E2VG6h) | 2:32 |
-| 9 | [Someday at Christmas \- Live from the Eiffel Tower](https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Someday at Christmas \(Live from the Eiffel Tower\)](https://open.spotify.com/album/2JzM8IFzL14WqqXs20UpzP) | 4:10 |
+| 1 | [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 |
+| 2 | [Coming Home This Christmas \- From "A Very Jonas Christmas Movie"](https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Coming Home This Christmas \(From "A Very Jonas Christmas Movie"\)](https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY) | 3:24 |
+| 3 | [Christmas Is Here](https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas Is Here](https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX) | 3:06 |
+| 4 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
+| 5 | [Hot in December](https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y) | 3:12 |
+| 6 | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [O Holy Night \- Spotify Singles Holiday](https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL) | 3:00 |
+| 7 | [Someday at Christmas \- Live from the Eiffel Tower](https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Someday at Christmas \(Live from the Eiffel Tower\)](https://open.spotify.com/album/2JzM8IFzL14WqqXs20UpzP) | 4:10 |
+| 8 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
+| 9 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/794chmpAl8jGk4Y6TDhqbO) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Oh\. What\. Fun\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5UsgaDjEL9Jt4010E2VG6h) | 2:32 |
 | 10 | [NOT CUTE ANYMORE \(Holiday Party ver.\)](https://open.spotify.com/track/34E2VK7s9Gs7k5ryMxOftR) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE \(Holiday Remixes\)](https://open.spotify.com/album/2T9oFW02VSegOMJvB5782U) | 2:26 |
 | 11 | [White Christmas](https://open.spotify.com/track/7hzgg84aVpUctPPcZTIH0S) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [White Christmas](https://open.spotify.com/album/5fl4eCd8Z4eb4aIZiMRpER) | 2:32 |
 | 12 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 240 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 241 | [Holiday Dream](https://open.spotify.com/track/0kRLJXQOxLBWIn7H4vG9cA) | [Jamra](https://open.spotify.com/artist/5s8r3DCYb7AhwXrQNFoyh8) | [Holiday Dream](https://open.spotify.com/album/5hGhLXk2pz1G0ROuRKPPs0) | 3:02 |
 
-Snapshot ID: `AAAAAJ0rliSYAvbQisDqSZ8SkVvaEVl5`
+Snapshot ID: `AAAAAKhiv2TRRjfOn5zlMwivzgQiWVA+`

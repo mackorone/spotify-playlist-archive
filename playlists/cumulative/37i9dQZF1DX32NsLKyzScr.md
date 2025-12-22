@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,346 songs - 3 day 1 hr 9 min
+1,347 songs - 3 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,7 @@
 | [Feels Like Us](https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Feels Like Us](https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk) | 3:54 | 2025-11-14 |  |
 | [Ferrari](https://open.spotify.com/track/5xKJI9aPQhuTdTq8BrJ8fL) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/4WLkmuc0lGCBJLtj1yxJI0) | 3:05 | 2022-05-13 | 2024-08-03 |
 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 | 2022-07-15 | 2024-04-19 |
-| [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-18 |  |
+| [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 | 2025-07-18 | 2025-12-22 |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-08-18 | 2024-07-13 |
 | [Fight For](https://open.spotify.com/track/6F3htwbMYqes3xVs5Vorkm) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Fight For](https://open.spotify.com/album/3MVS0kNgm4WMdV04E7Vzu2) | 3:37 | 2021-07-17 | 2021-10-23 |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 | 2025-11-04 |
@@ -661,6 +661,7 @@
 | [Lose It](https://open.spotify.com/track/49A2aHajwGDX9LeqFjSiMY) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq) | [Lose It](https://open.spotify.com/album/5TUt3vnfxzh9v2s2VBMk4O) | 3:38 | 2025-03-14 | 2025-04-05 |
 | [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 | 2023-09-08 | 2024-02-13 |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-08 |  |
+| [Lost](https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gabss](https://open.spotify.com/artist/7KMvse80vFnyE3fsoGWjaq) | [Lost](https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D) | 3:39 | 2025-12-19 |  |
 | [Lost & Found \(feat\. MiMi\)](https://open.spotify.com/track/77AVb9jT2ghluEuK2Ex4qU) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [DaniCW](https://open.spotify.com/artist/1ZZsD3Hko1ZXhsj9fPzZdK), [MiMi](https://open.spotify.com/artist/0AX8HZDnmAC8WqT7KM4m0S) | [Lost & Found \(feat\. MiMi\)](https://open.spotify.com/album/5g7hPvQfY3Ykjs7LY7obTP) | 2:54 | 2021-09-18 | 2022-03-12 |
 | [Lost In The Night](https://open.spotify.com/track/26pA3yYrLja5e9JumF0gRi) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [Renato S](https://open.spotify.com/artist/2M9nsWRUhhvYvfZmOYgTwZ), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Lost In The Night](https://open.spotify.com/album/7GVbLkSQO0rnAKsx0iHndu) | 2:24 | 2020-09-21\* | 2021-01-05 |
 | [Lost in You](https://open.spotify.com/track/3GLa4qZ1hy9Skx1e2tMwXm) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [Lost in You](https://open.spotify.com/album/4AWuKteDzbaZK3O4Fza51Y) | 2:30 | 2021-05-15 | 2021-09-18 |

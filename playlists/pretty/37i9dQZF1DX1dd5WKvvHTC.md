@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Description: Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/artist/6Wxb4Zhq1Q5WEuwEntvCIZ">The Bean Tones</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,981 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,034 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 39 | [Almost Too Early For Christmas \(with Dolly Parton\)](https://open.spotify.com/track/2W7RlsSlBRYweGgnawHJjf) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Holiday Seasoning](https://open.spotify.com/album/0bQD8TSiMKDz4F2osO4zPy) | 3:03 |
 | 40 | [DJ Play A Christmas Song](https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [DJ Play A Christmas Song](https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s) | 4:02 |
 
-Snapshot ID: `AAAAAOVyX6DzkKBMVIbLcZ4cFkwB/xy5`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

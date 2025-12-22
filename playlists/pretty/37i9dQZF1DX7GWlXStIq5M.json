@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: GABI LINS",
-  "num_followers": 365961,
+  "num_followers": 365937,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,26 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
+        "name": "Sa\u00ed para ver o mar",
+        "url": "https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 191810,
+      "name": "Sa\u00ed para ver o mar",
+      "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "Sa\u00ed para ver o mar",
-        "url": "https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 191810,
-      "name": "Sa\u00ed para ver o mar",
-      "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Me Deixa Partir",
-        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 174107,
-      "name": "Me Deixa Partir",
-      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/6ITEVNawPasF2tDj8nsrZR"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 180666,
       "name": "2003",
       "url": "https://open.spotify.com/track/7sJPbhbhua4dgo2syBBp7W"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Me Deixa Partir",
+        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Me Deixa Partir",
+      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/52ZbwJMz9J7ZoqjxoFIUjs"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "FENOMENAL",
         "url": "https://open.spotify.com/album/6O3whUEGrlfCFvxuWbeT9J"
       },
@@ -267,6 +251,46 @@
       "duration_ms": 201230,
       "name": "DISK NAMORADA",
       "url": "https://open.spotify.com/track/5lVIdROp3ioxz7NiRvHTSr"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/52ZbwJMz9J7ZoqjxoFIUjs"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/56NV29o2ezN1IgV2liRIqq"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 134755,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -299,30 +323,6 @@
       "duration_ms": 164885,
       "name": "Sexta-feira",
       "url": "https://open.spotify.com/track/1qkZVztcOUmTLihs8L2RJi"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 134755,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Odeio sua ex",
-        "url": "https://open.spotify.com/album/5wKOR5to06cPjHwoeHqx4K"
-      },
-      "artists": [
-        {
-          "name": "Lourandes",
-          "url": "https://open.spotify.com/artist/3Un59PenImYu2RdwRb6cDv"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Odeio sua ex",
-      "url": "https://open.spotify.com/track/5vuHPajGm0OffWC1nkHH9t"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "409",
         "url": "https://open.spotify.com/album/6vuIszvgWj47mEN5HKJM3m"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 194000,
       "name": "409",
       "url": "https://open.spotify.com/track/60lpe6EiExjWpccXNI9urx"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Odeio sua ex",
+        "url": "https://open.spotify.com/album/5wKOR5to06cPjHwoeHqx4K"
+      },
+      "artists": [
+        {
+          "name": "Lourandes",
+          "url": "https://open.spotify.com/artist/3Un59PenImYu2RdwRb6cDv"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Odeio sua ex",
+      "url": "https://open.spotify.com/track/5vuHPajGm0OffWC1nkHH9t"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -575,18 +575,22 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+        "name": "Caos e Poesia",
+        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
       },
       "artists": [
         {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+          "name": "Isix",
+          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
+        },
+        {
+          "name": "Dreicon",
+          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
         }
       ],
-      "duration_ms": 186461,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+      "duration_ms": 145927,
+      "name": "Caos e Poesia",
+      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -607,22 +611,18 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Caos e Poesia",
-        "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
       },
       "artists": [
         {
-          "name": "Isix",
-          "url": "https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug"
-        },
-        {
-          "name": "Dreicon",
-          "url": "https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv"
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
         }
       ],
-      "duration_ms": 145927,
-      "name": "Caos e Poesia",
-      "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
+      "duration_ms": 186461,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -727,26 +727,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Mar de Rosas",
         "url": "https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 165000,
       "name": "Mar de Rosas",
       "url": "https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
+        "name": "Mil e uma Noites",
+        "url": "https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx"
+      },
+      "artists": [
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "duration_ms": 186069,
+      "name": "Mil e uma Noites",
+      "url": "https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
         "name": "nada s\u00e9rio",
         "url": "https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "furta-cor",
-        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "furta-cor",
-      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Cadela",
-        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+        "name": "furta-cor",
+        "url": "https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT"
       },
       "artists": [
         {
-          "name": "MARIA MIRANDA",
-          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 197414,
-      "name": "Cadela",
-      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+      "duration_ms": 165000,
+      "name": "furta-cor",
+      "url": "https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -899,6 +899,22 @@
       "duration_ms": 152000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Cadela",
+        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+      },
+      "artists": [
+        {
+          "name": "MARIA MIRANDA",
+          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+        }
+      ],
+      "duration_ms": 197414,
+      "name": "Cadela",
+      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -923,18 +939,18 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Mil e uma Noites",
-        "url": "https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx"
+        "name": "baseado em surtos reais",
+        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
       },
       "artists": [
         {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
         }
       ],
-      "duration_ms": 186069,
-      "name": "Mil e uma Noites",
-      "url": "https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf"
+      "duration_ms": 139726,
+      "name": "exausta",
+      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -955,18 +971,22 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "baseado em surtos reais",
-        "url": "https://open.spotify.com/album/7CZh55BcV0Y9KVKRMsJAjC"
+        "name": "P\u00f4r Do Sol Avisa",
+        "url": "https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS"
       },
       "artists": [
         {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+          "name": "Lara Estelita",
+          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 139726,
-      "name": "exausta",
-      "url": "https://open.spotify.com/track/4Cdrju2aVc2NGPr1OMbjgX"
+      "duration_ms": 145079,
+      "name": "P\u00f4r Do Sol Avisa",
+      "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -987,26 +1007,6 @@
       "duration_ms": 134705,
       "name": "\u00c1GUA DE COCO",
       "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
-        "name": "P\u00f4r Do Sol Avisa",
-        "url": "https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS"
-      },
-      "artists": [
-        {
-          "name": "Lara Estelita",
-          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 145079,
-      "name": "P\u00f4r Do Sol Avisa",
-      "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Bem Bem",
-        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Bem Bem",
-      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "PROFANO",
         "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 171581,
       "name": "PROFANO",
       "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Bem Bem",
+        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Bem Bem",
+      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Eu Fim, Voc\u00ea In\u00edcio",
-        "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 200735,
-      "name": "Eu Fim, Voc\u00ea In\u00edcio",
-      "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Falo Demais",
         "url": "https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 161754,
       "name": "PARECE OUTRA VIDA",
       "url": "https://open.spotify.com/track/49k1W5UyAoAn9aoFoQTUzO"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Eu Fim, Voc\u00ea In\u00edcio",
+        "url": "https://open.spotify.com/album/6uOITxCxU1sPEFXEqretXW"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 200735,
+      "name": "Eu Fim, Voc\u00ea In\u00edcio",
+      "url": "https://open.spotify.com/track/2IsynCtnYE5D7hizFfKwJt"
     },
     {
       "added_at": "2025-12-19 03:00:23",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-19 03:00:23",
       "album": {
-        "name": "Fanfic de Ver\u00e3o",
-        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
-      },
-      "artists": [
-        {
-          "name": "GIOLI",
-          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fanfic de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
-    },
-    {
-      "added_at": "2025-12-19 03:00:23",
-      "album": {
         "name": "Ela \u00e9 de Escorpi\u00e3o",
         "url": "https://open.spotify.com/album/36Zh8oOvqJ8yQ07yxGZuPf"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 141030,
       "name": "Ela \u00e9 de Escorpi\u00e3o",
       "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
+    },
+    {
+      "added_at": "2025-12-19 03:00:23",
+      "album": {
+        "name": "Fanfic de Ver\u00e3o",
+        "url": "https://open.spotify.com/album/5aBTrhLMY6qJSd8EuMrHvu"
+      },
+      "artists": [
+        {
+          "name": "GIOLI",
+          "url": "https://open.spotify.com/artist/38nWRz7drzFwCFOb9uJTBd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Fanfic de Ver\u00e3o",
+      "url": "https://open.spotify.com/track/6YWRrDa4bfEWL2Byx4Iwmm"
     },
     {
       "added_at": "2025-12-19 03:00:23",

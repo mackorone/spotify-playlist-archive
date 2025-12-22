@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 
 > Unsere Editors’ Picks: die besten Rock\-Songs des Jahres\. Cover: Poppy, Amy Lee, Courtney LaPlante
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,891 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,921 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

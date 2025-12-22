@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 
 > enjoy the IVE WORLD TOUR \[SHOW WHAT I AM\] LIVE SET including the voices of them on stage! \(아이브의 무대 멘트와 목소리가 포함된 \[SHOW WHAT I AM\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,087 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

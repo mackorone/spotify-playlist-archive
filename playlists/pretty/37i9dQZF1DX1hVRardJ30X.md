@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Omar Courtz, Kali Uchis, Cazzu, Arcángel and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,945 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,990 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 5 | [Mi Droga \(feat\. Dei V\)](https://open.spotify.com/track/2SUvxXNz13l8eovlcfagfF) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [SOBR3NATURAL](https://open.spotify.com/album/3YL8LAv2btvXrF8NF8cArt) | 3:44 |
 | 6 | [Pa Donde \- x Alejandro Fernandez](https://open.spotify.com/track/0Zdbc3AjGZaRwTTA9NY3Yg) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [HASTA LUEGO \(Vol\. 1\)](https://open.spotify.com/album/2qCnKFtduxg6LhzjzXnwBJ) | 3:39 |
 | 7 | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF) | 2:41 |
-| 8 | [MY LOVE](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MY LOVE](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
+| 8 | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
 | 9 | [Reyimiller \- A COLORS SHOW](https://open.spotify.com/track/4tkTw8GLVmn7nPKhQ0pd5i) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Reyimiller \- A COLORS SHOW](https://open.spotify.com/album/1oz46z0MSiPSpKiMrWctWV) | 3:21 |
 | 10 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |
 | 11 | [Se Enfiestó El Carnal](https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Se Enfiestó El Carnal](https://open.spotify.com/album/4SBT3my679xNKekRzXfzef) | 3:29 |

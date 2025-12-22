@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Ranjit Bawa",
-  "num_followers": 244953,
+  "num_followers": 244973,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
+        "name": "Hostel",
+        "url": "https://open.spotify.com/album/3zVzALNXgXOJ29argKYXEa"
+      },
+      "artists": [
+        {
+          "name": "Sharry Mann",
+          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+        }
+      ],
+      "duration_ms": 322954,
+      "name": "Hostel",
+      "url": "https://open.spotify.com/track/2xQYaf0wcBb8PQeY39uRBS"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
         "name": "Duniya",
         "url": "https://open.spotify.com/album/285MvBlmV2ELiusPMpwepb"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 181787,
       "name": "Jattiye Ni",
       "url": "https://open.spotify.com/track/24KWB5VT9fWqtj5bUyPnoq"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Hostel",
-        "url": "https://open.spotify.com/album/3zVzALNXgXOJ29argKYXEa"
-      },
-      "artists": [
-        {
-          "name": "Sharry Mann",
-          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
-        }
-      ],
-      "duration_ms": 322954,
-      "name": "Hostel",
-      "url": "https://open.spotify.com/track/2xQYaf0wcBb8PQeY39uRBS"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -551,42 +551,6 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Lala Lala",
-        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
-      },
-      "artists": [
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 156103,
-      "name": "Lala Lala",
-      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/2KvGFSmZajbcsUm5uVyx53"
-      },
-      "artists": [
-        {
-          "name": "Raf Saperra",
-          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 200897,
-      "name": "Morni",
-      "url": "https://open.spotify.com/track/4lUh8Xvfn8RHquoEHTK1U3"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
         "name": "Future Folk",
         "url": "https://open.spotify.com/album/6ukTEfsBa5GIp9nOJQTLkw"
       },
@@ -627,22 +591,38 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Three Plays",
-        "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
       },
       "artists": [
         {
-          "name": "HUSTINDER",
-          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
-        },
-        {
-          "name": "Savraj",
-          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
         }
       ],
-      "duration_ms": 171063,
-      "name": "Cat Walk",
-      "url": "https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI"
+      "duration_ms": 156103,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/2KvGFSmZajbcsUm5uVyx53"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 200897,
+      "name": "Morni",
+      "url": "https://open.spotify.com/track/4lUh8Xvfn8RHquoEHTK1U3"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -683,6 +663,26 @@
       "duration_ms": 200883,
       "name": "Panjeban",
       "url": "https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Three Plays",
+        "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Savraj",
+          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Cat Walk",
+      "url": "https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -807,6 +807,50 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
+        "name": "Botal Free",
+        "url": "https://open.spotify.com/album/1vei2VbuhZnaamSk1Hm5Gk"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Samreen Kaur",
+          "url": "https://open.spotify.com/artist/2qs5jeVexOK7g4Al41nmJU"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "Botal Free",
+      "url": "https://open.spotify.com/track/6HwXCoXON5nCMhnBXghejo"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "College",
+        "url": "https://open.spotify.com/album/0sk5iJoQU4uWTqYQWXUzk8"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Dhillon",
+          "url": "https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t"
+        },
+        {
+          "name": "Sukhpal Sukh",
+          "url": "https://open.spotify.com/artist/5Fw338we3ckffdJs7goXZs"
+        },
+        {
+          "name": "Jeet Kaddon",
+          "url": "https://open.spotify.com/artist/1J2gSdeSaj3fNWvtrI2x3o"
+        }
+      ],
+      "duration_ms": 224246,
+      "name": "Kali Kite Mil",
+      "url": "https://open.spotify.com/track/6FKZaQ6GachmVQgnQDcgn1"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
         "name": "Mirza",
         "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
       },
@@ -855,46 +899,18 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Botal Free",
-        "url": "https://open.spotify.com/album/1vei2VbuhZnaamSk1Hm5Gk"
+        "name": "Teri Jatti",
+        "url": "https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1"
       },
       "artists": [
         {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Samreen Kaur",
-          "url": "https://open.spotify.com/artist/2qs5jeVexOK7g4Al41nmJU"
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
         }
       ],
-      "duration_ms": 213034,
-      "name": "Botal Free",
-      "url": "https://open.spotify.com/track/6HwXCoXON5nCMhnBXghejo"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "College",
-        "url": "https://open.spotify.com/album/0sk5iJoQU4uWTqYQWXUzk8"
-      },
-      "artists": [
-        {
-          "name": "Kulwinder Dhillon",
-          "url": "https://open.spotify.com/artist/1Qxa8XqBALw9cbsZvppv5t"
-        },
-        {
-          "name": "Sukhpal Sukh",
-          "url": "https://open.spotify.com/artist/5Fw338we3ckffdJs7goXZs"
-        },
-        {
-          "name": "Jeet Kaddon",
-          "url": "https://open.spotify.com/artist/1J2gSdeSaj3fNWvtrI2x3o"
-        }
-      ],
-      "duration_ms": 224246,
-      "name": "Kali Kite Mil",
-      "url": "https://open.spotify.com/track/6FKZaQ6GachmVQgnQDcgn1"
+      "duration_ms": 155759,
+      "name": "Teri Jatti",
+      "url": "https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -911,22 +927,6 @@
       "duration_ms": 162857,
       "name": "Mitra Ne Dil Mangeya",
       "url": "https://open.spotify.com/track/0wa9U4paFYblyxZZfjYpCk"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Teri Jatti",
-        "url": "https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1"
-      },
-      "artists": [
-        {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        }
-      ],
-      "duration_ms": 155759,
-      "name": "Teri Jatti",
-      "url": "https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -955,46 +955,6 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Tu Te Sharab",
-        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tu Te Sharab",
-      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Chitta Kurta",
-        "url": "https://open.spotify.com/album/6BNtWTI4thL4DO6vpVz7vZ"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "Chitta Kurta",
-      "url": "https://open.spotify.com/track/7mUuarQfB0E0Xs80Vzd2gw"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
         "name": "Jaadugar",
         "url": "https://open.spotify.com/album/3eWBtoZp2c2skkiEuz4YSQ"
       },
@@ -1019,6 +979,26 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
+        "name": "Chitta Kurta",
+        "url": "https://open.spotify.com/album/6BNtWTI4thL4DO6vpVz7vZ"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "Chitta Kurta",
+      "url": "https://open.spotify.com/track/7mUuarQfB0E0Xs80Vzd2gw"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
         "name": "Kill Goriye",
         "url": "https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy"
       },
@@ -1035,38 +1015,22 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Munda Inj Da Nahi",
-        "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
+        "name": "Tu Te Sharab",
+        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
       },
       "artists": [
         {
-          "name": "Surjit Bhullar",
-          "url": "https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD"
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
         },
         {
-          "name": "Mista Baaz",
-          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
         }
       ],
-      "duration_ms": 168888,
-      "name": "Munda Inj Da Nahi",
-      "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Taseer",
-        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
-      },
-      "artists": [
-        {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Taseer",
-      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
+      "duration_ms": 195000,
+      "name": "Tu Te Sharab",
+      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1087,6 +1051,42 @@
       "duration_ms": 136562,
       "name": "DHUAN",
       "url": "https://open.spotify.com/track/0droaWCQrKLAmnqbzu022D"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Taseer",
+        "url": "https://open.spotify.com/album/0JIuAPqkhqfYn3GFeQ5KMu"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Taseer",
+      "url": "https://open.spotify.com/track/6Av8FV73LpMQP4rPt8EhEu"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Munda Inj Da Nahi",
+        "url": "https://open.spotify.com/album/64hOWWXcdDmcknzrlgH59u"
+      },
+      "artists": [
+        {
+          "name": "Surjit Bhullar",
+          "url": "https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD"
+        },
+        {
+          "name": "Mista Baaz",
+          "url": "https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Munda Inj Da Nahi",
+      "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Akh Lag Gayi",
-        "url": "https://open.spotify.com/album/0aGSHNB9GfNcFqsyq4fIft"
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
       },
       "artists": [
         {
-          "name": "Param Mundi",
-          "url": "https://open.spotify.com/artist/6kB1qKGjh6mQ26UkZKioIR"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         }
       ],
-      "duration_ms": 137124,
-      "name": "Akh Lag Gayi",
-      "url": "https://open.spotify.com/track/0ji3bZHEal6kDITQeksnIa"
+      "duration_ms": 127802,
+      "name": "Holster",
+      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+        "name": "Akh Lag Gayi",
+        "url": "https://open.spotify.com/album/0aGSHNB9GfNcFqsyq4fIft"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+          "name": "Param Mundi",
+          "url": "https://open.spotify.com/artist/6kB1qKGjh6mQ26UkZKioIR"
         }
       ],
-      "duration_ms": 127802,
-      "name": "Holster",
-      "url": "https://open.spotify.com/track/42PJnUtHQi7hl7D47StuRp"
+      "duration_ms": 137124,
+      "name": "Akh Lag Gayi",
+      "url": "https://open.spotify.com/track/0ji3bZHEal6kDITQeksnIa"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
+        "name": "Dil Mangeya",
+        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        }
+      ],
+      "duration_ms": 159049,
+      "name": "Dil Mangeya",
+      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
         "name": "Athra Ghora",
         "url": "https://open.spotify.com/album/2sITT5wvRSrb0qcl1jAccT"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Dil Mangeya",
-        "url": "https://open.spotify.com/album/28ywZDkr21jPzMhLKmtars"
+        "name": "Bhadauria",
+        "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
       },
       "artists": [
         {
-          "name": "Sajjan Adeeb",
-          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
         }
       ],
-      "duration_ms": 159049,
-      "name": "Dil Mangeya",
-      "url": "https://open.spotify.com/track/14gr2kwucVsBHtLYhzgYpj"
+      "duration_ms": 196744,
+      "name": "Step Bhull Gyi",
+      "url": "https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1579,22 +1595,6 @@
       "duration_ms": 170882,
       "name": "Gulabi Pagg",
       "url": "https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Bhadauria",
-        "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
-      },
-      "artists": [
-        {
-          "name": "HUSTINDER",
-          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
-        }
-      ],
-      "duration_ms": 196744,
-      "name": "Step Bhull Gyi",
-      "url": "https://open.spotify.com/track/2wJdq8jS5hKKQHbPBjynQx"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1771,42 +1771,6 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Sheesha",
-        "url": "https://open.spotify.com/album/67G6eUavqRqePCnTUZ3x2R"
-      },
-      "artists": [
-        {
-          "name": "Gippy Grewal",
-          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
-        }
-      ],
-      "duration_ms": 223714,
-      "name": "Sheesha",
-      "url": "https://open.spotify.com/track/2roVLd05JaRNaiHdAu2oEJ"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Competition (Feat. Mahi Sharma)",
-        "url": "https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH"
-      },
-      "artists": [
-        {
-          "name": "Virasat Sandhu",
-          "url": "https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Competition (Feat. Mahi Sharma)",
-      "url": "https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
         "name": "Prithvi Missile",
         "url": "https://open.spotify.com/album/2OS2Tw88npn817gUub8Qxx"
       },
@@ -1823,46 +1787,6 @@
       "duration_ms": 183453,
       "name": "MALAYI WARGI",
       "url": "https://open.spotify.com/track/04f2KFYjBARqShVTvG4htv"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Munda Maanaa Da",
-        "url": "https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8"
-      },
-      "artists": [
-        {
-          "name": "Korala Maan",
-          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
-        },
-        {
-          "name": "Youngstarr Pop Boy",
-          "url": "https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Gadaar",
-      "url": "https://open.spotify.com/track/6Br16eWxM0u4VcMVNDdIFe"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Chann Chann",
-        "url": "https://open.spotify.com/album/2T1OqVbSsmX0QcUrrYXriv"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Zareen Khan",
-          "url": "https://open.spotify.com/artist/5YEBZ6DenMJMrwAF3qmPeN"
-        }
-      ],
-      "duration_ms": 163313,
-      "name": "Chann Chann",
-      "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1891,6 +1815,102 @@
       "duration_ms": 152093,
       "name": "Khauf",
       "url": "https://open.spotify.com/track/1siJv8irHMPacI36HR4TIG"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Competition (Feat. Mahi Sharma)",
+        "url": "https://open.spotify.com/album/2z00tboEOalBVgmaLmaWqH"
+      },
+      "artists": [
+        {
+          "name": "Virasat Sandhu",
+          "url": "https://open.spotify.com/artist/1gm0NXFSicD5imUY0PzcFA"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Competition (Feat. Mahi Sharma)",
+      "url": "https://open.spotify.com/track/4kSgrNVoLjm5bXrnMAYTmX"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Sheesha",
+        "url": "https://open.spotify.com/album/67G6eUavqRqePCnTUZ3x2R"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        }
+      ],
+      "duration_ms": 223714,
+      "name": "Sheesha",
+      "url": "https://open.spotify.com/track/2roVLd05JaRNaiHdAu2oEJ"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Munda Maanaa Da",
+        "url": "https://open.spotify.com/album/2vwTvTLFhgDEy3reXBEAj8"
+      },
+      "artists": [
+        {
+          "name": "Korala Maan",
+          "url": "https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G"
+        },
+        {
+          "name": "Youngstarr Pop Boy",
+          "url": "https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Gadaar",
+      "url": "https://open.spotify.com/track/6Br16eWxM0u4VcMVNDdIFe"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
+        "url": "https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "The Laddi Gill",
+          "url": "https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD"
+        }
+      ],
+      "duration_ms": 155908,
+      "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
+      "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"
+    },
+    {
+      "added_at": "2025-12-16 10:57:36",
+      "album": {
+        "name": "Chann Chann",
+        "url": "https://open.spotify.com/album/2T1OqVbSsmX0QcUrrYXriv"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Zareen Khan",
+          "url": "https://open.spotify.com/artist/5YEBZ6DenMJMrwAF3qmPeN"
+        }
+      ],
+      "duration_ms": 163313,
+      "name": "Chann Chann",
+      "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -1927,26 +1947,6 @@
       "duration_ms": 170342,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
-    },
-    {
-      "added_at": "2025-12-16 10:57:36",
-      "album": {
-        "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
-        "url": "https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood"
-      },
-      "artists": [
-        {
-          "name": "Gurnam Bhullar",
-          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
-        },
-        {
-          "name": "The Laddi Gill",
-          "url": "https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD"
-        }
-      ],
-      "duration_ms": 155908,
-      "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
-      "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"
     },
     {
       "added_at": "2025-12-16 10:57:36",
@@ -2067,22 +2067,26 @@
     {
       "added_at": "2025-12-16 10:57:36",
       "album": {
-        "name": "Love War",
-        "url": "https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ"
+        "name": "RED SHADE",
+        "url": "https://open.spotify.com/album/2NOxciYt4f741jVdaf0SDU"
       },
       "artists": [
         {
-          "name": "Jassa Dhillon",
-          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
         },
         {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+          "name": "Kaptaan",
+          "url": "https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
         }
       ],
-      "duration_ms": 191253,
-      "name": "Alone Jatt",
-      "url": "https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj"
+      "duration_ms": 212142,
+      "name": "RED SHADE",
+      "url": "https://open.spotify.com/track/6J4dk1qqqZUTYuPVmudL4k"
     }
   ],
   "unique_name": "Bhangra Bangers",

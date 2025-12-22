@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rvfv & Cano, Omar Courtz,  Beéle & Elvis Crespo, Arcángel y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,469 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,474 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 10 | [CONEJITA PLAYBOY](https://open.spotify.com/track/42U40DG6b3VVCBfgeBSxGH) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [CONEJITA PLAYBOY](https://open.spotify.com/album/206r467aoLTOWH9u436PKi) | 2:18 |
 | 11 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
 | 12 | [Honguito](https://open.spotify.com/track/3g9a7CuaRwsv498HmPH7vC) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Honguito](https://open.spotify.com/album/5jY0ca4qtVTPNzlLr24CRm) | 2:42 |
-| 13 | [MY LOVE](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MY LOVE](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
+| 13 | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
 | 14 | [Mi Negra](https://open.spotify.com/track/27oCWmT0fukPMJP1agDUqH) | [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [Mi Negra](https://open.spotify.com/album/7DxCchzZ5FioP5SVofLSDN) | 2:57 |
 | 15 | [CLARO](https://open.spotify.com/track/15e9Njeqeso5VX0zxkmECr) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM) | [CLARO](https://open.spotify.com/album/4ix5bb7Glz53yYC2OE4tKh) | 1:54 |
 | 16 | [La Cura](https://open.spotify.com/track/6jivnbxgyTyZ7sI4jlNWXD) | [Keen Levy](https://open.spotify.com/artist/4MU4rC7z6JpqxqbHDqtz7H) | [La Cura](https://open.spotify.com/album/2tcgeibfmF96Zw913XITCH) | 3:15 |

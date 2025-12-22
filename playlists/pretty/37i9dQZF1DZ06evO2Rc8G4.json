@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169911,
+  "num_followers": 169917,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAACFSZEqyjvGJ+eGG2BTmnCZ",
+  "snapshot_id": "aUXnAAAAAAAggJ1BI0bACtL+lR5nBQM3",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
-        }
-      ],
-      "duration_ms": 240370,
-      "name": "Especially for You",
-      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Edge of Saturday Night",
         "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+        }
+      ],
+      "duration_ms": 240370,
+      "name": "Especially for You",
+      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
     },
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "A Guevara",
+          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 154706,
       "name": "Someone For Me",
       "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "A Guevara",
-          "url": "https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO (Deluxe)",
         "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 197880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
     },
     {
       "added_at": null,
@@ -687,6 +671,22 @@
       "duration_ms": 310081,
       "name": "Chiggy Wiggy",
       "url": "https://open.spotify.com/track/4nt1pLbjBHtpHFarYXRHHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3Q88P7QB30k4iT4kty7nyZ"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 189586,
       "name": "Things We Do For Love",
       "url": "https://open.spotify.com/track/6PHWpsr3URoJmitQ0xhsUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension Tour//Live 2025",
-        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "What Do I Have to Do? - Live From The Tension Tour",
-      "url": "https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tension (Deluxe)",
         "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 213026,
       "name": "Vegas High",
       "url": "https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension Tour//Live 2025",
+        "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "What Do I Have to Do? - Live From The Tension Tour",
+      "url": "https://open.spotify.com/track/2AufsFx4AOIuluoIJXHJU6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- TMMTMTTM
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,674 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,977 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 14 | [Fitratein](https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fitratein](https://open.spotify.com/album/76x9TiVITMmsA5KjSDSPUl) | 3:49 |
 | 15 | [Raanjhiya](https://open.spotify.com/track/3x3wjzzwMUDrxuO5O94Fl2) | [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Raanjhiya](https://open.spotify.com/album/3Bulr5tRxyG4AQv2muMUYM) | 3:44 |
 | 16 | [Mudh Ja Raahiye](https://open.spotify.com/track/0BsMNlxWX42sw9ThOCSeey) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Tu Meri Main Tera Main Tera Tu Meri](https://open.spotify.com/album/237OmhF9Vu3GATeI30W4ci) | 4:42 |
-| 17 | [Badli Lakeerein](https://open.spotify.com/track/6qmIad1p9tELUE65sRK3Zz) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Badli Lakeerein](https://open.spotify.com/album/0hyqT52ojMeluYA10hGptH) | 3:22 |
+| 17 | [Badli Lakeerein](https://open.spotify.com/track/6qmIad1p9tELUE65sRK3Zz) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Badli Lakeerein](https://open.spotify.com/album/0hyqT52ojMeluYA10hGptH) | 3:22 |
 | 18 | [Kore Kaagaz](https://open.spotify.com/track/1Zix6b3leS2yor5yRX8jk9) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Kore Kaagaz](https://open.spotify.com/album/4YGZvRHpyBwYM1BHbLqjad) | 3:06 |
 | 19 | [Tere Ishk Mein \(From "Tere Ishk Mein"\)](https://open.spotify.com/track/39aHB0LHPLDZNwVhMf3DNH) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tere Ishk Mein \(From "Tere Ishk Mein"\)](https://open.spotify.com/album/3abedjI3sFEqUI7hNu0yzF) | 5:50 |
 | 20 | [Yaari Yahi Hai \- From "Rahu Ketu"](https://open.spotify.com/track/2i2vb9HhJ64IZCkqfTzbUq) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Abhijit Vaghani](https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Yaari Yahi Hai](https://open.spotify.com/album/4YmOCqwEvmJLTKoxmsg5pR) | 3:59 |

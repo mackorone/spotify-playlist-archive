@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 630473,
+  "num_followers": 630684,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "No Tengo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Por El Mundo",
         "url": "https://open.spotify.com/album/1IkZY8PCG2C6E3x1lojAxh"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 211346,
       "name": "Adoro (with Armando Manzanero) - Remasterizado",
       "url": "https://open.spotify.com/track/5cz3WaGeEN1QlifsSkTqmi"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "No Tengo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Antolog\u00eda. . . Los Freddy's",
-        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
-      },
-      "artists": [
-        {
-          "name": "Los Freddy's",
-          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "El primer tonto",
-      "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Ven A Mi Mundo",
         "url": "https://open.spotify.com/album/5tFsnxxlmSVqYCFpoJnLCd"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 207266,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/60pVBdslwbfdr38i34yhUq"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Antolog\u00eda. . . Los Freddy's",
+        "url": "https://open.spotify.com/album/4294yJuL3aiuMLosQV9Mta"
+      },
+      "artists": [
+        {
+          "name": "Los Freddy's",
+          "url": "https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "El primer tonto",
+      "url": "https://open.spotify.com/track/0MnAe95wZXodQ27X4xmmPi"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "El Pollo No Falla",
-        "url": "https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso Del Pollo Esteban",
-          "url": "https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM"
-        }
-      ],
-      "duration_ms": 207173,
-      "name": "La Vi Llorar",
-      "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "15 Exitos De Los Silver",
         "url": "https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 215453,
       "name": "Morire En El Rio",
       "url": "https://open.spotify.com/track/5irykfG7QpWWt48Zk2asOB"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "El Pollo No Falla",
+        "url": "https://open.spotify.com/album/5bTmjye8Z3uYMKwM9Q4KYP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso Del Pollo Esteban",
+          "url": "https://open.spotify.com/artist/0niB6NrGI4xxvwDtEmVnhM"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "La Vi Llorar",
+      "url": "https://open.spotify.com/track/6HBI3f4k8qikkuJJiyoZ0b"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "\u00c9l Soy Yo",
-      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "15 Exitos De Los Silver",
         "url": "https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 224506,
       "name": "Novia Linda",
       "url": "https://open.spotify.com/track/0dZ2ZLis40lrPOg3TLVGX9"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "\u00c9l Soy Yo",
+      "url": "https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Linea De Oro Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Tiernas Mentiras",
-      "url": "https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Amor Vendido, Vol. 4",
         "url": "https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 204669,
       "name": "Hola Como Estas",
       "url": "https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Linea De Oro Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Tiernas Mentiras",
+      "url": "https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl"
     },
     {
       "added_at": "2024-08-28 00:51:57",

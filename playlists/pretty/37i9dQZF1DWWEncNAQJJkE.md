@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > The best of Canadian  hip\-hop this year, handpicked by Spotify Canada editors\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,468 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,461 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

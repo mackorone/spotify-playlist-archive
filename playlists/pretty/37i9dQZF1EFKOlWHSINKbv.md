@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,566 likes - 156 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,565 likes - 156 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 70 | [Forever Valentine](https://open.spotify.com/track/2s2nEISxEptEFjJExrsM0r) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Forever Valentine](https://open.spotify.com/album/0etgJ6vT9m56hg6z6Pp9QD) | 3:58 |
 | 71 | [NOT TOO DEEP \(feat\. 6lack\)](https://open.spotify.com/track/2ll0wHMe0R071XBl3TDaw2) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 4:50 |
 | 72 | [Livin' It Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4AJ3hLJSbk1iNvqiEArlXB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:45 |
-| 73 | [Ready For Love \(Interlude\)](https://open.spotify.com/track/5bNXZ2fZx0SX42l7GeWY25) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 1:49 |
-| 74 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
+| 73 | [Smoke \(Reprise\)](https://open.spotify.com/track/5EBu8YZCabKgNlr5Kxy0Xw) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 1:37 |
+| 74 | [Ready For Love \(Interlude\)](https://open.spotify.com/track/5bNXZ2fZx0SX42l7GeWY25) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 1:49 |
 | 75 | [Rare](https://open.spotify.com/track/50zMpjG2mZkIMqmsJdiGtA) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Rare](https://open.spotify.com/album/1UrbRQtj25KegxbzCkfxIV) | 3:37 |
 | 76 | [I'm The One](https://open.spotify.com/track/5lHK542W8im991c0y4Tcrs) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 3:29 |
 | 77 | [TOO SWEET \(feat\. Unknown Mortal Orchestra\)](https://open.spotify.com/track/60lNUvQVzMnORIJvDEZG8Z) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [BEFORE WE GO](https://open.spotify.com/album/1MnOpmiIDEfloQektuOGkr) | 3:46 |
@@ -157,12 +157,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 147 | [U vs\. Me](https://open.spotify.com/track/5pBaBusnt3TlilvgQ2iXDA) | [Ashley Loren](https://open.spotify.com/artist/0nfs9fHoZi8sD5Wc8iJzRP) | [U vs\. Me](https://open.spotify.com/album/3fBZEmbujje5C9T70QitjI) | 4:08 |
 | 148 | [Cadillac Christmas](https://open.spotify.com/track/0jltHrhWOhI5op9rgGmhgk) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:31 |
 | 149 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
-| 150 | [Nickels & Dimes](https://open.spotify.com/track/3rhgfQsqBYo22yw2mCGskJ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 5:22 |
-| 151 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
+| 150 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
+| 151 | [Nickels & Dimes](https://open.spotify.com/track/3rhgfQsqBYo22yw2mCGskJ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 5:22 |
 | 152 | [Home](https://open.spotify.com/track/1axwzLgo9Iwn0Yf336Jj4T) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 2:56 |
 | 153 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
 | 154 | [These Lines](https://open.spotify.com/track/77VAC8qvK8KMdW3rwUrApo) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 4:41 |
 | 155 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 156 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AcEwsgAAAAC8VWjz8u8iha6H6eTTXKpn`
+Snapshot ID: `AcE2UgAAAAAzOjO9oRgv8EqQgjC/pDng`

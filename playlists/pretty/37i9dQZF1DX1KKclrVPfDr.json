@@ -1,6 +1,6 @@
 {
   "description": "\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0917\u093e\u0901\u0935 \u0926\u0947\u0936 \u0915\u0947 \u092e\u093e\u091f\u0940 \u0915\u0947 \u0928\u092f\u093e \u0938\u0902\u0917\u0940\u0924\u092e\u092f \u0938\u0941\u0917\u0902\u0927 \u0938\u0941\u0928\u0940\u0902.",
-  "num_followers": 10633,
+  "num_followers": 10641,
   "original_name": "Bhojpuriya Maati",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Tani Tani Sa Baat",
-        "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
-      },
-      "artists": [
-        {
-          "name": "Kalpana Patowary",
-          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Tani Tani Sa Baat",
-      "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "FULAURI BINA CHATNI",
         "url": "https://open.spotify.com/album/59eVrJFq82tVu7YQpMPUOH"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 176656,
       "name": "FULAURI BINA CHATNI",
       "url": "https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Tani Tani Sa Baat",
+        "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Patowary",
+          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Tani Tani Sa Baat",
+      "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -251,6 +251,26 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "CHALNI KE CHALAL DULHA",
+        "url": "https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw"
+      },
+      "artists": [
+        {
+          "name": "Soni Choudhary Jha",
+          "url": "https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d"
+        },
+        {
+          "name": "Nikhil Mahadev Jha",
+          "url": "https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "CHALNI KE CHALAL DULHA",
+      "url": "https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "Nazariya Se Baat",
         "url": "https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV"
       },
@@ -267,22 +287,6 @@
       "duration_ms": 166829,
       "name": "Nazariya Se Baat",
       "url": "https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "Chunariya Me Daag",
-        "url": "https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii"
-      },
-      "artists": [
-        {
-          "name": "Adarsh Aadee",
-          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
-        }
-      ],
-      "duration_ms": 276224,
-      "name": "Chunariya Me Daag",
-      "url": "https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -339,22 +343,18 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Ehi Thaiyan",
-        "url": "https://open.spotify.com/album/6ULMsJDGq7yXOIDVnygzdJ"
+        "name": "Chunariya Me Daag",
+        "url": "https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii"
       },
       "artists": [
         {
-          "name": "Neelesh Misra",
-          "url": "https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI"
-        },
-        {
-          "name": "Arun Dev Yadav",
-          "url": "https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb"
+          "name": "Adarsh Aadee",
+          "url": "https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt"
         }
       ],
-      "duration_ms": 352789,
-      "name": "Ehi Thaiyan",
-      "url": "https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2"
+      "duration_ms": 276224,
+      "name": "Chunariya Me Daag",
+      "url": "https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -375,22 +375,22 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "CHALNI KE CHALAL DULHA",
-        "url": "https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw"
+        "name": "Ehi Thaiyan",
+        "url": "https://open.spotify.com/album/6ULMsJDGq7yXOIDVnygzdJ"
       },
       "artists": [
         {
-          "name": "Soni Choudhary Jha",
-          "url": "https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d"
+          "name": "Neelesh Misra",
+          "url": "https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI"
         },
         {
-          "name": "Nikhil Mahadev Jha",
-          "url": "https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo"
+          "name": "Arun Dev Yadav",
+          "url": "https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb"
         }
       ],
-      "duration_ms": 147428,
-      "name": "CHALNI KE CHALAL DULHA",
-      "url": "https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF"
+      "duration_ms": 352789,
+      "name": "Ehi Thaiyan",
+      "url": "https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2"
     },
     {
       "added_at": "2025-12-16 11:45:02",

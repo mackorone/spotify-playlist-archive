@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Kali Uchis on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,920 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,949 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 55 | [Bad as I Do](https://open.spotify.com/track/3waTAt1If8i3r9jlVnYZ3C) | [Jacob Hackworth](https://open.spotify.com/artist/4uXRM5wXBQkzYXPannKV66) | [Bad as I Do](https://open.spotify.com/album/4VLJnKzXILIBgBVprG2evm) | 3:13 |
 | 56 | [Toy Soldier](https://open.spotify.com/track/70tTI0z1IDR7OqOQQZM9e3) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [Toy Soldier](https://open.spotify.com/album/5Q6aPqXpmbRMJnIKiWgohG) | 3:56 |
 | 57 | [The Look](https://open.spotify.com/track/2mOi41NZ23YgCl4nVEXd0u) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd), [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [Family Matters](https://open.spotify.com/album/3G0zkllnl1K5s2zQLfqixY) | 3:31 |
-| 58 | [MY LOVE](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MY LOVE](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
+| 58 | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0) | [LOS DUROS SON ELLOS](https://open.spotify.com/artist/1VgGkvTPfCmFmxFa8ik19X), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [MY LOVE \(feat\. Arcángel\)](https://open.spotify.com/album/1zv2bYT3ZqShg2Wd2NMqsG) | 3:07 |
 | 59 | [Out Loud](https://open.spotify.com/track/5hFuniY7DXZ0tWfzhmAoTB) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Out Loud](https://open.spotify.com/album/6vBOHUOIU2afUDNUclZGv1) | 3:57 |
 | 60 | [before photo](https://open.spotify.com/track/3eq5FSSr9PXwW1NrLIoQIp) | [Nectarine Girl](https://open.spotify.com/artist/4uEVWU1ZQu0r9m6XzbKHHX) | [before photo](https://open.spotify.com/album/2KmYyh1ctu3ZtVOZlAYKYf) | 4:43 |
 | 61 | [Red Lights](https://open.spotify.com/track/4UXo9V0HvFdeoauwzI12cQ) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Chris Patrick](https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu) | [MARCO PLUS vs\. tha Underworld: Survivor’s Cut](https://open.spotify.com/album/1J50vgZZ59RffEV9edMpbd) | 3:06 |

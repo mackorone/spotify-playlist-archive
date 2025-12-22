@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-411 songs - 17 hr 26 min
+412 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [MAKE LOVE](https://open.spotify.com/track/1sW2fHqbVSc0DBsEMWM7RB) | [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U), [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [MAKE LOVE](https://open.spotify.com/album/2OSRTidLWzcKbpBfjvVs22) | 2:30 | 2025-04-10 | 2025-04-25 |
 | [Malaga](https://open.spotify.com/track/7wc5sF6gVT8KCeamMlcMWf) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Malaga](https://open.spotify.com/album/0nmZwTMbImYIBvqD9itep4) | 2:22 | 2024-07-25 | 2024-10-25 |
 | [Marbella](https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Marbella](https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt) | 2:22 | 2025-11-13 |  |
+| [MAYBACH TRUCK](https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [MAYBACH TRUCK](https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N) | 1:48 | 2025-12-19 |  |
 | [me & you](https://open.spotify.com/track/2qX5NeJHw3LGR2cNoY8qbK) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [me & you](https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu) | 2:18 | 2025-03-03 | 2025-05-16 |
 | [ME GUSTA](https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5) | [Jamal](https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [ME GUSTA](https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC) | 2:38 | 2025-07-28 |  |
 | [Medicine](https://open.spotify.com/track/3p4kiz2Gr2bRkTZzKRDb28) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 3:34 | 2025-11-27 |  |
@@ -387,7 +388,7 @@
 | [Vrumm](https://open.spotify.com/track/6lx99yqF0e7NuDHZsvwBmM) | [MADE](https://open.spotify.com/artist/2EahEAOUPPXAcncTr8laCj), [Arlinda](https://open.spotify.com/artist/2SSMKpG9gJLqvXS8mZqlHn) | [Vrumm](https://open.spotify.com/album/4M98BMRGhKbjl0Lz2bMJbs) | 2:21 | 2024-06-28 | 2024-08-02 |
 | [WAGWAN](https://open.spotify.com/track/4eWo9P0bY0SniczUtzTYxu) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [WAGWAN](https://open.spotify.com/album/5oKxG7kTpuQK9kPdQXUI6C) | 2:32 | 2024-10-10 | 2024-11-08 |
 | [WALLAH DU LEBST](https://open.spotify.com/track/30OcvnLAuYQ8dHxDo8lwNz) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [WALLAH DU LEBST](https://open.spotify.com/album/0F3EbmA6PsksYPlNdDq6Sy) | 2:28 | 2025-08-14 | 2025-09-19 |
-| [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 | 2025-04-24 |  |
+| [Warum ich?](https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Warum ich?](https://open.spotify.com/album/6ihVQK90uZTh49QcocIFIp) | 2:24 | 2025-04-24 | 2025-12-22 |
 | [WAS IST DA LOS ?!](https://open.spotify.com/track/6WFdu4LIuTVrD2O1Z1bJdW) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [WAS IST DA LOS ?!](https://open.spotify.com/album/36ASREHRtD2mbiifWWpc3j) | 2:08 | 2024-07-04 | 2024-08-27 |
 | [WEEKEND](https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [WEEKEND](https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT) | 2:22 | 2025-12-19 |  |
 | [Wenn du mich siehst](https://open.spotify.com/track/4utjEtHZpJmCqdD9KtpBJi) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Wenn du mich siehst](https://open.spotify.com/album/6EXySHJrVxmQesnBkNUCe2) | 2:41 | 2024-11-11 | 2025-01-28 |

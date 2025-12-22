@@ -1,6 +1,6 @@
 {
   "description": "pro max veiooooo",
-  "num_followers": 1416517,
+  "num_followers": 1416414,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,30 @@
     {
       "added_at": "2025-12-19 14:36:07",
       "album": {
+        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
+      },
+      "artists": [
+        {
+          "name": "Dnovaees",
+          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        }
+      ],
+      "duration_ms": 157612,
+      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
+      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
+    },
+    {
+      "added_at": "2025-12-19 14:36:07",
+      "album": {
         "name": "365 Dias (Vida Mansa)",
         "url": "https://open.spotify.com/album/49TkAXV7QtwIAHwJ6Xusjt"
       },
@@ -251,30 +275,6 @@
       "duration_ms": 527220,
       "name": "365 Dias (Vida Mansa)",
       "url": "https://open.spotify.com/track/2drZGdAOxfE2KoMGTkidmq"
-    },
-    {
-      "added_at": "2025-12-19 14:36:07",
-      "album": {
-        "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-        "url": "https://open.spotify.com/album/6wp5YPmGAp8kWOTZZZWAMA"
-      },
-      "artists": [
-        {
-          "name": "Dnovaees",
-          "url": "https://open.spotify.com/artist/7DHre7bKPEWr38qMcFiwk3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 157612,
-      "name": "EU SEI QUE N\u00c3O \u00c9 VERDADE",
-      "url": "https://open.spotify.com/track/7BFHyreoRx5ZJclWmyYkWW"
     },
     {
       "added_at": "2025-12-19 14:36:07",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-12-19 14:36:07",
       "album": {
-        "name": "Discreto",
-        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 120937,
-      "name": "Discreto",
-      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
-    },
-    {
-      "added_at": "2025-12-19 14:36:07",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 10",
         "url": "https://open.spotify.com/album/5jRLCp92otv3OFzkWS0t0e"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 432000,
       "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP & Mc Neg\u00e3o Original)",
       "url": "https://open.spotify.com/track/1QB4ECV5w5xLZtbq6qGIwB"
+    },
+    {
+      "added_at": "2025-12-19 14:36:07",
+      "album": {
+        "name": "Discreto",
+        "url": "https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 120937,
+      "name": "Discreto",
+      "url": "https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC"
     },
     {
       "added_at": "2025-12-19 14:36:07",
@@ -1004,6 +1004,10 @@
           "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
           "name": "BIN",
           "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
@@ -1012,16 +1016,16 @@
           "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
         },
         {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
           "name": "Toledo",
           "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
         },
         {
           "name": "Perera DJ",
           "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
         },
         {
           "name": "H4lfmeasures",
@@ -1119,26 +1123,6 @@
     {
       "added_at": "2025-12-19 14:36:07",
       "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ"
-        }
-      ],
-      "duration_ms": 195952,
-      "name": "todo lugar - faixa b\u00f4nus",
-      "url": "https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa"
-    },
-    {
-      "added_at": "2025-12-19 14:36:07",
-      "album": {
         "name": "EDWARD",
         "url": "https://open.spotify.com/album/7FNYEFU2ojd3GcZnzmqROh"
       },
@@ -1171,6 +1155,26 @@
       "duration_ms": 190588,
       "name": "EDWARD",
       "url": "https://open.spotify.com/track/4rR3Z2yrPPTT9JupJ25KWa"
+    },
+    {
+      "added_at": "2025-12-19 14:36:07",
+      "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/2SgLODaTxJskGWHX8TbxtQ"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "todo lugar - faixa b\u00f4nus",
+      "url": "https://open.spotify.com/track/4j9KOMG49WEL8qY9hs5jpa"
     },
     {
       "added_at": "2025-12-19 14:36:07",
@@ -1279,38 +1283,30 @@
     {
       "added_at": "2025-12-19 14:36:07",
       "album": {
-        "name": "A Milh\u00e3o",
-        "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
+        "name": "T\u00cdMIDA",
+        "url": "https://open.spotify.com/album/3DR0Gy1hTLK2ZcwZCSC6XF"
       },
       "artists": [
         {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+          "name": "Trak",
+          "url": "https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe"
         },
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
         },
         {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         }
       ],
-      "duration_ms": 216888,
-      "name": "A Milh\u00e3o",
-      "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
+      "duration_ms": 196536,
+      "name": "T\u00cdMIDA",
+      "url": "https://open.spotify.com/track/1U7G1o0odS0yfC9rtqxt0r"
     },
     {
       "added_at": "2025-12-19 14:36:07",
@@ -1347,6 +1343,42 @@
     {
       "added_at": "2025-12-19 14:36:07",
       "album": {
+        "name": "A Milh\u00e3o",
+        "url": "https://open.spotify.com/album/26oy1EOZbD6AeisGnGHezR"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 216888,
+      "name": "A Milh\u00e3o",
+      "url": "https://open.spotify.com/track/77PlJsyMjReAoMmtx41oq8"
+    },
+    {
+      "added_at": "2025-12-19 14:36:07",
+      "album": {
         "name": "Congelado",
         "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
       },
@@ -1363,34 +1395,6 @@
       "duration_ms": 257142,
       "name": "Congelado",
       "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
-    },
-    {
-      "added_at": "2025-12-19 14:36:07",
-      "album": {
-        "name": "T\u00cdMIDA",
-        "url": "https://open.spotify.com/album/3DR0Gy1hTLK2ZcwZCSC6XF"
-      },
-      "artists": [
-        {
-          "name": "Trak",
-          "url": "https://open.spotify.com/artist/7iRbEJYqDuoJjZuJjcmfPe"
-        },
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 196536,
-      "name": "T\u00cdMIDA",
-      "url": "https://open.spotify.com/track/1U7G1o0odS0yfC9rtqxt0r"
     },
     {
       "added_at": "2025-12-19 14:36:07",
@@ -1427,6 +1431,26 @@
       "duration_ms": 183206,
       "name": "Desliga o flash",
       "url": "https://open.spotify.com/track/54Ls0NOUkYyOhkYAdNXFgn"
+    },
+    {
+      "added_at": "2025-12-19 14:36:07",
+      "album": {
+        "name": "\u00d3leo de coco",
+        "url": "https://open.spotify.com/album/2euTZEx0H9f3CLeLDJFJTE"
+      },
+      "artists": [
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 142184,
+      "name": "\u00d3leo de coco",
+      "url": "https://open.spotify.com/track/7Bb92Fx8W4JTFXv2aNlSQs"
     },
     {
       "added_at": "2025-12-19 14:36:07",
@@ -1551,26 +1575,6 @@
       "duration_ms": 162352,
       "name": "Sabrina",
       "url": "https://open.spotify.com/track/0AQ3QwZqqz0M5wV4o8svVY"
-    },
-    {
-      "added_at": "2025-12-19 14:36:07",
-      "album": {
-        "name": "\u00d3leo de coco",
-        "url": "https://open.spotify.com/album/2euTZEx0H9f3CLeLDJFJTE"
-      },
-      "artists": [
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 142184,
-      "name": "\u00d3leo de coco",
-      "url": "https://open.spotify.com/track/7Bb92Fx8W4JTFXv2aNlSQs"
     },
     {
       "added_at": "2025-12-19 14:36:07",

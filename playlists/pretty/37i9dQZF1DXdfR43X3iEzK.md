@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: sassy 009
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,203 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,202 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [Alone](https://open.spotify.com/track/0SNeXIyKngZs5WwHt1qrnO) | [Test Subjects](https://open.spotify.com/artist/7jfAwO9YczGpEUuUlo3btB) | [Alone](https://open.spotify.com/album/1x88zaL3Fhd4FCVtDIDhG1) | 2:52 |
 | 80 | [Sea Song](https://open.spotify.com/track/09QzSazgCpWGzYc1jxH4Cp) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Sea Song](https://open.spotify.com/album/6pGKVJyRmucB7uAknxt4e8) | 3:38 |
 
-Snapshot ID: `AAAAAIb3bUTYnbzU60yCEBbj3psw4+Zk`
+Snapshot ID: `AAAAAKhRBceo7L5SODTw71r2mvyGS6P7`

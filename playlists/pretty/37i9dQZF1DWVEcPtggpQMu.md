@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Emtee
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,162 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,196 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [4/5 Rings](https://open.spotify.com/track/4vP7nZasKU5nQeGCrb5VS1) | [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Sastii](https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml), [Yungboyvegeta](https://open.spotify.com/artist/0RYxiK8P3O1SwUY9jRt7sh), [Fanaticalb3ing](https://open.spotify.com/artist/1J0wQdccirNDCwXzeX49Ti), [Skatle](https://open.spotify.com/artist/34tueLJCJdZWicSpnlh1T2), [GVNT](https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ) | [EGALINI.](https://open.spotify.com/album/6EpQh7PxyoALWhR4xtuhkH) | 2:37 |
 | 100 | [Wherever We Go \(feat\. LucasRaps\)](https://open.spotify.com/track/52Ce22GOrNzhPqpJ470xHy) | [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [Wherever We Go \(feat\. LucasRaps\)](https://open.spotify.com/album/1zpP9Wlv3pfF9MUvPm6sxr) | 2:10 |
 
-Snapshot ID: `AAAAALcMGTuwE/ayirKzMjKDH0YGRtAO`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

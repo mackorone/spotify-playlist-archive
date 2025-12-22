@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain]
 
 > 2025年にプレイリスト「Hot Hits Japan」で聴かれた楽曲を総まとめ。 cover: 藤井 風
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,112 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,126 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

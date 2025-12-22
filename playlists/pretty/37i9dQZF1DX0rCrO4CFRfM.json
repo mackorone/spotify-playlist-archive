@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1076241,
+  "num_followers": 1076329,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Kill The Noise (Acoustic)",
-        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 161010,
-      "name": "Kill The Noise - Acoustic",
-      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Pride (In The Name Of Love) [Songs Of Surrender]",
         "url": "https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 237743,
       "name": "Pride (In The Name Of Love) - Songs Of Surrender",
       "url": "https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "Kill The Noise (Acoustic)",
+        "url": "https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 161010,
+      "name": "Kill The Noise - Acoustic",
+      "url": "https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr"
     },
     {
       "added_at": "2025-02-28 05:00:31",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-28 05:00:31",
       "album": {
-        "name": "Siamese Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "Disarm - Acoustic",
-      "url": "https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U"
-    },
-    {
-      "added_at": "2025-02-28 05:00:31",
-      "album": {
         "name": "Shooting Stars (in the Woods)",
         "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2025-02-28 05:00:31",
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 198560,
+      "name": "Disarm - Acoustic",
+      "url": "https://open.spotify.com/track/1CfFF36728zzSOcSLzj74U"
     },
     {
       "added_at": "2025-02-28 05:00:31",

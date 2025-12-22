@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Benzi\u00ea",
-  "num_followers": 436322,
+  "num_followers": 436305,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
+        "name": "Flor Do Inverno",
+        "url": "https://open.spotify.com/album/3vzPI8pg9ENhFmUB7PQGTh"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 184118,
+      "name": "Flor Do Inverno",
+      "url": "https://open.spotify.com/track/4S2KuuKNKKS06twmxWgAob"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 175176,
       "name": "Ombro Amigo",
       "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
-        "name": "Flor Do Inverno",
-        "url": "https://open.spotify.com/album/3vzPI8pg9ENhFmUB7PQGTh"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 184118,
-      "name": "Flor Do Inverno",
-      "url": "https://open.spotify.com/track/4S2KuuKNKKS06twmxWgAob"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -475,26 +475,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Vivendo Demais",
         "url": "https://open.spotify.com/album/3fqIDsR6ZnMS87vX7NjrQ4"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 193685,
       "name": "Vivendo Demais",
       "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -575,6 +575,26 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
+        "name": "Fica De Dengo",
+        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        },
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Fica De Dengo",
+      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
         "name": "Ombro Amigo",
         "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
       },
@@ -587,22 +607,6 @@
       "duration_ms": 174817,
       "name": "Poder Amar",
       "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
-        "name": "Quarto",
-        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "T\u00e3o Perto",
-      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -627,22 +631,18 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Fica De Dengo",
-        "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        },
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
         }
       ],
-      "duration_ms": 145306,
-      "name": "Fica De Dengo",
-      "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+        "name": "Canibal",
+        "url": "https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16"
       },
       "artists": [
         {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
         }
       ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
+      "duration_ms": 155912,
+      "name": "Canibal",
+      "url": "https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Canibal",
-        "url": "https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16"
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 155912,
-      "name": "Canibal",
-      "url": "https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ"
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "MACIA BAHIA",
-        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
         }
       ],
-      "duration_ms": 178348,
-      "name": "MACIA BAHIA",
-      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+        "name": "MACIA BAHIA",
+        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+      "duration_ms": 178348,
+      "name": "MACIA BAHIA",
+      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Nosso Carnaval",
         "url": "https://open.spotify.com/album/0srVK7a9O1M6AthVTfiOHK"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 165490,
       "name": "Nosso Carnaval",
       "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "O Amor \u00e9 uma Loucura",
         "url": "https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 209188,
       "name": "O Amor \u00e9 uma Loucura",
       "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
+        "name": "M\u00fasica Popular Brasadelic",
+        "url": "https://open.spotify.com/album/4mYgclfzu5nM325d81bAt3"
+      },
+      "artists": [
+        {
+          "name": "HOZE",
+          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
+        }
+      ],
+      "duration_ms": 172931,
+      "name": "MARIANA",
+      "url": "https://open.spotify.com/track/3tgc74LHVhqXvdll2G9lbY"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
         "name": "te quero sem final",
         "url": "https://open.spotify.com/album/7f5EwAe0O71eZf6JAt0UZI"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 115422,
       "name": "te quero sem final",
       "url": "https://open.spotify.com/track/3KhIaL5rfQFfl2t5K65jN6"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
-        "name": "M\u00fasica Popular Brasadelic",
-        "url": "https://open.spotify.com/album/4mYgclfzu5nM325d81bAt3"
-      },
-      "artists": [
-        {
-          "name": "HOZE",
-          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
-        }
-      ],
-      "duration_ms": 172931,
-      "name": "MARIANA",
-      "url": "https://open.spotify.com/track/3tgc74LHVhqXvdll2G9lbY"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
+        "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
+        "url": "https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
+      "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
         "name": "olhos mar",
         "url": "https://open.spotify.com/album/58BUdZZ32V8sylavdHQVY1"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 83467,
       "name": "olhos mar",
       "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
-        "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
-        "url": "https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
-      "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
     }
   ],
   "unique_name": "Pop Leve",

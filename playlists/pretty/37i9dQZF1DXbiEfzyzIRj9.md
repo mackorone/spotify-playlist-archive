@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,438 likes - 99 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,435 likes - 99 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Work feat\. Nevve \- Edit](https://open.spotify.com/track/3eb7WYeXYav8I3q6iKQY5h) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Keep it Real](https://open.spotify.com/album/72erDWaZTO2Fdzdcjhi62H) | 3:27 |
 | 99 | [Stick Out](https://open.spotify.com/track/7rDfio21FnO5GM8rgmhADe) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Stick Out](https://open.spotify.com/album/3bKQ5GAsKs6VXRa8akWeAj) | 3:02 |
 
-Snapshot ID: `AAAAALXbg7UrarFPzILK4zAdUUBrg7mi`
+Snapshot ID: `AAAAALRT+7wYBeDwqG0giDuevvrPhFYI`

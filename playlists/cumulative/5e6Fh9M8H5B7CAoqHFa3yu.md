@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,674 songs - 4 day 5 hr 27 min
+1,675 songs - 4 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [DANZA \- REMIX Mario FURCERI](https://open.spotify.com/track/38ThDyEQ6SBnA8il9B5Hx2) | [Sigle Animazione Villaggi](https://open.spotify.com/artist/0lYLbo908pCzPD5jQEt1bm) | [SUNSET MUSIC SELECT BY Mario FURCERI](https://open.spotify.com/album/2QJcb9tVLjboqZwhHqnXsc) | 2:24 | 2024-03-04 |  |
 | [Darker](https://open.spotify.com/track/4KYddvFoEOSInKUECmNecU) | [The Vantages](https://open.spotify.com/artist/1z4CM1QRehEITEf4DAaqKK) | [Darker](https://open.spotify.com/album/3GJ38upPq5UzkPHqeya4pt) | 2:52 | 2025-11-08 |  |
 | [Das Más](https://open.spotify.com/track/7KKNh5uJvEaga9NtFT20hm) | [Glittery Stuff](https://open.spotify.com/artist/3sGqc2JJ2bMyi0HPutjt7S) | [Das Más](https://open.spotify.com/album/5qairliawi1EsgedE5edIu) | 2:56 | 2025-06-04 |  |
+| [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/track/5YbPc0RcKGElmURNIJitGi) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/album/0NbjicAcU5t5lkwYvx7jA9) | 3:02 | 2025-12-21 |  |
 | [Day dreams](https://open.spotify.com/track/5tbMTvVoo2vGMvbBN9FTDW) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 1:13 | 2025-10-21 |  |
 | [De Mim Terá O Melhor](https://open.spotify.com/track/0kIBjZVunCWQoR0YOe5xcZ) | [Sakura](https://open.spotify.com/artist/3zdj6AlYpqSgCh8w1WfCjn) | [De Mim Terá O Melhor](https://open.spotify.com/album/5FFLojXjwHlsn2gWNQJOTq) | 4:11 | 2025-07-10 |  |
 | [Dead Flowers](https://open.spotify.com/track/3bvqJskS8cw4V2vPY3eC1R) | [Laugal](https://open.spotify.com/artist/2ftFy0PVhjxJkPCi4ivNRe) | [Dead Flowers](https://open.spotify.com/album/4ulTQWYHE3BiIbHTxJ4eUI) | 4:44 | 2025-05-13 |  |

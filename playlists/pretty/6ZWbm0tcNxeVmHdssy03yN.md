@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 50,016 likes - 100 songs - 5 hr 0 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 50,031 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 61 | [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 |
 | 62 | [where there's smoke there's fire](https://open.spotify.com/track/7KU1qH02NapOQbU6AXRTpn) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [where there's smoke there's fire](https://open.spotify.com/album/6pFGVxUhQbg84x3VhopyT5) | 3:01 |
 | 63 | [NO MORE](https://open.spotify.com/track/3hGpy57T8V9sq08GpuA0cc) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [SALTY](https://open.spotify.com/album/4w04FX3x2th7nOS77tYdlw) | 2:21 |
-| 64 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
+| 64 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
 | 65 | [THE FOOL'S ERRAND](https://open.spotify.com/track/7yneILPTYvY25gWG5DWUOx) | [Kweku Collins](https://open.spotify.com/artist/2SPt3i9sJKS1qiMQQQr9LS) | [Ridgewood Sessions, Vol\. 1](https://open.spotify.com/album/0zS8dyDkmm96zDdUMYtGLF) | 4:24 |
 | 66 | [Let Them Shine](https://open.spotify.com/track/3ZnZjXG9ywV0gOVb4ajONV) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [UNICEF Ghana](https://open.spotify.com/artist/32ieepecBAsTj145PBjZBI) | [Let Them Shine](https://open.spotify.com/album/0KPNBzHQ5Z1htSmT7nyvMt) | 3:08 |
 | 67 | [UH HUH!](https://open.spotify.com/track/7BEfgRKgGxXZWo3Fx7idIX) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [UH HUH!](https://open.spotify.com/album/2BUEV2pIjISYKyPbLTiUCd) | 2:32 |

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-829 songs - 2 day 1 hr 12 min
+831 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 | 2024-06-17 | 2024-07-12 |
 | [Spangle](https://open.spotify.com/track/2UWiko8D4Oqi4qnELqlNup) | [Should](https://open.spotify.com/artist/3Wqa6m6qXA9wA2YriCtWuY) | [Feed Like Fishes](https://open.spotify.com/album/6VsQ41UfJyJ9gyOUAit5Kv) | 3:21 | 2025-07-10 | 2025-09-11 |
 | [Spangled](https://open.spotify.com/track/0XM5F4U2CfjYn9iv0Qra7Q) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Mountain Language](https://open.spotify.com/album/7511ZMwlaJlDZspKq6latL) | 4:43 | 2025-03-02 | 2025-05-09 |
+| [Sparrowsong](https://open.spotify.com/track/52MWdbfrFoFm7Yd4ai894U) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Shieling](https://open.spotify.com/album/6TR2hNF3iX8z7NuY0WqPac) | 3:46 | 2025-12-21 |  |
 | [Spirals On My Tongue](https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:45 | 2025-07-03 | 2025-09-11 |
 | [Spirits](https://open.spotify.com/track/5ypoadj8L1UdREY4rS9JbK) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [Classics](https://open.spotify.com/album/2xwtG3ZLBMMuk1gd1d6Wa3) | 1:55 | 2024-01-05 | 2024-03-10 |
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 | 2024-03-10 |
@@ -707,6 +708,7 @@
 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 | 2024-05-16 | 2024-07-12 |
 | [The Electricity in Your House Wants to Sing](https://open.spotify.com/track/1GWaUp357DlGkrJ8beIDHU) | [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [The Electricity in Your House Wants to Sing](https://open.spotify.com/album/3DbqxV708R452k79cUg7zy) | 4:07 | 2024-12-30 | 2025-01-12 |
 | [The European Female \(In Celebration Of\)](https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Feline](https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki) | 4:00 | 2024-08-01 | 2024-09-08 |
+| [The Failure Of The Leading Sign Industry](https://open.spotify.com/track/5rkLS6rRzCx5Y5ExiFgih4) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [I Thought I Was Over That](https://open.spotify.com/album/1sMD93TOAOcqfPtfaGil5K) | 1:27 | 2025-12-21 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 | 2024-07-12 |
 | [The Good Humor Man He Sees Everything Like This \- 2015 Remaster](https://open.spotify.com/track/6LhWdm4JRfsL2L6twjhjaG) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:08 | 2024-10-02 | 2024-11-14 |

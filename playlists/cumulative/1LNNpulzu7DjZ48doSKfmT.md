@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-454 songs - 23 hr 39 min
+455 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [NOTICE \(FOCUS\)](https://open.spotify.com/track/5XdTQXiCx7tn8lYdSuRQsM) | [KAIMIN](https://open.spotify.com/artist/5wjummXtY8wmQWOCBTcHiQ) | [NOTICE \(FOCUS\)](https://open.spotify.com/album/3L59QN9OOaURZijIbvVg33) | 3:17 | 2025-09-28 |  |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-11-14 |  |
 | [NYANSH](https://open.spotify.com/track/05sRAEYCdUlH9kMYgoOoVA) | [Dreame Labele](https://open.spotify.com/artist/7ASEIQJVUS5brgkgzZIeh0), [Genie Drille](https://open.spotify.com/artist/2ldOl7QXvK9Y2USdFUE0Sn) | [NYANSH](https://open.spotify.com/album/1d3DgqFSIB8krmBJx4kfBT) | 2:38 | 2025-10-27 |  |
+| [O Nome É Teu \(Trip Na Floresta\)](https://open.spotify.com/track/6FIbZwBVljRfIEqmr71T5h) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [The Jump out Helicopters](https://open.spotify.com/album/6yl8yZIaRCGFQEIw0K4Y1R) | 2:30 | 2025-12-21 |  |
 | [Off To Sea \- Shipwreck Mix](https://open.spotify.com/track/2Tp5ptZAqOR1344I9w22Vm) | [The Roving Rovers](https://open.spotify.com/artist/0nIYcmWxKNMOy3BQYvDFQ4) | [Off To Sea \(Shipwreck Mix\)](https://open.spotify.com/album/29ENrgQ0O1X9dsxxoXqtmw) | 2:29 | 2025-07-04 |  |
 | [OHH JEHOVA](https://open.spotify.com/track/6vDzHZ15BvXJGDxvjiRnY4) | [JDHXXVI](https://open.spotify.com/artist/26GSmfnmtS0DMD8AU3DToM), [dleongoatprdc](https://open.spotify.com/artist/5eJdZWTjF565VYcJtMhQ4Y) | [OHH JEHOVA](https://open.spotify.com/album/0KuKtSvuf8l5qC89wjyztc) | 1:39 | 2025-11-14 |  |
 | [On My Mind](https://open.spotify.com/track/1yaYEe6DgyjZWJ2prEhjs8) | [Mughal](https://open.spotify.com/artist/5guqYgW3IKfZyBct4j4zeE) | [On My Mind](https://open.spotify.com/album/4EZJHF9v3KY1HK9XTu3ZhT) | 2:46 | 2025-10-19 |  |

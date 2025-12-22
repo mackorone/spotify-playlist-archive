@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 338846,
+  "num_followers": 338934,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Sweat (Snoop Dogg vs David Guetta Remix)",
+        "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "Sweat - Snoop Dogg vs David Guetta Remix",
+      "url": "https://open.spotify.com/track/0R7YVi7w41Dr9jU5vblAok"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1135,26 +1155,6 @@
       "duration_ms": 238173,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Sweat (Snoop Dogg vs David Guetta Remix)",
-        "url": "https://open.spotify.com/album/7i3ZUKLj6bszovw4IfRECy"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "Sweat - Snoop Dogg vs David Guetta Remix",
-      "url": "https://open.spotify.com/track/0R7YVi7w41Dr9jU5vblAok"
     },
     {
       "added_at": "2023-08-25 09:30:35",

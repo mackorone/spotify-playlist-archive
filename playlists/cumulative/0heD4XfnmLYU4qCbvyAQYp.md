@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-93 songs - 6 hr 6 min
+94 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-11-12 | 2025-12-08 |
 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 | 2025-10-05 |  |
 | [Better Not Be Late](https://open.spotify.com/track/2LwjOPIjBi6pzeIEZzHKE0) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Better Not Be Late](https://open.spotify.com/album/62zlN0T8PV7TnGcbm7FZj5) | 3:40 | 2025-05-04 |  |
+| [Black Beach](https://open.spotify.com/track/4GAfjkz3Df80JzLsCl8kKg) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Black Beach](https://open.spotify.com/album/4kM8ETgFcYp1FwRGZO9gCn) | 2:32 | 2025-12-21 |  |
 | [Blackened Architect](https://open.spotify.com/track/0nEi6fpYMwboIQvwlZssrE) | [Atrophy Ruin](https://open.spotify.com/artist/6Gb89o5tx0u1sdKU2aM20X) | [Throne of Flies](https://open.spotify.com/album/3r31wntjvkorILoHmC2bav) | 2:35 | 2025-12-07 |  |
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2025-11-24 |  |
 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 | 2025-05-04 |  |

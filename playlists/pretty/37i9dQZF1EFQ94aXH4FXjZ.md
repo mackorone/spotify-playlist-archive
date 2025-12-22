@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 36 | [Shadows of Her Mind](https://open.spotify.com/track/0pInGbWIuPLQLJ7NgUQ3K2) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:12 |
 | 37 | [Don't Cuss the Fiddle](https://open.spotify.com/track/6eKtuVVKMcN4O7ixixmIlZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless...And Who's to Blame](https://open.spotify.com/album/2vde6ipQcJs8ejllLtqtgT) | 3:25 |
 | 38 | [Shandy \(The Perfect Disguise\)](https://open.spotify.com/track/5Rn9Lh1mIIIvAXZpxJvJjl) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/27AdpjUXwGvkrnfczXACMk) | 3:38 |
-| 39 | [The Bigger the Fool \(The Harder the Fall\)](https://open.spotify.com/track/57Dl9MqUrgJ6aZEBkPfvQY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:33 |
-| 40 | [Kiss the World Goodbye](https://open.spotify.com/track/22rVxx6dkhdoZmg1eprPkY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 3:00 |
+| 39 | [Kiss the World Goodbye](https://open.spotify.com/track/22rVxx6dkhdoZmg1eprPkY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 3:00 |
+| 40 | [The Bigger the Fool \(The Harder the Fall\)](https://open.spotify.com/track/57Dl9MqUrgJ6aZEBkPfvQY) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:33 |
 | 41 | [Born to Die Alone \- Demo](https://open.spotify.com/track/6Vo2AYNXKVujWXcSat5ZZk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:23 |
 | 42 | [Enough for You](https://open.spotify.com/track/0P0RpIHj65B6caxXHbr64e) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Real\. Country\. Music.](https://open.spotify.com/album/6RDg3o9IvNHbgYkFXHCIIc) | 4:00 |
 | 43 | [Josie](https://open.spotify.com/track/37ZDZWggjm3rXM4Q52OjEB) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/4juARctGHmMzGsyLGfesRl) | 3:14 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcEwxgAAAAAVkDGs7PCDsTqCzWXytKlR`
+Snapshot ID: `AcE2ZgAAAAB4H7zvImWbP299GqTokLBv`

@@ -1,6 +1,6 @@
 {
   "description": "A escolha de nossos editores do Melhor de EQUAL Brasil 2025. Cover: Gaby Amarantos",
-  "num_followers": 190077,
+  "num_followers": 190234,
   "original_name": "O Melhor de EQUAL Brasil 2025",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-12-03 12:15:56",
       "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        }
+      ],
+      "duration_ms": 175771,
+      "name": "Saudade Sussurrou",
+      "url": "https://open.spotify.com/track/53I221gUKoRZGdP0isLItU"
+    },
+    {
+      "added_at": "2025-12-03 12:15:56",
+      "album": {
         "name": "MACIA BAHIA",
         "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": "2025-12-03 12:15:56",
-      "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9"
-      },
-      "artists": [
-        {
-          "name": "Gabi Melim",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
-        }
-      ],
-      "duration_ms": 175771,
-      "name": "Saudade Sussurrou",
-      "url": "https://open.spotify.com/track/53I221gUKoRZGdP0isLItU"
     },
     {
       "added_at": "2025-12-03 12:15:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Le Scimmie, Vale Lambo e Lele Blade, in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,260 likes - 74 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,247 likes - 74 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

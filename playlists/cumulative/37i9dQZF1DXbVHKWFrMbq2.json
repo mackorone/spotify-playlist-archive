@@ -3151,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Tu mala suerte",
+        "url": "https://open.spotify.com/album/7eW7B86BPBgyQ5ZVvvjgk7"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        }
+      ],
+      "date_added": "2025-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123124,
+      "name": "Tu mala suerte",
+      "url": "https://open.spotify.com/track/1WWEnbMSb8iptrRueYKKQR"
+    },
+    {
+      "album": {
         "name": "Tus Ojos",
         "url": "https://open.spotify.com/album/2kbuz6nzNvlAgmNavzihpv"
       },

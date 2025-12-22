@@ -4,11 +4,12 @@
 
 > Relax to the sound of a storm setting in.
 
-445 songs - 20 hr 4 min
+446 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2021-11-10 | 2025-11-12 |
+| [A Beautiful Thunderstorm](https://open.spotify.com/track/3GoB3XiepANq55EJH6aZbr) | [RainGirl](https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN) | [A Beautiful Thunderstorm](https://open.spotify.com/album/7nqJTaJ6Z2mZakOzt7x2vJ) | 2:12 | 2025-12-19 |  |
 | [A Gentle Thunderstorm](https://open.spotify.com/track/7t2gqm0vQJ9sdmiLXgmb9o) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Rain Sounds to Fall Asleep](https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v) | 3:06 | 2023-02-13 |  |
 | [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 | 2021-11-10 |  |
 | [A Storm For Sleep](https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [A Storm For Sleep](https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921) | 3:45 | 2023-02-13 |  |
@@ -164,7 +165,7 @@
 | [Light Thunder](https://open.spotify.com/track/4FhNfshbuUPgY5ckqdgvYG) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Latent Heat](https://open.spotify.com/album/6DoMdu0QC5znGu4jG2BvVp) | 2:39 | 2021-11-10 |  |
 | [Light Up The Sky](https://open.spotify.com/track/7bnY0z3DPNHk3gfhLvAuvx) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Lightning In the Sky](https://open.spotify.com/album/76XtY4E8aszFjzA6jRySU5) | 3:28 | 2021-11-10 | 2024-03-09 |
 | [Lightning](https://open.spotify.com/track/17T1PhUwVor4Q4ZdqhkVL7) | [Polar Night](https://open.spotify.com/artist/58Xze2XUNJqUmL3oCmLPcR) | [Rumbling Storm](https://open.spotify.com/album/4Lc0u3AHqUcO9d9gSx9wak) | 3:36 | 2021-11-10 |  |
-| [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 | 2021-11-10 |  |
+| [Lightning And Thunder](https://open.spotify.com/track/1lkHaXezlWJshqGMM4guvZ) | [Attono](https://open.spotify.com/artist/4t29lXsw1uTqtI0Gzj00Cu) | [Storm Lures](https://open.spotify.com/album/4qXurMTFdoRNa9AcYnH7V6) | 3:36 | 2021-11-10 | 2025-12-22 |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-06-15 |  |
 | [Lincoln Way Rain](https://open.spotify.com/track/1JWlvNpLfNzUADfdGxIWeV) | [Granular FX](https://open.spotify.com/artist/6SVaii2FdnEI4ssRydFvmu) | [San Fran Rain](https://open.spotify.com/album/6lYjuIVLa2ZpjUtNO6qwWR) | 2:35 | 2021-11-10 |  |
 | [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2023-02-13 | 2024-03-09 |

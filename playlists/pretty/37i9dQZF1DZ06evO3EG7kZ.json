@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50377,
+  "num_followers": 50380,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAACc35FfmRyiIyjjOsMS4GVX",
+  "snapshot_id": "aUXnAAAAAAC1zGe5qs1MAed/SaZzZXb6",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verandah Santa",
-        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
+        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
-        },
-        {
-          "name": "Emma Dean",
-          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
         }
       ],
-      "duration_ms": 157551,
-      "name": "I Don't Have a Chimney",
-      "url": "https://open.spotify.com/track/105fq3Q3qBGsVQUNq8pBoH"
+      "duration_ms": 64311,
+      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
     },
     {
       "added_at": null,
@@ -399,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rug Island (Full Version)",
-        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
       },
       "artists": [
         {
@@ -410,11 +402,15 @@
         {
           "name": "Joff Bush",
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Emma Dean",
+          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
         }
       ],
-      "duration_ms": 244476,
-      "name": "Rug Island - Full Version",
-      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
+      "duration_ms": 157551,
+      "name": "I Don't Have a Chimney",
+      "url": "https://open.spotify.com/track/105fq3Q3qBGsVQUNq8pBoH"
     },
     {
       "added_at": null,
@@ -432,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 162332,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
+      "duration_ms": 193938,
+      "name": "Bin Night",
+      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
+        "name": "Rug Island (Full Version)",
+        "url": "https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 64311,
-      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
+      "duration_ms": 244476,
+      "name": "Rug Island - Full Version",
+      "url": "https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 193938,
-      "name": "Bin Night",
-      "url": "https://open.spotify.com/track/3mmahMWgu7hMc50NuLDCTZ"
+      "duration_ms": 162332,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5cyxngiUUlUUtCx4qWsPFz"
     },
     {
       "added_at": null,

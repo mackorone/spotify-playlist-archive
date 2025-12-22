@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Blood For Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,880 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,907 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Grass Snakes \(feat\. Lou Koller\)](https://open.spotify.com/track/6yM5Fz1ZVp2tTQRu4nJun1) | [Stinky](https://open.spotify.com/artist/1k3zNkpgeygyoc27mNoAsp), [Lou Koller](https://open.spotify.com/artist/00oVA7aWQ4Sd1ZT3W6UpHU) | [Solace](https://open.spotify.com/album/3eXtkqcMsFdcKe8KwbU7ya) | 3:04 |
 | 100 | [Fakes & Liars II](https://open.spotify.com/track/1PEooS0YDKnP6ueHyn1PtJ) | [Day By Day](https://open.spotify.com/artist/4iscKytAx2iFQH7l6p1MnP) | [Dust and Ashes](https://open.spotify.com/album/0DiKJ2UdkTmyti73sXlCbH) | 3:05 |
 
-Snapshot ID: `AAAAADkuhgxNI+rMlRWd9Rq2snTEmhva`
+Snapshot ID: `AAAAAOvPgIpsymgcNWCJ+eQpellbLLFJ`

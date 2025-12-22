@@ -4,7 +4,7 @@
 
 > Nada melhor que aquela barulho de chuva para dormir ou relaxar.
 
-334 songs - 16 hr 25 min
+335 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Marsh Rain](https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Calm Rain](https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P) | 2:10 | 2023-06-16 |  |
 | [Melted Ice \(Rain\)](https://open.spotify.com/track/386uVkMazrgn2bD2lq40JK) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Melted Ice \(Rain\)](https://open.spotify.com/album/6GmQypJ9rz6GYzKEeCFnMY) | 2:51 | 2025-12-19 |  |
 | [Message Of Rain](https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Rainward](https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG) | 2:24 | 2023-06-16 |  |
+| [Midnight Rain Over the Peaks](https://open.spotify.com/track/2ys6kZL6YMIqEwTem1tIQj) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Midnight Rain Over the Peaks](https://open.spotify.com/album/5Mw46UZwoyFdq4rcofBMoO) | 2:43 | 2025-12-19 |  |
 | [Midnight Storm](https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Midnight Storm](https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH) | 3:28 | 2023-06-16 |  |
 | [Midwinter Downtown Rain](https://open.spotify.com/track/2NvExQuwBYkqRy0S5X9rIs) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Cold Winter Rain](https://open.spotify.com/album/3DGDmHLXeYWdaSlZSMnjWN) | 5:42 | 2023-06-16 |  |
 | [Misty Nights](https://open.spotify.com/track/1VoWakyWCQffi9kJLE8E9e) | [The Mist](https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor) | [Rain Flood](https://open.spotify.com/album/7ICJo8n9KU5LyLwivs02CE) | 3:36 | 2023-06-16 |  |
@@ -320,7 +321,7 @@
 | [The Mystique Sounds Of Nature](https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w) | [XLD Library](https://open.spotify.com/artist/3nohoYUaqIOqoYxHnjNK7q) | [Moods & Water sounds](https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi) | 2:24 | 2023-06-16 |  |
 | [The Nimbus Part Four](https://open.spotify.com/track/7qRzGy11S8qSinKHXbFAVx) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part Four](https://open.spotify.com/album/58f3l3acutVm5ZXbLw95pP) | 2:59 | 2025-07-24 |  |
 | [The Nimbus Part Three](https://open.spotify.com/track/6s4Hxka2TxYODfpFGFTKP3) | [Neo Si](https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3) | [The Nimbus Part Three](https://open.spotify.com/album/3fZagw2YBbkZJ5geGPH5eu) | 2:44 | 2025-07-24 |  |
-| [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 | 2023-06-16 |  |
+| [The Picnic is Over](https://open.spotify.com/track/2ZPtYQNnLHRoKTvtawl4Jy) | [Akvavit](https://open.spotify.com/artist/3vvY6bfFNRymVmylw2vfGy) | [Droplets](https://open.spotify.com/album/0YLKhxy0bHRwtBI7EXW6VR) | 3:18 | 2023-06-16 | 2025-12-22 |
 | [The Rainstorm Is Here](https://open.spotify.com/track/3mh6U86sFWz06ka2ErMwuD) | [Nature Therapy](https://open.spotify.com/artist/0i427rmFO91za6EZmhbSCh) | [Rainy Days Are for Sleeping](https://open.spotify.com/album/2tYQYIkmW4BiEXUVNrvqhg) | 9:40 | 2024-06-11 | 2024-06-30 |
 | [This Is Rain](https://open.spotify.com/track/0ESBZksvk8Mh4CLkQFJZdD) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Gentle Rain Sounds 2](https://open.spotify.com/album/27xnvpybEbD0nza8kKAkXR) | 3:14 | 2024-03-18 | 2024-03-24 |
 | [Total Rainlax](https://open.spotify.com/track/6V6H6D9oyYKDULYGlRvG2Z) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Total Relax Rain Sounds](https://open.spotify.com/album/2gk3zCG7C6FmrRDXHuiSG1) | 2:26 | 2023-06-16 | 2025-12-13 |

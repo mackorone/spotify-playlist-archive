@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-653 songs - 1 day 9 hr 10 min
+654 songs - 1 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [I FEEL LIKE DANCING](https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I FEEL LIKE DANCING](https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi) | 3:45 | 2022-08-18 | 2023-03-03 |
 | [I Wanna Dance](https://open.spotify.com/track/4bcSR43b8OvRabgkXfrWK1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [I Wanna Dance](https://open.spotify.com/album/7f6x4rUCzkq3BLI2xd2Azo) | 2:22 | 2024-02-15 | 2025-04-04 |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-10-19 | 2024-07-12 |
-| [I Wanna Dance](https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [I Wanna Dance](https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY) | 2:25 | 2025-10-06 |  |
+| [I Wanna Dance](https://open.spotify.com/track/0co2313s9aZJiT8b3RYPpH) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO) | [I Wanna Dance](https://open.spotify.com/album/5rDO7ImSCMfY55J92t1vCY) | 2:25 | 2025-10-06 | 2025-12-22 |
 | [I Wanna Rave](https://open.spotify.com/track/16kkmD8adTsERblia16Uof) | [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [I Wanna Rave](https://open.spotify.com/album/3aI7CJ56jtFCY0GHmarazd) | 3:27 | 2022-12-27 | 2023-01-03 |
 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 | 2022-07-28 | 2023-05-19 |
 | [I Want You](https://open.spotify.com/track/40jZdbxLsxIwnTBAUeduF3) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/3xmg5Nn7mGpds1VCdsUmjR) | 3:06 | 2022-04-14 | 2022-07-29 |
@@ -495,6 +495,7 @@
 | [Run Away](https://open.spotify.com/track/512MWs3jFUvUTdj2X4eM07) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7) | [Run Away](https://open.spotify.com/album/3gZDrYqECHtsaX6DI7QfRF) | 2:36 | 2022-04-14 | 2022-09-16 |
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2023-11-09 | 2025-03-07 |
 | [Runaway](https://open.spotify.com/track/7MFNxZl1k1zvnqNWfWWZKH) | [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F), [IMPULSE FACTORY](https://open.spotify.com/artist/5DsFxsAFsdgcQZxTLh3y9w) | [Runaway](https://open.spotify.com/album/6qI4uMva6vpS9WgNZSYQME) | 2:57 | 2024-07-25 | 2024-09-25 |
+| [Runaway Train x Cheap Champagne \(Future Tropical Remix\)](https://open.spotify.com/track/3U9ROeiWVbvkATRTwkh7Ik) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Runaway Train x Cheap Champagne \(Future Tropical Remix\)](https://open.spotify.com/album/1n28VGdAinQWl7X2naGXz0) | 3:48 | 2025-12-18 |  |
 | [Rush](https://open.spotify.com/track/5X9TtQKz6VmMo6QDFcYLEn) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Rush](https://open.spotify.com/album/3FHVj8EMd0H2EpvP630UhV) | 2:41 | 2024-06-20 | 2024-07-05 |
 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 | 2025-10-16 |  |
 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 | 2022-04-14 | 2023-08-25 |

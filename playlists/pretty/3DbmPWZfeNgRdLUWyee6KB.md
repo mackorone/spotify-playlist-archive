@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,075 likes - 154 songs - 9 hr 14 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,076 likes - 158 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,5 +162,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 152 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 |
 | 153 | [Per lo Scoglio, Per il Rifugio, Per il Pianeta](https://open.spotify.com/track/0GZs32uL7rWpDLqJApdzKv) | [Xlofono](https://open.spotify.com/artist/5P29J1CH2yBHIVleAbVtwb) | [Per lo Scoglio, Per il Rifugio, Per il Pianeta](https://open.spotify.com/album/0GSsv7hJyp5k8cKacEPN1e) | 3:38 |
 | 154 | [Sothu](https://open.spotify.com/track/0NJ2LQIXckdyBXQo1OIDvm) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1qPbBhNU3F8FyL9iV7Zd3A), [A Shreyas](https://open.spotify.com/artist/0r7iBMzsdaH9KpxOj4bWhG) | [Sothu](https://open.spotify.com/album/3wrt0lv7o44oqYfjp4rKv3) | 6:52 |
+| 155 | [Where Gods Lie](https://open.spotify.com/track/2TVpP80tpLVOVeq1YKOlVV) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Our Place Behind the Stars](https://open.spotify.com/album/6LNqoOjahbMiv5j00m9Maw) | 4:19 |
+| 156 | [Tu sei il mattino \- Piano Session](https://open.spotify.com/track/63anGwrNVIxGxz0OMzssTm) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Tu sei il mattino \(Piano Session\)](https://open.spotify.com/album/7IpfxmHboA90UemDiIkqYM) | 3:24 |
+| 157 | [Scars \- Official Instrumental](https://open.spotify.com/track/661f78h01ofUIAcUY4RJON) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Scars \(Official Instrumental\)](https://open.spotify.com/album/7I3GdOMzSU0CWfo1Jtcqzj) | 3:06 |
+| 158 | [Discúlpame por favor](https://open.spotify.com/track/5cdp1jlB5RDbywqL9Kaiuk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un ciclo sin remedio](https://open.spotify.com/album/7HKcT6JUt4O8fATJE0ic94) | 3:01 |
 
-Snapshot ID: `AAAOF6jzqypp2tIcNJKQjt6CM1+EoUBE`
+Snapshot ID: `AAAOGymAvhe77p8NXaxTD+SmeRWJQyyM`

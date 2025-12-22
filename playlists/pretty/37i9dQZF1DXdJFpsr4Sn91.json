@@ -387,22 +387,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 170625,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -595,18 +595,18 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Syd\u00e4n on rikki",
-        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
       },
       "artists": [
         {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
         }
       ],
-      "duration_ms": 181360,
-      "name": "Syd\u00e4n on rikki",
-      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
+      "duration_ms": 175970,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
+        "name": "Syd\u00e4n on rikki",
+        "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
       },
       "artists": [
         {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
         }
       ],
-      "duration_ms": 175970,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
+      "duration_ms": 181360,
+      "name": "Syd\u00e4n on rikki",
+      "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Love & Hyperbole (Deluxe)",
-        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 192355,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Don't Leave (Kylie)",
         "url": "https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Love & Hyperbole (Deluxe)",
+        "url": "https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 192355,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Sotilas (feat. Senni)",
         "url": "https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Pieni ikuisuus",
         "url": "https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 195080,
       "name": "Susta l\u00f6ysin kodin",
       "url": "https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Jos t\u00e4\u00e4 ei oo se",
-        "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
-      },
-      "artists": [
-        {
-          "name": "Elastinen",
-          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Jos t\u00e4\u00e4 ei oo se",
-      "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Bensaa tulipaloon",
         "url": "https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 181578,
       "name": "Bensaa tulipaloon",
       "url": "https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Jos t\u00e4\u00e4 ei oo se",
+        "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "duration_ms": 180534,
+      "name": "Jos t\u00e4\u00e4 ei oo se",
+      "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Uus ikuisuus",
-        "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        }
-      ],
-      "duration_ms": 176754,
-      "name": "Uus ikuisuus",
-      "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "LADABOIS",
         "url": "https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 197205,
       "name": "Rakkaudesta manii",
       "url": "https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Uus ikuisuus",
+        "url": "https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "duration_ms": 176754,
+      "name": "Uus ikuisuus",
+      "url": "https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "P\u00f6yd\u00e4t k\u00e4\u00e4ntyy",
-        "url": "https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART"
-      },
-      "artists": [
-        {
-          "name": "SHRTY",
-          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
-        }
-      ],
-      "duration_ms": 148046,
-      "name": "Paremmin nyt",
-      "url": "https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "NEED SUM MO",
         "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "P\u00f6yd\u00e4t k\u00e4\u00e4ntyy",
+        "url": "https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "duration_ms": 148046,
+      "name": "Paremmin nyt",
+      "url": "https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb"
     },
     {
       "added_at": "2025-12-18 22:00:31",

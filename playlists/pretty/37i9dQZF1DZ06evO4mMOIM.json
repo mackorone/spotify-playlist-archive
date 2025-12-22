@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAAB1vJKHyaakroqhHLHsiQlU",
+  "snapshot_id": "aUXnAAAAAAAXk9MZ8iagALITPAL1tHLi",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 183893,
-      "name": "Cosmopolitan Blood Loss",
-      "url": "https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS"
+      "duration_ms": 224973,
+      "name": "Mu Empire",
+      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Mu Empire",
-      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+      "duration_ms": 183893,
+      "name": "Cosmopolitan Blood Loss",
+      "url": "https://open.spotify.com/track/4s85V8jg9bOfylFEaVLyqS"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "my conscience weighs a ton",
-      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mark",
         "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219133,
       "name": "El Mark",
       "url": "https://open.spotify.com/track/6qzrABvo4DnUiDlg3nuJsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "my conscience weighs a ton",
+      "url": "https://open.spotify.com/track/3QNDMB1kuF99oWG5aFKhYe"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Material Control",
-        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 265839,
-      "name": "new white extremity",
-      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mark",
         "url": "https://open.spotify.com/album/2pfCN9kQcKaYADLWEYH9Sl"
       },
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 141759,
-      "name": "citizen",
-      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
+      "duration_ms": 265839,
+      "name": "new white extremity",
+      "url": "https://open.spotify.com/track/7behUBBwhex459VBTOH0wT"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
       "duration_ms": 344560,
       "name": "Oxycodone",
       "url": "https://open.spotify.com/track/0wZqLhJhaAxlDr8tVvpj9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Material Control",
+        "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 141759,
+      "name": "citizen",
+      "url": "https://open.spotify.com/track/5ou2Ve0jHZB3TBIFJN568a"
     },
     {
       "added_at": null,

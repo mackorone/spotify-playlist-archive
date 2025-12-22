@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 231902,
+  "num_followers": 231947,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAADSAnJ5EUnLdVeNKqLyNVZ1",
+  "snapshot_id": "aUXnAAAAAAB0T7ODA/bVkkB+2HIqDvWV",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Gon'",
-        "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 520666,
-      "name": "Girl It's True, Yes I'll Always Love You",
-      "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 452306,
       "name": "Sha La La Means I Love You",
       "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Gon'",
+        "url": "https://open.spotify.com/album/6fPii3RUZhVIX3qINgHPzR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 520666,
+      "name": "Girl It's True, Yes I'll Always Love You",
+      "url": "https://open.spotify.com/track/6CweI3ZfhtzvrSza0dOH1r"
     },
     {
       "added_at": null,

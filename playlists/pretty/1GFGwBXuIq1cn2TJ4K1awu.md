@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 42 min 24 sec
+[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 36 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Train Full of Gasoline](https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM) | 2:50 |
-| 2 | [My Eyes](https://open.spotify.com/track/4BLPqzIw16aoxiStznmD5D) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Echo The Diamond](https://open.spotify.com/album/4Mal9r2lPvrzpsWstauX32) | 3:29 |
-| 3 | [Scenes from an Italian Restaurant](https://open.spotify.com/track/3utq2FgD1pkmIoaWfjXWAU) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 7:36 |
-| 4 | [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 |
-| 5 | [Solar Gap](https://open.spotify.com/track/262RP3tcfodyNqGCgiMtFJ) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Leave Me Alone](https://open.spotify.com/album/7a8el8qARmjR7p2j9PEtEl) | 2:25 |
-| 6 | [Too Sweet](https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 4:11 |
-| 7 | [Let's Go Crazy](https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 4:40 |
-| 8 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 |
-| 9 | [Outside Of This Town](https://open.spotify.com/track/1huWqmpiYksaPppQHLDhZP) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 4:08 |
-| 10 | [Roky Said](https://open.spotify.com/track/2VDxMrYLnQy8NdsKCzbdnO) | [Dead Ghosts](https://open.spotify.com/artist/3p0vuGnsU3JN0ZVBLiJwmp) | [Can't Get No](https://open.spotify.com/album/3CR6BO7eoOV25e1m6bXkla) | 3:16 |
-| 11 | [Secretly](https://open.spotify.com/track/4zvBvLWb6sZ3YwfiTHdLod) | [Jimmie Rodgers](https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN) | [I'm Falling In Love Again](https://open.spotify.com/album/44HDytW6VCeKXqqjl4JYph) | 2:37 |
+| 1 | [Kiss the Bottle](https://open.spotify.com/track/3l0ppvuWDg3wfmGAwYJ1m9) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [The Attic Tapes](https://open.spotify.com/album/5aHUM56H4zGh0QPTJ86hEF) | 3:43 |
+| 2 | [The Price Of Smokes](https://open.spotify.com/track/5b10YgbraRyefVi5DcvacM) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [Get Fucked](https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M) | 3:42 |
+| 3 | [You're Too Weird](https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Tripper](https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD) | 3:46 |
+| 4 | [Ray Gun](https://open.spotify.com/track/0IzR5fjY9gSy3nWxXosrQc) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Sour Soul](https://open.spotify.com/album/7gP4vkln7Qmbycgx8WwTzL) | 3:07 |
+| 5 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 |
+| 6 | [Lies of Summer](https://open.spotify.com/track/2dUkDuxEhzuJ4Y9eCYgW7F) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 2:42 |
+| 7 | [Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:50 |
+| 8 | [Trouble Blues](https://open.spotify.com/track/6bwfkwNkX4lkKK9pFmXQoI) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Trouble Blues](https://open.spotify.com/album/3nNx2ocb7TKmeRgh2obePY) | 2:21 |
+| 9 | [Set\-Up](https://open.spotify.com/track/53yNQW9DR49Sd6ME8EXSRw) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/2vurTwlVL3loAEGFN5p6z0) | 3:18 |
+| 10 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
+| 11 | [Have Fun](https://open.spotify.com/track/4jQCJchULcVfb3LTjJ5rn1) | [Bleeding Knees Club](https://open.spotify.com/artist/3EMKuFv3kcl9wyKHepeWoF) | [Virginity](https://open.spotify.com/album/41hvvSqjpZEek559YRpYvR) | 1:52 |
 
-Snapshot ID: `AAAIyHeZ98AW2UsPpH9nQ2q0Zi0iQ449`
+Snapshot ID: `AAAI3jWNE4TUgrmeEReTakl0MRHi/1L2`

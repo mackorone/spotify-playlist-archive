@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring KhoslaRaghu, Arpit Bala, and other exciting artists.
 
-1,282 songs - 2 day 22 hr 16 min
+1,283 songs - 2 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 | 2025-08-29 | 2025-11-14 |
 | [Don't Know Where Else](https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Don't Know Where Else](https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase) | 3:40 | 2025-11-28 | 2025-12-17 |
 | [Doob Doob\-Doob Raha \- From "Phir Se Rock & Roll"](https://open.spotify.com/track/0FHsCg7VYzXJ1KEtpqh5b6) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Doob Doob\-Doob Raha \(From "Phir Se Rock & Roll"\)](https://open.spotify.com/album/0v7MKFW2Jb55ELqN5iE2Gf) | 2:47 | 2024-04-05 | 2024-05-18 |
+| [Dooba Dooba](https://open.spotify.com/track/4fmO1bhllxFwDwDCcmCtcy) | [Suryansh](https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD) | [Dooba Dooba](https://open.spotify.com/album/6qe5EPxPHhvivsZPH3PMBh) | 3:22 | 2025-12-19 |  |
 | [Door](https://open.spotify.com/track/5RH7D4HIQmAVcuni4fwsHu) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Jollypop](https://open.spotify.com/album/7gAWqQEs19WD8iepu3g51v) | 2:00 | 2024-04-19 | 2024-05-24 |
 | [Dooriyaan](https://open.spotify.com/track/0xxuGSQNbaloqr2E8iLuqT) | [Anindita Chatterjee](https://open.spotify.com/artist/7607WTqsIlb2OikQKSfpNQ), [Avishek Majumder](https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO) | [Dooriyaan](https://open.spotify.com/album/1fKJrdLCJ0RG0KER1zBn7R) | 3:45 | 2024-02-16 | 2024-03-16 |
 | [Dooriyan](https://open.spotify.com/track/2Xv0vK2VujSX05LGQbDxNd) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Dooriyan](https://open.spotify.com/album/4BOujWmDMwZosg7mvW0Y9x) | 3:59 | 2024-03-22 | 2024-06-08 |
@@ -1122,7 +1123,7 @@
 | [Tere Peeche Peeche](https://open.spotify.com/track/5cC8SNiAi7SLcrJ4hlejMi) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tere Peeche Peeche](https://open.spotify.com/album/7JtnN4kNYV3o8jS7GeXkXo) | 3:07 | 2023-12-08 | 2024-01-20 |
 | [Tere Saath](https://open.spotify.com/track/1qokF3Fsxq2bGT6hYCNPQ4) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Kalki](https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5), [Dheerendra Gautam](https://open.spotify.com/artist/0OG7qbI3Mvd7UdxhqoP6Ly) | [Tere Saath](https://open.spotify.com/album/3sBdjJ5LKtRR3WUvBE76RL) | 2:32 | 2024-09-06 | 2024-12-14 |
 | [Tere Saath](https://open.spotify.com/track/0WhyIEgQhdkZnZou94QK8e) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Kashi Kashyap](https://open.spotify.com/artist/0QbL0Gj9Jbt9UrLUdhPDP9) | [Tere Saath](https://open.spotify.com/album/38b70GkMOWK3d8AYDmVO1Q) | 3:06 | 2023-08-10 | 2023-09-09 |
-| [Tere Saath](https://open.spotify.com/track/7odDwexWWFf4eNCaQj8A4C) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tere Saath](https://open.spotify.com/album/7nTEXISCDVXzhHP3Nhh978) | 2:19 | 2025-11-07 |  |
+| [Tere Saath](https://open.spotify.com/track/7odDwexWWFf4eNCaQj8A4C) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tere Saath](https://open.spotify.com/album/7nTEXISCDVXzhHP3Nhh978) | 2:19 | 2025-11-07 | 2025-12-22 |
 | [Tere Sang](https://open.spotify.com/track/1ysb69lCG1BTHTgD3dbxnf) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Tere Sang](https://open.spotify.com/album/65tU02TOyZFbdYrtt69Fru) | 3:23 | 2024-08-30 | 2024-09-28 |
 | [Tere Tere](https://open.spotify.com/track/2EJNQ7ohS5GIxV3utYDLtk) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Tere Tere](https://open.spotify.com/album/239zggbkxhvcWPGoO9Ekag) | 3:05 | 2025-07-04 | 2025-10-11 |
 | [Teri Bahon Me Duniya](https://open.spotify.com/track/5m84prX2dr4Mj1B0YwoSz4) | [Rahul Mahato](https://open.spotify.com/artist/17wcTE4R1dX6zShCfuVEMZ), [Koushik Mahata](https://open.spotify.com/artist/5wuYiTHyoVz0ia4OlLVZ74) | [Teri Bahon Me Duniya](https://open.spotify.com/album/2HecvjpjMDo7W2J1xSFddt) | 3:43 | 2024-12-20 | 2025-01-25 |

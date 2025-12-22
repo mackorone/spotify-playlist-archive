@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all Christian, Gospel, Worship & Inspirational music genres this year!  Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,290 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,465 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Born This Happy Morning](https://open.spotify.com/track/1sEocDb4N4FN05acVLkjXu) | [Gold City](https://open.spotify.com/artist/6CkyBXEUTNVKtjuvpm4FrY) | [Hope In A Manger](https://open.spotify.com/album/4jUv0oLxaGFKCWja7wilPn) | 3:42 |
 | 100 | [On This Holy Night](https://open.spotify.com/track/2doGPxPkAul5st5bGJ42Ru) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [On This Holy Night](https://open.spotify.com/album/2pV1KZT0eK1B59MKCQQr6K) | 4:33 |
 
-Snapshot ID: `AAAAAGwEHWX+Kgo3Uwc8PC5R5pubHrVm`
+Snapshot ID: `AAAAAAgHZThPYj9K4rqsu1Ev+Q2OMzSL`

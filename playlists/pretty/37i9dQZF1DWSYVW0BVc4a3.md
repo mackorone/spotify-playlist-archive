@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Megra with the sound of the Scandi underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,146 likes - 263 songs - 17 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,150 likes - 263 songs - 17 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,330 songs - 2 day 10 hr 45 min
+1,331 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Saturday Night](https://open.spotify.com/track/5vvyZn01OanyjFXLuhrz5p) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Saturday Night](https://open.spotify.com/album/0jh1gOwsVek6YoijDpG4gf) | 2:40 | 2024-09-13 | 2025-02-05 |
 | [Save Me Now](https://open.spotify.com/track/7B3PU2dr2c3trv92tgyG6U) | [DRFT](https://open.spotify.com/artist/3osKYBCocDf8JhQFDK1l1G) | [Save Me Now](https://open.spotify.com/album/6Lt5ma7jgWxqjOpk3vkhzZ) | 3:15 | 2025-11-21 |  |
 | [Save Tonight](https://open.spotify.com/track/2Jq6SVGQB0aIeTbIe9w1xT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save Tonight](https://open.spotify.com/album/1DoruW6kOIvECsIWt1Z3sr) | 2:25 | 2024-01-02 | 2024-06-29 |
+| [Save Tonight](https://open.spotify.com/track/60YPwlX3UnngvCHaP9qEdu) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [rivve](https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV), [RÆ](https://open.spotify.com/artist/4Tyf5eR5dtPiPFM2WaME4h) | [Save Tonight](https://open.spotify.com/album/1bfEY2u7Jk0wiuKPBIgTkO) | 2:26 | 2025-12-21 |  |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2023-12-21 | 2024-09-10 |
 | [Say Goodbye](https://open.spotify.com/track/7kZwycmA0V5jm1pEKhmcXE) | [Ten Pictures](https://open.spotify.com/artist/56JblCBPFFJbOhsHoPrJ4e) | [Say Goodbye](https://open.spotify.com/album/2vLbevKWQc8oUreTpO3cXB) | 2:32 | 2024-07-12 | 2024-08-10 |
 | [Say It](https://open.spotify.com/track/5oLYCajwpYt0GwqKu8aBvt) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Say It](https://open.spotify.com/album/2a35iz5BRbEgGydrMSTMpA) | 2:55 | 2024-12-13 | 2025-01-11 |

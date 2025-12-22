@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,061 likes - 334 songs - 19 hr 14 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,061 likes - 342 songs - 19 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -342,5 +342,13 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 332 | [Laws](https://open.spotify.com/track/5BMouuMBHrDZiEhqTbFUA6) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Laws](https://open.spotify.com/album/2TVFbbCj66rXsS631WlKGo) | 3:30 |
 | 333 | [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 |
 | 334 | [Malibu](https://open.spotify.com/track/2ffAtS4ttCEL4cK4TL4lET) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Malibu](https://open.spotify.com/album/2uCSDnxXMqfED6Kb5qUTFZ) | 2:20 |
+| 335 | [Lloret De Mar](https://open.spotify.com/track/0blmdQGJzv1sSORn5tsdAP) | [Schwimmbad](https://open.spotify.com/artist/3huQYnrNPMahn6aYRNJgc9) | [Reibregal](https://open.spotify.com/album/4dBKiXCD2Bj8Ap2KFLasK5) | 3:59 |
+| 336 | [So Damn Good](https://open.spotify.com/track/1gFM2zQ2FKyiFwmk8BqDm8) | [GeeJai](https://open.spotify.com/artist/1azCbqp0yxM3FeCbIbw7Od), [RazeGauge](https://open.spotify.com/artist/5sI7BuO7mWInkJ4TA7vpKu) | [I was gonna name this something else but didn't wanna burn a bridge.](https://open.spotify.com/album/6ZT1tfZ8GUtZLPkuTVnRpY) | 2:51 |
+| 337 | [Malibu](https://open.spotify.com/track/2ffAtS4ttCEL4cK4TL4lET) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Malibu](https://open.spotify.com/album/2uCSDnxXMqfED6Kb5qUTFZ) | 2:20 |
+| 338 | [La La In The Rain](https://open.spotify.com/track/0EcvW7INA47qVlKjb48BMt) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [The Way We Were](https://open.spotify.com/album/1gDp3NQOXNfpQnD2k0TtYQ) | 3:54 |
+| 339 | [Bataclan](https://open.spotify.com/track/5VOROxYkFKI2xucoJGC5DJ) | [Dancalia](https://open.spotify.com/artist/5TWeW4Lehv7sMrtBBVDNsD) | [Bataclan](https://open.spotify.com/album/4GTVEPNTFCzPti59ofn2S0) | 3:31 |
+| 340 | [sign of snow](https://open.spotify.com/track/5tryiQU4P3sEJj7Li5NHT1) | [hxllxw](https://open.spotify.com/artist/4IYCC5RyWf9MG3jsnnpmDt), [TWOSMILES](https://open.spotify.com/artist/5xjIIDLxF9Cu3wMPtWZ7wU) | [sign of snow](https://open.spotify.com/album/3rXmevkJqH843y8RWVbgWq) | 3:41 |
+| 341 | [Putting The Lay In Layla](https://open.spotify.com/track/2SiRl86ySpb3maWTiUmJ3p) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/2GSoGDBKanGvKibnZzk6J6) | 3:11 |
+| 342 | [The Fallen](https://open.spotify.com/track/1H7Fbj2qhNi9SxKBuIfpqI) | [ENGRAVED](https://open.spotify.com/artist/6R5sDWirfGj3i7FpTw2A3W) | [The Fallen](https://open.spotify.com/album/0l4A555dr88W8yB8T83taf) | 4:27 |
 
-Snapshot ID: `AAAIod0a3odjoptTRpi7NDkZtFhNW4mA`
+Snapshot ID: `AAAIqcYFpSrLO9Hdv1fZvrmSCMPgLdOt`

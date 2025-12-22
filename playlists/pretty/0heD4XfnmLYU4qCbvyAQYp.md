@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,756 likes - 73 songs - 4 hr 47 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,756 likes - 74 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,6 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 71 | [shine!](https://open.spotify.com/track/12FJOrGXlwUjyZoVHEQRnC) | [Bishesh Silwal](https://open.spotify.com/artist/0gh2ztSK87CtLjYwEDSITZ) | [shine!](https://open.spotify.com/album/0PQROcnMgrVm3ajmdIoItH) | 3:15 |
 | 72 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 |
 | 73 | [Tattoo Graveyard](https://open.spotify.com/track/3kmG45gXLrTfZqC8IPDcDY) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Music Is a Scam](https://open.spotify.com/album/1FxsajJ8Bvmv9U3NRo65KA) | 4:25 |
+| 74 | [Black Beach](https://open.spotify.com/track/4GAfjkz3Df80JzLsCl8kKg) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Black Beach](https://open.spotify.com/album/4kM8ETgFcYp1FwRGZO9gCn) | 2:32 |
 
-Snapshot ID: `AAAOOM16RGAJ104dddHlmDv1pr9W4XTg`
+Snapshot ID: `AAAOOUXX9TqDqx/YMI9gUe1dRMe9tpfV`

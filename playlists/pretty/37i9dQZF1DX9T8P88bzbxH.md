@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Some nights aren’t meant to be streamed; this is one of them\. Cover: 3P
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,877 likes - 28 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,867 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [21 Banluck](https://open.spotify.com/track/7dbqwLGeSMnNPD5pwUDC81) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [21 Banluck](https://open.spotify.com/album/3QcMPJo7iRtElxz61yHsWi) | 3:42 |
 | 2 | [Only](https://open.spotify.com/track/42fcsJ7xuWhEUGnYPAaZjj) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [Emo](https://open.spotify.com/album/1pRjMataIaz6XpHsusKnnR) | 2:56 |
 | 3 | [鑫](https://open.spotify.com/track/2nLehOVwPMgHvUXofnzqZX) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/4OXlHVTC0Wf4MkAQfEw2xQ) | 4:07 |
-| 4 | [太阳落下](https://open.spotify.com/track/79yTkuq3yBHhtYuR6M6Yjv) | [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 4:27 |
+| 4 | [太陽落下](https://open.spotify.com/track/79yTkuq3yBHhtYuR6M6Yjv) | [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 4:27 |
 | 5 | [Lover 游戏 \(feat\. 蔡恩雨\)](https://open.spotify.com/track/6407LeSmHENAbZZc6echa8) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [Lover 游戏 \(feat\. 蔡恩雨\)](https://open.spotify.com/album/3TICiZ8ItvmR2LVSl38nbV) | 3:29 |
 | 6 | [Tik Ni De Tok](https://open.spotify.com/track/0wUf44UjX3xwp0sFEGU9WM) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [Tik Ni De Tok](https://open.spotify.com/album/66CGw0VaJpPczqJ9owYnvn) | 2:49 |
 | 7 | [PA SANG ANTHEM](https://open.spotify.com/track/36ewbDc8oUyY5zDB71huAL) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [PA SANG ANTHEM](https://open.spotify.com/album/4zOFARpeGjZU9ReML2LbCk) | 2:56 |
@@ -35,6 +35,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 25 | [南北大道](https://open.spotify.com/track/5w4Nh8Cs2QDK9MOOBSh8Gp) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [南北大道](https://open.spotify.com/album/5wE5SEf4sRYOw89E7txLMz) | 4:21 |
 | 26 | [Emo](https://open.spotify.com/track/4pWi2KnLNxPwxLeoqs2n2m) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [Emo](https://open.spotify.com/album/1pRjMataIaz6XpHsusKnnR) | 4:08 |
 | 27 | [SHABU SHABU](https://open.spotify.com/track/5IN0whu3AIbbXG8jsB7vIc) | [Kevin Ong](https://open.spotify.com/artist/6ssB4iiKmoICBJoFG8T6Vp), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 3:09 |
-| 28 | [小白云](https://open.spotify.com/track/1nREpjbvKCLyJjcqonVaWH) | [Danny Lee](https://open.spotify.com/artist/1jOIdGa500qLK6LcmUmakH), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 4:00 |
+| 28 | [小白雲](https://open.spotify.com/track/1nREpjbvKCLyJjcqonVaWH) | [Danny Lee](https://open.spotify.com/artist/1jOIdGa500qLK6LcmUmakH), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 4:00 |
 
 Snapshot ID: `AAAAACtNVmo+2CRTkczJXNOzNxZCvOKr`

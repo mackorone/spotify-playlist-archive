@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain](/playlists/plain/37i9dQZF1DXaaLM83puGG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaaLM83puGG5)
 
-### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
+### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
 > Keeping the party going with FRNDS Only! Get your tickets for  FRNDS FEST <a href="https://posh.vip/e/frnds\-fest\-2025?t=spt">here</a>, featuring Metro Boomin, Blxst and Ty Dolla $ign.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,627 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,798 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, MIK's Reaction, Jon Drake and more",
+  "description": "With AlligatorX, MIK's Reaction, Nemrud and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 363266,
       "name": "Beati i perseguitati",
       "url": "https://open.spotify.com/track/5FhY4jqBqPUnVUL8R9v5Wa"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 246500,
       "name": "Black Mirror",
       "url": "https://open.spotify.com/track/1n2fazb6APKC1wW2XcfPPK"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 283875,
       "name": "Crush the Destroyer",
       "url": "https://open.spotify.com/track/4OFHNm4uTnZFcmDxjgrhs0"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 223196,
       "name": "Flat Wearing Me Out",
       "url": "https://open.spotify.com/track/4Ao3eJ9FpEVL4vIK2bGMS0"
@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "Crazy Tape 20: Subterfuge",
+        "url": "https://open.spotify.com/album/5vUmeMJz5dYL0fJjfSUAT2"
+      },
+      "artists": [
+        {
+          "name": "Crazy Tape",
+          "url": "https://open.spotify.com/artist/1NtlGRPamRQSWF64Hz6tVq"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296971,
+      "name": "Held Breath",
+      "url": "https://open.spotify.com/track/67clV2bJVh11CRLndCcSfm"
+    },
+    {
+      "album": {
         "name": "Kesk\u00f6ine",
         "url": "https://open.spotify.com/album/353cy3HHjEkHFdqOBKjzM5"
       },
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 357373,
       "name": "Hjelp",
       "url": "https://open.spotify.com/track/03fSLUp3zw4YytSCWmIsTu"
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 344050,
       "name": "Kaldidalur",
       "url": "https://open.spotify.com/track/5RMhZWWoXV6ioZmFXCUh9k"
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 230500,
       "name": "L'aviatore",
       "url": "https://open.spotify.com/track/0BJ3FSZtKearV4b1honHat"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -3165,6 +3183,24 @@
     },
     {
       "album": {
+        "name": "Sony",
+        "url": "https://open.spotify.com/album/5V4oAqHPT5ZLzMjqlTiYMO"
+      },
+      "artists": [
+        {
+          "name": "Jose Daniel",
+          "url": "https://open.spotify.com/artist/6JkRIo3DaL6JjiGtfV5ZV9"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166519,
+      "name": "Sony",
+      "url": "https://open.spotify.com/track/2jfgn3tlhGPUrHh4JACRlf"
+    },
+    {
+      "album": {
         "name": "Sorry (In Bloom)",
         "url": "https://open.spotify.com/album/4BQ7Dax9L8GR1ttYq412i7"
       },
@@ -3176,7 +3212,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 251145,
       "name": "Sorry (In Bloom)",
       "url": "https://open.spotify.com/track/1CRjLq6UtODERxslpPHI4O"
@@ -3548,7 +3584,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 255435,
       "name": "The Perfect Clown",
       "url": "https://open.spotify.com/track/7xTywMmLuhj3hgB93jdVe3"
@@ -3566,7 +3602,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 444582,
       "name": "The Sky as We Know It, Pt. 1",
       "url": "https://open.spotify.com/track/1FshPsffi4BeoCmzVLRA0A"
@@ -3664,7 +3700,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -3762,6 +3798,24 @@
       "duration_ms": 314170,
       "name": "Toten Danse",
       "url": "https://open.spotify.com/track/7HYNdk8WB0XwP3zCT0gW6e"
+    },
+    {
+      "album": {
+        "name": "Din Feil",
+        "url": "https://open.spotify.com/album/5j2xl412olAzdY0HjcSdRn"
+      },
+      "artists": [
+        {
+          "name": "Lokal Valuta",
+          "url": "https://open.spotify.com/artist/3dTOCxl1svv8elmKyaYInv"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306857,
+      "name": "Trappen",
+      "url": "https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG"
     },
     {
       "album": {
@@ -4046,7 +4100,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 232341,
       "name": "What If",
       "url": "https://open.spotify.com/track/0S7wl10vsQMAxp4JP08kEr"
@@ -4104,7 +4158,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 231000,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/2YgcnK6aotnzoRkGdHHM18"
@@ -4230,7 +4284,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 170000,
       "name": "Your way only looks better from your side",
       "url": "https://open.spotify.com/track/0rSnsLri6UiGnugrDWRD9S"

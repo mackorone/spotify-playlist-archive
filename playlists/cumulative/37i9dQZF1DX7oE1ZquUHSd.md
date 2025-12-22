@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-485 songs - 1 day 9 hr 4 min
+486 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 | 2021-11-16 |  |
 | [Aqui Todo Esta Bien](https://open.spotify.com/track/3TfZf77Tm202IYpt2WSEgT) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/20FVdE2JlNZwcPFlDqrYgC) | 4:01 | 2021-11-16 | 2022-07-28 |
 | [Aquí Todo Esta Bien](https://open.spotify.com/track/0siuaTYrqZ0XebPmL0B8ZN) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nico Maleón](https://open.spotify.com/artist/5nkeWWcavidnHXuvRmP8lW) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 4:01 | 2021-11-16 | 2024-04-19 |
+| [Arenita Playita \(feat\. Eska\)](https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0) | [Cuarto Poder](https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI) | [In Tha House](https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N) | 4:59 | 2024-07-12 |  |
 | [Argentina](https://open.spotify.com/track/3vvl9RFAVG43JZhFXKA8G1) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Argentina](https://open.spotify.com/album/5K3tUyAIPLbZTs8EHOzosw) | 2:56 | 2021-11-16 | 2022-06-30 |
 | [Arre](https://open.spotify.com/track/1OB0CWzYZxj8I1IB0FgpiS) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/3SGJRXh9adwLOCgEAU2ijs) | 2:48 | 2021-11-16 | 2022-07-29 |
 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 | 2021-11-16 | 2024-04-19 |
@@ -348,7 +349,7 @@
 | [Pasan los Días](https://open.spotify.com/track/7DBfDF4SuQ4WDCS9MeSK4r) | [Rapstinencia](https://open.spotify.com/artist/7dAfBnC7ILLBR3eIWocI9c) | [Pasan los Días](https://open.spotify.com/album/3ndjnJE74nasEeGeY8kyRP) | 4:01 | 2021-11-16 | 2022-06-23 |
 | [Pase Lo Que Pase](https://open.spotify.com/track/6YR0MINnneak0FpVIro50a) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt) | [Con La Fe](https://open.spotify.com/album/6krhjGaZ4grkI4eZvN5CCJ) | 5:35 | 2021-11-16 | 2022-07-29 |
 | [Pasillo Estrecho](https://open.spotify.com/track/6WjxLX874r3DYUqdqdUJuf) | [Cesarandearan](https://open.spotify.com/artist/3g3SX7D8ul0DxrOKlvjrKc) | [Cosmogonia De Un Naufrago](https://open.spotify.com/album/1dY6ULbpPcLla8gKEW6poo) | 2:53 | 2021-11-16 | 2022-07-28 |
-| [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 | 2021-11-16 |  |
+| [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 | 2021-11-16 | 2025-12-22 |
 | [Pelea de Gallos](https://open.spotify.com/track/5qtSd5Qc6PGoOxaeGqiHul) | [Tankeone](https://open.spotify.com/artist/6CJ0EnASyencrooPZNBpaB), [La Gravedad](https://open.spotify.com/artist/7bXNbS2IU7y7Ss8XxEMCBX), [La Súper K](https://open.spotify.com/artist/6LdaJRvhrvWzal0xdqc8Dn) | [Hidrocalidad](https://open.spotify.com/album/7nRgoBI8pyncAQqCwqMkPu) | 3:46 | 2021-11-16 | 2022-06-12 |
 | [Pensamientos Verdes](https://open.spotify.com/track/65RuAU3XcDUwTwLAoeBJCS) | [Kartel De Las Calles](https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va), [C\-4](https://open.spotify.com/artist/67pafnH8RmmaUgKbXgLRGu) | [Guerra de Karteles](https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7) | 4:07 | 2021-11-16 | 2022-07-27 |
 | [Pensando en ella \(Canción para un amigo\)](https://open.spotify.com/track/3bRes83wLyTfaQbKqsMm6O) | [Sähkil Valysse](https://open.spotify.com/artist/529Uzpwi2OBcbzcuVh3zLe) | [¿Somos dualidad?](https://open.spotify.com/album/3gbDpmRXsOMSesO9Xvnmp9) | 2:20 | 2021-11-16 | 2022-06-30 |

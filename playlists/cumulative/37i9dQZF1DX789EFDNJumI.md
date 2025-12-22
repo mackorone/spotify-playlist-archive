@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX789EFDNJumI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX789EFDNJumI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX789EFDNJumI)
 
-### [House Party \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX789EFDNJumI)
+### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX789EFDNJumI)
 
 > Get your party jumping with this mix of pop, hip\-hop, & dance hits 🎉 Music videos only available on Premium.
 

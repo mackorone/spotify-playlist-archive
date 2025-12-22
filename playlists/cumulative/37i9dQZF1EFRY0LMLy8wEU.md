@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-61 songs - 7 hr 10 min
+62 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [It Is Written \- Live](https://open.spotify.com/track/1OeByuvv5fVL9hxEVhtb0P) | [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Women Who Worship \(Live\)](https://open.spotify.com/album/58A73mFc94fFlVhbX31Bf9) | 8:04 | 2024-06-13 |  |
 | [Jesus Changes Everything](https://open.spotify.com/track/5TVU6JxLyeRpmDXYjO2CB9) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Taylor Ezzell](https://open.spotify.com/artist/7LJenthtFE6Joqz5qMxfUd) | [Garage Sessions](https://open.spotify.com/album/7sYRMyfJUnM4mmtq1RU3jf) | 5:55 | 2025-01-09 | 2025-04-12 |
 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 | 2024-06-13 |  |
+| [Jesus the Healer](https://open.spotify.com/track/6CC8Wr0adHg5ZaYPCSuWln) | [ZION WORSHIP](https://open.spotify.com/artist/25CJXoTNuL8B9ujpMJvh0P), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [Jesus the Healer](https://open.spotify.com/album/3R1GJvMeEA6PJaSEc2FohF) | 7:11 | 2025-12-21 |  |
 | [Keep My Eyes Up](https://open.spotify.com/track/3HwgZ9A7lgMdfhp83DLjCz) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis](https://open.spotify.com/album/1W1SIJVBK38bbjb76kPJfO) | 3:15 | 2024-06-13 |  |
 | [Lay It All Down](https://open.spotify.com/track/2YkANIn2t02TQms674Vv9Z) | [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP), [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Tell All My Friends](https://open.spotify.com/album/0FCfSIukAiBXKLYFNugmIF) | 5:51 | 2024-06-13 |  |
 | [Look At What The Blood Has Done](https://open.spotify.com/track/1OOdR0H1l7fC1ynap0I42m) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [i've been meaning to say this...](https://open.spotify.com/album/12H9bmCNAWORqX0jDVgOqL) | 5:50 | 2025-06-06 |  |

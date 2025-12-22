@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-639 songs - 1 day 10 hr 27 min
+641 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Be Like the Blue Bird](https://open.spotify.com/track/1VCLebfSBPVcphzJyff02N) | [Joel Grey](https://open.spotify.com/artist/64WqSGPXrSf1YbxoimVNbd) | [Anything Goes \(New Broadway Cast Recording\)](https://open.spotify.com/album/6yH8LWqApBErvtBGSSwGzL) | 3:33 | 2025-06-27 |  |
 | [Begin the Beguine \- Versión Alternativa](https://open.spotify.com/track/08Mkx3CzMCnsRCgdmydLEo) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Presentando a Los Indios Tabajaras](https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv) | 2:50 | 2024-07-24 | 2024-12-13 |
 | [Begin The Beguine \- Versión Alternativa](https://open.spotify.com/track/5b0sXfcHJQESX3cqzNlS1C) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Ecos del Llano](https://open.spotify.com/album/1DyxBZDqwHfHScePM56zE7) | 2:58 | 2024-12-14 | 2025-12-18 |
-| [Beguin The Beguin](https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Lo Mejor de los Indios Tabajaras](https://open.spotify.com/album/3edF3RAq1O9WRVmMSW52xU) | 2:58 | 2024-12-12 |  |
+| [Begin the Beguine \- Versión Alternativa](https://open.spotify.com/track/6sufMyIW6SE5FR53mIZxLI) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Fiesta Y Guitarra](https://open.spotify.com/album/1ExAHh9dXXiYgmaAQBoBHZ) | 2:58 | 2025-12-21 |  |
+| [Beguin The Beguin](https://open.spotify.com/track/7vbIqWJvz47rRwGTDR4id5) | [Los Indios Tabajaras](https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb) | [Lo Mejor de los Indios Tabajaras](https://open.spotify.com/album/3edF3RAq1O9WRVmMSW52xU) | 2:58 | 2024-12-12 | 2025-12-22 |
 | [Between You and Me](https://open.spotify.com/track/5Lxv5Hq08wdPKkJGajwoZB) | [kazemaru](https://open.spotify.com/artist/21dXDRr189OA3FpGA1Evig) | [Running on a Knife\-Edge](https://open.spotify.com/album/4pjVHrqf901239z7oschzQ) | 4:51 | 2025-09-12 |  |
 | [Between You and Me](https://open.spotify.com/track/4BstoiptB4aehSZzSpYvIn) | [Оскар](https://open.spotify.com/artist/5BvGivKcddTxmnABDkMyan) | [Running on a Knife\-Edge](https://open.spotify.com/album/75h6VRL47NaHpPe53q91br) | 4:52 | 2025-09-10 | 2025-09-13 |
 | [Bianca](https://open.spotify.com/track/0qQKCB4j56XhQUFdKAHvTE) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:18 | 2024-07-24 |  |
@@ -95,8 +96,9 @@
 | [Cole Porter](https://open.spotify.com/track/6rQomjLa960nRFe1A8mRJp) | [Mike Wofford](https://open.spotify.com/artist/2v3b18j2dOeJth2eidRMnU) | [It's Personal](https://open.spotify.com/album/7hqLYP7AACdkYK7aJ1XzTH) | 4:14 | 2024-08-14 | 2025-06-28 |
 | [Cole Porter Medley](https://open.spotify.com/track/3ifsw4YcxwZ75GfWPVGCNZ) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [The Complete Improv Recordings](https://open.spotify.com/album/1w1U6hqgq6mWCbn39EBAK7) | 13:51 | 2025-06-27 |  |
 | [Cole Porter: Stereophonic Sound \(From "Silk Stockings"\)](https://open.spotify.com/track/2ppMGyJrIc2RQigVQrUKsl) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [The John Wilson Orchestra](https://open.spotify.com/artist/4FSqA5w4tlXuaxoHHQVO0J), [John Wilson](https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh), [Anna Jane Casey](https://open.spotify.com/artist/6LA5IJz8XIjmWiDIzO5lHA), [Matthew Ford](https://open.spotify.com/artist/7dJKuO0pOVK3SjlNhWk4U2) | [Cole Porter in Hollywood](https://open.spotify.com/album/3urUcnykG9cWl5DTntOjS0) | 4:06 | 2024-07-24 |  |
-| [Come Along With Me](https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Best Of The Del Vikings](https://open.spotify.com/album/5rD1gVh3RZ6PfZLlodeWG9) | 1:59 | 2025-02-06 |  |
+| [Come Along With Me](https://open.spotify.com/track/3l7oSOoUbW38CkgcCq4Iv3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Best Of The Del Vikings](https://open.spotify.com/album/5rD1gVh3RZ6PfZLlodeWG9) | 1:59 | 2025-02-06 | 2025-12-22 |
 | [Come Along with Me](https://open.spotify.com/track/39cAmciNkzB7L2HueHCqAv) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Cool Girl](https://open.spotify.com/album/2gvRCjqsNxljJd7gTHsd3Q) | 1:59 | 2025-12-07 | 2025-12-18 |
+| [Come Along with Me](https://open.spotify.com/track/42xWiOMbPzlJMixzealLpU) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come On, Girl](https://open.spotify.com/album/2P7myzOwsDeB49O8jtptas) | 1:59 | 2025-12-21 |  |
 | [Come Along with Me](https://open.spotify.com/track/54eums2raBC1wvFDpyBXH3) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [The Myth of The Del\-Vikings](https://open.spotify.com/album/3vCwyGlXIqFi5z80vUVZiV) | 1:59 | 2024-11-17 | 2024-12-13 |
 | [Come Along With Me](https://open.spotify.com/track/70TGI1NO3pzQEySOklYq8z) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Don't Be a Fool](https://open.spotify.com/album/7MNhe83MSX8fYC7346vERB) | 1:59 | 2024-12-19 | 2025-02-07 |
 | [Come Along With Me](https://open.spotify.com/track/1W9YPL472FoDgEnWJzcLiO) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 1:59 | 2024-07-24 | 2024-12-20 |

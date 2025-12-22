@@ -1,13 +1,53 @@
 {
-  "description": "'Tis the season! All new holiday releases. Cover: Cher",
-  "num_followers": 273890,
+  "description": "'Tis the season! All new holiday releases. Cover: The Pretty Reckless",
+  "num_followers": 274152,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0rliSYAvbQisDqSZ8SkVvaEVl5",
+  "snapshot_id": "AAAAAKhiv2TRRjfOn5zlMwivzgQiWVA+",
   "tracks": [
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Where Are You Christmas?",
+        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 188545,
+      "name": "Where Are You Christmas?",
+      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
+    },
+    {
+      "added_at": "2025-11-07 20:21:02",
+      "album": {
+        "name": "Coming Home This Christmas (From \"A Very Jonas Christmas Movie\")",
+        "url": "https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 204697,
+      "name": "Coming Home This Christmas - From \"A Very Jonas Christmas Movie\"",
+      "url": "https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi"
+    },
     {
       "added_at": "2025-12-08 19:56:25",
       "album": {
@@ -39,30 +79,6 @@
       "duration_ms": 134795,
       "name": "It Feels Like Christmas (Spotify Singles Holiday)",
       "url": "https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq"
-    },
-    {
-      "added_at": "2025-11-07 20:21:02",
-      "album": {
-        "name": "Coming Home This Christmas (From \"A Very Jonas Christmas Movie\")",
-        "url": "https://open.spotify.com/album/77If4wJxFyWmlucy2j1gaY"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 204697,
-      "name": "Coming Home This Christmas - From \"A Very Jonas Christmas Movie\"",
-      "url": "https://open.spotify.com/track/5WinrM87TaUBLxOOCeACBi"
     },
     {
       "added_at": "2025-12-05 06:19:49",
@@ -97,20 +113,20 @@
       "url": "https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q"
     },
     {
-      "added_at": "2025-10-10 04:00:37",
+      "added_at": "2025-12-16 06:42:16",
       "album": {
-        "name": "Where Are You Christmas?",
-        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
+        "name": "Someday at Christmas (Live from the Eiffel Tower)",
+        "url": "https://open.spotify.com/album/2JzM8IFzL14WqqXs20UpzP"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 188545,
-      "name": "Where Are You Christmas?",
-      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
+      "duration_ms": 250319,
+      "name": "Someday at Christmas - Live from the Eiffel Tower",
+      "url": "https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs"
     },
     {
       "added_at": "2025-11-28 05:43:16",
@@ -143,22 +159,6 @@
       "duration_ms": 152955,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/794chmpAl8jGk4Y6TDhqbO"
-    },
-    {
-      "added_at": "2025-12-16 06:42:16",
-      "album": {
-        "name": "Someday at Christmas (Live from the Eiffel Tower)",
-        "url": "https://open.spotify.com/album/2JzM8IFzL14WqqXs20UpzP"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 250319,
-      "name": "Someday at Christmas - Live from the Eiffel Tower",
-      "url": "https://open.spotify.com/track/1UsV1RrYzF1cg0rFo4QyGs"
     },
     {
       "added_at": "2025-12-19 05:00:41",

@@ -1,12 +1,12 @@
 {
   "description": "This is P.O.D.. The essential tracks, all in one playlist.",
-  "num_followers": 77482,
+  "num_followers": 77495,
   "original_name": "This Is P.O.D.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAAAQA5XkQNWpn/I0g4GBvYin",
+  "snapshot_id": "aUXnAAAAAAAlzzua/2QPMIVmYO5+ALfv",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fundamental Elements of Southtown",
-        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Set Your Eyes to Zion",
-      "url": "https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 282626,
       "name": "Roots in Stereo",
       "url": "https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fundamental Elements of Southtown",
+        "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Set Your Eyes to Zion",
+      "url": "https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG"
     },
     {
       "added_at": null,

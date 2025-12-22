@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 51207,
+  "num_followers": 51272,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAACk6JmalQj45KfHEtFEwLRF",
+  "snapshot_id": "aUXnAAAAAAB7idspkUxsa4qXI0hiR2QG",
   "tracks": [
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hope (Acoustic)",
-        "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "Hope - Acoustic",
-      "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stank Face",
         "url": "https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 189845,
       "name": "Stayin' Alive",
       "url": "https://open.spotify.com/track/1SveOKrBFiyneSj3Pd5Sup"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hope (Acoustic)",
+        "url": "https://open.spotify.com/album/5OWWNrqbvgrWqsRsdjC5IC"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "Hope - Acoustic",
+      "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
     },
     {
       "added_at": null,

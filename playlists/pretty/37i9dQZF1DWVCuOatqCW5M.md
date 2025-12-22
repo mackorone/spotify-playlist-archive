@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Anuv Jain, Sonu Nigam,  Arijit Singh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,697 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,745 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 14 | [Monday Morning](https://open.spotify.com/track/1VlKWp04Z2DX95NAA1xtmj) | [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [vivasvan](https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l) | [Monday Morning](https://open.spotify.com/album/1ONHoesReqVQRDbGdurVGy) | 2:34 |
 | 15 | [Junoon](https://open.spotify.com/track/7HRXtrwY5dLY91d5VzTLOB) | [Omkar Singh](https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr) | [Junoon](https://open.spotify.com/album/7duiK2eKEnE4sl7dGbIx72) | 4:17 |
 | 16 | [Nikhar Gaya](https://open.spotify.com/track/4i9oWrSNrLjXSlHmSSKdXM) | [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Nikhar Gaya](https://open.spotify.com/album/1Ws95dIgp62LYeZ5BWfHjo) | 4:51 |
-| 17 | [Badli Lakeerein](https://open.spotify.com/track/6qmIad1p9tELUE65sRK3Zz) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Badli Lakeerein](https://open.spotify.com/album/0hyqT52ojMeluYA10hGptH) | 3:22 |
+| 17 | [Badli Lakeerein](https://open.spotify.com/track/6qmIad1p9tELUE65sRK3Zz) | [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Badli Lakeerein](https://open.spotify.com/album/0hyqT52ojMeluYA10hGptH) | 3:22 |
 | 18 | [FREE](https://open.spotify.com/track/53eYZE3YzrldZOJpo5yLme) | [Maya](https://open.spotify.com/artist/1Z4cTmwQ9KWWkxymOBAdPO), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [FREE](https://open.spotify.com/album/6EVrUSF1MudYqN6GW5pZTB) | 2:29 |
 | 19 | [Sarva Gunn Sampann](https://open.spotify.com/track/6oCqQBfH9Vf9JELgAh6eKv) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Sarva Gunn Sampann](https://open.spotify.com/album/2emv4aW7gOe0vTQrIXDous) | 2:11 |
 | 20 | [Jaadugariyan](https://open.spotify.com/track/19eM7y36j9jEQutk7AblnV) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Gurkanwar Sra](https://open.spotify.com/artist/3oOQoYa8YbuRFz8DVrO5PT) | [Jaadugariyan](https://open.spotify.com/album/1hwdzAzMpzgQFDtDl5r0D1) | 3:12 |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaaLM83puGG5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaaLM83puGG5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaaLM83puGG5)
 
-### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
+### [House Party](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
 > Keeping the party going with FRNDS Only! Get your tickets for  FRNDS FEST <a href="https://posh.vip/e/frnds\-fest\-2025?t=spt">here</a>, featuring Metro Boomin, Blxst and Ty Dolla $ign.
 

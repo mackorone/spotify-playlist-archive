@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 34075,
+  "num_followers": 34074,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAAD1MuujUVpOJQa0gh+o+ew7",
+  "snapshot_id": "aUXnAAAAAADP1mxIw1VXLHlFT6cdeM3Z",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 406506,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Favorite Person",
         "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 349253,
       "name": "Your True Heart (And Shining Star)",
       "url": "https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 406506,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 247066,
-      "name": "Put Your Hands Together",
-      "url": "https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 250800,
       "name": "Give the People What They Want",
       "url": "https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Put Your Hands Together",
+      "url": "https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 536266,
-      "name": "Don't Call Me Brother",
-      "url": "https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Word",
         "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 249229,
       "name": "Start Stoppin'",
       "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 536266,
+      "name": "Don't Call Me Brother",
+      "url": "https://open.spotify.com/track/6KYPvWM3iS0zGiVV4S5Cx1"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelin' At The Speed Of Thought",
-        "url": "https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 268240,
-      "name": "Work on Me",
-      "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential O'Jays",
         "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 197613,
       "name": "The Big Gangster",
       "url": "https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelin' At The Speed Of Thought",
+        "url": "https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 268240,
+      "name": "Work on Me",
+      "url": "https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt"
     },
     {
       "added_at": null,

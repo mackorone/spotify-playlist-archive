@@ -4,7 +4,7 @@
 
 > 
 
-298 songs - 11 hr 43 min
+299 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [I MIGHT B3 SICK](https://open.spotify.com/track/6ROyroRos5S7I2UeaaQjFi) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [I MIGHT B3 SICK](https://open.spotify.com/album/3jnhYswW8lVjUcnetRXr7u) | 1:38 | 2025-04-29 |  |
 | [I PISS MONSTER ENERGY!](https://open.spotify.com/track/6FfSBCzmyZmrmfnDvMamTZ) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I PISS MONSTER ENERGY!](https://open.spotify.com/album/4frZaM0VIM84KFHyWkd73o) | 1:48 | 2025-03-02 | 2025-04-10 |
 | [I SELL CRACK!](https://open.spotify.com/track/6Wtf8aZYZOymOJkBFJHyUk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I SELL CRACK!](https://open.spotify.com/album/6122FLIVBevpdIQoaZngpj) | 1:35 | 2024-12-21 |  |
+| [I'M AFRAID!](https://open.spotify.com/track/6uM4ZSC87ZRa3L9nvbu1Lp) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:30 | 2025-12-22 |  |
 | [I'M UP NOW!](https://open.spotify.com/track/6W7tC8VLKQCk2NLkzo4MY0) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [I'M UP NOW!](https://open.spotify.com/album/47XEDzEOBzwRshbE2YMBQ1) | 2:02 | 2025-01-08 |  |
 | [I've Been Bored](https://open.spotify.com/track/3zi9xNpG2WHCdCAxV0BpJm) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:23 | 2025-05-17 |  |
 | [ICEWHORE!](https://open.spotify.com/track/0RgKtaVv27Nff2y29qaD8W) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [ICEWHORE!](https://open.spotify.com/album/5J00ADHG1jlJiLjQDPURVh) | 1:19 | 2024-12-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6fIMH0GtCp.md) - [plain]
 
 > This Hanukkah playlist features all the classics and the funny favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,308 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,461 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 406725,
+  "num_followers": 406733,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -259,66 +259,6 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Wicked Movie Cast",
-          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Andy Nyman",
-          "url": "https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD"
-        },
-        {
-          "name": "Courtney-Mae Briggs",
-          "url": "https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr"
-        },
-        {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
-        },
-        {
-          "name": "Sharon D. Clarke",
-          "url": "https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8"
-        },
-        {
-          "name": "Jenna Boyd",
-          "url": "https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H"
-        }
-      ],
-      "duration_ms": 447991,
-      "name": "No One Mourns the Wicked",
-      "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "As Long As You\u2019re Mine",
-      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -359,6 +299,26 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "As Long As You\u2019re Mine",
+      "url": "https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -379,6 +339,46 @@
     {
       "added_at": "2025-12-10 11:42:12",
       "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Wicked Movie Cast",
+          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Andy Nyman",
+          "url": "https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD"
+        },
+        {
+          "name": "Courtney-Mae Briggs",
+          "url": "https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+        },
+        {
+          "name": "Sharon D. Clarke",
+          "url": "https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8"
+        },
+        {
+          "name": "Jenna Boyd",
+          "url": "https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H"
+        }
+      ],
+      "duration_ms": 447991,
+      "name": "No One Mourns the Wicked",
+      "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -395,42 +395,6 @@
       "duration_ms": 214373,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/2cKovq3l6OJjhVVDbVKOsr"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Zac Efron",
-          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Rewrite The Stars",
-      "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
-    },
-    {
-      "added_at": "2025-12-10 11:42:12",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 231233,
-      "name": "No Place Like Home",
-      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
     },
     {
       "added_at": "2025-12-10 11:42:12",
@@ -467,6 +431,42 @@
       "duration_ms": 385438,
       "name": "Non-Stop",
       "url": "https://open.spotify.com/track/7qfoq1JFKBUEIvhqOHzuqX"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 231233,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
+    },
+    {
+      "added_at": "2025-12-10 11:42:12",
+      "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Zac Efron",
+          "url": "https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Rewrite The Stars",
+      "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
     },
     {
       "added_at": "2025-12-10 11:42:12",

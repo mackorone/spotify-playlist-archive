@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by BAGI MUNDA & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,646 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,653 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 34 | [CYBERPUNK](https://open.spotify.com/track/6XxyLBZ0PpFaXbfUK9XSXb) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Dictator](https://open.spotify.com/artist/6VXunyqKuBgrhFVsVouKLR) | [CYBERPUNK](https://open.spotify.com/album/7diBNBnqxnd8UVlBybc7vc) | 2:18 |
 | 35 | [Simp](https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Simp](https://open.spotify.com/album/7wCgk5j3GcGMkVheUEjqvM) | 2:31 |
 | 36 | [Rooted](https://open.spotify.com/track/2vQMywHV0qAvtmDFUXVuq2) | [Zorawar](https://open.spotify.com/artist/1eET3Nee8gjlQV2h8x5ugO), [Bhown](https://open.spotify.com/artist/1Ve2Ei9t9IXVyipd0erAAw), [Sajan SP](https://open.spotify.com/artist/4SFLO7PTa9V9ZjtyEwWiJc) | [Rooted](https://open.spotify.com/album/06G2OYW9noPkXhviIhnU8Q) | 2:46 |
-| 37 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
+| 37 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |
 | 38 | [No Escape](https://open.spotify.com/track/3VgB3FwRYut1y1m7pB1VTL) | [Prince sunam wala](https://open.spotify.com/artist/2ACbi9lEPZjmdzqVpBctTA), [Still](https://open.spotify.com/artist/0eFqC7KVSJ760f3YOgrleN), [Ishan Johar](https://open.spotify.com/artist/21Nkz5eY80eZkv2DX8qnv5) | [No Escape](https://open.spotify.com/album/3lnlbdaVnkUO4YW51E1Wad) | 2:47 |
 | 39 | [FEEM TO FAME](https://open.spotify.com/track/1NNbi5Jc6j83KZ1kIIQ6g6) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [FEEM TO FAME](https://open.spotify.com/album/5EX8OyWRqsVn8mUdvkTytU) | 2:57 |
 | 40 | [Baddie Boliyan](https://open.spotify.com/track/2JqTaNgtyvwrUdtduL9lki) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Don't Forget To Call](https://open.spotify.com/album/4NDQwpAA6rB7Y6X3e8LMxm) | 2:13 |

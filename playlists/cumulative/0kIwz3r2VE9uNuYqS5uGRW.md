@@ -4,7 +4,7 @@
 
 > 
 
-124 songs - 6 hr 26 min
+126 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,9 @@
 | [Still In Love](https://open.spotify.com/track/1M52mCrWoQ02KCGHLEAdVF) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Still In Love](https://open.spotify.com/album/1gr8h4IKRE7r1h6CmLKtlT) | 3:49 | 2025-07-03 |  |
 | [Streets](https://open.spotify.com/track/1f0WLhzTTPvqoma7iUyVp1) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:56 | 2025-03-12 |  |
 | [Switch Up](https://open.spotify.com/track/5Aqeo1MvtayIqoanDfFOAQ) | [Tonez](https://open.spotify.com/artist/5pvsRwXcUfr3oUVVbgrv5P) | [Switch Up](https://open.spotify.com/album/5L94iYncA1of7RQSXO6brj) | 3:16 | 2025-06-30 |  |
+| [System Shock](https://open.spotify.com/track/30i9LhCnrEH1RUWs5b9exA) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [System Shock](https://open.spotify.com/album/5fvf3AMyY6MLrNp3qq7hIM) | 2:54 | 2025-12-21 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
+| [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
 | [the mall closed down](https://open.spotify.com/track/1y6T0l16UIX6R4YmRNWziA) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [the mall closed down](https://open.spotify.com/album/4DoBmOddEZzeypxWIrUdAZ) | 5:37 | 2025-05-07 |  |
 | [The Weekender](https://open.spotify.com/track/1OnHezJi7V03g7Kk1DuF3M) | [Neu Yuck](https://open.spotify.com/artist/6T1u8DVyqblZvGOSaF7gUd) | [The Weekender](https://open.spotify.com/album/75g24joK0xD27tcJCOMGFZ) | 2:28 | 2025-10-01 |  |
 | [Throw That Ass Back](https://open.spotify.com/track/5ldc4pQnSo3kN9iuGU28FW) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [Throw That Ass Back](https://open.spotify.com/album/5tmLNvZODQPdCwj7pjnkdU) | 2:39 | 2025-07-03 |  |

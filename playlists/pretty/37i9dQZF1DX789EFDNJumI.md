@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX789EFDNJumI.md) - [plain](/playlists/plain/37i9dQZF1DX789EFDNJumI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX789EFDNJumI)
 
-### [House Party \(3\)](https://open.spotify.com/playlist/37i9dQZF1DX789EFDNJumI)
+### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX789EFDNJumI)
 
 > Get your party jumping with this mix of pop, hip\-hop, & dance hits 🎉 Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 854 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

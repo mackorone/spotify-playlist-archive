@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,880 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,905 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 5 | [THANKYOU 1000X \(feat\. Mitch Wong\)](https://open.spotify.com/track/5wrhbFQuTnm6eyZEzPMGY8) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [THANKYOU 1000X \(feat\. Mitch Wong\)](https://open.spotify.com/album/6yc8hO0oyemOu4qHEoI6B4) | 4:28 |
 | 6 | [I Thank God](https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [I Thank God](https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU) | 3:41 |
 | 7 | [Thank You](https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Thank You](https://open.spotify.com/album/6hYNb0Bu73paVyrGwhJmGM) | 3:51 |
-| 8 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:06 |
-| 9 | [Praise The Lord](https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn) | 3:18 |
+| 8 | [Praise The Lord](https://open.spotify.com/track/5TkSbXGmy8bhMs4fxZ939Z) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Praise The Lord](https://open.spotify.com/album/6AVULKLk5k401GWjYcqesn) | 3:18 |
+| 9 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:06 |
 | 10 | [Rich](https://open.spotify.com/track/4tNPvDMaT7GMv5pQQqkesB) | [ELI GABLE](https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY) | [Rich](https://open.spotify.com/album/6Da5S0GCQK9Ex5Nbud8ozV) | 3:11 |
 | 11 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
 | 12 | [Grateful](https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 6:55 |
-| 13 | [What A Miracle \(feat\. Chris Brown\)](https://open.spotify.com/track/1GkgOYQ797fsxJ3BvrBOBH) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [What A Miracle \(feat\. Chris Brown\)](https://open.spotify.com/album/7pAfxjEYm5QNs7O9JUCtRX) | 5:54 |
-| 14 | [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 |
+| 13 | [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 |
+| 14 | [What A Miracle \(feat\. Chris Brown\)](https://open.spotify.com/track/1GkgOYQ797fsxJ3BvrBOBH) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [What A Miracle \(feat\. Chris Brown\)](https://open.spotify.com/album/7pAfxjEYm5QNs7O9JUCtRX) | 5:54 |
 | 15 | [So So Good \- Live](https://open.spotify.com/track/1NfkApXza2Stn80T8vBGOq) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/37gaFi95mVqqxKOYVdyTv4) | 4:48 |
 | 16 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 |
 | 17 | [Thank You](https://open.spotify.com/track/7bepx5i8LoFzHKinpEWuUM) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Thank You](https://open.spotify.com/album/2ocrwBpvEWwXfjL6eZdkk7) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 99 | [Grateful Heart](https://open.spotify.com/track/2o7aZHDBPxZtQO8EqRl7lJ) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Glad](https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE) | 4:16 |
 | 100 | [Thank You](https://open.spotify.com/track/5xXjFLdqsj0Jnb7GXduA99) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Words & Music: John Mellencamp's Greatest Hits](https://open.spotify.com/album/4apfDLU5QtNOu784u2Z2B5) | 3:37 |
 
-Snapshot ID: `AAAAADQHCJhrYF0wK7EYMPlvn5LM8Sdp`
+Snapshot ID: `AAAAALPWMaNTBB9Bjnw5hkbPYtWQ/qTp`

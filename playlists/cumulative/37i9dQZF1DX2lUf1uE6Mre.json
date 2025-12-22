@@ -4817,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "MAYBACH TRUCK",
+        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108569,
+      "name": "MAYBACH TRUCK",
+      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
+    },
+    {
+      "album": {
         "name": "me & you",
         "url": "https://open.spotify.com/album/2KbDjW2XjpgFC6VTfwkTYu"
       },
@@ -7998,7 +8016,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-22",
       "duration_ms": 144650,
       "name": "Warum ich?",
       "url": "https://open.spotify.com/track/57vsdwAovYIYg6EqrPF4kH"

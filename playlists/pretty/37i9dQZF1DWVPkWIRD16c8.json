@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 243637,
+  "num_followers": 243704,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
+        "name": "Where Would I Be",
+        "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
+      },
+      "artists": [
+        {
+          "name": "Peter Burton",
+          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 192445,
+      "name": "Where Would I Be",
+      "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 158235,
       "name": "Shackles (Praise You)",
       "url": "https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
-        "name": "Where Would I Be",
-        "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
-      },
-      "artists": [
-        {
-          "name": "Peter Burton",
-          "url": "https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0"
-        },
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 192445,
-      "name": "Where Would I Be",
-      "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "God's Child",
-        "url": "https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR"
-      },
-      "artists": [
-        {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "God's Child",
-      "url": "https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "trustfall",
         "url": "https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 197821,
       "name": "i still have you",
       "url": "https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "God's Child",
+        "url": "https://open.spotify.com/album/6TlEnEiD85bX9bPyjPX1aR"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "God's Child",
+      "url": "https://open.spotify.com/track/0dqYf9C9WienGmhkUUmlR7"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Morning glory, don't you worry.",
-        "url": "https://open.spotify.com/album/485K5RKBArRkto27KG5SWT"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 253712,
-      "name": "Morning glory, don't you worry.",
-      "url": "https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "Everything_",
         "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 231151,
       "name": "Everything_",
       "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "Morning glory, don't you worry.",
+        "url": "https://open.spotify.com/album/485K5RKBArRkto27KG5SWT"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 253712,
+      "name": "Morning glory, don't you worry.",
+      "url": "https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Again And Again",
-        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Again And Again",
-      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "I'd Be Lying",
         "url": "https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ"
       },
@@ -1403,18 +1383,22 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ"
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
       },
       "artists": [
         {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 193100,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3"
+      "duration_ms": 189106,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -1431,6 +1415,22 @@
       "duration_ms": 122400,
       "name": "SPIN BACK!",
       "url": "https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3"
     },
     {
       "added_at": "2025-12-12 22:21:53",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "Still Small Voice",
-        "url": "https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 205781,
-      "name": "Still Small Voice",
-      "url": "https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "Real Me",
         "url": "https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 172621,
       "name": "Learning To Let Go",
       "url": "https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "Still Small Voice",
+        "url": "https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 205781,
+      "name": "Still Small Voice",
+      "url": "https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi"
     },
     {
       "added_at": "2025-12-12 22:21:53",

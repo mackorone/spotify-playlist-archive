@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 107213,
+  "num_followers": 107248,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 272695,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "N\u00e3o Abandone A Sua Cruz",
         "url": "https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 245464,
       "name": "N\u00e3o Abandone A Sua Cruz",
       "url": "https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 272695,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -607,26 +607,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Fora do Normal (Majestade) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        },
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Fora do Normal (Majestade) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Mais que Vencedor (feat. Carlos Henrique)",
         "url": "https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 215099,
       "name": "Mais que Vencedor (feat. Carlos Henrique)",
       "url": "https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Fora do Normal (Majestade) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1Gga11E0sopkHf1KEfYZIK"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        },
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 225365,
+      "name": "Fora do Normal (Majestade) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4J8QQp1meKEf8lteMqL3av"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Eu Quero Ir pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "Eu Quero Ir pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 200562,
       "name": "A Terra e o Lavrador",
       "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Eu Quero Ir pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "Eu Quero Ir pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "Voz e Viol\u00e3o - Parte 1",
+        "url": "https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 295555,
+      "name": "Vencer \u00c9 Preciso - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "Do Meu Jeito (Majestade)",
         "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 253909,
       "name": "Do Meu Jeito (Majestade)",
       "url": "https://open.spotify.com/track/1YmcVZ5ouRracWldy5TqmL"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "Voz e Viol\u00e3o - Parte 1",
-        "url": "https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 295555,
-      "name": "Vencer \u00c9 Preciso - Voz e Viol\u00e3o",
-      "url": "https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE"
     },
     {
       "added_at": "2025-10-03 03:01:34",

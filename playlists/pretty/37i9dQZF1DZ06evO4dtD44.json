@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUSVgAAAAACSL2TY6NCjgiimDj4R1qaM",
+  "snapshot_id": "aUXnAAAAAAD7DmU9N/H1ddK3c54fXbXT",
   "tracks": [
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
+        "name": "In Tokyo",
+        "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7t0Wbk6mXzMEC2GDU4ND1k"
+      "duration_ms": 361106,
+      "name": "Pra Que Discutir Com Madame?",
+      "url": "https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Tokyo",
-        "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
+        "name": "Chega de Saudade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 361106,
-      "name": "Pra Que Discutir Com Madame?",
-      "url": "https://open.spotify.com/track/4qZ6Jm9bvQSxcacHe6qT0w"
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7t0Wbk6mXzMEC2GDU4ND1k"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+        "name": "Getz/Gilberto",
+        "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
       },
       "artists": [
         {
@@ -378,11 +378,15 @@
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 188280,
-      "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
+      "duration_ms": 225733,
+      "name": "S\u00f3 Dan\u00e7o Samba",
+      "url": "https://open.spotify.com/track/0LS3cTpTm5zPTmBcyIDfOJ"
     },
     {
       "added_at": null,
@@ -427,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz/Gilberto",
-        "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
       "artists": [
         {
@@ -438,15 +442,11 @@
         {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 225733,
-      "name": "S\u00f3 Dan\u00e7o Samba",
-      "url": "https://open.spotify.com/track/0LS3cTpTm5zPTmBcyIDfOJ"
+      "duration_ms": 188280,
+      "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 135018,
-      "name": "Este Seu Olhar",
-      "url": "https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 201839,
       "name": "One Note Samba",
       "url": "https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 135018,
+      "name": "Este Seu Olhar",
+      "url": "https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,876 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,977 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 64 | [I Feel](https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Feel](https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb) | 2:20 |
 | 65 | [Day 'N' Nite](https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Acid Boyz](https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a) | [Day 'N' Nite](https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa) | 2:13 |
 | 66 | [Balling \- LÄUFF Remix](https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [LÄUFF](https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73) | [Balling \(LÄUFF Remix\)](https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe) | 4:20 |
-| 67 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 |
-| 68 | [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(W&W Remix\)](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 |
+| 67 | [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(W&W Remix\)](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 |
+| 68 | [Jump Dance Move Bounce](https://open.spotify.com/track/4BSJd6jkmroYkGKIrrstUa) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Jump Dance Move Bounce](https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby) | 2:29 |
 | 69 | [Burn](https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL) | [Bisken](https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf) | [Burn](https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq) | 2:14 |
 | 70 | [Jerk It Out](https://open.spotify.com/track/0HhCzdm7N8KCFpUurURQNA) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Jerk It Out](https://open.spotify.com/album/3h5YGKxwIHpALqFFYSH5BY) | 2:33 |
 | 71 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 |
