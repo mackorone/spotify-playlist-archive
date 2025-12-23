@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85743,
+  "num_followers": 85749,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABsnDprtMsfjsKyu4TzbgtH",
+  "snapshot_id": "aUc4gAAAAABMZaCLlVm8Tl7h2VrrIL2A",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 189400,
-      "name": "Extrav\u00edate",
-      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 229011,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/1BmXobAOtNbMo53baZ5Nsz"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Extrav\u00edate",
+      "url": "https://open.spotify.com/track/0sxH4AbYYqRjA3KdZuIc6Y"
     },
     {
       "added_at": null,

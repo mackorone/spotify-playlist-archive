@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-300 songs - 15 hr 48 min
+303 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Nowhere Again, Kinder](https://open.spotify.com/track/5iYgYc1DbDuP918lEJirXg) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:01 | 2025-12-01 |  |
 | [Nuvole](https://open.spotify.com/track/7bxhomQAoW2NrwYzZtizGu) | [Fabio di Biase](https://open.spotify.com/artist/3ySI3lfDI3FG6om6IH3SCy) | [Nuvole](https://open.spotify.com/album/2ZDoqQeAsYADGiH3B7YYJa) | 4:38 | 2021-12-10 |  |
 | [Oak Savanna](https://open.spotify.com/track/7CkCz3faTetu3yHtoMgl0D) | [Jef Martens](https://open.spotify.com/artist/2TdPVIB0o6UlXQMNhXzy4O), [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Oak Savanna](https://open.spotify.com/album/483Q9I5hJzlwgQCujQLBBL) | 2:14 | 2025-02-28 |  |
+| [Oblivion](https://open.spotify.com/track/2LhJMSY63nsKrZeUOeTenD) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr), [Juan Arenosa](https://open.spotify.com/artist/3cgp4SJCP9dZ53OpbON3cH) | [Oblivion](https://open.spotify.com/album/5gWAFOZSXyRe50I1Tu0osm) | 2:00 | 2025-12-22 |  |
 | [October](https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [October](https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db) | 2:57 | 2021-12-10 | 2023-01-04 |
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
 | [Oil on Wood](https://open.spotify.com/track/1Lh7HHShT4nchZts6JPyW2) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:39 | 2025-02-19 | 2025-05-17 |
@@ -278,6 +279,7 @@
 | [The Weight Of Fear](https://open.spotify.com/track/1QCAEjOCUPePqYLZTQ0UuQ) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Weight Of Fear](https://open.spotify.com/album/1znZjWMZo7qMlYadTcn8G0) | 3:13 | 2021-12-10 | 2023-03-15 |
 | [Thirty](https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Thirty](https://open.spotify.com/album/4h5DGFxPNsrOW3wxs2miTY) | 2:34 | 2022-01-21 |  |
 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 | 2023-03-31 |  |
+| [Tides \- Soft Felt Piano](https://open.spotify.com/track/4daFxaQC8EQLHVcryi2sRA) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ), [Marco Velocci](https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe) | [Tides \(Soft Felt Piano\)](https://open.spotify.com/album/2tE1PBjVgv6rg6I5qkIeRH) | 5:33 | 2025-12-22 |  |
 | [Time Spent](https://open.spotify.com/track/3ZLzPbSOw4OfVqa5zyEWCu) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Owl Splinters](https://open.spotify.com/album/0UCWmdeObrNjjW92mA6bRn) | 2:09 | 2021-12-10 | 2023-01-04 |
 | [Transience](https://open.spotify.com/track/3EyDeYw7ezBw4u0WIFI10y) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/2AL2HensOEJzbPA6rsfJIE) | 2:59 | 2022-07-22 | 2024-04-19 |
 | [Transience](https://open.spotify.com/track/7065v1WsWaUVaH0ZPRwhkC) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [Transience](https://open.spotify.com/album/5KKSxCujaeW9FTT9Q0jZxA) | 2:59 | 2021-12-10 | 2025-03-27 |
@@ -287,6 +289,7 @@
 | [Triptych 1 for Piano](https://open.spotify.com/track/4hz99c39SOIMCng7b7j4Wd) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/7lqhbSElKknWLrKgU5G4G6) | 2:39 | 2022-07-22 | 2024-04-19 |
 | [Triptych III for Piano](https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych III for Piano](https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4) | 3:21 | 2022-05-25 |  |
 | [Tuesday](https://open.spotify.com/track/2GuchYit1FmdtXTxl6SbUE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Tuesday](https://open.spotify.com/album/34NwQqEqmAFJW30p70psIt) | 3:11 | 2021-12-10 | 2025-03-27 |
+| [Two Hearts In New Zealand](https://open.spotify.com/track/78MmwKgK9k2JTkmbjWoQzA) | [Cécile Seraud](https://open.spotify.com/artist/2vsLQTJyfcCFwtLJ7xlQw9) | [Psykhé](https://open.spotify.com/album/0aPtTz6H7kTCiWyAmjEiR1) | 2:58 | 2025-12-22 |  |
 | [Túndra](https://open.spotify.com/track/3D7BDoRe1f9ftfAUAq5guz) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar \(Traveler’s Log\)](https://open.spotify.com/album/1WoR3gL3aEAoIHgZmBQN6j) | 2:23 | 2025-05-16 |  |
 | [Under The Starry Sky \- Piano Version](https://open.spotify.com/track/2SoMjTQ39XdxkMAQP6eVHy) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Under The Starry Sky \(Piano Version\)](https://open.spotify.com/album/4o61osStRGJJzFM6sAiAVc) | 2:56 | 2025-12-01 |  |
 | [United](https://open.spotify.com/track/0CBvwwGhoTFdLCC5NWHvUi) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [United](https://open.spotify.com/album/6dsM7g1KZFLamGuezt9wvs) | 2:22 | 2021-12-10 | 2025-03-06 |

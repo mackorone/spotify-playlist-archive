@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 265 likes - 94 songs - 5 hr 43 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 267 likes - 95 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 92 | [Your Revolution](https://open.spotify.com/track/1WSbOpf77PWVKHqiPhTdmI) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Your Revolution](https://open.spotify.com/album/27Q2F1616jpd9nAUjqlnVw) | 3:46 |
 | 93 | [April Breaking Down](https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 4:20 |
 | 94 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 |
+| 95 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 |
 
-Snapshot ID: `AAAA5HXCONztCCtcofkUe1YdoliyQ2yp`
+Snapshot ID: `AAAA5frMUPQGDo88moVXcdXjzs7ffPdD`

@@ -23019,6 +23019,28 @@
     },
     {
       "album": {
+        "name": "Let The Bedtimes Roll: Lullaby renditions of The Offspring",
+        "url": "https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246073,
+      "name": "Hit That",
+      "url": "https://open.spotify.com/track/1qIMzsa7KFTmbqnkyxYHjk"
+    },
+    {
+      "album": {
         "name": "Hoes In The Sheets",
         "url": "https://open.spotify.com/album/6szlqnJLD3ccchhVqCpOqd"
       },
@@ -32418,7 +32440,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 106057,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7bb2epE948lHy3ap2DnAnx"

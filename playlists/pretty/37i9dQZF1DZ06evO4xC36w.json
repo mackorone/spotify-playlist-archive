@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 996108,
+  "num_followers": 996311,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABSu7aJ0F1yhlaXdPzumS/k",
+  "snapshot_id": "aUc4gAAAAAAEP/pLeaXkMFJ53R8/xB7p",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De Joan Sebastian",
-        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 154110,
       "name": "Soy C\u00f3mo Quiero Ser",
       "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De Joan Sebastian",
+        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
     },
     {
       "added_at": null,

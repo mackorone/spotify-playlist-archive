@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,666 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,665 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 47 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |
 | 48 | [Ouverture](https://open.spotify.com/track/6XF87ir7jZgsz7i4iWWvJI) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Inner Symphonies](https://open.spotify.com/album/1KZB5lAvsyeK9X1vFnqARz) | 3:54 |
 | 49 | [Clarence Difference](https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Clarence Difference](https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI) | 3:57 |
-| 50 | [Interlude I \(The End\)](https://open.spotify.com/track/1bApBBq8aa3GYHOX8Mdsp9) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 1:14 |
+| 50 | [Flume](https://open.spotify.com/track/6VQf8FSlVmevmvVSaC532U) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 3:42 |
 
 Snapshot ID: `AAAAALFDsMWbQFJkJm4p+zGJZ1U026pY`

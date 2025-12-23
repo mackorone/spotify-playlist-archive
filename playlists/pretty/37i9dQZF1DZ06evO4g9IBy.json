@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171825,
+  "num_followers": 171833,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABnEPrPxuXXLM1nM8AY/h2U",
+  "snapshot_id": "aUc4gAAAAADSTck2Ruh3tmNzvd29lHzi",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "If You Ever Did Believe - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1GD7JuqEbuvdWCALuIwqS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 149492,
       "name": "Remedy (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/55apJ336pzYBjmG7uwal5K"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "If You Ever Did Believe - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1GD7JuqEbuvdWCALuIwqS4"
     },
     {
       "added_at": null,
@@ -358,15 +358,11 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 201826,
-      "name": "I Will Run to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+      "duration_ms": 301293,
+      "name": "Nightbird - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
     },
     {
       "added_at": null,
@@ -434,11 +430,15 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 301293,
-      "name": "Nightbird - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
+      "duration_ms": 201826,
+      "name": "I Will Run to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -823,6 +807,38 @@
       "duration_ms": 186173,
       "name": "Enchanted - 2016 Remaster",
       "url": "https://open.spotify.com/track/6ZMQ6kKshuMLWrYk37KBmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Your Dreams",
+        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
       "duration_ms": 336560,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Your Dreams",
-        "url": "https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Secret Love",
-      "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
     },
     {
       "added_at": null,

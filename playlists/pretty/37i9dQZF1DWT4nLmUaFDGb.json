@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 686220,
+  "num_followers": 686487,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -443,26 +443,6 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "LIVING ROOM 2",
-        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
-      },
-      "artists": [
-        {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
-        },
-        {
-          "name": "Michael Stephenson",
-          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
-        }
-      ],
-      "duration_ms": 217172,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -483,18 +463,22 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "LIVING ROOM 2",
+        "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Michael Stephenson",
+          "url": "https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk"
         }
       ],
-      "duration_ms": 150813,
-      "name": "Jimmy Jazz",
-      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
+      "duration_ms": 217172,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/5PPFu9Ezev083u2bEuoz3q"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -511,6 +495,22 @@
       "duration_ms": 185240,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 150813,
+      "name": "Jimmy Jazz",
+      "url": "https://open.spotify.com/track/63GVVtC9u2csLf7CqfInL7"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -1227,70 +1227,6 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "On Vacation",
-        "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
-      },
-      "artists": [
-        {
-          "name": "Till Br\u00f6nner",
-          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
-        },
-        {
-          "name": "Bob James",
-          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
-        },
-        {
-          "name": "Harvey Mason",
-          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
-        },
-        {
-          "name": "Christian von Kaphengst",
-          "url": "https://open.spotify.com/artist/658B4A00zdwgZcmLelmlMp"
-        }
-      ],
-      "duration_ms": 326729,
-      "name": "Save Your Love for Me",
-      "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
-        "name": "Here It Is: A Tribute to Leonard Cohen",
-        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 380066,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
-        "name": "Old Cape Cod",
-        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 209043,
-      "name": "Old Cape Cod",
-      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
         "name": "Remembering You",
         "url": "https://open.spotify.com/album/2bp4zghbrnrUPri3ENIItw"
       },
@@ -1319,6 +1255,70 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "Here It Is: A Tribute to Leonard Cohen",
+        "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
+      },
+      "artists": [
+        {
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 380066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "On Vacation",
+        "url": "https://open.spotify.com/album/0lkjkN4nOGZeFr0hxaMQDY"
+      },
+      "artists": [
+        {
+          "name": "Till Br\u00f6nner",
+          "url": "https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8"
+        },
+        {
+          "name": "Bob James",
+          "url": "https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ"
+        },
+        {
+          "name": "Harvey Mason",
+          "url": "https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT"
+        },
+        {
+          "name": "Christian von Kaphengst",
+          "url": "https://open.spotify.com/artist/658B4A00zdwgZcmLelmlMp"
+        }
+      ],
+      "duration_ms": 326729,
+      "name": "Save Your Love for Me",
+      "url": "https://open.spotify.com/track/3aqnw5JOWwyLli3SPAwtc1"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "Old Cape Cod",
+        "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 209043,
+      "name": "Old Cape Cod",
+      "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "Nothing Standard",
-        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
-      },
-      "artists": [
-        {
-          "name": "Jesse Palter",
-          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
-        }
-      ],
-      "duration_ms": 388114,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
         "name": "Mr Bojangles",
         "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 283413,
       "name": "Mr. Bojangles",
       "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "Nothing Standard",
+        "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
+      },
+      "artists": [
+        {
+          "name": "Jesse Palter",
+          "url": "https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX"
+        }
+      ],
+      "duration_ms": 388114,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
+        "name": "I Wanna Be Loved",
+        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "I Wanna Be Loved",
+      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/0ymGCq0L4ZURIuEpEBli3I"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/4DVEhmEhTaUhJLGjKvK5FT"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "The Best of Blu",
-        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
-      },
-      "artists": [
-        {
-          "name": "Jonny Blu",
-          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Girl from Ipanema",
-      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
         "name": "Misty Blue",
         "url": "https://open.spotify.com/album/6p3WU83zSriSXPAMxGZRhQ"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 320100,
       "name": "You're Mine, You (feat. Benny Benack III)",
       "url": "https://open.spotify.com/track/5yLgk5IBFonUyOUuFoBY16"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "The Best of Blu",
+        "url": "https://open.spotify.com/album/3Y0clI1wk8ASZcNLeeFXWT"
+      },
+      "artists": [
+        {
+          "name": "Jonny Blu",
+          "url": "https://open.spotify.com/artist/6uoCJh6AdFGLXtjUMhAJXw"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Girl from Ipanema",
+      "url": "https://open.spotify.com/track/75TwPttPOaiTcP2BH6tdFW"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "Hilltop",
-        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
-      },
-      "artists": [
-        {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
-        }
-      ],
-      "duration_ms": 272768,
-      "name": "Hilltop",
-      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
         "name": "The Molly Johnson Songbook",
         "url": "https://open.spotify.com/album/14ApZhAAcQQ3JFUlYatLEn"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 205040,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/2H26DBC5PrgzmBkvRHqmGx"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "Hilltop",
+        "url": "https://open.spotify.com/album/1vlxR6EAMlpVU3DsUysk63"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 272768,
+      "name": "Hilltop",
+      "url": "https://open.spotify.com/track/4b9JWOc6HbWTSlgmQVyjqF"
     },
     {
       "added_at": "2025-12-19 13:34:46",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2025-12-19 13:34:46",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
-      },
-      "artists": [
-        {
-          "name": "Sophia HP",
-          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
-    },
-    {
-      "added_at": "2025-12-19 13:34:46",
-      "album": {
         "name": "Bewitched, Bothered, and Bewildered",
         "url": "https://open.spotify.com/album/72UfFAivdgZi1NttdxustH"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 447133,
       "name": "Bewitched, Bothered, and Bewildered",
       "url": "https://open.spotify.com/track/1uXP8aq3J5QTnrdJ6DoMJD"
+    },
+    {
+      "added_at": "2025-12-19 13:34:46",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G"
+      },
+      "artists": [
+        {
+          "name": "Sophia HP",
+          "url": "https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP"
     },
     {
       "added_at": "2025-12-19 13:34:46",

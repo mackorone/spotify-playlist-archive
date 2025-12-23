@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-647 songs - 1 day 20 hr 39 min
+648 songs - 1 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 | 2021-05-07 | 2022-04-20 |
 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 | 2024-03-01 | 2025-09-28 |
 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 | 2021-05-07 | 2022-04-19 |
-| [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 | 2025-09-19 |  |
+| [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 | 2025-09-19 | 2025-12-23 |
 | [Bloom](https://open.spotify.com/track/6pRvIg1q3LVQw63PwLJGlb) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Intercell](https://open.spotify.com/album/1H5RU9ymFKcu0GGt3QVZbI) | 3:16 | 2023-10-13 | 2023-11-04 |
 | [Bloom](https://open.spotify.com/track/4O8aAhhXLBCSTDW7zUF1FV) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Bloom / Rise](https://open.spotify.com/album/7z8dvy3gNn7Yys09BKgBtS) | 4:49 | 2021-05-07 | 2022-04-21 |
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-22 | 2025-05-03 |
@@ -334,6 +334,7 @@
 | [Lost](https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Lost](https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6) | 3:45 | 2025-07-25 |  |
 | [Lost at Sea](https://open.spotify.com/track/6DUiSnyXWYiNXSsRe6FJPc) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz) | [Waves of the Soul / Lost at Sea](https://open.spotify.com/album/39S4MhNoCznHiI7csqfu7j) | 4:42 | 2022-06-10 | 2022-07-23 |
 | [Lost Gravity](https://open.spotify.com/track/4UwtgYX9wp4z9zLIfzVviV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Lost Gravity EP](https://open.spotify.com/album/6tQSndkw5ajwFDt0u1Cb1W) | 5:05 | 2021-05-18 | 2022-10-05 |
+| [Lost In Light](https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Lost In Light](https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m) | 3:12 | 2025-12-19 |  |
 | [Lost In Space](https://open.spotify.com/track/3IJRNwpqZU7uJhQ5qFvy5D) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Lost In Space](https://open.spotify.com/album/3XmOP8oV0J57PrPYAOm63G) | 7:31 | 2023-05-05 | 2024-05-01 |
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-05-26 | 2025-01-25 |
 | [Love Again](https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Love Again](https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8) | 3:11 | 2025-09-05 |  |

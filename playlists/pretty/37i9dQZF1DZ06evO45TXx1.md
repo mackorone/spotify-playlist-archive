@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,410 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,417 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
 | 50 | [Pétalas](https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5) | [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Pétalas](https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv) | 3:12 |
 
-Snapshot ID: `aUXnAAAAAADnkIXllVB9bviFy+njJ0b5`
+Snapshot ID: `aUc4gAAAAADc7DocdYz8AqlJcevjOfew`

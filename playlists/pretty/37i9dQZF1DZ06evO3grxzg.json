@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235754,
+  "num_followers": 235745,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAB97qMTDvWeaUkxavoMk1Op",
+  "snapshot_id": "aUc4gAAAAAAbvj1z8NMdsR5/z+xJNBjq",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KHE CALOR",
-        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "KHE CALOR",
-      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hope Club",
         "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 200600,
       "name": "Know Me Too Well (with Danna Paola)",
       "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KHE CALOR",
+        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "KHE CALOR",
+      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuatro Estaciones",
         "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 192066,
       "name": "Subt\u00edtulos",
       "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Dos Extra\u00f1os",
-      "url": "https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola",
-        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Todo Fue Un Show",
-      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
+      "duration_ms": 184760,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Final Feliz",
-      "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
+      "duration_ms": 228466,
+      "name": "Todo Fue Un Show",
+      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
       "duration_ms": 180600,
       "name": "T.A.C.O.",
       "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
     },
     {
       "added_at": null,
@@ -915,6 +895,26 @@
       "duration_ms": 185573,
       "name": "Sola",
       "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/6JmCyFj0UAIkGlp9EsFEsu"
     }
   ],
   "unique_name": "This Is Danna Paola",

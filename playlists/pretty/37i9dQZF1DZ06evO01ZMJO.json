@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23617,
+  "num_followers": 23625,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAB2IamLzM2McDtz/DPlcUTX",
+  "snapshot_id": "aUc4gAAAAADQqlF+Zy4C8xGeO7NINk4x",
   "tracks": [
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebls 4 Life",
-        "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
-      },
-      "artists": [
-        {
-          "name": "Bass Chaserz",
-          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 211519,
-      "name": "Rebls 4 Life",
-      "url": "https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Die",
         "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 200620,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebls 4 Life",
+        "url": "https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 211519,
+      "name": "Rebls 4 Life",
+      "url": "https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV"
     },
     {
       "added_at": null,

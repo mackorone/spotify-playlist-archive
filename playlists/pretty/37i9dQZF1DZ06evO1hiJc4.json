@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 152950,
+  "num_followers": 152961,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADRP+5sShNYGQRtyKUMvWkb",
+  "snapshot_id": "aUc4gAAAAACz563PhFJcqVBiNaPGOz3n",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prelude",
-        "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Pull Me In",
-      "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prelude",
+        "url": "https://open.spotify.com/album/0JYGSTiMzkrngyJAj9aE6l"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Pull Me In",
+      "url": "https://open.spotify.com/track/5bnzXLwElvAHS6v0azPfrb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -519,26 +519,6 @@
       "duration_ms": 153890,
       "name": "Nate Growing Up",
       "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Goes",
-        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 284271,
-      "name": "Love Goes (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
     },
     {
       "added_at": null,
@@ -575,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Goes",
+        "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 284271,
+      "name": "Love Goes (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 195746,
       "name": "Heaven Can Wait (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/2VDTgXwf3F6kcpX4HI0BKy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "To Be Human (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
     },
     {
       "added_at": null,
@@ -651,6 +631,26 @@
       "duration_ms": 150222,
       "name": "Power Couple",
       "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wonder Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KAhv0UFmkjf2MpTFh0KNd"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "To Be Human (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
+        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 142848,
+      "name": "Skeletons (Lexi Needed a Break)",
+      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Kitchen (Score from the Netflix Film)",
         "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 102603,
       "name": "Accepted By The Crew",
       "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
-        "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 142848,
-      "name": "Skeletons (Lexi Needed a Break)",
-      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
     },
     {
       "added_at": null,
@@ -951,18 +951,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+        "name": "It's Almost Dry",
+        "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },
       "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "Malice",
+          "url": "https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM"
+        },
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        },
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 69153,
-      "name": "Benji Puts His Mum To Rest",
-      "url": "https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw"
+      "duration_ms": 261907,
+      "name": "I Pray For You (feat. Labrinth & MALICE)",
+      "url": "https://open.spotify.com/track/7HsG7U7aQhafXqa41dBxlK"
     }
   ],
   "unique_name": "This Is Labrinth",

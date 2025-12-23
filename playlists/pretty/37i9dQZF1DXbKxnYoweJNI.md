@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover:楊子平 \(CAsPER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,026 likes - 132 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,031 likes - 132 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 56 | [LOOP](https://open.spotify.com/track/1GUUzhvahbC6kGsBCZQPic) | [褚爺 Mr.True](https://open.spotify.com/artist/4GNWgGkq2VO4wtm2zHd3eA) | [三七辣](https://open.spotify.com/album/0ycjWJAe98Bt3uOXooQGyz) | 3:39 |
 | 57 | [台南夜騎](https://open.spotify.com/track/1BfaVVbXoEbvXpUuAKDIxR) | [白潔如](https://open.spotify.com/artist/17eQzBPuxeWkfLQGQyFgG5), [YJL 林呱](https://open.spotify.com/artist/4ycLu6Tek0hmsOPBpEdqSg) | [台南夜騎](https://open.spotify.com/album/0Iq4oXltzVp0LfI7TifyVY) | 5:17 |
 | 58 | [就这样](https://open.spotify.com/track/2RhdqX2yiuiS34q7JImMA4) | [Khang Tan](https://open.spotify.com/artist/1em5hC4wbcVhUpdRy6HjFL) | [就这样](https://open.spotify.com/album/09GbTxAZx6D33QQHgNlJ4W) | 2:58 |
-| 59 | [流體](https://open.spotify.com/track/0MpAKAVbCmJYPtT5X8us7s) | [费启鸣](https://open.spotify.com/artist/00Zvc9Y9OJNfyNZGfJ09pK) | [流體](https://open.spotify.com/album/7uLJWWesi4qcspQs5d6ucn) | 3:18 |
+| 59 | [流體](https://open.spotify.com/track/0MpAKAVbCmJYPtT5X8us7s) | [費啟鳴](https://open.spotify.com/artist/00Zvc9Y9OJNfyNZGfJ09pK) | [流體](https://open.spotify.com/album/7uLJWWesi4qcspQs5d6ucn) | 3:18 |
 | 60 | [誰會記得](https://open.spotify.com/track/44qH5lidXaZe5uWQ6jc80J) | [林沛澄 Teresa](https://open.spotify.com/artist/1rDKAcjDPy7JjSoZivA9zY) | [誰會記得](https://open.spotify.com/album/2WEPVQhNYjftJHkcjxdTKW) | 3:08 |
 | 61 | [破命](https://open.spotify.com/track/4YnHCs1Wy5E9EEY2thAiSm) | [广土主任](https://open.spotify.com/artist/0gZ6cBqif4mY94tzTOOzsT) | [破命](https://open.spotify.com/album/7s5w7yd2uSKXlxnIZfQzM3) | 4:57 |
 | 62 | [吹向你在](https://open.spotify.com/track/4KfOx3x0iouL8968MdMGsP) | [高鏡琳 GINN](https://open.spotify.com/artist/32ioIn0iygjZGf1eN43GP3) | [吹向你在](https://open.spotify.com/album/1NP2R0JyupVVe7zVqoBqNV) | 2:19 |

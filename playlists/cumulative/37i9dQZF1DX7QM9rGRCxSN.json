@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Una Monta\u00f1a Es una Monta\u00f1a",
+        "url": "https://open.spotify.com/album/7aGqYlkPS1N3yyyFSP2Jrr"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "date_added": "2025-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210853,
+      "name": "Alferez Provisional",
+      "url": "https://open.spotify.com/track/6Ln6afHVcfQrIIOUfA00uq"
+    },
+    {
+      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/4mojyb6RxQOj1dVTolkccN"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 100036,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P"

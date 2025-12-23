@@ -834,6 +834,24 @@
     {
       "album": {
         "name": "wishlist",
+        "url": "https://open.spotify.com/album/5dJc4IF9Wuecj08yS3L2ov"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/2v2DcfL4mCMMjynO8NpXp1"
+    },
+    {
+      "album": {
+        "name": "wishlist",
         "url": "https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8"
       },
       "artists": [
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 203093,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv"

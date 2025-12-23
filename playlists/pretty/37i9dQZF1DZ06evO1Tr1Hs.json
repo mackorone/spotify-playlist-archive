@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 44488,
+  "num_followers": 44503,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADtJGt/eIhJivrh87d+PDn5",
+  "snapshot_id": "aUc4gAAAAABuxg6GFhOqWnkzI9HygG/0",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teen Bean",
+        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Teen Bean",
+      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 272364,
       "name": "money & sex",
       "url": "https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teen Bean",
-        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Teen Bean",
-      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 142287,
+      "name": "Freestyle 3",
+      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 248813,
       "name": "Yuck (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 142287,
-      "name": "Freestyle 3",
-      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Heartz",
-        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XTENDED",
         "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
@@ -735,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle 2",
-        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
       },
       "artists": [
         {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
         },
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 149594,
-      "name": "PB&J (with Ken Carson)",
-      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
+      "duration_ms": 168160,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/3QHGfxhjexLaMKGHXagfRs"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homixide Lifestyle 2",
+        "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 149594,
+      "name": "PB&J (with Ken Carson)",
+      "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
     },
     {
       "added_at": null,

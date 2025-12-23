@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACDeS2rVX10Z6K0oQ/JxGEw",
+  "snapshot_id": "aUc4gAAAAABRRgInBeOdAWNo1K0XSDZ3",
   "tracks": [
     {
       "added_at": null,
@@ -715,26 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BRUTAAL",
-        "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
       },
       "artists": [
-        {
-          "name": "Zwangere Guy",
-          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
-        },
-        {
-          "name": "Blu Samu",
-          "url": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 246490,
-      "name": "BRUTAAL",
-      "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
+      "duration_ms": 199278,
+      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
+      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
     },
     {
       "added_at": null,
@@ -755,18 +747,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
+        "name": "BRUTAAL",
+        "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
       },
       "artists": [
+        {
+          "name": "Zwangere Guy",
+          "url": "https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0"
+        },
+        {
+          "name": "Blu Samu",
+          "url": "https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB"
+        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 199278,
-      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
-      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
+      "duration_ms": 246490,
+      "name": "BRUTAAL",
+      "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
     },
     {
       "added_at": null,

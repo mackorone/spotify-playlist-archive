@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 38508,
+  "num_followers": 38519,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABr1qkhq/UJ2oxwnUl/eNzs",
+  "snapshot_id": "aUc4gAAAAAB1p7h/TLlci1sQU0A1GP47",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 250333,
+      "name": "Don't Keep Wastin' My Time",
+      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 250333,
-      "name": "Don't Keep Wastin' My Time",
-      "url": "https://open.spotify.com/track/20ZbW7KvaWKCmRhbM8rTFl"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 272773,
-      "name": "Cold, Cold World",
-      "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little More Magic",
         "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 391733,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 272773,
+      "name": "Cold, Cold World",
+      "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 311933,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Time For Love",
         "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 180346,
       "name": "I Can't Live Without Your Love",
       "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Little More Magic",
+        "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 320666,
+      "name": "I'm Always Thinking About You",
+      "url": "https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -723,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Little More Magic",
-        "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
       },
       "artists": [
         {
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 320666,
-      "name": "I'm Always Thinking About You",
-      "url": "https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq"
+      "duration_ms": 302106,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/50kzOHg2xUUKogVLFt6FBt"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 308333,
       "name": "To Be Free to Be Who We Are (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/0MiaZD1lrSUbZTgSLL5FLQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You And I",
-        "url": "https://open.spotify.com/album/7EcI2O6Idj1LP3czKldkVC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 302106,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/50kzOHg2xUUKogVLFt6FBt"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 210186,
       "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
     },
     {
       "added_at": null,

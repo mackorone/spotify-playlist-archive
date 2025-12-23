@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-200 songs - 11 hr 26 min
+201 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Waltzing on Rooftops and Cobblestones](https://open.spotify.com/track/5wc6TcHF6a44wTCKhkzEV3) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Syndicate \(Original Game Soundtrack\)](https://open.spotify.com/album/04djbQW5lHF6ZMcZQs0jBf) | 4:51 | 2021-12-15 |  |
 | [Welcome Aboard The U.S.G\. Ishimura](https://open.spotify.com/track/7dLtnUKOtrZ3CvQ3SMkpg8) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ) | [Dead Space](https://open.spotify.com/album/0APOiX6fWqcHybQzssumck) | 5:21 | 2021-12-15 |  |
 | [Welcome Aboard The U.S.G\. Ishimura](https://open.spotify.com/track/0albZjbwvxiUOEltWXj1ao) | [Jason Graves](https://open.spotify.com/artist/0kZQLbj8h2SMVZHUJSbfBQ), [EA Games Soundtrack](https://open.spotify.com/artist/1gsT5GesFZ2qkDkgPxMUA1) | [Dead Space \(Original Soundtrack\)](https://open.spotify.com/album/6hiqqJJ6Fo7hGU54CvM9MM) | 5:20 | 2022-07-27 | 2024-04-19 |
+| [Welcome Home](https://open.spotify.com/track/7n4fCZqYvVyQXzufXBcdWZ) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Avatar: Frontiers of Pandora \- From the Ashes \(Original Game Soundtrack\)](https://open.spotify.com/album/5saEnttaAShXEbcmsv4ONg) | 2:34 | 2025-12-22 |  |
 | [Welcome to Azoria](https://open.spotify.com/track/7w44XC3UWngSGoZd3qfCLQ) | [Cris Velasco](https://open.spotify.com/artist/13bb43GIQWR0f6rYeQcrUV) | [Fae Farm \(Original Video Game Soundtrack\)](https://open.spotify.com/album/59mxfP8W8ksmXRGSkcXRUV) | 1:45 | 2023-08-25 | 2025-05-15 |
 | [Whatever Comes \(feat\. Julie Elven & Melissa R\. Kaplan\)](https://open.spotify.com/track/5DXfjB2KmTcbaTrzjI6DWr) | [Oleksa Lozowchuk](https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv), [Melissa R\. Kaplan](https://open.spotify.com/artist/4DpSdMOP7JLMUGjNpri704) | [Horizon Forbidden West, Volume 1 \(Original Soundtrack\)](https://open.spotify.com/album/2EvkNL0xZZeUEV7ROInlvl) | 3:09 | 2022-02-25 |  |
 | [Whatever Comes \(feat\. Julie Elven & Melissa R\. Kaplan\)](https://open.spotify.com/track/6qV7yy8DwETobwsJgTLSCe) | [Oleksa Lozowchuk](https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861), [Julie Elven](https://open.spotify.com/artist/4JBM3QQitBA3Aq3mZhvhrv), [Melissa R\. Kaplan](https://open.spotify.com/artist/4DpSdMOP7JLMUGjNpri704) | [Horizon Forbidden West \(Original Soundtrack\)](https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx) | 3:09 | 2022-07-27 | 2024-04-19 |

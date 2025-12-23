@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: Meridian Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,885 likes - 60 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,853 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 56 | [Amanecerá \- Bial Hclap Remix](https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv), [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1) | [Amanecerá \(Bial Hclap Remix\)](https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx) | 3:06 |
 | 57 | [La rama de tamarindo \(Dengue Dengue Dengue Remix\)](https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY) | [Magín Díaz](https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Y el Sexteto Gamerano](https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy) | 4:00 |
 | 58 | [Austral](https://open.spotify.com/track/1ZR98iMSpoQd0G5PXYMf8B) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 3:41 |
-| 59 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 |
-| 60 | [El Azul del Cielo](https://open.spotify.com/track/47uAjNgAauD7Oe4gmLvjj6) | [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC) | [El Azul del Cielo](https://open.spotify.com/album/69MTsmElLiYOavU5H0FD9U) | 3:38 |
+| 59 | [El Azul del Cielo](https://open.spotify.com/track/47uAjNgAauD7Oe4gmLvjj6) | [Romboi](https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC) | [El Azul del Cielo](https://open.spotify.com/album/69MTsmElLiYOavU5H0FD9U) | 3:38 |
+| 60 | [Caruyú](https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 2:32 |
 
 Snapshot ID: `AAAAAFBaofeEF39ABXwsbBYV2wV94SMl`

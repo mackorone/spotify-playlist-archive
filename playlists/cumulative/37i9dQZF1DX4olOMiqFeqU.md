@@ -2,7 +2,7 @@
 
 ### [OPM Favorites](https://open.spotify.com/playlist/37i9dQZF1DX4olOMiqFeqU)
 
-> 100% Pinoy hits from your favorite artists! Cover: juan karlos
+> 100% Pinoy hits from your favorite artists!
 
 195 songs - 13 hr 50 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203674,
+  "num_followers": 203680,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAQb/6LtV7NoVUPzOWPaL8G",
+  "snapshot_id": "aUc4gAAAAABVRHmk29OHUS39l9gtcEHG",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friendship",
-        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Seven Spanish Angels (with Ray Charles)",
-      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friendship",
+        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 231026,
+      "name": "Seven Spanish Angels (with Ray Charles)",
+      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Classic",
-        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 261706,
-      "name": "If I Had You",
-      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1100 Bel Air Place",
         "url": "https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 213960,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/498EPEgZQ1jDoYHYpvF68F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Classic",
+        "url": "https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 261706,
+      "name": "If I Had You",
+      "url": "https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Paula Nelson",
-          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
-        }
-      ],
-      "duration_ms": 279328,
-      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
-      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 183440,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Nelson",
+          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
+        }
+      ],
+      "duration_ms": 279328,
+      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
+      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 185409,
       "name": "Funny How Time Slips Away",
       "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": null,
@@ -1131,6 +1131,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 146109,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Workin' Man: Willie Sings Merle",
         "url": "https://open.spotify.com/album/4HalQbvT1dCgW2VEkEt990"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 239564,
       "name": "Red Headed Stranger",
       "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 146109,
-      "name": "Hello Walls",
-      "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
     },
     {
       "added_at": null,

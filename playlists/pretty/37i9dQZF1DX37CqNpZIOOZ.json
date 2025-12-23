@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26839,
+  "num_followers": 26844,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 17400,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: XV. Mists Rise Up",
-      "url": "https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Tr\u00e4umerei Am Kamin",
         "url": "https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ"
       },
@@ -367,6 +343,30 @@
       "duration_ms": 442720,
       "name": "Intermezzo, Op. 72, TrV 246a, 4 Symphonic Interludes: Intermezzo, Op. 72, TrV 246a: Tr\u00e4umerei am Kamin (Dreaming by the Fireside)",
       "url": "https://open.spotify.com/track/4AiYhSzQDhfVKK5uLdvX8d"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 17400,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: XV. Mists Rise Up",
+      "url": "https://open.spotify.com/track/5IJlkebGlHwi0ERYgvws24"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -487,58 +487,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss: Complete Orchestral Works",
-        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
-      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
-        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Ulf Hoelscher",
-          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 907586,
-      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
-      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Richard Strauss",
         "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
       },
@@ -567,6 +515,34 @@
       "duration_ms": 631573,
       "name": "Piano Quartet in C Minor, Op. 13: IV. Finale. Vivace",
       "url": "https://open.spotify.com/track/3DO0StDHtu4HrV4daIUAMs"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss, R: Violin Concerto, Op. 8, Burleske for Piano and Orchestra & Panathen\u00e4enzug, Op. 74",
+        "url": "https://open.spotify.com/album/3ycgAEuX3XJCUuGezmWZmw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Ulf Hoelscher",
+          "url": "https://open.spotify.com/artist/1VXfTBvqKdOZtlpAVSmXIW"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 907586,
+      "name": "Strauss, R: Violin Concerto in D Minor, Op. 8: I. Allegro",
+      "url": "https://open.spotify.com/track/4Z8N17SsWOYsZjNwdiDcJx"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -619,6 +595,54 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Momentum [2]: Korngold, Strauss",
+        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Liya Petrova",
+          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
+        },
+        {
+          "name": "Alexandre Kantorow",
+          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
+        }
+      ],
+      "duration_ms": 508453,
+      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss: Complete Orchestral Works",
+        "url": "https://open.spotify.com/album/1quD6OnQPj4C4WngGDGeHw"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "Strauss, R: Dance Suite from Keyboard Pieces by Fran\u00e7ois Couperin: II. Courante",
+      "url": "https://open.spotify.com/track/4LkZk4XZ3WuMevUAGlUTjf"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss, R.: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
       },
@@ -647,30 +671,6 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Momentum [2]: Korngold, Strauss",
-        "url": "https://open.spotify.com/album/6OLJQXdjSUjHEQbO5nk10s"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Liya Petrova",
-          "url": "https://open.spotify.com/artist/2qvBeMQglOaY0YMrAmffUh"
-        },
-        {
-          "name": "Alexandre Kantorow",
-          "url": "https://open.spotify.com/artist/1JxFyhCT2TeqHtPlAuOHF7"
-        }
-      ],
-      "duration_ms": 508453,
-      "name": "Violin Sonata in E-Flat Major, Op. 18, TrV 151: II. Andante cantabile",
-      "url": "https://open.spotify.com/track/0QMW0ZY6WxLhAj4HgaGirN"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -783,6 +783,34 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Martha Argerich - The Complete Sony Recordings",
+        "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 1121000,
+      "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
+      "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -827,58 +855,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Martha Argerich - The Complete Sony Recordings",
-        "url": "https://open.spotify.com/album/6xmYN9VsCf8MOkiunglpkP"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 1121000,
-      "name": "Burleske for Piano & Orchestra in D Minor, TrV 145",
-      "url": "https://open.spotify.com/track/5ZH4Itze8rxhBRpJp0jMkw"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Richard Strauss",
-        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Guillaume Bellom",
-          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
-        }
-      ],
-      "duration_ms": 561213,
-      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
-      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
         "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 276080,
       "name": "Ruhe, meine Seele, Op. 27 No. 1 (Version with Orchestra)",
       "url": "https://open.spotify.com/track/5ep4jiZhv2eoFfFHtSU1df"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Richard Strauss",
+        "url": "https://open.spotify.com/album/5ygtFeHSRthPNKWgEVuQkE"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Guillaume Bellom",
+          "url": "https://open.spotify.com/artist/0z1uScA0e01UuE6ipHzEFK"
+        }
+      ],
+      "duration_ms": 561213,
+      "name": "Violin Sonata, Op. 18: III. Finale. Andante \u2013 Allegro",
+      "url": "https://open.spotify.com/track/01koCQF0MDzDDejmfEKc1A"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -987,6 +987,30 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
+      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss, R.: Der Rosenkavalier",
         "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 330920,
       "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
       "url": "https://open.spotify.com/track/0YxLutsTRZMJ1tHwFQiOeK"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
-      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Reger & Strauss: Cello Sonatas",
+        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Emmanuelle Bertrand",
+          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
+        },
+        {
+          "name": "Pascal Amoyel",
+          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
+        }
+      ],
+      "duration_ms": 558666,
+      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
+      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss, R.: Four Last Songs, etc.",
         "url": "https://open.spotify.com/album/0sIuKA8hHwodqk2nQ8qv1k"
       },
@@ -1143,30 +1167,6 @@
       "duration_ms": 461453,
       "name": "4 Letzte Lieder, TrV 296: No. 4, Im Abendrot",
       "url": "https://open.spotify.com/track/7JVYGlKBO4ZqkH1RB9XV96"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Reger & Strauss: Cello Sonatas",
-        "url": "https://open.spotify.com/album/4bTfjDr43K71t7y3AFth4l"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Emmanuelle Bertrand",
-          "url": "https://open.spotify.com/artist/2KISIjGD4yKWdFzZTIQVDT"
-        },
-        {
-          "name": "Pascal Amoyel",
-          "url": "https://open.spotify.com/artist/4fvlcfNCJlvOwe4rhUhlPv"
-        }
-      ],
-      "duration_ms": 558666,
-      "name": "Cello Sonata in F Major, Op.6: II. Andante ma non troppo",
-      "url": "https://open.spotify.com/track/5hl5NU3fJXDsakF7pJga35"
     },
     {
       "added_at": "2025-12-15 11:35:26",

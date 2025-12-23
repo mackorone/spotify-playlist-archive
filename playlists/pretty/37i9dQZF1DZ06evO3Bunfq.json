@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126934,
+  "num_followers": 126946,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACU5VjhBeJKdGef4EGvhjUD",
+  "snapshot_id": "aUc4gAAAAADMQ/ooBiedvAVcGeV1swdZ",
   "tracks": [
     {
       "added_at": null,
@@ -727,42 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No te puedo olvidar",
-        "url": "https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 214210,
-      "name": "No te puedo olvidar",
-      "url": "https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 251416,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Troca Mamalona (feat. Eme Malafe)",
         "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
       },
@@ -791,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 251416,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Diablo, La Muerte y Yo",
         "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
       },
@@ -800,13 +780,13 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         },
         {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 227647,
-      "name": "Tony Montana (feat. Tornillo)",
-      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
+      "duration_ms": 214210,
+      "name": "No te puedo olvidar",
+      "url": "https://open.spotify.com/track/1CGKE1aNJ9gW2jRsfD0mZv"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 223626,
       "name": "El After Porky",
       "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 227647,
+      "name": "Tony Montana (feat. Tornillo)",
+      "url": "https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,034 likes - 48 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,056 likes - 48 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 30 | [Millennium](https://open.spotify.com/track/50Fp9rUhDZvGJ4UUz4mTwp) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:09 |
 | 31 | [Speedballin'](https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 5:04 |
 | 32 | [Hootie Hoo](https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 3:58 |
-| 33 | [Spaghetti Junction](https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:57 |
-| 34 | [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 |
+| 33 | [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 |
+| 34 | [Spaghetti Junction](https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:57 |
 | 35 | [I Can't Wait](https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR) | [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [I Can't Wait featuring Outkast](https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT) | 4:32 |
 | 36 | [Ain't No Thang](https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:38 |
-| 37 | [Humble Mumble \(feat\. Erykah Badu\)](https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:50 |
-| 38 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
+| 37 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
+| 38 | [Humble Mumble \(feat\. Erykah Badu\)](https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:50 |
 | 39 | [Morris Brown \(feat\. Scar & Sleepy Brown\)](https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:24 |
 | 40 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
 | 41 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 47 | [Hollywood Divorce \(feat\. Snoop Dogg & Lil' Wayne\)](https://open.spotify.com/track/1gZZyC3EEw8hwqoYRZqypC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 5:23 |
 | 48 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `aUXnAAAAAAArRYM11Jq2cp2n2eoQVAdL`
+Snapshot ID: `aUc4gAAAAACOM3CrPEDgWCC415w61v1P`

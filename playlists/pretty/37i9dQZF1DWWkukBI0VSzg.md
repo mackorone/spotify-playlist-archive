@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 
 > Listen to all of the music from the new Netflix series, Princess Power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,979 likes - 20 songs - 40 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,980 likes - 20 songs - 40 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,186 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,245 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 84 | [Casita de Adobe](https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Casita de Adobe](https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk) | 3:59 |
 | 85 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 |
 | 86 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 |
-| 87 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
-| 88 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
+| 87 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
+| 88 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
 | 89 | [No Compro Amores](https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Tercia de Reyes](https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd) | 2:28 |
 | 90 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
 | 91 | [Regresó Casada \(En Vivo\)](https://open.spotify.com/track/126Y4tnDCKmjV2Nl8q7kDp) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw), [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI), [Alex Ortuño](https://open.spotify.com/artist/51Hy9TkaR4cBeX2uF2sDz2) | [Los Que Nunca Se Fueron "Poker De Reyes" \(En Vivo\)](https://open.spotify.com/album/6a8yUZNYx5q9auEgR4etlM) | 2:45 |

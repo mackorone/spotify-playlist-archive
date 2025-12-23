@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 22913,
+  "num_followers": 22930,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Yokai",
+        "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
+      },
+      "artists": [
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Mujinas Ramen Shop",
+      "url": "https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 146675,
       "name": "The Dawn",
       "url": "https://open.spotify.com/track/0aZ00bASQBIz6MmnH9rjdt"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Yokai",
-        "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
-      },
-      "artists": [
-        {
-          "name": "Flitz&Suppe",
-          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
-        },
-        {
-          "name": "Mr. K\u00e4fer",
-          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Mujinas Ramen Shop",
-      "url": "https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Samurai Warrior",
-        "url": "https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l"
-      },
-      "artists": [
-        {
-          "name": "Lost Files",
-          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
-        }
-      ],
-      "duration_ms": 125740,
-      "name": "Samurai Warrior",
-      "url": "https://open.spotify.com/track/1M1rhe1W3uoV6mdfbnJNpx"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 210526,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Samurai Warrior",
+        "url": "https://open.spotify.com/album/6jh2PW4SIaMw8wwHyerB9l"
+      },
+      "artists": [
+        {
+          "name": "Lost Files",
+          "url": "https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow"
+        }
+      ],
+      "duration_ms": 125740,
+      "name": "Samurai Warrior",
+      "url": "https://open.spotify.com/track/1M1rhe1W3uoV6mdfbnJNpx"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Chinese Morning",
+        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+      },
+      "artists": [
+        {
+          "name": "The Geek x Vrv",
+          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chinese Morning",
+      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Mt Fuji",
         "url": "https://open.spotify.com/album/6lNtz6uNR6f2szHla7qJiA"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 242400,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Chinese Morning",
-        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
-      },
-      "artists": [
-        {
-          "name": "The Geek x Vrv",
-          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Chinese Morning",
-      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Phase",
-        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
-      },
-      "artists": [
-        {
-          "name": "Howle",
-          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Phase",
-      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Maiko",
         "url": "https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0"
       },
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3iILl7bjMEidc23SlypqAV"
+      },
+      "artists": [
+        {
+          "name": "Howle",
+          "url": "https://open.spotify.com/artist/74dewNXT99KRJ0v9sfi7Bp"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/2Tc9u95gqhnfn9Q79TpgIa"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Sunday Vibes",
+        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
+      },
+      "artists": [
+        {
+          "name": "W\u00fcnsche",
+          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
+        }
+      ],
+      "duration_ms": 133668,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Sunday Vibes",
-        "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
+        "name": "Yamete",
+        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
       },
       "artists": [
         {
-          "name": "W\u00fcnsche",
-          "url": "https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H"
+          "name": "Tosama Beats",
+          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
         }
       ],
-      "duration_ms": 133668,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy"
+      "duration_ms": 195829,
+      "name": "Yamete",
+      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1171,22 +1187,6 @@
       "duration_ms": 140678,
       "name": "Jade Temple",
       "url": "https://open.spotify.com/track/6Tsgy9lJRMPDf6WOdclWUv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Yamete",
-        "url": "https://open.spotify.com/album/5RUEyH0Wj84oBzjEvjuDKi"
-      },
-      "artists": [
-        {
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "duration_ms": 195829,
-      "name": "Yamete",
-      "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Dozing",
-        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
-      },
-      "artists": [
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        }
-      ],
-      "duration_ms": 146090,
-      "name": "Dozing",
-      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Oldschool Memories",
         "url": "https://open.spotify.com/album/4KVVvtVBpXWvKCeRAtP1Bq"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 234814,
       "name": "endure pain",
       "url": "https://open.spotify.com/track/5jA3XlSxDfv4IZFltS6Mgj"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Dozing",
+        "url": "https://open.spotify.com/album/06xj5eksSF8gpAggo7Upfg"
+      },
+      "artists": [
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        }
+      ],
+      "duration_ms": 146090,
+      "name": "Dozing",
+      "url": "https://open.spotify.com/track/0uonkgrfmCAsKYSKiwXMZX"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Time In Motion",
-        "url": "https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL"
-      },
-      "artists": [
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
-        }
-      ],
-      "duration_ms": 94330,
-      "name": "Mind Pool",
-      "url": "https://open.spotify.com/track/4imLlC6vDXkcrQAngZkcac"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Eternal Youth",
         "url": "https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV"
       },
@@ -1535,6 +1515,22 @@
       "duration_ms": 194899,
       "name": "Rising Light",
       "url": "https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "isolation",
+        "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
+      },
+      "artists": [
+        {
+          "name": "cliffe",
+          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
+        }
+      ],
+      "duration_ms": 117366,
+      "name": "muse",
+      "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1559,18 +1555,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "isolation",
-        "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
+        "name": "Time In Motion",
+        "url": "https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL"
       },
       "artists": [
         {
-          "name": "cliffe",
-          "url": "https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy"
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
         }
       ],
-      "duration_ms": 117366,
-      "name": "muse",
-      "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
+      "duration_ms": 94330,
+      "name": "Mind Pool",
+      "url": "https://open.spotify.com/track/4imLlC6vDXkcrQAngZkcac"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1591,38 +1591,38 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN"
       },
       "artists": [
         {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+          "name": "Nuver",
+          "url": "https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh"
         },
         {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+          "name": "Naga",
+          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
         }
       ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
+      "duration_ms": 163092,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
     },
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
+        "name": "Sakura Temple",
+        "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
       },
       "artists": [
         {
-          "name": "NKOHA",
-          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
         }
       ],
-      "duration_ms": 197616,
-      "name": "My Friend",
-      "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
+      "duration_ms": 168000,
+      "name": "Sakura Temple",
+      "url": "https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Sakura Temple",
-        "url": "https://open.spotify.com/album/6bWl64ciGr8yUrQnlJbpI3"
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/2uMNrWj9iLyuDflq5vUC1v"
       },
       "artists": [
         {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+          "name": "NKOHA",
+          "url": "https://open.spotify.com/artist/74yb8EAWGPAcIUo6CFxKIR"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Sakura Temple",
-      "url": "https://open.spotify.com/track/2GVaw6ZH10v87Anbhay6eG"
+      "duration_ms": 197616,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/6QxQHBGZWmlpFMVjuSsYwh"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1683,22 +1683,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/3D6xynEYj5EOgvAcVRjgrN"
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
       },
       "artists": [
         {
-          "name": "Nuver",
-          "url": "https://open.spotify.com/artist/7INJXFDyMoyqqp91q0FWqh"
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
         },
         {
-          "name": "Naga",
-          "url": "https://open.spotify.com/artist/1cFwGz4dRovWtCxBdaTOK1"
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
         }
       ],
-      "duration_ms": 163092,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/58heKhVoYe0mXW4PB3CfLF"
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
     }
   ],
   "unique_name": "oriental lofi",

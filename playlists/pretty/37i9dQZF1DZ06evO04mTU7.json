@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 11822,
+  "num_followers": 11856,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAF6aOvVRgjQN2m7jtCwfeI",
+  "snapshot_id": "aUc4gAAAAABG7GrqP7t4dOOr/e89CRE6",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "T\u00e3o Gostoso",
+      "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetas no Topo 4",
         "url": "https://open.spotify.com/album/18qyfUQL7yiBIfSGwk8kco"
       },
@@ -623,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "T\u00e3o Gostoso",
-      "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do Corre",
         "url": "https://open.spotify.com/album/41QGpsKAWbOOQUc5hUT7JP"
       },
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Amo Te Ver de Juju",
+      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 147692,
       "name": "N\u00e3o Discuto por Telefone",
       "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Amo Te Ver de Juju",
-      "url": "https://open.spotify.com/track/3YBgzN29kUboQgKwNJEC6V"
     },
     {
       "added_at": null,

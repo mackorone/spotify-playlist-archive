@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-280 songs - 13 hr 6 min
+281 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Gentle Awakening](https://open.spotify.com/track/3Nhb2tW6P3QgBosxqmdACc) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Gentle Awakening](https://open.spotify.com/album/3orIz0nqcl54GFcbyyYYWJ) | 3:18 | 2025-03-19 |  |
 | [Giardino Di Corde](https://open.spotify.com/track/6yMAHBIAadsh7lM5ISrSzt) | [Moshi Moshi Desu](https://open.spotify.com/artist/1zbyUVPuDN3PDtJA0WlWFI) | [Giardino Di Corde](https://open.spotify.com/album/68jzD6LRy7YFOXvrlnGpDR) | 2:41 | 2023-10-26 | 2025-09-25 |
 | [Godric](https://open.spotify.com/track/4UzCqaekJitDWMpejVwnZa) | [Hondos Rostros](https://open.spotify.com/artist/1GkARSHIynvDFV4eyUZvhC) | [Godric](https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm) | 3:01 | 2023-03-03 | 2025-06-12 |
+| [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2025-12-03 |  |
 | [Grave](https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Grave](https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W) | 2:54 | 2023-03-03 | 2025-06-12 |
 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2025-06-11 |  |
 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 | 2024-05-01 |  |
@@ -185,7 +186,7 @@
 | [Panorama Sky](https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Panorama Sky](https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw) | 2:52 | 2025-03-19 |  |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/3ZrVhaB84vn6hJiZrLi0DE) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/0r0kniPp7rZPRahBAKZTY3) | 1:48 | 2023-04-13 | 2023-10-07 |
 | [Part 1, Good Morning Tubac](https://open.spotify.com/track/6YhQUEbGJesVf0XUsklFLz) | [Chad Crouch](https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq) | [Anza Trail Soundwalk](https://open.spotify.com/album/5M9Z55HQKiqS04hvpfIBxJ) | 1:48 | 2023-03-03 | 2023-04-29 |
-| [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 | 2023-03-03 |  |
+| [Passing](https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8) | [Lenards Šmits](https://open.spotify.com/artist/72zkGbxVoZCrrQbZRjhySx) | [Passing](https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo) | 2:42 | 2023-03-03 | 2025-12-23 |
 | [Peaceful Oasis](https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Peaceful Oasis](https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP) | 2:57 | 2025-03-19 |  |
 | [Peaceful Waters](https://open.spotify.com/track/3A66mkYRioE3x2Yk7uHFdh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Peaceful Waters](https://open.spotify.com/album/2aTeyEIlLEuOyMUqYKMfUj) | 2:33 | 2024-07-18 |  |
 | [Pentode](https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Pentode](https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A) | 2:39 | 2023-03-03 | 2024-07-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,937 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,970 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 74 | [Dancing in the Smoke \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dancing in the Smoke \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK) | 3:42 |
 | 75 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
 
-Snapshot ID: `AAAAAIwanVvYZgkilSbsgiMMJOmwOKos`
+Snapshot ID: `AAAAAM2Kibyx+ORjB9jEhOvnnH2Z4mgQ`

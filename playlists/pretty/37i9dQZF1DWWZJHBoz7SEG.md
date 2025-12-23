@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Vamos calentando motores para Navidad 🎄 Grupo Firme y Lenin Ramírez en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,828 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,022 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

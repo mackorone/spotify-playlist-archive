@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Axel Fl\u00f3vent og m\u00f6rgum fleiri!",
-  "num_followers": 9590,
+  "num_followers": 9591,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
+        "name": "Clap Song",
+        "url": "https://open.spotify.com/album/7LAapowXY9JaobinDNkO20"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 155204,
+      "name": "Clap Song",
+      "url": "https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
         "name": "X-Ray / Clumsy",
         "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
       },
@@ -279,18 +295,22 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "Clap Song",
-        "url": "https://open.spotify.com/album/7LAapowXY9JaobinDNkO20"
+        "name": "If Your Girl Only Knew",
+        "url": "https://open.spotify.com/album/6aHJUywKHbkReDyUkykm07"
       },
       "artists": [
         {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        },
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
         }
       ],
-      "duration_ms": 155204,
-      "name": "Clap Song",
-      "url": "https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u"
+      "duration_ms": 198698,
+      "name": "If Your Girl Only Knew",
+      "url": "https://open.spotify.com/track/6T3Uz1Q0rZ1a4SKt2ks6bV"
     },
     {
       "added_at": "2025-12-19 00:00:33",
@@ -327,26 +347,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "Rainy Days (but it's all good)",
-        "url": "https://open.spotify.com/album/3aHAz66kYCYWbQsW2DUJ09"
-      },
-      "artists": [
-        {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Sam Alfred",
-          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
-        }
-      ],
-      "duration_ms": 262070,
-      "name": "Rainy Days (but it's all good)",
-      "url": "https://open.spotify.com/track/7jO4PvFafKdMlSme9kJKxs"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "Just Life",
         "url": "https://open.spotify.com/album/0BFnVbBBL7xHSYVX880PGr"
       },
@@ -363,22 +363,22 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "If Your Girl Only Knew",
-        "url": "https://open.spotify.com/album/6aHJUywKHbkReDyUkykm07"
+        "name": "Rainy Days (but it's all good)",
+        "url": "https://open.spotify.com/album/3aHAz66kYCYWbQsW2DUJ09"
       },
       "artists": [
         {
-          "name": "Fahlberg",
-          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
         },
         {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
         }
       ],
-      "duration_ms": 198698,
-      "name": "If Your Girl Only Knew",
-      "url": "https://open.spotify.com/track/6T3Uz1Q0rZ1a4SKt2ks6bV"
+      "duration_ms": 262070,
+      "name": "Rainy Days (but it's all good)",
+      "url": "https://open.spotify.com/track/7jO4PvFafKdMlSme9kJKxs"
     },
     {
       "added_at": "2025-12-19 00:00:33",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "Make Me Believe",
-        "url": "https://open.spotify.com/album/6eujvQJlOJZjQTAAlk0mM5"
-      },
-      "artists": [
-        {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Make Me Believe",
-      "url": "https://open.spotify.com/track/13L1dRs0fJhfDi5zBHxchB"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "All I Want For Christmas",
         "url": "https://open.spotify.com/album/3bf8wBX3hvSXBZjjVAg2qN"
       },
@@ -527,6 +511,38 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
+        "name": "Make Me Believe",
+        "url": "https://open.spotify.com/album/6eujvQJlOJZjQTAAlk0mM5"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Make Me Believe",
+      "url": "https://open.spotify.com/track/13L1dRs0fJhfDi5zBHxchB"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
+        "name": "do u even think of me?",
+        "url": "https://open.spotify.com/album/32nEM0v1qPCCOfMR731YIe"
+      },
+      "artists": [
+        {
+          "name": "shamlo",
+          "url": "https://open.spotify.com/artist/4Ek6o0wAOWVwVIiiFghzkA"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "do u even think of me?",
+      "url": "https://open.spotify.com/track/3qhzblMiso8wHw821sLT1V"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
         "name": "alliWantforXMASisurRemix",
         "url": "https://open.spotify.com/album/2u4oWCijaOyc94QtYXMqoY"
       },
@@ -555,34 +571,22 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "do u even think of me?",
-        "url": "https://open.spotify.com/album/32nEM0v1qPCCOfMR731YIe"
+        "name": "Halab",
+        "url": "https://open.spotify.com/album/0jMQCbpgqpxj3AivaAkPZx"
       },
       "artists": [
         {
-          "name": "shamlo",
-          "url": "https://open.spotify.com/artist/4Ek6o0wAOWVwVIiiFghzkA"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "do u even think of me?",
-      "url": "https://open.spotify.com/track/3qhzblMiso8wHw821sLT1V"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/1EKTr8EkYBwQUvCKknJGGn"
-      },
-      "artists": [
+          "name": "GROSSOMODDO",
+          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
+        },
         {
-          "name": "Club 8",
-          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+          "name": "Danny Roma x Manrix",
+          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
         }
       ],
-      "duration_ms": 130374,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/4P1v7B9pgk2LJdBNlw2r8F"
+      "duration_ms": 196645,
+      "name": "Halab",
+      "url": "https://open.spotify.com/track/4rGAQ0CphWeoAlpVcVdwTK"
     },
     {
       "added_at": "2025-12-19 00:00:33",
@@ -599,6 +603,22 @@
       "duration_ms": 156000,
       "name": "I Don't Care About The End Of The Year",
       "url": "https://open.spotify.com/track/6vPuZrWVT6hUxQJ9X3QIP1"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/1EKTr8EkYBwQUvCKknJGGn"
+      },
+      "artists": [
+        {
+          "name": "Club 8",
+          "url": "https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx"
+        }
+      ],
+      "duration_ms": 130374,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/4P1v7B9pgk2LJdBNlw2r8F"
     },
     {
       "added_at": "2025-12-19 00:00:33",
@@ -639,26 +659,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "Halab",
-        "url": "https://open.spotify.com/album/0jMQCbpgqpxj3AivaAkPZx"
-      },
-      "artists": [
-        {
-          "name": "GROSSOMODDO",
-          "url": "https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt"
-        },
-        {
-          "name": "Danny Roma x Manrix",
-          "url": "https://open.spotify.com/artist/4spGf6fGY8RvGeM5hzFEF1"
-        }
-      ],
-      "duration_ms": 196645,
-      "name": "Halab",
-      "url": "https://open.spotify.com/track/4rGAQ0CphWeoAlpVcVdwTK"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "Take My Body Over",
         "url": "https://open.spotify.com/album/0AYuFC4I3x150BRryeqZbE"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "Believe.",
-        "url": "https://open.spotify.com/album/0JzwJU2jGo8HpgD5QxXppE"
-      },
-      "artists": [
-        {
-          "name": "MAKO.",
-          "url": "https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Believe.",
-      "url": "https://open.spotify.com/track/3drxDo1hvzABFJRkULKIbX"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "Piece of You",
         "url": "https://open.spotify.com/album/6svyIFvuWLHRtq5AgISkO5"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 178604,
       "name": "Piece of You",
       "url": "https://open.spotify.com/track/4pNpIUcx66auuJTusGNHxa"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
+        "name": "Believe.",
+        "url": "https://open.spotify.com/album/0JzwJU2jGo8HpgD5QxXppE"
+      },
+      "artists": [
+        {
+          "name": "MAKO.",
+          "url": "https://open.spotify.com/artist/0gGCPbJs9MmaHJHGebWAOH"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Believe.",
+      "url": "https://open.spotify.com/track/3drxDo1hvzABFJRkULKIbX"
     },
     {
       "added_at": "2025-12-19 00:00:33",

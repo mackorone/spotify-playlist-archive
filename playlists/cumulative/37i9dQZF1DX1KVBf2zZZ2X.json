@@ -1913,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Golden Feathers",
+        "url": "https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167596,
+      "name": "Golden Feathers",
+      "url": "https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T"
+    },
+    {
+      "album": {
         "name": "Grave",
         "url": "https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"

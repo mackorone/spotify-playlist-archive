@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,954 likes - 161 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,115 likes - 161 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 5 | [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 |
 | 6 | [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 |
 | 7 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 |
-| 8 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
-| 9 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 10 | [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 |
-| 11 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
+| 8 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
+| 9 | [The evolving mind](https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [The evolving mind](https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c) | 2:14 |
+| 10 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
+| 11 | [Golden Hour](https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Golden Hour](https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64) | 2:21 |
 | 12 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
 | 13 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
 | 14 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 160 | [Elixir](https://open.spotify.com/track/4XhMnxEzSOCuSMfOjHc1QF) | [Per Salomon](https://open.spotify.com/artist/0fcCrry5MLypPdXhvHR107) | [Elixir](https://open.spotify.com/album/6L5lu6k4cPjTgp9a2WdKPh) | 2:07 |
 | 161 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
 
-Snapshot ID: `AAAAAGmkCXSHGuvlcM6Cc4nVtnqnSC7Y`
+Snapshot ID: `AAAAAHFtMWc5RBKr0oz5/dyt1lHEy77g`

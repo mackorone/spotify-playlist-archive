@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqS9qrcrObM.md) - [plain]
 
 > go crazy, go stewpid!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,451 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,453 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

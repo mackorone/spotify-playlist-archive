@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jN8Su7sLaI.md) - [plain]
 
 > Music from "Yowamushi Pedal", a series of cycle road race manga\. ©渡辺航（週刊少年チャンピオン）／弱虫ペダル04製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,674 likes - 39 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,675 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
-| 2 | [アクション](https://open.spotify.com/track/4dSGdhrwYbkKMnmrbg9b6q) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB), [佐伯ユウスケ](https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM) | [アクション](https://open.spotify.com/album/1OVSsXu79hA5mnjvp9VyHz) | 3:39 |
+| 2 | [アクション \(with 佐伯ユウスケ\)](https://open.spotify.com/track/4dSGdhrwYbkKMnmrbg9b6q) | [山下大輝](https://open.spotify.com/artist/4JFyikk3GFeUaSYiSKuXEB) | [アクション \(with 佐伯ユウスケ\)](https://open.spotify.com/album/1OVSsXu79hA5mnjvp9VyHz) | 3:39 |
 | 3 | [PRIDE](https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [PRIDE](https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb) | 3:37 |
 | 4 | [リクライム](https://open.spotify.com/track/3Kc7MCGYcgSw8RdOJE2oaO) | [ROOKiEZ is PUNK'D](https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C) | [リクライム](https://open.spotify.com/album/4b2ZaJ9CQCdKadWSOKCEuR) | 3:36 |
 | 5 | [ツヨサヨワサ](https://open.spotify.com/track/6egJ4mBsymW0x6O19Cfl4I) | [佐伯ユウスケ](https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM) | [ツヨサヨワサ/行かないと](https://open.spotify.com/album/2qw57WcsgI21f1lxRppVfg) | 3:30 |

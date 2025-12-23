@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,862 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,860 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 45 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cuando Respiro En Tu Boca](https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ) | 3:23 |
 | 46 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
 | 47 | [Pequeñas esperanzas](https://open.spotify.com/track/4COpnbZlDeDeSo9gEiql6U) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:21 |
-| 48 | [516 las Parcelas](https://open.spotify.com/track/09Dn2V7UuNOslbr87uEfeX) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Lo Que Voy Siendo](https://open.spotify.com/album/30jgJojkYB3nINXfNMSScS) | 2:44 |
-| 49 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |
-| 50 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
+| 48 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
+| 49 | [516 las Parcelas](https://open.spotify.com/track/09Dn2V7UuNOslbr87uEfeX) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Lo Que Voy Siendo](https://open.spotify.com/album/30jgJojkYB3nINXfNMSScS) | 2:44 |
+| 50 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |
 | 51 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |
 | 52 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
 | 53 | [En el Jardín](https://open.spotify.com/track/4uDSLVnSyxBJm1V1e5yJZS) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [En el Jardín](https://open.spotify.com/album/4G54bwh6J63pqGRdPTjehY) | 2:54 |

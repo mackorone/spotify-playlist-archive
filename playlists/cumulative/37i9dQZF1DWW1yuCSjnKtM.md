@@ -2,7 +2,7 @@
 
 ### [!!!](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> hand\-picked and hot right now 📈 cover: ILLIT
+> hand\-picked and hot right now 📈 cover: EsDeeKid
 
 777 songs - 1 day 18 hr 22 min
 

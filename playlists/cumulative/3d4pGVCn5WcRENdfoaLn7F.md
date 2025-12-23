@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-121 songs - 7 hr 17 min
+128 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-06 |
 | [Back To The Void](https://open.spotify.com/track/7hKA7Lg3KfmdlFvq6wSLMF) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Back To The Void](https://open.spotify.com/album/4xctjWVrJGis1IAcP94Qjq) | 2:17 | 2025-11-11 | 2025-12-06 |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 |  |
+| [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 |  |
 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 | 2025-12-13 |  |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 |  |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-11-19 |  |
@@ -24,6 +25,7 @@
 | [Broken Language](https://open.spotify.com/track/0uCHsMKYhxCawnnPZvLLUV) | [Never Mind](https://open.spotify.com/artist/5Cghtk7bBFeh8ylFr8HX7C) | [Do You Remember Me at All?](https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt) | 6:26 | 2025-12-13 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-08 |  |
 | [Catarsis](https://open.spotify.com/track/6JWcTR6XGT7tumzSkAhRXU) | [Tresgo](https://open.spotify.com/artist/30SINUYIEvH5bICP6gjxUi) | [Zona De Confort](https://open.spotify.com/album/3k2OM7LXB63eaaO8UXCTZx) | 6:09 | 2025-09-17 |  |
+| [Catharsis](https://open.spotify.com/track/0pHsFY5UTpZkwAqeH8KhUe) | [Parham Gharavaisi](https://open.spotify.com/artist/4QqBOZOiit5hIBwW6Bs9G7), [Lila Sumi](https://open.spotify.com/artist/2lGxwj9jUDWAhMByYOgqFY) | [Greatest Hits, Vol\. II](https://open.spotify.com/album/3A9cpWyKRLr7Z6879Q3FPo) | 3:11 | 2025-12-22 |  |
 | [Chameleon](https://open.spotify.com/track/6h5960XVC4rZ0LWZQsO1aX) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Chameleon](https://open.spotify.com/album/2VhnmAWAqFcLJ4ehWm6grI) | 5:05 | 2025-11-17 | 2025-12-06 |
 | [CHERRIES](https://open.spotify.com/track/5ZsI8sZQCuKddaqgCU23O7) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy) | [CHERRIES](https://open.spotify.com/album/2HUh8kMZwmcnIJOjrreooR) | 3:10 | 2025-11-12 | 2025-12-06 |
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-12-03 |  |
@@ -62,14 +64,17 @@
 | [Howl](https://open.spotify.com/track/33oOuVkCvF8GDgQrGv5Ro0) | [Mrs Bubbles](https://open.spotify.com/artist/2tad4HrJ9d9e0eXB04VIuF) | [Refracted](https://open.spotify.com/album/6bBMlHF44Z1NRUbjlbuQij) | 4:14 | 2025-11-09 | 2025-12-06 |
 | [I Have Learned](https://open.spotify.com/track/44TsdKXUVju1RowqBAnMSh) | [Eddie Wrevlonne](https://open.spotify.com/artist/040oRqmHKhgWDabtyQBiqa) | [I Have Learned](https://open.spotify.com/album/0RKoZpaC5p3giTz43S8bjZ) | 3:28 | 2025-09-19 |  |
 | [I Need Moderator](https://open.spotify.com/track/5HlJirGiaJmI14CC6CyDxH) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:27 | 2025-11-11 | 2025-12-06 |
+| [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 | 2025-12-22 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 |  |
 | [Just Another Sad Song](https://open.spotify.com/track/7eMcspFMi1l8kXq2N62LeB) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Just Another Sad Song](https://open.spotify.com/album/5t97pW7wlKjSwhVlKjWL7I) | 2:59 | 2025-11-04 | 2025-12-06 |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 |  |
+| [Le Voyage Dans La Lune\`](https://open.spotify.com/track/2DynYhI3uQaG4noHkRTcun) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Le Voyage Dans La Lune\`](https://open.spotify.com/album/6kZea5A0pO9KcmLb8L5u7X) | 4:23 | 2025-12-22 |  |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-20 |  |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2025-11-20 | 2025-12-12 |
+| [Mead](https://open.spotify.com/track/3tdiSnYYRWia0X54OkAtZT) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 3:13 | 2025-12-22 |  |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 | 2025-12-16 |
 | [Mother of Time](https://open.spotify.com/track/2q0rnBYEAkjWnkKRXv2M7a) | [FourJN](https://open.spotify.com/artist/5JGuRETSauFw2ur3SlobHY) | [Mother of Time](https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86) | 5:02 | 2025-09-25 | 2025-12-16 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-20 | 2025-12-12 |
@@ -81,6 +86,7 @@
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-21 |  |
 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 | 2025-12-13 |  |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-12 |
+| [Nothing As It Seems](https://open.spotify.com/track/5Lfwc986dZdmvBEQs3eCdv) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Dead Lights](https://open.spotify.com/album/73utoxGp8vesfCMwFvgQGX) | 3:29 | 2025-12-22 |  |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-06 |
 | [One Shot](https://open.spotify.com/track/2uQ5bMY5E0cflJbbGQcpgJ) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [One Shot](https://open.spotify.com/album/21nnXiPD8UoiWD4c6ydkAo) | 2:34 | 2025-08-31 |  |
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-12-03 |  |
@@ -91,6 +97,7 @@
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-11-20 | 2025-12-12 |
 | [Predictable](https://open.spotify.com/track/58uPzPjEmM93usVWgvdezo) | [Jake Rouson](https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH) | [Predictable](https://open.spotify.com/album/0yzYOpUWL4n1kF8sGJ7eM6) | 3:41 | 2025-11-02 | 2025-12-06 |
+| [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 | 2025-12-22 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-10-10 |  |
 | [Promise](https://open.spotify.com/track/4yf68yKUyaTUXcDJBZLxcq) | [AliveTeen](https://open.spotify.com/artist/3U04ccY2KO6Va35na7FX7R) | [Promise](https://open.spotify.com/album/3JLjeDF9JXTuUnrZyMMx2v) | 3:55 | 2025-11-01 | 2025-12-06 |
 | [Psycho](https://open.spotify.com/track/5C4VAhll7W7LNMKB2rANkd) | [Weyward](https://open.spotify.com/artist/3qzChsvBEIPi9PBvoAnbr8) | [Psycho](https://open.spotify.com/album/4QpIxk7YqFvN7x7ieymSWy) | 3:31 | 2025-11-06 | 2025-12-06 |

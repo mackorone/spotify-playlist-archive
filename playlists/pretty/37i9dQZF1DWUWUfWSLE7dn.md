@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,872 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,995 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 6 | [To The Stars \- Dragonheart/Soundtrack Version](https://open.spotify.com/track/5LeCbkjJuhtqQhwXziPgUn) | [Randy Edelman](https://open.spotify.com/artist/3shMd6Vll0mOcviQ3hrk8m) | [Dragonheart](https://open.spotify.com/album/5Xdpw2hXUfkx7YCUwkD38X) | 3:14 |
 | 7 | [Discovering River](https://open.spotify.com/track/4nNFaPF3JRJdDoltCGZRVX) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Revenant \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73G16hzvmWQD4wgcqFrX5H) | 1:11 |
 | 8 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 |
-| 9 | [The Sun Yet Shines](https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 4:34 |
-| 10 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 |
+| 9 | [Túndra](https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Túndra](https://open.spotify.com/album/7wZskJqToFDU8RmWXLzUXi) | 2:23 |
+| 10 | [The Sun Yet Shines](https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 4:34 |
 | 11 | [Snape to Malfoy Manor](https://open.spotify.com/track/2qa4ObOcbA51uB9exCnZay) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0) | 1:58 |
 | 12 | [Sherwood Forest](https://open.spotify.com/track/1bHaFlc2jjKMfnb6GcBNwb) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Q5SwPqfjjPk9ol0tFjElq) | 2:19 |
 | 13 | [I'm Expecting Someone](https://open.spotify.com/track/41ckIX2CdahZo5iqQvO1Qo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 84 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 85 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `AAAAAPdZEP42PoqGNkGkolO92VnTJyFv`
+Snapshot ID: `AAAAAMipQL48EUviF/ZK/ScNNinu75fT`

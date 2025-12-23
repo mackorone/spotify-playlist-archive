@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,230 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,227 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,20 +18,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 8 | [Still Geekin'](https://open.spotify.com/track/0TnVZ2ObWc4TeRZiFUEIoL) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 2:30 |
 | 9 | [Bounce](https://open.spotify.com/track/2by9dE80FvGCBjyQxd2zJo) | [Starski and Clutch](https://open.spotify.com/artist/0jGUP5FLOFgZ0nbuQhVGCe) | [Players, Ballers, Rollers](https://open.spotify.com/album/3TCqiFkNsX6O9NfJwKcgu1) | 2:25 |
 | 10 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 |
-| 11 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
-| 12 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 11 | [1luv](https://open.spotify.com/track/2VpNyk111vQhDyHlDwv6qM) | [DJ Chap](https://open.spotify.com/artist/3WbV0kiFoU7G5uLkAdV1YA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 4:43 |
+| 12 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
 | 13 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
 | 14 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
 | 15 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
 | 16 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 17 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
 | 18 | [Next Subject](https://open.spotify.com/track/6KnzZDxeaW7BLHXep6roA4) | [DJ Curt](https://open.spotify.com/artist/7fhA2N9tmCmCnmiQrkDqyA) | [Footwork Frenzy Ep](https://open.spotify.com/album/6kyXFMA96qp261FU2pnksI) | 5:03 |
-| 19 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
-| 20 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
+| 19 | [Miau](https://open.spotify.com/track/6kEIRclfzZfraQY9Cn3F01) | [Aylu](https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG) | [Transgenre](https://open.spotify.com/album/6VdPebiwMhQqLmCAG7f1tO) | 2:18 |
+| 20 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
 | 21 | [HNADFUL OF SAND](https://open.spotify.com/track/4qpbXynEqm71wahVnnYYRP) | [x.nte](https://open.spotify.com/artist/3dwRwPEStsaBVjdZp9PllA), [Elevation](https://open.spotify.com/artist/61zHgRKaKFtSxh8kNGIICY), [Empress Lex](https://open.spotify.com/artist/7q7s8rwydoB8ZmcTut10Bm), [NO EYES](https://open.spotify.com/artist/17kvA3T2g0xqLYb67vuCEm) | [HNADFUL OF SAND](https://open.spotify.com/album/0VvFwyjGybjRMlzKvRn3HV) | 2:30 |
 | 22 | [Flicka](https://open.spotify.com/track/7BMJLV7eWICgcb1ouJAhq3) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Ww3](https://open.spotify.com/album/4QY4yD4BeJPqJPskLtbEDB) | 3:34 |
-| 23 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
-| 24 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
+| 23 | [All I See Is Red](https://open.spotify.com/track/0KVlbLCYP90RqR0PKd9YMS) | [DJ Clent](https://open.spotify.com/artist/5GcEUbBsdWf1Jf7jQEA5Mv) | [All I See Is Red](https://open.spotify.com/album/2yd17ccvJmGS9MRAjceY0z) | 5:17 |
+| 24 | [Tear It Up](https://open.spotify.com/track/44UIC6KMStyShoIvRyNSHP) | [Turk Turkelton](https://open.spotify.com/artist/1RJ1QHgaJoiAd1czuhS00d) | [Worldwidejuke Vol.2](https://open.spotify.com/album/5bsOhjBEJ7O3rQGzlmyWPs) | 4:39 |
 | 25 | [Heavy Heat](https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:43 |
 | 26 | [Bounce That Booty \- Jackmaster Werks Remix](https://open.spotify.com/track/6Ta2yIK2q5GAs2tqTLRLX5) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Jackmaster Werks](https://open.spotify.com/artist/2eRGQtdPsIbK1HwWdWMPJN) | [Bounce That Booty \(Jackmaster Werks Remix\)](https://open.spotify.com/album/77SNTASc4iAYl3y5WfAZOS) | 2:44 |
 | 27 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |

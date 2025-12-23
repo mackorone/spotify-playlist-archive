@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the nominees of the 83rd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,693 likes - 37 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,698 likes - 37 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 36 | [Jay Kelly Theme \- Quintet \- Single Version](https://open.spotify.com/track/1rItGLvABVxB2d29j056yz) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Jay Kelly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jWUOYVx3c4nejJmSsTB29) | 2:13 |
 | 37 | [Brasso](https://open.spotify.com/track/3vh4p7WIEZ6T4HRbOBMUP6) | [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Andor: Season 2 \- Vol\. 1 \(Episodes 1\-3\) \[Original Score\]](https://open.spotify.com/album/1XlWQ3Nt6x7XlJis8t3EyW) | 2:57 |
 
-Snapshot ID: `AAAAALJpYYkN/t4Nj+0n0ZOHNOrHpIW/`
+Snapshot ID: `AAAAAMx6AsksfoKai4xANBaGptDo28UD`

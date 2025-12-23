@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-716 songs - 1 day 12 hr 45 min
+717 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Ghosts](https://open.spotify.com/track/1Rpj9CZE7cGSXUCfiBf0eA) | [Jacob Tillberg](https://open.spotify.com/artist/6aJRwrwfOffz7RMh2Cfm8e) | [Ghosts](https://open.spotify.com/album/5Y9i4ZFAG2GM7ugIM916dY) | 3:35 | 2022-08-23 | 2022-08-31 |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-12-06 |  |
 | [Girls Who Are Wizards](https://open.spotify.com/track/717ccU3f3sjkwNMglnoDnr) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [Girls Who Are Wizards](https://open.spotify.com/album/1akpAgX4I2XFX3RSfa4xsb) | 5:58 | 2024-08-12 | 2024-10-25 |
+| [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-22 |  |
 | [Giving Up On U](https://open.spotify.com/track/1tG4l4iUvZC6M1Y8MVBacK) | [Laser](https://open.spotify.com/artist/40V6p0CfGARmxEiHA2Nv1f), [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz) | [Giving Up On U](https://open.spotify.com/album/6Nl7jAAYCOthnrUxFqEDwq) | 3:15 | 2022-05-06 | 2022-07-28 |
 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-11-15 |  |
 | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/track/4D1k6x4MXTaSnljSvAXhaf) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [GMFU \(w/ 6arelyhuman\)](https://open.spotify.com/album/0BkF8h20ihtHhQrvhg7b4E) | 2:07 | 2024-01-19 | 2024-04-19 |
@@ -701,7 +702,7 @@
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-08-18 | 2023-08-26 |
 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 | 2023-07-18 |  |
 | [Where You Are \- Zedd Remix](https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Where You Are \(Zedd Remix\)](https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B) | 3:04 | 2023-08-01 | 2025-08-01 |
-| [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 | 2025-03-19 |  |
+| [Whiplash](https://open.spotify.com/track/2K1Grx3at2GH9ErGX1o9NV) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Whiplash](https://open.spotify.com/album/3JYuC5TTDbobgRCKo38xW9) | 3:15 | 2025-03-19 | 2025-12-23 |
 | [Who I Am](https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Who I Am](https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX) | 3:13 | 2024-01-17 | 2024-03-01 |
 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 | 2022-07-14 | 2023-07-19 |
 | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Coleman Trapp](https://open.spotify.com/artist/0kaT04M4TfkicWIQEnAbYE) | [Why We Lose](https://open.spotify.com/album/4oDVpaNimKnYHNva9S7vMs) | 3:17 | 2022-07-14 | 2023-07-19 |

@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 944773,
+  "num_followers": 944764,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,46 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Chama Ela (feat. Pedro Sampaio)",
+        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        }
+      ],
+      "duration_ms": 120200,
+      "name": "Chama Ela (feat. Pedro Sampaio)",
+      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "LARISSA",
+        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        }
+      ],
+      "duration_ms": 125304,
+      "name": "LARISSA",
+      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -1023,42 +1063,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "LARISSA",
-        "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
+        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
         }
       ],
-      "duration_ms": 125304,
-      "name": "LARISSA",
-      "url": "https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Chama Ela (feat. Pedro Sampaio)",
-        "url": "https://open.spotify.com/album/5st5iXtyMBDo6OLBUBqSpW"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 120200,
-      "name": "Chama Ela (feat. Pedro Sampaio)",
-      "url": "https://open.spotify.com/track/14kRWkCWBYfQqILflEcpSJ"
+      "duration_ms": 251216,
+      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1075,22 +1091,6 @@
       "duration_ms": 149615,
       "name": "Senta braba",
       "url": "https://open.spotify.com/track/2SgVsDXzET5EU8VngMh9dv"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Talarica",
+        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Talarica",
+      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Separei",
         "url": "https://open.spotify.com/album/44jBhrrRvuCkAq9oEJtoNM"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 162406,
       "name": "Separei",
       "url": "https://open.spotify.com/track/16uUeKOV7m51Vlx9oUIEvE"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Talarica",
-        "url": "https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP"
-      },
-      "artists": [
-        {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
-        },
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Talarica",
-      "url": "https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Vai Embrazando",
-        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "MC Vigary",
-          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Vai Embrazando",
-      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 232727,
       "name": "Cara Bacana",
       "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Vai Embrazando",
+        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "MC Vigary",
+          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Vai Embrazando",
+      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
     },
     {
       "added_at": "2023-06-26 14:06:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 精選 2025 年度最受歡迎 RADAR 新勢力歌手及最受歡迎作品全出列！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,594 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,596 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

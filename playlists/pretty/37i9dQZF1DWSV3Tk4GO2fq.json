@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1860842,
+  "num_followers": 1860943,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -727,38 +727,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 147880,
-      "name": "Blueberry Hill",
-      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Bobby Darin",
-        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 131719,
-      "name": "Splish Splash",
-      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Come Go With Me: The Best Of The Del-Vikings",
         "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 162293,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Blueberry Hill",
+      "url": "https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -791,6 +775,22 @@
       "duration_ms": 223373,
       "name": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
       "url": "https://open.spotify.com/track/2HyPrPSANTIPkR6CfiytwY"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Bobby Darin",
+        "url": "https://open.spotify.com/album/5VNyvQC8KIM2jnahEhN4nB"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 131719,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Best Of Bobby Vinton",
-        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vinton",
-          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "Mr. Lonely",
-      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 141400,
       "name": "Rip It Up",
       "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Best Of Bobby Vinton",
+        "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vinton",
+          "url": "https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "Mr. Lonely",
+      "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
-      },
-      "artists": [
-        {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Bill Haley's Greatest Hits",
         "url": "https://open.spotify.com/album/6dbK5OGjpXh6TxgLLyAtlV"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 165360,
       "name": "See You Later, Alligator",
       "url": "https://open.spotify.com/track/1s4hyUFWmLWiAamsclb4xA"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Legends Of Rock n' Roll",
+        "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 135093,
+      "name": "I'm Walkin'",
+      "url": "https://open.spotify.com/track/07TQDFaoLBwvo6JU1nnaiU"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Get Rhythm / I Walk the Line",
         "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 163045,
       "name": "I Walk The Line - Single Version",
       "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Legends Of Rock n' Roll",
-        "url": "https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 135093,
-      "name": "I'm Walkin'",
-      "url": "https://open.spotify.com/track/07TQDFaoLBwvo6JU1nnaiU"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Best Of Eddie Cochran",
-        "url": "https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284"
-      },
-      "artists": [
-        {
-          "name": "Eddie Cochran",
-          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The King of Rhythm & Blues (Remastered)",
         "url": "https://open.spotify.com/album/1hm7cgyVAwJ2iPLRgItyR2"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 138453,
       "name": "Ain't Got No Home - Remastered",
       "url": "https://open.spotify.com/track/10DTjZTPH0y0XXFYp43AXC"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Best Of Eddie Cochran",
+        "url": "https://open.spotify.com/album/2hG6zzSJdElBvyRfWFQ284"
+      },
+      "artists": [
+        {
+          "name": "Eddie Cochran",
+          "url": "https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/3Ib94mN8YF3cXZo5x1FpQL"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Judy in Love",
-        "url": "https://open.spotify.com/album/4pBqyTxz1T2ubymulwLavS"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Zing! Went The Strings Of My Heart",
-      "url": "https://open.spotify.com/track/7e5hWckgQgEXEkKdrqwvaq"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Mob Hits III: Even More Music From The Great Mob Movies",
         "url": "https://open.spotify.com/album/4q0eKKZxSfJvXrnxXVujrH"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 158685,
       "name": "On The Street Where You Live",
       "url": "https://open.spotify.com/track/2Tv1cGl60jwtHpOJ9dNPxH"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Judy in Love",
+        "url": "https://open.spotify.com/album/4pBqyTxz1T2ubymulwLavS"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Zing! Went The Strings Of My Heart",
+      "url": "https://open.spotify.com/track/7e5hWckgQgEXEkKdrqwvaq"
     },
     {
       "added_at": "2024-09-06 14:23:51",

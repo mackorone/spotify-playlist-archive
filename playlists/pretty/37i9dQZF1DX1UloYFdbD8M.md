@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: When Chai Met Toast
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,628 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,641 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 10 | [Maatamunde \- From Saina Indie Radar](https://open.spotify.com/track/4HjgXlTWe2wE110MP6LRbb) | [Izbulla](https://open.spotify.com/artist/5IHf6jLlH68bKTNecsXpZ6), [Kael Produced](https://open.spotify.com/artist/0WjHPYFnjOh4QzuFvyb6Ni) | [Maatamunde \(From Saina Indie Radar\)](https://open.spotify.com/album/1EFvYcQINTayiziBYqTC6v) | 2:53 |
 | 11 | [Alaye \- From the Indie Radar](https://open.spotify.com/track/64P5E7kiZIhP8W8qAch3mM) | [Niranj Suresh](https://open.spotify.com/artist/29sPAq2xKxzxPXG6NEEfdV), [Shelton Pinheiro](https://open.spotify.com/artist/54OrVWrWV2olB9e8I652mx) | [Alaye \(From the Indie Radar\)](https://open.spotify.com/album/0f3o5g0dWCYGirf1n3LiG2) | 3:52 |
 | 12 | [Mull \- From Saina Music Indie](https://open.spotify.com/track/1hkX7aNbWv9cBMVF4hakyH) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Mull \(From Saina Music Indie\)](https://open.spotify.com/album/6Kb2mgwUwZCEWZOv2EAA1m) | 3:04 |
-| 13 | [Daughter of Nagas \- From "New Age Bhakthi"](https://open.spotify.com/track/5lT6j9rmgRSNu9uN3S2xMs) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Daughter of Nagas \(From "New Age Bhakthi"\)](https://open.spotify.com/album/2qSYeU3WMWHQkqo7hMINIM) | 2:06 |
+| 13 | [Daughter of Nagas \- New Age Bhakti](https://open.spotify.com/track/5lT6j9rmgRSNu9uN3S2xMs) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Daughter of Nagas \(New Age Bhakti\)](https://open.spotify.com/album/2qSYeU3WMWHQkqo7hMINIM) | 2:06 |
 | 14 | [Paravakal \- From "Saina Music Indie"](https://open.spotify.com/track/6okT59QPd36GQ8kxheyW0r) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Paravakal \(From "Saina Music Indie"\)](https://open.spotify.com/album/0H7U7Wa67YC8VhXncyfYNp) | 3:00 |
 | 15 | [Manjil Moodum Ravil](https://open.spotify.com/track/1PKEVL5clX4BPUcv6QbZj9) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Manjil Moodum Ravil](https://open.spotify.com/album/0rbduZJaAOKkTG0kqzCtW1) | 4:08 |
 | 16 | [THANIYE](https://open.spotify.com/track/0l5vty5oPJJTiHq9zVVCPl) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq), [Bindu Anirudhan](https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9) | [THANIYE](https://open.spotify.com/album/1tcJ8bkxjdwRL7YqgrxPTV) | 3:00 |

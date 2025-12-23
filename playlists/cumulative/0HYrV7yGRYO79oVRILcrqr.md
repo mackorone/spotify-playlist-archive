@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-223 songs - 13 hr 36 min
+226 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Don't look back](https://open.spotify.com/track/3USP9tP0tX1jVue701swyK) | [Andrius](https://open.spotify.com/artist/2r4P3xB3mTIzuks1cnFOYS) | [The Dark Side Of The Tune](https://open.spotify.com/album/4JcCpQvnmSKs2LYE3ZzX5x) | 3:40 | 2025-11-29 | 2025-12-17 |
 | [Don't Talk About Love](https://open.spotify.com/track/3gB5MQDUABinyLxbh7JeSY) | [The Hornets](https://open.spotify.com/artist/5JShdg4GOmLzKfUluPsQBI) | [Don't Talk About Love](https://open.spotify.com/album/3Oowl3MI12XBhZV3GU7ryo) | 3:03 | 2025-10-17 | 2025-11-28 |
 | [Don't Tell Mary](https://open.spotify.com/track/05hAnLiPMxKUWrHADwEIQF) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Don't Tell Mary](https://open.spotify.com/album/754oFY4ZwA8fFXsPzvA67E) | 2:51 | 2025-11-22 | 2025-12-17 |
+| [Don´t Bring Me Down](https://open.spotify.com/track/4jVzDkL9RP27tfWy3q78Tn) | [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW), [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho) | [Don´t Bring Me Down](https://open.spotify.com/album/3tyHhtZSfDpBbCD8tT6RW6) | 3:41 | 2025-12-22 |  |
 | [Día Uno](https://open.spotify.com/track/5VsgNggxi9TqdaTZdxGu5h) | [A New Addiction](https://open.spotify.com/artist/51K7A0J9GRIFQEYVsHtoNV) | [Día Uno](https://open.spotify.com/album/14xgFMCKwyOhnNKlnZHpwq) | 3:20 | 2025-10-09 | 2025-11-28 |
 | [Echoes of Forever](https://open.spotify.com/track/5R8ZWNR0hltUBTVwMIIS9P) | [Uby](https://open.spotify.com/artist/10LBfcS3SRojvj2bYyXUf9) | [Echoes of Forever](https://open.spotify.com/album/7b2lYFFbdywzGzNbtPeHL4) | 5:00 | 2025-10-02 | 2025-12-17 |
 | [Echos in Reverse](https://open.spotify.com/track/4X7u2YyQAddBuysCljzlTv) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Echos in Reverse](https://open.spotify.com/album/6R3iwi2gajC46Jy1ZcQAgQ) | 4:02 | 2025-10-06 | 2025-11-28 |
@@ -124,6 +125,7 @@
 | [Little Girl](https://open.spotify.com/track/62lgxs50xzYUAjFLPTgfPj) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD) | [Sourpuss](https://open.spotify.com/album/6hQSWrkqdDJ1fRDxKw6jTM) | 4:13 | 2025-10-05 | 2025-11-28 |
 | [Love Bomb Me](https://open.spotify.com/track/7qZgGW3dEySJaU9aXgQmn9) | [Who's Amber?](https://open.spotify.com/artist/1k1JkZDYdPfGr7sMhuzReV) | [Love Bomb Me](https://open.spotify.com/album/0Ht9x8uHVCDnGVG8yYiT1a) | 4:02 | 2025-10-04 | 2025-12-17 |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-11-24 | 2025-12-17 |
+| [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 | 2025-12-22 |  |
 | [Mad Puppies](https://open.spotify.com/track/1BCF3qP2Tm8YL9Lo1VmcHA) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Mad Puppies](https://open.spotify.com/album/08M39olgNPLTRMjpa6pf0u) | 2:08 | 2025-12-16 |  |
 | [Marginal](https://open.spotify.com/track/4Nv0Bzom36kPiFXJt85HTT) | [Orecchio Sordo](https://open.spotify.com/artist/0f4qCSAE3bqGntDnL6gRyE) | [Marginal](https://open.spotify.com/album/28lICaZjyM3VNqjMVNHIB5) | 4:50 | 2025-09-29 | 2025-12-17 |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-26 | 2025-12-17 |
@@ -199,6 +201,7 @@
 | [The Staggering Expanse of Man](https://open.spotify.com/track/037SX6RIc2ZcAyss2UXta0) | [Gentry Blue](https://open.spotify.com/artist/1WDjvAbQXtcuiSJgLQYaOm) | [The Staggering Expanse of Man](https://open.spotify.com/album/4aU2LP5HmOwya2fzhts9D1) | 5:19 | 2025-10-28 | 2025-11-28 |
 | [The Whale Song](https://open.spotify.com/track/64r3ojbuHjdw9JIOPmojdl) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [The Whale Song](https://open.spotify.com/album/7eZcwmTkVW02d3MoxOaD63) | 5:38 | 2025-09-21 |  |
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-11-17 | 2025-12-17 |
+| [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 | 2025-12-22 |  |
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 | 2025-12-17 |
 | [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 |  |
 | [Troubled](https://open.spotify.com/track/6Z5gGO33AtWMkI0W6gScTN) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Troubled](https://open.spotify.com/album/27e0SHGsIxErsW0wWTPjpY) | 3:21 | 2025-09-30 | 2025-12-17 |

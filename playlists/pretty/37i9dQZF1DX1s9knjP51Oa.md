@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,011 likes - 163 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,019 likes - 163 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 4 | [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 |
 | 5 | [Across The Bridge](https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [Across The Bridge](https://open.spotify.com/album/3mk6KXb8zfHTm5Lb2LQbIN) | 2:15 |
 | 6 | [Dalmine](https://open.spotify.com/track/57udUUmrolC21iP6xtgNBU) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Dalmine](https://open.spotify.com/album/3w9eG1VgFL5YM6GLJvTsoC) | 3:27 |
-| 7 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 |
-| 8 | [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 |
-| 9 | [Elv Tana](https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Elv Tana](https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO) | 2:36 |
+| 7 | [Daylight Saving](https://open.spotify.com/track/3SaIAk237mEa2tt2ije1JR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Daylight Saving](https://open.spotify.com/album/6lMTV5tFejaXj9fGgEBsVF) | 2:42 |
+| 8 | [Elv Tana](https://open.spotify.com/track/0wpB114om6UBkI1NTR3Dcq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Elv Tana](https://open.spotify.com/album/4kCGevA5K7sbLh6nFWa7gO) | 2:36 |
+| 9 | [Étoile](https://open.spotify.com/track/1nDv71bmip8uUPCfCZuRll) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Étoile](https://open.spotify.com/album/5ljetXvSUVU4qNAfRIi1dO) | 2:28 |
 | 10 | [Fractional](https://open.spotify.com/track/7Ey5cgV9rKbYosutZW5n1d) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Fractional](https://open.spotify.com/album/70hvjsmDjISM7Jrzv3sVK5) | 3:04 |
 | 11 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 |
-| 12 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
-| 13 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
-| 14 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 |
+| 12 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 |
+| 13 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
+| 14 | [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 |
 | 15 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 |
 | 16 | [Cycles](https://open.spotify.com/track/1S2ObwwQukup4WAsXYw2tB) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Cycles](https://open.spotify.com/album/6FdgR2ulFNIedtlYNiqg9N) | 2:08 |
 | 17 | [Stillness](https://open.spotify.com/track/0SGBSwX49QWTGiXMu39mUz) | [Fraser Jaspal](https://open.spotify.com/artist/3P2GZ3OyREqVPn8YISLrGH) | [Stillness](https://open.spotify.com/album/5PuL3CmcLn6ltqcMLsAahN) | 2:22 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 162 | [Connected](https://open.spotify.com/track/1y9latq5huZUKyxCiiauHX) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm), [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [Connected](https://open.spotify.com/album/1WRqDyfVZbGtCjGOJDMTID) | 2:05 |
 | 163 | [Ride your wave](https://open.spotify.com/track/0X5m41yl6i5wTJ4PlCeZRa) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Ride your wave](https://open.spotify.com/album/3qKVEoO7SrxWM5ImLm6Iy1) | 2:44 |
 
-Snapshot ID: `AAAAAM0pB35rUPHZ3T/zFIeVN6f1kxUz`
+Snapshot ID: `AAAAAKlRx4SUUtr67fxpDxnQI/CgUnQz`

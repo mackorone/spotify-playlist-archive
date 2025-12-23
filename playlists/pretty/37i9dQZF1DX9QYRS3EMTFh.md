@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G, P.L.L, Junior, N'Ken, Aknose, Le Jèm'ss, DJ Glad, Mikado, Kemelon, DJ SEBB, Lijay, YSN, Da Nillo, Vanou, Kikitox
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,038 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,057 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

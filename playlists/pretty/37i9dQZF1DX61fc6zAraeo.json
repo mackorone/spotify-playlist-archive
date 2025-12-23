@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105798,
+  "num_followers": 105817,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "You've Got The Love",
+        "url": "https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 165619,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/7KLcjAjvk0hZjj7vWLuu7n"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 217000,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/69kA0r4P0OYNRunizcANLu"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "You've Got The Love",
-        "url": "https://open.spotify.com/album/4TOwJTWm3n2EK2sH5vjphA"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 165619,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/4Mhivjnm1UNw5nhHCioZOZ"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/5cONRb78gsiZdp8we3vIUm"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 174759,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/1UOatZnMxpHnbKBVDyLVUf"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "PEGASUS",
         "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 180462,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/5cONRb78gsiZdp8we3vIUm"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 174759,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/1UOatZnMxpHnbKBVDyLVUf"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Renegade Master",
-        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Renegade Master",
-      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "added_at": "2025-10-30 23:00:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DdDM8wxK0Y.md) - [plain]
 
 > Classic hip\-hop videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,306 likes - 45 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,525 likes - 45 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

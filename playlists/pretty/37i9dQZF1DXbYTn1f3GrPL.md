@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 
 > Música serena de piano para dormir.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,740 likes - 129 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,739 likes - 129 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 4 | [Whispering Willow](https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf) | [Fringilla coelebs](https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1) | [Whispering Willow](https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi) | 2:37 |
 | 5 | [Quiet Reverie](https://open.spotify.com/track/1uGHNaIqgdSVkW9Edz20Og) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Quiet Reverie](https://open.spotify.com/album/5HFnlATLEcpPTZzjtifDQS) | 2:27 |
 | 6 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
-| 7 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
-| 8 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 |
+| 7 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 |
+| 8 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
 | 9 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
-| 10 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
-| 11 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
+| 10 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
+| 11 | [Nordic Sunset](https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Nordic Sunset](https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl) | 2:30 |
 | 12 | [Cantare](https://open.spotify.com/track/2klT0TpmyfRKCAhDRJofA5) | [Selenar Rex](https://open.spotify.com/artist/0aCvzm1b2BQnlQIJmixAw3) | [Cantare](https://open.spotify.com/album/442BAigdqDKpsAZy7f2iVE) | 2:07 |
 | 13 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 |
 | 14 | [Fruits of the Harvest 432 Hz \- Piano](https://open.spotify.com/track/6XIpwHcF7w11Q8OEcwKTUs) | [Jaime Jacobs](https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx) | [Fruits of the Harvest 432 Hz \(Piano\)](https://open.spotify.com/album/4AZFWxNOHsHIWfDKkI15f8) | 2:14 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbYTn1f3GrPL.md) - [plain]
 | 128 | [Eastbound and North](https://open.spotify.com/track/3ZoAuHnyRnb4X0HBfyYGIR) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Eastbound and North](https://open.spotify.com/album/739lH4T8HIvoHWzJ9xOClz) | 2:54 |
 | 129 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 |
 
-Snapshot ID: `AAAAAPNZYrOtbwDmFuM3dVGvOr4E2ix3`
+Snapshot ID: `AAAAAArFFmyL149gNh3Bivsd4lOSLJ2f`

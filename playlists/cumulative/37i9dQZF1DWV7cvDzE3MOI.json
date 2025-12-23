@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 725706,
       "name": "Piano Sonata No. 3 in B Minor, Op. 58: I. Allegro maestoso",
       "url": "https://open.spotify.com/track/6R7TQpSiSq2yIMWy9HSYKZ"
@@ -2129,6 +2129,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Piano Sonata No. 3 in B Minor, Op. 58: II. Scherzo. Molto vivace",
+        "url": "https://open.spotify.com/album/3jNpGGy3dNvErjgPF4AozH"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Piano Sonata No. 3 in B Minor, Op. 58: II. Scherzo. Molto vivace",
+      "url": "https://open.spotify.com/track/54cpzz4Kmc6uvfFe96wVxA"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Sonatas Nos. 2 & 3",
         "url": "https://open.spotify.com/album/011uevuqb2lEFDvgEMV2E0"
       },
@@ -2144,7 +2166,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 160066,
       "name": "Piano Sonata No. 3 in B Minor, Op. 58: II. Scherzo. Molto vivace",
       "url": "https://open.spotify.com/track/2qdHnWpEq9fqmTDONyLBkI"

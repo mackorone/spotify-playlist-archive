@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 99676,
+  "num_followers": 99713,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADkNV7kKcF5Ax526/IZsUxR",
+  "snapshot_id": "aUc4gAAAAABU0e7AvXQukA+qmQwi9bbg",
   "tracks": [
     {
       "added_at": null,
@@ -127,30 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        }
-      ],
-      "duration_ms": 166579,
-      "name": "GROOVING (feat. Davido and Seun Kuti)",
-      "url": "https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Galorizzy",
         "url": "https://open.spotify.com/album/7K7xjE4WLt5qg2rbvBQQLq"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 253992,
       "name": "Galorizzy",
       "url": "https://open.spotify.com/track/5DuhLCBVuGRYVoV64ucaWh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "duration_ms": 166579,
+      "name": "GROOVING (feat. Davido and Seun Kuti)",
+      "url": "https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL"
     },
     {
       "added_at": null,
@@ -919,26 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
       "artists": [
-        {
-          "name": "XVI",
-          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
-        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 146125,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     },
     {
       "added_at": null,
@@ -963,22 +959,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+        "name": "Para",
+        "url": "https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf"
       },
       "artists": [
+        {
+          "name": "XVI",
+          "url": "https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
         }
       ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+      "duration_ms": 146125,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
     },
     {
       "added_at": null,
@@ -999,30 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
-        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
       "artists": [
-        {
-          "name": "Trinidad Cardona",
-          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
-        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Aisha",
-          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 206069,
-      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
-      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     }
   ],
   "unique_name": "This Is Davido",

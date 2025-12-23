@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Babeblade.",
-  "num_followers": 20483,
+  "num_followers": 20484,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
+        "name": "Amigas",
+        "url": "https://open.spotify.com/album/71IQYoBzYkQYAvvX5BqyA0"
+      },
+      "artists": [
+        {
+          "name": "Amor Elefante",
+          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
+        }
+      ],
+      "duration_ms": 203848,
+      "name": "Foto de una Coreograf\u00eda",
+      "url": "https://open.spotify.com/track/564vzA6xQlpij7c2s1cL0h"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
         "name": "Venus & Blue - RMX",
         "url": "https://open.spotify.com/album/2UCDLB1uOC3PsCn2zK7G69"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 233639,
       "name": "Calla - Montoya Remix",
       "url": "https://open.spotify.com/track/2lWhgUd8Yy2utpoEXVAPXX"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Amigas",
-        "url": "https://open.spotify.com/album/71IQYoBzYkQYAvvX5BqyA0"
-      },
-      "artists": [
-        {
-          "name": "Amor Elefante",
-          "url": "https://open.spotify.com/artist/5DboBy35CJ1kezDm1ebqbC"
-        }
-      ],
-      "duration_ms": 203848,
-      "name": "Foto de una Coreograf\u00eda",
-      "url": "https://open.spotify.com/track/564vzA6xQlpij7c2s1cL0h"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "YUGEN",
-        "url": "https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 223018,
-      "name": "YUGEN",
-      "url": "https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "LOS AMANTES DIFERENTES",
         "url": "https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 227755,
       "name": "LOS AMANTES DIFERENTES",
       "url": "https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "YUGEN",
+        "url": "https://open.spotify.com/album/3xLgfONKF5y8GovWVyDSPs"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 223018,
+      "name": "YUGEN",
+      "url": "https://open.spotify.com/track/0qntABQaEq77CK9qlGRvAf"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Voces",
-        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
-      },
-      "artists": [
-        {
-          "name": "Julais",
-          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
-        },
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Voces",
-      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "\u00a1Tierra a la Vista!",
         "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 169000,
       "name": "Mapa - TLSCPS2023",
       "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Voces",
+        "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
+      },
+      "artists": [
+        {
+          "name": "Julais",
+          "url": "https://open.spotify.com/artist/7DdjptBHc71Ltjq2lGjBpF"
+        },
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "Voces",
+      "url": "https://open.spotify.com/track/4E3Qq52I36ROOLPrr9iDiy"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "La virgen de los vientos",
-        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
-      },
-      "artists": [
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 162232,
-      "name": "La virgen de los vientos",
-      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/5lhvJ7639JKCNEU8yXdNSR"
       },
@@ -1155,22 +1139,18 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Secretos (Remix)",
-        "url": "https://open.spotify.com/album/4xtu6EYTviWDoVkS2CutVZ"
+        "name": "La virgen de los vientos",
+        "url": "https://open.spotify.com/album/2qQH4ZWuweoGsUbT2C4VH3"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Las Flores Dalt\u00f3nicas",
-          "url": "https://open.spotify.com/artist/5NyKl6KWpDwoWHAxJPfJ70"
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
         }
       ],
-      "duration_ms": 248833,
-      "name": "Secretos - Remix",
-      "url": "https://open.spotify.com/track/3L3C9TZyHJVnr4IOQcZ9hZ"
+      "duration_ms": 162232,
+      "name": "La virgen de los vientos",
+      "url": "https://open.spotify.com/track/451rzzYSclxKztbHJT1C5B"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1191,6 +1171,26 @@
       "duration_ms": 197203,
       "name": "Politoxic",
       "url": "https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Secretos (Remix)",
+        "url": "https://open.spotify.com/album/4xtu6EYTviWDoVkS2CutVZ"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Las Flores Dalt\u00f3nicas",
+          "url": "https://open.spotify.com/artist/5NyKl6KWpDwoWHAxJPfJ70"
+        }
+      ],
+      "duration_ms": 248833,
+      "name": "Secretos - Remix",
+      "url": "https://open.spotify.com/track/3L3C9TZyHJVnr4IOQcZ9hZ"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Bocado a Bocado",
-        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
-      },
-      "artists": [
-        {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
-        },
-        {
-          "name": "Lucas Mart\u00ed",
-          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
-        }
-      ],
-      "duration_ms": 190577,
-      "name": "Bocado a Bocado",
-      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "ON\u00cdRIKA",
         "url": "https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1CyMbGrKkomiX8fwrDdagF"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Bocado a Bocado",
+        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        },
+        {
+          "name": "Lucas Mart\u00ed",
+          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+        }
+      ],
+      "duration_ms": 190577,
+      "name": "Bocado a Bocado",
+      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1567,38 +1567,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Luz de Ne\u00f3n",
-        "url": "https://open.spotify.com/album/3ZsC3hvGZ6rZXITlg0gSve"
-      },
-      "artists": [
-        {
-          "name": "Media Hermana",
-          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
-        }
-      ],
-      "duration_ms": 252314,
-      "name": "Luz de Ne\u00f3n",
-      "url": "https://open.spotify.com/track/5nM0vxe0p6kagJshWPKSN9"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "dionysian",
-        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 190742,
-      "name": "dionysian",
-      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "fotos\u00edntesis",
         "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
       },
@@ -1619,18 +1587,50 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "El bosque del recuerdo",
-        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
+        "name": "dionysian",
+        "url": "https://open.spotify.com/album/5CVy40cgzPpI1nhOSxx2Iz"
       },
       "artists": [
         {
-          "name": "Lara Pedrosa",
-          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
         }
       ],
-      "duration_ms": 220983,
-      "name": "Intermitente",
-      "url": "https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS"
+      "duration_ms": 190742,
+      "name": "dionysian",
+      "url": "https://open.spotify.com/track/7ekJZZ50aVhYWW1TW4OZBP"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Luz de Ne\u00f3n",
+        "url": "https://open.spotify.com/album/3ZsC3hvGZ6rZXITlg0gSve"
+      },
+      "artists": [
+        {
+          "name": "Media Hermana",
+          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
+        }
+      ],
+      "duration_ms": 252314,
+      "name": "Luz de Ne\u00f3n",
+      "url": "https://open.spotify.com/track/5nM0vxe0p6kagJshWPKSN9"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Shima",
+        "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
+      },
+      "artists": [
+        {
+          "name": "Gimena Alvarez Cela",
+          "url": "https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5"
+        }
+      ],
+      "duration_ms": 188775,
+      "name": "La madrina",
+      "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1647,6 +1647,22 @@
       "duration_ms": 166595,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/1sxaKQEK5PCGEYmcMaPmpv"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "El bosque del recuerdo",
+        "url": "https://open.spotify.com/album/3FiGltDzqiB4HtCQvdnoSj"
+      },
+      "artists": [
+        {
+          "name": "Lara Pedrosa",
+          "url": "https://open.spotify.com/artist/1FnX7FGjz4cjIvo6rmMK8N"
+        }
+      ],
+      "duration_ms": 220983,
+      "name": "Intermitente",
+      "url": "https://open.spotify.com/track/5eponcmke6iZP8M6J7gkaS"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1671,6 +1687,38 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Venus en trance",
+        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
+      },
+      "artists": [
+        {
+          "name": "Eva Gou",
+          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "Lluvia y arcoiris",
+      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "No Tengo Salida",
+        "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
+      },
+      "artists": [
+        {
+          "name": "LISA SCHA",
+          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
+        }
+      ],
+      "duration_ms": 204115,
+      "name": "No Tengo Salida",
+      "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1711,70 +1759,6 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "No Tengo Salida",
-        "url": "https://open.spotify.com/album/7EQsn4iUjI6WqI3kbsCUvf"
-      },
-      "artists": [
-        {
-          "name": "LISA SCHA",
-          "url": "https://open.spotify.com/artist/3TN7e3tgoqBNsWNwzgqmOw"
-        }
-      ],
-      "duration_ms": 204115,
-      "name": "No Tengo Salida",
-      "url": "https://open.spotify.com/track/6Je3nM0OQdlIB9EHn4S760"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Venus en trance",
-        "url": "https://open.spotify.com/album/6PFwuAoATVO7t8aRjkNJbi"
-      },
-      "artists": [
-        {
-          "name": "Eva Gou",
-          "url": "https://open.spotify.com/artist/4laznIds0RyFItvPpvZcx6"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "Lluvia y arcoiris",
-      "url": "https://open.spotify.com/track/0Lym6i3de1CbdXl4hKozkH"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Shima",
-        "url": "https://open.spotify.com/album/5YCwUojRFltvtAzXHyfWjl"
-      },
-      "artists": [
-        {
-          "name": "Gimena Alvarez Cela",
-          "url": "https://open.spotify.com/artist/3pswrpKhrhyiwP8J5SQMm5"
-        }
-      ],
-      "duration_ms": 188775,
-      "name": "La madrina",
-      "url": "https://open.spotify.com/track/0OvPbB72suTbrqseGJquP2"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Amor (Remix)",
-        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
-      },
-      "artists": [
-        {
-          "name": "Kush Mama",
-          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
-        }
-      ],
-      "duration_ms": 306500,
-      "name": "Amor - Remix",
-      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/3fGSXHbyn8FKDoMUfgqKmO"
       },
@@ -1799,50 +1783,18 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Nueva en el Amor",
-        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
+        "name": "Amor (Remix)",
+        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
       },
       "artists": [
         {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+          "name": "Kush Mama",
+          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
         }
       ],
-      "duration_ms": 234930,
-      "name": "Venus en Latex",
-      "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "Nicho",
-        "url": "https://open.spotify.com/album/3iatoQABmCe2horRQm9TKX"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        }
-      ],
-      "duration_ms": 202677,
-      "name": "Nicho",
-      "url": "https://open.spotify.com/track/0uexhsV03UHJ3x71NT7ya4"
-    },
-    {
-      "added_at": "2025-07-25 03:00:27",
-      "album": {
-        "name": "El Funeral de Cenicienta",
-        "url": "https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0"
-      },
-      "artists": [
-        {
-          "name": "Las Escuchas",
-          "url": "https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq"
-        }
-      ],
-      "duration_ms": 212395,
-      "name": "\u00bfQu\u00e9 Hago Con la Noche?",
-      "url": "https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb"
+      "duration_ms": 306500,
+      "name": "Amor - Remix",
+      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -1863,6 +1815,54 @@
       "duration_ms": 235082,
       "name": "Termina el d\u00eda cuando empieza",
       "url": "https://open.spotify.com/track/0nVUrihk1BDb3fU587fACz"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Nueva en el Amor",
+        "url": "https://open.spotify.com/album/5FJo9Rur1qksfz0zKXe3Aw"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        }
+      ],
+      "duration_ms": 234930,
+      "name": "Venus en Latex",
+      "url": "https://open.spotify.com/track/1rUe433Mcf7dVG9b3YOuLM"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "El Funeral de Cenicienta",
+        "url": "https://open.spotify.com/album/7xl2lWOxJKev9gMrorA0G0"
+      },
+      "artists": [
+        {
+          "name": "Las Escuchas",
+          "url": "https://open.spotify.com/artist/49bMB0KOadNFqCyEooRjkq"
+        }
+      ],
+      "duration_ms": 212395,
+      "name": "\u00bfQu\u00e9 Hago Con la Noche?",
+      "url": "https://open.spotify.com/track/0ivaqokRgfWOiJL4wlybnb"
+    },
+    {
+      "added_at": "2025-07-25 03:00:27",
+      "album": {
+        "name": "Nicho",
+        "url": "https://open.spotify.com/album/3iatoQABmCe2horRQm9TKX"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        }
+      ],
+      "duration_ms": 202677,
+      "name": "Nicho",
+      "url": "https://open.spotify.com/track/0uexhsV03UHJ3x71NT7ya4"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -2103,8 +2103,8 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Remaches (DJ TOI Remix)",
-        "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
+        "name": "Suave Vendaval (DJ TOI Remix)",
+        "url": "https://open.spotify.com/album/6d8i9h6IISlAXUJ4rLwyE3"
       },
       "artists": [
         {
@@ -2112,17 +2112,17 @@
           "url": "https://open.spotify.com/artist/0CjS0CI9NnpXEhaS1FHJD0"
         },
         {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
         },
         {
           "name": "DJ TOI",
           "url": "https://open.spotify.com/artist/3UE19UJo9qBsSTQePdjFqz"
         }
       ],
-      "duration_ms": 225640,
-      "name": "Remaches - DJ TOI Remix",
-      "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
+      "duration_ms": 263013,
+      "name": "Suave Vendaval - DJ TOI Remix",
+      "url": "https://open.spotify.com/track/6TlD64R2Ltt54ZELepGpSZ"
     },
     {
       "added_at": "2025-07-25 03:00:27",
@@ -2199,8 +2199,8 @@
     {
       "added_at": "2025-07-25 03:00:27",
       "album": {
-        "name": "Suave Vendaval (DJ TOI Remix)",
-        "url": "https://open.spotify.com/album/6d8i9h6IISlAXUJ4rLwyE3"
+        "name": "Remaches (DJ TOI Remix)",
+        "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
       },
       "artists": [
         {
@@ -2208,17 +2208,17 @@
           "url": "https://open.spotify.com/artist/0CjS0CI9NnpXEhaS1FHJD0"
         },
         {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
         },
         {
           "name": "DJ TOI",
           "url": "https://open.spotify.com/artist/3UE19UJo9qBsSTQePdjFqz"
         }
       ],
-      "duration_ms": 263013,
-      "name": "Suave Vendaval - DJ TOI Remix",
-      "url": "https://open.spotify.com/track/6TlD64R2Ltt54ZELepGpSZ"
+      "duration_ms": 225640,
+      "name": "Remaches - DJ TOI Remix",
+      "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
     },
     {
       "added_at": "2025-07-25 03:00:27",

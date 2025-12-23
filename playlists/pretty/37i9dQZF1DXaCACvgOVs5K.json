@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2025. See you on the dancefloor.",
-  "num_followers": 830903,
+  "num_followers": 831185,
   "original_name": "Ibiza 2025",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,26 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
-        "name": "Boost Up",
-        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 211899,
-      "name": "Boost Up",
-      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1287,30 +1287,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Baiana",
-        "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 116250,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "Ethnica (Pasilda)",
         "url": "https://open.spotify.com/album/14nakBDMQy6PtbCT5eNX1q"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 170157,
       "name": "Ethnica (Pasilda)",
       "url": "https://open.spotify.com/track/5hJcyuLIlIpOTDHtVeoh9S"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "Baiana",
+        "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 116250,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
     },
     {
       "added_at": "2025-09-18 23:00:15",

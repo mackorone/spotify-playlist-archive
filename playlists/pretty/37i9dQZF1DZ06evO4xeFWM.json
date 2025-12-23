@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220202,
+  "num_followers": 220217,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAAfxHPaiwYUEXJ/jPetPFr",
+  "snapshot_id": "aUc4gAAAAAAvML8ctapIPtK8pJ9477H+",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bathsheba & Him",
-        "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 213580,
-      "name": "Bathsheba & Him",
-      "url": "https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Gone Mad (From Bright: The Album)",
         "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bathsheba & Him",
+        "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 213580,
+      "name": "Bathsheba & Him",
+      "url": "https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All This Bad Blood",
         "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
@@ -471,6 +471,38 @@
       "duration_ms": 212613,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Quarter Past Midnight",
+      "url": "https://open.spotify.com/track/0Tl408cie1ksydV7s6KuWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "survivin'",
+        "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "survivin'",
+      "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
     },
     {
       "added_at": null,
@@ -503,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "survivin'",
-        "url": "https://open.spotify.com/album/3aFhgv33grS5tIxAUqwtBC"
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
       },
       "artists": [
         {
@@ -512,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 173206,
-      "name": "survivin'",
-      "url": "https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23"
+      "duration_ms": 186280,
+      "name": "Laura Palmer",
+      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
     },
     {
       "added_at": null,
@@ -531,22 +563,6 @@
       "duration_ms": 209757,
       "name": "Eurydice - Dan's Demo",
       "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Laura Palmer",
-      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
     },
     {
       "added_at": null,
@@ -631,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarter Past Midnight",
-        "url": "https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z"
+        "name": "Can\u2019t Fight This Feeling",
+        "url": "https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu"
       },
       "artists": [
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "London Contemporary Orchestra",
+          "url": "https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M"
         }
       ],
-      "duration_ms": 201799,
-      "name": "Quarter Past Midnight",
-      "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
+      "duration_ms": 198889,
+      "name": "Can\u2019t Fight This Feeling",
+      "url": "https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
       "duration_ms": 189728,
       "name": "Bad Decisions",
       "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can\u2019t Fight This Feeling",
-        "url": "https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "London Contemporary Orchestra",
-          "url": "https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M"
-        }
-      ],
-      "duration_ms": 198889,
-      "name": "Can\u2019t Fight This Feeling",
-      "url": "https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7"
     },
     {
       "added_at": null,

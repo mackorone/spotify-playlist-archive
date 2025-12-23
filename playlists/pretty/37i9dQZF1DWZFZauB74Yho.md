@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Big Richard
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,514 likes - 121 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,513 likes - 121 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

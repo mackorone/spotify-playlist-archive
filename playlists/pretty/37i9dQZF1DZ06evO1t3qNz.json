@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 52782,
+  "num_followers": 52829,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABfptOkqjVCoM56YCBrNWkt",
+  "snapshot_id": "aUc4gAAAAAARC2K5JRVMBK9DmIvHoMiy",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 177601,
-      "name": "I Stay I Leave I Love I Lose",
-      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+      "duration_ms": 178588,
+      "name": "Certain Kind of Love",
+      "url": "https://open.spotify.com/track/49ulaJeCHwGaSgAiiisHa7"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 178588,
-      "name": "Certain Kind of Love",
-      "url": "https://open.spotify.com/track/49ulaJeCHwGaSgAiiisHa7"
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
       "duration_ms": 201310,
       "name": "When I'm Not Around",
       "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah (Live from iHeartRadio Jingle Ball 2025)",
+        "url": "https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 147537,
+      "name": "Hallelujah - Live from iHeartRadio Jingle Ball 2025",
+      "url": "https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ"
     },
     {
       "added_at": null,

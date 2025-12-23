@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-291 songs - 16 hr 45 min
+293 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anyone](https://open.spotify.com/track/0O8dFusnakV9rVLA2S16De) | [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw) | [Anyone](https://open.spotify.com/album/5HaWtTikAqMSJGgaVljsKl) | 3:11 | 2021-11-19 | 2023-09-30 |
 | [As I Walked Out \(Arr\. Danish String Quartet\)](https://open.spotify.com/track/1FrRCwzFOly8bzEbKsDSik) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Danish String Quartet](https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D) | [As I Walked Out](https://open.spotify.com/album/24LoKFT6Ma0K0aKgf8NjTD) | 4:35 | 2024-08-09 |  |
 | [As It Was](https://open.spotify.com/track/0RsaOIEKB4u4dbZMgs8zXP) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [As It Was](https://open.spotify.com/album/1de4PdJI0bgz3j1wd0bW94) | 2:41 | 2022-06-24 |  |
+| [As Long As You're Mine \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/323ZiW5eXcHTa5E6SIUykW) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [As Long As You're Mine \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/6HWNmpH6SiQI08j5jzbDwE) | 2:31 | 2025-12-22 |  |
 | [Bad Guy](https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4) | [Eklipse](https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH) | [Bad Guy](https://open.spotify.com/album/7jgCENuww6WXc03Gpm3bKe) | 3:11 | 2021-11-19 | 2025-09-27 |
 | [Bad Guy \- Piano Version](https://open.spotify.com/track/07KaU8Ys0918uwDvX4Mysi) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Bad Guy \(Piano Version\)](https://open.spotify.com/album/3YqvZQHEtyafP23EFwGWom) | 1:51 | 2025-09-26 |  |
 | [Bad Habits](https://open.spotify.com/track/0tKH2CJjEBh74qXBdh8Xvl) | [Pianoholic](https://open.spotify.com/artist/3vOJJbGGUOtC9csissiL0G) | [Piano Essentials\. Vol\. 11](https://open.spotify.com/album/4Qq8fPqxJHITlUS9NRAmyy) | 3:04 | 2021-11-19 | 2022-05-07 |
@@ -178,6 +179,7 @@
 | [Never Gonna Give You Up \(feat\. Simply Three\)](https://open.spotify.com/track/4TijaNZQchZj9E86WK5jSH) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz), [Simply Three](https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2) | [Our Flashback Wedding](https://open.spotify.com/album/7EjVc5O5g56nKL6RrAilPo) | 3:54 | 2021-11-19 | 2022-05-14 |
 | [Night Changes \(Arr\. Piano\)](https://open.spotify.com/track/04LfvFugrSPLb8VlW2loSF) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Night Changes \(Arr\. Piano\)](https://open.spotify.com/album/0Xnc06m2Lg6Vq8DU0MwLFm) | 2:43 | 2025-02-21 |  |
 | [Nightcall \- From "Drive"](https://open.spotify.com/track/3BCe21LqWVOWWDfHjuoeeR) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV) | [Nightcall \(From "Drive"\)](https://open.spotify.com/album/3j4Luk2uwaiahexJJUIioz) | 3:01 | 2021-11-19 |  |
+| [No Good Deed \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/0ejqoAFBP9pjkhZbi0NQ3A) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [No Good Deed \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/68uIlN5irtERm8vMJQoGdl) | 2:20 | 2025-12-22 |  |
 | [No Time to Die](https://open.spotify.com/track/4eznjoE1rjSyKgdJ9DxFCT) | [Queenz of Piano](https://open.spotify.com/artist/17L2cs2P9cHQy3hB7cYLkz) | [No Time to Die](https://open.spotify.com/album/75sRoVAu1jkQUHxGD448pr) | 2:21 | 2021-11-19 |  |
 | [No Woman, No Cry \(Arr\. Kanneh\-Mason for Solo Cello\)](https://open.spotify.com/track/1JUkO4vVk4LcvwP9sWBBRM) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX) | [Bob Marley: No Woman, No Cry \(Arr\. Cello\)](https://open.spotify.com/album/3cf57MihTJV4Flvpc6xGWk) | 2:26 | 2021-11-19 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/3naNsTepLAuwcBfcnAdhVe) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Nothing Compares 2 U](https://open.spotify.com/album/5rg0eZ1r4inp286NCvL8Bd) | 4:22 | 2023-04-14 |  |

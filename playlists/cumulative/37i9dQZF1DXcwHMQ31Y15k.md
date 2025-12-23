@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Gilga Sahid
 
-564 songs - 1 day 23 hr 14 min
+565 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Penipu Alus](https://open.spotify.com/track/0RVSJkjr28qzTOiMKm1Tpl) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Penipu Alus](https://open.spotify.com/album/2qazzEfyMWloYmF5TsQupw) | 5:47 | 2024-11-07 | 2025-01-24 |
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 | 2023-01-27 |
 | [Pepisahan](https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Pepisahan](https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU) | 4:18 | 2025-01-16 | 2025-10-24 |
+| [Pepujaning Ati](https://open.spotify.com/track/4tjEUUh3Fs2jt0h0iYQze8) | [START KOPLO](https://open.spotify.com/artist/3NSHD91wHPskJuktHal5ma) | [Pepujaning Ati](https://open.spotify.com/album/7Gy2waMtq4S0glNCGQWNBh) | 5:14 | 2025-12-23 |  |
 | [Percoyo Aku](https://open.spotify.com/track/1d1lqDZoZ8xubNhsvcRU2x) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Percoyo Aku](https://open.spotify.com/album/5FqT5HMFcRY8lh2dLOKoO0) | 4:10 | 2025-11-13 |  |
 | [Petetan](https://open.spotify.com/track/5dsemZcgf19x7rAX5NNus5) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Petetan](https://open.spotify.com/album/3ysJcsuETQVXmKRh4GJcYj) | 7:46 | 2024-12-19 | 2025-03-21 |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |

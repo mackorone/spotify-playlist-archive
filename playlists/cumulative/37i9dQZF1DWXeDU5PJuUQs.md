@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-236 songs - 14 hr 34 min
+237 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adios Amor Adios \- En Vivo](https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:55 | 2021-12-10 | 2025-03-01 |
 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 | 2021-12-10 |  |
 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 | 2022-01-07 | 2025-03-01 |
+| [Ahí Para Amarte](https://open.spotify.com/track/0qsTOzapTERMzlrnBlxcuA) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Ahí Para Amarte](https://open.spotify.com/album/6mc7272E6trGK3AkwHcd9z) | 3:30 | 2025-10-24 |  |
 | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa) | 6:04 | 2022-07-15 | 2024-04-19 |
 | [Algún Día Volverás \(Santaferia en la Quinta Vergara\)](https://open.spotify.com/track/3jIpcXHmCRl894HKVlHcjN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia en la Quinta Vergara\)](https://open.spotify.com/album/19ZR23YJSCMdAoj6IJknbK) | 6:04 | 2021-12-10 | 2022-07-29 |
 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 | 2025-10-24 |  |
@@ -46,7 +47,7 @@
 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2022-11-18 |  |
 | [Cumbia buena](https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Luis Ornelas y su Grupo](https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44) | [Luis Ornelas \- Session \#49 \(Sin Miedo: Lado S\)](https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB) | 1:51 | 2024-11-15 |  |
 | [Cumbia Cienaguera \- En vivo](https://open.spotify.com/track/4AsCNRMx50bdcvXPwpKt2n) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR) | [Gran Rex \(En vivo\)](https://open.spotify.com/album/2135milJKFbRWeYgqq80Ht) | 1:24 | 2025-02-21 | 2025-03-01 |
-| [Cumbia Dile \- En Vivo](https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 6](https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf) | 2:37 | 2024-12-20 |  |
+| [Cumbia Dile \- En Vivo](https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 6](https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf) | 2:37 | 2024-12-20 | 2025-12-23 |
 | [Cumbia Fuerte \- En Vivo](https://open.spotify.com/track/6SVlZ15BSPgi0ieB4SO8gG) | [La Provisoria](https://open.spotify.com/artist/1oExLOsTX1ok1TCH0FSf1h) | [Vivo Niceto Club](https://open.spotify.com/album/3tbUBD2mtaeIDsjsyNAshh) | 3:42 | 2022-03-25 | 2022-07-14 |
 | [Cumbia para La Raza \- En Vivo](https://open.spotify.com/track/0y0m2po24DuLCRs1xBaP9W) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [KUN EL PRINCIPE](https://open.spotify.com/artist/20gzsVnwDNrHYk41Wh2rLz) | [Damas Gratis en Vivo en Casa Spotify \(En Vivo\)](https://open.spotify.com/album/3SUH7ByE10zW5hOk8fmcsf) | 4:05 | 2025-10-24 | 2025-12-02 |
 | [Cóncavo y Convexo \- En Vivo](https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 3:38 | 2022-01-03 | 2022-10-30 |

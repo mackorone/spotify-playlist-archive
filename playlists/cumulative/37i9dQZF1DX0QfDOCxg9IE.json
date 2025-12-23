@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "10s",
+        "url": "https://open.spotify.com/album/2DFYoKj1ACWlcCDeGkzTu0"
+      },
+      "artists": [
+        {
+          "name": "Khim",
+          "url": "https://open.spotify.com/artist/1TDYyvzorLvXWMBjHg3B9l"
+        },
+        {
+          "name": "limba",
+          "url": "https://open.spotify.com/artist/2Q4wtgJh3NRNVyZ3ADa0oO"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140108,
+      "name": "10s",
+      "url": "https://open.spotify.com/track/1UmjJwP1jpPWmDfR2Tebvn"
+    },
+    {
+      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -1959,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/60M6KDKJXO4n7UbcBAmEoh"
+      },
+      "artists": [
+        {
+          "name": "StackBoi Deaz",
+          "url": "https://open.spotify.com/artist/1o6T982qEULjbyM1FAGvf0"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154148,
+      "name": "Breaking News",
+      "url": "https://open.spotify.com/track/0zM2wgsE159w7wtHh0H0vw"
+    },
+    {
+      "album": {
         "name": "ROMANCE : UNTOLD",
         "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
       },
@@ -2323,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Christmas Treat",
+        "url": "https://open.spotify.com/album/63GNeuqcrbLgxlBsRGUkvy"
+      },
+      "artists": [
+        {
+          "name": "Julian Casablancas",
+          "url": "https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Christmas Treat",
+      "url": "https://open.spotify.com/track/1rpBhDKKyeyog3m1AQIxrJ"
+    },
+    {
+      "album": {
         "name": "SAINT II",
         "url": "https://open.spotify.com/album/5YohrAhaX1axSnv0VcMQ01"
       },
@@ -2386,7 +2444,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 179368,
       "name": "Cocomelo",
       "url": "https://open.spotify.com/track/750xMM0Uz2EJAgdMfKcHBv"
@@ -3380,6 +3438,24 @@
       "duration_ms": 160033,
       "name": "Einai Ellinowest",
       "url": "https://open.spotify.com/track/3EbNDtFUpLGYUeuaoavpff"
+    },
+    {
+      "album": {
+        "name": "Ekei Pou Ola Ginontai",
+        "url": "https://open.spotify.com/album/04LfGoMXPftueC4ajQJyeL"
+      },
+      "artists": [
+        {
+          "name": "Mikes Billis",
+          "url": "https://open.spotify.com/artist/2sGefkY1YSoGMti9itrdvQ"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196402,
+      "name": "Ekei Pou Ola Ginontai",
+      "url": "https://open.spotify.com/track/4ybhHkG3yJLABv4jKE7M9o"
     },
     {
       "album": {
@@ -5161,6 +5237,42 @@
     },
     {
       "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+    },
+    {
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
         "name": "I'm a Dog",
         "url": "https://open.spotify.com/album/5yWKRtxQXd9a9kKJl9ZUMJ"
       },
@@ -5488,6 +5600,24 @@
       "duration_ms": 190059,
       "name": "Italia Slow",
       "url": "https://open.spotify.com/track/7eOYIOSIPSAUqTarVt6xaV"
+    },
+    {
+      "album": {
+        "name": "Ithopoios",
+        "url": "https://open.spotify.com/album/6SvQa7qWMFLI4bl4iKVJwt"
+      },
+      "artists": [
+        {
+          "name": "Ellize",
+          "url": "https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137896,
+      "name": "Ithopoios",
+      "url": "https://open.spotify.com/track/7reX1GQGNZbFBM9JzVWR8S"
     },
     {
       "album": {
@@ -6461,6 +6591,32 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
@@ -6658,7 +6814,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -9260,7 +9416,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 169811,
       "name": "Prezi",
       "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
@@ -10054,7 +10210,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 200827,
       "name": "Snowqueen Of Texas",
       "url": "https://open.spotify.com/track/0k5aF9l9sKF9XhhvWhg8qu"
@@ -10905,6 +11061,28 @@
     },
     {
       "album": {
+        "name": "Telia",
+        "url": "https://open.spotify.com/album/4J7LEQh6SB3UGZFvRYTH4U"
+      },
+      "artists": [
+        {
+          "name": "Ioakim Fokas",
+          "url": "https://open.spotify.com/artist/3gPQS5zS2UCbrBuRtuxiNT"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "Telia",
+      "url": "https://open.spotify.com/track/1hM5FY0uXg0NqTaeibm2cq"
+    },
+    {
+      "album": {
         "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
         "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
       },
@@ -11522,7 +11700,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 171971,
       "name": "To Agori Pou Agapises Exei Gkrizarei",
       "url": "https://open.spotify.com/track/65zdMGDd0cgEVE6wnDyGNi"
@@ -11916,7 +12094,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 162717,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb"
@@ -11938,7 +12116,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 177386,
       "name": "Turn The Lights Off (feat. Jon)",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
@@ -12076,7 +12254,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
@@ -12438,7 +12616,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 171264,
       "name": "Where Have You Been (Orchestra)",
       "url": "https://open.spotify.com/track/5UDv726vPnY2diGOkY1DkS"

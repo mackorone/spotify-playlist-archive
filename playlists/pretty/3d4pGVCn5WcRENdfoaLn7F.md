@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 376 likes - 69 songs - 4 hr 6 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 386 likes - 76 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,12 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 67 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 |
 | 68 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 |
 | 69 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 |
+| 70 | [Le Voyage Dans La Lune\`](https://open.spotify.com/track/2DynYhI3uQaG4noHkRTcun) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Le Voyage Dans La Lune\`](https://open.spotify.com/album/6kZea5A0pO9KcmLb8L5u7X) | 4:23 |
+| 71 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 |
+| 72 | [Nothing As It Seems](https://open.spotify.com/track/5Lfwc986dZdmvBEQs3eCdv) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Dead Lights](https://open.spotify.com/album/73utoxGp8vesfCMwFvgQGX) | 3:29 |
+| 73 | [Mead](https://open.spotify.com/track/3tdiSnYYRWia0X54OkAtZT) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 3:13 |
+| 74 | [Catharsis](https://open.spotify.com/track/0pHsFY5UTpZkwAqeH8KhUe) | [Parham Gharavaisi](https://open.spotify.com/artist/4QqBOZOiit5hIBwW6Bs9G7), [Lila Sumi](https://open.spotify.com/artist/2lGxwj9jUDWAhMByYOgqFY) | [Greatest Hits, Vol\. II](https://open.spotify.com/album/3A9cpWyKRLr7Z6879Q3FPo) | 3:11 |
+| 75 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 |
+| 76 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 |
 
-Snapshot ID: `AAACKTCWWMfijNGz12RYL9PQYggTMoEa`
+Snapshot ID: `AAACMLkYVndXTpXzDmow6hLJ+rCHrfkE`

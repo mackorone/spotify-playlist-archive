@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Lag
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,253 likes - 79 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,299 likes - 79 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 78 | [Yonkinto](https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K) | [Yonkinto](https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA) | 4:05 |
 | 79 | [FOMO](https://open.spotify.com/track/7ir1pK0mSBVZLoqUPbmous) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH) | [FOMO](https://open.spotify.com/album/5T7HjJfRNBLJg8zqkLPPeD) | 4:33 |
 
-Snapshot ID: `AAAAANsHlMzaQaceQeM9AAkKanRxEBL7`
+Snapshot ID: `AAAAAHk73yORQR/xqgCaMZlfiY5f2eVW`

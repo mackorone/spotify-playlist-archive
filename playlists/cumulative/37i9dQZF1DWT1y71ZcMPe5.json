@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Olga Myko",
+  "description": "The hottest songs you need to listen to right now. Cover: Madison Beer",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 199876,
       "name": "Dream As One - from Avatar: Fire and Ash",
       "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
@@ -9389,6 +9389,24 @@
     },
     {
       "album": {
+        "name": "Catching A Snowflake",
+        "url": "https://open.spotify.com/album/3K5FeHF5EUMo5VfMwdGIOe"
+      },
+      "artists": [
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Kissin\u2019 In The Cold",
+      "url": "https://open.spotify.com/track/0hjtNWa0QAHOBQjeMdWY6W"
+    },
+    {
+      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -13934,6 +13952,28 @@
       "duration_ms": 162973,
       "name": "River",
       "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
+    },
+    {
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Am\u00e9l",
+          "url": "https://open.spotify.com/artist/6OHd6Z5k9ZmBJ91oqeSpDG"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202739,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/77QlT4RN0SUlGG1nasBR16"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
-  "description": "100% Pinoy hits from your favorite artists! Cover: juan karlos",
-  "num_followers": 2486224,
+  "description": "100% Pinoy hits from your favorite artists!",
+  "num_followers": 2486223,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Hirap Kalimutan",
-        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Hirap Kalimutan",
-      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
+        "name": "Hirap Kalimutan",
+        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "Hirap Kalimutan",
+      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
         "name": "Love And Soul",
         "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 236705,
       "name": "Magkabilang Mundo",
       "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
+        "name": "Sagip",
+        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Sagip",
+      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Patlang",
-        "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 230300,
-      "name": "Patlang",
-      "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
         "name": "Nobela",
         "url": "https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 291506,
       "name": "Nobela",
       "url": "https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
+        "name": "Patlang",
+        "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 230300,
+      "name": "Patlang",
+      "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
         "name": "Buwan",
         "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
+        "name": "Pano",
+        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Pano",
+      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
     },
     {
       "added_at": "2025-12-03 02:52:25",

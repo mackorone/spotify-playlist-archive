@@ -4,7 +4,7 @@
 
 > Reggaeton hits from El Bogueto, Young Beef, Fuerza Regida, Anuel AA and more\. 🔥🍑
 
-688 songs - 1 day 13 hr 44 min
+689 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [La Cyber](https://open.spotify.com/track/3jsp9bCBAVIWdOvKsh40Am) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [La Cyber](https://open.spotify.com/album/3AAEoTlwxEu2X4LCkiTjKE) | 3:30 | 2024-09-06 | 2025-01-06 |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2022-01-28 | 2022-09-10 |
 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2023-11-24 | 2024-10-19 |
+| [LA FAVORITA DE DIOS](https://open.spotify.com/track/4M3I01LZqJDFJxs4veb7jt) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Private Suite \(Vol\. 3\)](https://open.spotify.com/album/5e5rU0LAzThZeH5YCc4Pmi) | 3:54 | 2025-12-22 |  |
 | [LA FREAK](https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:38 | 2025-07-11 |  |
 | [LA HORA Y EL DÍA](https://open.spotify.com/track/1j4yhkxSCEDmiLVKjpYKWq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [LA HORA Y EL DÍA](https://open.spotify.com/album/3AucKVb9GvQ4pOGaZ8UhFK) | 3:37 | 2023-02-17 | 2023-05-06 |
 | [La HP \- Spotify Singles](https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La HP \- Spotify Singles](https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB) | 3:06 | 2022-11-11 | 2022-12-03 |
@@ -551,7 +552,7 @@
 | [SANDUNGA](https://open.spotify.com/track/7C19B0faFkwBzfS5yHg1bF) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Back To Reggaeton](https://open.spotify.com/album/1fmzd3wNIyYbeH2mTDnLNh) | 4:01 | 2023-11-10 | 2024-01-27 |
 | [Santa Diabla \- Remix](https://open.spotify.com/track/0U4hdB14qhelRqs2saikto) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Santa Diabla \(Remix\)](https://open.spotify.com/album/2jLXg66dRVe3NkKP2UdI17) | 3:29 | 2025-12-05 |  |
 | [Sata](https://open.spotify.com/track/62Ivi1ONWg0DU125ZeOk5k) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 2:49 | 2024-10-11 | 2025-03-08 |
-| [Scarface](https://open.spotify.com/track/1yjo7N3FQCGyNeTQCPJjMu) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Scarface](https://open.spotify.com/album/5u20EM93IFNbGp2IGDJdAo) | 1:58 | 2025-11-15 |  |
+| [Scarface](https://open.spotify.com/track/1yjo7N3FQCGyNeTQCPJjMu) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Scarface](https://open.spotify.com/album/5u20EM93IFNbGp2IGDJdAo) | 1:58 | 2025-11-15 | 2025-12-23 |
 | [Se Cansó](https://open.spotify.com/track/7wAgHMlG5DyyElIfBAjyQk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Asere de Aseres](https://open.spotify.com/album/2uLjoKjhHdm6iZaovBuQE7) | 3:01 | 2024-02-09 | 2024-02-14 |
 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 | 2021-12-24 | 2022-07-23 |
 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-22 |  |

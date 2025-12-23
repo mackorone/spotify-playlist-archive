@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,856 likes - 119 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,857 likes - 119 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 14 | [就这样](https://open.spotify.com/track/2RhdqX2yiuiS34q7JImMA4) | [Khang Tan](https://open.spotify.com/artist/1em5hC4wbcVhUpdRy6HjFL) | [就这样](https://open.spotify.com/album/09GbTxAZx6D33QQHgNlJ4W) | 2:58 |
 | 15 | [What U Need](https://open.spotify.com/track/2CvMsWDnR2Q3PsXg40kGvD) | [Cloud Wang](https://open.spotify.com/artist/37W2XxtEqQE00I1ZoQ6LSY) | [What U Need](https://open.spotify.com/album/3ct2bntsR3mcLImf7PaMbc) | 2:50 |
 | 16 | [誰會記得](https://open.spotify.com/track/44qH5lidXaZe5uWQ6jc80J) | [林沛澄 Teresa](https://open.spotify.com/artist/1rDKAcjDPy7JjSoZivA9zY) | [誰會記得](https://open.spotify.com/album/2WEPVQhNYjftJHkcjxdTKW) | 3:08 |
-| 17 | [流體](https://open.spotify.com/track/0MpAKAVbCmJYPtT5X8us7s) | [费启鸣](https://open.spotify.com/artist/00Zvc9Y9OJNfyNZGfJ09pK) | [流體](https://open.spotify.com/album/7uLJWWesi4qcspQs5d6ucn) | 3:18 |
+| 17 | [流體](https://open.spotify.com/track/0MpAKAVbCmJYPtT5X8us7s) | [費啟鳴](https://open.spotify.com/artist/00Zvc9Y9OJNfyNZGfJ09pK) | [流體](https://open.spotify.com/album/7uLJWWesi4qcspQs5d6ucn) | 3:18 |
 | 18 | [假装没什么 \(《入青云》影视剧唯爱缚情曲\)](https://open.spotify.com/track/56wlvCfNPo7vCTTn9WkSUj) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [假装没什么 \(《入青云》影视剧唯爱缚情曲\)](https://open.spotify.com/album/6rTQLw3lQBv5MAOiFsKxBg) | 4:26 |
 | 19 | [為什麼忘不掉](https://open.spotify.com/track/7BOz1I9JthHHIQR4mHOYqd) | [Mikeyyy Jen](https://open.spotify.com/artist/5xp2ErvzSOO2OyQuhRQAyk), [韋德WADE](https://open.spotify.com/artist/4XWexGlqZtr4NvxRx3dnfh) | [為什麼忘不掉](https://open.spotify.com/album/51pDyY0Xog4CxRuSd72TgW) | 4:09 |
 | 20 | [輕輕](https://open.spotify.com/track/6qFeppL9BN2frgOSlw9jpV) | [鄭伊晴 Tee Yi Qing](https://open.spotify.com/artist/3w8n4Q4a0KfzA4WJaz5z0b) | [輕輕](https://open.spotify.com/album/2qhftaHnkHK1k91dyBhY3h) | 3:25 |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(18/12/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(22/12/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-220 songs - 10 hr 59 min
+221 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [ACTITUD](https://open.spotify.com/track/4D4DbeUfU2tsrbP83y54Qd) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR), [Fraktal](https://open.spotify.com/artist/3E3CNsYCMGVEbSoHw0dgLn), [Mon DJ](https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U) | [ACTITUD](https://open.spotify.com/album/1rRgIp7kMofwXGZp6Wj5bk) | 3:06 | 2024-06-16 | 2024-11-11 |
 | [Aeròbic](https://open.spotify.com/track/0rzoK3KUgqtB6FWL7JLzOl) | [Doctor Prats](https://open.spotify.com/artist/7ncQ3AmAxYqTv2vY46YclW) | [Aeròbic](https://open.spotify.com/album/4mp8XsxFgsRMaFb53SprlO) | 2:31 | 2025-02-09 | 2025-07-15 |
 | [Això és l'estiu](https://open.spotify.com/track/2afUtubQ3Gq6q9LXUP7mmt) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR), [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Això és l'estiu](https://open.spotify.com/album/5Hv33WfrZy7gX130Y1ZMY4) | 3:21 | 2024-09-01 | 2024-10-21 |
-| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-30 |  |
+| [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-30 | 2025-12-23 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-11-10 | 2025-12-19 |
 | [ARA](https://open.spotify.com/track/0S2e8la8KZIIxzkzKcSIqZ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso \(y el tuyo\)](https://open.spotify.com/album/3zWxatiogIL9Zawr4RIYxr) | 3:06 | 2024-04-28 | 2024-09-30 |
 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/album/2vMYYOd9u4IIb1VRXVhwDa) | 2:51 | 2024-08-04 | 2025-02-03 |
@@ -162,7 +162,7 @@
 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-31 | 2024-09-09 |
 | [Que Chévere](https://open.spotify.com/track/6rfxWe3VOvqDoZfUiKuVTP) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo), [Dj Panko](https://open.spotify.com/artist/3aBY9bY6YpfQP5laY923lF) | [Que Chévere](https://open.spotify.com/album/4jmI5Ofn3t2s4LEfX9J3kz) | 2:13 | 2024-05-05 | 2024-10-28 |
 | [Que et vagi bé](https://open.spotify.com/track/0fHRlLll6OrPc4d0oh5f1s) | [Sopa De Cabra](https://open.spotify.com/artist/1qNkvcsEC2Hry31JWkYO3D), [Triquell](https://open.spotify.com/artist/68CQGYnlJfrMyRcd255jVW) | [Que et vagi bé](https://open.spotify.com/album/6PSGKLjXhDJkaOKTuwTJEr) | 3:04 | 2024-03-17 | 2024-07-08 |
-| [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-07-28 |  |
+| [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-07-28 | 2025-12-23 |
 | [Que Vinguis](https://open.spotify.com/track/6Mk1sd1iixmQC6CxaWsnEb) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT) | [Que vinguis](https://open.spotify.com/album/3RHC4G8vajwORQM6WWxVAT) | 2:31 | 2024-06-02 | 2024-10-21 |
 | [REBOBINAR](https://open.spotify.com/track/45r6wchHonMxHst9NwAnze) | [La Fúmiga](https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz) | [REBOBINAR](https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ) | 2:54 | 2024-12-15 | 2025-03-31 |
 | [Rikiti](https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Rikiti](https://open.spotify.com/album/1suSSaPoQLN8CufLXvEdVF) | 2:26 | 2023-09-10 | 2024-04-29 |
@@ -170,6 +170,7 @@
 | [Sains et saufs](https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Sains et saufs](https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ) | 3:41 | 2025-06-16 | 2025-08-05 |
 | [Sant Tornem\-hi](https://open.spotify.com/track/2AhzvqNMSylniVhlQVIwcF) | [Mama Dousha](https://open.spotify.com/artist/4jT1Pg2Ji7Zr2XnxrH1fsN), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [Only Hits](https://open.spotify.com/album/0sN55ZViQjKnC1VnAd9rHQ) | 2:35 | 2024-09-22 | 2025-02-25 |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-07-21 |  |
+| [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 | 2025-12-22 |  |
 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 | 2025-02-02 | 2025-07-01 |
 | [Serem més forts](https://open.spotify.com/track/33hasXzBCCcUDHNT7DqlE6) | [Miki Núñez](https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB) | [Serem més forts](https://open.spotify.com/album/2LRjn2zuOsnDYtGglgKPEI) | 2:46 | 2024-11-03 | 2025-02-18 |
 | [SexeSexy](https://open.spotify.com/track/5YfGs3ieDe7tYnI0yOajp9) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexeSexy](https://open.spotify.com/album/4enqG7rEC8J7vwzgSgrwrN) | 3:52 | 2024-05-26 | 2024-08-26 |

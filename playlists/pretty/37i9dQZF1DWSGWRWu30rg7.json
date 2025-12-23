@@ -1,13 +1,45 @@
 {
   "description": "Temukan beragam musik dari talenta segar dalam negri. Cover: RACH?",
-  "num_followers": 64277,
+  "num_followers": 64274,
   "original_name": "Fresh Finds Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD1YgjC89ytz2W3eCcjME9+kqeBR",
+  "snapshot_id": "AAAAANBxrokvk7P2g+pqY8QksavC8556",
   "tracks": [
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3ThSbVY6TuSGjbkJGOVFPp"
+      },
+      "artists": [
+        {
+          "name": "RACH?",
+          "url": "https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/3aie1YivGTXPvouvVAMl9h"
+    },
+    {
+      "added_at": "2025-12-19 09:47:17",
+      "album": {
+        "name": "Latihan Bahagia",
+        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
+      },
+      "artists": [
+        {
+          "name": "Valent Duga",
+          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
+        }
+      ],
+      "duration_ms": 233058,
+      "name": "Untukmu yang Masih Bertahan",
+      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
+    },
     {
       "added_at": "2025-12-19 09:47:17",
       "album": {
@@ -31,22 +63,6 @@
       "duration_ms": 206250,
       "name": "Ketahuan",
       "url": "https://open.spotify.com/track/7MpVryT9IO48nmZ628ICIf"
-    },
-    {
-      "added_at": "2025-12-19 09:47:17",
-      "album": {
-        "name": "Latihan Bahagia",
-        "url": "https://open.spotify.com/album/7gEVjoeEEfG5hwTy5NxTCv"
-      },
-      "artists": [
-        {
-          "name": "Valent Duga",
-          "url": "https://open.spotify.com/artist/6Hkx3ewDN37sXxkHDyebUC"
-        }
-      ],
-      "duration_ms": 233058,
-      "name": "Untukmu yang Masih Bertahan",
-      "url": "https://open.spotify.com/track/2Zj8XXGpxdO9gsb9djjMuv"
     },
     {
       "added_at": "2025-12-19 09:47:17",
@@ -97,6 +113,22 @@
       "url": "https://open.spotify.com/track/0kfQ0y3qi2xnwOAX6ECpfj"
     },
     {
+      "added_at": "2025-12-23 01:31:22",
+      "album": {
+        "name": "Nanti",
+        "url": "https://open.spotify.com/album/0C6p6vyRgKfem2GgxGyjCd"
+      },
+      "artists": [
+        {
+          "name": "Nakei",
+          "url": "https://open.spotify.com/artist/6QR5ebgmPLS9iSfBn5Dpns"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Nanti",
+      "url": "https://open.spotify.com/track/5moiXra9Zd84Aoa3e03oZZ"
+    },
+    {
       "added_at": "2025-12-19 09:47:17",
       "album": {
         "name": "Tak Sejalan",
@@ -143,22 +175,6 @@
       "duration_ms": 246015,
       "name": "Sesalan Percintaan (Acoustic)",
       "url": "https://open.spotify.com/track/1oYHSCTb05IlIHZxB665RR"
-    },
-    {
-      "added_at": "2025-12-19 09:47:17",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3ThSbVY6TuSGjbkJGOVFPp"
-      },
-      "artists": [
-        {
-          "name": "RACH?",
-          "url": "https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/3aie1YivGTXPvouvVAMl9h"
     },
     {
       "added_at": "2025-12-19 09:47:17",
@@ -536,7 +552,7 @@
           "url": "https://open.spotify.com/artist/4o8IskLiKzSmvoWOjH3f0k"
         }
       ],
-      "duration_ms": 344441,
+      "duration_ms": 342296,
       "name": "And You Like It - Radio Edit",
       "url": "https://open.spotify.com/track/78IStiY5eT9fJ2eYflXdqw"
     },

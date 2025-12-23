@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,514 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,512 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 18 | [Delta Rain Dream](https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 3:29 |
 | 19 | [Forest Trails](https://open.spotify.com/track/2Gvy4DbDM6NQ5rUJDljXz4) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Forest Trails](https://open.spotify.com/album/4IraxSJiP3P7561LUlNTrY) | 5:46 |
 | 20 | [El Mango](https://open.spotify.com/track/3swR8qU8zudXx36fhwqHLk) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Wio World Improv Orquestra](https://open.spotify.com/album/18uhLpV20hEwhP5T2q31jj) | 6:41 |
-| 21 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
-| 22 | [Ultramarine](https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR) | [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Cobalt Blue](https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i) | 4:34 |
+| 21 | [Ultramarine](https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR) | [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Cobalt Blue](https://open.spotify.com/album/5YjTUXG87pwWU4CtbdcA1i) | 4:34 |
+| 22 | [Haut](https://open.spotify.com/track/47z9MmkB84n0UB8ZtpYgNU) | [Ralph Heidel](https://open.spotify.com/artist/0bMg0IViAwAYQ5WUenR92H) | [Haut](https://open.spotify.com/album/6AXggAB3ZLFpju607wptwm) | 4:12 |
 | 23 | [Touch me & die](https://open.spotify.com/track/4fUyRdOqocwHCabG7gT71J) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 3:30 |
 | 24 | [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 |
 | 25 | [Alaskan Dream](https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Amalinalli Pichardo](https://open.spotify.com/artist/6SZiLxASFuXX3R6BusWUkp), [David Ralicke](https://open.spotify.com/artist/3M0FPaOfQNhmv3WZ7CU62Y) | [Alaskan Dream](https://open.spotify.com/album/7jLRbqXYxf8lHjT5V5ZMxF) | 5:20 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 55 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 |
 | 56 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 |
 | 57 | [Sky Time](https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS) | [YAI](https://open.spotify.com/artist/6CV1eZ3xM0Sfpfd6gkufrJ), [John Thayer](https://open.spotify.com/artist/0epYBMvUpoUYstNjLNHL4k), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Sky Time](https://open.spotify.com/album/6a3obHasxduXehtFxlS7CX) | 3:02 |
-| 58 | [Lucerne Valley](https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Reflections \- Mojave Desert](https://open.spotify.com/album/2A9lnshn6QxS5SmbCsCuu0) | 3:38 |
-| 59 | [We Borrowed Feathers](https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Antiphony of the Trees](https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD) | 3:32 |
+| 58 | [We Borrowed Feathers](https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Antiphony of the Trees](https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD) | 3:32 |
+| 59 | [Lucerne Valley](https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Reflections \- Mojave Desert](https://open.spotify.com/album/2A9lnshn6QxS5SmbCsCuu0) | 3:38 |
 | 60 | [Pale Purple Flower](https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7) | [Kazufumi Kodama & Undefined](https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA) | [2 Years / 2 Years in Silence](https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1) | 4:48 |
 | 61 | [June 26th](https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Missing Pages](https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c) | 5:39 |
 | 62 | [Tide Pool Portals to Another World](https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq) | [Signal Quest](https://open.spotify.com/artist/4yv67wG6XrMRwgphaW6nwC), [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh), [Mitch Stahlmann](https://open.spotify.com/artist/4bFkPBikiARS6thM04w2Pe) | [Hypermyth](https://open.spotify.com/album/1UKcHlLvCZxRgVjeK8ZouF) | 5:57 |

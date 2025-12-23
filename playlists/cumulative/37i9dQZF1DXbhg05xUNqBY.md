@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-357 songs - 23 hr 35 min
+358 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [He Will Hold Me Fast](https://open.spotify.com/track/4weqRLQumuxDEpFVZR3jgu) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [Facing A Task Unfinished](https://open.spotify.com/album/4iaznzAVvJg550xaOBDKOz) | 5:15 | 2024-06-23 |  |
 | [Heal My Heart \- Live](https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz) | [Brandin Reed](https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt) | [Heal My Heart](https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam) | 7:38 | 2024-06-23 | 2025-04-05 |
 | [HEART AND MIND](https://open.spotify.com/track/2rTOQ61GqSMPtxCgboHor1) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [HEART AND MIND](https://open.spotify.com/album/7lpLhrtvLdWUNh6fA5DYek) | 3:47 | 2025-12-13 |  |
-| [Heartbroken Hallelujah](https://open.spotify.com/track/4FoZKksS4Z9WvNNu9MkgjZ) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Heartbroken Hallelujah](https://open.spotify.com/album/4fM2CMxvgLQLt2WujJKGy3) | 4:17 | 2025-08-08 |  |
+| [Heartbroken Hallelujah](https://open.spotify.com/track/4FoZKksS4Z9WvNNu9MkgjZ) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Heartbroken Hallelujah](https://open.spotify.com/album/4fM2CMxvgLQLt2WujJKGy3) | 4:17 | 2025-08-08 | 2025-12-23 |
 | [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 | 2021-10-31 | 2024-07-27 |
 | [Heavenly Places](https://open.spotify.com/track/008RdIQfWtoSKt1xs4VwrC) | [Ethan Nathaniel](https://open.spotify.com/artist/5tGobqZ8J0XMtFl3H589Sv) | [Heavenly Places](https://open.spotify.com/album/7IMLyMMCKYXfQvlkJfvB5n) | 3:14 | 2025-08-08 |  |
 | [Help Is on the Way](https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Help Is on the Way](https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV) | 3:40 | 2021-10-31 | 2024-07-27 |
@@ -223,6 +223,7 @@
 | [Ordinary Miracle](https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Ordinary Miracle](https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu) | 3:44 | 2025-04-05 |  |
 | [Overflow](https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R) | [Madison Hamm](https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT) | [Overflow](https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz) | 3:25 | 2024-07-26 | 2025-04-05 |
 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 | 2025-04-05 |  |
+| [patient.](https://open.spotify.com/track/7IR29E7bJQ4J8PUAAggdrw) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Dan's music](https://open.spotify.com/artist/6G6KxdPb45tFu5fvsZriVW) | [patient.](https://open.spotify.com/album/2IZ952a45yh2M2pwEyOYBK) | 3:20 | 2025-12-13 |  |
 | [Peace](https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Peace](https://open.spotify.com/album/3tE9TpTQossZEL136kY0lM) | 1:32 | 2025-10-10 |  |
 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 | 2021-10-31 | 2024-07-27 |
 | [Peace Be Still](https://open.spotify.com/track/6naJCIwcdALuA7X6t3wFBA) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Peace Be Still](https://open.spotify.com/album/0hvmi61bBgQ50K0XWp7OyU) | 4:08 | 2025-12-13 |  |

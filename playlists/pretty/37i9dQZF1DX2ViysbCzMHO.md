@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,359 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,375 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 30 | [Girl On Fire \- Acoustic](https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire \(Acoustic\)](https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia) | 3:08 |
 | 31 | [You \- Acoustic](https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [You \(Acoustic\)](https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6) | 3:23 |
 | 32 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
-| 33 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
-| 34 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 33 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 34 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
 | 35 | [Wilder Days \- Acoustic](https://open.spotify.com/track/7dkCnDAjnTNTCvpb9xMHXU) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 4:11 |
-| 36 | [Like It Ain't \- Stripped](https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Like It Ain't \(Stripped\)](https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm) | 2:36 |
-| 37 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 |
+| 36 | [Slow Dance In A Parking Lot \- Acoustic](https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot \(Acoustic\)](https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo) | 2:58 |
+| 37 | [Like It Ain't \- Stripped](https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Like It Ain't \(Stripped\)](https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm) | 2:36 |
 | 38 | [Whiskey On You \- Acoustic](https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Whiskey On You \(Acoustic\)](https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr) | 2:59 |
 | 39 | [The Bones \- Acoustic](https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Maren Morris: Reimagined](https://open.spotify.com/album/0Kyfw8VQKjy8KpxRJr35Bc) | 3:37 |
 | 40 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 90 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
 | 91 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
 | 92 | [I Should Probably Go To Bed \- Acoustic](https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [I Should Probably Go To Bed \(Acoustic\)](https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc) | 2:57 |
-| 93 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 |
-| 94 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
+| 93 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
+| 94 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 |
 | 95 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
 | 96 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
 | 97 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |

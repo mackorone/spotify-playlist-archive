@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjEq7Z199Si.md) - [plain]
 
 > Experience the epic conclusion of Wicked: For Good with the official playlist\. Want more? Enter The Lands of Oz <a href="https://open.spotify.com/presents/wicked">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,263 likes - 24 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,710 likes - 24 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

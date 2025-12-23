@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Italia amore mio 🇮🇹🇮🇹🇮🇹 😍😍😍
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,102 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,105 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 3 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |
 | 4 | [Ma Che Freddo Fa](https://open.spotify.com/track/0vk46qEN6DEzancOurslfM) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Nada](https://open.spotify.com/album/484oWTby23satVIgHKMO0e) | 3:03 |
 | 5 | [Dove Si Balla](https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Dove Si Balla](https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf) | 3:18 |
-| 6 | [Rolls Royce \(feat\. Boss Doms, Frenetik&Orang3\)](https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w) | [1969 \- Achille Idol Rebirth](https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU) | 2:53 |
-| 7 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
+| 6 | [Ciao Ciao](https://open.spotify.com/track/0jLeyuu6mtsD384054xLah) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [Ciao Ciao](https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj) | 3:04 |
+| 7 | [Rolls Royce \(feat\. Boss Doms, Frenetik&Orang3\)](https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Frenetik&Orang3](https://open.spotify.com/artist/2lkP8239tkwRjg5N7d2D0w) | [1969 \- Achille Idol Rebirth](https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU) | 2:53 |
 | 8 | [SESSO OCCASIONALE](https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [SESSO OCCASIONALE](https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6) | 3:15 |
 | 9 | [Una Vita In Vacanza](https://open.spotify.com/track/6134tdWf6qjAGgQs1xJRyA) | [Lo Stato Sociale](https://open.spotify.com/artist/1MBjY2JFotAGoTYDfO80cM) | [Primati](https://open.spotify.com/album/5zbqOeGsHkqezYWdjl4VpQ) | 3:53 |
 | 10 | [Vado al massimo](https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Vado al massimo \(Remastered\)](https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM) | 4:03 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 35 | [Mamma Non Lo Sa](https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG) | [Almamegretta](https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6) | [Controra](https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd) | 3:12 |
 | 36 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |
 | 37 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
-| 38 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
-| 39 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
+| 38 | [Cose Veloci](https://open.spotify.com/track/18ZdbJMhUcNpXtbk9kTA1B) | [Garbo](https://open.spotify.com/artist/7klJT9ZfZwUiXaprwIxbso) | [Fotografie](https://open.spotify.com/album/0VUxmTTE6ka4B6iw56kufZ) | 4:07 |
+| 39 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
 | 40 | [Pafff.\. bum!](https://open.spotify.com/track/3rIyt8qnPDXR8GRaWeiVtX) | [Gianfranco Reverberi](https://open.spotify.com/artist/0LDkZ7eiExUAygRAbJEzdq), [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [12000 lune](https://open.spotify.com/album/6FAodIEfgmPYI0sL3KEWHQ) | 2:21 |
 | 41 | [Innamoratissimo](https://open.spotify.com/track/6zFbHceSJ23viD2FKoXS06) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Righeira The 80's Hit Songs](https://open.spotify.com/album/0kXv5aOToWfQDF31IfM7mm) | 3:49 |
 | 42 | [Sinue' \- Alternative Version](https://open.spotify.com/track/4RG8tAMD8kCDiW8W6TAb0P) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [Sinue' \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5R9RmrSBzjR4PzEnp7c5OO) | 3:51 |

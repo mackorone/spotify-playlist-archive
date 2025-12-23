@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 337 likes - 246 songs - 14 hr 21 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 337 likes - 247 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,5 +254,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 244 | [Come Back Club](https://open.spotify.com/track/5wAzDSwXLN3tusPndmyDcE) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Come Back Club](https://open.spotify.com/album/4N2dQMTWn8aJOTEcmNQwnI) | 2:59 |
 | 245 | [LIMIT](https://open.spotify.com/track/1Rs0HacYiBEC4NWm3r4GBh) | [LOSTMANE](https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh) | [LIMIT](https://open.spotify.com/album/4ZM9OANaQdu2baFIfI3Pzs) | 3:00 |
 | 246 | [Blurred lights](https://open.spotify.com/track/6HMzmDWbLeo39Jdr7aP1dV) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Blurred lights](https://open.spotify.com/album/1W4YY6ZhrSKi3BBSTMYtta) | 3:05 |
+| 247 | [IMPURE](https://open.spotify.com/track/5JsZWjPY3RctjRmPa98DPw) | [Planet V](https://open.spotify.com/artist/50KY1fYJqwGBSfCRXMtZjg) | [IMPURE](https://open.spotify.com/album/65nD6c1k6sVGXxHFaNNagJ) | 3:27 |
 
-Snapshot ID: `AAABBoAW9ZNWiH1o9LjY2Z03fYIMfDgG`
+Snapshot ID: `AAABB4hWoRs8TLKmst7DTN72VKd1E5Nt`

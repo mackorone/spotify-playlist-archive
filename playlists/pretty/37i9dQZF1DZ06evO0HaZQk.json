@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 522605,
+  "num_followers": 522618,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACcaBL3tiqmfQ5CfrwdhAUm",
+  "snapshot_id": "aUc4gAAAAAB9aUh5kdfSXxnxAJwibGX8",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Antes de Huir",
-      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pel\u00edcula Muda, Pt. 1",
-        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 264880,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
     },
     {
       "added_at": null,
@@ -695,6 +675,26 @@
       "duration_ms": 278693,
       "name": "Burbujas De Amor",
       "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 238743,
       "name": "T\u00fa Ve",
       "url": "https://open.spotify.com/track/7pOuB6eH3MB758FlUqdcV7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Mi Tierra Veracruzana (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/1CIuTzWLQ3sxScgFJzUhWT"
     },
     {
       "added_at": null,

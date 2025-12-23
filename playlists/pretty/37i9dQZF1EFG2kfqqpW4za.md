@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2kfqqpW4za.md) - [plain]
 | 64 | [Abraços de Resistência](https://open.spotify.com/track/0czqjbQD16beA5yejlA4V4) | [Laysa](https://open.spotify.com/artist/5Jycy1Tg8JDcxBxFDQL8A6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Abraços de Resistência](https://open.spotify.com/album/3qRWTyyDlw2cS6JiX6cakS) | 4:17 |
 | 65 | [Dias Melhores Virão](https://open.spotify.com/track/0TIFDU0I5o5fDifOEyD4DI) | [BR Suav](https://open.spotify.com/artist/1skrxyzVcNlQDVXPCMlYq6), [Helio Bentes](https://open.spotify.com/artist/3QZ8AOQtLTHEKSf0902llu) | [Dias Melhores Virão](https://open.spotify.com/album/49RiYOnb0RDIECdSv4ofzI) | 2:51 |
 
-Snapshot ID: `AcE2UgAAAABGXEJD4iKv7U59FFfPA/aa`
+Snapshot ID: `AcE8BgAAAADUCGoKUNGfinyFomOQptmL`

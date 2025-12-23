@@ -4,7 +4,7 @@
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-398 songs - 23 hr 10 min
+402 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Affection](https://open.spotify.com/track/6JeBNlUPiL3rndbPipqYR2) | [Rose Rose](https://open.spotify.com/artist/7m5YHkCbSEVutUThNF5Lc9) | [Affection](https://open.spotify.com/album/2HBdh3OXazdIV86Dnw3GgF) | 3:18 | 2025-12-18 |  |
 | [Again](https://open.spotify.com/track/3VdTkrOXjoKe4nutykkoz1) | [The George Kaplan Conspiracy](https://open.spotify.com/artist/1oghnjbVNJIYKnNhV3Y5cR) | [Recollected Memories](https://open.spotify.com/album/7zKNyfOAofayv8jZj4Jlcn) | 4:04 | 2022-05-20 | 2024-07-27 |
 | [Aimants](https://open.spotify.com/track/69fNIXdutjbXlKHmSro2bR) | [MonteRosso](https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1) | [Aimants](https://open.spotify.com/album/6kRCisH9lYqcxPPL7EMVWw) | 3:22 | 2022-05-20 | 2024-07-27 |
+| [Amaro Erotico \(feat\. Marlène\)](https://open.spotify.com/track/5v1UoXEfUtrt077UwZ3Ue2) | [D’Aniello](https://open.spotify.com/artist/3DAfcX3IknvcYeKl99GhCB), [Marlène](https://open.spotify.com/artist/2dQ8oFJ4MUvEf4szCrSgaF) | [Amaro Erotico \(feat\. Marlène\)](https://open.spotify.com/album/59MwMEOh2O2y2h9srWyWkH) | 4:21 | 2025-12-22 |  |
 | [Amore Bello](https://open.spotify.com/track/4h20xKbuKsOt3DEhu13wM4) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julietta](https://open.spotify.com/artist/59GuvWzFy0o7wTJL81TVLV) | [Amore Bello](https://open.spotify.com/album/2bfPaT1z9neTkm4q1p6u0H) | 3:38 | 2025-12-18 |  |
 | [Amour dans le motu](https://open.spotify.com/track/3YUC6sdWjRHqBmD48Bb3ya) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Psycho Tropical Berlin](https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp) | 4:39 | 2022-05-20 | 2024-07-27 |
 | [Ananas](https://open.spotify.com/track/48Wa26EAi58eDeGIyBc3ws) | [Bleu Toucan](https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r) | [Salade de fruits](https://open.spotify.com/album/5KOEFLKdhPGyV4JNySth3U) | 4:38 | 2022-12-21 | 2024-07-27 |
@@ -35,6 +36,7 @@
 | [Bel et Bien](https://open.spotify.com/track/5u0uXacvit2vuTlcBejkL8) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Couleur Paradis](https://open.spotify.com/album/7KhOO6VqqNQoXej6gwxnUh) | 3:21 | 2025-12-18 |  |
 | [Belladelic](https://open.spotify.com/track/2zgTLnMJhxGVgp92gLmBI6) | [Les Bellas](https://open.spotify.com/artist/0Fiv0soA50FuWKHK9D8cXv) | [Integral Recording 2003 / 2005 \(Catalunya Nord Vol\. 5\)](https://open.spotify.com/album/2PCQr9UqE0hfiraZ1iLYrN) | 3:45 | 2024-08-15 |  |
 | [Besties Only](https://open.spotify.com/track/10k6kszRhtyUV4hSH2hgfO) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6), [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Besties Only](https://open.spotify.com/album/4LTo6iSUze6Pn8ySqBuKjZ) | 3:34 | 2025-12-18 |  |
+| [BFF](https://open.spotify.com/track/3wAb2rGPVzgOMSQqo0RrXY) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Les Filles & Christopher](https://open.spotify.com/artist/3e50327fCwO1HRUjipDkaJ) | [BFF](https://open.spotify.com/album/4kVw79XVctndvLVYQtViqe) | 2:33 | 2025-12-22 |  |
 | [Big Future](https://open.spotify.com/track/0Ou2ffHsdTEt55ymYamY5z) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/2tsfZKRq0ClMIm2JxHfCaI) | 2:35 | 2022-12-21 | 2024-07-27 |
 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 | 2022-05-20 | 2024-04-19 |
 | [Billet pour Paris](https://open.spotify.com/track/4X3hzjlAdc4FOY918YrROM) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Origami](https://open.spotify.com/album/42Z1rxLQgaW9nLr0V6qCVe) | 3:41 | 2024-08-15 |  |
@@ -114,6 +116,7 @@
 | [En chute libre](https://open.spotify.com/track/0C420xkNmwlfxvZra8cz1a) | [O \- Olivier Marguerit](https://open.spotify.com/artist/2JldlUF9gAWKZc1qNvjQpo) | [À TERRE!](https://open.spotify.com/album/4gWwfwwtBhcWiHel4jxKi5) | 4:44 | 2024-08-15 |  |
 | [Encore](https://open.spotify.com/track/2rD2lLV55Pr6xvzI67MY8L) | [DOPAMOON](https://open.spotify.com/artist/5vNhYUKZMEv2QMJXY7IPTK), [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Encore](https://open.spotify.com/album/5YIj0XNQpAzJTYlXBXgd2M) | 3:19 | 2024-08-15 |  |
 | [Enid & Rebecca](https://open.spotify.com/track/3tol5h4bnWalJSHsYATkrN) | [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Nuances](https://open.spotify.com/album/0aFIk7Z4fm7JVZoIKNexxq) | 2:55 | 2022-12-21 | 2024-07-27 |
+| [Evviva il surf](https://open.spotify.com/track/1JtbD0uutr4biWUjqrWUKA) | [Mimì Bertè](https://open.spotify.com/artist/6mf5gfglhRPA03UzsPHGRw) | [Le origini](https://open.spotify.com/album/1ruKpwIsdMmyB3PHEzamFM) | 1:54 | 2025-12-22 |  |
 | [Fais comme si](https://open.spotify.com/track/7wuP1Jq86SPZirUdZHyCIT) | [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Couleur Chaos](https://open.spotify.com/album/2oKMWXL13EN15OBdMX2eKp) | 3:21 | 2024-08-15 |  |
 | [Faïence](https://open.spotify.com/track/67CVoQxqskjUr4vGMTZQyD) | [Alex100](https://open.spotify.com/artist/23qCgC4OgkTJE7SsSn64AM) | [Eaux calmes](https://open.spotify.com/album/7kMJCfK2icD8IgIHxLBRKF) | 3:49 | 2025-12-18 |  |
 | [Feel](https://open.spotify.com/track/3z5IbvSx8lDp3KN3BYMEBX) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Good Enuff 001 \- Uni](https://open.spotify.com/album/5l1zncALjUgsRocC71DW5L) | 5:10 | 2022-05-20 | 2024-07-27 |
@@ -400,6 +403,7 @@
 | [Vitesse](https://open.spotify.com/track/4DhlB9yRUYEyIFluBInAtX) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Vitesse](https://open.spotify.com/album/1OZCPkSN0TafKv9x5ScGyz) | 2:48 | 2022-12-21 |  |
 | [Vous qui passez sans me voir](https://open.spotify.com/track/0ugvNqtoVTMVImXK22q885) | [Albert de Paname](https://open.spotify.com/artist/6In1jwpsQVNqCmpb6MuMez) | [C'est Magnifique !](https://open.spotify.com/album/22KBVV1lbTFvCFDn3GihKm) | 2:42 | 2022-12-21 | 2024-07-27 |
 | [Wait for Me "Aspiettame Re\-Edit"](https://open.spotify.com/track/5sI3AdsK1QYpxiy1OOHHzR) | [Franky Selector](https://open.spotify.com/artist/2zL1wDqPaoLSJVECteZw4s), [Banda Maje](https://open.spotify.com/artist/2M3FTb5tTjpSjhJGuQGjor) | [Italians Do It \(Never\) Better](https://open.spotify.com/album/2ulfH45cA2ogL2ZWGbdENV) | 3:22 | 2025-12-18 |  |
+| [Week\-end à Rome](https://open.spotify.com/track/5ZzFjSYc7b41ZBljOreOSC) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw) | [Week\-end à Rome](https://open.spotify.com/album/2mLOcJTTkKZXbqHo7RnQ3K) | 4:25 | 2025-12-22 |  |
 | [Where Is My Ego ? \- Dim Sum Remix](https://open.spotify.com/track/4p2ziT3CUffFyt4KrGwQ6s) | [Husbands](https://open.spotify.com/artist/006Mv4bnAJGVnasH1pbDEO) | [Where Is My Ego ?](https://open.spotify.com/album/7jX2PDOngM3aSnOLv609U0) | 4:24 | 2022-05-20 | 2024-07-27 |
 | [White Flag](https://open.spotify.com/track/201pkQifPuyDzWuV3HuLNn) | [UTO](https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD) | [More heat to the fire part of fire](https://open.spotify.com/album/4Cc96Jq23WBposXUSK3EiF) | 2:55 | 2025-12-18 |  |
 | [You Always Say](https://open.spotify.com/track/3ogY5aUgGAR0zY1qOGDcsc) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Olivia Merilahti](https://open.spotify.com/artist/6i2umdD3q6XxXmqR8fRJuR), [Prudence](https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh) | [TEENAGERS](https://open.spotify.com/album/7wrDrozVTtVwVbld67EgBR) | 4:40 | 2025-12-18 |  |

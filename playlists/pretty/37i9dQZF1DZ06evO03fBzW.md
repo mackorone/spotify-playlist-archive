@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,284 likes - 47 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,289 likes - 47 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 36 | [Heaven](https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove \(Deluxe Version\)](https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN) | 4:06 |
 | 37 | [Ache](https://open.spotify.com/track/0xbpdQleYwsTPjc6JimN3b) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 3:48 |
 | 38 | [Stricken](https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 4:06 |
-| 39 | [You're So Foxy](https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:39 |
+| 39 | [Everything In Time \- Los Angeles](https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:26 |
 | 40 | [Mouth Shut \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/0SAMfaKiAAkInnctZJzwvH) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tastes Like Gold](https://open.spotify.com/album/0b0kohv14AkJs77g9UMQiW) | 2:41 |
 | 41 | [Sometimes](https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:29 |
 | 42 | [Snakes](https://open.spotify.com/track/0Dmi9ykcCODLhBnB3OvWOv) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 4:37 |
-| 43 | [Everything In Time \- Los Angeles](https://open.spotify.com/track/2vNh6cL0D2SlnNua7XUpcN) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:26 |
+| 43 | [You're So Foxy](https://open.spotify.com/track/1rmilKgByQBXGG6X0GDHcV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:39 |
 | 44 | [BND](https://open.spotify.com/track/67zScJlCZAhJsIMCYyDSbj) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 0:45 |
 | 45 | [Leftovers](https://open.spotify.com/track/43N0WNTGfOruD0377oEeMo) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 4:29 |
 | 46 | [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 |
 | 47 | [Sailin' On](https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:35 |
 
-Snapshot ID: `aUXnAAAAAABb7pDbTzSgELosNoUMAGeb`
+Snapshot ID: `aUc4gAAAAAAUg/x14eJgXsyMoDHbGrG0`

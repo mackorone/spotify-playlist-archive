@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 183643,
+  "num_followers": 183657,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "The Treadmill",
-      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 266600,
       "name": "If I Ever Feel Better",
       "url": "https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "found u/me",
-        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 169818,
-      "name": "found u/me",
-      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/2UCpwkWg7BuHe2bHD0MTfC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 194082,
       "name": "Hano\u00ef caf\u00e9",
       "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "found u/me",
+        "url": "https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 169818,
+      "name": "found u/me",
+      "url": "https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "How To Live",
-        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+        "name": "davina mccall",
+        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 240043,
-      "name": "How To Live",
-      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+      "duration_ms": 227794,
+      "name": "davina mccall",
+      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "davina mccall",
-        "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 227794,
-      "name": "davina mccall",
-      "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1059,6 +1059,26 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Gringa",
+        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 187762,
+      "name": "Belle \u00e2me",
+      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1107,26 +1127,6 @@
       "duration_ms": 220226,
       "name": "Ordinary Creature",
       "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Gringa",
-        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 187762,
-      "name": "Belle \u00e2me",
-      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Bebey",
-        "url": "https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K"
-      },
-      "artists": [
-        {
-          "name": "Theophilus London",
-          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 215446,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "La prima estate",
         "url": "https://open.spotify.com/album/2Fk5qciqtmhk0QjEUlLIgB"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Bebey",
+        "url": "https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K"
+      },
+      "artists": [
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 215446,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Press Pause",
-        "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
-      },
-      "artists": [
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 199380,
-      "name": "Press Pause",
-      "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Matahari",
         "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Press Pause",
+        "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 199380,
+      "name": "Press Pause",
+      "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1611,22 +1627,6 @@
       "duration_ms": 212998,
       "name": "Jazz et th\u00e9 vert",
       "url": "https://open.spotify.com/track/2WqcyORimSvaAniUP81WNf"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
-      },
-      "artists": [
-        {
-          "name": "Snazzy",
-          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
     },
     {
       "added_at": "2025-12-18 23:00:23",

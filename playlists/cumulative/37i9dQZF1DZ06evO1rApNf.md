@@ -4,7 +4,7 @@
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 12 min
+100 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Canción 2](https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Canción 2](https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW) | 2:28 | 2024-05-19 | 2024-06-16 |
 | [Cariño Mío](https://open.spotify.com/track/6Mq4WZPK1hYSVSlNMcdSMe) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/1ji75N7d6k9Btn72mVLWyj) | 3:17 | 2024-04-10 |  |
 | [Cariño Mío](https://open.spotify.com/track/6ORMS8Ep717H3vzQFahFiy) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cariño Mío](https://open.spotify.com/album/633EQz5mNZHb0lEl2fbHuz) | 3:17 | 2023-09-25 | 2024-04-10 |
-| [Chamba](https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chamba](https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg) | 3:22 | 2025-10-12 |  |
+| [Chamba](https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [Chamba](https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg) | 3:22 | 2025-10-12 | 2025-12-23 |
+| [Chamba](https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 3:22 | 2025-12-23 |  |
 | [claroqno](https://open.spotify.com/track/339lahJlIsQofYeDpLd27v) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LA LLAVE](https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y) | 2:34 | 2025-08-31 | 2025-09-27 |
 | [claroqno](https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [claroqno](https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7) | 2:34 | 2025-09-27 | 2025-12-07 |
 | [Darnos Un Tiempo](https://open.spotify.com/track/1zaALt2FHgNUrOg5jzFF8J) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 3:15 | 2023-09-25 | 2024-06-14 |

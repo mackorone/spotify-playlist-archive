@@ -2,7 +2,7 @@
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Palmy
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: TEMI, KiRANA
 
 598 songs - 1 day 12 hr 24 min
 

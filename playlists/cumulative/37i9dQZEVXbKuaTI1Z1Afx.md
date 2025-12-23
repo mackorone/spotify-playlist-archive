@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,659 songs - 10 day 10 hr 24 min
+4,660 songs - 10 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2151,6 +2151,7 @@
 | [Just Pretend](https://open.spotify.com/track/3zb8S65LhiPPPH4vov8yV2) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/0auTn0kFZk71WAv3BbKVxQ) | 3:24 | 2022-10-01 | 2022-11-05 |
 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 | 2022-02-23 | 2022-03-02 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2022-11-08 | 2022-12-08 |
+| [justfallinlovewithme.](https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD) | [Lil Kliff](https://open.spotify.com/artist/4TE90ZobF5vpkPYfm8m4fd) | [justfallinlovewithme.](https://open.spotify.com/album/1hzfSCsZG0B4MtB4RhRvJX) | 2:41 | 2025-12-22 |  |
 | [Jálale alv](https://open.spotify.com/track/57uiO4cG6bK5yq51BJTvyE) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Jálale alv](https://open.spotify.com/album/2fg0Ah2oDL1ne1zECvOdPY) | 1:49 | 2024-05-21 | 2024-06-08 |
 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 | 2024-04-23 | 2024-05-15 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-11-15 | 2022-11-25 |
@@ -3910,7 +3911,7 @@
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2022-06-24 | 2022-07-15 |
 | [Tesla](https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lil Pump 2](https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv) | 2:13 | 2023-03-25 | 2023-03-27 |
 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 | 2025-08-26 | 2025-08-28 |
-| [Test Of Time](https://open.spotify.com/track/5qDJnpI14GE3LywpJ25UIn) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Test Of Time](https://open.spotify.com/album/0AO8KaLHzofg0W7PnKw0UT) | 3:10 | 2025-12-20 |  |
+| [Test Of Time](https://open.spotify.com/track/5qDJnpI14GE3LywpJ25UIn) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Test Of Time](https://open.spotify.com/album/0AO8KaLHzofg0W7PnKw0UT) | 3:10 | 2025-12-20 | 2025-12-23 |
 | [Texas](https://open.spotify.com/track/5b2vjIrKUkof35ghK511RK) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Texas](https://open.spotify.com/album/2JsQ8WWzDV4k0jLdKkHVzZ) | 2:26 | 2022-12-20 | 2023-02-01 |
 | [Texas](https://open.spotify.com/track/6eKNwVDSwoZlVNYBlqxWiC) | [RNB.FOEMOB](https://open.spotify.com/artist/3YrSdCCaG11xDOpXYJdGl3) | [Texas](https://open.spotify.com/album/4VDg88gvR9aF0sLLK2cZUf) | 2:24 | 2025-04-20 | 2025-05-17 |
 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 | 2023-07-04 | 2023-07-08 |

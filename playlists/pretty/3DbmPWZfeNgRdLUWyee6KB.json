@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1076,
+  "num_followers": 1094,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOGymAvhe77p8NXaxTD+SmeRWJQyyM",
+  "snapshot_id": "AAAOOCnB536b6EG1V3+m7jct2IDwGspy",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -303,6 +303,22 @@
       "duration_ms": 214468,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/0854rJz7ZGPmB3MLFjnUix"
+    },
+    {
+      "added_at": "2025-12-22 21:17:48",
+      "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj"
+      },
+      "artists": [
+        {
+          "name": "Constant Vertex",
+          "url": "https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM"
+        }
+      ],
+      "duration_ms": 178989,
+      "name": "Quiet Mirror",
+      "url": "https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z"
     },
     {
       "added_at": "2025-11-24 18:02:25",
@@ -2803,6 +2819,462 @@
       "duration_ms": 181454,
       "name": "Disc\u00falpame por favor",
       "url": "https://open.spotify.com/track/5cdp1jlB5RDbywqL9Kaiuk"
+    },
+    {
+      "added_at": "2025-12-22 09:18:46",
+      "album": {
+        "name": "When You Found Him",
+        "url": "https://open.spotify.com/album/7hieI6F3OVDNR27FnGnghc"
+      },
+      "artists": [
+        {
+          "name": "Denny Haze",
+          "url": "https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1"
+        }
+      ],
+      "duration_ms": 219279,
+      "name": "When You Found Him",
+      "url": "https://open.spotify.com/track/4Uby1hQRDJmrr2s9ZCjupQ"
+    },
+    {
+      "added_at": "2025-12-22 09:18:54",
+      "album": {
+        "name": "Hoarfrost on the Leaves",
+        "url": "https://open.spotify.com/album/0ssYYWQ1coLTD2U4QedwoZ"
+      },
+      "artists": [
+        {
+          "name": "Nik & Kat",
+          "url": "https://open.spotify.com/artist/5RIdtHfccAeXNQJ42OtvYR"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Hoarfrost on the Leaves",
+      "url": "https://open.spotify.com/track/4rh2luTj2JgaUjCLMs87nq"
+    },
+    {
+      "added_at": "2025-12-22 09:19:27",
+      "album": {
+        "name": "Simulation 1",
+        "url": "https://open.spotify.com/album/5uVyeKGwTwVCaRBiKhJ7Rt"
+      },
+      "artists": [
+        {
+          "name": "Rian KF",
+          "url": "https://open.spotify.com/artist/12Dx6feH6TLh2qjXnxT5mu"
+        },
+        {
+          "name": "Holly Lee Jones",
+          "url": "https://open.spotify.com/artist/1lhYuMgpOjrG7D1iBWD9Co"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Simulation 1",
+      "url": "https://open.spotify.com/track/41xuNZSih3uCTs0hpk1AEg"
+    },
+    {
+      "added_at": "2025-12-22 09:19:33",
+      "album": {
+        "name": "Last goodbye",
+        "url": "https://open.spotify.com/album/7wA0mOThGfDXOBy4boUHpV"
+      },
+      "artists": [
+        {
+          "name": "Amovura",
+          "url": "https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq"
+        }
+      ],
+      "duration_ms": 243839,
+      "name": "Last goodbye",
+      "url": "https://open.spotify.com/track/6O9SFmIBLtzo4TfnWoxt4g"
+    },
+    {
+      "added_at": "2025-12-22 09:19:47",
+      "album": {
+        "name": "Come for You",
+        "url": "https://open.spotify.com/album/4mvzVDqpeeJccInD7wqylR"
+      },
+      "artists": [
+        {
+          "name": "Adrian Wang",
+          "url": "https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty"
+        }
+      ],
+      "duration_ms": 163279,
+      "name": "Come for You",
+      "url": "https://open.spotify.com/track/3WcUaI6OlsVjte1AcW5ZA7"
+    },
+    {
+      "added_at": "2025-12-22 09:20:16",
+      "album": {
+        "name": "Le moi d'autrefois",
+        "url": "https://open.spotify.com/album/4RBJIuW9MoQYewURJp0epK"
+      },
+      "artists": [
+        {
+          "name": "Machteld",
+          "url": "https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw"
+        }
+      ],
+      "duration_ms": 304197,
+      "name": "Le moi d'autrefois",
+      "url": "https://open.spotify.com/track/5Ahz9MMcUJKgi40U0aVSEY"
+    },
+    {
+      "added_at": "2025-12-22 09:20:24",
+      "album": {
+        "name": "Je suis une femme",
+        "url": "https://open.spotify.com/album/6LUj1exFNYytrCKKkoHEpU"
+      },
+      "artists": [
+        {
+          "name": "Machteld",
+          "url": "https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw"
+        }
+      ],
+      "duration_ms": 220179,
+      "name": "Je suis une femme",
+      "url": "https://open.spotify.com/track/2KabSGFaRYzlp6Xbk88eqt"
+    },
+    {
+      "added_at": "2025-12-22 15:31:54",
+      "album": {
+        "name": "Heartbreak Saved My Life",
+        "url": "https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13"
+      },
+      "artists": [
+        {
+          "name": "Dina Renee",
+          "url": "https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Heartbreak Saved My Life",
+      "url": "https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H"
+    },
+    {
+      "added_at": "2025-12-22 15:32:00",
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 218344,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2"
+    },
+    {
+      "added_at": "2025-12-22 15:32:04",
+      "album": {
+        "name": "V\u00c9RTIGO",
+        "url": "https://open.spotify.com/album/7FXggzAzbARGWAvJ6NGJQn"
+      },
+      "artists": [
+        {
+          "name": "Xems",
+          "url": "https://open.spotify.com/artist/0mcMnJkwai2rCLJnEpzOQZ"
+        }
+      ],
+      "duration_ms": 156257,
+      "name": "V\u00c9RTIGO",
+      "url": "https://open.spotify.com/track/6TnhauHZg1WOmTdHYAY7nl"
+    },
+    {
+      "added_at": "2025-12-22 15:32:25",
+      "album": {
+        "name": "It's Been A Year",
+        "url": "https://open.spotify.com/album/2ea8M9j1kcqXw444mZbuwA"
+      },
+      "artists": [
+        {
+          "name": "Jane Marie",
+          "url": "https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3"
+        },
+        {
+          "name": "Jessica Mia",
+          "url": "https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5"
+        }
+      ],
+      "duration_ms": 221997,
+      "name": "It's Been A Year",
+      "url": "https://open.spotify.com/track/635ncU7KUrv7RLKzOUFasu"
+    },
+    {
+      "added_at": "2025-12-22 15:32:33",
+      "album": {
+        "name": "Kali Was Right About You",
+        "url": "https://open.spotify.com/album/623mi3Iwh3GVVimTgSEbGF"
+      },
+      "artists": [
+        {
+          "name": "Grae Taylor",
+          "url": "https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Kali Was Right About You",
+      "url": "https://open.spotify.com/track/3U5JmWFAPrhnQeslCwHby5"
+    },
+    {
+      "added_at": "2025-12-22 18:31:10",
+      "album": {
+        "name": "One Big Love",
+        "url": "https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6"
+      },
+      "artists": [
+        {
+          "name": "Maria Maltseva",
+          "url": "https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf"
+        }
+      ],
+      "duration_ms": 225465,
+      "name": "One Big Love",
+      "url": "https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx"
+    },
+    {
+      "added_at": "2025-12-22 18:31:16",
+      "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "duration_ms": 238552,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ"
+    },
+    {
+      "added_at": "2025-12-22 18:31:21",
+      "album": {
+        "name": "I Hate Pumpkin Spice",
+        "url": "https://open.spotify.com/album/5C5UNXG03v8K9LeD6gHhFr"
+      },
+      "artists": [
+        {
+          "name": "Kama Linden",
+          "url": "https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS"
+        }
+      ],
+      "duration_ms": 240692,
+      "name": "I Hate Pumpkin Spice",
+      "url": "https://open.spotify.com/track/1BwGrUBSF3ceevdwZL71Cn"
+    },
+    {
+      "added_at": "2025-12-22 18:31:31",
+      "album": {
+        "name": "Last Trip to Maine",
+        "url": "https://open.spotify.com/album/03sUBCZPY3hQvce5Fv6fet"
+      },
+      "artists": [
+        {
+          "name": "Tanner Boyle",
+          "url": "https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "Last Trip to Maine",
+      "url": "https://open.spotify.com/track/0BuxbfUfPYdJngSFW95Qu6"
+    },
+    {
+      "added_at": "2025-12-22 18:31:45",
+      "album": {
+        "name": "Phantom Weight",
+        "url": "https://open.spotify.com/album/17J9feK1my3d9695vldjVq"
+      },
+      "artists": [
+        {
+          "name": "Somehow Still",
+          "url": "https://open.spotify.com/artist/2Aq4kxpeIpszxCKwgoJwae"
+        }
+      ],
+      "duration_ms": 201415,
+      "name": "Phantom Weight",
+      "url": "https://open.spotify.com/track/1d9W6uREzwaawiVwsUKfMT"
+    },
+    {
+      "added_at": "2025-12-22 18:31:48",
+      "album": {
+        "name": "Bucks County",
+        "url": "https://open.spotify.com/album/5CwcyeEYyhy2pYlJhZnKTL"
+      },
+      "artists": [
+        {
+          "name": "Paul Marturano",
+          "url": "https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA"
+        }
+      ],
+      "duration_ms": 252353,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/0ARCZiCkfh5zKlNN3IvOp7"
+    },
+    {
+      "added_at": "2025-12-22 18:31:50",
+      "album": {
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/78mlaTFw8UjB3ZnUwOimWe"
+      },
+      "artists": [
+        {
+          "name": "Nacho Sarmiento",
+          "url": "https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr"
+        }
+      ],
+      "duration_ms": 245765,
+      "name": "La Nostalgia",
+      "url": "https://open.spotify.com/track/0eaTPF1POdIbqEpIa1vMHn"
+    },
+    {
+      "added_at": "2025-12-22 18:32:03",
+      "album": {
+        "name": "You are the One (Radio Edit)",
+        "url": "https://open.spotify.com/album/3rkqxkNEBNuESSSeWPTKwz"
+      },
+      "artists": [
+        {
+          "name": "Martin Music",
+          "url": "https://open.spotify.com/artist/5Y1uMD9d4HYryBiBvhssUW"
+        }
+      ],
+      "duration_ms": 234422,
+      "name": "You are the One - Radio Edit",
+      "url": "https://open.spotify.com/track/1HABHQzYK4TPCcmqy4vqpI"
+    },
+    {
+      "added_at": "2025-12-22 18:32:11",
+      "album": {
+        "name": "Summer days",
+        "url": "https://open.spotify.com/album/1t1UpetlINbJ71govZlfUx"
+      },
+      "artists": [
+        {
+          "name": "Jivarp",
+          "url": "https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8"
+        }
+      ],
+      "duration_ms": 170086,
+      "name": "Summer days",
+      "url": "https://open.spotify.com/track/62kvla2cqvJWEIDckj5bAD"
+    },
+    {
+      "added_at": "2025-12-22 18:32:22",
+      "album": {
+        "name": "Volver a Brillar",
+        "url": "https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN"
+      },
+      "artists": [
+        {
+          "name": "10 A.M.",
+          "url": "https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz"
+        }
+      ],
+      "duration_ms": 291428,
+      "name": "Volver a Brillar",
+      "url": "https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI"
+    },
+    {
+      "added_at": "2025-12-22 18:32:24",
+      "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/627VjkYMsdK6hDkAObIp8R"
+      },
+      "artists": [
+        {
+          "name": "10 A.M.",
+          "url": "https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz"
+        }
+      ],
+      "duration_ms": 222762,
+      "name": "Insomnio",
+      "url": "https://open.spotify.com/track/6tkYKcPQSNMN1f4CEX8t98"
+    },
+    {
+      "added_at": "2025-12-22 21:16:25",
+      "album": {
+        "name": "I RAGAZZI DEL 2020",
+        "url": "https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8"
+      },
+      "artists": [
+        {
+          "name": "SULABU",
+          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+        }
+      ],
+      "duration_ms": 271244,
+      "name": "I RAGAZZI DEL 2020",
+      "url": "https://open.spotify.com/track/4KqNZui4229o3aQu6i175G"
+    },
+    {
+      "added_at": "2025-12-22 21:16:43",
+      "album": {
+        "name": "Sen Bana Hep Yazs\u0131n",
+        "url": "https://open.spotify.com/album/6fjHwVuhiFjDoQMZM1GFVi"
+      },
+      "artists": [
+        {
+          "name": "Ers \u00d6zl\u00fc",
+          "url": "https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Sen Bana Hep Yazs\u0131n",
+      "url": "https://open.spotify.com/track/4raQYXieEX8ueVDYOOswGM"
+    },
+    {
+      "added_at": "2025-12-22 21:16:56",
+      "album": {
+        "name": "Don't Tell Mary",
+        "url": "https://open.spotify.com/album/754oFY4ZwA8fFXsPzvA67E"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "duration_ms": 171359,
+      "name": "Don't Tell Mary",
+      "url": "https://open.spotify.com/track/05hAnLiPMxKUWrHADwEIQF"
+    },
+    {
+      "added_at": "2025-12-22 21:17:07",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4X4zHAPSmIQKbq3jIALsD4"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "duration_ms": 304166,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0Mo5Ew2MjIgmjCKl1gzqS8"
+    },
+    {
+      "added_at": "2025-12-22 21:17:12",
+      "album": {
+        "name": "Donde si me ven (ORIGINAL MOTION PICTURE SOUNDTRACK)",
+        "url": "https://open.spotify.com/album/1KJyTxSNBCk8EekuPygSVr"
+      },
+      "artists": [
+        {
+          "name": "Javier Casado Sudupe",
+          "url": "https://open.spotify.com/artist/0d1cEiheBmn636OPS7LkLL"
+        }
+      ],
+      "duration_ms": 205175,
+      "name": "Que bonito es reir",
+      "url": "https://open.spotify.com/track/7LN0WRzh7pasU0uBppJbXh"
     }
   ],
   "unique_name": "New Indie Music",

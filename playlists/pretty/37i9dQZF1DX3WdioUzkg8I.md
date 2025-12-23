@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 
 > Relaxing music and sounds for sleeping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,036 likes - 106 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,202 likes - 106 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 | 6 | [Recurrence](https://open.spotify.com/track/5cfaj5if1pr3lju6l6IlmR) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Recurrence](https://open.spotify.com/album/25v4Zjjg6TbMPcAFAPA50W) | 2:32 |
 | 7 | [Nautica](https://open.spotify.com/track/0chPcJHRNvBJfq8SOwoVHV) | [Zooids](https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ) | [Nautica](https://open.spotify.com/album/6AuvwZNSnUwD2OCn5Ga3iY) | 2:35 |
 | 8 | [Silencio](https://open.spotify.com/track/0JkFrHyb99Dv1KJCpNaYgV) | [Inner Calmness](https://open.spotify.com/artist/6z2B2eDqa7fRZM8Kvb2BXT) | [Silencio](https://open.spotify.com/album/2sUXUbtuhBjo6ZEII0iFG3) | 2:24 |
-| 9 | [Moon](https://open.spotify.com/track/6yP5AdJr1MbUsyxvXysWeV) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Moon](https://open.spotify.com/album/5nKnu3VwdQSxYsbuakJWfj) | 2:27 |
-| 10 | [Hidden Haven](https://open.spotify.com/track/28ITxu6IQPaK5R2PtLMX2x) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [Hidden Haven](https://open.spotify.com/album/10c3eVT3mhqp46vKUmI7Sf) | 2:48 |
-| 11 | [Song for You](https://open.spotify.com/track/20v3MJLKuVwMjAfXlCkVvY) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [Song for You](https://open.spotify.com/album/6MAOc8ruWuzxdXztcNiCzO) | 2:55 |
-| 12 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 |
-| 13 | [Umbra Drift](https://open.spotify.com/track/000s9f5nwcBPFwZ34ERa3N) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Umbra Drift](https://open.spotify.com/album/5FwuSVGQ8G9BTKepTlKBZd) | 2:30 |
-| 14 | [Emerald Green](https://open.spotify.com/track/2XYPrVNuMcOq9nhpr2xPEh) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [Emerald Green](https://open.spotify.com/album/54yde117GS26RlCZuZFlzz) | 2:48 |
+| 9 | [Hidden Haven](https://open.spotify.com/track/28ITxu6IQPaK5R2PtLMX2x) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [Hidden Haven](https://open.spotify.com/album/10c3eVT3mhqp46vKUmI7Sf) | 2:48 |
+| 10 | [Emerald Green](https://open.spotify.com/track/2XYPrVNuMcOq9nhpr2xPEh) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [Emerald Green](https://open.spotify.com/album/54yde117GS26RlCZuZFlzz) | 2:48 |
+| 11 | [Moon](https://open.spotify.com/track/6yP5AdJr1MbUsyxvXysWeV) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Moon](https://open.spotify.com/album/5nKnu3VwdQSxYsbuakJWfj) | 2:27 |
+| 12 | [Song for You](https://open.spotify.com/track/20v3MJLKuVwMjAfXlCkVvY) | [Quies Mentis](https://open.spotify.com/artist/7qUboETECQdDdZ5Nzmb5IT) | [Song for You](https://open.spotify.com/album/6MAOc8ruWuzxdXztcNiCzO) | 2:55 |
+| 13 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 |
+| 14 | [Umbra Drift](https://open.spotify.com/track/000s9f5nwcBPFwZ34ERa3N) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Umbra Drift](https://open.spotify.com/album/5FwuSVGQ8G9BTKepTlKBZd) | 2:30 |
 | 15 | [Hypnotic Haze](https://open.spotify.com/track/5JzCiW2ATf3ZtRxyh1D2oG) | [Silk & Calm](https://open.spotify.com/artist/7n025q4PWMCRR4KnTPYMWS) | [Hypnotic Haze](https://open.spotify.com/album/6lHhOjRyJkCVyF6irpWD92) | 3:23 |
 | 16 | [Now's the Time](https://open.spotify.com/track/79hwJyLWHJaT3hMyYtHGUJ) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Now's the Time](https://open.spotify.com/album/62kUYG0I5wi25EiTaUEzGb) | 2:44 |
 | 17 | [Into The Blue](https://open.spotify.com/track/4QH4ls0tVdbUH3evVX9QJb) | [Mira Cadence](https://open.spotify.com/artist/7v9rysfm8v7XWFuyUdI2YI) | [Into The Blue](https://open.spotify.com/album/2YUzwInPRcLHso83NePGgC) | 2:38 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WdioUzkg8I.md) - [plain]
 | 105 | [Vilán](https://open.spotify.com/track/6Qsxgw4T1okHKm2oPkLOxC) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Vilán](https://open.spotify.com/album/0KtmA9WEB6qOALuKvLrvY5) | 2:51 |
 | 106 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 |
 
-Snapshot ID: `AAAAAMjQsF37+MvEKOL4hdXPxTCT9k2Y`
+Snapshot ID: `AAAAAOQESZh3LowK2KzjDiWbUFGVLZpO`

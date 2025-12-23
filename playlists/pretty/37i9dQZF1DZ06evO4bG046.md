@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,941 likes - 50 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,946 likes - 50 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hijos de la Tierra](https://open.spotify.com/track/32NczfSMSbB340CEvtwYhq) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 4:56 |
-| 2 | [Sube a Nacer Conmigo Hermano](https://open.spotify.com/track/3EvvlSne1RKjPYJsi1qKpl) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 4:46 |
+| 1 | [Sube a Nacer Conmigo Hermano](https://open.spotify.com/track/3EvvlSne1RKjPYJsi1qKpl) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 4:46 |
+| 2 | [Hijos de la Tierra](https://open.spotify.com/track/32NczfSMSbB340CEvtwYhq) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Hijos de la Tierra](https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0) | 4:56 |
 | 3 | [Mira Niñita \- 2020 Remasterizado](https://open.spotify.com/track/1rGtk9RA9tX52rB1YNkUmX) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 7:01 |
 | 4 | [La Conquistada](https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:13 |
 | 5 | [Mambo de Machaguay](https://open.spotify.com/track/0Rcdp0qyqZN5peE2hg8rH5) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 4:56 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 34 | [Que o la Tumba Serás](https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn) | 3:22 |
 | 35 | [La Centinela \- Versión 1997](https://open.spotify.com/track/0nYOSO5oocI5qHJn8JupIa) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:04 |
 | 36 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
-| 37 | [La Quebrá del Ají \- 2020 Remasterizado](https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:43 |
-| 38 | [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 |
+| 37 | [Canción para los Pájaros](https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 3:25 |
+| 38 | [La Quebrá del Ají \- 2020 Remasterizado](https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:43 |
 | 39 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 6:01 |
 | 40 | [Foto de Primera Comunión](https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [El Volantín](https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn) | 6:34 |
 | 41 | [Si Tú No Estás](https://open.spotify.com/track/32R26AXFfke6v6eSEive5q) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 3:45 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 45 | [Bebida Mágica](https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 2:59 |
 | 46 | [Arrebol](https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 6:48 |
 | 47 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
-| 48 | [Desde un barrial](https://open.spotify.com/track/33D9BtmWwgZbgGy9MPoTVQ) | [Daniel Muñoz y Los Marujos](https://open.spotify.com/artist/2zdf3UcWTcVW6hHqAm100D), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [También es Cueca](https://open.spotify.com/album/72RxJeScj7hMsGKl8OP9Wu) | 5:41 |
-| 49 | [Niña Serrana](https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:17 |
+| 48 | [Niña Serrana](https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Si Tú No Estás](https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv) | 4:17 |
+| 49 | [Desde un barrial](https://open.spotify.com/track/33D9BtmWwgZbgGy9MPoTVQ) | [Daniel Muñoz y Los Marujos](https://open.spotify.com/artist/2zdf3UcWTcVW6hHqAm100D), [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [También es Cueca](https://open.spotify.com/album/72RxJeScj7hMsGKl8OP9Wu) | 5:41 |
 | 50 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 |
 
-Snapshot ID: `aUXnAAAAAAA9BneuwM5zdw9C4zUEuHAU`
+Snapshot ID: `aUc4gAAAAABgjxNq3wdV57M0OT8yysJ+`

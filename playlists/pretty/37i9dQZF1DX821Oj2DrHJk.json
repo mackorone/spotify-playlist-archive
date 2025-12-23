@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 31495,
+  "num_followers": 31492,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Bachman-Turner Overdrive II",
-        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Takin' Care Of Business",
-      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Bachman-Turner Overdrive II",
+        "url": "https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Takin' Care Of Business",
+      "url": "https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1356,9 +1356,9 @@
           "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 380080,
-      "name": "Money - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO"
+      "duration_ms": 422853,
+      "name": "Time - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 422853,
-      "name": "Time - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/4xHWH1jwV5j4mBYRhxPbwZ"
+      "duration_ms": 380080,
+      "name": "Money - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/7Gx2q0ueNwvDp2BOZYGCMO"
     },
     {
       "added_at": "2024-07-12 14:53:15",

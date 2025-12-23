@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,081 likes - 90 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,116 likes - 90 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

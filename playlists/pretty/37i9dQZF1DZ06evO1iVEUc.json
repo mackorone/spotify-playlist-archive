@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACWlpHH28oNRE7BtLMX0QFI",
+  "snapshot_id": "aUc4gAAAAACyDxSMEXQm/+HXkV/dfAhf",
   "tracks": [
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+        }
+      ],
+      "duration_ms": 290093,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Wanna Thank Ya",
         "url": "https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 227133,
       "name": "I Wanna Thank Ya (feat. Snoop Dogg) - Radio Edit",
       "url": "https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "London Ko",
-        "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 202409,
-      "name": "Somaw",
-      "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
     },
     {
       "added_at": null,
@@ -407,22 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
+        "name": "London Ko",
+        "url": "https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         },
         {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
         }
       ],
-      "duration_ms": 290093,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI"
+      "duration_ms": 202409,
+      "name": "Somaw",
+      "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 237569,
       "name": "2 Bad Habits",
       "url": "https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 241466,
       "name": "Stay For A While (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets - Love & Soul",
-        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 289271,
-      "name": "Love TKO",
-      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Love",
         "url": "https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB"
       },
@@ -631,22 +611,6 @@
       "duration_ms": 236533,
       "name": "U-Haul",
       "url": "https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Love & War",
-        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
     },
     {
       "added_at": null,
@@ -667,22 +631,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
+        "name": "The Art of Love & War",
+        "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        },
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 238220,
-      "name": "Gonna Have to Be You",
-      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
+      "duration_ms": 212306,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets - Love & Soul",
+        "url": "https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 289271,
+      "name": "Love TKO",
+      "url": "https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD"
     },
     {
       "added_at": null,
@@ -723,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Love",
-        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6KhoIz4SDYW5zEnl0O9bRB"
       },
       "artists": [
         {
           "name": "Angie Stone",
           "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
         }
       ],
-      "duration_ms": 214866,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
+      "duration_ms": 238220,
+      "name": "Gonna Have to Be You",
+      "url": "https://open.spotify.com/track/0yKtPIRrUjoATLNNXmJcbq"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
       "duration_ms": 206800,
       "name": "Backup Plan",
       "url": "https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Love",
+        "url": "https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 214866,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 195211,
-      "name": "Dollar Bill",
-      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 82866,
       "name": "Go Back To Your Life",
       "url": "https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 195211,
+      "name": "Dollar Bill",
+      "url": "https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Red, Red Wine",
+      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 243641,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Red, Red Wine",
-      "url": "https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t"
     },
     {
       "added_at": null,

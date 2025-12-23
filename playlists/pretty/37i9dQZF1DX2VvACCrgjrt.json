@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Dillon Francis & Marten H\u00f8rger",
-  "num_followers": 1317206,
+  "num_followers": 1317108,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2025-12-19 05:00:28",
       "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
         "name": "SPEND IT",
         "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 144023,
       "name": "SPEND IT",
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
-    },
-    {
-      "added_at": "2025-12-19 05:00:28",
-      "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
       "added_at": "2025-12-19 05:00:28",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2025-12-19 05:00:28",
       "album": {
-        "name": "Aha",
-        "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "RELOVA",
-          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
-        }
-      ],
-      "duration_ms": 215538,
-      "name": "Aha",
-      "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
-    },
-    {
-      "added_at": "2025-12-19 05:00:28",
-      "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/7thf9ZyAqB7tX6jQbcSse8"
       },
@@ -1735,26 +1715,6 @@
     {
       "added_at": "2025-12-19 05:00:28",
       "album": {
-        "name": "Sweating",
-        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
-      },
-      "artists": [
-        {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 207425,
-      "name": "Sweating",
-      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
-    },
-    {
-      "added_at": "2025-12-19 05:00:28",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -1771,6 +1731,46 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
+        "name": "Aha",
+        "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "RELOVA",
+          "url": "https://open.spotify.com/artist/2Q5CZXc158WHwKp1rYOfSn"
+        }
+      ],
+      "duration_ms": 215538,
+      "name": "Aha",
+      "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
+    },
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
+        "name": "Sweating",
+        "url": "https://open.spotify.com/album/4lUxgBpLj0JI2idSM1dz3F"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 207425,
+      "name": "Sweating",
+      "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
     },
     {
       "added_at": "2025-12-19 05:00:28",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2025-12-19 05:00:28",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 140654,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
+    },
+    {
+      "added_at": "2025-12-19 05:00:28",
+      "album": {
         "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
         "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 192157,
       "name": "Bus Stop Please - David Guetta & Morten Future Rave Remix",
       "url": "https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn"
-    },
-    {
-      "added_at": "2025-12-19 05:00:28",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 140654,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
     },
     {
       "added_at": "2025-12-19 05:00:28",

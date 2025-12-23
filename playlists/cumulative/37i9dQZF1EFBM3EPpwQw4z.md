@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 8 hr 42 min
+150 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Big Emotion](https://open.spotify.com/track/2yXpN0Rz2KTny9J5BxwYFz) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Big Emotion](https://open.spotify.com/album/6Vaq9DZUC7HdLcyQqhNbrE) | 2:36 | 2023-12-30 |  |
 | [Birds & Cows](https://open.spotify.com/track/30mqjDr0VXmacFCg7RiuBV) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 1:18 | 2023-12-30 |  |
 | [Body Close](https://open.spotify.com/track/6RR5V7V3UGQxNpXDKb7sHH) | [KLP](https://open.spotify.com/artist/6kt5epwyP7rF3UNkTvKZZY) | [Body Close](https://open.spotify.com/album/3C1v2E4gAbTbCk71KQJCSH) | 3:39 | 2023-12-30 |  |
+| [Bullshit](https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Bullshit](https://open.spotify.com/album/1FEG75sVtJaV52VciyVB4y) | 2:58 | 2025-12-22 |  |
 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 | 2023-12-30 |  |
 | [Can We Do it Again](https://open.spotify.com/track/2oW3fm5g5cU7hpyv4gXjmQ) | [The Coconut Wireless](https://open.spotify.com/artist/1zKotRGXnrhpFnu9j8sm3p) | [Go High \- EP](https://open.spotify.com/album/6fap0Bxt7gcmld4aEdWt2N) | 6:07 | 2023-12-30 | 2025-07-24 |
 | [Can't Handle](https://open.spotify.com/track/4kKnH0GW0QVmh8mEU7M0gZ) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Can't Handle](https://open.spotify.com/album/3YVp1lUugOzUDOeouNSXsM) | 2:45 | 2023-12-30 |  |

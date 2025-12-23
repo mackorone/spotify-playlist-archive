@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,822,265 likes - 151 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,823,082 likes - 151 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 4 | [Arabesco](https://open.spotify.com/track/3KCoT5LkFQKWoHV1rTCjkP) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Arabesco](https://open.spotify.com/album/20UIGNg9E4ABmFNNT4w2yp) | 2:35 |
 | 5 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 |
 | 6 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 |
-| 7 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
-| 8 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
+| 7 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
+| 8 | [Contemplating the Horizon](https://open.spotify.com/track/0YWCYAFinPOcx2CHG0bwr3) | [Saverio Lobeone](https://open.spotify.com/artist/0nAp5pLclY53Fdzm3cdm5N) | [Contemplating the Horizon](https://open.spotify.com/album/1MUae59pDReQvn12s6UsUD) | 2:41 |
 | 9 | [Arbor](https://open.spotify.com/track/0BDaM0EnJiCl6jmWAIERk3) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Arbor](https://open.spotify.com/album/3UqI8H7dI34eg3yTf7aa1C) | 2:35 |
 | 10 | [Silence](https://open.spotify.com/track/0ve3BKlLTiWplrSO9Jgs0o) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Silence](https://open.spotify.com/album/7c9rPpBSgHzESsbojRkiqi) | 2:17 |
-| 11 | [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 |
-| 12 | [Silent Currents](https://open.spotify.com/track/14ef9hqfpbc1aLkDs9gnf8) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [Silent Currents](https://open.spotify.com/album/1DX172AwlZMpWRtCrT9M7p) | 2:02 |
+| 11 | [Silent Currents](https://open.spotify.com/track/14ef9hqfpbc1aLkDs9gnf8) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [Silent Currents](https://open.spotify.com/album/1DX172AwlZMpWRtCrT9M7p) | 2:02 |
+| 12 | [Signs](https://open.spotify.com/track/6X9DrQLnANiUyPEZxq5f1L) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Signs](https://open.spotify.com/album/6Rm5rAz1KDJZd2foaHOQVP) | 2:06 |
 | 13 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 |
-| 14 | [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 |
-| 15 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 |
+| 14 | [Éveil](https://open.spotify.com/track/2brRgCl1LHEDuwMjFxp8s5) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Éveil](https://open.spotify.com/album/3A3g8Hg3Y2y42uG7BmDoft) | 2:54 |
+| 15 | [Light](https://open.spotify.com/track/4XOrreh4CufJwuUg3p7DuR) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Light](https://open.spotify.com/album/67fKGoAizybPTMM2l27bpP) | 2:47 |
 | 16 | [Daydream](https://open.spotify.com/track/5LAptbUhdbsbUUhoV3Q1Oy) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Daydream](https://open.spotify.com/album/0JHgCYQ3U5OoLfiDC6Pjib) | 2:21 |
 | 17 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 |
 | 18 | [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4sWSpwq3LiO.md) - [plain]
 | 150 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 |
 | 151 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 |
 
-Snapshot ID: `AAAAAKhkQX4UjlTzndX1yvIQuvwx5xYB`
+Snapshot ID: `AAAAAMpEB294qDbwMRHICL19d3Ttm0Yf`

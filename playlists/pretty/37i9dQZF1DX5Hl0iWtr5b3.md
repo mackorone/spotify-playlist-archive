@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Even a wallflower can bloom...Listen to the music from Bridgerton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,306 likes - 108 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,587,394 likes - 108 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 17 | [Halo](https://open.spotify.com/track/74N9z23qZd1q3rViChUdB7) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 2:53 |
 | 18 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
 | 19 | [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 |
-| 20 | [I Will Always Love You](https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:45 |
-| 21 | [Wrecking Ball](https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe) | [Midnite String Quartet](https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:53 |
+| 20 | [Wrecking Ball](https://open.spotify.com/track/0AhsYyKYi2J6w9rqP93DSe) | [Midnite String Quartet](https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 3:53 |
+| 21 | [I Will Always Love You](https://open.spotify.com/track/1Pz0hDCAXTTfcpNT5YrufQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:45 |
 | 22 | [Nobody Gets Me](https://open.spotify.com/track/02xryujVOT8wOxSxCfGG9M) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 4:05 |
 | 23 | [What About Us](https://open.spotify.com/track/2lQgiAms2b5vLQMZZ0ypQk) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:51 |
 | 24 | [Sign of the Times \- Stripped](https://open.spotify.com/track/0uaJBwwtP6FMqdDpHYNOk0) | [Steve Horner](https://open.spotify.com/artist/0mRwlobkMJCn8G51R9oYZw) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:39 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 107 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 108 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `AAAAAEFWy+C5zvuyxo2HKhC3o7jVOP7Y`
+Snapshot ID: `AAAAAOO5sBaR87tjG3Ez/ERTmli7vN9X`

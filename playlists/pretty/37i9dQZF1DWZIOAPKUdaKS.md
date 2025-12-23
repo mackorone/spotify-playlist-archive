@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,904 likes - 151 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,919 likes - 151 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,20 +13,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 3 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 |
 | 4 | [Snowbound](https://open.spotify.com/track/1lXxNuOJFycQjvpxkXWhLR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Snowbound](https://open.spotify.com/album/2WoOWPF3LpfoGLCXtGpXIf) | 2:15 |
 | 5 | [Alder](https://open.spotify.com/track/2TuPzUCUfmhh1d3lqn0DWJ) | [Finn Dubois](https://open.spotify.com/artist/2ek3AbMb8PTzYmJP69gpBE) | [Alder](https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl) | 2:59 |
-| 6 | [Berceuse](https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Berceuse](https://open.spotify.com/album/293aezBYCKLx6osj7IL3od) | 2:43 |
-| 7 | [All Worth It](https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [All Worth It](https://open.spotify.com/album/5jkl9jH5W4cXNzAWkN3Giu) | 2:07 |
+| 6 | [All Worth It](https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [All Worth It](https://open.spotify.com/album/5jkl9jH5W4cXNzAWkN3Giu) | 2:07 |
+| 7 | [Berceuse](https://open.spotify.com/track/2jNoAlNnlAEKHvl8NSe6Yg) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [Berceuse](https://open.spotify.com/album/293aezBYCKLx6osj7IL3od) | 2:43 |
 | 8 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
 | 9 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
-| 10 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 |
-| 11 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
+| 10 | [Conversations](https://open.spotify.com/track/5iU1vfBMdbpGj1QT3sPcy8) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Conversations](https://open.spotify.com/album/4aYNTrTcQisJeqN1xZuBOn) | 2:53 |
+| 11 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 |
 | 12 | [The right direction](https://open.spotify.com/track/1FSjVUQVSg4SDlQBEHohVI) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [The right direction](https://open.spotify.com/album/4rjamANRGSZLJ7JVLF8ujO) | 2:08 |
 | 13 | [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 |
 | 14 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 |
-| 15 | [Easy](https://open.spotify.com/track/6LNFiSpVmqEVftSp9t8lOG) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Easy](https://open.spotify.com/album/5eX6PGC2LjvecY3SKWtSYW) | 2:34 |
-| 16 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 |
-| 17 | [Just This Moment](https://open.spotify.com/track/37Tr5q6ySaPvAt6zrRo7qG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Just This Moment](https://open.spotify.com/album/0Fh6shU6TT9Mb855NhUuGB) | 2:33 |
-| 18 | [Until Tomorrow](https://open.spotify.com/track/0HZeeAL2SxHYJT1Hs4YkOy) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Until Tomorrow](https://open.spotify.com/album/0PoA8WrLTYKVD38cWqzoeB) | 2:38 |
-| 19 | [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 |
+| 15 | [Floating down the river](https://open.spotify.com/track/5MNItTInmQ6ouf1Ap6kJbi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Floating down the river](https://open.spotify.com/album/3Y12xyD08LirinmcqLC4gX) | 2:13 |
+| 16 | [Easy](https://open.spotify.com/track/6LNFiSpVmqEVftSp9t8lOG) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Easy](https://open.spotify.com/album/5eX6PGC2LjvecY3SKWtSYW) | 2:34 |
+| 17 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 |
+| 18 | [Just This Moment](https://open.spotify.com/track/37Tr5q6ySaPvAt6zrRo7qG) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Just This Moment](https://open.spotify.com/album/0Fh6shU6TT9Mb855NhUuGB) | 2:33 |
+| 19 | [Until Tomorrow](https://open.spotify.com/track/0HZeeAL2SxHYJT1Hs4YkOy) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Until Tomorrow](https://open.spotify.com/album/0PoA8WrLTYKVD38cWqzoeB) | 2:38 |
 | 20 | [Merlin](https://open.spotify.com/track/79bolkNkoFeJHyZJtKvO4t) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Merlin](https://open.spotify.com/album/6L9yZGcgZkrG2F2PfKwToh) | 2:33 |
 | 21 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
 | 22 | [deux amants](https://open.spotify.com/track/5OkRIoF2qGpLy44bmu8yCR) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [deux amants](https://open.spotify.com/album/0CtPECqSOoqmSpNvnFPeiC) | 2:29 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 150 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 |
 | 151 | [Södermalm](https://open.spotify.com/track/2NqMMcqgTtYpAd53apD7aE) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Södermalm](https://open.spotify.com/album/2zti4qLPB9IwBtbG8s2p0C) | 2:02 |
 
-Snapshot ID: `AAAAAF5EDiujhvYvhhaanvt/UGkp2Lbu`
+Snapshot ID: `AAAAAAXw5gBe/ix/K/HBmOT9QLOx1lgZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 
 > Con Man just pulled up to your party!! Crank with maximum intent 🔊
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,890 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,803 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 | 25 | [Get Paid](https://open.spotify.com/track/75yvnRsc1FLebbgnQA6Iec) | [Playa Baghdad](https://open.spotify.com/artist/7qDC0wi5DQZW0cTLj02vIi), [GOME](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Get Paid](https://open.spotify.com/album/701qfn7eSOIr4EUtBM47Ye) | 5:42 |
 | 26 | [I Love London](https://open.spotify.com/track/7j6HqLDQMddPZmONOcVhkZ) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Kitsuné: I Love London \(Bonus Track Version\)](https://open.spotify.com/album/2J24W5mcPK5ovDehJA2fPr) | 2:50 |
 | 27 | [Geht's noch?](https://open.spotify.com/track/7Ep4qBcgxQTa0QwnOrVEa9) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Geht's noch? \(21 Year Anniversary Pt\. 1\)](https://open.spotify.com/album/6KbnDVQVCobouAN8Mkc0B4) | 6:48 |
-| 28 | [Stupidisco](https://open.spotify.com/track/4KTx59iH82Tz2re8cal0IC) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Stupidisco](https://open.spotify.com/album/4jqNi9bjNb92x9xm6UmwbT) | 5:07 |
+| 28 | [Stupidisco \(Radio Edit\)](https://open.spotify.com/track/0r5wNJ8coHaNmCdVztPuZQ) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Stupidisco](https://open.spotify.com/album/4jqNi9bjNb92x9xm6UmwbT) | 3:40 |
 | 29 | [Erotic City \(Make Love Not War Erotic City Come Alive\) \- 12" Version](https://open.spotify.com/track/5x3P7E25ZCxffFgmootGiu) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Let's Go Crazy](https://open.spotify.com/album/0xXldoWWIbRMYKbQIvB8Ry) | 7:20 |
 | 30 | [Everywhere At Once](https://open.spotify.com/track/1Tuxhk6lvw9pqG3rcz5Yv8) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [Time Out Of Joint / Lotus](https://open.spotify.com/album/449ZmLzvQUooSKK1VklH0n) | 6:43 |
 | 31 | [Ilegal \- Remix](https://open.spotify.com/track/0jC32IciBDoSO0cHBBtq11) | [Breezy S](https://open.spotify.com/artist/5SLu6e3JJ3V6VBK6afNB5A) | [Out Of Office \(Forever\)](https://open.spotify.com/album/6Q5jGZOVvgczkSoKb0vUhI) | 6:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 | 49 | [I'm Alive \- 2019 Remaster](https://open.spotify.com/track/7h6uQcrNnQYpKhw9X8VzRl) | [Stretch & Vern](https://open.spotify.com/artist/5lekDOvlVK844FamyTlPgl) | [I'm Alive \(Remastered & Remixed 2019\)](https://open.spotify.com/album/4tSVCPkipLtpMbIpGvSrpH) | 7:15 |
 | 50 | [Loose Fit \- Greg Wilson and Ché Wilson Remix](https://open.spotify.com/track/74WEnaIC25EmUTjO6foLrf) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0), [Ché Wilson](https://open.spotify.com/artist/0TpwHN8cpXYwikImisp8fn), [Greg Wilson](https://open.spotify.com/artist/5b8TksKkFbG2NoVG8d8YDN) | [Loose Fit \(The Remixes\)](https://open.spotify.com/album/7brNwZy9wUVV3snGJt7bZl) | 8:12 |
 
-Snapshot ID: `AAAAAK/IFRoc6mLCqM0FEuY2WjLYvuhi`
+Snapshot ID: `AAAAABiJwgMCL72IutXf5A92hrE7c4wM`

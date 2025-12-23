@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,986 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,989 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 26 | [Qué Pasaría...](https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 3:11 |
 | 27 | [DESEO](https://open.spotify.com/track/7kfgRQbmicsoQyKJOl02xY) | [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye) | [DESEO](https://open.spotify.com/album/66P3fL2StX6rRZowEggZiT) | 3:00 |
 | 28 | [BAILAME ASI](https://open.spotify.com/track/2XsNvTXYuCNCoz94bPBrPB) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [BAILAME ASI](https://open.spotify.com/album/48CrBCrWShTOTUSYQRC12i) | 2:24 |
-| 29 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 |
+| 29 | [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 |
 | 30 | [Mambinho Brasileño](https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Mambinho Brasileño](https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u) | 3:28 |
 | 31 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 32 | [DESCONTROL](https://open.spotify.com/track/6wg4Cy4qOP12tmPYLtFnvI) | [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [EL NUEVO SONIDO](https://open.spotify.com/album/51BDztgpHNIIwixCGx3wku) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [y ke pa \- Remix](https://open.spotify.com/track/2uwWTt4mRTkV1MHAun4JNv) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [y ke pa \(Remix\)](https://open.spotify.com/album/5epR5NpksEBuSGwbYwCLeO) | 3:13 |
 | 50 | [Que Te Vaya Bien](https://open.spotify.com/track/6Sqm0JcOT9tw6Az1dDZ2WC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Que Te Vaya Bien](https://open.spotify.com/album/282kC6Xq03U4wJdaPgXBWa) | 2:55 |
 
-Snapshot ID: `MNtpqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNy40AAAAAAAAAAAAAAAAAAAAAAAAGVu`

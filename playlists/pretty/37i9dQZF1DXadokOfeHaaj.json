@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: TEED",
-  "num_followers": 39453,
+  "num_followers": 39458,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
+        "name": "All You Children",
+        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        }
+      ],
+      "duration_ms": 254142,
+      "name": "All You Children",
+      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+    },
+    {
+      "added_at": "2025-12-17 21:11:41",
+      "album": {
         "name": "CURIOUS (feat. Toro y Moi)",
         "url": "https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2"
       },
@@ -831,22 +851,18 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "All You Children",
-        "url": "https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk"
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 254142,
-      "name": "All You Children",
-      "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
+      "duration_ms": 175748,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
     },
     {
       "added_at": "2025-12-17 21:11:41",
@@ -871,22 +887,6 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
-    },
-    {
-      "added_at": "2025-12-17 21:11:41",
-      "album": {
         "name": "Ask That God",
         "url": "https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "ON&ON",
-        "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 243677,
-      "name": "ON&ON",
-      "url": "https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l"
-    },
-    {
-      "added_at": "2025-12-17 21:11:41",
-      "album": {
         "name": "GIRL I WANT YOU",
         "url": "https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 211653,
       "name": "GIRL I WANT YOU",
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
+    },
+    {
+      "added_at": "2025-12-17 21:11:41",
+      "album": {
+        "name": "ON&ON",
+        "url": "https://open.spotify.com/album/5XqHP80OsGrUtaaQuIvyNh"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 243677,
+      "name": "ON&ON",
+      "url": "https://open.spotify.com/track/69UYgpv6dhNOA5Ld8vjD9l"
     },
     {
       "added_at": "2025-12-17 21:11:41",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "Curve +1",
-        "url": "https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Handsup",
-      "url": "https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz"
-    },
-    {
-      "added_at": "2025-12-17 21:11:41",
-      "album": {
         "name": "Song for You / The Wizard",
         "url": "https://open.spotify.com/album/4nK22U0cwj5m6tzV3plY3l"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 213466,
       "name": "Song for You",
       "url": "https://open.spotify.com/track/0SMFOOsqD1jicOhuorY1vz"
+    },
+    {
+      "added_at": "2025-12-17 21:11:41",
+      "album": {
+        "name": "Curve +1",
+        "url": "https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Handsup",
+      "url": "https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz"
     },
     {
       "added_at": "2025-12-17 21:11:41",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2025-12-17 21:11:41",
+      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 174204,
       "name": "See It As A Sign",
       "url": "https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o"
-    },
-    {
-      "added_at": "2025-12-17 21:11:41",
-      "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2025-12-17 21:11:41",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-17 21:11:41",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 260353,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
-    },
-    {
-      "added_at": "2025-12-17 21:11:41",
-      "album": {
         "name": "Back Of My Mind",
         "url": "https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4"
       },
@@ -1295,6 +1279,26 @@
       "duration_ms": 266505,
       "name": "Back Of My Mind",
       "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
+    },
+    {
+      "added_at": "2025-12-17 21:11:41",
+      "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     }
   ],
   "unique_name": "Indie Electronic ",

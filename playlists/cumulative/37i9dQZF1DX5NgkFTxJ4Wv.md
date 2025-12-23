@@ -4,7 +4,7 @@
 
 > Lush continuous pink noise that will make you sleep all night.
 
-280 songs - 14 hr 38 min
+281 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,10 +155,11 @@
 | [Pink Noise Endless](https://open.spotify.com/track/25WWFVlQtzccvTkmBBwa1g) | [Smoothe Sounds](https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN) | [Pink Noise Slow Down](https://open.spotify.com/album/2QJbHLWT1VaEa1C8cudpw8) | 2:55 | 2023-05-25 |  |
 | [Pink Noise Euphoria \- Seamless](https://open.spotify.com/track/7hqvO3G06EyC89Iq1Z5eYU) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Pink Clouds Syndrome](https://open.spotify.com/album/0TWHhB5Hy6w7Vo6i5gify0) | 3:09 | 2023-10-27 |  |
 | [Pink Noise Fluffatron](https://open.spotify.com/track/2irZ3qugSBoVA0cfLe6ejQ) | [Relaxatron](https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d) | [Fluffiest Pink](https://open.spotify.com/album/6QhI5OqUuOZWdLLFWzs6BI) | 2:41 | 2023-05-25 |  |
-| [Pink Noise for Animals](https://open.spotify.com/track/4gwDUbr1vXd3GGCY1O0GQ1) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Let There Be Pink Noise](https://open.spotify.com/album/4sliGaJWLjaovOHMPXw0xa) | 3:29 | 2023-05-25 |  |
+| [Pink Noise for Animals](https://open.spotify.com/track/4gwDUbr1vXd3GGCY1O0GQ1) | [Lavia 6](https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR) | [Let There Be Pink Noise](https://open.spotify.com/album/4sliGaJWLjaovOHMPXw0xa) | 3:29 | 2023-05-25 | 2025-12-23 |
 | [Pink Noise for Deep Focus](https://open.spotify.com/track/6Xqv07lhFmHP9HRAiu7fH4) | [GLXO](https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK) | [Pink Noise for Deep Focus](https://open.spotify.com/album/30pUEjEtSZdHeHSecH39fR) | 3:25 | 2023-10-27 |  |
 | [Pink Noise for Dreaming](https://open.spotify.com/track/1Tjrhay8eQSfkOcqVh7PiQ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for Dreaming](https://open.spotify.com/album/7nvAnxamuXjGljTTdkZkwl) | 3:13 | 2023-10-27 |  |
 | [Pink Noise for my Nap](https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:32 | 2023-10-27 |  |
+| [Pink Noise for my Soul](https://open.spotify.com/track/3v4kFsrw1MvMINt5EX052q) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Pink Noise for my Soul](https://open.spotify.com/album/5RLvHX31HwU7rAoUVwulYW) | 3:09 | 2025-12-19 |  |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/5EMGZzJMcAhq4D7NT6K0Az) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 2:33 | 2023-05-25 |  |
 | [Pink Noise For Sweet Dreams](https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:44 | 2023-10-27 |  |
 | [Pink Noise for the Library](https://open.spotify.com/track/26fkLJCAeC1RAZe5aM1pZN) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Pink Noise for the Library](https://open.spotify.com/album/0aBPaD8lU8GpXhRRd1vWOD) | 3:15 | 2023-10-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 > This is Ventino\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,080 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,079 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 12 | [Yo Te Quiero Más](https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Yo Te Quiero Más](https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz) | 2:57 |
 | 13 | [Qué Fácil \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:23 |
 | 14 | [Apaga Y Vámonos](https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:28 |
-| 15 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
-| 16 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 |
+| 15 | [La Mitad](https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:36 |
+| 16 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 |
 | 17 | [Equivocarse \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/3jJshgZPbc6glVBW9HLFKf) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 3:08 |
 | 18 | [Si Decides \(Baby\)](https://open.spotify.com/track/12xjRcDTBU9RgLMZePtLop) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ventino](https://open.spotify.com/album/4pAoxsmYFDVqf8jWBihOKz) | 3:08 |
 | 19 | [Don Juan](https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Don Juan](https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281) | 3:36 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 39 | [Dos Tequilas](https://open.spotify.com/track/0orovNGEQw3Uufl1aLV62j) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:59 |
 | 40 | [Te Dejo Entrar](https://open.spotify.com/track/39ME7Co4Z5ETWFhAGBqMhh) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Te Dejo Entrar](https://open.spotify.com/album/7Il8qjMFGj4QT1XLih4Qcp) | 3:12 |
 | 41 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
-| 42 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
+| 42 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 | 43 | [Miénteme](https://open.spotify.com/track/0k7bgW9dTHoQTuR3YfJ5h0) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Inevitables](https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd) | 2:30 |
-| 44 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
+| 44 | [Cuánto Me Duele](https://open.spotify.com/track/2sqYGwxcC33aD3rh35hlOK) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cuánto Me Duele](https://open.spotify.com/album/2JptMMyCWEp3DlNRdVYKwo) | 3:53 |
 | 45 | [Stop](https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Stop](https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1) | 2:43 |
 | 46 | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR) | 3:03 |
 
-Snapshot ID: `aUXnAAAAAABAKmIItvQq7kcwiBoklmKQ`
+Snapshot ID: `aUc4gAAAAACvfBJaNEBmlp0FHyP3PNyR`

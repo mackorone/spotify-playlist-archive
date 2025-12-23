@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Stephen Sanchez and Devi
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,713 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,733 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

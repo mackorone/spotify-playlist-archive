@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 470 likes - 122 songs - 6 hr 48 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 517 likes - 130 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,13 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 120 | [Running Away](https://open.spotify.com/track/39tycuF0unuJqmzJw0EJqI) | [LUKAS R](https://open.spotify.com/artist/0exPooezHP0XsOH5KsQXx4) | [Running Away](https://open.spotify.com/album/40CBcKFeRq54eWM9HquVE8) | 3:22 |
 | 121 | [For Tonight](https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Brother](https://open.spotify.com/album/5RV6Ggi9hnALeXXchpW37O) | 2:29 |
 | 122 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 |
+| 123 | [For A Season](https://open.spotify.com/track/0wpGtY0s0bf7sOGau3zwYx) | [Nicky Jean](https://open.spotify.com/artist/4ecawqe1AHRUfnQeizauYD) | [For A Season](https://open.spotify.com/album/0hsm4XQOLAOPRhKJQRM7tp) | 3:50 |
+| 124 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 |
+| 125 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 |
+| 126 | [Body](https://open.spotify.com/track/6Yocmq2Vsz84eZmgEDEXqj) | [Shay Lowe](https://open.spotify.com/artist/2B2RLN0tbgsZVvMvMgKPhg) | [Body](https://open.spotify.com/album/2aYPD5IdZPTvlzLDcpt486) | 2:40 |
+| 127 | [S.I.T.W](https://open.spotify.com/track/2XfnSLdry08chNzmBE6ZKO) | [JiuLing](https://open.spotify.com/artist/5R4qDx6PY8KuwUVv1cvumY) | [Something in the Water](https://open.spotify.com/album/65fQUzWkrBvAMJBO84gj9r) | 3:27 |
+| 128 | [Real Life Remastered \- Radio Edit](https://open.spotify.com/track/3H4NIqgvUkoIS0xpHxzrWe) | [Dsplita](https://open.spotify.com/artist/6uTaMdfn3QDIAmiPHtVrf0), [Atum Hunter](https://open.spotify.com/artist/390wKFpOpKVEexFMFpOets) | [Real Life Remastered \(Radio Edit\)](https://open.spotify.com/album/0Z6v32MY3YV4tW3dKwSGCy) | 2:53 |
+| 129 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 |
+| 130 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 |
 
-Snapshot ID: `AAAChUz4zz4lDVOensTZudTzzSTNg6VL`
+Snapshot ID: `AAACjWtaQsnsYGKGTt3MMOpp7Y+eLxPA`

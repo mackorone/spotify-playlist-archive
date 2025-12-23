@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: HEALTH
 
-1,774 songs - 4 day 6 hr 35 min
+1,775 songs - 4 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-11 | 2025-04-18 |
 | [Demonic Depression](https://open.spotify.com/track/2zQWT6JUajr5pvoHcqHD0V) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:58 | 2025-06-05 | 2025-07-22 |
 | [DESIRE](https://open.spotify.com/track/3uX2pHEVOthQ63a1IaNwBr) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [DESIRE](https://open.spotify.com/album/4QUh3Ycq5uOvzMLqlQsafb) | 3:15 | 2023-04-20 | 2023-04-28 |
-| [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-11 |  |
+| [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-11 | 2025-12-23 |
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-10-13 |
 | [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 | 2023-12-14 | 2024-02-02 |
 | [Devil In Disguise](https://open.spotify.com/track/25EJEDdf5v9gxyV8jweLrG) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Devil In Disguise](https://open.spotify.com/album/4TzP65zu3xapbdpBqGii7c) | 1:58 | 2023-05-25 | 2023-06-02 |
@@ -1648,6 +1648,7 @@
 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/5RLbFht9k5o0MRcnR4vvWq) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/7FgKndFjCgBXmLl7hcNvRo) | 4:14 | 2023-11-02 | 2023-11-10 |
 | [Wanna Be In A Sad Mood](https://open.spotify.com/track/61ZsLyi4omqZs3H72sm5sb) | [SeN](https://open.spotify.com/artist/55dIWAXagR1CvaSgATGUE1) | [Chloe In My Memories](https://open.spotify.com/album/3jMkyqeHsfveTdu30JyGxn) | 4:14 | 2023-11-02 | 2023-11-04 |
 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-11 | 2024-01-19 |
+| [War](https://open.spotify.com/track/0XJMI2EKsHpaV4kMxz50fD) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [War](https://open.spotify.com/album/5fSYBwDJBzBY8Rf8tEyRej) | 3:05 | 2025-12-18 |  |
 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 | 2023-11-09 | 2024-05-03 |
 | [War Machine](https://open.spotify.com/track/5HrNebS0Z8YJq2xz4zZ9zl) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [War Machine](https://open.spotify.com/album/69gV3gtOzI0kudt8F68tWB) | 3:59 | 2023-10-26 | 2023-11-10 |
 | [Warriors](https://open.spotify.com/track/6SiLb2AJVSRIv7EODUou2d) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Warriors](https://open.spotify.com/album/1VYUoVJpO8mqfNGIzw0FxY) | 3:59 | 2024-06-06 | 2024-07-06 |

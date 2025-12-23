@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 37004,
+  "num_followers": 37028,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADyRId5fZha7HgxOuVqG1QT",
+  "snapshot_id": "aUc4gAAAAAB3xJaOS3SGYzNxYi/YqiVM",
   "tracks": [
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 189880,
-      "name": "Tumbando Ca\u00f1a - Live Version",
-      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
+      "duration_ms": 186173,
+      "name": "La Prendita",
+      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Son las Cosas",
-        "url": "https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi"
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 186173,
-      "name": "La Prendita",
-      "url": "https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE"
+      "duration_ms": 189880,
+      "name": "Tumbando Ca\u00f1a - Live Version",
+      "url": "https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
+      "duration_ms": 135573,
+      "name": "Dos Camionetas",
+      "url": "https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 135573,
-      "name": "Dos Camionetas",
-      "url": "https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2"
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 149920,
-      "name": "La Ranchera Pajona",
-      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Nueva Era de la Quebradita",
         "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 195361,
       "name": "El Caderazo",
       "url": "https://open.spotify.com/track/0QXL1Y9KtEHoMonrMVLJtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 149920,
+      "name": "La Ranchera Pajona",
+      "url": "https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm"
     },
     {
       "added_at": null,

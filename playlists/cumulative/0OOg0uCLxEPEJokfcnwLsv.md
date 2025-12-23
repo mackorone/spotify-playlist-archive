@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-177 songs - 10 hr 46 min
+184 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,11 @@
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-11-04 | 2025-12-12 |
 | [ARE YOU BORED?](https://open.spotify.com/track/74MrNmVQMrv5fjn8Ugkhcg) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [ARE YOU BORED?](https://open.spotify.com/album/3ZhFoJsxuJSHowxyPn2TVp) | 3:33 | 2025-10-27 | 2025-11-22 |
 | [Ashes](https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Ashes](https://open.spotify.com/album/3sG4UIFpkZKghgMzSmh0x1) | 3:40 | 2025-11-20 |  |
+| [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 | 2025-12-22 |  |
 | [Audio Garden](https://open.spotify.com/track/0Eht5ezV1mVtrpiBlOgblJ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:07 | 2025-11-11 | 2025-12-12 |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-26 |  |
 | [Been So Long](https://open.spotify.com/track/181JBo6fgmCPougtkMU4xO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Been So Long](https://open.spotify.com/album/4KdRx4zeATizHzXA5T45TK) | 4:01 | 2025-12-20 |  |
+| [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 |  |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-11-22 |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 |  |
 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 | 2025-12-01 |  |
@@ -52,6 +54,7 @@
 | [Count On Me](https://open.spotify.com/track/4sFKSeU0gZQGF0vc0eKZLN) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Sex, Drugs & A Breakfast Burrito](https://open.spotify.com/album/5xhpifoklmF0iZJqdNvvbF) | 3:42 | 2025-09-05 |  |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-11-11 | 2025-12-12 |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-10-30 |  |
+| [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 | 2025-12-22 |  |
 | [DANNATAMENTE IO](https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh) | [Occulta Sententia](https://open.spotify.com/artist/7FXDan2bxS8Bym5nYX59Jo) | [DANNATAMENTE IO](https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn) | 4:59 | 2025-11-09 | 2025-12-12 |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-10-27 |  |
 | [Dead Man](https://open.spotify.com/track/4CRM17oR3bxMt5ofST1e9B) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 3:17 | 2025-11-11 | 2025-12-12 |
@@ -75,12 +78,14 @@
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 | 2025-11-27 |  |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 |  |
+| [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 | 2025-12-22 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-12-13 |  |
 | [Hypernormal](https://open.spotify.com/track/1ACaEDG5jQ8KfvKTUKjEu5) | [Dead Broke](https://open.spotify.com/artist/5pAHHsGlcYhq7bUJNvjKsu) | [Hypernormal](https://open.spotify.com/album/1uwOBbr56z90M0sxbWYr6M) | 3:17 | 2025-12-12 |  |
 | [I Am Flawed](https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [I Am Flawed](https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36) | 3:16 | 2025-12-07 |  |
 | [I Don't Believe in Anything](https://open.spotify.com/track/3a5ZYfcugq5ForOAOSplrb) | [Worthington's Law](https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx) | [When the Leaves Fall + I Don't Believe in Anything](https://open.spotify.com/album/6JVe5hfVRUPjwhPOsM8wma) | 2:39 | 2025-10-18 |  |
 | [I Only Cry From a Distance x Time Frustration](https://open.spotify.com/track/2A06ZDCmfAevcBlzGPGrAw) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:53 | 2025-11-06 | 2025-12-12 |
 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-03 |  |
+| [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 | 2025-12-22 |  |
 | [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-08 |  |
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
@@ -92,6 +97,7 @@
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-12-04 |  |
 | [Let's Make It Rock Tonight](https://open.spotify.com/track/18maw03KeLnbdf43RdvzUo) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Let's Make It Rock Tonight](https://open.spotify.com/album/0ofGHU4AlfThKM5VpLci8L) | 3:55 | 2025-10-28 | 2025-11-22 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 |  |
+| [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 |  |
 | [Lobotomy](https://open.spotify.com/track/19aXEmTM5YghumBM5d0HWu) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:03 | 2025-12-13 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-10-27 | 2025-11-22 |
@@ -178,6 +184,7 @@
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2025-11-26 |  |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-11-16 | 2025-12-12 |
 | [what's your co\-star](https://open.spotify.com/track/69ttQ5ci1qNndmLxLkesFA) | [size eleven](https://open.spotify.com/artist/2xw4IuGVbXLY2v5LM2IMOq) | [what's your co\-star](https://open.spotify.com/album/6C7e35f5HqUfWJXcDAUoiJ) | 2:00 | 2025-11-06 | 2025-12-12 |
+| [Whiskey Breath](https://open.spotify.com/track/4MrUSgnIRXGvPWnRYCzTXC) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:03 | 2025-12-22 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-11-26 |  |
 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-11-29 |  |
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-10-31 | 2025-11-22 |

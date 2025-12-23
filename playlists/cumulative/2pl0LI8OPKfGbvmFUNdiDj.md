@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-223 songs - 12 hr 26 min
+231 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,10 @@
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Bet that](https://open.spotify.com/track/18qtR7u4LsdxpE5klxjSDk) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Bet that](https://open.spotify.com/album/56z9uaeTezKa2eK4gnMUxW) | 1:45 | 2025-11-13 |  |
+| [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 |  |
 | [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 |  |
 | [Blue Pill](https://open.spotify.com/track/0ipO5eSuRjb8jWRuKHk2La) | [PAOLA](https://open.spotify.com/artist/2sk7Ti4LsPXdgjRWJ5k6Ny) | [Blue Pill](https://open.spotify.com/album/3mIVDAuuN0hAZOSDLWnbHx) | 2:50 | 2025-12-04 |  |
+| [Body](https://open.spotify.com/track/6Yocmq2Vsz84eZmgEDEXqj) | [Shay Lowe](https://open.spotify.com/artist/2B2RLN0tbgsZVvMvMgKPhg) | [Body](https://open.spotify.com/album/2aYPD5IdZPTvlzLDcpt486) | 2:40 | 2025-12-22 |  |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-20 |  |
 | [Break These Chains](https://open.spotify.com/track/3axpdtLJYG1k7lIXCTBWzK) | [Mícheál Hillen](https://open.spotify.com/artist/7fMUnhujgqoUxpLolw4uhG) | [Break These Chains](https://open.spotify.com/album/1ardTUvHlmUNtTOgApTwog) | 2:59 | 2025-11-05 | 2025-12-01 |
 | [Brian and Old Tom](https://open.spotify.com/track/7yyrFEH3eQQK2pL4ynhsge) | [MORRS](https://open.spotify.com/artist/62gqmfoVxMEKTdB426eb4I) | [Brian and Old Tom](https://open.spotify.com/album/1Mcn2OsWWMIvtAdlxNOStf) | 3:57 | 2025-11-17 |  |
@@ -88,6 +90,7 @@
 | [Feelings](https://open.spotify.com/track/2u6Qy7B4heQkPZVuMt3L40) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings](https://open.spotify.com/album/6fvAeDQnOGcP2PQqnKAZeB) | 4:04 | 2025-11-02 | 2025-12-01 |
 | [Festivus Rocks!](https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Festivus Rocks!](https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK) | 2:17 | 2025-12-20 |  |
 | [fm25\-brokenheart](https://open.spotify.com/track/7LEy7uZTkYTsIAxSbtkWGp) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [fm25\-brokenheart](https://open.spotify.com/album/2hvwtQ14JcGXMykF0ObLqm) | 2:19 | 2025-11-22 |  |
+| [For A Season](https://open.spotify.com/track/0wpGtY0s0bf7sOGau3zwYx) | [Nicky Jean](https://open.spotify.com/artist/4ecawqe1AHRUfnQeizauYD) | [For A Season](https://open.spotify.com/album/0hsm4XQOLAOPRhKJQRM7tp) | 3:50 | 2025-12-22 |  |
 | [For Tonight](https://open.spotify.com/track/7vBLb4FAncwkvOegh7Mc4W) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Brother](https://open.spotify.com/album/5RV6Ggi9hnALeXXchpW37O) | 2:29 | 2025-12-20 |  |
 | [Fucked Up](https://open.spotify.com/track/68uVC0iivrNHCfEmRFhPR4) | [Crest](https://open.spotify.com/artist/7HkVIIis479rPDZsLmp0Z9) | [Fucked Up](https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0) | 2:42 | 2025-11-02 | 2025-12-01 |
 | [Game Of Us](https://open.spotify.com/track/5nPiP0lCO9s1ae4o1p0GuW) | [michéle](https://open.spotify.com/artist/0Mgy1tMudfj17qQ9qTiye5) | [Game Of Us](https://open.spotify.com/album/46QTCDq3eHV44nQhk2i1L3) | 3:00 | 2025-11-01 | 2025-12-01 |
@@ -105,6 +108,7 @@
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-11-17 |  |
 | [How to Disappear](https://open.spotify.com/track/63tCJRR4eC93oeqFvsWpLp) | [Kat MacKenzie](https://open.spotify.com/artist/17U9gqJry6GtFBLzX9vOpa) | [How to Disappear](https://open.spotify.com/album/5dxG3g6ljbZqoHhHMY5AdG) | 5:26 | 2025-10-30 | 2025-12-01 |
 | [How You Feeling](https://open.spotify.com/track/2TjThOBf6SGlE9ZP6X7K4V) | [Silvan P](https://open.spotify.com/artist/2FU9Ufxvue38MSjJ3I0cFK) | [How You Feeling](https://open.spotify.com/album/0wys4Xyc9v5fj81dmQC3Zh) | 3:53 | 2025-11-10 | 2025-12-01 |
+| [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2025-12-22 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 |  |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 |  |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-17 |  |
@@ -151,6 +155,7 @@
 | [ONE BODY](https://open.spotify.com/track/7bNPlDONCuxL5E0wwOwnhI) | [Stickz](https://open.spotify.com/artist/1L5SQPV7d93Xrr0f1pRy1D) | [ONE BODY](https://open.spotify.com/album/6u2jgWebuvICCnUnkZTbiK) | 2:25 | 2025-11-17 |  |
 | [One Stop Shop](https://open.spotify.com/track/1QKElGLbQn31oYe2vTtngF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 4:38 | 2025-11-01 | 2025-12-01 |
 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2025-11-22 |  |
+| [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2025-12-22 |  |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 |  |
 | [Persephone](https://open.spotify.com/track/54bU2JvnZ03zsHNaNaU98v) | [The Night Herons](https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0) | [Persephone](https://open.spotify.com/album/4jwuM7kTSJEE7IHelVBVnw) | 4:08 | 2025-11-17 |  |
 | [Picket Fences On Fire](https://open.spotify.com/track/7wTmXJVVrhDYpYXceSNupJ) | [Crooked Cat Adams](https://open.spotify.com/artist/3bJ6ZrdsE17kTt9hqQV42i) | [Hernando County, F.L.A](https://open.spotify.com/album/0bTEZg0TQmkwnBwG73LRiW) | 5:04 | 2025-11-24 |  |
@@ -161,12 +166,14 @@
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-11-16 |  |
 | [RAP DE MINECRAFT](https://open.spotify.com/track/2TVIBaCN7AoJ2okpNAIxx5) | [Kalibre Brown](https://open.spotify.com/artist/5ukaoYh4Cp7e4zp1gRM1bp) | [RAP DE MINECRAFT](https://open.spotify.com/album/53ImTr4XsTPc5vMk6uMbRk) | 2:10 | 2025-11-30 |  |
 | [Razza Umana](https://open.spotify.com/track/4kyqPP2pApVhqU9UDPCPIa) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:27 | 2025-11-10 | 2025-12-01 |
+| [Real Life Remastered \- Radio Edit](https://open.spotify.com/track/3H4NIqgvUkoIS0xpHxzrWe) | [Dsplita](https://open.spotify.com/artist/6uTaMdfn3QDIAmiPHtVrf0), [Atum Hunter](https://open.spotify.com/artist/390wKFpOpKVEexFMFpOets) | [Real Life Remastered \(Radio Edit\)](https://open.spotify.com/album/0Z6v32MY3YV4tW3dKwSGCy) | 2:53 | 2025-12-22 |  |
 | [Real Talk](https://open.spotify.com/track/0VZonNcbe7t9baqsGVeU7n) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [Real Talk](https://open.spotify.com/album/0Na2C3AJXAMGt1JDy6sCe8) | 4:33 | 2025-11-05 | 2025-12-01 |
 | [Recognize](https://open.spotify.com/track/5EpZwXMWUCS3sLKBPpl7oJ) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 3:09 | 2025-11-10 | 2025-12-01 |
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 |  |
 | [Running Away](https://open.spotify.com/track/39tycuF0unuJqmzJw0EJqI) | [LUKAS R](https://open.spotify.com/artist/0exPooezHP0XsOH5KsQXx4) | [Running Away](https://open.spotify.com/album/40CBcKFeRq54eWM9HquVE8) | 3:22 | 2025-12-20 |  |
+| [S.I.T.W](https://open.spotify.com/track/2XfnSLdry08chNzmBE6ZKO) | [JiuLing](https://open.spotify.com/artist/5R4qDx6PY8KuwUVv1cvumY) | [Something in the Water](https://open.spotify.com/album/65fQUzWkrBvAMJBO84gj9r) | 3:27 | 2025-12-22 |  |
 | [Sally Feels Bad](https://open.spotify.com/track/1TENNU3Fu2aRkdenYTS4ty) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Sally Feels Bad](https://open.spotify.com/album/0peasiPlPgIQzH5gHBJsRa) | 3:01 | 2025-11-30 |  |
 | [Say](https://open.spotify.com/track/3riDQLqEBfI8VdOHoqqiV8) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 4:00 | 2025-11-11 | 2025-12-01 |
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-11-11 | 2025-12-01 |
@@ -218,6 +225,7 @@
 | [Was All \(Live at Rui2online\)](https://open.spotify.com/track/7287cbTyQRUs93lI7T5kLA) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ), [Sexbasstian](https://open.spotify.com/artist/4p5dHOfoagYZjykFlyClIf) | [2014](https://open.spotify.com/album/4zRuYKD8Jr5mFjxeghUQ1E) | 5:08 | 2025-12-20 |  |
 | [Waste Your Life Away](https://open.spotify.com/track/3eabOltffS3CrKuJ0lSkL5) | [No Consent](https://open.spotify.com/artist/7jg6RKGiaiKYF7QJ3bigxW) | [Waste Your Life Away](https://open.spotify.com/album/61RNd1AYukexfLY2M9PgT6) | 2:56 | 2025-12-04 |  |
 | [What I Need](https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [What I Need](https://open.spotify.com/album/0AkgS5mr0RnX863tboGE1e) | 3:16 | 2025-11-17 |  |
+| [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 | 2025-12-22 |  |
 | [Where Love Became a Ghost](https://open.spotify.com/track/1Tw1aEg9GMNnh5VQMiZ6hK) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Where Love Became a Ghost](https://open.spotify.com/album/3qYsYqWC0YnKUJIK2cVIwP) | 4:31 | 2025-12-03 |  |
 | [WHO WANIT](https://open.spotify.com/track/1ZuOFw34Hc2F4Y5ZHyWicC) | [Nine25](https://open.spotify.com/artist/086QvHRXKmteZ1yHzqXhCZ) | [WHO WANIT](https://open.spotify.com/album/2rqEMvPa7Hfud194Iehqt6) | 2:37 | 2025-11-17 |  |
 | [Why Am I Like This](https://open.spotify.com/track/0kciK4EvYbUm8oRPmtEP1E) | [Snake Lips](https://open.spotify.com/artist/1iTHdjMCOCH2MTd1SJHdOT) | [Cat Beach](https://open.spotify.com/album/5qMnox5QRkGBPhCHi6U1hU) | 2:26 | 2025-11-03 | 2025-12-01 |

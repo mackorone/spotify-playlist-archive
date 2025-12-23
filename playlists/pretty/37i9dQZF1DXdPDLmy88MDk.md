@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,042 likes - 120 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,094 likes - 120 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 3 | [The Swan \- Reimagined](https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Verwey](https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb) | [The Swan \- Reimagined](https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES) | 2:46 |
 | 4 | [Manhattan Sunrise](https://open.spotify.com/track/7jT28bNawgEskE8tDLEBbd) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Manhattan Sunrise](https://open.spotify.com/album/0N8AvE66Yxl0NLaqx6vcDl) | 3:38 |
 | 5 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 |
-| 6 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 |
-| 7 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 |
-| 8 | [The Poetry of Earth \(Geophony\) \- Edit](https://open.spotify.com/track/3dQ6KNl8to4bxJTEeAy63u) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Poetry of Earth \(Geophony\)](https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja) | 3:39 |
-| 9 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
+| 6 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 |
+| 7 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
+| 8 | [Future Love \- Reimagined by Pêtr Aleksänder instrumental](https://open.spotify.com/track/08ciGXj3HGPuY6jACqds83) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX), [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Clouds In The Mirror \(This Is Not A Safe Place reimagined by Pêtr Aleksänder\) \[Instrumental version\]](https://open.spotify.com/album/1ZreFzgLIQfsdYsn9fA01c) | 3:03 |
+| 9 | [The Poetry of Earth \(Geophony\) \- Edit](https://open.spotify.com/track/3dQ6KNl8to4bxJTEeAy63u) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Poetry of Earth \(Geophony\)](https://open.spotify.com/album/3nKt5NFrSQiMuVF6XLp6ja) | 3:39 |
 | 10 | [Papillon \- Solo Piano Version](https://open.spotify.com/track/1gbI7NTfAbYIqEkOdjI3Yo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Papillon \(Solo Piano Version\)](https://open.spotify.com/album/1ABCgTKvrHDqtaQJoVL8LB) | 2:56 |
 | 11 | [Noctilucent](https://open.spotify.com/track/3sdCoYRGhiUJmd02vVp8xe) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:24 |
 | 12 | [Bylur](https://open.spotify.com/track/3xjaaBf7ef5TWermNspKOM) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 4:11 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 119 | [Piano Sonata No\. 9: II\. Lento](https://open.spotify.com/track/13N9Wd7JX346ZZqUwTxkwo) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Tatiana Primak\-Khoury](https://open.spotify.com/artist/1erZzEQ3UqiP7kNDe2rQy6) | [Lebanese Piano Music](https://open.spotify.com/album/5yPsI6FtPTzRCBFjD84uaw) | 4:08 |
 | 120 | [Aria variata in A Minor, BWV 989: Var\. 10, —](https://open.spotify.com/track/4U9G8GTbNsResg1stwT3BK) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/4Ue2myfhYRmIcbowoQCAnY) | 2:32 |
 
-Snapshot ID: `AAAAAHwYQ0t+Q+dcn67F+A8dMN+nSO4N`
+Snapshot ID: `AAAAAMnbdRzG4OHLJSO9ndvDpHVXQuH0`

@@ -4,7 +4,7 @@
 
 > Apne mulk ki homegrown hits  🎶 Cover: AUR
 
-275 songs - 18 hr 36 min
+276 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,7 @@
 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 | 2025-02-26 |  |
 | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/track/75OSVIdR2KPpEmViMt8MX2) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal \(with Talwiinder\)](https://open.spotify.com/album/47HV1rQNbrAPcv15zgbTHy) | 3:28 | 2025-04-11 |  |
 | [Par Chanaa De](https://open.spotify.com/track/2y7fdOLYBFFbuuMs96KndV) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 11:06 | 2025-09-04 | 2025-10-14 |
-| [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 | 2025-10-15 |  |
+| [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Par Chanaa De \(Coke Studio Season 9\)](https://open.spotify.com/album/3kVakoirMWEX5BwkicGWZv) | 11:06 | 2025-10-15 | 2025-12-23 |
 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 | 2023-08-09 | 2025-10-16 |
 | [Pardes Katenda](https://open.spotify.com/track/4lY4FbtlzES5MrBnwCGlyn) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/2aODTN1DBGYwIRuH1gA2Da) | 2:47 | 2025-12-02 |  |
 | [Pardesi](https://open.spotify.com/track/6Cc4aWnRuCBUWK320qu21z) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Pardesi](https://open.spotify.com/album/4pa9j1sjBWANSmeRGrO1qS) | 3:54 | 2023-06-20 | 2023-06-27 |
@@ -281,6 +281,7 @@
 | [Yaar Di Akh](https://open.spotify.com/track/2FNmlA73WxtL50tt02nO2o) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Yaar Di Akh](https://open.spotify.com/album/4bw3hIEEPoVU1hhRFuszyl) | 3:54 | 2024-06-21 | 2024-08-10 |
 | [Yeh Jism](https://open.spotify.com/track/4sRcdrQrFilYpMIybCwgKU) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Jism 2](https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors) | 3:50 | 2023-05-04 | 2023-06-27 |
 | [Zaalima](https://open.spotify.com/track/0U8xGuKNtRz2PWVGaLjJ8V) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Zaalima](https://open.spotify.com/album/6YBXUtfQswWm7xKGSEyVc5) | 3:02 | 2024-01-17 |  |
+| [Zalim Nazron Se](https://open.spotify.com/track/3xCrNZc1CiKhizCo8AOoK2) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Zalim Nazron Se](https://open.spotify.com/album/2KNctqx1PzSRMyJu8ZDEy6) | 3:27 | 2025-12-22 |  |
 | [Zaroori Tha](https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 5:42 | 2024-12-04 | 2024-12-20 |
 | [Zindagi](https://open.spotify.com/track/2DaPCl392tphoi2TqslBdG) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP) | [Zindagi](https://open.spotify.com/album/7JE3yjCRu0Uxs1eSVstvu7) | 4:09 | 2023-12-29 | 2024-01-26 |
 

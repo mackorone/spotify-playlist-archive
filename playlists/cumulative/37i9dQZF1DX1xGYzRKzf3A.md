@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-402 songs - 23 hr 30 min
+403 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Cumbia Explosiva](https://open.spotify.com/track/0uEhvw1ut1pPyFXeSiMCL6) | [Los Reyes Vallenatos](https://open.spotify.com/artist/7biBFHtSXjeAlSvwTSspX4) | [Cumbia Explosiva](https://open.spotify.com/album/0b7TqoPbKfYlkqoLKsuXc1) | 4:36 | 2023-11-08 | 2025-06-18 |
 | [Cumbia Lunera](https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 3:21 | 2023-06-16 |  |
 | [Cumbia Mingui](https://open.spotify.com/track/10hCTEJUqC0H3knK2EpUDL) | [Javier Lopez y los Reyes Vallenatos](https://open.spotify.com/artist/14fkf08QK8y5Txuef9FvaO) | [Lo Que Tengo](https://open.spotify.com/album/5rEK2wNJ9H5fQXiL40D4kq) | 4:46 | 2023-11-08 | 2024-07-03 |
+| [Cumbia Nocturnal](https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh) | [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Cumbia Nocturnal](https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P) | 3:33 | 2025-11-09 |  |
 | [Cumbia poder](https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:00 | 2023-06-16 | 2025-11-10 |
 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:46 | 2023-06-16 | 2025-11-10 |
 | [Cumbia Valledupar](https://open.spotify.com/track/7r2W5f8W70eGz2DlOD7S5g) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Ronda Bogotá](https://open.spotify.com/artist/7843pz6oKe2jtcPew109fr) | [Cumbia Valledupar](https://open.spotify.com/album/3GZ1KTKbHZ5QFAXx0Thjtp) | 4:18 | 2023-11-08 | 2024-07-03 |
@@ -168,7 +169,7 @@
 | [Fantasma](https://open.spotify.com/track/137YnCNlEhEOyE5opLTj3f) | [Rocko Paez](https://open.spotify.com/artist/1zFPc155enhXpQFBxMpxkd), [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Fantasma](https://open.spotify.com/album/51jlsaM0JQ5rksqkiWFtOH) | 3:12 | 2023-06-16 | 2024-01-01 |
 | [FIESTA EN SAN BENITO](https://open.spotify.com/track/0C5ZFYo2nhehqoT7WL1Qwl) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [FIESTA EN SAN BENITO](https://open.spotify.com/album/23XVhcVREUNB90qeQ7USHM) | 4:24 | 2023-06-16 | 2024-07-03 |
 | [Fin de Semana](https://open.spotify.com/track/5AzSus4mqRMRDmYhauyuoJ) | [Sam Vazquez](https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq) | [Fin de Semana](https://open.spotify.com/album/1wJxRk4iEuZSNorEMBNEL6) | 3:28 | 2025-11-09 |  |
-| [FLY](https://open.spotify.com/track/1a5WgyJGBtzJ0OBFoXKIX5) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [FLY](https://open.spotify.com/album/1NilX1chtaC7yG4xSbo1Wp) | 2:58 | 2025-11-09 |  |
+| [FLY](https://open.spotify.com/track/1a5WgyJGBtzJ0OBFoXKIX5) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [FLY](https://open.spotify.com/album/1NilX1chtaC7yG4xSbo1Wp) | 2:58 | 2025-11-09 | 2025-12-23 |
 | [Frankenstein](https://open.spotify.com/track/36PohdVK26LGhiRAszkhlz) | [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd), [El Pega Pega de Emilio Reyna](https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630) | [Frankenstein](https://open.spotify.com/album/24z06534xOi8prCaxFzu9P) | 3:46 | 2023-11-08 | 2024-07-03 |
 | [Fue un Amor de Verdad](https://open.spotify.com/track/3PlfAEUT7kBr22ZWxel7gs) | [La Decision Vallenata](https://open.spotify.com/artist/2nq9fv5SnxhXMiRrS3zPSC) | [Fue un Amor de Verdad](https://open.spotify.com/album/6ezSwQtQ43aZ90CCLgvCLI) | 4:26 | 2023-11-08 | 2024-07-03 |
 | [Fuego](https://open.spotify.com/track/7I2k8PcOLEZwx8OlTc10m9) | [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir) | [Fuego](https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne) | 3:39 | 2025-06-17 | 2025-11-10 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 10026,
+  "num_followers": 10077,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAw2nb6/XpV3y7U6d0rfuLZ",
+  "snapshot_id": "aUc4gAAAAAATY/nJdNRfIuGPrzEvgPrX",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "LVRS PARADISE (SIDE A)",
-        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
       "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 150038,
-      "name": "SEARCHING",
-      "url": "https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98"
+      "duration_ms": 168312,
+      "name": "SHOWBIZ",
+      "url": "https://open.spotify.com/track/0udu5vXi5t7T8696NPpBgp"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
       "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 168312,
-      "name": "SHOWBIZ",
-      "url": "https://open.spotify.com/track/0udu5vXi5t7T8696NPpBgp"
+      "duration_ms": 150038,
+      "name": "SEARCHING",
+      "url": "https://open.spotify.com/track/3E0t3JhtlA1YcYyQ1EdS98"
     },
     {
       "added_at": null,

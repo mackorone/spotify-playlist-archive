@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
+        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155526,
+      "name": "Ac\u00fastico_DeNinguem",
+      "url": "https://open.spotify.com/track/4JCxV2QomgEtVUiZwfyPiF"
+    },
+    {
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 200106,
       "name": "Mar\u00e9",
       "url": "https://open.spotify.com/track/6QRTLTLtIoJsJTA5wH7Ya8"

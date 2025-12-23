@@ -1,6 +1,6 @@
 {
   "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: aus",
-  "num_followers": 81171,
+  "num_followers": 81204,
   "original_name": "Sora Ambient",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-12-11 15:00:39",
       "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 229057,
+      "name": "Rituals",
+      "url": "https://open.spotify.com/track/7tR91UOIle9FOcDSpBF83v"
+    },
+    {
+      "added_at": "2025-12-11 15:00:39",
+      "album": {
         "name": "Measuring Ruins",
         "url": "https://open.spotify.com/album/5lCq8czbxJZtzXlbgoNXW8"
       },
@@ -1003,18 +1019,18 @@
     {
       "added_at": "2025-12-11 15:00:39",
       "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4"
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "The Kyoto Connection",
+          "url": "https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb"
         }
       ],
-      "duration_ms": 229057,
-      "name": "Rituals",
-      "url": "https://open.spotify.com/track/7tR91UOIle9FOcDSpBF83v"
+      "duration_ms": 218000,
+      "name": "Kansai",
+      "url": "https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB"
     },
     {
       "added_at": "2025-12-11 15:00:39",
@@ -1035,22 +1051,6 @@
       "duration_ms": 141639,
       "name": "cognition",
       "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
-    },
-    {
-      "added_at": "2025-12-11 15:00:39",
-      "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY"
-      },
-      "artists": [
-        {
-          "name": "The Kyoto Connection",
-          "url": "https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Kansai",
-      "url": "https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB"
     },
     {
       "added_at": "2025-12-11 15:00:39",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-12-11 15:00:39",
       "album": {
-        "name": "Afrikan Culture",
-        "url": "https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Black meditation",
-      "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
-    },
-    {
-      "added_at": "2025-12-11 15:00:39",
-      "album": {
         "name": "Opus",
         "url": "https://open.spotify.com/album/7CZm15HrGX4juBQYf0xsUX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 349150,
       "name": "for J\u00f3hann",
       "url": "https://open.spotify.com/track/2HPui49FMPeeQEQu7hnqjh"
+    },
+    {
+      "added_at": "2025-12-11 15:00:39",
+      "album": {
+        "name": "Afrikan Culture",
+        "url": "https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Black meditation",
+      "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
     },
     {
       "added_at": "2025-12-11 15:00:39",
@@ -1631,42 +1631,6 @@
     {
       "added_at": "2025-12-11 15:00:39",
       "album": {
-        "name": "The Last To Know / Ringing Ocean",
-        "url": "https://open.spotify.com/album/21bPhiBg3N27x4PpUpIo3I"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
-        }
-      ],
-      "duration_ms": 210501,
-      "name": "Ringing Ocean",
-      "url": "https://open.spotify.com/track/6t4CRgDL6SM4c0Brem2v2G"
-    },
-    {
-      "added_at": "2025-12-11 15:00:39",
-      "album": {
-        "name": "kanran sha (outtake / From \"The Deepest Space In Us\" Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0NNyfLC6MdQHp9ZfRqtLiI"
-      },
-      "artists": [
-        {
-          "name": "MEITEI",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 178368,
-      "name": "kanransha - outtake / From \"The Deepest Space In Us\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/37fK1oA5IPswOcjCWp4YW2"
-    },
-    {
-      "added_at": "2025-12-11 15:00:39",
-      "album": {
         "name": "Once Was Ours Forever",
         "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
       },
@@ -1699,6 +1663,42 @@
     {
       "added_at": "2025-12-11 15:00:39",
       "album": {
+        "name": "kanran sha (outtake / From \"The Deepest Space In Us\" Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NNyfLC6MdQHp9ZfRqtLiI"
+      },
+      "artists": [
+        {
+          "name": "MEITEI",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 178368,
+      "name": "kanransha - outtake / From \"The Deepest Space In Us\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/37fK1oA5IPswOcjCWp4YW2"
+    },
+    {
+      "added_at": "2025-12-11 15:00:39",
+      "album": {
+        "name": "The Last To Know / Ringing Ocean",
+        "url": "https://open.spotify.com/album/21bPhiBg3N27x4PpUpIo3I"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Beatie Wolfe",
+          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
+        }
+      ],
+      "duration_ms": 210501,
+      "name": "Ringing Ocean",
+      "url": "https://open.spotify.com/track/6t4CRgDL6SM4c0Brem2v2G"
+    },
+    {
+      "added_at": "2025-12-11 15:00:39",
+      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/4K7poAysJnh9CCbBjxieMC"
       },
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2025-12-11 15:00:39",
       "album": {
-        "name": "Tape 4",
-        "url": "https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u"
+        "name": "Once Was Ours Forever",
+        "url": "https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna"
       },
       "artists": [
         {
-          "name": "Felbm",
-          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
         }
       ],
-      "duration_ms": 166005,
-      "name": "Brunnengasse",
-      "url": "https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL"
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru"
     }
   ],
   "unique_name": "Sora Ambient",

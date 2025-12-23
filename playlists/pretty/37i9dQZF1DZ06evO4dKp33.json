@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 82239,
+  "num_followers": 82278,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADCWlsawtwP/qI7womggNdM",
+  "snapshot_id": "aUc4gAAAAACtTWIljkxK7V4G01QtD+mN",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 123820,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Melodic Blue (Deluxe)",
         "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 215679,
       "name": "killstreaks (with Don Toliver & PinkPantheress)",
       "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angel (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 123820,
-      "name": "Angel (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
     },
     {
       "added_at": null,

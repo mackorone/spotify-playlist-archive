@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,237 likes - 164 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,375 likes - 164 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,20 +14,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 4 | [Across the Mountains](https://open.spotify.com/track/1Xvo4lzjbpwIWAtV70x92u) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Across the Mountains](https://open.spotify.com/album/31Io1kPLesjWgGSSMgUn17) | 2:17 |
 | 5 | [Subtilité](https://open.spotify.com/track/4XAWOAaJmeKM2NIW0sgsf4) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Subtilité](https://open.spotify.com/album/7FkDLH5UgeB61WWgIfgN3s) | 2:55 |
 | 6 | [Snowbound](https://open.spotify.com/track/1lXxNuOJFycQjvpxkXWhLR) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Snowbound](https://open.spotify.com/album/2WoOWPF3LpfoGLCXtGpXIf) | 2:15 |
-| 7 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 |
-| 8 | [Pacífico](https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Pacífico](https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD) | 2:33 |
+| 7 | [Pacífico](https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Pacífico](https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD) | 2:33 |
+| 8 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 |
 | 9 | [To the Morning Light](https://open.spotify.com/track/6FYOf0yudOyYiLS7t8cNel) | [James Here](https://open.spotify.com/artist/1iGSzD89Ci6EvzlGQeziR4) | [To the Morning Light](https://open.spotify.com/album/2i6eUXMuCvUazHgZaV6NIs) | 2:35 |
 | 10 | [Serenety Walz](https://open.spotify.com/track/4Iq7gulJD0YiUUyZAbeZ0w) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Serenety Walz](https://open.spotify.com/album/1ICvGPisW8N1u3Fd6lnnM2) | 2:24 |
 | 11 | [Whispering Willow](https://open.spotify.com/track/71NBn3kY25GCHpOPrckEnf) | [Fringilla coelebs](https://open.spotify.com/artist/2aJhtzB2xk0L8GcdzdREz1) | [Whispering Willow](https://open.spotify.com/album/6bedXNIvBvKyIowfWkiKbi) | 2:37 |
 | 12 | [Luz](https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Luz](https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO) | 2:05 |
 | 13 | [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 |
 | 14 | [Aging](https://open.spotify.com/track/1Z3GPvWMC2jDt73HTHGsjD) | [Matteus Fortini](https://open.spotify.com/artist/6DSyvYPVE5NaaOO2La5RLb) | [Aging](https://open.spotify.com/album/0TyG2axjCVAsK2UXCHA6xg) | 2:19 |
-| 15 | [Embrace](https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Embrace](https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc) | 2:38 |
-| 16 | [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 |
-| 17 | [All Worth It](https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [All Worth It](https://open.spotify.com/album/5jkl9jH5W4cXNzAWkN3Giu) | 2:07 |
-| 18 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
-| 19 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 |
-| 20 | [deux amants](https://open.spotify.com/track/5OkRIoF2qGpLy44bmu8yCR) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [deux amants](https://open.spotify.com/album/0CtPECqSOoqmSpNvnFPeiC) | 2:29 |
+| 15 | [Beyond](https://open.spotify.com/track/7LI2fD9JTssq4v5oDgIkeq) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Beyond](https://open.spotify.com/album/2gflztD0uo7P987eJrykqF) | 2:25 |
+| 16 | [Love of My Life](https://open.spotify.com/track/1k43yZUlrZlWLlLSE9HSFC) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Love of My Life](https://open.spotify.com/album/10mjFWOlFE2Vr0ZrgPNXYZ) | 2:19 |
+| 17 | [lavande](https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lavande](https://open.spotify.com/album/3F4ggN1yBna5FlNj8Bw8Y7) | 2:36 |
+| 18 | [All Worth It](https://open.spotify.com/track/5EyvPgIywchbSPtcJ0V0z4) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [All Worth It](https://open.spotify.com/album/5jkl9jH5W4cXNzAWkN3Giu) | 2:07 |
+| 19 | [deux amants](https://open.spotify.com/track/5OkRIoF2qGpLy44bmu8yCR) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [deux amants](https://open.spotify.com/album/0CtPECqSOoqmSpNvnFPeiC) | 2:29 |
+| 20 | [Embrace](https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Embrace](https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc) | 2:38 |
 | 21 | [Elsewhere](https://open.spotify.com/track/7GR7a9fe0ZKlUFJSujJX68) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Elsewhere](https://open.spotify.com/album/6vOf4Bk6uT98A0iIUfpEeY) | 2:28 |
 | 22 | [From a Distance](https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw) | [Mindy Thurma](https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui) | [From a Distance](https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa) | 2:27 |
 | 23 | [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 163 | [Dreamy](https://open.spotify.com/track/4tqAHq4q1M9m9AOhaWqNKn) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dreamy](https://open.spotify.com/album/0H4NNpH58lgHaM7k8oDQze) | 2:59 |
 | 164 | [Zenith](https://open.spotify.com/track/4JpAOAqjjv9GFrbASIOGLa) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Zenith & Stillness in Waiting](https://open.spotify.com/album/1Lk8IRtw6vxcFfBa0FvOyE) | 3:35 |
 
-Snapshot ID: `AAAAAHIInuGmF+qUHkQ5T86+L4LkQFsM`
+Snapshot ID: `AAAAAEVLE78gdzlF93Jwf8ehH+kzrhiU`

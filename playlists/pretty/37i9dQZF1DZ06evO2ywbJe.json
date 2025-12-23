@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6917,
+  "num_followers": 6927,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABQ+j18BvPIcOFSWzJXFd00",
+  "snapshot_id": "aUc4gAAAAABl7e8QMF62amwd0/YH3UNu",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Bottles",
+        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 178936,
+      "name": "10 Bottles",
+      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 139666,
       "name": "Secure",
       "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Bottles",
-        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 178936,
-      "name": "10 Bottles",
-      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
     },
     {
       "added_at": null,
@@ -819,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Am I a Yahoo Boy",
+        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148820,
+      "name": "Am I a Yahoo Boy",
+      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABALI",
         "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
       },
@@ -839,26 +859,6 @@
       "duration_ms": 227663,
       "name": "El Sucio Guapo",
       "url": "https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Am I a Yahoo Boy",
-        "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148820,
-      "name": "Am I a Yahoo Boy",
-      "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
     },
     {
       "added_at": null,

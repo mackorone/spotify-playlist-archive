@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,753 songs - 8 day 7 hr 0 min
+3,755 songs - 8 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Cosmic Devastation \(another\)](https://open.spotify.com/track/2JzjtR914Eu5WE5RmCCQJP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Stars heavy metal](https://open.spotify.com/album/7HkBZLfsiLHGy655iF1WCQ) | 3:30 | 2025-09-16 |  |
 | [Cosmic Waves](https://open.spotify.com/track/5P7wQXXwQRmaFr5sAnlDF3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Experimental Pop Music](https://open.spotify.com/album/4sO2jGSkWa3e2Ce0OXtMP8) | 2:37 | 2025-09-19 |  |
 | [Cosmic Waves \(another\)](https://open.spotify.com/track/3cNxxCQS2S6YkWlmbFX1jN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Experimental Pop Music](https://open.spotify.com/album/4sO2jGSkWa3e2Ce0OXtMP8) | 3:44 | 2025-09-19 |  |
+| [cosmos&ginyus](https://open.spotify.com/episode/4YFQmGZVT9J3vGFl0f0Nwd) | [the land of sound](https://open.spotify.com/show/6i8Hun1WdTQO8PXQXkBusT) | [the land of sound](https://open.spotify.com/album/6i8Hun1WdTQO8PXQXkBusT) | 4:03 | 2025-12-22 |  |
 | [Countrylies ✧](https://open.spotify.com/track/1cBGgatQ4qZI0sZGPNTSPP) | [Charley Hill](https://open.spotify.com/artist/3Gu0cDU1W9fwdSgYquz2rq) | [Mustang ⋆](https://open.spotify.com/album/5c1fF5TQHvB5ED4Z4sLHac) | 1:55 | 2025-10-21 |  |
 | [Coupe De Ville](https://open.spotify.com/track/13o4EK3JgvbR9ztEVHk3lr) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Coupe De Ville](https://open.spotify.com/album/26ngXEYJZ14Jd3PtNJB0NS) | 2:49 | 2025-05-22 |  |
 | [Cowards Live Forever](https://open.spotify.com/track/7EG8qIdqk6xFXll4gPiBFU) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [Distractor](https://open.spotify.com/album/0RitxJpTiPwJxZ3UOdygBt) | 5:18 | 2025-04-30 |  |
@@ -1705,6 +1706,7 @@
 | [Je so funk, tu no](https://open.spotify.com/track/5pcpinHpX2y7oa2sBhUAI9) | [Nidio Casorcio](https://open.spotify.com/artist/2XZ6iL4cbs8XYRXSVq5sSL), [the Afragola Dance Orchestra](https://open.spotify.com/artist/5J5k8zMH0Ny8ikFur9k0BT) | [Je so funk, tu no](https://open.spotify.com/album/43himZTmQIgZgMJeKjuvmN) | 3:03 | 2025-06-25 |  |
 | [Jeje](https://open.spotify.com/track/77z31h4jZ0dQkUeGzMbsgA) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [Jeje](https://open.spotify.com/album/1OyG3NuEgccSUkIuviNZTa) | 3:30 | 2025-06-04 |  |
 | [Jeje](https://open.spotify.com/track/1z8ZBV2GCabNrvszLNCTmn) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 3:06 | 2025-06-05 |  |
+| [Jesus Was A Victim Too](https://open.spotify.com/track/7hNZp4yRPRXWAyuIansvT3) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Jesus Was A Victim Too](https://open.spotify.com/album/4CrBkejU1zb8AjuXSA8b0q) | 3:44 | 2025-12-22 |  |
 | [Jingle Bells and Mistletoe](https://open.spotify.com/track/7ySVgLQnxP8mq6ImZECegf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for Christmas 2024](https://open.spotify.com/album/2MwuASrFOvLC9vJ7MTc8Yw) | 2:33 | 2025-09-17 |  |
 | [Jingle Bells and Mistletoe \(another\)](https://open.spotify.com/track/56ljjFZhZoFg50nG0GNY8w) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for Christmas 2024](https://open.spotify.com/album/2MwuASrFOvLC9vJ7MTc8Yw) | 1:52 | 2025-09-17 |  |
 | [Jingle in the Snow](https://open.spotify.com/track/4aayOVcVmrodt7QYC55gPb) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for Christmas 2024](https://open.spotify.com/album/2MwuASrFOvLC9vJ7MTc8Yw) | 2:55 | 2025-09-17 |  |

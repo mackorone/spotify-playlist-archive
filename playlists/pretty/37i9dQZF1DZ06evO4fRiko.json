@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 970734,
+  "num_followers": 970818,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAApuLWMJEtXbLJTDN8WT8Aj",
+  "snapshot_id": "aUc4gAAAAADAR6KP0CAnvLFcLSc3+eBF",
   "tracks": [
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortune (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "Don't Judge Me",
-      "url": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 216293,
       "name": "Nobody's Business",
       "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortune (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4AGQTp6rk7v8fPbFu739l7"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "Don't Judge Me",
+      "url": "https://open.spotify.com/track/0NG5gJzPHjYeQmqcmqfopN"
     }
   ],
   "unique_name": "This Is Chris Brown",

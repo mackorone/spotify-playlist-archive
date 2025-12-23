@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-239 songs - 19 hr 25 min
+240 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Lgalb Lgalb](https://open.spotify.com/track/1oBFL6Oi6gfVqpe6ma1SoD) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Lgalb Lgalb](https://open.spotify.com/album/4WfhNfj7kIHN0Y34eMA5nt) | 5:53 | 2023-03-22 | 2025-08-14 |
 | [Lhalaba Rahom Bazef](https://open.spotify.com/track/0mpdpFtVbCWfEiZH7TfTz9) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Lhalaba Rahom Bazef](https://open.spotify.com/album/6gkLMemVXimjoXoeqDSDVf) | 4:36 | 2023-08-25 | 2024-03-17 |
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 | 2024-02-06 |
-| [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 | 2023-04-18 |  |
+| [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 | 2023-04-18 | 2025-12-23 |
 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 | 2022-11-14 | 2022-11-21 |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 | 2023-05-19 |
 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 | 2023-02-01 | 2023-08-29 |
@@ -158,6 +158,7 @@
 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 | 2022-12-29 | 2025-01-06 |
 | [Moul Karsan](https://open.spotify.com/track/3eQ2E727Y6KGITYZo3zX1d) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Moul Karsan](https://open.spotify.com/album/1Wz4Lb9J28dWAbV3AB42YC) | 10:00 | 2022-03-08 | 2024-01-19 |
 | [MUSTAHIL](https://open.spotify.com/track/79dYolBgVt3BjSR7OacQNI) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [MUSTAHIL](https://open.spotify.com/album/255KMUYYIGcjX5AO61BCbF) | 4:00 | 2022-05-11 | 2022-09-07 |
+| [Mziya Ja Lhem Mfarket](https://open.spotify.com/track/2FqOwtac5ey2TrqYQE5l4Y) | [Cheb zaki maraval](https://open.spotify.com/artist/5vafQ5eNcUlavGwUXF96O7), [Dib El3ajib](https://open.spotify.com/artist/7fZSCYrsFIweKh63TtA5Oy) | [Mziya Ja Lhem Mfarket](https://open.spotify.com/album/3Z1hnW7ZlIQIFodrbJ1Bsh) | 10:02 | 2025-12-22 |  |
 | [N3ichou la vida](https://open.spotify.com/track/5wSTysykILbhPqKdD2XN2F) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Housseyn Benguerna](https://open.spotify.com/artist/2wPhldxEvEyBg9ApxTRkXy) | [N3ichou la vida](https://open.spotify.com/album/3jOBAFhJqcZC3TSmLTxFNB) | 3:41 | 2022-04-15 | 2022-07-29 |
 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 | 2022-08-24 | 2024-07-10 |
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-09-20 | 2022-12-27 |

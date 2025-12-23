@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Luar La L
 
-2,236 songs - 4 day 20 hr 41 min
+2,237 songs - 4 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Energia \- Remix](https://open.spotify.com/track/603TXNDxxsKtyhqA1z1VVV) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Joantony](https://open.spotify.com/artist/2wIkMnRcVvnqRDZe9z4aHM), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Jouseph Yadiel](https://open.spotify.com/artist/3vlfeGuwj1lSmPo5EMr0N7) | [Energia \(Remix\)](https://open.spotify.com/album/2SyLMSOc0VeQtynSmP9HKJ) | 4:32 | 2025-09-19 | 2025-11-16 |
 | [Enigma \- Remix](https://open.spotify.com/track/59MDxtaOcMfx1kGbkw4BIQ) | [Deimi](https://open.spotify.com/artist/0NrygGrqdoAjfoUieqPFmD), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Enigma \(Remix\)](https://open.spotify.com/album/5HwvdJEkRPiVg5BNbpzXuk) | 3:14 | 2023-07-11 | 2023-09-16 |
 | [Entre Comillas](https://open.spotify.com/track/3DZbD0uamk2l6pm9p9hyWP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [El Alma De La Fiesta](https://open.spotify.com/album/32y8xkeCWnJhMuuP4rHcYX) | 3:43 | 2024-12-13 | 2025-02-15 |
+| [ENTREGADA](https://open.spotify.com/track/4cD80YeQL45w9HyWtQ0A2W) | [Wallance](https://open.spotify.com/artist/0VV4w7YPOUcNuW0UCVyUiq), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [VERIDICO](https://open.spotify.com/album/7lb4pdehU4jCoHJkwlr9A8) | 2:12 | 2025-12-22 |  |
 | [Envidia](https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidia](https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk) | 3:00 | 2022-12-02 | 2023-02-18 |
 | [ENVIGADO](https://open.spotify.com/track/7rzzvtKLYsspPF8aUBghlF) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 3:40 | 2024-05-24 | 2024-08-10 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-04-21 | 2022-07-09 |
@@ -1603,7 +1604,7 @@
 | [POR SI TE VAS](https://open.spotify.com/track/06cZ8KTzq9w3p0pUgTmOYF) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [POR SI TE VAS](https://open.spotify.com/album/5FSsQbOB5NIAAiB2mPw6EC) | 3:11 | 2025-05-16 | 2025-06-28 |
 | [Por Ti Conocí el Amor](https://open.spotify.com/track/5u0YnVs3RdFQU9IIoIs9PL) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Por Ti Conocí el Amor](https://open.spotify.com/album/62P5TLCoWvC09sKWKyTJTN) | 3:09 | 2024-04-12 | 2024-06-08 |
 | [Por Vos](https://open.spotify.com/track/6pXo0WoRNLSid8mbpmJ4Wz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Por Vos](https://open.spotify.com/album/5y4gn8YJaRqaN5JQLgCZ0n) | 3:05 | 2025-03-21 | 2025-05-24 |
-| [Porcelana](https://open.spotify.com/track/5LMkK3Bm6rmgeW74r3HKT5) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Porcelana](https://open.spotify.com/album/7aG1cdpxTPN6JkBJTBvFDb) | 2:10 | 2025-10-10 |  |
+| [Porcelana](https://open.spotify.com/track/5LMkK3Bm6rmgeW74r3HKT5) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [Porcelana](https://open.spotify.com/album/7aG1cdpxTPN6JkBJTBvFDb) | 2:10 | 2025-10-10 | 2025-12-23 |
 | [Porque La Demora](https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/1jmda3z2yVf18leBFpEEDQ) | 3:31 | 2025-06-27 | 2025-09-20 |
 | [Portate Bonito](https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Portate Bonito](https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm) | 3:29 | 2025-08-22 | 2025-11-16 |
 | [Posiciones](https://open.spotify.com/track/6yJc3IAuVak430aYnhamsG) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA) | [Posiciones](https://open.spotify.com/album/1cbESZQUkz9Sdqh3Nah1hY) | 3:16 | 2024-09-06 | 2024-10-19 |

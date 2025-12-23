@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 水中スピカ Suichu Spica
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,129 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,132 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 41 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 |
 | 42 | [異物混入](https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP) | [FCO.](https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq) | [異物混入](https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa) | 2:31 |
 | 43 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
-| 44 | [星の下](https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [星の下](https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6) | 3:26 |
-| 45 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 |
+| 44 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 |
+| 45 | [星の下](https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [星の下](https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6) | 3:26 |
 | 46 | [こころのどれす](https://open.spotify.com/track/1vlwjWpGnB5FY9oimpT1FN) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [The Seeds](https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz) | 3:28 |
 | 47 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 |
 | 48 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 68 | [Indifference](https://open.spotify.com/track/21SGNokBaoQ93tRWjtL13u) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Indifference](https://open.spotify.com/album/16qdb0jBUQb3ounDinB3Y8) | 3:23 |
 | 69 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 |
 | 70 | [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 |
-| 71 | [Somewhere Between](https://open.spotify.com/track/7ws0sLjwykUP2jTyAZAv10) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Somewhere Between](https://open.spotify.com/album/0SlezQ1J9pZ1ffdrE6Q3xr) | 1:55 |
-| 72 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
+| 71 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
+| 72 | [Somewhere Between](https://open.spotify.com/track/7ws0sLjwykUP2jTyAZAv10) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Somewhere Between](https://open.spotify.com/album/0SlezQ1J9pZ1ffdrE6Q3xr) | 1:55 |
 | 73 | [万祝](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [万祝](https://open.spotify.com/album/0heim8z9M7TUdwDP9o1ZxY) | 3:41 |
-| 74 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 |
-| 75 | [DAWN](https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [Glitter](https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW) | 3:14 |
+| 74 | [DAWN](https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [Glitter](https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW) | 3:14 |
+| 75 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 |
 
 Snapshot ID: `AAAAAPmVLLnMIATq1GDqAZDE0btdwqry`

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Yellowcard",
-  "num_followers": 599402,
+  "num_followers": 599411,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "Love Myself",
+        "url": "https://open.spotify.com/album/7ka7U27Hz0kZPEBUIYmeha"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/1RWpjHVBMDONhpD1gTjbPG"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Love Myself",
-        "url": "https://open.spotify.com/album/7ka7U27Hz0kZPEBUIYmeha"
-      },
-      "artists": [
-        {
-          "name": "Eddie And The Getaway",
-          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/1RWpjHVBMDONhpD1gTjbPG"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "I.K.A.M.F.",
         "url": "https://open.spotify.com/album/3UiHWnze9rV4mvpc9jNHTE"
       },
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "FEAR OF HEIGHTS",
-        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
+        "name": "Saviors",
+        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
       "artists": [
         {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 154189,
-      "name": "FEAR OF HEIGHTS",
-      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
+      "duration_ms": 224310,
+      "name": "Bobby Sox",
+      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -495,18 +495,38 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Saviors",
-        "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
+        "name": "Fake As Hell (with Avril Lavigne)",
+        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 224310,
-      "name": "Bobby Sox",
-      "url": "https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl"
+      "duration_ms": 179166,
+      "name": "Fake As Hell (with Avril Lavigne)",
+      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "FEAR OF HEIGHTS",
+        "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 154189,
+      "name": "FEAR OF HEIGHTS",
+      "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -543,26 +563,6 @@
       "duration_ms": 204966,
       "name": "Figure 8",
       "url": "https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Fake As Hell (with Avril Lavigne)",
-        "url": "https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 179166,
-      "name": "Fake As Hell (with Avril Lavigne)",
-      "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "MOTH KIDS",
-        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 219035,
-      "name": "MOTH KIDS",
-      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -835,8 +835,8 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+        "name": "SUCKERPUNCH",
+        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
+      "duration_ms": 172510,
+      "name": "SUCKERPUNCH",
+      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -979,8 +979,8 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "SUCKERPUNCH",
-        "url": "https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ"
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 172510,
-      "name": "SUCKERPUNCH",
-      "url": "https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj"
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Pick Your Poison",
-        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 159151,
-      "name": "Pick Your Poison",
-      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 200215,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/7eBvIvbcUHJqra750YuQpg"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Pick Your Poison",
+        "url": "https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Pick Your Poison",
+      "url": "https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 152963,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Burst & Decay (Volume III)",
         "url": "https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Feedback",
-        "url": "https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 152963,
-      "name": "Feedback",
-      "url": "https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "The Hart",
-        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
-      },
-      "artists": [
-        {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
-        }
-      ],
-      "duration_ms": 220096,
-      "name": "Through The Landslide",
-      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Big Blind",
         "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 144986,
       "name": "Big Blind",
       "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

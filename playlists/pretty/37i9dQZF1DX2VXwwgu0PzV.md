@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Cee Sharp & Festizie
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,851 likes - 107 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,857 likes - 107 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 4 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 5 | [Fire](https://open.spotify.com/track/74TNMED0pnJNOOou7ESmyC) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Fire](https://open.spotify.com/album/4HJVwFLB9Yi5WWz4OXX07c) | 2:38 |
 | 6 | [Jugular Jugular](https://open.spotify.com/track/4cB6amZ81ycrtmCSGIhl2N) | [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Jugular Jugular](https://open.spotify.com/album/4fRHMcvU4cAsebcPGqOPxn) | 4:35 |
-| 7 | [O BA MI SE](https://open.spotify.com/track/43RlWOMFF1DEj2OwZmkqL3) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [O BA MI SE](https://open.spotify.com/album/72TQzaVzyTyHFWmhdJqSp5) | 3:59 |
+| 7 | [Ó BÁ MI ȘE](https://open.spotify.com/track/43RlWOMFF1DEj2OwZmkqL3) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [Ó BÁ MI ȘE](https://open.spotify.com/album/72TQzaVzyTyHFWmhdJqSp5) | 3:59 |
 | 8 | [Taste and See](https://open.spotify.com/track/0NEpOOQ22Hg9hoVcKv9cYX) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Taste and See](https://open.spotify.com/album/0LVhZzkYq5mQKW5WNTlxYV) | 3:05 |
 | 9 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 |
 | 10 | [The Lover](https://open.spotify.com/track/6v4W9CW3BzHU6a38FaIq7v) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [The Lover](https://open.spotify.com/album/3HCRvYPY5SQhWZZBaD8Xkd) | 2:55 |

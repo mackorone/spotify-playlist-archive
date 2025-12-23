@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130498,
+  "num_followers": 130505,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-12-18 16:00:18",
       "album": {
-        "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
-        "url": "https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17"
-      },
-      "artists": [
-        {
-          "name": "JOYCE \u5c31\u4ee5\u65af",
-          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
-      "url": "https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs"
-    },
-    {
-      "added_at": "2025-12-18 16:00:18",
-      "album": {
         "name": "\u66fe\u7d93\u898b\u904e\u592a\u967d (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u7247\u982d\u66f2)",
         "url": "https://open.spotify.com/album/09wivwo5tBQ8NiaBGAAJVM"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 219073,
       "name": "\u66fe\u7d93\u898b\u904e\u592a\u967d - (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u7247\u982d\u66f2)",
       "url": "https://open.spotify.com/track/6QAC2kPQOI51fMHZIqJhWi"
+    },
+    {
+      "added_at": "2025-12-18 16:00:18",
+      "album": {
+        "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
+        "url": "https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17"
+      },
+      "artists": [
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
+      "url": "https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs"
     },
     {
       "added_at": "2025-12-18 16:00:18",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-12-18 16:00:18",
       "album": {
-        "name": "\u4e0d\u4f54\u5730\u65b9",
-        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
-      },
-      "artists": [
-        {
-          "name": "Pei-Yu Hung",
-          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
-        }
-      ],
-      "duration_ms": 279444,
-      "name": "\u4e0d\u4f54\u5730\u65b9",
-      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
-    },
-    {
-      "added_at": "2025-12-18 16:00:18",
-      "album": {
         "name": "Face II \u771f\u30fb\u88cf",
         "url": "https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 269990,
       "name": "\u6700\u7f8e\u7684\u907a\u61be",
       "url": "https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0"
+    },
+    {
+      "added_at": "2025-12-18 16:00:18",
+      "album": {
+        "name": "\u4e0d\u4f54\u5730\u65b9",
+        "url": "https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm"
+      },
+      "artists": [
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "duration_ms": 279444,
+      "name": "\u4e0d\u4f54\u5730\u65b9",
+      "url": "https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d"
     },
     {
       "added_at": "2025-12-18 16:00:18",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-12-18 16:00:18",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
-      },
-      "artists": [
-        {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
-        }
-      ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
-    },
-    {
-      "added_at": "2025-12-18 16:00:18",
-      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
         "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 236239,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
       "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
+    },
+    {
+      "added_at": "2025-12-18 16:00:18",
+      "album": {
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+      },
+      "artists": [
+        {
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+        }
+      ],
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2025-12-18 16:00:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,539 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,593 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Compromisso/ Jesus](https://open.spotify.com/track/0XUjM9MGZp8Zbw9vA0LAm8) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Adoração na Nossa Casa É Assim \(Ad10\), Pt\. 2](https://open.spotify.com/album/60zIWipYRCsNWqWCBplUUj) | 7:35 |
 | 70 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
 
-Snapshot ID: `AAAAAP2O7m9JrR2Jb8mTsCk+x9BVarjW`
+Snapshot ID: `AAAAAF+ZytW6Segcfd4lP6uPk4Zro0O9`

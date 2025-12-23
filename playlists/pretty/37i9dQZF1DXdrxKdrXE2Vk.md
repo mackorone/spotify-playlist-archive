@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: Melissa Helser of Cageless Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,966 likes - 70 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,985 likes - 70 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 24 | [Good Day \- Live](https://open.spotify.com/track/3pajbvCouuW4s6Lt3Ij165) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Weight Of Heaven \(Live\)](https://open.spotify.com/album/0q9rvf3AbwZ5iMhC04Zw7Z) | 3:47 |
 | 25 | [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 |
 | 26 | [Inhabit \- Live](https://open.spotify.com/track/1WHBWjHUi6Nkyw2PZr6qOV) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Oh How Worthy \(Live\)](https://open.spotify.com/album/3SimJVri4arEFQqEAbZdmx) | 8:24 |
-| 27 | [High King \- Live](https://open.spotify.com/track/5G7JFue2QBumh3FbfQuQwY) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Zach Smith](https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv) | [Fresh Fire Pt\. 1 \(Live\)](https://open.spotify.com/album/5JjyKcVlo7intrnYbytyo0) | 5:32 |
+| 27 | [High King \- Live](https://open.spotify.com/track/5G7JFue2QBumh3FbfQuQwY) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Zach Smith](https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv) | [Fresh Fire, Pt\. 1 \(Live\)](https://open.spotify.com/album/5JjyKcVlo7intrnYbytyo0) | 5:32 |
 | 28 | [Worthy Of It All](https://open.spotify.com/track/6B8EBFomoRMZy4tzHRLxGg) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Aaron Lucas](https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N) | [Worthy Of It All](https://open.spotify.com/album/6mQd2MB4WgST48PnUPjeKX) | 6:49 |
 | 29 | [You Will Be Saved](https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [You Will Be Saved](https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk) | 6:14 |
 | 30 | [Worthy](https://open.spotify.com/track/3HnlDT6ymq3eYX1aRPcUTB) | [ReFRESH Worship](https://open.spotify.com/artist/5LVfUFtAdRpEe3zTzZnQLp), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Nicole Binion](https://open.spotify.com/artist/76cq2MDAYfh7dhiFr4Zt4e) | [Worthy \(Single\)](https://open.spotify.com/album/4Xmx7uvGaQYb0K36ZnnHAv) | 8:36 |

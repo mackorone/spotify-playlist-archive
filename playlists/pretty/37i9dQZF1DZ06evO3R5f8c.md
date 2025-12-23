@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,892 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,935 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 24 | [Muyè \(Black Coffee Remix\)](https://open.spotify.com/track/4rSpUjqW7KTn4Whk9vEIv5) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Sónar 25: An advanced music mixtape by Black Coffee](https://open.spotify.com/album/1xz36Gipe1dJJ1UNiFJviJ) | 7:20 |
 | 25 | [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 |
 | 26 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
-| 27 | [Uthando Lwam](https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 |
-| 28 | [Molo Sweetie](https://open.spotify.com/track/0XTKHw0Bp8WtfxSVSzXA3o) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 5:43 |
+| 27 | [Molo Sweetie](https://open.spotify.com/track/0XTKHw0Bp8WtfxSVSzXA3o) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 5:43 |
+| 28 | [Uthando Lwam](https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 |
 | 29 | [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 |
 | 30 | [Someday](https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:42 |
 | 31 | [Ode to Ancestors](https://open.spotify.com/track/0YCtLA3mpuU4Oqcl9Duqho) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09) | [Rebel Moon: Songs of the Rebellion \(Inspired by the Netflix Films\)](https://open.spotify.com/album/4oVBVsC9zkTHzeCRSmrAE3) | 5:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cara Frew](https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf) | [I'll Find You \(feat\. Cara Frew\)](https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD) | 9:48 |
 | 50 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 
-Snapshot ID: `aUXnAAAAAABk6Q9aLyxZYCNXeOc/73Wy`
+Snapshot ID: `aUc4gAAAAACriiqa7EhNfSxoBbWozWo0`

@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ozan Bayraşa x Hande Yener
 
-462 songs - 23 hr 15 min
+463 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [İnsan Bir Kez Sever](https://open.spotify.com/track/0lSNpLC0AkrAOrrKyOEPrN) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [İnsan Bir Kez Sever](https://open.spotify.com/album/3nhg03tCneUsiGg4gD6Rhe) | 2:03 | 2025-10-23 | 2025-11-30 |
 | [İSTANBUL BİLE](https://open.spotify.com/track/2qfdA02I5BLwqNDGxc1JvL) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd), [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [İSTANBUL BİLE](https://open.spotify.com/album/51rttRrCgLiGh0l2nKypnv) | 3:51 | 2025-02-06 | 2025-04-06 |
 | [İtiraf](https://open.spotify.com/track/4gZ57zwUmu3DqSSPIgfMVh) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [İtiraf](https://open.spotify.com/album/5ngApZKJ1z5vMKyY3MW6ds) | 3:07 | 2025-08-15 | 2025-10-10 |
+| [İyi ki Doğmuşum](https://open.spotify.com/track/1tuTl0xxFpqOoHICg6Gkhc) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [İyi ki Doğmuşum](https://open.spotify.com/album/4erI0CkIBBkNJJ72hBwqFF) | 3:35 | 2025-12-18 |  |
 | [İçimde Sen](https://open.spotify.com/track/4341I8qgSJAiIYxScMLsyV) | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [İçimde Sen](https://open.spotify.com/album/48lOZljjxbF9IGkWpaU1eK) | 3:33 | 2024-06-27 | 2024-07-04 |
 | [İçin Rahat Olsun](https://open.spotify.com/track/41dhf0sMVkUFvgdCbJGBzf) | [Ferhat Göçer](https://open.spotify.com/artist/13jj3uGldU7cSQLaFkf2Zm) | [İçin Rahat Olsun](https://open.spotify.com/album/7Fzkihl6LX4HnNCZMYQcsu) | 3:32 | 2025-08-07 | 2025-09-03 |
 | [İşlemediğim Bir Suç](https://open.spotify.com/track/6JJ9tRFY3xeVeyFQbvbCNp) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [İşlemediğim Bir Suç](https://open.spotify.com/album/4kUKNbvMKJZn997usHxWzJ) | 3:25 | 2025-02-27 | 2025-04-19 |
@@ -271,7 +272,7 @@
 | [Küçük Şeyler](https://open.spotify.com/track/1YYCphYLs0EJVTKF2gWHGI) | [Hakan Kılınç](https://open.spotify.com/artist/5iq9EHglioaz4pVoNTZBey) | [Küçük Şeyler](https://open.spotify.com/album/5W3J11XI0SPnsc4ir0Zpuj) | 2:47 | 2024-09-05 | 2024-09-13 |
 | [Kızılca Şerbet](https://open.spotify.com/track/0aIrUkvAvcy36CtV5pXEme) | [Seda Sayan](https://open.spotify.com/artist/5hKNaXEXIxQ3dmZR7FoRr8), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Kızılca Şerbet](https://open.spotify.com/album/746RjfRw4bAjdrGLcOQdys) | 3:00 | 2025-05-27 | 2025-07-01 |
 | [Kış Kış](https://open.spotify.com/track/7dPt6dEmIr788BonzTIVJt) | [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Kış Kış](https://open.spotify.com/album/4FA7EWO0U9xGxBfvlbeeGg) | 3:13 | 2025-06-05 | 2025-12-19 |
-| [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 |  |
+| [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 | 2025-12-23 |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 | 2024-09-06 |
 | [LEYLA](https://open.spotify.com/track/0mZK7W92DU73Xhtho4T6jY) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [LEYLA](https://open.spotify.com/album/4LFPZUR2Ve4NR0iS44P5Kr) | 3:15 | 2025-08-07 | 2025-10-16 |
 | [Leylim](https://open.spotify.com/track/6c3am6xNv4i0ES2hxKyopR) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Leylim](https://open.spotify.com/album/0CPVT7HVK60qFC1hRjDstu) | 2:29 | 2025-07-31 | 2025-10-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 30716,
+  "num_followers": 30714,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACibYlWUmCxLj5R1e0j3DR0",
+  "snapshot_id": "aUc4gAAAAAAFdJXXH+uLimKXwpxPiS6N",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW THE MAX !!!",
-        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+        "name": "THE FUTURE DAYBREAK (\u6620\u753b \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9 \u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u30fb\u30c7\u30a4\u30d6\u30ec\u30a4\u30af\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS"
       },
       "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 246213,
-      "name": "\u30d6\u30ec\u30a4\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4"
+      "duration_ms": 254566,
+      "name": "THE FUTURE DAYBREAK - (\u6620\u753b \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9 \u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u30fb\u30c7\u30a4\u30d6\u30ec\u30a4\u30af\u300f\u4e3b\u984c\u6b4c)",
+      "url": "https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE FUTURE DAYBREAK (\u6620\u753b \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9 \u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u30fb\u30c7\u30a4\u30d6\u30ec\u30a4\u30af\u300f\u4e3b\u984c\u6b4c)",
-        "url": "https://open.spotify.com/album/2pApDw9WgFXlwV7AD1qoNS"
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
       },
       "artists": [
-        {
-          "name": "BACK-ON",
-          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
-        },
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 254566,
-      "name": "THE FUTURE DAYBREAK - (\u6620\u753b \u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9 \u30b6\u30fb\u30d5\u30e5\u30fc\u30c1\u30e3\u30fc\u30fb\u30c7\u30a4\u30d6\u30ec\u30a4\u30af\u300f\u4e3b\u984c\u6b4c)",
-      "url": "https://open.spotify.com/track/7uHGpZqq9UN7g6U6lME03O"
+      "duration_ms": 246213,
+      "name": "\u30d6\u30ec\u30a4\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4"
     },
     {
       "added_at": null,

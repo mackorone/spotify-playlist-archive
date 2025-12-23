@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,449 likes - 184 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,439 likes - 184 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [nero](https://open.spotify.com/album/1XZSjSMXZkyWSl7le1bS8H) | 2:18 |
-| 2 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
-| 3 | [Sorry](https://open.spotify.com/track/2nit19fwNrXnK5yM63c8oN) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Sorry](https://open.spotify.com/album/7m8GBBgPn4Sh1t1i0ZqeVA) | 2:25 |
-| 4 | [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 |
-| 5 | [Som Magnolia](https://open.spotify.com/track/1ZIh3FQJca9NrBoZAwr1De) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [2025](https://open.spotify.com/album/6sWmLtNrlk8TtUixE6XZ3L) | 2:35 |
-| 6 | [Fartblind](https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Fartblind](https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc) | 2:40 |
-| 7 | [Gustav Vasa](https://open.spotify.com/track/3WBQ9oA5DgpgV96ETEB7xP) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Gustav Vasa](https://open.spotify.com/album/5XEkX79dGdKwXd8NEwyWqU) | 2:28 |
-| 8 | [Spola tillbaks](https://open.spotify.com/track/2SeWCyfAqcNuRzEIjsKOIo) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Spola tillbaks](https://open.spotify.com/album/1WfLwJyNkuiEXOQWOrzOBr) | 2:15 |
-| 9 | [Take 3](https://open.spotify.com/track/56z3ZANdO5FsB5OXD8EMAj) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Take 3](https://open.spotify.com/album/4UHQnQ7jv2cMjKDUijQIxc) | 2:22 |
-| 10 | [BANDS \(S.O.S\)](https://open.spotify.com/track/1qn84bFcVsrolDQUS0SkiA) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [BANDS \(S.O.S\)](https://open.spotify.com/album/0k7AgZnY74AMev440oM00Y) | 1:50 |
+| 1 | [Smutsiga Tankar](https://open.spotify.com/track/3FGjcrMU2Ocrn99AJJ9Kil) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Smutsiga Tankar](https://open.spotify.com/album/6EJ8lf1o9Fhyv3MeHVQwRE) | 2:00 |
+| 2 | [Sorry](https://open.spotify.com/track/2nit19fwNrXnK5yM63c8oN) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Sorry](https://open.spotify.com/album/7m8GBBgPn4Sh1t1i0ZqeVA) | 2:25 |
+| 3 | [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 |
+| 4 | [Som Magnolia](https://open.spotify.com/track/1ZIh3FQJca9NrBoZAwr1De) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [2025](https://open.spotify.com/album/6sWmLtNrlk8TtUixE6XZ3L) | 2:35 |
+| 5 | [låga](https://open.spotify.com/track/7es9iv9YMsxztdD7aja93s) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [nero](https://open.spotify.com/album/1XZSjSMXZkyWSl7le1bS8H) | 2:18 |
+| 6 | [Spola tillbaks](https://open.spotify.com/track/2SeWCyfAqcNuRzEIjsKOIo) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [Spola tillbaks](https://open.spotify.com/album/1WfLwJyNkuiEXOQWOrzOBr) | 2:15 |
+| 7 | [BANDS \(S.O.S\)](https://open.spotify.com/track/1qn84bFcVsrolDQUS0SkiA) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [BANDS \(S.O.S\)](https://open.spotify.com/album/0k7AgZnY74AMev440oM00Y) | 1:50 |
+| 8 | [Fartblind](https://open.spotify.com/track/73lRWTNMfe0cZ8txMwI9ze) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Fartblind](https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc) | 2:40 |
+| 9 | [Gustav Vasa](https://open.spotify.com/track/3WBQ9oA5DgpgV96ETEB7xP) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Gustav Vasa](https://open.spotify.com/album/5XEkX79dGdKwXd8NEwyWqU) | 2:28 |
+| 10 | [Take 3](https://open.spotify.com/track/56z3ZANdO5FsB5OXD8EMAj) | [Nuqi](https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5) | [Take 3](https://open.spotify.com/album/4UHQnQ7jv2cMjKDUijQIxc) | 2:22 |
 | 11 | [Uppoffringar](https://open.spotify.com/track/6IrDsxJQb7VyYkEooUWrm9) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Uppoffringar](https://open.spotify.com/album/01n4JFTIjhjyrcoQVDEFEX) | 2:23 |
 | 12 | [GIVE ME LOVE](https://open.spotify.com/track/0G9NPVSaZCtmzEjHyiQacu) | [ATTI](https://open.spotify.com/artist/1Goz3lvDEpt5s0Y6mB6O8f) | [GIVE ME LOVE](https://open.spotify.com/album/5tWk0ZKzuaK4Y44yQP6SR4) | 2:29 |
 | 13 | [Woah](https://open.spotify.com/track/1vhXsBxTRk0n4L9g7vwMsJ) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Det blir inte alltid som man tänkt sig](https://open.spotify.com/album/630WY4FmTKOvS6zOXXtpFV) | 2:34 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 183 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
 | 184 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
 
-Snapshot ID: `AAAAAL4Zh+iWri/qYdniAQ0hyuT/JUCU`
+Snapshot ID: `AAAAAHlD+pcfbD3rSwcdlasCrMmJCQPD`

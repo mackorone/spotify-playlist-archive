@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Blaa Blaa Blaa",
+        "url": "https://open.spotify.com/album/3fNTQi5eXA8vqk2loEg3Yq"
+      },
+      "artists": [
+        {
+          "name": "Tapany",
+          "url": "https://open.spotify.com/artist/7MI44S2fRIrOiOovCyY3xS"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144879,
+      "name": "Blaa Blaa Blaa",
+      "url": "https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws"
+    },
+    {
+      "album": {
         "name": "Blood Orange",
         "url": "https://open.spotify.com/album/71vwafT0yr1239fkxRhIy1"
       },

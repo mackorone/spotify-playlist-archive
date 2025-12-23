@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-83 songs - 6 hr 48 min
+84 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Come Unto Jesus](https://open.spotify.com/track/12tLwuXI2xjAwBbN2DwOQg) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 4:00 | 2024-09-04 | 2025-12-10 |
 | [Creed](https://open.spotify.com/track/4q8zQYnNqzYPaEZiBLBFgx) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Creed](https://open.spotify.com/album/6NLfzDJ2kwdpdcwldaBujR) | 5:07 | 2024-06-18 | 2024-06-30 |
 | [Draw Me Close](https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:54 | 2023-03-17 |  |
-| [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 | 2023-03-17 |  |
+| [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 | 2023-03-17 | 2025-12-23 |
 | [God of Every Grace](https://open.spotify.com/track/3TzQR2O6RsyOIF1HvO2EuL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [God of Every Grace](https://open.spotify.com/album/0LYtQdY5VCU5LPhtFIXV4X) | 5:17 | 2024-08-26 | 2024-09-15 |
 | [God of Every Grace](https://open.spotify.com/track/6qcLnUhXzgGqSY9cCJrgbs) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 5:17 | 2024-09-15 | 2025-10-17 |
 | [Goodness of God](https://open.spotify.com/track/55TW6H9X6pMfiOhmPk4luE) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 17](https://open.spotify.com/album/0cxR2OoCW1u1F2wAWciDjZ) | 5:04 | 2024-03-20 |  |
@@ -40,6 +40,7 @@
 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 | 2023-03-17 |  |
 | [Help Me Live in Step \- Live](https://open.spotify.com/track/6LgNEqbZd7TBNSpjTsomIM) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word, Vol\. 2 \(Live\)](https://open.spotify.com/album/7HmiWfc5xCGC5pUoZrP7IC) | 4:34 | 2023-03-17 | 2023-03-26 |
 | [His Mercy Is More \(Live\)](https://open.spotify.com/track/663E0Tn2w7TyDSO4ATGiPD) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns Live](https://open.spotify.com/album/4q4dWDNJcrxHnjO8zo3spx) | 4:46 | 2023-03-17 |  |
+| [Holy, Holy, Holy \(We Bow Before Thee\)](https://open.spotify.com/track/1e58fEprNEGwk1Btxmfaac) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 7:24 | 2025-12-23 |  |
 | [How Great Thou Art](https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:54 | 2023-03-17 |  |
 | [How He Loves Us](https://open.spotify.com/track/2dyYBCVgOZTCYe6QvYhSsN) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 3](https://open.spotify.com/album/2qqe9Y7HEiUE4SKIa9EEgQ) | 4:50 | 2023-03-17 |  |
 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/0YR6Ga8ZNd9w93OP8Goaem) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:21 | 2023-03-17 |  |

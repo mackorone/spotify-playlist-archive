@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 160537,
       "name": "Celestial Lights",
       "url": "https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE"
@@ -6957,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "illusory",
+        "url": "https://open.spotify.com/album/1QjFhD8jm9CYXdqPj1EZes"
+      },
+      "artists": [
+        {
+          "name": "Selenique",
+          "url": "https://open.spotify.com/artist/6w2PLwVJnXbLWkyyDq4CII"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140357,
+      "name": "illusory",
+      "url": "https://open.spotify.com/track/7D3ANNXkWNEUS82lNMwUgG"
+    },
+    {
+      "album": {
         "name": "In a Charming Dream",
         "url": "https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk"
       },
@@ -9186,6 +9204,24 @@
       "duration_ms": 149157,
       "name": "Moonlight Memoirs",
       "url": "https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz"
+    },
+    {
+      "album": {
+        "name": "Morning Haze",
+        "url": "https://open.spotify.com/album/0mAcFO6bOT1Ty5SPGQA1Vh"
+      },
+      "artists": [
+        {
+          "name": "Solar Sonar",
+          "url": "https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Morning Haze",
+      "url": "https://open.spotify.com/track/4FjMDJ573BNKESDRulFvYd"
     },
     {
       "album": {
@@ -13200,7 +13236,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 182131,
       "name": "Somna",
       "url": "https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD"

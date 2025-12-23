@@ -1,12 +1,12 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127128,
+  "num_followers": 127129,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIstJSGRhDa8p9axcih4jnrSuhEd",
+  "snapshot_id": "AAAAAMC5Pd9rXaisa3ep2g+2XqGKV+SZ",
   "tracks": [
     {
       "added_at": "2025-12-12 05:23:45",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-12 05:23:45",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 205634,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
-    },
-    {
-      "added_at": "2025-12-12 05:23:45",
-      "album": {
         "name": "Slow Dancing (Remixes)",
         "url": "https://open.spotify.com/album/5qVmDaecbgUasrvDudT39K"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 206808,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe"
+    },
+    {
+      "added_at": "2025-12-12 05:23:45",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
     },
     {
       "added_at": "2025-12-12 05:23:45",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-12-12 05:23:45",
       "album": {
+        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Another autumn",
+      "url": "https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq"
+    },
+    {
+      "added_at": "2025-12-12 05:23:45",
+      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 172937,
       "name": "Too Good to be Bad",
       "url": "https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3"
-    },
-    {
-      "added_at": "2025-12-12 05:23:45",
-      "album": {
-        "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
-        "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Another autumn",
-      "url": "https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq"
     },
     {
       "added_at": "2025-12-12 05:23:45",

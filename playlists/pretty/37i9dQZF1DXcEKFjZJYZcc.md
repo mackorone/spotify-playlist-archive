@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,310 likes - 134 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,334 likes - 134 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 6 | [cradled with warmth](https://open.spotify.com/track/5weARSGzrpQrVOtfnhaX0z) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [cradled with warmth](https://open.spotify.com/album/7IDFgOhb9GlnIUWO4pv29A) | 2:36 |
 | 7 | [El Amanecer](https://open.spotify.com/track/3oPTemjjHIfNeHOcJOXNJT) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [El Amanecer](https://open.spotify.com/album/6aRSkv2lYrBQZ66KNckTOZ) | 2:14 |
 | 8 | [Monza](https://open.spotify.com/track/3gIH8SK0HmuP4HNSncw2Vw) | [Lorcan Ó Faoláin](https://open.spotify.com/artist/0Gi9Zi1kMh4fJVXEhl4J2t) | [Monza](https://open.spotify.com/album/6TgUE8ZVMeh610Tka4URfk) | 2:13 |
-| 9 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
-| 10 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
-| 11 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 |
+| 9 | [Herbariums](https://open.spotify.com/track/4NgQB5HgCTNVV9QZS5u1jR) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Herbariums](https://open.spotify.com/album/2GZSKSrzyA6y3CqKHeF1Qc) | 2:10 |
+| 10 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 |
+| 11 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 |
 | 12 | [Notions](https://open.spotify.com/track/118Gg76FPkdYt2uWzYejHh) | [Floyd Nova](https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz) | [Notions](https://open.spotify.com/album/30kwvznWYzuaYvZedSFPkK) | 2:23 |
 | 13 | [Cantare](https://open.spotify.com/track/2klT0TpmyfRKCAhDRJofA5) | [Selenar Rex](https://open.spotify.com/artist/0aCvzm1b2BQnlQIJmixAw3) | [Cantare](https://open.spotify.com/album/442BAigdqDKpsAZy7f2iVE) | 2:07 |
 | 14 | [Omhuldad](https://open.spotify.com/track/5ReZyYicHocdZ7Po8oAjKs) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Omhuldad](https://open.spotify.com/album/09uuTMxrEjS833kMOD5sMw) | 2:47 |
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 133 | [Stay Close](https://open.spotify.com/track/3L0WeSDRrBJApHA4UFmt4D) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [Stay Close](https://open.spotify.com/album/5LkrrGRSG6jT6TR7kmxjpT) | 2:00 |
 | 134 | [Floating Alone](https://open.spotify.com/track/5rqVGb4V2rQzz2iBCf14AD) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Floating Alone](https://open.spotify.com/album/28QOdW9aio2bLPDu9TJsdH) | 2:25 |
 
-Snapshot ID: `AAAAACpl+oqrbRG+/2u4W7Bi1X0FDRvA`
+Snapshot ID: `AAAAALO8X9MU42wvU2PlL7w5oziowB5/`

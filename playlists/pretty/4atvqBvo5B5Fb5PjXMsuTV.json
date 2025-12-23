@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Dec 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Dec 14:05 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWxftHMp4uRWndbt37uZsaYk/poG0U",
+  "snapshot_id": "AAAWyUArCglSr/XJQPw7P+/MIYpQIi0j",
   "tracks": [
     {
       "added_at": "2025-12-20 19:04:08",
@@ -177,6 +177,30 @@
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     },
     {
+      "added_at": "2025-12-22 09:04:38",
+      "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        },
+        {
+          "name": "Ill Santo",
+          "url": "https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 132705,
+      "name": "Berserker",
+      "url": "https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv"
+    },
+    {
       "added_at": "2025-12-19 09:04:31",
       "album": {
         "name": "Top Cobain",
@@ -207,6 +231,22 @@
       "duration_ms": 166400,
       "name": "Chances",
       "url": "https://open.spotify.com/track/64yfZgN1S6xfPazHcHHSLA"
+    },
+    {
+      "added_at": "2025-12-22 14:05:11",
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W"
+      },
+      "artists": [
+        {
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD"
     },
     {
       "added_at": "2025-12-16 14:05:27",
@@ -791,42 +831,6 @@
       "duration_ms": 233224,
       "name": "I Still Create",
       "url": "https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt"
-    },
-    {
-      "added_at": "2025-12-04 19:04:15",
-      "album": {
-        "name": "MONDAY - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT"
-      },
-      "artists": [
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        },
-        {
-          "name": "Quadeca",
-          "url": "https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS"
-        }
-      ],
-      "duration_ms": 246709,
-      "name": "MONDAY - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp"
-    },
-    {
-      "added_at": "2025-12-07 04:04:51",
-      "album": {
-        "name": "100days100nights",
-        "url": "https://open.spotify.com/album/0j4nMyhDhscxWa0VrgUHEN"
-      },
-      "artists": [
-        {
-          "name": "Niontay",
-          "url": "https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t"
-        }
-      ],
-      "duration_ms": 108445,
-      "name": "100days100nights",
-      "url": "https://open.spotify.com/track/421kwayIuwfQWizPPST9Jx"
     }
   ],
   "unique_name": "New Singles Now",

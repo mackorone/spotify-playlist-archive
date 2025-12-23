@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von ZAH1DE, LACAZETTE, Anyma und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 897,168 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,122 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

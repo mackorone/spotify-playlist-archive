@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31464,
+  "num_followers": 31467,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABmfjtA86kF72FSMfzDsRfh",
+  "snapshot_id": "aUc4gAAAAADGGUjysWGOO/Idnx/qr7+J",
   "tracks": [
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country State Of Mind",
-        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
-      },
-      "artists": [
-        {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 180472,
-      "name": "Why Me",
-      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Country State Of Mind",
+        "url": "https://open.spotify.com/album/7aM9Q3hl6uxC4xGuDdVyBY"
+      },
+      "artists": [
+        {
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 180472,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/25OnNQJNBJgGDxmi4AUN6F"
     },
     {
       "added_at": null,

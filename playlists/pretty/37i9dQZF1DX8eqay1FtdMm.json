@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Klozer, Danny Koo) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416842,
+  "num_followers": 416818,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 173407,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 173407,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "\uadf8 \uc0ac\ub78c, \uadf8 \uc0ac\ub791",
-        "url": "https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA"
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
       "artists": [
         {
-          "name": "Lim Jae Beum",
-          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
         }
       ],
-      "duration_ms": 270889,
-      "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
-      "url": "https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2"
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1175,34 +1175,18 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+        "name": "\uadf8 \uc0ac\ub78c, \uadf8 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA"
       },
       "artists": [
         {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+          "name": "Lim Jae Beum",
+          "url": "https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV"
         }
       ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
-      },
-      "artists": [
-        {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+      "duration_ms": 270889,
+      "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
+      "url": "https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1219,6 +1203,22 @@
       "duration_ms": 252000,
       "name": "Not a Dream",
       "url": "https://open.spotify.com/track/519ieUWSSFG5AuPCo0dy54"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Broken Party",
-        "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Broken Party",
-      "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "Moving Away",
         "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 264069,
       "name": "Moving Away",
       "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Broken Party",
+        "url": "https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Broken Party",
+      "url": "https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
+        "name": "Trip: Tape #01",
+        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Holding hands or walking together.",
+      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
-        "name": "Trip: Tape #01",
-        "url": "https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Holding hands or walking together.",
-      "url": "https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Beauty in Chaos",
-        "url": "https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a"
-      },
-      "artists": [
-        {
-          "name": "Kim Jae Joong",
-          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "ROCK STAR",
-      "url": "https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "Love Playlist3 Part.1",
         "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 237224,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Beauty in Chaos",
+        "url": "https://open.spotify.com/album/4LDlunHDfi9E2pIwMZmC1a"
+      },
+      "artists": [
+        {
+          "name": "Kim Jae Joong",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "ROCK STAR",
+      "url": "https://open.spotify.com/track/1NUT3jWF3J9rDfd7WHzOos"
     },
     {
       "added_at": "2025-12-18 02:43:49",

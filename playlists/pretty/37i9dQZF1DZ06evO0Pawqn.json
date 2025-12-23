@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACB0rKou/jiGmWlpFTGkE0D",
+  "snapshot_id": "aUc4gAAAAABdV5AgwIwaK1XPB9INCgl3",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
+      "duration_ms": 216973,
+      "name": "Quisiera Amarte Menos",
+      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Quisiera Amarte Menos",
-      "url": "https://open.spotify.com/track/0QTX4cAhxpHO4o8zEin8jn"
+      "duration_ms": 203728,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/6zUSvQLg0mJsq5p2e8f3bt"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amistades",
         "url": "https://open.spotify.com/album/44LrvNvSvNp8Hwmo9twwYs"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 192587,
       "name": "Veinte m\u00e1s",
       "url": "https://open.spotify.com/track/1IJAF9Rdh2DGxDUQqhwMmv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invencibles",
-        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+      "duration_ms": 187663,
+      "name": "Cuando Sola Estes",
+      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
     },
     {
       "added_at": null,
@@ -711,42 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eco Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3d0FPK2ETYLd7hfNoCEGiu"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        },
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/3t1AQm7juov3w5TBNTSbcV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 187663,
-      "name": "Cuando Sola Estes",
-      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
       },
@@ -763,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con Sangre Nortena",
         "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 196075,
       "name": "El Libro de los Dioses",
       "url": "https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eco Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3d0FPK2ETYLd7hfNoCEGiu"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        },
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/3t1AQm7juov3w5TBNTSbcV"
     },
     {
       "added_at": null,

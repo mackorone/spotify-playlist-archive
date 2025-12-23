@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,153 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,192 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 33 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
 | 34 | [Everything](https://open.spotify.com/track/1UlwVFnl6JaQBL0tujTFJ8) | [7SEEDS](https://open.spotify.com/artist/4bwydHxnOMEoHGZhgXaSR1), [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [FLIP & DRAW II](https://open.spotify.com/album/3bOb4olmZMw8jigZrZVCtd) | 2:34 |
 | 35 | [Nitnoi](https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M) | [Morning Breakfast](https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Morning Breakfast Vol.3](https://open.spotify.com/album/1cjUD5hSrQcU93KdOw5q8H) | 3:38 |
-| 36 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 |
-| 37 | [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 |
+| 36 | [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 |
+| 37 | [Heidi](https://open.spotify.com/track/66hNd1s6k5KZ617mUoBkWq) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [Heidi](https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6) | 2:15 |
 | 38 | [20250327](https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [20250327](https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC) | 2:24 |
 | 39 | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi) | 3:13 |
 | 40 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 45 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
 | 46 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 |
 | 47 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
-| 48 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 |
-| 49 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 |
+| 48 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 |
+| 49 | [ribbon](https://open.spotify.com/track/5EfoIMA6T3S5Hbj1k1yRIf) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [ribbon](https://open.spotify.com/album/1OCsOGkd7Gxju8adsnqVC9) | 2:05 |
 | 50 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |
 
 Snapshot ID: `AAAAAJj0tj3GL9sWautCH9WUBBfKxsxq`

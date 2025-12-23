@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 
 > Wake up at your own pace with gentle piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,549 likes - 85 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,559 likes - 85 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 |
 | 2 | [Dusk](https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM) | [Rocco](https://open.spotify.com/artist/70qMxbmTMbxS4MCjkkZvTH) | [Dusk](https://open.spotify.com/album/3G90cn8e9mGthYVvxgvzft) | 2:12 |
 | 3 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 |
-| 4 | [It's Gonna Be Alright](https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [It's Gonna Be Alright](https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq) | 2:09 |
-| 5 | [Misterbianco](https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G) | [Mireia Lluna](https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS) | [Misterbianco](https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW) | 1:45 |
+| 4 | [Misterbianco](https://open.spotify.com/track/4b0alD7TOFqZx5pQFrtL2G) | [Mireia Lluna](https://open.spotify.com/artist/1MYbOFZ4BcGF17pCUyznzS) | [Misterbianco](https://open.spotify.com/album/4WHPHLRQSauVqZo9FrldJW) | 1:45 |
+| 5 | [It's Gonna Be Alright](https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [It's Gonna Be Alright](https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq) | 2:09 |
 | 6 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 |
 | 7 | [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 |
 | 8 | [Tonal Relief](https://open.spotify.com/track/6uLMjc0bf5qxLyMcCAch1D) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [Tonal Relief](https://open.spotify.com/album/3COiejf6PeBjaSSHrZ3kZK) | 2:41 |
 | 9 | [stargazing](https://open.spotify.com/track/5Tm55bnuYOavqPLbueGYS4) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [stargazing](https://open.spotify.com/album/0FCL5YSgPtrC3NQYOCwxZs) | 2:20 |
-| 10 | [A Quiet Morning](https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [A Quiet Morning](https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl) | 2:18 |
-| 11 | [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 |
-| 12 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 |
-| 13 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
+| 10 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 |
+| 11 | [A Quiet Morning](https://open.spotify.com/track/4ert3RkJ8MenB9f4AQtFTl) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [A Quiet Morning](https://open.spotify.com/album/0Y0vbSn44cskqZe01iWWfl) | 2:18 |
+| 12 | [Rigoletto](https://open.spotify.com/track/2ItCfMjnRKPS37dbKiqlOT) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Rigoletto](https://open.spotify.com/album/4yghwCT8WODVgTJtPbomr0) | 2:46 |
+| 13 | [Counting the Days](https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Counting the Days](https://open.spotify.com/album/1DIDzFc9XpurOpFuCGmL43) | 2:48 |
 | 14 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 |
 | 15 | [Luz](https://open.spotify.com/track/6V6gkSilAgWkFqilgwICfh) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Luz](https://open.spotify.com/album/0RD80pNLV2wjb7fgjNJsyO) | 2:05 |
 | 16 | [Silent Currents](https://open.spotify.com/track/14ef9hqfpbc1aLkDs9gnf8) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [Silent Currents](https://open.spotify.com/album/1DX172AwlZMpWRtCrT9M7p) | 2:02 |
 | 17 | [Nyugalma](https://open.spotify.com/track/4xoOoSUHhtuYISUeBPUaGQ) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Nyugalma](https://open.spotify.com/album/5Ck1a4PaH75OKPdrXpz67h) | 2:23 |
-| 18 | [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 |
-| 19 | [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 |
-| 20 | [Veloura](https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Veloura](https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG) | 2:26 |
-| 21 | [Hana Veil](https://open.spotify.com/track/4I3v3k70waiARoHw7Z1ATA) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Hana Veil](https://open.spotify.com/album/4oY8pMzsWyfqKcxxH6xk8D) | 2:24 |
+| 18 | [Hana Veil](https://open.spotify.com/track/4I3v3k70waiARoHw7Z1ATA) | [Anton Vega](https://open.spotify.com/artist/7H15xwuYNLQKF74GgsYfw7) | [Hana Veil](https://open.spotify.com/album/4oY8pMzsWyfqKcxxH6xk8D) | 2:24 |
+| 19 | [Evanesce](https://open.spotify.com/track/4YQm2eS7XRNFtYQVTSur4X) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Evanesce](https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy) | 2:16 |
+| 20 | [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 |
+| 21 | [Veloura](https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [Veloura](https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG) | 2:26 |
 | 22 | [Sleeper](https://open.spotify.com/track/0iBbGki63rW9UuSZYghy6R) | [M\. Lapis](https://open.spotify.com/artist/7yapVPB4FRlHJJ3IsOpbaO) | [Sleeper](https://open.spotify.com/album/5vVTSM53W8XLV7NByXhKPa) | 2:17 |
 | 23 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 |
 | 24 | [This Moment](https://open.spotify.com/track/7xyIb53JCp8AK3KAZBa52g) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [This Moment](https://open.spotify.com/album/0PgYMfeVwjDiOAbrO8h8ce) | 2:08 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cZxYLqLUJl.md) - [plain]
 | 84 | [Badzura: Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 |
 | 85 | [Scenery](https://open.spotify.com/track/0RgAkhVOWf3CZnWtFA1891) | [Alavilla Mailla](https://open.spotify.com/artist/7w44AhUBks0lqRO3bToPWa) | [Scenery](https://open.spotify.com/album/0o6KH6EIH4O1DrgBuad1N3) | 2:17 |
 
-Snapshot ID: `AAAAAGkOP11TW1SRtH8+uz83xWuElN5d`
+Snapshot ID: `AAAAAMHE6leEpRAdW6X5B6FORS6rQTYh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in every corner of modern punk rock\. Cover: Snõõper
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,545 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,548 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 31 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
 | 32 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
 | 33 | [Do It Again](https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do It Again](https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe) | 2:28 |
-| 34 | [Jinx](https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [The New Chaos](https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi) | 1:57 |
-| 35 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
+| 34 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
+| 35 | [Jinx](https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [The New Chaos](https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi) | 1:57 |
 | 36 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
 | 37 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 |
 | 38 | [And a Big Load](https://open.spotify.com/track/5mxDaiHCQ4btY3slwG5l5b) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [And a Big Load](https://open.spotify.com/album/6johubE9tj9mVKstuoxUtx) | 2:53 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 60 | [You](https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Cult Classic](https://open.spotify.com/album/1lDhJzS7NYP0SWQYKWQIPG) | 3:42 |
 | 61 | [diamonds on your dagger](https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [diamonds on your dagger](https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ) | 3:21 |
 | 62 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/7rsfVPsWQg8vwcOfxIKKpz) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [SLEEP WHEN I'M DEAD](https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9) | 2:26 |
-| 63 | [Lose Your Way & Find Yourself](https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Lose Your Way & Find Yourself](https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A) | 3:13 |
-| 64 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
-| 65 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
+| 63 | [Erasure](https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Erasure](https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud) | 3:09 |
+| 64 | [Lose Your Way & Find Yourself](https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Lose Your Way & Find Yourself](https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A) | 3:13 |
+| 65 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
 | 66 | [Isaac Is Typing…](https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [HEAVY JELLY](https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt) | 2:44 |
 | 67 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 68 | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 |

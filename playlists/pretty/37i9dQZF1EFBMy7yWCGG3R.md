@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,500 likes - 268 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,501 likes - 268 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,8 +264,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 254 | [Lights Out](https://open.spotify.com/track/2bbzwRSbPi32yMuy3v3HWf) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [Unbound 02](https://open.spotify.com/album/3jQM4aPSN3pOqkIdQIZJqW) | 3:27 |
 | 255 | [Phantom Feelings](https://open.spotify.com/track/5nh69T8C54CmPc2NQY5zDA) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:52 |
 | 256 | [In the Name of Love](https://open.spotify.com/track/7F1Ph1i1dLl7K8zt2piaxW) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:04 |
-| 257 | [Life is What You Make It](https://open.spotify.com/track/6dXeMpc5L2K5qP3AQwdbvI) | [Joachim Svare](https://open.spotify.com/artist/6VtnSg3EHyN9oHdQcr6cl1), [Joleen Belle](https://open.spotify.com/artist/3eNku0rb4CP4FAgtKHViMV), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Robert Anthony Navarro](https://open.spotify.com/artist/6RW2KUdSmY3lWRPEw6i2ct) | [Burn Series: Ultra Stylish Dance Pop](https://open.spotify.com/album/3AnUHRS91N2h8Q02aE1dH9) | 3:03 |
-| 258 | [Rom Com](https://open.spotify.com/track/5DlkRr6LX51VHk9MTZwKAl) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 3:13 |
+| 257 | [Rom Com](https://open.spotify.com/track/5DlkRr6LX51VHk9MTZwKAl) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 3:13 |
+| 258 | [Life is What You Make It](https://open.spotify.com/track/6dXeMpc5L2K5qP3AQwdbvI) | [Joachim Svare](https://open.spotify.com/artist/6VtnSg3EHyN9oHdQcr6cl1), [Joleen Belle](https://open.spotify.com/artist/3eNku0rb4CP4FAgtKHViMV), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Robert Anthony Navarro](https://open.spotify.com/artist/6RW2KUdSmY3lWRPEw6i2ct) | [Burn Series: Ultra Stylish Dance Pop](https://open.spotify.com/album/3AnUHRS91N2h8Q02aE1dH9) | 3:03 |
 | 259 | [Sway](https://open.spotify.com/track/6yV9zIvGXvFzB964tdq65x) | [White Knight Instrumental](https://open.spotify.com/artist/46mFShagVGedAtk3aIxg4l) | [Instrumental Covers of the Pussycat Dolls](https://open.spotify.com/album/5uACZWBERupfGnOHQmuoxi) | 3:13 |
 | 260 | [Call Me When You Break Up](https://open.spotify.com/track/5fBVuk8KYYixQvROiqrMeK) | [Santi](https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Call Me When You Break Up](https://open.spotify.com/album/1FTJdN3L5MOdQatZmGBX3u) | 2:23 |
 | 261 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 267 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 268 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcE2UgAAAAA7Ioe8b6LTlXdJbT0U5V3N`
+Snapshot ID: `AcE71AAAAACqS/fEoyPpP6ZcMBd5oATN`

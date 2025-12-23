@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
-  "num_followers": 28740,
+  "num_followers": 28744,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "Soranji",
-        "url": "https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb"
+        "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+        "url": "https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 344226,
-      "name": "Soranji",
-      "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
+      "duration_ms": 235682,
+      "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
+      "url": "https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -275,18 +275,18 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
-        "url": "https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX"
+        "name": "Soranji",
+        "url": "https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 235682,
-      "name": "\u30a2\u30a4\u30e9\u30d6\u30e6\u30fc",
-      "url": "https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ"
+      "duration_ms": 344226,
+      "name": "Soranji",
+      "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
-      },
-      "artists": [
-        {
-          "name": "ziproom",
-          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
-    },
-    {
-      "added_at": "2025-12-16 15:00:38",
-      "album": {
         "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
         "url": "https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 134869,
       "name": "\u9154\u3044\u3069\u308c\u77e5\u3089\u305a",
       "url": "https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa"
+    },
+    {
+      "added_at": "2025-12-16 15:00:38",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
     },
     {
       "added_at": "2025-12-16 15:00:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-12-16 15:00:38",
       "album": {
-        "name": "\u785d\u5b50\u7a93",
-        "url": "https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 217817,
-      "name": "\u785d\u5b50\u7a93",
-      "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
-    },
-    {
-      "added_at": "2025-12-16 15:00:38",
-      "album": {
         "name": "\u611b\u304c\u706f\u308b",
         "url": "https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 199117,
       "name": "\u611b\u304c\u706f\u308b",
       "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
+    },
+    {
+      "added_at": "2025-12-16 15:00:38",
+      "album": {
+        "name": "\u785d\u5b50\u7a93",
+        "url": "https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 217817,
+      "name": "\u785d\u5b50\u7a93",
+      "url": "https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: FLY LO, SNIK",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Moose, Sake, Display",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 184615,
       "name": "BAM BAM",
       "url": "https://open.spotify.com/track/7yJbZo0ev4D9ZaJgf1kaYX"
@@ -2463,6 +2463,32 @@
     },
     {
       "album": {
+        "name": "ELATOMA",
+        "url": "https://open.spotify.com/album/3wNW6TYNZP0qLCq83zadeU"
+      },
+      "artists": [
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151565,
+      "name": "ELATOMA",
+      "url": "https://open.spotify.com/track/7mKZSn3sScAiLzlPeUk7NP"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -2896,6 +2922,28 @@
       "duration_ms": 146000,
       "name": "FETIX",
       "url": "https://open.spotify.com/track/6pLi4EGcJvdOWBBQ9fDV0e"
+    },
+    {
+      "album": {
+        "name": "Fetos Ta Xristougenna",
+        "url": "https://open.spotify.com/album/7JD5Wcfn3B4115ejpxVH5B"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Fetos Ta Xristougenna",
+      "url": "https://open.spotify.com/track/6mGuiiyR7mSIgTpNcrWrIt"
     },
     {
       "album": {
@@ -3688,6 +3736,32 @@
       "duration_ms": 159428,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/6z2o8MUXciVpixpC0r0Jsv"
+    },
+    {
+      "album": {
+        "name": "Hey Shawty",
+        "url": "https://open.spotify.com/album/183mB58gA6j6qUdoFBOHcC"
+      },
+      "artists": [
+        {
+          "name": "Moose",
+          "url": "https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Display",
+          "url": "https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165282,
+      "name": "Hey Shawty",
+      "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
     },
     {
       "album": {
@@ -4740,7 +4814,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 141935,
       "name": "LISTEIA",
       "url": "https://open.spotify.com/track/0Kx9GDeRcQyzaMQRqIk12j"
@@ -4920,7 +4994,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 171705,
       "name": "Mamacita",
       "url": "https://open.spotify.com/track/0sh8BOMXIJxPZW1pasio6P"
@@ -7311,6 +7385,28 @@
     },
     {
       "album": {
+        "name": "Sikw Na Fygoume",
+        "url": "https://open.spotify.com/album/5KmMCIbLFUy7H5tl0MLkPJ"
+      },
+      "artists": [
+        {
+          "name": "Novel 729",
+          "url": "https://open.spotify.com/artist/4664bpPyFIkTMQGUVnqeAo"
+        },
+        {
+          "name": "Sumo Beats",
+          "url": "https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "Sikw Na Fygoume",
+      "url": "https://open.spotify.com/track/7J9tAhzAzLOuGEYfdjjYFm"
+    },
+    {
+      "album": {
         "name": "EYE OF THE TIGER",
         "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
       },
@@ -8800,7 +8896,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 158857,
       "name": "WANNABES",
       "url": "https://open.spotify.com/track/1D8IVZP06Clm5B3KJ0u9oC"

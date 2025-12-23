@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,843 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,845 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 20 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
 | 21 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
 | 22 | [Let's Get This Over With](https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Let's Get This Over With](https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j) | 2:47 |
-| 23 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
-| 24 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 |
-| 25 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
+| 23 | [Heartbreak & Roses](https://open.spotify.com/track/4dwuMPhWNdW2Elg452tlCs) | [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Heartbreak & Roses](https://open.spotify.com/album/5QQkKw9pRjGsnxnlZQgIY3) | 5:54 |
+| 24 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
+| 25 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 |
 | 26 | [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 |
 | 27 | [She Needs Lovin' Too](https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Time Jumper](https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25) | 3:06 |
 | 28 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 39152,
+  "num_followers": 39156,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAdvfS6gDiccOKv2qbuEqXn34EWV",
+  "snapshot_id": "AAAAAJ8Y8yhH9pcVtdij3jS/Fi/JLiiP",
   "tracks": [
     {
       "added_at": "2025-12-15 11:39:00",
@@ -459,26 +459,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Gerhard Oppitz Plays Grieg",
-        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
-      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 243000,
       "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
       "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "Gerhard Oppitz Plays Grieg",
+        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
+      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
+        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
+        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Bridal Procession, Op. 19 No. 2",
+      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
         "name": "Grieg: Holberg Suite; Lyric Suite",
         "url": "https://open.spotify.com/album/1svqZTOGQ1yT4t3p5IRDZX"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 211586,
       "name": "Holberg Suite, Op. 40: III. Gavotte. Allegretto",
       "url": "https://open.spotify.com/track/0YoActb51k13W2i8SMx5z4"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
-        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
-        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Yuri Temirkanov",
-          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Bridal Procession, Op. 19 No. 2",
-      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Lyric Pieces Book II, Op. 38: I. Berceuse",
-      "url": "https://open.spotify.com/track/1Wy5fW4R9zU0wQcC7ufHxi"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg: Peer Gynt Suites Nos.1 & 2; From Holberg's Time; Sigurd Jorsalfar",
         "url": "https://open.spotify.com/album/3seAsETnOyscPpXkoblvMw"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 243106,
       "name": "Peer Gynt Suite No. 1, Op. 46: I. Morning Mood",
       "url": "https://open.spotify.com/track/02LTV29lPEu2HB3CKcOI7K"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Lyric Pieces Book II, Op. 38: I. Berceuse",
+      "url": "https://open.spotify.com/track/1Wy5fW4R9zU0wQcC7ufHxi"
     },
     {
       "added_at": "2025-12-15 11:39:00",

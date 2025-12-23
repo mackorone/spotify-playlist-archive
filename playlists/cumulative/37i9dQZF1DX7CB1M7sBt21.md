@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-356 songs - 17 hr 43 min
+357 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-05-30 | 2024-09-03 |
 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 | 2024-04-18 | 2025-05-16 |
 | [Another World \- Stonebridge Remix](https://open.spotify.com/track/5LZR8bhxePtL1krAuf3y6z) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Another World \(Stonebridge Remix\)](https://open.spotify.com/album/4H2qjeO2vxVVAgsWdFlSGp) | 2:54 | 2021-11-19 | 2022-07-24 |
-| [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 | 2025-08-11 |  |
+| [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 | 2025-08-11 | 2025-12-23 |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2025-08-11 |  |
 | [Bass Goes Down](https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Bass Goes Down](https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0) | 2:24 | 2021-11-19 | 2022-06-22 |
 | [Be Happy](https://open.spotify.com/track/1WQuhznklzuM2xgGoGkg7m) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Be Happy](https://open.spotify.com/album/6uI0mITBz4yg5CbTleGPyu) | 3:01 | 2021-11-19 | 2022-07-29 |
@@ -194,6 +194,7 @@
 | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/track/601pOTGkiTqGFpAtphsZDx) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Love Hurt Repeat \(feat\. Mae Muller\)](https://open.spotify.com/album/3egxqN0wJ8CMeVbtRZYN3s) | 2:38 | 2024-01-11 | 2024-08-09 |
 | [Love Me Now](https://open.spotify.com/track/5pgwmLQHdWJlx3u5X15HXF) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Love Me Now](https://open.spotify.com/album/5llcK6YgjwFK0ladOHjbDu) | 2:52 | 2021-11-19 | 2022-07-28 |
 | [Love On Repeat](https://open.spotify.com/track/6JBfByv9Um8aeC8nHKnC0O) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Love On Repeat](https://open.spotify.com/album/5Q61Eji3KCqpc0xnVizPEd) | 2:19 | 2024-05-16 | 2024-10-28 |
+| [Love to Hate You \- 2009 Remaster](https://open.spotify.com/track/2vv4A2yL07lVmoApWI0OLk) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [Total Pop! \- The First 40 Hits \(Deluxe Edition\)](https://open.spotify.com/album/3WGNURfbBFMIjDRdESTHxr) | 3:56 | 2025-08-11 |  |
 | [MAGNET \(with MAX\)](https://open.spotify.com/track/7yaU5ku53ZS7bmivN9ZYzg) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [MAGNET \(with MAX\)](https://open.spotify.com/album/27RxJ1eplbfpUmIX529vcu) | 3:22 | 2024-05-30 | 2024-08-08 |
 | [Make It Count](https://open.spotify.com/track/6qroXN9iyKNG6mP0Ddvh1b) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Just\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Make It Count](https://open.spotify.com/album/7yRpzkneNaRzDwq6BGvtsi) | 3:33 | 2023-12-08 | 2024-01-28 |
 | [Mambo No\. 5 \(a Little Bit of...\)](https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs) | [Lou Bega](https://open.spotify.com/artist/46lnlnlU0dXTDpoAUmH6Qx) | [A Little Bit of Mambo](https://open.spotify.com/album/13BmLGhVCLBn3XzKB8HIai) | 3:40 | 2025-08-11 |  |

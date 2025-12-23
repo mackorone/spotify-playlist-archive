@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Wycleff Jean",
-  "num_followers": 184589,
+  "num_followers": 184595,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "Al-Kimiya, Ato I",
-        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
-      },
-      "artists": [
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "MergulhoFundo",
-      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
-    },
-    {
-      "added_at": "2025-12-12 03:33:31",
-      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 168063,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
+    },
+    {
+      "added_at": "2025-12-12 03:33:31",
+      "album": {
+        "name": "Al-Kimiya, Ato I",
+        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
+      },
+      "artists": [
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "duration_ms": 256017,
+      "name": "MergulhoFundo",
+      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -823,22 +823,26 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "Onda",
-        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
+        "name": "Cansei De Chorar Seu Nome",
+        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
         }
       ],
-      "duration_ms": 245714,
-      "name": "Meu I\u00f4 I\u00f4",
-      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
+      "duration_ms": 224938,
+      "name": "Cansei De Chorar Seu Nome",
+      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -863,26 +867,22 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "Cansei De Chorar Seu Nome",
-        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
+        "name": "Onda",
+        "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
       "artists": [
         {
-          "name": "Rafael Stonne",
-          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         },
         {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 224938,
-      "name": "Cansei De Chorar Seu Nome",
-      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+      "duration_ms": 245714,
+      "name": "Meu I\u00f4 I\u00f4",
+      "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
+    },
+    {
+      "added_at": "2025-12-12 03:33:31",
+      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
-    },
-    {
-      "added_at": "2025-12-12 03:33:31",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+    },
+    {
+      "added_at": "2025-12-12 03:33:31",
+      "album": {
         "name": "Sobrenome",
         "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2025-12-12 03:33:31",
-      "album": {
         "name": "Lingerie Branca",
         "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
       },
@@ -1219,26 +1219,6 @@
       "duration_ms": 239029,
       "name": "Lingerie Branca",
       "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
-    },
-    {
-      "added_at": "2025-12-12 03:33:31",
-      "album": {
-        "name": "Tempo Que N\u00e3o Volta",
-        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
-      },
-      "artists": [
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Tempo Que N\u00e3o Volta",
-      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -1259,6 +1239,26 @@
       "duration_ms": 153375,
       "name": "Tudo Que Eu Sempre Quis",
       "url": "https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE"
+    },
+    {
+      "added_at": "2025-12-12 03:33:31",
+      "album": {
+        "name": "Tempo Que N\u00e3o Volta",
+        "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
+      },
+      "artists": [
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Tempo Que N\u00e3o Volta",
+      "url": "https://open.spotify.com/track/04LgQStgNUeX3YWZ89Brk8"
     },
     {
       "added_at": "2025-12-12 03:33:31",

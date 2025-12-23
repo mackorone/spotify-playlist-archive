@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-440 songs - 1 day 2 hr 10 min
+443 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [For Me](https://open.spotify.com/track/1FGjH3f58LuPxDzG6Xv2rV) | [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr) | [For Me](https://open.spotify.com/album/0DcP71YbWOF21kCQpQVR2c) | 3:06 | 2023-08-27 | 2023-09-26 |
 | [Fragile Beat](https://open.spotify.com/track/16LvEwnxrXS4t6oLrBQ6D0) | [greedo](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Fragile Beat](https://open.spotify.com/album/1jdYr5n0Z8GIhS3jGt5ZYS) | 4:11 | 2023-09-24 | 2023-12-14 |
 | [Freak](https://open.spotify.com/track/4LMkddDKX4H7YiRvDdFEIe) | [GREEDO](https://open.spotify.com/artist/3yu7ddRCRTmHlxmz7NWO0c) | [Freak](https://open.spotify.com/album/7wpmdRuDdvRurwIaqpVRby) | 4:22 | 2024-07-07 |  |
+| [Freedom](https://open.spotify.com/track/20WZgi2q6JGlxZzqm7i0Qp) | [DARCOS LIFE](https://open.spotify.com/artist/0C2us4WTI9QWkRCl7eGkFv) | [FREEDOM](https://open.spotify.com/album/7p5uoOkagCvaVVHHH8zeJS) | 5:50 | 2025-12-22 |  |
 | [Freedom](https://open.spotify.com/track/4kvUFWcraZeRn2jFMBeJjN) | [Siege](https://open.spotify.com/artist/3Y7jEjvZAosFRghJl62VNd) | [Freedom](https://open.spotify.com/album/58ybAeIzZzWhc7nD3WABxe) | 3:38 | 2023-03-05 | 2023-03-20 |
 | [Fresh](https://open.spotify.com/track/0XgWrOR3YvrdSfRgT2IpfQ) | [Badjokes](https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD) | [Fresh](https://open.spotify.com/album/25c0NcIfrsEEwytlmyTSLW) | 3:03 | 2023-04-23 | 2023-05-15 |
 | [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-07-16 | 2023-08-20 |
@@ -215,6 +216,7 @@
 | [I Feel It Right](https://open.spotify.com/track/5Y5xn6cEjXtsba5ZvVLDs6) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [I Feel It Right](https://open.spotify.com/album/4rXiZ2mWYsuPuxy2dv4fD6) | 3:04 | 2023-04-30 | 2023-05-23 |
 | [I Wanna Rock](https://open.spotify.com/track/6HOqLBmMCQMPnyPZcqYAP2) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [I Wanna Rock EP](https://open.spotify.com/album/0hzTSt06DUwPQRgsDCuzqK) | 5:41 | 2023-06-11 | 2023-07-03 |
 | [I Want to be](https://open.spotify.com/track/4Xu7Jzud5lcgt0tWLbjpWe) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu), [Mauro Fiore](https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA) | [I Want to be](https://open.spotify.com/album/17lhDcl1Pixl7IbOjf6iN3) | 4:20 | 2025-11-28 |  |
+| [I Want You](https://open.spotify.com/track/5Ak9hMcjJe9VyHMvJ3yLZm) | [Ivan Cerlino](https://open.spotify.com/artist/1doUBC0Ee53o82RkNITRqZ) | [I Want You](https://open.spotify.com/album/1PCEA9vR0bnGlQLP6SzWI6) | 5:17 | 2025-12-22 |  |
 | [I'm Crazy](https://open.spotify.com/track/1Jhmughb25ns8f9DfWgl5d) | [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS) | [I'm Crazy](https://open.spotify.com/album/1qQgSs2PUqB8r3hOPYtUd9) | 4:38 | 2023-02-12 | 2023-03-13 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-05 | 2024-01-15 |
 | [In My Brain](https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [In My Brain](https://open.spotify.com/album/5fT2Hkzx9dhJCPsffatJDu) | 3:34 | 2023-03-05 | 2023-03-20 |
@@ -431,6 +433,7 @@
 | [What You Gonna Do](https://open.spotify.com/track/0tXTIMzReuxOi6aK6a45W4) | [Papa Marlin](https://open.spotify.com/artist/1iVXBrMrQuRDgkZLnM7vCR), [Bondar](https://open.spotify.com/artist/2vEw53LUCi53eepaZUzbl8) | [What You Gonna Do](https://open.spotify.com/album/0ys5yYFIWWea3GOjhu6NBE) | 3:40 | 2023-09-17 | 2023-12-14 |
 | [What?!](https://open.spotify.com/track/6OjuhFJWcKpvy9VsCSS0vV) | [Simon Ricci](https://open.spotify.com/artist/0yZzFyRzS1w61VNtQYCagB), [Gosts](https://open.spotify.com/artist/6hMxBHVIRXtr1njOIOv8aS) | [What?!](https://open.spotify.com/album/61zASyQB1pIxGBOCye0lsE) | 3:22 | 2023-07-16 | 2023-08-28 |
 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [TEKO](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 | 2024-10-13 |  |
+| [Will You Come Back \- Radio Mix](https://open.spotify.com/track/4XjiZgrAi8bJqywg9YJCY2) | [Angelo Draetta](https://open.spotify.com/artist/16gj3v4KRvdAt6jEZZHX7k) | [Will You Come Back](https://open.spotify.com/album/41ID9K7lNifF62rpmvcGxy) | 3:58 | 2025-12-22 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/2VvUvR1Cet5eNEb8TyjxW7) | [DYEPA'](https://open.spotify.com/artist/7b7hWy8ITrscmKdRb8WjMv) | [WITHOUT YOU](https://open.spotify.com/album/0vW2qzjESsMoebRpfhf3q0) | 3:08 | 2025-12-16 |  |
 | [Work It](https://open.spotify.com/track/7jAbu1bvEH0lgWO6860KXw) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ) | [Milano Downtown III](https://open.spotify.com/album/5abIHUF2v00mKzgEqfalya) | 3:12 | 2024-10-13 |  |
 | [Wrop](https://open.spotify.com/track/5Fqu16jHDbR0fNrYkAp9LX) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Wrop](https://open.spotify.com/album/7uLfUrSKlyq6Jii0C05JaH) | 5:43 | 2023-11-26 | 2024-02-05 |

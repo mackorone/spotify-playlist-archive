@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 209013,
+  "num_followers": 209011,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOrrBS7rR7ag82kjYeqsbuyAudM",
+  "snapshot_id": "AAAAAHinlNDmu999S/FoRANkNZE2N8Pq",
   "tracks": [
     {
       "added_at": "2025-12-14 00:14:14",
@@ -611,18 +611,22 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
+        "name": "God Made You (feat. Kieran the Light)",
+        "url": "https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi"
       },
       "artists": [
         {
-          "name": "Drakeford",
-          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+          "name": "2 Lane Summer",
+          "url": "https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
         }
       ],
-      "duration_ms": 158260,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
+      "duration_ms": 202771,
+      "name": "God Made You (feat. Kieran the Light)",
+      "url": "https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -643,22 +647,18 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
-        "name": "God Made You (feat. Kieran the Light)",
-        "url": "https://open.spotify.com/album/44xQdFrxHxdJHAFjDznLdi"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d"
       },
       "artists": [
         {
-          "name": "2 Lane Summer",
-          "url": "https://open.spotify.com/artist/1lpP9gqecnWWWZntVDa391"
-        },
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+          "name": "Drakeford",
+          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
         }
       ],
-      "duration_ms": 202771,
-      "name": "God Made You (feat. Kieran the Light)",
-      "url": "https://open.spotify.com/track/2j4HLLqfgkeXLK00uAoIKK"
+      "duration_ms": 158260,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
-        "name": "The Magic",
-        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 189862,
-      "name": "The Magic",
-      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 191476,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 189862,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 287662,
+      "name": "What Matters (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
         "name": "With Love, Anike",
         "url": "https://open.spotify.com/album/0LHtU4Hcv2OEfW3xaBHX4p"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 216446,
       "name": "SHOW ME LOVE AGAIN",
       "url": "https://open.spotify.com/track/0r3fryvorHwYl4pPIJilco"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 287662,
-      "name": "What Matters (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
-        "name": "Forever the Love of My Life",
-        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Forever the Love of My Life",
-      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
         "name": "Capuchino de Amor",
         "url": "https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 298092,
       "name": "Capuchino de Amor",
       "url": "https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
+        "name": "Forever the Love of My Life",
+        "url": "https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Forever the Love of My Life",
+      "url": "https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
+        "name": "Good Love (feat. Kim Burrell)",
+        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Good Love (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 199125,
       "name": "Free Fallin",
       "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
-        "name": "Good Love (feat. Kim Burrell)",
-        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Good Love (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 214142,
       "name": "I Do",
       "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2025-12-14 00:14:14",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2025-12-14 00:14:14",
       "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq"
+      },
+      "artists": [
+        {
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+        }
+      ],
+      "duration_ms": 231501,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs"
+    },
+    {
+      "added_at": "2025-12-14 00:14:14",
+      "album": {
         "name": "COME MY WAY",
         "url": "https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 180000,
       "name": "COME MY WAY",
       "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
-    },
-    {
-      "added_at": "2025-12-14 00:14:14",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq"
-      },
-      "artists": [
-        {
-          "name": "Ki Alexis",
-          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
-        }
-      ],
-      "duration_ms": 231501,
-      "name": "SAFE",
-      "url": "https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs"
     },
     {
       "added_at": "2025-12-14 00:14:14",

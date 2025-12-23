@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 23 min
+56 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [China Heart](https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 3:42 | 2025-10-28 |  |
 | [Come with Us](https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Familia](https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6) | 3:54 | 2025-10-28 |  |
 | [Crying at the Discotheque](https://open.spotify.com/track/2m3c0Fe9teHlUKlOfFgOd8) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 3:51 | 2025-10-28 |  |
+| [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 | 2025-12-23 |  |
 | [Dolce Vita](https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:31 | 2025-10-28 | 2025-12-19 |
 | [Everything is Sweet](https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:49 | 2025-10-28 |  |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2025-10-28 |  |
@@ -54,7 +55,7 @@
 | [Take Me Home \(A Girl Like Me\)](https://open.spotify.com/track/07ZTvfoluBks7V4kvQHelJ) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Jeremy Wheatley](https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 4:06 | 2025-10-28 |  |
 | [Taste](https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 2:50 | 2025-10-28 |  |
 | [The Calming](https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF) | [Andy Bell](https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [The Crown Jewels \- Ten Crowns \(DELUXE\)](https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R) | 3:24 | 2025-12-19 |  |
-| [The Deer & the Wolf](https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 3:54 | 2025-11-21 |  |
+| [The Deer & the Wolf](https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 3:54 | 2025-11-21 | 2025-12-23 |
 | [Time](https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 4:08 | 2025-10-28 |  |
 | [Today The Sun's On Us](https://open.spotify.com/track/3KqFrUNkrv3TntnvM3hx8T) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic](https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw) | 4:16 | 2025-10-28 |  |
 | [True Faith \- BBC Session](https://open.spotify.com/track/5smOkIgfWYhfZmAoDM71Qk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 5:02 | 2025-10-28 |  |

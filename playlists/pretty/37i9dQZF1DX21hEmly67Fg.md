@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,428 likes - 129 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,532 likes - 129 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 4 | [Messy](https://open.spotify.com/track/2ANTI6TG8iFWFkL5GuoRVy) | [Emma Lorents](https://open.spotify.com/artist/2Oa3OJROOoFrIZCPV8Tegc) | [Messy](https://open.spotify.com/album/2eI3EnkFvNs950naBZWZFL) | 3:35 |
 | 5 | [I'm Not That Girl \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/5iAwczYczwYLSlj5U6cAkY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [I'm Not That Girl \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/78iuWg2dMz742JICVfV5Fk) | 2:42 |
 | 6 | [As It Was](https://open.spotify.com/track/6BtLaWYYnxcObhjdGqpuNi) | [Darius Holland](https://open.spotify.com/artist/2LuKu3ADzYNgrpnLwJCiFU) | [As It Was](https://open.spotify.com/album/4Xq8MuUowgvQq7jbKkirEk) | 3:09 |
-| 7 | [Roar](https://open.spotify.com/track/4bt7e9xRM28F0L7WcMMXtu) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Roar](https://open.spotify.com/album/2UF1M1BPLZhqgPcnki1mLj) | 2:58 |
-| 8 | [The A Team](https://open.spotify.com/track/69Q1L0hNIqfoxiKLpH0Mqc) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [The A Team](https://open.spotify.com/album/2iiZrN66jif43eBFSYspqf) | 2:38 |
-| 9 | [Go Your Own Way](https://open.spotify.com/track/4mMLrH3ziuu2yOvjoVDfJm) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Go Your Own Way](https://open.spotify.com/album/2fbX8alZGpHhnsVJ9qAzhx) | 2:06 |
+| 7 | [The A Team](https://open.spotify.com/track/69Q1L0hNIqfoxiKLpH0Mqc) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [The A Team](https://open.spotify.com/album/2iiZrN66jif43eBFSYspqf) | 2:38 |
+| 8 | [Roar](https://open.spotify.com/track/4bt7e9xRM28F0L7WcMMXtu) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Roar](https://open.spotify.com/album/2UF1M1BPLZhqgPcnki1mLj) | 2:58 |
+| 9 | [That’s So True](https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [That’s So True](https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB) | 2:22 |
 | 10 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
-| 11 | [That’s So True](https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [That’s So True](https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB) | 2:22 |
+| 11 | [Go Your Own Way](https://open.spotify.com/track/4mMLrH3ziuu2yOvjoVDfJm) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Go Your Own Way](https://open.spotify.com/album/2fbX8alZGpHhnsVJ9qAzhx) | 2:06 |
 | 12 | [Man I Need](https://open.spotify.com/track/6iNqBfDCNF2D1f3milOqY4) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [Man I Need](https://open.spotify.com/album/3eDOnV1wk7cpsNWmQDn2X9) | 2:43 |
 | 13 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 |
 | 14 | [Ruin The Friendship](https://open.spotify.com/track/1dtxhTQxcFYIBe4dIJPl8q) | [A Chance To Dream](https://open.spotify.com/artist/4AcyyxYM1TvsUUxNS8bPqk) | [Ruin The Friendship](https://open.spotify.com/album/75IVkRwS965QfdrfDYgyn7) | 2:51 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 128 | [Fields Of Gold](https://open.spotify.com/track/52CkW7MdufnpFnbmeO8N37) | [Bergamotte](https://open.spotify.com/artist/0QVlzUbTtqzrqC2wXYvA9V) | [Fields Of Gold](https://open.spotify.com/album/6v27YNez0QOmgSoK4KblXD) | 2:37 |
 | 129 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 |
 
-Snapshot ID: `AAAAAH/Vug5xoUT9RFkuRnfpd3BwtZ4L`
+Snapshot ID: `AAAAACNWolZqANYOaOzFVIkCS3GMYzr/`

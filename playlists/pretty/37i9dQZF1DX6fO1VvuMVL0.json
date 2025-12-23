@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 146961,
+  "num_followers": 147028,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "West Coast Live",
         "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 727266,
       "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
       "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
-        "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 338732,
-      "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
-      "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "The Jimmy Giuffre 3",
         "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "The Complete 'Round About Midnight At The Cafe Bohemia (Live)",
+        "url": "https://open.spotify.com/album/5Ebfr97h9GFzqx68SXhKG0"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 598026,
-      "name": "Afternoon in Paris",
-      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
+      "duration_ms": 338732,
+      "name": "Monaco - Set 1 / Live From Cafe Bohemia/1956",
+      "url": "https://open.spotify.com/track/3xPGQOckEwKVv4JpqcVLpi"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -831,6 +815,22 @@
       "duration_ms": 288106,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/72mQKpTSTOs7fZDSEOE2XN"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+      },
+      "artists": [
+        {
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+        }
+      ],
+      "duration_ms": 598026,
+      "name": "Afternoon in Paris",
+      "url": "https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -971,18 +971,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+        "name": "Bird Feathers (Remastered)",
+        "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
       "artists": [
         {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Show Me - Instrumental",
-      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+      "duration_ms": 352440,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Bird Feathers (Remastered)",
-        "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
       "artists": [
         {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
         }
       ],
-      "duration_ms": 352440,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
+      "duration_ms": 221693,
+      "name": "Show Me - Instrumental",
+      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Meet the Jazztet",
-        "url": "https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc"
+        "name": "The Mellow Sound Of Stan Getz",
+        "url": "https://open.spotify.com/album/4CbjL4uyaqDyaBRTyfrdzy"
       },
       "artists": [
         {
-          "name": "Art Farmer & Benny Golson",
-          "url": "https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 270866,
-      "name": "It Ain't Necessarily So",
-      "url": "https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC"
+      "duration_ms": 178200,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Mellow Sound Of Stan Getz",
-        "url": "https://open.spotify.com/album/4CbjL4uyaqDyaBRTyfrdzy"
+        "name": "Meet the Jazztet",
+        "url": "https://open.spotify.com/album/56OywEvg2cq2C75EPzpGRc"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Art Farmer & Benny Golson",
+          "url": "https://open.spotify.com/artist/7wBmz5nj8jTmGvQXQC2EqT"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
+      "duration_ms": 270866,
+      "name": "It Ain't Necessarily So",
+      "url": "https://open.spotify.com/track/1XjlS8YfcN2E4OJQ5CgOQC"
     },
     {
       "added_at": "2024-07-08 07:01:17",

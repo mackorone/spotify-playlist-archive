@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637 likes - 155 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 636 likes - 155 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 140 | [Tiffany](https://open.spotify.com/track/35WGvwOw4Be7RGXna1IvCJ) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:35 |
 | 141 | [Flame Indigo](https://open.spotify.com/track/6CeZy1DpklSJtAiDLJDRUs) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:34 |
 | 142 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 |
-| 143 | [Lozit](https://open.spotify.com/track/4xBCIDH136EpQCzmbQqN1k) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:20 |
-| 144 | [Blue House](https://open.spotify.com/track/7pDvQGCUCIuUj9H4dxzQ1q) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 4:20 |
+| 143 | [Blue House](https://open.spotify.com/track/7pDvQGCUCIuUj9H4dxzQ1q) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Something To Live For: The Music of Billy Strayhorn](https://open.spotify.com/album/49zze2JVgBNviHLK21YYON) | 4:20 |
+| 144 | [Lozit](https://open.spotify.com/track/4xBCIDH136EpQCzmbQqN1k) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:20 |
 | 145 | [Double Ruff](https://open.spotify.com/track/2rqPTnyEzokTazwWyLDtT7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Duke Ellington Vol\. 4](https://open.spotify.com/album/5WS8fJoxWB7mhL7lixYmUL) | 2:50 |
 | 146 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 147 | [Fol\-de\-Rol\-Rol](https://open.spotify.com/track/6tlP53If003USpWDe0yy2d) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 2:35 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 154 | [Rhumbop](https://open.spotify.com/track/6ebY9lVt94BL4VWduLL0eq) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 3:29 |
 | 155 | [Up and Down, up and Down \(I Will Lead Them up and Down\)](https://open.spotify.com/track/2miKp3bcM2dEB9FmLOG9nT) | [Czechoslovak Radio Jazz Orchestra](https://open.spotify.com/artist/6YynL3WAOLrsD1V7JFgkJc) | [Duke Ellington: Such Sweet Thunder](https://open.spotify.com/album/10AJORtPWhhRy02XfXgZ5C) | 2:52 |
 
-Snapshot ID: `AcE2ZgAAAAB8xXcB/NYIc6zoFlZvilhP`
+Snapshot ID: `AcE8BgAAAACfbEaSdjYM3vvrv0kvpRZ3`

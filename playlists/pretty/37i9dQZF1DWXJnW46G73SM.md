@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: تومي
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: احمد بهاء \(بوب\) وليجي\-سي
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,602 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,657 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ghaltan](https://open.spotify.com/track/0IiblwxKV0zYWi0cIKmDKy) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Ayam W Layaly](https://open.spotify.com/album/5EDVe7bZRco2iad2XD3kIo) | 2:50 |
-| 2 | [اهدى](https://open.spotify.com/track/5JlTukGLAu97KMeIz9EdCM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [احكي \(الوجه الأول\)](https://open.spotify.com/album/4Uu12iDqBd2oruxXKXnmMi) | 3:32 |
-| 3 | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 |
-| 4 | [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 |
-| 5 | [Msh Kol Marra \(feat\. Nasser\)](https://open.spotify.com/track/3vMKJWo7J3ZbqQk9LFmjGm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:40 |
-| 6 | [Ya Sater](https://open.spotify.com/track/3NHYBkPCKgfkBSbMkDHfwm) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Ya Sater](https://open.spotify.com/album/6TSZl2sZNam45djO6xSaxF) | 2:42 |
-| 7 | [معايا](https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [معايا](https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli) | 3:12 |
-| 8 | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/album/1Qp5YULtFOO9eRjBINHVex) | 3:36 |
-| 9 | [Dar Ya Dar](https://open.spotify.com/track/1WqKFqHee90P5uwE2J3V54) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [الحاجة نبيلة](https://open.spotify.com/artist/3eu7YMmY0EZxK3MG0KbpZQ) | [Dar Ya Dar](https://open.spotify.com/album/6OzeetSg0flzxY4rcLVg8l) | 3:26 |
-| 10 | [3ala Baly](https://open.spotify.com/track/4Q3WRRpjT9ORG6FlHOoT4l) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Ayam W Layaly](https://open.spotify.com/album/5EDVe7bZRco2iad2XD3kIo) | 2:24 |
-| 11 | [Moshkela \(feat\. Yonyo\)](https://open.spotify.com/track/3jrIY5AdnMEQoDie63W576) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 2:35 |
-| 12 | [بتاعتي انا](https://open.spotify.com/track/606o1ZXOEBscuG5vQAUeY5) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [بتاعتي انا](https://open.spotify.com/album/7aTXtnOPYoKLzzlZkXAf32) | 2:32 |
-| 13 | [Baad Meni](https://open.spotify.com/track/7voxWvCzZu0z8NuGQITDfa) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Lessa Hai](https://open.spotify.com/album/0YsWpEcasU48MkWRJASUp7) | 3:05 |
-| 14 | [الشيلة كاملة](https://open.spotify.com/track/2zcj3khSBeJMnSv50SFwHs) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الشيلة كاملة](https://open.spotify.com/album/5vXeOyhnAJDwqJs9v6oHJv) | 3:54 |
-| 15 | [حقك عليا](https://open.spotify.com/track/4XVtZ7uB7fTeFnVicTjTlX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [حقك عليا](https://open.spotify.com/album/299nUvUM4oB62rtZhbtUbb) | 2:10 |
+| 1 | [Sahran Belel](https://open.spotify.com/track/3FtABfvxUrz5f8TuVep8fd) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Sahran Belel](https://open.spotify.com/album/4iamoKuuOpYI6PJuBD5eO1) | 3:02 |
+| 2 | [Ghaltan](https://open.spotify.com/track/0IiblwxKV0zYWi0cIKmDKy) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Ayam W Layaly](https://open.spotify.com/album/5EDVe7bZRco2iad2XD3kIo) | 2:50 |
+| 3 | [اهدى](https://open.spotify.com/track/5JlTukGLAu97KMeIz9EdCM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [احكي \(الوجه الأول\)](https://open.spotify.com/album/4Uu12iDqBd2oruxXKXnmMi) | 3:32 |
+| 4 | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Moataz Mady](https://open.spotify.com/artist/11Yf1JoZahEhob9eSkqaVv), [Red Bull Sika](https://open.spotify.com/artist/2V1MWcYHvKbyzBxqy0rryW) | [Be3teeny Leh \| Red Bull Mazzika Salonat](https://open.spotify.com/album/02aEAfQBBPr2ep2jmIOfam) | 3:35 |
+| 5 | [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 |
+| 6 | [Msh Kol Marra \(feat\. Nasser\)](https://open.spotify.com/track/3vMKJWo7J3ZbqQk9LFmjGm) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:40 |
+| 7 | [Ya Sater](https://open.spotify.com/track/3NHYBkPCKgfkBSbMkDHfwm) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Ya Sater](https://open.spotify.com/album/6TSZl2sZNam45djO6xSaxF) | 2:42 |
+| 8 | [معايا](https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [معايا](https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli) | 3:12 |
+| 9 | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Kalam Forsan \(feat\. Mohamed Mounir\)](https://open.spotify.com/album/1Qp5YULtFOO9eRjBINHVex) | 3:36 |
+| 10 | [Dar Ya Dar](https://open.spotify.com/track/1WqKFqHee90P5uwE2J3V54) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [الحاجة نبيلة](https://open.spotify.com/artist/3eu7YMmY0EZxK3MG0KbpZQ) | [Dar Ya Dar](https://open.spotify.com/album/6OzeetSg0flzxY4rcLVg8l) | 3:26 |
+| 11 | [3ala Baly](https://open.spotify.com/track/4Q3WRRpjT9ORG6FlHOoT4l) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Ayam W Layaly](https://open.spotify.com/album/5EDVe7bZRco2iad2XD3kIo) | 2:24 |
+| 12 | [Moshkela \(feat\. Yonyo\)](https://open.spotify.com/track/3jrIY5AdnMEQoDie63W576) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 2:35 |
+| 13 | [بتاعتي انا](https://open.spotify.com/track/606o1ZXOEBscuG5vQAUeY5) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [بتاعتي انا](https://open.spotify.com/album/7aTXtnOPYoKLzzlZkXAf32) | 2:32 |
+| 14 | [Baad Meni](https://open.spotify.com/track/7voxWvCzZu0z8NuGQITDfa) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Lessa Hai](https://open.spotify.com/album/0YsWpEcasU48MkWRJASUp7) | 3:05 |
+| 15 | [الشيلة كاملة](https://open.spotify.com/track/2zcj3khSBeJMnSv50SFwHs) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الشيلة كاملة](https://open.spotify.com/album/5vXeOyhnAJDwqJs9v6oHJv) | 3:54 |
 | 16 | [Wenak](https://open.spotify.com/track/4OLkFHPJsobeRaSe7YU6BG) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Wenak](https://open.spotify.com/album/7FiqZa8hMmvkCuUftjj0br) | 3:00 |
 | 17 | [Khazalni](https://open.spotify.com/track/2nzCYsxnaiaERW1u61aMYm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Khazalni](https://open.spotify.com/album/6MJTt197mONL1Nsf1sP7Vh) | 4:04 |
 | 18 | [Lessa Wahshani](https://open.spotify.com/track/2vLzSY7XCBWHVy6VKAH7Qd) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Lessa Hai](https://open.spotify.com/album/0YsWpEcasU48MkWRJASUp7) | 3:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [WALA MEEN](https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [WALA MEEN](https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP) | 3:12 |
 | 60 | [Laeitak Shar](https://open.spotify.com/track/3AeQZNIEv0ofHWv4jmWvCf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Laeitak Shar](https://open.spotify.com/album/1dv6ElDgQzNP1mBOQDyehx) | 3:30 |
 
-Snapshot ID: `AAAAAGlCiyTSGAC8RZNacLlJqUhqyl7W`
+Snapshot ID: `AAAAAEJfp1CWtLLHOo6DiO24v7IoqL34`

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 62400,
+  "num_followers": 62414,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAARsDPW8Np2luzi3EVi8aoj",
+  "snapshot_id": "aUc4gAAAAABsvFrJOHiTRKKuHvEL1U0n",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 165930,
-      "name": "Por Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr"
+      "duration_ms": 170965,
+      "name": "Triste Historia",
+      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 170965,
-      "name": "Triste Historia",
-      "url": "https://open.spotify.com/track/6gisw2l8eODktsWPknZNvK"
+      "duration_ms": 165930,
+      "name": "Por Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/25Mzk9mO2Dumb2PLzVpWjr"
     },
     {
       "added_at": null,
@@ -807,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Equipados",
-        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
       "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 170461,
-      "name": "Bien Equipados",
-      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,
@@ -843,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
+        "name": "Bien Equipados",
+        "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
       "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
+      "duration_ms": 170461,
+      "name": "Bien Equipados",
+      "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
     },
     {
       "added_at": null,

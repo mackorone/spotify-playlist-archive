@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Frank Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,300 likes - 109 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,312 likes - 109 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 7 | [Good God](https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Good God](https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4) | 14:49 |
 | 8 | [He is here](https://open.spotify.com/track/1VS42tlo2MkEONtUrukGyq) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [He is here](https://open.spotify.com/album/70p4sKwENVh9wg0iE2yNzi) | 3:01 |
 | 9 | [the sound of being okay](https://open.spotify.com/track/3SwukFJJk27HmmDnhaBImE) | [Rhea Marcia](https://open.spotify.com/artist/4Bo5E56WyNTJjVyxbRhksJ) | [the sound of being okay](https://open.spotify.com/album/5bmY6uvR88LXQUldxjMwPt) | 3:17 |
-| 10 | [O BA MI SE](https://open.spotify.com/track/43RlWOMFF1DEj2OwZmkqL3) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [O BA MI SE](https://open.spotify.com/album/72TQzaVzyTyHFWmhdJqSp5) | 3:59 |
+| 10 | [Ó BÁ MI ȘE](https://open.spotify.com/track/43RlWOMFF1DEj2OwZmkqL3) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [Ó BÁ MI ȘE](https://open.spotify.com/album/72TQzaVzyTyHFWmhdJqSp5) | 3:59 |
 | 11 | [The Good News: TGN](https://open.spotify.com/track/7H08aZWSuRkq3Mxn9jW9AK) | [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Charis\-Rehoboth](https://open.spotify.com/artist/4oMf6vCW0Qe2xL4dNAu6yR), [Tobi Kay](https://open.spotify.com/artist/6PXX89E2IHh8zpEZ7o5129) | [Something Good For Christmas](https://open.spotify.com/album/4W9TqyoT452rhCCZAkKDoW) | 3:21 |
 | 12 | [Faithful to the End](https://open.spotify.com/track/2GRAmuah73qex9gdtIXzPS) | [FHP](https://open.spotify.com/artist/5Scr9fUfWVlS8JmT9delI1) | [Faithful to the End](https://open.spotify.com/album/1oQV9eAK1MvtlwqDZnWtaD) | 5:00 |
 | 13 | [YABO \(flow\)](https://open.spotify.com/track/2jj3gS6ssQyOPEYt8OqJg7) | [AJ Cephas](https://open.spotify.com/artist/779hpkbMI5XZ26k7i3nqft) | [YABO \(flow\)](https://open.spotify.com/album/6t7du19RdQPAFgldrN5hoB) | 2:52 |

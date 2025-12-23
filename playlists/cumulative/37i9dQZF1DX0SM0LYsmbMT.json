@@ -16971,6 +16971,24 @@
     },
     {
       "album": {
+        "name": "croissant",
+        "url": "https://open.spotify.com/album/35lDGrKZwZdXr0tHTZ4dzO"
+      },
+      "artists": [
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "croissant",
+      "url": "https://open.spotify.com/track/1cujdkrM2iOGIkbNqvwRx1"
+    },
+    {
+      "album": {
         "name": "Crooked Mirror of the Soul",
         "url": "https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle"
       },
@@ -16982,7 +17000,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 111000,
       "name": "Crooked Mirror of the Soul",
       "url": "https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe"

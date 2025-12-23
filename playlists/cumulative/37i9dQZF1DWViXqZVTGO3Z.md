@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
-513 songs - 1 day 9 hr 17 min
+514 songs - 1 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Manger Throne](https://open.spotify.com/track/5mNCEaVEU2pA1ux6IZ8S5e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hallelujah! It's Christmas!](https://open.spotify.com/album/3MaCYkBn53nBUutcE18cCI) | 4:20 | 2024-12-08 |  |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:04 | 2022-11-26 | 2025-11-06 |
 | [Mary & Joseph](https://open.spotify.com/track/6Hg7qEygUthwiVVmbFh5kO) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Every December](https://open.spotify.com/album/6LxUBndkfp7428XpNOLyY4) | 4:04 | 2025-11-16 |  |
-| [MARY DID YOU KNOW](https://open.spotify.com/track/45I3HDHgs2lXnuhA5pBO2p) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MARY DID YOU KNOW](https://open.spotify.com/album/6068cDzDC3VHlcbsEcfbZM) | 4:03 | 2024-11-17 |  |
+| [MARY DID YOU KNOW](https://open.spotify.com/track/45I3HDHgs2lXnuhA5pBO2p) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MARY DID YOU KNOW](https://open.spotify.com/album/6068cDzDC3VHlcbsEcfbZM) | 4:03 | 2024-11-17 | 2025-12-23 |
 | [Mary Did You Know](https://open.spotify.com/track/0caycY1j83fvhTO05jmtdK) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Mary Did You Know](https://open.spotify.com/album/7bppzq8dWxhamFF1T1sbpE) | 2:55 | 2024-11-17 |  |
 | [Mary Did You Know](https://open.spotify.com/track/0p6gALyXkHOlEieTOZ4Zfe) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love \(Extended Holiday Edition\)](https://open.spotify.com/album/2KH4gsCRzlmjN5EVb8bEJF) | 3:42 | 2025-11-22 |  |
 | [Mary Did You Know](https://open.spotify.com/track/6KLBLbycBR3gTKIJGYTVBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Christmas: God With Us](https://open.spotify.com/album/4lif7qdfFAsjGkyCL83gNU) | 4:04 | 2021-12-24 |  |
@@ -505,6 +505,7 @@
 | [What Child Is This?](https://open.spotify.com/track/3zcK5rkivIL6bomdnNRyoL) | [Shamina](https://open.spotify.com/artist/2fgTVQWUfT8Mz9B9baFjMb) | [What Child Is This?](https://open.spotify.com/album/5zS0XfUA5Eozusrsw3s4sz) | 3:29 | 2021-12-24 | 2022-07-25 |
 | [What Christmas Is All About](https://open.spotify.com/track/3PhrcJwFctvygMmBkbrIal) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [What Christmas Is All About](https://open.spotify.com/album/2V2iD07k1eyamnVHAWcZDY) | 3:15 | 2024-07-31 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [The Christmas Collection, Vol\. II](https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9) | 2:44 | 2022-12-11 |  |
+| [What Is Christmas Without You](https://open.spotify.com/track/1HYW69lkHD3HXLsipXbUr8) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [What Is Christmas Without You](https://open.spotify.com/album/1kFeM5XI4ISUVpixpdMmkY) | 3:20 | 2025-12-12 |  |
 | [When I Think Of Christmas](https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When I Think Of Christmas](https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK) | 3:25 | 2024-09-12 |  |
 | [When We Behold \(In Excelsis\)](https://open.spotify.com/track/6JkMwbDl9MW7yM3T4mz82K) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [In Excelsis](https://open.spotify.com/album/19d9wjK2XjvUCZdKizwY6m) | 4:25 | 2024-11-17 | 2025-05-21 |
 | [When You Arrived](https://open.spotify.com/track/5uXXiltB1lMHiTwooFrqta) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Ashton Hage](https://open.spotify.com/artist/3rYGsqNL97zjO7mru5Zefg), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [When You Arrived](https://open.spotify.com/album/57Dhoe3fx4QxIq1JnMzJdc) | 4:32 | 2025-11-08 |  |

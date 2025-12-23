@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: تومي
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: احمد بهاء \(بوب\) وليجي\-سي
 
-1,616 songs - 3 day 18 hr 5 min
+1,617 songs - 3 day 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,6 +833,7 @@
 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-07 | 2022-09-26 |
 | [Saheb Elgmal](https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [صاحب الجمال](https://open.spotify.com/album/2eHo5yU1pR9oRmAbS6Ql41) | 3:35 | 2021-12-23 | 2022-01-21 |
 | [Sahm Elghadr](https://open.spotify.com/track/54Mw8QVKHX8kSywny8479n) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Sahm Elghadr](https://open.spotify.com/album/5XJxXL4glXqPOATWuZPcuy) | 3:17 | 2024-02-27 | 2024-06-01 |
+| [Sahran Belel](https://open.spotify.com/track/3FtABfvxUrz5f8TuVep8fd) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Sahran Belel](https://open.spotify.com/album/4iamoKuuOpYI6PJuBD5eO1) | 3:02 | 2025-12-22 |  |
 | [Salam](https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Salam](https://open.spotify.com/album/4GZe5xoQhego59080gUcqM) | 4:00 | 2021-12-23 | 2022-01-11 |
 | [Salam Salam](https://open.spotify.com/track/2qcdLoTFw1xRSuCMw88KWC) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Salam Salam](https://open.spotify.com/album/4bTLSNDHVp12racPM080jj) | 2:32 | 2023-01-25 | 2023-03-04 |
 | [Salamat](https://open.spotify.com/track/51ItnGRB1cDLcLjf0B2TNA) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Salamat](https://open.spotify.com/album/4q9kjLC336PBlGFYoLV3vm) | 2:58 | 2024-10-11 | 2024-12-06 |
@@ -1241,7 +1242,7 @@
 | [حزن آلي عالي](https://open.spotify.com/track/1FKEzdzSO9tLgzjJHthKDa) | [Tameem Youness](https://open.spotify.com/artist/6aEJ5aiBVWtoRnmaHhwz54) | [الحقي يا ماما انا عملت البوم](https://open.spotify.com/album/000hIb2tyocg4DRtbPDj4P) | 2:27 | 2023-09-14 | 2023-12-30 |
 | [حضرات السادة](https://open.spotify.com/track/1Z4Rd2m5gjmyU4BIXqzUZo) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Mariam Aziz](https://open.spotify.com/artist/563PinGcFs6wzMU2fxgeXD) | [حضرات السادة](https://open.spotify.com/album/7M5PupuhIP6Y5GzMnHsGlp) | 2:26 | 2025-03-04 | 2025-05-23 |
 | [حضن ابويا](https://open.spotify.com/track/6loQ5gX9N4Mq6VigXfxws7) | [Mai Kassab](https://open.spotify.com/artist/6E3IdT2vK3rC3WuRJwTQBI) | [حضن ابويا](https://open.spotify.com/album/2J4VzJh8mndeeVhWBjfKS8) | 3:15 | 2023-10-06 | 2024-01-17 |
-| [حقك عليا](https://open.spotify.com/track/4XVtZ7uB7fTeFnVicTjTlX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [حقك عليا](https://open.spotify.com/album/299nUvUM4oB62rtZhbtUbb) | 2:10 | 2025-11-12 |  |
+| [حقك عليا](https://open.spotify.com/track/4XVtZ7uB7fTeFnVicTjTlX) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [حقك عليا](https://open.spotify.com/album/299nUvUM4oB62rtZhbtUbb) | 2:10 | 2025-11-12 | 2025-12-23 |
 | [حكايتنا كملت](https://open.spotify.com/track/61y67cugb9V3cJPhS7IY91) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [حكايتنا كملت](https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv) | 4:54 | 2023-07-04 | 2023-08-03 |
 | [حكايتنا منهيه](https://open.spotify.com/track/0JPcPUucXP7jweuhlZ95A6) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [حكايتنا منهيه](https://open.spotify.com/album/5XI16cGZpAQzd2Zv8Ztcyd) | 4:39 | 2023-08-10 | 2023-11-29 |
 | [حلال فيك \- من البوم لينا معاد](https://open.spotify.com/track/65uNDYpRRj01SwndtXTHhA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [حلال فيك \(من البوم لينا معاد\)](https://open.spotify.com/album/0ZhDVNeX12HV67XvWLMDvA) | 3:01 | 2025-06-16 | 2025-08-31 |

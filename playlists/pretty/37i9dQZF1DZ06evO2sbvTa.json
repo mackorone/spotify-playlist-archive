@@ -1,12 +1,12 @@
 {
   "description": "This is Young Scooter. The essential tracks, all in one playlist.",
-  "num_followers": 4519,
+  "num_followers": 4520,
   "original_name": "This Is Young Scooter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACPYyMiuDlAmNWEL5m8eBME",
+  "snapshot_id": "aUc4gAAAAACz15BHnZ2K1PoniFHy/0CB",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 178337,
-      "name": "Columbia (Dirty)",
-      "url": "https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Recipe",
         "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 208287,
       "name": "No Features - feat. Kodak Black",
       "url": "https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 178337,
+      "name": "Columbia (Dirty)",
+      "url": "https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC"
     },
     {
       "added_at": null,
@@ -883,26 +883,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Bricks 2 \u2013 Mixtape",
-        "url": "https://open.spotify.com/album/3JNEc9m9mgHGvomUSXa295"
+        "name": "GET IT ON MY FACE",
+        "url": "https://open.spotify.com/album/2ZDZqDNOwkJKCkIWzH2Kp1"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "38trillionaires",
+          "url": "https://open.spotify.com/artist/0fuMmjTBO20nI5LyV9mpkv"
+        },
+        {
+          "name": "Noonk Fortunate",
+          "url": "https://open.spotify.com/artist/2GdWqhwAl9R7hNDCbqcOqD"
+        },
+        {
+          "name": "Profit JG",
+          "url": "https://open.spotify.com/artist/7o57LZPlUtYEpMDiAIkpK1"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         },
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "NOONK 500 x SCRILLY MARZ",
+          "url": "https://open.spotify.com/artist/5kFYCwMT3tIDGGBXSaWLhe"
         }
       ],
-      "duration_ms": 219585,
-      "name": "Re-up - feat. Young Dolph",
-      "url": "https://open.spotify.com/track/1gD24i6I8Kec22rlqYr4t4"
+      "duration_ms": 231595,
+      "name": "ON MY FACE",
+      "url": "https://open.spotify.com/track/3u9MZoEHrWTxvDqHEBQ0gY"
     },
     {
       "added_at": null,
@@ -927,6 +935,30 @@
       "duration_ms": 267867,
       "name": "Both Sides (feat. Future & Young Thug)",
       "url": "https://open.spotify.com/track/1Gp7ozmDtFfr43EcoeH65k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Bricks 2 \u2013 Mixtape",
+        "url": "https://open.spotify.com/album/3JNEc9m9mgHGvomUSXa295"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "duration_ms": 219585,
+      "name": "Re-up - feat. Young Dolph",
+      "url": "https://open.spotify.com/track/1gD24i6I8Kec22rlqYr4t4"
     },
     {
       "added_at": null,
@@ -1023,38 +1055,6 @@
       "duration_ms": 197244,
       "name": "Trap It Out",
       "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GET IT ON MY FACE",
-        "url": "https://open.spotify.com/album/2ZDZqDNOwkJKCkIWzH2Kp1"
-      },
-      "artists": [
-        {
-          "name": "38trillionaires",
-          "url": "https://open.spotify.com/artist/0fuMmjTBO20nI5LyV9mpkv"
-        },
-        {
-          "name": "Noonk Fortunate",
-          "url": "https://open.spotify.com/artist/2GdWqhwAl9R7hNDCbqcOqD"
-        },
-        {
-          "name": "Profit JG",
-          "url": "https://open.spotify.com/artist/7o57LZPlUtYEpMDiAIkpK1"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "NOONK 500 x SCRILLY MARZ",
-          "url": "https://open.spotify.com/artist/5kFYCwMT3tIDGGBXSaWLhe"
-        }
-      ],
-      "duration_ms": 231595,
-      "name": "ON MY FACE",
-      "url": "https://open.spotify.com/track/3u9MZoEHrWTxvDqHEBQ0gY"
     }
   ],
   "unique_name": "This Is Young Scooter",

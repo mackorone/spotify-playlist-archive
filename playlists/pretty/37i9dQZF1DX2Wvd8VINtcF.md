@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Smerz✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,512 likes - 315 songs - 17 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,544 likes - 315 songs - 17 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 |
 | 2 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 3 | [White Rabbit](https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [White Rabbit](https://open.spotify.com/album/4weZHDdUsAriOiu5b1273N) | 3:05 |
-| 4 | [No Touch](https://open.spotify.com/track/77McwtuO8TaHXIDRkYJuAp) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Sue Tompkins](https://open.spotify.com/artist/1a9FKVeSjLYGWLwWqzflOO) | [No Touch](https://open.spotify.com/album/6EPtpzDYvy4H6r779yxR3L) | 3:03 |
-| 5 | [Death Do Us Part \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Everybody Got Somebody](https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u) | 3:25 |
-| 6 | [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 |
-| 7 | [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 |
+| 4 | [Like I Don't Exist](https://open.spotify.com/track/2zWLZBOtZKpXXZ5PscpCRX) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Like I Don't Exist](https://open.spotify.com/album/1TQK5F5kxceeAPf9mhacAg) | 4:03 |
+| 5 | [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 |
+| 6 | [lotion](https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT) | [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [lotion](https://open.spotify.com/album/1DOisE0RrXG8zjy0gXKxbJ) | 4:27 |
+| 7 | [Death Do Us Part \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Everybody Got Somebody](https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u) | 3:25 |
 | 8 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
-| 9 | [Like I Don't Exist](https://open.spotify.com/track/2zWLZBOtZKpXXZ5PscpCRX) | [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Like I Don't Exist](https://open.spotify.com/album/1TQK5F5kxceeAPf9mhacAg) | 4:03 |
-| 10 | [I'm Not Done \- Radical Edit](https://open.spotify.com/track/1ddVHKmlEtklJLTXs5wqvZ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [I'm Not Done \(Radical Edit\)](https://open.spotify.com/album/5KUzgYVtfZQG7XEU3l14pL) | 3:50 |
-| 11 | [No Te Metas \- Sassy 009 Remix](https://open.spotify.com/track/6Bx2Y8yqdpePbXeQ3EPv6M) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [All Rights Remixed](https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv) | 2:57 |
-| 12 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
-| 13 | [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 |
-| 14 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
+| 9 | [I'm Not Done \- Radical Edit](https://open.spotify.com/track/1ddVHKmlEtklJLTXs5wqvZ) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [I'm Not Done \(Radical Edit\)](https://open.spotify.com/album/5KUzgYVtfZQG7XEU3l14pL) | 3:50 |
+| 10 | [No Touch](https://open.spotify.com/track/77McwtuO8TaHXIDRkYJuAp) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Sue Tompkins](https://open.spotify.com/artist/1a9FKVeSjLYGWLwWqzflOO) | [No Touch](https://open.spotify.com/album/6EPtpzDYvy4H6r779yxR3L) | 3:03 |
+| 11 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
+| 12 | [No Te Metas \- Sassy 009 Remix](https://open.spotify.com/track/6Bx2Y8yqdpePbXeQ3EPv6M) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu), [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [All Rights Remixed](https://open.spotify.com/album/12mMdFqHlUTh5bh94818uv) | 2:57 |
+| 13 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
+| 14 | [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 |
 | 15 | [Silent War](https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Silent War](https://open.spotify.com/album/3pIyEjKUoytocadT9yQbAZ) | 3:59 |
 | 16 | [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 |
 | 17 | [Mirrors](https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Mirrors](https://open.spotify.com/album/5klQzXGzwq3yxUhLuHehkd) | 2:08 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 314 | [t\-shirt](https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [t\-shirt](https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD) | 2:32 |
 | 315 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 |
 
-Snapshot ID: `AAAAABrTY/oTTrUwmBAQ6b3HOaGR2+h7`
+Snapshot ID: `AAAAAL4tGwWBfHYsONOj4vwBQIIhfFiU`

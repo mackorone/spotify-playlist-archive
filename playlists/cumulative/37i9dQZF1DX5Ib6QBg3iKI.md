@@ -4,7 +4,7 @@
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-199 songs - 10 hr 55 min
+200 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Winter's Tale](https://open.spotify.com/track/6EYoowmifbMzrIIKw8uxn4) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [pov: you are santa](https://open.spotify.com/album/3Yilg019aEIgeemUZ2PGwq) | 4:11 | 2022-10-28 | 2022-11-14 |
 | [A Winter's Tale](https://open.spotify.com/track/7qqYY2gtNsswC1kjL1LPAG) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [Best Christmas Songs](https://open.spotify.com/album/3ZA2dVknJjIziZQVuI1nB9) | 4:11 | 2022-10-28 | 2022-11-11 |
 | [A Winter's Tale](https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf) | [David Essex](https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf) | [The Whisper](https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L) | 4:11 | 2023-11-28 | 2024-04-19 |
+| [All Alone on Christmas](https://open.spotify.com/track/0SqjReuKXCbq2a8HVmyKIq) | [Annika Kilkenny](https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx) | [The Christmas Project](https://open.spotify.com/album/1d0DD0EF2UvbWgXtUOmxJt) | 3:14 | 2025-12-22 |  |
 | [All I Want \(For Christmas\)](https://open.spotify.com/track/7lbto9KYTHq5V1PetjIMOF) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [All I Want \(For Christmas\)](https://open.spotify.com/album/6hM2ulYVBbQiYDlEgliSaM) | 3:01 | 2021-12-17 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 2:51 | 2021-12-17 | 2025-11-25 |
 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 | 2021-12-17 |  |
@@ -205,7 +206,7 @@
 | [Wishes Come True](https://open.spotify.com/track/3VpY2SUf41sVpVYwLO4uyg) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Wishes Come True](https://open.spotify.com/album/0HXTNQ39atgxPSPSPmB8nP) | 2:44 | 2021-12-17 | 2023-10-28 |
 | [Wonderful Christmastime](https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:45 | 2022-10-28 | 2022-11-13 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-17 | 2024-04-19 |
-| [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 | 2021-12-17 |  |
+| [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 | 2021-12-17 | 2025-12-23 |
 | [You Make It Feel Like Christmas](https://open.spotify.com/track/5ygzCYQzwIEy7GnAS4SGn1) | [Lea Heart](https://open.spotify.com/artist/18tR4JqMqRMeIQsexVMLHz) | [You Make It Feel Like Christmas](https://open.spotify.com/album/2j0QGqU751cENPUnjjN5gQ) | 3:04 | 2021-12-17 | 2022-11-18 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

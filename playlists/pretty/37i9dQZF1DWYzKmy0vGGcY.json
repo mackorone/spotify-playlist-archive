@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 529000,
+  "num_followers": 529129,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/0pNeVovbiZHkulpGeOx1Gj"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Mr. Soul",
-        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 160364,
-      "name": "Nothing Can Change This Love",
-      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Dusty In Memphis",
@@ -151,6 +135,22 @@
       "duration_ms": 148053,
       "name": "Son Of A Preacher Man",
       "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Mr. Soul",
+        "url": "https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 160364,
+      "name": "Nothing Can Change This Love",
+      "url": "https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Dusty... Definitely (Expanded Edtion)",
         "url": "https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 164173,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
         }
       ],
-      "duration_ms": 175626,
-      "name": "All I Could Do Was Cry",
-      "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+      "duration_ms": 175626,
+      "name": "All I Could Do Was Cry",
+      "url": "https://open.spotify.com/track/7Ca3Zb8wejNYCoei3tlJ9e"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Cream Of The Crop",
-        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Someday We'll Be Together",
-      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Dusty In Memphis",
         "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 227840,
       "name": "The Windmills Of Your Mind",
       "url": "https://open.spotify.com/track/3R8yWUufDclG1sVQgUpwzQ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Cream Of The Crop",
+        "url": "https://open.spotify.com/album/44oDkaH8gO3ZvvxKE8lG4I"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross & The Supremes",
+          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Someday We'll Be Together",
+      "url": "https://open.spotify.com/track/79Yk6AlSKi5dxDFINID2hS"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "If You Can Believe Your Eyes And Ears",
-        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Presenting Rosie & the Originals",
         "url": "https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 227600,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "If You Can Believe Your Eyes And Ears",
+        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2147,6 +2147,26 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -2195,26 +2215,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The World We Knew",
-        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162493,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4m2IsYNy4ZeSpw9WPrTo9F"
       },
@@ -2243,6 +2243,22 @@
       "duration_ms": 158613,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -2275,22 +2291,6 @@
       "duration_ms": 241106,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7KkmPCj7Eh9tCD7bF5H2yh"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",

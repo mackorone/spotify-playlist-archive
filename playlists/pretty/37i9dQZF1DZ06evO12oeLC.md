@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 36 | [NÉON ROUGE](https://open.spotify.com/track/7EHd1uyYFyuhMR7l6aH074) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 3:50 |
 | 37 | [GARÇON](https://open.spotify.com/track/0YjTyG0j3FfeUH84ZWBAfp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:13 |
 | 38 | [La vague](https://open.spotify.com/track/4EsWuzGuuYjF3eiG3cZXfx) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:03 |
-| 39 | [BRUTAAL](https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ) | 4:06 |
+| 39 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
 | 40 | [Rouge](https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL) | 3:06 |
-| 41 | [It’s A Man’s Man’s Man’s World](https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [It's A Man's Man's Man's World](https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu) | 3:19 |
+| 41 | [BRUTAAL](https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0), [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUTAAL](https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ) | 4:06 |
 | 42 | [La mamma](https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 4:03 |
 | 43 | [Diego](https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Diego](https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2) | 2:47 |
 | 44 | [Rodéo](https://open.spotify.com/track/6xspLP2hzZpn0Fz1vi57Tk) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rouge](https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Te Amo](https://open.spotify.com/track/4S3Iw9rAoufrcTTJESkKmt) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 3:02 |
 | 50 | [Bye Bye Bye](https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:22 |
 
-Snapshot ID: `aUXnAAAAAACDeS2rVX10Z6K0oQ/JxGEw`
+Snapshot ID: `aUc4gAAAAABRRgInBeOdAWNo1K0XSDZ3`

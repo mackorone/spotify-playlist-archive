@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87228,
+  "num_followers": 87227,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
+        "name": "Love Can Grow",
+        "url": "https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 193889,
+      "name": "Love Can Grow",
+      "url": "https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
         "name": "Det g\u00e5r bra",
         "url": "https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Love Can Grow",
-        "url": "https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk"
+        "name": "Lys p\u00e5 mig",
+        "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
       },
       "artists": [
         {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 193889,
-      "name": "Love Can Grow",
-      "url": "https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu"
+      "duration_ms": 159346,
+      "name": "Lys p\u00e5 mig",
+      "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1051,22 +1067,6 @@
       "duration_ms": 145128,
       "name": "in plain sight",
       "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
-        "name": "Lys p\u00e5 mig",
-        "url": "https://open.spotify.com/album/3WzL7EQg84unvvF8q3Cq5M"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Lys p\u00e5 mig",
-      "url": "https://open.spotify.com/track/3kbNesyQPnUreP6bD7aADS"
     },
     {
       "added_at": "2025-12-18 23:00:12",

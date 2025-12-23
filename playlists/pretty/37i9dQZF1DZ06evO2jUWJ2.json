@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 315152,
+  "num_followers": 315204,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABThgVm5mEpWgEa90AnVIUP",
+  "snapshot_id": "aUc4gAAAAABMFhgWjzm+qgD9IU12OWTW",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Be The Name",
+        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 539000,
+      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 398427,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Be The Name",
-        "url": "https://open.spotify.com/album/21G0r4XKJfMmOSvpzaZ38T"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 539000,
-      "name": "Jesus Be The Name (feat. Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/50irUgP4UUg2s90ULqMGxe"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+        "name": "Aleluya (En La Tierra)",
+        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
         }
       ],
-      "duration_ms": 291330,
-      "name": "My Testimony (Live)",
-      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
+      "duration_ms": 378636,
+      "name": "Digno (Worthy)",
+      "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aleluya (En La Tierra)",
-        "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
       "artists": [
         {
           "name": "Elevation Worship",
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Elevation Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
         }
       ],
-      "duration_ms": 378636,
-      "name": "Digno (Worthy)",
-      "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
+      "duration_ms": 291330,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+        "name": "Echo The Angels",
+        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
       },
       "artists": [
         {
@@ -732,17 +732,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 512899,
-      "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
-      "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
+      "duration_ms": 199627,
+      "name": "JOY!",
+      "url": "https://open.spotify.com/track/4BhWQqvFGxwAuKP2TTPMeb"
     },
     {
       "added_at": null,
@@ -767,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echo The Angels",
-        "url": "https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb"
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
       "artists": [
         {
@@ -776,13 +772,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 199627,
-      "name": "JOY!",
-      "url": "https://open.spotify.com/track/4BhWQqvFGxwAuKP2TTPMeb"
+      "duration_ms": 512899,
+      "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
+      "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
     },
     {
       "added_at": null,

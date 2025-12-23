@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-2,786 songs - 5 day 22 hr 11 min
+2,787 songs - 5 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,8 @@
 | [Don't You Worry](https://open.spotify.com/track/4UyVCLbNG8yhrqbzeSmdho) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Don't You Worry](https://open.spotify.com/album/0mEexWITKhScRM40eqDEFi) | 3:16 | 2022-08-07 | 2022-09-27 |
 | [Donna](https://open.spotify.com/track/5EeDZPNPIjEtEZsHMkX1m7) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Tutti i Nomi del Diavolo](https://open.spotify.com/album/5UIxxfAYiTSd9U7Iz5WwmQ) | 2:59 | 2024-11-02 | 2025-01-26 |
 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 | 2024-10-26 | 2024-11-03 |
-| [DONNE RICCHE \- Acoustic Version](https://open.spotify.com/track/6gG8GZAscnEI9fqHvcu1QN) | [TonyPitony](https://open.spotify.com/artist/07yfI2D37Ir0pGQ8huDd4j) | [PECCATO PER I TESTI \(Acoustic Version\)](https://open.spotify.com/album/3qeuGcOLjfDGmMYIYJI4OU) | 2:52 | 2025-12-17 |  |
+| [DONNE RICCHE \- Acoustic Version](https://open.spotify.com/track/5tY8rR8cdFsQdBauMGB7nz) | [TonyPitony](https://open.spotify.com/artist/07yfI2D37Ir0pGQ8huDd4j) | [PECCATO PER I TESTI \(Acoustic Version\)](https://open.spotify.com/album/6pYQjzqrw6FBZMq6I9xo89) | 2:52 | 2025-12-22 |  |
+| [DONNE RICCHE \- Acoustic Version](https://open.spotify.com/track/6gG8GZAscnEI9fqHvcu1QN) | [TonyPitony](https://open.spotify.com/artist/07yfI2D37Ir0pGQ8huDd4j) | [PECCATO PER I TESTI \(Acoustic Version\)](https://open.spotify.com/album/3qeuGcOLjfDGmMYIYJI4OU) | 2:52 | 2025-12-17 | 2025-12-23 |
 | [DOPE BOY](https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:39 | 2022-01-15 | 2022-01-21 |
 | [DOPO LE 4 \(feat\. Bresh & Tedua\)](https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 3:02 | 2024-03-16 | 2024-09-26 |
 | [DOPO LE 4 \(feat\. Bresh & Tedua\)](https://open.spotify.com/track/5OQo1GGSUcOSRKX9eSqdGU) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [ICON](https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c) | 3:02 | 2024-09-25 | 2024-10-13 |
@@ -1280,8 +1281,8 @@
 | [L'Altro Mondo](https://open.spotify.com/track/3v4PCEqsjecNPaEgW8SNQE) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Mathilde Fernandez](https://open.spotify.com/artist/0vE2E2b0a3fMndxtZYwxjO) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 3:12 | 2025-12-13 | 2025-12-15 |
 | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf) | 4:06 | 2022-06-11 | 2022-06-13 |
 | [l'amore in bocca](https://open.spotify.com/track/6QnX3AZkvOzwQt0fdS6cZT) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [l'amore in bocca](https://open.spotify.com/album/7ITbHXkZPg7XqSrHMAacPF) | 2:52 | 2024-02-08 | 2024-03-03 |
-| [L'Amore Non Mi Basta](https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/3Wn6SpnPf6JDvk3ED4AcuJ) | 3:31 | 2025-12-03 | 2025-12-22 |
-| [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 | 2025-12-17 |  |
+| [L'Amore Non Mi Basta](https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/3Wn6SpnPf6JDvk3ED4AcuJ) | 3:31 | 2025-12-03 |  |
+| [L'Amore Non Mi Basta](https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR) | 3:31 | 2025-12-17 | 2025-12-23 |
 | [L'ANGELO CADUTO \- feat\. Shari](https://open.spotify.com/track/3eZUF65HbA141qh7OGsBER) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:24 | 2021-10-03 | 2021-10-17 |
 | [L'Anticristo](https://open.spotify.com/track/3EqoXoBVHpIrw7ZFWqF6P6) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [L'Anticristo](https://open.spotify.com/album/3h1uckIvnnPXejtxgWHQbW) | 2:18 | 2024-02-28 | 2024-03-03 |
 | [L'Anticristo](https://open.spotify.com/track/7CWoRDIMfhEbfYzdD9noJm) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:18 | 2024-03-02 | 2024-03-17 |

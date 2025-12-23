@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-906 songs - 1 day 15 hr 5 min
+907 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Dunfanaghy Beach](https://open.spotify.com/track/4dPDiKpvkhXrCZ7dd9nM3K) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Dunfanaghy Beach](https://open.spotify.com/album/4LlIknto9ZksRNDIZXfPL8) | 2:10 | 2021-12-08 | 2022-06-17 |
 | [Dunmore](https://open.spotify.com/track/1108gLMZC5vp5HQxN7yKrD) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Dunmore](https://open.spotify.com/album/0DdHHAsuXIPX7T9Y5BdEQA) | 2:34 | 2022-09-02 | 2023-02-11 |
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 | 2024-12-11 |
+| [Dusk](https://open.spotify.com/track/5LV8r5xtze37uQltP5BD4r) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Dusk](https://open.spotify.com/album/2TLLM7cX3u1TRLAPiCEedj) | 3:00 | 2025-12-22 |  |
 | [Echo Park](https://open.spotify.com/track/6UweZFJgCY0eMIn6P2rflo) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Echo Park](https://open.spotify.com/album/2RztZ6yJ4Da3Y2JV9xFm5n) | 2:48 | 2022-04-22 | 2024-06-15 |
 | [Echoes](https://open.spotify.com/track/0oaGr0YPQehZOM2tESJRFV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [To The Moon](https://open.spotify.com/album/5LPsflFQLrjq9ymGG4Jpf3) | 2:51 | 2022-12-23 | 2024-06-08 |
 | [Echoes of Us](https://open.spotify.com/track/2apnQEUBTwbHE4axOQzDzf) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Echoes of Us](https://open.spotify.com/album/2UNxbUaCX4qo8R3tNvXMiu) | 2:39 | 2025-04-16 | 2025-10-01 |

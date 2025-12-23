@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 104297,
+  "num_followers": 104323,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAreS5d0Mm95Q+YOUpk6WRq",
+  "snapshot_id": "aUc4gAAAAABw8vJsGNh5QaaOk/iMZFah",
   "tracks": [
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REBEL",
-        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
-      },
-      "artists": [
-        {
-          "name": "Anne Wilson",
-          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 231866,
-      "name": "Praying Woman",
-      "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIGH",
         "url": "https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 227400,
       "name": "GO HOME W U",
       "url": "https://open.spotify.com/track/4NqRL2Xu4IkpE4D7zWC2M1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REBEL",
+        "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 231866,
+      "name": "Praying Woman",
+      "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever (Legendary Edition)",
-        "url": "https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse"
+        "name": "Unlocked",
+        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 205509,
-      "name": "I Wrote You A Song (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6"
+      "duration_ms": 179811,
+      "name": "Thicc As Thieves (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlocked",
-        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
+        "name": "Forever (Legendary Edition)",
+        "url": "https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse"
       },
       "artists": [
         {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 179811,
-      "name": "Thicc As Thieves (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
+      "duration_ms": 205509,
+      "name": "I Wrote You A Song (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workin' Overtime",
-        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 197685,
-      "name": "Workin' Overtime",
-      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+        "name": "Workin' Overtime",
+        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Tougher",
-      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+      "duration_ms": 197685,
+      "name": "Workin' Overtime",
+      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
     },
     {
       "added_at": null,

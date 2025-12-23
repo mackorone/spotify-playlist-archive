@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 20 Dec 19:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Dec 14:05 UTC.
 
-5,957 songs - 13 day 19 hr 15 min
+5,959 songs - 13 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [100 bux](https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [100 bux](https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz) | 3:15 | 2024-08-27 | 2024-08-30 |
 | [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-08-26 | 2025-09-06 |
 | [1000 de parai](https://open.spotify.com/track/71XZRfa9KwmwnUm0sOmOXv) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Advok](https://open.spotify.com/artist/7FWzGkDtMU6QHAjagAUTDf) | [1000 de parai](https://open.spotify.com/album/50nzYgknIsGteVKVYHXUNP) | 3:14 | 2024-06-20 | 2024-06-22 |
-| [100days100nights](https://open.spotify.com/track/421kwayIuwfQWizPPST9Jx) | [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [100days100nights](https://open.spotify.com/album/0j4nMyhDhscxWa0VrgUHEN) | 1:48 | 2025-12-07 |  |
+| [100days100nights](https://open.spotify.com/track/421kwayIuwfQWizPPST9Jx) | [Niontay](https://open.spotify.com/artist/3wkT6THiKqbXC0jJpfKL7t) | [100days100nights](https://open.spotify.com/album/0j4nMyhDhscxWa0VrgUHEN) | 1:48 | 2025-12-07 | 2025-12-23 |
 | [101Barz, Pt\. 1](https://open.spotify.com/track/6yIPgknrLoK57VuEVkwbAn) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [101Barz Freestyle](https://open.spotify.com/album/6riKjGM4Wtzm7w6Mzdx8xX) | 2:28 | 2024-12-12 | 2024-12-14 |
 | [10’000 Steps But Still Biting My Nails](https://open.spotify.com/track/450UurhtzSWoX9PhnsRsyV) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [10'000 Steps But Still Biting My Nails](https://open.spotify.com/album/6oLCks3gDn17lXS9BO7Ok1) | 5:12 | 2024-10-22 | 2024-10-25 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-07-25 | 2025-08-02 |
@@ -558,6 +558,7 @@
 | [Beneath A Lightless Star](https://open.spotify.com/track/6SFaNYwzDMCNGPIjXvtoth) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Beneath A Lightless Star](https://open.spotify.com/album/2IOEZbMDjDzI6Kn6H1qsYL) | 5:10 | 2025-05-28 | 2025-06-05 |
 | [BERETTA](https://open.spotify.com/track/5oFigb8ql8JTtowM87T979) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4), [Pig the Gemini](https://open.spotify.com/artist/5jcH3zjAdfg5RZWu8dXjGd) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 2:42 | 2024-10-16 | 2024-10-19 |
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-05 | 2024-07-08 |
+| [Berserker](https://open.spotify.com/track/0a9Gi8DA7tzR3HV46V1Ppv) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Ill Santo](https://open.spotify.com/artist/1LBbwEH0VFHyIQY0o7Y8dV), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Berserker](https://open.spotify.com/album/2J4jomZQrKicPCa4vFBiJP) | 2:12 | 2025-12-22 |  |
 | [BEST FRIEND ONLY](https://open.spotify.com/track/6v6q61HjwVxlBO2GEWzUwd) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BEST FRIEND ONLY](https://open.spotify.com/album/1CKNi3YFGIM8uxzuoNrFVR) | 3:25 | 2024-09-20 | 2024-09-25 |
 | [Best Guess](https://open.spotify.com/track/4zZ1V5x9lvKz2KGpAOP8SV) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Best Guess](https://open.spotify.com/album/7mer2hSbDhEeC6lJvhoSfa) | 4:00 | 2025-02-10 | 2025-02-15 |
 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 | 2025-01-30 | 2025-02-08 |
@@ -3391,7 +3392,7 @@
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-21 | 2025-04-02 |
 | [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-16 | 2024-08-22 |
 | [MONDAY](https://open.spotify.com/track/13VNbW9gblZQVVM2a7ZQf5) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY](https://open.spotify.com/album/4ynZBEDB0SRtuPt7qbX6wB) | 4:03 | 2025-04-22 | 2025-04-30 |
-| [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 | 2025-12-04 |  |
+| [MONDAY \- A COLORS SHOW](https://open.spotify.com/track/2HUYmOmEMZC59UhCKokzAp) | [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [MONDAY \- A COLORS SHOW](https://open.spotify.com/album/2tcooZLhliuKYR5da5BAgT) | 4:06 | 2025-12-04 | 2025-12-23 |
 | [Money 'N' Bitches \(ft\. Danny Brown\) \- Remix](https://open.spotify.com/track/27SrGib7ZLuMiyFl6n6exs) | [Wheeler Walker Jr.](https://open.spotify.com/artist/6PjV05LlULv9XmFu7HeAia), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Money 'N' Bitches \(ft\. Danny Brown\) \[Remix\]](https://open.spotify.com/album/6GsVotsj8ikMI0tuDWfu1l) | 2:37 | 2024-11-01 | 2024-11-07 |
 | [MONEY AND CLOTHES](https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MONEY AND CLOTHES](https://open.spotify.com/album/5zP1LFAmi2dYGPFVMMgbKG) | 2:18 | 2025-11-14 | 2025-11-27 |
 | [Money and Greed](https://open.spotify.com/track/2P09qKX3rZKxCsFE8ZDLzp) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [Money and Greed](https://open.spotify.com/album/35UtcYDfOW9HJtjnKQhno6) | 2:42 | 2024-10-30 | 2024-11-01 |
@@ -5000,6 +5001,7 @@
 | [Tell Me Why](https://open.spotify.com/track/4XLQ3WbDbTYosMJsRXji2q) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Tell Me Why](https://open.spotify.com/album/5PCye5uwZavVXyRjFAIrPT) | 2:45 | 2024-10-04 | 2024-10-10 |
 | [Tell Your Friends](https://open.spotify.com/track/6qur97ipEFshI23LoT10kq) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Tell Your Friends](https://open.spotify.com/album/74CJHjhnhjYSrIyeiNCdN8) | 2:34 | 2024-05-15 | 2024-05-18 |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-04-27 | 2025-05-05 |
+| [TEMPO](https://open.spotify.com/track/3C36ynkq413nWcHiGhAKnD) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [TEMPO](https://open.spotify.com/album/4xzLGJzsbXfKRKfRLMRl9W) | 2:45 | 2025-12-22 |  |
 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 | 2024-10-11 | 2024-10-14 |
 | [TEN](https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [TEN](https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA) | 2:08 | 2025-02-14 | 2025-02-26 |
 | [Ten Below \- Live at the Acropolis](https://open.spotify.com/track/3jjf3VATerUH0LjbbDttZF) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Ten Below \(Live at the Acropolis\)](https://open.spotify.com/album/3ebwpA8Whtro4Gdn6XBbtd) | 4:04 | 2024-12-18 | 2024-12-21 |

@@ -4,7 +4,7 @@
 
 > Con Man just pulled up to your party!! Crank with maximum intent 🔊
 
-326 songs - 21 hr 48 min
+327 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Standwaage](https://open.spotify.com/track/0oD20dpLFJmFPAlzTRej82) | [Funkwerkstatt](https://open.spotify.com/artist/4vFHuD9QbYhmdsUFKNyBvX) | [Standwaage](https://open.spotify.com/album/5nI9SbaFDEjBUdFBGlCk3I) | 7:46 | 2025-12-21 |  |
 | [Stay High \- Habits Remix](https://open.spotify.com/track/5JCi3pyggvk4B0yd0BK3ow) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Queen Of The Clouds](https://open.spotify.com/album/5Z5O36p7BivXzkucc0PAfw) | 4:18 | 2023-11-30 | 2025-12-22 |
 | [Stunt Like This](https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Stunt Like This](https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe) | 2:46 | 2024-12-26 | 2025-04-03 |
-| [Stupidisco](https://open.spotify.com/track/4KTx59iH82Tz2re8cal0IC) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Stupidisco](https://open.spotify.com/album/4jqNi9bjNb92x9xm6UmwbT) | 5:07 | 2025-12-21 |  |
+| [Stupidisco](https://open.spotify.com/track/4KTx59iH82Tz2re8cal0IC) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Stupidisco](https://open.spotify.com/album/4jqNi9bjNb92x9xm6UmwbT) | 5:07 | 2025-12-21 | 2025-12-23 |
+| [Stupidisco \(Radio Edit\)](https://open.spotify.com/track/0r5wNJ8coHaNmCdVztPuZQ) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Stupidisco](https://open.spotify.com/album/4jqNi9bjNb92x9xm6UmwbT) | 3:40 | 2025-12-23 |  |
 | [Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:42 | 2025-01-26 | 2025-12-22 |
 | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Summertime Blues \(feat\. Nathan Nicholson\)](https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z) | 4:11 | 2024-12-26 | 2025-01-27 |
 | [Superstylin'](https://open.spotify.com/track/2yWyFT6bW1Rd9cjVvYi4v8) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:00 | 2024-12-26 | 2025-12-22 |

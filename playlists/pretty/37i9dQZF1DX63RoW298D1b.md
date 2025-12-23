@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 
 > Soothing piano for the ultimate wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,302 likes - 98 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,348 likes - 98 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 | 22 | [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 |
 | 23 | [Bayou](https://open.spotify.com/track/4n5uhVSaDjV9nSHhfcbJ0B) | [Melvin Hull](https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz) | [Bayou](https://open.spotify.com/album/0WK8UlUY7Q9xNOv5Y6cVkj) | 2:46 |
 | 24 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 |
-| 25 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
+| 25 | [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 |
 | 26 | [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 |
-| 27 | [Into The Light](https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Into The Light](https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz) | 2:41 |
-| 28 | [hollow hour](https://open.spotify.com/track/6LaeVakkn3QgRM9YLX48WM) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [hollow hour](https://open.spotify.com/album/1v7zdJllhIxRLHndR4tits) | 2:45 |
-| 29 | [Wanderlust](https://open.spotify.com/track/0FWiBmCzyNSuvus2TIoAEw) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Wanderlust](https://open.spotify.com/album/2nVZXTIoztXDPcG6em3MTv) | 2:18 |
+| 27 | [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 |
+| 28 | [Into The Light](https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Into The Light](https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz) | 2:41 |
+| 29 | [hollow hour](https://open.spotify.com/track/6LaeVakkn3QgRM9YLX48WM) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [hollow hour](https://open.spotify.com/album/1v7zdJllhIxRLHndR4tits) | 2:45 |
 | 30 | [The Quiet We Found](https://open.spotify.com/track/7dfeIc1U6aX4937k6JygdL) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [The Quiet We Found](https://open.spotify.com/album/7HXIdIszQKrybX8tR2MN3p) | 2:44 |
-| 31 | [For love](https://open.spotify.com/track/4kDRLAbvEWLXFRG3zPcU0p) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [For love](https://open.spotify.com/album/6mLw8MErNI9cmkpjnAQ3bw) | 2:26 |
-| 32 | [Una Segunda Oportunidad](https://open.spotify.com/track/06QAq1rViVOXwvA1MwQJVG) | [Bress Curton](https://open.spotify.com/artist/31hpV7tUYfk8ylQR1gSN8v) | [Una Segunda Oportunidad](https://open.spotify.com/album/1s1SMYocP9natVC3rSqDyQ) | 2:56 |
-| 33 | [Tender Steps](https://open.spotify.com/track/3WNsw5ObrZTAQGQVd8LM0m) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Tender Steps](https://open.spotify.com/album/2xorZUQJHWqqlcAGG00PXe) | 2:24 |
-| 34 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 |
-| 35 | [The Secret](https://open.spotify.com/track/71qUV3Npt2rsKL1p8zsKPS) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [The Secret](https://open.spotify.com/album/4qIyBsinsMr6F7b3sC81FG) | 2:17 |
+| 31 | [Tender Steps](https://open.spotify.com/track/3WNsw5ObrZTAQGQVd8LM0m) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Tender Steps](https://open.spotify.com/album/2xorZUQJHWqqlcAGG00PXe) | 2:24 |
+| 32 | [The Secret](https://open.spotify.com/track/71qUV3Npt2rsKL1p8zsKPS) | [Passerina Caerulea](https://open.spotify.com/artist/4A6r5yNuH0Mo4L9pdTIlSC) | [The Secret](https://open.spotify.com/album/4qIyBsinsMr6F7b3sC81FG) | 2:17 |
+| 33 | [For love](https://open.spotify.com/track/4kDRLAbvEWLXFRG3zPcU0p) | [Anton Lindholm](https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP) | [For love](https://open.spotify.com/album/6mLw8MErNI9cmkpjnAQ3bw) | 2:26 |
+| 34 | [Una Segunda Oportunidad](https://open.spotify.com/track/06QAq1rViVOXwvA1MwQJVG) | [Bress Curton](https://open.spotify.com/artist/31hpV7tUYfk8ylQR1gSN8v) | [Una Segunda Oportunidad](https://open.spotify.com/album/1s1SMYocP9natVC3rSqDyQ) | 2:56 |
+| 35 | [Waking Up](https://open.spotify.com/track/7c33zkn49H7mwANl899jCD) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Waking Up](https://open.spotify.com/album/5DyFhKX0zsMGHmze1X6zXs) | 2:49 |
 | 36 | [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 |
 | 37 | [From a Distance](https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw) | [Mindy Thurma](https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui) | [From a Distance](https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa) | 2:27 |
 | 38 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63RoW298D1b.md) - [plain]
 | 97 | [If lonely...](https://open.spotify.com/track/3w7ooeKGTjTd8W7Qp2oAop) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [If lonely...](https://open.spotify.com/album/68CGa50C8hC4xr28VhCSmZ) | 2:19 |
 | 98 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 |
 
-Snapshot ID: `AAAAAP9fQvXjwa0rW1wO8NJRU/kWlrpO`
+Snapshot ID: `AAAAAHjZlh8Qi7YAX4kF6DzA7lVfJej0`

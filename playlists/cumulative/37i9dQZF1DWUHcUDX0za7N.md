@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: TML Vibes
 
-681 songs - 1 day 8 hr 4 min
+682 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 | 2025-06-20 |  |
 | [Birkin Baby](https://open.spotify.com/track/2v6IlFqm8pAa2s6Sqhib5u) | [Skinny Skater](https://open.spotify.com/artist/1GS3dN5V15qDZV5Qqi9Bm1) | [Birkin Baby](https://open.spotify.com/album/13M1N2mOP9KSLSCUOM4PyU) | 2:30 | 2025-05-30 | 2025-06-28 |
 | [Bless Me](https://open.spotify.com/track/2c7UxjUAIzP7xs3Pa6vv8K) | [Pharaoh 47](https://open.spotify.com/artist/17WFKkKaDAqVitYHNRHr67), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [Bless Me](https://open.spotify.com/album/2qrGRjYZOcWurwyi5dsZ91) | 3:31 | 2024-11-22 | 2025-03-30 |
+| [Blessed \(feat\. Jeriq\)](https://open.spotify.com/track/4bShfKBo95dFUqweOdlDhu) | [Major Kay](https://open.spotify.com/artist/7pylYQkyOLA94luweG9nUk), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Blessed \(feat\. Jeriq\)](https://open.spotify.com/album/0nGGOickb76AXTV2esKDHP) | 3:08 | 2025-12-19 |  |
 | [Blessed Sinner](https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U) | [Rord Kelly](https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR) | [Blessed Sinner](https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8) | 2:58 | 2023-03-17 | 2023-05-05 |
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-05-12 | 2023-12-04 |
 | [Blood Hot](https://open.spotify.com/track/3ocQ7frjALF31yCx5eMhTz) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [Blood Hot](https://open.spotify.com/album/3hEla1QCivyzb2KEXXDgGy) | 2:25 | 2022-06-30 | 2022-10-14 |
@@ -274,7 +275,7 @@
 | [Heaven's Gate \(feat\. Lily Allen\)](https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:22 | 2022-10-14 | 2022-10-29 |
 | [Hei God](https://open.spotify.com/track/1u6HuhlBtbiUeN5Y4I4IVP) | [WeTalkSound](https://open.spotify.com/artist/5kPbvgX78vvZPQLrHHhf1w), [Fimi](https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Hei God](https://open.spotify.com/album/6D9NddrRn6exZWm0F2ojvp) | 2:37 | 2025-05-16 | 2025-06-02 |
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 |  |
-| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 |  |
+| [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 | 2025-12-23 |
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-20 | 2023-07-28 |
 | [Higher Consciousness](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [BIGBIRD & THA VIPER](https://open.spotify.com/album/06avYXeBI5Df4cvkeTfJmS) | 3:05 | 2025-09-19 | 2025-10-04 |
 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 | 2023-03-25 | 2023-07-28 |

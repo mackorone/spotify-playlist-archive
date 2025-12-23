@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,104 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,101 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 49 | [te quiero](https://open.spotify.com/track/3G00ACFE1MAfxyfbXOR8Ji) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [te quiero](https://open.spotify.com/album/23hLGSkYcppnyp3QKW8Z7B) | 3:35 |
 | 50 | [Último da Fila \- Ao Vivo](https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 4:33 |
 | 51 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
-| 52 | [Praia do Futuro](https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:21 |
-| 53 | [Cheia de Manias](https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:00 |
+| 52 | [Cheia de Manias](https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Pagode da Mart'nália](https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z) | 3:00 |
+| 53 | [Praia do Futuro](https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Antonio Carlos & Jocafi](https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA) | [O Mundo Dá Voltas](https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp) | 5:21 |
 | 54 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
-| 55 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 |
-| 56 | [Romance de Filme](https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [José & Durval](https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu) | 4:25 |
+| 55 | [Romance de Filme](https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [José & Durval](https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu) | 4:25 |
+| 56 | [Perfume](https://open.spotify.com/track/3NC5dBK8habi0DgRKsCvXn) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 5:46 |
 | 57 | [Feliz e Triste](https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A) | [Fitti](https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk) | [Transespacial](https://open.spotify.com/album/5ad60ItCkVWina53xajH4n) | 2:55 |
 | 58 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
 | 59 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |

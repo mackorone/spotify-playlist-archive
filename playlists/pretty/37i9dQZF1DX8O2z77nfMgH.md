@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,445 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,190 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 55 | [Vuélveme A Besar](https://open.spotify.com/track/3xXJZCrFTb2WFwAOpFJxHT) | [Fabiola Roudha](https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71), [Maria Del Sol](https://open.spotify.com/artist/5zG3ksNu7WAhSc3G0Xcs0O) | [Vuélveme A Besar](https://open.spotify.com/album/79IQOWCvLyOZfxmlMUNgIT) | 3:16 |
 | 56 | [Bambuu](https://open.spotify.com/track/54sqIcw0iDE7IzkszeyoiZ) | [GIMARIO](https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH) | [Los Hice Yo](https://open.spotify.com/album/2MwayZxlfS1hk1q4W8LfCZ) | 2:26 |
 
-Snapshot ID: `AAAAADtqZrVmCkIviolHwQcH+940y7Vr`
+Snapshot ID: `AAAAANBmR8TtSbH1hALNU1YZoLW6+ljo`

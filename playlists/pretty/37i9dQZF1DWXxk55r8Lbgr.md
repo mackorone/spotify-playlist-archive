@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,244 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,245 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 31 | [爸爸去哪儿](https://open.spotify.com/track/6QI9ZO6YI578LkxMV8j6Po) | [张子诺](https://open.spotify.com/artist/1yGrEEUjuRPz8deCEsncYI) | [中外儿歌精选合辑4](https://open.spotify.com/album/5nVJjbFeN0rDiZcyqgJ2A7) | 4:33 |
 | 32 | [星星眨眼睛](https://open.spotify.com/track/1AcIbZ07xaBfrFebtkjYFl) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LUCKY](https://open.spotify.com/album/1V6Vh4rbaLF3xjapDNMB8W) | 1:18 |
 | 33 | [九九乘法表](https://open.spotify.com/track/1PefvsAvDasTVRUZC6oy2I) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [孩子的暖暖河](https://open.spotify.com/album/0nJzCS0fQ9FZBP3ymbSVou) | 4:54 |
-| 34 | [蹦蹦跳跳](https://open.spotify.com/track/5Yw2X0wAog4ngsEBuTIEwx) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37), [付佳钰](https://open.spotify.com/artist/35TOueHRfiFLpi84h48WqM) | [蹦蹦跳跳](https://open.spotify.com/album/3mwqHTZ9XzFbdG98tFynR2) | 2:20 |
+| 34 | [當你的小孩真好](https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [當你的小孩真好](https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N) | 3:12 |
 | 35 | [五官](https://open.spotify.com/track/4ILxpdvyPUlUtvHcJAULoo) | [謝欣芷](https://open.spotify.com/artist/4f2iKhkX8mIKNK4G4Ba5iJ) | [幸福的孩子愛唱歌](https://open.spotify.com/album/7qBWhK85vJBxsL4xVqXxhC) | 2:58 |
-| 36 | [當你的小孩真好](https://open.spotify.com/track/6a4aDZvBYXCpMAETRrHW52) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [當你的小孩真好](https://open.spotify.com/album/1tjOPWcpAljQeKh8kiMN7N) | 3:12 |
+| 36 | [蹦蹦跳跳](https://open.spotify.com/track/5Yw2X0wAog4ngsEBuTIEwx) | [李昕融](https://open.spotify.com/artist/0HTZUrKoyhew3gmvCnnV37), [付佳钰](https://open.spotify.com/artist/35TOueHRfiFLpi84h48WqM) | [蹦蹦跳跳](https://open.spotify.com/album/3mwqHTZ9XzFbdG98tFynR2) | 2:20 |
 | 37 | [小蜜蜂](https://open.spotify.com/track/3ZmTvymT7mLD5Ac0BqKtGM) | [風格童星組合](https://open.spotify.com/artist/4b52YCDCpiLL1moDCVYKj4) | [20首世界童謠精粹, Vol\. 3](https://open.spotify.com/album/5k5Y2NzpseYrPRVRaHs0G5) | 1:41 |
 | 38 | [造飛機](https://open.spotify.com/track/2aulcpPXf9TH90X8rO56Zu) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠, Vol\. 1（下集）](https://open.spotify.com/album/2DSxrfd0h82uGL4qqGvpVY) | 2:12 |
 | 39 | [星星月亮太陽](https://open.spotify.com/track/63y4V8wXf0DdSqIs532VEW) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's JOY](https://open.spotify.com/album/6n8Pr4vVDI7YfzM137UcGS) | 1:20 |

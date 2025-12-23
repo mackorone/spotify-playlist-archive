@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-668 songs - 1 day 11 hr 29 min
+669 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Pink Atoms](https://open.spotify.com/track/5y5L0fBVfqi0PClERKJMep) | [Sleeping Voyage](https://open.spotify.com/artist/7v3zY7R3YebusTme8ScaaX) | [Pink Atoms](https://open.spotify.com/album/64KvfDrtdvtL7K6PLBoFap) | 3:05 | 2022-11-18 | 2025-10-07 |
 | [Pink Aura of Calm](https://open.spotify.com/track/3OzoK27KV6oj7SE7ABx8fo) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Aura of Calm](https://open.spotify.com/album/44qAzPkIBxOIeCnZA0B2oP) | 2:47 | 2025-12-19 |  |
 | [Pink Bliss](https://open.spotify.com/track/0IVyP3CBVhCeaMMXZR0nWB) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Pink Bliss](https://open.spotify.com/album/5quthggxoMZ0urUbyo7wSM) | 5:09 | 2024-02-09 |  |
-| [Pink Bliss](https://open.spotify.com/track/64RiV3NxNP0PmQmWab43gj) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Pink Bliss](https://open.spotify.com/album/25UT1S5bbBeVvBDbYbsEkT) | 2:51 | 2022-12-20 | 2025-12-22 |
+| [Pink Bliss](https://open.spotify.com/track/64RiV3NxNP0PmQmWab43gj) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Pink Bliss](https://open.spotify.com/album/25UT1S5bbBeVvBDbYbsEkT) | 2:51 | 2022-12-20 |  |
 | [Pink Breeze](https://open.spotify.com/track/6XvtGZYrzCMJ4ZwlASvBpQ) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Pink Breeze](https://open.spotify.com/album/3bKDQfD782G1LNedDjVkS0) | 3:03 | 2022-11-18 | 2025-12-20 |
 | [Pink Chill Noise](https://open.spotify.com/track/5QtEqYDOApu8py0nfM823G) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Pink Noise Stream](https://open.spotify.com/album/2P7zj0aI0cgObq7Q7cForM) | 2:03 | 2022-11-18 | 2025-04-18 |
 | [Pink Cozy Noise](https://open.spotify.com/track/3jFqRMFjFLf6SEVnUpfJn4) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [Pink Cozy Noise](https://open.spotify.com/album/14I2nESMjcRyVQCqkzOtuO) | 3:02 | 2024-02-09 |  |
@@ -456,7 +456,7 @@
 | [Pink Noise for my Dreams](https://open.spotify.com/track/5lK6pipDunQ1g4YGcsighC) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise Snooze](https://open.spotify.com/album/4zBsglZYkFKRLCrLUPu0cP) | 3:21 | 2022-07-01 | 2022-12-21 |
 | [Pink Noise for my Nap](https://open.spotify.com/track/1IrAMBPSqBDgx1AThZAxOZ) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [Pink Noise for my Nap](https://open.spotify.com/album/5IFvsQC23wbGDu4r2tY5Xp) | 3:32 | 2022-08-02 |  |
 | [Pink Noise for my Soul](https://open.spotify.com/track/3v4kFsrw1MvMINt5EX052q) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Pink Noise for my Soul](https://open.spotify.com/album/5RLvHX31HwU7rAoUVwulYW) | 3:09 | 2025-12-19 |  |
-| [Pink Noise for Relaxation](https://open.spotify.com/track/4M2YzoOoWpA37BOL8bQjCd) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Noizzze](https://open.spotify.com/album/5oh3UTFF1GZp4lyA7wDTeb) | 3:50 | 2022-06-03 |  |
+| [Pink Noise for Relaxation](https://open.spotify.com/track/4M2YzoOoWpA37BOL8bQjCd) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Noizzze](https://open.spotify.com/album/5oh3UTFF1GZp4lyA7wDTeb) | 3:50 | 2022-06-03 | 2025-12-23 |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/37MIaBZecwUz7mVE6OBGhC) | [The Startups](https://open.spotify.com/artist/27jAZ72shHFpW0SRZHiJuP) | [Pink Noise Calmness](https://open.spotify.com/album/5ZN8DxBt2cUOFW6dxID48Q) | 3:19 | 2022-11-18 |  |
 | [Pink Noise For Sleep](https://open.spotify.com/track/54UrbTg1hjmJGnzMDt6prM) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Pink Noise For Sleep](https://open.spotify.com/album/6Afb9qALrrE1oqkJKXLAyN) | 3:02 | 2025-11-13 |  |
 | [Pink Noise for Sleeping](https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Sleep](https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS) | 3:39 | 2021-12-01 | 2025-04-10 |
@@ -464,6 +464,7 @@
 | [Pink Noise for Snoozing](https://open.spotify.com/track/2Jt50RFGQHok6b1ITsmYce) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Pink Noise for Snoozing](https://open.spotify.com/album/2f7RC69qlbBaDM8giJbXV1) | 4:09 | 2022-06-03 |  |
 | [Pink Noise For Sweet Dreams](https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:44 | 2022-11-18 |  |
 | [Pink Noise for Sweet Dreams](https://open.spotify.com/track/7jB2OXmAvtmVwnjwsAccjn) | [Pinkfreq](https://open.spotify.com/artist/4rVtSVfR2xsfI3MkJkhMWT) | [Daynapping with Pink Noise](https://open.spotify.com/album/6eF9hnGZI7MQGZsLOxF4r5) | 3:59 | 2022-11-18 | 2023-12-06 |
+| [Pink Noise for the Dreamers](https://open.spotify.com/track/3V5mSraWwUfruXr2rpE6N4) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Pink Noise for the Dreamers](https://open.spotify.com/album/70qsOzBd8f86FmuqZn34CD) | 3:36 | 2025-12-19 |  |
 | [Pink Noise for the Mind](https://open.spotify.com/track/6buETKVKKfBlCDE8Nov0SO) | [Nylana](https://open.spotify.com/artist/2NWl72uscoDndjs9mHTOVD) | [Pink Noise for the Mind](https://open.spotify.com/album/3obQ62KjC0sPlbRl1tCh2V) | 3:12 | 2022-08-02 | 2025-10-09 |
 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 | 2022-06-03 |  |
 | [Pink Noise fountain](https://open.spotify.com/track/2R2U2lPeujARSFRc4mVC6i) | [Acoustic Activity](https://open.spotify.com/artist/3aSkejkyPbnMng0ako4TTb) | [Pink Noise fountain](https://open.spotify.com/album/2zsk3xVhNRDW94vu6i3u4y) | 3:22 | 2022-08-02 | 2023-01-28 |
@@ -670,7 +671,7 @@
 | [Wide Pink Noise](https://open.spotify.com/track/1M0eWXM3GqQ4wKSASkbqhY) | [White Noise Atmospheres](https://open.spotify.com/artist/2MMporXXsUcHOMx6Wd01rI) | [50 Distant Drones](https://open.spotify.com/album/1KpPWzgubZHu2QyneeVOgx) | 3:12 | 2021-12-01 | 2022-11-19 |
 | [Wide Pink Waves](https://open.spotify.com/track/2yzfzJdAbu6950OeCQhwpt) | [Sleep Potential](https://open.spotify.com/artist/6ILcQ2MsnRyFr5JCy3ulCv) | [Snoozy Pink](https://open.spotify.com/album/1VywcFh781PnxJVMm8IFqf) | 2:52 | 2023-01-27 |  |
 | [Wind in the Dark](https://open.spotify.com/track/26WqUA9xR2crARgdyxdmSS) | [noiZzz in the dark](https://open.spotify.com/artist/6vB7nFsvEuozFD6z9WLaO3) | [Brown Noise = Baby Sleep](https://open.spotify.com/album/4rZbMOTW58WcrC9DgpNdvM) | 3:37 | 2021-12-01 | 2022-11-19 |
-| [Wind of Pink Noise](https://open.spotify.com/track/09X4kLb9CR9yofrDSSZjeQ) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Calm Pink Noise Sounds](https://open.spotify.com/album/75hERX2Aa0TCfJBv2jWuaQ) | 3:24 | 2022-06-03 |  |
+| [Wind of Pink Noise](https://open.spotify.com/track/09X4kLb9CR9yofrDSSZjeQ) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Calm Pink Noise Sounds](https://open.spotify.com/album/75hERX2Aa0TCfJBv2jWuaQ) | 3:24 | 2022-06-03 | 2025-12-23 |
 | [Windy Cave](https://open.spotify.com/track/0WrXSw3Ktkevf8k6Fb5953) | [True White](https://open.spotify.com/artist/5vhaG8WchlssMkNH1VefUl) | [Brown Comfort](https://open.spotify.com/album/3E10zcfQkAdmeEpVhkEs3t) | 3:58 | 2022-11-18 |  |
 | [Work Well Pink Noise](https://open.spotify.com/track/3WMe5SxDkdvOZFUvpEGzN9) | [Ozonezzz](https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ) | [Pink Noise for Studying and Working](https://open.spotify.com/album/5WQUkTeQeerp9j75bXYddp) | 3:12 | 2022-08-02 | 2023-02-17 |
 | [Wrapped in Blush](https://open.spotify.com/track/5Inkiv5gzco7HjS0BKudBJ) | [Day Nappers](https://open.spotify.com/artist/1ngR2isbEhcNEY1fNJZ0Vn) | [Wrapped in Blush](https://open.spotify.com/album/7qCcnoD5ueBW9qT7AadaVm) | 5:17 | 2025-12-19 |  |

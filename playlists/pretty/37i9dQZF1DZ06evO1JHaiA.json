@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADiO9/hpdwDeXcnZZR9ROaw",
+  "snapshot_id": "aUc4gAAAAACxss/KiUeOENP/1nQxc2Q1",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Traveling Home",
-      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of The Intruders: Cowboys To Girls",
         "url": "https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 244906,
       "name": "Mother and Child Reunion",
       "url": "https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Traveling Home",
+      "url": "https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166126,
-      "name": "I Didn't Know",
-      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
+      "duration_ms": 130957,
+      "name": "Let Me In Your Mind",
+      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 130957,
-      "name": "Let Me In Your Mind",
-      "url": "https://open.spotify.com/track/41DND20SkuBYgcvjlE7Xdh"
+      "duration_ms": 166126,
+      "name": "I Didn't Know",
+      "url": "https://open.spotify.com/track/61j8TzAwSBSiSwHpJRuo68"
     },
     {
       "added_at": null,

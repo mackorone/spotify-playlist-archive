@@ -2,9 +2,9 @@
 
 ### [Classical Piano](https://open.spotify.com/playlist/37i9dQZF1DWUqIzZNMSCv3)
 
-> The world's most iconic and relaxing classical piano.
+> Relaxing classical piano.
 
-160 songs - 10 hr 30 min
+161 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Consolations, S\. 172: No\. 3 in D\-Flat Major\. Lento, placido](https://open.spotify.com/track/05ccfzoQjmDzcbYRuCsw20) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Isata Kanneh\-Mason](https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M) | [Liszt: Consolations, S\. 172: No\. 3 in D\-Flat Major\. Lento, placido](https://open.spotify.com/album/5cvhYG4yaj2jjgW1vPOFCZ) | 4:01 | 2025-08-15 |  |
 | [Consolations, S\. 172: No\. 3, Lento placido](https://open.spotify.com/track/4ExtqIKNZLLmatRTVzlzFu) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth](https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e) | 5:12 | 2021-12-06 | 2025-04-26 |
 | [Consolations, S\. 172: No\. 5 in E Major\. Andantino](https://open.spotify.com/track/2CfXlbBfZIv38SwUMDqSfb) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Liszt: Via Crucis & Solo Piano Works](https://open.spotify.com/album/2PZ9uZ71W2dWKMUiiJq1JU) | 2:07 | 2025-04-25 |  |
+| [Das Jahr, H\. 385: No\. 5, May\. Frühlingslied](https://open.spotify.com/track/7C0XKdeCGohcMnGakmqdF0) | [Fanny Mendelssohn](https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi), [Claire Huangci](https://open.spotify.com/artist/6iFs9LvpM2UzZPmRtOrkLf) | [Mendelssohn: Das Jahr, H\. 385: No\. 5, May\. Frühlingslied](https://open.spotify.com/album/2t4o91Ipod36QdmJif0B2f) | 2:27 | 2025-12-22 |  |
 | [Das Wohltemperierte Klavier: Book 1, BWV 846\-869: Praeludium 23](https://open.spotify.com/track/6OzdhkIAw3Hj1GozRoyQTl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Bach, J.S.: The well\-tempered Clavier](https://open.spotify.com/album/3sHGzXs7ZKRRFmJxBp4YTv) | 1:19 | 2025-04-04 |  |
 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6VnSkysUFuLEayG0LIQlVF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Debussy, Ravel: Piano Music](https://open.spotify.com/album/0RnAJzvGCJPn7igIlHGBsQ) | 4:32 | 2021-12-06 |  |
 | [Deux Arabesques, L66: No\. 1: Andantino con moto](https://open.spotify.com/track/6nrWWTcOBmoLwcNrLRhY8n) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 4:32 | 2022-07-08 | 2022-11-29 |

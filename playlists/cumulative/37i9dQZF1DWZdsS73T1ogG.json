@@ -14937,6 +14937,28 @@
     },
     {
       "album": {
+        "name": "VERIDICO",
+        "url": "https://open.spotify.com/album/7lb4pdehU4jCoHJkwlr9A8"
+      },
+      "artists": [
+        {
+          "name": "Wallance",
+          "url": "https://open.spotify.com/artist/0VV4w7YPOUcNuW0UCVyUiq"
+        },
+        {
+          "name": "Fharid On the Beat",
+          "url": "https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132815,
+      "name": "ENTREGADA",
+      "url": "https://open.spotify.com/track/4cD80YeQL45w9HyWtQ0A2W"
+    },
+    {
+      "album": {
         "name": "Envidia",
         "url": "https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk"
       },
@@ -35646,7 +35668,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 130243,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/5LMkK3Bm6rmgeW74r3HKT5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 155 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 155 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 55 | [Still Got It Bad](https://open.spotify.com/track/2eJCERt6Rra9xLwIEsTxn6) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Still Got It Bad](https://open.spotify.com/album/3SdwPVxWApbnWMDl90lTDU) | 2:21 |
 | 56 | [Entwined \(feat\. Grimes\)](https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Contact](https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw) | 3:40 |
 | 57 | [Only Ticket Home](https://open.spotify.com/track/3xBFofaAqfwaaSu4RHzcuu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:14 |
-| 58 | [Signals \(Live At St Pancras Old Church\)](https://open.spotify.com/track/0xWy6gBqELoM9a53ItNkyo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/7tOOOTgD0ugP6KHw66zSUg) | 3:57 |
-| 59 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
+| 58 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
+| 59 | [Signals \(Live At St Pancras Old Church\)](https://open.spotify.com/track/0xWy6gBqELoM9a53ItNkyo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/7tOOOTgD0ugP6KHw66zSUg) | 3:57 |
 | 60 | [Hideaway](https://open.spotify.com/track/6J7trSlbpRHY2JbvxnYiCN) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:16 |
 | 61 | [Beautiful](https://open.spotify.com/track/0HnbZP4HYWkf1tk1HzDhk8) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/79GSUDh5hTzNF61UNETYdG) | 4:22 |
 | 62 | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/track/6fsBBty7c7eEWvdgkNIWpa) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [No One Else \(Feat\. Corbyn Besson\)](https://open.spotify.com/album/5Cs89RR1Pn0ApHb634A9k6) | 2:09 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 86 | [Can't Do Both \(with Clara Mae\)](https://open.spotify.com/track/3RaQdJDvaIa46MAMCwzWDa) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Cutting Through Noise \(Deluxe\)](https://open.spotify.com/album/3SxsGilpR10AEOgA2iYT7E) | 2:57 |
 | 87 | [Standing in His Shoes](https://open.spotify.com/track/0tClc3XkyyH1JyauQyDRSZ) | [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Standing in His Shoes](https://open.spotify.com/album/7LoVmENUMntLeiwUc01M2C) | 3:13 |
 | 88 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
-| 89 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
-| 90 | [365](https://open.spotify.com/track/3nNBdrHfqSZrFQKCzWq7kR) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [365](https://open.spotify.com/album/33ege18fnUmm373M0YrGDk) | 3:07 |
+| 89 | [365](https://open.spotify.com/track/3nNBdrHfqSZrFQKCzWq7kR) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [365](https://open.spotify.com/album/33ege18fnUmm373M0YrGDk) | 3:07 |
+| 90 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
 | 91 | [Kingdom](https://open.spotify.com/track/45ElBVDOkxxAdSQlB8sN0T) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:28 |
 | 92 | [Problems](https://open.spotify.com/track/5CUOsDruna0oPEw5Q2axyy) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [What Ifs & Maybes](https://open.spotify.com/album/3CWP6u3BR6KmyodkIoyE6F) | 3:27 |
 | 93 | [Ready To Love](https://open.spotify.com/track/1ykuWEU6xlSoR6EtjKH7WW) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Let's Say For Instance](https://open.spotify.com/album/5Z6szusddxn6ySgFMzd837) | 3:06 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 117 | [Spiral](https://open.spotify.com/track/5H4bI4Sk5tCMgBRTOU5XkS) | [Rebecca Clements](https://open.spotify.com/artist/3e13PrKuO8pPF0nt8I1zII) | [Spiral](https://open.spotify.com/album/2LPwS46wjPwkWDmeyH0Evj) | 3:43 |
 | 118 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 |
 | 119 | [Devilish](https://open.spotify.com/track/667e12dKpBCoEHdklKzYIJ) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [POWER](https://open.spotify.com/album/2zN5EUVUBfNFiEwb48vGfW) | 3:44 |
-| 120 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 |
-| 121 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 |
+| 120 | [Stay Awake](https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stay Awake](https://open.spotify.com/album/5Ev62f2XpQUWw9XdSsYuDL) | 3:28 |
+| 121 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 |
 | 122 | [New Skin](https://open.spotify.com/track/6saeoq9cenoOtXKqLcDvG8) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [New Skin](https://open.spotify.com/album/7kssLuW4quDDfOA4Krm2Rx) | 3:15 |
 | 123 | [Ex\-Friend](https://open.spotify.com/track/5UxboRMB49Gi4X7ESngKnw) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [Ex\-Friend](https://open.spotify.com/album/2FIyPHZSjTToAG9CEtasUt) | 2:45 |
 | 124 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 154 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 155 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AcE2ZgAAAAAZf6X9zqLUnBfiLutKCJnM`
+Snapshot ID: `AcE8BgAAAACWr67lnLjJnqG1HqqCRHtO`

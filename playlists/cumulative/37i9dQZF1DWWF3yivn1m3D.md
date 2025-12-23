@@ -4,7 +4,7 @@
 
 > The best of the legendary composer.
 
-134 songs - 9 hr 50 min
+135 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [The Job \(From "Widows"\)](https://open.spotify.com/track/0X3uATi7cgJeomqQTLr4k8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Widows \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FNBdxUZXOy2wcPPXbAQJo) | 4:58 | 2021-07-26 |  |
 | [The Lagoon \(From "The Thin Red Line" Soundtrack\)](https://open.spotify.com/track/0jRRiWndBqdbKd0EOvDNlK) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [The Thin Red Line](https://open.spotify.com/album/7wPDOZ30toNEBkr5uBIANF) | 8:36 | 2021-07-26 |  |
 | [The Prince of Egypt Suite: Part 1](https://open.spotify.com/track/6VZthc7bvYQfxwL4llUns2) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gan\-ya Ben\-gur Akselrod](https://open.spotify.com/artist/0j9WXwyTLQR1oU2SMO6Smc), [Rusanda Panfili](https://open.spotify.com/artist/7i3Xc8Q0FEGHlsERoPgejc), [Pedro Eustache](https://open.spotify.com/artist/3BWSxj4tXD0yENwYVwxYO7), [Odessa Orchestra & Friends](https://open.spotify.com/artist/3Y3cPkw6NFdLAmwRv3bDJG), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q) | [The Prince of Egypt Suite](https://open.spotify.com/album/0iz4bAOznLxyoXpXuHKQYA) | 1:46 | 2024-12-10 |  |
+| [The Village Protests](https://open.spotify.com/track/7Jgs88gkwWa1WecaqqLXUm) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Aleksey Igudesman](https://open.spotify.com/artist/7q3oXvVtpSmZRZuIYKz8TP), [Ekaterina Shelehova](https://open.spotify.com/artist/2TGfzbEaJkHLEsRvryVhsJ) | [Black Gold \(Music from the Original TV Series\)](https://open.spotify.com/album/5T12SkIr4B2thi6VX1Ekye) | 5:10 | 2025-12-22 |  |
 | [Themyscira](https://open.spotify.com/track/3pdvYQ2REfx1Ayot2nJauz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Themyscira \(From Wonder Woman 1984: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zMn38kkBk8xIZBSA8E9CF) | 3:51 | 2021-07-26 |  |
 | [Themyscira](https://open.spotify.com/track/4C7lKHNYzm9c8ywpGNlAc9) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Wonder Woman 1984 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO) | 3:51 | 2021-07-26 | 2024-04-19 |
 | [This Land](https://open.spotify.com/track/6EKywtYHtZLAvxyEcqrbE7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:55 | 2021-07-26 |  |

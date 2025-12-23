@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 141692,
       "name": "A Barreira Vai Virar Baile",
       "url": "https://open.spotify.com/track/7GypINlzSk4NVBKDmv47Pf"
@@ -5034,7 +5034,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 212640,
       "name": "Anjos",
       "url": "https://open.spotify.com/track/3tHfEsbQsvAdGQ2CUFeEx0"
@@ -17036,7 +17036,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -32895,6 +32895,28 @@
     },
     {
       "album": {
+        "name": "Samba Enredo Gavi\u00f5es da Fiel 2005",
+        "url": "https://open.spotify.com/album/0mChoPIMWLRusPjqCdF2Ye"
+      },
+      "artists": [
+        {
+          "name": "Gavi\u00f5es da Fiel",
+          "url": "https://open.spotify.com/artist/7fE2LElcuVn3n6TWwfO34b"
+        },
+        {
+          "name": "Gr\u00eamio Gavi\u00f5es da Fiel Torcida",
+          "url": "https://open.spotify.com/artist/7KrOT4F3Ad6is32YrODNht"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298197,
+      "name": "Gritos de arquibancada e incentivo ao Corinthians",
+      "url": "https://open.spotify.com/track/3Z3JpUmc6JG16hQzNcoHvh"
+    },
+    {
+      "album": {
         "name": "GRL GVNG",
         "url": "https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS"
       },
@@ -34090,6 +34112,24 @@
       "duration_ms": 108808,
       "name": "Hino do Corinthians (Campe\u00e3o dos Campe\u00f5es)",
       "url": "https://open.spotify.com/track/4IxL6aHx4CIPH4FjMhDwP6"
+    },
+    {
+      "album": {
+        "name": "Hinos dos Campe\u00f5es - Volume 4",
+        "url": "https://open.spotify.com/album/3phhcgJWlmp49qaE2nS2ID"
+      },
+      "artists": [
+        {
+          "name": "Orquestra e Coro Cid (Flabanda)",
+          "url": "https://open.spotify.com/artist/23Ha8ej75ohEIGNmlBTuDP"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108808,
+      "name": "Hino do Corinthians (Campe\u00e3o dos Campe\u00f5es)",
+      "url": "https://open.spotify.com/track/4PSQVuM4gfPd8P8NOt9Fqn"
     },
     {
       "album": {
@@ -65914,7 +65954,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 158014,
       "name": "Rebola n\u00e3o para",
       "url": "https://open.spotify.com/track/07jbA8o32bNGipAdIBhcE4"

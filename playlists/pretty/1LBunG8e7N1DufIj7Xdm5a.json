@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 251,
+  "num_followers": 252,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGXOXj9ARYpVxCrHiXgza9+c3/Fh1B",
+  "snapshot_id": "AAAGXkpFGRz5oFjofw6GjUXQUh0U620u",
   "tracks": [
     {
       "added_at": "2025-12-14 23:10:38",
@@ -61903,6 +61903,38 @@
       "duration_ms": 240018,
       "name": "Shadows of the night",
       "url": "https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG"
+    },
+    {
+      "added_at": "2025-12-22 14:23:14",
+      "album": {
+        "name": "Jesus Was A Victim Too",
+        "url": "https://open.spotify.com/album/4CrBkejU1zb8AjuXSA8b0q"
+      },
+      "artists": [
+        {
+          "name": "FILIBUSTER",
+          "url": "https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L"
+        }
+      ],
+      "duration_ms": 224815,
+      "name": "Jesus Was A Victim Too",
+      "url": "https://open.spotify.com/track/7hNZp4yRPRXWAyuIansvT3"
+    },
+    {
+      "added_at": "2025-12-22 23:26:08",
+      "album": {
+        "name": "the land of sound",
+        "url": "https://open.spotify.com/album/6i8Hun1WdTQO8PXQXkBusT"
+      },
+      "artists": [
+        {
+          "name": "the land of sound",
+          "url": "https://open.spotify.com/show/6i8Hun1WdTQO8PXQXkBusT"
+        }
+      ],
+      "duration_ms": 243826,
+      "name": "cosmos&ginyus",
+      "url": "https://open.spotify.com/episode/4YFQmGZVT9J3vGFl0f0Nwd"
     }
   ],
   "unique_name": "playlist spotify free",

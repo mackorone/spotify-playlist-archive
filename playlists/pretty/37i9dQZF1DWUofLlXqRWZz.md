@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,342 likes - 84 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,471 likes - 84 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 | 2 | [Pathos \- Theme](https://open.spotify.com/track/1dsJhk09Q9nqu1vhQvAEzq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Pathos \(Theme\)](https://open.spotify.com/album/2w1GSTM5Yr61X7PpeDWl6h) | 4:18 |
 | 3 | [I Giorni](https://open.spotify.com/track/0VLascXUZ2Ze2u5kUD5J1f) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 6:51 |
-| 4 | [Jay](https://open.spotify.com/track/4APoqrhYmINORxY4O2neDg) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Jay](https://open.spotify.com/album/4UyiqHjDhTdMs4onWlNLMk) | 3:12 |
-| 5 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 |
+| 4 | [Nuvole Bianche](https://open.spotify.com/track/3weNRklVDqb4Rr5MhKBR3D) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Una Mattina](https://open.spotify.com/album/0Ryad9M1b1MxSjgXdHCh1c) | 5:57 |
+| 5 | [Jay](https://open.spotify.com/track/4APoqrhYmINORxY4O2neDg) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Jay](https://open.spotify.com/album/4UyiqHjDhTdMs4onWlNLMk) | 3:12 |
 | 6 | [Le Onde](https://open.spotify.com/track/3jPGemJdr95abo520vyvVk) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Islands \- Essential Einaudi](https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM) | 5:36 |
 | 7 | [Rose Bay](https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rose Bay](https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ) | 4:19 |
-| 8 | [Punta Bianca](https://open.spotify.com/track/6p6xZtQkYNaKT0sxtzqtc6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:12 |
-| 9 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
+| 8 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
+| 9 | [Punta Bianca](https://open.spotify.com/track/6p6xZtQkYNaKT0sxtzqtc6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:12 |
 | 10 | [Adieux](https://open.spotify.com/track/1ymzdmQYjO3ThdlToYZnTq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Adieux](https://open.spotify.com/album/5PPK24qrJdeoZBb8pVNWF6) | 2:55 |
 | 11 | [Santiago](https://open.spotify.com/track/7iJrqJsVc180a9IavhP1Yk) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 4:29 |
 | 12 | [Luminous](https://open.spotify.com/track/0UOMGdqvwCRGoEhXEJp78U) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:43 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 | 83 | [Elements](https://open.spotify.com/track/1jrFczYf5NysHccOQPXnNP) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:05 |
 | 84 | [Taranta \- Remastered 2020](https://open.spotify.com/track/4zMdbrKpIMxe3RFTAptsjc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mauro Durante](https://open.spotify.com/artist/05SxaycC6mQpGMP2AEwEZM) | [Undiscovered](https://open.spotify.com/album/13N7JjBSjtRhNZwf6FpsLn) | 4:22 |
 
-Snapshot ID: `AAAAALYLh+9ruoeI8yt2EQLjoEARErNp`
+Snapshot ID: `AAAAADJOA61svzmAv+OVoGsPJQZ4gM3w`

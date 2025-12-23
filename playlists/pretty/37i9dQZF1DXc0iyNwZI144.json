@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1035383,
+  "num_followers": 1035347,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "No Promises (feat. Demi Lovato)",
-        "url": "https://open.spotify.com/album/6301sWkK7hVwcrhcEwKPcH"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 223503,
-      "name": "No Promises (feat. Demi Lovato)",
-      "url": "https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "No Promises (feat. Demi Lovato)",
+        "url": "https://open.spotify.com/album/6301sWkK7hVwcrhcEwKPcH"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 223503,
+      "name": "No Promises (feat. Demi Lovato)",
+      "url": "https://open.spotify.com/track/1louJpMmzEicAn7lzDalPW"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Sun Comes Up (feat. James Arthur)",
-        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 232627,
-      "name": "Sun Comes Up (feat. James Arthur)",
-      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Old Town Road (Diplo Remix)",
         "url": "https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 204026,
       "name": "Old Town Road - Diplo Remix",
       "url": "https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Sun Comes Up (feat. James Arthur)",
+        "url": "https://open.spotify.com/album/5UGyzp6HT8oy0eTkBfxtQ8"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 232627,
+      "name": "Sun Comes Up (feat. James Arthur)",
+      "url": "https://open.spotify.com/track/6SUocL0caib4mLHe8ZrZzi"
     },
     {
       "added_at": "2024-11-15 03:00:00",

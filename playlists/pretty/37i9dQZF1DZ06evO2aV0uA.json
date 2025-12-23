@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 141323,
+  "num_followers": 141337,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAA5VuxSz6qDjfablnwZrsDZ",
+  "snapshot_id": "aUc4gAAAAAD07xCL9ZUNOYTXlH+4IFnI",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sacrament (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "Pathetic",
-      "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "State Of Unrest",
         "url": "https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 187894,
       "name": "State Of Unrest",
       "url": "https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sacrament (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1PJtQrmYNraIeTjapfuYcf"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "Pathetic",
+      "url": "https://open.spotify.com/track/4MdcRxTOezZq9z292jCwjJ"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New American Gospel",
-        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 292293,
-      "name": "Black Label",
-      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
+      "duration_ms": 235111,
+      "name": "Gears",
+      "url": "https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New American Gospel",
+        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "Black Label",
+      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VII: Sturm und Drang",
         "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 296453,
       "name": "Embers",
       "url": "https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 235111,
-      "name": "Gears",
-      "url": "https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc"
     },
     {
       "added_at": null,

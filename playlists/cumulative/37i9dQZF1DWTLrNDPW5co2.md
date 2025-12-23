@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring BAYLI.
 
-438 songs - 1 day 2 hr 47 min
+439 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-06-03 | 2023-04-01 |
 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 | 2024-06-14 | 2024-07-02 |
 | [GUESS](https://open.spotify.com/track/0eNyt9NmppskKVo0fw0XmT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [GUESS](https://open.spotify.com/album/0q0G9omHqvzRGMjIsvHOGD) | 2:20 | 2024-09-20 | 2025-02-01 |
-| [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 |  |
+| [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-02 | 2025-12-23 |
 | [Handlebar](https://open.spotify.com/track/6uW5uizAjavheAhaHfftfu) | [C'est Karma](https://open.spotify.com/artist/1vguzZkCrYKOlgHCXldU5t) | [Handlebar](https://open.spotify.com/album/1JgxpbhQ9lGSaG1gpy07UP) | 2:19 | 2024-08-16 | 2025-04-05 |
 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 | 2023-03-31 | 2024-06-08 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-22 | 2024-09-21 |
@@ -326,6 +326,7 @@
 | [PRETTY GIRLS WANT IT HARD](https://open.spotify.com/track/1QnL8rwfB4DsubtuxG1rVb) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [PRETTY GIRLS WANT IT HARD](https://open.spotify.com/album/5Ynx4KUIi3AALNlywPsA8k) | 2:59 | 2024-09-13 | 2025-01-25 |
 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-05-30 | 2025-07-12 |
 | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw) | 2:54 | 2025-10-10 |  |
+| [Push Pop](https://open.spotify.com/track/2inHClKJ2CJX6ad9wKQd7r) | [Disco Shrine](https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA) | [Push Pop](https://open.spotify.com/album/1wyYIU9SUyMyqcS2KWRNVT) | 2:54 | 2025-12-22 |  |
 | [Puta](https://open.spotify.com/track/5u7QDciPfgcpmoqRtp6zk6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Puta / Sola](https://open.spotify.com/album/5pR0qWF08ZFisy9P4YTR0e) | 3:41 | 2025-06-06 |  |
 | [Puta](https://open.spotify.com/track/4YZpWGihruxXJOf2FPnZmp) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN) | [Puta](https://open.spotify.com/album/6kbzIKqCQP7tdb2ncGcWEv) | 2:33 | 2024-06-21 |  |
 | [Puta Romántica](https://open.spotify.com/track/4llkS4ssWQCnHfBjy7nCln) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [DJ Kelvin El Sacamostro](https://open.spotify.com/artist/6DJyhClLATkdn3UhSDbrtv) | [Puta Romántica](https://open.spotify.com/album/5WcuAbd6Te3ysEcOtiwKAu) | 3:04 | 2024-10-25 | 2025-05-31 |

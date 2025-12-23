@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,834 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,825 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 16 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
 | 17 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
 | 18 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 |
-| 19 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
-| 20 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
+| 19 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
+| 20 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
 | 21 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 22 | [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 |
 | 23 | [Pełnia](https://open.spotify.com/track/0Cl0eIyCH09ydNi7FvmDD3) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY) | [Pełnia](https://open.spotify.com/album/3y5HIfYJAm3O6nFqigjvc7) | 3:07 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 34 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
 | 35 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 36 | [Ostatni dzień lata](https://open.spotify.com/track/4WF2CXSyL1vgcNohuSC9XT) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ostatni dzień lata](https://open.spotify.com/album/0YcboQK6yPH31Qj3dOtKS6) | 3:19 |
-| 37 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |
-| 38 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
+| 37 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
+| 38 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |
 | 39 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
 | 40 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
 | 41 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 44 | [TV](https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [TV](https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R) | 2:43 |
 | 45 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 |
 | 46 | [KATHARSIS](https://open.spotify.com/track/2EmeOCb1NohemsNva1SQZx) | [ARS LATRANS Orchestra](https://open.spotify.com/artist/1LzVOPgsaVzyFmXDqIPOCT), [irys](https://open.spotify.com/artist/4oUskmafCJAJzSKYxhia6U), [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il), [waterbody](https://open.spotify.com/artist/3KuudbK2QPuIFChpr6tCGb), [tim\_badel](https://open.spotify.com/artist/6bOiXcPbJZM9mBV7o8nM6A), [Szymon Paciora](https://open.spotify.com/artist/59NAlbFgu39Mr337r8ttkx), [low lab](https://open.spotify.com/artist/7nLBtOwJ0hhhO70jIZbGKF), [Alina Łapińska](https://open.spotify.com/artist/6ARISnFdGIlWiX3DFPFuWN) | [KATHARSIS](https://open.spotify.com/album/1aEzsCOQaGQLgz9CADG59A) | 4:25 |
-| 47 | [chaber bławatek](https://open.spotify.com/track/30e18TJBc52At2n1EhN7tU) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [prawie dobrze](https://open.spotify.com/album/0OlWgKcxSIX7x4dEW4h11c) | 3:41 |
+| 47 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
 | 48 | [Echo jego kroków](https://open.spotify.com/track/3RBgH0TbwfDoGD8qx8Bth4) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Echo jego kroków](https://open.spotify.com/album/4jEnTiflkUVZbYSyP3vwg5) | 4:20 |
-| 49 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
+| 49 | [chaber bławatek](https://open.spotify.com/track/30e18TJBc52At2n1EhN7tU) | [Senny](https://open.spotify.com/artist/1G9URp0t7Z45RhHHUdRo5P) | [prawie dobrze](https://open.spotify.com/album/0OlWgKcxSIX7x4dEW4h11c) | 3:41 |
 | 50 | [Eyes](https://open.spotify.com/track/1TNrcBxPDmlfAyLnGbmzrp) | [Sonia Stein](https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y) | [Eyes](https://open.spotify.com/album/6oearcpH2fW4i8AmSCKLHs) | 3:12 |
 
 Snapshot ID: `AAAAAPF7dK/TJzS+aT+r9ODynxSSKmcl`

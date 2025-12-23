@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-97 songs - 5 hr 52 min
+98 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 |  |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 |  |
 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 |  |
+| [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 | 2025-12-22 |  |
 | [Little Flint Lighter \- Single Version](https://open.spotify.com/track/5wKplKbLsM9GT7JnDy9TGh) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Little Flint Lighter](https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD) | 3:19 | 2025-09-19 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-11-04 |  |
 | [LOVE ME, KISS ME, KILL ME](https://open.spotify.com/track/2WrOFJ7oNXuhGMfMoTz13y) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:42 | 2025-10-31 | 2025-11-21 |

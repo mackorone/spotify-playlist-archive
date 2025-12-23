@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 325696,
+  "num_followers": 325751,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAArqQWimNw3GZQxUdULse7R",
+  "snapshot_id": "aUc4gAAAAAAuOOznDWNBfu0fALG/LUgg",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 198115,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 239592,
       "name": "Creature",
       "url": "https://open.spotify.com/track/5yqKUU2DUyilP2TvOrjEzT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 198115,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "The Lost",
+      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hope You're Happy",
         "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 173333,
       "name": "Box Me Up (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "The Lost",
-      "url": "https://open.spotify.com/track/7asPE18wGkhTCuCkt5GT6b"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams Don\u2019t Die",
-        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Dreams Don\u2019t Die",
-      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 220013,
       "name": "Church",
       "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreams Don\u2019t Die",
+        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Dreams Don\u2019t Die",
+      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 237720,
       "name": "Unlive - with Yelawolf",
       "url": "https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enlisted",
-        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 280647,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 215477,
       "name": "Tears Could Talk",
       "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 280647,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
     },
     {
       "added_at": null,

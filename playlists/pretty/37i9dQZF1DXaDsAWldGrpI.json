@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143262,
+  "num_followers": 143253,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Live at the Ryman",
-        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
+        "name": "Hate How You Look (Live From London)",
+        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 223032,
-      "name": "Heavens To Betsy - Live at the Ryman",
-      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
+      "duration_ms": 203375,
+      "name": "Hate How You Look - Live From London",
+      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -455,18 +455,18 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Hate How You Look (Live From London)",
-        "url": "https://open.spotify.com/album/5s1LYXS2J3hh48RZj2OMfb"
+        "name": "Live at the Ryman",
+        "url": "https://open.spotify.com/album/2EXHkWVZwZyGJOISXsEnX4"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 203375,
-      "name": "Hate How You Look - Live From London",
-      "url": "https://open.spotify.com/track/5VIlk2bnBUL9qm3IItRQmo"
+      "duration_ms": 223032,
+      "name": "Heavens To Betsy - Live at the Ryman",
+      "url": "https://open.spotify.com/track/7Barn6lupetMnaVO13eSA1"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Live EP 001",
-        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Dancing in the Sky - Live",
-      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
         "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "House Of The Rising Sun (Live in Denver)",
-        "url": "https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r"
+        "name": "Live EP 001",
+        "url": "https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe"
       },
       "artists": [
         {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
         }
       ],
-      "duration_ms": 360000,
-      "name": "House Of The Rising Sun - Live in Denver",
-      "url": "https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq"
+      "duration_ms": 184733,
+      "name": "Dancing in the Sky - Live",
+      "url": "https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -975,6 +959,22 @@
       "duration_ms": 273826,
       "name": "Sundown - Live at the Fillmore New York at Irving Plaza, 2010",
       "url": "https://open.spotify.com/track/2RBfevYbpxycnnzBXZUwEi"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "House Of The Rising Sun (Live in Denver)",
+        "url": "https://open.spotify.com/album/6MmI1NpknaKeMhOsYBqB9r"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "House Of The Rising Sun - Live in Denver",
+      "url": "https://open.spotify.com/track/6r6lV2hf0QE27BpJ5Pm6Vq"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "Brooks & Dunn and Friends - Live from CMT Crossroads",
         "url": "https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 254653,
       "name": "Brand New Man (with Luke Combs) - Live from CMT Crossroads",
       "url": "https://open.spotify.com/track/2u2TK3JmzoBXlMQJ1s7Skq"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
-        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 405497,
-      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
-      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "No Horse To Ride (Live From Boston)",
         "url": "https://open.spotify.com/album/7ojhjADjKK2rqXSbao0pfp"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 226523,
       "name": "No Horse To Ride - Live From Boston",
       "url": "https://open.spotify.com/track/1LfvRCAx0kgP6cbpmArtel"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Straight Line (Live from the HIGH AND ALIVE WORLD TOUR)",
+        "url": "https://open.spotify.com/album/7oKTPmVQ98HM1fqPk48wqH"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 405497,
+      "name": "Straight Line - Live from the HIGH AND ALIVE WORLD TOUR",
+      "url": "https://open.spotify.com/track/3ezfdkLRbUjlB3cHwfYBe7"
     },
     {
       "added_at": "2025-12-12 05:00:32",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-12 05:00:32",
       "album": {
-        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
-        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
-      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:32",
-      "album": {
         "name": "Okie From Muskogee (Live In Muskogee, Oklahoma/1969)",
         "url": "https://open.spotify.com/album/2oQ0VRkbeYmrUXCjy1CPV6"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 248853,
       "name": "Okie From Muskogee - Live In Muskogee, Oklahoma/1969",
       "url": "https://open.spotify.com/track/4b65hP5xZvthkSTkCSJuVs"
+    },
+    {
+      "added_at": "2025-12-12 05:00:32",
+      "album": {
+        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
+        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
+      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
     },
     {
       "added_at": "2025-12-12 05:00:32",

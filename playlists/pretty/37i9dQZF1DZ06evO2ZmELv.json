@@ -1,12 +1,12 @@
 {
   "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
-  "num_followers": 247,
+  "num_followers": 248,
   "original_name": "This Is Cheli Madrid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABCbGeRTlnxDPikD/twp/58",
+  "snapshot_id": "aUc4gAAAAACrBN+FR+Q1Nw0i95EpkLGG",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuela Paloma",
-        "url": "https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 265856,
-      "name": "Vuela Paloma",
-      "url": "https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Regalo Se Qued\u00f3 en el Arbolito",
         "url": "https://open.spotify.com/album/5ETTQhTpIYMNFeEf4lzTTt"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 291178,
       "name": "Tu Regalo Se Qued\u00f3 en el Arbolito",
       "url": "https://open.spotify.com/track/3uHTqXrx6TaVobKU6Imn1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuela Paloma",
+        "url": "https://open.spotify.com/album/1pknEtNbzO9CCxDCbVn4QS"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 265856,
+      "name": "Vuela Paloma",
+      "url": "https://open.spotify.com/track/5wXa6VEW2cv81pN40Jcpeg"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda 27",
-        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 191542,
-      "name": "Un D\u00eda 27",
-      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Convences",
         "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 205155,
       "name": "Me Convences",
       "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda 27",
+        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 191542,
+      "name": "Un D\u00eda 27",
+      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confidente",
         "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
@@ -832,9 +848,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+      "duration_ms": 161621,
+      "name": "Coraz\u00f3n De Oropel - En Vivo",
+      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 206058,
       "name": "Besos de Papel - En Vivo",
       "url": "https://open.spotify.com/track/6ILt8LHVCRGAhf1HFeZVty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

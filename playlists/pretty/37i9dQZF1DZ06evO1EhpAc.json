@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABtvq9h+1jFcUrARg6a48xR",
+  "snapshot_id": "aUc4gAAAAAA9LsLknD9Ko7I+7SducmtD",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
       },
@@ -71,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -99,30 +99,6 @@
       "duration_ms": 274728,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5HwHdYpk3QiOUhsfWKYkFq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe In Ya",
-        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Girl Talk",
-          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
-        }
-      ],
-      "duration_ms": 179089,
-      "name": "Believe In Ya",
-      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
     },
     {
       "added_at": null,
@@ -151,22 +127,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "wo ai ni / break it even",
-        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+        "name": "Believe In Ya",
+        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
       },
       "artists": [
         {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
         }
       ],
-      "duration_ms": 182957,
-      "name": "break it even",
-      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
+      "duration_ms": 179089,
+      "name": "Believe In Ya",
+      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
     },
     {
       "added_at": null,
@@ -183,6 +163,26 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wo ai ni / break it even",
+        "url": "https://open.spotify.com/album/1Had0ltWJoM2L8xBPjLMK6"
+      },
+      "artists": [
+        {
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 182957,
+      "name": "break it even",
+      "url": "https://open.spotify.com/track/2DtdX4LyEaeumRBEcQxKB9"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 201239,
-      "name": "WAKING UP DOWN",
-      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 202537,
       "name": "One More",
       "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 201239,
+      "name": "WAKING UP DOWN",
+      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
     },
     {
       "added_at": null,
@@ -646,15 +646,11 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 170424,
-      "name": "MONEY CAN'T BUY",
-      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
+      "duration_ms": 162459,
+      "name": "WHEN I GROW UP",
+      "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
     },
     {
       "added_at": null,
@@ -714,11 +710,15 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
         }
       ],
-      "duration_ms": 162459,
-      "name": "WHEN I GROW UP",
-      "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
+      "duration_ms": 170424,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
     },
     {
       "added_at": null,

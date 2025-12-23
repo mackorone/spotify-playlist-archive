@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,538 likes - 182 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,593 likes - 182 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 6 | [Virelai](https://open.spotify.com/track/6OyHaNVzxNdjFm0wThDBpn) | [Florentin Fontaine](https://open.spotify.com/artist/2s9On29ToFU3xTzFt3IpV8) | [Virelai](https://open.spotify.com/album/7dp62StBuLbIWr3oMF5dls) | 1:54 |
 | 7 | [Lugnet](https://open.spotify.com/track/46OXgRHwhmmMt9aqxTEFIn) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Lugnet](https://open.spotify.com/album/0iNaiLdDbIPDRS3Rle5bVP) | 2:36 |
 | 8 | [Tremor](https://open.spotify.com/track/329r6KZ1LQRObJcFKF4wYz) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Tremor](https://open.spotify.com/album/2JAvoIwDs7BK7BWXIu6rmf) | 2:02 |
-| 9 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
-| 10 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
+| 9 | [Ljuset](https://open.spotify.com/track/2SDr7QH2orw60e6e7c5s7F) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Ljuset](https://open.spotify.com/album/1AB0J3WamaIT3glX5vSARK) | 2:22 |
+| 10 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
 | 11 | [Concepts](https://open.spotify.com/track/5zQA5HeJ6KfWSgwAGZRxUh) | [Richard Noé](https://open.spotify.com/artist/6vqqdZR8jcxqX0wDi0xeji) | [Concepts](https://open.spotify.com/album/5DHW9iPdqzWyrQuaI4sv3j) | 2:12 |
 | 12 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 13 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
-| 14 | [Light As A Feather](https://open.spotify.com/track/3U30zuvNNHUUMSI954bWZk) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Light As A Feather](https://open.spotify.com/album/1Ug8cU7eAWPnyMcr7GGocA) | 2:36 |
+| 13 | [Light As A Feather](https://open.spotify.com/track/3U30zuvNNHUUMSI954bWZk) | [Viro Marix](https://open.spotify.com/artist/0dSIbheAKaFJ9K2TxRJ3vv) | [Light As A Feather](https://open.spotify.com/album/1Ug8cU7eAWPnyMcr7GGocA) | 2:36 |
+| 14 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
 | 15 | [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 |
 | 16 | [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 |
 | 17 | [Morning Sun](https://open.spotify.com/track/6mlqTL4FdN645uNsvnblcD) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Morning Sun](https://open.spotify.com/album/1xnzCbETLtHNY7GF5ldEtl) | 2:26 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 181 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 |
 | 182 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 |
 
-Snapshot ID: `AAAAAHOdTc07F5xxcVPmxPdIcosCYWUr`
+Snapshot ID: `AAAAAJxJ8jtz4LG27lFENjbbV54rubfn`

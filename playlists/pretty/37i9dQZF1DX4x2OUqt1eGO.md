@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,818 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,820 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 45 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
 | 46 | [Between Thoughts](https://open.spotify.com/track/1CRP3o6j10DCJ4HMbBQvnj) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Flute For Thought](https://open.spotify.com/album/5SSsDneKbYQb2blJsE49Xe) | 10:09 |
 | 47 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |
-| 48 | [Silence Is Bliss \(feat\. Pandit Vishwa Mohan Bhatt\)](https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Silence Is Bliss](https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw) | 7:07 |
-| 49 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
-| 50 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
+| 48 | [Varanasi My Soul \- Banarasi Kajri \- Raga Pilu](https://open.spotify.com/track/0S9Uklvmnxs5uUSt8UQikf) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Bansuri: The Indian Flute](https://open.spotify.com/album/431hmllyP1obMhA2ssxxXw) | 7:26 |
+| 49 | [Silence Is Bliss \(feat\. Pandit Vishwa Mohan Bhatt\)](https://open.spotify.com/track/1EsiOtldv6cwty7wzjb21G) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR), [Vishwa Mohan Bhatt](https://open.spotify.com/artist/1tY6Z4NEPI3xHhVA8VU9Jl) | [Silence Is Bliss](https://open.spotify.com/album/4tINT5MiPsX1SSECjIHfzw) | 7:07 |
+| 50 | [Bansuri \(Tranquil Waters\)](https://open.spotify.com/track/7AyWhg7yOGaT1a8juVaFAF) | [Indian Flute](https://open.spotify.com/artist/4vz48P0cvMOxI2BVAbGcbD) | [Indian Flute Meditation Music \(Pure Positive Vibes & Instrumental Music for Meditation and Yoga\)](https://open.spotify.com/album/42mCdQJfJr1SkICZy0KGaw) | 4:33 |
 | 51 | [Shiva Moon II \(The Ocean Mudra\)](https://open.spotify.com/track/6SVgR78FFm40IVlIVn5LsU) | [Prem Joshua](https://open.spotify.com/artist/1Bs9FqmJBHrAJN6DLFIPt1) | [Mudra](https://open.spotify.com/album/63FzmTnR1MGxv62LFbWyGD) | 2:44 |
 | 52 | [Naima](https://open.spotify.com/track/6lJ0KuPr2ClEz8VO33np8t) | [Deepak Ram](https://open.spotify.com/artist/0IRHoIb1ZFEVrwdm0SzPh5) | [Steps](https://open.spotify.com/album/303VLWbB3C3paaS9UFLoRa) | 6:59 |
-| 53 | [Fantasy Flute](https://open.spotify.com/track/1765MCzs77plUXfAPThmtb) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Cafe Fluid](https://open.spotify.com/album/2XyN2O2uJMXULnqJYDtDhm) | 4:56 |
-| 54 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
+| 53 | [Chintan Ke Saaz](https://open.spotify.com/track/4saUYeD0vL8DyHfJnUN1Qi) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Prema Ke Sur](https://open.spotify.com/album/0WQpqSKcn8XAggsTRDd0nC) | 4:30 |
+| 54 | [Fantasy Flute](https://open.spotify.com/track/1765MCzs77plUXfAPThmtb) | [Naveen Kumar](https://open.spotify.com/artist/6k8RbhejJjg6BghZLi3zAR) | [Cafe Fluid](https://open.spotify.com/album/2XyN2O2uJMXULnqJYDtDhm) | 4:56 |
 | 55 | [Sadhana](https://open.spotify.com/track/6UcidIpOnWyscCvNWKnaPa) | [Vinayak A](https://open.spotify.com/artist/0rdwBKdUKRIp2t05MeQ7KV), [Flutewala](https://open.spotify.com/artist/4dV1PSWzfh8IgXQgJLrXnH), [Manoj Kumar](https://open.spotify.com/artist/5tgOvwp2QxSAhnnK2s3FX2) | [Sadhana](https://open.spotify.com/album/6JOn66aAncnEDWp31GKfjV) | 4:53 |
 | 56 | [Shabdkosh](https://open.spotify.com/track/4eJE88d33ZBAEALNv3fnzv) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Aashchary](https://open.spotify.com/album/25TMsMiB5NoYZqvTX082Xp) | 5:59 |
 | 57 | [Monsoon Moon](https://open.spotify.com/track/53l3hRGFDvakOGlZNmOEJO) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Monsoon Moon](https://open.spotify.com/album/5vkFkrsacJzdO1JuW0mLB1) | 4:04 |

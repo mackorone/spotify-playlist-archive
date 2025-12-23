@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,820 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,828 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 78 | [Aguaráchate](https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Aguaráchate](https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv) | 2:36 |
 | 79 | [EL OTRO TÚ](https://open.spotify.com/track/29xOGMmFT7vsDpmsmMvcmT) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [EL OTRO TÚ](https://open.spotify.com/album/6o2mMA8R9374vi2KVc3DPl) | 2:52 |
 | 80 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
-| 81 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
-| 82 | [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 |
-| 83 | [Durmiendo](https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Tierra](https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA) | 3:24 |
+| 81 | [Durmiendo](https://open.spotify.com/track/4owkQ4569f24b5CmVdr3jt) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Tierra](https://open.spotify.com/album/32J5NblDzVXpvTMuEFtyUA) | 3:24 |
+| 82 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
+| 83 | [digo que no, pero si](https://open.spotify.com/track/6NjH26xBLIpheJqf66cyzP) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [digo que no, pero si](https://open.spotify.com/album/6bGsPhgxhhsRcsEDDEgJ6E) | 3:07 |
 | 84 | [Miraverahí](https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Se Amaba Así](https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK) | 3:14 |
 | 85 | [ColdS3x](https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ) | [LA GURU](https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz) | [ColdS3x](https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA) | 3:10 |
 | 86 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |

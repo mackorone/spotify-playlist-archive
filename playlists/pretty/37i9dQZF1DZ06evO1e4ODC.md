@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 
 > This is Jesús Adrián Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,468 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,484 likes - 49 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 19 | [Olvidé Cuidar Mi Huerto](https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 3:47 |
 | 20 | [No Es Como Yo](https://open.spotify.com/track/6C7MQrVotSOLaEmWlFJ5Xh) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:59 |
 | 21 | [Indomable \- Live](https://open.spotify.com/track/5FUsHxUB7MVpM6sRSjCZbD) | [Vástago Epicentro](https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Epicentro Live \(Desde Monterrey, México\)](https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw) | 4:15 |
-| 22 | [El Brillo De Mis Ojos](https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:31 |
-| 23 | [Al Taller del Maestro](https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Al Taller del Maestro](https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF) | 5:24 |
+| 22 | [Al Taller del Maestro](https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Al Taller del Maestro](https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF) | 5:24 |
+| 23 | [El Brillo De Mis Ojos](https://open.spotify.com/track/2vBLWOaYsg9lclJYBGiL6O) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Brillo De Mis Ojos \(Edición Especial\)](https://open.spotify.com/album/1VVRRc6n8i1Q2Uare6MJFi) | 3:31 |
 | 24 | [Aqui Estoy](https://open.spotify.com/track/0IEPPVl1khipGmiTDJmwLb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 3:16 |
 | 25 | [No Ha Sido En Vano](https://open.spotify.com/track/35CpjCNSI3vLdgaSwfHlNq) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [No Ha Sido En Vano](https://open.spotify.com/album/0ZykuWZYgNMqbvkECpIeom) | 3:31 |
 | 26 | [¿Cómo Me Ves?](https://open.spotify.com/track/3sO095NgJJOy9hQnVI1Gq6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:03 |
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1e4ODC.md) - [plain]
 | 47 | [Ven, Te Necesito \- En Vivo](https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Colección Duetos](https://open.spotify.com/album/0tflYRKYYx7KJScUmcYZ8u) | 6:09 |
 | 48 | [Una Casa Vacía](https://open.spotify.com/track/7BwjXbstceaeN4bjbt9caj) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Origen Y Esencia](https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS) | 2:47 |
 | 49 | [Te Busqué \(feat\. Brian Sandoval\)](https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:51 |
-| 50 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 
-Snapshot ID: `aUXnAAAAAADAZU7WAOwQBm+BBVPkNTE7`
+Snapshot ID: `aUc4gAAAAAD7nIIgD/5Sc2WFTBJselF4`

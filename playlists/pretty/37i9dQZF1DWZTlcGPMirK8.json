@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72383,
+  "num_followers": 72389,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 244893,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Drinking From The Sun, Walking Under Stars Restrung",
         "url": "https://open.spotify.com/album/4ijUWjOHZ5VnUADcOsL1vS"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 239280,
       "name": "1955",
       "url": "https://open.spotify.com/track/6oSmp7qnvAxUXeUKhl67a6"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/6EMxWaM803hd4sPsJ6PkcA"
-      },
-      "artists": [
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 244893,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/1qk9ujVgudgU8CyhKOx8ji"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Calling",
-        "url": "https://open.spotify.com/album/4dz3QzzqKVwz3WRZZmodq9"
-      },
-      "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "The Nosebleed Section",
-      "url": "https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Hook Me Up",
         "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 255360,
       "name": "Untouched",
       "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/4dz3QzzqKVwz3WRZZmodq9"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "The Nosebleed Section",
+      "url": "https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 204726,
+      "name": "My My My!",
+      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Drinking From The Sun",
         "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 204726,
-      "name": "My My My!",
-      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Just As I Am",
         "url": "https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 239306,
       "name": "Angels Brought Me Here",
       "url": "https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Long Road Back",
-        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
-      },
-      "artists": [
-        {
-          "name": "Peter Andre",
-          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Mysterious Girl - Radio Edit",
-      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Birds Of Tokyo",
         "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 218000,
       "name": "Plans",
       "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Long Road Back",
+        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
+      },
+      "artists": [
+        {
+          "name": "Peter Andre",
+          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Mysterious Girl - Radio Edit",
+      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "That's What I'm Talking About",
         "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201773,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
     },
     {
       "added_at": "2024-08-05 06:00:58",

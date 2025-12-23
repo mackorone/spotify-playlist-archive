@@ -1903,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "IMPURE",
+        "url": "https://open.spotify.com/album/65nD6c1k6sVGXxHFaNNagJ"
+      },
+      "artists": [
+        {
+          "name": "Planet V",
+          "url": "https://open.spotify.com/artist/50KY1fYJqwGBSfCRXMtZjg"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207727,
+      "name": "IMPURE",
+      "url": "https://open.spotify.com/track/5JsZWjPY3RctjRmPa98DPw"
+    },
+    {
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/2tYfKFkl3ChReL3VKKF5Us"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 695531,
+  "num_followers": 695586,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAijZJR7smvbD/ipwEIwdHS",
+  "snapshot_id": "aUc4gAAAAAChXyi3WsoqRm3bz8+2KGNM",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who's That Girl Soundtrack",
-        "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Who's That Girl",
-      "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bedtime Stories",
         "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 304933,
       "name": "Secret",
       "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who's That Girl Soundtrack",
+        "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Who's That Girl",
+      "url": "https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH"
     },
     {
       "added_at": null,
@@ -639,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
         }
       ],
-      "duration_ms": 263813,
-      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
-      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+      "duration_ms": 227973,
+      "name": "La Isla Bonita - Remix",
+      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
     },
     {
       "added_at": null,
@@ -671,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Chris Lord-Alge",
-          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
         }
       ],
-      "duration_ms": 227973,
-      "name": "La Isla Bonita - Remix",
-      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
+      "duration_ms": 263813,
+      "name": "I'll Remember (Theme from the Motion Picture With Honors)",
+      "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "This Used to Be My Playground",
-      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 239093,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 310266,
+      "name": "This Used to Be My Playground",
+      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 278135,
-      "name": "You'll See",
-      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 229600,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 278135,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
     },
     {
       "added_at": null,
@@ -851,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Won't Wait (Original Demo Edit)",
-        "url": "https://open.spotify.com/album/1FhxnbxYQ4Say54oHlQVPF"
+        "name": "Rebel Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 293384,
-      "name": "Love Won't Wait - Original Demo Edit",
-      "url": "https://open.spotify.com/track/7n58P8s2AgJbhYn7m8tyUW"
+      "duration_ms": 227480,
+      "name": "Bitch I'm Madonna",
+      "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
     }
   ],
   "unique_name": "This Is Madonna",

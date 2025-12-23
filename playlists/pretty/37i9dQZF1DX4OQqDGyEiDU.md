@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,715 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,724 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 44 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [バルーン](https://open.spotify.com/artist/4RrSI9kIV8fMWQj1gDmc5K) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
 | 45 | [テレキャスタービーボーイ \- long ver.](https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [パンデミック](https://open.spotify.com/album/63xiINuJgwLhkFXhh6pYag) | 2:44 |
 | 46 | [天ノ弱](https://open.spotify.com/track/0UUV97Kf5nowsUWIxVs4bO) | [164](https://open.spotify.com/artist/4q1k4Y6SroqGJopNP90hYQ) | [天ノ弱 \(feat\. Mayumi Morinaga\)](https://open.spotify.com/album/0KshnO8rWAFXOdZHXwkqCH) | 3:06 |
-| 47 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
-| 48 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |
-| 49 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 |
-| 50 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
+| 47 | [グッバイ宣言](https://open.spotify.com/track/2sQDwbzGSpHXwnIAOrcDn9) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [グッバイ宣言](https://open.spotify.com/album/383X8RO1IowJ8bDO3hlsMs) | 2:52 |
+| 48 | [Beyond the way](https://open.spotify.com/track/26I5UfjfxqsUAB2Ryr4utP) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Beyond the way](https://open.spotify.com/album/72mmKlShf9SvsGGQuOLi6u) | 3:00 |
+| 49 | [㋰責任集合体](https://open.spotify.com/track/4cyk1ppFfQleEgXBvWX4Uc) | [マサラダ](https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2) | [㋰責任集合体](https://open.spotify.com/album/5wL21xdm0DWF6jIG1mE1gI) | 3:30 |
+| 50 | [神っぽいな](https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [神っぽいな](https://open.spotify.com/album/5NQnpToG5tTdZ6aGVfx35J) | 3:23 |
 
 Snapshot ID: `AAAAAF6svWHRPqU56QsRkaeiv/XKG0CQ`

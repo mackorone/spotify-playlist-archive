@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,636 likes - 45 songs - 2 hr 54 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,644 likes - 48 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 43 | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/track/76Z8LaWHDpelBLtqeHYdxV) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Pheromone Too \(Hard Mix\)](https://open.spotify.com/album/1WyfzVrgGwWtsaXpZKo9Uq) | 3:51 |
 | 44 | [Bad Vibes](https://open.spotify.com/track/3jvM9MKz7ykupfSVjqPVAW) | [Bottom Shelf](https://open.spotify.com/artist/5oe17JXV0rx6w21hy7bddG) | [Bad Vibes](https://open.spotify.com/album/3rPl8OuIjXtZiLTBnULfM1) | 1:07 |
 | 45 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 |
+| 46 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 |
+| 47 | [LTK](https://open.spotify.com/track/44Qqn1dhvDng9pLPANoRGh) | [Steve Schwartz](https://open.spotify.com/artist/0rFuKciUQDbtEQmQ6XJ4YQ) | [LTK](https://open.spotify.com/album/3j7jt2dabJflTVhsgznvVO) | 3:52 |
+| 48 | [Don´t Bring Me Down](https://open.spotify.com/track/4jVzDkL9RP27tfWy3q78Tn) | [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW), [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho) | [Don´t Bring Me Down](https://open.spotify.com/album/3tyHhtZSfDpBbCD8tT6RW6) | 3:41 |
 
-Snapshot ID: `AAAKPM2YgNO2oCk6Bqw8qxxSX89z6IK0`
+Snapshot ID: `AAAKPynLKXKH2Xb/x+APJW4erx2FvQjm`

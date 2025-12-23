@@ -603,6 +603,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "The Cole Porter Mix",
+        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
+      },
+      "artists": [
+        {
+          "name": "Patricia Barber",
+          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
+        }
+      ],
+      "duration_ms": 219653,
+      "name": "You're The Top",
+      "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "The Cole Porter Mix",
-        "url": "https://open.spotify.com/album/1NGLLk5vTXlmHbIGGPWG1I"
-      },
-      "artists": [
-        {
-          "name": "Patricia Barber",
-          "url": "https://open.spotify.com/artist/16R5esBHEkxTw1QO9dnWM5"
-        }
-      ],
-      "duration_ms": 219653,
-      "name": "You're The Top",
-      "url": "https://open.spotify.com/track/4FJ678ORMehOang0djwg9Y"
     },
     {
       "added_at": "2025-03-13 14:14:40",

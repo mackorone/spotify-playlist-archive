@@ -4,7 +4,7 @@
 
 > Gentle festive piano music to keep you focused this holiday season☕️✨
 
-68 songs - 3 hr 2 min
+69 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0aKt25CTygW0FpPAPEgH19) | [Frost & Ember](https://open.spotify.com/artist/1mvunBQzdq7XvcsxyVRaUV) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/42odUTzJRHivK7qujWnWVq) | 4:35 | 2025-10-22 |  |
 | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2025-10-22 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/37EeR4AVijh5Hgd4keGN4F) | [Abigail Baker](https://open.spotify.com/artist/5y5qYbFqNEaEXrJRkxNvJp) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/0eGQgCfMzvLPimodsyqsZO) | 2:56 | 2025-11-13 |  |
+| [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/4fmMD2PMG2hZMH0OXBGunH) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [A Touch Of December](https://open.spotify.com/album/0REuyYIJJ0AXLV4Q2rwwjA) | 2:09 | 2025-12-22 |  |
 | [Jesu, Joy of Man's Desiring](https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F) | [Pauline Poncelet](https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb) | 2:29 | 2025-11-28 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/2A4lNx9IATchVQnnYNVcvN) | [Nemo Jaymes](https://open.spotify.com/artist/0aZCH5KbYUZ69UWNjp0FZe) | [Jingle Bell Rock](https://open.spotify.com/album/3vzrqbCszsdtXKNeeDTiwk) | 2:20 | 2025-10-22 |  |
 | [Jingle Bells](https://open.spotify.com/track/39iHvNIr3IToSb2wjsU8Ss) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [A Touch Of December](https://open.spotify.com/album/3fclWgItqyFKFTuBfxjivJ) | 2:35 | 2025-11-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,518 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,520 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 35 | [Coma \- Stripped Version](https://open.spotify.com/track/2XnCicNih9wL1IQsq5nxOY) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma \(Stripped Version\)](https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17) | 3:18 |
 | 36 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
 | 37 | [Sotula](https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY) | [KIMIA](https://open.spotify.com/artist/0pwRlHwZ0MnJOcwQcgJBkl) | [Sotula](https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm) | 3:06 |
-| 38 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
-| 39 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
+| 38 | [Head Out](https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Head Out](https://open.spotify.com/album/5OtP813E52dTO5fiakbt87) | 3:17 |
+| 39 | [La rivière](https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW) | 2:45 |
 | 40 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
-| 41 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
-| 42 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
+| 41 | [Luxury](https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Luxury](https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv) | 3:32 |
+| 42 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
 | 43 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 | 44 | [Coming Home](https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR) | [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Roots \(Extended\)](https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY) | 2:56 |
 | 45 | [Strange Place](https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Wire](https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC) | 3:10 |

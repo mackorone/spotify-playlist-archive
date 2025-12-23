@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-283 songs - 14 hr 23 min
+284 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,8 @@
 | [Monster Mash](https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC) | [Bobby "Boris" Pickett](https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX), [The Crypt\-Kickers](https://open.spotify.com/artist/4frDtYgwXXKkbyQzjOmJG5) | [The Original Monster Mash](https://open.spotify.com/album/1yW6XU0pw5ZqDeu81OAaCr) | 3:12 | 2025-10-27 | 2025-11-09 |
 | [MONTAGEM RUGADA](https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [JXNDRO](https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [MONTAGEM RUGADA](https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n) | 1:32 | 2025-10-27 | 2025-10-29 |
 | [My Girlfriend Is a Witch](https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX) | 2:06 | 2025-11-01 | 2025-11-08 |
-| [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-21 |  |
+| [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-21 | 2025-12-23 |
+| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-22 |  |
 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-11-04 | 2025-11-12 |
 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 | 2025-12-07 |  |
 | [Never Ending Story](https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i) | [Gaten Matarazzo](https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6), [Gabriella Pizzolo](https://open.spotify.com/artist/7FZcgLmT7hkZWlODqmOFNo) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:05 | 2025-11-28 | 2025-12-20 |

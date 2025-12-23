@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 98953,
+  "num_followers": 98968,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "De Panama A Nueva York",
+        "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 323040,
+      "name": "Descarga Caliente",
+      "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 160826,
       "name": "Evil Ways",
       "url": "https://open.spotify.com/track/6LoiJXXZuZejbG6VjmjzA4"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "De Panama A Nueva York",
-        "url": "https://open.spotify.com/album/2JmJnOOlzq820rq9tRFAPR"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
-        }
-      ],
-      "duration_ms": 323040,
-      "name": "Descarga Caliente",
-      "url": "https://open.spotify.com/track/161gOWTZqCKPw7S5cRJ1BQ"
     },
     {
       "added_at": "2024-07-18 20:57:58",

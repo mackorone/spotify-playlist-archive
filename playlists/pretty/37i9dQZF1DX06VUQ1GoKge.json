@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 553919,
+  "num_followers": 553913,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "system_failure",
-      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 210120,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "Slow Burn",
+        "url": "https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "system_failure",
+      "url": "https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n"
     },
     {
       "added_at": "2025-11-05 11:45:24",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
-        "name": "The End of All We Know",
-        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
-      },
-      "artists": [
-        {
-          "name": "Bleed From Within",
-          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
-        }
-      ],
-      "duration_ms": 251512,
-      "name": "The End of All We Know",
-      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
         "name": "American Capitalist (Standard)",
         "url": "https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 218133,
       "name": "Under and Over It",
       "url": "https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
+        "name": "The End of All We Know",
+        "url": "https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "duration_ms": 251512,
+      "name": "The End of All We Know",
+      "url": "https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih"
     },
     {
       "added_at": "2025-11-05 11:45:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,757 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,824 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Dois Gumes \- Ao Vivo](https://open.spotify.com/track/39KwMv89TaEdaBrvk28AMC) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Dois Gumes \(Ao Vivo\)](https://open.spotify.com/album/4o1PjHRaJZI1FqRRsb8Oz4) | 3:11 |
 | 50 | [Entregador de Flor \- Ao Vivo em Brasília](https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília](https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7) | 3:10 |
 
-Snapshot ID: `MNtpqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MNy40AAAAAAAAAAAAAAAAAAAAAAAAGVu`

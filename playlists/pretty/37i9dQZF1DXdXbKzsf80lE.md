@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,790 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,806 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 38 | [Ela Aperta a Minha Mente](https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Todos Os Ritmos](https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u) | 3:17 |
 | 39 | [Agora Estou Sofrendo](https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Agora Estou Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8) | 4:18 |
 | 40 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |
-| 41 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
-| 42 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
+| 41 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
+| 42 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
 | 43 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 44 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
 | 45 | [O Apostador](https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [Alanzim Coreano](https://open.spotify.com/artist/3z1hkcmUuBH6lmB91l73MC) | [O Apostador](https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX) | 2:16 |

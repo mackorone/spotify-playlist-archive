@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 126091,
+  "num_followers": 126103,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADQ6yl4TfcmfkT2Zy0P7yv/",
+  "snapshot_id": "aUc4gAAAAABf3y/aMtYmKRSKTZdCpmJO",
   "tracks": [
     {
       "added_at": null,
@@ -351,30 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chamba",
-        "url": "https://open.spotify.com/album/4DiXDXU9SExY3wnRPqwxCg"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 202351,
-      "name": "Chamba",
-      "url": "https://open.spotify.com/track/2luUwuzmpbFo1FqPGfqUce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "desmaquillada",
         "url": "https://open.spotify.com/album/5RMmoWngZf5SH607oGSZyc"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 200960,
       "name": "Recuerdo",
       "url": "https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 202351,
+      "name": "Chamba",
+      "url": "https://open.spotify.com/track/6wsThRu35S56XQhbeslTzm"
     },
     {
       "added_at": null,

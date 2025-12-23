@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1wN04stbxdr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1wN04stbxdr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1wN04stbxdr)
 
-### [Hver gang vi møtes 2025](https://open.spotify.com/playlist/37i9dQZF1DX1wN04stbxdr)
+### [Hver gang vi møtes 2026](https://open.spotify.com/playlist/37i9dQZF1DX1wN04stbxdr)
 
-> Hør årets tolkninger her!
+> Vi varmer opp til ny sesong med årets tolkninger!
 
-98 songs - 4 hr 55 min
+99 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Trenger deg nå](https://open.spotify.com/track/1Uf6LuByMK1hAooNIWGfnx) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Trenger deg nå](https://open.spotify.com/album/6B4xiyhjwsecreFUGVTVPp) | 2:46 | 2025-01-23 |  |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-01-31 |
 | [Vi Skal Våkne](https://open.spotify.com/track/0QD0dWZzlq7EYyNREsQi80) | [Ole Ivars](https://open.spotify.com/artist/7dKfUD97BylRps6PXuEJy6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Vi Skal Våkne](https://open.spotify.com/album/12OXsvP6QgwG8zzeS1hAeU) | 2:33 | 2024-06-18 | 2025-01-03 |
+| [When Susannah cries](https://open.spotify.com/track/2wfBGlWqlk4gOjsQEk32Ue) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [When Susannah cries](https://open.spotify.com/album/3dIQebw8wnJYoaxvJcxVmX) | 3:46 | 2025-12-22 |  |
 | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/track/3vvktrTDQASIpOsn2oiS63) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7), [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Who Took You Away \(Mu Áhkku\)](https://open.spotify.com/album/3fQEjpwfe0ceIGVk8DjCe3) | 3:20 | 2024-06-18 | 2025-01-03 |
 | [wow](https://open.spotify.com/track/1DyvQsMh6ZMWTuH0PGmpOD) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [wow](https://open.spotify.com/album/122hSj4d319T3iNJ9YrBqf) | 3:55 | 2024-06-18 | 2025-01-03 |
 | [Zoe](https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Zoe](https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9) | 3:11 | 2025-01-09 |  |

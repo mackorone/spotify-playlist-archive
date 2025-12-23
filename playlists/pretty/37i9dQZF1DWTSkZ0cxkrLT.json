@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428885,
+  "num_followers": 428895,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Inconsciente Colectivo",
         "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
       },
@@ -591,22 +575,18 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Destilar",
-        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 260523,
-      "name": "La Luna de Neuqu\u00e9n",
-      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -627,6 +607,26 @@
       "duration_ms": 236612,
       "name": "Bellasombra",
       "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "Destilar",
+        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "La Luna de Neuqu\u00e9n",
+      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Mar de Coral",
-        "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        },
-        {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
-        }
-      ],
-      "duration_ms": 235044,
-      "name": "Mar de Coral",
-      "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Con Las Ganas",
         "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
       },
@@ -1075,22 +1055,22 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+        "name": "Mar de Coral",
+        "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
       "artists": [
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         },
         {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
         }
       ],
-      "duration_ms": 188928,
-      "name": "De Haber Sabido",
-      "url": "https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu"
+      "duration_ms": 235044,
+      "name": "Mar de Coral",
+      "url": "https://open.spotify.com/track/2Vnc34rlo42kYFyLUmX1Px"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1123,6 +1103,26 @@
       "duration_ms": 291008,
       "name": "Un Osito de Peluche de Taiw\u00e1n - MTV Unplugged",
       "url": "https://open.spotify.com/track/6rkRm52aWJhtRgOF9WTtnZ"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 188928,
+      "name": "De Haber Sabido",
+      "url": "https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu"
     },
     {
       "added_at": "2025-11-07 03:00:09",

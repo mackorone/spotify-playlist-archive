@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: ksmartboi\(김상민그는감히전설이라고할수있다\)\)
 
-1,714 songs - 3 day 19 hr 31 min
+1,715 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1272,6 +1272,7 @@
 | [Same \(feat\. YUMDDA\)](https://open.spotify.com/track/43HaKwqWGHL4IFOAuuomQR) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [YAHO](https://open.spotify.com/album/4ptpkLWr3MMEe6pUQv0Xs8) | 3:18 | 2025-07-06 | 2025-09-20 |
 | [Same Breed](https://open.spotify.com/track/2t6V3C2YW7GkrmN5lvUjmg) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Jbfm](https://open.spotify.com/album/75abKZ895sjG7Lyp1no40Q) | 4:25 | 2025-10-24 |  |
 | [SARANGHAE](https://open.spotify.com/track/3URB1DMuLPkeGkRj1KiE37) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [<3](https://open.spotify.com/album/05RwG1scYOeeovch817MRu) | 3:17 | 2025-08-19 | 2025-12-09 |
+| [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2025-12-22 |  |
 | [SAUSAGE \(Feat\. Rosy Barbie\)](https://open.spotify.com/track/7tH7fYy9TueKzOMVyXUB2L) | [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [Rosy Barbie](https://open.spotify.com/artist/6rTUpaGDseTWJW7f1NA4bT) | [The Predator 2: FLEEKY SYNDROME](https://open.spotify.com/album/5OdY6FQMrOo6qmzDUuAf7G) | 3:05 | 2024-01-12 | 2024-06-05 |
 | [Save me](https://open.spotify.com/track/540dyWKcC3fJPkmOKm98rl) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [Save me](https://open.spotify.com/album/5FsoX7fLiz8Nn1r7riC0Zl) | 2:45 | 2023-04-06 | 2023-04-19 |
 | [Save Time](https://open.spotify.com/track/4sOUV2qZIbLZbmWzghksVe) | [Okasian](https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO), [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Save Time \- Single](https://open.spotify.com/album/4vYMStS83CssKGiglMQAIY) | 3:02 | 2024-04-19 | 2024-04-27 |

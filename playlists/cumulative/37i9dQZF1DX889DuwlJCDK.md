@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Blue Mash
 
-1,510 songs - 3 day 19 hr 13 min
+1,511 songs - 3 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,7 +266,7 @@
 | [I'll Walk Facing You](https://open.spotify.com/track/0kUN0Va1nqjRW4PtK1nMmS) | [OKOJO](https://open.spotify.com/artist/1RTVAEXT1GPXtN6MQjiaXU) | [YAGI](https://open.spotify.com/album/5z5bzXMVXM2GzTwE13hl9s) | 3:02 | 2025-11-25 | 2025-12-03 |
 | [I'm Your…](https://open.spotify.com/track/1eSn0YdWHnZ5EMrzjvt8Pi) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6) | [I'm Your…](https://open.spotify.com/album/6rSllpWQ2yo871H83pdOTn) | 2:12 | 2025-04-08 | 2025-05-22 |
 | [I've](https://open.spotify.com/track/57BQ3n3vnYgBnljelbldxx) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [I've](https://open.spotify.com/album/6irQ8MLqExckzBsv5UcKIF) | 3:23 | 2025-08-05 | 2025-08-13 |
-| [Ice Cream Moment](https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg) | [Slump Girl](https://open.spotify.com/artist/7njfMubTH8CmJE5mKebdnl) | [Ice Cream Moment](https://open.spotify.com/album/0c18UlghbglqtpHJ2SN3I3) | 3:56 | 2025-12-16 |  |
+| [Ice Cream Moment](https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg) | [Slump Girl](https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15) | [Ice Cream Moment](https://open.spotify.com/album/0c18UlghbglqtpHJ2SN3I3) | 3:56 | 2025-12-16 |  |
 | [ichinichi suubyouno ii siin](https://open.spotify.com/track/7LuwkNU5o4UKlw3EPAIiZL) | [hasirikomis](https://open.spotify.com/artist/28bJGbQ7LynOhMZYD2ctdv) | [I Love you! next to music](https://open.spotify.com/album/3rWIrZ3UYRwFz3tsEl3q5m) | 4:30 | 2024-03-13 | 2024-03-20 |
 | [idea](https://open.spotify.com/track/5VGdlSCk6UB7SYdxzcbSo8) | [\(yoru to\)SAMPO](https://open.spotify.com/artist/3LAWK80zCJtDxXGBa0BB1n) | [idea](https://open.spotify.com/album/5UUWmONSdccDmVOLOe3zh5) | 5:02 | 2024-07-30 | 2024-09-11 |
 | [Identify](https://open.spotify.com/track/7eHQ769Mbys4ALmMnpDE2p) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Identify](https://open.spotify.com/album/66ZFlm59P8mAeHRsnQ0BpA) | 3:36 | 2023-10-24 | 2023-11-24 |
@@ -992,7 +992,7 @@
 | [ファンタジスタ](https://open.spotify.com/track/46CBNW94jXusrQJiuxnjs1) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [ファンタジスタ](https://open.spotify.com/album/5la2wyAAhFgXCQBxltFUh8) | 3:06 | 2023-11-28 | 2023-12-06 |
 | [フィルムカメラ](https://open.spotify.com/track/1hYutnGc0XBiUoMlzipK1p) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [破壊的価値創造](https://open.spotify.com/album/7AlXmLUiPhn3vK6XCwyapY) | 4:41 | 2023-09-20 | 2023-09-21 |
 | [フラグメント](https://open.spotify.com/track/6Vv7WUZhxGkYYjrIiiFTtg) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [フラグメント](https://open.spotify.com/album/3k6MjLF2NQFI9SpHtZBILR) | 3:26 | 2025-01-14 | 2025-04-09 |
-| [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 | 2025-11-04 |  |
+| [フラジェール](https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [MELT](https://open.spotify.com/album/4qTPu3k41zzLZilDNyGEyD) | 3:56 | 2025-11-04 | 2025-12-23 |
 | [フラジャイル・ナイト](https://open.spotify.com/track/4AgyrMwqCQc5wlWftTPwrZ) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [フラジャイル・ナイト](https://open.spotify.com/album/1SzXBjLNyxHy73c04lYrVC) | 3:08 | 2025-03-11 | 2025-07-09 |
 | [フラッシュバック・ラブ](https://open.spotify.com/track/0B2nZESeIzEdA8Bvgg5BSx) | [EVE OF THE LAIN](https://open.spotify.com/artist/1EJ49xciSyZ3zutKiFbYyU) | [フラッシュバック・ラブ](https://open.spotify.com/album/31R5CVmc1tggRGexCOs2zy) | 3:59 | 2025-11-11 | 2025-11-19 |
 | [フランス料理](https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [君の飼い犬は、可愛くて最悪。](https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98) | 4:43 | 2025-02-25 | 2025-03-26 |
@@ -1236,6 +1236,7 @@
 | [微炭酸](https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [微炭酸](https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA) | 3:00 | 2025-08-05 | 2025-12-03 |
 | [心](https://open.spotify.com/track/2IYIeMVCYIZUyzG1td1GW5) | [アルステイク](https://open.spotify.com/artist/63b2Lkt14DQTxSCU8CTP4U) | [kasabuta](https://open.spotify.com/album/6XYdsvdFjzF0MXgxaELyWu) | 3:24 | 2025-10-01 |  |
 | [忘れた](https://open.spotify.com/track/6jANWu5jUoaXMbDPhqKpvh) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [忘れた](https://open.spotify.com/album/5qqZJdza9hi83rxhKlixE5) | 6:02 | 2023-10-24 | 2023-11-01 |
+| [忘れてしまいそう](https://open.spotify.com/track/7ANRDMXL1yKnJ5pGwuvXAU) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [Trooper Salute 2](https://open.spotify.com/album/5r9Ysu2h2WSv26ArIAzX5j) | 6:27 | 2025-12-16 |  |
 | [忘愛](https://open.spotify.com/track/1a5xbhxEtN3Iz0CIgJPBgA) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [忘愛](https://open.spotify.com/album/1zyInbeCTglw09GThsJMps) | 3:24 | 2025-04-22 | 2025-11-05 |
 | [忠犬ボク公](https://open.spotify.com/track/161T1ZEi6tvZgNL1GvKG01) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [忠犬ボク公](https://open.spotify.com/album/070QDEVBG8huAaUesEaUUo) | 4:37 | 2024-12-17 | 2025-03-26 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2023-11-14 | 2024-12-18 |

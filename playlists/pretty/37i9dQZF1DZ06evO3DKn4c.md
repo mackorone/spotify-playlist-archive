@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,942 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,941 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 42 | [Black Belt \(feat\. Black Alien & Bi Ribeiro\)](https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Bi Ribeiro](https://open.spotify.com/artist/0toWNUEQ8Bcimaq6BKh7Tr) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 3:34 |
 | 43 | [Quem É Voce?](https://open.spotify.com/track/7gdQhYno5coyBLCDDdKRRG) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Luiz Melodia](https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 3:54 |
 
-Snapshot ID: `aUXnAAAAAADmKzjg0hypSMp0DP+duGSx`
+Snapshot ID: `aUc4gAAAAADXwWe1eBTMfm9vf2nFCdD9`

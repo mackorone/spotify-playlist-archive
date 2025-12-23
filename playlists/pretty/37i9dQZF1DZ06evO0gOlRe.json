@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35837,
+  "num_followers": 35843,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADi//RaE919QXaS5reQYvM8",
+  "snapshot_id": "aUc4gAAAAACansGCmN77o10zfrhQyYi2",
   "tracks": [
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "he never will",
-        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 171133,
-      "name": "he never will",
-      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
+      "duration_ms": 198750,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "echo",
-        "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 198750,
-      "name": "echo",
-      "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
     },
     {
       "added_at": null,

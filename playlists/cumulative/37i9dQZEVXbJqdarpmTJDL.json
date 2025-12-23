@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 195345,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
@@ -6604,7 +6604,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 165733,
       "name": "BIG DOGS",
       "url": "https://open.spotify.com/track/1mOC3viWCKRGYMfeGwtcqR"
@@ -23168,7 +23168,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -25724,7 +25724,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -35514,7 +35514,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 244922,
       "name": "Oneiro Tha 'Nai Ksana - Kounia",
       "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
@@ -37910,7 +37910,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "PERCO",
       "url": "https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr"
@@ -38178,7 +38178,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 257647,
       "name": "Peta Ta",
       "url": "https://open.spotify.com/track/0UFPiis9uHJcYbTVp0hmkB"
@@ -46786,6 +46786,28 @@
       "duration_ms": 130000,
       "name": "Telegram",
       "url": "https://open.spotify.com/track/5UacNXtLBLpHwNwq2FEQxT"
+    },
+    {
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/0x7H7tkGepkOOyYE2dLz1U"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248672,
+      "name": "Teleia - Unplugged",
+      "url": "https://open.spotify.com/track/6fktt8XwBNjhoCU2V5aP7l"
     },
     {
       "album": {

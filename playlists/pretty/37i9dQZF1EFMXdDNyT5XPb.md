@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 106 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 106 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 33 | [Die For You](https://open.spotify.com/track/1GXHrSWqqFvFgWdV6xGhWX) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:06 |
 | 34 | [Beautiful to Me](https://open.spotify.com/track/7fa1oiFqQFhlO8ghtLIGpR) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:33 |
 | 35 | [Hole in My Heart](https://open.spotify.com/track/6KOCCvjH3DEyUPhjjfOsP3) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Hole in My Heart](https://open.spotify.com/album/1vKIu5jM2MeRMo6aCfNvIi) | 3:08 |
-| 36 | [Never Give Up on Us](https://open.spotify.com/track/6T7Z0YRT0cHxkhmcNkkqSf) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Never Give Up on Us](https://open.spotify.com/album/34UFv48EtDCZ0dJkDPGT07) | 3:48 |
-| 37 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
+| 36 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
+| 37 | [Never Give Up on Us](https://open.spotify.com/track/6T7Z0YRT0cHxkhmcNkkqSf) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Never Give Up on Us](https://open.spotify.com/album/34UFv48EtDCZ0dJkDPGT07) | 3:48 |
 | 38 | [Stick the Kettle On](https://open.spotify.com/track/7Mob9AxqWbMbhV0PKbRrSG) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Today Was a Good Day \(Deluxe\)](https://open.spotify.com/album/2OvioEMUJr9AlI02k6KnT4) | 2:55 |
 | 39 | [Adrenaline](https://open.spotify.com/track/2eR6FzowkVYAOBdZrO1VPj) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:30 |
 | 40 | [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 61 | [This Must Be Christmas \- Single Mix](https://open.spotify.com/track/2hXjYeuMrcZZ2Z9C3MER4c) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [This Must Be Christmas](https://open.spotify.com/album/2pu1UdU80EqKShbMTQgrHb) | 3:33 |
 | 62 | [Fixing Me Breaking You](https://open.spotify.com/track/13ynOu7fZjOGBXBXPVmNjH) | [River Atley](https://open.spotify.com/artist/7jdKX74FchWPfiPJNEwF8A) | [Fixing Me Breaking You](https://open.spotify.com/album/3zzbP5UjjZizBRDc0zXnVm) | 3:32 |
 | 63 | [Temporary Fix](https://open.spotify.com/track/04ttk2TXHyDsQyp9g6EcdX) | [Dirty Blond](https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM) | [Temporary Fix](https://open.spotify.com/album/4TexJNS9hSTmRILQTSZkcH) | 3:27 |
-| 64 | [Count on Me](https://open.spotify.com/track/0GMmYmTC96fkUncw2frsiy) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:23 |
-| 65 | [Boots and Cats](https://open.spotify.com/track/0EFAopGK0UWb7HMxUjcm0o) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Boots and Cats](https://open.spotify.com/album/15O1SZPiniUiioSioz9Aqq) | 2:25 |
-| 66 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
+| 64 | [Kid At Christmas](https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Kid At Christmas](https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki) | 3:33 |
+| 65 | [Count on Me](https://open.spotify.com/track/0GMmYmTC96fkUncw2frsiy) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:23 |
+| 66 | [Boots and Cats](https://open.spotify.com/track/0EFAopGK0UWb7HMxUjcm0o) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Boots and Cats](https://open.spotify.com/album/15O1SZPiniUiioSioz9Aqq) | 2:25 |
 | 67 | [Circles](https://open.spotify.com/track/72na5hu1cHuifzVAPmYCLj) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Circles](https://open.spotify.com/album/2jYKPul21QiYqfFFfyO3KI) | 2:32 |
 | 68 | [Alright](https://open.spotify.com/track/3lxLYA80tPMvpni048At5z) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Alright](https://open.spotify.com/album/6MNH5j7RV1tvYBIhPBR76x) | 2:22 |
 | 69 | [One More Drink](https://open.spotify.com/track/1hVDx7jZdR0re5I0hxZheO) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:13 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 91 | [Oxygen](https://open.spotify.com/track/1TyOikNjNxgLY1xRa5an3Z) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Oxygen](https://open.spotify.com/album/7irVDSjaTPjKzCIKnqBe2n) | 2:57 |
 | 92 | [Save Me From Myself](https://open.spotify.com/track/5w3yOrJubytZAWTPCaejJB) | [Asher Knight](https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6) | [Step Back EP](https://open.spotify.com/album/0jjxVahwxOj0x4o8LYyOUT) | 3:28 |
 | 93 | [Only Love](https://open.spotify.com/track/6yGS34pX74150JW2AT0lSu) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:30 |
-| 94 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
-| 95 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 94 | [All For You](https://open.spotify.com/track/0vmxkMlvs48oKYcOJJRfZj) | [Simple Things](https://open.spotify.com/artist/4shOc51gERMCBeJALYIQmN) | [All For You](https://open.spotify.com/album/2PN4Pl0eqHebYdXpWofu25) | 3:26 |
+| 95 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
 | 96 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
 | 97 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
 | 98 | [Carry Me](https://open.spotify.com/track/5UCXNtgoKOkxvXA5mr9Rmf) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [HALO](https://open.spotify.com/album/64qanlJYo3CsSuzReUMA5n) | 2:09 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 105 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 106 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcE2ZgAAAACumMZu661sNLgxFJXr9dx0`
+Snapshot ID: `AcE8BgAAAAA7IiJ9gLKZl4VDL64+0a3P`

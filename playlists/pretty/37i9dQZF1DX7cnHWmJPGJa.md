@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,861 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,861 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 35 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
 | 36 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
 | 37 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
-| 38 | [Feel The Fire](https://open.spotify.com/track/2fXx80HCSl6Up2kh7tBkn9) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Feel The Fire](https://open.spotify.com/album/3I65mO7Dtea7Wy73gmUjze) | 3:01 |
-| 39 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 |
+| 38 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 |
+| 39 | [Feel The Fire](https://open.spotify.com/track/2fXx80HCSl6Up2kh7tBkn9) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Feel The Fire](https://open.spotify.com/album/3I65mO7Dtea7Wy73gmUjze) | 3:01 |
 | 40 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 |
 | 41 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 |
 | 42 | [Wandering Eyes](https://open.spotify.com/track/5BTXTJdnCFb4nllA3eUxkU) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Wandering Eyes](https://open.spotify.com/album/0KeJhiswMeRNibCfFlg1sY) | 2:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 47 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
 | 48 | [If I Didn't Laugh](https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [If I Didn't Laugh](https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG) | 2:46 |
 | 49 | [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
-| 50 | [Influencer](https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Dreams, Schemes & Young Teams](https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa) | 2:18 |
+| 50 | [Like The First Time](https://open.spotify.com/track/18maIOvJtWoZWOrLZpBRJc) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Like The First Time](https://open.spotify.com/album/2YJBdg5dZmjmG30Cl96Cux) | 3:06 |
 
 Snapshot ID: `AAAAACoBRGzFC85sFikVKf363X04Dw3g`

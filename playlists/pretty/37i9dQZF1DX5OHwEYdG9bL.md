@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: DOYOUNG\(도영\)\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,489 likes - 131 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,486 likes - 131 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

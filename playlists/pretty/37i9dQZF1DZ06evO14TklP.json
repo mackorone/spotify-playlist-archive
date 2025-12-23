@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 17676,
+  "num_followers": 17704,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAtaIT+30SYuR6yhYdAi6np",
+  "snapshot_id": "aUc4gAAAAACzmTX6Q99DssuIvI4EH7kL",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca$h Ca$h",
-        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
       },
       "artists": [
         {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
-        },
-        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 184519,
-      "name": "Ca$h Ca$h",
-      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,
@@ -795,26 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+        "name": "Ca$h Ca$h",
+        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
       },
       "artists": [
         {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        },
+        {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+      "duration_ms": 184519,
+      "name": "Ca$h Ca$h",
+      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
     },
     {
       "added_at": null,

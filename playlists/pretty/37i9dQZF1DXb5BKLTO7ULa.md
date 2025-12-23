@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: AFROJACK, Hef, Joost, Kali Uchis en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,261 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,236 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 25 | [Vitrage](https://open.spotify.com/track/6Vsj6LxMtUC2eVqIOGJYWd) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vitrage](https://open.spotify.com/album/78BQMTYvgGQ20a6mfMUD2H) | 2:47 |
 | 26 | [Helse Weg](https://open.spotify.com/track/13J4yy3fZ0lL4hrPFuZD2f) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Helse Weg](https://open.spotify.com/album/3kRD21plGymtL79egsmrM9) | 8:12 |
 | 27 | [Wat Weet Je?](https://open.spotify.com/track/7jMTQcDEjzU6NVlUYW2Ddi) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [Wat Weet Je?](https://open.spotify.com/album/2zIpxLmDFi9HVLIR7HemOB) | 1:47 |
-| 28 | [Ajo amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ajo amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 |
+| 28 | [Ayo Amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ayo Amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 |
 | 29 | [Geeked](https://open.spotify.com/track/5LdRI9voYb3iOFwJ0QHLqY) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Geeked](https://open.spotify.com/album/7kmTctZlEUekWH8JPSevoN) | 1:55 |
 | 30 | [Memories](https://open.spotify.com/track/2pIkkkXqToSsJABbopZpYe) | [Monday](https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY) | [Nothing Like Monday](https://open.spotify.com/album/3udqEASlzdLNNCgdMUeiBG) | 3:37 |
 | 31 | [Bitter](https://open.spotify.com/track/0RB3mdQjeSOS8KRWuriqSj) | [Oliver Aron](https://open.spotify.com/artist/5HatOJzhgoVHpXTGBeCJlI) | [Bitter](https://open.spotify.com/album/6AXcr1oekfiQcxFmADFKFo) | 3:00 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35405,
+  "num_followers": 35407,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADfa/Lb0BA/VxdyPB/zxZS8",
+  "snapshot_id": "aUc4gAAAAAC/rouS59PdIx6XJ1ULSky7",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Llorando x 1",
-      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medley Rel\u00edquia 2",
         "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 136356,
       "name": "Medley Rel\u00edquia 2",
       "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
     },
     {
       "added_at": null,
@@ -899,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        }
-      ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
         "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
       },
@@ -947,6 +923,30 @@
       "duration_ms": 137272,
       "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
       "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": null,
@@ -1103,26 +1103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saiu Me Devendo",
-        "url": "https://open.spotify.com/album/4TUX1d1PXdxh4zH0mfzDCB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ T10",
-          "url": "https://open.spotify.com/artist/2Sf2ErwTx3Syvz5PQusX6J"
-        }
-      ],
-      "duration_ms": 118928,
-      "name": "Saiu Me Devendo",
-      "url": "https://open.spotify.com/track/47rgQmTzaegBpFB1Au2anN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -1175,30 +1155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+        "name": "Saiu Me Devendo",
+        "url": "https://open.spotify.com/album/4TUX1d1PXdxh4zH0mfzDCB"
       },
       "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+          "name": "DJ T10",
+          "url": "https://open.spotify.com/artist/2Sf2ErwTx3Syvz5PQusX6J"
         }
       ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+      "duration_ms": 118928,
+      "name": "Saiu Me Devendo",
+      "url": "https://open.spotify.com/track/47rgQmTzaegBpFB1Au2anN"
     },
     {
       "added_at": null,
@@ -1223,6 +1195,34 @@
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escolhas e Reflexos",
+        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Iuri Rio Branco",
+          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
+        }
+      ],
+      "duration_ms": 213994,
+      "name": "Mundo da Fama",
+      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
     },
     {
       "added_at": null,
@@ -1479,22 +1479,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mandrake",
-        "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
+        "name": "Sexo Sem Estresse",
+        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
       },
       "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
         }
       ],
-      "duration_ms": 157440,
-      "name": "Mandrake",
-      "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
+      "duration_ms": 139403,
+      "name": "Sexo Sem Estresse",
+      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
     }
   ],
   "unique_name": "This Is Mc Dricka",

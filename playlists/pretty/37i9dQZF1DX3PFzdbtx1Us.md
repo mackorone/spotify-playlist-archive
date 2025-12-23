@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 
 > Ambient piano to help you stay focussed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,578 likes - 167 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,523 likes - 167 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Night Streets](https://open.spotify.com/track/3OYG0OTISrtY56IloYZSXU) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Night Streets](https://open.spotify.com/album/7Kl8tiNtQAw3qp9jFJWyJL) | 2:23 |
 | 2 | [Escallonia](https://open.spotify.com/track/3eiNEHJYK9MX3UKYfW9irj) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Escallonia](https://open.spotify.com/album/2wY3ju9AoeMmFDyATPzBSh) | 2:09 |
 | 3 | [Aragonese](https://open.spotify.com/track/3bN2VEtYuFV2GjEHmfxTI3) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Aragonese](https://open.spotify.com/album/7xumXPGEwMrYVOb4pk6ANG) | 2:14 |
-| 4 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
-| 5 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
+| 4 | [L'or du temps](https://open.spotify.com/track/4GLHnYC81ZvMcQuChl19gk) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [L'or du temps](https://open.spotify.com/album/6Tab6Rsk2duWXaPseT2GHp) | 2:18 |
+| 5 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 |
 | 6 | [Avioncito De Papel](https://open.spotify.com/track/25sQgB0cL7326ANzBO7ZLe) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Avioncito De Papel](https://open.spotify.com/album/1YuZmvRVkCLaoowcy47M4p) | 2:32 |
 | 7 | [Time in its fury](https://open.spotify.com/track/0VtPANl5cMiIwhZj7Wb26v) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Time in its fury](https://open.spotify.com/album/4x4LYQ1bmp8yf9HE58WLeL) | 2:23 |
-| 8 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
-| 9 | [spirit of the wind](https://open.spotify.com/track/0549bpR4RTWXJXkAecXx7C) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [spirit of the wind](https://open.spotify.com/album/6dBOiti1FbGEQHDVQ2r1Ro) | 2:12 |
-| 10 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
-| 11 | [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 |
+| 8 | [The Limestone](https://open.spotify.com/track/2lWQ4ZRpOW0ZOEdWjG5Wzi) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [The Limestone](https://open.spotify.com/album/5ep7vG452SEeamVWgunlw0) | 2:24 |
+| 9 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
+| 10 | [spirit of the wind](https://open.spotify.com/track/0549bpR4RTWXJXkAecXx7C) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [spirit of the wind](https://open.spotify.com/album/6dBOiti1FbGEQHDVQ2r1Ro) | 2:12 |
+| 11 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
 | 12 | [Viaggio](https://open.spotify.com/track/6fr5ojni7gVUkfLafVXb2R) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Viaggio](https://open.spotify.com/album/3Kq2tqhyD2bGvp78aQkxsH) | 2:38 |
 | 13 | [Distant Places](https://open.spotify.com/track/4ht7nj0YiVpK8oP7o7YkcU) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [Distant Places](https://open.spotify.com/album/6g9tYRm1M1nBATMtMSu7QA) | 2:24 |
 | 14 | [Playful Waters](https://open.spotify.com/track/44gLT7tLntDBP2HR5sFsHM) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Playful Waters](https://open.spotify.com/album/5t8wXhWDC0mlvFv3w33MFd) | 2:32 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PFzdbtx1Us.md) - [plain]
 | 166 | [Senses](https://open.spotify.com/track/1S1TiBFDfxp0GUouI8mj0f) | [Viên Farhana](https://open.spotify.com/artist/2uey2tvCQM2A41vZq48pSq) | [Senses](https://open.spotify.com/album/07Psb60tZPs20pWuNsewS6) | 2:04 |
 | 167 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 |
 
-Snapshot ID: `AAAAAD+BfdNfI6O50UcEVY0qQjUuJaY3`
+Snapshot ID: `AAAAADwvoSf92BcQn9nclv7FpbFR1dqz`

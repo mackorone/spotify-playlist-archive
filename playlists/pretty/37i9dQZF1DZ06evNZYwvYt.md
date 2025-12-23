@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,515 likes - 47 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,522 likes - 47 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 46 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
 | 47 | [Resiste Más Que Yó \- En Vivo](https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo \(En Vivo\)](https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf) | 5:59 |
 
-Snapshot ID: `aUXnAAAAAACHJ42jRgYHizkbhCvdzhry`
+Snapshot ID: `aUc4gAAAAACDJhitaN7O1oyrHi9zFw0I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,130 likes - 121 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,129 likes - 121 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 6 | [Daylight](https://open.spotify.com/track/0dVsSv0xlnO3CJd4osrt2w) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Daylight](https://open.spotify.com/album/1MMZ6TC0X0LcztVxsx2oYr) | 2:39 |
 | 7 | [Winter Ends Here](https://open.spotify.com/track/0uWMXaYpiAP0Eig5brMGpD) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Winter Ends Here](https://open.spotify.com/album/7kXf5brsq55KnrnVSBbvKi) | 2:33 |
 | 8 | [Cádiz](https://open.spotify.com/track/2fQTBDA81IyaYgtr2Gz4Wl) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Cádiz](https://open.spotify.com/album/5YBGQGNe1qX309BmK6eDFL) | 2:12 |
-| 9 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
-| 10 | [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 |
+| 9 | [plein de coeur](https://open.spotify.com/track/4crc6QxiHReFGSrt4cg43P) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [plein de coeur](https://open.spotify.com/album/1JXZoXXPQ6b4st3LDbSpqy) | 2:33 |
+| 10 | [Silent Among Strangers](https://open.spotify.com/track/0QesMtYIzZ8yLPbSNYXqW1) | [Yeer Ifinies](https://open.spotify.com/artist/3GOZgVR0H4p50c5LaZ8kQx) | [Silent Among Strangers](https://open.spotify.com/album/6O8w2goMMDonSZnugTW4kL) | 2:30 |
 | 11 | [Abandoned](https://open.spotify.com/track/07e1UOoLHenRgycuDjaLdT) | [Pass Sacaglia](https://open.spotify.com/artist/0ZrsvPjO4XAYfYXzoTroF5) | [Abandoned](https://open.spotify.com/album/3nVkrDvCKza3Wv8CGSX9os) | 2:44 |
 | 12 | [Until the End](https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Until the End](https://open.spotify.com/album/2y2bo07zzJPSlNR3UEAtdm) | 2:40 |
 | 13 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 120 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
 | 121 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 |
 
-Snapshot ID: `AAAAAIYjLMPZzY57xVs1HiOOy8JBB5lz`
+Snapshot ID: `AAAAALr0AsMH51Vkhy/CE0+fr+AeeBID`

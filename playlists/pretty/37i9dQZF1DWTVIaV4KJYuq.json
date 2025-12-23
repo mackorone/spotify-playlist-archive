@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707667,
+  "num_followers": 707686,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Essential The Chicks",
         "url": "https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 229757,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Elvis Now",
         "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 275597,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "What a Wonderful World",
-        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Fredericks",
-          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
-        }
-      ],
-      "duration_ms": 162907,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "(500) Days of Summer (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 132493,
       "name": "Please, Please, Please, Let Me Get What I Want",
       "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Fredericks",
+          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
+        }
+      ],
+      "duration_ms": 162907,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Helplessly Hoping",
-        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 159229,
-      "name": "Helplessly Hoping",
-      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Helplessly Hoping",
+        "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 159229,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Every Breath You Take (feat. Liza Anne)",
         "url": "https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh"
       },
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7"
       },
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "With A Little Help From My Friends",
         "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 312173,
       "name": "With A Little Help From My Friends",
       "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
     },
     {
       "added_at": "2024-10-18 04:00:00",

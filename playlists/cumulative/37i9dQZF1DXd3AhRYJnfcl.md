@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: بهاء سلطان
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: رامي صبري
 
-410 songs - 23 hr 54 min
+411 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,9 +138,10 @@
 | [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2022-04-13 | 2022-07-20 |
 | [Kefaya Foraa](https://open.spotify.com/track/3Zven3QT9Wt2C8QuaIVHLQ) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kefaya Foraa](https://open.spotify.com/album/4ZI99AJbqBq4iDI1H6D3Ag) | 3:21 | 2024-09-09 | 2024-10-03 |
 | [Keify Keda](https://open.spotify.com/track/3yWSjxKQMpa7hXcmVElZgX) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi) | [Keify Keda](https://open.spotify.com/album/2bYcADdJfRTNcKfzPskfkq) | 3:13 | 2022-04-13 | 2022-09-27 |
+| [Kelma](https://open.spotify.com/track/0GqXFN7jjKYWjiNyPtozdX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Ghammadt Einy](https://open.spotify.com/album/4gg2CJrmvibTRGgHbzfj2H) | 4:09 | 2025-12-22 |  |
 | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/track/571hMdqSYlYZNa4i4Y0IpS) | [Massar Egbari](https://open.spotify.com/artist/1RJ4fUIqNW9jyKFMtRZOD4), [Boustan Magdy](https://open.spotify.com/artist/2hY97UqOlQK2wyIAXkx2Ep) | [Kelma \( Intro Of El Harsha El Sabaa Series\)](https://open.spotify.com/album/5wnmqhy2eKLnqEYqAHZ7O4) | 3:14 | 2023-04-07 | 2023-05-18 |
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-26 | 2022-10-11 |
-| [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 | 2025-07-25 |  |
+| [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 | 2025-07-25 | 2025-12-23 |
 | [Khazalni](https://open.spotify.com/track/2nzCYsxnaiaERW1u61aMYm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [Khazalni](https://open.spotify.com/album/6MJTt197mONL1Nsf1sP7Vh) | 4:04 | 2025-11-19 | 2025-12-06 |
 | [Kol Elly Eshto](https://open.spotify.com/track/3PsPaxw4KgRJXAVWxnUu7q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Kol Elly Eshto](https://open.spotify.com/album/36RN9n5MnY8qHLv9gwzfu0) | 3:08 | 2024-06-13 | 2024-09-10 |
 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2024-01-03 | 2024-09-10 |

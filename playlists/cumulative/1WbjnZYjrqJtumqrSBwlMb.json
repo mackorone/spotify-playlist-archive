@@ -10053,6 +10053,24 @@
     },
     {
       "album": {
+        "name": "Land of Pine",
+        "url": "https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM"
+      },
+      "artists": [
+        {
+          "name": "Sugar Cherry",
+          "url": "https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193214,
+      "name": "Irish",
+      "url": "https://open.spotify.com/track/4X5p1DUnLczYBBMXeAV0yb"
+    },
+    {
+      "album": {
         "name": "The Human Condition",
         "url": "https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o"
       },

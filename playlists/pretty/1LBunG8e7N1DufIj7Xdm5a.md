@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 251 likes - 3,792 songs - 8 day 8 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 252 likes - 3,794 songs - 8 day 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3800,5 +3800,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3790 | [Manic Pixie Dream Girl](https://open.spotify.com/track/5ADzfBmVwBYHcqfoTxj9D7) | [Double'D](https://open.spotify.com/artist/3E408YByYaGLDLkP5MMYYX) | [Alive](https://open.spotify.com/album/1I6yKEF5aHqj1YItc21dIh) | 2:12 |
 | 3791 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 |
 | 3792 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 |
+| 3793 | [Jesus Was A Victim Too](https://open.spotify.com/track/7hNZp4yRPRXWAyuIansvT3) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Jesus Was A Victim Too](https://open.spotify.com/album/4CrBkejU1zb8AjuXSA8b0q) | 3:44 |
+| 3794 | [cosmos&ginyus](https://open.spotify.com/episode/4YFQmGZVT9J3vGFl0f0Nwd) | [the land of sound](https://open.spotify.com/show/6i8Hun1WdTQO8PXQXkBusT) | [the land of sound](https://open.spotify.com/album/6i8Hun1WdTQO8PXQXkBusT) | 4:03 |
 
-Snapshot ID: `AAAGXOXj9ARYpVxCrHiXgza9+c3/Fh1B`
+Snapshot ID: `AAAGXkpFGRz5oFjofw6GjUXQUh0U620u`

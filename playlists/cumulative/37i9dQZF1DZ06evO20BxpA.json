@@ -906,7 +906,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 81145,
       "name": "How Much Longer",
       "url": "https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 313640,
       "name": "Out of the Emptiness",
       "url": "https://open.spotify.com/track/3TNPg4o0LkVjqnySb1Auh5"
@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "The Running Man (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91613,
+      "name": "They Will Walk Among You",
+      "url": "https://open.spotify.com/track/12avGA6TY7Gdad0IrqeVeb"
+    },
+    {
+      "album": {
         "name": "Our Planet (Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
       },
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 212546,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/2gpIqDNgwsR20iR86f4AHN"

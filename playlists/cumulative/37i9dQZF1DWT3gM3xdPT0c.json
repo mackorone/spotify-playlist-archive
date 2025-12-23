@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/3yal7OSvxWg5it2lGqrDBK"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Kowalczyk",
+          "url": "https://open.spotify.com/artist/6HFvcShRnjzRPjb48DsJcm"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146418,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/1PSU0xe4hpIpyP774bh8Mt"
+    },
+    {
+      "album": {
         "name": "Arizona Sunsets",
         "url": "https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq"
       },
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 152687,
       "name": "Enjoy Quietly",
       "url": "https://open.spotify.com/track/3nM9qzxNtAlxobdo6jLkxY"
@@ -4859,6 +4877,24 @@
     },
     {
       "album": {
+        "name": "My Mother",
+        "url": "https://open.spotify.com/album/3Vm9kFLzzmeqNsqgs3OV14"
+      },
+      "artists": [
+        {
+          "name": "Jonka Tribute",
+          "url": "https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128733,
+      "name": "My Mother",
+      "url": "https://open.spotify.com/track/7DUrp9pce5qnRMtCKAIFRx"
+    },
+    {
+      "album": {
         "name": "Mysteria",
         "url": "https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW"
       },
@@ -5795,6 +5831,24 @@
     },
     {
       "album": {
+        "name": "Sailing Among Skerries and Islets",
+        "url": "https://open.spotify.com/album/3YCGzbKhY0ym9ZXz731U5j"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Perez Fuentes",
+          "url": "https://open.spotify.com/artist/5wBUCRxyKy9QT5Sl2AGuWI"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177146,
+      "name": "Sailing Among Skerries and Islets",
+      "url": "https://open.spotify.com/track/6T2MSwJTf4UwIUljxqvlvf"
+    },
+    {
+      "album": {
         "name": "Sawdust Floors",
         "url": "https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er"
       },
@@ -6238,7 +6292,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 129134,
       "name": "Soothing Clare",
       "url": "https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE"

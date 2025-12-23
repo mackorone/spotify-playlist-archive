@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253866,
+      "name": "Do You Remember the First Time? - Live",
+      "url": "https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz"
+    },
+    {
+      "album": {
         "name": "Perimenopop",
         "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 234160,
       "name": "The Deer & the Wolf",
       "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"

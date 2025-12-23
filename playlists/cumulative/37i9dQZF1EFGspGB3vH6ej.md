@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-294 songs - 20 hr 2 min
+295 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [To Be Around You](https://open.spotify.com/track/3MRlyrcNvLflDJlIkrpRvG) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:36 | 2024-01-29 |  |
 | [To The Floor](https://open.spotify.com/track/4cLrmthtf9T0Gua6OKsgcm) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:27 | 2024-01-29 |  |
 | [Touch My Body](https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 3:24 | 2024-01-29 |  |
-| [Triumphant \(Get 'Em\)](https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Triumphant \(Get 'Em\)](https://open.spotify.com/album/4mhnkE0F9WN1RzMJoY8wwG) | 4:10 | 2024-01-29 | 2025-12-09 |
+| [Triumphant \(Get 'Em\)](https://open.spotify.com/track/6Rg7HnPZWJwGy2TWgeUuQL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Triumphant \(Get 'Em\)](https://open.spotify.com/album/4mhnkE0F9WN1RzMJoY8wwG) | 4:10 | 2024-01-29 |  |
 | [Triumphant \- Pulse Club Mix](https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Josh Abraham](https://open.spotify.com/artist/0fI7XTbV15bFnDfievQtmD), [Oligee](https://open.spotify.com/artist/1FR7xzV2leZ9lE9Ykqelyv), [U\-Tern](https://open.spotify.com/artist/2MOItYWcmLgA2E2OrjK759) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 5:28 | 2024-01-29 |  |
 | [Triumphant \- Vintage Throwback Mix](https://open.spotify.com/track/6fKWbMmxpvjTVPclI4uQJ3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 4:53 | 2024-01-29 |  |
 | [Twister](https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 2:26 | 2024-01-29 |  |
@@ -288,7 +288,8 @@
 | [When I Feel It](https://open.spotify.com/track/2Pz1LM9mjuGUscM4gk6GME) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 3:09 | 2025-06-21 |  |
 | [When I Saw You](https://open.spotify.com/track/3Iq58ceNpVxghuRWqMLGHy) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:23 | 2024-01-29 |  |
 | [Whenever You Call](https://open.spotify.com/track/2PWnjWaIVuDeT4mXZgHWgR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:20 | 2024-01-29 |  |
-| [Where Are You Christmas](https://open.spotify.com/track/13JaJYVh5Mbm5CxUxo6pex) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [My Funny Valentine](https://open.spotify.com/album/0Z2kEBzpRVD7oxP4WazPrJ) | 4:19 | 2024-01-29 |  |
+| [Where Are You Christmas](https://open.spotify.com/track/13JaJYVh5Mbm5CxUxo6pex) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [My Funny Valentine](https://open.spotify.com/album/0Z2kEBzpRVD7oxP4WazPrJ) | 4:19 | 2024-01-29 | 2025-12-23 |
+| [Where Are You Christmas?](https://open.spotify.com/track/2cMT0WACoPYJmUKcq25uQk) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Taylor Momsen's Pretty Reckless Christmas](https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2) | 3:08 | 2025-12-22 |  |
 | [With You](https://open.spotify.com/track/5F13RMbVzqCHUQSo5KL3Ci) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:47 | 2024-01-31 |  |
 | [With You](https://open.spotify.com/track/3tpOgbBnx1NTui7LSuf68K) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [With You](https://open.spotify.com/album/6npiZFL3shh7GfqqhWimid) | 3:50 | 2024-01-29 | 2024-02-01 |
 | [Workin' Hard](https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 3:29 | 2024-01-29 |  |

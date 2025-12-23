@@ -4,7 +4,7 @@
 
 > 
 
-126 songs - 6 hr 33 min
+127 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
 | [relapse](https://open.spotify.com/track/3CvRv1klCmdwGoOTRyJawj) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [relapse](https://open.spotify.com/album/0Yl4XnXHS0trdkI8rvFqyS) | 3:06 | 2025-03-26 |  |
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |
+| [Rip Tides \- Mikheil Music Remix](https://open.spotify.com/track/4EoPJZ8emPBql4Dt3km1Hb) | [Mira Sthira](https://open.spotify.com/artist/2hFK4B23ncCVrAqT29eqiq), [Mikheil Music](https://open.spotify.com/artist/5sYglx5GgL1LmCxXBfymsY) | [Rip Tides \(Mikheil Music Remix\)](https://open.spotify.com/album/7CKIh8AKK0owogevQTRqnM) | 5:16 | 2025-12-22 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-04-14 |  |
 | [SIN REMORDIMIENTOS](https://open.spotify.com/track/17AxppFQG4GtpsnSd9WL9h) | [Lope](https://open.spotify.com/artist/5xjht9gF2pJkmWwCu6SwHm) | [SIN REMORDIMIENTOS](https://open.spotify.com/album/7ISPuPra9vpoHernREfFBb) | 2:37 | 2025-06-06 |  |

@@ -761,6 +761,28 @@
     },
     {
       "album": {
+        "name": "Double Barrel (Instrumentals)",
+        "url": "https://open.spotify.com/album/0zK3B6Bn11AnaEa6CGU1dP"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284636,
+      "name": "Crashing Down - Instrumental",
+      "url": "https://open.spotify.com/track/6Mzjb3vH6xMLLapQDEbnZa"
+    },
+    {
+      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -2736,7 +2758,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 221626,
       "name": "Nonstante Tutto",
       "url": "https://open.spotify.com/track/0fboHXyWV1EqdX9HvYqpfd"

@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-855 songs - 1 day 13 hr 10 min
+859 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Dunfanaghy Beach](https://open.spotify.com/track/4dPDiKpvkhXrCZ7dd9nM3K) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Dunfanaghy Beach](https://open.spotify.com/album/4LlIknto9ZksRNDIZXfPL8) | 2:10 | 2021-12-08 | 2022-05-27 |
 | [Dusk](https://open.spotify.com/track/0dsETyiKlFL83feD6wNHl2) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Dusk](https://open.spotify.com/album/6alx16iPXm9cGR5w7fuGJj) | 2:34 | 2023-09-29 | 2025-08-07 |
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2025-09-13 |
+| [Early Autumn](https://open.spotify.com/track/5ZKXp3UKGj5NSDIKR7oc7p) | [Massimo Luce](https://open.spotify.com/artist/5XCekAGt3cAL4RkxGMu7Ya) | [Early Autumn](https://open.spotify.com/album/6vwTsPhj6VHqWN7bSsRvco) | 2:13 | 2025-12-22 |  |
 | [Eclipse](https://open.spotify.com/track/4xOX662co6Ryxqez1fgJbY) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 1:54 | 2022-06-10 | 2023-06-03 |
 | [Eclipse](https://open.spotify.com/track/4jsclhn5Q5oYDdV8uFa1DS) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Eclipse](https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29) | 2:04 | 2024-02-02 |  |
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2021-12-08 | 2024-04-05 |
@@ -269,6 +270,7 @@
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2021-12-08 | 2022-04-06 |
 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 | 2023-03-24 | 2024-07-19 |
 | [For the joys](https://open.spotify.com/track/1t1TI1DinDcwVZv5Ea188l) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [For the joys](https://open.spotify.com/album/4Jb0gJidq3hehJwEJm69ym) | 1:44 | 2025-01-20 | 2025-11-12 |
+| [Forest Green](https://open.spotify.com/track/0saaTg2rUYDwAbeL3oSVuG) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Forest Green](https://open.spotify.com/album/4Uo3AxhfUi7GfPPu4FVZSb) | 2:29 | 2025-12-22 |  |
 | [Fortnight ago](https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fortnight ago](https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD) | 2:03 | 2023-05-12 | 2025-09-13 |
 | [Fortuna](https://open.spotify.com/track/1fS0WaFOKGsQLebNWmQa4S) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Fortuna](https://open.spotify.com/album/2yidMLuUYkRSagU7epmtc1) | 3:25 | 2022-12-23 | 2023-03-25 |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-02 | 2025-09-13 |
@@ -303,7 +305,7 @@
 | [Havana](https://open.spotify.com/track/2GpaE8yk3gqH02k3h3Dmyq) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Havana](https://open.spotify.com/album/02zn5PgCVPHmuZ1dcp6yb3) | 2:06 | 2024-01-12 |  |
 | [Havana Vieja](https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW) | [Lester Hope](https://open.spotify.com/artist/3tgc4N85veoQX4jjx62ivq) | [Havana Vieja](https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf) | 2:51 | 2022-03-04 | 2024-07-30 |
 | [Have Faith In What Will Be](https://open.spotify.com/track/1oq0mwvjEoJPdnjq1relpX) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Have Faith In What Will Be](https://open.spotify.com/album/3WyBMmOjjn6kcTgZS3jlxV) | 3:18 | 2023-10-27 | 2024-05-24 |
-| [Haze](https://open.spotify.com/track/4UPMz9K7zjY8THQ5MPBUEA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Haze](https://open.spotify.com/album/3GHDOyyxzgRtxuLMex0l4I) | 3:08 | 2025-09-12 |  |
+| [Haze](https://open.spotify.com/track/4UPMz9K7zjY8THQ5MPBUEA) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Haze](https://open.spotify.com/album/3GHDOyyxzgRtxuLMex0l4I) | 3:08 | 2025-09-12 | 2025-12-23 |
 | [Hearst Castle](https://open.spotify.com/track/12cCmWHx28TrgZfNRgm4Jk) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Hearst Castle](https://open.spotify.com/album/1Pntow9W3aD2pdyepoGygN) | 2:08 | 2023-03-10 | 2025-03-19 |
 | [Heat Waves \- Guitar](https://open.spotify.com/track/70IohoujPBAt3fNCqYvpxh) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Heat Waves \(Guitar\)](https://open.spotify.com/album/5nR0oeYlZEnPBlKvNi1RQS) | 4:08 | 2022-04-05 | 2023-03-10 |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2021-12-08 | 2024-06-15 |
@@ -353,6 +355,7 @@
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 | 2024-10-16 |
 | [in the barrel](https://open.spotify.com/track/08t0y9ckkd4D3INWzucet3) | [Heitor de Lima](https://open.spotify.com/artist/5FNGrj7hvqzeskFQMeCZe5) | [seaflowers](https://open.spotify.com/album/2m79xabOBSNymQfPqWdIt0) | 3:00 | 2021-12-08 | 2023-06-09 |
 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 | 2021-12-08 | 2022-04-06 |
+| [In the Pale Distance](https://open.spotify.com/track/7aTGgerki3RXwyeVvi0h17) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [In the Pale Distance](https://open.spotify.com/album/3kavLoF6jzvYde7j7bQdvO) | 2:49 | 2025-12-22 |  |
 | [In the rear window](https://open.spotify.com/track/3hXcJf4BHy6DikP6H5WSw4) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [In the rear window](https://open.spotify.com/album/2GXZud0uP8SSM4VCE0Z6eH) | 2:01 | 2024-02-02 |  |
 | [In Time's Wake](https://open.spotify.com/track/6RV00RZtUQGMrJfIV44aH3) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [In Time's Wake](https://open.spotify.com/album/53WgH7jOcfo0TKrX0iE8XZ) | 2:30 | 2025-05-28 |  |
 | [Infatuated](https://open.spotify.com/track/4snLhsoeQDkuYpjSmnGlUV) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Infatuated](https://open.spotify.com/album/2kIwwzu3FAJcZRxA5P0eFH) | 2:45 | 2023-02-24 | 2024-05-04 |
@@ -772,6 +775,7 @@
 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 | 2021-12-08 | 2022-04-06 |
 | [Unsent Notes](https://open.spotify.com/track/7laGZBxQb0WwTPVbFDkH7S) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Unsent Notes](https://open.spotify.com/album/6IZq9FJ0V4p4hhi714SjTw) | 2:49 | 2025-10-01 |  |
 | [Unspoken](https://open.spotify.com/track/3ciRi9v3G3MWMzTNE15WnT) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Unspoken](https://open.spotify.com/album/6Wab917B9CFK0wRxUT2QMP) | 2:29 | 2022-09-09 | 2024-04-19 |
+| [Until Then](https://open.spotify.com/track/6obw18Qlo0IAsCD7GMbr4L) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Until Then](https://open.spotify.com/album/53Gqo0jWNMZuCbsGETOubj) | 3:08 | 2025-12-22 |  |
 | [Until You](https://open.spotify.com/track/0nG07gVZWViLiiUncaCG3h) | [Lexie Baxter](https://open.spotify.com/artist/5kdRX0bJREG0oR4IkhhTrv) | [Until You](https://open.spotify.com/album/1JHu4FXVAq8e0vqRUCdwSu) | 2:26 | 2023-04-21 | 2024-12-11 |
 | [Up North](https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke) | [Hannah Westman](https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS) | [Up North](https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1) | 2:51 | 2023-06-15 | 2024-07-19 |
 | [Vacation](https://open.spotify.com/track/5uS2gw5SMyh6CiwkHXdsqI) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Vacation](https://open.spotify.com/album/4EKKw5CPenPkpEeM6X8bww) | 2:04 | 2024-09-25 |  |

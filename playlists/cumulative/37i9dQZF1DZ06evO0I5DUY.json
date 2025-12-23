@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Una L\u00e1grima y Un Recuerdo",
+        "url": "https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156680,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/0Sn0HKpcwfjPxv29GKg1FJ"
+    },
+    {
+      "album": {
         "name": "30 Cadetazos",
         "url": "https://open.spotify.com/album/1tWA7Iz5dN9OyMKsrMq4c8"
       },
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 186586,
       "name": "Sabor de Enga\u00f1o",
       "url": "https://open.spotify.com/track/5PSxDnjrpBZUPL8WmFLKVx"

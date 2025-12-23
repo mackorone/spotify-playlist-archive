@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37898,
+  "num_followers": 37899,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAByGBLpaETm3qyuzBPmSl9u",
+  "snapshot_id": "aUc4gAAAAAAO0Wcv3KDNsZAweHor589V",
   "tracks": [
     {
       "added_at": null,
@@ -163,38 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing More to Say",
-        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 325307,
-      "name": "Nothing More to Say - Dub",
-      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 151519,
-      "name": "OOH",
-      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 151519,
+      "name": "OOH",
+      "url": "https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing More to Say",
+        "url": "https://open.spotify.com/album/3fwjJp5CzCfUQtXsMflbHi"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 325307,
+      "name": "Nothing More to Say - Dub",
+      "url": "https://open.spotify.com/track/7rGmOXB4xH2A5jEK0gKD3N"
     },
     {
       "added_at": null,
@@ -516,7 +516,7 @@
       "added_at": null,
       "album": {
         "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
@@ -533,8 +533,8 @@
         }
       ],
       "duration_ms": 244062,
-      "name": "Live In My Truth (feat. BC Kingdom & LIZ)",
-      "url": "https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy"
+      "name": "Live In My Truth (feat. BC Kingdom and LIZ)",
+      "url": "https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1"
     },
     {
       "added_at": null,

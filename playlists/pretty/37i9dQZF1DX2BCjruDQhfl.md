@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Dior & kans
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,274 likes - 89 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,270 likes - 89 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 9 | [Peace](https://open.spotify.com/track/0j6H85bkmXIiZOY2C1LNov) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Peace](https://open.spotify.com/album/5DDVb5mMWgg8CQM2JbXSWG) | 1:38 |
 | 10 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 |
 | 11 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
-| 12 | [Ajo amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ajo amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 |
+| 12 | [Ayo Amor](https://open.spotify.com/track/6syJbyeoDZOJF1gSquyZpB) | [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [Ayo Amor](https://open.spotify.com/album/6Js5y0q9VMRlwHRvlHjP78) | 2:41 |
 | 13 | [Richer](https://open.spotify.com/track/5d0UKo4nZGWlOaPYQfWZCD) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:29 |
 | 14 | [Canvas](https://open.spotify.com/track/32pZXiV8O9r7WNFhjDj9Tm) | [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Canvas](https://open.spotify.com/album/0DRfxdlqVB54AZX35SK3pC) | 2:31 |
 | 15 | [Waist 2.0 \(feat\. Roets\)](https://open.spotify.com/track/6kRe23QlN5NdiDBiS7eDYP) | [De Formule](https://open.spotify.com/artist/2NoHMGjfu8m1xl3hNIUwKo), [MADLUV Entertainment](https://open.spotify.com/artist/4WLehs5JDvDdaQqqcCtW3g), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Roets](https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu) | [Waist 2.0 \(feat\. Roets\)](https://open.spotify.com/album/3GOHA8s0gRmFawjM2aLgc5) | 2:42 |

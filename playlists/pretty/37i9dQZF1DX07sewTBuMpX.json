@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140473,
+  "num_followers": 140466,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "CARR\u00c9 OK",
-        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 160628,
-      "name": "CARR\u00c9 OK",
-      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Butta My Bread",
         "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 148672,
       "name": "Butta My Bread",
       "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "CARR\u00c9 OK",
+        "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 160628,
+      "name": "CARR\u00c9 OK",
+      "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "February Stories",
-        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 143346,
-      "name": "February Stories",
-      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Ben Met SRNO",
         "url": "https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 150822,
       "name": "Ben Met SRNO",
       "url": "https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "February Stories",
+        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "duration_ms": 143346,
+      "name": "February Stories",
+      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Tyar\u2019 En Waka",
+        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "Tyar\u2019 En Waka",
+      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Stiekem \u201824",
         "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Tyar\u2019 En Waka",
-        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 161252,
-      "name": "Tyar\u2019 En Waka",
-      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Love = Scary",
+        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 147090,
+      "name": "Love = Scary",
+      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Love = Scary",
-        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 147090,
-      "name": "Love = Scary",
-      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
     },
     {
       "added_at": "2025-12-10 23:00:04",

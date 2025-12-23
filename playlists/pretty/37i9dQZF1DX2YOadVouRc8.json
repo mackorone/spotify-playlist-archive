@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 43041,
+  "num_followers": 43060,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 168072,
       "name": "So Much Sense",
       "url": "https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2025-12-19 00:01:13",

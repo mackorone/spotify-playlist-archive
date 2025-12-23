@@ -1,6 +1,6 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 633157,
+  "num_followers": 633158,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Si por Mi Fuera",
-        "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Si por Mi Fuera",
-      "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "Si por Mi Fuera",
+        "url": "https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Si por Mi Fuera",
+      "url": "https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Un D\u00eda A La Vez",
-        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Facendo L'Amore",
-      "url": "https://open.spotify.com/track/2Q9yKgwemkOyR3bAeCfPcx"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
         "url": "https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW"
       },
@@ -719,6 +699,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "Obras Maestras",
+        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 201941,
+      "name": "Voy",
+      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "Conc\u00e9ntrica Canci\u00f3n",
         "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
       },
@@ -735,18 +731,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Obras Maestras",
-        "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
+        "name": "Un D\u00eda A La Vez",
+        "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
       "artists": [
         {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 201941,
-      "name": "Voy",
-      "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+      "duration_ms": 165133,
+      "name": "Facendo L'Amore",
+      "url": "https://open.spotify.com/track/2Q9yKgwemkOyR3bAeCfPcx"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Cada loco con su tema",
-        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 220761,
-      "name": "Cada loco con su tema",
-      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "Todo el D\u00eda en la Cama",
         "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
       },
@@ -879,18 +859,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "aguasanta",
-        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
+        "name": "Cada loco con su tema",
+        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
       "artists": [
         {
-          "name": "juliocesar",
-          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 192525,
-      "name": "aguasanta",
-      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
+      "duration_ms": 220761,
+      "name": "Cada loco con su tema",
+      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -915,18 +899,18 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y"
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
       },
       "artists": [
         {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
         }
       ],
-      "duration_ms": 210155,
-      "name": "Las Mujeres",
-      "url": "https://open.spotify.com/track/4ptFkLzF301C97kaA3xizH"
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -943,6 +927,42 @@
       "duration_ms": 242733,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 210155,
+      "name": "Las Mujeres",
+      "url": "https://open.spotify.com/track/4ptFkLzF301C97kaA3xizH"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "L\u00edmite",
+        "url": "https://open.spotify.com/album/1ckvNAd7THdzMO4Pa09S41"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 230827,
+      "name": "L\u00edmite",
+      "url": "https://open.spotify.com/track/1Sey4AxNpGoPNnBPszy8TE"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -983,26 +1003,6 @@
       "duration_ms": 136390,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/6KUzB9mbZ9zHFAI6klMtmZ"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
-        "name": "L\u00edmite",
-        "url": "https://open.spotify.com/album/1ckvNAd7THdzMO4Pa09S41"
-      },
-      "artists": [
-        {
-          "name": "Feten Feten",
-          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 230827,
-      "name": "L\u00edmite",
-      "url": "https://open.spotify.com/track/1Sey4AxNpGoPNnBPszy8TE"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 134613,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "Me gusta",
         "url": "https://open.spotify.com/album/6Wwlh1YlrReprbhFM0dGgN"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 266769,
       "name": "Me gusta",
       "url": "https://open.spotify.com/track/44K3RT10JMPLVdYf4R7jel"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 134613,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "for good (with RENEE)",
         "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "El Solitario Amor",
+        "url": "https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO"
+      },
+      "artists": [
+        {
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+        },
+        {
+          "name": "The French Kiss",
+          "url": "https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "El Solitario Amor",
+      "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "Me Haces Muy Bien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
@@ -1487,22 +1507,18 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "El Solitario Amor",
-        "url": "https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
-        },
-        {
-          "name": "The French Kiss",
-          "url": "https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 175786,
-      "name": "El Solitario Amor",
-      "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "Mantenme pendiente",
         "url": "https://open.spotify.com/album/56LYIMOKqLka6eeM2orEEZ"
       },
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "Harta",
+        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Harta",
+      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 188070,
       "name": "bossa nova",
       "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
-        "name": "Harta",
-        "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Harta",
-      "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "Cenizas y Miel",
+        "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
+      },
+      "artists": [
+        {
+          "name": "Pachar\u00e1",
+          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
+        }
+      ],
+      "duration_ms": 191474,
+      "name": "Cenizas y Miel",
+      "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "SOMOS JAVYPABLO",
         "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 196765,
       "name": "Cama de Papel",
       "url": "https://open.spotify.com/track/1k4EMd4OzpawfGTFvxkRg7"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
-        "name": "Cenizas y Miel",
-        "url": "https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt"
-      },
-      "artists": [
-        {
-          "name": "Pachar\u00e1",
-          "url": "https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI"
-        }
-      ],
-      "duration_ms": 191474,
-      "name": "Cenizas y Miel",
-      "url": "https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -1947,6 +1947,26 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda Fernanda",
+          "url": "https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A"
+        },
+        {
+          "name": "Rodrigo Sixto",
+          "url": "https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "costas de coral",
         "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
       },
@@ -1979,26 +1999,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6uFCl5fPaP6UmP1cW8nNtQ"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda Fernanda",
-          "url": "https://open.spotify.com/artist/75xX5rWpgqwJmIPSsCVe9A"
-        },
-        {
-          "name": "Rodrigo Sixto",
-          "url": "https://open.spotify.com/artist/5SQjmqdfpyXNNsc9aCBrwx"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1vJg0bCR0zESD3fgUcKnwb"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "Se Acaba Todo",
         "url": "https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB"
       },
@@ -2027,6 +2027,22 @@
       "duration_ms": 175445,
       "name": "Vernos Crecer",
       "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
+        "name": "Pelo Rojo",
+        "url": "https://open.spotify.com/album/2V1QKcqfCa0jzkACA6PcLe"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pelo Rojo",
+      "url": "https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW"
     },
     {
       "added_at": "2025-10-31 04:00:34",
@@ -2111,22 +2127,6 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
-        "name": "Pelo Rojo",
-        "url": "https://open.spotify.com/album/2V1QKcqfCa0jzkACA6PcLe"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pelo Rojo",
-      "url": "https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
         "name": "c\u00f3mo cu\u00e1ndo y d\u00f3nde",
         "url": "https://open.spotify.com/album/0Lb3RdzKgGPaOpFiqrGUxG"
       },
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2025-10-31 04:00:34",
       "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S"
+      },
+      "artists": [
+        {
+          "name": "Nana Bersa",
+          "url": "https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq"
+        }
+      ],
+      "duration_ms": 205048,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS"
+    },
+    {
+      "added_at": "2025-10-31 04:00:34",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 255000,
       "name": "Bachata Rosa",
       "url": "https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH"
-    },
-    {
-      "added_at": "2025-10-31 04:00:34",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/5BRqHpMjkqHfdlFa2O397S"
-      },
-      "artists": [
-        {
-          "name": "Nana Bersa",
-          "url": "https://open.spotify.com/artist/7IzUZBSNYIuW7R5neM3AVq"
-        }
-      ],
-      "duration_ms": 205048,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3fqCowFYUnGI63qmxrrmmS"
     },
     {
       "added_at": "2025-10-31 04:00:34",

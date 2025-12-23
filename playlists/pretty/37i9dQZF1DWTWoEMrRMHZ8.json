@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Lenine",
-  "num_followers": 354546,
+  "num_followers": 354574,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
+        "name": "Divina Casca",
+        "url": "https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 213446,
+      "name": "Jorge Ben",
+      "url": "https://open.spotify.com/track/1SMWOSUw16OW1IFPIIB3KN"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
         "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
         "url": "https://open.spotify.com/album/3Vz9ULaHP29eA8QrlAIdxy"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 183771,
       "name": "Muda Tudo",
       "url": "https://open.spotify.com/track/219kRhIoG8mxIBeYSVbGRq"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
-        "name": "Divina Casca",
-        "url": "https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm"
-      },
-      "artists": [
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 213446,
-      "name": "Jorge Ben",
-      "url": "https://open.spotify.com/track/1SMWOSUw16OW1IFPIIB3KN"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
-        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 223421,
-      "name": "Saudades, Elder",
-      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
+        "name": "Viver e Morrer de Amor na Am\u00e9rica Latina",
+        "url": "https://open.spotify.com/album/1rJL1rrZXgOFUMNHfjvJFA"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 223421,
+      "name": "Saudades, Elder",
+      "url": "https://open.spotify.com/track/4gWhkjF632QyV0fQniNGhM"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -703,22 +703,18 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "PALCO",
-        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
+        "name": "Se Acaso Voc\u00ea Chegasse",
+        "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
         }
       ],
-      "duration_ms": 278736,
-      "name": "PALCO",
-      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
+      "duration_ms": 139658,
+      "name": "Se Acaso Voc\u00ea Chegasse",
+      "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -751,18 +747,22 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Se Acaso Voc\u00ea Chegasse",
-        "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
+        "name": "PALCO",
+        "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
         }
       ],
-      "duration_ms": 139658,
-      "name": "Se Acaso Voc\u00ea Chegasse",
-      "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
+      "duration_ms": 278736,
+      "name": "PALCO",
+      "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Libido da Alma",
-        "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Arantes",
-          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
-        }
-      ],
-      "duration_ms": 207290,
-      "name": "Libido da Alma",
-      "url": "https://open.spotify.com/track/7g7bxrf0A4EIrUIhLs3wFk"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 189589,
       "name": "FOI NO S\u00c3O JO\u00c3O",
       "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
+        "name": "Libido da Alma",
+        "url": "https://open.spotify.com/album/5I4WDX1OB6NPIPYbsv2DoX"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Arantes",
+          "url": "https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE"
+        }
+      ],
+      "duration_ms": 207290,
+      "name": "Libido da Alma",
+      "url": "https://open.spotify.com/track/7g7bxrf0A4EIrUIhLs3wFk"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1075,22 +1075,18 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "ECLIPSE REVERSO",
-        "url": "https://open.spotify.com/album/5k9MB9pi6fc7w4PRo47EOP"
+        "name": "Homem com H",
+        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
       "artists": [
         {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 177142,
-      "name": "ECLIPSE REVERSO",
-      "url": "https://open.spotify.com/track/7E22Fmyid9KC9hZ4t6ngpf"
+      "duration_ms": 121015,
+      "name": "O Mundo \u00e9 um Moinho",
+      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Homem com H",
-        "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
+        "name": "ECLIPSE REVERSO",
+        "url": "https://open.spotify.com/album/5k9MB9pi6fc7w4PRo47EOP"
       },
       "artists": [
         {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 121015,
-      "name": "O Mundo \u00e9 um Moinho",
-      "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
+      "duration_ms": 177142,
+      "name": "ECLIPSE REVERSO",
+      "url": "https://open.spotify.com/track/7E22Fmyid9KC9hZ4t6ngpf"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1171,46 +1171,6 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Me Leva Tambor",
-        "url": "https://open.spotify.com/album/0PiLCVHU6Wllg7h4vjvn5x"
-      },
-      "artists": [
-        {
-          "name": "Afrocidade",
-          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
-        },
-        {
-          "name": "Il\u00ea Aiy\u00ea",
-          "url": "https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY"
-        },
-        {
-          "name": "Evandro Ok\u00e0n",
-          "url": "https://open.spotify.com/artist/2O9wSWxUTwQX2yV0GIRYwr"
-        }
-      ],
-      "duration_ms": 261178,
-      "name": "Me Leva Tambor",
-      "url": "https://open.spotify.com/track/4zzm4hkV2JY18nhxVQbiY9"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
         "name": "Jo\u00e3o Bosco: \"Cors\u00e1rio\" and guests Jaques Morelenbaum, Mestrinho e Vanessa Moreno (Live at Rio Montreux Jazz Festival)",
         "url": "https://open.spotify.com/album/4lRSnuu8YXHO6dFCPVQJF4"
       },
@@ -1239,6 +1199,66 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
+        "name": "Que isso nunca acabe",
+        "url": "https://open.spotify.com/album/4XZfBpwSg4HahwGZUbUKnb"
+      },
+      "artists": [
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        },
+        {
+          "name": "Guga Lamar",
+          "url": "https://open.spotify.com/artist/3QigRg4SZFhg2NWT9LD80N"
+        }
+      ],
+      "duration_ms": 161326,
+      "name": "Que isso nunca acabe",
+      "url": "https://open.spotify.com/track/40DZuYVEGulPfpKSVG9dl1"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
+        "name": "Me Leva Tambor",
+        "url": "https://open.spotify.com/album/0PiLCVHU6Wllg7h4vjvn5x"
+      },
+      "artists": [
+        {
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+        },
+        {
+          "name": "Il\u00ea Aiy\u00ea",
+          "url": "https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY"
+        },
+        {
+          "name": "Evandro Ok\u00e0n",
+          "url": "https://open.spotify.com/artist/2O9wSWxUTwQX2yV0GIRYwr"
+        }
+      ],
+      "duration_ms": 261178,
+      "name": "Me Leva Tambor",
+      "url": "https://open.spotify.com/track/4zzm4hkV2JY18nhxVQbiY9"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
         "name": "a natureza das coisas",
         "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
       },
@@ -1251,6 +1271,26 @@
       "duration_ms": 119702,
       "name": "a natureza das coisas",
       "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
+        "name": "Alma Turva",
+        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Wado",
+          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
+        }
+      ],
+      "duration_ms": 141874,
+      "name": "Alma Turva",
+      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1287,46 +1327,6 @@
       "duration_ms": 200500,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/0J9K0NPeUyQEZw87N0T0y0"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
-        "name": "Alma Turva",
-        "url": "https://open.spotify.com/album/0HiJoWzkfAENzSJcB9oVKQ"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Wado",
-          "url": "https://open.spotify.com/artist/3rnWuDRQyfIuj7CdrCWLMo"
-        }
-      ],
-      "duration_ms": 141874,
-      "name": "Alma Turva",
-      "url": "https://open.spotify.com/track/719yUpGCeImqyzkOgZ4M55"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
-        "name": "Que isso nunca acabe",
-        "url": "https://open.spotify.com/album/4XZfBpwSg4HahwGZUbUKnb"
-      },
-      "artists": [
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
-        },
-        {
-          "name": "Guga Lamar",
-          "url": "https://open.spotify.com/artist/3QigRg4SZFhg2NWT9LD80N"
-        }
-      ],
-      "duration_ms": 161326,
-      "name": "Que isso nunca acabe",
-      "url": "https://open.spotify.com/track/40DZuYVEGulPfpKSVG9dl1"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Depois da Tempestade",
-        "url": "https://open.spotify.com/album/0BSEbQT1pUp7xV7OecMBK1"
-      },
-      "artists": [
-        {
-          "name": "Juliano Holanda",
-          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 223038,
-      "name": "Depois da Tempestade",
-      "url": "https://open.spotify.com/track/7uPtro2FLw2P9AJJZqNLiX"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
         "name": "Ao Persistirem os Sintomas",
         "url": "https://open.spotify.com/album/3rI9qDN4mbRedX4Zot7p5y"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 189374,
       "name": "Salto",
       "url": "https://open.spotify.com/track/6wei3bZWElX7dUvZOV1ROW"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
+        "name": "Depois da Tempestade",
+        "url": "https://open.spotify.com/album/0BSEbQT1pUp7xV7OecMBK1"
+      },
+      "artists": [
+        {
+          "name": "Juliano Holanda",
+          "url": "https://open.spotify.com/artist/3wg2dojocgkzfZFx66oHSt"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 223038,
+      "name": "Depois da Tempestade",
+      "url": "https://open.spotify.com/track/7uPtro2FLw2P9AJJZqNLiX"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
+        "name": "Advogado das Notas Humanas",
+        "url": "https://open.spotify.com/album/1CSExeK0D5g3j3XNS8u03s"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 191428,
+      "name": "Jorge",
+      "url": "https://open.spotify.com/track/7JBSCK1NkJDBpGiNmaxJdn"
+    },
+    {
+      "added_at": "2025-12-19 14:03:09",
+      "album": {
         "name": "MARAVILHOSAMENTE BEM",
         "url": "https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY"
       },
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2025-12-19 14:03:09",
       "album": {
-        "name": "Advogado das Notas Humanas",
-        "url": "https://open.spotify.com/album/1CSExeK0D5g3j3XNS8u03s"
+        "name": "despe\u00e7o",
+        "url": "https://open.spotify.com/album/47PrfckboBrK7QguTr1bRc"
       },
       "artists": [
         {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+          "name": "Clara Ferr\u00e3o",
+          "url": "https://open.spotify.com/artist/2fnENYGpnwbQGsn4V76iMO"
         }
       ],
-      "duration_ms": 191428,
-      "name": "Jorge",
-      "url": "https://open.spotify.com/track/7JBSCK1NkJDBpGiNmaxJdn"
+      "duration_ms": 186963,
+      "name": "despe\u00e7o",
+      "url": "https://open.spotify.com/track/0577GE9jpR55CCv1idUqQC"
     },
     {
       "added_at": "2025-12-19 14:03:09",
@@ -1811,22 +1827,6 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
-    },
-    {
-      "added_at": "2025-12-19 14:03:09",
-      "album": {
-        "name": "despe\u00e7o",
-        "url": "https://open.spotify.com/album/47PrfckboBrK7QguTr1bRc"
-      },
-      "artists": [
-        {
-          "name": "Clara Ferr\u00e3o",
-          "url": "https://open.spotify.com/artist/2fnENYGpnwbQGsn4V76iMO"
-        }
-      ],
-      "duration_ms": 186963,
-      "name": "despe\u00e7o",
-      "url": "https://open.spotify.com/track/0577GE9jpR55CCv1idUqQC"
     },
     {
       "added_at": "2025-12-19 14:03:09",

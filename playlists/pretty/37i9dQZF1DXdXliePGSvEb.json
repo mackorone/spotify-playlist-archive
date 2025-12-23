@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 76311,
+  "num_followers": 76351,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 214026,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 200207,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 222857,
       "name": "Air",
       "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 200207,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "i couldn't hold back (feat. George Riley)",
-        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 170316,
-      "name": "i couldn't hold back (feat. George Riley)",
-      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Your Mind",
         "url": "https://open.spotify.com/album/2n8p61Ro0BVU2wCOTAhg6D"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "i couldn't hold back (feat. George Riley)",
+        "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "duration_ms": 170316,
+      "name": "i couldn't hold back (feat. George Riley)",
+      "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Music Can Hear Us",
-        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "A Tropical Entropy",
         "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 248730,
       "name": "Ghost Orchid",
       "url": "https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Music Can Hear Us",
+        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
     },
     {
       "added_at": "2025-12-03 12:15:55",

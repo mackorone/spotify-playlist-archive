@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuC8hQpLKaY.md) - [plain]
 
 > but listened to this instead ❤️‍🩹 healing  piano covers of your fav hits
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,767 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,802 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

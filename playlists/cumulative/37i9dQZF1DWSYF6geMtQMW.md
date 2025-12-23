@@ -2,9 +2,9 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: נועה קירל
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: ריי
 
-190 songs - 10 hr 11 min
+191 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-28 | 2025-08-20 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-11 | 2025-04-08 |
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2024-07-01 | 2024-07-30 |
-| [אהבת חיי](https://open.spotify.com/track/4T87Z2bkvgdLI9sECWYF7i) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אהבת חיי](https://open.spotify.com/album/74pNigP1FQzmaxpCt5cOxq) | 3:27 | 2025-12-09 |  |
+| [אהבת חיי](https://open.spotify.com/track/4T87Z2bkvgdLI9sECWYF7i) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אהבת חיי](https://open.spotify.com/album/74pNigP1FQzmaxpCt5cOxq) | 3:27 | 2025-12-09 | 2025-12-23 |
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-18 | 2025-07-01 |
 | [אחי](https://open.spotify.com/track/33KkOQIrkeKi3kOYwFdCxu) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אחי](https://open.spotify.com/album/13U7rF5uDRFyPUNF73VBNk) | 3:10 | 2025-09-11 | 2025-10-07 |
 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 | 2025-04-07 |  |
@@ -130,6 +130,7 @@
 | [לאבא שלי יש סולם](https://open.spotify.com/track/4wynpm7WtwueimncaeNp6I) | [ותן חלקנו](https://open.spotify.com/artist/6Odeor35vCn3mr7VIiqIiq), [Amir Benayoun](https://open.spotify.com/artist/4wIMqGM5IPTDNFLUGxvWkK), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [לאבא שלי יש סולם](https://open.spotify.com/album/76ohIksFNoUs7r3s4IbBeh) | 3:44 | 2024-11-25 | 2025-02-04 |
 | [לונדון דובאי](https://open.spotify.com/track/50Or7niXp29xwKc8F9pLQA) | [קפליו](https://open.spotify.com/artist/3VuWsPcmmKII5uuScFkxbj) | [לונדון דובאי](https://open.spotify.com/album/5ut8VdL35kmFeAApF0IsQy) | 2:15 | 2025-06-09 | 2025-08-26 |
 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 | 2024-09-23 | 2025-11-19 |
+| [לורו פיאנה](https://open.spotify.com/track/31VLQciLv1PbK2IJUtXLgj) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [לורו פיאנה](https://open.spotify.com/album/1l1wLBLdbKJJqeJlLheWw1) | 2:53 | 2025-12-22 |  |
 | [לילה טוב](https://open.spotify.com/track/0xEyCZ6cQg3apftD06KVaA) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [לילה טוב](https://open.spotify.com/album/7cLpPcxx3Nh8FsHLTZHdWU) | 2:29 | 2024-09-09 | 2024-09-24 |
 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 | 2024-07-01 | 2025-04-08 |
 | [מאחל לך טוב](https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [גיטרה ולנשום](https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw) | 2:58 | 2025-02-10 | 2025-09-12 |

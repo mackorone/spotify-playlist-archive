@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 327859,
+  "num_followers": 327927,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAZ1gyJNgyoQhTLCvEkzKkC",
+  "snapshot_id": "aUc4gAAAAACJEW0Zr7H7VjYgdSES1W1N",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "go",
         "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SweetSexySavage (Deluxe)",
-        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -287,26 +287,6 @@
       "duration_ms": 167810,
       "name": "Can I",
       "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Ring (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
     },
     {
       "added_at": null,
@@ -327,6 +307,26 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Ring (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Know Wassup",
+        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "You Know Wassup",
+      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
       },
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know Wassup",
-        "url": "https://open.spotify.com/album/5PdJ9s1UhLttMDmAMyMdtt"
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 201142,
-      "name": "You Know Wassup",
-      "url": "https://open.spotify.com/track/6HUO25AttZZCoKAY0vUVtc"
+      "duration_ms": 245674,
+      "name": "Open (Passionate)",
+      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 286040,
       "name": "(un)Folded",
       "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 245674,
-      "name": "Open (Passionate)",
-      "url": "https://open.spotify.com/track/4J4yA7A68PmgSbjAn425eY"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 185426,
-      "name": "Get Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 278715,
       "name": "Hate the Club (feat. Masego)",
       "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Get Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 122813,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Like Dat",
         "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 242085,
       "name": "I Like Dat",
       "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 122813,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
     },
     {
       "added_at": null,

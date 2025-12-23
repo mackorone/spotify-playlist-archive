@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,693 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,658 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 34 | [WORLD vs PEACE](https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [WORLD vs PEACE](https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6) | 2:58 |
 | 35 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 |
 | 36 | [enough](https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0) | [SIDEQUEST](https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD) | 2:58 |
-| 37 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
-| 38 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
+| 37 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
+| 38 | [MOTH KIDS](https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [MOTH KIDS](https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs) | 3:39 |
 | 39 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 |
 | 40 | [Concrete Closure](https://open.spotify.com/track/3RrWw57zjyJayGbkrGYK5s) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Things Are Different Now](https://open.spotify.com/album/4NcoXQa5SMjILciWjMpHZg) | 3:25 |
 | 41 | [Do It Again](https://open.spotify.com/track/0ZrA247YJ9XkdNK5L6533W) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do It Again](https://open.spotify.com/album/49NpPolZdtpdgjddYkN7pe) | 2:28 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 49 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 50 | [The End](https://open.spotify.com/track/2vcOh6XjFzf5CZY7ppIzzK) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Life’s Going Great](https://open.spotify.com/album/0yXsEspUqhclhWF27TqUbq) | 2:32 |
 | 51 | [SLEEP WHEN I'M DEAD](https://open.spotify.com/track/1SgrtfTB9QmIihcmj4NRNO) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [DEADBEAT!](https://open.spotify.com/album/3Gj628skEWhuPGYdm4hcEi) | 2:26 |
-| 52 | [NOSE BLEED](https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 3:15 |
-| 53 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
+| 52 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
+| 53 | [NOSE BLEED](https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 3:15 |
 | 54 | [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 |
 | 55 | [american zombie](https://open.spotify.com/track/3TD708Vmf3uVPVFkDa5Ayc) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [american zombie](https://open.spotify.com/album/4BjJWRGXLh0Gq4JoX8wavh) | 2:33 |
 | 56 | [HEART AWAY](https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [WHERE DID ALL THE BUTTERFLIES GO?](https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM) | 3:01 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 74 | [Pity Party](https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Dark Magic](https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev) | 2:24 |
 | 75 | [When in Love](https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS) | [A Lot Like Birds](https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [When in Love](https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw) | 4:25 |
 | 76 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
-| 77 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 |
-| 78 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
-| 79 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
+| 77 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
+| 78 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 |
+| 79 | [Save Face Story](https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Slope](https://open.spotify.com/artist/24ExnkYwR4QoLamXGi4sOR) | [State Champs](https://open.spotify.com/album/0fGfGPbn0HGAOex4zkAb6v) | 3:19 |
 | 80 | [Never Said](https://open.spotify.com/track/544eBBEk91c9mskOEO2Axw) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Bambi](https://open.spotify.com/album/0BeIgFzQGCKVqyJ60HusXH) | 3:15 |
 | 81 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
 | 82 | [Beg For More](https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Beg For More](https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I) | 2:54 |

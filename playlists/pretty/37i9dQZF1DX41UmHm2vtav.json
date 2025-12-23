@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 496391,
+  "num_followers": 496471,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
         "name": "Descobridor dos Sete Mares: Remix",
         "url": "https://open.spotify.com/album/4WgHM4zYuCkQxR9hV1OsDX"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 191612,
       "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
       "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
-      },
-      "artists": [
-        {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -675,26 +675,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Empezar Ganando",
-        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/28FXnWF3WGPDZLgNP08M9W"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 187741,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/3MCmAAKZRaIFRhpfSYo6OP"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Empezar Ganando",
+        "url": "https://open.spotify.com/album/0OQaAAmqwMlwjvBhPua2T1"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/7aoiWBO8doJwpmDlAwVHu6"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Trov\u00e3o",
-        "url": "https://open.spotify.com/album/55V5KmUeLWxWAyOF50seSS"
-      },
-      "artists": [
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "Trov\u00e3o",
-      "url": "https://open.spotify.com/track/5OZT5cotLxLMBYONtioAZ4"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "Tudo Que Ela Gosta De Escutar (Lion Remix)",
         "url": "https://open.spotify.com/album/58QEMmOnOIfOhXibFTVSsD"
       },
@@ -1267,6 +1243,30 @@
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Trov\u00e3o",
+        "url": "https://open.spotify.com/album/55V5KmUeLWxWAyOF50seSS"
+      },
+      "artists": [
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "Trov\u00e3o",
+      "url": "https://open.spotify.com/track/5OZT5cotLxLMBYONtioAZ4"
     },
     {
       "added_at": "2025-12-12 03:03:05",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-12-12 03:03:05",
       "album": {
-        "name": "Oh! Chuva",
-        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "Oh! Chuva",
-      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
-    },
-    {
-      "added_at": "2025-12-12 03:03:05",
-      "album": {
         "name": "La Belle De Jour (Remix)",
         "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 140826,
       "name": "Hoje Caminhei - Remix",
       "url": "https://open.spotify.com/track/033ZbEs9ImPe1zyUsHIiOO"
+    },
+    {
+      "added_at": "2025-12-12 03:03:05",
+      "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
     },
     {
       "added_at": "2025-12-12 03:03:05",

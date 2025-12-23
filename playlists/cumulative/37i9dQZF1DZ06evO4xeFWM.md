@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-129 songs - 7 hr 34 min
+130 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 | 2023-04-16 | 2023-05-26 |
 | [Pompeii MMXXIII](https://open.spotify.com/track/2jp9d2rVViwwpfHDhWps2v) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pompeii MMXXIII](https://open.spotify.com/album/7afrJ1AKWdQtE91mEi8aT9) | 5:36 | 2023-09-25 |  |
 | [Power](https://open.spotify.com/track/7mq92gCVqxaZQuzE6h9ZBp) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \- Complete Edition](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:29 | 2022-10-26 | 2024-09-20 |
-| [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 | 2022-10-26 |  |
+| [Quarter Past Midnight](https://open.spotify.com/track/0Tl408cie1ksydV7s6KuWD) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:19 | 2025-12-23 |  |
+| [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 | 2022-10-26 | 2025-12-23 |
 | [Real Life](https://open.spotify.com/track/1HiwjKAIcaeLa1ZraVlxep) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 2:20 | 2022-10-26 | 2023-09-26 |
 | [Real Life](https://open.spotify.com/track/3ZruoDEs8KH84BjU5jbBPg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future \(Deluxe Edition\)](https://open.spotify.com/album/4OAET9jwMLVkoiciXfXRRT) | 2:20 | 2023-12-13 | 2024-07-27 |
 | [Red Wine & Wilde](https://open.spotify.com/track/32M3aV3sNRsNQpzuEhh9T6) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6zwfwSKAbtnCfKgzBywL2w) | 3:41 | 2024-10-28 | 2025-11-18 |

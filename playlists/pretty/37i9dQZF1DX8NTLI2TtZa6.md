@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,386,143 likes - 154 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,385,976 likes - 154 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 6 | [Skyward](https://open.spotify.com/track/2qFujpWVqfb1kXJaMouLWr) | [Finley Rhone](https://open.spotify.com/artist/03Usizud7onAiPocQkcK5V) | [Skyward](https://open.spotify.com/album/4vSY1jflRK7V4o13WC92f1) | 2:19 |
 | 7 | [Rewind](https://open.spotify.com/track/6vNeLU4DFoFbCihyqYYjKa) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [Rewind](https://open.spotify.com/album/33b3wSOh9CZ4oex91USFX1) | 2:26 |
 | 8 | [Strangely Familiar](https://open.spotify.com/track/2nsOZMaNxxtd79bJ7dbxLb) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Strangely Familiar](https://open.spotify.com/album/0690iOy21OddNlV3HRLEgD) | 3:22 |
-| 9 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 |
-| 10 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
-| 11 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
-| 12 | [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 |
-| 13 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 |
+| 9 | [Rivers Wide](https://open.spotify.com/track/6CKxNZvRKtUSCmumhtmI6r) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Rivers Wide](https://open.spotify.com/album/23SAyFDy3jUqDNArqcJ87k) | 2:57 |
+| 10 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 |
+| 11 | [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 |
+| 12 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 |
+| 13 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 |
 | 14 | [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 |
-| 15 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
-| 16 | [Lost in Motion](https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Lost in Motion](https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf) | 3:12 |
+| 15 | [Lost in Motion](https://open.spotify.com/track/2QGLeDJPGvdu9wZgyYOxHx) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Lost in Motion](https://open.spotify.com/album/2gRYWqDlxWKCDcHFO0jMCf) | 3:12 |
+| 16 | [Constant Flow](https://open.spotify.com/track/4ddSt3tiJ7QxAq93PlIf3Z) | [Stace Brinorma](https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk) | [Constant Flow](https://open.spotify.com/album/6ZKXemtYF6UdrXwA9mA2o6) | 2:20 |
 | 17 | [Ember](https://open.spotify.com/track/7yZcjQGSDcKdxAmxJ7rvqd) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Ember](https://open.spotify.com/album/4Veqj4ATJBFYcrGMig7O38) | 2:44 |
 | 18 | [A Scene From a Memory](https://open.spotify.com/track/4FdFpWv4nrAMzrtZ6gnNPM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Scene From a Memory](https://open.spotify.com/album/149K4TCTEEYy3PsGC2gpc2) | 2:15 |
 | 19 | [Tagliamento](https://open.spotify.com/track/6WjNhHHsG4i2n4dpk8ANrm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Tagliamento](https://open.spotify.com/album/3UvMj1JE5OP9VhMxwEbf5I) | 2:19 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NTLI2TtZa6.md) - [plain]
 | 153 | [Wild Horses Run Free](https://open.spotify.com/track/3XMWBL5SaKwYyuxXcEXJF1) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Wild Horses Run Free](https://open.spotify.com/album/0B4k5ZQpiRRVXhwYXF9Sni) | 2:34 |
 | 154 | [Awakening](https://open.spotify.com/track/7IwHCgH4i9MiJxT7jEhZ31) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Awakening](https://open.spotify.com/album/5oaWGoZ0WMSEQolzeQzeer) | 2:02 |
 
-Snapshot ID: `AAAAAAxibWvkUJvqsBS88tc2iIZdP/9v`
+Snapshot ID: `AAAAABX0JiJd4HZANKiwJ/ABp3EEtUD6`

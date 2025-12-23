@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : איזי וג׳׳ין בורדו
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,016 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,026 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 37 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 38 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 39 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
-| 40 | [שיר השומרת](https://open.spotify.com/track/6xCt9DmEFnNAGtZNmyIB4B) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [עלינו לא שרים שירים \(שיחה מדומיינת עם נתן אלתרמן\)](https://open.spotify.com/album/5oxQGcqQNBkkjIyyMBCgcV) | 5:28 |
-| 41 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 40 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 41 | [שיר השומרת](https://open.spotify.com/track/6xCt9DmEFnNAGtZNmyIB4B) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [עלינו לא שרים שירים \(שיחה מדומיינת עם נתן אלתרמן\)](https://open.spotify.com/album/5oxQGcqQNBkkjIyyMBCgcV) | 5:28 |
 | 42 | [אשכרה מה שקרה](https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [פז דמארי](https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7) | [אשכרה מה שקרה](https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9) | 5:08 |
 | 43 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
-| 44 | [Better Days](https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Better Days](https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N) | 3:59 |
-| 45 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
-| 46 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
+| 44 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
+| 45 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
+| 46 | [Better Days](https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Better Days](https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N) | 3:59 |
 | 47 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
-| 48 | [פינגווינים](https://open.spotify.com/track/0NRXvbCUeHcxB2UBsTQH9O) | [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7), [משה ולדמן](https://open.spotify.com/artist/1sLwMdcU6WUfcltDRvFw3H), [צאן ברזל מוזיקה](https://open.spotify.com/artist/0ZpFHH7i9H9iHh6X0j73iv) | [פינגווינים](https://open.spotify.com/album/0qZs4nI6ZFzAjC1oUv9MiU) | 3:02 |
-| 49 | [מת מאהבה](https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [מת מאהבה](https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ) | 4:57 |
+| 48 | [מת מאהבה](https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [מת מאהבה](https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ) | 4:57 |
+| 49 | [פינגווינים](https://open.spotify.com/track/0NRXvbCUeHcxB2UBsTQH9O) | [Korin Allal](https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7), [משה ולדמן](https://open.spotify.com/artist/1sLwMdcU6WUfcltDRvFw3H), [צאן ברזל מוזיקה](https://open.spotify.com/artist/0ZpFHH7i9H9iHh6X0j73iv) | [פינגווינים](https://open.spotify.com/album/0qZs4nI6ZFzAjC1oUv9MiU) | 3:02 |
 | 50 | [זה לא חיים](https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [זה לא חיים](https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB) | 2:56 |
 
 Snapshot ID: `AAAAADNnnCSBt1C9d8uhR/yOmQmHdI+4`

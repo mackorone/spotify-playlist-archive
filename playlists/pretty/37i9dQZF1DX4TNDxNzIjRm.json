@@ -1,12 +1,12 @@
 {
   "description": "Cuando el jangueo est\u00e1 mejor que la fiesta. Hanging out jams.",
-  "num_followers": 1317922,
+  "num_followers": 1317696,
   "original_name": "Jangueo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFSJ83gVcL86p8O4Hra0gOc6WHoP",
+  "snapshot_id": "AAAAAM7XpU2nghjtd3Vrn+nyzrRxHIE1",
   "tracks": [
     {
       "added_at": "2025-12-12 18:43:34",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2025-12-12 18:43:34",
       "album": {
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Dongo",
+          "url": "https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2"
+        }
+      ],
+      "duration_ms": 155265,
+      "name": "SANKA",
+      "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
+    },
+    {
+      "added_at": "2025-12-12 18:43:34",
+      "album": {
         "name": "MONSTRUO",
         "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
       },
@@ -1371,22 +1391,18 @@
     {
       "added_at": "2025-12-12 18:43:34",
       "album": {
-        "name": "SEND\u00c9",
-        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+        "name": "Latinaje",
+        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Dongo",
-          "url": "https://open.spotify.com/artist/4H7wgwp6mSTcg5Op2R8XW2"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 155265,
-      "name": "SANKA",
-      "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
+      "duration_ms": 231016,
+      "name": "Con Otra",
+      "url": "https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt"
     },
     {
       "added_at": "2025-12-12 18:43:34",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-12-12 18:43:34",
       "album": {
-        "name": "Latinaje",
-        "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 231016,
-      "name": "Con Otra",
-      "url": "https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt"
-    },
-    {
-      "added_at": "2025-12-12 18:43:34",
-      "album": {
         "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
         "url": "https://open.spotify.com/album/1UrmUtWsy8x0Gr5NpVUyKM"
       },
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2025-12-12 18:43:34",
       "album": {
-        "name": "Hecho para ti",
-        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
-      },
-      "artists": [
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 152734,
-      "name": "Hecho para ti",
-      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
-    },
-    {
-      "added_at": "2025-12-12 18:43:34",
-      "album": {
         "name": "TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!)",
         "url": "https://open.spotify.com/album/2LpL0pdOS6HWxxYeN1v2Zy"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 156413,
       "name": "TU MISTERIOSO ALGUIEN (CUARTETO) (feat. Miranda!)",
       "url": "https://open.spotify.com/track/4Kzi8hXKkT87SQoYClizh0"
+    },
+    {
+      "added_at": "2025-12-12 18:43:34",
+      "album": {
+        "name": "Hecho para ti",
+        "url": "https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 152734,
+      "name": "Hecho para ti",
+      "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
     },
     {
       "added_at": "2025-12-12 18:43:34",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-12-12 18:43:34",
       "album": {
-        "name": "VIVIR PA' QUEDARSE",
-        "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "AV\u00cdSAME",
-      "url": "https://open.spotify.com/track/7iGbawPZYPBeEH9x7TFzbt"
-    },
-    {
-      "added_at": "2025-12-12 18:43:34",
-      "album": {
         "name": "pasarella \ud83d\udc60",
         "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 131388,
       "name": "SELEDA.",
       "url": "https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO"
+    },
+    {
+      "added_at": "2025-12-12 18:43:34",
+      "album": {
+        "name": "VIVIR PA' QUEDARSE",
+        "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "AV\u00cdSAME",
+      "url": "https://open.spotify.com/track/7iGbawPZYPBeEH9x7TFzbt"
     },
     {
       "added_at": "2025-12-12 18:43:34",

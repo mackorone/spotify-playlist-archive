@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 26497,
+  "num_followers": 26549,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/2Y2mJbrCdXDdJC8eBlqvdV"
-      },
-      "artists": [
-        {
-          "name": "Masayoshi Yamazaki",
-          "url": "https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt"
-        }
-      ],
-      "duration_ms": 330200,
-      "name": "One more time, One more chance",
-      "url": "https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "WINTER WITHOUT YOU",
@@ -427,6 +411,22 @@
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "HOME",
+        "url": "https://open.spotify.com/album/2Y2mJbrCdXDdJC8eBlqvdV"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Yamazaki",
+          "url": "https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt"
+        }
+      ],
+      "duration_ms": 330200,
+      "name": "One more time, One more chance",
+      "url": "https://open.spotify.com/track/5YRDGgdOshUPA17m7yzY7p"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
-        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
-      },
-      "artists": [
-        {
-          "name": "BUMP OF CHICKEN",
-          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
-        }
-      ],
-      "duration_ms": 307013,
-      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
-    },
-    {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
         "name": "NIGHT DANCER (Yaffle Holiday Remix - Spotify Singles)",
         "url": "https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 231638,
       "name": "NIGHT DANCER - Yaffle Holiday Remix - Spotify Singles",
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u30e6\u30b0\u30c9\u30e9\u30b7\u30eb",
+        "url": "https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "duration_ms": 307013,
+      "name": "\u30b9\u30ce\u30fc\u30b9\u30de\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "Shout Out to Jesus",
-        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Gen",
         "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 248666,
       "name": "Why",
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Shout Out to Jesus",
+        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u6708\u306b\u5420\u3048\u308b",
-        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 265803,
-      "name": "\u6708\u306b\u5420\u3048\u308b",
-      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "SNOW SOUND / \u4eca\u307e\u3067\u541b\u304c\u6ce3\u3044\u305f\u5206\u53d6\u308a\u623b\u305d\u3046",
@@ -983,6 +967,22 @@
       "duration_ms": 286000,
       "name": "SNOW SOUND",
       "url": "https://open.spotify.com/track/2S9viKFIDpk0NcbpO2OOVM"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u6708\u306b\u5420\u3048\u308b",
+        "url": "https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 265803,
+      "name": "\u6708\u306b\u5420\u3048\u308b",
+      "url": "https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
+        "name": "Happy X-mas (War Is Over)",
+        "url": "https://open.spotify.com/album/4eP51T6TYR1cOFYwZNc6XE"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Happy X-mas (War Is Over)",
+      "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 257911,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Happy X-mas (War Is Over)",
-        "url": "https://open.spotify.com/album/4eP51T6TYR1cOFYwZNc6XE"
-      },
-      "artists": [
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Happy X-mas (War Is Over)",
-      "url": "https://open.spotify.com/track/4JQS958NdP0PqfcoYFxrhV"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "What's Going On?",
-        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
-      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30cf\u30d4\u30cd\u30b9EP",
@@ -1299,6 +1283,22 @@
       "duration_ms": 257746,
       "name": "\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/13ndjn8Ro8ytUJQJfNVYz4"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "What's Going On?",
+        "url": "https://open.spotify.com/album/4lOW8UJDAZFRsiK43TBhr7"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "\u30cb\u30c3\u30c8\u306e\u5e3d\u5b50",
+      "url": "https://open.spotify.com/track/33JtUjUhbfJlBbdCXH6v5I"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "OH MY LITTLE GIRL",
-        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
-      },
-      "artists": [
-        {
-          "name": "Yutaka Ozaki",
-          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "OH MY LITTLE GIRL",
-      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
-    },
-    {
       "added_at": "2025-12-05 00:27:18",
       "album": {
         "name": "shiro",
@@ -1383,6 +1367,22 @@
       "duration_ms": 221900,
       "name": "shiro",
       "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "OH MY LITTLE GIRL",
+        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Ozaki",
+          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "OH MY LITTLE GIRL",
+      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1465,6 +1465,22 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "Winterboy",
+        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Winterboy",
+      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
+    },
+    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "SCOPE",
@@ -1497,22 +1513,6 @@
       "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
     },
     {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
-        "name": "Winterboy",
-        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Winterboy",
-      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "\u30b1\u30c4\u306e\u5d50 \uff5e\u51acBEST\uff5e",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/2N6MR0SNYzGHlApOwbmA2w"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "Susanna",
-        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
-    },
-    {
       "added_at": "2025-12-19 02:48:54",
       "album": {
         "name": "Burning Lungs",
@@ -1559,6 +1543,22 @@
       "duration_ms": 221925,
       "name": "Burning Lungs",
       "url": "https://open.spotify.com/track/0g2Br2HHxujkkCibRqzapP"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
     },
     {
       "added_at": "2025-03-11 22:40:18",

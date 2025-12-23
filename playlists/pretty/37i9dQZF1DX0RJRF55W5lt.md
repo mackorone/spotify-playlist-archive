@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,526 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,584 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 71 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 72 | [Spin Spin Sugar \- Armand's Dark Garage Mix](https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Becoming Remixed](https://open.spotify.com/album/5FsOezb4BhwKgQ3rEzbIt1) | 9:03 |
 | 73 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
-| 74 | [Wishing I Were Home](https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Wishing I Were Home](https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i) | 6:15 |
-| 75 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
+| 74 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
+| 75 | [Wishing I Were Home](https://open.spotify.com/track/6RtZ4Kvk7apHXWFqiI0HLO) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Wishing I Were Home](https://open.spotify.com/album/2c3hFrcNV2Z0485IQ5rJ1i) | 6:15 |
 
 Snapshot ID: `AAAAANhPC0DattGrDuftoNnA0ljF85Vo`

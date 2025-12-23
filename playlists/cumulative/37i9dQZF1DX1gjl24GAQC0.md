@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: 시우민 \(XIUMIN\), 이재진 \(FT아일랜드\), 산들, 하성운\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-801 songs - 1 day 19 hr 33 min
+802 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Permission to Dance \- Live](https://open.spotify.com/track/4UAnQaQTSMjKjHkqjKwEYx) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [PERMISSION TO DANCE ON STAGE \- LIVE](https://open.spotify.com/album/7xLhqoM0ilHRKUg2irVSDI) | 4:39 | 2025-07-21 | 2025-12-05 |
 | [Peter Pan](https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:54 | 2023-04-30 | 2023-05-10 |
 | [Phobia](https://open.spotify.com/track/0WabV8qHO7mdiyIfaRACeW) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [ROAD TO KINGDOM : ACE OF ACE 〈VS〉, Pt\. 1](https://open.spotify.com/album/6W0s29sQ6fxisO5BGnuP3f) | 3:42 | 2024-09-30 | 2024-10-12 |
-| [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 | 2025-11-04 |  |
+| [Pinocchio](https://open.spotify.com/track/3hXsfPCNGZnZx0l4AYvh8E) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [The Passage](https://open.spotify.com/album/0ZX6t8OnOwrjrnKXzHGuHK) | 3:41 | 2025-11-04 | 2025-12-23 |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2022-03-31 | 2022-04-13 |
 | [Please Stay](https://open.spotify.com/track/4NpJ91T1d41WxnWdyAcl4Q) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Please Stay](https://open.spotify.com/album/3x7Vyuc09YxeEwQ75Kiz0c) | 3:21 | 2024-11-05 | 2024-11-12 |
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-01-22 |  |
@@ -557,6 +557,7 @@
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2022-04-04 | 2022-04-07 |
 | [poppop](https://open.spotify.com/track/1Y3Z8ZgjFse47Nt2ZR4EFU) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:02 | 2025-04-17 | 2025-09-10 |
 | [Punch](https://open.spotify.com/track/7LXW05QcQi9ri7ZBYqGhPJ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round – The 2nd Album Repackage](https://open.spotify.com/album/0DPNn9SKfwd7rJiiJFLwee) | 3:24 | 2022-03-22 | 2022-04-07 |
+| [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/track/1eGtmqQDQr3KhtIV1MvkgQ) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [REI \(IVE\)](https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q) | [Push \(Feat\. REI \(IVE\)\)](https://open.spotify.com/album/2pDREulVBTP6wZLvgJgeMl) | 2:58 | 2025-12-23 |  |
 | [PUSH BACK](https://open.spotify.com/track/2GjJ0GSfei7RnAapwC5ZUB) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [PUSH BACK](https://open.spotify.com/album/6acXfqJsV2PKpybx7MutV7) | 2:42 | 2025-11-21 | 2025-12-16 |
 | [Put It Back](https://open.spotify.com/track/5KW3MHVuikZqVrsB0wsFpv) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [UNBROKEN](https://open.spotify.com/album/6yD33RyTJLyUPrz4gto6zV) | 2:49 | 2025-11-10 | 2025-11-18 |
 | [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-01-09 | 2023-03-16 |

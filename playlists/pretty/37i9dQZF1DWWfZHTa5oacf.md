@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,661 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,769 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

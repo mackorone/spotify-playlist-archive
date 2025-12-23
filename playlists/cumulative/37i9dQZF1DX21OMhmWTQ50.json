@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "A Touch Of December",
+        "url": "https://open.spotify.com/album/0REuyYIJJ0AXLV4Q2rwwjA"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129155,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/4fmMD2PMG2hZMH0OXBGunH"
+    },
+    {
+      "album": {
         "name": "Jesu, Joy of Man's Desiring",
         "url": "https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb"
       },

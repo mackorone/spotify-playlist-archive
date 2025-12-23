@@ -4,7 +4,7 @@
 
 > Today's Hip\-Hop with 21 Savage, J Hus, Lil Baby, Tkandz and GloRilla.
 
-1,459 songs - 3 day 0 hr 18 min
+1,460 songs - 3 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 | 2025-03-22 |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2022-04-01 | 2022-04-16 |
 | [3rd Time Lucky](https://open.spotify.com/track/1sjLRTex9n9UyOobQSnHTw) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [3rd Time Lucky](https://open.spotify.com/album/2DMa5MfMxs8kdAzwcYA540) | 2:40 | 2025-05-30 | 2025-06-14 |
+| [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-12-22 |  |
 | [401](https://open.spotify.com/track/0FK2SiLHQ8i1ulwx6DzV3s) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [401](https://open.spotify.com/album/0f366ETv0lw2788iwVexP8) | 2:42 | 2022-12-30 | 2023-03-11 |
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-04-12 | 2024-06-15 |
 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 | 2025-03-28 | 2025-09-14 |
@@ -716,7 +717,7 @@
 | [KNOCKA](https://open.spotify.com/track/7hBZnHzSqQxBi4KoMoiWfx) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [KNOCKA](https://open.spotify.com/album/1Yd0XLd4MGjZfp4gQ9hVda) | 2:30 | 2024-04-26 | 2024-05-25 |
 | [Know Like I Know](https://open.spotify.com/track/227x8PRNRDZUl2yAISuS2k) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Know Like I Know](https://open.spotify.com/album/5igqmh1p51bXG9i9cuCTC9) | 3:52 | 2022-01-20 | 2022-01-29 |
 | [Known Spenders](https://open.spotify.com/track/3wgAR3emid7twGKTf1w0Rd) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Cypress Moreno](https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk) | [Tour Files](https://open.spotify.com/album/5tV841HMNWVmlslSWL71xF) | 1:32 | 2022-12-23 | 2022-12-31 |
-| [KO](https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F) | 3:34 | 2025-10-31 |  |
+| [KO](https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [KO](https://open.spotify.com/album/3xgTFQpbgsnyHRaL1JXs9F) | 3:34 | 2025-10-31 | 2025-12-23 |
 | [Krazy](https://open.spotify.com/track/68lkv0RUvUqMGhZ17710ny) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Krazy](https://open.spotify.com/album/2CDXQn9mtAgcc34kYy3o1U) | 2:24 | 2022-09-02 | 2022-10-08 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-04-08 | 2022-05-14 |
 | [Kyrie & Luka](https://open.spotify.com/track/6AgMzkvClobScVCFOyxGDD) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [The Death of Slim Shady \(Coup De Grâce\): Expanded Mourner’s Edition](https://open.spotify.com/album/31hcgCSu4mlA82syOFItur) | 4:12 | 2024-09-13 | 2024-10-26 |

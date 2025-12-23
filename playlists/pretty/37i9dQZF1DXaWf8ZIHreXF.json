@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 338934,
+  "num_followers": 338995,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "I Got U",
+        "url": "https://open.spotify.com/album/5U06Y2CHfkglWCTyqY98pN"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 285596,
+      "name": "I Got U",
+      "url": "https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 238173,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "I Got U",
-        "url": "https://open.spotify.com/album/5U06Y2CHfkglWCTyqY98pN"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 285596,
-      "name": "I Got U",
-      "url": "https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"
     },
     {
       "added_at": "2023-08-25 09:30:35",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-08-25 09:30:35",
       "album": {
+        "name": "Ocean Drive",
+        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "Ocean Drive",
+      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
+    },
+    {
+      "added_at": "2023-08-25 09:30:35",
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 179960,
       "name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix",
       "url": "https://open.spotify.com/track/4zLBcDtvYNVtF9fnG6lme3"
-    },
-    {
-      "added_at": "2023-08-25 09:30:35",
-      "album": {
-        "name": "Ocean Drive",
-        "url": "https://open.spotify.com/album/5APvbPGki6FOQO6rNEuXCv"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 206320,
-      "name": "Ocean Drive",
-      "url": "https://open.spotify.com/track/0b6wdul3A5sQNpIOv03OxP"
     },
     {
       "added_at": "2023-08-25 09:30:35",

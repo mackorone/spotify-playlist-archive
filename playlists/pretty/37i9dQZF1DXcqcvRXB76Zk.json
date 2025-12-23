@@ -1,15 +1,15 @@
 {
-  "description": "<a href=\"https://mkt.naver.com/spotify?dtm_detail=1128&dtm_source=brand_main&dtm_medium=mktatrb&dtm_campaign=2511-bimpact-001&pcode=brand_main_1128&campaign_id=2511-bimpact-001&channel_id=brand_main&material=1128\"> NAVER \u00d7 Spotify </a> \ud30c\ud2f0\uc758 \uc8fc\uc778\uacf5!\n\ud544\ub9ad\uc2a4\uc640 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc758 \ub300\ud45c\uace1\uc73c\ub85c \n\ud30c\ud2f0\uc758 \uc21c\uac04\uc744 \uba3c\uc800 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 960,
+  "description": "\uc544\uc9c1 \ub05d\ub098\uc9c0 \uc54a\uc740<a href=\"https://mkt.naver.com/spotify?dtm_detail=1128&dtm_source=brand_main&dtm_medium=mktatrb&dtm_campaign=2511-bimpact-001&pcode=brand_main_1128&campaign_id=2511-bimpact-001&channel_id=brand_main&material=1128\"> NAVER \u00d7 Spotify </a>  \ud30c\ud2f0! \ud544\ub9ad\uc2a4\uc758 \uc194\ub85c\uace1\uacfc \uc138 \uc544\ud2f0\uc2a4\ud2b8\uc758 \uc14b\ub9ac\uc2a4\ud2b8\ub85c \ud30c\ud2f0\uc758 \uc124\ub818\uacfc \uc5ec\uc6b4\uc744 \ub2e4\uc2dc \ub290\uaef4\ubcf4\uc138\uc694.",
+  "num_followers": 1118,
   "original_name": "\ub124\uc774\ubc84\uc5d0\uc11c \uc2a4\ud3ec\ud2f0\ud30c\uc774\ub97c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZBmFFY5RI2chThyQwIYyke8MjL",
+  "snapshot_id": "AAAAAA0d1lumlBdX1ivUJNP47O8tQTz/",
   "tracks": [
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
         "name": "HOP",
         "url": "https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/15fpZUMOQD9ONTjxITFXFT"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
         "name": "SKZ-REPLAY",
         "url": "https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz"
@@ -45,7 +45,59 @@
       "url": "https://open.spotify.com/track/3VMeAc0SlgLaS9RzA8TSxH"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "dub!dub! (Feat. CHOILB)",
+      "url": "https://open.spotify.com/track/5DD8lIMvcGVTstOBrtiNqt"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 191994,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
       "album": {
         "name": "gimbap",
         "url": "https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp"
@@ -65,23 +117,7 @@
       "url": "https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
-      "album": {
-        "name": "FRR",
-        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "somuch",
-      "url": "https://open.spotify.com/track/3eSKuoaZlzEbeExqIDEanO"
-    },
-    {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
         "name": "look at me",
         "url": "https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06"
@@ -97,10 +133,10 @@
       "url": "https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
       },
       "artists": [
         {
@@ -108,31 +144,15 @@
           "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 191994,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
+      "duration_ms": 238546,
+      "name": "somuch",
+      "url": "https://open.spotify.com/track/3eSKuoaZlzEbeExqIDEanO"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
-        "name": "cassette",
-        "url": "https://open.spotify.com/album/70fVyVGMetHBwXFHnMp4zS"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 231043,
-      "name": "let's go picnic",
-      "url": "https://open.spotify.com/track/6nLK3EpVQLW1SC3lmlejoU"
-    },
-    {
-      "added_at": "2025-12-18 11:28:34",
-      "album": {
-        "name": "WHAT HAVE WE DONE",
-        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
       },
       "artists": [
         {
@@ -140,56 +160,20 @@
           "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "HAEWON",
-          "url": "https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "54321 (Feat. HAEWON of NMIXX)",
-      "url": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz"
-    },
-    {
-      "added_at": "2025-12-18 11:28:34",
-      "album": {
-        "name": "Nerdy Love",
-        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Mokyo",
+          "url": "https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP"
         },
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         }
       ],
-      "duration_ms": 196373,
-      "name": "Nerdy Love",
-      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+      "duration_ms": 250453,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4gc5n5YLVvZFORdNOvelZE"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
-      "album": {
-        "name": "WHAT HAVE WE DONE",
-        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Min Jiwoon",
-          "url": "https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "PARTY PPL (Feat. Min Jiwoon)",
-      "url": "https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp"
-    },
-    {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
         "name": "loves",
         "url": "https://open.spotify.com/album/7kXbkAjgRyksxZ4UmoEeQt"
@@ -209,10 +193,26 @@
       "url": "https://open.spotify.com/track/2QWQbZq001S7e9Pxu5rbS7"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
-        "name": "BUT FOR NOW LEAVE ME ALONE",
-        "url": "https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn"
+        "name": "staying",
+        "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 222156,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
       },
       "artists": [
         {
@@ -220,68 +220,172 @@
           "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+          "name": "HAEWON",
+          "url": "https://open.spotify.com/artist/4suGbXz0FM8bO6YeC0E9no"
         }
       ],
-      "duration_ms": 186733,
-      "name": "JULIETTE! (Feat. UMI)",
-      "url": "https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu"
+      "duration_ms": 185000,
+      "name": "54321 (Feat. HAEWON of NMIXX)",
+      "url": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
-        "name": "Good Goodbye",
-        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
+        "name": "Nerdy Love",
+        "url": "https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro"
       },
       "artists": [
         {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Good Goodbye",
-      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
-    },
-    {
-      "added_at": "2025-12-18 11:28:34",
-      "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
-    },
-    {
-      "added_at": "2025-12-18 11:28:34",
-      "album": {
-        "name": "The Hyena on the Keyboard, Pt. 4",
-        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Nerdy Love",
+      "url": "https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "KEEP IT ON THE LOW (Feat. lIlBOI)",
+      "url": "https://open.spotify.com/track/5mIVTVI72CDH37t5BX8z9e"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "Show Me the Money 777 Semi Final",
+        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Orange (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/16IHyrqNVAEg0mHTXxi92C"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 236106,
+      "name": "Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/3b80IqPWhMgFA4RXFQLpFz"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "Show Me the Money 777 Episode 1",
+        "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Good Day (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
           "name": "HWASA",
           "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 231654,
-      "name": "Don\u2019t",
-      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "TWIT",
+        "url": "https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 190785,
+      "name": "TWIT",
+      "url": "https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
       "album": {
         "name": "I Love My Body",
         "url": "https://open.spotify.com/album/7s3o72sGIzLSbTmiUbD1Rh"
@@ -297,24 +401,36 @@
       "url": "https://open.spotify.com/track/6QFgaDuU9rihnISdYlkapj"
     },
     {
-      "added_at": "2025-12-18 11:28:34",
+      "added_at": "2025-12-22 15:00:38",
       "album": {
-        "name": "Somebody",
-        "url": "https://open.spotify.com/album/2O19A3b0chg4rwiI1rWmw2"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
         {
           "name": "HWASA",
           "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 177413,
-      "name": "Somebody!",
-      "url": "https://open.spotify.com/track/258Rx9GugoWqcn5rJGVU1W"
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+    },
+    {
+      "added_at": "2025-12-22 15:00:38",
+      "album": {
+        "name": "Good Goodbye",
+        "url": "https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Good Goodbye",
+      "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
     }
   ],
   "unique_name": "\ub124\uc774\ubc84\uc5d0\uc11c \uc2a4\ud3ec\ud2f0\ud30c\uc774\ub97c",

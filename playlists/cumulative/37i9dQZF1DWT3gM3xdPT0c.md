@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-460 songs - 19 hr 48 min
+463 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apricus](https://open.spotify.com/track/1Qx9oBeA9rFB67iVBmykMN) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Apricus](https://open.spotify.com/album/5qZtRNKynn3NSGfe76wNWG) | 2:45 | 2024-04-19 |  |
 | [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 | 2025-04-03 |
 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-03-04 | 2023-06-23 |
+| [Archipelago](https://open.spotify.com/track/1PSU0xe4hpIpyP774bh8Mt) | [Mateusz Kowalczyk](https://open.spotify.com/artist/6HFvcShRnjzRPjb48DsJcm) | [Archipelago](https://open.spotify.com/album/3yal7OSvxWg5it2lGqrDBK) | 2:26 | 2025-12-22 |  |
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 | 2022-07-22 |
 | [Arthur's Seat](https://open.spotify.com/track/5UfjlAF2bBDdlu5AMjAFUu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Arthur's Seat](https://open.spotify.com/album/0tivgjmanrFMrXzNyvUDXm) | 2:02 | 2023-08-09 | 2025-11-18 |
 | [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 | 2023-05-10 |
@@ -126,7 +127,7 @@
 | [Een droom](https://open.spotify.com/track/3P7nk24Jc1yp0vemiFhPLh) | [Leandra Annemie](https://open.spotify.com/artist/1ET9NGdvdAIpABpOdrZQYr) | [Een droom](https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA) | 2:07 | 2022-03-04 | 2022-07-22 |
 | [El Jacal](https://open.spotify.com/track/65gLeiH2oi3AKIcb62nbnR) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:36 | 2022-03-04 | 2022-04-06 |
 | [Endlessly](https://open.spotify.com/track/2tVlSbzameLECtSMMfCslf) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [Endlessly](https://open.spotify.com/album/6SR2y0cQ60pCES83O4oIAN) | 2:37 | 2024-09-25 | 2025-11-18 |
-| [Enjoy Quietly](https://open.spotify.com/track/3nM9qzxNtAlxobdo6jLkxY) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Enjoy Quietly](https://open.spotify.com/album/3hQFgHVjnsvhOFv2LJ6nc2) | 2:32 | 2025-11-17 |  |
+| [Enjoy Quietly](https://open.spotify.com/track/3nM9qzxNtAlxobdo6jLkxY) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Enjoy Quietly](https://open.spotify.com/album/3hQFgHVjnsvhOFv2LJ6nc2) | 2:32 | 2025-11-17 | 2025-12-23 |
 | [Entwined](https://open.spotify.com/track/2dD2vlba9615NY1XUOip8o) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Entwined](https://open.spotify.com/album/4duiYenGDX8tQdoAKlRpho) | 2:39 | 2025-05-13 |  |
 | [Epica](https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:21 | 2022-03-04 | 2022-07-01 |
 | [Esteve](https://open.spotify.com/track/0z79KRpafDe5MduzUC5YhX) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Esteve](https://open.spotify.com/album/6P9fb1BvI1ZrwONnddqgEC) | 2:46 | 2025-03-05 | 2025-11-18 |
@@ -277,6 +278,7 @@
 | [Morning to Do List](https://open.spotify.com/track/0wlkGWrxewjWnvbbCC8DP1) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Easy Escapes](https://open.spotify.com/album/73E00oJBEjxA3lS0DniBvn) | 2:53 | 2022-08-05 | 2023-02-25 |
 | [Mountain Springs](https://open.spotify.com/track/6FndQWYzwj8kfv30aFAs3W) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mountain Spring](https://open.spotify.com/album/6vNMYzLWj0VjiS14yE2zjG) | 2:26 | 2022-06-10 | 2022-09-17 |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-03-04 | 2022-07-08 |
+| [My Mother](https://open.spotify.com/track/7DUrp9pce5qnRMtCKAIFRx) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [My Mother](https://open.spotify.com/album/3Vm9kFLzzmeqNsqgs3OV14) | 2:08 | 2025-12-22 |  |
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2022-03-04 | 2022-04-22 |
 | [Nebraska](https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Nebraska](https://open.spotify.com/album/0qbdSsiufit9uLqddWE6KK) | 2:31 | 2023-06-02 | 2025-06-12 |
 | [New York](https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd) | [Zach Len](https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR) | [New York](https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh) | 2:25 | 2022-11-25 | 2023-10-13 |
@@ -329,6 +331,7 @@
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2022-03-04 | 2022-04-22 |
 | [Rumors](https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 2:21 | 2022-03-04 | 2025-05-29 |
 | [Sailed Away](https://open.spotify.com/track/0pQwOihvB5KWwnMXrPjnQ6) | [Taylor Owen](https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v) | [Sailed Away](https://open.spotify.com/album/1bK3qaaivvry3gQQQM6yTg) | 2:30 | 2024-10-23 |  |
+| [Sailing Among Skerries and Islets](https://open.spotify.com/track/6T2MSwJTf4UwIUljxqvlvf) | [Alvaro Perez Fuentes](https://open.spotify.com/artist/5wBUCRxyKy9QT5Sl2AGuWI) | [Sailing Among Skerries and Islets](https://open.spotify.com/album/3YCGzbKhY0ym9ZXz731U5j) | 2:57 | 2025-12-22 |  |
 | [Sawdust Floors](https://open.spotify.com/track/22CshhpyS2gjbii88Rizzm) | [Verona Cassidy](https://open.spotify.com/artist/6yDAXIdSTIU3nLU6MeYIz0) | [Sawdust Floors](https://open.spotify.com/album/2cgfREGDztUfqSQoVib1Er) | 1:51 | 2023-04-21 | 2023-08-26 |
 | [Seaside](https://open.spotify.com/track/3D3XY8qFF14XSFqhuTi63U) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Seaside](https://open.spotify.com/album/5aTyBkh2qENyZ2yLKuzQUb) | 2:30 | 2023-06-02 | 2025-06-12 |
 | [Secret Hero](https://open.spotify.com/track/6kjaY41h1nj7fViaDFd7TV) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Secret Hero](https://open.spotify.com/album/3qYFXeLR7KMLCQVmpLkjIs) | 2:54 | 2024-06-14 |  |
@@ -353,7 +356,7 @@
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-21 | 2023-08-26 |
 | [Songs of the Giants](https://open.spotify.com/track/5bs6sJukJu0UiFsyzVfH4K) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Songs of the Giants](https://open.spotify.com/album/2HNBzLQD5Vf4bczp7ewJr5) | 2:00 | 2024-02-02 | 2025-05-29 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-04 | 2025-05-29 |
-| [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 | 2025-08-26 |  |
+| [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 | 2025-08-26 | 2025-12-23 |
 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 | 2025-04-22 |  |
 | [Spinning](https://open.spotify.com/track/4tFdMgQKqe72jfD6W4t2bO) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Spinning](https://open.spotify.com/album/2xMh235QkHAAwy0mrKQLHY) | 1:39 | 2022-06-24 | 2022-07-22 |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 | 2025-05-14 |

@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-894 songs - 1 day 19 hr 7 min
+896 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Celestia](https://open.spotify.com/track/1KL3vXV6GaClrlhNkt1TR9) | [Frail Horizon](https://open.spotify.com/artist/04KKofTtFKDuXSLzYqAVa2) | [Celestia](https://open.spotify.com/album/7HoO3mUB1L6mRK5BP6kidR) | 2:44 | 2025-11-12 |  |
 | [Celestial Bliss](https://open.spotify.com/track/7KM2IzL238AnUMw7FqWrRB) | [Felix Lancaster](https://open.spotify.com/artist/3pxSaNpvYaHJFLQt2PSJA4) | [Celestial Bliss](https://open.spotify.com/album/2k7vTKuo2IRa2niagED1z1) | 2:36 | 2024-10-14 | 2025-03-28 |
 | [Celestial Drift](https://open.spotify.com/track/7tShTLflfkgBxjMEFs6N8l) | [Abstract Mountain View](https://open.spotify.com/artist/0vxIk09pd5opGhXmOFq2cS) | [Celestial Drift](https://open.spotify.com/album/4xgtSnUGTIyIPA7oZQsCWX) | 3:00 | 2024-01-17 | 2024-03-07 |
-| [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 | 2025-02-04 |  |
+| [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 | 2025-02-04 | 2025-12-23 |
 | [Cette Montagne](https://open.spotify.com/track/0sMr78LRMvZNviXwmOWGQE) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Cette Montagne](https://open.spotify.com/album/4NIeCDqaUXOh2WD7jE0qNf) | 3:26 | 2023-03-23 | 2024-05-05 |
 | [Changes](https://open.spotify.com/track/5wlC59ql7RSgBjZAL9lOYc) | [Vinícius Énnae](https://open.spotify.com/artist/3kj0g7ata90ABzu9sHr5XD) | [Changes](https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY) | 3:06 | 2023-03-23 | 2024-05-21 |
 | [Changing Winds](https://open.spotify.com/track/7sNIwVvNRT0REGuBLit27x) | [Rawiri Te Awa](https://open.spotify.com/artist/7N2I8FaKX2fyQSVIOEzFRP) | [Changing Winds](https://open.spotify.com/album/4Yy3FxXEXLKpcCzA7irgdb) | 2:46 | 2025-11-12 |  |
@@ -394,6 +394,7 @@
 | [Ik Ga Slapen](https://open.spotify.com/track/3TBlhRMVYhU1rF907RC9JG) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Ik Ga Slapen](https://open.spotify.com/album/1TUTW5O8pp0SOTc0tSO8Go) | 2:50 | 2023-03-23 | 2023-05-06 |
 | [Ilinova](https://open.spotify.com/track/4PGOX4mKVxdnb4fKZ8d49h) | [Isak Wellington](https://open.spotify.com/artist/4UZyZN8YPXUmu1E2COn52N) | [Ilinova](https://open.spotify.com/album/1uL2rl1FBiiRG3Zwf3dpcH) | 3:08 | 2023-05-05 | 2024-03-21 |
 | [Illa Pancha](https://open.spotify.com/track/1aU0CFHRycE2Va7CVmDZEX) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Candieira](https://open.spotify.com/album/2VKD43M5UUzJvi2rHHmSEe) | 2:40 | 2023-03-23 | 2024-02-09 |
+| [illusory](https://open.spotify.com/track/7D3ANNXkWNEUS82lNMwUgG) | [Selenique](https://open.spotify.com/artist/6w2PLwVJnXbLWkyyDq4CII) | [illusory](https://open.spotify.com/album/1QjFhD8jm9CYXdqPj1EZes) | 2:20 | 2025-12-17 |  |
 | [In a Charming Dream](https://open.spotify.com/track/3TizifrzD8kqNPVej7OgIu) | [Sergei Andreyev](https://open.spotify.com/artist/1WLfFRzfUMQdr1Ac341H1R) | [In a Charming Dream](https://open.spotify.com/album/4iff1YryIlmywgUjkGtOYk) | 3:04 | 2023-03-23 | 2024-01-18 |
 | [In another lifetime](https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq) | [Bee Heads](https://open.spotify.com/artist/0b28QH3axNYY3VRJ1ps8SS) | [In another lifetime](https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe) | 2:56 | 2024-03-20 | 2025-03-22 |
 | [In my quiet hour](https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk) | [Nicholas Sipka](https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4) | [In My Quiet Hour](https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN) | 2:06 | 2023-03-23 | 2024-01-18 |
@@ -518,6 +519,7 @@
 | [Momentum](https://open.spotify.com/track/5dyewd2qoO14myEIrjR9xr) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Momentum](https://open.spotify.com/album/46ydE0IFCcL8SAS0pPiR1q) | 2:38 | 2025-10-08 |  |
 | [Moonblossom](https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Moonblossom](https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4) | 2:22 | 2025-01-22 | 2025-11-18 |
 | [Moonlight Memoirs](https://open.spotify.com/track/2EhfraVVA81HCPZDYxfOVz) | [Lucas Leigh](https://open.spotify.com/artist/4sT7i66bRioiiRvZNj3Dgg) | [Moonlight Memoirs](https://open.spotify.com/album/2LqfrsV6GpGVeLP5CsnsH3) | 2:29 | 2023-03-23 | 2024-03-21 |
+| [Morning Haze](https://open.spotify.com/track/4FjMDJ573BNKESDRulFvYd) | [Solar Sonar](https://open.spotify.com/artist/1IPM2at5XQoDgESfcTi5M7) | [Morning Haze](https://open.spotify.com/album/0mAcFO6bOT1Ty5SPGQA1Vh) | 2:34 | 2025-12-17 |  |
 | [Mox](https://open.spotify.com/track/4baX3QPYxpxQN6EZb8xhDq) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Mox](https://open.spotify.com/album/76GrBfBf4wY5mUXiKD1qbQ) | 2:54 | 2024-06-18 | 2025-01-23 |
 | [Muna](https://open.spotify.com/track/1thTEQDLz5G6hr2Cp3pA4g) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Muna](https://open.spotify.com/album/3okHfzFp1PVS3A57JF4D3S) | 3:08 | 2023-03-23 | 2024-01-18 |
 | [Myriad](https://open.spotify.com/track/4zW4yUJtrt37ZXod5wrUit) | [Merlin Loughty](https://open.spotify.com/artist/3TNlVudGOBeQObBQQIQUcu) | [Quietude](https://open.spotify.com/album/00MHMxmwPIYmAmErAFpg6w) | 3:05 | 2023-07-14 | 2024-06-21 |
@@ -740,7 +742,7 @@
 | [Solstice Waves](https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Solstice Waves](https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk) | 2:48 | 2024-07-22 | 2025-01-09 |
 | [Somehow](https://open.spotify.com/track/1duFJu4fsHT5qrtGGRbxhg) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Somehow](https://open.spotify.com/album/1zAHjeiIhu46tI4gSnhslp) | 2:50 | 2025-01-22 | 2025-11-13 |
 | [Something Free](https://open.spotify.com/track/1uOIozoCIupXmj0dlIOSW5) | [Aurora's Aria](https://open.spotify.com/artist/3G4TjSBZdfsLwI6MGocARj) | [Something Free](https://open.spotify.com/album/5TEJChNgO0SChgX5qX5O4P) | 3:29 | 2024-05-04 | 2024-09-14 |
-| [Somna](https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Somna](https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs) | 3:02 | 2025-06-03 |  |
+| [Somna](https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD) | [Drift State](https://open.spotify.com/artist/5AtLRQGCNysxJF5JQIzBRV) | [Somna](https://open.spotify.com/album/0F5ugqecVnynFMBMd7gBgs) | 3:02 | 2025-06-03 | 2025-12-23 |
 | [Somniantes](https://open.spotify.com/track/2oRPG3rScsUtAwJ5W0Ij6m) | [Enma](https://open.spotify.com/artist/65t1qirLuVn4JyCfkiPUIc) | [Somniantes](https://open.spotify.com/album/6oXKW8Jaida4M5Y0A9rQRI) | 2:41 | 2024-07-09 | 2025-04-26 |
 | [Somnium](https://open.spotify.com/track/1AAarJ2ZVp2JNvoRY43V41) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Somnium](https://open.spotify.com/album/3A13wz1QjS5umrWC7sEA7L) | 2:14 | 2023-03-23 | 2023-05-06 |
 | [Somnolence](https://open.spotify.com/track/0tC5fBzBASYQGoMtIZJ38I) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Somnolence](https://open.spotify.com/album/2Jsc7fJFeqZMFMoNw5OBfN) | 2:47 | 2025-07-09 |  |

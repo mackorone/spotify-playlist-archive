@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain]
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,997 likes - 52 songs - 3 hr 4 min
+[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,996 likes - 52 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 
 > <a href="spotify:artist:4VZEaqiJm8GOd1pSgjD62y">Skeleten's </a> favourite tracks\. Updated regularly\. Curated by Skeleten\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,605 likes - 85 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,622 likes - 85 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-8,220 songs - 20 day 21 hr 15 min
+8,221 songs - 20 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5545,6 +5545,7 @@
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2025-01-03 |  |
 | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(Alternate\) \[feat\. Steve Lacy\]](https://open.spotify.com/album/4KkdTV3S7boFNngZAWsg1Q) | 3:58 | 2025-01-15 |  |
 | [Skinny Suge](https://open.spotify.com/track/1DA6UYm3jqf8b3ecWUbo6i) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 2:52 | 2025-01-03 |  |
+| [SKIP](https://open.spotify.com/track/7tTaHKjIJCTqkHGCfjUZb9) | [茶太](https://open.spotify.com/artist/4HcONk5wE6XuQ5SD9qAWXK) | [SKIP](https://open.spotify.com/album/5E3UK2FoUm5kGbdnUrDE7Q) | 4:05 | 2025-12-22 |  |
 | [SKITZO \(feat\. Young Thug\)](https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 6:06 | 2025-01-15 |  |
 | [Skrawberries \(feat\. BJ The Chicago Kid\)](https://open.spotify.com/track/076jPFqxYEu1me4zsTBWJ0) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 3:38 | 2025-01-03 |  |
 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 | 2025-01-15 |  |

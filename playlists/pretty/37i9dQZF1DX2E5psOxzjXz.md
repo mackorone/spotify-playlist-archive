@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,526 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,536 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

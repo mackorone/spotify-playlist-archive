@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-173 songs - 9 hr 54 min
+174 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/7GHmlrmNI6Rcgn1nagowIb) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Hans Zimmer: Innovations](https://open.spotify.com/album/2kfqp4674o7RJndJBT1sBv) | 4:14 | 2023-04-05 | 2023-08-20 |
 | [Now We Are Free \- From "Gladiator" Soundtrack](https://open.spotify.com/track/1raWfcURBd1Q3W3K0ojDCM) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0HqvyHCJ9EaORFyA8BPDyW) | 4:14 | 2022-07-20 | 2023-04-17 |
 | [Once Upon a Time in the West \(From "Once Upon a Time in the West"\)](https://open.spotify.com/track/2w1DNaVJve4GmrovQWvpOU) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Edda Dell'Orso](https://open.spotify.com/artist/44oCA91Zsi73fzubIX6Sqh) | [Once Upon a Time in the West \- Ennio Morricone Music Collection \(The Complete Edition\)](https://open.spotify.com/album/2tEHkzwQcKi1B0h0QXVv7P) | 3:11 | 2024-08-09 |  |
+| [One Battle After Another](https://open.spotify.com/track/6EHDDNtnruYmF5Ft9OMacZ) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [One Battle After Another \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CHjGTx0GVPEVb52RxM1IO) | 3:09 | 2025-12-22 |  |
 | [One Day](https://open.spotify.com/track/2wbN4OiwGcUXXpR6xKkugA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pirates Of The Caribbean: At World's End Original Soundtrack](https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0) | 4:01 | 2022-07-19 |  |
 | [One Day \- From "Pirates of the Caribbean: At World's End"/Score](https://open.spotify.com/track/3r2fhVslpEJOmmHujRwcfL) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pirates of the Caribbean: At World's End](https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu) | 4:01 | 2022-07-20 | 2024-04-19 |
 | [Open Spaces](https://open.spotify.com/track/5aS4hzWTQ968fPIoKsDg1q) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [There Will Be Blood \(Music from the Motion Picture\)](https://open.spotify.com/album/0K7xCNs6QjWl1B2mPKCnk3) | 3:55 | 2021-07-16 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42347,
+  "num_followers": 42348,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAAdDKjK60/dUfO2/8u4/Mw8",
+  "snapshot_id": "aUc4gAAAAACnum6twP3p12/ej4zWD6R4",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 168873,
-      "name": "Closer (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singular Act II",
         "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 222101,
       "name": "I Can't Stop Me",
       "url": "https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORINIAN",
-        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
-      },
-      "artists": [
-        {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "Pretty (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B*tch From Da Souf (Remix)",
         "url": "https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 224119,
       "name": "B*tch From Da Souf (Remix)",
       "url": "https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORINIAN",
+        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "Pretty (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 135884,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Bitch Freestyle",
         "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
       },
@@ -855,50 +835,6 @@
       "duration_ms": 129379,
       "name": "Pretty Bitch Freestyle",
       "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126225,
-      "name": "Talkin' Bout (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Immaculate",
-        "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Immaculate",
-      "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
     },
     {
       "added_at": null,
@@ -943,6 +879,70 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 135884,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Immaculate",
+        "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Immaculate",
+      "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
     },
     {
       "added_at": null,

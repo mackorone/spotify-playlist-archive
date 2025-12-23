@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 537,
+  "num_followers": 550,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEOW1flKKpX3PV2301fCKsPcDslNzx",
+  "snapshot_id": "AAAEQLm6n1r5eXt/ai42DMYDTkE6RdqV",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1571,6 +1571,118 @@
       "duration_ms": 195144,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW"
+    },
+    {
+      "added_at": "2025-12-22 16:20:08",
+      "album": {
+        "name": "Big Momma's Door",
+        "url": "https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj"
+      },
+      "artists": [
+        {
+          "name": "CHOCA BLUES",
+          "url": "https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W"
+        }
+      ],
+      "duration_ms": 313669,
+      "name": "Big Momma's Door",
+      "url": "https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z"
+    },
+    {
+      "added_at": "2025-12-22 17:30:41",
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB"
+      },
+      "artists": [
+        {
+          "name": "Sweet Electric",
+          "url": "https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm"
+        }
+      ],
+      "duration_ms": 218344,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2"
+    },
+    {
+      "added_at": "2025-12-22 17:31:32",
+      "album": {
+        "name": "DaDeDaDe",
+        "url": "https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "DaDeDaDe",
+      "url": "https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4"
+    },
+    {
+      "added_at": "2025-12-22 17:33:18",
+      "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI"
+      },
+      "artists": [
+        {
+          "name": "The Jaded Lips",
+          "url": "https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx"
+        }
+      ],
+      "duration_ms": 243623,
+      "name": "Whiskey Breath",
+      "url": "https://open.spotify.com/track/4MrUSgnIRXGvPWnRYCzTXC"
+    },
+    {
+      "added_at": "2025-12-22 18:03:45",
+      "album": {
+        "name": "Kickin' It Down the Road",
+        "url": "https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1"
+      },
+      "artists": [
+        {
+          "name": "Hickory",
+          "url": "https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg"
+        }
+      ],
+      "duration_ms": 288196,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx"
+    },
+    {
+      "added_at": "2025-12-22 18:08:44",
+      "album": {
+        "name": "I Scream at the Sky",
+        "url": "https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "duration_ms": 126818,
+      "name": "I Scream at the Sky",
+      "url": "https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe"
+    },
+    {
+      "added_at": "2025-12-22 18:20:08",
+      "album": {
+        "name": "Ashes in the wind",
+        "url": "https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz"
+      },
+      "artists": [
+        {
+          "name": "Alexis Da Rosa",
+          "url": "https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL"
+        }
+      ],
+      "duration_ms": 187578,
+      "name": "Ashes in the wind",
+      "url": "https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY"
     }
   ],
   "unique_name": "Unsigned Rock",

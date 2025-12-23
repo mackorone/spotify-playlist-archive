@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-12-18",
-  "description": "<a href=\"https://mkt.naver.com/spotify?dtm_detail=1128&dtm_source=brand_main&dtm_medium=mktatrb&dtm_campaign=2511-bimpact-001&pcode=brand_main_1128&campaign_id=2511-bimpact-001&channel_id=brand_main&material=1128\"> NAVER \u00d7 Spotify </a> \ud30c\ud2f0\uc758 \uc8fc\uc778\uacf5!\n\ud544\ub9ad\uc2a4\uc640 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc758 \ub300\ud45c\uace1\uc73c\ub85c \n\ud30c\ud2f0\uc758 \uc21c\uac04\uc744 \uba3c\uc800 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "\uc544\uc9c1 \ub05d\ub098\uc9c0 \uc54a\uc740<a href=\"https://mkt.naver.com/spotify?dtm_detail=1128&dtm_source=brand_main&dtm_medium=mktatrb&dtm_campaign=2511-bimpact-001&pcode=brand_main_1128&campaign_id=2511-bimpact-001&channel_id=brand_main&material=1128\"> NAVER \u00d7 Spotify </a>  \ud30c\ud2f0! \ud544\ub9ad\uc2a4\uc758 \uc194\ub85c\uace1\uacfc \uc138 \uc544\ud2f0\uc2a4\ud2b8\uc758 \uc14b\ub9ac\uc2a4\ud2b8\ub85c \ud30c\ud2f0\uc758 \uc124\ub818\uacfc \uc5ec\uc6b4\uc744 \ub2e4\uc2dc \ub290\uaef4\ubcf4\uc138\uc694.",
   "name": "\ub124\uc774\ubc84\uc5d0\uc11c \uc2a4\ud3ec\ud2f0\ud30c\uc774\ub97c",
   "tracks": [
     {
@@ -27,6 +27,54 @@
     },
     {
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Achoo (Feat. pH-1, HAON) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/3b80IqPWhMgFA4RXFQLpFz"
+    },
+    {
+      "album": {
+        "name": "1,2,3..",
+        "url": "https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "ANYWHERE ANYTIME",
+      "url": "https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv"
+    },
+    {
+      "album": {
         "name": "Boat",
         "url": "https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO"
       },
@@ -42,6 +90,24 @@
       "duration_ms": 191994,
       "name": "Boat",
       "url": "https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7"
+    },
+    {
+      "album": {
+        "name": "Chili",
+        "url": "https://open.spotify.com/album/1vybbGeB3hmgVpEiTDZfgK"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135428,
+      "name": "Chili",
+      "url": "https://open.spotify.com/track/253P6uwLnelVQ6MdwXMIJk"
     },
     {
       "album": {
@@ -104,10 +170,66 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 231654,
       "name": "Don\u2019t",
       "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+    },
+    {
+      "album": {
+        "name": "FRR",
+        "url": "https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        },
+        {
+          "name": "CHOILB",
+          "url": "https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "dub!dub! (Feat. CHOILB)",
+      "url": "https://open.spotify.com/track/5DD8lIMvcGVTstOBrtiNqt"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 777 Episode 1",
+        "url": "https://open.spotify.com/album/6yr53YySD8G0GRwveBg835"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266346,
+      "name": "Good Day (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/6CxxgFhfvh5uz6h4l0ltzP"
     },
     {
       "album": {
@@ -126,6 +248,24 @@
       "duration_ms": 223000,
       "name": "Good Goodbye",
       "url": "https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM"
+    },
+    {
+      "album": {
+        "name": "staying",
+        "url": "https://open.spotify.com/album/1pvOmrT5CgSnxl7oYEe1yG"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222156,
+      "name": "Homebody",
+      "url": "https://open.spotify.com/track/766oOBLBihuZjYuL27CUQM"
     },
     {
       "album": {
@@ -162,10 +302,32 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 186733,
       "name": "JULIETTE! (Feat. UMI)",
       "url": "https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu"
+    },
+    {
+      "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "KEEP IT ON THE LOW (Feat. lIlBOI)",
+      "url": "https://open.spotify.com/track/5mIVTVI72CDH37t5BX8z9e"
     },
     {
       "album": {
@@ -180,7 +342,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 231043,
       "name": "let's go picnic",
       "url": "https://open.spotify.com/track/6nLK3EpVQLW1SC3lmlejoU"
@@ -202,6 +364,32 @@
       "duration_ms": 251370,
       "name": "look at me",
       "url": "https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp"
+    },
+    {
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Mokyo",
+          "url": "https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250453,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/4gc5n5YLVvZFORdNOvelZE"
     },
     {
       "album": {
@@ -245,6 +433,32 @@
     },
     {
       "album": {
+        "name": "Show Me the Money 777 Semi Final",
+        "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "Orange (Prod. by CODE KUNST)",
+      "url": "https://open.spotify.com/track/16IHyrqNVAEg0mHTXxi92C"
+    },
+    {
+      "album": {
         "name": "WHAT HAVE WE DONE",
         "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
       },
@@ -260,7 +474,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 165000,
       "name": "PARTY PPL (Feat. Min Jiwoon)",
       "url": "https://open.spotify.com/track/5FgCKWVthIngE95xoZCyBp"
@@ -304,7 +518,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 177413,
       "name": "Somebody!",
       "url": "https://open.spotify.com/track/258Rx9GugoWqcn5rJGVU1W"
@@ -326,6 +540,24 @@
       "duration_ms": 238546,
       "name": "somuch",
       "url": "https://open.spotify.com/track/3eSKuoaZlzEbeExqIDEanO"
+    },
+    {
+      "album": {
+        "name": "TWIT",
+        "url": "https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190785,
+      "name": "TWIT",
+      "url": "https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD"
     },
     {
       "album": {

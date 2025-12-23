@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,411 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,420 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bad bunnies](https://open.spotify.com/track/39NCr7OXwTxYSZYRxHwA8s) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Thirst Trap](https://open.spotify.com/album/056QpAsaTtFIdYwGyEKPFd) | 2:17 |
-| 2 | [ich vermisse dich.](https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich vermisse dich.](https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9) | 2:39 |
-| 3 | [Wie?](https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wie?](https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH) | 2:53 |
+| 2 | [Wie?](https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wie?](https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH) | 2:53 |
+| 3 | [ich vermisse dich.](https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [ich vermisse dich.](https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9) | 2:39 |
 | 4 | [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 |
 | 5 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 |
 | 6 | [Mona Lisa Motion](https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion](https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch) | 2:12 |
@@ -47,26 +47,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
 | 38 | [Beef mit Cheese](https://open.spotify.com/track/1tKXOrv0ZjYMQyoNxmqAzx) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Magazin](https://open.spotify.com/album/4Fn2M3fRqA3QD4GL3Vqot6) | 2:30 |
 | 39 | [AUTO](https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [AUTO](https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq) | 2:51 |
-| 40 | [Seltsame Welt](https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seltsame Welt](https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU) | 2:42 |
-| 41 | [Rodeo](https://open.spotify.com/track/5Bgk9ITyjRD0N5eduuH2iN) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Squeeze Me](https://open.spotify.com/album/5H6PBRl3GI28k17RLalNR1) | 3:48 |
+| 40 | [Rodeo](https://open.spotify.com/track/5Bgk9ITyjRD0N5eduuH2iN) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Squeeze Me](https://open.spotify.com/album/5H6PBRl3GI28k17RLalNR1) | 3:48 |
+| 41 | [Seltsame Welt](https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seltsame Welt](https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU) | 2:42 |
 | 42 | [Unsichtbar](https://open.spotify.com/track/7Kh3FVsFuXKVurHWgUW5Fb) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Nie wieder](https://open.spotify.com/album/7BAhNlFV3TubNxQMyBDMiP) | 2:23 |
 | 43 | [KEEP IT COOL](https://open.spotify.com/track/73F2NmXZV1usx6pzxXZDEj) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [KEEP IT COOL](https://open.spotify.com/album/51OBw9QiES9prvrJZ1GVoz) | 2:53 |
 | 44 | [seele berührst](https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [du küsst jetzt jemand anderen :/](https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe) | 2:31 |
 | 45 | [Like a Song](https://open.spotify.com/track/5eeVou7p7383NQDyPkEXCy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:27 |
-| 46 | [Glückssträhne](https://open.spotify.com/track/0E8ZYRW3RjJwaFxkZSIDiP) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [SIE!](https://open.spotify.com/album/4bwdGOVIFSpZDTU4Pe6Cgx) | 2:55 |
-| 47 | [Liebe machen](https://open.spotify.com/track/1d5MMrqtzT3F2jVuT77z8c) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:23 |
-| 48 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
+| 46 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
+| 47 | [Glückssträhne](https://open.spotify.com/track/0E8ZYRW3RjJwaFxkZSIDiP) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [SIE!](https://open.spotify.com/album/4bwdGOVIFSpZDTU4Pe6Cgx) | 2:55 |
+| 48 | [Liebe machen](https://open.spotify.com/track/1d5MMrqtzT3F2jVuT77z8c) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:23 |
 | 49 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
 | 50 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 51 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
-| 52 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
-| 53 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 52 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 53 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 54 | [kissing you at midnight](https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:13 |
 | 55 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
 | 56 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
 | 57 | [i love you don't worry xx](https://open.spotify.com/track/5EA6isOGU7VqSlVzOuvTmT) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 3:05 |
-| 58 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
-| 59 | [Contrast](https://open.spotify.com/track/2BVUG7qH0DoAWdQi1hYzqr) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Cringey Core](https://open.spotify.com/album/6HknlOztL3xdYvZaH8Mu5e) | 3:28 |
+| 58 | [Contrast](https://open.spotify.com/track/2BVUG7qH0DoAWdQi1hYzqr) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Cringey Core](https://open.spotify.com/album/6HknlOztL3xdYvZaH8Mu5e) | 3:28 |
+| 59 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 | 60 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
 
 Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

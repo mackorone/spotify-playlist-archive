@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Dillom, Marilina Bertoldi, Juliana Gattas y Airbag.",
-  "num_followers": 5387,
+  "num_followers": 5388,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 216112,
-      "name": "La tua canzone - Recorded at Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
         "name": "Prende el Arbolito - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 170163,
       "name": "Prende el Arbolito - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4HXJQjeEgf8pZX1hOKH2ki"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 216112,
+      "name": "La tua canzone - Recorded at Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/7HfV7tXzzMlivoXWvjcNh3"
     },
     {
       "added_at": "2024-11-07 00:01:00",

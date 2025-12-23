@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,547 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,555 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 39 | [Pegame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 |
 | 40 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
 | 41 | [Volvere](https://open.spotify.com/track/1TpvuIgPGer8UBRMDx5Bmy) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 4:49 |
-| 42 | [Golpe Con Golpe](https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor López, Vol\. 1](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 3:33 |
-| 43 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
+| 42 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
+| 43 | [Golpe Con Golpe](https://open.spotify.com/track/5F31jOZdwYZESzhv01hy3y) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección Éxitos: Pastor López, Vol\. 1](https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk) | 3:33 |
 | 44 | [Banana](https://open.spotify.com/track/5c6iti6anvtf59SwSo1bUe) | [The Rebels](https://open.spotify.com/artist/5DHZNhnoDoZuzDQejFO7h6) | [Banana](https://open.spotify.com/album/4N6iE1vx2PCBTnTdTQxF6c) | 3:39 |
 | 45 | [Cuando Quieras Quiero \- En Vivo](https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 5:11 |
 | 46 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |

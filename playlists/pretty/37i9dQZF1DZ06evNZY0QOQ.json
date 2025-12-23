@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23595,
+  "num_followers": 23601,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAADO/8sRkLMILpdjykpGk8DU",
+  "snapshot_id": "aUc4gAAAAACSZBQdwAR7Y8FclW1sHrK4",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
         }
       ],
-      "duration_ms": 211293,
-      "name": "dtf",
-      "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
+      "duration_ms": 169565,
+      "name": "IT\u2019S TRUE (feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe"
     },
     {
       "added_at": null,
@@ -375,22 +379,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Nora Fatehi",
-          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
         }
       ],
-      "duration_ms": 169565,
-      "name": "IT\u2019S TRUE (feat. Nora Fatehi)",
-      "url": "https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe"
+      "duration_ms": 211293,
+      "name": "dtf",
+      "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 172619,
+      "name": "tey tey",
+      "url": "https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG"
     },
     {
       "added_at": null,
@@ -415,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 172619,
-      "name": "tey tey",
-      "url": "https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG"
+      "duration_ms": 154105,
+      "name": "DORIME (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4"
     },
     {
       "added_at": null,
@@ -459,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
       "artists": [
         {
@@ -468,13 +488,13 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 154105,
-      "name": "DORIME (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4"
+      "duration_ms": 238515,
+      "name": "nothing spoil",
+      "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
     },
     {
       "added_at": null,
@@ -499,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
       "artists": [
         {
@@ -508,13 +528,13 @@
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 238515,
-      "name": "nothing spoil",
-      "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
+      "duration_ms": 122346,
+      "name": "Show My Side (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
     },
     {
       "added_at": null,
@@ -539,26 +559,6 @@
       "duration_ms": 194181,
       "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
       "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 122346,
-      "name": "Show My Side (feat. Amaarae)",
-      "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
-      },
-      "artists": [
-        {
-          "name": "Silly Walks Discotheque",
-          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pace",
         "url": "https://open.spotify.com/album/1uCiEjIJMG143YJoPwQ8yI"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 178048,
       "name": "Obianuju",
       "url": "https://open.spotify.com/track/2zFg0GwpMzDaob8vfmOm7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
+      },
+      "artists": [
+        {
+          "name": "Silly Walks Discotheque",
+          "url": "https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
     },
     {
       "added_at": null,

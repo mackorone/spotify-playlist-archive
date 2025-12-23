@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,543,584 likes - 143 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,543,745 likes - 143 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,22 +16,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 6 | [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 |
 | 7 | [Fractions](https://open.spotify.com/track/4zHsgYHkouqqPwlGcgsOVo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Fractions](https://open.spotify.com/album/1ZlQ3IKKLFUt7firrpyCD4) | 2:17 |
 | 8 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 |
-| 9 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
-| 10 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 11 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
-| 12 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
-| 13 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
-| 14 | [Saudade](https://open.spotify.com/track/4m70cyYjEtCqBG0wHKgwSM) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Saudade](https://open.spotify.com/album/5Qp5uW1h6zUaiV1nqxIPvC) | 2:13 |
-| 15 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
+| 9 | [Echoes in a Hollow Sky](https://open.spotify.com/track/6LLTMjixSywlvh1dNhdlfz) | [Enigmatic Horizons](https://open.spotify.com/artist/7lxOloHmE3ZvWzfIitB4Xc) | [Echoes in a Hollow Sky](https://open.spotify.com/album/69kGsQFJ47ZnvRxIEXReIi) | 2:22 |
+| 10 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 |
+| 11 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
+| 12 | [Amaryllis](https://open.spotify.com/track/2QqKVdveZUhGN5KXi4hUPS) | [Iris Emmanuelle](https://open.spotify.com/artist/5JCKrEmMJlkxsBLjiBBmzn) | [Amaryllis](https://open.spotify.com/album/4aKGW6CZeppKUVLhxsBhgc) | 2:42 |
+| 13 | [Saudade](https://open.spotify.com/track/4m70cyYjEtCqBG0wHKgwSM) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Saudade](https://open.spotify.com/album/5Qp5uW1h6zUaiV1nqxIPvC) | 2:13 |
+| 14 | [Without Hindrance](https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL) | [Erjos](https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV) | [Without Hindrance](https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb) | 2:10 |
+| 15 | [Andújar](https://open.spotify.com/track/45IsWyOukTHKGrJcmKTQfK) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Andújar](https://open.spotify.com/album/7IphnleC4G1mtM3VjybgEb) | 2:06 |
 | 16 | [sakura](https://open.spotify.com/track/2CpXWQc4PuLauXBkAu6Dnz) | [Tom Feldt](https://open.spotify.com/artist/6zsJJhawunqJOVpD7kpoib) | [sakura](https://open.spotify.com/album/4avjQ7OYxRtTSOCs6qRv5S) | 2:13 |
 | 17 | [Water](https://open.spotify.com/track/1RYyyfkC5oiqpAubtkc6k2) | [Myles Dale](https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG) | [Water](https://open.spotify.com/album/49YyZgXdyepJ30xVYIqOiV) | 2:25 |
 | 18 | [Lost In The Bookstore](https://open.spotify.com/track/73uNzueWJEr3dwJ4OgcY3I) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lost In The Bookstore](https://open.spotify.com/album/37JDScSL8M9XgxL2qINZqT) | 2:51 |
-| 19 | [the girl in white](https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [the girl in white](https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc) | 2:37 |
-| 20 | [Lantern in the Fog](https://open.spotify.com/track/5WYzwJcAqTUcjji61rvkGI) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Lantern in the Fog](https://open.spotify.com/album/0032D67SiKhUZwo02xt5gZ) | 2:15 |
-| 21 | [Days and Days](https://open.spotify.com/track/3LkBP7gC3g8cUWQpArGKAB) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Days and Days](https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB) | 2:12 |
+| 19 | [Lantern in the Fog](https://open.spotify.com/track/5WYzwJcAqTUcjji61rvkGI) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Lantern in the Fog](https://open.spotify.com/album/0032D67SiKhUZwo02xt5gZ) | 2:15 |
+| 20 | [Days and Days](https://open.spotify.com/track/3LkBP7gC3g8cUWQpArGKAB) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Days and Days](https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB) | 2:12 |
+| 21 | [To Be](https://open.spotify.com/track/0fdxDUhqECk0qLAtWju4yI) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [To Be](https://open.spotify.com/album/0rYD9GsqxmhHgBsbAQ09IC) | 2:03 |
 | 22 | [Echoes after Rain](https://open.spotify.com/track/6btTzFwJ0ghsQO0MWNqObs) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Echoes after Rain](https://open.spotify.com/album/2Ub8AZp4iWRGFdNxWpjRe9) | 2:31 |
-| 23 | [Ascent](https://open.spotify.com/track/1cwuLKkJe10Khm77Hrxsyw) | [Lunvind](https://open.spotify.com/artist/3J4sX76yQXZefxrr0T5eHP) | [Ascent](https://open.spotify.com/album/5y0Am9EGYdVFgjNqNQ6nNm) | 2:34 |
-| 24 | [To Be](https://open.spotify.com/track/0fdxDUhqECk0qLAtWju4yI) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [To Be](https://open.spotify.com/album/0rYD9GsqxmhHgBsbAQ09IC) | 2:03 |
+| 23 | [the girl in white](https://open.spotify.com/track/013G9Rc4F99RaHINNGWy9f) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [the girl in white](https://open.spotify.com/album/6xutuCujhp11K26MQUT3qc) | 2:37 |
+| 24 | [Ascent](https://open.spotify.com/track/1cwuLKkJe10Khm77Hrxsyw) | [Lunvind](https://open.spotify.com/artist/3J4sX76yQXZefxrr0T5eHP) | [Ascent](https://open.spotify.com/album/5y0Am9EGYdVFgjNqNQ6nNm) | 2:34 |
 | 25 | [Coincidences](https://open.spotify.com/track/6LTeyPlB34Vj3jkQ5k3l7Y) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Coincidences](https://open.spotify.com/album/4AvpqF3vABdDNJYO7WvXzd) | 2:45 |
 | 26 | [Dancing Leaves](https://open.spotify.com/track/0Gf3aRllVZo59XtJgrK4vp) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Dancing Leaves](https://open.spotify.com/album/0xJSDhGUmYbvJ44DJfHSxv) | 2:43 |
 | 27 | [Falling Pattern](https://open.spotify.com/track/5JEPy7KNwCgkpftw6j5cAD) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Falling Pattern](https://open.spotify.com/album/6xlEfnIqRcjIKRwj2Gkm0O) | 2:48 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 142 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
 | 143 | [Ballade Pour Elly](https://open.spotify.com/track/0p6olbVHkNaijGRG6IDEnK) | [Oscar Sundberg](https://open.spotify.com/artist/15IHLyiNk8DVf00tp661dp) | [Ballade Pour Elly](https://open.spotify.com/album/4S1yWI2jYomspKaEy8tnoZ) | 4:03 |
 
-Snapshot ID: `AAAAAMl+DHn++3CVZFDf3gmlUQPKNOtK`
+Snapshot ID: `AAAAACEjlbzSj9s8JzAmjExA4DFI7fVe`

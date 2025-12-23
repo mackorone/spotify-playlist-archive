@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. (C)BNP/BANDAI, DENTSU, TV TOKYO\n",
-  "num_followers": 37756,
+  "num_followers": 37769,
   "original_name": "Let's Aikatsu!",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee1",
-        "url": "https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y"
-      },
-      "artists": [
-        {
-          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d from AIKATSU\u2606STARS! & \u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/00zQjOwNpDon4OsHmxUmoK"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Du-Du-Wa DO IT!!",
-      "url": "https://open.spotify.com/track/2QAVxAYeSqbAs01hXOh4M2"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee1",
         "url": "https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 232266,
       "name": "Kira\u30fbpata\u30fbshining",
       "url": "https://open.spotify.com/track/2FnIKQYAVX0xtcoZgvMxd3"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee1",
+        "url": "https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y"
+      },
+      "artists": [
+        {
+          "name": "\u308b\u304b\u30fb\u3082\u306a\u30fb\u307f\u304d from AIKATSU\u2606STARS! & \u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/00zQjOwNpDon4OsHmxUmoK"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Du-Du-Wa DO IT!!",
+      "url": "https://open.spotify.com/track/2QAVxAYeSqbAs01hXOh4M2"
     },
     {
       "added_at": "2025-04-08 15:07:26",
@@ -751,6 +751,42 @@
     {
       "added_at": "2025-04-08 15:07:26",
       "album": {
+        "name": "\u30a2\u30a4\u30ab\u30c4\uff01\u30b7\u30ea\u30fc\u30ba 10th Anniversary Album Vol.04\u300cRainbow Canvas\u300d",
+        "url": "https://open.spotify.com/album/1toLgIICtmqLpFrlybuV05"
+      },
+      "artists": [
+        {
+          "name": "\u305b\u306a",
+          "url": "https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd"
+        },
+        {
+          "name": "\u308a\u3048",
+          "url": "https://open.spotify.com/artist/2qUnKtWqhckozatgC7mEpM"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "STARDOM!",
+      "url": "https://open.spotify.com/track/2QTw7OOyAmFjrVPd3nqsto"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee1",
+        "url": "https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u304bfrom STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB"
+        }
+      ],
+      "duration_ms": 243706,
+      "name": "Dance in the rain",
+      "url": "https://open.spotify.com/track/0a4fWH8pJqoUlWmzPTR6CV"
+    },
+    {
+      "added_at": "2025-04-08 15:07:26",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
         "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
       },
@@ -772,22 +808,6 @@
       },
       "artists": [
         {
-          "name": "\u308f\u304bfrom STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Dance in the rain",
-      "url": "https://open.spotify.com/track/0a4fWH8pJqoUlWmzPTR6CV"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 2\u5e74\u76ee1",
-        "url": "https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT"
-      },
-      "artists": [
-        {
           "name": "\u308f\u304b\u30fb\u3075\u3046\u308a from STAR\u2606ANIS",
           "url": "https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI"
         }
@@ -795,26 +815,6 @@
       "duration_ms": 235426,
       "name": "\u30a2\u30a4\u30c9\u30eb\u6d3b\u52d5! - Ver. Rock",
       "url": "https://open.spotify.com/track/2hjmr7hlCTOt9gGShVtu3u"
-    },
-    {
-      "added_at": "2025-04-08 15:07:26",
-      "album": {
-        "name": "\u30a2\u30a4\u30ab\u30c4\uff01\u30b7\u30ea\u30fc\u30ba 10th Anniversary Album Vol.04\u300cRainbow Canvas\u300d",
-        "url": "https://open.spotify.com/album/1toLgIICtmqLpFrlybuV05"
-      },
-      "artists": [
-        {
-          "name": "\u305b\u306a",
-          "url": "https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd"
-        },
-        {
-          "name": "\u308a\u3048",
-          "url": "https://open.spotify.com/artist/2qUnKtWqhckozatgC7mEpM"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "STARDOM!",
-      "url": "https://open.spotify.com/track/2QTw7OOyAmFjrVPd3nqsto"
     }
   ],
   "unique_name": "Let's Aikatsu!",

@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-726 songs - 1 day 7 hr 20 min
+727 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 | 2025-05-17 |
 | [Déjà vu](https://open.spotify.com/track/0KJZkIvbHYRmZhP6NGsP6n) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Chameleon](https://open.spotify.com/album/2INZD6kTNVO54IqhcMHvIt) | 2:28 | 2025-04-18 | 2025-09-13 |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
-| [Easy Spin](https://open.spotify.com/track/50jExTGkk9iGKeY1XkCRMd) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Easy Spin](https://open.spotify.com/album/4AyYvEMlj83r7DmfbRl8yU) | 1:50 | 2025-09-12 |  |
+| [Easy Spin](https://open.spotify.com/track/50jExTGkk9iGKeY1XkCRMd) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Easy Spin](https://open.spotify.com/album/4AyYvEMlj83r7DmfbRl8yU) | 1:50 | 2025-09-12 | 2025-12-23 |
 | [Eclissi](https://open.spotify.com/track/3jMEMZMDA5pgjVjcgQxVPg) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h), [Yawuh](https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Eclissi](https://open.spotify.com/album/1OSYdn5iGqohrOsHOCPnHa) | 2:49 | 2025-10-17 | 2025-11-22 |
 | [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 |  |
 | [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 |  |
@@ -517,6 +517,7 @@
 | [RIDGEWALK](https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [RIDGEWALK](https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK) | 2:27 | 2024-11-29 | 2025-01-25 |
 | [Riding The Waves Of Change](https://open.spotify.com/track/3TitEnqfYTSfnmUU7CJr9P) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [The Long Road](https://open.spotify.com/album/6n23UhMxAtJUnizQIljd0C) | 2:56 | 2024-12-13 | 2025-08-30 |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 | 2025-03-16 |
+| [Robes](https://open.spotify.com/track/7ufEmdLwZhE0MB1ZSHduzh) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Robes](https://open.spotify.com/album/0BKsyfKBGvaASICnmbKWt9) | 1:49 | 2025-12-19 |  |
 | [Roller Coaster](https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [SMTHNGOOD](https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf), [dhyno](https://open.spotify.com/artist/68A1ZFG3MCIjch52VMXht8) | [Roller Coaster](https://open.spotify.com/album/0K7qZlcArJtLm0PqNwFdfU) | 2:34 | 2024-11-29 | 2025-01-25 |
 | [ROSE PISCINE](https://open.spotify.com/track/3agEfdmiNcGnJ5hL6RlkA6) | [VEEKO](https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg), [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd) | [ROSE PISCINE](https://open.spotify.com/album/2D9gxafDvSUSwK9aP6ysbj) | 3:28 | 2025-10-03 | 2025-10-25 |
 | [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 | 2023-09-22 | 2025-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > giorgio poi remixato da faccianuvola??!? what is this, a crossover episode??? \(scusate la gag lo sappiamo che è un po' passata\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,390 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,376 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

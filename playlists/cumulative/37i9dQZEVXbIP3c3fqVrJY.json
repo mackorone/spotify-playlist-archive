@@ -656,7 +656,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -14866,7 +14866,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -14902,7 +14902,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -16618,7 +16618,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -16636,7 +16636,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -21048,10 +21048,28 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/21VqeIyh4YvwA1BUkZ48EV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/4Bd7WFT93cRqlfyGi6eK93"
     },
     {
       "album": {
@@ -25170,6 +25188,24 @@
       "duration_ms": 132000,
       "name": "NEROZUM\u00cd N\u00c1M (2soft)",
       "url": "https://open.spotify.com/track/06vtZikCncMaWYbAPl1ORo"
+    },
+    {
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy (Tich\u00e1 noc)",
+        "url": "https://open.spotify.com/album/1dZOrRi6207ALSq4NY5UeI"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor",
+          "url": "https://open.spotify.com/artist/0sySYREvn2IRaynpbf4Fmj"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114346,
+      "name": "Nesem v\u00e1m noviny",
+      "url": "https://open.spotify.com/track/7uc4ayOEoN4fxputnmjJej"
     },
     {
       "album": {
@@ -32802,7 +32838,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 207360,
       "name": "SI JE*LA",
       "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
@@ -37350,7 +37386,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 147428,
       "name": "TINTED WINDOWS",
       "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"

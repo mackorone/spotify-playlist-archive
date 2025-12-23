@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 32 | [Ni Lo Intentes](https://open.spotify.com/track/2E2vhiDcDSLrv9UWfaKOcb) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 2:57 |
 | 33 | [Ni Te Vistas Que No Vas](https://open.spotify.com/track/1jkzb8dLnmTuTIHWOjQico) | [Isa Mebarak](https://open.spotify.com/artist/5Ll6dTdD1p7vJK3n2FDbN8) | [Cosa Buena](https://open.spotify.com/album/4LDEC5iNBJLx0vRsRWulyL) | 3:32 |
 | 34 | [Cuando Se Ama Como Tú](https://open.spotify.com/track/5A6TF9z2XavNHuYXEJKsh0) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:51 |
-| 35 | [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 |
-| 36 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
+| 35 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
+| 36 | [Tempo \- Versión Español](https://open.spotify.com/track/0SIRVXaGCeLsJekmL5n7jC) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w) | [Tempo](https://open.spotify.com/album/5vmTSQN7bleXF3mlZgieli) | 2:46 |
 | 37 | [Perder Es Ganar](https://open.spotify.com/track/4p7IxXq8npnLl9MS98knQ6) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Cuando Se Ama Como Tú](https://open.spotify.com/album/2SfUxkmIm2CwqU9xwxQtun) | 3:27 |
 | 38 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
 | 39 | [Alguien Más](https://open.spotify.com/track/6UplHCI03dIUk2fxL1l9hq) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Real](https://open.spotify.com/album/7AtAkhy1kqTe7EsuW2rmbf) | 4:08 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 146 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 147 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcE2UgAAAACmuf4EQFcbnE3A5va22rgG`
+Snapshot ID: `AcE8BgAAAADROu8Dw1B6fE3VningC7Yk`

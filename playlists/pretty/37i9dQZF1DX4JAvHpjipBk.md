@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Kali Uchis, Anyma & EJAE, Skye Newman, YoungBoy Never Broke Again, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,483,023 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,482,981 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

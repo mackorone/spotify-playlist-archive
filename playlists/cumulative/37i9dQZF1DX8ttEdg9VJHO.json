@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/2RdTOkmEG6yr7vOH72RlyR"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "date_added": "2025-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145426,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/2I226ZKUjwiCBZPrA3M8f3"
+    },
+    {
+      "album": {
         "name": "Can't Love You Anymore",
         "url": "https://open.spotify.com/album/3DVya82M7z5xxO2YE6Bo6u"
       },
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 156167,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"

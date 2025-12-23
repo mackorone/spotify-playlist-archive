@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9246,
+  "num_followers": 9249,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAAApxMwOwXCVUqJu1rtFtNa3",
+  "snapshot_id": "aUc4gAAAAAAiDoxgSOrvwfu+fUPLwX0s",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 170520,
+      "name": "Oh Gran Dios",
+      "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 186546,
       "name": "Amigo Mesero",
       "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Para Ellas",
-      "url": "https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/5ftc7hStJ3hLO7GQHLBDIk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Oh Gran Dios",
-      "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
+      "duration_ms": 205797,
+      "name": "Cuando los Frijoles Bailan",
+      "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 207640,
       "name": "Como Esos Amantes",
       "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 205797,
-      "name": "Cuando los Frijoles Bailan",
-      "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
     },
     {
       "added_at": null,

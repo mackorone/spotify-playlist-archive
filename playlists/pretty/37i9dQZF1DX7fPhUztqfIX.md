@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: CityAlight
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,234 likes - 74 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,250 likes - 74 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 55 | [FOREVER & AMEN](https://open.spotify.com/track/0G7NKk6ca8o6O3st8TFAP6) | [Bella Taylor Smith](https://open.spotify.com/artist/5KZN09Gq54DniaMMM7rKCQ) | [FOREVER & AMEN](https://open.spotify.com/album/4CsHNtJZIloRMyPAxjdhMA) | 4:05 |
 | 56 | [Secret Place](https://open.spotify.com/track/6a68O9k5Zf9ki9A2Bzj6CQ) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Secret Place](https://open.spotify.com/album/3H9YJkanHPyKuI8Jxe9GcR) | 5:29 |
 | 57 | [Glory Belongs](https://open.spotify.com/track/7HnFjqj3biK4MGUI5mz3RW) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Becky Lucas](https://open.spotify.com/artist/7HCn9LFCIK5RaGklYwEt8N) | [Glory Belongs](https://open.spotify.com/album/3lfOOHHHXm88Ca2x7EjfJt) | 4:41 |
-| 58 | [High King \- Live](https://open.spotify.com/track/5G7JFue2QBumh3FbfQuQwY) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Zach Smith](https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv) | [Fresh Fire Pt\. 1 \(Live\)](https://open.spotify.com/album/5JjyKcVlo7intrnYbytyo0) | 5:32 |
+| 58 | [High King \- Live](https://open.spotify.com/track/5G7JFue2QBumh3FbfQuQwY) | [Capital City Music](https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH), [Zach Smith](https://open.spotify.com/artist/47WznCgJt250fTyZV5PbRv) | [Fresh Fire, Pt\. 1 \(Live\)](https://open.spotify.com/album/5JjyKcVlo7intrnYbytyo0) | 5:32 |
 | 59 | [Salvation Song \(feat\. Destiny Barber\)](https://open.spotify.com/track/2QlWUmxLaTKiz5xF3UJ352) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [Listening](https://open.spotify.com/album/1byYrQEr4BoC6FiBLu4v4f) | 5:18 |
 | 60 | [Offering](https://open.spotify.com/track/3GVouBjEEDCpf4yJrRanYW) | [Jake and Mates](https://open.spotify.com/artist/6sL3Jxy9Rgg22QTJFG6qkB), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Offering](https://open.spotify.com/album/2U7Qyu342mIfIoqdsg1xSh) | 4:52 |
 | 61 | [What You're Worth](https://open.spotify.com/track/10Vmn3TNbRPGxSBdUd1Gyw) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL) | [What You're Worth](https://open.spotify.com/album/6KHrCWJuoylbDsK9F0JvjA) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,785 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,787 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 33 | [The Healing Game](https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Don't Look Back](https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7) | 5:09 |
 | 34 | [Kiddio \- 2007 \- Remaster](https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:11 |
 | 35 | [I Put My Trust In You](https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 5:19 |
-| 36 | [Baby Lee \- feat\. Robert Cray](https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:45 |
-| 37 | [Backbiters And Syndicaters](https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:50 |
+| 36 | [Backbiters And Syndicaters](https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:50 |
+| 37 | [Baby Lee \- feat\. Robert Cray](https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:45 |
 | 38 | [I Got My Eyes On You](https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 4:26 |
 | 39 | [You Know, I Know](https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:53 |
-| 40 | [No More Doggin'](https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:44 |
-| 41 | [I Can't Stand To Leave You](https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:30 |
-| 42 | [Hobo Blues](https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Half A Stranger Vol 1](https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe) | 3:03 |
+| 40 | [I Can't Stand To Leave You](https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:30 |
+| 41 | [Hobo Blues](https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Half A Stranger Vol 1](https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe) | 3:03 |
+| 42 | [No More Doggin'](https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [That's My Story](https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE) | 2:44 |
 | 43 | [Cuttin' Out \- feat\. Canned Heat](https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:37 |
 | 44 | [Tupelo \- 2007 \- Remaster](https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:58 |
 | 45 | [No Shoes](https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Travelin'](https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [My Own Blues](https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:33 |
 | 50 | [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 |
 
-Snapshot ID: `aUXnAAAAAACVBgzpBIFdCIuX2DEcGi0g`
+Snapshot ID: `aUc4gAAAAAA9+5IkCEwsNAv1gqQjKZ/5`

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Eli Soares, Midian Lima",
-  "num_followers": 1203001,
+  "num_followers": 1203071,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
-        "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 409301,
-      "name": "Santo Pra Sempre - Ao Vivo no Mineir\u00e3o",
-      "url": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
         "name": "Um Novo Dia",
         "url": "https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE"
       },
@@ -155,22 +139,18 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3SltbYOonsngqJJyc66Qb5"
+        "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
+        "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 384427,
-      "name": "Deus de Obras Completas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8"
+      "duration_ms": 409301,
+      "name": "Santo Pra Sempre - Ao Vivo no Mineir\u00e3o",
+      "url": "https://open.spotify.com/track/4fkunTJ8AogdrUHzEtzjCY"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -187,6 +167,26 @@
       "duration_ms": 276453,
       "name": "Ovelhinha (Ao Vivo)",
       "url": "https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3SltbYOonsngqJJyc66Qb5"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 384427,
+      "name": "Deus de Obras Completas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2w0ClmhcjbXhTUHwZRWDJ8"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -239,26 +239,6 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "MEU UNIVERSO",
-        "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 252479,
-      "name": "MEU UNIVERSO",
-      "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
         "name": "Clamo Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 437426,
       "name": "Clamo Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
+        "name": "MEU UNIVERSO",
+        "url": "https://open.spotify.com/album/3ZRURB6L7WwE4t0nnzKNqF"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 252479,
+      "name": "MEU UNIVERSO",
+      "url": "https://open.spotify.com/track/641brJX9841CQj3xYyPHHK"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Bondade De Deus",
-        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
-      },
-      "artists": [
-        {
-          "name": "Pedras Vivas",
-          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
-        }
-      ],
-      "duration_ms": 295714,
-      "name": "Bondade De Deus",
-      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
         "name": "Tu \u00c9s Deus (A Ele) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6rUW1OFCdCmX7gfmhCokIR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 304391,
       "name": "Tu \u00c9s Deus (A Ele) - Ao Vivo",
       "url": "https://open.spotify.com/track/1Gol2VjZYbYBsptumlr8jy"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
+        "name": "Bondade De Deus",
+        "url": "https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4"
+      },
+      "artists": [
+        {
+          "name": "Pedras Vivas",
+          "url": "https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F"
+        }
+      ],
+      "duration_ms": 295714,
+      "name": "Bondade De Deus",
+      "url": "https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 390933,
-      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
-      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
         "name": "Fogo em Teus Olhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
-        "name": "Voc\u00ea em Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7IWdeZdIFa6PcinyineOrj"
+        "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/2jGnhCH7BGBkI69mUX6m66"
       },
       "artists": [
         {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 285681,
-      "name": "Voc\u00ea em Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/4G28U2vY2SqffjtJ9Vr8dl"
+      "duration_ms": 390933,
+      "name": "Outro Igual N\u00e3o H\u00e1 (Ao Rei N\u00f3s Coroamos) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6omhrigmTfXP6LlKm0Fd7A"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -1055,6 +1039,22 @@
       "duration_ms": 420477,
       "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
       "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
+        "name": "Voc\u00ea em Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7IWdeZdIFa6PcinyineOrj"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 285681,
+      "name": "Voc\u00ea em Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/4G28U2vY2SqffjtJ9Vr8dl"
     },
     {
       "added_at": "2025-12-12 03:02:56",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2025-12-12 03:02:56",
       "album": {
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": "2025-12-12 03:02:56",
+      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos - Ao Vivo",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2025-12-12 03:02:56",
-      "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": "2025-12-12 03:02:56",

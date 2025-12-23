@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: MINHO(\ubbfc\ud638)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: \uc8fc\ud5cc (JOOHONEY)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -27125,6 +27125,24 @@
     },
     {
       "album": {
+        "name": "Bitter Sweet",
+        "url": "https://open.spotify.com/album/3pZJO8WHkjxw1bsSlAvYHH"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/4c0eCpo9kJKSzGuLA7fO2u"
+    },
+    {
+      "album": {
         "name": "STOP OVER",
         "url": "https://open.spotify.com/album/6uDov9hyYO6A3IKH1bALL7"
       },
@@ -51755,7 +51773,7 @@
     },
     {
       "album": {
-        "name": "Change Street Pt.1",
+        "name": "Change Street Episode 1",
         "url": "https://open.spotify.com/album/1KDJXCugPcg4Qqr6F3VomM"
       },
       "artists": [
@@ -54510,6 +54528,24 @@
       "duration_ms": 212000,
       "name": "Dimly",
       "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
+    },
+    {
+      "album": {
+        "name": "Ding!",
+        "url": "https://open.spotify.com/album/6AYxh8txpOKfNjVidY2HSh"
+      },
+      "artists": [
+        {
+          "name": "JUNGWOO",
+          "url": "https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353016,
+      "name": "Ding!",
+      "url": "https://open.spotify.com/track/0XzBowyHOl3RMbVN1Nt2JG"
     },
     {
       "album": {
@@ -80705,6 +80741,24 @@
     },
     {
       "album": {
+        "name": "test for test",
+        "url": "https://open.spotify.com/album/4XxPSu9GFS6nRbefp9b0P6"
+      },
+      "artists": [
+        {
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "ftsttst",
+      "url": "https://open.spotify.com/track/3cjSmDiNa4WziZU6F23vSG"
+    },
+    {
+      "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/6KizwQiaESv5h3FIhcr8ta"
       },
@@ -97065,6 +97119,24 @@
     },
     {
       "album": {
+        "name": "Merry Birthday",
+        "url": "https://open.spotify.com/album/0iwhbrydLF8xrGhnSrBpuy"
+      },
+      "artists": [
+        {
+          "name": "LIM YOUNG MIN",
+          "url": "https://open.spotify.com/artist/7s72t76jrvQLHUiYraBSZ0"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/4ILZCMMRCumHDJZ1nHKJMh"
+    },
+    {
+      "album": {
         "name": "home alone type.",
         "url": "https://open.spotify.com/album/30D7plsw8Z6Qz2H29aLSDL"
       },
@@ -110340,6 +110412,24 @@
       "duration_ms": 237142,
       "name": "I'm Okay without you",
       "url": "https://open.spotify.com/track/1yOXqQZb2AKnO6iNDNnuAH"
+    },
+    {
+      "album": {
+        "name": "Nice to Not Meet You (Original Television Soundtrack) Pt. 6",
+        "url": "https://open.spotify.com/album/431XSlZbT3UxpuGXomDjO2"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "I'm Real",
+      "url": "https://open.spotify.com/track/0Gvz0514o9NGU8TLlsDqEn"
     },
     {
       "album": {
@@ -182659,6 +182749,28 @@
     },
     {
       "album": {
+        "name": "Push (Feat. REI (IVE))",
+        "url": "https://open.spotify.com/album/2pDREulVBTP6wZLvgJgeMl"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "REI (IVE)",
+          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Push (Feat. REI (IVE))",
+      "url": "https://open.spotify.com/track/1eGtmqQDQr3KhtIV1MvkgQ"
+    },
+    {
+      "album": {
         "name": "PUSH BACK",
         "url": "https://open.spotify.com/album/6acXfqJsV2PKpybx7MutV7"
       },
@@ -193970,6 +194082,24 @@
       "duration_ms": 187929,
       "name": "SATURDAY PREACHER",
       "url": "https://open.spotify.com/track/0orrrJ5FdLQNrMJCRz9lyF"
+    },
+    {
+      "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
     },
     {
       "album": {
@@ -235643,6 +235773,24 @@
     },
     {
       "album": {
+        "name": "To TTony (A Season for You and Me)",
+        "url": "https://open.spotify.com/album/06PA9hnIOKtSbFH3hJ44CS"
+      },
+      "artists": [
+        {
+          "name": "BAK CHANG GEUN",
+          "url": "https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323185,
+      "name": "To TTony (A Season for You and Me)",
+      "url": "https://open.spotify.com/track/4wcbAJAVSzPfuSG6MdcbMe"
+    },
+    {
+      "album": {
         "name": "To Us",
         "url": "https://open.spotify.com/album/5d9mk0t9F3S1RY6hKRSOdt"
       },
@@ -236930,6 +237078,24 @@
       "duration_ms": 129468,
       "name": "Tomorrow And Tomorrow (I Love You)",
       "url": "https://open.spotify.com/track/7ctjgt6JxTwIEgZomTQprc"
+    },
+    {
+      "album": {
+        "name": "Tomorrow, Promise",
+        "url": "https://open.spotify.com/album/3YAULJgi6CHVzTxLMUjAuF"
+      },
+      "artists": [
+        {
+          "name": "UmYull",
+          "url": "https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Tomorrow, Promise",
+      "url": "https://open.spotify.com/track/4jy5dG5PYnigjz3zP1XHBA"
     },
     {
       "album": {

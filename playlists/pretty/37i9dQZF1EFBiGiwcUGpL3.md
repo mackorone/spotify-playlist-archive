@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 48 | [Got It Right This Time \(The Celebration\)](https://open.spotify.com/track/443zJTvmOBwUBO3DB2IWdf) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:44 |
 | 49 | [Crimson Blue \- From Nine Perfect Strangers](https://open.spotify.com/track/1Nk6DKF1eXNCNKCj6aJLNV) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Crimson Blue \(From Nine Perfect Strangers\)](https://open.spotify.com/album/5KQHWweJ4zY9GQLQUsKNFY) | 3:27 |
 | 50 | [Right On Back To You](https://open.spotify.com/track/7GUTR8gtKl5sd2mg4Q2V4U) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:48 |
-| 51 | [Walk In The Country](https://open.spotify.com/track/7FJMIplxMvLO4hPsfISQ8q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 2:58 |
-| 52 | [If Ever I Could Love](https://open.spotify.com/track/12avE3xXFRcJuYDwNg9ZIU) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:00 |
+| 51 | [If Ever I Could Love](https://open.spotify.com/track/12avE3xXFRcJuYDwNg9ZIU) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:00 |
+| 52 | [Walk In The Country](https://open.spotify.com/track/7FJMIplxMvLO4hPsfISQ8q) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Clear As Day](https://open.spotify.com/album/0molQ0VuhniiiYNZ1iAJrc) | 2:58 |
 | 53 | [Say Something](https://open.spotify.com/track/61FUzJLSseC54gCw6pBqDr) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:57 |
 | 54 | [Soul Food](https://open.spotify.com/track/3aU7v3C5l6IBVkxGNfhqyU) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:36 |
 | 55 | [Georgia Woods](https://open.spotify.com/track/0TIk4vk0T7yQrlmvVBK74y) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 5:17 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 | 101 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `AcE2ZgAAAADUX7FUbCwdSFx4FlaPvsWA`
+Snapshot ID: `AcE8BgAAAADZH8MN34HS+XH5OTCY0N/f`

@@ -4,7 +4,7 @@
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-55 songs - 3 hr 5 min
+56 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,13 +34,14 @@
 | [If I Didn't Laugh](https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [If I Didn't Laugh](https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG) | 2:46 | 2024-12-03 |  |
 | [Immaterial](https://open.spotify.com/track/1huN927tTdSiwF90FBHXkT) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:52 | 2024-12-03 |  |
 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 | 2024-12-03 |  |
-| [Influencer](https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Dreams, Schemes & Young Teams](https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa) | 2:18 | 2024-12-03 |  |
+| [Influencer](https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Dreams, Schemes & Young Teams](https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa) | 2:18 | 2024-12-03 | 2025-12-23 |
 | [jamcod](https://open.spotify.com/track/4hYkg7rTJ2ifRzAiHUklU1) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Glasgow Eyes](https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL) | 3:59 | 2024-12-03 | 2025-11-26 |
 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 | 2024-12-03 |  |
 | [Just a Boy](https://open.spotify.com/track/4DE6FDlw291rYfEDB4OI9v) | [Ben Walker](https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4) | [Just a Boy](https://open.spotify.com/album/405O410ynvYxME5MzhHtov) | 3:19 | 2024-12-03 |  |
 | [Just Come Home with Me Tonight](https://open.spotify.com/track/6zArUpWiIqCJ4dTThzRpxL) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Just Come Home with Me Tonight](https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ) | 4:07 | 2024-12-03 |  |
 | [LEMONADE](https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [LEMONADE](https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3) | 1:58 | 2024-12-03 |  |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2024-12-03 |  |
+| [Like The First Time](https://open.spotify.com/track/18maIOvJtWoZWOrLZpBRJc) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Like The First Time](https://open.spotify.com/album/2YJBdg5dZmjmG30Cl96Cux) | 3:06 | 2024-12-03 |  |
 | [Lose It](https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 5:30 | 2024-12-03 |  |
 | [Lovin’](https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Lovin’](https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE) | 3:01 | 2024-12-03 |  |
 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 | 2024-12-03 |  |

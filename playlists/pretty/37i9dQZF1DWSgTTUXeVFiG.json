@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 31892,
+  "num_followers": 31897,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "40 Anniversary (Live Hits)",
+        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
+      },
+      "artists": [
+        {
+          "name": "Tommy Olivencia y Su Orquesta",
+          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
+        },
+        {
+          "name": "Hector Tricoche",
+          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Lobo Domesticado \"En Vivo\"",
+      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Grupo Niche (En Vivo)",
         "url": "https://open.spotify.com/album/4lrQEwqs459PbxfQGp11H3"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 371813,
       "name": "Sonido Bestial - En Vivo",
       "url": "https://open.spotify.com/track/1DSmNMXYNM3MrCzeXzZBrX"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "40 Anniversary (Live Hits)",
-        "url": "https://open.spotify.com/album/43VEjj157u4fGnlw4QN9vL"
-      },
-      "artists": [
-        {
-          "name": "Tommy Olivencia y Su Orquesta",
-          "url": "https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx"
-        },
-        {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Lobo Domesticado \"En Vivo\"",
-      "url": "https://open.spotify.com/track/5i784rg3A3YFVFE8YXLfme"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -755,38 +755,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "El Canario",
-          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
-      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 338093,
-      "name": "Mi Bajo y Yo - Live Version",
-      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "40 Aniversario: EN VIVO",
         "url": "https://open.spotify.com/album/3y6psCkk0iiyHW9RsZd1OU"
       },
@@ -843,6 +811,38 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 272773,
+      "name": "Mata Siguaraya - Live Version",
+      "url": "https://open.spotify.com/track/0OBiNNQRUHrxTyhttCje8w"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "El Canario",
+          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
+      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Eddie Santiago (En Vivo)",
         "url": "https://open.spotify.com/album/6qfVnb6663CzhZBDfnvnQ6"
       },
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
+      "duration_ms": 303586,
+      "name": "Anacaona - Live Version",
+      "url": "https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 272773,
-      "name": "Mata Siguaraya - Live Version",
-      "url": "https://open.spotify.com/track/0OBiNNQRUHrxTyhttCje8w"
+      "duration_ms": 338093,
+      "name": "Mi Bajo y Yo - Live Version",
+      "url": "https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 303586,
-      "name": "Anacaona - Live Version",
-      "url": "https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG"
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
     }
   ],
   "unique_name": "Vivo de Salsa",

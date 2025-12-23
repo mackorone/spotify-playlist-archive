@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 499039,
+  "num_followers": 499021,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 218826,
       "name": "COMO UN BEB\u00c9",
       "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -531,26 +531,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Baddies",
-        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 207403,
-      "name": "Baddies",
-      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 207403,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 211284,
       "name": "Come Closer (feat. Drake)",
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Sal Gason",
-        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
-      },
-      "artists": [
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Sal Gason",
+        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+      },
+      "artists": [
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1839,6 +1839,26 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Cool Me Down (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 208758,
+      "name": "Cool Me Down (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Sabu",
         "url": "https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL"
       },
@@ -1859,26 +1879,6 @@
       "duration_ms": 184062,
       "name": "Sabu",
       "url": "https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Cool Me Down (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 208758,
-      "name": "Cool Me Down (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Big Thug Boys (Dj Yo! Remix)",
-        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        },
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        }
-      ],
-      "duration_ms": 174774,
-      "name": "Big Thug Boys (Dj Yo! Remix)",
-      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Tadow (Full Crate Remix)",
         "url": "https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 188869,
       "name": "Tadow - Full Crate Remix",
       "url": "https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Big Thug Boys (Dj Yo! Remix)",
+        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "duration_ms": 174774,
+      "name": "Big Thug Boys (Dj Yo! Remix)",
+      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "NASA",
-        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 144675,
-      "name": "NASA",
-      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Likkle Riddim",
         "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 164400,
       "name": "Likkle Riddim",
       "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5s0omL2Uafv73Dx8OcT6vZ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 144675,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/0MDCA0Wky00TbO5yjCIZ38"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "bLoOdLine",
-        "url": "https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 160663,
-      "name": "CHAMPION FLOW",
-      "url": "https://open.spotify.com/track/5dsUFwWl5U8336RqCX0YRX"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Eve Bounce",
         "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 204631,
       "name": "Eve Bounce - Remix",
       "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "bLoOdLine",
+        "url": "https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 160663,
+      "name": "CHAMPION FLOW",
+      "url": "https://open.spotify.com/track/5dsUFwWl5U8336RqCX0YRX"
     },
     {
       "added_at": "2025-12-10 23:00:04",

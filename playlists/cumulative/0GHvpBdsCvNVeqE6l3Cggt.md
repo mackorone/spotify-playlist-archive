@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-63 songs - 3 hr 52 min
+64 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 | 2025-12-01 | 2025-12-13 |
 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 | 2025-10-13 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2021-03-29 |  |
+| [Blaa Blaa Blaa](https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws) | [Tapany](https://open.spotify.com/artist/7MI44S2fRIrOiOovCyY3xS) | [Blaa Blaa Blaa](https://open.spotify.com/album/3fNTQi5eXA8vqk2loEg3Yq) | 2:24 | 2025-12-22 |  |
 | [Blood Orange](https://open.spotify.com/track/37ezRYgGPhn8c04W6v6Oyv) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Blood Orange](https://open.spotify.com/album/71vwafT0yr1239fkxRhIy1) | 3:45 | 2025-11-04 | 2025-11-22 |
 | [Breakfast in Bathrobes](https://open.spotify.com/track/6gCRIrbRoj4jEqIDFP2IXe) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:13 | 2025-11-14 | 2025-12-03 |
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 |  |

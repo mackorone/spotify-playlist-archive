@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,902 likes - 156 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,898 likes - 156 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula \(Deluxe Version\)](https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf) | 2:41 |
-| 2 | [Helvete! \- Spotify Singles](https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Helvete! \(Spotify Singles\)](https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq) | 3:37 |
-| 3 | [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 |
-| 4 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 |
-| 5 | [Gabriela \- Spotify Singles](https://open.spotify.com/track/5zjQfzkf1umWY3T98RtX8b) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Gabriela \- Spotify Singles](https://open.spotify.com/album/72XfFKK5lNKEbhiPRxXyd3) | 3:04 |
-| 6 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
-| 7 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
-| 8 | [Växtvärk](https://open.spotify.com/track/71YshPURU1bulv8OuF9d94) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46) | 3:29 |
-| 9 | [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 |
-| 10 | [Beige & White](https://open.spotify.com/track/7uw6m9sfVkZUPDOCdgcXMl) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Beige & White](https://open.spotify.com/album/0MKhrPXQOjJRJNXFHhDwc2) | 2:32 |
+| 1 | [Helvete! \- Spotify Singles](https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Helvete! \(Spotify Singles\)](https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq) | 3:37 |
+| 2 | [Love](https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula \(Deluxe Version\)](https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf) | 2:41 |
+| 3 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 |
+| 4 | [Gabriela \- Spotify Singles](https://open.spotify.com/track/5zjQfzkf1umWY3T98RtX8b) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Gabriela \- Spotify Singles](https://open.spotify.com/album/72XfFKK5lNKEbhiPRxXyd3) | 3:04 |
+| 5 | [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 |
+| 6 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
+| 7 | [Växtvärk](https://open.spotify.com/track/71YshPURU1bulv8OuF9d94) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46) | 3:29 |
+| 8 | [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 |
+| 9 | [Beige & White](https://open.spotify.com/track/7uw6m9sfVkZUPDOCdgcXMl) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Beige & White](https://open.spotify.com/album/0MKhrPXQOjJRJNXFHhDwc2) | 2:32 |
+| 10 | [Muévelo](https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Muévelo](https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje) | 2:07 |
 | 11 | [Lonely Girl](https://open.spotify.com/track/1wheEtNXn04hxOMCiNIwnE) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Lonely Girl](https://open.spotify.com/album/0bGffrDhBjlDuarQjF8itE) | 2:22 |
 | 12 | [I Could Miss You Forever](https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [I Could Miss You Forever](https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx) | 3:37 |
 | 13 | [Swish](https://open.spotify.com/track/7tHWvdob3PelOqf4b4UPis) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Swish](https://open.spotify.com/album/3qIRFXXqrriQNcRQ0FfZoq) | 2:07 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 155 | [Svart mask](https://open.spotify.com/track/5uGiSx84xBoP8sjGREkMtp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Hemlisar II](https://open.spotify.com/album/1uUtCIhpSjsoYjTPYwRisz) | 2:54 |
 | 156 | [Heals Me](https://open.spotify.com/track/4RvuFElo4Y32QQXeckeEGx) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [Heals Me](https://open.spotify.com/album/3he4BH6RJnEfJZAbw5NgI6) | 4:30 |
 
-Snapshot ID: `AAAAAK+FnvKc+D+i6ykaA2GSgJ3EbBjX`
+Snapshot ID: `AAAAAKKxvYboc/7GQ3ffQZQCp0gK61TG`

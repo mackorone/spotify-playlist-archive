@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Kickin' It Down the Road",
+        "url": "https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1"
+      },
+      "artists": [
+        {
+          "name": "Hickory",
+          "url": "https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288196,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx"
+    },
+    {
+      "album": {
         "name": "Little Flint Lighter",
         "url": "https://open.spotify.com/album/6VpPtIIYiPZjbDuAWWHfdD"
       },

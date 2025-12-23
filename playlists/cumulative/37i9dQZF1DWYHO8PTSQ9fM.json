@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "BOOMX3",
+        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "BOOMX3",
+      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
+    },
+    {
+      "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
@@ -2454,6 +2472,24 @@
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "album": {
+        "name": "Dorororo",
+        "url": "https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br"
+      },
+      "artists": [
+        {
+          "name": "Gustavo 51",
+          "url": "https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY"
+        }
+      ],
+      "date_added": "2025-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Dorororo",
+      "url": "https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e"
     },
     {
       "album": {
@@ -6542,7 +6578,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
@@ -9444,7 +9480,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-23",
       "duration_ms": 150570,
       "name": "Ya Albo",
       "url": "https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd"

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: David Guetta, Teddy Swims, Tones & I",
-  "num_followers": 470715,
+  "num_followers": 470729,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-11-14 15:32:04",
       "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
-    },
-    {
-      "added_at": "2025-11-14 15:32:04",
-      "album": {
         "name": "Lil Boo Thang (Galantis Remix)",
         "url": "https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 129631,
       "name": "Lil Boo Thang - Galantis Remix",
       "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
+    },
+    {
+      "added_at": "2025-11-14 15:32:04",
+      "album": {
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
       "added_at": "2025-11-14 15:32:04",

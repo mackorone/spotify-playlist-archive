@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2894,
+  "num_followers": 2896,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABjsWu8y0mxBPFEJ5629L5F",
+  "snapshot_id": "aUc4gAAAAABaYGLN1wyN/oEWOzCiw+tr",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Over There",
-      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 199114,
       "name": "The Last Men",
       "url": "https://open.spotify.com/track/4uPeLt3BnHdxF9Wd9wjPZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Over There",
+      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 275760,
-      "name": "Meeting Bruce Wayne",
-      "url": "https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y"
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+      "duration_ms": 275760,
+      "name": "Meeting Bruce Wayne",
+      "url": "https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y"
     },
     {
       "added_at": null,
@@ -628,78 +628,6 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 95520,
-      "name": "He Died for All of Us",
-      "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
       "duration_ms": 114647,
       "name": "Dealing With Destruction",
       "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
@@ -719,62 +647,6 @@
       "duration_ms": 181680,
       "name": "Rennur Upp",
       "url": "https://open.spotify.com/track/3aadTYskcptJckrvN1v8lo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last And First Men",
-        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Paul Corley",
-          "url": "https://open.spotify.com/artist/2UWEYphdFL39QM1jhXA527"
-        },
-        {
-          "name": "Robert Aiki Aubrey Lowe",
-          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 227836,
-      "name": "A Move to Neptune",
-      "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4kvsPjFkVAyLMCLuYo3Bke"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Hedda Cast",
-          "url": "https://open.spotify.com/artist/37RhMDib5XoGxV0dfEMtp1"
-        }
-      ],
-      "duration_ms": 88624,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/2BDpA0OUiL3GWODuKQxmDo"
     },
     {
       "added_at": null,
@@ -811,6 +683,54 @@
       "duration_ms": 215520,
       "name": "Ser\u00eda",
       "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
     },
     {
       "added_at": null,
@@ -867,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hedda (Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4kvsPjFkVAyLMCLuYo3Bke"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Hedda Cast",
+          "url": "https://open.spotify.com/artist/37RhMDib5XoGxV0dfEMtp1"
+        }
+      ],
+      "duration_ms": 88624,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/2BDpA0OUiL3GWODuKQxmDo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "F\u00f3lk f\u00e6r andlit",
         "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
       },
@@ -879,6 +819,66 @@
       "duration_ms": 313150,
       "name": "F\u00f3lk f\u00e6r andlit",
       "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 95520,
+      "name": "He Died for All of Us",
+      "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Paul Corley",
+          "url": "https://open.spotify.com/artist/2UWEYphdFL39QM1jhXA527"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "duration_ms": 227836,
+      "name": "A Move to Neptune",
+      "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
     },
     {
       "added_at": null,
@@ -923,38 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last And First Men",
-        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Robert Aiki Aubrey Lowe",
-          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 155374,
-      "name": "Prelude",
-      "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda II",
         "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 238973,
       "name": "The Sound of Snow",
       "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "duration_ms": 155374,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
     },
     {
       "added_at": null,

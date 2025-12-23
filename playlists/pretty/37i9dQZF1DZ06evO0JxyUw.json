@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 276208,
+  "num_followers": 276218,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAACNFiRT7YEErZnE9dzFA8ac",
+  "snapshot_id": "aUc4gAAAAADdzMIcjrbhOB/1dye59O7E",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 120453,
+      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 289200,
       "name": "Si No Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/2tN1wKPCuQ6xO2sBTQDf1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 120453,
-      "name": "Tough Lover - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/3W3BHalLp288TxkZN1uPRd"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 244933,
-      "name": "Por Siempre T\u00fa",
-      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burlesque Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
       },
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Por Siempre T\u00fa",
+      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mulan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
       },
@@ -731,6 +731,54 @@
       "duration_ms": 166199,
       "name": "Loyal Brave True",
       "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Learning To Fly",
+        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 176941,
+      "name": "Learning To Fly",
+      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bionic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 257252,
+      "name": "You Lost Me",
+      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
     },
     {
       "added_at": null,
@@ -759,54 +807,6 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bionic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 257252,
-      "name": "You Lost Me",
-      "url": "https://open.spotify.com/track/1maOjghpUSvVHj9F9WPujZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "But I Am A Good Girl - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/2K5W4FicHhKQ9xMSl1MZX2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learning To Fly",
-        "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 176941,
-      "name": "Learning To Fly",
-      "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haunted Heart",
-        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 166974,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Press Play",
         "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 246146,
       "name": "Tell Me (feat. Christina Aguilera)",
       "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haunted Heart",
+        "url": "https://open.spotify.com/album/4Qe5hKn7JNQ55cBCMhQCUC"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 166974,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7qcanNUZ2M1kfBPuzHHVgj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 537 likes - 97 songs - 5 hr 53 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 550 likes - 104 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,12 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 95 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 |
 | 96 | [SOUP](https://open.spotify.com/track/61Kf8AcZVzt4DKcmCSL67F) | [Felix Rice](https://open.spotify.com/artist/7nhM2WgCUKLEgvLS520BaQ) | [SOUP](https://open.spotify.com/album/4ZEjgFMkrNjQD3pzTiPyVx) | 2:33 |
 | 97 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 |
+| 98 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 |
+| 99 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 |
+| 100 | [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 |
+| 101 | [Whiskey Breath](https://open.spotify.com/track/4MrUSgnIRXGvPWnRYCzTXC) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:03 |
+| 102 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 |
+| 103 | [I Scream at the Sky](https://open.spotify.com/track/0CLp865LeLrvTR4a5baLZe) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [I Scream at the Sky](https://open.spotify.com/album/5hmEYrCwecUfQUKhz3820H) | 2:06 |
+| 104 | [Ashes in the wind](https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY) | [Alexis Da Rosa](https://open.spotify.com/artist/4wnSCrGwzRBlUpFnFctHAL) | [Ashes in the wind](https://open.spotify.com/album/7frKrYvBpn45Pkt0lrQ7Uz) | 3:07 |
 
-Snapshot ID: `AAAEOW1flKKpX3PV2301fCKsPcDslNzx`
+Snapshot ID: `AAAEQLm6n1r5eXt/ai42DMYDTkE6RdqV`

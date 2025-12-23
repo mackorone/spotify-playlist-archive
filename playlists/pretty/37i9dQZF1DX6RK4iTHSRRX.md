@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,997 likes - 81 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,387 likes - 81 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 5 | [We Wish You A Merry Christmas](https://open.spotify.com/track/1qdYOwnoXdWJJFNSRSRkZT) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [We Wish You A Merry Christmas](https://open.spotify.com/album/6wd1lVSwuy1vV5WvrONGGR) | 1:28 |
 | 6 | [O Come All Ye Faithful](https://open.spotify.com/track/2YahtbkRZgJca59Zwynzhb) | [Lewis Knight](https://open.spotify.com/artist/7gLoi2AS98NhhbhJBxd3bn) | [O Come All Ye Faithful](https://open.spotify.com/album/1aSRGQmhjPwBUAijeLCaXV) | 2:52 |
 | 7 | [White Christmas](https://open.spotify.com/track/2RTvegdv7A79tqC8FLmgOn) | [Patrick Leon](https://open.spotify.com/artist/7EU9C8bv0IKb2lRUxzhAXO) | [White Christmas](https://open.spotify.com/album/2ji6NjJQjc56GhF9s8TlOG) | 2:24 |
-| 8 | [Feliz Navidad](https://open.spotify.com/track/5IHQrWbmD7w75yUaWB3A8k) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Feliz Navidad](https://open.spotify.com/album/5gByMQ7J4bjCXjZ3HuCwZJ) | 2:24 |
+| 8 | [Oh Christmas Tree](https://open.spotify.com/track/74tw0bOTkQxx8VcUcEz9ec) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Oh Christmas Tree](https://open.spotify.com/album/3YlVYVVYDgVSr3GxGzvs50) | 1:42 |
 | 9 | [O Holy Night \(Arr\. Lawson for Guitar & Cello\)](https://open.spotify.com/track/3KKqkkafvvknSHkQWckXe5) | [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM), [Zara Hudson\-Kozdoj](https://open.spotify.com/artist/3jgKHHxYf7tw8Y6E61Lygb) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 4:27 |
-| 10 | [Oh Christmas Tree](https://open.spotify.com/track/74tw0bOTkQxx8VcUcEz9ec) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Oh Christmas Tree](https://open.spotify.com/album/3YlVYVVYDgVSr3GxGzvs50) | 1:42 |
+| 10 | [Feliz Navidad](https://open.spotify.com/track/5IHQrWbmD7w75yUaWB3A8k) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Feliz Navidad](https://open.spotify.com/album/5gByMQ7J4bjCXjZ3HuCwZJ) | 2:24 |
 | 11 | [Ding Dong Merrily on High](https://open.spotify.com/track/6zMioPSHDwfVYw3jHwzZTz) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Ding Dong Merrily on High](https://open.spotify.com/album/7CHkaSKtPnXZUYuI7ArHWV) | 3:10 |
 | 12 | [Joy to the World](https://open.spotify.com/track/6p6gbPIxs7InjEt1BGweId) | [Rufus Mist](https://open.spotify.com/artist/7438NwLw95eY9vkeTCHzZP) | [Home for the Holidays](https://open.spotify.com/album/3aWKwGJtMRBdBOyfQlu16c) | 1:51 |
 | 13 | [Good King Wenceslas](https://open.spotify.com/track/6ty3J66kEiyDknNn5RTeeL) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Good King Wenceslas](https://open.spotify.com/album/31Rkw8947cqBHPapXQkuaP) | 2:11 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RK4iTHSRRX.md) - [plain]
 | 80 | [The Chipmunk Song \(Christmas Don't Be Late\) \[Instrumental Version\]](https://open.spotify.com/track/5EVvYH2ockerMq5ric8BT5) | [Acoustic Guitar Songs,Classical Guitar Masters & Classical Christmas Music](https://open.spotify.com/artist/5XdbiV13oxsZNUdwgXZnhn), [Christmas Hits,Christmas Songs & Christmas](https://open.spotify.com/artist/5q54Ivn39BGY46s48SsktP), [Instrumental Christmas Music](https://open.spotify.com/artist/6BE55tLQQGp0TeQpicxL1P) | [It's the Most Wonderful Time of the Year \- Christmas Guitar](https://open.spotify.com/album/4rHmFEhmly9U7FAV7GLsmp) | 2:21 |
 | 81 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 |
 
-Snapshot ID: `AAAAAB3KnWQbb9IhfopCsiACFgWfpwsl`
+Snapshot ID: `AAAAAADk38zd26IPRiWhIfBWiwiDl29t`

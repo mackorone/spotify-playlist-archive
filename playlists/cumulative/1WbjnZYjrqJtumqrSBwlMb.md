@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,244 songs - 3 day 4 hr 12 min
+1,245 songs - 3 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Intro](https://open.spotify.com/track/4Tqro5z3Uj9cDOWKOPaqMD) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 1:22 | 2023-03-23 |  |
 | [introvert](https://open.spotify.com/track/0uOgY7Q90XkqibGImcnAER) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 6:14 | 2024-04-13 |  |
 | [Invited](https://open.spotify.com/track/6pFVxZ67ktMSxDx8Z3EPNN) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 2:41 | 2022-06-05 |  |
+| [Irish](https://open.spotify.com/track/4X5p1DUnLczYBBMXeAV0yb) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:13 | 2025-12-23 |  |
 | [iRobot](https://open.spotify.com/track/0BcaPJXzQf0uU8XeXdvvgd) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:28 | 2022-05-06 |  |
 | [Is It True](https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:59 | 2020-02-13 |  |
 | [Is That All It Takes](https://open.spotify.com/track/0YEKrjkGcRfpieqBI0K7nB) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 0:20 | 2022-09-18 |  |

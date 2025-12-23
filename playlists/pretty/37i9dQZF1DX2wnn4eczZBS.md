@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,062 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,064 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 41 | [Brighton Beach](https://open.spotify.com/track/4UMtmH4uu5nWW56YJ6FXXv) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Brighton Beach](https://open.spotify.com/album/1kov0KbGPkhNMyDuE6gH9Z) | 2:47 |
 | 42 | [In De Steek](https://open.spotify.com/track/2PxSFsy3GGJzLDPF4cVkDj) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [In De Steek](https://open.spotify.com/album/2Jvbvn7AR50xO9qSSIrkNw) | 2:48 |
 | 43 | [Leonie](https://open.spotify.com/track/2HNMx0HXsZRbOMzaCGh3dP) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Leonie](https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS) | 3:16 |
-| 44 | [De zon](https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY) | [De zon](https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs) | 2:43 |
-| 45 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
+| 44 | [narcose](https://open.spotify.com/track/2im7VTECz19mDtYI5NkVg6) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [narcose](https://open.spotify.com/album/41ptO0ldtOqretw3ZE7RHa) | 2:53 |
+| 45 | [De zon](https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf) | [Willem Ardui](https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY) | [De zon](https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs) | 2:43 |
 | 46 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |
 | 47 | [VOL v2.025](https://open.spotify.com/track/61pq3uXW7ybCgWxBi4iAGY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [v2.025](https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ) | 3:31 |
 | 48 | [Niemand](https://open.spotify.com/track/5jfxlasIpoa3S2ESVGBMf9) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Niemand](https://open.spotify.com/album/0aJyQTMQlS5WnPojUxBjcE) | 2:24 |
-| 49 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
-| 50 | [Levelen](https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [Levelen](https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh) | 4:08 |
+| 49 | [Levelen](https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [Levelen](https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh) | 4:08 |
+| 50 | [Spijt Is Iets Voor Later](https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Spijt Is Iets Voor Later](https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8) | 3:09 |
 
 Snapshot ID: `AAAAAAS+khRfOHw+M6hE65tpllD0Vs/H`

@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 72 | [Crazytown](https://open.spotify.com/track/0uk6WOSXXyN5KKtWoJWfoi) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/7cDFFy8X4ZgsBbQZeT6aUa) | 3:22 |
 | 73 | [Looking Over My Shoulder](https://open.spotify.com/track/6cKVs98HYwa4yNqx8I6lFT) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:17 |
 | 74 | [No More Crying](https://open.spotify.com/track/1wUpTyNv2aA4r8TR3RIviG) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:21 |
-| 75 | [Stranger Into Starman](https://open.spotify.com/track/1jPcZgXUJv2ZecGF4sGacr) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 1:31 |
-| 76 | [Calling On Mary](https://open.spotify.com/track/6p3ALSuvSRnUyNSplcRdAc) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [One More Drifter in the Snow](https://open.spotify.com/album/5xz5Pn0zSIvDRaWPrgfFcg) | 4:02 |
+| 75 | [Calling On Mary](https://open.spotify.com/track/6p3ALSuvSRnUyNSplcRdAc) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [One More Drifter in the Snow](https://open.spotify.com/album/5xz5Pn0zSIvDRaWPrgfFcg) | 4:02 |
+| 76 | [Stranger Into Starman](https://open.spotify.com/track/1jPcZgXUJv2ZecGF4sGacr) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers \(Deluxe\)](https://open.spotify.com/album/4UV5lFYjLb2fRBxBhK0wPy) | 1:31 |
 | 77 | [Dear John](https://open.spotify.com/track/1rMxJoNRsISEMuneh9Znz0) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/55HdXJwG0d9iMaXgPrGmOg) | 3:07 |
 | 78 | [On Sunday](https://open.spotify.com/track/6dF9Wo5OZCt3XSftms3kly) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:07 |
 | 79 | [Video](https://open.spotify.com/track/54NqcWLY90zwlaUOJFoP1i) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:35 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `AcE2UgAAAABd0OXkBSUrcuwrjog+pua8`
+Snapshot ID: `AcE8BgAAAAA1GPTqh9sPyjaoN05esYTa`

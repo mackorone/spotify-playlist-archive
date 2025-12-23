@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,080 songs - 20 day 12 hr 57 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,081 songs - 20 day 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8088,5 +8088,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8078 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
 | 8079 | [velvet bow](https://open.spotify.com/track/2IXbQfC4i173dhtSevaUPL) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [velvet bow](https://open.spotify.com/album/4i2A5j1qkWWzeoA1HC0vG3) | 3:04 |
 | 8080 | [latch](https://open.spotify.com/track/0WfsDFQY3t0nDyWF89QKfe) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:40 |
+| 8081 | [SKIP](https://open.spotify.com/track/7tTaHKjIJCTqkHGCfjUZb9) | [茶太](https://open.spotify.com/artist/4HcONk5wE6XuQ5SD9qAWXK) | [SKIP](https://open.spotify.com/album/5E3UK2FoUm5kGbdnUrDE7Q) | 4:05 |
 
-Snapshot ID: `AAAKD/q+XDC3hUced17gDsPkU212hvEC`
+Snapshot ID: `AAAKEIox1De+GPq1gBTBLxNBFxCgenxq`

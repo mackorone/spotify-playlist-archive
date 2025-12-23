@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: KANGDANIEL\)
 
-1,543 songs - 3 day 10 hr 52 min
+1,544 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1147,6 +1147,7 @@
 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-11-27 | 2022-01-04 |
 | [SASS \(Prod\. THE HUB\)](https://open.spotify.com/track/3i4uRxBpIrI6xb6CHLvh9p) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4GYvM3EbRUpbeen0zCIGaK) | 2:51 | 2025-05-28 | 2025-07-09 |
 | [Satellite](https://open.spotify.com/track/7iD5HEWfQuOS9iC6IaNwu7) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Satellite](https://open.spotify.com/album/1l6LyCeXhE2eyAqHIk73Sj) | 3:44 | 2022-02-17 | 2022-04-18 |
+| [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2025-12-22 |  |
 | [Save](https://open.spotify.com/track/0nW8KgIzm3Q6DCLHUtEHDh) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Save](https://open.spotify.com/album/7HrXypd91EpZ4QswijHnhQ) | 3:21 | 2021-06-08 | 2021-08-05 |
 | [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-21 | 2023-08-26 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-06 | 2024-10-10 |

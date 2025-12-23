@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 63840,
+  "num_followers": 63859,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUXnAAAAAABhUYtmsYnB9IF5Nts+wnP0",
+  "snapshot_id": "aUc4gAAAAACAt3f3n6FA+EPLfjYHU0Ft",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 195228,
-      "name": "They Don\u2019t Make 'Em Like That No More",
-      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
+      "duration_ms": 211738,
+      "name": "Mississippi Or Me",
+      "url": "https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 211738,
-      "name": "Mississippi Or Me",
-      "url": "https://open.spotify.com/track/3FqMZ5dQ4fOCfNhYJQ62oR"
+      "duration_ms": 195228,
+      "name": "They Don\u2019t Make 'Em Like That No More",
+      "url": "https://open.spotify.com/track/0Pc3pfJI8DSdvxZkWneH0D"
     },
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me In Dixie",
-        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 188250,
-      "name": "Bury Me In Dixie",
-      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+      "duration_ms": 197400,
+      "name": "Reel Problems",
+      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+        "name": "Bury Me In Dixie",
+        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 197400,
-      "name": "Reel Problems",
-      "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
+      "duration_ms": 188250,
+      "name": "Bury Me In Dixie",
+      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
     },
     {
       "added_at": null,

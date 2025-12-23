@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: RACH?
 
-5,354 songs - 13 day 15 hr 49 min
+5,355 songs - 13 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Anak Orang Kaya](https://open.spotify.com/track/56Ut4bx6l2tBaTGyphiovt) | [Jay Yen](https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt) | [Anak Orang Kaya](https://open.spotify.com/album/5fLO8CHH8kRTtqeeiXPViA) | 3:38 | 2023-09-28 | 2023-10-20 |
 | [Anatomi Lara](https://open.spotify.com/track/0puV6jUNZ8V0C8RK0lRk0x) | [Raw Theory](https://open.spotify.com/artist/3lAXEJcSh5gsBUwWAc4NQO) | [Peccaterra](https://open.spotify.com/album/74VOQkrL47HotTOfrbQpKX) | 3:49 | 2025-11-28 |  |
 | [Anatomy of Joy](https://open.spotify.com/track/7lgCnB4iYFAqDTzYfi4zcM) | [Visiun](https://open.spotify.com/artist/6qqgKFc4hGR6f3P05uRAmx) | [Tremendous Events in Your Life](https://open.spotify.com/album/1U33VH2MaE1VZrdVqvISSt) | 2:26 | 2023-10-27 | 2023-11-18 |
-| [And You Like It \- Radio Edit](https://open.spotify.com/track/78IStiY5eT9fJ2eYflXdqw) | [HOUSEOFJOY](https://open.spotify.com/artist/4o8IskLiKzSmvoWOjH3f0k) | [And You Like It \(Radio Edit\)](https://open.spotify.com/album/03ULT0e9WPFMO7pb2gl5IB) | 5:44 | 2025-12-11 |  |
+| [And You Like It \- Radio Edit](https://open.spotify.com/track/78IStiY5eT9fJ2eYflXdqw) | [HOUSEOFJOY](https://open.spotify.com/artist/4o8IskLiKzSmvoWOjH3f0k) | [And You Like It \(Radio Edit\)](https://open.spotify.com/album/03ULT0e9WPFMO7pb2gl5IB) | 5:42 | 2025-12-11 |  |
 | [ANDA KATAKAN](https://open.spotify.com/track/562w9oAArQNuj9wtajeO1K) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/0BT0MdbDqzC1K1rYyTyexv) | 2:59 | 2023-04-27 | 2023-04-30 |
 | [ANDA KATAKAN](https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq) | [Melati ESP](https://open.spotify.com/artist/2yHzkL2Cb1qMhEtFeeyr68) | [hipernatural](https://open.spotify.com/album/5PWCeX696MJg6QerDf3UMw) | 2:59 | 2023-04-28 | 2023-05-19 |
 | [Andai](https://open.spotify.com/track/4GEyXePiQT2lNBwNj3EE09) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Andai](https://open.spotify.com/album/1CuEuwNQSntumAotbmV0bk) | 3:55 | 2022-04-14 | 2023-01-13 |
@@ -3264,6 +3264,7 @@
 | [Naked](https://open.spotify.com/track/1aNyDZNhkYMUuXbEKLzfzU) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED), [Adio](https://open.spotify.com/artist/5zUAP6JUd262HPyVF0FTLP) | [Naked](https://open.spotify.com/album/1x4OlLefgrbk0x2tZC7NXZ) | 3:32 | 2023-07-14 | 2023-07-28 |
 | [Naluri](https://open.spotify.com/track/7vupwxb8ZYMTe16imKQWFc) | [Hagara](https://open.spotify.com/artist/1DRzNux7j9lA1FMo8g52o9) | [RAYA](https://open.spotify.com/album/7MfrGUdO4vq80BUzmPKaZd) | 6:29 | 2023-11-17 | 2023-12-01 |
 | [Nammu](https://open.spotify.com/track/0PuQj3E8SCUL9AGBY5zzzn) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [Nammu](https://open.spotify.com/album/0VM7XFt0MCwBhHlsxqBZYU) | 3:14 | 2023-09-07 | 2023-09-23 |
+| [Nanti](https://open.spotify.com/track/5moiXra9Zd84Aoa3e03oZZ) | [Nakei](https://open.spotify.com/artist/6QR5ebgmPLS9iSfBn5Dpns) | [Nanti](https://open.spotify.com/album/0C6p6vyRgKfem2GgxGyjCd) | 3:38 | 2025-12-23 |  |
 | [Nanti](https://open.spotify.com/track/3L47GO1ctvmPHLubrkjq62) | [Sumringah](https://open.spotify.com/artist/47LZoHfRHIToxAVEpWpTgi) | [Nanti](https://open.spotify.com/album/2EvX3xpoGElixhwbc0kG8d) | 4:50 | 2022-04-21 | 2022-05-13 |
 | [NAPI](https://open.spotify.com/track/1HwqsWZSUspKdpDQjLvgzv) | [Snapmyos](https://open.spotify.com/artist/1h8lpbbWB71SzlXOCHCDFJ), [Marthinz BSG](https://open.spotify.com/artist/3fwBQS2JEVmzL7cq8pX7z0) | [NAPI](https://open.spotify.com/album/0zthkAS367LzgwiWxiTm4O) | 3:41 | 2025-01-16 | 2025-02-14 |
 | [Naraka](https://open.spotify.com/track/6DOCsGBPaIU5BYdJ3MdtRj) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq) | [Naraka](https://open.spotify.com/album/34Hi2x1TKagPQZMKAndi9T) | 3:42 | 2024-10-25 | 2024-11-22 |

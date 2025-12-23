@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,334 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,347 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 20 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 21 | [black like you](https://open.spotify.com/track/2idOV3WosDVTO6HKbKEFGl) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [black like you](https://open.spotify.com/album/2PR9Y5Ozd8WaYYI484gukz) | 3:12 |
 | 22 | [Dear Summer](https://open.spotify.com/track/5VkuqayHiiU5ZHyYEH4Oeb) | [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [534](https://open.spotify.com/album/3toLn9BAnrscDsY8PoDLXM) | 2:53 |
-| 23 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 |
-| 24 | [Song Cry](https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:02 |
+| 23 | [Song Cry](https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:02 |
+| 24 | [The Light](https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Like Water For Chocolate](https://open.spotify.com/album/0ZSwTSaR9VUe3uYsXNQgub) | 4:21 |
 | 25 | [Wait for Love](https://open.spotify.com/track/0y2O8TW10Pj3fel0Upqa54) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 5:17 |
 | 26 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 27 | [I Get Out \- Live](https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:17 |

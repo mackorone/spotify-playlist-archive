@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft and contemplative piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,817,735 likes - 183 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,817,623 likes - 183 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 8 | [New](https://open.spotify.com/track/04WArssiYLEtm8cjnc4Aiz) | [Adjoa Bekoe](https://open.spotify.com/artist/0cQsoeN9sMLe32WaCK5PhU) | [New](https://open.spotify.com/album/4bqRhhOBGLfM7wEbhN6JnA) | 2:09 |
 | 9 | [Molto piano](https://open.spotify.com/track/0kkX746BEgDS6Tdi1iLSj9) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Molto piano](https://open.spotify.com/album/3eoqzmAk6oXPnmUuQQ7pFf) | 2:13 |
 | 10 | [I Dreamed of You](https://open.spotify.com/track/3q5PzPbD5IDrAd3GYmyXvY) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [I Dreamed of You](https://open.spotify.com/album/6TCwLDqzhLtvdl57BZzH1C) | 2:42 |
-| 11 | [Forgotten Photographs](https://open.spotify.com/track/4jBBWqTt0BmeFDNmkEffpJ) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Forgotten Photographs](https://open.spotify.com/album/7vHQfVzpqaWSF7d7Zjd0pe) | 2:43 |
-| 12 | [The Spiral Staircase](https://open.spotify.com/track/6G7zgeFrYKMrZMUmH0sJxq) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [The Spiral Staircase](https://open.spotify.com/album/79rReG8Rx4cZoQAFNgErco) | 2:33 |
-| 13 | [Sojourn](https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt) | [Théo Laurent](https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w) | [Sojourn](https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ) | 2:31 |
-| 14 | [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 |
+| 11 | [Sojourn](https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt) | [Théo Laurent](https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w) | [Sojourn](https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ) | 2:31 |
+| 12 | [Whirlwinds of Life](https://open.spotify.com/track/7LWlVCicZ2oYx9ddg0FglR) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Whirlwinds of Life](https://open.spotify.com/album/09PyQ46u4rKCwkgeEb0Rss) | 2:22 |
+| 13 | [Forgotten Photographs](https://open.spotify.com/track/4jBBWqTt0BmeFDNmkEffpJ) | [Francis Monet](https://open.spotify.com/artist/6zeT4iShOpxjaTsKTda1Uu) | [Forgotten Photographs](https://open.spotify.com/album/7vHQfVzpqaWSF7d7Zjd0pe) | 2:43 |
+| 14 | [The Spiral Staircase](https://open.spotify.com/track/6G7zgeFrYKMrZMUmH0sJxq) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [The Spiral Staircase](https://open.spotify.com/album/79rReG8Rx4cZoQAFNgErco) | 2:33 |
 | 15 | [Tenders](https://open.spotify.com/track/7x6biX2PD1iTm6zFRcm3bS) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Tenders](https://open.spotify.com/album/2ZGDJINw3IX3JFQ8kDl7Bv) | 2:31 |
 | 16 | [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 |
 | 17 | [Within](https://open.spotify.com/track/6KXD3ephryJdIbrdo2W0Qz) | [Ash Forrest](https://open.spotify.com/artist/6hoYRcfEHX7qRbBvQpoGCV) | [Within](https://open.spotify.com/album/3M6USxEd7e5wtLuDeBNOAF) | 2:14 |
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 182 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 |
 | 183 | [Thirst](https://open.spotify.com/track/6C1203q8GhYKuu2U6Qqpnp) | [Tales of Vibrations](https://open.spotify.com/artist/0Sxja6JbepbdS1Dw2nMDeG) | [Thirst](https://open.spotify.com/album/7KeiTF4P3CdFZyO13kfWSk) | 2:37 |
 
-Snapshot ID: `AAAAAHzu91J9kwHlEoUyrWi/jXh1ofvd`
+Snapshot ID: `AAAAAMzjXGuPN8QoyFRk/I4I9grWQr8w`

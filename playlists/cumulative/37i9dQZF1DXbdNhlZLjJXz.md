@@ -4,11 +4,10 @@
 
 > you got a sports car?  Tate McRae at the VMAs
 
-331 songs - 17 hr 57 min
+331 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/6BwWW3DNze0gEjetSx5vJ8) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1EHRwnytbAt7i6WXsnNkAP) | 0:00 | 2025-08-15 |  |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2023-12-26 | 2024-09-07 |
 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 | 2023-12-26 | 2024-06-29 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2024-05-14 |  |
@@ -38,6 +37,7 @@
 | [Bad Liar](https://open.spotify.com/track/2fZQIJew3nkNe99s2PKzul) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Bad Liar](https://open.spotify.com/album/1iuzMKNzVo8HJ67eW32YMr) | 3:34 | 2023-02-02 | 2023-07-07 |
 | [Bang Bang](https://open.spotify.com/track/7zrYKlgYQv1ELz7LGyjTd1) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bang Bang](https://open.spotify.com/album/64BkZx3UGRbTlF3VUMxUCi) | 3:19 | 2024-09-06 | 2025-08-16 |
 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 | 2023-02-02 | 2024-04-19 |
+| [Bathroom Bitch](https://open.spotify.com/track/6BwWW3DNze0gEjetSx5vJ8) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [Bathroom Bitch](https://open.spotify.com/album/1EHRwnytbAt7i6WXsnNkAP) | 2:49 | 2025-08-15 |  |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2025-08-08 |  |
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2023-07-06 |  |
 | [BedRock](https://open.spotify.com/track/3iL2l5gUqyPS6vDwJFgJTR) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [We Are Young Money](https://open.spotify.com/album/0hDy52fqKwb2ZIjyNXGxan) | 4:48 | 2022-01-12 | 2023-02-03 |
